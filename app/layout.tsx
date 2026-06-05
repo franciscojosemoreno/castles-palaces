@@ -24,6 +24,9 @@ export const metadata: Metadata = {
   description:
     'Explore the most beautiful castles and palaces in Europe. Visitor guides, tours, tickets and itineraries for France, Germany, Scotland, Spain and more.',
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? 'https://castlespalaces.com'),
+  verification: {
+    google: 'jA2ee_QwF3XrmJ8sTKverxCBHqAOcOgxlIEL0WrlksA',
+  },
   openGraph: {
     siteName: 'Castles & Palaces',
     type: 'website',
