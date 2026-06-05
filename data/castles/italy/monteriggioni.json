@@ -1,0 +1,82 @@
+{
+  "id": "monteriggioni",
+  "name": "Monteriggioni Walled Town",
+  "local_name": "Monteriggioni",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "italy",
+  "region": "Tuscany, Siena",
+  "nearest_city": "Siena",
+  "address": "Piazza Roma 1, 53035 Monteriggioni SI, Italy",
+  "lat": 43.3914,
+  "lng": 11.2222,
+  "unesco": false,
+  "year_built": 1213,
+  "architectural_style": "Medieval Tuscan",
+  "opening_hours": {
+    "monday": "09:00–19:30",
+    "tuesday": "09:00–19:30",
+    "wednesday": "09:00–19:30",
+    "thursday": "09:00–19:30",
+    "friday": "09:00–19:30",
+    "saturday": "09:00–19:30",
+    "sunday": "09:00–19:30",
+    "seasonal_note": "Wall walk open daily April to October 09:00–19:30; shorter hours in winter. The village is freely accessible at all times."
+  },
+  "price_adult": 5,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.monteriggioniturismo.it",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "March to October",
+  "accessibility": "Partially accessible — village interior flat; wall walk has steps",
+  "booking_advance_days": 0,
+  "tagline": "Dante's tower-crowned crown — the most perfect medieval ring fortress in Tuscany",
+  "highlights": [
+    "Complete 13th-century ring wall with 14 towers, intact for 800 years",
+    "Immortalised by Dante in the Inferno — the towers compared to giants",
+    "Perfectly preserved Sienese frontier fortress on a Tuscan hilltop",
+    "On the Via Francigena medieval pilgrimage route to Rome",
+    "Tiny village with two churches and authentic Sienese atmosphere"
+  ],
+  "description": "Monteriggioni is one of the most perfectly preserved medieval fortified villages in Europe — a complete ring of 13th-century walls with 14 towers crowning a low hilltop above the Tuscan countryside between Florence and Siena. Built by the Republic of Siena from 1213 as a frontier stronghold against Florence, the walls have remained essentially unchanged for 800 years. Dante Alighieri, who may have seen the castle on his travels, immortalised it in the Inferno (Canto XXXI), comparing its tower-lined crown to a ring of giants. The walls are walkable, offering views over rolling Chianti hills and cypresses. Inside, a tiny village of a few hundred souls preserves two Romanesque churches, a handful of restaurants, and authentic Sienese atmosphere free from the mass tourism of larger Tuscan towns.",
+  "history": "Construction began in 1213 on the orders of the Republic of Siena as a defensive bulwark against its rival Florence. The fortress was expanded between 1260 and 1270 after Siena's great victory at Montaperti. It was captured by Florence in 1554 when a Sienese garrison commander was bribed into surrendering. Under Florentine and later Medici rule the military importance declined, preserving the medieval character intact. The village was designated a site of national importance and the walls were carefully restored in the 20th century.",
+  "how_to_visit": "Monteriggioni is 15 km north of Siena on the SS2 Via Cassia. Buses run from Siena (Piazza Gramsci) roughly hourly (30 min). By car it is easily combined with Siena and the Chianti wine route. The village lies directly on the Via Francigena pilgrimage route; walkers on this medieval path from Canterbury to Rome pass through the walls.",
+  "faqs": [
+    {
+      "question": "What did Dante say about Monteriggioni?",
+      "answer": "In Canto XXXI of the Inferno, Dante compares the giant figures visible from the edge of a pit to the towers of Monteriggioni ringing its walls — one of medieval literature's most vivid architectural images."
+    },
+    {
+      "question": "Can I walk on the walls?",
+      "answer": "Yes — a section of the walls is open for walking, offering views over the Tuscan countryside. Access requires a small fee."
+    },
+    {
+      "question": "Is there a good restaurant inside the walls?",
+      "answer": "Yes — the village has several good Sienese trattorias inside the walls serving local pasta, wild boar, and Chianti wines in a medieval setting."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/monteriggioni.webp",
+    "alt": "Monteriggioni's medieval ring wall and towers on a Tuscan hilltop near Siena",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/monteriggioni.webp",
+  "instagram_tag": "#monteriggioni",
+  "meta_title": "Monteriggioni, Tuscany — Dante's Perfect Medieval Ring Fortress",
+  "meta_description": "Visit Monteriggioni in Tuscany — a perfectly intact 13th-century walled village immortalised by Dante, with 14 towers rising above the Chianti hills near Siena.",
+  "tags": ["medieval", "italian-castle", "tuscany", "walled-village", "via-francigena"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["san-giusto-castle"],
+  "gyg_location_id": "2516",
+  "gyg_search_query": "Monteriggioni walled village tour from Siena",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

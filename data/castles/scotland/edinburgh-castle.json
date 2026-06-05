@@ -1,0 +1,102 @@
+{
+  "id": "edinburgh-castle",
+  "name": "Edinburgh Castle",
+  "local_name": "Caisteal Dhùn Èideann",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 600000,
+  "country": "scotland",
+  "region": "Central Scotland",
+  "nearest_city": "Edinburgh",
+  "address": "Castlehill, Edinburgh EH1 2NG, Scotland",
+  "lat": 55.9486,
+  "lng": -3.1999,
+  "unesco": false,
+  "year_built": 1103,
+  "architectural_style": "Medieval fortress — multiple additions from 12th to 20th century",
+  "opening_hours": {
+    "monday": "09:30–18:00",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "Apr–Sep: 09:30–18:00. Oct–Mar: 09:30–17:00. Last entry 1 hour before closing. Closed Christmas Day."
+  },
+  "price_adult": 22,
+  "price_child": 13,
+  "booking_required": false,
+  "official_tickets_url": "https://www.edinburghcastle.scot/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May and September — milder weather, good light for photography and avoiding August Festival crowds",
+  "accessibility": "Significant gradients and cobblestones throughout. Accessible route available covering main highlights. Contact the castle in advance for detailed access information.",
+  "booking_advance_days": 7,
+  "tagline": "Scotland's most iconic fortress, perched on an ancient volcano above the Old Town",
+  "highlights": [
+    "The Scottish Crown Jewels and the Stone of Destiny — the coronation stone of Scottish kings",
+    "The One O'Clock Gun fires every day except Sunday since 1861 — a working tradition",
+    "Mons Meg, a 15th-century cannon so large it had to be transported in pieces from Belgium",
+    "St. Margaret's Chapel — the oldest surviving building in Edinburgh, built around 1130",
+    "Panoramic views of Edinburgh, the Firth of Forth and, on clear days, the Highlands"
+  ],
+  "description": "Edinburgh Castle sits on Castle Rock — an ancient volcanic plug rising 135 metres above the city — and has dominated the Scottish capital for over a thousand years. The castle is simultaneously a fortress, a royal palace, a prison, a military barracks and Scotland's most visited paid attraction: a compressed version of Scottish history in which every wall, courtyard and cannon has a story.\n\nThe approach from the Royal Mile is theatrical by design. The gatehouse, rebuilt in the 19th century in a deliberately imposing style, frames statues of Robert the Bruce and William Wallace — Scotland's two great symbols of independence — staring down the esplanade where the famous Military Tattoo is held each August. Beyond the gate, the castle climbs through a series of courts and batteries to the highest point, Crown Square, where the four most important buildings cluster: the Royal Palace, the Great Hall, St. Margaret's Chapel and the Scottish National War Memorial.\n\nThe Scottish Honours — crown, sceptre and sword of state — are displayed in the Crown Room of the Royal Palace, alongside the Stone of Destiny, the sandstone block on which Scottish (and later English and British) monarchs were crowned for centuries. Edward I stole the Stone in 1296; it was returned to Scotland in 1996 and will travel to Westminster Abbey for future coronations under a formal agreement.\n\nEvery day at precisely 13:00 (except Sunday), the One O'Clock Gun fires from the Half Moon Battery — a tradition started in 1861 to help ships in the Firth of Forth set their navigational instruments, now continued as one of Edinburgh's most startling and beloved rituals.",
+  "history": "Castle Rock has been inhabited since at least the Iron Age, when its near-impregnable natural fortifications made it an obvious site for settlement. The first recorded fortification dates from the early 12th century: St. Margaret's Chapel, built around 1130 by David I in memory of his mother Margaret (later canonised), is the oldest surviving building in Edinburgh and one of the oldest in Scotland.\n\nThe castle's history is largely a chronicle of sieges, changes of ownership and political symbolism. It fell to English forces under Edward I in 1296, was retaken by the Scots in 1313 when Thomas Randolph led his men up the rock face under cover of darkness, and changed hands repeatedly during the Wars of Independence. Mary Queen of Scots gave birth to the future James VI of Scotland (and James I of England) in a small room in the castle in 1566, a fact that determined the succession of the British throne.\n\nThe Lang Siege of 1571–73 was the castle's longest, when a Marian garrison held out for two years against the forces of the infant James VI's regency government, finally surrendering only after an English artillery bombardment destroyed much of the medieval structure. The Half Moon Battery, built over the ruins of the destroyed towers, still dominates the castle's profile today.\n\nIn the 19th century, a romantic revival of Scottish history — driven partly by Sir Walter Scott's enormous cultural influence — led to the rediscovery of the Scottish Honours, which had been locked in a chest since 1707, and to major restoration and rebuilding of the castle's gatehouse and outer defences in a more dramatically 'Scottish' style. The Scottish National War Memorial, added in 1927 in the shell of a former barracks, is considered one of the finest First World War memorials in the world.",
+  "how_to_visit": "**Getting there:** Edinburgh Castle is at the top of the Royal Mile in the Old Town, a 20-minute walk from Edinburgh Waverley railway station or 10 minutes from Princes Street. Trams from Edinburgh Airport stop at Princes Street (30 min, £8). No parking at the castle — Edinburgh is a walkable city from any central accommodation.\n\n**Tickets:** Buy online in advance, especially in summer. Adult tickets (£22) include access to all areas. A free audio guide app is available. Allow time at the ticket office even with pre-booked tickets, as entry queues form on busy days.\n\n**The One O'Clock Gun:** Fires from the Half Moon Battery every day except Sunday at exactly 13:00. It's louder than most visitors expect — if you're near the battery when it fires, brace yourself. The attendant soldier explains the gun's history before firing.\n\n**Photography tips:** The best external photos of the castle are from the National Gallery gardens on Princes Street (castle above the gardens) or from Calton Hill (castle profile against the Old Town skyline). For views from the castle, the Half Moon Battery and the Argyle Battery give the best panoramas over the city.\n\n**Combine with:** The Royal Mile connects the Castle to the Palace of Holyroodhouse at the bottom of the hill (the official Scottish residence of the monarch). Walking the full length — about 1.5km — with stops at St. Giles' Cathedral, the Real Mary King's Close underground experience, and the John Knox House takes 3–4 hours and gives a complete picture of Edinburgh's old town.",
+  "faqs": [
+    {
+      "question": "What is the Stone of Destiny and why is it at Edinburgh Castle?",
+      "answer": "The Stone of Destiny (also called the Stone of Scone) is a plain block of red sandstone on which Scottish kings were crowned for centuries at Scone Palace. Edward I of England removed it to Westminster Abbey in 1296 as a symbol of conquest — it sat under the Coronation Chair there for 700 years, used in every English and British coronation. In 1996 it was formally returned to Scotland and placed in Edinburgh Castle, with the condition that it returns to Westminster for future coronations, which it did for King Charles III's coronation in 2023."
+    },
+    {
+      "question": "When does the One O'Clock Gun fire at Edinburgh Castle?",
+      "answer": "Every day except Sunday, at precisely 13:00, a 105mm artillery gun fires from the Half Moon Battery. The tradition began in 1861 to help ships in the Firth of Forth check their chronometers, which they needed to calculate longitude at sea. Today it continues as a living tradition — one of the few working time guns in the world. The gun is extremely loud and surprises unprepared visitors. The castle provides safety earplugs on request."
+    },
+    {
+      "question": "Can I visit Edinburgh Castle without a ticket?",
+      "answer": "You can walk up Castle Esplanade (the forecourt used for the Military Tattoo) for free. The gatehouse and all castle interiors require a paid ticket. There is no free section of the castle itself beyond the esplanade."
+    },
+    {
+      "question": "What is the best time to visit Edinburgh Castle?",
+      "answer": "Open at 09:30 on a weekday is quietest. August is extremely busy due to the Edinburgh Festival and Military Tattoo — avoid if you dislike crowds. May, June and September offer the best balance of weather, light and manageable visitor numbers. Winter visits can be atmospheric and significantly quieter, though the weather is cold and often wet."
+    },
+    {
+      "question": "How do I see the Edinburgh Military Tattoo?",
+      "answer": "The Royal Edinburgh Military Tattoo runs every August on the castle esplanade and is one of the world's most famous outdoor performance events, featuring massed pipe bands, military displays and international performers. Tickets must be booked months in advance and sell out completely every year. Book at edinburgh-tattoo.co.uk from January for the following August."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/edinburgh-castle.webp",
+    "alt": "Edinburgh Castle on Castle Rock at dusk, lit against a dramatic purple sky above the city rooftops",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/edinburgh-castle.webp",
+  "instagram_tag": "#edinburghcastle",
+  "meta_title": "Edinburgh Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Edinburgh Castle — home of the Scottish Crown Jewels and Stone of Destiny. Buy tickets, hear the One O'Clock Gun and explore 1,000 years of Scottish history.",
+  "tags": [
+    "medieval",
+    "royal-residence",
+    "dramatic",
+    "instagram-worthy",
+    "family-friendly"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "scottish-highlands-castles"
+  ],
+  "nearby_castles": [
+    "stirling-castle",
+    "eilean-donan-castle",
+    "doune-castle"
+  ],
+  "gyg_location_id": "44",
+  "gyg_search_query": "Edinburgh Castle guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

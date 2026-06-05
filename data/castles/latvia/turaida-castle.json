@@ -1,0 +1,82 @@
+{
+  "id": "turaida-castle",
+  "name": "Turaida Castle",
+  "local_name": "Turaidas pils",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 200000,
+  "country": "latvia",
+  "region": "Vidzeme, Gauja National Park",
+  "nearest_city": "Sigulda",
+  "address": "Turaidas iela 10, Sigulda, LV-2150, Latvia",
+  "lat": 57.1971,
+  "lng": 24.8611,
+  "unesco": false,
+  "year_built": 1214,
+  "architectural_style": "Livonian brick Gothic",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Extended to 19:00 May to October. Park grounds open daily from dawn to dusk."
+  },
+  "price_adult": 7,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.turaida-muzejs.lv",
+  "visit_duration": "2 hours",
+  "best_season": "May to October",
+  "accessibility": "Partially accessible — main courtyard and museum accessible; tower climb involves stairs",
+  "booking_advance_days": 0,
+  "tagline": "Latvia's iconic red-brick castle rising above the Gauja valley gorge",
+  "highlights": [
+    "Latvia's most recognisable castle and a national symbol",
+    "Restored round tower with panoramic views over the Gauja valley",
+    "Open-air Turaida Museum Reserve covering castle, estate, and folk sculpture garden",
+    "Grave of the Rose of Turaida — Latvia's most famous romantic legend",
+    "Beautiful forest setting within Gauja National Park"
+  ],
+  "description": "Turaida Castle is Latvia's most recognisable medieval monument — a striking ensemble of red-brick towers rising from a forested cliff above the Gauja River gorge, enclosed within the protected landscape of Gauja National Park. Built by the Archbishop of Riga from 1214 on the site of a Livonian hill fort, the castle served as an ecclesiastical administrative centre for three centuries. Today it forms the centrepiece of the Turaida Museum Reserve, an extensive open-air complex covering the castle ruins and restored towers, a 19th-century estate, a folk sculpture garden, and the grave of the 'Rose of Turaida' — Maija, a young woman of local legend who died in 1620 rather than betray her betrothed, becoming Latvia's most celebrated romantic heroine. The main tower, fully restored, offers exceptional views over the river gorge and forests.",
+  "history": "Built from 1214 by Archbishop Albert of Riga on the site of the Liv tribal fort of Turaida, the castle served as the administrative centre of the Archbishop's Latvian territories for over three centuries. It was badly damaged by lightning and fire in 1776 and abandoned. Archaeological excavation and restoration began in the Soviet period, with major works in the 1970s–1980s restoring the main tower. The surrounding estate and grounds were developed into the Turaida Museum Reserve in the 1980s–1990s.",
+  "how_to_visit": "Turaida Castle is in Sigulda, 50 km from Riga. Take a train from Riga to Sigulda (1 hour), then walk 4 km through the Gauja valley gorge to the castle, or take a taxi. The gorge walk from Sigulda to Turaida passes Gutmanis Cave (the largest cave in the Baltic states). Combine with Sigulda Castle and Krimulda Manor on the same valley excursion.",
+  "faqs": [
+    {
+      "question": "Who was the Rose of Turaida?",
+      "answer": "Maija, an orphan raised at Turaida Castle, became the subject of Latvia's most famous romantic legend after her death in 1620. Her grave in the castle grounds is visited as a monument to fidelity."
+    },
+    {
+      "question": "What is the Turaida Museum Reserve?",
+      "answer": "It is a large open-air heritage site surrounding the castle, including a 19th-century estate, folk sculpture garden, and historical exhibitions spread across the forested grounds."
+    },
+    {
+      "question": "Can I walk from Sigulda to Turaida?",
+      "answer": "Yes — the 4 km forest path through the Gauja gorge, passing Gutmanis Cave, is one of Latvia's most popular walking routes."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/turaida-castle.webp",
+    "alt": "Turaida Castle red-brick towers rising above the Gauja valley forest in Latvia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/turaida-castle.webp",
+  "instagram_tag": "#turaidascastle",
+  "meta_title": "Turaida Castle, Latvia — Medieval Fortress in the Gauja National Park",
+  "meta_description": "Visit Turaida Castle in Sigulda — Latvia's most iconic medieval fortress set in a river gorge, with the Rose of Turaida legend and panoramic valley views.",
+  "tags": ["medieval", "livonian", "latvian-castle", "gauja", "national-park"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["cesis-castle", "sigulda-castle"],
+  "gyg_location_id": "2600",
+  "gyg_search_query": "Turaida castle Sigulda tour from Riga",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,86 @@
+{
+  "id": "eltz-castle",
+  "name": "Eltz Castle",
+  "local_name": "Burg Eltz",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 200000,
+  "country": "germany",
+  "region": "Rhineland-Palatinate",
+  "nearest_city": "Cochem",
+  "address": "Burg Eltz 1, 56294 Münstermaifeld, Germany",
+  "lat": 50.2027,
+  "lng": 7.3367,
+  "unesco": false,
+  "year_built": 1157,
+  "architectural_style": "Medieval — Romanesque origins, Gothic and Renaissance towers, eight clans' residences merged into one complex",
+  "opening_hours": {
+    "monday": "09:30–17:30",
+    "tuesday": "09:30–17:30",
+    "wednesday": "09:30–17:30",
+    "thursday": "09:30–17:30",
+    "friday": "09:30–17:30",
+    "saturday": "09:30–17:30",
+    "sunday": "09:30–17:30",
+    "seasonal_note": "Open daily Apr 1 – Nov 1: 09:30–17:30. Closed in winter (Nov–Mar). Check website for exact dates."
+  },
+  "price_adult": 14,
+  "price_child": 10,
+  "booking_required": false,
+  "official_tickets_url": "https://www.burg-eltz.de/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to October — forest approaches are green, morning mist gives the most atmospheric views",
+  "accessibility": "The approach is a 15-minute walk through forest (or shuttle bus). Inside, significant steps and narrow passages — not suitable for limited mobility.",
+  "booking_advance_days": 0,
+  "tagline": "The fairy-tale castle that has belonged to the same family for 33 generations — rising from the Moselle Valley forest",
+  "highlights": [
+    "The approach — Eltz appears suddenly around a bend in a forest path, its towers rising from the trees with no road visible",
+    "The eight residential towers — built by eight different branches of the same family, their apartments stacked vertically",
+    "The Treasure Chamber — an extraordinary collection of medieval goldsmith's work, jewellery and weapons accumulated by the family over centuries",
+    "The medieval kitchen — one of the best-preserved medieval kitchen interiors in Germany, with the original equipment",
+    "The fact of continuous ownership — the Eltz family has owned the castle since 1157, an unbroken 33 generations, never conquered"
+  ],
+  "description": "Eltz Castle appears around a bend in a forest footpath as if conjured from a fairy tale: a cluster of towers and half-timbered facades rising from a wooded hill above the Elzbach stream, deep in the Moselle Valley. There is no road to the castle — visitors approach through forest on foot or by shuttle. The effect of the castle's sudden appearance — it seems to have grown from the hillside rather than been built on it — is one of the most theatrical arrivals in European castle-visiting.\n\nWhat makes Eltz exceptional beyond its appearance is its history: the castle has been owned continuously by the Eltz family since 1157, through 33 generations and over 850 years, without once being conquered or changing hands by force. (It was almost destroyed by Archbishop Balduin of Trier in 1331, but the family held out until a negotiated settlement was reached.) The complex grew by accretion: as the Eltz family divided into three main branches, each branch built its own residential tower within the shared outer walls, creating the extraordinary silhouette of eight towers of different heights and styles rising from the same base.\n\nThe interior is equally remarkable. The Treasure Chamber contains the family's accumulated wealth — medieval goldsmith's work, jewellery, weapons and armour of extraordinary quality. The guided tour visits the apartments of the three family branches, showing how three separate households shared a single castle across centuries.",
+  "history": "The Eltz family first documented their presence at the castle in 1157, when Rudolf of Eltz is recorded as a witness in a document of Emperor Frederick Barbarossa. The castle grew from a simple keep into a complex of multiple residential towers as the family expanded and divided into branches. In the 14th century, a dispute between the Eltz family and Archbishop Balduin of Trier over toll rights on the Moselle led to a two-year 'siege' (1331–1333) — more a long standoff than an active military operation — that ended in a negotiated settlement. The castle was never taken by force.\n\nThe castle's survival through the Thirty Years' War (1618–48), during which much of the Rhineland was devastated, was partly due to the Eltz family's diplomatic skill in navigating the competing factions. In the 19th century, a branch of the family that had converted to Protestantism began a major restoration of the medieval apartments. The castle is still partly inhabited by the Eltz family today, and the remaining sections are open to the public from April to November.",
+  "how_to_visit": "**Getting there:** The nearest train station is Moselkern, on the Koblenz–Trier line (trains from Koblenz in 25 minutes). From Moselkern station, a marked forest path takes about 45 minutes to the castle. A shuttle bus also runs from Wierschem village (accessible by car) to the castle gate. By car: park in Wierschem, 4km away.\n\n**Guided tours:** Entry to the interior is by guided tour only (German-language, with English audio guide available). Tours run every 10–15 minutes in peak season.\n\n**Combine with:** The Moselle Valley wine route — Cochem (30 minutes by car), Beilstein and the castle ruins along the Moselle; the Rhine Valley and Loreley Rock (40 minutes); Trier (1 hour — Roman city with amphitheatre and Porta Nigra).",
+  "faqs": [
+    {
+      "question": "Has Eltz Castle always belonged to the same family?",
+      "answer": "Yes — the Eltz family has owned the castle continuously since 1157, a span of over 850 years and 33 generations. The castle was never conquered or sold, making it one of the very few medieval castles in Europe to have remained in the same family for so long. It was almost destroyed in 1331 when Archbishop Balduin of Trier laid siege to it over a toll dispute, but a negotiated peace was reached before the castle fell. Part of the castle is still inhabited by members of the Eltz family today."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/eltz-castle.webp",
+    "alt": "Burg Eltz rising from the forested Moselle Valley hills in morning mist",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/eltz-castle.webp",
+  "instagram_tag": "#burgeltz",
+  "meta_title": "Eltz Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Burg Eltz in the Moselle Valley — Germany's most beautiful fairy-tale castle, owned by the same family for 33 generations. Book tickets and hike through forest to its gates.",
+  "tags": [
+    "medieval",
+    "forest",
+    "instagram-worthy",
+    "fairy-tale",
+    "romantic"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "rhine-moselle-castles"
+  ],
+  "nearby_castles": [
+    "heidelberg-castle",
+    "hohenzollern-castle",
+    "neuschwanstein-castle"
+  ],
+  "gyg_location_id": "528",
+  "gyg_search_query": "Burg Eltz castle tour Moselle Germany",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

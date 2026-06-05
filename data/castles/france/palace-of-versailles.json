@@ -1,0 +1,104 @@
+{
+  "id": "palace-of-versailles",
+  "name": "Palace of Versailles",
+  "local_name": "Château de Versailles",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 10,
+  "annual_visitors": 8000000,
+  "country": "france",
+  "region": "Île-de-France",
+  "nearest_city": "Paris",
+  "address": "Place d'Armes, 78000 Versailles, France",
+  "lat": 48.8049,
+  "lng": 2.1204,
+  "unesco": true,
+  "year_built": 1661,
+  "architectural_style": "French Baroque",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Closed Mondays. Apr–Oct 09:00–18:30, Nov–Mar 09:00–17:30. Gardens open daily from 08:00."
+  },
+  "price_adult": 21,
+  "price_child": 0,
+  "booking_required": true,
+  "official_tickets_url": "https://www.chateauversailles.fr/en/plan-my-visit/tickets-passes",
+  "visit_duration": "4–6 hours",
+  "best_season": "Weekday mornings in spring or autumn — summer queues can exceed 2 hours",
+  "accessibility": "The Palace is largely accessible. The gardens have some gravel paths; electric vehicles available. Wheelchairs on request.",
+  "booking_advance_days": 14,
+  "tagline": "The palace that defined royal ambition for three centuries",
+  "highlights": [
+    "The Hall of Mirrors — 357 mirrors, 20,000 candles, and the ceiling of Louis XIV's triumph",
+    "The formal gardens stretch 800 hectares and contain 50 fountains",
+    "UNESCO World Heritage Site since 1979",
+    "Home to French kings for over a century, from Louis XIV to Louis XVI and Marie Antoinette",
+    "The Treaty of Versailles, ending World War I, was signed in the Hall of Mirrors in 1919"
+  ],
+  "description": "There is no building in Europe that speaks more loudly about the nature of absolute power than the Palace of Versailles. What began as Louis XIII's modest hunting lodge was transformed by his son Louis XIV into the most extravagant royal residence ever constructed — a deliberate political statement in stone, gilt and glass, built to stun foreign ambassadors, subordinate the French nobility, and proclaim that France was the centre of the civilised world.\n\nThe numbers alone are staggering. The palace contains 2,300 rooms spread across 63,154 square metres. The Gardens cover 800 hectares, contain 50 fountains, 620 water jets and over 200,000 trees planted in perfect symmetry extending to the horizon. The Grand Canal alone is 1.6 kilometres long. At its peak, 20,000 people lived and worked in the palace complex.\n\nBut no statistic captures Versailles like walking into the Hall of Mirrors. The 73-metre gallery, with 357 mirrors reflecting 17 vast windows overlooking the gardens, was designed as the ultimate expression of French power and taste. Every arch is painted. Every surface reflects. Every detail is intended to overwhelm. Louis XIV received foreign ambassadors here, seated on a silver throne, the light and grandeur doing half his diplomatic work for him.\n\nToday Versailles receives eight million visitors a year, making it the most visited monument in France after the Eiffel Tower. Come early, book ahead, and stay long — the gardens alone warrant a half-day, especially during the Grandes Eaux Musicales fountain shows on weekends.",
+  "history": "The story of Versailles begins not with grandeur but with marshland. Louis XIII, who loved hunting in the Île-de-France forests, built a small brick hunting lodge here in 1623. His son Louis XIV inherited this retreat and, in 1661, made the decision that would change architectural history: he would build a palace of a scale never seen before, and he would move the entire French court there.\n\nThe construction lasted over fifty years, involving tens of thousands of workers and consuming a significant portion of France's annual tax revenues. The architects Jules Hardouin-Mansart and Louis Le Vau expanded the lodge into the vast complex that stands today, while landscape architect André Le Nôtre reimagined the surrounding marshland as the most geometrically perfect gardens ever created — a landscape that declared, visually and philosophically, that nature itself was subject to French royal will.\n\nLouis XIV moved his court to Versailles in 1682. The move was strategic: by requiring the most powerful nobles to live at court, dependent on royal patronage, Louis neutralised the threat of aristocratic rebellion that had convulsed France during his childhood. Versailles became a gilded cage where the nobility competed for the honour of watching the king dress, competed for apartments closer to his chambers, competed for his attention — and had no time to plot against him.\n\nThe palace remained the seat of French royal government for over a century. Louis XV added the Petit Trianon; Marie Antoinette created her famous Hameau de la Reine, a fantasy farm village in the grounds. In October 1789, a mob of Parisian women marched to Versailles demanding bread and dragged the royal family back to Paris. The Revolution had begun, and Versailles was abandoned.\n\nNapoleon used the palace sporadically. It fell into disrepair until King Louis-Philippe converted it into a museum of French history in 1837, the purpose it still partly serves today. Restoration has been ongoing ever since — the Hall of Mirrors itself was restored between 2004 and 2007.",
+  "how_to_visit": "**Getting there from Paris:** Take RER C train from any central Paris station (Invalides, Saint-Michel, Austerlitz) to Versailles Château Rive Gauche — the journey takes 35–40 minutes and runs every 15 minutes. The station is a 10-minute walk from the palace entrance. Alternatively, train from Paris Montparnasse to Versailles Chantiers (25 min). Avoid driving — parking is chaotic and expensive.\n\n**Booking:** Book online well in advance, especially for summer weekends. The timed-entry ticket includes the Palace and gardens. The Passport gives access to all areas including the Trianons and the Estate of Marie Antoinette — worth it if you're spending a full day.\n\n**Strategy for avoiding crowds:** Arrive at opening time on a Tuesday or Wednesday. The Hall of Mirrors gets impossibly crowded by 11am in summer. Go there first, before the tour groups arrive. The Trianon palaces (15 min walk from the main palace) are far less crowded and contain some of the finest 18th-century interiors in France.\n\n**Don't miss:** The Grandes Eaux Musicales — on weekends from April to October, the fountains are set to music by Baroque composers in spectacular choreographed sequences (separate ticket, €10). The Musical Gardens runs Tuesday to Friday. The grotto of Thetis (reconstruction) and the Apollo Basin are highlights. The hamlet of Marie Antoinette is a 20-minute walk — strange, melancholy, and completely unlike the formal grandeur of the main palace.",
+  "faqs": [
+    {
+      "question": "How far is Versailles from Paris and how do I get there?",
+      "answer": "Versailles is about 20km southwest of central Paris. The fastest and easiest route is the RER C train from central Paris stations (Invalides, Saint-Michel Notre-Dame, Austerlitz) to Versailles Château Rive Gauche — about 40 minutes, every 15–30 minutes. The station is a 10-minute walk from the palace entrance. Standard Navigo passes or single journey tickets work. Avoid driving — parking is expensive and traffic can be severe."
+    },
+    {
+      "question": "Do I need to book Versailles tickets in advance?",
+      "answer": "Yes, strongly recommended. Online booking guarantees timed entry and avoids the queues, which in summer can exceed 2 hours at the ticket office. Book at least one to two weeks ahead in summer, at least a few days in advance the rest of the year. A timed-entry ticket costs €21 for adults (under 18 free). The Passport option (€32) covers everything including the Trianon estates."
+    },
+    {
+      "question": "How long do you need to visit Versailles?",
+      "answer": "The Palace interior alone takes 2–3 hours. To also cover the formal gardens, plan 4–5 hours. A full day (7–8 hours) is needed if you want to visit the Trianon palaces and the Hamlet of Marie Antoinette as well. Most visitors don't budget enough time — the gardens are vast and underestimated."
+    },
+    {
+      "question": "What is the Grandes Eaux Musicales at Versailles?",
+      "answer": "On weekends from April to October (and Tuesdays), all 50 fountains are activated simultaneously and set to Baroque music by composers including Lully and Handel, in choreographed sequences that last about 45 minutes. It's a spectacular and unique experience. Requires a separate ticket (€10) in addition to your palace entry. Check dates at the official Versailles website."
+    },
+    {
+      "question": "Is the Palace of Versailles worth visiting?",
+      "answer": "Yes, but go with realistic expectations. The Hall of Mirrors and the Grand Apartments are genuinely extraordinary. The crowds in peak season are intense — if you're coming in July or August, arrive at opening time on a weekday. The gardens and Trianon palaces are often more enjoyable than the main palace. It's a full-day destination, not a quick stop."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/palace-of-versailles.webp",
+    "alt": "The Hall of Mirrors at the Palace of Versailles, with gilded arches and chandeliers reflected in 357 mirrors",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/palace-of-versailles.webp",
+  "instagram_tag": "#versailles",
+  "meta_title": "Palace of Versailles: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Plan your visit to the Palace of Versailles near Paris. Buy tickets, skip the queues and discover the Hall of Mirrors, the gardens and Marie Antoinette's Trianon.",
+  "tags": [
+    "baroque",
+    "17th-century",
+    "royal-residence",
+    "unesco-world-heritage",
+    "day-trip-from-paris",
+    "book-in-advance",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-chambord",
+    "chateau-de-chenonceau",
+    "chateau-damboise"
+  ],
+  "gyg_location_id": "1",
+  "gyg_search_query": "Palace of Versailles tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

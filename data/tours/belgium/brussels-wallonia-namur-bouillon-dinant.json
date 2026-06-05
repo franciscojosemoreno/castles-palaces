@@ -1,0 +1,111 @@
+{
+  "id": "brussels-wallonia-namur-bouillon-dinant",
+  "slug": "brussels-wallonia-namur-bouillon-dinant",
+  "name": "From Brussels: Wallonia Fortress Cities — Namur, Bouillon, Huy & Dinant",
+  "tagline": "Four medieval fortress cities in the Ardennes — including the castle that Godefroy de Bouillon sold to finance the First Crusade",
+  "departure_country": "belgium",
+  "departure_city": "Brussels",
+  "visited_countries": [
+    "belgium"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "881951",
+  "gyg_url": "https://www.getyourguide.com/huy-l157376/from-brussels-namur-huy-bouillon-and-dinant-day-trip-t881951/",
+  "price_from": 120,
+  "currency": "EUR",
+  "rating": 4.9,
+  "review_count": 180,
+  "languages": [
+    "English",
+    "French"
+  ],
+  "max_group_size": 6,
+  "overview": "The Meuse and Sambre river valleys of Wallonia — Belgian's French-speaking south — contain four of the most dramatically positioned fortress cities in Northern Europe, each one guarding a strategic river confluence or gorge. Namur's citadel, one of the largest fortified complexes in Europe, commands the meeting of the Meuse and Sambre. Huy's Fort rises above a loop of the Meuse that made this city the key to the entire valley. Château de Bouillon, in the deepest Ardennes, is where Godefroy de Bouillon sold his ancestral castle to the Bishop of Liège in 1095 to finance the First Crusade — then died in Jerusalem in 1100 after taking the Holy City. And Dinant's citadel perches on a 100m cliff above the Meuse, above the birthplace of the saxophone. Four cities, four citadels, one extraordinary day through the most fortified valley in Belgium.",
+  "highlights": [
+    "Namur Citadel — one of the largest fortified complexes in Europe, at the confluence of the Meuse and Sambre rivers",
+    "Château de Bouillon — the Ardennes castle sold to finance the First Crusade in 1095 by Godefroy de Bouillon",
+    "Huy's medieval fort — the fortified old city of Huy on its Meuse river loop, one of Belgium's best-preserved medieval towns",
+    "Dinant Citadel — on a 100m cliff above the Meuse, birthplace of Adolphe Sax (inventor of the saxophone)",
+    "The Ardennes river valleys — some of the most dramatic natural scenery in Belgium",
+    "Private vehicle with guide: small group (max 6)"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Brussels Departure",
+      "duration": "Travel southeast (1 hour)",
+      "description": "Head southeast from Brussels toward the Namur province, leaving the flat Brabant plateau and descending into the Sambre valley. The guide introduces Wallonia's strategic geography: the Ardennes plateau, cut by the deep valleys of the Meuse and its tributaries, created a natural defensive landscape where river confluences and gorge narrows became fortress sites used continuously from prehistoric times to World War II."
+    },
+    {
+      "order": 2,
+      "castle_name": "Namur Citadel",
+      "duration": "1.5 hours",
+      "description": "The Citadel of Namur stands on the rocky spur between the Meuse and Sambre rivers — one of the most defensible positions in northern Europe. Settlement and fortification on this site began in prehistoric times; the medieval castle was developed from the 10th century by the Counts of Namur; and the massive system of bastions, casemates, and tunnels covering the entire hilltop was constructed and reconstructed by the Spanish, French, Dutch, and Belgian armies from the 1670s to the 1940s. The citadel covers 4km of fortifications — one of the largest in Europe. During World War I, German forces attacked Namur in August 1914; during World War II, they occupied it as a military headquarters."
+    },
+    {
+      "order": 3,
+      "castle_name": "Huy Fort & Old Town",
+      "duration": "1 hour",
+      "description": "Huy is a medieval river town on a loop of the Meuse that made it the strategic key to the entire valley — whoever held Huy controlled all river traffic between Namur and Liège. The old town retains remarkable medieval architecture including the Gothic collegiate church, the 14th-century grain hall (La Bassinia, one of the oldest surviving market halls in Belgium), and the Fort of Huy above — a 19th-century Prussian-designed replacement of the earlier medieval fortifications. During World War II, the Fort of Huy was used as a Nazi internment and transit camp; a memorial museum now occupies part of the site."
+    },
+    {
+      "order": 4,
+      "castle_name": "Château de Bouillon",
+      "duration": "1.5 hours",
+      "description": "Château de Bouillon in the deepest Ardennes is one of the oldest feudal fortresses in Belgium — built on a dramatic meander of the Semois river that makes it almost impregnable by natural geography. The castle is inseparable from the name of Godefroy de Bouillon, the duke who sold it to the Bishop of Liège in 1095 to finance his participation in the First Crusade called by Pope Urban II. Godefroy led the crusading army from this valley to Jerusalem, which fell in July 1099. He died there in 1100, having refused to accept the title of King of Jerusalem ('I will not wear a crown of gold where my Saviour wore a crown of thorns'). The castle he sold is still standing, with a wax museum recreating the crusade's story."
+    },
+    {
+      "order": 5,
+      "castle_name": "Dinant Citadel",
+      "duration": "1 hour",
+      "description": "Dinant's citadel clings to a 100m-high limestone cliff above the Meuse — a vertical fortress accessible only by cable car or by 408 steps. The site has been fortified since at least the 7th century; the present structure dates from the Spanish and Dutch periods (17th-18th century). Below the cliff, Dinant is the birthplace of Adolphe Sax (1814-1894), inventor of the saxophone — the bridge over the Meuse is lined with oversized saxophones in his honour. In August 1914, German forces massacred 674 Belgian civilians here during their advance — one of the defining atrocities of the opening weeks of World War I."
+    }
+  ],
+  "included": [
+    "Private vehicle with hotel pickup from Brussels",
+    "Professional English and French-speaking guide",
+    "Namur Citadel guided visit",
+    "Château de Bouillon entry",
+    "Dinant Citadel entry",
+    "Small group (max 6)"
+  ],
+  "excluded": [
+    "Lunch (free time in Bouillon or Dinant)",
+    "Huy Fort museum entry (optional extra)",
+    "Dinant cable car (optional — steps included in the itinerary)"
+  ],
+  "meeting_point": "Your Brussels hotel — pickup confirmed at booking",
+  "tips": [
+    "Château de Bouillon has an excellent medieval wax museum inside the fortress — allow the full time rather than just walking the exterior walls",
+    "Dinant's steep cliffs mean the citadel is best seen first from the river bank — the vertical relationship between the Gothic church, the cliff, and the fortress above is one of Belgium's most photographed views",
+    "The Ardennes is at its most beautiful in autumn (October-November) when the valley forests turn gold — the river reflections from Bouillon's Semois meander are extraordinary",
+    "Bring cash in Bouillon — the village has limited card facilities"
+  ],
+  "faqs": [
+    {
+      "question": "Did Godefroy de Bouillon really sell this castle to go on Crusade?",
+      "answer": "Yes. In 1095, after Pope Urban II launched the First Crusade at Clermont, Godefroy de Bouillon sold the castle and county of Bouillon to the Bishop of Liège for 1,300 silver marks — the funds needed to equip and supply his army for the journey to Jerusalem. He led a force from the Ardennes across Europe and Asia Minor, arriving at Jerusalem in June 1099. The city fell on 15 July 1099; Godefroy died there in July 1100. The castle remains standing 930 years after the transaction."
+    },
+    {
+      "question": "What happened in Dinant in 1914?",
+      "answer": "On 23 August 1914, German forces occupied Dinant during their advance through Belgium. Accusing the civilian population of sniper attacks (the 'Franc-tireur' panic that followed the German army throughout Belgium), they executed 674 civilians in mass shootings — men, women, and children, including a 3-week-old infant. It was one of the worst single atrocities against civilians in the opening weeks of World War I and remains one of Belgium's defining moments of collective memory."
+    },
+    {
+      "question": "Why is the Namur Citadel so large?",
+      "answer": "The Namur Citadel's scale reflects its strategic importance as the key to the Meuse valley — every European power that wanted to control Belgium fought over it. The Spanish built bastions in the 1670s; William III of England besieged it in 1695; Louis XIV took it; the Dutch rebuilt it; the Prussians redesigned it after 1815. Each generation added more fortifications until the hilltop was covered by 4km of walls, tunnels, and gun batteries. It was still used as a military position in both World Wars."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/brussels-wallonia-namur-bouillon-dinant.webp",
+    "alt": "Château de Bouillon on its rock above the Semois river meander, Belgian Ardennes",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "From Brussels: Wallonia Fortress Cities — Namur, Bouillon, Huy & Dinant Day Trip",
+    "description": "Private day trip from Brussels to four Wallonian fortress cities — Namur Citadel, Bouillon Castle (First Crusade), Huy, and Dinant Citadel above the Meuse. Small group max 6."
+  }
+}

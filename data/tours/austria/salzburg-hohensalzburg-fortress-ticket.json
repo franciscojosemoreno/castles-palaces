@@ -1,0 +1,89 @@
+{
+  "id": "salzburg-hohensalzburg-fortress-ticket",
+  "slug": "salzburg-hohensalzburg-fortress-ticket",
+  "name": "Hohensalzburg Fortress: Skip-the-Line Entry & Guided Tour",
+  "tagline": "One of the largest and best-preserved medieval castles in Europe — looming above Mozart's city since 1077",
+  "departure_country": "austria",
+  "departure_city": "Salzburg",
+  "visited_countries": [
+    "austria"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 2 hours",
+  "gyg_tour_id": "329131",
+  "price_from": 22,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 2372,
+  "languages": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "max_group_size": 20,
+  "overview": "Hohensalzburg Fortress has stood on its clifftop above Salzburg since Archbishop Gebhard began it in 1077 — making it one of the oldest continuously occupied castles in Europe. Surviving the Napoleonic Wars intact, it is today one of the largest and best-preserved medieval fortresses on the continent. The funicular ride from the old town takes two minutes; the views from the battlements over Salzburg's baroque spires, the Salzach river, and the Alps take considerably longer to take in.",
+  "highlights": [
+    "Skip-the-line entry to Hohensalzburg Fortress",
+    "Funicular ride up from Salzburg's old town",
+    "Tour the Golden Hall and State Rooms of the Prince-Archbishops",
+    "Panoramic views over Salzburg, the Salzach, and the Alps",
+    "One of Europe's largest fully preserved medieval fortresses"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "hohensalzburg-fortress",
+      "castle_name": "State Rooms & Golden Hall",
+      "duration": "1 hour",
+      "description": "Tour the State Rooms of the Prince-Archbishops — the Golden Hall, with its gilded ceiling and stove decorated with 16th-century reliefs; the Golden Chamber; the torture chamber; and the marionette museum. The fortress also contains the Fortress Museum with exhibits spanning 900 years of Salzburg history."
+    },
+    {
+      "order": 2,
+      "castle_id": "hohensalzburg-fortress",
+      "castle_name": "Battlements & Views",
+      "duration": "1 hour",
+      "description": "Walk the battlements for the finest elevated views in Salzburg. The 360° panorama encompasses the baroque towers of the Salzburg Cathedral, the Mirabell Palace gardens, the Salzach river snaking through the valley, and on clear days the Berchtesgaden Alps stretching to the horizon."
+    }
+  ],
+  "included": [
+    "Skip-the-line fortress entry",
+    "Funicular ride to the fortress",
+    "Audio guide"
+  ],
+  "excluded": [
+    "Guided tour upgrade (optional)",
+    "Gratuities"
+  ],
+  "meeting_point": "Festungsgasse funicular station, Salzburg Old Town",
+  "tips": [
+    "The fortress is 5 minutes' walk from Mozart's Birthplace — combine both in a morning",
+    "Go early: the fortress opens at 9am and the first hour has the smallest crowds",
+    "The fortress restaurant has exceptional views — worth stopping for coffee on the terrace",
+    "The funicular runs continuously — no need to time your arrival"
+  ],
+  "faqs": [
+    {
+      "question": "Has the fortress ever been captured?",
+      "answer": "Remarkably, no — Hohensalzburg has never been taken by force. It was surrendered peacefully to Napoleonic forces in 1803, which explains its exceptional state of preservation. Nine centuries of architectural additions without a sacking to interrupt them."
+    },
+    {
+      "question": "Is it worth going up even if you don't enter the interior?",
+      "answer": "Yes — the battlements and courtyards offer views that justify the funicular ticket alone. The interior State Rooms add significant historical context but the exterior experience is exceptional in its own right."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/salzburg-hohensalzburg-fortress-ticket.webp",
+    "alt": "Hohensalzburg Fortress rising above Salzburg's baroque skyline and the Salzach river",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Hohensalzburg Fortress Skip-the-Line Entry & Tour Salzburg | Castles & Palaces",
+    "description": "Skip the line at Hohensalzburg Fortress — one of Europe's largest medieval castles above Salzburg. From €22. Funicular and audioguide included."
+  },
+  "gyg_url": "https://www.getyourguide.com/salzburg-l4/salzburg-hohensalzburg-fortress-admission-ticket-t329131/"
+}

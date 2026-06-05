@@ -1,0 +1,84 @@
+{
+  "id": "castel-santangelo",
+  "name": "Castel Sant'Angelo",
+  "local_name": "Mausoleo di Adriano",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 1200000,
+  "country": "italy",
+  "region": "Lazio",
+  "nearest_city": "Rome",
+  "address": "Lungotevere Castello, 50, 00193 Roma RM, Italy",
+  "lat": 41.9031,
+  "lng": 12.4663,
+  "unesco": false,
+  "year_built": 139,
+  "architectural_style": "Roman mausoleum converted to medieval fortress and papal residence — cylindrical form from 139 AD",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–19:30",
+    "wednesday": "09:00–19:30",
+    "thursday": "09:00–19:30",
+    "friday": "09:00–19:30",
+    "saturday": "09:00–19:30",
+    "sunday": "09:00–19:30",
+    "seasonal_note": "Tue–Sun 09:00–19:30 (last entry 18:30). Closed Mondays and some public holidays. Night openings available on select dates."
+  },
+  "price_adult": 16,
+  "price_child": 2,
+  "booking_required": true,
+  "official_tickets_url": "https://www.museistataliroma.it/it/musei/museo-nazionale-castel-santangelo",
+  "visit_duration": "2–3 hours",
+  "best_season": "March–May and September–October — comfortable temperatures, good light for the terrace",
+  "accessibility": "The main ramp and several levels are accessible by wheelchair. Some areas with steps are not accessible.",
+  "booking_advance_days": 3,
+  "tagline": "From Roman emperor's tomb to papal fortress — nearly 2,000 years of history above the Tiber",
+  "highlights": [
+    "The panoramic terrace — the highest point offers sweeping views over Rome, St. Peter's Basilica and the Tiber",
+    "The Passetto di Borgo — the elevated corridor connecting the castle to the Vatican, used by popes to escape during sieges",
+    "The Sala Paolina — elaborately frescoed papal apartments from the 16th century",
+    "The treasury and prison — rooms where prisoners were held, including Giordano Bruno and Benvenuto Cellini",
+    "The bronze angel statue at the summit — commemorating a vision by Gregory the Great that ended the plague of 590 AD"
+  ],
+  "description": "Castel Sant'Angelo began as the mausoleum of Emperor Hadrian, completed in 139 AD as a circular monument on the banks of the Tiber intended to hold the remains of Hadrian and his successors. The cylindrical drum, 64 metres in diameter and originally topped with a garden and a gilded quadriga, still forms the core of the structure visible today. Within a century of Hadrian's death the mausoleum had been incorporated into Rome's defensive walls, and by the medieval period it had become the most secure fortress in the city — the ultimate refuge for popes facing invaders.\n\nThe castle's history crosses two thousand years of Roman and papal politics. Theodoric the Ostrogoth used it as a prison. The Normans sacked it. Pope Clement VII famously fled along the elevated Passetto di Borgo corridor in 1527 when Charles V's troops sacked Rome — remaining in the castle for six months while the city burned below him. Alexander VI added the outer fortifications; Paul III built the Renaissance apartments that survive today, including the Sala Paolina with its elaborate programme of frescoes.\n\nToday the castle functions as the Museo Nazionale di Castel Sant'Angelo. The spiral ramp that once led to Hadrian's burial chamber still carries visitors through the core of the building; the papal apartments contain frescoes, tapestries and period furniture; and the terrace, where the bronze angel was placed in 1753, remains one of the finest viewpoints in Rome. Puccini set the final act of Tosca here.",
+  "history": "Hadrian began his mausoleum around 130 AD, and it was completed shortly after his death in 138. The structure consisted of a square base, a cylindrical drum, and an upper section — the whole covered in white marble and decorated with statues. The ashes of Hadrian, his wife Sabina, and several subsequent emperors and their families were housed in the burial chamber within the drum.\n\nBy the 3rd century the mausoleum had been incorporated into the Aurelian Wall, Rome's defensive circuit. In 590 AD, Pope Gregory the Great led a procession across the Pons Aelius (now the Ponte Sant'Angelo) to pray for the end of a plague; according to tradition, he saw a vision of the Archangel Michael sheathing his sword above the castle — a sign that the plague was ending. A succession of marble and then bronze angels were placed at the summit to commemorate the vision, giving the building its current name.\n\nThe medieval and Renaissance popes transformed the castle into a combination fortress, refuge and luxury palace. Boniface IX added towers in the 14th century; Nicholas V and Alexander VI added further defensive works and the Passetto corridor; Paul III commissioned the state apartments in the 1540s. The castle served as a papal prison from the 14th to the 19th centuries — Benvenuto Cellini was imprisoned here twice, and Giordano Bruno was held here before his execution.",
+  "how_to_visit": "**Getting there:** From Vatican City it's a 5-minute walk across the Ponte Sant'Angelo — which is itself lined with Bernini's angel sculptures. From central Rome: Lepanto Metro station (Line A, 10-minute walk) or bus to Lungotevere Castello.\n\n**Tickets:** Book online to skip the queue, especially in summer. The Museo Statali Roma site handles tickings.\n\n**Passetto di Borgo:** The elevated escape corridor connecting the castle to the Vatican can be seen from outside, and parts of it are visible from the castle's upper levels. It is occasionally open for special visits.\n\n**Evening visits:** Night opening events are held on selected dates — the terrace views of Rome illuminated at night are exceptional. Check the museum website for the current schedule.\n\n**Combine with:** St. Peter's Basilica and the Vatican Museums (5 minutes walk), the Ponte Sant'Angelo with Bernini's angels, and the historic centre of Rome — the Pantheon is 25 minutes walk.",
+  "faqs": [
+    {
+      "question": "What is the Passetto di Borgo at Castel Sant'Angelo?",
+      "answer": "The Passetto di Borgo is an elevated covered walkway, about 800 metres long, connecting Castel Sant'Angelo to the Apostolic Palace in the Vatican. It was built in the late 13th century and used by popes to escape to the safety of the castle during emergencies. Most famously, Pope Clement VII used it to flee during the Sack of Rome in 1527, when Charles V's troops rampaged through the city for weeks. The corridor is visible from the Borgo Pio street below."
+    },
+    {
+      "question": "Why is there an angel on top of Castel Sant'Angelo?",
+      "answer": "According to tradition, Pope Gregory the Great saw a vision of the Archangel Michael sheathing his sword above the castle during a plague procession in 590 AD — a sign that the plague was ending. To commemorate the vision, a succession of angel statues were placed at the summit. The current bronze angel, sheathing a sword, was installed in 1753 and is the work of the Flemish sculptor Pieter Verschaffelt."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castel-santangelo.webp",
+    "alt": "Castel Sant'Angelo reflected in the Tiber at dusk with the Ponte Sant'Angelo in the foreground",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castel-santangelo.webp",
+  "instagram_tag": "#castelsantangelo",
+  "meta_title": "Castel Sant'Angelo Rome: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Castel Sant'Angelo in Rome — from Hadrian's mausoleum to papal fortress. Book skip-the-line tickets and see the best views over Rome from the terrace.",
+  "tags": [
+    "roman",
+    "medieval",
+    "papal",
+    "instagram-worthy",
+    "city-centre"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "36",
+  "gyg_search_query": "Castel Sant Angelo Rome tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

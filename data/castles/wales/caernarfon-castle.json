@@ -1,0 +1,85 @@
+{
+  "id": "caernarfon-castle",
+  "name": "Caernarfon Castle",
+  "local_name": "Castell Caernarfon",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 350000,
+  "country": "wales",
+  "region": "Gwynedd",
+  "nearest_city": "Caernarfon",
+  "address": "Castle Ditch, Caernarfon LL55 2AY, Wales",
+  "lat": 53.1393,
+  "lng": -4.2769,
+  "unesco": true,
+  "year_built": 1283,
+  "architectural_style": "Edwardian concentric castle — banded masonry towers, polygonal rather than round",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Mar–Oct: 09:30–17:00. Nov–Feb: 10:00–16:00. Closed 24–26 Dec and 1 Jan."
+  },
+  "price_adult": 15,
+  "price_child": 11,
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/visit/places-to-visit/caernarfon-castle",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September — weather favourable for the wall walks and Eagle Tower views",
+  "accessibility": "Main courtyard is accessible. Wall walks have steps. Eagle Tower has a lift to some levels.",
+  "booking_advance_days": 0,
+  "tagline": "Edward I's masterpiece of military architecture — the castle built to dominate Wales forever",
+  "highlights": [
+    "The Eagle Tower — the largest and most impressive of the castle's towers, with triple turrets capped with eagles",
+    "Wall walks along the entire circuit of the town walls — views over the Menai Strait and Snowdonia",
+    "The King's Gate — a formidable gatehouse with five portcullises and six doors, the most defensible entrance in any Welsh castle",
+    "The Royal Welsh Fusiliers Museum in the towers — tracing one of Britain's oldest and most decorated regiments",
+    "The location where Prince Charles was invested as Prince of Wales in 1969 — Queen's Gate still bears the ceremony's marks"
+  ],
+  "description": "Caernarfon Castle is the most imposing of the ring of fortresses Edward I built to subjugate Wales following his conquest of 1282–83. Where most medieval castles are roughly circular or square in plan, Caernarfon is deliberately theatrical: the towers are polygonal rather than round, banded with alternating bands of different-coloured stone in a style Edward's architects borrowed from the walls of Constantinople, and the whole castle was conceived as both a military stronghold and a royal palace of unmistakable symbolic power.\n\nThe castle's most striking element is the Eagle Tower — a massive multi-angular tower at the western tip of the complex, its three turrets originally topped with stone eagles and containing a complete suite of royal apartments. Edward I's son, the future Edward II, was born at Caernarfon in 1284 and was reportedly presented to the Welsh people as 'a prince born in Wales, who could speak no word of English' — a story that, though almost certainly apocryphal, reflects the political calculations behind the castle's construction.\n\nCaernarfon sits at the mouth of the River Seiont where it meets the Menai Strait, and the views from the wall walks encompass both the town's medieval street plan and the mountains of Snowdonia. The walled town that surrounds the castle — the entire historic centre of Caernarfon — is part of the same UNESCO inscription, making the site one of the most complete examples of Edwardian colonial town planning in Europe.",
+  "history": "Edward I began building Caernarfon immediately after his conquest of Gwynedd in 1283, on the site of a Norman motte-and-bailey castle held by the Welsh princes. The castle and its accompanying fortified town were conceived together as an instrument of English colonial control — the town was reserved for English settlers, Welsh people being excluded from residence and many economic activities within the walls.\n\nConstruction continued under Edward I and Edward II until about 1330, though it was never entirely finished — the King's Gate, the great northern gatehouse, was never completed to its intended design. The castle was attacked and briefly captured by Owain Glyndŵr's forces in 1404, and again unsuccessfully besieged in 1405, but it was never permanently taken by Welsh forces. After the Tudor dynasty — of Welsh origin — came to the throne in 1485, the strategic need for the castle diminished, and it fell gradually into decay, used primarily as a government store and occasional prison. It was partly restored in the 19th century and is now managed by Cadw, the Welsh historic environment agency.",
+  "how_to_visit": "**Getting there:** Caernarfon is served by buses from Bangor (30 min, connecting to trains on the North Wales Coast line). By car from Bangor it's 8 miles via the A487. There is parking in the town near the castle walls.\n\n**Tickets:** Available on site or online through Cadw. No advance booking required but online booking saves queuing in summer.\n\n**Wall walks:** The complete circuit of the walls takes about 45 minutes and provides excellent views over the town, the Menai Strait and Snowdonia. Wear comfortable shoes — the steps are narrow and worn smooth.\n\n**Combine with:** The Menai Bridge (the world's first modern suspension bridge, 1826), Beaumaris Castle (the most geometrically perfect of Edward's Welsh castles, 45 minutes by car), and the Snowdonia National Park make Caernarfon a natural base for a North Wales circuit.",
+  "faqs": [
+    {
+      "question": "Why was the Prince of Wales invested at Caernarfon Castle?",
+      "answer": "The tradition of investing the Prince of Wales at Caernarfon dates from 1911, when George V invested his son (the future Edward VIII) there in a ceremony designed by David Lloyd George to emphasise Welsh national sentiment. The investiture of Prince Charles in 1969 was a major televised event attended by 4,000 guests. The tradition derives from the medieval legend that Edward I promised the Welsh a prince 'born in Wales who could speak no English' — though the historical record is uncertain."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/caernarfon-castle.webp",
+    "alt": "Caernarfon Castle viewed from across the water, its banded towers reflected in the Menai Strait at sunset",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/caernarfon-castle.webp",
+  "instagram_tag": "#caernarfoncastle",
+  "meta_title": "Caernarfon Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Caernarfon Castle — Edward I's UNESCO-listed Welsh fortress and birthplace of the first Prince of Wales. Book tickets, explore the Eagle Tower and walk the walls.",
+  "tags": [
+    "medieval",
+    "unesco",
+    "dramatic",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "welsh-castles-ring"
+  ],
+  "nearby_castles": [
+    "conwy-castle",
+    "beaumaris-castle",
+    "harlech-castle"
+  ],
+  "gyg_location_id": "333",
+  "gyg_search_query": "Caernarfon Castle tour Wales",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

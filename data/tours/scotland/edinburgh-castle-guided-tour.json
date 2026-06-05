@@ -1,0 +1,89 @@
+{
+  "id": "edinburgh-castle-guided-tour",
+  "slug": "edinburgh-castle-guided-tour",
+  "name": "Edinburgh Castle: Guided History Tour with Entry Ticket",
+  "tagline": "Scotland's most visited attraction — a thousand years of royal history on an extinct volcano above the city",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 1.5 hours",
+  "gyg_tour_id": "156135",
+  "price_from": 42,
+  "currency": "GBP",
+  "rating": 4.8,
+  "review_count": 10369,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German"
+  ],
+  "max_group_size": 15,
+  "overview": "Edinburgh Castle sits on a volcanic plug of basalt rock that has been fortified since at least the 12th century — and occupied as a military stronghold since the Iron Age. Mary Queen of Scots gave birth to the future James VI here in 1566. The Scottish Crown Jewels (the Honours of Scotland) have been kept here since the 15th century. The One O'Clock Gun has fired every weekday since 1861. With a licensed guide, the stories behind every cobblestone come alive.",
+  "highlights": [
+    "Skip-the-line entry to Edinburgh Castle",
+    "Licensed guide for the full tour in your language",
+    "See the Scottish Crown Jewels — the oldest in Britain",
+    "Visit St Margaret's Chapel, the oldest building in Edinburgh (1130s)",
+    "Panoramic views over the city from the Half Moon Battery"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "edinburgh-castle",
+      "castle_name": "Crown Jewels & Royal Palace",
+      "duration": "45 minutes",
+      "description": "Begin in the Royal Palace where Mary Queen of Scots gave birth to James VI in 1566 — in a room so small it surprises every visitor. Then see the Honours of Scotland: the crown, sword, and sceptre that are the oldest surviving crown jewels in Britain, and the Stone of Destiny on which Scottish kings were crowned."
+    },
+    {
+      "order": 2,
+      "castle_id": "edinburgh-castle",
+      "castle_name": "Great Hall, War Memorial & Battlements",
+      "duration": "45 minutes",
+      "description": "The Great Hall built by James IV around 1510 retains its magnificent original hammerbeam roof. The Scottish National War Memorial commemorates 150,000 Scots who died in the First World War. Walk the Half Moon Battery for views stretching to the Firth of Forth — on a clear day you can see the Kingdom of Fife."
+    }
+  ],
+  "included": [
+    "Skip-the-line castle entry ticket",
+    "Licensed guide",
+    "Small group (max 15)"
+  ],
+  "excluded": [
+    "Hotel pickup/dropoff",
+    "Gratuities"
+  ],
+  "meeting_point": "Edinburgh Castle Esplanade, Castlehill, Edinburgh EH1 2NG",
+  "tips": [
+    "The One O'Clock Gun fires Monday to Saturday at exactly 13:00 — be on the castle grounds to hear it",
+    "Book the first slot of the day to avoid the afternoon crowds that build from cruise ship arrivals",
+    "The castle esplanade hosts the Edinburgh Military Tattoo every August — an extraordinary spectacle",
+    "St Margaret's Chapel (1130s) is the oldest surviving building in Edinburgh — easy to miss, worth seeking out"
+  ],
+  "faqs": [
+    {
+      "question": "Are the Scottish Crown Jewels different from the British Crown Jewels?",
+      "answer": "Yes — completely separate regalia. The Honours of Scotland (crown, sword, sceptre) date from the 15th and 16th centuries and are the oldest crown jewels in Britain, pre-dating the Tower of London's collection. The Stone of Destiny, on which Scottish kings were crowned, was returned to Scotland from Westminster in 1996."
+    },
+    {
+      "question": "How long does it take to see the full castle?",
+      "answer": "The guided tour covers the highlights in 1.5 hours. With free exploration afterwards you could easily spend 3 hours. The castle is large — wear comfortable shoes."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-castle-guided-tour.webp",
+    "alt": "Edinburgh Castle perched on its volcanic rock above the city at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Edinburgh Castle Guided Tour with Entry Ticket | Castles & Palaces",
+    "description": "Book the Edinburgh Castle guided history tour with skip-the-line entry. Crown Jewels, Royal Palace, panoramic views. From £42. 10,000+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/edinburgh-edinburgh-castle-guided-tour-w-fast-track-entry-t156135/"
+}

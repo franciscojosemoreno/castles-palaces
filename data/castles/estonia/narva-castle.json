@@ -1,0 +1,78 @@
+{
+  "id": "narva-castle",
+  "name": "Narva Castle",
+  "local_name": "Narva linnus",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 90000,
+  "country": "estonia",
+  "region": "Ida-Virumaa",
+  "nearest_city": "Narva",
+  "address": "Peterburi mnt 2, 20308 Narva, Estonia",
+  "lat": 59.3772,
+  "lng": 28.1765,
+  "unesco": false,
+  "year_built": 1256,
+  "architectural_style": "Medieval and Renaissance fortification",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "May–Sep: open daily 10:00–19:00 (including Mondays). Oct–Apr: closed Mondays. Hermann Tower observation deck may have separate entry."
+  },
+  "price_adult": 9,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.narvamuuseum.ee/en/",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "Summer for full opening hours; the confrontation of the two castles across the river is most dramatically lit in low winter or autumn sun",
+  "accessibility": "The castle courtyard and museum rooms are accessible. The Hermann Tower involves stairs. The riverside terrace with views of Ivangorod is flat and accessible.",
+  "booking_advance_days": 0,
+  "tagline": "The most dramatic border castle in Europe — facing the Russian fortress of Ivangorod across a river that divides NATO from Russia",
+  "highlights": [
+    "One of the most geopolitically charged views in Europe: two medieval fortresses — Estonian Narva and Russian Ivangorod — facing each other across a 150-metre river that is the NATO-Russia border",
+    "Hermann Tower (Hermanni torn) — the tallest surviving tower of the Teutonic Knights' Baltic fortifications, offering views into Russia",
+    "Built by the Danes in the 13th century, controlled by the Teutonic Knights, Sweden, and Russia before becoming part of independent Estonia",
+    "The Narva Museum inside the castle traces the city's extraordinary multicultural history — Danish, German, Swedish, Russian, Soviet, and Estonian",
+    "Narva was almost entirely destroyed in World War II — the castle is one of the few original structures remaining in the city"
+  ],
+  "description": "Narva Castle occupies the west bank of the Narva River at the precise point where the European Union and NATO begin, and Russia ends. Across the narrow river — 150 metres wide at this point — the Russian fortress of Ivangorod stares back from the east bank, its massive walls and towers a mirror image of the Estonian castle opposite. The confrontation of these two medieval fortresses across a river that divides two radically different political worlds is one of the most viscerally powerful border experiences anywhere in Europe.\n\nThe castle was established by the Danes in the 13th century, became the easternmost fortress of the Teutonic Knights, passed to Sweden in the 17th century, and was captured by Peter the Great of Russia in 1704 after the Battle of Narva — one of the decisive moments in Baltic history. The Russian Empire held it until 1918, when Estonian independence transferred it to the new republic. Soviet rule from 1940–1991 and the devastation of World War II — which destroyed 98% of Narva's medieval architecture — left the castle as one of the only pre-war structures in the city.\n\nHermann Tower, the tallest surviving Teutonic fortification in the Baltic states, rises from the castle's northeast corner and offers views directly into Russia. The museum inside traces Narva's compressed history: a city that has been Danish, German Livonian, Swedish, Russian imperial, Estonian, Soviet, and Estonian again — its identity perpetually contested and reformed by the great powers surrounding the Baltic.",
+  "history": "Narva's strategic position at the crossing of the Narva River made it a contested site from the earliest period of northern European expansion. The Danish king Valdemar II established a stone castle here in 1256 during the crusading campaigns that brought Christianity to the pagan Baltic peoples by force. The castle passed to the Livonian Order (a Teutonic Knights affiliate) in 1346.\n\nThe Russian Grand Principality of Novgorod, recognising the strategic threat of the Estonian castle, built the Ivangorod fortress directly opposite on the east bank of the river in 1492 — one of the fastest-constructed major fortifications in medieval Russian history. The two fortresses have faced each other across the river ever since. The confrontation crystallised the long competition between the Baltic-German crusading orders and the Russian principalities for control of the eastern Baltic.\n\nSweden captured Narva in 1581 and held it through its period of Baltic dominance. Peter the Great of Russia besieged Narva twice — unsuccessfully in 1700 (the Battle of Narva was a decisive Swedish victory) and successfully in 1704, incorporating it into the Russian Empire. Russian rule lasted until Estonian independence in 1918. The German occupation of 1941–1944 and the Soviet bombing and recapture of 1944 destroyed nearly all of historic Narva. The castle was restored in the Soviet period as a museum.",
+  "how_to_visit": "**Getting there:** Narva is 210 km east of Tallinn. Lux Express and other operators run buses from Tallinn to Narva (2.5–3 hours). By car, the E20/Via Baltica highway runs direct from Tallinn. Narva is also accessible by train from Tallinn (2.5–3 hours).\n\n**The border view:** The most extraordinary experience at Narva is simply standing on the castle's riverside terrace and looking across at Ivangorod — medieval Russia, 150 metres away across a river that is now one of the most heavily monitored land borders in Europe. Photography is permitted from the Estonian side.\n\n**Ivangorod:** The Russian fortress of Ivangorod is in Russia and requires a Russian visa to visit. The view from Narva Castle's riverside is sufficient to appreciate its scale and position.\n\n**Combine with:** Narva-Jõesuu beach resort (14 km north — the most popular Baltic beach in Estonia) and the Soviet-era hydroelectric dam make for an unusual day in the most historically layered corner of Estonia.",
+  "faqs": [
+    {
+      "question": "Can I visit both Narva Castle and Ivangorod Fortress?",
+      "answer": "Narva Castle (Estonia) is freely accessible. Ivangorod Fortress (Russia) requires crossing the international border and holding a valid Russian visa or special permit — this is currently extremely restricted for most EU/Western passport holders given geopolitical conditions. The view of Ivangorod from Narva Castle's terrace gives a full appreciation of the Russian fortress's scale."
+    },
+    {
+      "question": "Is Narva a safe place to visit?",
+      "answer": "Yes — Narva is a city in Estonia, a NATO and EU member state. Despite its proximity to Russia and its large Russian-speaking population, it is governed by Estonian law and institutions. The border is heavily monitored but crossing into Russia is a consular matter, not a safety issue within Narva itself."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/narva-castle.webp",
+    "alt": "Narva Castle Hermann Tower facing the Russian Ivangorod Fortress across the Narva River border",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/narva-castle.webp",
+  "instagram_tag": "#narvacastle",
+  "meta_title": "Narva Castle Estonia: Tickets, Hermann Tower & Visitor Guide 2026",
+  "meta_description": "Visit Narva Castle — the Teutonic medieval fortress on the NATO-Russia border facing the Russian Ivangorod Fortress across the river. One of Europe's most dramatic border sites.",
+  "tags": ["medieval", "teutonic", "border", "dramatic", "estonia"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["cesis-castle", "turaida-castle"],
+  "gyg_location_id": "1417",
+  "gyg_search_query": "Narva Castle Estonia tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

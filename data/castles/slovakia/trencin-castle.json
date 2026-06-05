@@ -1,0 +1,82 @@
+{
+  "id": "trencin-castle",
+  "name": "Trenčín Castle",
+  "local_name": "Trenčiansky hrad",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 180000,
+  "country": "slovakia",
+  "region": "Trenčín Region",
+  "nearest_city": "Trenčín",
+  "address": "Matúšova veža, 911 01 Trenčín, Slovakia",
+  "lat": 48.8942,
+  "lng": 18.0433,
+  "unesco": false,
+  "year_built": 1000,
+  "architectural_style": "Romanesque / Gothic / Renaissance",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Extended to 18:00 May to September. Closed Mondays year-round and from November to March on weekdays."
+  },
+  "price_adult": 10,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.trencianskyhrad.sk",
+  "visit_duration": "2 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — steep hill path; some areas inside have stairs",
+  "booking_advance_days": 0,
+  "tagline": "One of Slovakia's largest castles — a thousand-year fortress above the Váh River",
+  "highlights": [
+    "One of the largest and most important castles in Slovakia",
+    "Seat of Matthias Csák — the 'Lord of the Váh and the Tatras' who defied Hungarian kings",
+    "Roman inscription from 179 AD carved in the castle rock below",
+    "Matúš Tower — the oldest surviving Romanesque round tower in Slovakia",
+    "Views over the Váh River valley and the Trenčín old town below"
+  ],
+  "description": "Trenčín Castle dominates the city of Trenčín from a dramatic rocky crag above the Váh River, its towers and walls visible for kilometres across the river valley. One of the largest castles in Slovakia, it has been a key stronghold on the route through the Váh valley for over a thousand years. A Roman inscription carved into the castle rock dates to 179 AD — evidence that a Roman garrison camped at the foot of the crag during the Marcomannic Wars. The castle's most celebrated medieval period came under Matthias Csák, 'Lord of the Váh and the Tatras', who made Trenčín his capital and defied the Hungarian crown from these walls in the early 14th century. The castle houses archaeological and historical museums and offers panoramic views over the Váh valley and the medieval old town below, connected by a covered walkway.",
+  "history": "A Slavic fortification existed on the crag before the castle was built around 1000 AD as a Hungarian royal stronghold. The Roman inscription at the base dates to 179 AD. Matthias Csák made it his capital from 1302 and resisted Hungarian royal authority from its walls. The castle was expanded in Gothic and Renaissance styles through the 15th–16th centuries. It burned in 1790 and was partially rebuilt; major restoration began in the 1950s. The museum opened progressively through the late 20th century.",
+  "how_to_visit": "Trenčín is 120 km north-east of Bratislava on the E75 motorway. Frequent trains connect Bratislava and Trenčín (1.5 hours). The castle is above the city centre, reached by a covered walkway from the Hotel Elizabeth in the main square — a unique access route through the hotel building. The old town below the castle is attractive and walkable.",
+  "faqs": [
+    {
+      "question": "What is the Roman inscription at the castle?",
+      "answer": "A Latin inscription carved into the rock face in 179 AD records that a Roman garrison of 855 soldiers camped at Laugaricio (Trenčín) during Emperor Marcus Aurelius's Marcomannic Wars — the northernmost confirmed Roman military presence in Central Europe."
+    },
+    {
+      "question": "Who was Matthias Csák?",
+      "answer": "An oligarch known as 'Lord of the Váh and the Tatras' who controlled northern Hungary from Trenčín Castle in the early 14th century, effectively operating as an independent ruler until his death in 1321."
+    },
+    {
+      "question": "Is the hotel walkway access unusual?",
+      "answer": "Yes — the main access path to the castle passes through the lobby and up through the Hotel Elizabeth in the main square, one of the more unusual castle approaches in Central Europe."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/trencin-castle.webp",
+    "alt": "Trenčín Castle towers rising above the Váh River valley and old town in Slovakia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/trencin-castle.webp",
+  "instagram_tag": "#trencincastle",
+  "meta_title": "Trenčín Castle, Slovakia — Thousand-Year Fortress Above the Váh River",
+  "meta_description": "Visit Trenčín Castle in Slovakia — one of the country's largest medieval fortresses, with a Roman inscription, panoramic Váh valley views, and Matthias Csák's legacy.",
+  "tags": ["gothic", "renaissance", "slovak-castle", "váh-valley", "roman"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["bojnice-castle"],
+  "gyg_location_id": "2711",
+  "gyg_search_query": "Trenčín castle Slovakia tour from Bratislava",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

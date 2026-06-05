@@ -1,0 +1,40 @@
+{
+  "id": "andalucia-palaces",
+  "name": "Andalusia Palaces",
+  "tagline": "The Moorish masterpieces of southern Spain — Islam, Christianity and the architecture between them",
+  "description": "Andalusia contains the most extraordinary concentration of Moorish-influenced palace architecture in the world. The Nasrid Palaces of the Alhambra, the Mudéjar Alcázar of Seville, the Great Mosque-Cathedral of Córdoba and the labyrinthine Medina Azahara palace city outside Córdoba together form an architectural heritage of global significance — one that emerged from a moment of cultural synthesis unique in European history.\n\nThe Andalusia Palace Route follows the geography of Al-Andalus, the Moorish civilisation that flourished in southern Spain for 800 years. It moves between the three capitals that successively dominated this world: Córdoba under the Umayyad caliphs (8th–10th centuries), Seville under the Almohads (12th–13th centuries), and Granada under the Nasrids (13th–15th centuries), the last Muslim kingdom on the Iberian Peninsula.\n\nEach city warrants 2–3 days. Granada for the Alhambra and the Albaicín quarter above it. Seville for the Alcázar, the cathedral (built over the Great Mosque) and the Barrio Santa Cruz. Córdoba for the Mezquita — possibly the most moving single building in Spain — and the Medina Azahara site. The route is best done November to April; Andalusia in July and August is brutally hot. Spring, when the orange blossom fills every street, is the ideal season.",
+  "hero_image": {
+    "url": "/images/routes/andalucia-palaces.webp",
+    "alt": "The Court of the Lions in the Alhambra's Nasrid Palaces — the centrepiece of the Andalusia Palace Route",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "spain"
+  ],
+  "castles": [
+    "alhambra-granada",
+    "alcazar-seville"
+  ],
+  "distance_km": 250,
+  "duration_days": "5–8 days",
+  "difficulty": "easy",
+  "map_center": {
+    "lat": 37.5,
+    "lng": -4.8
+  },
+  "tags": [
+    "moorish",
+    "medieval",
+    "unesco-world-heritage",
+    "royal-residence",
+    "romantic",
+    "instagram-worthy"
+  ],
+  "gyg_search_query": "Andalusia palace tour Alhambra Seville",
+  "thumbnail_image": {
+    "url": "/images/routes/andalucia-palaces-thumb.webp",
+    "alt": "The Court of the Lions in the Alhambra's Nasrid Palaces — the centrepiece of the Andalusia Palace Route"
+  }
+}

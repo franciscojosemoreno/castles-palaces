@@ -1,0 +1,82 @@
+{
+  "id": "pocitelj-citadel",
+  "name": "Počitelj Citadel",
+  "local_name": "Tvrđava Počitelj",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "bosnia",
+  "region": "Herzegovina-Neretva Canton",
+  "nearest_city": "Mostar",
+  "address": "Počitelj, 88306 Čapljina, Bosnia and Herzegovina",
+  "lat": 43.1317,
+  "lng": 17.7158,
+  "unesco": false,
+  "year_built": 1383,
+  "architectural_style": "Medieval Bosnian / Ottoman",
+  "opening_hours": {
+    "monday": "08:00–20:00",
+    "tuesday": "08:00–20:00",
+    "wednesday": "08:00–20:00",
+    "thursday": "08:00–20:00",
+    "friday": "08:00–20:00",
+    "saturday": "08:00–20:00",
+    "sunday": "08:00–20:00",
+    "seasonal_note": "Open daily. The village and tower are freely accessible at all times."
+  },
+  "price_adult": 2,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hercegovina.ba",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — very steep stone steps to the tower",
+  "booking_advance_days": 0,
+  "tagline": "A perfectly preserved Ottoman fortified village clinging to a limestone cliff above the Neretva",
+  "highlights": [
+    "One of the best-preserved Ottoman fortified villages in the Balkans",
+    "Spectacular terraced stone houses, mosque, hammam, and tower on a cliff face",
+    "Sweeping views over the Neretva River valley from the tower",
+    "An outdoor museum of Herzegovinian vernacular architecture",
+    "A convenient stop on the Mostar–Dubrovnik route"
+  ],
+  "description": "Počitelj is one of the most visually striking historic villages in the western Balkans — a perfectly preserved Ottoman fortified settlement built into a steep limestone cliff above the Neretva River, its terraced stone houses, medieval tower, Šišman Ibrahim-paša Mosque, clock tower, and caravanserai cascading down the rock face in a composition unchanged since the 17th century. First built as a medieval Bosnian fortress in 1383, Počitelj was expanded under Ottoman rule into a garrison town and trading post on the road from Mostar to the Adriatic. It is essentially an open-air museum of Herzegovinian Ottoman architecture, and one of the most photogenic stops on the route between Mostar and the Dalmatian coast. The village was heavily damaged during the 1990s war and painstakingly restored in the following decades.",
+  "history": "The fortress was built in 1383 as part of the medieval Kingdom of Bosnia's defensive network along the Neretva. It fell to the Ottomans in 1471 and was extensively developed as a fortified town and trading post throughout the 16th and 17th centuries. The current mosque, hammam, and most residential architecture date from this Ottoman period. Počitelj was heavily damaged by Croatian forces in 1993 during the Bosnian War, including deliberate shelling. International restoration efforts have rebuilt much of the village, though some structures remain incomplete.",
+  "how_to_visit": "Počitelj is 30 km south of Mostar on the M17 road to Čapljina, making it a natural stop between Mostar and the Croatian border. Buses between Mostar and Dubrovnik pass through or near the village. A car gives the most flexibility. Allow 1–1.5 hours to climb to the tower and explore the village lanes.",
+  "faqs": [
+    {
+      "question": "Is Počitelj safe to visit after the war damage?",
+      "answer": "Yes — the village has been extensively restored since the 1990s war and is fully open to visitors. Some buildings are still being reconstructed."
+    },
+    {
+      "question": "How far is Počitelj from Mostar?",
+      "answer": "About 30 km south of Mostar — a 30-minute drive. It is almost always visited as part of a Mostar day trip or on the drive between Mostar and Dubrovnik."
+    },
+    {
+      "question": "What is the climb to the tower like?",
+      "answer": "The climb involves steep stone steps cut directly into the cliff face — manageable but tiring in summer heat. The view from the tower over the Neretva valley is the reward."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/pocitelj-citadel.webp",
+    "alt": "Počitelj Ottoman village and citadel tower on a limestone cliff above the Neretva River in Bosnia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/pocitelj-citadel.webp",
+  "instagram_tag": "#pocitelj",
+  "meta_title": "Počitelj Citadel, Bosnia — Ottoman Clifftop Village Above the Neretva",
+  "meta_description": "Visit Počitelj in Bosnia — a perfectly preserved Ottoman fortified village on a Neretva cliff face, with a medieval tower, mosque, and stunning valley views near Mostar.",
+  "tags": ["ottoman", "bosnian-castle", "neretva", "herzegovina", "fortified-village"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2796",
+  "gyg_search_query": "Počitelj citadel Mostar Bosnia tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

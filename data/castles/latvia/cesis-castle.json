@@ -1,0 +1,82 @@
+{
+  "id": "cesis-castle",
+  "name": "Cēsis Castle",
+  "local_name": "Cēsu pils",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "latvia",
+  "region": "Vidzeme",
+  "nearest_city": "Riga",
+  "address": "Pils laukums 9, Cēsis, LV-4101, Latvia",
+  "lat": 57.3122,
+  "lng": 25.2741,
+  "unesco": false,
+  "year_built": 1214,
+  "architectural_style": "Livonian Gothic",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Extended to 20:00 Friday and Saturday in summer. Closed Mondays year-round."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.cesupils.lv",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to September",
+  "accessibility": "Partially accessible — courtyard and museum accessible; tower ruins involve steps",
+  "booking_advance_days": 0,
+  "tagline": "The medieval stronghold of the Livonian Knights in Latvia's most romantic town",
+  "highlights": [
+    "One of the largest and best-preserved Livonian Order castles",
+    "Atmospheric ruined towers and walls to explore",
+    "Candlelit medieval experience tours available",
+    "Adjacent 18th-century New Castle houses the Cēsis History Museum",
+    "Charming castle park and lake setting"
+  ],
+  "description": "Cēsis Castle is one of the most significant and atmospheric medieval castle ruins in the Baltic states, its broken towers and red-brick curtain walls rising above the charming town that grew in its shadow. Founded by the Livonian Brothers of the Sword in 1214 and later the seat of the Masters of the Livonian Order, Cēsis was among the most powerful fortifications in medieval Livonia. The castle was partially destroyed in the Great Northern War (1700–1721) and has remained a romantic ruin ever since. A unique feature of the visit is the candlelit interior experience: visitors receive a lantern and explore the darkened medieval halls by their own light — one of the most memorable castle experiences in the Baltic region. The adjacent 18th-century New Castle houses the Cēsis History Museum.",
+  "history": "The castle was founded by the Livonian Brothers of the Sword (later the Livonian Order) in 1214 as the stronghold of their Latvian territories. It became the seat of the Order's Masters from the 15th century and was repeatedly expanded. During the Livonian Wars (1558–1583) the garrison famously chose to blow up their own powder magazine rather than surrender to Ivan the Terrible's forces. The castle was badly damaged in the Great Northern War and never fully rebuilt. The ruins became a romantic destination in the 19th century and restoration began in the 20th century.",
+  "how_to_visit": "Cēsis is 90 km north-east of Riga on the A2 highway. Trains and buses run regularly from Riga (1–1.5 hours). The castle is in the town centre, a short walk from the bus and train stations. Cēsis itself is one of Latvia's most attractive towns, with a well-preserved old town centre worth exploring alongside the castle. Combine with nearby Sigulda (30 km south) for a full Gauja Valley day trip.",
+  "faqs": [
+    {
+      "question": "What is the candlelit tour experience?",
+      "answer": "Visitors are given a hand lantern to carry as they explore the unlit medieval tower interiors, creating an atmospheric and slightly eerie experience unlike any standard castle visit."
+    },
+    {
+      "question": "Is Cēsis worth a day trip from Riga?",
+      "answer": "Yes — it is one of the most rewarding day trips from Riga, especially combined with Sigulda and the Gauja National Park gorge trails."
+    },
+    {
+      "question": "What is in the New Castle?",
+      "answer": "The 18th-century manor house adjacent to the ruins houses the Cēsis History Museum, covering the town and castle's history from medieval to modern times."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/cesis-castle.webp",
+    "alt": "Cēsis Castle ruins and towers rising above the Latvian town in autumn",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/cesis-castle.webp",
+  "instagram_tag": "#cesiscastle",
+  "meta_title": "Cēsis Castle, Latvia — Medieval Livonian Fortress with Candlelit Tours",
+  "meta_description": "Explore Cēsis Castle in Latvia — a 13th-century Livonian Order fortress with atmospheric ruins, candlelit tours, and a castle history museum.",
+  "tags": ["medieval", "livonian", "latvian-castle", "ruins", "baltic"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["turaida-castle", "sigulda-castle"],
+  "gyg_location_id": "2600",
+  "gyg_search_query": "Cesis castle Latvia tour from Riga",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

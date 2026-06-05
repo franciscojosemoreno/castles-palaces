@@ -1,0 +1,82 @@
+{
+  "id": "san-giusto-castle",
+  "name": "Castle of San Giusto",
+  "local_name": "Castello di San Giusto",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 120000,
+  "country": "italy",
+  "region": "Friuli-Venezia Giulia, Trieste",
+  "nearest_city": "Trieste",
+  "address": "Piazza della Cattedrale 3, 34121 Trieste TS, Italy",
+  "lat": 45.6498,
+  "lng": 13.7687,
+  "unesco": false,
+  "year_built": 1470,
+  "architectural_style": "Venetian Renaissance military",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Extended to 19:00 from June to September. Museum closed Mondays."
+  },
+  "price_adult": 4,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.museocivico.trieste.it",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "Year-round",
+  "accessibility": "Partially accessible — outer terraces reachable; some museum sections have stairs",
+  "booking_advance_days": 0,
+  "tagline": "Trieste's hilltop fortress with sweeping views over the Adriatic",
+  "highlights": [
+    "Panoramic views over Trieste, the harbour, and the Gulf",
+    "Museum of arms and armour inside the Venetian castle",
+    "Bastions offering the finest viewpoint over the city",
+    "Adjacent to the Cathedral of San Giusto on the same hill",
+    "Open-air cinema and events in summer on the castle grounds"
+  ],
+  "description": "Castello di San Giusto crowns the limestone hill at the heart of Trieste, its broad Venetian bastions offering the finest panoramic viewpoint over the city, the Adriatic harbour, and the Gulf of Trieste. Built by the Venetians from 1470 and expanded under Habsburg rule, the castle was the main defensive stronghold of Trieste for centuries. Today it houses the Civic Museum of arms, armour, and historical collections, and its wide terraces are among the most popular outdoor spaces in the city — particularly at sunset. The adjacent Cathedral of San Giusto, a remarkable fusion of two medieval churches, shares the hilltop and is part of the same visitor circuit.",
+  "history": "A Roman forum occupied the hill in antiquity; the Venetians built the first castle tower from 1470. When Trieste came under Habsburg rule in 1382 (and definitively from the 15th century), the Austrians expanded the fortifications into a star-shaped bastioned fortress. It served as a military installation until the 20th century. The museum was established in the mid-20th century and the castle opened fully to the public after World War II.",
+  "how_to_visit": "The castle hill is a 20-minute walk from Trieste's main Piazza Unità d'Italia, or reachable by bus. The hill also offers access to the Roman theatre ruins, the Cathedral of San Giusto, and the best views over the city. Combine with nearby Miramare Castle (8 km north) for a full day of Trieste heritage.",
+  "faqs": [
+    {
+      "question": "What is inside the castle museum?",
+      "answer": "The Civic Museum of the castle holds collections of medieval and Renaissance arms, armour, tapestries, and archaeological finds from the hilltop and surrounding area."
+    },
+    {
+      "question": "Is the Cathedral of San Giusto included in the castle ticket?",
+      "answer": "The cathedral is a separate visit (free entry) but stands immediately beside the castle — most visitors see both on the same hilltop walk."
+    },
+    {
+      "question": "What happens at the castle in summer?",
+      "answer": "The castle grounds host an open-air cinema and various cultural events throughout summer, taking advantage of the terrace views."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/san-giusto-castle.webp",
+    "alt": "Castle of San Giusto on the hill above Trieste harbour in Italy",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/san-giusto-castle.webp",
+  "instagram_tag": "#castellosangiusto",
+  "meta_title": "Castle of San Giusto, Trieste — Venetian Fortress with Adriatic Views",
+  "meta_description": "Visit the Castle of San Giusto in Trieste — a Venetian Renaissance fortress with panoramic Adriatic views and a museum of arms and armour.",
+  "tags": ["venetian", "italian-castle", "trieste", "adriatic", "friuli"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["miramare-castle"],
+  "gyg_location_id": "2742",
+  "gyg_search_query": "Trieste castle San Giusto tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

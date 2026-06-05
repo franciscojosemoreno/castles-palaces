@@ -1,0 +1,105 @@
+{
+  "id": "zurich-rhine-falls-stein-am-rhein-munot",
+  "slug": "zurich-rhine-falls-stein-am-rhein-munot",
+  "name": "From Zurich: Rhine Falls, Stein am Rhein & Munot Fortress",
+  "tagline": "Europe's most powerful waterfall with a medieval castle above it, the most completely preserved painted medieval town in Switzerland, and a circular Renaissance fortress unlike any other in Europe",
+  "departure_country": "switzerland",
+  "departure_city": "Zurich",
+  "visited_countries": [
+    "switzerland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "58180",
+  "gyg_url": "https://www.getyourguide.com/zurich-l55/from-zurich-stein-am-rhein-and-rhine-falls-t58180/",
+  "price_from": 65,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 650,
+  "languages": [
+    "English",
+    "German"
+  ],
+  "max_group_size": 16,
+  "overview": "The canton of Schaffhausen in northern Switzerland contains three of the most extraordinary heritage sites within 20 kilometres of each other. The Rhine Falls — the largest waterfall in Europe by volume, carrying 700,000 litres per second over 23-metre-high limestone ledges — has been defended since the 11th century by Schloss Laufen on the Swiss bank and Schloss Wörth on the German bank. Stein am Rhein, upstream, is the best-preserved medieval town in Switzerland: every building on its central square is covered in painted frescoes depicting heraldic scenes, mythological figures, and historical narratives — a complete medieval streetscape frozen in the 15th-16th century. And Schaffhausen's Munot Fortress, completed in 1589 on the basis of plans by Albrecht Dürer, is the only fully circular fortress in Switzerland — a unique Renaissance military design that has never been seriously tested in battle.",
+  "highlights": [
+    "Schloss Laufen — the 11th-century castle directly above Europe's most powerful waterfall, with viewing platforms over the Rhine Falls",
+    "Rhine Falls — 700,000 litres per second, the largest waterfall in Europe by volume, with the castle rock in the middle of the torrent",
+    "Stein am Rhein — the most completely preserved medieval painted town in Switzerland, with every building on the main square covered in elaborate frescoes",
+    "Kloster St. Georgen — the Benedictine monastery (1007 AD) with its Romanesque cloister and medieval painted guest hall, in the centre of Stein am Rhein",
+    "Munot Fortress, Schaffhausen — the only perfectly circular Renaissance fortress in Switzerland (1564-1589), based on plans by Albrecht Dürer",
+    "Expert guide covering Swiss medieval history, the Rhine border, and the Habsburgs' loss of this region"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Zurich Departure",
+      "duration": "Travel north (45 minutes)",
+      "description": "Head north from Zurich through the Swiss Mittelland toward the Rhine — the river that forms the border between Switzerland and Germany for 170km. The guide introduces the contested history of this stretch of the Rhine: part of the Duchy of Swabia in the medieval period, disputed between the Habsburgs and the Swiss Confederation through the 14th-15th century, and finally secured for Switzerland after 1499 when the Swiss Confederation defeated Emperor Maximilian I in the Swabian War."
+    },
+    {
+      "order": 2,
+      "castle_name": "Schloss Laufen & Rhine Falls",
+      "duration": "2 hours",
+      "description": "Schloss Laufen sits on a limestone cliff directly above the Rhine Falls — the largest waterfall in Europe by volume. The falls are not the tallest (23 metres) but carry more water than any other European waterfall: up to 700,000 litres per second in summer snowmelt. The castle was first built in the 11th century to control the portage route around the falls — all river traffic on the Rhine had to be unloaded above the falls, carried overland, and reloaded below, making the castle a toll and customs post of considerable value. The present structure dates from the 14th-16th century with later additions. The castle's lower levels give access to the viewing platforms: wooden walkways extending over the falls to within metres of the white water. Upstream, a boat can take visitors to the central rock in the middle of the falls."
+    },
+    {
+      "order": 3,
+      "castle_name": "Stein am Rhein",
+      "duration": "2 hours",
+      "description": "Stein am Rhein is the finest medieval painted town in Switzerland and one of the best-preserved small medieval cities in Central Europe. The Rathausplatz (town square) and the Unterstadt (lower town) are lined with buildings dating from the 15th to 17th centuries, every facade covered in narrative frescoes: heraldic scenes, mythological stories, historical events, and decorative patterns applied and repainted continuously since the 1520s. The Kloster St. Georgen (founded 1007 AD) occupies the end of the lower town — a Benedictine monastery with a Romanesque cloister, a Gothic church, and a painted guest hall (Kaisersaal) with remarkable late-medieval murals. Above the town, Hohenklingen Castle (12th century) guards the vineyard-covered ridge — the view from its tower takes in the Rhine valley, the Swiss Mittelland, and the German Black Forest."
+    },
+    {
+      "order": 4,
+      "castle_name": "Munot Fortress, Schaffhausen",
+      "duration": "1 hour",
+      "description": "The Munot is the most unusual fortress in Switzerland — a perfectly circular Renaissance fortification built between 1564 and 1589 by the imperial free city of Schaffhausen. The plans were based on designs from Albrecht Dürer's 1527 treatise on fortification, adapted by local master builders. The result is a circular drum of masonry with a ramp (not stairs) spiralling up through the interior to the roof, designed so that cannon could be wheeled directly to the battlements. The Munot has never been seriously attacked; its military function was superseded by the decline of city-state warfare in the 17th century. Since 1839 the fortress has been maintained by the Munot Brotherhood — a guild of winemakers who ring the bell in the tower at 8pm every evening."
+    }
+  ],
+  "included": [
+    "Return transport from Zurich",
+    "Professional English and German-speaking guide",
+    "Schloss Laufen entry and Rhine Falls viewing platforms",
+    "Stein am Rhein guided walk",
+    "Munot Fortress entry",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Rhine Falls boat to the central rock (optional, seasonal, ~CHF 8)",
+    "Kloster St. Georgen museum entry (optional, ~CHF 5)",
+    "Lunch (free time in Stein am Rhein — the fish restaurants on the Rhine are recommended)"
+  ],
+  "meeting_point": "Zurich city centre — exact location confirmed at booking",
+  "tips": [
+    "The Rhine Falls are at peak flow in June-July when Alpine snowmelt is highest — the volume and spray are spectacular. In late summer and autumn the water level drops significantly",
+    "Stein am Rhein's frescoed facades are best photographed in morning light when the square faces east — afternoon shadows reduce the visibility of the painted detail",
+    "The Munot Brotherhood rings the fortress bell at 8pm every evening — if the tour timing allows, this is a charming tradition to witness from the battlements",
+    "Hohenklingen Castle above Stein am Rhein requires a 30-minute climb from the town — not included in the standard tour but highly recommended for independent exploration"
+  ],
+  "faqs": [
+    {
+      "question": "Why is the Rhine Falls not taller if it's the largest waterfall in Europe?",
+      "answer": "The Rhine Falls is the largest waterfall in Europe by volume — the total amount of water flowing over the ledges. It is not the tallest (at 23 metres it is modest in height compared to Scandinavian waterfalls) but the Rhine is one of Europe's major rivers, and the entire flow is compressed over a relatively narrow band of limestone ledges. In peak summer flow, up to 1.25 million litres per second pass over the falls — a quantity that produces the thundering noise and spray cloud visible from kilometres away."
+    },
+    {
+      "question": "What makes Stein am Rhein's frescoes different from other painted towns?",
+      "answer": "Most Central European medieval towns have painted facades on individual landmark buildings. What makes Stein am Rhein exceptional is the completeness: virtually every building on the main square and the adjacent streets has painted facades, creating a coherent medieval visual environment rather than scattered examples. The paintings began in the 1520s and have been continuously repainted and restored since — what you see is not original 16th-century paint but the result of 500 years of continuous artistic maintenance."
+    },
+    {
+      "question": "Who rings the Munot bell and why?",
+      "answer": "The Munot Brotherhood (Munotzunft) is a guild founded in 1839, originally of winemakers and now open to residents of Schaffhausen. Members volunteer to ring the Munot bell (the Munotsglöggli) at 8pm every evening — a tradition going back to the 16th century when the bell was rung as a curfew signal. The Brotherhood also maintains the fortress and organises the annual Munot Festival. Ringing the bell is considered one of the great honours of Schaffhausen civic life."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/zurich-rhine-falls-stein-am-rhein-munot.webp",
+    "alt": "Schloss Laufen castle above the Rhine Falls at Schaffhausen, Switzerland",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "From Zurich: Rhine Falls, Stein am Rhein & Munot Fortress Day Trip",
+    "description": "Day trip from Zurich to Schloss Laufen above the Rhine Falls, the frescoed medieval town of Stein am Rhein, and Schaffhausen's unique circular Munot Fortress."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "raglan-castle",
+  "name": "Raglan Castle",
+  "local_name": "Castell Rhaglan",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 90000,
+  "country": "wales",
+  "region": "Monmouthshire",
+  "nearest_city": "Newport",
+  "address": "Castle Road, Raglan, NP15 2BT, Wales",
+  "lat": 51.7681,
+  "lng": -2.8567,
+  "unesco": false,
+  "year_built": 1435,
+  "architectural_style": "Late medieval / early Renaissance",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "11:00–17:00",
+    "seasonal_note": "Extended to 18:00 April to October. Managed by Cadw (Welsh heritage). Reduced hours in winter."
+  },
+  "price_adult": 7,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/raglan-castle",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — main courtyard flat; towers and upper areas have stairs",
+  "booking_advance_days": 0,
+  "tagline": "The last great medieval castle built in Wales — a courtly fortress of rare grandeur",
+  "highlights": [
+    "The last great castle built in medieval Wales (1435)",
+    "Remarkable Great Tower — a hexagonal moated keep in its own right",
+    "Pitfield Hall and state apartments reflecting early Renaissance influence",
+    "Last major castle in Britain to fall during the Civil War (1646)",
+    "Stunning stonework and carved detail surviving in the ruins"
+  ],
+  "description": "Raglan Castle is the last great medieval castle built in Wales and one of the most impressive ruins in Britain, its towering hexagonal Great Tower rising from its own moat within the outer walls. Built from 1435 by Sir William ap Thomas — the 'Blue Knight of Gwent' — and massively extended by his son William Herbert, Earl of Pembroke, the castle blended medieval military strength with Renaissance courtly elegance in a way unique in Wales. Its Great Hall, state apartments, and fountain court were among the finest in 15th-century Britain. Raglan was the last major castle to hold out for the Royalist cause during the English Civil War, falling to Parliamentary forces in 1646 after a three-month siege. Parliament ordered the Great Tower to be demolished, but the effort proved so difficult that the demolition was abandoned, leaving the tower standing in its battered but still imposing state today.",
+  "history": "Construction began in 1435 under Sir William ap Thomas on the site of an earlier fortification. His son William Herbert, created Earl of Pembroke by Edward IV, transformed it into one of the finest castles in Britain between 1461 and 1469. The young Henry Tudor (later Henry VII) was brought up here for a time. The castle reached its peak splendour under the Earls of Worcester in the 16th and 17th centuries. During the Civil War it served as the Royalist headquarters in South Wales; it was the last castle in Britain to surrender to Parliamentary forces, falling on 19 August 1646 after a prolonged siege. It was deliberately slighted but never fully demolished.",
+  "how_to_visit": "Raglan village is 14 km north-west of Newport (Gwent) and 24 km south-west of Monmouth, off the A40. Buses run from Abergavenny and Monmouth. By car it is 25 km from Newport and 70 km from Cardiff via the A449. Combine with nearby Abergavenny (gateway to the Brecon Beacons) and White Castle for a full Monmouthshire castle day.",
+  "faqs": [
+    {
+      "question": "Why is the Great Tower still standing if Parliament ordered it demolished?",
+      "answer": "Parliamentary forces attempted to pull it down after the Civil War siege, but the exceptional quality of the masonry made demolition so difficult they eventually gave up — leaving it in its dramatic half-ruined state."
+    },
+    {
+      "question": "Did Henry VII really grow up at Raglan?",
+      "answer": "Yes — the young Henry Tudor spent part of his childhood at Raglan Castle under the wardship of William Herbert, Earl of Pembroke, in the 1460s."
+    },
+    {
+      "question": "Who manages Raglan Castle today?",
+      "answer": "Raglan is managed by Cadw, the Welsh Government's historic environment service, which cares for over 130 historic sites across Wales."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/raglan-castle.webp",
+    "alt": "Raglan Castle Great Tower and ruins in Monmouthshire, South Wales",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/raglan-castle.webp",
+  "instagram_tag": "#raglancastle",
+  "meta_title": "Raglan Castle, Wales — The Last Great Medieval Castle of Wales",
+  "meta_description": "Visit Raglan Castle in Monmouthshire — Wales's most impressive late medieval fortress with a moated Great Tower and a dramatic Civil War history.",
+  "tags": ["medieval", "welsh-castle", "monmouthshire", "civil-war", "ruins"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["caerphilly-castle"],
+  "gyg_location_id": "2543",
+  "gyg_search_query": "Raglan Castle Wales tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

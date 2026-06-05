@@ -1,0 +1,90 @@
+{
+  "id": "corvin-castle",
+  "name": "Corvin Castle",
+  "local_name": "Castelul Corvinilor",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 220000,
+  "country": "romania",
+  "region": "Transylvania",
+  "nearest_city": "Deva",
+  "address": "Strada Castelului 1-3, Hunedoara 331141, Romania",
+  "lat": 45.7494,
+  "lng": 22.887,
+  "unesco": false,
+  "year_built": 1440,
+  "architectural_style": "Gothic",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Apr–Sep: 09:00–18:00. Oct–Mar: 09:00–16:00. Last entry 1 hour before closing."
+  },
+  "price_adult": 7,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.castelulcorvinilor.ro/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to October; summer evenings see occasional atmospheric candlelit events",
+  "accessibility": "Multiple levels with steep stairs. The moat bridge and outer courtyard are accessible; interior access requires significant stair-climbing.",
+  "booking_advance_days": 0,
+  "tagline": "The most dramatic Gothic castle in Eastern Europe — turrets, a bear pit, and a Vlad the Impaler legend",
+  "highlights": [
+    "One of the seven wonders of Romania and one of the most dramatic Gothic castles in Europe",
+    "Multiple round towers, a drawbridge moat and a genuine 30-metre well dug by Ottoman prisoners",
+    "Vlad the Impaler was reputedly imprisoned here for 7 years — adding to the Dracula mythology",
+    "The Knights' Hall — a Gothic vaulted chamber of grand proportions used for banquets",
+    "The castle is surrounded by the industrial city of Hunedoara, creating an extraordinary juxtaposition"
+  ],
+  "description": "Corvin Castle creates one of the most startling visual contrasts in all of European travel. You are in an industrial city in the western Romanian highlands — a landscape of communist-era apartment blocks and steel mills — and then, rounding a bend in the road, a 15th-century Gothic castle erupts from a rock above the Zlasti river: towers, drawbridge, stone moat, crenellations, all of it intact and all of it wildly incongruous against the backdrop of Hunedoara's post-industrial skyline.\n\nThis combination of genuine medieval drama and industrial modernity is, paradoxically, what makes Corvin one of Eastern Europe's most memorable castle experiences. The castle itself is extraordinary by any measure — multiple round towers of varying heights, a working drawbridge (restored), a 30-metre well dug by Ottoman prisoners who were promised freedom if they reached water (they did; they weren't freed), and a series of Gothic halls including the magnificent Knights' Hall that still show their original stone vaulting.\n\nJohn Hunyadi, the Hungarian regent and warlord who built the castle in the 1440s on the foundations of an earlier fortification, was one of the most effective military commanders of the 15th century — the man who repeatedly stopped the Ottoman advance into Central Europe. His son Matthias Corvinus became King of Hungary and one of the Renaissance's great royal patrons. Vlad the Impaler, later associated with the Dracula legend, was reputedly imprisoned at Corvin for seven years — another thread connecting Transylvania's medieval history to its vampire mythology.",
+  "history": "John Hunyadi began constructing Corvin Castle in the 1440s on the site of an earlier fortification owned by his family. Hunyadi was a remarkable figure — of disputed noble origins, he rose to become regent of Hungary and the most successful military commander against the Ottoman expansion into Europe. His victories at the Siege of Belgrade (1456), which he won while dying of plague, are credited with delaying the Ottoman conquest of Central Europe by decades.\n\nThe castle was designed as a residence worthy of Hunyadi's status, combining defensive strength with palatial accommodation. The Knights' Hall, the Council Chamber, the Royal Gallery and the Chapel were all built during his tenure. His son Matthias Corvinus — who became one of the Renaissance's great kings, transforming Hungary's capital Buda into a centre of humanist culture — was born at the castle in 1443.\n\nVlad III Dracula's alleged imprisonment at Corvin is one of the castle's most contested historical claims. Contemporary documents record Vlad's imprisonment in Hungary after 1462 under King Matthias, but the specific location is disputed — some sources say Corvin, others point to Visegrád. The castle's current owners embrace the connection enthusiastically, as does the region's tourism industry.\n\nCorvin Castle passed through various owners — the Hungarian Crown, the Bethlen family, the Habsburg administration — and saw military action during the 17th-century Ottoman wars. Major restoration work was undertaken in the 19th and 20th centuries. Despite being surrounded by one of Romania's largest steel-producing cities, the castle itself is remarkably complete.",
+  "how_to_visit": "**Getting there:** Hunedoara has no train station. The nearest rail hub is Simeria (12km), served by trains on the Bucharest–Cluj line. From Simeria, bus or taxi to Hunedoara (15 min). From Brașov, driving via the Transylvanian highway takes about 2.5 hours. The castle is in the centre of Hunedoara, signposted from all approaches.\n\n**The approach:** Cross the drawbridge and enter through the gatehouse — the castle is accessible without a guide, which allows you to explore at your own pace. Take the outer walls first for the best overview, then work through the interior halls. The well in the inner courtyard is genuinely impressive; the story of the Ottoman prisoners is explained by plaques on site.\n\n**Combine with:** Peleș Castle (Sinaia, 150km east) and Bran Castle (Brașov, 130km east) form the classic Transylvania triangle. Corvin is less visited than either, which means shorter queues and a more genuine atmosphere.",
+  "faqs": [
+    {
+      "question": "Was Vlad the Impaler really imprisoned at Corvin Castle?",
+      "answer": "Possibly. Vlad III was imprisoned by King Matthias Corvinus of Hungary after 1462 in disputed circumstances — some historians believe he was held at Corvin Castle, others at Visegrád. The documentary evidence is ambiguous. What is certain is that Vlad was released from Hungarian captivity around 1475 and briefly regained the Wallachian throne before being killed in battle. The castle's association with Vlad is historically plausible but not definitively proven."
+    },
+    {
+      "question": "How unusual is the setting of Corvin Castle?",
+      "answer": "Very. Corvin Castle sits in the industrial city of Hunedoara, which grew up around Romania's largest steel plant — still operating nearby. The juxtaposition of a Gothic medieval castle with communist-era apartments and industrial infrastructure creates one of the strangest visual contrasts in European travel. The castle predates the industry by 500 years; the industry grew up around it. Both are now part of the experience."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/corvin-castle.webp",
+    "alt": "Corvin Castle in Hunedoara, Transylvania — Gothic towers and drawbridge rising dramatically above the Zlasti river",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/corvin-castle.webp",
+  "instagram_tag": "#corvinscastle",
+  "meta_title": "Corvin Castle Romania: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Corvin Castle in Transylvania — Romania's most dramatic Gothic fortress. Dracula connections, a well dug by Ottoman prisoners and stunning medieval architecture.",
+  "tags": [
+    "gothic",
+    "medieval",
+    "dramatic",
+    "haunted",
+    "instagram-worthy",
+    "off-the-beaten-path"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "transylvania-castles"
+  ],
+  "nearby_castles": [
+    "bran-castle",
+    "peles-castle"
+  ],
+  "gyg_location_id": "977",
+  "gyg_search_query": "Corvin Castle Transylvania tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

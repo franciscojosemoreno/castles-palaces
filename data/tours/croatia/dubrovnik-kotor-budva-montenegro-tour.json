@@ -1,0 +1,104 @@
+{
+  "id": "dubrovnik-kotor-budva-montenegro-tour",
+  "slug": "dubrovnik-kotor-budva-montenegro-tour",
+  "name": "From Dubrovnik: Perast, Kotor & Budva – Montenegro's Three Fortified Towns",
+  "tagline": "Three medieval walled towns on the Adriatic in one day — the most spectacular fortification circuit in the former Yugoslavia",
+  "departure_country": "croatia",
+  "departure_city": "Dubrovnik",
+  "visited_countries": [
+    "croatia",
+    "montenegro"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "433899",
+  "gyg_url": "https://www.getyourguide.com/dubrovnik-l513/from-dubrovnik-perast-kotor-budva-small-group-day-trip-t433899/",
+  "price_from": 60,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 1240,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "South of Dubrovnik, the Adriatic coast enters Montenegro — and the landscape becomes, if anything, more dramatic. The Bay of Kotor is a landlocked sea fjord, a drowned river valley enclosed by mountains rising to 2,000 metres, creating the only fjord in the Mediterranean. Three medieval walled towns line its shores, each a self-contained fortified world: Perast (a Baroque village of 17 churches and 2 sea islands, all within a few hundred metres); Kotor (a UNESCO World Heritage walled city whose 4.5-kilometre walls climb from sea level to 280 metres, encircling an intact medieval city of Venetian palaces, Romanesque churches and Byzantine towers); and Budva (a coastal walled old town on a promontory, fortified for 2,500 years and studded with Venetian-era towers). The guide covers the extraordinary story of the Bay of Kotor: how the Venetian Republic, the Ottoman Empire, the Habsburgs and Napoleon all fought for control of this landlocked sea, and how the cities within it somehow maintained their independence and identity through every occupation.",
+  "highlights": [
+    "Kotor Old Town (UNESCO) — a Venetian walled city whose 4.5 km walls climb 280 metres up the mountain, encircling intact medieval streets",
+    "The hike up Kotor's walls — 1,350 steps to the summit fortress of San Giovanni, with views over the entire bay",
+    "Perast — a Baroque village of aristocratic sea-captains, famous for the two tiny fortified islands in the bay",
+    "Our Lady of the Rocks — a manmade island church built by Perast sailors who threw a stone into the sea every 22 July for 400 years",
+    "Budva Old Town — a Venetian-walled coastal promontory fortified since 500 BC, with the Venetian Citadel guarding the Adriatic",
+    "The Bay of Kotor — the only fjord in the Mediterranean, enclosed by 2,000-metre mountains"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Dubrovnik Departure & Border Crossing",
+      "duration": "Travel south (1.5 hours)",
+      "description": "Head south from Dubrovnik along the Adriatic coast, crossing from Croatia into Montenegro at the Debeli Brijeg border crossing. The guide introduces the unique political history of the Bay of Kotor — a landlocked sea enclosed by mountains that made it one of the most defensible harbours in the Mediterranean and one of the most fought-over. The Venetian Republic controlled these shores for 400 years; their fortification programme created the walled cities visible today."
+    },
+    {
+      "order": 2,
+      "castle_name": "Perast & Our Lady of the Rocks",
+      "duration": "1.5 hours",
+      "description": "Perast is a Baroque village so small — a single main street, 17 churches, perhaps 400 inhabitants at its peak — that it feels like a stage set. Yet it was one of the most important maritime communities in the Adriatic in the 17th and 18th centuries: Perast sea-captains trained the first Russian naval officers for Peter the Great, and the town's merchants built the palaces and churches still visible along the waterfront. Just offshore, two tiny islands float in the bay: Sveti Đorđe (St George Island, a medieval Benedictine monastery) and Gospa od Škrpjela (Our Lady of the Rocks), a manmade island created by Perast sailors who — by local custom — threw a stone and a votive offering into the sea each 22 July for 400 years, gradually building up a reef on which the church now stands."
+    },
+    {
+      "order": 3,
+      "castle_name": "Kotor Walled City",
+      "duration": "2.5 hours",
+      "description": "Kotor's old town is enclosed by 4.5 kilometres of walls — the longest and highest medieval defensive system in the Adriatic. The walls begin at sea level, run along the waterfront for 600 metres, then climb steeply up the mountain to the Fortress of San Giovanni at 280 metres, enclosing the entire slope in a triangle of towers, bastions and curtain walls. Within the walls, the medieval city is extraordinarily intact: the Cathedral of Saint Tryphon (12th century Romanesque, built by the seafarers of Kotor), the Church of Saint Luke (1195, one of the oldest in the Adriatic), Byzantine palaces, Venetian loggias and a maze of marble streets. The guide covers the 1538 Ottoman siege that failed when the Venetians held the walls, and the 1979 earthquake that destroyed 70% of the buildings — rebuilt stone by stone using the original materials."
+    },
+    {
+      "order": 4,
+      "castle_name": "Budva Old Town & Citadel",
+      "duration": "1.5 hours",
+      "description": "Budva's old town occupies a small peninsula jutting into the Adriatic — a naturally defensible promontory that has been fortified for 2,500 years. The Venetian citadel at the southern tip of the peninsula is the most visually dramatic: its walls dropping directly into the sea, its towers surveying both the bay and the open Adriatic. The old town streets within the walls are Venetian in character — marble pavements, church facades, narrow alleys opening onto small piazzas. The guide covers the town's extraordinary history: a Greek colony from the 5th century BC, a Roman city, a Byzantine fortress, a Venetian possession from 1443, briefly Napoleonic, then Austrian, then Yugoslav, and finally Montenegrin."
+    }
+  ],
+  "included": [
+    "Return transport from Dubrovnik",
+    "Professional English-speaking guide throughout",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Montenegro entry fee (€0 — no visa required for EU/US/UK citizens)",
+    "Kotor walls entry (~€8 — required to hike the walls, optional to skip)",
+    "Boat trip to Our Lady of the Rocks (optional, ~€5)",
+    "Budva Citadel entry (~€2)",
+    "Lunch (free time in Kotor old town)"
+  ],
+  "meeting_point": "Dubrovnik city centre — exact departure point confirmed at booking",
+  "tips": [
+    "Hike Kotor's walls — 1,350 steps to the summit of San Giovanni. The climb takes 1 hour up, 45 minutes down, and the view over the Bay of Kotor from the top is one of the greatest in Europe. Bring water.",
+    "Visit Our Lady of the Rocks by boat if possible — the interior is wallpapered entirely in 2,500 ex-votos painted by sailors whose ships were saved from storms by their prayers at the island",
+    "Budva beach clubs and nightlife make it the Montenegrin equivalent of Mykonos — arrive early before the crowds",
+    "Perast is best photographed at dawn before tour groups arrive — the reflection of the two islands in calm water is extraordinary"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Bay of Kotor really a fjord?",
+      "answer": "Technically it is a 'fjord-like ria' — a drowned river valley (the flooded canyon of the ancient Skadar River) rather than a glacially-carved fjord. However, it functions exactly like a fjord: a long, narrow inlet of seawater enclosed by mountains, with almost no tidal variation. It is often called 'the southernmost fjord in Europe' and is the only such formation in the Mediterranean."
+    },
+    {
+      "question": "Do I need a visa to enter Montenegro from Croatia?",
+      "answer": "No — Montenegro allows visa-free entry for EU, US, UK, Canadian, Australian and most other Western passport holders for stays up to 90 days. The border crossing is straightforward; ensure you have your passport (not just an ID card for some nationalities). Montenegro is not in the EU or Schengen zone, so a brief stop at the border is required."
+    },
+    {
+      "question": "Is it worth hiking Kotor's city walls?",
+      "answer": "Yes — absolutely. The view from the Fortress of San Giovanni at 280 metres over the entire Bay of Kotor, with its mountain backdrop and the tiny walled city below, is one of the greatest views in the Adriatic. The climb is steep (1,350 steps) and should be avoided in midday summer heat, but the morning light is ideal. Allow 2–2.5 hours for the full circuit."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/dubrovnik-kotor-budva-montenegro-tour.webp",
+    "alt": "Kotor's medieval walled city and the Bay of Kotor enclosed by the Montenegrin mountains",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Dubrovnik: Perast, Kotor & Budva – Montenegro's Three Fortified Towns Day Trip",
+    "description": "Small-group day trip from Dubrovnik to three UNESCO-listed fortified towns in Montenegro — Perast, Kotor and Budva — on the shores of the Bay of Kotor, the only fjord in the Mediterranean."
+  }
+}

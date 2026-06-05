@@ -1,0 +1,84 @@
+{
+  "id": "kronborg-castle",
+  "name": "Kronborg Castle",
+  "local_name": "Kronborg Slot",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 350000,
+  "country": "denmark",
+  "region": "Zealand",
+  "nearest_city": "Helsingør",
+  "address": "Kronborg 2C, 3000 Helsingør, Denmark",
+  "lat": 56.0393,
+  "lng": 12.6211,
+  "unesco": true,
+  "year_built": 1574,
+  "architectural_style": "Renaissance — Dutch/Flemish style, square plan with round corner towers",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Jun–Aug: 10:00–17:30. Sep–May: 11:00–16:00. Closed Mondays (Nov–Mar). Closed 24–25 Dec."
+  },
+  "price_adult": 155,
+  "price_child": 60,
+  "booking_required": false,
+  "official_tickets_url": "https://www.kronborg.dk/en",
+  "visit_duration": "2–3 hours",
+  "best_season": "June to August — best light and weather for the terraces, summer programme and Hamlet performances",
+  "accessibility": "The main halls are accessible. The casemates (underground tunnels) require steps. Accessible entrance via prior arrangement.",
+  "booking_advance_days": 0,
+  "tagline": "Hamlet's castle — the Renaissance fortress guarding the narrowest point of the Baltic passage",
+  "highlights": [
+    "The Great Hall — at 62 metres, one of the longest Renaissance halls in northern Europe, lit by 40 windows",
+    "The casemates — dark underground passages beneath the castle where the legendary sleeping warrior Holger Danske is said to wait",
+    "Hamlet productions — the world's most famous outdoor Shakespeare performances, staged in the castle courtyard each summer",
+    "The location — the castle sits on a promontory where the Sound narrows to just 4km between Denmark and Sweden, Sweden visible on a clear day",
+    "The Flemish tapestries — a series of 16th-century tapestries depicting 111 Danish kings, installed in the Great Hall"
+  ],
+  "description": "Kronborg Castle sits on the narrowest point of the Øresund — the strait separating Denmark from Sweden — where the distance to the Swedish coast is just 4 kilometres. For centuries, this choke point made Kronborg the most important strategic position in northern Europe: every ship passing between the North Sea and the Baltic paid a toll at Kronborg's cannon, generating revenue that made the Danish crown enormously wealthy and funding the Renaissance palace that Frederick II built here in 1574.\n\nTo the rest of the world, Kronborg is Elsinore — the castle of Hamlet. Shakespeare set his great tragedy here, and while the historical Amleth (the source of the Hamlet story) may have been Danish, Shakespeare almost certainly never visited Kronborg. The association has nonetheless been profound: productions of Hamlet have been staged at the castle since 1816, and the RSC, Laurence Olivier, Kenneth Branagh and countless others have performed here. Below the castle, in the casemates — the great underground defensive passages — sits a stone statue of Holger Danske, the sleeping giant of Danish legend, who will awake when Denmark is in mortal danger.\n\nThe castle itself is one of the finest Renaissance buildings in Scandinavia. The Great Hall, at 62 metres one of the longest Renaissance rooms in northern Europe, was hung with 40 Flemish tapestries depicting Danish kings — 14 survive today. The spire, destroyed by fire in 1629 and rebuilt in the original style, is visible from the Swedish shore at Helsingborg.",
+  "history": "The first fortification at the Kronborg promontory was Krogen Castle, built by Eric of Pomerania in the 1420s to enforce the Øresund toll. Frederick II demolished Krogen and replaced it with the Renaissance castle of Kronborg between 1574 and 1585, using the Dutch master builders Anthonis Opbaus and Arent Opbaus. The new castle was one of the largest in Scandinavia and a statement of Danish power at the height of the country's dominance of Baltic trade.\n\nIn 1629 a fire destroyed much of the interior, though the outer walls survived. Christian IV immediately ordered a reconstruction, completed in 1637, in the same Renaissance style. Sweden captured the castle in 1658 during the wars that reduced Denmark to its current borders, and Kronborg was used as a Swedish base for several years before being returned to Denmark in the peace settlement. The castle was used as a military barracks from the 18th century until 1924, causing considerable interior damage. A major restoration began in 1924 and continued through the 20th century, and it was inscribed as a UNESCO World Heritage Site in 2000.",
+  "how_to_visit": "**Getting there:** Helsingør is 45 minutes from Copenhagen Central Station by train (regular departures, around DKK 60 one way). From Helsingør station, the castle is a 10-minute walk along the waterfront. A ferry also connects Helsingør to Helsingborg, Sweden (20 minutes).\n\n**Hamlet at Kronborg:** The Royal Danish Theatre and various international companies stage Hamlet at the castle each summer (usually late July to early August). Tickets must be booked in advance — kronborg.dk has the schedule.\n\n**Casemates:** The underground passages beneath the castle are atmospheric and atmospheric — lit only by small torches, with the sleeping figure of Holger Danske at the centre. They can be cold even in summer; bring a layer.\n\n**Combine with:** The Hornbæk beach (25 minutes north by train — one of Denmark's best), the Louisiana Museum of Modern Art (Humlebæk, 15 minutes south by train — extraordinary seaside art museum), and the Fredensborg Palace garden make excellent additions.",
+  "faqs": [
+    {
+      "question": "Is Kronborg Castle really the castle from Hamlet?",
+      "answer": "Shakespeare set Hamlet at 'Elsinore', the old English name for Helsingør, and Kronborg Castle is identified with the castle in the play. However, Shakespeare almost certainly never visited Denmark and took the setting from earlier Scandinavian sources. The historical 'Amleth' story, from which Shakespeare derived his plot, predates the current Kronborg castle entirely. Despite the fictional connection, Hamlet has been performed at the castle since 1816 — most famously by Laurence Olivier, John Gielgud, Vivien Leigh and Kenneth Branagh."
+    },
+    {
+      "question": "Who is Holger Danske and why is he at Kronborg?",
+      "answer": "Holger Danske (Holger the Dane) is a legendary warrior-hero of Danish folklore, said to sleep in the casemates below Kronborg until Denmark faces a great danger, when he will awake and come to the nation's defence. A stone statue of the sleeping Holger sits in the casemates. The legend is similar to the Arthurian sleeping king myths found across Europe. Hans Christian Andersen wrote a famous story about Holger Danske set at Kronborg."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/kronborg-castle.webp",
+    "alt": "Kronborg Castle on its promontory above the Øresund strait at dawn, Sweden visible across the water",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/kronborg-castle.webp",
+  "instagram_tag": "#kronborgcastle",
+  "meta_title": "Kronborg Castle: Tickets, Hamlet & Visitor Guide 2026",
+  "meta_description": "Visit Kronborg Castle (Hamlet's Elsinore) — a UNESCO-listed Renaissance fortress in Denmark with Hamlet performances, the Great Hall and the casemates of Holger Danske.",
+  "tags": [
+    "renaissance",
+    "unesco",
+    "dramatic",
+    "shakespeare",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "49",
+  "gyg_search_query": "Kronborg Castle Hamlet tour Denmark",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

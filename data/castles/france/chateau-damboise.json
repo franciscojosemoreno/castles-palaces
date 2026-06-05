@@ -1,0 +1,109 @@
+{
+  "id": "chateau-damboise",
+  "name": "Château d'Amboise",
+  "local_name": "Château Royal d'Amboise",
+  "type": "chateau",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 430000,
+  "country": "france",
+  "region": "Loire Valley",
+  "nearest_city": "Tours",
+  "address": "Montée de l'Emir Abd el Kader, 37400 Amboise, France",
+  "lat": 47.4133,
+  "lng": 0.9848,
+  "unesco": true,
+  "year_built": 1492,
+  "architectural_style": "Late Gothic and Early Renaissance",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Nov–Jan: 09:00–12:00, 14:00–17:00. Feb–Mar & Oct: 09:00–17:30. Apr–Jun & Sep: 09:00–18:30. Jul–Aug: 09:00–19:00."
+  },
+  "price_adult": 16,
+  "price_child": 10,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateau-amboise.com/en/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to June; the son et lumière show runs July–August evenings",
+  "accessibility": "The main terrace and gardens are accessible. The towers and some interior areas have steep stairs. Limited wheelchair access to some sections.",
+  "booking_advance_days": 0,
+  "tagline": "Where the French Renaissance began — and where Leonardo da Vinci died",
+  "highlights": [
+    "The royal residence where the French Renaissance arrived from Italy in the 1490s",
+    "Leonardo da Vinci spent his final years here as François I's guest, dying in 1519 at Clos Lucé nearby",
+    "The Chapel of St-Hubert contains what is believed to be Leonardo's tomb",
+    "The terraced gardens offer panoramic views of the Loire river and valley",
+    "The Tour des Minimes — a ramp-driven round tower wide enough to ride a horse inside"
+  ],
+  "description": "Amboise is where the French Renaissance was born. When Charles VIII returned from his Italian campaign in 1495, he brought with him 22 Italian craftsmen, gardeners and artists, installed them at his royal château above the Loire, and tasked them with transforming French architecture and taste. The Gothic façade remained, but the loggias, the gardens, the decorative vocabulary and the intellectual atmosphere were Italian.\n\nThe château today is a fragment of what once stood: the original complex was fifteen times larger, covering the entire summit of the cliff above the Loire. Only two buildings survived the 19th-century demolitions — the Royal Lodging and the extraordinary Chapel of St-Hubert, a Flamboyant Gothic jewel perched on the castle's edge. But what survives is extraordinary. The terrace commands a panorama of the Loire Valley that makes clear why this site was chosen: the river sweeping left, the town and its rooftops below, the plain extending south to the horizon.\n\nThe most affecting thing at Amboise is not architectural but biographical. Leonardo da Vinci spent the last three years of his life here as François I's personal guest, installed at the manor of Clos Lucé (a 5-minute walk from the castle) with a pension, a studio and the freedom to work on whatever he chose. He designed river diversion projects, planned entertainments, drew obsessively. He died in May 1519, reportedly in François's arms — though the king was documented elsewhere that day, the story persists. His grave is in the Chapel of St-Hubert, where a plaque marks the tomb.",
+  "history": "Amboise's cliff above the Loire has been fortified since Gallo-Roman times. The medieval fortress passed to the French crown in 1434, becoming a favourite residence of the Valois kings. Charles VIII was born here in 1470 and transformed it into a Renaissance showpiece after his Italian campaign.\n\nLouis XII continued the building works; François I, who was born nearby at Cognac and loved the Loire Valley intensely, made Amboise one of his three principal residences alongside Blois and the newly constructed Chambord. It was François who invited Leonardo da Vinci to France in 1516, providing him with Clos Lucé and the royal pensionnaire status that allowed Leonardo to work freely until his death in 1519.\n\nAmboise's darkest hour came in March 1560, during the Wars of Religion, when a Protestant conspiracy to seize the young King François II (and remove him from the Catholic Guise faction's influence) was betrayed. The conspirators were captured; up to 1,200 were executed and their bodies hung from the castle battlements and the balconies of the town — an event known as the Amboise Conspiracy that poisoned French political life for decades.\n\nThe château declined as a royal residence after the court moved to Paris. Under Napoleon, it was given to the former Bourbon King of Spain, then to the Duc d'Orléans, and its less architecturally significant wings were demolished to reduce maintenance costs — a pragmatic decision that removed approximately 85% of the original complex. The surviving sections belong to the Fondation Saint-Louis (the Orléans family charitable foundation) today.",
+  "how_to_visit": "**Getting there:** Amboise has a train station on the Tours–Blois line. Direct trains from Paris Montparnasse (1h 20min via Tours, or change at Saint-Pierre-des-Corps) run several times daily. The château is a 10-minute walk uphill from the station through the town centre. From Tours, trains take 20 minutes.\n\n**Clos Lucé:** Leonardo's final home and studio is a 5-minute walk from the château entrance along the clifftop. The manor contains reconstructed models of Leonardo's inventions (built from his notebooks by IBM engineers in the 1980s), his bedroom and studio, and the underground caves where he worked on engineering projects. It is separately ticketed (€17 adults) and highly recommended — the combination of château and Clos Lucé makes a half-day.\n\n**Son et lumière:** In July and August, the castle stages evening light shows projecting animated scenes from the château's history onto the façade. One of the most technically sophisticated son et lumière events in France. Book in advance; the season is short.",
+  "faqs": [
+    {
+      "question": "Is Leonardo da Vinci really buried at Amboise?",
+      "answer": "The grave in the Chapel of St-Hubert at the Château d'Amboise is believed to contain Leonardo's remains, but with significant uncertainty. Leonardo died in May 1519 and was originally buried in the collegiate church of Saint-Florentin within the castle complex. During the Revolution, this church was partially demolished and the grave's exact location was lost. In 1863, bones were discovered on the castle site and identified (without conclusive proof) as Leonardo's. These were reinterred in the Chapel of St-Hubert, where a plaque now marks the tomb. DNA comparison with probable descendants has been proposed but not completed."
+    },
+    {
+      "question": "What is Clos Lucé and should I visit it with the Château d'Amboise?",
+      "answer": "Clos Lucé is the manor house where Leonardo da Vinci lived from 1516 until his death in 1519, a 5-minute walk from the château along the clifftop path. It contains his studio, bedroom and reception room as they would have appeared, along with 40 interactive models of his machines built from his notebook sketches. The underground caves show his engineering projects in model form. It is a separate €17 ticket and takes about 1.5 hours. The combination of château and Clos Lucé gives a complete picture of the Loire Valley's relationship with Leonardo."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-damboise.webp",
+    "alt": "Château d'Amboise perched on its clifftop above the Loire river at sunset, towers and chapel silhouetted against the sky",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-damboise.webp",
+  "instagram_tag": "#chateauamboise",
+  "meta_title": "Château d'Amboise: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château d'Amboise in the Loire Valley — where Leonardo da Vinci spent his final years. Book tickets, visit Clos Lucé and discover the birthplace of the French Renaissance.",
+  "tags": [
+    "gothic",
+    "renaissance",
+    "16th-century",
+    "royal-residence",
+    "unesco-world-heritage",
+    "river-castle",
+    "day-trip-from-paris"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-chenonceau",
+    "chateau-de-chambord",
+    "chateau-de-cheverny"
+  ],
+  "gyg_location_id": "504",
+  "gyg_search_query": "Amboise Loire Valley Leonardo tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "10751",
+      "title": "From Paris: Loire Valley Castles Day Trip",
+      "type": "day_trip",
+      "duration": "12–12.5 hours",
+      "price_from": 110,
+      "rating": 4.5,
+      "reviews": 1353,
+      "covers_castles": [
+        "chateau-de-chambord",
+        "chateau-de-chenonceau",
+        "chateau-damboise",
+        "chateau-de-cheverny"
+      ]
+    }
+  ]
+}

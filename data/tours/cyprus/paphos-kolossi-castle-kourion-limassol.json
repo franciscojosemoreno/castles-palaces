@@ -1,0 +1,91 @@
+{
+  "id": "paphos-kolossi-castle-kourion-limassol",
+  "slug": "paphos-kolossi-castle-kourion-limassol",
+  "name": "From Paphos: Kolossi Castle, Kourion & Limassol Day Tour",
+  "tagline": "Crusader fortresses and ancient cities on the sun-baked coast of Cyprus",
+  "departure_country": "cyprus",
+  "departure_city": "Paphos",
+  "visited_countries": [
+    "cyprus"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (7 hours)",
+  "gyg_tour_id": "647865",
+  "gyg_url": "https://www.getyourguide.com/paphos-l426/from-paphosguided-tour-of-limassol-with-kourion-and-kolossi-t647865/",
+  "price_from": 58,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 157,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 18,
+  "overview": "Cyprus has one of the densest concentrations of medieval fortifications in the eastern Mediterranean — a legacy of the Crusades, the Knights Hospitaller, the Byzantine Empire, and the Republic of Venice all leaving their walls on this island. This day tour from Paphos visits two of the most striking: Kolossi Castle, the 15th-century Hospitaller stronghold that served as the Grand Commandery of the Knights of St John and produced the legendary Commandaria wine; and Limassol Castle, a Byzantine-Crusader fortress where Richard the Lionheart married Berengaria of Navarre in 1191. Between the two castles, the tour explores the ancient city of Kourion, one of the most dramatic archaeological sites in Cyprus, perched on cliffs 70 metres above the sea.",
+  "highlights": [
+    "Enter Kolossi Castle — the square Crusader keep of the Knights Hospitaller that served as the Grand Commandery of Cyprus and produced Commandaria, one of the world's oldest named wines",
+    "Walk the clifftop ruins of Ancient Kourion, a Greco-Roman city with a theatre overlooking the Mediterranean and mosaics from the 4th century AD",
+    "Visit Limassol Castle where Richard the Lionheart married Berengaria of Navarre in 1191, now housing the Cyprus Medieval Museum",
+    "Explore Limassol's Old Town and the covered market in the medieval bazaar district",
+    "Discover how three medieval military orders — the Templars, the Hospitallers, and the Teutonic Knights — used Cyprus as a base after the fall of the Holy Land"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Kourion — Ancient City on the Cliffs",
+      "duration": "1.5 hours",
+      "description": "Drive east from Paphos to the clifftop site of Ancient Kourion. Founded in the 2nd millennium BC, the city reached its peak under Roman rule and contains a beautifully restored theatre — still used for performances today — with views over the sea. The House of Eustolios has some of the finest mosaics in Cyprus. A small baptistery and basilica from the early Christian period complete the site, which was abandoned after a catastrophic earthquake in 365 AD."
+    },
+    {
+      "order": 2,
+      "castle_name": "Kolossi Castle",
+      "duration": "1 hour",
+      "description": "Visit the 15th-century keep of Kolossi, built by the Knights of St John (Hospitallers) after they inherited Cyprus from the Templars in 1313. The three-storey tower stands 21 metres high and is one of the best-preserved Crusader military buildings in the eastern Mediterranean. The Knights ran vast sugar cane plantations and vineyards here, producing the sweet Commandaria wine that was served at the court of Richard I and was ordered by the French King Louis IX. The sugarcane mill and storage vaults are visible in the courtyard."
+    },
+    {
+      "order": 3,
+      "castle_name": "Limassol Castle & Old Town",
+      "duration": "2 hours",
+      "description": "Enter Limassol Castle, a Byzantine structure enlarged by the Lusignan Crusader kings in the 13th century. It was in the chapel of this castle or an earlier structure on this site that Richard the Lionheart — after conquering Cyprus in 1191 — married Berengaria of Navarre, making her Queen of England. The castle now houses the Cyprus Medieval Museum with armour, pottery, coins, and Byzantine relics from across the island. Free time to explore the covered souk and Old Town carob warehouses converted into cafés and restaurants."
+    }
+  ],
+  "included": [
+    "Air-conditioned minibus transport from Paphos",
+    "Professional English-speaking guide",
+    "Hotel pickup and drop-off in Paphos"
+  ],
+  "excluded": [
+    "Kolossi Castle entrance fee (approx. €2.50)",
+    "Kourion entrance fee (approx. €4.50)",
+    "Limassol Castle / Medieval Museum entrance (approx. €4.50)",
+    "Meals and drinks"
+  ],
+  "meeting_point": "Hotel pickup from Paphos (confirm address at booking). Return to Paphos by early evening.",
+  "tips": [
+    "The Kourion site is fully exposed — bring sunscreen, a hat, and water (especially between June and September)",
+    "The Limassol Old Town has excellent mezze restaurants near the castle — allow time for a late lunch during free time",
+    "Commandaria wine (produced near Kolossi since Crusader times) is available to buy at the castle shop and at Limassol wineries",
+    "Kolossi Castle entrance is very cheap (around €2.50) and rarely crowded — great for photography"
+  ],
+  "faqs": [
+    {
+      "question": "What is Commandaria wine and where can I buy it?",
+      "answer": "Commandaria is a sweet dessert wine made from sun-dried Xynisteri and Mavro grapes grown in the villages around Kolossi. It is one of the oldest named wines in the world, dating to at least the 12th century. It is widely available in Cypriot wine shops and supermarkets, and at the Kolossi Castle visitor shop."
+    },
+    {
+      "question": "Is Cyprus suitable for a castle-focused trip?",
+      "answer": "Extremely — Cyprus has Crusader castles, Byzantine citadels, Venetian walls, and mountain fortresses (St Hilarion, Kantara, Buffavento in the Kyrenia Range) unseen in most of Western Europe. The island is one of the most underrated medieval destinations in the Mediterranean."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/paphos-kolossi-castle-kourion-limassol.webp",
+    "alt": "Kolossi Crusader Castle tower rising above the citrus groves of Cyprus",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Kolossi Castle & Kourion Day Tour from Paphos, Cyprus | Castles & Palaces",
+    "description": "Day tour from Paphos through 3,000 years of Cypriot history: Ancient Kourion on clifftop ruins, the Crusader keep of Kolossi Castle where Commandaria wine was born, and Limassol Castle where Richard the Lionheart married. Book on GetYourGuide."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "bergenhus-fortress",
+  "name": "Bergenhus Fortress",
+  "local_name": "Bergenhus festning",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 200000,
+  "country": "norway",
+  "region": "Vestland",
+  "nearest_city": "Bergen",
+  "address": "Bergenhus, 5003 Bergen, Norway",
+  "lat": 60.3983,
+  "lng": 5.3130,
+  "unesco": false,
+  "year_built": 1261,
+  "architectural_style": "Medieval Norse and Gothic",
+  "opening_hours": {
+    "monday": "Open 24h (grounds); Håkon's Hall 10:00–16:00",
+    "tuesday": "Open 24h (grounds); Håkon's Hall 10:00–16:00",
+    "wednesday": "Open 24h (grounds); Håkon's Hall 10:00–16:00",
+    "thursday": "Open 24h (grounds); Håkon's Hall 10:00–16:00",
+    "friday": "Open 24h (grounds); Håkon's Hall 10:00–16:00",
+    "saturday": "Open 24h (grounds); Håkon's Hall 10:00–16:00",
+    "sunday": "Open 24h (grounds); Håkon's Hall 10:00–16:00",
+    "seasonal_note": "The fortress grounds are free and open at all times. Håkon's Hall and Rosenkrantz Tower interiors: May–Aug 09:00–16:00, Sep–Apr Tue–Sun 12:00–15:00. Closed Mondays Sep–Apr."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.bymuseet.no/en/museums/bergenhus-fortress/",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "Summer for the best visibility of the fjord and harbour from the fortress walls; Bergen's International Festival (May) uses the fortress as a venue",
+  "accessibility": "The fortress grounds are flat and accessible. Håkon's Hall is accessible on the ground level. The Rosenkrantz Tower involves steep internal staircases and is not fully accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Norway's oldest and most important medieval fortress — commanding the entrance to Bergen harbour since 1261",
+  "highlights": [
+    "Håkon's Hall (Håkonshallen) — the largest secular medieval building in Norway, built by King Håkon Håkonsson in 1261 for his coronation banquet",
+    "Rosenkrantz Tower — a Renaissance defensive tower incorporating an original medieval keep, with views over Bergen harbour and Bryggen",
+    "The fortress commands the entrance to Bergen harbour and has guarded the city through eight centuries of Norwegian history",
+    "Free access to the fortress grounds — a green park in the heart of Bergen with direct views to the Bryggen UNESCO Hanseatic wharf",
+    "Bergen's International Festival (late May) stages major concerts in Håkon's Hall — one of the most atmospheric concert venues in Norway"
+  ],
+  "description": "Bergenhus Fortress occupies the headland at the entrance to Bergen harbour, where the medieval city's most important strategic position has been fortified for over 800 years. The two surviving medieval buildings — Håkon's Hall and the Rosenkrantz Tower — represent the two great phases of medieval construction at Bergenhus and together constitute the finest medieval ensemble in western Norway.\n\nHåkon's Hall was built between 1247 and 1261 by King Håkon IV Håkonsson, the most powerful Norwegian king of the High Middle Ages, as a ceremonial banqueting hall for the royal court. It was completed just in time for the coronation of his son Magnus in 1261 and the wedding celebrations that followed. With a floor area of over 1,100 square metres, it was the largest secular building in medieval Norway and served as the royal court's primary venue for the city of Bergen — then the capital of Norway. Extensively damaged by a munitions explosion in 1944, it was meticulously restored between 1957 and 1961 and now functions as a concert hall, cultural venue, and museum space.\n\nThe Rosenkrantz Tower was built in the 1560s by the Danish governor Erik Rosenkrantz, incorporating an original medieval keep from the 13th century within a larger Renaissance tower. Its purpose was both defensive (controlling the harbour entrance with cannon) and residential (providing the governor with a fortified residence near the hall). The combination of original medieval masonry inside a Renaissance shell makes it one of the more architecturally complex towers in Scandinavia.",
+  "history": "Bergen was Norway's capital and largest city from the 12th to the 17th century, and its harbour entrance was the most strategically important position in the country. Fortifications on the Bergenhus headland date to at least the 11th century, but the structures that survive today date from the reign of Håkon IV (1217–1263) — the period when Norway was at the height of its medieval power, controlling Iceland, Greenland, the Faroe Islands, and the Hebrides.\n\nHåkon IV's construction programme at Bergenhus — including Håkon's Hall and an earlier stone tower — reflected Bergen's role as the administrative and ceremonial capital of the Norwegian realm. The castle remained the residence of the Norwegian royal court until the union with Denmark in 1380 shifted political gravity eastward. Under Danish administration, the Bergenhus complex was substantially modified and expanded as a military fortress in the 16th and 17th centuries.\n\nThe most catastrophic event in the fortress's history occurred on 20 April 1944, when a Dutch ship carrying explosive cargo caught fire in Bergen harbour and exploded with devastating force. Håkon's Hall lost its roof and most of its upper walls; the Rosenkrantz Tower was severely damaged. The post-war restoration was one of the most technically demanding medieval conservation projects in Norway.",
+  "how_to_visit": "**Getting there:** Bergenhus Fortress is in central Bergen, a 5-minute walk from the famous Bryggen wharf. From Bergen airport, the Flybussen express bus reaches the city centre in 30–45 minutes. The fortress is an integral part of any Bergen city visit and can be combined with the Bryggen (Hanseatic wharf), the Fish Market, and the Fløibanen funicular in a single day.\n\n**What to see:** Håkon's Hall interior (check opening hours — it may be closed for events), the Rosenkrantz Tower views, and the fortress grounds with harbour panorama. Entry to the grounds is always free.\n\n**Bryggen combination:** The UNESCO Bryggen Hanseatic wharf — the most iconic image of Bergen — is a 3-minute walk from the fortress gate. The Bryggens Museum in the wharf district complements the medieval history of the fortress.\n\n**Concert season:** Bergen's International Festival (late May) uses Håkon's Hall for major concerts. If visiting in May, check the festival programme.",
+  "faqs": [
+    {
+      "question": "Is Bergenhus Fortress free to visit?",
+      "answer": "The fortress grounds are always free and open to the public. Entry to Håkon's Hall and the Rosenkrantz Tower interiors costs approximately 10 NOK (~€8) for adults. Children under 16 enter free."
+    },
+    {
+      "question": "What happened to the fortress in World War II?",
+      "answer": "On 20 April 1944, a Dutch freighter carrying ammunition exploded in Bergen harbour, causing massive destruction across the waterfront. Håkon's Hall was largely destroyed — its roof and upper walls collapsed. The Rosenkrantz Tower was severely damaged. The Norwegian government undertook a major restoration from 1957 to 1961, reconstructing Håkon's Hall to its medieval appearance using surviving medieval stonework and contemporary masonry techniques."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bergenhus-fortress.webp",
+    "alt": "Bergenhus Fortress Håkon's Hall and Rosenkrantz Tower above Bergen harbour with Bryggen visible beyond, Norway",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bergenhus-fortress.webp",
+  "instagram_tag": "#bergenhus",
+  "meta_title": "Bergenhus Fortress Bergen: Tickets, Håkon's Hall & Visitor Guide 2026",
+  "meta_description": "Visit Bergenhus Fortress in Bergen — Norway's oldest medieval fortress with Håkon's Hall (1261) and Rosenkrantz Tower. Free grounds, spectacular harbour views. Complete guide.",
+  "tags": ["medieval", "norse", "harbour", "norway", "viking-age"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["akershus-fortress"],
+  "gyg_location_id": "237",
+  "gyg_search_query": "Bergenhus Fortress Bergen tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

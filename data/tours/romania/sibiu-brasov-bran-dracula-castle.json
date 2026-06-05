@@ -1,0 +1,91 @@
+{
+  "id": "sibiu-brasov-bran-dracula-castle",
+  "slug": "sibiu-brasov-bran-dracula-castle",
+  "name": "From Sibiu: Brașov & Bran Castle Day Tour",
+  "tagline": "Two of Transylvania's greatest cities and its most famous Gothic fortress",
+  "departure_country": "romania",
+  "departure_city": "Sibiu",
+  "visited_countries": [
+    "romania"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10–12 hours)",
+  "gyg_tour_id": "137495",
+  "gyg_url": "https://www.getyourguide.com/sibiu-l1833/sb03-day-tour-to-brasov-and-dracula-s-castle-t137495/",
+  "price_from": 42,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 280,
+  "languages": [
+    "English",
+    "Romanian"
+  ],
+  "max_group_size": 20,
+  "overview": "Sibiu is the most perfectly preserved Saxon city in Transylvania — a medieval town of coloured baroque houses, cobblestone squares, and pastel-painted towers that served as the imperial capital of the Habsburg province of Transylvania in the 18th century. From Sibiu, this tour heads east through the Carpathian hills to Brașov, home of the largest Gothic church in Romania and one of the best-preserved medieval city walls in Central Europe, and then south to Bran Castle — the 14th-century Gothic fortress on a clifftop above the Bran Pass that inspired Bram Stoker's descriptions of Dracula's lair. The combination gives a complete picture of Transylvanian castle architecture from the Saxon fortified towns to the Teutonic and Wallachian frontier fortresses.",
+  "highlights": [
+    "Visit Bran Castle — the Gothic cliff-edge fortress of the Bran Pass, known worldwide as Dracula's Castle, built by the Teutonic Knights in 1212 and rebuilt in stone in 1388",
+    "Explore Brașov's medieval old town with its Black Church (the largest Gothic church in Romania), Saxon city walls, and the cobblestoned Piața Sfatului",
+    "Walk Sibiu's baroque Piața Mare and Piața Mică, surrounded by 18th-century Saxon merchant houses with the characteristic arched windows known as 'the eyes of Sibiu'",
+    "See the Council Tower (Turnul Sfatului) and the series of medieval defensive towers that once protected Sibiu's Saxon community from Ottoman raids",
+    "Hear the legend of Vlad the Impaler — the historical Prince of Wallachia who may have inspired Stoker's vampire count — and his genuine connection to Bran Pass and Transylvania"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Sibiu — Saxon Medieval City",
+      "duration": "1.5 hours",
+      "description": "Depart from Sibiu (Hermannstadt) with a morning walk through the city's medieval core. Visit the Piața Mare (Great Square) flanked by baroque merchants' houses, the Brukenthal National Museum (once the palace of the Habsburg Governor), and the medieval Soldiers' Tower (Turnul Soldaților) and Potters' Tower (Turnul Olarilor) — remnants of Sibiu's triple ring of defensive walls. The famous 'eyes of Sibiu' — dormer windows on roof slopes that resemble watchful eyes — are visible throughout the old town."
+    },
+    {
+      "order": 2,
+      "castle_name": "Brașov — Black Church & City Walls",
+      "duration": "2 hours",
+      "description": "Drive east over the Carpathian foothills to Brașov (Kronstadt), the second great Saxon city of Transylvania. Visit the Black Church (Biserica Neagră), built between 1383 and 1477 and named for the soot that darkened its walls during the Great Fire of 1689 — the largest Gothic church in Romania and the easternmost Gothic basilica in Europe. Walk the remaining sections of the Saxon city walls and towers that once made Brașov one of the most formidably defended towns in the Carpathians."
+    },
+    {
+      "order": 3,
+      "castle_name": "Bran Castle",
+      "duration": "2 hours",
+      "description": "Drive 30 minutes south to Bran Castle, perched on a 60-metre rocky crag above the Bran Pass. The castle was originally built by the Teutonic Knights in 1212, rebuilt in stone by the city of Brașov in 1388 as a customs and military post on the Wallachian border, and later used by the Habsburg administration. Although Vlad Tepes (Vlad the Impaler) was likely imprisoned here briefly, the castle's link to Bram Stoker's 'Dracula' came from the novel's vague Transylvanian setting rather than documented history. The Gothic towers, secret passages, and clifftop position are extraordinarily atmospheric. Inside: period furniture, royal apartments, and exhibits on the castle's history."
+    }
+  ],
+  "included": [
+    "Air-conditioned transport from Sibiu",
+    "Professional English-speaking guide",
+    "Hotel pickup and drop-off in Sibiu"
+  ],
+  "excluded": [
+    "Bran Castle entrance fee (approx. €12–15)",
+    "Brașov Black Church entrance (approx. €5)",
+    "Meals and drinks"
+  ],
+  "meeting_point": "Hotel pickup from Sibiu (confirm address at booking). Return to Sibiu by evening.",
+  "tips": [
+    "Bran Castle is one of Romania's most visited attractions — arrive early in the day (the tour departs early) to beat tour buses from Bucharest and Brașov",
+    "Sibiu's Christmas Market (late November – early January) is one of the best in Europe — the combination of the medieval old town and the market is exceptional",
+    "The Transylvanian countryside between Sibiu and Brașov is spectacular — look for fortified Saxon churches in the villages along the route (there are over 160 in the region)",
+    "Bring a light jacket even in summer — Bran Castle is 720 metres above sea level and the hillside can be cool in the morning"
+  ],
+  "faqs": [
+    {
+      "question": "Is there a real connection between Bran Castle and Dracula?",
+      "answer": "The historical Vlad Tepes (Vlad the Impaler), Prince of Wallachia (1431–1476), was imprisoned in Bran Castle briefly and passed through the Bran Pass on military campaigns. Bram Stoker, who never visited Romania, may have drawn on descriptions of Transylvanian passes and castles for his 1897 novel. The castle's Gothic towers and clifftop position closely match Stoker's descriptions, making it the natural 'Dracula's Castle' even without a direct historical link."
+    },
+    {
+      "question": "Can this tour be done in reverse — departing from Brașov to Sibiu?",
+      "answer": "Brașov is a much larger tourist hub with more tour operators running this circuit. The Sibiu departure is ideal if you are based in Sibiu or want to see Transylvania from its western Saxon capital."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/sibiu-brasov-bran-dracula-castle.webp",
+    "alt": "Bran Castle Gothic fortress rising from a forested cliff in Transylvania at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Brașov & Bran Castle Day Tour from Sibiu, Romania | Castles & Palaces",
+    "description": "Day tour from Sibiu through Transylvania: explore the Black Church and Saxon walls of Brașov, then visit the Gothic cliffside fortress of Bran Castle — Dracula's lair. Book on GetYourGuide."
+  }
+}

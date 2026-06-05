@@ -1,0 +1,82 @@
+{
+  "id": "esztergom-castle",
+  "name": "Esztergom Castle",
+  "local_name": "Esztergomi Vár",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 250000,
+  "country": "hungary",
+  "region": "Komárom-Esztergom County, Danube Bend",
+  "nearest_city": "Budapest",
+  "address": "Esztergom, Vár utca 1, 2500 Hungary",
+  "lat": 47.7923,
+  "lng": 18.7392,
+  "unesco": false,
+  "year_built": 895,
+  "architectural_style": "Romanesque / Medieval Hungarian",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily. Reduced to 10:00–16:00 from November to March."
+  },
+  "price_adult": 7,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.varmuzeum.hu",
+  "visit_duration": "2 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — museum on lower levels; castle hill steep",
+  "booking_advance_days": 0,
+  "tagline": "Hungary's first royal capital — birthplace of King Stephen and cradle of a nation",
+  "highlights": [
+    "Birthplace of King Stephen I, founder and patron saint of Hungary",
+    "First royal capital of the medieval Kingdom of Hungary",
+    "Romanesque Royal Palace excavations with original 12th-century chapel",
+    "Spectacular views over the Danube and Slovakia from the castle hill",
+    "Dominated by the largest church in Hungary — the Esztergom Basilica"
+  ],
+  "description": "Esztergom Castle hill is the cradle of the Hungarian state — the place where Stephen I was born around 975 AD, where he was crowned Hungary's first king on Christmas Day 1000, and where the Hungarian church and kingdom were organised. The castle hill above the Danube Bend was the royal capital of Hungary until the 13th century and remained the seat of the Archbishop of Esztergom — the Primate of Hungary — throughout the medieval period. The excavated Romanesque Royal Palace contains Hungary's finest intact 12th-century architecture, including the Royal Chapel with its extraordinary carved portal. Above the castle ruins, the vast neoclassical Esztergom Basilica (the largest church in Hungary) dominates the skyline for kilometres. The border with Slovakia — and the Maria Valeria Bridge to the Slovak town of Štúrovo — lies directly below.",
+  "history": "The hill was a Celtic and Roman fortress before becoming the seat of the Hungarian princes of the Árpád dynasty around 895. Stephen I was born here and crowned king in 1000, making Esztergom the political and ecclesiastical capital of Hungary. The Romanesque palace complex was built in the 12th century under Béla III. After the Mongol invasion of 1241–1242 the royal court moved to Buda, though Esztergom remained the archiepiscopal seat. The castle was heavily damaged by Ottoman siege (1543) and a subsequent explosion. Extensive excavations in the 20th century revealed the Romanesque palace remains, now displayed in a museum.",
+  "how_to_visit": "Esztergom is 70 km from Budapest. Trains run from Budapest Keleti and Nyugati stations (1.5 hours). The castle hill is a 20-minute walk from the train station, or a short taxi ride. In summer, Danube boats connect Budapest, Visegrád, and Esztergom — the classic Danube Bend day excursion. The Maria Valeria Bridge connects to Slovakia, allowing a cross-border walk.",
+  "faqs": [
+    {
+      "question": "Is the Basilica part of the castle?",
+      "answer": "The Esztergom Basilica stands on the same castle hill but is a separate visit — entry to the basilica is free, with a fee for the treasury and crypt. It is Hungary's largest church."
+    },
+    {
+      "question": "What is the Royal Chapel?",
+      "answer": "The 12th-century Romanesque chapel of the Royal Palace, remarkable for its carved red marble portal — one of the finest examples of Romanesque stonework in Central Europe."
+    },
+    {
+      "question": "Can I walk to Slovakia from here?",
+      "answer": "Yes — the Maria Valeria Bridge links Esztergom to Štúrovo in Slovakia, a 15-minute walk across the Danube, making it one of Europe's most unusual border crossings."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/esztergom-castle.webp",
+    "alt": "Esztergom Castle and Basilica above the Danube Bend on the Hungarian-Slovak border",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/esztergom-castle.webp",
+  "instagram_tag": "#esztergomcastle",
+  "meta_title": "Esztergom Castle, Hungary — Birthplace of King Stephen & First Royal Capital",
+  "meta_description": "Visit Esztergom Castle on the Danube Bend — Hungary's first royal capital, birthplace of King Stephen I, with Romanesque palace remains and stunning basilica views.",
+  "tags": ["romanesque", "hungarian-castle", "danube-bend", "medieval", "royal-capital"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["visegrad-royal-palace"],
+  "gyg_location_id": "2507",
+  "gyg_search_query": "Esztergom castle Danube Bend tour Budapest",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

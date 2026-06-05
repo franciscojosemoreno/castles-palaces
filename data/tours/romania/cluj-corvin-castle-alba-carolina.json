@@ -1,0 +1,88 @@
+{
+  "id": "cluj-corvin-castle-alba-carolina",
+  "slug": "cluj-corvin-castle-alba-carolina",
+  "name": "Corvin Castle & Alba Carolina Citadel Day Trip from Cluj",
+  "tagline": "Transylvania's most dramatic Gothic fortress — the castle that inspired Bram Stoker's imagination",
+  "departure_country": "romania",
+  "departure_city": "Cluj-Napoca",
+  "visited_countries": [
+    "romania"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 11 hours",
+  "gyg_tour_id": "236927",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 580,
+  "languages": [
+    "English",
+    "Romanian"
+  ],
+  "max_group_size": 8,
+  "overview": "Corvin Castle — Hunedoara Castle — is the most spectacular Gothic castle in Romania and one of the most extraordinary in Europe: a towering complex of battlements, turrets, and drawbridges rising from a rocky outcrop above the Zlasti river. Built and rebuilt by the Hunyadi dynasty in the 14th and 15th centuries, it served as a prison for none other than Vlad the Impaler — the historical Dracula — who was held here for seven years. The Alba Carolina star-shaped citadel, the largest baroque military fortification in Romania, makes a natural second stop.",
+  "highlights": [
+    "Tour Corvin Castle — Romania's finest Gothic fortress",
+    "Visit the dungeon where Vlad the Impaler (Dracula) was imprisoned",
+    "Explore the Knights' Hall and the baroque Chapel of the White Knight",
+    "See the star-shaped Alba Carolina Citadel",
+    "Small group of max 8 for a personal experience"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "corvin-castle",
+      "castle_name": "Corvin Castle (Hunedoara)",
+      "duration": "2.5 hours",
+      "description": "Tour the extraordinary Gothic castle rising above the Zlasti river. Highlights include the Council Tower with its panoramic views, the Knight's Hall — one of the finest Gothic interiors in Transylvania — the Chapel of the White Knight, and the drawbridge over the moat. In the lower courtyard, see the well allegedly dug by Turkish prisoners over 15 years who were promised freedom if they found water. They found it; they were not freed."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Alba Carolina Citadel",
+      "duration": "1.5 hours",
+      "description": "The largest baroque military fortification in Romania — a star-shaped citadel with six bastions built by the Habsburgs between 1714 and 1738. Inside the walls, the 11th-century cathedral contains the tomb of John Hunyadi (Corvin's father) and the coronation church of the reunification of Romania."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Cluj-Napoca",
+    "Expert guide",
+    "Corvin Castle entry",
+    "Alba Carolina Citadel access"
+  ],
+  "excluded": [
+    "Lunch",
+    "Turda Salt Mine entry (optional on some departures)",
+    "Gratuities"
+  ],
+  "meeting_point": "Cluj-Napoca city centre — confirmed at booking",
+  "tips": [
+    "The small group size (max 8) makes this feel like a private tour — book early",
+    "Corvin Castle is best photographed from the bridge looking back toward the entrance facade — allow time for this",
+    "The castle interior is dark and atmospheric — bring a light jacket",
+    "Cluj itself is worth a night or two: a vibrant university city with excellent restaurants"
+  ],
+  "faqs": [
+    {
+      "question": "Was Vlad the Impaler really imprisoned here?",
+      "answer": "Historical records confirm that Vlad III — Vlad the Impaler — was held at Hunedoara Castle by John Hunyadi between 1462 and 1476, though the exact location of his imprisonment within the castle is debated. The association with the Dracula legend (though Bram Stoker likely never visited Romania) adds an undeniable atmosphere."
+    },
+    {
+      "question": "How far is Corvin Castle from Cluj?",
+      "answer": "Approximately 130km southwest — about 2 hours by road through the Transylvanian highlands. The drive through the landscape is part of the experience."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/cluj-corvin-castle-alba-carolina.webp",
+    "alt": "Corvin Castle's Gothic towers rising above the Zlasti river on a misty Transylvanian morning",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Corvin Castle Day Trip from Cluj | Castles & Palaces",
+    "description": "Visit Corvin Castle — Romania's most dramatic Gothic fortress and Vlad the Impaler's prison — on a small-group day trip from Cluj. From €45."
+  },
+  "gyg_url": "https://www.getyourguide.com/cluj-napoca-l2393/from-cluj-day-trip-to-corvin-castle-and-alba-carolina-t236927/"
+}

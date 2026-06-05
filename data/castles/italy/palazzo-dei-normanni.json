@@ -1,0 +1,82 @@
+{
+  "id": "palazzo-dei-normanni",
+  "name": "Palace of the Normans",
+  "local_name": "Palazzo dei Normanni",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 350000,
+  "country": "italy",
+  "region": "Sicily, Palermo",
+  "nearest_city": "Palermo",
+  "address": "Piazza del Parlamento 1, 90129 Palermo PA, Italy",
+  "lat": 38.1113,
+  "lng": 13.3518,
+  "unesco": true,
+  "year_built": 831,
+  "architectural_style": "Arab-Norman",
+  "opening_hours": {
+    "monday": "08:15–17:45",
+    "tuesday": "08:15–17:45",
+    "wednesday": "08:15–17:45",
+    "thursday": "08:15–17:45",
+    "friday": "08:15–17:45",
+    "saturday": "08:15–17:45",
+    "sunday": "08:15–13:00",
+    "seasonal_note": "Cappella Palatina open Monday–Saturday 08:15–17:45, Sunday 08:15–13:00. The palace also serves as the seat of the Sicilian Regional Assembly; access to some areas limited on sitting days."
+  },
+  "price_adult": 15,
+  "price_child": 7,
+  "booking_required": true,
+  "official_tickets_url": "https://www.federicosecondo.org",
+  "visit_duration": "2 hours",
+  "best_season": "Year-round",
+  "accessibility": "Good — lifts available; main floor and chapel accessible",
+  "booking_advance_days": 3,
+  "tagline": "The oldest royal palace in Europe — home to the world's most beautiful mosaic chapel",
+  "highlights": [
+    "UNESCO World Heritage Site as part of Arab-Norman Palermo",
+    "Cappella Palatina — considered the finest mosaic interior in the world",
+    "Oldest continuously used royal palace in Europe",
+    "Extraordinary fusion of Arab, Byzantine, and Norman architecture",
+    "Still serves as the seat of the Sicilian Regional Parliament"
+  ],
+  "description": "The Palazzo dei Normanni is the oldest royal palace in Europe and one of the most remarkable buildings on earth — a layered monument to three civilisations built atop each other on a hill in central Palermo. Founded by the Emirate of Sicily in the 9th century, expanded by the Norman kings Roger II and William II in the 12th century, and used continuously ever since, the palace is now the seat of the Sicilian Regional Assembly. Its jewel is the Cappella Palatina — the private royal chapel completed in 1143 — whose interior is entirely covered in glittering Byzantine gold mosaics of extraordinary refinement, creating an effect described by visitors for nine centuries as overwhelming. The palace is a UNESCO World Heritage Site as part of the Arab-Norman Palermo designation, recognising the unique cultural synthesis of the Norman Kingdom of Sicily.",
+  "history": "The site was fortified by the Phoenicians and later the Romans. The Aghlabid Arab emirs built the first palace here from 831. The Norman kings — Roger I and Roger II — conquered Sicily in the late 11th century and vastly expanded the palace, commissioning the Cappella Palatina in 1132 (completed 1143). Under Frederick II Holy Roman Emperor, the palace was a centre of European culture. It passed to Spanish and then Bourbon rule, and after Italian unification became the seat of the Sicilian parliament, a function it retains today.",
+  "how_to_visit": "The palace is in central Palermo, accessible by foot from most of the historic centre (15 minutes from Palermo Centrale station). Pre-booking online is strongly recommended as entry is timed. The surrounding UNESCO Arab-Norman itinerary includes the Cathedral of Palermo, La Martorana church, and the Cathedral of Monreale (9 km outside the city) — among the finest mosaic buildings in the world.",
+  "faqs": [
+    {
+      "question": "What makes the Cappella Palatina special?",
+      "answer": "The chapel's walls, ceiling, and apse are entirely covered in Byzantine gold mosaics created by craftsmen from Constantinople between 1132 and 1143, combined with a carved Arab muqarnas wooden ceiling — a combination found nowhere else on earth."
+    },
+    {
+      "question": "Is the palace still used as a parliament?",
+      "answer": "Yes — the Sicilian Regional Assembly meets in the palace. On parliamentary sitting days access to some areas may be restricted."
+    },
+    {
+      "question": "Is Monreale Cathedral included?",
+      "answer": "No — Monreale Cathedral is 9 km from Palermo and requires a separate visit, but its mosaics are equally extraordinary and strongly recommended as a half-day trip."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/palazzo-dei-normanni.webp",
+    "alt": "Cappella Palatina gold mosaics inside the Palazzo dei Normanni in Palermo, Sicily",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/palazzo-dei-normanni.webp",
+  "instagram_tag": "#palazzonormanni",
+  "meta_title": "Palazzo dei Normanni, Palermo — Europe's Oldest Royal Palace & Golden Chapel",
+  "meta_description": "Visit the Palazzo dei Normanni in Palermo — Europe's oldest royal palace and home to the Cappella Palatina, the world's most magnificent mosaic interior. UNESCO World Heritage.",
+  "tags": ["arab-norman", "unesco-world-heritage", "palace", "sicily", "byzantine-mosaics"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["royal-palace-of-caserta"],
+  "gyg_location_id": "2513",
+  "gyg_search_query": "Palazzo dei Normanni Palermo tour Sicily",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

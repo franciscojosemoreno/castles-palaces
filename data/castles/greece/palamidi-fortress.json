@@ -1,0 +1,82 @@
+{
+  "id": "palamidi-fortress",
+  "name": "Palamidi Fortress",
+  "local_name": "Φρούριο Παλαμήδι",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 200000,
+  "country": "greece",
+  "region": "Peloponnese",
+  "nearest_city": "Nafplio",
+  "address": "Nafplio 211 00, Greece",
+  "lat": 37.5740,
+  "lng": 22.8030,
+  "unesco": false,
+  "year_built": 1714,
+  "architectural_style": "Venetian Baroque military",
+  "opening_hours": {
+    "monday": "08:00–20:00",
+    "tuesday": "08:00–20:00",
+    "wednesday": "08:00–20:00",
+    "thursday": "08:00–20:00",
+    "friday": "08:00–20:00",
+    "saturday": "08:00–20:00",
+    "sunday": "08:00–20:00",
+    "seasonal_note": "Winter hours (Nov–Mar): 08:30–15:00. The 999 Steps entrance closes earlier than the road entrance. Free entry on the first Sunday of each month (Nov–Mar)."
+  },
+  "price_adult": 8,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.culture.gov.gr",
+  "visit_duration": "2–3 hours",
+  "best_season": "Spring (April–May) and autumn (September–October) for cooler temperatures; the 999-step climb in summer heat can be exhausting",
+  "accessibility": "The famous 999-step staircase is steep and uneven and is not accessible to wheelchairs. An asphalt road also leads to the fortress (taxi or car recommended for those unable to climb). The fortress interior has mostly flat terraces once inside.",
+  "booking_advance_days": 0,
+  "tagline": "A Venetian fortress above Nafplio reached by 999 steps — with the Peloponnese at your feet",
+  "highlights": [
+    "The finest Venetian military fortress in Greece, built between 1711 and 1714 at 216 metres above sea level",
+    "The legendary 999-step staircase that climbs directly from Nafplio's old town to the fortress gate",
+    "Panoramic views over the Argolic Gulf, Nafplio, the Bourtzi island castle, and the entire eastern Peloponnese",
+    "The cell where Theodoros Kolokotronis — hero of the Greek War of Independence — was imprisoned in 1833–34",
+    "Eight self-contained bastions (Miltiades, Themistocles, Achilles, Leonidas, Epaminondas, Phokion, Robert, Andreas) each designed to resist independently if others fell"
+  ],
+  "description": "Palamidi Fortress rises from a 216-metre rock above the charming coastal town of Nafplio, and reaching it by the famous staircase — 999 steps of carved stone climbing directly from the lower town — is one of the most rewarding physical efforts in Greek tourism. The view from the top, encompassing the entire Argolic Gulf, the Venetian island-fortress of Bourtzi below, the walls of Acronauplia, and the mountains of the Peloponnese in every direction, is extraordinary.\n\nThe fortress was built with remarkable speed — largely completed between 1711 and 1714 — by the Venetians during their second occupation of the Peloponnese. The engineering reflects the Venetian genius for coastal military architecture: eight self-contained bastions arranged across the summit, each capable of independent defence, connected by curtain walls, tunnels, and underground cisterns. It was designed to be held even if individual bastions fell, and in the event it proved nearly impregnable — the Ottomans captured it in 1715 not by assault but by treachery.\n\nNafplio, at the foot of the rock, is the most beautiful Ottoman and Venetian town in Greece — the first capital of independent Greece (1823–1834) and home to some of the finest neoclassical architecture on the peninsula. The combination of Palamidi, the island castle of Bourtzi, and the atmospheric old town make Nafplio the most complete 'castle town' experience in Greece.",
+  "history": "The rock of Palamidi has been fortified since antiquity — legend associated it with Palamedes, the clever hero who invented dice and letters and was unjustly condemned by Odysseus during the Trojan War. The Byzantines and early medieval rulers maintained fortifications on the summit, but the structure that survives today is entirely Venetian, constructed during the Republic of Venice's second occupation of the Morea (Peloponnese) between 1686 and 1715.\n\nThe Venetians began construction of the main fortress in 1711 under the engineer Giaxich and completed the essential works by 1714. The eight bastions — named for heroes of antiquity — were connected by sophisticated tunnel systems and equipped with cisterns capable of supplying an extended siege. The investment proved futile: just one year after completion, an Ottoman force under Ali Coumourgi captured the fortress in 1715 through the betrayal of a Greek guard who opened a postern gate. The Ottomans held Palamidi until the Greek War of Independence.\n\nIn 1822, after a dramatic night assault up the 999 steps, a Greek force under Staikopoulos captured the fortress from the Ottoman garrison. Nafplio became the first capital of modern Greece in 1823, and Palamidi served briefly as a state prison — most famously holding Theodoros Kolokotronis, the greatest military hero of the independence war, after a political trial in 1833–34. The cell where he was imprisoned is still shown to visitors.",
+  "how_to_visit": "**The 999 steps:** The staircase ascent begins from Polyzoidou Street in Nafplio's old town and takes 20–40 minutes depending on fitness. The steps are uneven and some sections are steep — good shoes and water are essential. The view improves constantly as you climb. An alternative road access (asphalt, suitable for cars and taxis) enters from the south side of the hill.\n\n**Best time to climb:** Early morning (before 10:00) or late afternoon (after 16:00) in summer to avoid peak heat. Spring and autumn climbs are comfortable at any time of day.\n\n**Combination visit:** Nafplio is the ideal base. The island fortress of Bourtzi (a short boat ride from the harbour, admission €3) and the Acronauplia citadel (free, accessed from within the old town) complete the 'three fortresses of Nafplio' experience.\n\n**Getting to Nafplio:** From Athens, KTEL buses from Kifissos terminal take about 2.5 hours. Driving takes about 2 hours on the Athens–Corinth–Nafplio road. Nafplio is an excellent 2-night base for visiting Mycenae, Epidaurus, Corinth, and Argos.",
+  "faqs": [
+    {
+      "question": "Are there really 999 steps?",
+      "answer": "The exact number has been counted differently over the centuries and ranges from 857 to 999 depending on how you count the carved rock sections versus constructed steps. The traditional number — 999 — has become part of Nafplio's identity. The climb takes most visitors 25–40 minutes at a moderate pace."
+    },
+    {
+      "question": "Can I visit Palamidi and Mycenae on the same day?",
+      "answer": "Yes — Mycenae is 25 km northwest of Nafplio (about 35 minutes by car or KTEL bus). A full day from Nafplio can comfortably include Palamidi in the morning and Mycenae in the afternoon, with time for lunch in the old town between."
+    },
+    {
+      "question": "What is the island castle visible from Palamidi?",
+      "answer": "The island fortress in the bay below is Bourtzi, built by the Venetians in 1473 on a small island to control the entrance to Nafplio harbour. It later served as a residence for the town's executioners and briefly as a hotel. Boats run from Nafplio harbour to Bourtzi in summer."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/palamidi-fortress.webp",
+    "alt": "Palamidi Fortress on its hilltop above the Argolic Gulf with Nafplio old town visible below, Greece",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/palamidi-fortress.webp",
+  "instagram_tag": "#palamidifortress",
+  "meta_title": "Palamidi Fortress Nafplio: Tickets, 999 Steps & Visitor Guide 2026",
+  "meta_description": "Visit Palamidi Fortress in Nafplio, Greece — a Venetian fortress at 216m reached by 999 steps, with panoramic views over the Argolic Gulf and the Peloponnese. Complete guide.",
+  "tags": ["venetian", "baroque", "coastal", "dramatic", "greece"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["palace-of-the-grand-master"],
+  "gyg_location_id": "3026",
+  "gyg_search_query": "Palamidi Fortress Nafplio tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

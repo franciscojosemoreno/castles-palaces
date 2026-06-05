@@ -1,0 +1,82 @@
+{
+  "id": "mont-saint-michel",
+  "name": "Mont-Saint-Michel",
+  "local_name": "Le Mont-Saint-Michel",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 10,
+  "annual_visitors": 3000000,
+  "country": "france",
+  "region": "Normandy",
+  "nearest_city": "Saint-Malo",
+  "address": "Mont Saint-Michel, 50170, France",
+  "lat": 48.6361,
+  "lng": -1.5115,
+  "unesco": true,
+  "year_built": 966,
+  "architectural_style": "Romanesque and Gothic",
+  "opening_hours": {
+    "monday": "09:30–18:00",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "May–Aug: open until 19:00. Last entry 1 hour before closing. The island village itself is free to enter at all times; the abbey charges admission. Tidal access varies — check tide tables before visiting."
+  },
+  "price_adult": 13,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.billetweb.fr/abbey-of-mont-saint-michel",
+  "visit_duration": "3–5 hours",
+  "best_season": "Spring and autumn for smaller crowds; high tide visits (consult tide tables) when the island is surrounded by sea are the most dramatic",
+  "accessibility": "The abbey involves many steep staircases and is not fully wheelchair accessible. The lower village streets are cobblestoned and steep. A shuttle bus connects the mainland car parks to the island causeway.",
+  "booking_advance_days": 0,
+  "tagline": "The tidal island-fortress rising from the sea that has defined French Gothic architecture for a thousand years",
+  "highlights": [
+    "UNESCO World Heritage Site since 1979, visited by more than 3 million people annually",
+    "The abbey church crowns the rock at 92 metres above sea level, visible for 50 km across the bay",
+    "One of the most extraordinary tidal phenomena in Europe — the sea retreats 15 km and returns at the speed of a galloping horse",
+    "The Merveille ('The Marvel') — a three-storey Gothic cloister, refectory and scriptorium built between 1211 and 1228",
+    "Continuously inhabited for over 1,000 years — it functioned as an abbey, a pilgrimage site, and a prison under Napoleon"
+  ],
+  "description": "There is no other place in Europe quite like Mont-Saint-Michel. A granite island rising 92 metres from a flat tidal bay on the border of Normandy and Brittany, it is crowned by an abbey of such architectural ambition that medieval pilgrims called it La Merveille — the Marvel. The island has been a place of Christian pilgrimage since the 8th century, when an archangel supposedly appeared to the Bishop of Avranches and instructed him to build a church on the rock. The abbey grew over the following centuries into one of the most complex and beautiful buildings in France, its silhouette against sky and sea so recognisable that it has become the image of France itself.\n\nWhat makes Mont-Saint-Michel extraordinary beyond its architecture is the tidal bay it sits in. Twice a day, the sea retreats 15 kilometres across the flat bay, leaving vast mudflats accessible on foot. Then it returns — at the speed of a galloping horse, in the old saying — surrounding the island completely. The causeway and car parks built in the 20th century somewhat tamed this drama, but the tidal spectacle, especially at high tide in spring and autumn when the sea reaches the abbey walls, remains one of the most powerful natural and architectural experiences in Europe.\n\nThe abbey's interior moves from the stark simplicity of the pre-Romanesque chapel to the soaring Gothic cloisters of the 13th-century Merveille wing, with its double row of granite columns and herb garden suspended above the sea. For those who can visit at dawn or dusk — or at the equinox high tides — Mont-Saint-Michel moves from a remarkable site to an unforgettable one.",
+  "history": "The origins of Mont-Saint-Michel reach back to 708 AD, when Aubert, Bishop of Avranches, reportedly received a vision of the Archangel Michael instructing him to build a sanctuary on the tidal rock then known as Mont Tombe. The original oratory was replaced by a Carolingian church, and in 966 the Duke of Normandy installed Benedictine monks, beginning the abbey's long history as a major pilgrimage destination.\n\nConstruction of the great Romanesque abbey church began in 1017 under Abbot Hildebert II and continued through the 11th century, with the nave completed under William the Conqueror, who was born on the Norman coast nearby. The most audacious phase of construction came between 1211 and 1228 under the patronage of Philip II of France, who funded the extraordinary Gothic complex known as La Merveille — three stories of monastic buildings (dormitory, scriptorium, refectory, cloister) stacked on the northern face of the rock, defying the laws of medieval engineering.\n\nDuring the Hundred Years War, Mont-Saint-Michel remained one of the few places in Normandy that resisted English conquest. Its position as a symbol of French resistance contributed to its later cultural importance. After the Revolution dissolved the monastery in 1791, Napoleon converted the abbey into a prison — a use it maintained until 1863. Victor Hugo campaigned for its preservation, and the site was classified as a Historic Monument in 1874. Benedictine monks returned in 1966 and a small monastic community continues to live and pray in the abbey today.",
+  "how_to_visit": "**Getting there:** Mont-Saint-Michel is located 360 km from Paris, roughly 4 hours by car or TGV to Rennes/Saint-Malo followed by a bus or shuttle. From Paris Montparnasse, high-speed trains reach Pontorson (the nearest town) via Rennes. Several operators run day trips by coach from Paris, Rennes and Saint-Malo. The abbey is on a tidal island connected to the mainland by a causeway — a free shuttle bus runs from the mainland car parks to the island gate.\n\n**Tides:** Checking the tide table before you visit is essential. At equinox spring tides (March and September), the sea genuinely surrounds the island — a spectacular sight. At other times the bay is mudflat. The island is accessible at all tides but the tidal spectacle varies considerably.\n\n**Abbey tickets:** Buy online in advance during peak season (July–August) as queues at the gate can be 1–2 hours. The village and ramparts are free. The abbey ticket covers the church, cloisters, Merveille, and the gardens.\n\n**What to prioritise:** The cloister (the finest part of the Merveille), the abbey church nave and the view from the west platform over the bay. The lower village's main street is heavily commercialised — focus on the upper levels.\n\n**Stay overnight:** Staying on the island overnight transforms the experience. After the day visitors leave, the village becomes extraordinarily quiet. Several hotels operate on the island itself.",
+  "faqs": [
+    {
+      "question": "Can you walk to Mont-Saint-Michel across the bay?",
+      "answer": "Yes — guided walking crossings across the tidal flats are offered by licensed guides throughout the season. These typically take 3–4 hours and must be booked in advance. It is extremely dangerous to attempt without a guide — the mud can trap walkers and the tide returns very rapidly."
+    },
+    {
+      "question": "Is the island suitable for children?",
+      "answer": "The lower village is accessible with young children, though steep and cobblestoned. The abbey involves significant staircases and some areas are not suitable for pushchairs. Children under 18 enter the abbey free of charge."
+    },
+    {
+      "question": "How long do you need at Mont-Saint-Michel?",
+      "answer": "A minimum of 3 hours is needed to see the abbey and walk the main ramparts. To fully explore the island, including the lower village, gardens and views at different times of day, allow 5 hours. An overnight stay is recommended for anyone who wants to experience the island without crowds."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mont-saint-michel.webp",
+    "alt": "Mont-Saint-Michel rising from the tidal bay of Normandy at high tide, surrounded by sea at dawn",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mont-saint-michel.webp",
+  "instagram_tag": "#montsaintmichel",
+  "meta_title": "Mont-Saint-Michel: Abbey Tickets, Tides & Visitor Guide 2026",
+  "meta_description": "Visit Mont-Saint-Michel — France's iconic tidal island-fortress and UNESCO abbey. Complete guide to tickets, tide times, getting there from Paris, and what to see.",
+  "tags": ["gothic", "romanesque", "medieval", "unesco-world-heritage", "iconic", "coastal"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["carcassonne", "chateau-de-pierrefonds"],
+  "gyg_location_id": "13",
+  "gyg_search_query": "Mont Saint Michel tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 6
+}

@@ -1,0 +1,97 @@
+{
+  "id": "alcazar-of-segovia",
+  "name": "Alcázar of Segovia",
+  "local_name": "Alcázar de Segovia",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 700000,
+  "country": "spain",
+  "region": "Castile and León",
+  "nearest_city": "Segovia",
+  "address": "Plaza Reina Victoria Eugenia, s/n, 40003 Segovia, Spain",
+  "lat": 40.952,
+  "lng": -4.1283,
+  "unesco": true,
+  "year_built": 1120,
+  "architectural_style": "Mudejar and Gothic — 12th-century origins, dramatically rebuilt with slate spires in 1882 after fire",
+  "opening_hours": {
+    "monday": "10:00–19:00",
+    "tuesday": "10:00–19:00",
+    "wednesday": "10:00–19:00",
+    "thursday": "10:00–19:00",
+    "friday": "10:00–19:00",
+    "saturday": "10:00–19:00",
+    "sunday": "10:00–19:00",
+    "seasonal_note": "Apr–Oct: 10:00–19:00. Nov–Mar: 10:00–18:00. Closed 1 Jan and 25 Dec."
+  },
+  "price_adult": 9,
+  "price_child": 6,
+  "booking_required": false,
+  "official_tickets_url": "https://www.alcazardesegovia.com/",
+  "visit_duration": "1–2 hours",
+  "best_season": "March to June and September–October — good weather, manageable crowds, clear views of the Castilian plateau",
+  "accessibility": "Most rooms accessible, though the keep tower (Torre de Juan II) has 152 steep steps. Level ground floors accessible.",
+  "booking_advance_days": 0,
+  "tagline": "The castle that inspired Disney's Cinderella — rising from a rocky prow above the plains of Castile",
+  "highlights": [
+    "The exterior silhouette — pointed slate turrets on a ship-shaped prow of rock above the confluence of two rivers, said to have inspired Walt Disney's Sleeping Beauty Castle",
+    "The Throne Room — with an extraordinary painted Mudejar wooden ceiling and life-size statues of the kings and queens of Castile and León",
+    "The Torre de Juan II — climb 152 steps for the most panoramic view of Segovia, the Roman aqueduct and the Castilian plain",
+    "The Royal Armoury — a collection of medieval and Renaissance arms and armour displayed in the Gothic halls",
+    "The location at the edge of Segovia's UNESCO-listed old town — the aqueduct and cathedral visible from the castle"
+  ],
+  "description": "The Alcázar of Segovia sits on a narrow prow of rock at the confluence of the Eresma and Clamores rivers, its grey slate spires rising from the end of the old town like the prow of a stone ship. The silhouette — blue-grey pointed turrets against the Castilian sky — is instantly recognisable as one of the defining images of Spanish medieval architecture, and it is widely credited as one of the inspirations for Walt Disney's castle designs, though the castle's claims are one of several made by historic European castles.\n\nThe castle has served continuously as a royal residence, a military academy, a prison and a national archive across its nine centuries of existence. The current dramatic appearance is largely the result of a fire in 1862 and the subsequent reconstruction, which replaced the Renaissance roof with the romantic slate spires that now define the castle's profile. The interiors, however, preserve genuine medieval fabric: the Throne Room contains a magnificent painted Mudejar ceiling of interlocking geometric patterns and a gallery of monarchs' statues; the Royal Armoury displays arms and armour that were actually used by Spanish kings.\n\nSegovia's old town, surrounding the castle on its plateau, is a UNESCO World Heritage Site. The Roman aqueduct — two kilometres long and 28 metres high, built in the 1st century AD without mortar — is visible from the castle towers. The Gothic cathedral completes a remarkably concentrated ensemble of architectural heritage.",
+  "history": "The site has been fortified since at least the early 12th century, when Alfonso VI of Castile built a defensive structure here. Alfonso VIII (r. 1158–1214) developed it into a royal residence, and the Mudejar decorative work that remains in the throne room dates from the reign of Alfonso X (r. 1252–1284). Isabella I of Castile — who, with her husband Ferdinand of Aragon, united the Spanish kingdoms and financed Columbus's voyage to America — was proclaimed Queen of Castile in Segovia in 1474, though not in the Alcázar itself.\n\nThe 1862 fire destroyed the roof and the archive of military records it contained. The reconstruction, completed by 1882, was faithful to the medieval plan but replaced the flat roofs with the romantic pointed spires that give the castle its current appearance. The castle served as Spain's Royal Artillery School from 1764 to 1862, and the military connection continued even after the fire — the General Military Archive was housed here until it moved to Guadalajara in 2007.",
+  "how_to_visit": "**Getting there:** Segovia is easily reached from Madrid — either by high-speed train from Chamartín station (27 minutes to Segovia-Guiomar station; then bus into the old town) or by regular train/bus (1.5 hours). The castle is at the western end of the old town, a 15-minute walk from the aqueduct.\n\n**Tower climb:** The Torre de Juan II (152 steps, narrow spiral staircase) requires an additional small charge but provides extraordinary views over the Castilian plateau and back along the old town to the cathedral and aqueduct.\n\n**Combine with:** Segovia is easily covered in half a day — the Roman aqueduct (free, at the eastern end of the old town), the Gothic cathedral, the old Jewish quarter, and the Alcázar. Try the roast suckling pig (cochinillo) in one of the restaurants on the Plaza Mayor before returning to Madrid.",
+  "faqs": [
+    {
+      "question": "Did the Alcázar of Segovia inspire Disney's castles?",
+      "answer": "The Alcázar of Segovia is widely cited as one of the inspirations for Disney's Sleeping Beauty Castle at Disneyland (1955), along with Neuschwanstein in Germany and several other European castles. Walt Disney and his artists studied European castle designs extensively during the development of Sleeping Beauty. While Disney never made an official attribution, the visual similarities — pointed blue-grey spires on a cliff-edge promontory — are striking. The castle also claims to have inspired Cinderella's Castle, though this attribution is less firmly supported."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alcazar-of-segovia.webp",
+    "alt": "The Alcázar of Segovia on its rocky prow with the Castilian plain behind it at golden hour",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alcazar-of-segovia.webp",
+  "instagram_tag": "#alcazarsegovia",
+  "meta_title": "Alcázar of Segovia: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit the Alcázar of Segovia — the Disney-inspiring castle on a rocky prow above the Castilian plain. Book tickets, climb the tower and explore the Throne Room.",
+  "tags": [
+    "medieval",
+    "mudejar",
+    "instagram-worthy",
+    "disney",
+    "royal-residence"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "castile-royal-route"
+  ],
+  "nearby_castles": [
+    "alhambra-granada",
+    "alcazar-seville"
+  ],
+  "gyg_location_id": "504",
+  "gyg_search_query": "Alcazar Segovia castle tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "117462",
+      "title": "Madrid: Segovia, Toledo, Alcázar & Cathedral Day Trip",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 47,
+      "rating": 4.7,
+      "reviews": 8988,
+      "covers_castles": []
+    }
+  ]
+}

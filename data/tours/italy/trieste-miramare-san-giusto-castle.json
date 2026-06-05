@@ -1,0 +1,91 @@
+{
+  "id": "trieste-miramare-san-giusto-castle",
+  "slug": "trieste-miramare-san-giusto-castle",
+  "name": "Trieste: Miramare Castle & San Giusto Fortress",
+  "tagline": "The Habsburg castle built for the man who became Emperor of Mexico — and the hilltop fortress where Trieste's 2,000-year history overlaps in a single view",
+  "departure_country": "italy",
+  "departure_city": "Trieste",
+  "visited_countries": [
+    "italy"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half day (4 hours)",
+  "gyg_tour_id": "189528",
+  "gyg_url": "https://www.getyourguide.com/trieste-l1131/trieste-panoramic-city-and-miramare-castle-tour-t189528/",
+  "price_from": 25,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 680,
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "max_group_size": 15,
+  "overview": "Trieste sits at the northeastern tip of the Italian peninsula — the Habsburg port city on the Adriatic that was the main sea outlet of the Austro-Hungarian Empire for 200 years. Its two castles tell the city's dual identity. San Giusto, the medieval hilltop fortress above the Roman forum and the cathedral, traces 2,000 years of continuous fortification from a Roman castrum through Venetian bastions to Habsburg gun batteries. Miramare, four kilometres north along the coast, is an 1856 neo-Gothic seaside castle built by Archduke Maximilian of Austria — younger brother of Emperor Franz Joseph — who lived here briefly before departing for Mexico in 1864 to be crowned Emperor. He was executed by firing squad in 1867, aged 34. The Miramare Curse holds that every person who has slept in the castle has died violently or in exile — a claim with an unsettling number of historical confirmations.",
+  "highlights": [
+    "Miramare Castle (1856-1860) — the neo-Gothic seaside castle of Archduke Maximilian, who became Emperor of Mexico and was executed",
+    "The Miramare Curse — every owner or occupant of the castle has met a tragic end: Maximilian, Franz Ferdinand, the Duke of Aosta, and others",
+    "Miramare's interiors — original Habsburg furnishings, Maximilian's library, and the map room where he planned Mexico's future",
+    "San Giusto Castle — the Venetian-Habsburg hilltop fortress overlooking 2,000 years of Trieste from the Roman forum to the Adriatic",
+    "Trieste panorama — the Habsburg city below, the Karst plateau above, the Gulf of Trieste with Slovenia and Croatia visible on clear days",
+    "Expert guide covering Habsburg Trieste, the tragic story of Maximilian and Carlota, and Trieste's unique position between empires"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "San Giusto Castle & Hill",
+      "duration": "1.5 hours",
+      "description": "San Giusto hill has been Trieste's fortified high point for 2,000 years: a Roman castrum occupied the summit; the Venetians built the first permanent castle in the 15th century; the Habsburgs added bastions and gun batteries in the 16th-17th century. The present castle — completed in the 1630s — commands the city and the gulf from 60m above sea level. Walk the bastions, the Captain's Tower, and the 14th-century cathedral built into the hillside (itself a fusion of two earlier basilicas and a Roman temple). The panorama encompasses the Habsburg port city, the limestone Karst plateau rising behind it, and on clear days the Slovenian and Croatian coastlines across the gulf."
+    },
+    {
+      "order": 2,
+      "castle_name": "Miramare Castle",
+      "duration": "2 hours",
+      "description": "Miramare Castle was built between 1856 and 1860 for Archduke Maximilian Ferdinand of Austria, younger brother of Emperor Franz Joseph, on a rocky promontory above the Gulf of Trieste. Maximilian designed the castle and its gardens himself, creating a neo-Gothic seaside residence of 20 rooms with a private harbour below. He lived here until 1864, when Napoleon III of France and conservative Mexican monarchists persuaded him to accept the Mexican imperial crown. He departed from Miramare in April 1864, never to return; he was captured by liberal forces and executed by firing squad at Querétaro on 19 June 1867. The castle passed to his wife Empress Charlotte (who went permanently mad with grief) and then through a succession of subsequent owners and tenants — every one of whom, according to the Miramare Curse, met violent or tragic ends. The interiors have been preserved as a museum with Maximilian's original furnishings, maps, and personal effects."
+    }
+  ],
+  "included": [
+    "Professional English and Italian-speaking guide",
+    "San Giusto Castle entry",
+    "Miramare Castle & Museum entry",
+    "Small group (max 15)"
+  ],
+  "excluded": [
+    "Transport between San Giusto and Miramare (15-minute bus or taxi — guide will advise)",
+    "Miramare botanical park (included in castle entry)",
+    "Lunch (many options along the Trieste waterfront)"
+  ],
+  "meeting_point": "San Giusto Castle, Trieste hilltop — accessible by bus from Trieste Centrale station",
+  "tips": [
+    "Miramare is best visited in the morning before the day-trip coaches from Venice and Ljubljana arrive — the castle interiors become crowded after 11am",
+    "The Miramare park and coastal path below the castle is one of the most beautiful coastal walks in northeastern Italy — allow extra time if the weather is good",
+    "Trieste's caffè culture is unlike anywhere else in Italy — the local terminology (ask for a 'nero' rather than an espresso) dates from the Habsburg period when the city had its own coffee lexicon",
+    "The Karst plateau above Trieste has extraordinary cave systems (Grotta Gigante — the world's largest tourist cave by volume) accessible by bus from the city centre"
+  ],
+  "faqs": [
+    {
+      "question": "What is the Miramare Curse?",
+      "answer": "The Miramare Curse holds that anyone who sleeps in Miramare Castle will die violently or in exile. The list of those affected is striking: Maximilian was executed in Mexico (1867); his wife Charlotte went permanently mad and lived in exile until 1927; Archduke Franz Ferdinand (the heir to the Habsburg throne) stayed at Miramare before his assassination at Sarajevo in 1914; the Duke of Aosta, who was given the castle in 1937, died in a British prisoner-of-war camp in 1942. Whether coincidence or genuine pattern, the guide covers all the cases."
+    },
+    {
+      "question": "Why did Maximilian accept the Mexican crown?",
+      "answer": "In 1863, after France's intervention in Mexico, Mexican conservative monarchists offered the imperial crown to the Habsburg Archduke, calculating that a European emperor would give legitimacy to their government and Napoleon III's backing. Maximilian was persuaded despite warnings — including from the exiled Mexican president Benito Juárez — and accepted, believing he could modernise Mexico on liberal European lines. His reign was a failure from the start: Napoleon III withdrew French troops under American pressure in 1867, leaving Maximilian without military support. He was captured, tried, and shot."
+    },
+    {
+      "question": "Is Trieste Italian or Austrian?",
+      "answer": "Both, historically. Trieste was under Habsburg rule from 1382 to 1918 — 536 years — and served as the main port of the Austro-Hungarian Empire, making it one of the most important commercial cities in Central Europe. Its architecture, coffee culture, and intellectual life are deeply shaped by that period. After World War I it was ceded to Italy; after World War II it was briefly a Free Territory under Allied occupation before becoming definitively Italian in 1954. The city remains culturally distinct — neither wholly Italian nor Austrian — with Slovenian, Croatian, and Greek minorities alongside the Italian majority."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/trieste-miramare-san-giusto-castle.webp",
+    "alt": "Miramare Castle on its promontory above the Gulf of Trieste, northeastern Italy",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Trieste: Miramare Castle & San Giusto Fortress Tour",
+    "description": "Guided tour of Trieste's two castles — Miramare (1856, Archduke Maximilian of Mexico) and San Giusto hilltop fortress. Habsburg history, the Miramare Curse, and Trieste's 2,000-year story."
+  }
+}

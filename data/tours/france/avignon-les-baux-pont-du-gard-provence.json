@@ -1,0 +1,100 @@
+{
+  "id": "avignon-les-baux-pont-du-gard-provence",
+  "slug": "avignon-les-baux-pont-du-gard-provence",
+  "name": "From Avignon: Les Baux Fortress, Pont du Gard & Saint-Rémy",
+  "tagline": "A ruined castle on a white limestone spur, a Roman aqueduct defying gravity, and the asylum where Van Gogh painted the stars",
+  "departure_country": "france",
+  "departure_city": "Avignon",
+  "visited_countries": [
+    "france"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "673",
+  "gyg_url": "https://www.getyourguide.com/avignon-l14/avignon-monuments-romains-de-provence-t673/",
+  "price_from": 85,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 920,
+  "languages": [
+    "English",
+    "French"
+  ],
+  "max_group_size": 8,
+  "overview": "Provence contains two of France's most dramatic historical sites, which are as different from each other as the Middle Ages from antiquity: Les Baux-de-Provence and the Pont du Gard. Les Baux is a medieval fortress ruin on a white limestone spur in the Alpilles mountains — the former stronghold of the Lords of Baux, one of the most powerful and turbulent dynasties in medieval southern France, who claimed descent from Balthazar, one of the Three Magi, and whose castle was demolished by Cardinal Richelieu in 1632 as punishment for Protestant rebellion. Today the ruins occupy the entire top of the limestone ridge, with catapult demonstrations, panoramic views over the Crau plain to the Mediterranean, and the medieval village of Les Baux-de-Provence below. The Pont du Gard is a Roman aqueduct bridge built in the 1st century AD to carry water 50 kilometres from the spring at Uzès to the Roman city of Nîmes — a three-tier structure of limestone blocks, 49 metres high, built without mortar, that has stood for 2,000 years. Between these two monuments, Saint-Rémy-de-Provence is the birthplace of Nostradamus and the town near which Vincent Van Gogh voluntarily committed himself to the Saint-Paul-de-Mausole asylum in 1889, where he painted The Starry Night.",
+  "highlights": [
+    "Les Baux-de-Provence Castle — dramatic ruins of a medieval fortress on a limestone spur, with working catapult reconstructions",
+    "The Lords of Baux — one of medieval France's most turbulent dynasties, who claimed descent from the Magi",
+    "Pont du Gard (UNESCO) — a 3-tier Roman aqueduct bridge, 49 metres high, built without mortar in the 1st century AD",
+    "Saint-Rémy-de-Provence — where Van Gogh committed himself in 1889 and painted The Starry Night",
+    "The Alpilles — the white limestone mini-mountains of Provence, the backdrop to Van Gogh's Provençal paintings",
+    "Provençal olive oil, wine and market produce tasting at local farms"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Pont du Gard",
+      "duration": "1.5 hours",
+      "description": "The Pont du Gard was built around 50 AD as part of a 50-kilometre aqueduct system designed to carry 40,000 cubic metres of water per day from the spring at Uzès to the Roman city of Nemausus (Nîmes). The bridge, 49 metres high and 275 metres long, crosses the Gardon River in three tiers of limestone arches. It was built entirely without mortar — the blocks are held in place purely by their own weight and the precision of their cutting. The guide covers the extraordinary engineering achievement: the entire 50-kilometre aqueduct has a gradient of just 17 metres (a 0.034% slope), requiring surveying accuracy that would be impressive even today. The Pont du Gard itself is the highest surviving Roman aqueduct bridge, and the most complete. After the fall of Rome, it was maintained by successive authorities because the arches were used as a toll bridge — which is why it survived when other Roman structures did not."
+    },
+    {
+      "order": 2,
+      "castle_name": "Saint-Rémy-de-Provence",
+      "duration": "1 hour",
+      "description": "Saint-Rémy-de-Provence is the birthplace of Michel de Nostredame (Nostradamus, 1503) and the location of the Saint-Paul-de-Mausole asylum where Vincent Van Gogh voluntarily committed himself in May 1889, one year before his death. During his 12 months at Saint-Paul, Van Gogh produced over 150 paintings including The Starry Night, Irises, and the series of Provençal landscapes with olive trees, cypress trees and the limestone crags of the Alpilles that are now among the most recognised images in Western art. The asylum (still operating as a psychiatric facility) is open to visitors; the replica of Van Gogh's room and the garden he painted are accessible. The guide covers Van Gogh's year in Provence — his productivity, his deteriorating mental health, and the specific Provençal landscapes that transformed his painting style."
+    },
+    {
+      "order": 3,
+      "castle_name": "Les Baux-de-Provence Castle",
+      "duration": "2 hours",
+      "description": "Les Baux-de-Provence occupies the entire top of a white limestone spur in the Alpilles — a geological formation so distinctive that the mineral bauxite (aluminium ore) was first identified here and named after the village. The Lords of Baux were one of the most powerful dynasties in medieval Provence, controlling 79 towns at their peak and claiming descent from Balthazar, one of the Three Wise Men (whose star — the Baux star of eight points — appears on their coat of arms). Their castle was demolished by Cardinal Richelieu in 1632 after the Lords of Baux supported the Protestant Huguenots — he ordered the castle's destruction and fined the inhabitants for their loyalty. The ruins now cover the entire limestone plateau: towers, great hall, donjon, windmill and perimeter walls, with working reconstructions of medieval siege machines including trebuchets and mangonels demonstrated by costumed interpreters. The views from the plateau extend on clear days to the Camargue marshes, the Mediterranean, and the Rhône delta."
+    }
+  ],
+  "included": [
+    "Pickup from Avignon",
+    "Private vehicle with driver",
+    "Expert English-speaking guide throughout",
+    "Pont du Gard entry",
+    "Les Baux-de-Provence Castle entry",
+    "Local olive oil tasting",
+    "Small group (max 8)"
+  ],
+  "excluded": [
+    "Saint-Paul-de-Mausole asylum / Van Gogh room entry (~€5)",
+    "Lunch (free time in Saint-Rémy or Les Baux village)",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Avignon — exact pickup point confirmed at booking",
+  "tips": [
+    "Les Baux's catapult demonstrations are scheduled at specific times — check with your guide and plan to watch one. The trebuchet throws projectiles across the limestone plateau and is genuinely spectacular.",
+    "The light in the Alpilles is extraordinary — this is the landscape Van Gogh painted in the 150 canvases of his Saint-Rémy year. The olive groves, cypress trees and limestone are exactly as he depicted them.",
+    "Avignon's Palais des Papes (Palace of the Popes) — the enormous Gothic fortress-palace built by the exiled papal court 1309–1377 — is worth a full afternoon before or after this tour",
+    "Bauxite, the aluminium ore that powers the modern world, is named after Les Baux — it was first identified in the soil of this plateau in 1821 by the French geologist Pierre Berthier"
+  ],
+  "faqs": [
+    {
+      "question": "How was the Pont du Gard built without mortar?",
+      "answer": "The Pont du Gard is constructed of limestone blocks cut with such precision that they fit together through friction and gravity alone. The blocks weigh up to 6 tonnes each and were positioned using Roman cranes and scaffolding. The precision of the cutting — particularly in the arch voussoirs (wedge-shaped blocks) — means each arch distributes its load evenly without requiring any bonding material. The technique is a demonstration of Roman engineering sophistication: the bridge has stood for 2,000 years, survived floods, earthquakes and the dissolution of the civilization that built it, without a single block of mortar."
+    },
+    {
+      "question": "Who were the Lords of Baux?",
+      "answer": "The Lords of Baux were a Provençal noble dynasty who controlled much of the region between the 10th and 15th centuries. At their peak they held 79 towns and castles across Provence, Languedoc and northern Italy. They were notorious for their turbulence — medieval chroniclers called Les Baux 'the race of eagles, never vassals' — and for their cultural patronage: the troubadour tradition of courtly love flourished at the Les Baux court. The dynasty died out in the male line in 1426; the castle passed to René of Anjou and eventually to the French crown."
+    },
+    {
+      "question": "What did Van Gogh paint during his year at Saint-Rémy?",
+      "answer": "During his 12 months at the Saint-Paul-de-Mausole asylum (May 1889–May 1890), Van Gogh produced over 150 paintings — one of the most productive periods in art history. Works include The Starry Night (painted from the window of his asylum room), Irises, Wheat Field with Cypresses, Olive Trees with the Alpilles in the Background, and the multiple versions of the Provençal landscape that defined his late style. He was permitted to paint in the asylum gardens and on supervised excursions; the landscapes of the Alpilles, the olive groves and the cypress trees around Saint-Rémy appear throughout the series."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/avignon-les-baux-pont-du-gard-provence.webp",
+    "alt": "Les Baux-de-Provence fortress ruins on their white limestone spur in the Alpilles",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Avignon: Les Baux Fortress, Pont du Gard & Saint-Rémy – Provence Day Tour",
+    "description": "Full-day private tour from Avignon to Les Baux-de-Provence castle ruins, the Roman Pont du Gard aqueduct (UNESCO), and Saint-Rémy where Van Gogh painted The Starry Night."
+  }
+}

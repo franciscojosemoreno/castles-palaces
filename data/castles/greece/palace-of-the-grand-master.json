@@ -1,0 +1,78 @@
+{
+  "id": "palace-of-the-grand-master",
+  "name": "Palace of the Grand Master",
+  "local_name": "Παλάτι του Μεγάλου Μαγίστρου",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 500000,
+  "country": "greece",
+  "region": "South Aegean",
+  "nearest_city": "Rhodes Town",
+  "address": "Ippoton 1, Rhodes 851 00, Greece",
+  "lat": 36.4447,
+  "lng": 28.2239,
+  "unesco": true,
+  "year_built": 1309,
+  "architectural_style": "Gothic Crusader",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "08:00–20:00",
+    "wednesday": "08:00–20:00",
+    "thursday": "08:00–20:00",
+    "friday": "08:00–20:00",
+    "saturday": "08:00–20:00",
+    "sunday": "08:00–20:00",
+    "seasonal_note": "Nov–May: Tue–Sun 08:00–15:00. Closed Mondays year-round. The entire Rhodes Medieval City (including the Street of the Knights and the palace) is a UNESCO World Heritage Site."
+  },
+  "price_adult": 8,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.culture.gov.gr",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "Shoulder season (April–May, September–October) to avoid the intense summer heat and cruise ship crowds in the medieval city",
+  "accessibility": "The ground floor and courtyard are accessible. Upper floors involve stairs. The mosaic-floored rooms are on the ground floor and accessible. The cobblestoned courtyard is uneven.",
+  "booking_advance_days": 0,
+  "tagline": "The Gothic fortress-palace of the Knights of Rhodes — the most complete Crusader castle in the eastern Mediterranean",
+  "highlights": [
+    "UNESCO World Heritage Site — the Palace is the centrepiece of Rhodes Old Town, the best-preserved medieval city in the Mediterranean",
+    "Built by the Knights of St John (Hospitallers) in 1309 as the residence of the Grand Master of the Order, following their conquest of Rhodes from Byzantium",
+    "Houses extraordinary late antique and early Christian mosaics removed from Kos — including a unique 3rd-century BC depiction of the head of Medusa",
+    "The Street of the Knights (Odos Ippoton) — the most intact medieval street in the world, where the seven Langues (national divisions) of the Order maintained their Inns",
+    "Rebuilt by Mussolini for a royal Italian visit in 1939, incorporating genuine medieval elements with Fascist Italian restoration — a historically complex but visually impressive result"
+  ],
+  "description": "The Palace of the Grand Master occupies the highest point of Rhodes Old Town — a Gothic fortress that served as the administrative and residential heart of the Knights of St John (Hospitallers) for over two centuries. Built after the Order captured Rhodes from Byzantium in 1309, the palace controlled the inner citadel of the medieval city, with its towers, walls, and gates forming the innermost ring of a defence system that made Rhodes the most formidably protected port in the eastern Mediterranean.\n\nThe building standing today is substantially a reconstruction. The original palace was severely damaged by a powder magazine explosion in 1856 that destroyed much of the medieval structure. Mussolini's Italian administration of the Dodecanese rebuilt the palace between 1937 and 1940, using original medieval masonry where available and Italian neomedieval construction where not, to create a residence for a planned visit by King Victor Emmanuel III that never happened. The resulting building is architecturally complicated — part genuine Crusader Gothic, part Italian Fascist medievalism — but the interior retains extraordinary treasures: late antique and early Christian mosaics from Kos, ancient Greek and Roman sculpture, and medieval furniture assembled by the Italian administration.\n\nThe medieval city surrounding the palace — the Street of the Knights, the seven Inns of the Langues, the hospital (now the Archaeological Museum), the Byzantine churches converted to mosques and back, and the market district of the Hora — is the most complete medieval urban fabric in the Mediterranean, inscribed as a UNESCO World Heritage Site in 1988.",
+  "history": "Rhodes was conquered by the Knights of St John in 1309 after they were expelled from Cyprus. They chose Rhodes as their base for its strategic position at the crossroads of Aegean, Egyptian, and Levantine trade routes, and immediately began constructing fortifications on a scale that made the island virtually impregnable. The Palace of the Grand Master, built on the site of a Byzantine castle, was completed by the 1330s and served as the residence and administrative headquarters of successive Grand Masters.\n\nThe Knights held Rhodes against the Ottomans twice: Mehmed II besieged the island unsuccessfully in 1480, and Suleiman the Magnificent's far larger force finally captured it in 1522 after a six-month siege. The Knights were permitted to leave with their possessions — a gesture of respect for their resistance — and relocated first to Malta (1530). Rhodes became an Ottoman city for the next four centuries.\n\nThe French Revolution's suppression of the Knights in 1798 and Napoleon's subsequent occupation of Malta effectively ended the Order's political power. Rhodes was occupied by Italy in 1912 during the Italo-Turkish War and formally incorporated into the Italian Empire. The Italian administration undertook the reconstruction of the palace (1937–1940) and extensive archaeological work across the island. Rhodes was incorporated into Greece in 1947.",
+  "how_to_visit": "**Getting there:** Rhodes International Airport is 14 km southwest of Rhodes Town. Buses and taxis connect to the city centre. The medieval city is best explored on foot — the entrance to the Old Town is through one of the seven medieval gates. The palace is at the northwest corner of the medieval city, near the d'Amboise Gate.\n\n**The medieval city:** Allow at least half a day for the full medieval city experience — palace, Street of the Knights, Archaeological Museum (former hospital), Byzantine and Ottoman mosques, and the market. The palace alone takes 1.5–2 hours.\n\n**Combine with:** Lindos (45 km south — a hilltop Crusader castle above a classic Aegean village and beach, accessible by bus or guided tour) is the essential day trip from Rhodes. The Rhodes beaches along the east coast (Tsambika, Faliraki, Anthony Quinn Bay) are within easy reach by car or bus.\n\n**Cruise visitors:** Rhodes is one of the most visited cruise ports in the Mediterranean. The medieval city is crowded from 10:00–17:00 during cruise season (May–October). Arrive at palace opening (08:00) or after 17:00 when cruise passengers return to their ships.",
+  "faqs": [
+    {
+      "question": "Is the Palace of the Grand Master an authentic medieval building?",
+      "answer": "Partly. The original palace was severely damaged by a powder explosion in 1856. Mussolini's Italian administration rebuilt it between 1937 and 1940, using original medieval stone where available and Italian neomedieval construction where not. The courtyard, towers, and defensive walls retain significant genuine medieval fabric; the interior rooms are largely Italian 20th-century reconstruction incorporating genuine ancient and medieval artworks. The overall effect is impressive but the historical complexity should be understood."
+    },
+    {
+      "question": "What are the mosaics inside the palace?",
+      "answer": "The ground floor rooms of the palace contain remarkable early Christian and late antique floor mosaics removed by the Italian archaeologists from Kos — including a 3rd-century BC Hellenistic mosaic of Medusa's head, early Christian geometric mosaics from the 5th and 6th centuries, and a rare marine mosaic depicting sea creatures. They were installed in the palace floors by the Italian administration as a display context."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/palace-of-the-grand-master.webp",
+    "alt": "Palace of the Grand Master Gothic towers in Rhodes Old Town medieval city, Greece",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/palace-of-the-grand-master.webp",
+  "instagram_tag": "#rhodescastle",
+  "meta_title": "Palace of the Grand Master Rhodes: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit the Palace of the Grand Master in Rhodes — the UNESCO Gothic Crusader fortress at the heart of the best-preserved medieval city in the Mediterranean. Complete visitor guide.",
+  "tags": ["gothic", "crusader", "unesco-world-heritage", "knights-hospitaller", "greece", "mediterranean"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["palamidi-fortress", "lindos-castle"],
+  "gyg_location_id": "435",
+  "gyg_search_query": "Rhodes Palace Grand Master tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

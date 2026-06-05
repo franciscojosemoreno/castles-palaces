@@ -1,0 +1,94 @@
+{
+  "id": "hohensalzburg-fortress",
+  "name": "Hohensalzburg Fortress",
+  "local_name": "Festung Hohensalzburg",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 900000,
+  "country": "austria",
+  "region": "Salzburg",
+  "nearest_city": "Salzburg",
+  "address": "Mönchsberg 34, 5020 Salzburg, Austria",
+  "lat": 47.7953,
+  "lng": 13.0464,
+  "unesco": true,
+  "year_built": 1077,
+  "architectural_style": "Romanesque and Gothic fortress",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Jan–Apr & Oct–Dec: 09:30–17:00. May–Sep: 09:00–19:00. Funicular runs daily from 09:00 (included in ticket). Fortress visible and dramatically lit at night year-round."
+  },
+  "price_adult": 16,
+  "price_child": 10,
+  "booking_required": false,
+  "official_tickets_url": "https://www.salzburg-burgen.at/en/hohensalzburg-fortress/",
+  "visit_duration": "2 hours",
+  "best_season": "Year-round; the fortress above the Baroque city is spectacular in any season. Avoid peak August midday crowds.",
+  "accessibility": "The funicular railway provides accessible entry to the fortress. Some areas within have steep paths. Main museum areas are accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Europe's largest and best-preserved medieval fortress, looming above Mozart's Salzburg",
+  "highlights": [
+    "One of the largest and best-preserved medieval fortresses in Europe, founded in 1077",
+    "Panoramic views of Salzburg, the Salzach valley and the Alps from the ramparts",
+    "The Golden Room — a late Gothic state room with original gilded wood carvings and stove",
+    "Never been taken by an enemy — one of the few great European fortresses to remain unconquered",
+    "A funicular railway (Festungsbahn) runs from the old city to the fortress gate"
+  ],
+  "description": "Hohensalzburg Fortress has watched over Salzburg from its rocky perch above the Salzach river since 1077 — and in nearly a thousand years, no enemy has ever taken it. This is not a ruin, not a reconstruction, not a romantic 19th-century confection: it is a fully intact medieval fortress that has been in continuous use since its foundation, its massive walls and round towers defining the Salzburg skyline as recognisably as the Baroque cathedral spires below.\n\nThe fortress was built by Archbishop Gebhard von Helffenstein during the Investiture Controversy — the conflict between Pope Gregory VII and Holy Roman Emperor Henry IV over the right to appoint bishops. Gebhard sided with the Pope and needed a stronghold. What he built, and what his successors expanded over the following four centuries, became the largest fully preserved medieval castle in the German-speaking world.\n\nThe interior today divides into the fortress proper — walkways, towers, ramparts and the Marionette Museum — and the Prince's Chambers, which contain some of the finest surviving late Gothic secular interiors in Austria. The Golden Room (Goldene Stube), with its original gilded wood carvings and tiled stove from around 1500, and the Golden Hall (Goldener Saal), which still hosts concerts, represent the residential ambition of the Prince-Archbishops who ruled Salzburg as an independent ecclesiastical state for nearly 800 years.\n\nFrom the ramparts, the views justify the climb alone: the Baroque city compressed below, the Salzach river catching the light, the Alps rising to the south in a panorama that makes clear why Salzburg has been called the most beautiful city in Central Europe.",
+  "history": "Archbishop Gebhard founded the fortress in 1077 on the Festungsberg — a steep dolomite hill south of the old city — during the Investiture Controversy, the defining political crisis of medieval Europe. Gebhard was forced into exile shortly after and the fortress passed to successive archbishops, each adding to its structures as their power and resources grew.\n\nThe most significant expansion came under Archbishop Leonhard von Keutschach, who ruled Salzburg from 1495 to 1519. Keutschach transformed the medieval defensive structure into a palatial residence of considerable sophistication, adding the Golden Room and Golden Hall, a new round tower, and the distinctive round emblem of his radish heraldic symbol (the 'Keutschach Rübe') that appears throughout the fortress's carved decorations.\n\nHohensalzburg's strategic impregnability meant that it weathered the upheavals of the Reformation, the Thirty Years' War and the Peasants' Uprising of 1525 without being taken. The archbishop who commissioned Mozart to work in the court — Hieronymus Colloredo, whom Mozart famously loathed and eventually defied — used the fortress as his residence. Mozart was born in the city below and grew up in the shadow of these walls.\n\nNapoleon's campaigns ended Salzburg's status as an independent ecclesiastical state in 1805; the city was absorbed first by Bavaria, then by Austria. The fortress passed to the Austrian military, then was converted to a museum in 1861. Salzburg's historic old town was designated a UNESCO World Heritage Site in 1997, with the fortress as its defining monument.",
+  "how_to_visit": "**Getting there:** The Festungsbahn funicular railway runs from the old city (near St. Peter's Abbey) directly to the fortress gate. The funicular is included in the fortress ticket. Alternatively, walk up via the Festungsgasse path (20 min, steep). Salzburg Hauptbahnhof is a 20-minute walk from the old city. From Vienna, trains run in 2.5 hours; from Munich, 1.5 hours.\n\n**The funicular:** The Festungsbahn has been running since 1892 and is an attraction in itself — a short, steep cable railway through the city walls. The ride gives good views of the old city rooftops on the ascent.\n\n**Best timing:** The fortress opens at 09:00 (09:30 in winter). Arriving at opening avoids the main tour group rush that builds from 10:30. The ramparts at sunset are spectacular but require checking closing times.\n\n**Concerts:** The Golden Hall hosts chamber concerts most evenings from May to September — the Hohensalzburg Concerts, a Salzburg institution. These are ticketed separately and can be combined with fortress admission. Hearing music in this medieval space, with the city visible through the windows, is memorable.",
+  "faqs": [
+    {
+      "question": "How do I get up to Hohensalzburg Fortress?",
+      "answer": "The most comfortable way is the Festungsbahn funicular railway, which runs from Festungsgasse in the old city (near St. Peter's Abbey) directly to the fortress gate. The funicular is included in the fortress ticket price and runs from 09:00 (09:30 in winter). You can also walk up via the Festungsgasse path in about 20 minutes — steep but scenic."
+    },
+    {
+      "question": "Has Hohensalzburg ever been captured?",
+      "answer": "No — Hohensalzburg is one of the few major European fortresses that has never been successfully taken by an enemy. Its natural position on the Festungsberg, combined with its strong walls and water supply, made direct assault impractical. The one occasion it came close to falling — during the Peasants' Uprising of 1525 — ended with a negotiated surrender by the besieging peasants rather than a military conquest of the fortress itself."
+    },
+    {
+      "question": "Is Hohensalzburg connected to Mozart?",
+      "answer": "Indirectly. Mozart was born in Salzburg in 1756 and spent his early career serving the Archbishop Hieronymus Colloredo, who used the fortress as his residence. The relationship was famously hostile — Mozart chafed under Colloredo's authority and was eventually dismissed in 1781 (kicked out, literally, by the archbishop's secretary). The fortress is part of Mozart's Salzburg context, though his direct association with the building is limited to having grown up in its shadow."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hohensalzburg-fortress.webp",
+    "alt": "Hohensalzburg Fortress rising above Salzburg's Baroque old town, with the Alps in the background",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hohensalzburg-fortress.webp",
+  "instagram_tag": "#hohensalzburg",
+  "meta_title": "Hohensalzburg Fortress: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Hohensalzburg Fortress above Salzburg — Europe's largest intact medieval fortress. Funicular railway, panoramic Alpine views and Mozart's city below. Guide.",
+  "tags": [
+    "romanesque",
+    "gothic",
+    "medieval",
+    "unesco-world-heritage",
+    "mountain-castle",
+    "instagram-worthy",
+    "accessible"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "central-europe-palaces"
+  ],
+  "nearby_castles": [
+    "schonbrunn-palace"
+  ],
+  "gyg_location_id": "97",
+  "gyg_search_query": "Hohensalzburg Fortress Salzburg tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

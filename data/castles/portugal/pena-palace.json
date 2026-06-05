@@ -1,0 +1,89 @@
+{
+  "id": "pena-palace",
+  "name": "Pena Palace",
+  "local_name": "Palácio da Pena",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 1800000,
+  "country": "portugal",
+  "region": "Sintra",
+  "nearest_city": "Sintra",
+  "address": "Estrada da Pena, 2710-609 Sintra, Portugal",
+  "lat": 38.7878,
+  "lng": -9.3906,
+  "unesco": true,
+  "year_built": 1847,
+  "architectural_style": "Romantic eclecticism — Moorish, Gothic, Manueline and Renaissance elements combined in vivid colours",
+  "opening_hours": {
+    "monday": "09:00–19:00",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–19:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Daily 09:00–19:00 (Jun–Sep), 10:00–18:00 (Oct–May). Last entry 1 hour before closing. Book well in advance — sells out daily in summer."
+  },
+  "price_adult": 20,
+  "price_child": 16,
+  "booking_required": true,
+  "official_tickets_url": "https://www.parquesdesintra.pt/parques-jardins-e-monumentos/parque-e-palacio-nacional-da-pena/",
+  "visit_duration": "3–4 hours",
+  "best_season": "March–May and September–October — fewer visitors, wildflowers in the park, comfortable temperatures",
+  "accessibility": "The palace has several steps and uneven surfaces. A shuttle bus runs from the town of Sintra to the palace entrance for those unable to walk. Limited wheelchair access inside the palace itself.",
+  "booking_advance_days": 14,
+  "tagline": "Europe's most colourful castle — a Romantic fantasy perched above the Atlantic mists",
+  "highlights": [
+    "The exterior colour scheme — vivid yellow, red and grey renders applied in alternating sections, designed to be visible from Lisbon on clear days",
+    "The Triton Arch — the main entrance decorated with sea creatures in the Manueline style, evoking Portugal's Age of Discovery",
+    "The Queen's Terrace — panoramic views over the Atlantic, Lisbon and the Serra de Sintra forest",
+    "The Royal Apartments — preserved exactly as they were left when the royal family fled to Brazil in 1910",
+    "The surrounding park — 200 hectares of woodland with exotic species from Portugal's former colonies, including the world's oldest fern tree specimens"
+  ],
+  "description": "Pena Palace is the most photographed building in Portugal and one of the most photographed castles in Europe — a Romantic fantasy of turrets, battlements and vivid colour perched on a rocky peak above the forests of Sintra. Built between 1842 and 1854 by Ferdinand II (King consort of Portugal and cousin of Prince Albert of England), Pena Palace was designed as a royal summer residence combining every architectural style that the Romantic movement found inspiring: Gothic revival, Moorish arches, Manueline decorative stonework, Italian Renaissance towers — all finished in a colour palette of yellow ochre and blood red that makes the palace visible from Lisbon, 25 kilometres away.\n\nThe interior is equally extraordinary: the royal apartments were preserved exactly as the royal family left them when they fled to Brazil in 1910 following the republican revolution. Queen Amélie's bedroom, the King's billiard room, the dining room laid as if for lunch — the effect is less of a museum than of a house whose owners have stepped out for an hour. The kitchen still has its original 19th-century equipment; the bathroom has the first shower plumbing installed in a Portuguese royal residence.\n\nThe 200-hectare park that surrounds the palace is a UNESCO-listed landscape in its own right. Ferdinand II imported exotic trees from Portugal's former colonies across the globe — species from Brazil, New Zealand, the Azores and Madeira that have grown into a dense, atmospheric forest. Walking through it on a misty morning is one of the great atmospheric experiences of European travel.",
+  "history": "The site of Pena Palace was occupied by a medieval chapel dedicated to Our Lady of Pena, which became a monastery after a Hieronymite community settled there in the 16th century. The monastery fell into ruin after the dissolution of the religious orders in 1834. Ferdinand II, the Prince Consort, fell in love with the ruins and the site on a visit in 1838 and purchased them in 1838, commissioning the German architect Wilhelm Ludwig von Eschwege to design a new palace on the foundations.\n\nConstruction ran from 1842 to 1854, though modifications continued until the 1880s. Ferdinand II was deeply involved in the design, contributing many of the decorative decisions that give the palace its eclectic character. The palace was used as the summer residence of the Portuguese royal family until 1910, when King Manuel II fled to England during the republican revolution. It was nationalised and opened to the public as a museum in 1911, making it one of the earliest royal palaces in Europe to be opened to visitors.",
+  "how_to_visit": "**Getting there:** Regular trains from Lisbon Rossio station to Sintra (40 minutes, €2.30) are the most convenient option. From Sintra station, the palace is 5km uphill — a shuttle bus (€3) runs from near the train station to the palace entrance, or you can walk through the park (45 minutes uphill). Driving is possible but parking is very limited.\n\n**Tickets:** Book online weeks in advance in summer — the palace regularly sells out. The ticket includes access to both the palace and the park. A combined ticket with the Moorish Castle (a short walk away) saves money.\n\n**Photography:** The best external shots of the palace are from the Queen's Terrace (inside the palace, looking back at the upper turrets) or from the Moorish Castle walls across the valley, which provide the classic postcard view with the palace above the treeline.\n\n**Combine with:** The Moorish Castle (10-minute walk from Pena), the Quinta da Regaleira (in the town of Sintra — extraordinary gardens with initiation well), and the National Palace of Sintra (in the town centre, Manueline architecture) make a full Sintra day.",
+  "faqs": [
+    {
+      "question": "How do I get from Lisbon to Pena Palace?",
+      "answer": "The easiest route is the train from Lisbon Rossio station to Sintra (around 40 minutes, running every 15–20 minutes, €2.30 each way). From Sintra station, take the shuttle bus (Line 434, €3) up to the palace entrance. You can also walk through the park from the town in about 45 minutes, but it is a significant uphill climb. A combined Lisbon-to-Sintra bus tour is also an option if you prefer guided transport."
+    },
+    {
+      "question": "Why are the walls of Pena Palace different colours?",
+      "answer": "The palace's alternating yellow and red sections were the deliberate choice of Ferdinand II, who wanted to distinguish the different phases of construction and different architectural styles visually. The yellow sections derive from the original ochre render of the Romantic period; the red was added to contrast with it. The colour scheme was considered eccentric in its day but has since become one of the palace's most iconic features. On clear days the palace is visible from Lisbon, 25 kilometres away."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/pena-palace.webp",
+    "alt": "Pena Palace in vivid yellow and red above the misty forests of Sintra at dawn",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/pena-palace.webp",
+  "instagram_tag": "#penapalace",
+  "meta_title": "Pena Palace Sintra: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Pena Palace in Sintra — Portugal's most iconic UNESCO-listed Romantic palace. Book tickets, explore the colourful turrets and discover the royal apartments.",
+  "tags": [
+    "romantic",
+    "royal-residence",
+    "unesco",
+    "instagram-worthy",
+    "colorful"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "sintra-palaces-route"
+  ],
+  "nearby_castles": [
+    "guimaraes-castle",
+    "alcazar-seville"
+  ],
+  "gyg_location_id": "3218",
+  "gyg_search_query": "Pena Palace Sintra tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

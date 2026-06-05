@@ -1,0 +1,82 @@
+{
+  "id": "carrickfergus-castle",
+  "name": "Carrickfergus Castle",
+  "local_name": "Carrickfergus Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 180000,
+  "country": "northern-ireland",
+  "region": "County Antrim",
+  "nearest_city": "Belfast",
+  "address": "Marine Highway, Carrickfergus, BT38 7BG, Northern Ireland",
+  "lat": 54.7152,
+  "lng": -5.8068,
+  "unesco": false,
+  "year_built": 1177,
+  "architectural_style": "Norman",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "13:00–17:30",
+    "seasonal_note": "Open year-round. Reduced winter hours October to March. Closed Christmas and New Year."
+  },
+  "price_adult": 6,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.communities-ni.gov.uk/carrickfergus-castle",
+  "visit_duration": "1.5 hours",
+  "best_season": "Year-round",
+  "accessibility": "Partially accessible — ground floor accessible; keep interior has stairs",
+  "booking_advance_days": 0,
+  "tagline": "The best-preserved Norman castle in Ireland, standing guard over Belfast Lough",
+  "highlights": [
+    "Best-preserved Norman castle in Ireland",
+    "Nearly 850 years of continuous military use",
+    "Occupied by King William III during the Williamite War in 1690",
+    "Site of the first American naval victory — John Paul Jones in 1778",
+    "Dramatic waterfront position on Belfast Lough"
+  ],
+  "description": "Carrickfergus Castle is the best-preserved Norman castle in Ireland, a formidable four-storey keep rising from a basalt promontory above the waters of Belfast Lough. Built by Anglo-Norman knight John de Courcy from 1177, the castle has seen nearly 850 years of continuous military use — longer than virtually any other castle in the British Isles. It was held by King John in 1210, used as a base by Edward Bruce during his Irish campaign, garrisoned by William III in 1690 during the Williamite War, and was briefly captured by French naval forces accompanying the American privateer John Paul Jones in 1778 — the first American naval victory in home waters. The interior houses exhibitions on the castle's military history, and the battlements offer fine views over Belfast Lough.",
+  "history": "Built by John de Courcy from 1177 as the principal stronghold of his Norman conquest of Ulster, the castle was expanded and reinforced through the 12th and 13th centuries. It became a key English garrison post during the Tudor and Stuart periods. William III landed nearby in June 1690 and used the castle as his base before the Battle of the Boyne. The American privateer John Paul Jones engaged the castle's garrison in a famous naval battle in April 1778 with his ship Ranger. The castle was used as a military base as late as World War II, when it served as an air raid shelter.",
+  "how_to_visit": "Carrickfergus is 20 km north of Belfast on the A2 coastal road. Regular trains run from Belfast Great Victoria Street to Carrickfergus (30 min). The castle is on the waterfront a 5-minute walk from the train station. An excellent day trip from Belfast, easily combined with the Causeway Coastal Route and the Giant's Causeway (further north).",
+  "faqs": [
+    {
+      "question": "What was John Paul Jones doing at Carrickfergus?",
+      "answer": "In April 1778, the American naval commander engaged the British sloop HMS Drake off Carrickfergus and captured it — the first significant American naval victory in European waters during the American Revolution."
+    },
+    {
+      "question": "Is the castle still used for any purpose?",
+      "answer": "The castle is now managed as a heritage attraction by the Department for Communities Northern Ireland. It is occasionally used for events and re-enactments."
+    },
+    {
+      "question": "How far is Carrickfergus from the Giant's Causeway?",
+      "answer": "About 80 km along the famous Causeway Coastal Route — an iconic scenic drive worth combining with a Carrickfergus visit on a full day out from Belfast."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/carrickfergus-castle.webp",
+    "alt": "Carrickfergus Castle Norman keep rising above Belfast Lough in Northern Ireland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/carrickfergus-castle.webp",
+  "instagram_tag": "#carrickferguscastle",
+  "meta_title": "Carrickfergus Castle, Northern Ireland — Best-Preserved Norman Castle in Ireland",
+  "meta_description": "Visit Carrickfergus Castle on Belfast Lough — Ireland's finest Norman fortress with 850 years of history from King John to John Paul Jones.",
+  "tags": ["norman", "northern-ireland", "belfast", "medieval", "coastal"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["dunluce-castle"],
+  "gyg_location_id": "2558",
+  "gyg_search_query": "Carrickfergus Castle Belfast tour Northern Ireland",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

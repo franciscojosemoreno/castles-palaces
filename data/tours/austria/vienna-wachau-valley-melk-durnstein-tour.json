@@ -1,0 +1,114 @@
+{
+  "id": "vienna-wachau-valley-melk-durnstein-tour",
+  "slug": "vienna-wachau-valley-melk-durnstein-tour",
+  "name": "Vienna: Wachau Valley, Melk Abbey & Dürnstein Castle Day Trip",
+  "tagline": "A Baroque monastery on a river cliff, the castle where Richard the Lionheart was imprisoned, and the Danube's most beautiful valley",
+  "departure_country": "austria",
+  "departure_city": "Vienna",
+  "visited_countries": [
+    "austria"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "1805",
+  "gyg_url": "https://www.getyourguide.com/vienna-l7/wachaudanube-valley-by-bus-and-boat-from-vienna-t1805/",
+  "price_from": 79,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 7850,
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian"
+  ],
+  "max_group_size": 35,
+  "overview": "The Wachau Valley is the most dramatic stretch of the Danube — a 40-kilometre gorge through the Bohemian Massif where steep vineyard terraces rise above the river and medieval castles crown every cliff. UNESCO inscribed it as a cultural landscape in 2000. This day trip from Vienna combines three extraordinary sites: Melk Abbey, the greatest Baroque monastery in Austria, perched dramatically above the Danube on its own rocky promontory; Dürnstein Castle, the ruined hilltop fortress where Duke Leopold V of Austria imprisoned Richard I of England after the Third Crusade (1192–93); and the Wachau itself, explored by boat along the Danube — the most beautiful way to see the valley's vineyards, abbeys and fortress ruins. Wine tasting of Grüner Veltliner and Riesling from the grand cru Wachau vineyards is included.",
+  "highlights": [
+    "Melk Abbey — Austria's greatest Baroque monastery, UNESCO Wachau landscape",
+    "Dürnstein Castle ruins — where Richard the Lionheart was held for ransom in 1192",
+    "Danube boat cruise through the Wachau gorge between Dürnstein and Melk",
+    "Wachau wine tasting: Grüner Veltliner and Riesling from the Smaragd vineyards",
+    "Krems an der Donau — the historic wine town at the eastern entrance to the Wachau",
+    "Expert multilingual guide covering medieval history and Wachau viticulture"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Vienna Departure",
+      "duration": "Travel west (1.5 hours)",
+      "description": "Drive west from Vienna along the Danube into Lower Austria. The guide introduces the Wachau's layered history — Roman military camps, medieval monasteries, Habsburg wine culture — and explains why this relatively short stretch of river became one of the most strategically contested corridors in European history."
+    },
+    {
+      "order": 2,
+      "castle_name": "Melk Abbey",
+      "duration": "2 hours",
+      "description": "Melk Abbey (Stift Melk) is one of the world's most beautiful Baroque buildings — a vast monastery complex built between 1702 and 1736 on a granite promontory directly above the Danube. The guided tour covers the imperial rooms (used by Habsburg emperors on their Danube journeys), the abbey church with its extraordinary frescoed ceiling, and the library housing 100,000 volumes including priceless medieval manuscripts. Umberto Eco used a fictional version of Melk as the setting for The Name of the Rose."
+    },
+    {
+      "order": 3,
+      "castle_name": "Danube Boat Cruise",
+      "duration": "1.5 hours",
+      "description": "Board a river boat at Melk for the most beautiful stretch of the Danube cruise — downstream through the Wachau gorge to Dürnstein. The river route passes Schönbühel Castle, the ruined fortress of Aggstein perched impossibly on its cliff 300 metres above the river, and the terraced Smaragd vineyards that produce Austria's finest white wines. The guide continues the narrative from the boat deck."
+    },
+    {
+      "order": 4,
+      "castle_name": "Dürnstein",
+      "duration": "1.5 hours",
+      "description": "Disembark at Dürnstein — the prettiest village in the Wachau, its blue and white Baroque church tower the iconic image of the valley. The ruined castle above the village is where Duke Leopold V of Austria held Richard I of England prisoner from December 1192 to March 1193, after arresting him incognito as he returned from the Third Crusade. Richard was eventually ransomed for 150,000 marks of silver — equivalent to three years of English royal revenue. The hike to the castle ruins takes 25 minutes and rewards with extraordinary valley views."
+    },
+    {
+      "order": 5,
+      "castle_name": "Wine Tasting & Return",
+      "duration": "45 min",
+      "description": "Wine tasting of Wachau Grüner Veltliner and Riesling at a local Heuriger (wine tavern) in Dürnstein before the return drive to Vienna. Wachau wines are classified by their own Vinea Wachau system — Steinfeder (lightest), Federspiel and Smaragd (the richest, named after the emerald lizard that basks on the terraced walls)."
+    }
+  ],
+  "included": [
+    "Return transport from Vienna",
+    "Professional multilingual guide",
+    "Melk Abbey entry and guided tour",
+    "Danube boat cruise (Melk to Dürnstein)",
+    "Wachau wine tasting",
+    "Headset commentary system"
+  ],
+  "excluded": [
+    "Lunch (free time in Dürnstein)",
+    "Dürnstein Castle ruins hike (free, no ticket — optional 25 min climb)",
+    "Additional wine purchases"
+  ],
+  "meeting_point": "Vienna city centre — exact pickup point confirmed at booking",
+  "tips": [
+    "Sit on the right side of the boat (facing downstream) for the best vineyard and castle views",
+    "The hike to Dürnstein Castle ruins is steep but only 25 minutes — don't skip it for the views",
+    "October is harvest season in the Wachau — the vineyards are golden and wine tastings feature the new vintage",
+    "The Melk Abbey library is the highlight for many visitors — look out for the globes and the illuminated manuscripts"
+  ],
+  "faqs": [
+    {
+      "question": "What is the story of Richard the Lionheart's imprisonment?",
+      "answer": "Returning from the Third Crusade in 1192, Richard I of England was captured near Vienna by Duke Leopold V of Austria, who had a grudge from a quarrel at the Siege of Acre. Richard was held at Dürnstein for 13 months before being sold to Holy Roman Emperor Henry VI, who eventually ransomed him for 150,000 marks of silver — a ransom so large it took years to collect and nearly bankrupted England."
+    },
+    {
+      "question": "What is Wachau Smaragd wine?",
+      "answer": "Smaragd is the highest classification of Wachau white wine — rich, full-bodied whites (Grüner Veltliner or Riesling) with alcohol above 12.5%. Named after the emerald-green Smaragd lizard that basks on the hot terrace walls in summer. These are among Austria's most age-worthy white wines."
+    },
+    {
+      "question": "Is the Melk Abbey still an active monastery?",
+      "answer": "Yes — Melk has been a Benedictine monastery continuously since 1089. About 30 monks live there today. The public tours cover the imperial apartments, the church and library, but the monks' private areas remain closed."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/vienna-wachau-valley-melk-durnstein-tour.webp",
+    "alt": "Melk Abbey rising above the Danube in the Wachau Valley, Austria",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Vienna: Wachau Valley, Melk Abbey & Dürnstein Castle Day Trip",
+    "description": "Day trip from Vienna to the Wachau UNESCO valley — Melk Abbey, Dürnstein (Richard the Lionheart's prison), Danube boat cruise and wine tasting. 7,800+ reviews."
+  }
+}

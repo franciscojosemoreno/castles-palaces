@@ -1,0 +1,87 @@
+{
+  "id": "prague-cesky-krumlov-day-trip",
+  "slug": "prague-cesky-krumlov-day-trip",
+  "name": "Český Krumlov Castle & Old Town Day Trip from Prague",
+  "tagline": "A perfectly preserved medieval castle town that feels like a film set — 3 hours from Prague",
+  "departure_country": "czech-republic",
+  "departure_city": "Prague",
+  "visited_countries": [
+    "czech-republic"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 11 hours",
+  "gyg_tour_id": "1087",
+  "price_from": 35,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 11500,
+  "languages": [
+    "English",
+    "Spanish",
+    "German"
+  ],
+  "max_group_size": 50,
+  "overview": "Český Krumlov is one of Central Europe's most remarkable medieval survivals — a UNESCO World Heritage town coiled around a giant castle on a bend of the Vltava river. With just 13,000 inhabitants, the entire historic centre is a living museum. The castle is the second largest in Bohemia and houses one of the finest baroque theatres in Europe.",
+  "highlights": [
+    "Visit Český Krumlov Castle, second largest in Bohemia",
+    "Walk the UNESCO-listed old town",
+    "See the baroque castle theatre",
+    "Round-trip transport from Prague",
+    "Expert guide with local knowledge"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "cesky-krumlov-castle",
+      "castle_name": "Český Krumlov Castle",
+      "duration": "1.5 hours",
+      "description": "Tour the 13th-century castle complex spanning 40 buildings and 5 castle courts. Highlights include the ornate baroque theatre — one of the best preserved in Europe — and the castle gardens."
+    },
+    {
+      "order": 2,
+      "castle_id": "cesky-krumlov-old-town",
+      "castle_name": "Český Krumlov Old Town",
+      "duration": "2 hours",
+      "description": "Free exploration of the UNESCO World Heritage town. Cross the Lazebnický Bridge, visit the gothic Church of St Vitus, and browse the craft shops lining the cobbled streets."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Prague",
+    "Expert guide",
+    "Český Krumlov walking tour"
+  ],
+  "excluded": [
+    "Castle interior entry (approx €12)",
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Prague city centre — confirmed at booking",
+  "tips": [
+    "The drive from Prague is 3 hours each way — bring a book or podcast",
+    "Summer weekends are very busy; try to visit on a weekday",
+    "The castle is spectacular when viewed from across the Vltava — cross the footbridge for the best shot"
+  ],
+  "faqs": [
+    {
+      "question": "Is castle entry included?",
+      "answer": "The guided old town tour is included. Castle interior entry (approx €12) is purchased on arrival."
+    },
+    {
+      "question": "How far is Český Krumlov from Prague?",
+      "answer": "Approximately 170km, a 3-hour drive through South Bohemia. The journey through the Bohemian countryside is scenic."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/prague-cesky-krumlov-day-trip.webp",
+    "alt": "Český Krumlov Castle rising above the medieval town and the Vltava river bend",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Český Krumlov Castle Day Trip from Prague | Castles & Palaces",
+    "description": "Visit Český Krumlov Castle and UNESCO old town on a guided day trip from Prague. From €35 per person. 11,500+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/prague-l10/cesky-krumlov-ceske-budejovice-tour-from-prague-t1087/"
+}

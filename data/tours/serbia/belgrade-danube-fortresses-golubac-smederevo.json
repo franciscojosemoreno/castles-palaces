@@ -1,0 +1,111 @@
+{
+  "id": "belgrade-danube-fortresses-golubac-smederevo",
+  "slug": "belgrade-danube-fortresses-golubac-smederevo",
+  "name": "From Belgrade: Danube Fortresses — Golubac, Smederevo & Ram",
+  "tagline": "Three medieval fortresses on the river that separates Serbia from the empire that consumed it — the Danube's most dramatic castle chain, with wine tasting included",
+  "departure_country": "serbia",
+  "departure_city": "Belgrade",
+  "visited_countries": [
+    "serbia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "412004",
+  "gyg_url": "https://www.getyourguide.com/belgrade-l1688/from-belgrade-danube-day-trip-with-wine-and-brandy-tasting-t412004/",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 280,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 15,
+  "overview": "East of Belgrade, the Danube becomes the most castle-dense river in the Balkans. Three medieval fortresses guard a 100km stretch of the Serbian bank: Smederevo, the massive triangular capital of the last Serbian medieval state, built in emergency haste to hold the Ottoman advance; Ram, the perfectly scaled Ottoman river fort at the Mlava confluence; and Golubac, the ten-towered masterpiece at the entrance to the Iron Gate gorge, where the Danube carves its deepest canyon between the Carpathian and Balkan mountains. Together they mark the front lines of the Serbian Despotate's last stand before the Ottoman conquest of 1459. The tour includes wine and Serbian brandy tasting at a Danube winery — the castles and the vineyards grew up together on the same limestone river terraces.",
+  "highlights": [
+    "Smederevo Fortress — one of the largest medieval fortresses in Europe (11 hectares), capital of the Serbian Despotate 1428–1459",
+    "Golubac Fortress — ten towers above the Iron Gate gorge, recently restored, one of the most photogenic castles in the Balkans",
+    "Ram Fortress — a compact Ottoman river fort at the Danube confluence, built on 14th-century Serbian foundations",
+    "Iron Gate gorge — where the Danube carves through the Carpathians, the most dramatic river canyon in Central Europe",
+    "Wine and Serbian šljivovica (plum brandy) tasting at a Zelenik Danube winery",
+    "Expert guide covering the Serbian Despotate, the Ottoman conquest, and 1,000 years of Danube history"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Belgrade Departure",
+      "duration": "Travel east (45 minutes)",
+      "description": "Head east from Belgrade along the south bank of the Danube into the Smederevo district. The guide introduces the Serbian Despotate — the final medieval Serbian state, which survived as an Ottoman vassal for 30 years after the fall of the Serbian Empire at Kosovo in 1389 — and explains Despot Đurađ Branković's gamble: building the largest fortress in the Balkans in just three years hoping it could hold the Danube line against Mehmed II."
+    },
+    {
+      "order": 2,
+      "castle_name": "Smederevo Fortress",
+      "duration": "2 hours",
+      "description": "Smederevo Fortress was built between 1428 and 1430 by Despot Đurađ Branković as the new capital of the Serbian Despotate. Triangular in plan, with 25 towers and nearly 3km of curtain wall, it covers 11 hectares — one of the largest medieval fortresses in Europe. Two sides face the Danube, one faces land. Despite its scale it fell to Sultan Mehmed II in 1459, ending the Serbian Despotate permanently. Walk the curtain walls, the towers (several are climbable), and the ruins of the inner fortified town that once housed the entire Serbian court."
+    },
+    {
+      "order": 3,
+      "castle_name": "Ram Fortress",
+      "duration": "1 hour",
+      "description": "Ram Fortress stands at the confluence of the Mlava River and the Danube — a compact pentagonal river fort built by the Ottomans in 1483 on the foundations of a 14th-century Serbian castle. Five round towers, a river gate, and a well-preserved enceinte make it one of the finest examples of Ottoman riverside military architecture on the middle Danube. The scale is intimate compared to Smederevo — a garrison fort controlling river traffic rather than a dynastic capital."
+    },
+    {
+      "order": 4,
+      "castle_name": "Golubac Fortress & Iron Gate",
+      "duration": "2.5 hours",
+      "description": "Golubac Fortress stands where the Danube enters the Iron Gate — the 130km gorge where the river forces its way through the Carpathian and Balkan mountains. Ten towers rise from a limestone crag directly above the water in three defensive lines up the cliff face. Built in the 14th century, it changed hands between Serbs, Hungarians and Ottomans repeatedly before the Ottomans secured it in 1458. Extensively restored and reopened in 2019 with an excellent interior museum, Golubac is the most photogenic medieval fortress in the Balkans — especially seen from the Danube, as it was designed to be seen. After the castle, continue into the Iron Gate gorge for views of the Roman Tabula Traiana inscription carved into the cliff face by Emperor Trajan in AD 100 to record the construction of his invasion road into Dacia."
+    },
+    {
+      "order": 5,
+      "castle_name": "Zelenik Winery — Wine & Brandy Tasting",
+      "duration": "1 hour",
+      "description": "Return west along the Danube via the Zelenik wine region — limestone terraces that have produced wine since the Roman province of Moesia Superior. Taste the Prokupac grape (a Serbian red unlike any Western European variety) and Tamjanika (a fragrant white with ancient origins), alongside šljivovica — Serbian plum brandy made to the same recipe that has defined hospitality in this valley for centuries."
+    }
+  ],
+  "included": [
+    "Return transport from Belgrade",
+    "Professional English-speaking guide",
+    "Smederevo Fortress entry",
+    "Golubac Fortress entry",
+    "Ram Fortress visit",
+    "Wine and brandy tasting at Danube winery",
+    "Small group (max 15)"
+  ],
+  "excluded": [
+    "Lunch (stop in Golubac village or Ram)",
+    "Iron Gate speedboat cruise (optional upgrade — highly recommended)",
+    "Additional wine purchases at winery"
+  ],
+  "meeting_point": "Belgrade city centre — exact location confirmed at booking",
+  "tips": [
+    "The speedboat upgrade through the Iron Gate gorge past Golubac is the single best way to see the fortress — the view from the water is how it was designed to be experienced",
+    "Golubac's 2019 restoration includes one of the best medieval fortress museums in the Balkans — allow the full 2.5 hours",
+    "The Cliffs of Decebal (a massive modern carving of the Dacian king visible from the Serbian bank) are inside the gorge beyond Golubac — visible on the boat option",
+    "Serbian wine tourism is almost entirely undiscovered by Western visitors — the Prokupac grape produces a character completely unlike anything from better-known wine regions"
+  ],
+  "faqs": [
+    {
+      "question": "What is the Iron Gate?",
+      "answer": "The Iron Gate (Đerdap in Serbian) is a 130km gorge where the Danube carves through the Carpathian and Balkan mountains between Serbia and Romania, reaching depths of 300m with walls rising vertically from the water. Emperor Trajan built a road along the Serbian cliff face in AD 100 to supply his invasion of Dacia — the carved inscription recording this (Tabula Traiana) remains visible from the river today."
+    },
+    {
+      "question": "Why is Smederevo Fortress so large?",
+      "answer": "Despot Đurađ Branković built Smederevo in 1428–1430 as a strategic last resort. After losing Kosovo to the Ottomans he needed a Danube capital that could hold against Mehmed II. Building the largest fortress in the Balkans in three years was a remarkable feat — but the bet failed. Mehmed captured Smederevo in 1439, lost it, then took it permanently in 1459, ending the Serbian Despotate."
+    },
+    {
+      "question": "Is Golubac Fortress accessible by boat?",
+      "answer": "Yes — and the view from the Danube is one of the most dramatic castle views in Europe. The tour can be upgraded to include a speedboat ride past the fortress and into the Iron Gate gorge. The fortress is also accessible by road from Belgrade in approximately 2 hours."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/belgrade-danube-fortresses-golubac-smederevo.webp",
+    "alt": "Golubac Fortress rising above the Danube at the entrance to the Iron Gate gorge, Serbia",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Belgrade: Danube Fortresses Day Trip — Golubac, Smederevo & Ram",
+    "description": "Day trip from Belgrade to three medieval Danube fortresses — Golubac (Iron Gate gorge), Smederevo (largest medieval fort in the Balkans), and Ram. Wine tasting included."
+  }
+}

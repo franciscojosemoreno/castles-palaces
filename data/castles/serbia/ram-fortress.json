@@ -1,0 +1,82 @@
+{
+  "id": "ram-fortress",
+  "name": "Ram Fortress",
+  "local_name": "Рамска тврђава",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 50000,
+  "country": "serbia",
+  "region": "Braničevo District",
+  "nearest_city": "Požarevac",
+  "address": "Ram, 12208 Veliko Gradište, Serbia",
+  "lat": 44.8072,
+  "lng": 21.3867,
+  "unesco": false,
+  "year_built": 1415,
+  "architectural_style": "Ottoman",
+  "opening_hours": {
+    "monday": "08:00–20:00",
+    "tuesday": "08:00–20:00",
+    "wednesday": "08:00–20:00",
+    "thursday": "08:00–20:00",
+    "friday": "08:00–20:00",
+    "saturday": "08:00–20:00",
+    "sunday": "08:00–20:00",
+    "seasonal_note": "Open daily. Reduced hours in winter."
+  },
+  "price_adult": 2,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.velikogradiste.rs",
+  "visit_duration": "1 hour",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — grounds accessible; towers involve stairs",
+  "booking_advance_days": 0,
+  "tagline": "An Ottoman river fortress guarding the Danube crossing above the Silver Lake",
+  "highlights": [
+    "One of the best-preserved Ottoman fortresses on the Danube",
+    "Strategically built at the Danube crossing by Sultan Suleiman the Magnificent",
+    "Compact pentagonal design with five towers",
+    "Scenic setting above the confluence of the Mlava and Danube rivers",
+    "Near the popular Silver Lake (Srebrno jezero) resort area"
+  ],
+  "description": "Ram Fortress is one of the best-preserved Ottoman fortresses in Serbia — a compact pentagonal citadel perched directly above the point where the Mlava River joins the Danube, at a strategic river crossing used since ancient times. Built by the Ottomans between 1415 and 1433 and substantially reinforced by Sultan Suleiman the Magnificent in the 16th century, the fortress controlled the Danube crossing on the road between Belgrade and the Ottoman heartland. Its five towers and curtain walls survive largely intact, offering views over the Danube towards Romania and across the flat Wallachian plain. The surrounding area is known for the Silver Lake (Srebrno jezero), a popular Serbian summer resort, making Ram a natural addition to a regional visit.",
+  "history": "The Ottomans built the fortress at Ram around 1415, taking advantage of the ancient river crossing. Suleiman the Magnificent reinforced it in the mid-16th century as a key link in his Danube fortification chain during the Hungarian campaigns. It passed to Austrian, then Serbian control in the 18th–19th centuries. The fortress was preserved and opened as a heritage site in the 20th century.",
+  "how_to_visit": "Ram is 110 km east of Belgrade on the Danube road via Požarevac. By car from Belgrade take the E75 south then east towards Požarevac and Veliko Gradište (2 hours). The Silver Lake resort area is 10 km north, and Golubac Fortress is 50 km downstream — combine both for a Danube fortress day trip.",
+  "faqs": [
+    {
+      "question": "Why did the Ottomans build a fortress here?",
+      "answer": "Ram sits at the confluence of the Mlava and Danube rivers, controlling one of the key Danube crossings on the route from Belgrade into the Balkans and towards Ottoman Hungary."
+    },
+    {
+      "question": "What is Srebrno jezero?",
+      "answer": "The Silver Lake is a popular Serbian Danube island resort 10 km from Ram, formed by floodplain channels, with beaches, water sports, and summer camping — a popular combination with the fortress."
+    },
+    {
+      "question": "Can I combine Ram with Golubac in one day?",
+      "answer": "Yes — Ram and Golubac are about 50 km apart on the Danube road and make an excellent combined fortress day trip from Belgrade."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ram-fortress.webp",
+    "alt": "Ram Fortress Ottoman towers above the Mlava-Danube confluence in Serbia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ram-fortress.webp",
+  "instagram_tag": "#ramfortress",
+  "meta_title": "Ram Fortress, Serbia — Ottoman Danube Citadel Near the Silver Lake",
+  "meta_description": "Visit Ram Fortress in Serbia — one of the best-preserved Ottoman fortresses on the Danube, with five towers above the Mlava river confluence near Golubac.",
+  "tags": ["ottoman", "serbian-castle", "danube", "fortress", "river"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["golubac-fortress", "smederevo-fortress"],
+  "gyg_location_id": "2701",
+  "gyg_search_query": "Ram Fortress Serbia Danube tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

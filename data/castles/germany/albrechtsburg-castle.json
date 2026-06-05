@@ -1,0 +1,82 @@
+{
+  "id": "albrechtsburg-castle",
+  "name": "Albrechtsburg Castle",
+  "local_name": "Albrechtsburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 180000,
+  "country": "germany",
+  "region": "Saxony",
+  "nearest_city": "Dresden",
+  "address": "Domplatz 1, 01662 Meißen, Germany",
+  "lat": 51.1656,
+  "lng": 13.4682,
+  "unesco": false,
+  "year_built": 1471,
+  "architectural_style": "Late Gothic / Early Renaissance",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily. Closed 24–25 December. Hours 10:00–17:00 from November to February."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.albrechtsburg-meissen.de",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — lift to main floor; some rooms involve stairs",
+  "booking_advance_days": 0,
+  "tagline": "Germany's oldest palace — birthplace of European porcelain",
+  "highlights": [
+    "Considered Germany's first purpose-built residential palace",
+    "Birthplace of European porcelain: Meissen porcelain was manufactured here 1710–1865",
+    "Stunning late-Gothic vaulted ceilings by Arnold von Westfalen",
+    "Panoramic views over the Elbe valley and Meissen rooftops",
+    "Adjacent to Meissen Cathedral on the same castle hill"
+  ],
+  "description": "Albrechtsburg in Meissen is considered the first purpose-built residential palace in Germany, a masterpiece of late Gothic architecture conceived by master builder Arnold von Westfalen for the Saxon Wettin brothers from 1471. Its revolutionary design — featuring wide spiral staircases (Wendeltreppe) that allowed natural light deep into the palace, and dramatic cellular vaulted ceilings — broke decisively with medieval castle tradition and prefigured the Renaissance palace. In 1710, Augustus the Strong converted the palace into the first European hard-paste porcelain manufactory. For 150 years, Meissen porcelain — the famous 'white gold' — was produced here in strict secrecy before the factory moved to its current location in 1865. Today the palace museum tells both the architectural and porcelain story, with the ornate state rooms still breathtaking after five centuries.",
+  "history": "Built from 1471 for Elector Ernst and Duke Albrecht of Saxony by master builder Arnold von Westfalen, Albrechtsburg was never completed as a residence due to the division of the Wettin dynasty. After serving various functions it was chosen by Augustus the Strong in 1710 as the secret location for Johann Friedrich Böttger's revolutionary invention of hard-paste porcelain. The factory moved in 1865 and the castle underwent restoration, opening as a museum in 1881. Major restorations were completed in the 20th century.",
+  "how_to_visit": "Meissen is 25 km northwest of Dresden. Trains run every 30 minutes from Dresden Hauptbahnhof to Meissen (30 min). From Meissen station, it is a 20-minute walk through the old town and up the castle hill, or a short bus/taxi ride. The famous Meissen Porcelain Manufactory with its museum is a 15-minute walk from the castle — combine both for a full day.",
+  "faqs": [
+    {
+      "question": "What is special about the castle's architecture?",
+      "answer": "Master builder Arnold von Westfalen invented revolutionary features here — notably the spiral staircases (Wendeltreppe) with an inner light shaft, and elaborate cellular vaulting — that made Albrechtsburg a landmark of European architectural history."
+    },
+    {
+      "question": "Can I see porcelain here?",
+      "answer": "The castle museum features exhibits on Meissen porcelain production in the palace 1710–1865. For the living tradition, visit the Meissen Porcelain Manufactory and its museum nearby."
+    },
+    {
+      "question": "Is the Meissen Cathedral on the same hill?",
+      "answer": "Yes — the Gothic Cathedral of Meissen (Dom) stands immediately adjacent to the castle on the same rocky spur above the Elbe, and is included in the same hilltop complex."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/albrechtsburg-castle.webp",
+    "alt": "Albrechtsburg Castle and Meissen Cathedral rising above the Elbe River in Saxony",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/albrechtsburg-castle.webp",
+  "instagram_tag": "#albrechtsburg",
+  "meta_title": "Albrechtsburg Castle, Meissen — Germany's First Palace & Birthplace of Porcelain",
+  "meta_description": "Visit Albrechtsburg in Meissen — Germany's oldest residential palace and the birthplace of European porcelain, with Gothic vaulted halls above the Elbe.",
+  "tags": ["gothic", "german-castle", "saxony", "porcelain", "palace", "meissen"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["moritzburg-castle"],
+  "gyg_location_id": "2478",
+  "gyg_search_query": "Meissen castle Albrechtsburg tour Dresden",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

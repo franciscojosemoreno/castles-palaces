@@ -1,0 +1,82 @@
+{
+  "id": "convent-of-christ-tomar",
+  "name": "Convent of Christ, Tomar",
+  "local_name": "Convento de Cristo",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 300000,
+  "country": "portugal",
+  "region": "Centro, Santarém",
+  "nearest_city": "Leiria",
+  "address": "Estrada do Convento, 2300-000 Tomar, Portugal",
+  "lat": 39.6046,
+  "lng": -8.4119,
+  "unesco": true,
+  "year_built": 1160,
+  "architectural_style": "Romanesque / Manueline / Renaissance",
+  "opening_hours": {
+    "monday": "09:00–18:30",
+    "tuesday": "09:00–18:30",
+    "wednesday": "09:00–18:30",
+    "thursday": "09:00–18:30",
+    "friday": "09:00–18:30",
+    "saturday": "09:00–18:30",
+    "sunday": "09:00–18:30",
+    "seasonal_note": "Extended to 18:30 June to September. Last admission 30 minutes before closing."
+  },
+  "price_adult": 6,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://conventocristo.gov.pt",
+  "visit_duration": "2–3 hours",
+  "best_season": "Year-round",
+  "accessibility": "Partially accessible — main cloister and rotunda accessible; upper areas have stairs",
+  "booking_advance_days": 0,
+  "tagline": "The headquarters of the Knights Templar in Portugal — a UNESCO masterpiece of faith and power",
+  "highlights": [
+    "UNESCO World Heritage Site",
+    "Headquarters of the Knights Templar and their successors the Order of Christ",
+    "The Templar Rotunda — a unique 12-sided Romanesque charola modelled on the Holy Sepulchre",
+    "The Manueline window — the most elaborate decorative window in Portuguese architecture",
+    "Vasco da Gama's voyages were sponsored from this very convent"
+  ],
+  "description": "The Convent of Christ in Tomar is one of the most extraordinary monuments in Portugal and a UNESCO World Heritage Site — a layered complex of chapels, cloisters, and chapter houses spanning eight centuries of the most powerful religious-military orders in Christendom. Founded in 1160 by Gualdim Pais, Master of the Knights Templar in Portugal, as the order's Portuguese headquarters, the complex grew for centuries as the Templars and their successor the Order of Christ accumulated the wealth and power that financed Portugal's Age of Discovery. The heart of the complex is the 12th-century Charola — a unique 16-sided Templar oratory modelled on the Holy Sepulchre in Jerusalem, its circular form allowing knights to attend Mass on horseback. Prince Henry the Navigator was Grand Master of the Order here, and Vasco da Gama's India voyages were financed with Order of Christ funds. The Manueline window on the Chapter House exterior — a riot of maritime and Templar symbolism carved in stone — is considered the supreme achievement of Portuguese Manueline decoration.",
+  "history": "Gualdim Pais founded the Templar castle and charola here in 1160 as the defensive frontier of Portugal against the Moors. After the suppression of the Templars by Pope Clement V in 1312, the Portuguese crown transferred their assets to the newly created Order of Christ in 1319, which became the richest religious order in 15th-century Europe. Prince Henry the Navigator served as Grand Master from 1420, using Order of Christ wealth to fund the great Portuguese discoveries. King Manuel I added the magnificent Manueline nave and cloisters in the early 16th century. After the dissolution of religious orders in 1834, the complex fell into decay before restoration in the 20th century.",
+  "how_to_visit": "Tomar is 135 km north of Lisbon, served by direct trains from Lisbon Santa Apolónia (2 hours). The convent is on a hillside above the town, a 20-minute walk or short taxi from the station. The charming town of Tomar itself, with its medieval synagogue and the Festa dos Tabuleiros (one of Portugal's great festivals), is worth exploring alongside the convent.",
+  "faqs": [
+    {
+      "question": "What is the Charola?",
+      "answer": "The original 12th-century Templar oratory — a 16-sided rotunda modelled on the Church of the Holy Sepulchre in Jerusalem, allowing knights to attend Mass on horseback. It is the oldest and most sacred part of the complex."
+    },
+    {
+      "question": "What is the Manueline window?",
+      "answer": "A monumental carved stone window on the Chapter House facade, covered in maritime ropes, coral, armillary spheres, and Templar crosses — considered the greatest example of Manueline sculptural decoration in Portugal."
+    },
+    {
+      "question": "What is the connection to Vasco da Gama?",
+      "answer": "The Order of Christ financed Portuguese exploration, including Vasco da Gama's 1497 voyage to India. The sails of his ships bore the Order's red cross — the same symbol worn by Columbus."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/convent-of-christ-tomar.webp",
+    "alt": "The Manueline window and cloisters of the Convent of Christ in Tomar, Portugal",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/convent-of-christ-tomar.webp",
+  "instagram_tag": "#conventodecristo",
+  "meta_title": "Convent of Christ Tomar, Portugal — Knights Templar UNESCO Fortress",
+  "meta_description": "Visit the Convent of Christ in Tomar — UNESCO-listed Knights Templar headquarters with the Templar Rotunda and Portugal's finest Manueline window.",
+  "tags": ["knights-templar", "unesco-world-heritage", "portuguese-castle", "manueline", "order-of-christ"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["obidos-castle", "monsaraz-castle"],
+  "gyg_location_id": "2669",
+  "gyg_search_query": "Convent of Christ Tomar tour Portugal",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

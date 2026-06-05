@@ -1,0 +1,84 @@
+{
+  "id": "conwy-castle",
+  "name": "Conwy Castle",
+  "local_name": "Castell Conwy",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 250000,
+  "country": "wales",
+  "region": "Conwy County Borough",
+  "nearest_city": "Conwy",
+  "address": "Rose Hill Street, Conwy LL32 8AY, Wales",
+  "lat": 53.2801,
+  "lng": -3.8272,
+  "unesco": true,
+  "year_built": 1283,
+  "architectural_style": "Edwardian concentric castle — eight round towers, two barbicans",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Mar–Oct: 09:30–17:00. Nov–Feb: 10:00–16:00. Closed 24–26 Dec and 1 Jan."
+  },
+  "price_adult": 13,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/visit/places-to-visit/conwy-castle",
+  "visit_duration": "1–2 hours",
+  "best_season": "May and September — light for photography, fewer visitors than July–August",
+  "accessibility": "Access to the castle interior is via steep steps and narrow passages. The castle is not fully wheelchair accessible. Ground level viewing is possible from outside.",
+  "booking_advance_days": 0,
+  "tagline": "Eight towers and an unbroken wall — the most perfectly preserved ring of medieval town walls in Britain",
+  "highlights": [
+    "Eight massive round towers connected by curtain walls — almost entirely intact after 700 years",
+    "The medieval town walls of Conwy — over a kilometre of intact walls encircling the entire town, with 21 towers",
+    "Views from the towers over the Conwy Estuary, Snowdonia and the three bridges — medieval town wall, Telford suspension bridge and Stephenson railway bridge",
+    "The Chapel Tower — containing a small but exquisitely proportioned medieval chapel",
+    "The site from which Henry IV besieged the castle in 1401 — Conwy's strategic importance visible from the towers"
+  ],
+  "description": "Conwy Castle was built by Edward I between 1283 and 1289 as part of the same programme of conquest that produced Caernarfon, Harlech and Beaumaris. Unlike Caernarfon's polygonal towers, Conwy has eight massive round towers set into a roughly rectangular plan, taking advantage of a rocky promontory above the Conwy Estuary. The castle and the walled town that grew alongside it were built simultaneously as an integrated system of control — the walls (still largely intact) originally enclosed the entire English colonial town, with Welsh inhabitants excluded.\n\nWhat makes Conwy particularly atmospheric is the completeness of its setting. Three bridges now span the estuary at the foot of the castle walls: the original medieval town bridge (rebuilt), Thomas Telford's suspension bridge of 1826 (one of the world's first modern suspension bridges, its towers deliberately designed to echo the castle's), and Robert Stephenson's tubular railway bridge of 1849. The visual layering of medieval, Georgian and Victorian engineering in a single view is extraordinary.\n\nThe castle itself is now largely a shell — roofless, its great hall open to the sky — but the curtain walls and all eight towers survive to full height, and climbing them provides some of the finest views in Wales: the tidal estuary, Snowdonia to the south, and the full circuit of the town walls below.",
+  "history": "Edward I built Conwy Castle in just four years, from 1283 to 1287, spending around £15,000 — an enormous sum equivalent to roughly £20 million today. Master James of St. George, the most celebrated military architect of the age, supervised the construction. The castle was designed in two wards: the outer ward for garrison and administration, the inner ward (with four of the eight towers) as the royal apartments.\n\nRichard II was besieged at Conwy by the forces of Henry Bolingbroke in 1399, an event that led directly to his abdication and death — the beginning of the sequence of events that produced the Wars of the Roses. During the Civil War, the Parliamentarians besieged and took the castle in 1646; it was deliberately slighted (partially demolished) to prevent further military use. The 19th century saw the first restoration and consolidation work, and the castle passed to the State in 1953.",
+  "how_to_visit": "**Getting there:** Conwy railway station is a 5-minute walk from the castle. Trains run frequently from Llandudno Junction (3 min) and Chester (50 min). From Llandudno Junction, mainline trains connect to London Euston (3 hours) and Manchester (1 hour). Limited parking within the town walls — the main car parks are outside.\n\n**Town walls:** Admission to the castle includes access to parts of the town walls. The full circuit of the walls can be walked separately (free access to much of the exterior). The stretch with the best views is the section above the quayside.\n\n**Combine with:** Bodnant Garden (National Trust, 7 miles south — one of the finest gardens in Wales), Llandudno's Victorian pier and promenade (7 miles north), and the Great Orme headland make an excellent North Wales day.",
+  "faqs": [
+    {
+      "question": "Can I walk along Conwy's medieval town walls?",
+      "answer": "Yes — the town walls of Conwy are among the best-preserved medieval town walls in Europe, running for 1.3km with 21 towers and three gateways. Access to parts of the wall walk is included with castle admission. Some sections of the walls can be accessed for free from various points around the town. The walls circuit takes about 45 minutes to walk completely."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/conwy-castle.webp",
+    "alt": "Conwy Castle and its eight towers reflected in the Conwy Estuary at dawn",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/conwy-castle.webp",
+  "instagram_tag": "#conwycastle",
+  "meta_title": "Conwy Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Conwy Castle — Edward I's UNESCO-listed Welsh fortress with intact medieval town walls and views over the Conwy Estuary and Snowdonia.",
+  "tags": [
+    "medieval",
+    "unesco",
+    "dramatic",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "welsh-castles-ring"
+  ],
+  "nearby_castles": [
+    "caernarfon-castle",
+    "edinburgh-castle"
+  ],
+  "gyg_location_id": "333",
+  "gyg_search_query": "Conwy Castle tour North Wales",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

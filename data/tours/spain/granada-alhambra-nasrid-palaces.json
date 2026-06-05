@@ -1,0 +1,97 @@
+{
+  "id": "granada-alhambra-nasrid-palaces",
+  "slug": "granada-alhambra-nasrid-palaces",
+  "name": "Granada: Alhambra & Nasrid Palaces Skip-the-Line Guided Tour",
+  "tagline": "Spain's most visited monument — and the most perfect palace complex ever built",
+  "departure_country": "spain",
+  "departure_city": "Granada",
+  "visited_countries": [
+    "spain"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 3 hours",
+  "gyg_tour_id": "54011",
+  "price_from": 47,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 21506,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian"
+  ],
+  "max_group_size": 15,
+  "overview": "The Alhambra is the most visited monument in Spain and one of the greatest architectural achievements in human history — a 13th-century Nasrid palace complex of breathtaking Islamic craftsmanship, perched above Granada with the snow-capped Sierra Nevada as a backdrop. The Nasrid Palaces at its heart are among the finest rooms ever created: walls covered entirely in carved stucco, geometric tilework, and calligraphy so intricate it appears weightless. Entry to the Alhambra is strictly limited — skip-the-line access with a licensed guide is the only way to guarantee entry and understand what you're seeing.",
+  "highlights": [
+    "Skip-the-line access to the Alhambra and Nasrid Palaces",
+    "Licensed guide for the full 3-hour experience",
+    "Visit the Alcazaba fortress with panoramic views over Granada",
+    "Explore the Generalife summer palace and gardens",
+    "One of GetYourGuide's highest-rated tours in Europe — 4.7 from 21,000+ reviews"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "alhambra-granada",
+      "castle_name": "Alhambra & Alcazaba",
+      "duration": "1 hour",
+      "description": "Begin in the Alcazaba, the oldest part of the Alhambra — a military fortress whose towers offer the finest views over the Albaicín quarter and the city below. Your guide explains the strategic genius of the Nasrid sultans who built this hilltop citadel."
+    },
+    {
+      "order": 2,
+      "castle_id": "alhambra-granada",
+      "castle_name": "Nasrid Palaces",
+      "duration": "1 hour",
+      "description": "The highlight of any Alhambra visit: three interconnected palaces of extraordinary delicacy. The Court of the Myrtles, the Hall of the Ambassadors, and the famous Court of the Lions — with its 124 marble columns and carved fountain — represent the absolute peak of Nasrid architecture."
+    },
+    {
+      "order": 3,
+      "castle_id": "alhambra-granada",
+      "castle_name": "Generalife Gardens",
+      "duration": "45 minutes",
+      "description": "The Nasrid sultans' summer palace and gardens — a series of terraced patios, fountains, and cypress hedges designed to cool the summer heat. The acequia courtyard with its long reflecting pool lined with rose hedges is one of the most serene spaces in Europe."
+    }
+  ],
+  "included": [
+    "Skip-the-line timed entry to the Alhambra",
+    "Licensed guide",
+    "Nasrid Palaces access",
+    "Alcazaba & Generalife access"
+  ],
+  "excluded": [
+    "Transport to/from the Alhambra",
+    "Gratuities"
+  ],
+  "meeting_point": "Alhambra main entrance, Calle Real de la Alhambra, Granada",
+  "tips": [
+    "The Nasrid Palaces have a timed entry — your guide ensures you enter at exactly the right moment to avoid crowds",
+    "Book as far in advance as possible — tickets sell out weeks ahead in summer",
+    "The Alhambra is at altitude (740m) and can be cool in the morning even in summer — bring a layer",
+    "The last light of afternoon turns the red walls to gold — afternoon slots are often the most atmospheric"
+  ],
+  "faqs": [
+    {
+      "question": "Why is advance booking so important for the Alhambra?",
+      "answer": "The Nasrid Palaces are strictly limited to 6,600 visitors per day with timed entry. Tickets sell out weeks in advance in high season. This tour guarantees your timed entry slot — attempting to buy on the day is very high risk."
+    },
+    {
+      "question": "How do I get to the Alhambra from Granada city centre?",
+      "answer": "The Alhambra is a 20-minute walk uphill from the city centre, or a 5-minute minibus ride from Plaza Nueva. The C32 bus runs frequently. Taxis are also available."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/granada-alhambra-nasrid-palaces.webp",
+    "alt": "The Alhambra palace complex rising above Granada with the Sierra Nevada behind",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Alhambra Skip-the-Line Guided Tour Granada | Castles & Palaces",
+    "description": "Book the Alhambra & Nasrid Palaces skip-the-line guided tour in Granada. 4.7 rating, 21,000+ reviews. Guaranteed entry — from €47 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/granada-l207/skip-the-line-alhambra-and-generalife-guided-tour-t54011/"
+}

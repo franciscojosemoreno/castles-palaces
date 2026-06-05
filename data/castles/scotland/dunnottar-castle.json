@@ -1,0 +1,82 @@
+{
+  "id": "dunnottar-castle",
+  "name": "Dunnottar Castle",
+  "local_name": "Dùn Fhoithear",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 150000,
+  "country": "scotland",
+  "region": "Aberdeenshire",
+  "nearest_city": "Stonehaven",
+  "address": "Stonehaven, Aberdeenshire AB39 2TL, Scotland",
+  "lat": 56.9457,
+  "lng": -2.1978,
+  "unesco": false,
+  "year_built": 1297,
+  "architectural_style": "Medieval Scottish",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Oct–Mar: closes at 16:00. Last entry 30 minutes before closing. Closed Christmas and New Year. Winter weather can make the coastal path slippery — check conditions before visiting."
+  },
+  "price_adult": 9,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.dunnottarcastle.co.uk",
+  "visit_duration": "2–3 hours",
+  "best_season": "Late spring to early autumn (May–September) for best light and accessible cliff paths; dramatic in winter storms",
+  "accessibility": "The path from the car park to the castle involves steep descents and stairways cut into the cliff — not suitable for wheelchairs or those with limited mobility. The castle courtyard has uneven ground.",
+  "booking_advance_days": 0,
+  "tagline": "The most dramatically positioned ruined castle in Britain — a clifftop fortress above the North Sea",
+  "highlights": [
+    "One of the most photographed castles in the world — a complex of ruined towers on a 50-metre sea stack surrounded by the North Sea on three sides",
+    "The site where the Honours of Scotland (Scottish Crown Jewels) were hidden from Oliver Cromwell's army in 1651",
+    "Used as the model for Elsinore in Franco Zeffirelli's 1990 film of Hamlet starring Mel Gibson",
+    "A fortified promontory occupied since the Iron Age, with documented castle history from the 5th century",
+    "The Whig's Vault — a dungeon where 167 Covenanters were imprisoned in appalling conditions in 1685"
+  ],
+  "description": "Dunnottar Castle occupies one of the most extraordinary positions of any ruined fortress in Europe. It sits on a detached sea stack of Old Red Sandstone, 50 metres above the North Sea, connected to the Aberdeenshire clifftop by a narrow neck of rock. To reach it you must descend a steep path to a small beach, climb steep steps cut into the cliff, and pass through a tunnel in the rock before emerging into the castle courtyard. The approach is theatrical and the castle's silhouette against a North Sea sky — especially in winter or storm conditions — is one of the most powerful sights in Scotland.\n\nThe castle's complex of surviving buildings — a 14th-century tower, a 16th-century great hall, barracks, chapel, stables, and a well house — gives a clear picture of a self-contained medieval fortress community. Unlike many Scottish castles that survive as empty shells, Dunnottar retains enough interior fabric to communicate the scale and ambition of the medieval buildings. The dramatic position made it nearly impregnable; only siege by starvation could overcome it.\n\nDunnottar's most famous episode came in 1651–1652, when Oliver Cromwell's army besieged the castle for eight months after it had been chosen to protect the Honours of Scotland — the Scottish crown, sceptre, and sword, the oldest regalia in Britain. Rather than surrender them, the garrison smuggled them out in a laundry basket or under a minister's wife's skirts (accounts differ) to a nearby church. The jewels were buried under the floor and recovered after the Restoration in 1660.",
+  "history": "The promontory of Dunnottar has been a fortified position since at least the Early Christian period — St Ninian is said to have visited a community here in the late 4th century, and records of a fortified church on the rock date to the 5th century. William Keith, Great Marischal of Scotland, built the first substantial stone castle here in 1390, beginning the long association of the Keith family with the site.\n\nThe 14th and 15th centuries saw constant conflict. William Wallace captured the English garrison here in 1297, reportedly burning some 4,000 English soldiers sheltering in the church. Edward I later recaptured and reinforced it. Through the Wars of Scottish Independence and beyond, Dunnottar passed between Scottish and English control before settling firmly in Keith family hands.\n\nThe castle was successively expanded and modified through the 16th and early 17th centuries, when the Earls Marischal were among the most powerful nobles in Scotland. Mary Queen of Scots stayed here in 1564; James VI visited in 1580 and 1589. The siege of 1651–1652 by Cromwell's forces — and the successful concealment of the Honours of Scotland — was its most famous hour. After the forfeiture of the Earl Marischal's estates following the Jacobite rising of 1715, the castle fell into disuse and was dismantled for building material. The ruins have been in the Pearson family since 1925.",
+  "how_to_visit": "**Getting there:** Dunnottar is 3 km south of Stonehaven. From Aberdeen (25 km north), drive the A90 coastal road south, or take a train to Stonehaven station and walk or take a taxi to the castle. By car, a dedicated car park sits at the clifftop above the castle (signed off the A90). Allow 15 minutes on foot from the car park to the castle entrance.\n\n**The walk:** The descent to the castle involves steep steps and an uneven path — wear sturdy shoes. The approach is dramatic but not long (about 15 minutes down and back up). The tunnel entrance through the rock is the original gatehouse passage.\n\n**Photography:** The castle is most photographic from the clifftop to the north (looking south along the rock stack with the sea behind). The walk back up to the car park offers the classic rear view. Sunrise and sunset produce extraordinary light on the red sandstone.\n\n**Combine with:** Stonehaven (picturesque fishing harbour, 3 km) and the whisky distilleries of Royal Deeside make natural additions. Aberdeen is 25 km north and offers connections onward to Edinburgh or Inverness.",
+  "faqs": [
+    {
+      "question": "How difficult is the walk to Dunnottar Castle?",
+      "answer": "The walk from the car park involves a steep descent on a gravel path and stone steps, passing through a rock tunnel at the entrance. It takes about 15 minutes each way. The path is steep and can be slippery in wet weather but is manageable for most visitors in good footwear. It is not accessible for wheelchairs or pushchairs."
+    },
+    {
+      "question": "What are the Honours of Scotland?",
+      "answer": "The Honours of Scotland — the Scottish crown, sceptre, and sword — are the oldest surviving crown jewels in Britain, dating from the 15th and 16th centuries. They were hidden at Dunnottar during Cromwell's occupation of Scotland (1651–1652) and smuggled out before the castle fell. After the Acts of Union in 1707, they were locked in a chest in Edinburgh Castle for over a century before Sir Walter Scott campaigned for their rediscovery in 1818. They are now on permanent display in Edinburgh Castle."
+    },
+    {
+      "question": "Is Dunnottar Castle connected to any films?",
+      "answer": "Yes — Franco Zeffirelli used Dunnottar as the model for Elsinore in his 1990 film of Hamlet starring Mel Gibson. The castle's clifftop position and medieval atmosphere made it the ideal visual reference for the Danish fortress, even though filming took place elsewhere."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/dunnottar-castle.webp",
+    "alt": "Dunnottar Castle ruins on a 50-metre sea stack above the North Sea in Aberdeenshire, Scotland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/dunnottar-castle.webp",
+  "instagram_tag": "#dunnottarcastle",
+  "meta_title": "Dunnottar Castle: Tickets, History & Visitor Guide 2026",
+  "meta_description": "Visit Dunnottar Castle in Aberdeenshire — the most dramatic clifftop ruin in Scotland, where the Scottish Crown Jewels were hidden from Cromwell. Guide to tickets, the walk, and history.",
+  "tags": ["medieval", "ruins", "coastal", "dramatic", "scotland"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["edinburgh-castle", "stirling-castle", "eilean-donan-castle"],
+  "gyg_location_id": "295",
+  "gyg_search_query": "Dunnottar Castle tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

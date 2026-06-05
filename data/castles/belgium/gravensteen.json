@@ -1,0 +1,79 @@
+{
+  "id": "gravensteen",
+  "name": "Gravensteen",
+  "local_name": "Gravensteen",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 7,
+  "annual_visitors": 150000,
+  "country": "belgium",
+  "region": "East Flanders",
+  "nearest_city": "Ghent",
+  "address": "Sint-Veerleplein 11, 9000 Ghent, Belgium",
+  "lat": 51.0576,
+  "lng": 3.7196,
+  "unesco": false,
+  "year_built": 1180,
+  "architectural_style": "Flemish medieval — inspired by Crusader castles, concentric layout with keep and outer wall",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Apr–Oct: 09:00–18:00. Nov–Mar: 09:00–17:00. Closed 1 Jan, 25 Dec, first Mon of Ghent Festival week in July."
+  },
+  "price_adult": 14,
+  "price_child": 10,
+  "booking_required": false,
+  "official_tickets_url": "https://visit.gent.be/en/see-and-do/gravensteen",
+  "visit_duration": "1–2 hours",
+  "best_season": "April to October — Ghent's canals and medieval skyline best experienced in good weather",
+  "accessibility": "Multiple flights of stairs and steep ladders throughout. Not suitable for visitors with limited mobility. Audio tour available in multiple languages.",
+  "booking_advance_days": 0,
+  "tagline": "A Crusader-inspired castle in the heart of Ghent — the stronghold of the Counts of Flanders",
+  "highlights": [
+    "The walls and parapets — accessible throughout, offering views over Ghent's medieval rooflines, canals and towers",
+    "The count's residence and keep — rooms with medieval fittings and a collection of medieval weapons and armour",
+    "The museum of torture instruments — a macabre but historically illuminating collection relating to the castle's use as a court of justice",
+    "The location in central Ghent — rising directly from the canal junction at Sint-Veerleplein, overlooked by the Cathedral and the Belfort",
+    "The battlements at dusk — the castle illuminated against the Ghent skyline is one of Belgium's most striking urban views"
+  ],
+  "description": "Gravensteen — the Castle of the Counts — rises from the canal junction at the heart of medieval Ghent with the emphatic presence of a fortress that was built to be seen and to be feared. Philip of Alsace, Count of Flanders, built it in 1180 after returning from the Crusades, deliberately modelling it on the Crusader castles he had seen in the Holy Land: a concentric plan with a massive keep, curtain walls studded with projecting towers, and a moat fed by the River Lieve.\n\nThe castle stands at the centre of one of medieval Europe's wealthiest cities. Ghent in the 13th and 14th centuries was the second-largest city in northern Europe after Paris, its wealth based on the Flemish cloth trade. The Counts of Flanders used Gravensteen as a palace, a court of justice, and the place where their decisions were enforced — the castle's role as a seat of power is inseparable from the occasional gruesome episodes that its torture instrument collection recalls. The castle later served as a cotton factory, a prison and a coinage house before the city of Ghent purchased and restored it in 1889.\n\nGhent's medieval centre, surrounding the castle on all sides, is one of the best-preserved in Belgium — the cathedral with its Van Eyck altarpiece, the Belfort tower, and the Korenlei and Graslei canal quaysides all within easy walking distance.",
+  "history": "Philip of Alsace built Gravensteen in 1180 on the site of an older fortification. The design was directly influenced by Crusader architecture — Philip had participated in the Second Crusade and the construction of Crusader fortresses in the Holy Land clearly shaped his ideas. The moat, concentric walls and keep represented the state of the art in military architecture at the time.\n\nThe castle served as the principal residence of the Counts of Flanders until the county became wealthy enough to afford more comfortable palaces. It then became primarily a court of justice and prison — the location where the counts' justice was administered, for better or worse. In the later medieval period it passed through various administrative uses. In the 18th century it was converted into a cotton factory, with workers' housing built into the medieval walls. The historian and politician Louis Minard campaigned for its restoration in the 1870s, and the city purchased and began restoring the castle in 1889.",
+  "how_to_visit": "**Getting there:** Ghent-Sint-Pieters station has regular trains from Brussels (30 minutes) and Bruges (25 minutes). Tram 1 runs from the station to the city centre (Korenmarkt, 10 minutes); the castle is a 5-minute walk from there.\n\n**Ghent in a day:** The castle, the Belfort, St. Bavo's Cathedral (Ghent Altarpiece), the Graslei and Korenlei canal quays, and the Design Museum can be covered in a full day. Ghent's restaurant scene is excellent — try the waterzooi (Flemish chicken stew) in a traditional brown café.\n\n**Combine with:** Bruges (25 minutes by train) and Brussels (30 minutes) for a classic Belgium triangle.",
+  "faqs": [
+    {
+      "question": "Why was Gravensteen built to look like a Crusader castle?",
+      "answer": "Philip of Alsace, Count of Flanders, participated in the Second Crusade and spent time in the Holy Land, where he encountered the powerful Crusader fortresses of Syria and Palestine. When he returned to Ghent in 1178, he commissioned a new castle incorporating the design principles he had observed: concentric walls, projecting towers, a massive keep and a water-filled moat. This made Gravensteen one of the most advanced military fortifications in 12th-century northern Europe."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gravensteen.webp",
+    "alt": "Gravensteen castle rising above the Ghent canals at dusk, with the medieval city roofline behind",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gravensteen.webp",
+  "instagram_tag": "#gravensteen",
+  "meta_title": "Gravensteen Ghent: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Gravensteen in Ghent — the Crusader-inspired Castle of the Counts of Flanders in the heart of medieval Ghent. Book tickets and explore the walls and keep.",
+  "tags": [
+    "medieval",
+    "crusader",
+    "city-centre",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2551",
+  "gyg_search_query": "Gravensteen Ghent castle tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

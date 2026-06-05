@@ -1,0 +1,96 @@
+{
+  "id": "tallinn-narva-castle-ivangorod-fortress",
+  "slug": "tallinn-narva-castle-ivangorod-fortress",
+  "name": "From Tallinn: Narva Castle, Ivangorod Fortress & The Edge of Europe",
+  "tagline": "Two medieval fortresses 150 metres apart — one in Estonia, one in Russia — the most dramatic border crossing in European history",
+  "departure_country": "estonia",
+  "departure_city": "Tallinn",
+  "visited_countries": [
+    "estonia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "996873",
+  "gyg_url": "https://www.getyourguide.com/tallinn-l394/from-tallinn-narva-and-a-view-of-russia-day-trip-t996873/",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 280,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 14,
+  "overview": "At Narva, on Estonia's eastern border, two medieval fortresses face each other across 150 metres of the Narva River — Hermann Castle on the Estonian bank, Ivangorod Fortress on the Russian. They are among the most photogenic and historically charged sites in northern Europe: twin strongholds built to control the same river crossing, staring each other down across a frontier that has divided empires, ideologies and civilisations for 700 years. Hermann Castle (the Livonian Order's Narva Castle) was begun in the 13th century and completed as a massive square keep by the 14th — the northernmost major Livonian Order fortress in Estonia. Across the river, Ivangorod Fortress was built in 1492 by Ivan III of Russia as a direct response to Narva — the Russian tsar could see the Livonian castle from his bank and wanted a matching statement of power. The guide covers 700 years of the border's extraordinary history: Swedish occupation, Russian conquest under Peter the Great, World War II destruction (both cities were almost completely destroyed), and the strange contemporary reality of two medieval castles separated by an international border that is also the eastern frontier of the European Union and NATO.",
+  "highlights": [
+    "Hermann Castle (Narva) — the Livonian Order's massive keep, one of the finest Teutonic fortresses in the Baltic states",
+    "Ivangorod Fortress — Ivan III's response to the Livonian castle, visible 150 metres across the Narva River",
+    "The most dramatic border view in Europe — two 15th-century castles on opposite EU-Russia banks of the same river",
+    "Narva's extraordinary WWII history — the city was 97% destroyed in 1944 and rebuilt as a Soviet industrial city; the castle alone survived",
+    "The Battle of Narva (1700) — where 18-year-old Charles XII of Sweden defeated Peter the Great's army 4 times larger, in a blizzard",
+    "Narva-Jõesuu resort — the Soviet-era Baltic seaside town with Art Nouveau villas and quiet beaches"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Tallinn Departure",
+      "duration": "Travel east (2.5 hours)",
+      "description": "Head east from Tallinn along the Gulf of Finland coast through the birch forests of northeastern Estonia. The guide introduces the unique history of Estonia's eastern borderlands — a region that has changed hands between Livonian Order, Sweden, Russia, and independent Estonia multiple times, and where the medieval fortress cities of the Baltic were repeatedly contested, destroyed, and rebuilt. The Narva River has been a frontier since ancient times: its crossing point was one of the most strategically important in northern Europe for 700 years."
+    },
+    {
+      "order": 2,
+      "castle_name": "Narva-Jõesuu & Gulf Coast",
+      "duration": "1 hour",
+      "description": "Stop at Narva-Jõesuu — the seaside resort town at the mouth of the Narva River, where the Gulf of Finland meets Estonia's eastern border. The town developed as a spa resort in the 19th century, attracting St Petersburg's aristocracy for its clean Baltic beaches and pine-scented air. Its Art Nouveau villas, now in various states of restoration, tell the story of the resort's golden age under the Russian Empire and its long Soviet decline. The beach itself is one of Estonia's finest — a wide strip of white sand backed by ancient pine forest."
+    },
+    {
+      "order": 3,
+      "castle_name": "Hermann Castle & Ivangorod View",
+      "duration": "3 hours",
+      "description": "Narva's Hermann Castle (Hermannsfeste) was built by the Livonian Order in the 13th century and expanded into a massive rectangular keep with corner towers in the 14th and 15th centuries — one of the most powerful fortresses on the eastern Baltic coast. The castle is the only structure in Narva to survive the near-total destruction of World War II: in 1944, the battle for the Narva River resulted in 97% of the city being destroyed. The castle now houses Narva's museum of the city's extraordinary history. From the castle's eastern battlements, Ivangorod Fortress is visible 150 metres across the Narva River — Ivan III's 1492 response to the Livonian castle, built in just one year as a statement of Russian power at the edge of Livonia. The guide covers the Battle of Narva (1700), where 18-year-old Charles XII of Sweden with 10,000 men defeated Peter the Great's army of 37,000 in a blizzard, and the subsequent Russian conquest that made Narva one of Peter's great victories — the two fortresses together tell the entire story of 700 years of Baltic conflict."
+    }
+  ],
+  "included": [
+    "Return transport from Tallinn",
+    "Professional English-speaking guide",
+    "Hermann Castle (Narva Museum) entry",
+    "Small group (max 14)"
+  ],
+  "excluded": [
+    "Lunch (free time in Narva)",
+    "Narva-Jõesuu beach activities",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Tallinn city centre — exact departure point confirmed at booking",
+  "tips": [
+    "The view of Ivangorod Fortress from Hermann Castle battlements is one of the most extraordinary in Europe — two medieval castles on opposite sides of an EU-Russia border, 150 metres apart",
+    "Narva's Soviet-era city centre is a fascinating document of 1950s reconstruction planning — the guide covers this too",
+    "Estonian border formalities mean you stay on the Estonian side; binoculars are useful for examining Ivangorod in detail",
+    "Narva-Jõesuu beach is one of Estonia's best — worth extra time if the weather is good"
+  ],
+  "faqs": [
+    {
+      "question": "Can you cross from Estonia into Russia at Narva?",
+      "answer": "The Narva border crossing is open, but crossing requires a valid Russian visa and is subject to political conditions. This tour stays entirely on the Estonian side — the point is to see the extraordinary view of the two medieval fortresses facing each other across the river, which requires no border crossing. The view of Ivangorod from Hermann Castle is one of the most visually dramatic in Europe."
+    },
+    {
+      "question": "What happened to Narva in World War II?",
+      "answer": "Narva was 97% destroyed in the battles of 1944. The city — at the time one of Estonia's most important historic cities, with outstanding Baroque architecture — was devastated by both German and Soviet forces fighting for the Narva River crossing. Hermann Castle, being a massive medieval fortification, survived almost intact and is now the only pre-war building remaining in the city centre. The rest was rebuilt in Soviet architectural style in the 1950s."
+    },
+    {
+      "question": "Who was Ivan III and why did he build Ivangorod?",
+      "answer": "Ivan III (1462–1505), known as 'Ivan the Great', was the Grand Prince of Moscow who transformed the principality into the dominant Russian state by defeating the Mongol Golden Horde and absorbing rival Russian principalities. He built Ivangorod Fortress in 1492 in just one summer — a deliberate statement of Russian power directly opposite the Livonian Order's Hermann Castle. The name 'Ivangorod' ('Ivan's City') was chosen by the tsar himself. The fortress was the westernmost point of Russian territory, a foothold on the Baltic that Peter the Great would later expand dramatically."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/tallinn-narva-castle-ivangorod-fortress.webp",
+    "alt": "Hermann Castle and Ivangorod Fortress facing each other across the Narva River at the Estonian-Russian border",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Tallinn: Narva Castle & Ivangorod Fortress – The Edge of Europe Day Trip",
+    "description": "Day trip from Tallinn to Narva — where Hermann Castle (Estonia) and Ivangorod Fortress (Russia) face each other 150 metres apart across the Narva River. The most dramatic border in European history."
+  }
+}

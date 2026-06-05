@@ -1,0 +1,82 @@
+{
+  "id": "haut-koenigsbourg",
+  "name": "Haut-Kœnigsbourg Castle",
+  "local_name": "Château du Haut-Kœnigsbourg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 550000,
+  "country": "france",
+  "region": "Alsace, Bas-Rhin",
+  "nearest_city": "Sélestat",
+  "address": "67600 Orschwiller, France",
+  "lat": 48.2494,
+  "lng": 7.3436,
+  "unesco": false,
+  "year_built": 1147,
+  "architectural_style": "Medieval Alsatian / Wilhelmine reconstruction",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Extended to 18:00 from April to September, 19:00 in June and July. Closed in January."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.haut-koenigsbourg.fr",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — ground-floor areas wheelchair friendly; upper levels have stairs",
+  "booking_advance_days": 0,
+  "tagline": "Alsace's most-visited castle, rising above the Rhine plain",
+  "highlights": [
+    "Most visited castle in France outside Paris",
+    "Completely restored by Kaiser Wilhelm II between 1900 and 1908",
+    "Spectacular views over the Alsatian plain and Black Forest",
+    "Original medieval architecture fused with early 20th-century Wilhelmine design",
+    "Rich museum collections including armour, weapons, and tapestries"
+  ],
+  "description": "Haut-Kœnigsbourg crowns a 757-metre Vosges sandstone spur above the Alsatian wine route, commanding views that stretch across the Rhine plain to the Black Forest and the Alps on clear days. First documented in 1147, the castle was destroyed by Swedish troops in 1633 and lay in ruin for over two centuries. In 1899 the ruins were gifted to Kaiser Wilhelm II, who commissioned architect Bodo Ebhardt to undertake a meticulous restoration completed in 1908. The result is one of Europe's most complete medieval castle experiences — a seamless blend of authentic 15th-century structure and early 20th-century imperial vision. With over 550,000 visitors annually, it is the most visited castle in France outside the Île-de-France.",
+  "history": "The castle was built in the 12th century by the Hohenstaufen dynasty and was expanded across several centuries. It changed hands between Alsatian, Swiss, and imperial powers before being razed by Swedish forces in the Thirty Years' War. After decades of ruin it was donated to Kaiser Wilhelm II by the city of Sélestat in 1899. His restoration — intended as a symbol of German ownership of Alsace — became both architecturally significant and politically controversial. After World War I the castle passed to France and has been managed as a public monument ever since.",
+  "how_to_visit": "Located 8 km west of Sélestat on the D159. Drive up to the castle car park. In summer a shuttle bus runs from Sélestat train station. The castle is fully signposted on the Route des Vins d'Alsace and makes an excellent stop on a wine route itinerary.",
+  "faqs": [
+    {
+      "question": "Who rebuilt Haut-Kœnigsbourg?",
+      "answer": "Kaiser Wilhelm II commissioned architect Bodo Ebhardt to restore the ruined castle between 1900 and 1908, presenting it as a symbol of German heritage in Alsace."
+    },
+    {
+      "question": "Can I see the Alps from the castle?",
+      "answer": "On clear days the Alps are visible from the upper terraces, along with the Rhine plain, Black Forest, and Vosges wine villages below."
+    },
+    {
+      "question": "Is there a restaurant at the castle?",
+      "answer": "Yes, there is a restaurant and café inside the castle grounds serving Alsatian cuisine."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/haut-koenigsbourg.webp",
+    "alt": "Haut-Kœnigsbourg Castle rising above the Alsatian wine route in France",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/haut-koenigsbourg.webp",
+  "instagram_tag": "#hautkoenigsbourg",
+  "meta_title": "Haut-Kœnigsbourg Castle, Alsace — France's Most Visited Medieval Fortress",
+  "meta_description": "Discover Haut-Kœnigsbourg in Alsace — a perfectly restored medieval castle with sweeping Rhine valley views. Tickets, hours, and tours.",
+  "tags": ["medieval", "french-castle", "alsace", "rhineland", "wine-route"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["mont-saint-michel"],
+  "gyg_location_id": "2448",
+  "gyg_search_query": "Haut-Koenigsbourg castle Alsace tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

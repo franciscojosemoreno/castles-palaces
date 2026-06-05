@@ -1,0 +1,78 @@
+{
+  "id": "klis-fortress",
+  "name": "Klis Fortress",
+  "local_name": "Tvrđava Klis",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 150000,
+  "country": "croatia",
+  "region": "Split-Dalmatia County",
+  "nearest_city": "Split",
+  "address": "Megdan 57, 21231 Klis, Croatia",
+  "lat": 43.5581,
+  "lng": 16.5386,
+  "unesco": false,
+  "year_built": 800,
+  "architectural_style": "Medieval Croatian and Ottoman fortification",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Apr–Oct: 09:00–19:00. Nov–Mar: 09:00–17:00. Medieval combat reenactments are held at Klis on selected dates — check the fortress website. 'Game of Thrones' themed events are popular in summer."
+  },
+  "price_adult": 7,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.tvrdjava-klis.com/en/",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "Spring and autumn for clear views; summer for Game of Thrones events and the full Adriatic panorama",
+  "accessibility": "The approach road is accessible by car to the upper car park. Inside the fortress, some areas involve steps and uneven surfaces. The main courtyard and lower terraces are broadly accessible.",
+  "booking_advance_days": 0,
+  "tagline": "The clifftop fortress above Split that resisted the Ottomans for decades — and stood in for Meereen in Game of Thrones",
+  "highlights": [
+    "Used as the filming location for the city of Meereen in HBO's Game of Thrones (Seasons 4 and 5) — Daenerys Targaryen's Essos capital",
+    "A Croatian fortress of extraordinary strategic position — a narrow ridge above the Kozjak mountain pass commanding the only inland route to Split and the Adriatic",
+    "The site of Croatia's most celebrated medieval resistance: the fortress withstood Ottoman siege for decades before falling in 1537",
+    "Views from the battlements encompass Split, Diocletian's Palace, the Dalmatian islands, and on clear days the mountains of Bosnia 100 km to the east",
+    "The Church of St Vitus — a small Ottoman-era mosque converted back to a church after the 1596 reconquest, retaining traces of both faiths"
+  ],
+  "description": "Klis Fortress sits on a blade-thin ridge above the Kozjak mountain pass, 8 km north of Split, commanding the only significant inland route between the Dalmatian coast and the interior of the Balkans. For centuries this single ridge controlled access to the richest port on the eastern Adriatic, and its fortress became the pivot of Croatian resistance to Ottoman expansion — a resistance that ultimately failed in 1537 but lasted long enough to become one of the defining narratives of Croatian national identity.\n\nThe fortress achieves its dramatic effect through position rather than scale: it is not vast, but it appears to grow from the ridge itself, its three defensive zones stacked vertically up the narrow spur with the sea visible in one direction and the Dinaric Alps in the other. The views from the upper battlements — across Split, Diocletian's Palace, the Dalmatian islands, and the mountains of Bosnia — are among the finest coastal panoramas in Croatia.\n\nTo contemporary visitors, Klis is probably best known as the filming location for Meereen, the Essos city where Daenerys Targaryen freed the slaves in HBO's Game of Thrones. The fortress's layered stone architecture and dramatic clifftop position made it ideal for the fictional city's exterior shots in Seasons 4 and 5. Game of Thrones tours from Split are now among the most popular activities in the region.",
+  "history": "The ridge at Klis has been fortified since Illyrian times, and a Roman fortification existed here on the road between the coast and the interior. The medieval Croatian fortress was established by the Trpimirović dynasty in the 9th century and served as the seat of Croatian rulers before Zagreb became the capital.\n\nKlis achieved its greatest historical significance during the Ottoman expansion into the Balkans in the 15th and 16th centuries. As Ottoman forces swept through Bosnia and began pressing toward the Dalmatian coast, Klis became the last major fortress between the Ottoman Empire and the Adriatic. The Croatian Captain Petar Kružić held the fortress for over 25 years against repeated Ottoman sieges — a resistance that made him a Croatian national hero. When Kružić was killed in battle in 1537 and the fortress finally fell, the Ottomans converted the church of St Vitus into a mosque and garrisoned the fortress for nearly 60 years.\n\nIn 1596, a Croatian Uskoci raiding force recaptured Klis in a surprise attack. The Venetians, who then controlled the Dalmatian coast, expelled the Uskoci garrison and dismantled parts of the fortress to prevent it falling back to the Ottomans. The Venetians held Klis through the 17th century, restoring and modifying the fortifications. The fortress passed to Austrian control in 1797 and fell into disuse as a military installation in the 19th century.",
+  "how_to_visit": "**Getting there:** Klis is 8 km north of Split. Bus line 22 runs from Split bus station (Domovinskog rata) to Klis approximately every 30 minutes (25-minute journey). By car, follow the E65/D1 road north from Split toward Sinj — the fortress is visible on the ridge and well signposted. There is a car park below the fortress entrance.\n\n**Game of Thrones connection:** The fortress sells Game of Thrones maps showing the specific filming locations used for Meereen. Several Split-based tour operators offer combined Klis + GoT location tours. The best angles for Meereen recreation photographs are from the lower courtyard looking up at the main gate tower.\n\n**Medieval reenactments:** Klis Fortress stages medieval combat reenactments on selected dates throughout the summer. Check the fortress website for specific events.\n\n**Combine with:** Diocletian's Palace in Split (9 km south — one of the best-preserved Roman imperial residences in the world) and Trogir (27 km west — a UNESCO-listed medieval island city) make excellent additions to a Klis day.",
+  "faqs": [
+    {
+      "question": "Which scenes in Game of Thrones were filmed at Klis?",
+      "answer": "Klis Fortress was used as the city of Meereen in Seasons 4 and 5, serving as the exterior of the city where Daenerys Targaryen freed the slaves and later held court. The fortress's layered stone architecture, open courtyards, and clifftop position matched the show's visual conception of Meereen. Interior scenes were filmed at other locations in Croatia and elsewhere."
+    },
+    {
+      "question": "How difficult is the visit to Klis Fortress?",
+      "answer": "The fortress is accessible by car or bus to within a short walk of the entrance. Inside, the main areas are accessible on foot with some steps. The full visit — all three defensive zones — involves moderate walking on uneven stone surfaces. Allow 1.5–2 hours for a thorough visit including the views from the upper battlements."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/klis-fortress.webp",
+    "alt": "Klis Fortress on its narrow ridge above Split with the Adriatic Sea and Dalmatian islands visible beyond, Croatia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/klis-fortress.webp",
+  "instagram_tag": "#klisfortress",
+  "meta_title": "Klis Fortress Split: Tickets, Game of Thrones & Visitor Guide 2026",
+  "meta_description": "Visit Klis Fortress above Split — the Game of Thrones filming location for Meereen, a Croatian medieval clifftop fortress with panoramic views of the Adriatic. Complete guide.",
+  "tags": ["medieval", "ottoman", "game-of-thrones", "clifftop", "croatia", "coastal"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["dubrovnik-walls"],
+  "gyg_location_id": "3011",
+  "gyg_search_query": "Klis Fortress Split Game of Thrones tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

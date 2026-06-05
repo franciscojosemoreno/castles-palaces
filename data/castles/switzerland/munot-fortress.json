@@ -1,0 +1,82 @@
+{
+  "id": "munot-fortress",
+  "name": "Munot Fortress",
+  "local_name": "Munot",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 120000,
+  "country": "switzerland",
+  "region": "Schaffhausen",
+  "nearest_city": "Schaffhausen",
+  "address": "Munotstieg, 8200 Schaffhausen, Switzerland",
+  "lat": 47.6979,
+  "lng": 8.6408,
+  "unesco": false,
+  "year_built": 1564,
+  "architectural_style": "Renaissance circular bastion",
+  "opening_hours": {
+    "monday": "08:00–20:00",
+    "tuesday": "08:00–20:00",
+    "wednesday": "08:00–20:00",
+    "thursday": "08:00–20:00",
+    "friday": "08:00–20:00",
+    "saturday": "08:00–20:00",
+    "sunday": "08:00–20:00",
+    "seasonal_note": "Open daily year-round. May to September 08:00–20:00; October to April 09:00–17:00. Free entry at all times."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.schaffhausen.ch",
+  "visit_duration": "1 hour",
+  "best_season": "Year-round",
+  "accessibility": "Limited — spiral ramp inside the tower is gradual but the exterior approaches involve stairs",
+  "booking_advance_days": 0,
+  "tagline": "Switzerland's most beautiful Renaissance fortress — a cylindrical bastion above the Rhine Falls city",
+  "highlights": [
+    "Free entry — one of Switzerland's most accessible historic monuments",
+    "Unique circular Renaissance bastion with a continuous internal spiral ramp",
+    "Every evening at 9pm the watchman rings the bell — a tradition since the 16th century",
+    "Panoramic views over the Rhine, the old town, and the Black Forest",
+    "A short walk from Europe's most powerful waterfall — the Rhine Falls"
+  ],
+  "description": "The Munot is the symbol of Schaffhausen — a perfectly circular Renaissance fortress on a vineyard hill above the old town, its cylindrical bastion and vaulted ramp interior one of the most architecturally distinctive fortifications in Europe. Built between 1564 and 1589 based loosely on ideas from Albrecht Dürer's treatise on fortification, the Munot was designed to protect the city of Schaffhausen from artillery attack. Its most remarkable feature is the interior: a continuous vaulted spiral ramp winds up through the circular tower, allowing horses and cannon to reach the roof platform. Each evening at 9pm a watchman rings the bell in the tower, continuing a tradition established in 1589. Entry is free, and the views from the roof terrace over the Rhine, the medieval old town, and the distant Black Forest are superb.",
+  "history": "Construction began in 1564 on orders of the Schaffhausen city council, following the religious wars that swept through Swiss territories during the Reformation. The fortress was designed by a local master builder influenced by Albrecht Dürer's ideas on circular bastions. It was maintained as a military installation into the 19th century, when it fell into disuse. The city restored it in the 1880s and established the watchman bell tradition in its current form. The fortress is now free to enter and managed by the city of Schaffhausen.",
+  "how_to_visit": "Schaffhausen is in northern Switzerland, 50 km north of Zurich near the German border. Frequent trains run from Zurich Hauptbahnhof (40 minutes). The Munot is a 15-minute walk from Schaffhausen station through the beautifully preserved old town. The Rhine Falls — the most powerful waterfall in Europe — are 4 km west of the city, an essential combined visit.",
+  "faqs": [
+    {
+      "question": "Is entry to the Munot really free?",
+      "answer": "Yes — the Munot is freely accessible to all visitors at no charge, making it one of the most accessible historic monuments in Switzerland."
+    },
+    {
+      "question": "What is the 9pm bell tradition?",
+      "answer": "Every evening at 9pm the resident watchman rings the Munot bell — a tradition dating to 1589 when the bell signalled the closing of the city gates and the end of the working day. It continues unbroken to this day."
+    },
+    {
+      "question": "How far are the Rhine Falls from the Munot?",
+      "answer": "The Rhine Falls are 4 km west of the Munot, easily reached by bus or bicycle from Schaffhausen. They are the largest waterfall in Europe by volume — a spectacular natural sight best combined with the Munot and old town."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/munot-fortress.webp",
+    "alt": "Munot circular Renaissance fortress above the Rhine and Schaffhausen old town in Switzerland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/munot-fortress.webp",
+  "instagram_tag": "#munot",
+  "meta_title": "Munot Fortress, Schaffhausen — Switzerland's Free Renaissance Circular Bastion",
+  "meta_description": "Visit the Munot in Schaffhausen — a unique circular Renaissance fortress with free entry, a spiral ramp, a nightly bell tradition, and views over the Rhine.",
+  "tags": ["renaissance", "swiss-castle", "schaffhausen", "rhine", "circular-bastion"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["chateau-de-chillon"],
+  "gyg_location_id": "2716",
+  "gyg_search_query": "Munot fortress Schaffhausen Rhine Falls Switzerland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

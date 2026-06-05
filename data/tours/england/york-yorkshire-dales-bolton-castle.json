@@ -1,0 +1,102 @@
+{
+  "id": "york-yorkshire-dales-bolton-castle",
+  "slug": "york-yorkshire-dales-bolton-castle",
+  "name": "From York: Yorkshire Dales, Bolton Castle & Wensleydale",
+  "tagline": "A 14th-century fortress in the heart of England's most beautiful dale — where Mary Queen of Scots was imprisoned and Wallace and Gromit got their cheese",
+  "departure_country": "england",
+  "departure_city": "York",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "51228",
+  "gyg_url": "https://www.getyourguide.com/york-l436/from-york-the-yorkshire-dales-day-tour-t51228/",
+  "price_from": 45,
+  "currency": "GBP",
+  "rating": 4.6,
+  "review_count": 1100,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "Bolton Castle rises from the floor of Wensleydale like a military dream — four towers, a great hall, and walls thick enough to hold a queen. Built between 1378 and 1399 by Richard le Scrope, Lord Chancellor of England, it is one of the most complete 14th-century fortresses in Britain: never dismantled, never rebuilt as a stately home. Mary Queen of Scots was imprisoned here in 1568, her first captivity after fleeing Scotland. The surrounding Yorkshire Dales are the most dramatic pastoral landscape in England — limestone pavements, dry-stone walls, waterfalls, and villages that feel untouched by time. The day takes you deep into Wensleydale, with stops at the Wensleydale Creamery in Hawes (home of the cheese beloved by Wallace and Gromit), the calendar-girl village of Kettlewell, and the ancient market town of Pateley Bridge.",
+  "highlights": [
+    "Bolton Castle (1378) — one of England's most complete medieval fortresses, never slighted or remodelled",
+    "Mary Queen of Scots' imprisonment — held at Bolton from July 1568 to January 1569 during her first English captivity",
+    "Wensleydale Creamery in Hawes — the home of the famous crumbly white cheese, made here since 1897",
+    "Kettlewell — the limestone-and-slate village that starred as Greendale in the Calendar Girls film",
+    "Pateley Bridge — home of the world's oldest sweet shop, selling Victorian confectionery since 1827",
+    "Expert guide covering Yorkshire's medieval history and the Scrope family's role in the Wars of the Roses"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "York Departure",
+      "duration": "Travel northwest (1 hour)",
+      "description": "Head northwest from York through the Vale of York and up into the Yorkshire Dales National Park, climbing into the limestone upland where the landscape dramatically transforms. The guide introduces the history of the Scrope family — the most powerful medieval dynasty in the North Riding — and explains why Bolton Castle was built to control the Pennine passes between Yorkshire and Lancashire."
+    },
+    {
+      "order": 2,
+      "castle_name": "Bolton Castle",
+      "duration": "2 hours",
+      "description": "Bolton Castle stands in the middle of Wensleydale, a quadrangular fortress on the courtyard plan: four towers at the corners, residential ranges connecting them, designed to be fully habitable as well as defensive. Built 1378–1399 by Richard le Scrope, Lord Chancellor under Richard II, it was the principal seat of the Scrope family for two centuries. Walk the great hall, the chapel, the tower rooms, and the dungeon. The guide covers the castle's most famous episode: Mary Queen of Scots arrived here in July 1568 after fleeing Scotland following her defeat at the Battle of Langside. She was a guest-prisoner for six months — the beginning of nineteen years of English captivity that ended at Fotheringhay in 1587."
+    },
+    {
+      "order": 3,
+      "castle_name": "Hawes & Wensleydale Creamery",
+      "duration": "1.5 hours",
+      "description": "Drive up-dale to Hawes, the highest market town in the Yorkshire Dales. The Wensleydale Creamery has been making the local cheese here since 1897 — the same crumbly, slightly honeyed white cheese that Wallace (of Wallace & Gromit) declares 'just the ticket'. Nick Park's animation is credited with saving the creamery from closure in the 1990s after sales collapsed. Visit the viewing gallery to watch cheese being made, sample the varieties, and explore the adjacent Dales Countryside Museum, which tells the story of lead mining, sheep farming and droving that built this landscape."
+    },
+    {
+      "order": 4,
+      "castle_name": "Kettlewell & Pateley Bridge",
+      "duration": "1.5 hours",
+      "description": "Descend through Bishopdale into Wharfedale, stopping at Kettlewell — the limestone-and-grey-slate village chosen as the Greendale setting for the Calendar Girls film, where the local WI famously posed for an unconventional charity calendar. Then to Pateley Bridge in Nidderdale, a market town of dark Millstone Grit, where the Old Sweet Shop on the High Street claims the title of world's oldest sweet shop, selling the same barley sugars, acid drops and humbugs it has offered since 1827."
+    }
+  ],
+  "included": [
+    "Return transport from York city centre",
+    "Professional English-speaking guide",
+    "Bolton Castle entry",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Wensleydale Creamery guided tour (optional extra)",
+    "Lunch (free time in Hawes)",
+    "Dales Countryside Museum entry (optional)"
+  ],
+  "meeting_point": "York city centre — exact location confirmed at booking",
+  "tips": [
+    "Bring layers — Wensleydale sits at 250m and generates its own weather even when York is sunny",
+    "Bolton Castle has a medieval herb garden and occasional falconry displays in the inner courtyard — check what's on when you visit",
+    "The Wensleydale Creamery tasting bar is included in the visit; buying cheese to take home is strongly encouraged",
+    "Kettlewell's Racehorses Hotel has been welcoming Dales walkers since 1720 — a reliable lunch stop with excellent Yorkshire ale"
+  ],
+  "faqs": [
+    {
+      "question": "How long was Mary Queen of Scots held at Bolton Castle?",
+      "answer": "Six months — from July 1568 to January 1569. She had fled Scotland after her defeat at the Battle of Langside and sought refuge with her cousin Queen Elizabeth I, who instead placed her under house arrest. Bolton was her first English captivity before she was moved south to Tutbury and eventually Fotheringhay Castle, where she was executed in 1587."
+    },
+    {
+      "question": "Is Bolton Castle the same as Castle Bolton?",
+      "answer": "The village is called Castle Bolton; the castle itself is Bolton Castle. Both names are used interchangeably. The castle takes its name from the manor of Bolton in Wensleydale, not the other way around."
+    },
+    {
+      "question": "Why is Wensleydale cheese associated with Wallace and Gromit?",
+      "answer": "In Nick Park's Aardman films, Wallace has an obsessive love of Wensleydale cheese. After the films aired in the 1990s, sales surged and the Hawes Creamery — which had briefly closed — was saved. Park is credited with rescuing a traditional British food industry almost single-handedly."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/york-yorkshire-dales-bolton-castle.webp",
+    "alt": "Bolton Castle rising from the floor of Wensleydale, North Yorkshire, England",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From York: Yorkshire Dales & Bolton Castle Day Trip",
+    "description": "Day trip from York into the Yorkshire Dales — Bolton Castle where Mary Queen of Scots was imprisoned, Wensleydale Creamery in Hawes, and the villages of Kettlewell and Pateley Bridge."
+  }
+}

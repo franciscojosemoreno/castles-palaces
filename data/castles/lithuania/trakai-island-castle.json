@@ -1,0 +1,82 @@
+{
+  "id": "trakai-island-castle",
+  "name": "Trakai Island Castle",
+  "local_name": "Trakų salos pilis",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 350000,
+  "country": "lithuania",
+  "region": "Trakai County",
+  "nearest_city": "Vilnius",
+  "address": "Pilies sala 4, Trakai 21104, Lithuania",
+  "lat": 54.6379,
+  "lng": 24.9339,
+  "unesco": false,
+  "year_built": 1409,
+  "architectural_style": "Gothic brick",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "May–Sep: open until 19:00. Closed Mondays year-round. Last entry 30 minutes before closing. Access to the island by wooden footbridge from the lakeside park."
+  },
+  "price_adult": 12,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.trakaimuziejus.lt/en",
+  "visit_duration": "2–3 hours",
+  "best_season": "Summer (June–August) for the full visual effect on the lake; autumn for foliage reflections; winter if the lake freezes for extraordinary ice photography",
+  "accessibility": "The footbridge to the island is accessible. Inside the castle, the ground floor and courtyard are accessible. Upper floors involve stairs. The lakeside path around the island provides views without entering.",
+  "booking_advance_days": 0,
+  "tagline": "A red-brick Gothic castle on its own island in a lake — one of the most beautiful medieval sights in the Baltic",
+  "highlights": [
+    "One of the most photogenic castles in Europe — a red Gothic brick fortress on an island in Lake Galvė, surrounded by water on all sides",
+    "Built by Grand Duke Vytautas the Great (1409) as the residential castle of the Lithuanian Grand Duchy at the height of its power",
+    "The only surviving island castle in Eastern Europe built on an artificial island",
+    "Houses the Trakai History Museum with exhibits on Lithuanian Grand Duchy culture and the Karaim community — a Turkic ethnic minority brought to Trakai by Vytautas",
+    "A day trip from Vilnius that combines medieval history, lake scenery, and the unique Karaim culture and cuisine"
+  ],
+  "description": "Trakai Island Castle is one of those rare buildings where beauty and history achieve something close to perfection. The red brick Gothic towers rise from a small island in Lake Galvė, 28 km west of Vilnius, their reflections in the still water completing a picture that appears almost too picturesque to be real. Built on an artificial island in the early 15th century by Grand Duke Vytautas the Great of Lithuania — at the time ruler of the largest territorial state in Europe — the castle served as the residential and ceremonial heart of the Lithuanian Grand Duchy during the period of its maximum power.\n\nThe castle was heavily damaged after Lithuania was incorporated into the Russian Empire in the 18th century and fell into ruin during the 19th and early 20th centuries. A painstaking reconstruction carried out between 1951 and 1987 restored the main tower, walls, and residential buildings to their 15th-century appearance, using original medieval brick techniques throughout. The result is a building that reads as genuinely medieval despite being substantially reconstructed — a testimony to the quality of the restoration work.\n\nThe town of Trakai surrounding the lake is home to the Karaim community — a small Turkic-speaking group of Jewish faith who were brought from Crimea by Vytautas in the 1390s to serve as palace guards. Their distinctive kenesas (prayer houses) and the Karaim ethnographic museum in Trakai provide one of the most unusual cultural encounters in the Baltic states. The local Karaim dish — kibinai, a pastry filled with mutton — is available in restaurants along the main street.",
+  "history": "Trakai has been the capital of the Lithuanian lands since the early 14th century. The first castle here was built on the peninsula (Peninsular Castle) by Grand Duke Gediminas around 1321. His son Kęstutis later moved the residential castle to the island in Lake Galvė, beginning construction around 1362. The Island Castle was substantially rebuilt and expanded by Kęstutis's son Vytautas the Great between 1409 and 1430, creating the castle complex that stands today.\n\nVytautas ruled Lithuania from 1392 to 1430, the period of its greatest territorial extent — the Grand Duchy stretched from the Baltic to the Black Sea. Trakai Castle was the centre of this empire and the site of numerous state events, diplomatic receptions, and the imprisonment of political rivals including Vytautas's cousin, the Polish king Władysław II Jagiełło, who was held here briefly in 1382. The Battle of Grunwald (1410), at which Vytautas commanded the Lithuanian-Polish forces that destroyed the Teutonic Knights, was planned and celebrated at Trakai.\n\nAfter Vytautas's death in 1430, political power shifted to Vilnius and Kraków. Trakai remained a residence but declined in importance. The castle was badly damaged during the wars of the 17th century and fell into complete ruin during the 18th. The Lithuanian Soviet government undertook an ambitious reconstruction beginning in 1951, completing the main tower and inner courtyard by 1961 and finishing the outer walls and moat by 1987.",
+  "how_to_visit": "**Getting there:** Trakai is 28 km west of Vilnius. Regular minibuses (marshrutka) and buses depart from Vilnius Bus Station (Sodų g. 22) approximately every 30 minutes, taking 35–45 minutes. Trains also run from Vilnius station (45 minutes, less frequent). By car, follow the A1 motorway west and turn south at the Trakai junction.\n\n**The approach:** Walk from the bus station along Karaimų Street — the main street of the Karaim quarter — toward the lakeside. The castle is visible from the lakeside park. A wooden footbridge crosses to the island. The walk from the bus station takes about 15 minutes.\n\n**Karaim culture:** The kenesas (Karaim prayer house) and the Karaim ethnographic museum on Karaimų Street are worth visiting. Kibinai pastries are available from the restaurants along the lakeside — try them for lunch.\n\n**Winter visit:** If the lake freezes (typically January–February), visitors can sometimes walk on the ice to the castle — an extraordinary experience. Check local conditions before attempting this.",
+  "faqs": [
+    {
+      "question": "Who were the Karaim and why do they live in Trakai?",
+      "answer": "The Karaim are a Turkic-speaking ethnic group who practice Karaism — a form of Judaism that accepts only the Hebrew Bible and rejects later rabbinic tradition. Grand Duke Vytautas brought approximately 380 Karaim families from Crimea to Trakai in the 1390s to serve as palace guards. Today, the Trakai Karaim community numbers fewer than 100 people but maintains its unique language, religion, and traditions. Their kenesa (prayer house) on Karaimų Street is one of only three in the world."
+    },
+    {
+      "question": "Is Trakai Island Castle a reconstruction?",
+      "answer": "The castle was reconstructed between 1951 and 1987 using original medieval construction techniques and, where possible, original brick. The main tower and inner courtyard are largely reconstructed from ruins; the outer walls retain more original fabric. The reconstruction is generally considered one of the most successful in Eastern Europe — the result reads as genuinely medieval in atmosphere."
+    },
+    {
+      "question": "Can I kayak on the lake around the castle?",
+      "answer": "Yes — several rental companies operate kayak, rowboat, and pedalo hire from the lakeside in summer. Paddling around the island gives the most intimate views of the castle from the water and is one of the best ways to experience Trakai."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/trakai-island-castle.webp",
+    "alt": "Trakai Island Castle red Gothic towers reflected in Lake Galvė at sunset, Lithuania",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/trakai-island-castle.webp",
+  "instagram_tag": "#trakaicastle",
+  "meta_title": "Trakai Island Castle: Tickets, History & Visitor Guide 2026",
+  "meta_description": "Visit Trakai Island Castle — one of the most beautiful medieval fortresses in Europe, a red Gothic castle on an island in a lake near Vilnius, Lithuania. Complete visitor guide.",
+  "tags": ["gothic", "medieval", "island", "iconic", "lake", "lithuania"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["gediminas-tower"],
+  "gyg_location_id": "1596",
+  "gyg_search_query": "Trakai Castle tour from Vilnius",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

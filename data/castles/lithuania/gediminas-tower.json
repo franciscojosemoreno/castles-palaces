@@ -1,0 +1,82 @@
+{
+  "id": "gediminas-tower",
+  "name": "Gediminas Tower",
+  "local_name": "Gedimino pilies bokštas",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 220000,
+  "country": "lithuania",
+  "region": "Vilnius County",
+  "nearest_city": "Vilnius",
+  "address": "Arsenalo g. 5, Vilnius 01143, Lithuania",
+  "lat": 54.6869,
+  "lng": 25.2916,
+  "unesco": false,
+  "year_built": 1409,
+  "architectural_style": "Gothic brick",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–21:00",
+    "wednesday": "10:00–21:00",
+    "thursday": "10:00–21:00",
+    "friday": "10:00–21:00",
+    "saturday": "10:00–21:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily. Evening hours Tuesday–Saturday. Funicular runs from Cathedral Square."
+  },
+  "price_adult": 5,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.lnm.lt",
+  "visit_duration": "1 hour",
+  "best_season": "Year-round",
+  "accessibility": "Good — funicular provides accessible route to the tower base; tower interior has stairs",
+  "booking_advance_days": 0,
+  "tagline": "The symbol of Vilnius and Lithuania — a medieval tower above the city of amber",
+  "highlights": [
+    "National symbol of Lithuania and the most recognisable landmark in Vilnius",
+    "Panoramic 360° views over the old town UNESCO World Heritage Site",
+    "Museum of Lithuanian history inside the tower",
+    "Accessible by funicular from Cathedral Square",
+    "Site of the founding legend of Vilnius — Grand Duke Gediminas's dream of the iron wolf"
+  ],
+  "description": "Gediminas Tower is the most iconic landmark in Lithuania — the remaining western tower of the Upper Castle of Vilnius, standing on a steep hill above Cathedral Square and the Old Town. According to legend, Grand Duke Gediminas dreamed of an iron wolf howling on this hill and was told by a pagan priest to build a city here: this was the founding of Vilnius in 1323. The current tower, rebuilt in the 15th century, houses a branch of the Lithuanian National Museum with exhibits on Vilnius's medieval history, and offers panoramic views across the Baroque spires of the UNESCO-listed old town, the Neris and Vilnia rivers, and the forested hills beyond. The tower is reached by a short funicular ride from Cathedral Square — the heart of Vilnius — or a 10-minute woodland walk.",
+  "history": "Gediminas founded Vilnius in 1323, establishing his capital on this hill. The Upper Castle complex was built and expanded through the 14th and 15th centuries. Russian and Swedish forces destroyed much of the complex during the 17th-century wars; only the western tower survived intact. The tower was restored in the 19th and 20th centuries. In 1989, as the independence movement grew, two million people formed the Baltic Way human chain from Vilnius through Riga to Tallinn — the chain began at Gediminas Tower. Lithuania restored its independence in 1990.",
+  "how_to_visit": "Gediminas Tower is in the heart of Vilnius, a 10-minute walk from Vilnius train station. Take the funicular (cable car) from Cathedral Square for the easiest ascent. The tower sits at the top of the hill in the Old Town, adjacent to the ruins of the Lower and Upper Castle complexes. Vilnius Airport is 5 km from the city centre.",
+  "faqs": [
+    {
+      "question": "What is the legend of Gediminas?",
+      "answer": "Grand Duke Gediminas dreamed of an iron wolf howling from a hill, and a pagan priest interpreted this as a command to build a great city — leading to the founding of Vilnius in 1323."
+    },
+    {
+      "question": "What is the funicular?",
+      "answer": "A short cable car running from Cathedral Square up the castle hill to the tower entrance — a quick and easy alternative to the woodland walking path."
+    },
+    {
+      "question": "Is the Old Town of Vilnius a UNESCO site?",
+      "answer": "Yes — Vilnius Old Town is a UNESCO World Heritage Site, one of the largest and best-preserved medieval old towns in Northern Europe, visible in full from the tower."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gediminas-tower.webp",
+    "alt": "Gediminas Tower above the Vilnius Old Town skyline at sunset in Lithuania",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gediminas-tower.webp",
+  "instagram_tag": "#gediminastower",
+  "meta_title": "Gediminas Tower, Vilnius — Symbol of Lithuania & Panoramic Old Town Views",
+  "meta_description": "Visit Gediminas Tower in Vilnius — Lithuania's national symbol, a medieval hilltop tower with panoramic views over the UNESCO Baroque old town.",
+  "tags": ["medieval", "lithuanian-castle", "vilnius", "gothic", "national-symbol"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["trakai-island-castle"],
+  "gyg_location_id": "2601",
+  "gyg_search_query": "Gediminas Tower Vilnius tour Lithuania",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

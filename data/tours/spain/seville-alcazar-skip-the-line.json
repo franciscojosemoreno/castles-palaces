@@ -1,0 +1,97 @@
+{
+  "id": "seville-alcazar-skip-the-line",
+  "slug": "seville-alcazar-skip-the-line",
+  "name": "Royal Alcázar of Seville: Skip-the-Line Guided Tour",
+  "tagline": "The oldest royal palace still in use in Europe — Mudéjar masterwork of breathtaking beauty",
+  "departure_country": "spain",
+  "departure_city": "Seville",
+  "visited_countries": [
+    "spain"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 1.5 hours",
+  "gyg_tour_id": "162078",
+  "price_from": 42,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 7600,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "max_group_size": 15,
+  "overview": "The Royal Alcázar of Seville is the oldest royal palace still in active use in Europe — the Spanish royal family still uses its upper floors when visiting the city. Built primarily by Pedro I of Castile in 1364 on the site of an earlier Moorish palace, it is the finest example of Mudéjar architecture in the world: a Christian king commissioning Muslim craftsmen to create a palace of extraordinary delicacy, with honeycomb ceilings, arabesque tilework, and courtyard gardens that feel closer to paradise than to any European palace. Game of Thrones fans will recognise it as Dorne.",
+  "highlights": [
+    "Skip-the-line entry to the Royal Alcázar",
+    "Licensed guide for the Mudéjar Palace and gardens",
+    "See the Ambassadors' Hall — the finest Mudéjar room in existence",
+    "Walk the gardens: fountains, orange trees, and the Mercury Pool",
+    "Game of Thrones filming location (Water Gardens of Dorne)"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "alcazar-seville",
+      "castle_name": "Mudéjar Palace",
+      "duration": "45 minutes",
+      "description": "The heart of the Alcázar — Pedro I's extraordinary palace built by Moorish craftsmen from Granada and Toledo. The Ambassadors' Hall has a gilded half-orange dome of 1,400 interlocking cedar pieces. The Courtyard of the Maidens (used as a Game of Thrones filming location for the Water Gardens of Dorne) is surrounded by carved stucco arches of incomparable delicacy."
+    },
+    {
+      "order": 2,
+      "castle_id": "alcazar-seville",
+      "castle_name": "Gothic Palace & Royal Apartments",
+      "duration": "30 minutes",
+      "description": "The Gothic Palace built by Alfonso X in the 13th century — used by Columbus to plan his voyages. The royal apartments above are still used by the Spanish royal family and are occasionally open for special access. The tapestry room contains 16th-century Flemish tapestries depicting Charles V's military campaigns."
+    },
+    {
+      "order": 3,
+      "castle_id": "alcazar-seville",
+      "castle_name": "Alcázar Gardens",
+      "duration": "30 minutes",
+      "description": "Free time in the extensive gardens — a succession of formal parterres, fountains, and orange tree patios stretching back from the palace. The Mercury Pool, the English Garden, and the Lion Fountain provide shaded walks through what has been a royal garden for over 1,000 years."
+    }
+  ],
+  "included": [
+    "Skip-the-line Alcázar entry",
+    "Licensed guide",
+    "Small group (max 15)"
+  ],
+  "excluded": [
+    "Hotel pickup/dropoff",
+    "Gratuities"
+  ],
+  "meeting_point": "Alcázar main entrance, Plaza del Triunfo, Seville",
+  "tips": [
+    "Book at least one week ahead — the Alcázar has a daily visitor cap and sells out regularly",
+    "The gardens are free to enter after 6pm on weekdays — worth returning for a quieter evening visit",
+    "The Alcázar is 5 minutes' walk from Seville Cathedral — combine both in a morning",
+    "Look for the carving of Columbus receiving the keys to the New World in the Gothic Palace"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Alcázar the same as a Moorish castle?",
+      "answer": "It is built on the site of a 10th-century Moorish palace, but the current structure was commissioned by the Christian king Pedro I in 1364. The extraordinary detail is that Pedro hired Muslim craftsmen from Granada — who were working simultaneously on the Alhambra — to build a Christian palace in the Moorish style. The result is Mudéjar: the finest synthesis of both traditions."
+    },
+    {
+      "question": "Why do Game of Thrones fans visit the Alcázar?",
+      "answer": "The Alcázar's Courtyard of the Maidens and gardens were used as the Water Gardens of Dorne in Seasons 5 and 6 of Game of Thrones. Several key scenes involving the Martell family were filmed here."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/seville-alcazar-skip-the-line.webp",
+    "alt": "The Courtyard of the Maidens in the Royal Alcázar of Seville — Mudéjar arches reflected in the central pool",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Royal Alcázar of Seville Skip-the-Line Guided Tour | Castles & Palaces",
+    "description": "Book the Alcázar of Seville skip-the-line guided tour. Europe's oldest working royal palace, Mudéjar masterwork, Game of Thrones location. From €42."
+  },
+  "gyg_url": "https://www.getyourguide.com/seville-l48/seville-alcazar-tour-and-tickets-skip-the-line-t162078/"
+}

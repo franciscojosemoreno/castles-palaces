@@ -1,0 +1,42 @@
+{
+  "id": "central-europe-palaces",
+  "name": "Central Europe Palaces",
+  "tagline": "The Habsburg arc — Vienna, Salzburg and Prague's greatest imperial residences",
+  "description": "The Habsburg dynasty ruled Central Europe for six centuries, and the palaces they left behind form one of the great architectural arcs of the continent. The Central Europe Palaces Route connects the three imperial capitals where Habsburg power was most visibly expressed in stone, gilt and formal garden geometry: Vienna, Salzburg and Prague.\n\nVienna is the natural starting point: Schönbrunn Palace, with its 1,441 rooms and kilometre-long garden axis, is the largest and grandest Habsburg residence still intact. The Hofburg, the winter palace in the city centre, adds Sissi's apartments and the Imperial Treasury to the picture. From Vienna, the route moves west to Salzburg, where Hohensalzburg Fortress — one of the largest intact medieval castles in Europe, never taken by an enemy — dominates the Baroque city from its dolomite hill above the Salzach.\n\nThe third leg moves east to Prague, where Prague Castle — the world's largest ancient castle by area — contains 70,000 square metres of Gothic, Renaissance and Baroque buildings within a single fortified hilltop district. The three cities are connected by Austria's Westbahn and the Czech rail network, making the route entirely car-free if preferred. Vienna–Salzburg: 2.5 hours by train. Salzburg–Prague: 4.5 hours direct or via Munich.",
+  "hero_image": {
+    "url": "/images/routes/central-europe-palaces.webp",
+    "alt": "Schönbrunn Palace gardens from the Gloriette — the opening panorama of the Central Europe Palaces route",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "austria",
+    "czech-republic"
+  ],
+  "castles": [
+    "schonbrunn-palace",
+    "hohensalzburg-fortress",
+    "prague-castle"
+  ],
+  "distance_km": 520,
+  "duration_days": "5–8 days",
+  "difficulty": "easy",
+  "map_center": {
+    "lat": 48.5,
+    "lng": 14.5
+  },
+  "tags": [
+    "baroque",
+    "medieval",
+    "royal-residence",
+    "unesco-world-heritage",
+    "family-friendly",
+    "accessible"
+  ],
+  "gyg_search_query": "Vienna Salzburg Prague palace tour",
+  "thumbnail_image": {
+    "url": "/images/routes/central-europe-palaces-thumb.webp",
+    "alt": "Schönbrunn Palace gardens from the Gloriette — the opening panorama of the Central Europe Palaces route"
+  }
+}

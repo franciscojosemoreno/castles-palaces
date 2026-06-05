@@ -1,0 +1,82 @@
+{
+  "id": "bamburgh-castle",
+  "name": "Bamburgh Castle",
+  "local_name": "Bamburgh Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 250000,
+  "country": "england",
+  "region": "Northumberland",
+  "nearest_city": "Newcastle upon Tyne",
+  "address": "Bamburgh, Northumberland, NE69 7DF, England",
+  "lat": 55.6090,
+  "lng": -1.7099,
+  "unesco": false,
+  "year_built": 547,
+  "architectural_style": "Norman / Victorian restoration",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open daily March to November. Last admission 1 hour before closing. Closed December to February except for special events."
+  },
+  "price_adult": 16,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.bamburghcastle.com",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — multiple levels with stairs throughout; some ground floor areas accessible",
+  "booking_advance_days": 0,
+  "tagline": "England's most dramatic coastal castle, rising from the Northumberland shore",
+  "highlights": [
+    "One of the most dramatically situated castles in England",
+    "Rises 46 metres above a basalt outcrop on the Northumberland coast",
+    "Norman keep with 11 floors of state rooms and collections",
+    "Views over the Farne Islands seal and puffin colonies",
+    "Film location for Ivanhoe, Elizabeth, and Transformers: The Last Knight"
+  ],
+  "description": "Bamburgh Castle stands on a dramatic basalt outcrop rising 46 metres above the Northumberland coast, its Norman keep visible for miles along one of England's most beautiful and remote shorelines. A fortification has existed on this rock since at least 547 AD, when it was the capital of the Anglian kingdom of Bernicia. The massive Norman keep was built by Henry II in the 12th century, and the castle remained a royal and baronial stronghold through the medieval period, playing a significant role in the Wars of the Roses. Restored in the late 19th century by the Armstrong family — Victorian industrialists who are still the castle's owners — Bamburgh today houses exceptional collections of arms, armour, porcelain, and furniture spread across its 11-floor great tower, all set against a backdrop of coast, islands, and wide Northumberland sky.",
+  "history": "The rock at Bamburgh has been occupied since the Iron Age. The Anglian king Ida of Bernicia fortified it around 547 AD, establishing one of early medieval England's most important power centres. The Norman keep was built under Henry II in the 1160s. The castle was the last English fortress to fall in the Wars of the Roses, taken by cannon bombardment in 1464 in the first use of artillery against a castle in English history. It fell into ruin in the 18th century before being purchased and comprehensively restored by industrialist William George Armstrong from 1894. His descendants live there today.",
+  "how_to_visit": "Bamburgh is in Northumberland, 75 km north of Newcastle and 25 km south of Berwick-upon-Tweed. There is no direct train to Bamburgh; drive from Newcastle (1.5h) or take a train to Chathill and taxi. The castle is on the village green directly above the beach. Combine with a boat trip to the Farne Islands (seal and puffin colonies, 15 minutes offshore) and Holy Island (Lindisfarne) 10 km north.",
+  "faqs": [
+    {
+      "question": "Can I visit the Farne Islands from Bamburgh?",
+      "answer": "Yes — boat trips depart from nearby Seahouses (5 km south) to the Farne Islands, famous for grey seals and nesting puffins, particularly in May and June."
+    },
+    {
+      "question": "Is the castle privately owned?",
+      "answer": "Yes — Bamburgh Castle is privately owned by the Armstrong family and has been since the late 19th century. It is open to the public for most of the year."
+    },
+    {
+      "question": "What films have been shot at Bamburgh?",
+      "answer": "The castle has appeared in Ivanhoe (1982), Elizabeth (1998), Robin Hood: Prince of Thieves (1991), and Transformers: The Last Knight (2017), among others."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bamburgh-castle.webp",
+    "alt": "Bamburgh Castle rising from the basalt rock above the Northumberland coast",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bamburgh-castle.webp",
+  "instagram_tag": "#bamburghcastle",
+  "meta_title": "Bamburgh Castle, Northumberland — England's Most Dramatic Coastal Fortress",
+  "meta_description": "Visit Bamburgh Castle on the Northumberland coast — an iconic Norman fortress rising from the sea with armour collections, coast views, and Farne Island trips nearby.",
+  "tags": ["norman", "english-castle", "northumberland", "coastal", "medieval"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["alnwick-castle"],
+  "gyg_location_id": "2554",
+  "gyg_search_query": "Bamburgh Castle Northumberland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

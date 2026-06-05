@@ -1,0 +1,97 @@
+{
+  "id": "bergen-bergenhus-fortress-rosenkrantz",
+  "slug": "bergen-bergenhus-fortress-rosenkrantz",
+  "name": "Bergen: Bergenhus Fortress, Rosenkrantz Tower & Bryggen",
+  "tagline": "The medieval royal hall of Norway's most powerful king, a Renaissance tower built by a Danish governor, and the Hanseatic wharf that made Bergen the trade capital of the North Sea",
+  "departure_country": "norway",
+  "departure_city": "Bergen",
+  "visited_countries": [
+    "norway"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half day (3 hours)",
+  "gyg_tour_id": "570095",
+  "gyg_url": "https://www.getyourguide.com/bergen-l1132/bergen-past-and-present-a-historical-walking-journey-t570095/",
+  "price_from": 28,
+  "currency": "EUR",
+  "rating": 4.8,
+  "review_count": 560,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 12,
+  "overview": "Bergen was the capital of Norway from the 12th to the 14th century — the city from which the Håkon dynasty ruled a maritime empire stretching from Greenland to the Orkney Islands. Bergenhus Fortress on the harbour waterfront is one of the oldest and best-preserved medieval fortresses in Scandinavia: Håkon's Hall, built in the 1260s for the coronation of King Magnus the Lawmender, is the finest surviving medieval great hall in Norway; Rosenkrantz Tower, built in the 1560s by the Danish governor Erik Rosenkrantz, incorporated a 13th-century keep into a Renaissance-era military tower. The guided walk continues along the wharf to Bryggen — Bergen's row of Hanseatic merchant houses, colourfully painted in red, ochre, and yellow, a UNESCO World Heritage Site and the most photographed view in Norway.",
+  "highlights": [
+    "Håkon's Hall — the great hall of King Håkon Håkonsson (c. 1260), the finest surviving medieval royal hall in Norway",
+    "Rosenkrantz Tower — the Renaissance tower built by Denmark's Bergen governor in the 1560s, incorporating a medieval Scottish-built keep",
+    "Bergenhus Fortress — one of the oldest and best-preserved medieval fortresses in Scandinavia, on Bergen's harbour front",
+    "Bryggen Wharf — the Hanseatic merchant houses (14th-18th century) that made Bergen the trade centre of the medieval North Sea, UNESCO World Heritage",
+    "Expert guide covering Norway's medieval golden age under the Håkon dynasty and Bergen's role as a Hanseatic trading city",
+    "Small group (max 12)"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Bergenhus Fortress — Håkon's Hall",
+      "duration": "1 hour",
+      "description": "The tour begins at Bergenhus Fortress, which occupies the headland at the northern end of Bergen's harbour — the most strategic position in the city. The fortress was established in the 1100s; Håkon's Hall was built c. 1261 by King Håkon Håkonsson (1217-1263), who transformed Bergen into the undisputed capital of a Norwegian maritime empire stretching from Greenland and Iceland to the Faroe Islands, Orkney, and Shetland. The hall — a rectangular stone building with Gothic lancet windows — was the coronation hall for King Magnus VI in 1261 and hosted the grandest royal feasts in medieval Scandinavia. Severely damaged in 1944 when a Dutch ammunition ship exploded in Bergen harbour, it was restored over 30 years to its present state."
+    },
+    {
+      "order": 2,
+      "castle_name": "Rosenkrantz Tower",
+      "duration": "45 minutes",
+      "description": "Rosenkrantz Tower stands immediately beside Håkon's Hall and represents a different chapter of Bergen's history — the Danish period, when Norway was under the Danish crown. The tower was built between 1562 and 1568 by Erik Rosenkrantz, the Danish governor (Lensman) of Bergenhus, as his official residence and a modern defensive tower for the fortress. It incorporates two earlier structures: a medieval defensive tower and the 'Jørgen Hansson Tower' built c. 1520 on a commission that may have been executed by a Scottish master mason. The result is a hybrid building that encapsulates 300 years of Scandinavian military architecture in one tower."
+    },
+    {
+      "order": 3,
+      "castle_name": "Bryggen Hanseatic Wharf",
+      "duration": "1 hour",
+      "description": "From Bergenhus, the walk continues along the waterfront to Bryggen — the row of painted wooden merchant houses on Bergen's eastern harbour front. Bergen was one of the four main offices (Kontore) of the Hanseatic League from the 14th to the 18th century — the commercial network of North German cities that controlled trade across the Baltic and North Sea. German merchants settled in these narrow houses, traded stockfish from northern Norway and grain from Central Europe, and maintained their own legal system and jurisdiction separate from Norwegian law. The present buildings date from the 1702 fire reconstruction, but the medieval street plan — narrow alleys running perpendicular to the waterfront — survives intact. UNESCO World Heritage since 1979."
+    }
+  ],
+  "included": [
+    "Professional English-speaking guide",
+    "Bergenhus Fortress grounds access",
+    "Håkon's Hall entry",
+    "Rosenkrantz Tower entry",
+    "Bryggen guided walk",
+    "Small group (max 12)"
+  ],
+  "excluded": [
+    "Transport (the tour is a walking tour within Bergen city centre)",
+    "Bryggen Museum (optional, recommended — contains the original medieval archaeological finds from beneath the wharf)"
+  ],
+  "meeting_point": "Rosenkrantz Tower, Bergenhus Fortress, Bergen harbour front",
+  "tips": [
+    "The walk from Bergen's train station to the meeting point at Bergenhus is 10 minutes along the harbour front — a pleasant introduction to Bergen's layout",
+    "Bryggen's narrow alleyways between the merchant houses are open to walk independently — the maze of passages behind the facade is more complex than it appears from the waterfront",
+    "Bergen has the highest rainfall of any city in Europe — bring waterproofs even in summer. The locals say if you can see the mountains around Bergen it will rain soon; if you cannot see them, it is already raining",
+    "The Bryggen Museum at the southern end of the wharf contains the excavated medieval artefacts from the 1955 fire rebuilding — shoes, tools, and runic message sticks (the medieval equivalent of text messages)"
+  ],
+  "faqs": [
+    {
+      "question": "Why was Bergen the capital of Norway?",
+      "answer": "Bergen was established as a royal residence and trade centre by King Olaf Kyrre in the 1070s, and grew rapidly due to its position as the export point for stockfish from northern Norway — the most important traded commodity in medieval Northern Europe. King Håkon Håkonsson (1217-1263) made Bergen the administrative centre of his empire, which at its peak included Iceland, Greenland, and all the North Atlantic islands. The capital moved to Oslo in the 14th century, but Bergen remained Norway's largest city until the 19th century."
+    },
+    {
+      "question": "What was the Hanseatic League?",
+      "answer": "The Hanseatic League (Hanse) was a commercial confederation of North German merchant cities — led by Lübeck — that dominated trade across the Baltic and North Sea from the 13th to 17th centuries. At its peak it included over 200 cities and maintained four overseas offices (Kontore): in Bruges, London, Novgorod, and Bergen. Bergen's Kontor (the German Bryggen) had a monopoly on the fish trade in Norwegian waters and operated as a self-governing German enclave in the city for over 400 years."
+    },
+    {
+      "question": "What caused the 1944 explosion at Bergenhus Fortress?",
+      "answer": "On 20 April 1944 — Hitler's birthday — a Dutch ammunition ship, the SS Voorbode, caught fire in Bergen harbour while under German control and exploded with catastrophic force. The explosion destroyed several buildings in Bergenhus Fortress including Håkon's Hall and damaged Bryggen. It killed approximately 160 people. Reconstruction of Håkon's Hall began in 1956 and was completed in 1961 after painstaking historical research."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/bergen-bergenhus-fortress-rosenkrantz.webp",
+    "alt": "Bryggen Hanseatic wharf and Bergenhus Fortress on Bergen harbour, Norway",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Bergen: Bergenhus Fortress, Rosenkrantz Tower & Bryggen Tour",
+    "description": "Guided walking tour of Bergen's medieval fortress complex — Håkon's Hall (1260), Rosenkrantz Tower, and the UNESCO Hanseatic Bryggen wharf. The history of Norway's medieval capital in 3 hours."
+  }
+}

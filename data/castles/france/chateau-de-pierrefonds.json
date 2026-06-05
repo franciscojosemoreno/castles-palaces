@@ -1,0 +1,89 @@
+{
+  "id": "chateau-de-pierrefonds",
+  "name": "Château de Pierrefonds",
+  "local_name": "Château de Pierrefonds",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 250000,
+  "country": "france",
+  "region": "Picardy / Oise",
+  "nearest_city": "Compiègne",
+  "address": "2 Rue Viollet-le-Duc, 60350 Pierrefonds, France",
+  "lat": 49.3477,
+  "lng": 2.9795,
+  "unesco": false,
+  "year_built": 1393,
+  "architectural_style": "Medieval / Neo-Gothic restoration by Viollet-le-Duc",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "May–Aug: 09:30–18:00 daily. Sep–Apr: Tue–Sun 10:00–13:00, 14:00–17:30. Closed Mondays year-round and major public holidays."
+  },
+  "price_adult": 9,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateau-pierrefonds.fr/en",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to September; the surrounding Compiègne forest is beautiful in spring and autumn",
+  "accessibility": "Some areas have stairs. The main courtyard and great hall are largely accessible. Contact in advance for an accessible route map.",
+  "booking_advance_days": 0,
+  "tagline": "Napoleon III's restored medieval fantasy — Camelot in the forests of Picardy",
+  "highlights": [
+    "Commissioned by Napoleon III as a personal retreat — a full-scale medieval castle restored from ruin",
+    "Restored by Eugène Viollet-le-Duc, the architect who also restored Notre-Dame and Carcassonne",
+    "The primary filming location for the BBC/French TV series Merlin (2008–2012)",
+    "The courtyard's sculpted gargoyles and towers were Viollet-le-Duc's personal vision of medieval chivalry",
+    "Set in the Compiègne forest, one of France's great royal hunting forests, within day-trip range of Paris"
+  ],
+  "description": "Pierrefonds is one of the most useful places in Europe to understand what the 19th century thought the Middle Ages looked like — and why that matters. The original castle was built for Louis d'Orléans in 1393 and was a genuine medieval fortress of considerable power. Louis XIV had it partially demolished in 1617 to prevent its use as a rebel stronghold. Two centuries later, Napoleon III purchased the ruin for 3,000 francs and commissioned Eugène Viollet-le-Duc to restore it.\n\nWhat Viollet-le-Duc built between 1857 and 1879 is not a restoration in the modern conservation sense but an interpretation: a 19th-century vision of what a perfect medieval castle should have looked like, combining genuine medieval fabric with invented towers, carved gargoyles, sculpted doorways and painted interiors that owe as much to Romantic imagination as to archaeological evidence. The result is extraordinary — internally coherent, architecturally refined, visually dramatic — and deeply educational in the gap it reveals between medieval reality and Victorian fantasy.\n\nViollet-le-Duc used the same approach at Notre-Dame (whose gargoyles he designed) and at the fortified city of Carcassonne. At Pierrefonds he had the unusual freedom of working essentially from scratch on a ruined shell, creating a medieval world from the inside out.\n\nThe British public knows Pierrefonds primarily as the primary filming location for the BBC series Merlin (2008–2012), which used the castle's courtyard and interior as the royal court of Camelot. The connection brings steady visitor traffic from series fans alongside the architectural tourism the castle would attract in any case.",
+  "history": "Louis d'Orléans, brother of King Charles VI of France, built the original castle between 1393 and 1407 as a symbol of his power in the Valois family's internal power struggle. Louis was assassinated in 1407 — one of the political murders that triggered the Armagnac-Burgundian civil war — and the castle passed through various hands during the Hundred Years' War.\n\nThe castle subsequently served as a residence for various members of the French royal family, but its political independence made it suspect to the centralising Bourbon monarchy. Louis XIV ordered the partial demolition of Pierrefonds in 1617 as part of a systematic campaign against fortified nobles' castles that might serve as rebel strongholds. The main towers were blown up; the walls were breached.\n\nNapoleon I purchased the romantic ruin in 1813, and his nephew Napoleon III acquired it from the state in 1861. Napoleon III had a vision of himself as the inheritor of medieval French kingship, and Pierrefonds — which he initially intended merely to stabilise as a picturesque ruin — gradually became a full restoration project. Viollet-le-Duc, who was simultaneously working on Notre-Dame and Carcassonne, began the project in 1857 and worked on it until his death in 1879, leaving the castle largely complete but with some interior rooms unfinished.\n\nAfter Napoleon III's fall in 1870, the castle became state property and opened to the public. Viollet-le-Duc's theoretical writings about restoration — which defined the field for a century, for better and worse — drew heavily on his experience at Pierrefonds.",
+  "how_to_visit": "**Getting there from Paris:** Take a train from Paris Gare du Nord to Compiègne (50–70 min, every hour). From Compiègne, bus line 1 runs to Pierrefonds village (30 min) in summer months; alternatively, taxi from Compiègne (15 min, ~€25). By car from Paris, take the A1 north then D973 — about 80km, 1 hour. Many visitors combine with the Palace of Compiègne in the city itself.\n\n**Viollet-le-Duc's drawings:** One of the most interesting aspects of visiting Pierrefonds is seeing Viollet-le-Duc's original drawings and models displayed in the castle — they make visible the gap between medieval remains and 19th-century invention, and are intellectually fascinating as documents of restoration theory.\n\n**Merlin fans:** If you're visiting for the BBC series connection, the main courtyard and entrance gate are the principal filming locations. The interior rooms used for Camelot's throne room, corridors and dungeons are largely accessible on the standard tour.",
+  "faqs": [
+    {
+      "question": "Is Pierrefonds a genuine medieval castle?",
+      "answer": "Partially. The original castle was built in 1393 and genuine medieval fabric survives within the walls. However, what visitors see today is largely a 19th-century reconstruction by architect Eugène Viollet-le-Duc, commissioned by Napoleon III between 1857 and 1879. Viollet-le-Duc rebuilt from a ruined shell, inventing towers, gargoyles and interiors that reflect Victorian-era imagination of the Middle Ages as much as historical evidence. It is a masterpiece of 19th-century architecture that tells you as much about 1870 as about 1400."
+    },
+    {
+      "question": "Was Pierrefonds used in the Merlin TV series?",
+      "answer": "Yes. The BBC/French co-production Merlin (2008–2012) used Pierrefonds extensively as the royal city of Camelot. The main courtyard, entrance gate, great hall and various interior corridors appeared throughout the series' five seasons. The castle's combination of dramatic exterior and well-preserved interior made it ideal for the show's medieval-fantasy setting. A proportion of the castle's current visitors come specifically because of the series."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-pierrefonds.webp",
+    "alt": "Château de Pierrefonds rising above the village, towers and ramparts reflected in the village lake",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-pierrefonds.webp",
+  "instagram_tag": "#pierrefonds",
+  "meta_title": "Château de Pierrefonds: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château de Pierrefonds — Napoleon III's medieval fantasy and the Camelot filming location for BBC's Merlin. Day trip from Paris. Complete visitor guide.",
+  "tags": [
+    "gothic",
+    "neogothic",
+    "medieval",
+    "19th-century",
+    "romantic",
+    "film-location",
+    "day-trip-from-paris"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": [
+    "palace-of-versailles",
+    "chateau-de-cheverny"
+  ],
+  "gyg_location_id": "1",
+  "gyg_search_query": "Pierrefonds Castle day trip Paris",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

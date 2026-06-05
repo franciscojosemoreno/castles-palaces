@@ -1,0 +1,106 @@
+{
+  "id": "palermo-norman-palace-sicily-medieval-tour",
+  "slug": "palermo-norman-palace-sicily-medieval-tour",
+  "name": "Palermo: Norman Palace, Palatine Chapel & Medieval Sicily Tour",
+  "tagline": "The most extraordinary Norman court in Europe — where Arab, Byzantine and Christian cultures fused into gold",
+  "departure_country": "italy",
+  "departure_city": "Palermo",
+  "visited_countries": [
+    "italy"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half day (3 hours)",
+  "gyg_tour_id": "437860",
+  "gyg_url": "https://www.getyourguide.com/palermo-l387/palermo-norman-palace-and-palatine-chapel-tour-with-tickets-t437860/",
+  "price_from": 29,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 1820,
+  "languages": [
+    "English",
+    "Italian",
+    "French",
+    "Spanish"
+  ],
+  "max_group_size": 15,
+  "overview": "The Palazzo dei Normanni in Palermo is the oldest royal residence in Europe still in continuous use — today it houses the Sicilian Regional Assembly. Built by the Arabs as the Qasr (Great Palace) in the 9th century, expanded by the Norman kings Roger II and William II into the most sophisticated court in medieval Europe, it represents the extraordinary cultural fusion that made 12th-century Sicily unique: Norman architecture, Arab craftsmanship, and Byzantine mosaic technique combined in a single building. At its heart is the Palatine Chapel — a private royal chapel so encrusted with gold mosaic that it remains one of the most dazzling interior spaces in Europe, described by Arab geographer Al-Idrisi as 'the most beautiful building in the world.'",
+  "highlights": [
+    "Palatine Chapel — the most complete gold mosaic interior in the world outside Istanbul",
+    "Hall of Roger II: the oldest secular mosaic cycle in existence, with hunting scenes and exotic animals",
+    "Arab-Norman architecture: the only surviving example of this unique 12th-century hybrid style",
+    "Skip-the-line entry to the Norman Palace with expert guide",
+    "UNESCO World Heritage Site — inscribed as part of the Arab-Norman Palermo group",
+    "The story of Roger II's extraordinary multicultural court — Christian king with Arab advisors and Byzantine artists"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Palazzo dei Normanni Exterior",
+      "duration": "20 min",
+      "description": "Begin at the exterior of the palace complex, where the guide explains its layered history: Arab fortress, Norman palace, Spanish viceregal residence, and today's Sicilian parliament. The massive square towers visible from outside date from the Norman period; the lower courses are Arab work in finely cut limestone ashlar."
+    },
+    {
+      "order": 2,
+      "castle_name": "Hall of Roger II",
+      "duration": "30 min",
+      "description": "Enter the royal apartments and visit the Hall of Roger II — the oldest secular mosaic cycle in existence. Created in the 1130s, the mosaics show a paradise garden of palm trees, peacocks, leopards, lions and centaurs: the imagery of an Islamic garden paradise rendered in Byzantine mosaic by Arab craftsmen for a Norman king. Nothing like it exists anywhere else."
+    },
+    {
+      "order": 3,
+      "castle_name": "Palatine Chapel",
+      "duration": "45 min",
+      "description": "The private chapel of the Norman kings, completed 1143. Every surface above eye level is covered in gold mosaic on a Byzantine programme — but the wooden muqarnas ceiling above the nave is pure Arabic craftsmanship, carved and painted with the imagery of Islamic paradise. The guide decodes the theological and political messages encoded in the mosaic programme and explains how Roger II used this chapel to project three forms of royal legitimacy simultaneously."
+    },
+    {
+      "order": 4,
+      "castle_name": "Palermo Arab-Norman Walking Context",
+      "duration": "45 min",
+      "description": "Brief walk to the nearby Church of San Giovanni degli Eremiti — five pink domes on a Norman church built over an Arab mosque, the most visible symbol of Sicily's multicultural heritage — before returning through the Albergheria market quarter."
+    }
+  ],
+  "included": [
+    "Professional English/Italian/French/Spanish-speaking guide",
+    "Skip-the-line Norman Palace entry",
+    "Palatine Chapel entry",
+    "Hall of Roger II access",
+    "Small group (max 15)"
+  ],
+  "excluded": [
+    "San Giovanni degli Eremiti entry (optional, ~€6)",
+    "Transport to meeting point",
+    "Meals"
+  ],
+  "meeting_point": "Piazza del Parlamento, in front of the Norman Palace main entrance, Palermo",
+  "tips": [
+    "Photography inside the Palatine Chapel is permitted but no flash — the gold mosaics photograph beautifully in natural light",
+    "Book well ahead: skip-the-line entry becomes essential in summer when waits exceed 90 minutes",
+    "Visit the Ballarò street market nearby for the full Palermo sensory experience after the tour",
+    "The Palatine Chapel is one of the most photographed interiors in Italy — arrive early for the best light through the west windows"
+  ],
+  "faqs": [
+    {
+      "question": "What makes this UNESCO inscription unusual?",
+      "answer": "The 'Arab-Norman Palermo' UNESCO inscription (2015) covers nine buildings across Palermo, Cefalù and Monreale — all built by Norman kings using Arab and Byzantine craftsmen. It's the only World Heritage Site explicitly recognising a multicultural building style."
+    },
+    {
+      "question": "Is the palace still used by the government?",
+      "answer": "Yes — the Sicilian Regional Assembly meets in the palace, making it the oldest parliamentary building in continuous use in the world. Tours are restricted on assembly sitting days."
+    },
+    {
+      "question": "How does this compare to visiting Monreale Cathedral?",
+      "answer": "Monreale (20 minutes from Palermo) has the largest Norman mosaic cycle in the world. The Palatine Chapel is smaller but more intimate and complete. Many visitors combine both in one day."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/palermo-norman-palace-sicily-medieval-tour.webp",
+    "alt": "Norman Palace and golden Palatine Chapel mosaics in Palermo, Sicily",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Palermo Norman Palace & Palatine Chapel Guided Tour | Sicily UNESCO",
+    "description": "Skip-the-line guided tour of the Norman Palace and Palatine Chapel in Palermo — the most extraordinary gold mosaic interior in Europe, a UNESCO World Heritage Site."
+  }
+}

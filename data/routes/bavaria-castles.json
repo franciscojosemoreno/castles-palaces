@@ -1,0 +1,40 @@
+{
+  "id": "bavaria-castles",
+  "name": "Bavaria Castle Route",
+  "tagline": "Ludwig II's fairy-tale kingdom through the Bavarian Alps",
+  "description": "Follow in the footsteps of Bavaria's legendary 'Fairy Tale King' Ludwig II through a landscape of turquoise lakes, alpine meadows and impossibly romantic castles. This route connects the three royal residences Ludwig built or expanded during his short, turbulent reign — from the childhood home that inspired his obsessions to his grandest completed fantasy.\n\nThe Bavaria Castle Route is one of Europe's most rewarding self-drive journeys. Base yourself in Füssen or Garmisch-Partenkirchen and you can cover all three main sites in 2–3 days, with the option to extend via the Rhine Valley to the north or the Austrian Tyrol to the south.",
+  "hero_image": {
+    "url": "/images/routes/bavaria-castles.webp",
+    "alt": "Neuschwanstein Castle seen from Marienbrücke in autumn gold",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "germany"
+  ],
+  "castles": [
+    "neuschwanstein-castle",
+    "hohenschwangau-castle",
+    "linderhof-palace",
+    "herrenchiemsee-palace"
+  ],
+  "distance_km": 150,
+  "duration_days": "2–4 days",
+  "difficulty": "easy",
+  "map_center": {
+    "lat": 47.7,
+    "lng": 10.9
+  },
+  "tags": [
+    "fairy-tale",
+    "mountain-castle",
+    "19th-century",
+    "self-drive"
+  ],
+  "gyg_search_query": "Bavaria castles Ludwig",
+  "thumbnail_image": {
+    "url": "/images/routes/bavaria-castles-thumb.webp",
+    "alt": "Neuschwanstein Castle seen from Marienbrücke in autumn gold"
+  }
+}

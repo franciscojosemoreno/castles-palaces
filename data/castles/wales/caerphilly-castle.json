@@ -1,0 +1,82 @@
+{
+  "id": "caerphilly-castle",
+  "name": "Caerphilly Castle",
+  "local_name": "Castell Caerffili",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 180000,
+  "country": "wales",
+  "region": "South Wales",
+  "nearest_city": "Cardiff",
+  "address": "Castle Street, Caerphilly CF83 1JD, Wales",
+  "lat": 51.5760,
+  "lng": -3.2188,
+  "unesco": false,
+  "year_built": 1268,
+  "architectural_style": "Concentric medieval",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Nov–Feb: 10:00–16:00. Managed by Cadw (Welsh Historic Monuments). Closed 24–26 December and 1 January. Some areas may be closed for conservation — check Cadw website."
+  },
+  "price_adult": 9,
+  "price_child": 6,
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/visit/places-to-visit/caerphilly-castle",
+  "visit_duration": "2–3 hours",
+  "best_season": "Spring and summer for open lake reflections; the leaning tower is most visible in clear weather",
+  "accessibility": "The outer ward and most of the great hall are accessible to wheelchairs. Some towers and the upper wall walkways involve staircases. The lakeside paths are mostly flat.",
+  "booking_advance_days": 0,
+  "tagline": "The second largest castle complex in Britain — a masterpiece of medieval water defence engineering",
+  "highlights": [
+    "The second largest castle in Britain (after Windsor) and the largest in Wales, covering over 12 hectares including its artificial lake system",
+    "A pioneering concentric castle design that influenced English military architecture from the 1270s onwards",
+    "The leaning south-east tower — out of plumb by more than the Leaning Tower of Pisa — damaged during the Civil War",
+    "The elaborate water defences — a system of lakes, dams, and islands that made the castle virtually impregnable",
+    "The great hall reconstruction — the finest surviving example of a Decorated Gothic great hall in Wales"
+  ],
+  "description": "Caerphilly Castle is the largest castle in Wales and the second largest in Britain — a statement of military engineering ambition that remains astonishing 750 years after its construction. Built between 1268 and 1271 by Gilbert de Clare, the most powerful lord in medieval Wales, the castle covers over 12 hectares including its extraordinary system of artificial lakes, dams, and islands. To approach it is to understand immediately why the concentric castle design, with its rings of walls and water defences, was so formidable: the garrison within could observe and defend every approach while an attacker faced multiple obstacles of water, wall, and fire.\n\nThe castle's most famous feature is its leaning south-east tower, which tilts at an angle of approximately 10 degrees from vertical — considerably more than the Leaning Tower of Pisa. The lean was caused by deliberate undermining during the English Civil War, when Parliamentary forces attempted to destroy the castle. The wall cracked but did not fall, and the resulting lean has made it one of the most recognisable castle features in Britain.\n\nInside the castle walls, the great hall — partially reconstructed in the 20th century — gives the most vivid sense of the scale of life within a major medieval fortress. Lead statues of Gilbert de Clare and his successors stand in niches around the interior. The outer gatehouse, inner gatehouse, and the complex system of drawbridges, portcullises, and passages through which any attacker would have to penetrate, speak to the paranoid military logic of the 13th century — a period of near-constant conflict between Anglo-Norman lords and the native Welsh princes.",
+  "history": "Caerphilly was built between 1268 and 1271 by Gilbert de Clare, 7th Earl of Gloucester and 6th Earl of Hertford — one of the wealthiest and most powerful barons in medieval England, who controlled most of Glamorgan. The castle was a direct response to the growing power of Llywelyn ap Gruffudd, Prince of Wales, who was pressing south into the lowlands of Glamorgan. De Clare needed a fortress that could both withstand siege and serve as the administrative centre of his Welsh lordship.\n\nThe construction of the water defences — damming two streams to create the extensive lake system — was as important as the castle buildings themselves. The lakes isolated the castle from direct assault and controlled the only approach routes. Llywelyn destroyed an early version of the castle in 1270, but de Clare rebuilt it more ambitiously, completing the main structure by 1271. Llywelyn captured it again briefly in 1272 but was repelled.\n\nAfter the conquest of Wales by Edward I in 1282–83 removed the Welsh threat, Caerphilly lost its strategic importance. It passed through the Despenser and Lancaster families and was used primarily as an administrative centre before falling into disrepair during the Tudor period. The Civil War damage to the south-east tower was the castle's last significant military event. The Marquess of Bute (who also restored Cardiff Castle and Castell Coch) undertook the first systematic restoration in the 1870s, draining and re-flooding the lakes and clearing centuries of debris.",
+  "how_to_visit": "**Getting there:** Caerphilly town is 16 km north of Cardiff. Regular trains run from Cardiff Central to Caerphilly (about 20 minutes, frequent service). The castle is a 5-minute walk from the train station. By car, it is signposted from the A470 and A468. There is paid parking adjacent to the castle.\n\n**Cadw membership:** If you plan to visit several Welsh castles (Conwy, Caernarfon, Harlech, Raglan), consider a Cadw membership or multi-site Explorer Pass — it quickly pays for itself.\n\n**The leaning tower:** The famous lean is most clearly seen from the outer ward, looking south from the inner gatehouse. The tower leans at about 10 degrees — photograph it alongside a vertical reference for maximum effect.\n\n**Combine with:** Cardiff (16 km south) and Castell Coch (a Victorian Gothic revival castle in the woods north of Cardiff, 13 km away) make perfect additions for a Welsh castle day.",
+  "faqs": [
+    {
+      "question": "Why does Caerphilly Castle have a leaning tower?",
+      "answer": "The south-east tower was deliberately undermined during the English Civil War (1640s) by Parliamentary forces attempting to 'slight' (render militarily useless) the castle. The undermining caused the wall to crack and lean but not collapse — leaving the spectacular tilt of approximately 10 degrees that persists today. It leans further from vertical than the Leaning Tower of Pisa."
+    },
+    {
+      "question": "What makes Caerphilly's water defences so unusual?",
+      "answer": "Caerphilly uses an elaborate system of artificial lakes created by damming two streams to isolate the castle on all sides with water. The outer lake covers about 14 hectares. This type of water defence — combined with concentric stone walls — made the castle nearly impregnable by direct assault. It was one of the first and most sophisticated examples of this approach in Britain."
+    },
+    {
+      "question": "Is Caerphilly Castle worth visiting from Cardiff?",
+      "answer": "Absolutely — it is one of the most impressive and underrated medieval fortifications in Britain. The short train journey from Cardiff makes it an easy half-day trip. Many visitors are surprised by its scale; most expect a modest town castle and find a vast, complex, watery fortress."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/caerphilly-castle.webp",
+    "alt": "Caerphilly Castle reflected in its artificial lake with the famous leaning tower visible, South Wales",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/caerphilly-castle.webp",
+  "instagram_tag": "#caerphillycastle",
+  "meta_title": "Caerphilly Castle: Tickets, Leaning Tower & Visitor Guide 2026",
+  "meta_description": "Visit Caerphilly Castle — the largest castle in Wales and second largest in Britain, with its famous leaning tower and 13th-century water defences. Guide to tickets, getting there from Cardiff.",
+  "tags": ["medieval", "concentric", "water-defences", "wales", "dramatic"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["conwy-castle", "caernarfon-castle"],
+  "gyg_location_id": "156",
+  "gyg_search_query": "Caerphilly Castle tour Cardiff",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

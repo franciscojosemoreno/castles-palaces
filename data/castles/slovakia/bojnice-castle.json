@@ -1,0 +1,78 @@
+{
+  "id": "bojnice-castle",
+  "name": "Bojnice Castle",
+  "local_name": "Bojnický zámok",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 400000,
+  "country": "slovakia",
+  "region": "Trenčín Region",
+  "nearest_city": "Prievidza",
+  "address": "Zámok 1, 972 01 Bojnice, Slovakia",
+  "lat": 48.7862,
+  "lng": 18.5779,
+  "unesco": false,
+  "year_built": 1113,
+  "architectural_style": "Romantic Neo-Gothic",
+  "opening_hours": {
+    "monday": "Closed (May–Sep open Mondays 10:00–17:00)",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "May–Sep: daily 10:00–17:00. Oct–Apr: Tue–Sun 10:00–15:00. The International Ghost Festival (late April/early May) and the Summer Festival of Ghosts and Magic (August) are popular — expect crowds and extended hours. Book tickets in advance for festival periods."
+  },
+  "price_adult": 12,
+  "price_child": 6,
+  "booking_required": false,
+  "official_tickets_url": "https://www.bojnicecastle.sk",
+  "visit_duration": "2–3 hours",
+  "best_season": "Spring (April–May) for the International Ghost Festival; summer for the full garden experience with views over the thermal resort town below",
+  "accessibility": "The castle interior has multiple stairways. Ground floor areas are accessible but the upper rooms require staircases. The castle park and exterior grounds are accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Slovakia's fairytale castle — a medieval core transformed into a romantic Gothic dream by a 19th-century art collector",
+  "highlights": [
+    "The most visited castle in Slovakia, with a romantic Neo-Gothic exterior built 1899–1909 around a genuine medieval core dating to 1113",
+    "The ancestral chapel with an original 4th-century Roman funeral stele and the tomb of Count Ján Pálffy in a natural cave beneath the castle",
+    "An art collection assembled by Count Ján Pálffy including medieval Italian paintings and Renaissance furniture from across Europe",
+    "The International Ghost Festival (late April–early May) — the most atmospheric castle festival in Central Europe, featuring ghost tours, drama, and costumed events",
+    "A natural thermal spring beneath the castle — the reason for settlement here since Roman times"
+  ],
+  "description": "Bojnice Castle is the undisputed fairytale castle of Slovakia — a turreted, moated, Neo-Gothic dream that rises from a small hill above the thermal spa town of Bojnice. But unlike many 19th-century castle fantasies, Bojnice has genuine medieval bones: the site was first fortified in the 12th century, a stone castle stood here by the 13th century, and the keep that forms the core of the current building dates to the late medieval period. What Count Ján Pálffy XII created between 1899 and 1909 was not a fake castle but a romantic reinterpretation of an authentic one.\n\nPálffy was an eccentric aristocrat, a passionate collector of medieval art, and a Francophile who modelled his renovations on the Loire Valley chateaux he had studied during his travels. He replaced Renaissance facades with Gothic towers, added a romantic drawbridge and moat, installed Italian medieval paintings in the new state rooms, and created a chapel around a genuine Roman funerary monument from the 4th century. When he died in 1908 without heirs, his elaborate funeral arrangements — including the instruction that he be buried in a natural cave beneath the castle, in a sarcophagus designed by himself — gave Bojnice its most theatrical aspect: the burial chapel in the cave below the castle is genuinely extraordinary.\n\nThe castle's most popular event is the International Ghost Festival, held in late April or early May each year. For five days, the castle fills with theatrical performances of ghost stories, medieval drama, costumed characters, and ghost tours by candlelight — making Bojnice's romantic exterior, already somewhat Gothic in atmosphere, into something genuinely theatrical.",
+  "history": "The hill above the thermal springs at Bojnice was settled since the Stone Age, attracted by the natural thermal spring that still flows below the castle. The Benedictines established a monastery here around 1113 — the earliest documented date for the site. A stone castle was built in the 13th century and passed through several noble families before coming to the Thurzó family in 1527, who used it as the centre of a large estate.\n\nIn 1637, the Pálffy family acquired Bojnice through marriage and held it for nearly three centuries. The castle went through various Baroque and Renaissance modifications in the 17th and 18th centuries. The decisive transformation came when Count Ján Pálffy XII inherited the estate in 1867. A bachelor aesthete with enormous personal wealth and a consuming passion for medieval art, he spent the last 40 years of his life and a substantial fortune converting Bojnice into the Neo-Gothic romantic castle that exists today, inspired by the Romantic movement's idealisation of the medieval past.\n\nPálffy died in 1908, one year before the renovation was officially complete. As he had specified in his will, he was buried in a specially designed sarcophagus in a cave chapel beneath the castle. The Czechoslovak state nationalised the castle in 1945 and opened it to the public; since 1950 it has been managed as a museum and remains one of Slovakia's most visited heritage sites.",
+  "how_to_visit": "**Getting there:** Bojnice is 150 km from Bratislava and 210 km from Brno. Regular trains and buses run from Bratislava via Trenčín to Prievidza (about 2.5–3 hours); from Prievidza, local buses run to Bojnice (5 km, 15 minutes). By car, take the D1 motorway east from Bratislava to Trenčín, then the R2 expressway toward Prievidza.\n\n**The town:** Bojnice spa town (kúpele) surrounds the castle with thermal pools, hotels, and the Bojnice Zoo (one of the oldest in Slovakia). A day trip combining the castle, a spa visit, and the zoo is popular with families.\n\n**Ghost Festival:** The International Ghost Festival in late April or early May is the most popular time to visit. Evening ghost tours by candlelight, theatrical performances, and costumed events make the castle feel genuinely mysterious. Tickets sell out — book well in advance.\n\n**Cave chapel:** The burial chapel of Count Pálffy in the cave beneath the castle is included in the standard tour and is the most unusual part of the visit — a Roman sarcophagus in a natural limestone cave beneath a Neo-Gothic castle.",
+  "faqs": [
+    {
+      "question": "Is Bojnice Castle a real medieval castle or a reproduction?",
+      "answer": "Both. The site has been continuously fortified since at least 1113, and a medieval stone castle existed here from the 13th century. The current appearance is largely the result of a romantic Neo-Gothic renovation by Count Ján Pálffy XII between 1899 and 1909, inspired by Loire Valley chateaux. The keep and some interior spaces preserve genuine medieval fabric; the towers, turrets, and decorative Gothic elements are Pálffy's late 19th-century additions."
+    },
+    {
+      "question": "What is the Ghost Festival at Bojnice?",
+      "answer": "The International Ghost Festival (Medzinárodný festival duchov a strašidiel) is held annually in late April or early May. For five days, the castle hosts ghost tours, theatrical performances, costumed characters, fire shows, and evening candlelight events. It is the most atmospheric castle event in Slovakia and draws visitors from across Central Europe. Evening sessions have a separate ticket and must be booked in advance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bojnice-castle.webp",
+    "alt": "Bojnice Castle romantic Neo-Gothic turrets rising above the thermal spa town in Slovakia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bojnice-castle.webp",
+  "instagram_tag": "#bojnicecastle",
+  "meta_title": "Bojnice Castle Slovakia: Tickets, Ghost Festival & Visitor Guide 2026",
+  "meta_description": "Visit Bojnice Castle — Slovakia's most visited and most romantic medieval fortress, famous for its Ghost Festival, Neo-Gothic towers, and the mysterious burial chapel of Count Pálffy.",
+  "tags": ["neo-gothic", "romantic", "medieval", "slovakia", "fairytale"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["trencin-castle"],
+  "gyg_location_id": "1756",
+  "gyg_search_query": "Bojnice Castle tour Slovakia",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

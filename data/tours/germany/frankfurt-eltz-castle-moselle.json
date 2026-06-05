@@ -1,0 +1,86 @@
+{
+  "id": "frankfurt-eltz-castle-moselle",
+  "slug": "frankfurt-eltz-castle-moselle",
+  "name": "Eltz Castle Day Trip from Frankfurt",
+  "tagline": "The most beautiful castle in Germany — never conquered, never destroyed, never rebuilt, still owned by the same family for 850 years",
+  "departure_country": "germany",
+  "departure_city": "Frankfurt",
+  "visited_countries": [
+    "germany"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 8 hours",
+  "gyg_tour_id": "40707",
+  "price_from": 79,
+  "currency": "EUR",
+  "rating": 4.8,
+  "review_count": 340,
+  "languages": [
+    "English",
+    "German"
+  ],
+  "max_group_size": 8,
+  "overview": "Eltz Castle is arguably the most beautiful castle in Germany — and one of the most extraordinary in all of Europe. A medieval fortress rising from a forested ravine above the Moselle valley, it has never been destroyed, never conquered in battle, never rebuilt in the 19th century. The Eltz family have owned it continuously for over 850 years, living in it across 33 generations. What you see today is therefore not a restoration or a ruin, but the genuine article: richly furnished medieval rooms, a private treasure vault with jewels and armour, and a building that time has treated with unusual kindness.",
+  "highlights": [
+    "Visit Eltz Castle — never destroyed, still owned by the same family for 850 years",
+    "Guided tour of the medieval rooms and private family treasure vault",
+    "Drive through the Moselle valley vineyards",
+    "Small group (max 8) with an expert guide",
+    "One of Germany's most photogenic medieval castles"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "eltz-castle",
+      "castle_name": "Eltz Castle",
+      "duration": "2 hours",
+      "description": "Tour the castle with a local guide. The three family wings (Rodendorf, Rübenach, and Kempenich) rise above each other in a cluster of turrets that look almost impossible from below. Inside: the Rübenach rooms — the most complete medieval domestic interior in Germany — with original 15th-century furniture, tapestries, and kitchen equipment. The castle treasury displays armour, jewellery, and gold and silverwork accumulated by the family across eight centuries."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Moselle Valley",
+      "duration": "2 hours",
+      "description": "Drive through the Middle Moselle — the most scenic stretch of the river, with terraced Riesling vineyards rising from the water to the clifftops on both sides. Stop at the wine town of Cochem with its own hilltop castle, and drive past the 40 bends the Romans called Mosella — the little Meuse."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Frankfurt",
+    "Expert guide",
+    "Eltz Castle guided tour and entry"
+  ],
+  "excluded": [
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Frankfurt city centre — confirmed at booking",
+  "tips": [
+    "The walk from the car park to the castle is 20 minutes downhill through forest — beautiful in autumn",
+    "Photography of the castle exterior is best from the valley path below — the full cluster of towers is visible only from a distance",
+    "Combine with the Rhine Valley for a two-day western Germany itinerary",
+    "The castle is very popular in summer — book well in advance"
+  ],
+  "faqs": [
+    {
+      "question": "Why has Eltz Castle never been destroyed?",
+      "answer": "Partly geography — the castle sits in a deep forested ravine that made it difficult to besiege. Partly diplomacy — the Eltz family managed their alliances carefully through centuries of conflict. And partly luck: when a French army under Louis XIV razed most castles on the Rhine and Moselle in 1689, Eltz was spared because a family member was serving as an officer in the French court."
+    },
+    {
+      "question": "Is the castle still a private residence?",
+      "answer": "Yes — the Eltz family still owns and maintains the castle. Part of it is open to visitors while other wings remain the family's private residence. The Count of Eltz lives in the castle periodically throughout the year."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/frankfurt-eltz-castle-moselle.webp",
+    "alt": "Eltz Castle emerging from the forested Moselle valley — its cluster of medieval towers rising above the trees",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Eltz Castle Day Trip from Frankfurt | Castles & Palaces",
+    "description": "Visit Eltz Castle — Germany's most beautiful medieval fortress, never destroyed, still family-owned for 850 years. Small-group day trip from Frankfurt. From €79."
+  },
+  "gyg_url": "https://www.getyourguide.com/frankfurt-l21/frankfurt-day-trip-to-eltz-castle-on-the-moselle-t40707/"
+}

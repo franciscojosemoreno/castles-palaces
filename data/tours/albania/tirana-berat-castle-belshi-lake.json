@@ -1,0 +1,96 @@
+{
+  "id": "tirana-berat-castle-belshi-lake",
+  "slug": "tirana-berat-castle-belshi-lake",
+  "name": "From Tirana: Berat UNESCO Castle City & Belshi Lake",
+  "tagline": "The City of a Thousand Windows and its ancient hilltop fortress",
+  "departure_country": "albania",
+  "departure_city": "Tirana",
+  "visited_countries": [
+    "albania"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9–10 hours)",
+  "gyg_tour_id": "571983",
+  "gyg_url": "https://www.getyourguide.com/berat-l2798/from-tirana-berat-full-day-tour-unesco-heritage-t571983/",
+  "price_from": 38,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 210,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 20,
+  "overview": "Berat is one of the most extraordinary medieval cities in the Balkans — a UNESCO World Heritage Site where a hilltop castle encloses an entire living neighborhood of Byzantine churches, Ottoman houses, and cobblestone lanes still inhabited today. Known as the City of a Thousand Windows for the rows of large bay windows stacked up the hillside, Berat's castle of Kala rises 200 meters above the Osum River on a limestone crag that has been continuously fortified since the 4th century BC. This full-day tour from Tirana visits the castle quarter, the old quarters of Mangalem and Gorica, and finishes with a swim at the serene Belshi Lake on the return journey.",
+  "highlights": [
+    "Explore Berat Castle (Kala) — a UNESCO-listed fortress where people still live inside the medieval walls, surrounded by Byzantine churches dating to the 13th century",
+    "Visit the Onufri Museum inside the Church of the Dormition of St Mary, housing the iconic Byzantine icons of 16th-century Albanian master painter Onufri",
+    "Walk through Mangalem quarter — rows of Ottoman merchant houses with projecting windows cascading down the hillside",
+    "Cross the Gorica Bridge over the Osum River to the Christian quarter of Gorica with its vine-covered stone houses",
+    "Swim or relax at Belshi Lake on the return to Tirana, a tranquil freshwater lake surrounded by pines"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Drive from Tirana to Berat",
+      "duration": "2 hours",
+      "description": "Depart Tirana and drive south through the Albanian lowlands and river valleys toward Berat. Your guide provides background on Albania's layered history — Illyrian, Roman, Byzantine, Ottoman, Communist — and the unique position of Berat as one of the few Albanian cities to survive World War II almost intact."
+    },
+    {
+      "order": 2,
+      "castle_name": "Berat Castle — Kala",
+      "duration": "2.5 hours",
+      "description": "Enter Berat Castle through its main gate and step into a lived-in medieval world: around 250 families still live inside the walls, their laundry hanging between stone towers. The castle was founded by the Illyrians, rebuilt by the Byzantines in the 13th century, and expanded by the Ottomans. The interior contains the ruins of over 20 Byzantine churches, cisterns, barracks, and the grand Church of the Dormition of St Mary housing the Onufri Museum. Panoramic views extend over the white-windowed houses of Mangalem below and the Osum valley."
+    },
+    {
+      "order": 3,
+      "castle_name": "Mangalem & Gorica Quarters",
+      "duration": "1.5 hours",
+      "description": "Descend into the Mangalem quarter, the Muslim half of old Berat, where the characteristic layered houses with their large overhanging windows give the city its famous silhouette. Walk to the Gorica Bridge — a graceful Ottoman stone arch over the Osum River — and cross to the Christian quarter of Gorica, named after a small church carved into the cliff. Free time to eat at a local restaurant or explore the bazaar."
+    },
+    {
+      "order": 4,
+      "castle_name": "Belshi Lake",
+      "duration": "1.5 hours",
+      "description": "Stop at Belshi Lake on the return journey to Tirana. This artificial lake created in the 1950s is a local favourite for swimming, kayaking, and picnics. The pine-lined shores are peaceful in the afternoon and provide a refreshing contrast to the heat of Berat's castle hill."
+    }
+  ],
+  "included": [
+    "Air-conditioned transport from Tirana",
+    "Professional English-speaking guide",
+    "Hotel pickup and drop-off in Tirana"
+  ],
+  "excluded": [
+    "Berat Castle / Onufri Museum entrance fee (approx. €3)",
+    "Meals and drinks",
+    "Optional activities at Belshi Lake"
+  ],
+  "meeting_point": "Hotel pickup from central Tirana (confirm address at booking). Return to Tirana by evening.",
+  "tips": [
+    "The climb up to Berat Castle involves steep cobblestone lanes — wear comfortable walking shoes",
+    "The Onufri Museum inside the castle is small but magnificent; allow at least 30 minutes",
+    "Berat is at its most photogenic in the golden hour just before sunset — if you can arrange a late return, the light on the white houses is extraordinary",
+    "Bring cash in Albanian lek (ALL) for castle entry, drinks, and local restaurants — card machines are not always reliable"
+  ],
+  "faqs": [
+    {
+      "question": "Is Berat Castle a ruin or a preserved site?",
+      "answer": "Berat Castle is unique — it is a lived-in castle. While many of its churches and structures are ruined or partially restored, the castle enclosure still has around 250 residents, giving it a completely different character from a typical museum-fortress. The Onufri Museum is fully operational."
+    },
+    {
+      "question": "Is the tour physically demanding?",
+      "answer": "The climb up to the castle from Berat's lower town involves a steep 20-minute walk on cobblestones. It is manageable for most fit travellers but not accessible for wheelchairs or pushchairs. The Mangalem and Gorica quarter walks are on flat or gently sloped streets."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/tirana-berat-castle-belshi-lake.webp",
+    "alt": "Berat Castle rising above the white-windowed houses of the UNESCO city in Albania",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Berat UNESCO Castle City Day Tour from Tirana, Albania | Castles & Palaces",
+    "description": "Full-day tour from Tirana to Berat — Albania's UNESCO 'City of a Thousand Windows'. Explore the inhabited hilltop castle, Byzantine churches, Ottoman quarters, and Belshi Lake. Book on GetYourGuide."
+  }
+}

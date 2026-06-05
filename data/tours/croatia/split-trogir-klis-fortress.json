@@ -1,0 +1,98 @@
+{
+  "id": "split-trogir-klis-fortress",
+  "slug": "split-trogir-klis-fortress",
+  "name": "From Split: Diocletian's Palace, Klis Fortress & Trogir",
+  "tagline": "A Roman emperor's retirement fortress, the Game of Thrones slave city, and a UNESCO medieval island — three of the Adriatic's greatest fortified sites in one day",
+  "departure_country": "croatia",
+  "departure_city": "Split",
+  "visited_countries": [
+    "croatia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "744032",
+  "gyg_url": "https://www.getyourguide.com/split-l268/split-trogir-and-klis-tour-t744032/",
+  "price_from": 25,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 480,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 20,
+  "overview": "The Dalmatian coast contains three of the most remarkable fortified sites in the Mediterranean within 30 kilometres of each other. Diocletian's Palace in Split is the most complete Roman imperial fortress-palace in existence — a retirement residence and military base where the Emperor who re-organised the Roman Empire spent his final years, and which has been continuously inhabited for 1,700 years. Above Split on its limestone ridge, Klis Fortress guarded the approach to Dalmatia for two millennia, resisting the Ottomans for decades before falling in 1537 — and was filmed as the slave city of Meereen in Game of Thrones. And Trogir, the medieval walled island 30 minutes west of Split, preserves a complete Venetian-era urban fabric on a tiny Adriatic island connected to the mainland by a single bridge — an almost intact 13th-century city, UNESCO World Heritage.",
+  "highlights": [
+    "Diocletian's Palace — the Roman emperor's retirement fortress-palace (298 AD), now the living heart of Split's UNESCO old town",
+    "Klis Fortress — the medieval ridge-top castle above Split, filming location for Game of Thrones (Meereen, Season 5)",
+    "Klis as the last Croatian fortress against the Ottomans — it held for 24 years before falling in 1537",
+    "Trogir — a complete medieval walled island city, unchanged since Venetian rule, UNESCO World Heritage",
+    "Master Radovan's Romanesque portal (1240) on Trogir Cathedral — the greatest work of Romanesque sculpture in Croatia",
+    "Kamerlengo Fortress — the 15th-century Venetian coastal tower that guards Trogir's western approach"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Diocletian's Palace, Split",
+      "duration": "1.5 hours",
+      "description": "The tour begins inside Diocletian's Palace — a uniquely hybrid structure that was simultaneously a Roman imperial residence and a military fortress, built between 298 and 305 AD for the Emperor Diocletian's retirement. The palace covers 30,000 square metres and houses an entire medieval and modern city within its walls: the emperor's mausoleum became the Cathedral of Saint Domnius; the Temple of Jupiter became a baptistery; the imperial apartments became medieval residences. Walk the Peristyle (the ceremonial courtyard where Diocletian received his subjects), the underground cellars (which preserve the original floor plan of the palace above), and the Golden Gate — the main northern entrance through the fortress walls."
+    },
+    {
+      "order": 2,
+      "castle_name": "Klis Fortress",
+      "duration": "2 hours",
+      "description": "Klis Fortress stands on a limestone ridge 360m above sea level at the narrow pass between the Mosor mountains — the strategic choke-point controlling all land access to Split and the Dalmatian coast. Founded by the Illyrian Dalmatae tribe in the 2nd century BC, it became the fortified capital of the Croatian Kingdom in the early medieval period, housing the Croatian royal court in the 11th century. In 1537 it was the last Dalmatian fortress to fall to the Ottoman Empire, ending 24 years of determined resistance by the Croatian captain Petar Kružić. Game of Thrones filmed the slave city of Meereen here in Season 5 — the fortress's dramatic silhouette against the Adriatic and the Dinara mountains is instantly recognisable from the show. The views from the battlements are among the finest in Dalmatia."
+    },
+    {
+      "order": 3,
+      "castle_name": "Trogir Medieval City",
+      "duration": "2 hours",
+      "description": "Trogir is one of the best-preserved medieval cities in the Mediterranean: a tiny island 300m long connected to the mainland and to Čiovo island by two drawbridges, with a complete urban fabric of Romanesque, Gothic, Renaissance and Baroque buildings in continuous use since the 3rd century BC. The Cathedral of Saint Lawrence contains Master Radovan's Romanesque portal (1240) — considered the greatest work of medieval sculpture in Croatia, with carved scenes of the life of Christ surrounded by hunting scenes, calendar images, and mythological figures. Kamerlengo Fortress, the Venetian coastal tower on the island's western tip, dates from the 1420s and preserved Trogir's independence from the Ottomans when the mainland fell."
+    }
+  ],
+  "included": [
+    "Return transport from Split",
+    "Professional English-speaking guide",
+    "Klis Fortress entry",
+    "Trogir guided walk",
+    "Small group"
+  ],
+  "excluded": [
+    "Diocletian's Palace cellars entry (optional, ~€10)",
+    "Trogir Cathedral entry (optional, ~€3)",
+    "Kamerlengo Fortress entry (optional, ~€3)",
+    "Lunch (free time in Trogir or Split)"
+  ],
+  "meeting_point": "Split — Diocletian's Palace area, exact location confirmed at booking",
+  "tips": [
+    "Klis Fortress is windy at all times of year — bring a layer even in summer",
+    "The Game of Thrones scenes filmed at Klis are from Season 5, episodes 2-10 — Klis was Meereen's exterior, and the narrow pass below the fortress was the slave market approach",
+    "Trogir's Kamerlengo Fortress hosts open-air cinema and concerts in summer — check the local programme if your visit falls in July-August",
+    "The best view of Trogir's island form is from the bridge connecting it to the mainland — arrive from this direction for the full medieval silhouette effect"
+  ],
+  "faqs": [
+    {
+      "question": "Did Diocletian actually live in Split's palace?",
+      "answer": "Yes — Diocletian retired to the palace in 305 AD after voluntarily abdicating the throne (the only Roman emperor to willingly do so) and lived there until his death around 311 AD. He is said to have spent his retirement growing cabbages in the palace gardens and refusing invitations to return to power. After his death the palace continued to be used by the imperial court until the late Roman period, when it gradually became a city in its own right."
+    },
+    {
+      "question": "Which Game of Thrones scenes were filmed at Klis?",
+      "answer": "Klis Fortress served as the exterior of Meereen — the slave city in Essos — in Game of Thrones Season 5 (2015). The dragon Drogon's arrival scene, Daenerys watching the crucified masters, and several other exterior sequences were filmed on the fortress walls and the approach road. The interior throne room scenes were filmed in a studio."
+    },
+    {
+      "question": "Why is Trogir a UNESCO World Heritage Site?",
+      "answer": "Trogir was inscribed in 1997 for its exceptionally complete medieval urban fabric — streets, squares, palaces, fortifications, and a cathedral that together form an almost unaltered example of a Romanesque-Gothic city. Unlike most historic cities, Trogir was never significantly modified in the modern period, preserving 13th-17th century streetscapes intact on its 300m-long island."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/split-trogir-klis-fortress.webp",
+    "alt": "Klis Fortress on its limestone ridge above Split and the Adriatic coast, Croatia",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "From Split: Diocletian's Palace, Klis Fortress & Trogir Day Trip",
+    "description": "Day trip from Split to three UNESCO-listed sites — Diocletian's Roman palace, Klis Fortress (Game of Thrones Meereen), and the medieval walled island of Trogir."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "doune-castle",
+  "name": "Doune Castle",
+  "local_name": "Caisteal Dhùin",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 130000,
+  "country": "scotland",
+  "region": "Central Scotland",
+  "nearest_city": "Stirling",
+  "address": "Castle Road, Doune FK16 6EA, Scotland",
+  "lat": 56.1882,
+  "lng": -4.0534,
+  "unesco": false,
+  "year_built": 1400,
+  "architectural_style": "Scottish Gothic",
+  "opening_hours": {
+    "monday": "09:30–17:30",
+    "tuesday": "09:30–17:30",
+    "wednesday": "09:30–17:30",
+    "thursday": "09:30–17:30",
+    "friday": "09:30–17:30",
+    "saturday": "09:30–17:30",
+    "sunday": "09:30–17:30",
+    "seasonal_note": "Apr–Sep: 09:30–17:30 daily. Oct–Mar: reduced hours, check website. Closed some winter dates."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.historicenvironment.scot/visit-a-place/places/doune-castle/",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "May to September; combine with a Stirling visit for a full Central Scotland day",
+  "accessibility": "Steep stairs within the towers. Main courtyard accessible. Some areas not accessible for mobility-impaired visitors.",
+  "booking_advance_days": 0,
+  "tagline": "Monty Python's castle, Game of Thrones' Winterfell — medieval Scotland's most filmed fortress",
+  "highlights": [
+    "Filming location for Monty Python and the Holy Grail (1975) — coconut sounds and all",
+    "Used as Winterfell's exterior in the pilot episode of Game of Thrones",
+    "One of Scotland's best-preserved 14th-century castles — remarkably complete without later alterations",
+    "The audio guide is narrated by Terry Jones of Monty Python",
+    "Compact, un-touristy and entirely authentic — a medieval castle as found, not as restored"
+  ],
+  "description": "Doune Castle has a cultural paradox at its centre: it is one of Scotland's best-preserved 14th-century fortresses, historically important and architecturally remarkable, yet most of its visitors come because a troupe of British comedians filmed here in 1975. The Monty Python connection has done nothing to diminish the castle — it has, if anything, introduced it to an audience that then discovers the genuine medieval building behind the jokes.\n\nThe castle was built around 1400 by Robert Stewart, Duke of Albany, who served as regent of Scotland during the long captivity of King James I in England. It was designed as a compact but sophisticated stronghold: the high curtain walls enclose a courtyard flanked by two towers — the Lord's Tower containing the Duke's private apartments and kitchen, the Gatehouse Tower with its great hall above the entrance passage. The arrangement is unusual and the preservation exceptional: Doune was never converted into a Baroque palace, never 'modernised' for Victorian comfort, and its 14th-century fabric survives in a state that most Scottish castle enthusiasts consider the most authentic in the country.\n\nMonty Python and the Holy Grail was filmed here in 1975, using the courtyard, gatehouse and walls as the various French and English castles of the script. The film's most famous scenes — the Black Knight, the taunting Frenchmen, the knights who say 'Ni' — were shot within these walls. The castle now provides coconut halves for visitors to clap together.\n\nGame of Thrones filmed the exterior of Winterfell here in 2009 for the unaired pilot, though later seasons used Castle Ward in Northern Ireland. The Outlander TV series has also used Doune as a filming location.",
+  "history": "Doune Castle was built around 1400 for Robert Stewart, 1st Duke of Albany, who held Scotland's regency for most of the period 1388–1420 while James I was imprisoned in England. Robert's regency was effective but controversial — he made limited effort to secure James's release, leading to accusations that he preferred the captive king to remain in England. When James I was finally ransomed and returned to Scotland in 1424, he had Robert's son Murdoch executed and the Albany lands forfeited.\n\nThe castle passed to the Scottish Crown and was used as a royal hunting lodge and occasional prison. Mary Queen of Scots stayed here. The 'Bonnie Earl of Moray' was briefly imprisoned at Doune before his murder in 1592, the event commemorated in the famous Scottish ballad. During the Jacobite Rising of 1745, Bonnie Prince Charlie's forces used the castle to hold Hanoverian prisoners.\n\nThe castle remained in the hands of the Earls of Moray from the 17th century and was gifted to the state (Historic Environment Scotland) in the 20th century. Its exceptional preservation is partly the result of never having been substantially modified: the Earls of Moray had other residences and saw no need to modernise Doune. What looks like neglect is actually the best thing that could have happened to it architecturally.",
+  "how_to_visit": "**Getting there:** Doune village is 10km north of Stirling, served by regular buses from Stirling bus station (25 min, every 30–60 min). By car from Stirling, 15 min via the A820. A taxi from Stirling costs about €15. From Edinburgh by car, allow 1 hour.\n\n**Audio guide:** The audio guide (included in ticket) is narrated by Terry Jones of Monty Python and is genuinely funny while also historically informative. It references the Python filming at appropriate points. Don't skip it.\n\n**Coconuts:** The castle provides coconut halves for visitors to clap together in homage to the famous Python scene. They are available at the ticket desk. Using them in the gatehouse tunnel, which has good acoustics for horse-clip effects, is a rite of passage for Monty Python fans.\n\n**Combine with:** Stirling Castle (25km south) and the Wallace Monument make a natural full-day Central Scotland itinerary from Edinburgh. Doune works best in the afternoon after Stirling in the morning.",
+  "faqs": [
+    {
+      "question": "Is Doune Castle really where Monty Python and the Holy Grail was filmed?",
+      "answer": "Yes. Doune Castle was the primary filming location for Monty Python and the Holy Grail (1975). The gatehouse served as the main castle entrance for multiple scenes, the courtyard and walls appear throughout, and the famous 'French taunter' scenes were shot from the ramparts. The audio guide, narrated by Terry Jones, acknowledges the filming at each relevant location. The castle now provides coconut halves for visitors."
+    },
+    {
+      "question": "Is Doune Castle the Winterfell from Game of Thrones?",
+      "answer": "Doune was used for Winterfell's exterior in the unaired pilot episode of Game of Thrones, filmed in 2009. When the series was re-shot for broadcast, Castle Ward in County Down, Northern Ireland was used for most subsequent Winterfell scenes. Doune therefore appeared in the show's history without most viewers seeing it. The Outlander TV series has used Doune Castle as the fictional Castle Leoch throughout its run."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/doune-castle.webp",
+    "alt": "Doune Castle — Scottish Gothic towers and curtain walls above the River Teith in Central Scotland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/doune-castle.webp",
+  "instagram_tag": "#dounecastle",
+  "meta_title": "Doune Castle: Tickets, Tours & Visitor Guide 2026 | Monty Python & GOT",
+  "meta_description": "Visit Doune Castle — Scotland's best-preserved medieval fortress and filming location for Monty Python and the Holy Grail. Day trip from Edinburgh or Stirling.",
+  "tags": [
+    "medieval",
+    "gothic",
+    "film-location",
+    "off-the-beaten-path",
+    "dramatic"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "scottish-highlands-castles"
+  ],
+  "nearby_castles": [
+    "stirling-castle",
+    "edinburgh-castle",
+    "eilean-donan-castle"
+  ],
+  "gyg_location_id": "44",
+  "gyg_search_query": "Doune Castle Stirling Scotland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,84 @@
+{
+  "id": "warwick-castle",
+  "name": "Warwick Castle",
+  "local_name": "Warwick Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 700000,
+  "country": "england",
+  "region": "Warwickshire",
+  "nearest_city": "Warwick",
+  "address": "Warwick CV34 4QU, England",
+  "lat": 52.2793,
+  "lng": -1.5866,
+  "unesco": false,
+  "year_built": 1068,
+  "architectural_style": "Medieval — Norman motte 1068, later Gothic additions, extensively restored 19th century",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily. Summer (Jul–Aug) 10:00–18:00. Winter (Nov–Mar) 10:00–16:00. Check event calendar as hours vary."
+  },
+  "price_adult": 29,
+  "price_child": 22,
+  "booking_required": true,
+  "official_tickets_url": "https://www.warwick-castle.com/",
+  "visit_duration": "4–6 hours",
+  "best_season": "May to September — outdoor events, jousting tournaments and summer programme",
+  "accessibility": "Main courtyard and ground floor accessible. Some towers have narrow spiral staircases. Accessible map available at entrance.",
+  "booking_advance_days": 7,
+  "tagline": "England's ultimate medieval castle experience — with jousting, trebuchets and a thousand years of history",
+  "highlights": [
+    "The Great Hall and State Rooms — Victorian interiors recreating medieval and Tudor scenes with life-size wax figures",
+    "The Trebuchet — one of the largest working siege engines in the world, fired in live demonstrations",
+    "Jousting tournaments and medieval shows in the castle grounds throughout summer",
+    "The towers — Caesar's Tower and Guy's Tower offer panoramic views over the Avon valley",
+    "The castle grounds — 64 acres designed by Capability Brown, with a Victorian rose garden and peacocks"
+  ],
+  "description": "Warwick Castle is England's best-preserved medieval castle and one of its most visited historic attractions — a genuine fortress that has also, over nine centuries, accumulated the visual drama of a period film set. Built by William the Conqueror in 1068 on a cliff above the River Avon, the castle passed through the hands of the Beauchamp and Neville families before becoming the seat of the Earls of Warwick — including Richard Neville, the 'Kingmaker' who placed two kings on the throne during the Wars of the Roses.\n\nThe castle is now operated as a heritage attraction by Merlin Entertainments, which has invested heavily in live entertainment while preserving the genuine medieval fabric. The towers, walls, Great Hall and state rooms are all authentic, and the wax-figure tableaux in the state rooms — recreating specific historical moments — are among the most atmospheric in any English castle. Outside, the working trebuchet (a counterweight siege engine capable of hurling 150kg projectiles) fires in regular demonstrations; jousting tournaments and falconry displays run throughout the summer season.\n\nThe 64-acre grounds, landscaped by Capability Brown in the 18th century, are exceptional. The Avon curves below the cliff, the Victorian formal gardens contain elaborate parterres and a peacock colony, and the view from the battlements over the river valley on a clear day justifies the climb.",
+  "history": "The first castle at Warwick was a motte-and-bailey earthwork raised by William the Conqueror in 1068. Henry de Newburgh became the first Earl of Warwick in 1088, and the earldom's subsequent history reads as a compressed chronicle of English medieval power. The Beauchamp earls of the 14th and 15th centuries rebuilt the castle in stone, constructing Caesar's Tower (1356) and Guy's Tower (1394) — the two great towers that still define the castle's skyline.\n\nRichard Neville, Earl of Warwick (1428–1471), became the most powerful nobleman in England, earning the title 'Kingmaker' for his role in placing both Henry VI and Edward IV on the throne during the Wars of the Roses before being killed at the Battle of Barnet. The castle was acquired by the Crown, granted to Ambrose Dudley (brother of Robert Dudley, Elizabeth I's favourite), and later sold to Fulke Greville, who spent £20,000 converting it into a comfortable Jacobean residence. The Greville family, later Earls of Warwick, owned the castle until 1978, hosting the Prince of Wales, Benjamin Disraeli and other luminaries. It was sold to the Tussauds Group in 1978 and is now managed by Merlin.",
+  "how_to_visit": "**Getting there:** Warwick railway station is a 15-minute walk from the castle. Trains run from Birmingham (25 min), London Marylebone (90 min via Leamington Spa) and Stratford-upon-Avon (20 min). Limited parking is available in the castle car park.\n\n**Tickets:** Book online for a significant discount and guaranteed entry time. The castle is popular with families and sells out on summer weekends. Merlin Annual Passes give access to all Merlin attractions.\n\n**Best experience:** Arrive for the trebuchet firing (check times at entrance — usually twice daily) and allow time for the towers and grounds. The State Rooms wax figure scenes are impressive in the Great Hall and the 1471 battle recreation.\n\n**Combine with:** Stratford-upon-Avon (Shakespeare's birthplace, 15 minutes by train or car) and Kenilworth Castle (ruined, English Heritage, 30 minutes) make a full Warwickshire heritage day.",
+  "faqs": [
+    {
+      "question": "What is the trebuchet at Warwick Castle?",
+      "answer": "Warwick Castle has one of the world's largest working trebuchets — a medieval siege engine that uses a counterweight to hurl projectiles. At Warwick, it can launch 150kg projectiles distances of over 300 metres. Live firing demonstrations are held daily in the grounds, with commentary explaining medieval siege warfare. The trebuchet was reconstructed based on historical records and is a centrepiece of the castle's events programme."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/warwick-castle.webp",
+    "alt": "Warwick Castle rising above the River Avon with its medieval towers reflected in the water",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/warwick-castle.webp",
+  "instagram_tag": "#warwickcastle",
+  "meta_title": "Warwick Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Warwick Castle — England's ultimate medieval fortress with live jousting, trebuchet demonstrations and a thousand years of history. Book tickets online.",
+  "tags": [
+    "medieval",
+    "family-friendly",
+    "events",
+    "dramatic"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "english-royal-castles"
+  ],
+  "nearby_castles": [
+    "tower-of-london",
+    "windsor-castle"
+  ],
+  "gyg_location_id": "59",
+  "gyg_search_query": "Warwick Castle tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

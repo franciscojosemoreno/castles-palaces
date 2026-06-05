@@ -1,0 +1,82 @@
+{
+  "id": "silves-castle",
+  "name": "Silves Castle",
+  "local_name": "Castelo de Silves",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 150000,
+  "country": "portugal",
+  "region": "Algarve",
+  "nearest_city": "Faro",
+  "address": "Rua do Castelo, 8300-144 Silves, Portugal",
+  "lat": 37.1896,
+  "lng": -8.4390,
+  "unesco": false,
+  "year_built": 755,
+  "architectural_style": "Moorish / Medieval Portuguese",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Extended to 20:00 from June to September."
+  },
+  "price_adult": 3,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.cm-silves.pt",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "October to April",
+  "accessibility": "Partially accessible — ramparts involve steps; inner courtyard relatively flat",
+  "booking_advance_days": 0,
+  "tagline": "The Moorish capital of the Algarve, built in red sandstone above the orange groves",
+  "highlights": [
+    "Best-preserved Moorish castle in Portugal",
+    "Built from distinctive local red sandstone (red sandstone walls are iconic)",
+    "Former capital of the Algarve during the Moorish period",
+    "Sweeping views over the Algarve hills, Arade River, and distant sea",
+    "Archaeological museum inside the walls with Moorish and Roman artefacts"
+  ],
+  "description": "Silves Castle rises above the whitewashed rooftops of the town on a hill above the Arade River, its distinctive red sandstone walls glowing in the Algarve light. Built by the Moors in the 8th century on the site of a Roman fortification, Silves (then called Xelb or Chelb) was one of the most important cities in Al-Andalus — the prosperous, cosmopolitan capital of the Algarve taifa kingdom, famed for its poets, scholars, and fine architecture. The castle was captured by crusading forces in 1189 and definitively by the Portuguese in 1242. Today it is the best-preserved Moorish castle in Portugal, its towers and curtain walls intact, enclosing an archaeological zone and cistern that reveal the layers of Roman, Moorish, and medieval occupation.",
+  "history": "The site was fortified in Roman and Visigothic times before the Moors built the current castle from the 8th century. Under Moorish rule Silves was the most important city in the Algarve and a centre of Iberian-Arab culture. It was taken briefly by a force of crusading knights in 1189 with the help of King Sancho I of Portugal, then retaken by the Almohads, before being permanently conquered by Afonso III in 1242. After the Reconquista the town declined in importance, and the 1755 Lisbon earthquake caused significant damage. The castle was restored in the 20th century.",
+  "how_to_visit": "Silves is 18 km north of Portimão and 70 km west of Faro. Trains run from Faro and Lagos to Silves station (2 km from the castle, served by a local taxi or a pleasant walk through orange groves). By car the castle is well signposted in the town centre with nearby parking. Combine with the Gothic cathedral of Silves immediately below the castle walls.",
+  "faqs": [
+    {
+      "question": "What makes Silves Castle red?",
+      "answer": "The castle is built from local Graywacke red sandstone, giving the walls their distinctive terracotta colour, especially striking at sunset."
+    },
+    {
+      "question": "Can I walk the ramparts?",
+      "answer": "Yes — visitors can walk along the full circuit of the castle walls, with views over the town and surrounding Algarve countryside."
+    },
+    {
+      "question": "Is there anything to see inside the castle?",
+      "answer": "Yes — there is an archaeological zone, a large Moorish cistern, and artefacts from Roman, Moorish, and medieval periods displayed throughout."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/silves-castle.webp",
+    "alt": "Silves Castle red sandstone walls above the Arade River in the Algarve",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/silves-castle.webp",
+  "instagram_tag": "#silvestcastle",
+  "meta_title": "Silves Castle, Algarve — Portugal's Finest Moorish Fortress",
+  "meta_description": "Visit Silves Castle in the Algarve — Portugal's best-preserved Moorish castle with red sandstone walls, river views, and 1,000 years of history.",
+  "tags": ["moorish", "portuguese-castle", "algarve", "reconquista", "medieval"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["obidos-castle"],
+  "gyg_location_id": "2669",
+  "gyg_search_query": "Silves castle Algarve tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

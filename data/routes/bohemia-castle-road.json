@@ -1,0 +1,40 @@
+{
+  "id": "bohemia-castle-road",
+  "name": "Bohemia Castle Road",
+  "tagline": "Prague to Český Krumlov — Europe's densest castle landscape in the heart of Central Europe",
+  "description": "Bohemia and Moravia contain one of Europe's most remarkable concentrations of castle heritage per square kilometre. The Bohemia Castle Road connects Prague — the world's largest ancient castle complex — southward through the dense Gothic and Baroque landscapes of Central Bohemia and South Bohemia to Český Krumlov, whose medieval town and castle loop form one of Europe's best-preserved historic landscapes.\n\nThe route passes through a landscape that shaped European history: the Gothic hill castles of Charles IV's empire-building; the Hussite defensive towers of the 15th century; the Baroque palaces of the Schwarzenberg and Rosenberg dynasties. Karlštejn, built to guard the Holy Roman Crown Jewels, sits 30km from Prague on a limestone ridge above the Berounka river. Český Krumlov, at the route's southern end, is the region's crowning glory: a town so perfectly preserved that its medieval geometry reads as clearly today as it did in 1400.\n\nPrague is the natural base for the northern section (Karlštejn is a 45-minute train ride). České Budějovice or Český Krumlov town itself work as bases for the southern castles. The entire route is driveable in 3 days; 5–7 days allows exploration of the numerous secondary castles, spa towns and Bohemian villages between the main sites.",
+  "hero_image": {
+    "url": "/images/routes/bohemia-castle-road.webp",
+    "alt": "Prague Castle and St. Vitus Cathedral rising above the Vltava river at dusk — the starting point of the Bohemia Castle Road",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "czech-republic"
+  ],
+  "castles": [
+    "prague-castle",
+    "karlstejn-castle",
+    "cesky-krumlov-castle"
+  ],
+  "distance_km": 200,
+  "duration_days": "3–5 days",
+  "difficulty": "easy",
+  "map_center": {
+    "lat": 49.5,
+    "lng": 14.1
+  },
+  "tags": [
+    "gothic",
+    "medieval",
+    "baroque",
+    "romantic",
+    "unesco-world-heritage"
+  ],
+  "gyg_search_query": "Bohemia castle tour Prague day trip",
+  "thumbnail_image": {
+    "url": "/images/routes/bohemia-castle-road-thumb.webp",
+    "alt": "Prague Castle and St. Vitus Cathedral rising above the Vltava river at dusk — the starting point of the Bohemia Castle Road"
+  }
+}

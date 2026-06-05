@@ -1,0 +1,97 @@
+{
+  "id": "lisbon-sintra-pena-palace-regaleira",
+  "slug": "lisbon-sintra-pena-palace-regaleira",
+  "name": "Sintra, Pena Palace & Quinta da Regaleira Day Trip from Lisbon",
+  "tagline": "Portugal's most magical palaces — a fairy-tale hilltop village just 40 minutes from Lisbon",
+  "departure_country": "portugal",
+  "departure_city": "Lisbon",
+  "visited_countries": [
+    "portugal"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 8–9 hours",
+  "gyg_tour_id": "382469",
+  "price_from": 39,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 9400,
+  "languages": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "French"
+  ],
+  "max_group_size": 20,
+  "overview": "Sintra is one of Europe's most extraordinary day trips — a UNESCO World Heritage hilltop village where Portuguese royalty built their most fantastical summer retreats. Pena Palace crowns the highest peak in a blaze of yellow and red, while the mysterious Quinta da Regaleira hides underground tunnels, an initiatic well, and secret grottos in its romantic gardens. Both are among Portugal's most visited monuments.",
+  "highlights": [
+    "Guided tour of Pena Palace, Portugal's most iconic royal residence",
+    "Explore Quinta da Regaleira's mysterious gardens and initiatic well",
+    "Walk the historic centre of Sintra, a UNESCO World Heritage Site",
+    "Small group for a personal, unhurried experience",
+    "Round-trip transport from Lisbon included"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "pena-palace",
+      "castle_name": "Pena Palace",
+      "duration": "1.5 hours",
+      "description": "Explore the extraordinary Romantic palace built for King Ferdinand II in the 1840s. Its vivid yellow and red turrets, drawbridge, and eclectic mix of Gothic, Moorish, and Manueline styles make it unlike any other palace in Europe. Panoramic views over Sintra and the Atlantic."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Quinta da Regaleira",
+      "duration": "1.5 hours",
+      "description": "Discover one of Sintra's most enigmatic estates — a neo-Manueline palace surrounded by gardens full of secret tunnels, underground grottos, and the famous Initiatic Well, a spiral staircase descending 27 metres into the earth with Masonic and Templar symbolism."
+    },
+    {
+      "order": 3,
+      "castle_id": "",
+      "castle_name": "Sintra Historic Centre",
+      "duration": "45 minutes",
+      "description": "Free time to explore the UNESCO-listed village centre. Browse the shops along Rua das Padarias, see the National Palace's distinctive twin chimneys, and sample the famous travesseiros pastry."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Lisbon",
+    "Expert guide",
+    "Pena Palace entry ticket",
+    "Quinta da Regaleira entry ticket"
+  ],
+  "excluded": [
+    "Lunch",
+    "Personal expenses",
+    "Gratuities"
+  ],
+  "meeting_point": "Lisbon city centre — confirmed at booking",
+  "tips": [
+    "Sintra is extremely busy in summer — this tour's small group size (max 20) makes a real difference",
+    "Wear comfortable shoes: both Pena and Regaleira involve significant uphill walking",
+    "The initiatic well at Regaleira can be cold and dark — bring a light layer",
+    "Book at least a week ahead between May and September"
+  ],
+  "faqs": [
+    {
+      "question": "Is Sintra far from Lisbon?",
+      "answer": "Sintra is only 40km from central Lisbon — about 40 minutes by road. It's easily the most accessible great palace day trip from any European capital."
+    },
+    {
+      "question": "Is Pena Palace the only castle in Sintra?",
+      "answer": "No — Sintra has at least five palaces and fortresses. Pena Palace and Quinta da Regaleira are the highlights on this tour; the Moorish Castle and National Palace are also worth visiting on a second trip."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/lisbon-sintra-pena-palace-regaleira.webp",
+    "alt": "Pena Palace rising above the forest of Sintra in vivid yellow and red",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Sintra & Pena Palace Day Trip from Lisbon | Castles & Palaces",
+    "description": "Book the best Sintra day trip from Lisbon. Pena Palace + Quinta da Regaleira with expert guide. From €39 per person. Small group, 9,400+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/lisbon-l42/from-lisbon-sintra-pena-palace-quinta-da-regaleira-t382469/"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "transylvania-castles",
+  "name": "Transylvania Castles",
+  "tagline": "Gothic fortresses, Dracula legends and Carpathian mountain scenery in Romania",
+  "description": "Transylvania is one of Europe's last great castle frontiers: a region of medieval fortress towns, mountain passes and forested Carpathian valleys where Gothic castles rise from rocky outcrops with a drama and authenticity that Western Europe's more visited equivalents can rarely match — and without the queues.\n\nThe Transylvania Castle Route connects three very different castles across the Carpathian arc. Bran, on the Bran Pass above a mountain village, is the most famous — the 'Dracula's Castle' of tourism mythology, though the real history (centred on Queen Marie of Romania) is equally fascinating. Peleș, in the spa town of Sinaia, is Romania's greatest 19th-century palace: 160 rooms of Neo-Renaissance splendour set in Carpathian mountain forest. Corvin, in the industrial city of Hunedoara, is the most purely Gothic — a 15th-century fortress of towers, a drawbridge and a bear pit that creates one of the most extraordinary visual contrasts in European travel.\n\nBrașov is the ideal base: a beautifully preserved medieval city at the foot of the Carpathians, within 30–60 minutes of all three castles. From Bucharest, the Transylvania route makes an excellent 2–3 day extension. Train and bus connections from Bucharest to Brașov (2.5 hours) and Sinaia (1 hour) are frequent and comfortable.",
+  "hero_image": {
+    "url": "/images/routes/transylvania-castles.webp",
+    "alt": "Bran Castle perched on its Transylvanian rock above the mountain pass — the anchor of the Transylvania Castle Route",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "romania"
+  ],
+  "castles": [
+    "peles-castle",
+    "bran-castle",
+    "corvin-castle"
+  ],
+  "distance_km": 180,
+  "duration_days": "2–4 days",
+  "difficulty": "easy",
+  "map_center": {
+    "lat": 45.6,
+    "lng": 25.0
+  },
+  "tags": [
+    "gothic",
+    "medieval",
+    "mountain-castle",
+    "haunted",
+    "dramatic",
+    "off-the-beaten-path"
+  ],
+  "gyg_search_query": "Transylvania castle tour Dracula",
+  "thumbnail_image": {
+    "url": "/images/routes/transylvania-castles-thumb.webp",
+    "alt": "Bran Castle perched on its Transylvanian rock above the mountain pass — the anchor of the Transylvania Castle Route"
+  }
+}

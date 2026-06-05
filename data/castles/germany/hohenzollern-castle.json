@@ -1,0 +1,88 @@
+{
+  "id": "hohenzollern-castle",
+  "name": "Hohenzollern Castle",
+  "local_name": "Burg Hohenzollern",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 350000,
+  "country": "germany",
+  "region": "Swabia",
+  "nearest_city": "Tübingen",
+  "address": "72379 Burg Hohenzollern, Germany",
+  "lat": 48.3224,
+  "lng": 9.047,
+  "unesco": false,
+  "year_built": 1846,
+  "architectural_style": "Neo-Gothic",
+  "opening_hours": {
+    "monday": "10:00–17:30",
+    "tuesday": "10:00–17:30",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Mar–Oct: 10:00–17:30 (Sat–Sun from 09:00). Nov–Feb: 10:00–16:30. Last entry 30 min before closing. Night events in summer — check programme."
+  },
+  "price_adult": 14,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://www.burg-hohenzollern.com/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to October; spectacular in autumn when low cloud often wraps the mountain summit",
+  "accessibility": "Steep terrain. Shuttle bus from the car park to the castle gate. The castle interior has stairs. Some areas accessible; contact the castle in advance.",
+  "booking_advance_days": 0,
+  "tagline": "The ancestral seat of the Kaisers — a Neo-Gothic peak rising from the Swabian Alps",
+  "highlights": [
+    "Ancestral seat of the Hohenzollern dynasty — the family that produced the German Kaisers",
+    "Perched on a 855-metre summit with panoramic views of the Swabian Alps on clear days",
+    "The Prussian Crown Jewels — including the Imperial Crown — displayed in the Treasury",
+    "The Chapel of St. Michael contains original medieval stained glass from the 15th century",
+    "The castle is privately owned by Prince Georg Friedrich of Prussia, descended from the last Kaiser"
+  ],
+  "description": "Hohenzollern Castle sits on an isolated 855-metre peak in the Swabian Alps, visible for 30 kilometres across the Swabian plateau — a deliberate statement of dynastic ambition in stone, mortar and Neo-Gothic drama. It is the ancestral home of the Hohenzollern family, who rose from minor Swabian lords in the 11th century to become the Electors of Brandenburg, Kings of Prussia, and eventually the German Kaisers who presided over the most consequential decades of European history.\n\nThe castle visible today is the third on the site. The first was destroyed in the 15th century, the second fell into ruin. The current castle was built between 1846 and 1867 under Crown Prince Friedrich Wilhelm (later Kaiser Friedrich III), who commissioned architect Friedrich August Stüler — also responsible for major Berlin museums — to design a suitably imperial ancestor-shrine in the Neo-Gothic style fashionable at the time. The result is more romantic imagination than historical restoration, but it is architecturally extraordinary: all towers, battlements and pointed arches rising from the cloud line.\n\nThe interior holds genuine historical treasures alongside 19th-century theatrical furnishings. The Treasury contains the Prussian Crown Jewels, including the Prussian Royal Crown of 1701, the Iron Crown of the Order of the Black Eagle, and a collar reportedly worn by Frederick the Great. In the Chapel of St. Michael, medieval stained glass windows salvaged from the demolished Hohenzollern ancestral church in Nuremberg provide authentic colour against the Neo-Gothic stonework.\n\nThe castle is privately owned by Prince Georg Friedrich of Prussia, the great-great-grandson of Kaiser Wilhelm II — a fact that gives it an unusual dual character as both a major tourist attraction and a family estate.",
+  "history": "The Hohenzollern family's origins lie in the 11th century, when the Burggrave of Nuremberg — a minor official title in the Holy Roman Empire — began accumulating land and influence in the regions around their ancestral mountain in Swabia. Their rise over the following centuries was determined less by military conquest than by careful marriage alliances and bureaucratic competence.\n\nThe decisive step came in 1415, when Friedrich VI of Hohenzollern was appointed Elector of Brandenburg by Emperor Sigismund, giving the family a vote in Imperial elections and establishing the Hohenzollern presence in north Germany that would define the next five centuries. The Electors of Brandenburg became Kings of Prussia in 1701 under Friedrich I, and the Prussian crown became the nucleus around which the German Empire was assembled in 1871 — with the Hohenzollern King Wilhelm I proclaimed German Kaiser in the Hall of Mirrors at Versailles.\n\nThe second Hohenzollern castle on the ancestral peak fell into ruin in the 18th century. When Crown Prince Friedrich Wilhelm visited the ruins in 1819, he resolved to rebuild them as a monument to dynastic history. Work began in 1846 and continued under the supervision of Stüler until 1867, creating the Neo-Gothic castle that stands today. Kaiser Wilhelm I and Kaiser Friedrich III (who died after only 99 days of reign in 1888) are both buried in a mausoleum in the castle's park.\n\nThe last Kaiser, Wilhelm II, abdicated in November 1918 following Germany's defeat in the First World War and fled to the Netherlands, ending the Hohenzollern Empire. The castle was returned to the family after the Second World War and is maintained by the Hohenzollern hereditary foundation today.",
+  "how_to_visit": "**Getting there:** The nearest train station is Hechingen (6km), served by regional trains from Tübingen (20 min) and Stuttgart (50 min via connection). From Hechingen station, a taxi to the castle takes 15 minutes (€15). By car from Stuttgart, take the A81 motorway and exit at Hechingen — the castle is clearly signposted and takes about 50 minutes. Parking at the base costs €4; a shuttle bus runs from the car park to the castle gate.\n\n**Best views:** The best panoramic views of the castle itself are from the Zollerblick viewpoint about 3km north — this gives the full mountain-peak silhouette. Views from the castle terrace on clear days extend south to the Alps. The castle in low cloud or mist — which happens frequently in autumn and winter — is spectacular, with the towers emerging from the cloud ceiling.\n\n**Night events:** The castle stages occasional illuminated evening events in summer — check the website. The summit location means the castle glows against the night sky from the valley below.",
+  "faqs": [
+    {
+      "question": "Who owns Hohenzollern Castle today?",
+      "answer": "The castle is privately owned by Georg Friedrich Prince of Prussia, who is the great-great-grandson of Kaiser Wilhelm II — the last German Emperor who abdicated in 1918. The Hohenzollern hereditary foundation manages the castle as both a family estate and public museum. The family occasionally uses the castle for private functions, but it remains open to visitors throughout the year."
+    },
+    {
+      "question": "What are the Prussian Crown Jewels at Hohenzollern?",
+      "answer": "The castle's treasury displays the Hohenzollern family's most significant hereditary objects, including the Prussian Crown of 1701 (used at the coronation of Friedrich I as the first King of Prussia), items belonging to Frederick the Great (including a collar from the Order of the Black Eagle and a snuff box), and military memorabilia from the Kaisers. These are privately owned family heirlooms, not state property — a distinction that makes their display here legally and historically interesting."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hohenzollern-castle.webp",
+    "alt": "Hohenzollern Castle rising from cloud on its 855-metre summit in the Swabian Alps, southern Germany",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hohenzollern-castle.webp",
+  "instagram_tag": "#hohenzollern",
+  "meta_title": "Hohenzollern Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Hohenzollern Castle in the Swabian Alps — ancestral seat of the German Kaisers. See the Prussian Crown Jewels and panoramic Alpine views. Visitor guide.",
+  "tags": [
+    "neogothic",
+    "19th-century",
+    "mountain-castle",
+    "dramatic",
+    "instagram-worthy",
+    "romantic"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": [
+    "neuschwanstein-castle",
+    "heidelberg-castle"
+  ],
+  "gyg_location_id": "528",
+  "gyg_search_query": "Hohenzollern Castle tour Stuttgart",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

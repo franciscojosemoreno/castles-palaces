@@ -1,0 +1,95 @@
+{
+  "id": "stockholm-vaxholm-fortress-archipelago",
+  "slug": "stockholm-vaxholm-fortress-archipelago",
+  "name": "From Stockholm: Vaxholm Fortress & the Archipelago",
+  "tagline": "The fortress that guarded Stockholm from seaborne invasion for 400 years — and the archipelago of 30,000 islands that made it possible",
+  "departure_country": "sweden",
+  "departure_city": "Stockholm",
+  "visited_countries": [
+    "sweden"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "635141",
+  "gyg_url": "https://www.getyourguide.com/vaxholm-l151780/vaxholm-stockholm-archipelago-guided-excursion-day-trip-t635141/",
+  "price_from": 55,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 420,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 20,
+  "overview": "Stockholm is a city built on islands, and its medieval and early modern defence depended entirely on controlling the narrow channels through which ships approached from the Baltic. Vaxholm Fortress, a 16th-century island citadel at the main sea approach to Stockholm, was the keystone of that system — the castle that twice stopped Russian naval invasions and whose guns made Stockholm the only major Baltic capital never taken by sea. The excursion combines a guided boat journey through the Stockholm Archipelago (30,000 islands, skerries and rocks stretching 80km into the Baltic) with a guided tour of the fortress — one of the best-preserved 16th-century Scandinavian military sites, now a national fortress museum.",
+  "highlights": [
+    "Vaxholm Fortress — the 16th-century island citadel that guarded Stockholm's sea approach for 400 years, repelling Russian invasions in 1719",
+    "Boat journey through the Stockholm Archipelago — 30,000 islands of red granite, pine forest and Swedish summer cottage culture",
+    "Vaxholm town — a perfectly preserved 19th-century Swedish coastal town, the informal capital of the archipelago",
+    "The fortress museum — covering 400 years of Swedish military history from Gustav Vasa's Baltic empire to the Cold War",
+    "The strategic logic of Stockholm's island defence — how geography made Stockholm almost impregnable from the sea",
+    "Expert guide covering Swedish naval history and the Great Northern War"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Stockholm Departure by Boat",
+      "duration": "Travel by sea (1.5 hours)",
+      "description": "Depart Stockholm by boat into the archipelago, passing under the bridges of Djurgården and out through the inner islands. The guide introduces the formation of the Stockholm Archipelago: created 10,000 years ago as the last Ice Age glacier retreated, carving 30,000 islands, skerries and rocks from the Baltic bedrock. This labyrinth of narrow channels, hidden anchorages, and defensible straits made Stockholm uniquely difficult to attack by sea — and explains why Gustav Vasa chose this site to build his capital and its fortress in the 1540s."
+    },
+    {
+      "order": 2,
+      "castle_name": "Vaxholm Fortress",
+      "duration": "2.5 hours",
+      "description": "Vaxholm Fortress occupies a small island in the main channel of the archipelago, 25km from Stockholm. The first fortress here was ordered by King Gustav Vasa in 1544 to control the sea approach to his new capital. The present structure dates primarily from the 17th century (rebuilt 1647–1661) and the 19th century (reinforced 1833–1863), reflecting successive upgrades as cannon technology improved. The fortress was the critical point in Sweden's Baltic defence: Danish forces failed to take it in 1612; Russian forces under Peter the Great's admirals were repelled in 1719 when they attempted to reach Stockholm. During the Cold War it was reinforced for submarine defence. The fortress museum covers the full span of Swedish military history, from the Vasa-era Baltic empire through the Great Northern War to the 20th century."
+    },
+    {
+      "order": 3,
+      "castle_name": "Vaxholm Town",
+      "duration": "1.5 hours",
+      "description": "Vaxholm town, immediately across the channel from the fortress, is the informal capital of the Stockholm Archipelago — a perfectly preserved 19th-century Swedish coastal settlement of wooden houses painted in ochre, red, and white, with a church, a harbourfront, and fish restaurants that have been feeding sailors and fortress garrison troops since the 18th century. The guide covers the archipelago's role in Swedish culture (the sommerstuga — summer cottage — tradition that draws half of Stockholm's population to the islands each summer) and the contrast between the archipelago's military function and its role as Sweden's recreational heartland."
+    }
+  ],
+  "included": [
+    "Return boat transport from Stockholm through the archipelago",
+    "Professional English-speaking guide",
+    "Vaxholm Fortress entry and museum",
+    "Small group (max 20)"
+  ],
+  "excluded": [
+    "Lunch in Vaxholm (free time — the waterfront fish restaurants are recommended)",
+    "Optional kayak hire in the archipelago (seasonal)"
+  ],
+  "meeting_point": "Stockholm waterfront — exact location confirmed at booking",
+  "tips": [
+    "Dress for the sea — even in summer the boat journey through the archipelago is cooler than Stockholm city, and the wind picks up in the outer channels",
+    "The Vaxholm Fortress museum is underrated — the Cold War section in the lower batteries, where the fortress was adapted for anti-submarine warfare, is particularly striking",
+    "Vaxholm's fish market on the waterfront sells freshly smoked Baltic herring (strömming) — the definitive Swedish archipelago food",
+    "The best photography of Vaxholm Fortress is from the ferry approaching from Stockholm — the low granite island with the yellow fortress walls reflected in the channel is one of Sweden's most photogenic military sites"
+  ],
+  "faqs": [
+    {
+      "question": "Why did the Russian fleet fail to take Stockholm in 1719?",
+      "answer": "In the summer of 1719, the Russian fleet under Admiral Apraksin raided the Swedish coast as far as the Stockholm Archipelago in the final stages of the Great Northern War. They burned coastal towns but could not force the main channel past Vaxholm Fortress — the narrow water passage made it impossible to use numerical superiority, and the fortress guns covered every approach. Stockholm was never reached. The failure, combined with Swedish diplomatic manoeuvres, led to the Treaty of Nystad in 1721 and the end of the Great Northern War."
+    },
+    {
+      "question": "How many islands are in the Stockholm Archipelago?",
+      "answer": "Approximately 30,000 — though the exact number depends on definitions. About 1,000 are permanently inhabited; several thousand more have summer cottages. The archipelago stretches 80km from central Stockholm to the open Baltic and contains some of the most dramatic rock-and-pine coastal scenery in northern Europe."
+    },
+    {
+      "question": "Can you visit the interior of Vaxholm Fortress?",
+      "answer": "Yes. The fortress is fully open as a museum, including the historic halls, cannon batteries, prison cells, powder magazines, and the underground Cold War-era installations. The guided tour covers all accessible areas. The fortress is reached by a short ferry crossing from Vaxholm town."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/stockholm-vaxholm-fortress-archipelago.webp",
+    "alt": "Vaxholm Fortress on its island in the Stockholm Archipelago, Sweden",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "From Stockholm: Vaxholm Fortress & Archipelago Day Trip",
+    "description": "Day trip from Stockholm by boat through the archipelago to Vaxholm Fortress — the 16th-century island citadel that guarded Stockholm for 400 years. Museum included."
+  }
+}

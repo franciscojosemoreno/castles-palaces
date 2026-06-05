@@ -1,0 +1,84 @@
+{
+  "id": "muiderslot",
+  "name": "Muiderslot",
+  "local_name": "Muiderslot",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "netherlands",
+  "region": "North Holland",
+  "nearest_city": "Amsterdam",
+  "address": "Herengracht 1, 1398 AA Muiden, Netherlands",
+  "lat": 52.3333,
+  "lng": 5.0667,
+  "unesco": false,
+  "year_built": 1285,
+  "architectural_style": "Dutch medieval — square plan with four round towers and a central courtyard, surrounded by water",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "12:00–17:00",
+    "seasonal_note": "Apr–Oct: Tue–Fri 10:00–17:00, weekends 10:00–17:00. Nov–Mar: Tue–Sun 12:00–17:00. Closed Mondays."
+  },
+  "price_adult": 15,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://muiderslot.nl/en/",
+  "visit_duration": "1–2 hours",
+  "best_season": "May to September — accessible by boat from Amsterdam, surrounding moat and countryside at their best",
+  "accessibility": "Ground floor and courtyard are accessible. The towers require a spiral staircase.",
+  "booking_advance_days": 0,
+  "tagline": "The best-preserved medieval castle in the Netherlands — a perfect square fortress reflected in its moat",
+  "highlights": [
+    "The location — a perfect square castle with four round towers, completely surrounded by a water-filled moat",
+    "The interior — one of the most complete medieval castle interiors in the Netherlands, with furnished rooms and a great hall",
+    "Count Floris V — the popular 13th-century count who built the castle and was murdered here in 1296",
+    "The living history programme — costumed guides and demonstrations of medieval crafts and combat on weekends",
+    "The boat trip from Amsterdam — the most scenic approach to the castle is by boat along the Vecht river"
+  ],
+  "description": "Muiderslot is the best-preserved medieval castle in the Netherlands and one of the most perfectly proportioned: a square plan with four round towers at the corners, a central courtyard, and a moat that reflects the entire structure in the still water of the Muiden harbour. It was built in 1285 by Count Floris V of Holland on the site of an earlier fortification at the mouth of the River Vecht, where it meets the Zuiderzee.\n\nCount Floris V was one of the most popular rulers in Dutch medieval history — a count who extended the rights of the common people against the nobility. He was captured, imprisoned and murdered at his own castle in 1296 by a group of nobles opposed to his policies, and his castle was demolished on the orders of the Bishop of Utrecht. The current castle was built in 1370 on the foundations of Floris's demolished fortress, largely in the same square plan.\n\nThe castle gained a romantic literary association in the 17th century, when the poet P.C. Hooft was appointed bailiff and held regular literary and artistic gatherings in the castle that became known as the 'Muiderkring' — a circle that included the most important Dutch writers and artists of the Golden Age. Today the castle offers some of the most complete medieval interior experiences in the Netherlands, with furnished rooms, a great hall and a programme of living history demonstrations.",
+  "history": "The first Muiderslot was built by Count Floris V of Holland around 1285. Floris was a reforming count who extended rights to peasants and townspeople, making him popular but earning the enmity of the nobility. In 1296 he was captured by a group of noblemen at the castle, held prisoner, and murdered when a rescue attempt by his supporters drew near. King Edward I of England was among the foreign rulers who had been allied with Floris. After Floris's death, the Bishop of Utrecht ordered the castle demolished.\n\nIn 1370 a new castle was built on the same foundations, largely preserving the square plan of the original. It served as a fortified toll castle controlling river traffic on the Vecht and the entrance to Amsterdam's harbour. In the 17th century, the Romantic poet P.C. Hooft served as bailiff and made the castle the meeting place of the Muiderkring literary circle. The castle fell into disrepair in the 18th century and was restored in the 1880s under the direction of the architect Pierre Cuypers (who also restored Notre-Dame de Paris and built Amsterdam's Central Station).",
+  "how_to_visit": "**Getting there:** From Amsterdam, bus 327 runs from Amsterdam Amstel station to Muiden (30 minutes). The castle is a short walk from the bus stop. Alternatively, from April to October, boat trips run from Amsterdam Centraal to Muiderslot along the Vecht — the most scenic option.\n\n**Combine with:** The Naarden fortified town (10 minutes by car — a star-shaped fortress with a museum), the Utrecht old town (30 minutes by car), and the Gooi lakes region for walking and cycling.",
+  "faqs": [
+    {
+      "question": "Who was Count Floris V and why was he murdered at Muiderslot?",
+      "answer": "Count Floris V (1254–1296) was Count of Holland, known as 'der keerlen god' (the peasants' god) for his extension of rights and protections to common people against the nobility. His policies antagonised the nobility, and a group led by Gerard van Velsen captured him at his own castle of Muiderslot in 1296. He was held prisoner but murdered when a rescue attempt drew near — his captors killed him to prevent his release. His castle was subsequently demolished on the orders of the Bishop of Utrecht as punishment for the violence."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/muiderslot.webp",
+    "alt": "Muiderslot castle reflected in its moat on a still morning, its four towers perfectly symmetrical",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/muiderslot.webp",
+  "instagram_tag": "#muiderslot",
+  "meta_title": "Muiderslot: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Muiderslot near Amsterdam — the Netherlands' best-preserved medieval castle surrounded by a moat. Book tickets and explore the furnished rooms and great hall.",
+  "tags": [
+    "medieval",
+    "moat",
+    "instagram-worthy",
+    "family-friendly"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "dutch-castle-route"
+  ],
+  "nearby_castles": [
+    "gravensteen",
+    "kronborg-castle"
+  ],
+  "gyg_location_id": "173",
+  "gyg_search_query": "Muiderslot castle Amsterdam day trip",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

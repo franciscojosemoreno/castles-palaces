@@ -1,0 +1,97 @@
+{
+  "id": "london-tower-of-london-beefeaters",
+  "slug": "london-tower-of-london-beefeaters",
+  "name": "Tower of London Guided Tour with Crown Jewels & Beefeaters",
+  "tagline": "One thousand years of royal history, the world's most famous jewels, and the guards who still protect them",
+  "departure_country": "england",
+  "departure_city": "London",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 2.5 hours",
+  "gyg_tour_id": "459935",
+  "price_from": 32,
+  "currency": "GBP",
+  "rating": 4.6,
+  "review_count": 6800,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German"
+  ],
+  "max_group_size": 20,
+  "overview": "The Tower of London has been a royal palace, a fortress, a prison, a mint, and a place of execution — all within one square mile on the north bank of the Thames. William the Conqueror began building it in 1066 and it has not stopped accumulating history since. A Yeoman Warder — one of the famous Beefeater guards who have protected the Tower since 1485 — leads you through the highlights, from the White Tower's medieval armoury to the Jewel House where the Crown Jewels are on permanent display.",
+  "highlights": [
+    "Meet and greet with a Yeoman Warder (Beefeater) in full Tudor uniform",
+    "See the Crown Jewels including the Imperial State Crown and Koh-i-Noor diamond",
+    "Explore the White Tower — William the Conqueror's original keep",
+    "Walk the battlements with views over the Thames and Tower Bridge",
+    "Hear stories of royal prisoners including Anne Boleyn and Lady Jane Grey"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "tower-of-london",
+      "castle_name": "Tower of London — Outer Ward",
+      "duration": "45 minutes",
+      "description": "Meet your Beefeater guide at the entrance and begin with the outer ward — the medieval walls, towers, and the famous scaffold site on Tower Green where Anne Boleyn, Catherine Howard, and Lady Jane Grey were executed. The Beefeater's personal stories of life inside the Tower are the highlight of many visitors' entire trip."
+    },
+    {
+      "order": 2,
+      "castle_id": "tower-of-london",
+      "castle_name": "Crown Jewels & Jewel House",
+      "duration": "45 minutes",
+      "description": "The Jewel House contains the working regalia of the British monarchy — 23,578 gemstones in total. Highlights include the Imperial State Crown (worn at every state opening of Parliament), the Sovereign's Orb, and the Koh-i-Noor diamond set into the late Queen Mother's crown."
+    },
+    {
+      "order": 3,
+      "castle_id": "tower-of-london",
+      "castle_name": "White Tower",
+      "duration": "45 minutes",
+      "description": "The oldest building in the Tower complex — William the Conqueror's original Norman keep, completed around 1100. Inside, the Royal Armouries collection includes Henry VIII's enormous ceremonial armour and a line of horse armours dating from the Tudor period."
+    }
+  ],
+  "included": [
+    "Tower of London skip-the-line entry",
+    "Yeoman Warder (Beefeater) guided tour",
+    "Crown Jewels access"
+  ],
+  "excluded": [
+    "Transport to the Tower",
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Tower of London main entrance, Tower Hill, London EC3N 4AB",
+  "tips": [
+    "Arrive 10 minutes before your slot — the Beefeater tour starts on time",
+    "The Crown Jewels queue can be 45–60 minutes without this tour's priority access",
+    "Allow extra time after the guided tour to explore the Medieval Palace and walk the battlements at your own pace",
+    "Tower Bridge is a 5-minute walk — combine both for a full Thames morning"
+  ],
+  "faqs": [
+    {
+      "question": "Who are the Beefeaters?",
+      "answer": "Yeoman Warders have guarded the Tower of London since 1485. There are currently 37 of them, all retired senior non-commissioned officers from the British Armed Forces with at least 22 years of service. They live inside the Tower with their families."
+    },
+    {
+      "question": "Are the Crown Jewels replicas?",
+      "answer": "No — these are the actual working regalia used at every British coronation and state occasion. The Crown Jewels have been on public display at the Tower since 1669."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/london-tower-of-london-beefeaters.webp",
+    "alt": "The Tower of London's medieval walls and White Tower reflected in the Thames",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Tower of London Guided Tour with Crown Jewels & Beefeaters | Castles & Palaces",
+    "description": "Book the Tower of London guided tour with Beefeater meet & greet and Crown Jewels access. From £32. Skip-the-line entry included."
+  },
+  "gyg_url": "https://www.getyourguide.com/london-l57/london-tower-of-london-tour-meet-up-with-the-beefeaters-t459935/"
+}

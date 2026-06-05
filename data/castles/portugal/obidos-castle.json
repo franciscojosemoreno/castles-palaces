@@ -1,0 +1,82 @@
+{
+  "id": "obidos-castle",
+  "name": "Óbidos Castle",
+  "local_name": "Castelo de Óbidos",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 600000,
+  "country": "portugal",
+  "region": "Centro, Oeste",
+  "nearest_city": "Caldas da Rainha",
+  "address": "Rua da Porta do Castelo, 2510 Óbidos, Portugal",
+  "lat": 39.3614,
+  "lng": -9.1566,
+  "unesco": false,
+  "year_built": 1195,
+  "architectural_style": "Medieval Portuguese / Manueline",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Extended to 19:00 in summer. The walled town is freely accessible at all times; the castle keep (now a pousada) has its own schedule."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.obidos.pt",
+  "visit_duration": "2–3 hours",
+  "best_season": "Year-round",
+  "accessibility": "Limited — steep cobblestone streets and narrow rampart walkways",
+  "booking_advance_days": 0,
+  "tagline": "A perfectly preserved medieval walled town given by kings to their queens",
+  "highlights": [
+    "Complete medieval walls walkable around the entire town",
+    "One of the best-preserved walled towns in Portugal",
+    "Castle keep converted into the Pousada de Óbidos luxury hotel",
+    "Traditional ginja (cherry liqueur) served in chocolate cups",
+    "Christmas Village and Chocolate Festival attract seasonal visitors"
+  ],
+  "description": "Óbidos is one of Portugal's most perfectly preserved medieval walled towns, its 13th-century walls encircling a cluster of whitewashed houses, cobblestone streets, and flower-draped balconies. The castle keep at the town's highest point dates from 1195 and has been converted into a luxury pousada hotel. The town's walls are fully walkable, offering views over the surrounding countryside and the lagoon beyond. Tradition holds that King Dinis I gave the town to his queen Isabel of Aragon as a wedding gift in 1282, beginning a custom of Portuguese kings presenting Óbidos to their brides that continued for several centuries. Today the town hosts popular seasonal events including the Christmas Village (one of Europe's finest), the Chocolate Festival, and a medieval market, drawing visitors year-round.",
+  "history": "The site was fortified by the Moors before being captured by Afonso Henriques, Portugal's first king, in 1148. The current castle was built after the Reconquista and expanded in the 13th and 14th centuries. Its association with Portuguese queens began in 1282 and continued until the 16th century. The 1755 earthquake caused some damage but the walls and town remained largely intact. The castle keep was converted into one of Portugal's first pousadas in 1951.",
+  "how_to_visit": "Óbidos is 80 km north of Lisbon on the A8 motorway. Buses run frequently from Lisbon's Campo Grande terminal (1h15). There is no train station. Day trips from Lisbon are very popular; an overnight stay in or near the walled town is recommended to experience the atmosphere after day-trippers depart.",
+  "faqs": [
+    {
+      "question": "Is there an entrance fee to enter the walled town?",
+      "answer": "No — walking through the main gate and exploring the town streets and shops is completely free."
+    },
+    {
+      "question": "What is ginja and where can I try it?",
+      "answer": "Ginja is a traditional Portuguese cherry liqueur. In Óbidos it is served in an edible dark chocolate cup from small shops along the main street."
+    },
+    {
+      "question": "Can I walk the full town walls?",
+      "answer": "Yes — the ramparts are open and walkable, though they are narrow with no guardrails in some sections, so caution is advised."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/obidos-castle.webp",
+    "alt": "Óbidos medieval walled town and castle in central Portugal",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/obidos-castle.webp",
+  "instagram_tag": "#obidosportugal",
+  "meta_title": "Óbidos Castle, Portugal — Medieval Walled Town & Royal Pousada",
+  "meta_description": "Visit Óbidos in Portugal — a perfectly preserved medieval walled town with walkable ramparts, a castle pousada, and the famous ginja liqueur.",
+  "tags": ["medieval", "portuguese-castle", "walled-town", "pousada", "centro"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["silves-castle", "convent-of-christ-tomar"],
+  "gyg_location_id": "2669",
+  "gyg_search_query": "Óbidos castle walled town tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

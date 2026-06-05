@@ -1,0 +1,99 @@
+{
+  "id": "brussels-bruges-ghent-gravensteen",
+  "slug": "brussels-bruges-ghent-gravensteen",
+  "name": "Bruges & Ghent Day Trip from Brussels — Gravensteen Castle & Two Medieval Cities",
+  "tagline": "Two of the most perfectly preserved medieval cities in Europe — canals, béguinages, and the Castle of the Counts",
+  "departure_country": "belgium",
+  "departure_city": "Brussels",
+  "visited_countries": [
+    "belgium"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 10 hours",
+  "gyg_tour_id": "14525",
+  "price_from": 69,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 8200,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "max_group_size": 53,
+  "overview": "Belgium's two greatest medieval cities — Bruges and Ghent — lie within 45 minutes of Brussels and represent two different visions of medieval prosperity. Bruges is the fairy-tale city: perfectly preserved canals and stepped gable houses from a time when it was the wealthiest city in northern Europe. Ghent is the counter-argument: larger, grittier, still a living city with a university — and home to Gravensteen, the imposing 12th-century castle of the Counts of Flanders that rises from the city centre like a stone fist.",
+  "highlights": [
+    "Visit Gravensteen — the 12th-century Castle of the Counts in Ghent",
+    "Walk the canal network of Bruges, the Venice of the North",
+    "See the Belfry of Bruges, UNESCO World Heritage Site",
+    "Explore Ghent's medieval centre: Graslei, St Bavo's Cathedral",
+    "Round-trip transport from Brussels"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "",
+      "castle_name": "Bruges",
+      "duration": "3 hours",
+      "description": "Walk the UNESCO-listed historic centre of Bruges — the best-preserved medieval city in northern Europe. Cross the Boniface Bridge, walk the Dijver canal, visit the Markt square with its 13th-century belfry, and see the Basilica of the Holy Blood where a relic of Christ's blood has been kept since the Crusades. Free time for Belgian waffles, chocolate, and bruges-style beer."
+    },
+    {
+      "order": 2,
+      "castle_id": "gravensteen",
+      "castle_name": "Gravensteen Castle, Ghent",
+      "duration": "1.5 hours",
+      "description": "The Castle of the Counts of Flanders — built by Philip of Alsace in 1180 on his return from the Crusades, modelled on the crusader castles he had seen in the Holy Land. The moated fortress with its circular keep and 24 towers rises dramatically from the city's canal network. Tour the keep, the great hall, the torture chamber and its authentic collection of medieval instruments, and climb the battlements for views over Ghent's medieval skyline."
+    },
+    {
+      "order": 3,
+      "castle_id": "",
+      "castle_name": "Ghent Old Town",
+      "duration": "1 hour",
+      "description": "Walk the Graslei and Korenlei — the twin medieval quaysides that form one of the most photographed streetscapes in Belgium. See St Bavo's Cathedral, home of the Ghent Altarpiece by van Eyck (the most stolen artwork in history), and the 91-metre Belfry of Ghent."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Brussels",
+    "Expert guide",
+    "Gravensteen Castle entry"
+  ],
+  "excluded": [
+    "Bruges Belfry entry (optional, approx €14)",
+    "Ghent Altarpiece entry (approx €12)",
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Brussels city centre — confirmed at booking",
+  "tips": [
+    "Bruges is busiest on summer weekends — the early morning hour before the day-trippers arrive is magical",
+    "The Ghent Altarpiece by van Eyck in St Bavo's Cathedral is one of the most important paintings in Western art — worth the separate entry fee",
+    "Try a Ghent waterzooi (local chicken stew) for lunch inside the old town",
+    "Both cities have extensive craft beer cultures — your guide can recommend bars for the evening if you're extending your stay"
+  ],
+  "faqs": [
+    {
+      "question": "Why is Gravensteen modelled on Crusader castles?",
+      "answer": "Philip of Alsace, Count of Flanders, returned from the Second Crusade in 1177 having seen the great Crusader fortresses of the Holy Land — particularly the Krak des Chevaliers in Syria. He rebuilt Gravensteen in 1180 using the same concentric design principles: a circular donjon within a high curtain wall with regular towers. It is one of the few examples of Crusader-influenced castle architecture in northern Europe."
+    },
+    {
+      "question": "Is it possible to visit just Bruges or just Ghent?",
+      "answer": "Yes — separate half-day tours to each city are available. This combined tour is the most efficient way to see both in a single day from Brussels."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/brussels-bruges-ghent-gravensteen.webp",
+    "alt": "Gravensteen Castle rising from the Ghent canal network, its circular keep and towers reflected in the water",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Bruges & Ghent Day Trip from Brussels — Gravensteen Castle | Castles & Palaces",
+    "description": "Visit Gravensteen Castle, medieval Bruges and Ghent on a day trip from Brussels. Castle entry included. From €69 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/brussels-l8/from-brussels-ghent-and-bruges-day-tour-t14525/"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "amsterdam-muiderslot-castle-tour",
+  "slug": "amsterdam-muiderslot-castle-tour",
+  "name": "Amsterdam to Muiderslot: Medieval Water Castle Day Trip",
+  "tagline": "One of Europe's best-preserved medieval castles, just 30 minutes from Amsterdam",
+  "departure_country": "netherlands",
+  "departure_city": "Amsterdam",
+  "visited_countries": [
+    "netherlands"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half day (5 hours)",
+  "gyg_tour_id": "44283",
+  "price_from": 39,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 680,
+  "languages": [
+    "English",
+    "Dutch"
+  ],
+  "max_group_size": 15,
+  "overview": "Rising from the waters of the Vecht river just 30 minutes east of Amsterdam, Muiderslot is the Netherlands' most beautiful and best-preserved medieval castle. Built in 1285 by Count Floris V of Holland, this circular moated fortress looks exactly as a storybook castle should — complete with round towers, battlements, a drawbridge and a perfectly intact great hall. This small-group half-day tour from Amsterdam brings you inside its walls for a guided exploration of the knight's hall, dungeon, and weapons room, followed by free time to walk the ramparts and explore the surrounding Dutch polders.",
+  "highlights": [
+    "Guided tour of Muiderslot — the Netherlands' best-preserved medieval castle",
+    "Knight's hall, dungeon, weapons room and castle kitchens",
+    "Walk the full circuit of battlements above the moat",
+    "Dutch polder landscape along the Vecht river",
+    "Small-group format with maximum 15 guests"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Amsterdam Departure",
+      "duration": "Travel east (30–40 min)",
+      "description": "Depart Amsterdam through the flat Dutch polders. The guide introduces Count Floris V, the castle's founder and one of medieval Holland's most colourful figures — he was eventually murdered here by his own knights in 1296."
+    },
+    {
+      "order": 2,
+      "castle_id": "muiderslot",
+      "castle_name": "Muiderslot Castle",
+      "duration": "2.5 hours",
+      "description": "Cross the drawbridge into Muiderslot's circular courtyard. The guided tour covers the knight's hall (where banquets were held), the original castle kitchen, the dungeon, the weapons and armour room, and the private chambers. Then climb to the battlements for panoramic views over the Vecht river and the surrounding green polders stretching to the horizon."
+    },
+    {
+      "order": 3,
+      "castle_name": "Muiden Village",
+      "duration": "45 min",
+      "description": "Stroll the small harbour village of Muiden, where the castle's reflection shimmers in the marina. Optional castle café visit before the return to Amsterdam."
+    }
+  ],
+  "included": [
+    "Return transport from Amsterdam",
+    "Professional English/Dutch-speaking guide",
+    "Muiderslot Castle entry ticket",
+    "Guided castle interior tour",
+    "Headsets for outdoor commentary"
+  ],
+  "excluded": [
+    "Food and drinks",
+    "Personal purchases"
+  ],
+  "meeting_point": "Amsterdam Centraal area — confirmed at booking",
+  "tips": [
+    "Muiderslot is especially photogenic in early morning or golden hour light",
+    "The castle has active falconry displays on weekend afternoons — ask your guide",
+    "Dress warmly in spring and autumn — the moat creates a wind chill",
+    "Combine with a Vecht river boat trip if you want a full day out"
+  ],
+  "faqs": [
+    {
+      "question": "Is Muiderslot suitable for children?",
+      "answer": "Very much so — the drawbridge, dungeon and knight demonstrations make it one of the most child-friendly castles in Europe."
+    },
+    {
+      "question": "Can I visit Muiderslot independently?",
+      "answer": "Yes, but the guided tour provides context that transforms the visit. The castle's interior stories are poorly explained by signage alone."
+    },
+    {
+      "question": "How long is the total trip?",
+      "answer": "Approximately 5 hours including travel time — ideal as a morning or afternoon excursion from Amsterdam."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/amsterdam-muiderslot-castle-tour.webp",
+    "alt": "Muiderslot medieval water castle reflected in the moat, Netherlands",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Amsterdam to Muiderslot Castle Tour | Medieval Day Trip Netherlands",
+    "description": "Small-group guided tour from Amsterdam to Muiderslot, the Netherlands' finest medieval castle. Cross the drawbridge, explore the dungeon and walk the battlements above the moat."
+  },
+  "gyg_url": "https://www.getyourguide.com/amsterdam-l36/muiderslot-castle-and-naarden-fortress-t44283/"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "edinburgh-st-andrews-dunnottar-castle-tour",
+  "slug": "edinburgh-st-andrews-dunnottar-castle-tour",
+  "name": "Edinburgh: St Andrews, Dunnottar Castle & Falkland Palace Tour",
+  "tagline": "Scotland's most dramatic cliff-top castle, the home of golf, and a royal Stuart palace in one day",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (12 hours)",
+  "gyg_tour_id": "259837",
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/saint-andrews-acantilados-y-castillo-dunnottar-t259837/",
+  "price_from": 49,
+  "currency": "GBP",
+  "rating": 4.8,
+  "review_count": 3100,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "This is arguably Scotland's finest castle day trip: three extraordinary historic sites spread across the Kingdom of Fife and Aberdeenshire. Dunnottar Castle stands on a 160-foot sea cliff above the North Sea — a natural fortress where Scotland's Crown Jewels were hidden from Cromwell's army and where Mel Gibson filmed Hamlet. St Andrews Castle is the dramatic ruin of the Archbishop's palace, perched above the town that gave golf to the world. And Falkland Palace was the favourite hunting retreat of Mary Queen of Scots, still owned by the Crown. One small coach, a maximum of 16 guests, and a guide who has lived these stories.",
+  "highlights": [
+    "Dunnottar Castle — 160-foot sea cliff fortress where Scotland's Crown Jewels were hidden",
+    "St Andrews Castle ruins above the North Sea and the story of the Scottish Reformation",
+    "Falkland Palace — Mary Queen of Scots' royal hunting retreat, still owned by the Crown",
+    "The Kingdom of Fife coastline and East Neuk fishing villages",
+    "Small group of maximum 16 guests with expert Scottish guide",
+    "Walk across the clifftop path to Dunnottar — one of Scotland's great dramatic approaches"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Edinburgh Departure",
+      "duration": "Travel north (1.5 hours)",
+      "description": "Depart Edinburgh north across the Forth Bridge and through the Kingdom of Fife. The guide introduces the turbulent history of 16th-century Scotland — the Reformation, Mary Queen of Scots, and the battle for religious supremacy that destroyed half the country's great buildings."
+    },
+    {
+      "order": 2,
+      "castle_name": "St Andrews Castle",
+      "duration": "1.5 hours",
+      "description": "Explore the dramatic ruins of St Andrews Castle, built for the Archbishop of St Andrews and scene of the murder of Cardinal Beaton in 1546 — the act that triggered the Scottish Reformation. Walk the mine and counter-mine tunnels cut into the rock as besieging and defending forces tried to undermine each other, then stand on the castle cliff above St Andrews Bay and the Old Course."
+    },
+    {
+      "order": 3,
+      "castle_name": "East Neuk & Fife Coastal Drive",
+      "duration": "45 min driving + lunch stop",
+      "description": "Drive the beautiful East Neuk coast through the fishing villages of Crail, Anstruther and Pittenweem. Lunch stop in Anstruther — home of Scotland's most celebrated fish and chip shop (own expense)."
+    },
+    {
+      "order": 4,
+      "castle_id": "",
+      "castle_name": "Dunnottar Castle",
+      "duration": "2 hours",
+      "description": "The approach to Dunnottar is one of Scotland's great experiences — a clifftop walk above the North Sea before the castle appears on its isolated stack 160 feet above the waves. Inside the 14th-century fortress: the drawing room where Charles II was crowned King of Scots, the Whig's Vault dungeon, and the spot where the Honours of Scotland were smuggled out past Cromwell's besieging army by a minister's wife concealing them in her sewing basket."
+    },
+    {
+      "order": 5,
+      "castle_name": "Falkland Palace",
+      "duration": "1 hour",
+      "description": "The favourite palace of the Stuart monarchs — built in French Renaissance style by James IV and V, and beloved by Mary Queen of Scots who played real tennis here on Britain's oldest surviving tennis court (still in use today). The guide connects Mary's story at Falkland to her later imprisonment and execution."
+    }
+  ],
+  "included": [
+    "Return transport from Edinburgh",
+    "Professional English-speaking guide",
+    "St Andrews Castle entry",
+    "Dunnottar Castle entry",
+    "Falkland Palace entry (National Trust for Scotland)",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Lunch (free time in Anstruther)",
+    "Personal purchases"
+  ],
+  "meeting_point": "Edinburgh city centre — exact pickup point confirmed at booking",
+  "tips": [
+    "Wear walking shoes — the clifftop approach to Dunnottar is uneven and exposed",
+    "The fish and chips in Anstruther are genuinely world-class — don't skip lunch",
+    "Dunnottar is spectacular in any weather but dramatic clouds or stormy seas elevate it to extraordinary",
+    "Book well ahead — maximum 16 guests means this tour sells out weeks in advance in summer"
+  ],
+  "faqs": [
+    {
+      "question": "Is the walk to Dunnottar Castle difficult?",
+      "answer": "It involves a steep descent and ascent (approximately 10 minutes each way) on a cliff path. It is not suitable for those with serious mobility issues."
+    },
+    {
+      "question": "Why is Dunnottar famous beyond its history?",
+      "answer": "It was used as the filming location for Hamlet (1990, with Mel Gibson) and has appeared in numerous films and TV series. It is widely considered the most dramatically situated castle in Scotland."
+    },
+    {
+      "question": "What is the Crown Jewels connection?",
+      "answer": "When Cromwell invaded Scotland in 1651, the Scottish Crown Jewels (Honours of Scotland) were hidden at Dunnottar. After the castle fell under siege, a minister's wife smuggled them out hidden in her clothing — and they survived to be rediscovered in Edinburgh Castle by Sir Walter Scott in 1818."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-st-andrews-dunnottar-castle-tour.webp",
+    "alt": "Dunnottar Castle perched on sea cliffs above the North Sea, Scotland",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Edinburgh: St Andrews, Dunnottar Castle & Falkland Day Trip | Scotland",
+    "description": "Small-group day trip from Edinburgh to Dunnottar Castle, St Andrews Castle and Falkland Palace — three of Scotland's greatest historic sites in one extraordinary day."
+  }
+}

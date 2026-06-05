@@ -1,0 +1,91 @@
+{
+  "id": "warsaw-malbork-castle-gdansk",
+  "slug": "warsaw-malbork-castle-gdansk",
+  "name": "From Warsaw: Malbork Castle & Gdańsk Day Trip",
+  "tagline": "The world's largest castle and the most beautiful medieval port in the Baltic",
+  "departure_country": "poland",
+  "departure_city": "Warsaw",
+  "visited_countries": [
+    "poland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (13 hours)",
+  "gyg_tour_id": "63840",
+  "gyg_url": "https://www.getyourguide.com/warsaw-l41/from-warsaw-gdansk-malbork-day-trip-t63840/",
+  "price_from": 75,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 420,
+  "languages": [
+    "English",
+    "Polish"
+  ],
+  "max_group_size": 45,
+  "overview": "Malbork Castle is the largest castle complex in the world by land area — a 143,591 square metre Teutonic Knights fortress on the Nogat River, built in the 13th century as the headquarters of one of the most powerful military orders of the medieval world. This UNESCO World Heritage Site consists of three interconnected castles (High Castle, Middle Castle, and Lower Castle) packed with Gothic halls, a Grand Master's Palace, a vast knights' refectory, and the amber collection of the Baltic's greatest trading power. The day trip from Warsaw combines Malbork with Gdańsk, the Hanseatic port whose amber-coloured facades, Neptune Fountain, and 14th-century Crane (Żuraw) make it the most photogenic historic city on the Baltic coast.",
+  "highlights": [
+    "Tour Malbork Castle — the largest castle in the world by area (UNESCO WHS), the 13th-century headquarters of the Teutonic Knights and the most complete Gothic fortress in Central Europe",
+    "Walk through the three-part castle complex: the fortified Lower Castle (Podzamcze), the knights' residential Middle Castle (Średnie Zamek), and the High Castle (Zamek Wysoki) with its Grand Master's apartments",
+    "See the Grand Refectory — the ceremonial hall of the Grand Master of the Teutonic Order, with one of the most extraordinary palm-vaulted ceilings in Gothic architecture",
+    "Explore Gdańsk's Royal Way and the Long Market (Długi Targ), lined with Dutch Mannerist facades rebuilt after wartime destruction with extraordinary fidelity to the original",
+    "Visit the medieval Gdańsk Crane (Żuraw) — the largest medieval port crane in Europe, built in 1444 and still standing on the Motława River waterfront"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Drive Warsaw to Malbork",
+      "duration": "3 hours",
+      "description": "Depart early from Warsaw and drive north through the Mazovian plains and the Vistula River delta toward the Baltic coast. Your guide introduces the Teutonic Knights — a German military order that arrived in Poland in 1226 to convert the pagan Prussian tribes, gradually built a territorial empire across the Baltic, and was finally defeated at the Battle of Grunwald in 1410 by a Polish-Lithuanian coalition, ending their power in the region."
+    },
+    {
+      "order": 2,
+      "castle_name": "Malbork Castle",
+      "duration": "3 hours",
+      "description": "Enter Malbork Castle, built from 1274 by the Teutonic Knights as their priory and expanded into the Grand Master's headquarters after their expulsion from the Holy Land in 1291. The three-castle complex covers an area larger than any other castle in the world and includes the High Castle (the original fortress with the Grand Master's private chapel and the Church of St Anne), the Middle Castle (knights' dormitories, the Grand Refectory, Grand Master's Palace, and hospital), and the Lower Castle (stables, armaments workshops, granaries). The guided tour takes you through all three sections with English commentary on the architecture, the Battle of Grunwald (1410), and the castle's role in the Second World War."
+    },
+    {
+      "order": 3,
+      "castle_name": "Gdańsk — Hanseatic Old Town",
+      "duration": "2.5 hours",
+      "description": "Drive north to Gdańsk (Danzig), the great Hanseatic port that controlled Baltic amber trade for centuries. Walk the Royal Way from the Golden Gate to the Green Gate along Długa Street and the Long Market, passing the ornate facades of Dutch Mannerist townhouses rebuilt after the 1945 bombardment that destroyed 90% of the old city. See the Neptune Fountain (1633), the Artus Court (medieval merchants' meeting hall), and the medieval Crane (Żuraw) on the Motława waterfront — the largest surviving medieval port crane in Europe, hydraulically operated by treadwheels inside. Free time to explore the amber jewellery shops and waterfront before returning to Warsaw."
+    }
+  ],
+  "included": [
+    "Air-conditioned coach from Warsaw with hotel pickup",
+    "Guided tour of Malbork Castle with English-speaking guide",
+    "Free time in Gdańsk"
+  ],
+  "excluded": [
+    "Malbork Castle entrance fee (approx. €15–20)",
+    "Meals and drinks",
+    "Gdańsk Crane museum entrance (optional)"
+  ],
+  "meeting_point": "Hotel pickup from central Warsaw (confirm address at booking). Return to Warsaw by late evening (approx. 10–11pm).",
+  "tips": [
+    "This is a very long day — 13 hours total including 6+ hours of driving. A good night's sleep beforehand is recommended",
+    "Malbork Castle's amber collection is extraordinary — allow time in the Middle Castle's amber museum",
+    "In summer (July–August) Malbork hosts a medieval tournament festival with jousting, archery, and period costumes — check dates before booking",
+    "Gdańsk's Long Market is at its liveliest in the evening — the amber shops and restaurants along Mariacka Street are excellent for a pre-return dinner"
+  ],
+  "faqs": [
+    {
+      "question": "Is Malbork really the largest castle in the world?",
+      "answer": "By total land area — approximately 143,591 m² — yes. Malbork exceeds Prague Castle (70,000 m²) and Windsor Castle (52,609 m²) by a very large margin. The castle complex functioned not just as a fortress but as an entire administrative capital of the Teutonic Order's Baltic state."
+    },
+    {
+      "question": "Is there time to see everything at Malbork in 3 hours?",
+      "answer": "Three hours is enough to see the main highlights with the guided tour — the High Castle, Grand Refectory, Grand Master's Palace, and the amber collection. A full independent visit could take a whole day. This tour gives the essential experience with expert commentary."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/warsaw-malbork-castle-gdansk.webp",
+    "alt": "Malbork Castle Gothic towers reflected in the Nogat River at sunset, Poland",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Malbork Castle & Gdańsk Day Trip from Warsaw, Poland | Castles & Palaces",
+    "description": "Day trip from Warsaw to Malbork Castle — the largest castle in the world (UNESCO WHS) — and the Hanseatic old town of Gdańsk. Built by the Teutonic Knights in 1274. Book on GetYourGuide."
+  }
+}

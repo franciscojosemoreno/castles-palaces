@@ -1,0 +1,91 @@
+{
+  "id": "sofia-belogradchik-fortress-venetsa-cave",
+  "slug": "sofia-belogradchik-fortress-venetsa-cave",
+  "name": "From Sofia: Belogradchik Fortress & Venetsa Cave Day Tour",
+  "tagline": "A medieval fortress built into blood-red rock formations in the Bulgarian mountains",
+  "departure_country": "bulgaria",
+  "departure_city": "Sofia",
+  "visited_countries": [
+    "bulgaria"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (12 hours)",
+  "gyg_tour_id": "820283",
+  "gyg_url": "https://www.getyourguide.com/belogradchik-l186654/from-sofia-belogradchik-fortress-venetsa-cave-12-hrs-tour-t820283/",
+  "price_from": 48,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 145,
+  "languages": [
+    "English",
+    "Bulgarian"
+  ],
+  "max_group_size": 18,
+  "overview": "Belogradchik Fortress is one of the most visually extraordinary medieval fortifications in Europe: a network of walls, towers, and gateways built directly into a labyrinth of 200-metre red sandstone rock formations that rise from the Bulgarian forest like a natural cathedral. The Romans began construction here in the 2nd century, recognising that the bizarre rock formations provided better protection than any wall a human builder could construct. The Byzantines, Bulgarians, and Ottomans all expanded the fortress, which was finally completed in 1805. Today the rock sculptures — shaped by 230 million years of erosion into figures, towers, and faces — are being considered for UNESCO World Heritage status. The day trip from Sofia also visits the Venetsa Cave, an illuminated underground world of stalactites and mineral formations.",
+  "highlights": [
+    "Explore Belogradchik Fortress, a Roman-Byzantine-Ottoman citadel built into dramatic 200-metre red sandstone rock formations, one of Europe's most unusual fortifications",
+    "Walk through three defensive zones of the fortress, climbing between massive sandstone pinnacles to the highest battlements for views over the Balkan Mountains",
+    "Visit the Venetsa Cave (Венецата), an illuminated cavern with stalactites, stalagmites, and rare cave minerals formed over millions of years",
+    "Learn how the Romans, Byzantines, Bulgarian Tsars, and Ottoman Pashas each added their own layers of fortification to this extraordinary natural stronghold",
+    "See the rock formations that have been given names by locals over centuries — The Madonna, The Bear, The Schoolgirl, The Monks — carved by erosion over 230 million years"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Drive Sofia to Belogradchik",
+      "duration": "2.5 hours",
+      "description": "Depart Sofia and drive northwest through the Vratsa Balkan and into the Vidin Province. Your guide introduces the history of the Belogradchik region — an area of northwestern Bulgaria with one of the densest concentrations of medieval Bulgarian fortifications, historically guarding the mountain passes between the Danube plain and the Balkan range."
+    },
+    {
+      "order": 2,
+      "castle_name": "Belogradchik Fortress",
+      "duration": "3 hours",
+      "description": "Enter Belogradchik Fortress through its first gate and step into a world where medieval military architecture and natural geology have merged completely. The fortress is divided into three courtyards climbing through the rock formation, each defended by gateways, towers, and walls that thread between pillars of sandstone up to 200 metres tall. The Romans built the first walls here in the 2nd century AD as part of the Dacia frontier defences. The Byzantines rebuilt it in the 10th century; the Bulgarian Tsars held it through the medieval Bulgarian Empires; and the Ottomans completely rebuilt the outer walls and barracks in the early 19th century (1805 expansion). Reach the highest point for views over the Belogradchik valley and the Balkan Mountains to the south."
+    },
+    {
+      "order": 3,
+      "castle_name": "Venetsa Cave",
+      "duration": "1.5 hours",
+      "description": "Visit the Venetsa Cave, a stalactite cavern 5 km from Belogradchik. The cave extends 800 metres into the hillside with chambers of varying sizes decorated with stalactites, stalagmites, cave pearls, and rare helictite mineral formations that grow in unexpected directions. Modern coloured lighting enhances the natural formations. The cave maintains a constant temperature of 12°C — bring a light jacket."
+    }
+  ],
+  "included": [
+    "Air-conditioned transport from Sofia",
+    "Professional English-speaking guide",
+    "Hotel pickup in central Sofia"
+  ],
+  "excluded": [
+    "Belogradchik Fortress entrance (approx. €7)",
+    "Venetsa Cave entrance (approx. €4)",
+    "Meals and drinks"
+  ],
+  "meeting_point": "Hotel pickup from central Sofia (confirm address at booking). Return to Sofia by late evening.",
+  "tips": [
+    "The cave is 12°C year-round — bring a light jacket even in summer",
+    "Belogradchik Fortress involves climbing steep rocky paths between the sandstone formations — wear sturdy shoes",
+    "The rock formations look particularly dramatic in low-angle morning or afternoon light — the red sandstone turns deep crimson at sunset",
+    "Belogradchik is one of Bulgaria's most underrated attractions and almost completely unknown internationally — you are unlikely to encounter large tourist crowds"
+  ],
+  "faqs": [
+    {
+      "question": "What are the Belogradchik Rocks and why are they so unusual?",
+      "answer": "The Belogradchik Rocks (Белоградчишките скали) are red and grey sandstone and conglomerate formations created over 230 million years by sedimentation, tectonic folding, and erosion. They rise up to 200 metres from the forest floor in irregular towers, arches, and clusters that resemble figures and animals. Bulgaria nominated the rocks and fortress for UNESCO World Heritage status."
+    },
+    {
+      "question": "Is this tour very tiring?",
+      "answer": "It is a long day (12 hours) with about 5 hours of driving total. The fortress requires moderate climbing between rock formations — uneven terrain but manageable for most visitors. The cave is a flat walk. Overall the activity level is moderate."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/sofia-belogradchik-fortress-venetsa-cave.webp",
+    "alt": "Belogradchik Fortress towers and medieval walls built into red sandstone rock formations in Bulgaria",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Belogradchik Fortress Day Tour from Sofia, Bulgaria | Castles & Palaces",
+    "description": "Day trip from Sofia to Belogradchik — a Roman-Ottoman fortress built into 200m blood-red rock formations — and the Venetsa stalactite cave. One of Europe's most unusual fortifications. Book on GetYourGuide."
+  }
+}

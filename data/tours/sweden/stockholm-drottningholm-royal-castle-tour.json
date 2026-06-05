@@ -1,0 +1,112 @@
+{
+  "id": "stockholm-drottningholm-royal-castle-tour",
+  "slug": "stockholm-drottningholm-royal-castle-tour",
+  "name": "Stockholm: Drottningholm Palace & Royal Castle Tour",
+  "tagline": "The Versailles of the North — a UNESCO royal palace still home to the Swedish royal family",
+  "departure_country": "sweden",
+  "departure_city": "Stockholm",
+  "visited_countries": [
+    "sweden"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "161571",
+  "gyg_url": "https://www.getyourguide.com/stockholm-l50/1-day-royal-palace-and-castle-tour-from-stockholm-t161571/",
+  "price_from": 75,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 920,
+  "languages": [
+    "English",
+    "Swedish"
+  ],
+  "max_group_size": 20,
+  "overview": "Drottningholm Palace on Lake Mälaren is the best-preserved royal Baroque ensemble in northern Europe — and the only UNESCO World Heritage Site in the world still used as a primary royal residence. Built in the 1660s by architect Nicodemus Tessin the Elder for the dowager queen Hedvig Eleonora, expanded by his son Tessin the Younger in deliberate homage to Versailles, it comprises the main palace, the extraordinary Chinese Pavilion, the Royal Court Theatre (the only 18th-century theatre in the world still using its original stage machinery), and the formal Baroque gardens. The Swedish royal family has lived here since 1981. This day tour from Stockholm combines a guided visit to Drottningholm — approached by royal canal boat across Lake Mälaren — with Stockholm's Royal Palace in the Gamla Stan, one of the largest working royal palaces in the world.",
+  "highlights": [
+    "Drottningholm Palace — UNESCO World Heritage, the Swedish royal family's primary residence",
+    "The Royal Court Theatre at Drottningholm: 18th-century stage machinery still fully operational",
+    "Lake Mälaren canal boat approach to the palace — the most beautiful approach in Scandinavia",
+    "Chinese Pavilion: the finest Rococo chinoiserie building outside China",
+    "Stockholm's Royal Palace (Kungliga Slottet) — 609 rooms, still used for state functions",
+    "Gamla Stan (Old Town) — the medieval island city of Stockholm"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Stockholm Gamla Stan — Royal Palace",
+      "duration": "1.5 hours",
+      "description": "Begin in Gamla Stan, Stockholm's medieval island city, with a guided visit to the Royal Palace (Kungliga Slottet). Built in the Italian Baroque style after the original Tre Kronor castle burned down in 1697, it has 609 rooms and remains the official residence of the Swedish monarch (though the royal family lives at Drottningholm). The guide covers the Hall of State, the Royal Chapel, the Treasury housing the Swedish Crown Jewels, and the Changing of the Guard ceremony."
+    },
+    {
+      "order": 2,
+      "castle_name": "Canal Boat to Drottningholm",
+      "duration": "1 hour (boat journey)",
+      "description": "Board the royal canal boat at Stadshuskajen for the 1-hour journey across Lake Mälaren to Drottningholm. This is the traditional approach to the palace — the route taken by foreign ambassadors presenting their credentials and by the royal family on formal occasions. The lake archipelago is spectacular in any season."
+    },
+    {
+      "order": 3,
+      "castle_name": "Drottningholm Palace",
+      "duration": "1.5 hours",
+      "description": "Guided tour of the palace state apartments. The guide traces the building's development from Tessin the Elder's original design (influenced by French Baroque) through Tessin the Younger's Versailles-inspired expansion and the subsequent redecorations by different Swedish queens. Highlights include Queen Hedvig Eleonora's State Bedroom, the Karl XI Gallery (Sweden's answer to Versailles's Hall of Mirrors), and the ceiling paintings by Johan Sylvius. The guide explains how the Swedish royal family lives alongside visiting tourists in one wing of the palace."
+    },
+    {
+      "order": 4,
+      "castle_name": "Court Theatre & Chinese Pavilion",
+      "duration": "1 hour",
+      "description": "Visit the Drottningholm Court Theatre — the most extraordinary 18th-century theatre surviving anywhere in the world with its original stage machinery still intact and operational. Built in 1766, destroyed by fire and rebuilt in 1791, it still uses wooden wind machines, wave machines and cloud chariots from the original production. Then visit the Chinese Pavilion, a 1769 gift from King Adolf Fredrik to Queen Louisa Ulrika — Sweden's finest example of Rococo chinoiserie and an early example of European fascination with East Asian aesthetics."
+    },
+    {
+      "order": 5,
+      "castle_name": "Baroque Gardens & Return",
+      "duration": "45 min",
+      "description": "Walk the formal Baroque garden laid out by Tessin the Elder between the palace and the lake — geometrically planted parterres, clipped linden avenues, and bronze statues looted from Prague during the Thirty Years War. Return by boat to Stockholm city centre."
+    }
+  ],
+  "included": [
+    "Professional English/Swedish-speaking guide",
+    "Return canal boat to Drottningholm",
+    "Drottningholm Palace entry",
+    "Court Theatre guided visit",
+    "Chinese Pavilion entry",
+    "Royal Palace (Gamla Stan) entry",
+    "Small group (max 20)"
+  ],
+  "excluded": [
+    "Lunch (free time in Gamla Stan or at Drottningholm)",
+    "Royal Armoury entry (optional, separate ticket)",
+    "Personal purchases"
+  ],
+  "meeting_point": "Stadshuskajen (City Hall quay), Stockholm — confirmed at booking",
+  "tips": [
+    "The Court Theatre performances (summer only) are extraordinary — check the programme and book separately if visiting in June–August",
+    "The Chinese Pavilion is only open May–September — check before booking if visiting in winter",
+    "The canal boat journey is itself a highlight — sit on deck in summer for the lake views",
+    "Drottningholm's Baroque garden is at its best in June when the linden avenues are in leaf"
+  ],
+  "faqs": [
+    {
+      "question": "Do the Swedish royal family still live at Drottningholm?",
+      "answer": "Yes — King Carl XVI Gustaf and Queen Silvia live in the private west wing of the palace, which is closed to visitors. The state apartments in the central and east wings are open for guided tours. UNESCO inscribed the palace in 1991 precisely because it remains a living royal residence in its original 17th-century setting."
+    },
+    {
+      "question": "What makes the Court Theatre unique?",
+      "answer": "The Drottningholm Court Theatre is the only 18th-century theatre in the world that still has its original stage machinery fully intact and operational — including counterweight flying systems, wave and wind machines, and painted drop scenes. The theatre was abandoned in 1792 after King Gustav III was assassinated at the Royal Opera in Stockholm, sealed, and rediscovered in 1921 exactly as it was left. It now stages authentic period opera and ballet performances each summer."
+    },
+    {
+      "question": "How does Drottningholm compare to Versailles?",
+      "answer": "Drottningholm was explicitly designed to evoke Versailles — both in scale (much smaller) and in formal garden design. The key difference is that Drottningholm still functions as a primary royal residence, while Versailles is purely a museum. The Court Theatre and Chinese Pavilion have no equivalent at Versailles."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/stockholm-drottningholm-royal-castle-tour.webp",
+    "alt": "Drottningholm Palace reflected in Lake Mälaren, Sweden",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Stockholm: Drottningholm Palace & Royal Castle Tour | UNESCO Sweden",
+    "description": "Full day tour from Stockholm to Drottningholm UNESCO Palace — canal boat across Lake Mälaren, Court Theatre, Chinese Pavilion and Stockholm's Royal Palace."
+  }
+}

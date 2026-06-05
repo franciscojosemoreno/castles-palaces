@@ -1,0 +1,82 @@
+{
+  "id": "beaufort-castle",
+  "name": "Beaufort Castle",
+  "local_name": "Château de Beaufort",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "luxembourg",
+  "region": "Müllerthal, Grevenmacher",
+  "nearest_city": "Luxembourg City",
+  "address": "1 Rue du Château, 6310 Beaufort, Luxembourg",
+  "lat": 49.8414,
+  "lng": 6.2897,
+  "unesco": false,
+  "year_built": 1050,
+  "architectural_style": "Medieval / Renaissance",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Open daily April to October only. Closed November to March."
+  },
+  "price_adult": 5,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.beaufort.lu",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — uneven ruins terrain; some areas have steps",
+  "booking_advance_days": 0,
+  "tagline": "A romantic ruined medieval fortress in Luxembourg's Little Switzerland",
+  "highlights": [
+    "Atmospheric ruins of a medieval castle in the Müllerthal forest gorges",
+    "Adjacent 16th-century Renaissance château still largely intact",
+    "Set in the Müllerthal — Luxembourg's Little Switzerland hiking region",
+    "Famous Beaufort blackcurrant liqueur produced in the village",
+    "One of the most visited heritage sites in Luxembourg"
+  ],
+  "description": "Beaufort Castle is one of Luxembourg's most visited and beloved historic sites — a romantic ensemble of ruined medieval towers and walls set in the wooded gorges of the Müllerthal region, known as Luxembourg's Little Switzerland. The complex comprises two distinct phases: the older medieval castle (from around 1050), now a picturesque ruin of towers, dungeons, and courtyards open to explore; and an adjacent Renaissance château built in the 16th–17th centuries, which is largely intact. The setting in the Müllerthal forest — Luxembourg's premier hiking landscape of sandstone gorges, waterfalls, and ancient trees — makes Beaufort a natural pairing with the region's walking trails. The village is also famous for Cassero, a blackcurrant liqueur produced locally that has become something of a Luxembourg signature drink.",
+  "history": "A castle was established at Beaufort around 1050 and expanded through the 12th and 13th centuries. It was an important lordship within the County and later Duchy of Luxembourg. A Renaissance château was built alongside the medieval castle in the 16th and 17th centuries. The medieval section was never fully demolished but fell gradually into ruin after the 17th century. Archaeological investigation and restoration in the 20th century opened it to the public. The Renaissance château was restored for events and private use.",
+  "how_to_visit": "Beaufort is 35 km north-east of Luxembourg City. A car is recommended; the nearest bus connection is from Echternach (10 km). The castle is at the edge of the Müllerthal Trail hiking network — one of Europe's great multi-day walking routes. Combine with the town of Echternach (founded by St Willibrord in the 7th century) and the Müllerthal gorge trails for a full day in the region.",
+  "faqs": [
+    {
+      "question": "What is the Cassero liqueur?",
+      "answer": "A blackcurrant liqueur produced in Beaufort village using a recipe associated with the castle lords. It is sold throughout Luxembourg and is a popular souvenir."
+    },
+    {
+      "question": "Can I explore the ruins freely?",
+      "answer": "Yes — the medieval castle ruins are freely explorable within the site, including towers, the dungeon, and courtyards. Wear sturdy shoes as the terrain is uneven."
+    },
+    {
+      "question": "What is the Müllerthal Trail?",
+      "answer": "A 112 km waymarked hiking route through Luxembourg's sandstone gorges, passing near Beaufort Castle. It is divided into three loops and can be walked in stages over several days."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/beaufort-castle.webp",
+    "alt": "Beaufort Castle ruins in the forested Müllerthal gorges of Luxembourg",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/beaufort-castle.webp",
+  "instagram_tag": "#chateaudebeaufort",
+  "meta_title": "Beaufort Castle, Luxembourg — Medieval Ruins in Little Switzerland",
+  "meta_description": "Visit Beaufort Castle in Luxembourg's Müllerthal — romantic medieval ruins and a Renaissance château in the forested gorges of Little Switzerland.",
+  "tags": ["medieval", "luxembourg", "renaissance", "ruins", "mullerthal"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["vianden-castle"],
+  "gyg_location_id": "2602",
+  "gyg_search_query": "Beaufort Castle Luxembourg tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

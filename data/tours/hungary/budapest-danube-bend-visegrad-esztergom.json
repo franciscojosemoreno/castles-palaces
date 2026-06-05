@@ -1,0 +1,104 @@
+{
+  "id": "budapest-danube-bend-visegrad-esztergom",
+  "slug": "budapest-danube-bend-visegrad-esztergom",
+  "name": "From Budapest: Danube Bend — Visegrád, Esztergom & Szentendre",
+  "tagline": "Three chapters of Hungarian history on the river's most dramatic curve — a royal palace lost for 400 years, the kingdom's first capital, and a baroque town built by exiled Serbs",
+  "departure_country": "hungary",
+  "departure_city": "Budapest",
+  "visited_countries": [
+    "hungary"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "759",
+  "gyg_url": "https://www.getyourguide.com/budapest-l29/danube-bend-tour-an-excursion-into-hungary-s-history-t759/",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 2800,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 20,
+  "overview": "At the Danube Bend north of Budapest, the river makes a sharp right-angle turn through a landscape of volcanic hills and buried palaces. Three towns define this stretch: Szentendre, where Serb refugees rebuilt baroque churches and a way of life after fleeing the Ottomans in 1690; Visegrád, where Hungarian kings built the most magnificent medieval palace north of the Alps before it was buried under centuries of rubble and rediscovered only in 1934; and Esztergom, where Hungary was born — the birthplace of Saint Stephen, first Christian king, crowned here on Christmas Day in the year 1000. The Danube Bend tour covers all three in a single day, following the river through scenery that inspired Hungarian poets to call it their Rhine.",
+  "highlights": [
+    "Visegrád Royal Palace — the 14th-century court of Louis I and Matthias Corvinus, lost underground for 400 years and excavated from 1934",
+    "Visegrád Citadel — the Upper Castle on the hilltop 350m above the Danube, commanding the finest river view in Hungary",
+    "Esztergom Basilica — the largest church in Hungary, built on the castle hill where Saint Stephen was born",
+    "Esztergom Castle Museum — the red marble royal chambers of the medieval Hungarian kings",
+    "Szentendre — baroque cobblestone streets, Serbian Orthodox churches, and artisan galleries in a 1720 time-warp",
+    "Expert English-speaking guide covering Hungary's full medieval history from the Árpáds to Matthias Corvinus"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Budapest Departure",
+      "duration": "Travel north (45 minutes)",
+      "description": "Head north from Budapest along the west bank of the Danube into the Pilis hills. The guide introduces the Árpád dynasty — Hungary's founding family, who chose the Danube Bend as their royal centre — and explains how the region's history connects the Hungarian conquest of the Carpathian Basin in 895 to the Renaissance splendour of Matthias Corvinus in the 15th century."
+    },
+    {
+      "order": 2,
+      "castle_name": "Szentendre",
+      "duration": "1.5 hours",
+      "description": "Szentendre (Saint Andrew) is a baroque-era art town 20km north of Budapest that looks distinctly Balkan on Hungarian soil. After the Ottoman defeat at Vienna in 1683, Serb communities that had collaborated with the Habsburg advance fled north when the Ottomans retaliated. In 1690 some 40,000 Serbian refugees settled around Szentendre under Habsburg protection, bringing their Orthodox faith and their building traditions. The result is a town of barrel-vaulted churches, covered market lanes, and Serbian Orthodox monasteries — unlike anywhere else in Hungary. Walk the cobblestone main square, visit the Blagoveštenski Church (1754), and climb to the Plague Cross erected by the Serbian merchant guilds after surviving the 1738 epidemic."
+    },
+    {
+      "order": 3,
+      "castle_name": "Visegrád Royal Palace",
+      "duration": "2 hours",
+      "description": "Visegrád was the seat of the Hungarian royal court from the 13th to 16th centuries. The Royal Palace of Matthias Corvinus was one of the wonders of late-medieval Europe — described by ambassadors from Florence and Naples as surpassing anything they had seen north of the Alps. After the Ottoman conquest of 1526, the palace was abandoned, looted, and buried under successive landslides until the archaeologist Johannes Schulek identified the site in 1934. Excavations over the following 90 years have recovered the red marble lion fountain, the royal chapel, the arcaded loggia overlooking the Danube, and the carved limestone heraldic plaques of the Corvinus court. The Upper Castle (citadel) on the hilltop 350m above provides the definitive view of the Danube Bend that has made this landscape the emblem of Hungary."
+    },
+    {
+      "order": 4,
+      "castle_name": "Esztergom",
+      "duration": "2 hours",
+      "description": "Esztergom (Gran in Latin and German) was Hungary's first capital and the seat of the Archbishop-Primate, the highest Catholic prelate in the country, for over a thousand years. Saint Stephen I was born here around 969 AD and crowned on Christmas Day in the year 1000 as the first Christian King of Hungary. The Esztergom Basilica — the largest church in Hungary and one of the largest Neo-Classical buildings in Europe — stands on the castle hill where the medieval cathedral once stood. Inside, the red marble Bakócz Chapel (1519) survives from the original medieval complex. The Castle Museum beneath the basilica preserves the Romanesque royal palace, including the throne room that preceded the move to Buda."
+    }
+  ],
+  "included": [
+    "Return transport from Budapest",
+    "Professional English-speaking guide",
+    "Visegrád Royal Palace entry",
+    "Esztergom Basilica entry",
+    "Small group"
+  ],
+  "excluded": [
+    "Visegrád Upper Castle entry (optional extra, highly recommended for the view)",
+    "Lunch (free time in Visegrád or Esztergom)",
+    "Esztergom Castle Museum entry (optional extra)",
+    "Boat return from Esztergom (seasonal — check at booking)"
+  ],
+  "meeting_point": "Budapest city centre — exact location confirmed at booking",
+  "tips": [
+    "If the Danube water level permits, the return journey can be made by river boat from Esztergom to Budapest — one of the most scenic boat rides in Central Europe. Ask at booking whether this option is available",
+    "The Visegrád Upper Castle (citadel) requires a separate entrance fee and a steep 20-minute climb — but the view of the Danube Bend from the top justifies everything",
+    "Esztergom stands on the Hungarian-Slovak border; Štúrovo on the opposite bank is Slovakia. The Maria Valeria Bridge connecting them was destroyed in WWII and only rebuilt in 2001",
+    "Bring a picnic or plan to eat in Esztergom — the restaurant selection in Visegrád is limited, and the castle café closes early"
+  ],
+  "faqs": [
+    {
+      "question": "What happened to Visegrád Royal Palace?",
+      "answer": "After the Ottoman victory at Mohács in 1526, the Hungarian court fled and the palace was looted, then gradually buried under collapsed terracing and landslide deposits over the following century. By the 18th century its exact location was forgotten and the site was built over with village houses. The archaeologist Johannes Schulek identified the site in 1934 and excavations have continued for 90 years, recovering fountains, throne rooms, and the famous red marble loggia."
+    },
+    {
+      "question": "Why is Esztergom significant in Hungarian history?",
+      "answer": "Esztergom was Hungary's first capital, the birthplace and coronation site of Saint Stephen I (crowned AD 1000), and the seat of the Archbishop-Primate for over 1,000 years. It remained the ecclesiastical capital of Hungary even after the royal court moved to Buda — meaning that for a millennium, the spiritual heart of Hungary has been here."
+    },
+    {
+      "question": "Can I visit all three towns independently?",
+      "answer": "All three are reachable from Budapest by train and boat, but the logistics are complex. The HÉV suburban railway serves Szentendre; Esztergom has a rail connection; but Visegrád has no train station and requires a bus or boat. A guided day trip covers all three far more efficiently than independent travel."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/budapest-danube-bend-visegrad-esztergom.webp",
+    "alt": "Visegrád citadel overlooking the curve of the Danube Bend, Hungary",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Budapest: Danube Bend Day Trip — Visegrád, Esztergom & Szentendre",
+    "description": "Day trip from Budapest to the Danube Bend — Visegrád Royal Palace (lost for 400 years), Esztergom (Hungary's first capital), and baroque Szentendre. Expert English guide."
+  }
+}

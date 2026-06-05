@@ -1,0 +1,104 @@
+{
+  "id": "budapest-eger-castle-wine-day-trip",
+  "slug": "budapest-eger-castle-wine-day-trip",
+  "name": "Budapest to Eger: Castle of the Brave & Bull's Blood Wines",
+  "tagline": "The heroic castle that stopped the Ottoman Empire — plus Hungary's most famous wine cellars",
+  "departure_country": "hungary",
+  "departure_city": "Budapest",
+  "visited_countries": [
+    "hungary"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (11 hours)",
+  "gyg_tour_id": "37123",
+  "price_from": 38,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 1870,
+  "languages": [
+    "English",
+    "German"
+  ],
+  "max_group_size": 20,
+  "overview": "In 1552, a garrison of just 2,000 Hungarians held Eger Castle against an Ottoman army of 80,000 — one of history's great defensive stands. Today the castle crowns the city of Eger, offering sweeping views over Baroque spires and vineyards. This day trip from Budapest combines a thorough guided visit to the castle and its underground casemates with a tasting in the Valley of the Beautiful Women wine cellars, where Egri Bikavér — Bull's Blood — has been poured for centuries. A complete northern Hungary experience in a single day.",
+  "highlights": [
+    "Guided tour of Eger Castle and its legendary underground tunnel system",
+    "Wine tasting in the Valley of the Beautiful Women cave cellars",
+    "Egri Bikavér (Bull's Blood) tasting — Hungary's most celebrated red blend",
+    "Baroque old town of Eger with Hungary's northernmost Ottoman minaret",
+    "Small group experience with expert local guide"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Budapest to Eger",
+      "duration": "Travel northeast (2 hours)",
+      "description": "Depart Budapest through the Northern Hungarian hills. The guide sets the scene with the story of the 1552 siege — how 2,000 defenders, including women pouring hot tar from the walls, repelled an Ottoman force many times their size."
+    },
+    {
+      "order": 2,
+      "castle_id": "eger-castle",
+      "castle_name": "Eger Castle",
+      "duration": "2 hours",
+      "description": "Enter the castle complex and descend into the casemates — a labyrinth of underground defensive tunnels carved through the volcanic rock. Visit the István Dobó Museum, see the medieval bishop's palace ruins, and hear the full story of the siege from your guide on the battlements."
+    },
+    {
+      "order": 3,
+      "castle_name": "Eger Old Town & Minaret",
+      "duration": "1 hour",
+      "description": "Walk Eger's beautiful Baroque centre: Dobó Square, the Minorite Church, and the 40-metre Ottoman minaret — the northernmost surviving minaret in Europe, built during the 91-year Ottoman occupation that followed the castle's eventual fall."
+    },
+    {
+      "order": 4,
+      "castle_name": "Valley of the Beautiful Women",
+      "duration": "1.5 hours",
+      "description": "Descend into the wine valley carved with dozens of cave cellars. Sample Egri Bikavér (Bull's Blood) and Egri Csillag (Star of Eger) white wine in an authentic cellar, with the winemaker explaining what makes the local volcanic soil so distinctive."
+    }
+  ],
+  "included": [
+    "Return coach transport from Budapest",
+    "Professional English/German-speaking guide",
+    "Eger Castle entry and underground casemates",
+    "Wine tasting in cave cellar (3 wines)",
+    "Bottled water on coach"
+  ],
+  "excluded": [
+    "Lunch (free time in Eger)",
+    "Additional wine purchases",
+    "Minaret entry (optional, ~€2)"
+  ],
+  "meeting_point": "Budapest — central city departure point confirmed at booking",
+  "tips": [
+    "Book the wine tasting in advance — cellar capacity is limited",
+    "Eger's Baroque architecture is spectacular; bring a camera for Dobó Square",
+    "Bull's Blood is a full-bodied blend of Kékfrankos, Cabernet and Merlot — pairs with Hungarian goulash",
+    "The casemates can be cool even in summer; bring a light layer"
+  ],
+  "faqs": [
+    {
+      "question": "Is this tour suitable for non-drinkers?",
+      "answer": "Absolutely. The wine tasting is optional and soft drinks are available at the cellars."
+    },
+    {
+      "question": "How much walking is involved?",
+      "answer": "Moderate — the castle involves a steep approach path and uneven surfaces. The underground tunnels require ducking in places."
+    },
+    {
+      "question": "What time does the tour return to Budapest?",
+      "answer": "Typically around 7–8pm, depending on traffic."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/budapest-eger-castle-wine-day-trip.webp",
+    "alt": "Eger Castle perched above the Hungarian city with its Baroque towers",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Budapest to Eger Castle Day Trip | Bull's Blood Wine Tour Hungary",
+    "description": "Day trip from Budapest to Eger Castle — site of Hungary's greatest siege — plus a wine tasting in the legendary Bull's Blood cave cave cellars. Book with free cancellation."
+  },
+  "gyg_url": "https://www.getyourguide.com/budapest-l29/wellness-and-history-eger-and-egerszalok-t37123/"
+}

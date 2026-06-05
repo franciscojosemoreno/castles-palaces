@@ -1,0 +1,39 @@
+{
+  "id": "rhine-valley-castles",
+  "name": "Rhine Valley Castles",
+  "tagline": "The Rhine Gorge — 40 castles, vineyard slopes and the world's most romantic river",
+  "description": "The Middle Rhine Gorge between Bingen and Koblenz is a 65-kilometre stretch of river valley so densely packed with medieval castles, Baroque towns and terraced vineyards that UNESCO designated it a World Heritage Site in 2002. More than 40 castles line the Rhine here — some ruined, some restored, some converted to hotels — perched on rocky spurs above the river with a frequency that seems impossible until you see it.\n\nThe Rhine Gorge was the commercial heart of medieval Germany. Every castle represents a toll point: the lords who built them extracted taxes from the merchants whose barges moved the trade of northern Europe up and down the Rhine. The Pfalzgrafenstein island fortress, built on a rock in the middle of the river, was the most inescapable — there was no way past it without paying. The surrounding landscape of steep vineyard terraces producing Riesling, and the legends of the Lorelei rock, layered Romantic symbolism onto what was fundamentally a commercial corridor.\n\nThe route is best experienced by riverboat — regular scheduled services run between Bingen, Bacharach, Kaub, St. Goar and Koblenz, stopping at riverside villages where castle paths ascend from the waterfront. Heidelberg, while outside the gorge itself, makes a natural anchor at the southern end. The Rhine cycle path runs the entire length on both banks.",
+  "hero_image": {
+    "url": "/images/routes/rhine-valley-castles.webp",
+    "alt": "Castles and vineyard slopes above the Rhine Gorge between Bingen and Koblenz",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "germany"
+  ],
+  "castles": [
+    "heidelberg-castle",
+    "hohenzollern-castle"
+  ],
+  "distance_km": 65,
+  "duration_days": "2–4 days",
+  "difficulty": "easy",
+  "map_center": {
+    "lat": 50.1,
+    "lng": 7.7
+  },
+  "tags": [
+    "medieval",
+    "wine-region",
+    "river-castle",
+    "romantic",
+    "cycling"
+  ],
+  "gyg_search_query": "Rhine Valley castles river cruise",
+  "thumbnail_image": {
+    "url": "/images/routes/rhine-valley-castles-thumb.webp",
+    "alt": "Castles and vineyard slopes above the Rhine Gorge between Bingen and Koblenz"
+  }
+}

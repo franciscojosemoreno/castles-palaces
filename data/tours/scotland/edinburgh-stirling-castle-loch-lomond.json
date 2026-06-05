@@ -1,0 +1,85 @@
+{
+  "id": "edinburgh-stirling-castle-loch-lomond",
+  "slug": "edinburgh-stirling-castle-loch-lomond",
+  "name": "Stirling Castle, Loch Lomond & The Trossachs from Edinburgh",
+  "tagline": "Scotland's most important castle and its most beautiful loch in a single Highland day",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 10 hours",
+  "gyg_tour_id": "94182",
+  "price_from": 39,
+  "currency": "GBP",
+  "rating": 4.6,
+  "review_count": 9200,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 53,
+  "overview": "Stirling Castle was where Scottish kings were crowned, Mary Queen of Scots was raised, and the fate of the nation was decided. Combine it with the sparkling shores of Loch Lomond — Scotland's largest loch and first National Park — for a day that covers Highland history and Highland scenery.",
+  "highlights": [
+    "Guided tour of Stirling Castle, Scotland's most important royal fortress",
+    "Scenic drive through The Trossachs National Park",
+    "Stop at Loch Lomond, Scotland's largest loch",
+    "Learn the stories of William Wallace and Mary Queen of Scots",
+    "Round-trip transport from Edinburgh"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "stirling-castle",
+      "castle_name": "Stirling Castle",
+      "duration": "2 hours",
+      "description": "Explore the great hall, royal chapel, and the Palace of James V. Hear the stories of William Wallace, Robert the Bruce, and the young Mary Queen of Scots, who was crowned here aged nine months."
+    },
+    {
+      "order": 2,
+      "castle_id": "loch-lomond",
+      "castle_name": "Loch Lomond",
+      "duration": "1 hour",
+      "description": "Free time on the shores of Scotland's largest and most beautiful loch. Optional boat cruise available. Walk the village of Luss, one of Scotland's prettiest."
+    }
+  ],
+  "included": [
+    "Round-trip coach from Edinburgh",
+    "Expert guide",
+    "Stirling Castle admission"
+  ],
+  "excluded": [
+    "Lunch",
+    "Loch Lomond boat cruise (optional, approx £10)",
+    "Gratuities"
+  ],
+  "meeting_point": "Edinburgh city centre — confirmed at booking",
+  "tips": [
+    "Stirling Castle is at altitude — bring a windproof layer",
+    "Combine with the Loch Ness tour over two days for the ultimate Scottish Highland experience",
+    "The Stirling Castle great hall is one of the finest examples of medieval Scottish architecture"
+  ],
+  "faqs": [
+    {
+      "question": "Is Stirling Castle admission included?",
+      "answer": "Yes, Stirling Castle entry is included in the tour price."
+    },
+    {
+      "question": "How does this differ from the Loch Ness tour?",
+      "answer": "This tour focuses on Stirling and the southern Highlands (Loch Lomond). The Loch Ness tour heads north to Eilean Donan and the northern Highlands. Both are excellent and complement each other perfectly."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-stirling-castle-loch-lomond.webp",
+    "alt": "Stirling Castle perched on volcanic rock above the Scottish lowlands",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Stirling Castle & Loch Lomond Day Trip from Edinburgh | Castles & Palaces",
+    "description": "Visit Stirling Castle and Loch Lomond on a guided day trip from Edinburgh. Admission included. From £39 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/loch-lomond-highlands-stirling-castle-whisky-day-tour-t94182/"
+}

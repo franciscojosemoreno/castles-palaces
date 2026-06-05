@@ -1,0 +1,98 @@
+{
+  "id": "krakow-wawel-castle-old-town-tour",
+  "slug": "krakow-wawel-castle-old-town-tour",
+  "name": "Krakow: Skip-the-Line Wawel Castle & Old Town Guided Tour",
+  "tagline": "Poland's royal hill — where kings were crowned, Leonardo's Lady with an Ermine hangs, and a dragon guards the Vistula",
+  "departure_country": "poland",
+  "departure_city": "Krakow",
+  "visited_countries": [
+    "poland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 3 hours",
+  "gyg_tour_id": "172374",
+  "price_from": 28,
+  "currency": "EUR",
+  "rating": 4.8,
+  "review_count": 4300,
+  "languages": [
+    "English",
+    "Polish",
+    "Spanish",
+    "French",
+    "German",
+    "Italian"
+  ],
+  "max_group_size": 12,
+  "overview": "Wawel Hill is the sacred heart of Poland — a limestone outcrop above the Vistula river that has been the seat of Polish kings since the 11th century. The Royal Castle houses one of Europe's finest collections of Renaissance art, including Leonardo da Vinci's Lady with an Ermine — one of only four authenticated Leonardo portraits in existence. The Wawel Cathedral is the Westminster Abbey of Poland: 39 Polish kings were crowned here, and 18 are buried in its crypt. Below the hill, the legendary Wawel Dragon's Lair opens to the riverbank.",
+  "highlights": [
+    "Skip-the-line entry to Wawel Royal Castle",
+    "See Leonardo da Vinci's Lady with an Ermine",
+    "Visit Wawel Cathedral — coronation church of Polish kings",
+    "Explore the Royal Chambers and the State Rooms",
+    "Walk the Krakow Old Town with a licensed guide"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "wawel-castle",
+      "castle_name": "Wawel Royal Castle",
+      "duration": "1.5 hours",
+      "description": "Skip-the-line entry to the Royal Castle. Tour the State Rooms with their extraordinary collection of Flemish tapestries commissioned by Sigismund II Augustus — 136 survive, among the finest in Europe. The Senator's Hall has a unique coffered ceiling with carved wooden heads. In the Royal Private Apartments, Leonardo da Vinci's Lady with an Ermine is the centerpiece of the collection."
+    },
+    {
+      "order": 2,
+      "castle_id": "wawel-castle",
+      "castle_name": "Wawel Cathedral",
+      "duration": "45 minutes",
+      "description": "The national sanctuary of Poland — where 39 kings were crowned from 1320 to 1734, and where 18 monarchs are buried in the crypts below. Ring the Sigismund Bell (1520) on Sundays, see the silver tomb of St Stanislaus, and descend to the crypt where kings, poets, and national heroes lie side by side. Pope John Paul II celebrated his first Mass here as a priest."
+    },
+    {
+      "order": 3,
+      "castle_id": "",
+      "castle_name": "Krakow Old Town",
+      "duration": "45 minutes",
+      "description": "Walk the Royal Road from Wawel Hill through the Kazimierz Quarter to the Main Market Square — the largest medieval market square in Europe. Your guide points out St Mary's Basilica, the Cloth Hall, and the 14th-century city walls at the Barbican."
+    }
+  ],
+  "included": [
+    "Skip-the-line Wawel Castle entry",
+    "Wawel Cathedral entry",
+    "Licensed guide",
+    "Small group (max 12)"
+  ],
+  "excluded": [
+    "Dragon's Den entry (optional, approx €2)",
+    "Gratuities"
+  ],
+  "meeting_point": "Wawel Hill main entrance, Wawel 5, Krakow",
+  "tips": [
+    "The Lady with an Ermine is displayed in the west wing — ask your guide to prioritise this if time is short",
+    "Wawel Cathedral crypt closes for lunch — plan your visit for morning or afternoon",
+    "The Dragon's Den (Smocza Jama) is a cave descending 135 steps to the Vistula riverbank — worth the €2 entry",
+    "Krakow's Jewish Quarter (Kazimierz) is a 20-minute walk from Wawel — excellent for lunch and evening exploration"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Lady with an Ermine always on display?",
+      "answer": "Yes — Leonardo's Lady with an Ermine is permanently displayed in the Wawel Castle collection. It is one of only four authenticated portrait paintings by Leonardo da Vinci (alongside the Mona Lisa, La Belle Ferronnière, and Ginevra de' Benci) and is widely considered Poland's greatest artistic treasure."
+    },
+    {
+      "question": "What is the Wawel Dragon?",
+      "answer": "A legendary creature said to have lived in a cave beneath Wawel Hill, terrorising the city until killed by a cobbler's apprentice using a lamb stuffed with sulphur. A fire-breathing metal dragon sculpture guards the cave entrance on the riverbank — beloved by children and adults equally."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/krakow-wawel-castle-old-town-tour.webp",
+    "alt": "Wawel Castle and Cathedral on the limestone hill above the Vistula river at sunset",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Wawel Castle & Krakow Old Town Guided Tour | Castles & Palaces",
+    "description": "Book the Wawel Castle skip-the-line guided tour in Krakow. See Leonardo's Lady with an Ermine, the royal cathedral, and the Old Town. From €28."
+  },
+  "gyg_url": "https://www.getyourguide.com/krakow-l40/skip-the-line-wawel-castle-and-krakow-old-town-guided-tour-t172374/"
+}

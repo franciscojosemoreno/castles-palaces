@@ -1,0 +1,82 @@
+{
+  "id": "budva-citadel",
+  "name": "Budva Citadel",
+  "local_name": "Citadela Budve",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "montenegro",
+  "region": "Budva Municipality",
+  "nearest_city": "Budva",
+  "address": "Citadela, Stari Grad, 85310 Budva, Montenegro",
+  "lat": 42.2764,
+  "lng": 18.8397,
+  "unesco": false,
+  "year_built": 500,
+  "architectural_style": "Venetian",
+  "opening_hours": {
+    "monday": "09:00–21:00",
+    "tuesday": "09:00–21:00",
+    "wednesday": "09:00–21:00",
+    "thursday": "09:00–21:00",
+    "friday": "09:00–21:00",
+    "saturday": "09:00–21:00",
+    "sunday": "09:00–21:00",
+    "seasonal_note": "Extended hours in summer (09:00–24:00). Shorter hours in winter."
+  },
+  "price_adult": 3,
+  "price_child": 1,
+  "booking_required": false,
+  "official_tickets_url": "https://www.budva.travel",
+  "visit_duration": "1 hour",
+  "best_season": "May to September",
+  "accessibility": "Partially accessible — old town lanes are cobblestone; citadel tower involves stairs",
+  "booking_advance_days": 0,
+  "tagline": "A Venetian citadel on the Adriatic — guardian of Montenegro's most glamorous old town",
+  "highlights": [
+    "Dramatically positioned on a peninsula jutting into the Adriatic Sea",
+    "Commanding views over the Budva Riviera, islands, and Montenegro mountains",
+    "Venetian-built walls and towers enclosing the medieval old town",
+    "Small museum and library inside the citadel",
+    "The citadel terrace is one of the most photographed sunset spots on the Adriatic"
+  ],
+  "description": "Budva Citadel stands at the tip of a narrow Adriatic peninsula, its Venetian walls rising directly from the sea at the south-western point of one of the best-preserved medieval old towns on the Montenegrin coast. The old town of Budva — a tightly packed labyrinth of Venetian-era lanes, churches, and squares enclosed within sea-washed walls — is the most popular destination on the Montenegro Riviera. The citadel at its tip was built by the Venetians, who controlled Budva from 1442 to 1797, and houses a small museum and library. From the terrace, views stretch over the sandy beaches of the Budva Riviera, the island of Sveti Nikola, and the dramatic mountains of inland Montenegro. The sunset from the citadel walls is considered one of the finest on the eastern Adriatic.",
+  "history": "Budva's origins are ancient — Greek legend attributes its founding to Cadmus, the Phoenician prince. The current citadel and town walls are largely Venetian, built and reinforced during the period of Venetian rule from 1442 to 1797. After Venice, the town passed to France, then Austria. The 1979 earthquake severely damaged the old town and citadel, which were thoroughly rebuilt in the following years. Montenegro became independent in 2006; Budva is now the country's most visited tourist destination.",
+  "how_to_visit": "Budva is on the Adriatic coast, 65 km south of Podgorica and 55 km from Kotor. Frequent buses connect Budva with Podgorica, Kotor, Herceg Novi, and Dubrovnik. The citadel is at the southern tip of the old town peninsula, a 5-minute walk from the old town gates. The Bay of Kotor (with Kotor Old Town, a UNESCO site) is 30 km north.",
+  "faqs": [
+    {
+      "question": "Is the old town of Budva worth visiting?",
+      "answer": "Yes — the Venetian old town is the most picturesque in Montenegro, with medieval churches, good restaurants, and the citadel all within a compact area. It gets very crowded in July and August."
+    },
+    {
+      "question": "What is inside the citadel?",
+      "answer": "A small museum of archaeological finds, a library with a collection of maps and engravings, and a terrace offering panoramic views. There is also an open-air theatre used for summer events."
+    },
+    {
+      "question": "How far is Budva from Kotor?",
+      "answer": "About 30 km — a 40-minute drive through stunning coastal scenery. Most visitors to Montenegro combine Kotor and Budva in the same trip."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/budva-citadel.webp",
+    "alt": "Budva Citadel Venetian walls on the Adriatic peninsula in Montenegro",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/budva-citadel.webp",
+  "instagram_tag": "#budvaoldtown",
+  "meta_title": "Budva Citadel, Montenegro — Venetian Fortress on the Adriatic Riviera",
+  "meta_description": "Visit Budva Citadel in Montenegro — a Venetian sea fortress at the tip of the Budva Riviera's most beautiful old town, with Adriatic sunset views.",
+  "tags": ["venetian", "montenegrin-castle", "adriatic", "old-town", "coastal"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2640",
+  "gyg_search_query": "Budva citadel Montenegro old town tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

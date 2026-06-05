@@ -1,0 +1,95 @@
+{
+  "id": "geneva-chillon-castle-montreux",
+  "slug": "geneva-chillon-castle-montreux",
+  "name": "Swiss Riviera Day Trip from Geneva — Montreux & Château de Chillon",
+  "tagline": "The most beautifully situated castle in Europe — rising from Lake Geneva at the foot of the Alps",
+  "departure_country": "switzerland",
+  "departure_city": "Geneva",
+  "visited_countries": [
+    "switzerland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 9–10 hours",
+  "gyg_tour_id": "4851",
+  "price_from": 89,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 3200,
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "max_group_size": 20,
+  "overview": "Château de Chillon is Switzerland's most visited historic monument — a medieval island fortress that appears to grow directly from the waters of Lake Geneva with the Alps rising behind it. Lord Byron immortalised it in 1816 with his poem 'The Prisoner of Chillon', written after visiting the dungeon where François Bonivard was chained to a pillar for four years. This day trip from Geneva follows the Swiss Riviera — the UNESCO Lavaux vineyard terraces, the elegance of Vevey and Montreux, and the extraordinary castle at the lake's edge.",
+  "highlights": [
+    "Visit Château de Chillon — Switzerland's most visited historic monument",
+    "Drive the UNESCO Lavaux wine terraces along Lake Geneva",
+    "Stroll Montreux promenade and the Jazz Festival town",
+    "Tour the dungeon where Byron's prisoner was chained",
+    "Panoramic Alpine views over the lake throughout the day"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "",
+      "castle_name": "Lavaux & Vevey",
+      "duration": "1.5 hours",
+      "description": "Drive through the UNESCO Lavaux vineyard terraces — 830 hectares of stepped vineyards carved into the hillsides above Lake Geneva since the 11th century. Stop in Vevey, where Charlie Chaplin spent the last 25 years of his life, and walk the lakefront promenade lined with Belle Époque hotels."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Montreux",
+      "duration": "1 hour",
+      "description": "Stroll the famous Montreux promenade, home of the Montreux Jazz Festival since 1967. See the Freddie Mercury statue — the Queen frontman spent his final years here — and take in the view across the lake to the French Alps."
+    },
+    {
+      "order": 3,
+      "castle_id": "chateau-de-chillon",
+      "castle_name": "Château de Chillon",
+      "duration": "1.5 hours",
+      "description": "Tour the 12th-century island fortress at the lake's edge. Explore the Gothic halls, the camera domini (lord's chamber), the chapel with its medieval frescoes, and the famous underground dungeon where François Bonivard was imprisoned — the pillar to which he was chained still bears the groove worn by his pacing. Byron carved his name in the pillar during his 1816 visit."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Geneva",
+    "Expert guide",
+    "Château de Chillon entry"
+  ],
+  "excluded": [
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Geneva city centre — confirmed at booking",
+  "tips": [
+    "The castle is best photographed from the lake — a short boat trip gives the iconic full-facade shot",
+    "Sit on the right side of the coach for the best lake views on the outward journey",
+    "Montreux is quieter and more atmospheric outside the July Jazz Festival dates",
+    "Byron's graffiti on the dungeon pillar is authentic — remarkable to stand beside"
+  ],
+  "faqs": [
+    {
+      "question": "What is the connection between Byron and the castle?",
+      "answer": "Lord Byron visited Chillon in June 1816 during his famous Swiss summer with Percy Shelley. So moved was he by the dungeon and the story of Bonivard that he wrote 'The Prisoner of Chillon' in two days on the boat journey back to Geneva. He carved his name in the dungeon pillar, where it remains visible today."
+    },
+    {
+      "question": "Is Château de Chillon on an island?",
+      "answer": "Almost — it sits on a small rocky islet connected to the shore by two bridges. From the lake it appears entirely surrounded by water. The strategic position controlled the road between the Great St Bernard Pass and the northern Alpine routes."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/geneva-chillon-castle-montreux.webp",
+    "alt": "Château de Chillon rising from Lake Geneva with the Alps behind it on a clear afternoon",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Château de Chillon & Montreux Day Trip from Geneva | Castles & Palaces",
+    "description": "Visit Château de Chillon and the Swiss Riviera on a day trip from Geneva. Switzerland's most visited castle, Byron's dungeon, Alpine lake views. From €89."
+  },
+  "gyg_url": "https://www.getyourguide.com/geneva-l54/geneva-montreux-chaplin-s-world-chillon-castle-aperitif-t4851/"
+}

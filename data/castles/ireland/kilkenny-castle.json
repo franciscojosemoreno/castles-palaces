@@ -1,0 +1,83 @@
+{
+  "id": "kilkenny-castle",
+  "name": "Kilkenny Castle",
+  "local_name": "Caisleán Chill Chainnigh",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 500000,
+  "country": "ireland",
+  "region": "Kilkenny",
+  "nearest_city": "Kilkenny",
+  "address": "The Parade, Kilkenny, R95 XA98, Ireland",
+  "lat": 52.6468,
+  "lng": -7.2539,
+  "unesco": false,
+  "year_built": 1195,
+  "architectural_style": "Norman keep 1195, extensively remodelled in Victorian Gothic Revival style 1860s",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Mar–May: 09:30–17:00. Jun–Aug: 09:00–17:30. Sep–Feb: 09:30–16:30. Last entry 30 min before closing."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.kilkennycastle.ie/",
+  "visit_duration": "1–2 hours",
+  "best_season": "May to September — gardens open, Kilkenny Arts Festival in August",
+  "accessibility": "Ground floor rooms are accessible. Upper floors have stairs. Accessible parking nearby.",
+  "booking_advance_days": 0,
+  "tagline": "Eight centuries of Irish history above the River Nore — the seat of the Butler dynasty in Ireland's medieval capital",
+  "highlights": [
+    "The Long Gallery — a Victorian picture gallery with Pre-Raphaelite ceiling paintings and Butler family portraits",
+    "The castle's three original towers — two of the four Norman towers survive from the 1195 construction",
+    "The 50-acre parkland — formal gardens and a rose garden sweeping down from the castle walls",
+    "The Butler Gallery within the castle — a contemporary art space in the former castle kitchens",
+    "The location in the heart of Kilkenny — walk directly from the castle along medieval lanes to St. Canice's Cathedral"
+  ],
+  "description": "Kilkenny Castle stands on a bluff above the River Nore in the centre of Kilkenny — Ireland's most completely medieval city, with its Norman castle, medieval streets, cathedral and Franciscan friary all within walking distance. The castle was built by William Marshal, Earl of Pembroke, in 1195 as a strategic stronghold on the road between Dublin and Waterford, and it remained the seat of the powerful Butler family — Earls, later Dukes, of Ormonde — from 1391 until 1935, an occupation that shaped both the castle's architecture and the development of the city around it.\n\nThe castle as seen today is largely a 19th-century creation. The Butlers' constant remodelling over five centuries, combined with a comprehensive Victorian Gothic Revival renovation in the 1860s, replaced most of the medieval fabric with high Victorian interiors. The exception is the Long Gallery — a 45-metre room with a painted hammerbeam ceiling and Pre-Raphaelite decorative paintings that is considered one of the finest Victorian interiors in Ireland. The two surviving medieval towers and the 50-acre parkland, with its walled garden and rose garden, provide the castle's historic frame.\n\nKilkenny itself is one of the most enjoyable towns in Ireland for a visit: compact, pedestrian-friendly, with a exceptional concentration of medieval architecture and a lively cultural scene — the Kilkenny Arts Festival in August is one of Ireland's most important.",
+  "history": "William Marshal built the first stone castle at Kilkenny between 1195 and 1213 on the site of an earlier earthwork fortress. After the Marshal family died out, the castle passed through several Anglo-Norman families before being acquired by James Butler, 3rd Earl of Ormonde, in 1391. The Butlers dominated Kilkenny and much of Munster for over 500 years, and the castle reflects their changing tastes and fortunes: medieval towers, Tudor additions, 17th-century rebuilding after a Cromwellian siege in 1650, and the comprehensive Victorian remodelling of the 1860s.\n\nThe castle was sold to the Irish state in 1967 for the sum of fifty pounds — a symbolic gesture by the then Marquess of Ormonde to return it to the Irish people. A major restoration programme ran from the 1970s to 2000, and the castle is now managed by the Office of Public Works.",
+  "how_to_visit": "**Getting there:** Kilkenny railway station has direct trains from Dublin Heuston (1.5 hours) and Waterford (45 minutes). The castle is a 10-minute walk from the station through the medieval city centre.\n\n**Kilkenny city:** Allow time for the medieval city beyond the castle — St. Canice's Cathedral (with round tower climbable for views), the Kilkenny Design Centre in the castle stables, the medieval alleyways called 'slips', and Smithwick's Experience brewery tour.\n\n**Combine with:** Rock of Cashel (45 minutes by car), Jerpoint Abbey (15 minutes — one of the finest Cistercian abbeys in Ireland), and the Thomastown area make an excellent Kilkenny and Tipperary itinerary.",
+  "faqs": [
+    {
+      "question": "How much did the Irish government pay for Kilkenny Castle?",
+      "answer": "The 6th Marquess of Ormonde sold Kilkenny Castle to the Kilkenny Castle Restoration Committee in 1967 for the symbolic sum of fifty Irish pounds — effectively a gift to the Irish people. The castle was subsequently transferred to state ownership and a major restoration programme began, funded by the Irish government and public donations, completing the main building works by 2000."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/kilkenny-castle.webp",
+    "alt": "Kilkenny Castle above the River Nore with its three towers and parkland in early morning light",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/kilkenny-castle.webp",
+  "instagram_tag": "#kilkennycastle",
+  "meta_title": "Kilkenny Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Kilkenny Castle — Ireland's finest medieval city castle with the Long Gallery, Butler portraits and 50 acres of parkland. Book tickets for the best of medieval Ireland.",
+  "tags": [
+    "medieval",
+    "victorian",
+    "city-centre",
+    "family-friendly"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "ireland-heritage-trail"
+  ],
+  "nearby_castles": [
+    "rock-of-cashel"
+  ],
+  "gyg_location_id": "1",
+  "gyg_search_query": "Kilkenny Castle tour Ireland",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

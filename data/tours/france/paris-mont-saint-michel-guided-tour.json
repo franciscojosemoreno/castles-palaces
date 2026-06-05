@@ -1,0 +1,110 @@
+{
+  "id": "paris-mont-saint-michel-guided-tour",
+  "slug": "paris-mont-saint-michel-guided-tour",
+  "name": "Paris to Mont-Saint-Michel: Full-Day Guided Tour",
+  "tagline": "France's most extraordinary fortress-abbey, rising from a tidal island at the edge of Normandy",
+  "departure_country": "france",
+  "departure_city": "Paris",
+  "visited_countries": [
+    "france"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (14 hours)",
+  "gyg_tour_id": "10754",
+  "gyg_url": "https://www.getyourguide.com/paris-l16/mont-saint-michel-with-guide-from-paris-t10754/",
+  "price_from": 89,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 11800,
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "max_group_size": 50,
+  "overview": "Mont-Saint-Michel is France's most visited site outside Paris — and for good reason. A medieval abbey perched on a granite island, connected to the Normandy coast by a causeway that disappears at high tide, it has been a place of pilgrimage since the 8th century and a military stronghold that withstood every English siege during the Hundred Years War. This full-day tour from Paris covers the 360km drive through Normandy's bocage country before arriving at the bay for a guided walk through the fortified town gates, up the Grande Rue, and into the Abbey itself — one of medieval Europe's greatest architectural achievements, with its Gothic spire visible from 50km away.",
+  "highlights": [
+    "Guided visit inside Mont-Saint-Michel Abbey — Gothic nave, cloisters and the Merveille",
+    "The fortified town walls and ramparts with panoramic views of the bay",
+    "Grande Rue: the medieval pilgrim street with its characteristic Gothic houses",
+    "The tidal bay phenomenon — learn why this was the most dangerous crossing in medieval France",
+    "Story of the Hundred Years War and how the island held against English siege for 24 years",
+    "Normandy countryside on the approach — bocage, apple orchards and Camembert country"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Paris Departure",
+      "duration": "Travel west (4 hours)",
+      "description": "Early morning departure from central Paris through Normandy. The guide covers the history of the pilgrimage route to Mont-Saint-Michel — one of medieval Europe's three great pilgrimages alongside Rome and Santiago de Compostela — and explains the tidal mechanics that make the island so extraordinary."
+    },
+    {
+      "order": 2,
+      "castle_name": "Mont-Saint-Michel Bay Arrival",
+      "duration": "30 min",
+      "description": "First views of the island from the bay — the silhouette of the abbey spire rising above the fortified town is one of the most iconic images in France. Walk or take the shuttle across the causeway while the guide explains the medieval defensive system and the 1879 causeway construction that changed the tidal dynamics of the bay."
+    },
+    {
+      "order": 3,
+      "castle_name": "Mont-Saint-Michel Fortified Town",
+      "duration": "1 hour",
+      "description": "Enter through the King's Gate and climb the Grande Rue past medieval houses, oyster bars and the famous Mère Poulard restaurant (est. 1888). The guide points out the rampart towers, the original drawbridge mechanism, and the strategic design that made this town impregnable for 700 years."
+    },
+    {
+      "order": 4,
+      "castle_name": "Mont-Saint-Michel Abbey",
+      "duration": "1.5 hours",
+      "description": "Guided visit of the Abbey — from the Romanesque nave (11th century) to the flamboyant Gothic choir, the exquisite cloister garden of La Merveille ('The Marvel'), the refectory, and the monks' dormitory. The guide explains the Benedictine monastic life that shaped the island from 966 AD to the French Revolution."
+    },
+    {
+      "order": 5,
+      "castle_name": "Free Time & Return",
+      "duration": "1 hour + 4hr return",
+      "description": "Free time to explore the ramparts independently, sample a Mère Poulard omelette, or browse the village before the return drive to Paris arriving approximately 9–10pm."
+    }
+  ],
+  "included": [
+    "Return coach transport from Paris",
+    "Professional multilingual guide",
+    "Mont-Saint-Michel Abbey entry ticket",
+    "Shuttle bus across the causeway"
+  ],
+  "excluded": [
+    "Meals",
+    "Audioguide inside the Abbey (optional, ~€5)",
+    "Personal purchases"
+  ],
+  "meeting_point": "Paris — Porte Maillot or Boulevard des Capucines. Exact pickup confirmed at booking.",
+  "tips": [
+    "Wear comfortable flat shoes — the climb to the Abbey involves many steep steps and cobblestones",
+    "Visit the ramparts early to beat the crowds before the day-trippers arrive after lunch",
+    "Try the Mère Poulard omelette — it has been made by the same family since 1888",
+    "High tide transforms the island completely — ask your guide what time high tide falls on your visit date"
+  ],
+  "faqs": [
+    {
+      "question": "Is this tour very long?",
+      "answer": "Yes — approximately 14 hours door to door from Paris. It's a full commitment but the journey through Normandy is part of the experience."
+    },
+    {
+      "question": "Is Mont-Saint-Michel a castle or an abbey?",
+      "answer": "Both — it began as a Benedictine abbey in 966, was fortified with towers and walls in the 13th century, and functioned as a prison after the Revolution. Today it's a UNESCO World Heritage Site combining religious, military and civil architecture."
+    },
+    {
+      "question": "How crowded is it?",
+      "answer": "Mont-Saint-Michel receives 3 million visitors per year. Going with a guided tour guarantees skip-the-line abbey entry and a guide who knows how to navigate the crowds."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/paris-mont-saint-michel-guided-tour.webp",
+    "alt": "Mont-Saint-Michel rising from the tidal bay at dawn, Normandy France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Paris to Mont-Saint-Michel Guided Day Trip | Full-Day Normandy Tour",
+    "description": "Guided day trip from Paris to Mont-Saint-Michel — medieval abbey, fortified island town and tidal bay phenomenon. Abbey entry included. 11,800+ reviews."
+  }
+}

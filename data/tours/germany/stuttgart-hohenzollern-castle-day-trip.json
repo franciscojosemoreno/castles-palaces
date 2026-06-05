@@ -1,0 +1,98 @@
+{
+  "id": "stuttgart-hohenzollern-castle-day-trip",
+  "slug": "stuttgart-hohenzollern-castle-day-trip",
+  "name": "Stuttgart to Hohenzollern Castle: The Crown of the German Empire",
+  "tagline": "The ancestral seat of the Kaisers, rising from its own mountain in the Swabian Alps",
+  "departure_country": "germany",
+  "departure_city": "Stuttgart",
+  "visited_countries": [
+    "germany"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "213642",
+  "price_from": 55,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 430,
+  "languages": [
+    "English",
+    "German"
+  ],
+  "max_group_size": 12,
+  "overview": "Perched on its own isolated peak 855 metres above the Swabian Alps, Hohenzollern Castle is one of the most dramatically situated fortresses in Europe. This is the ancestral home of the House of Hohenzollern — the dynasty that produced the Prussian kings and German Kaisers. Inside its neo-Gothic halls lie some of Germany's most extraordinary royal treasures: the crown of the Prussian kings, the personal uniform of Kaiser Wilhelm II, and the memoirs of Frederick the Great. This day trip from Stuttgart is the definitive way to experience a castle that looms over German history as dramatically as it looms over the surrounding landscape.",
+  "highlights": [
+    "Guided tour of Hohenzollern Castle's neo-Gothic halls and Royal Treasuries",
+    "The Prussian Royal Crown — the most important in German history",
+    "Kaiser Wilhelm II's personal quarters and military uniform collection",
+    "Panoramic views over the Swabian Alps from 855 metres",
+    "Small-group format with maximum 12 guests for exclusive access"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Stuttgart Departure",
+      "duration": "Travel south (1 hour)",
+      "description": "Head south through the Swabian countryside toward the distinctive silhouette of Hohenzollern rising from the flat plain. The guide introduces the three castles that have stood on this peak since 1061, and the rise of the Hohenzollern dynasty from local Swabian counts to rulers of all Germany."
+    },
+    {
+      "order": 2,
+      "castle_id": "hohenzollern-castle",
+      "castle_name": "Hohenzollern Castle",
+      "duration": "3.5 hours",
+      "description": "Climb the wooded path to the castle gate and enter the neo-Gothic third castle, completed in 1867 by Crown Prince Frederick William of Prussia. The guided tour covers the ancestral hall, the chapel of St. Michael containing Frederick the Great's tomb, and the Royal Treasury — home to the Prussian royal crown, jewel-encrusted Order of the Black Eagle, and Kaiser Wilhelm II's personal diary and field uniform. Step onto the outer ramparts for a 360-degree view stretching across the Swabian Alps to the horizon."
+    },
+    {
+      "order": 3,
+      "castle_name": "Hechingen Village",
+      "duration": "45 min",
+      "description": "Descend to the handsome Swabian market town of Hechingen at the castle's foot for a traditional Maultaschen lunch break (own expense) before the return to Stuttgart."
+    }
+  ],
+  "included": [
+    "Return transport from Stuttgart",
+    "Professional English/German-speaking guide",
+    "Hohenzollern Castle entry and Treasury access",
+    "Full guided castle tour",
+    "Small group (max 12)"
+  ],
+  "excluded": [
+    "Lunch in Hechingen",
+    "Personal purchases",
+    "Gratuities"
+  ],
+  "meeting_point": "Stuttgart Hauptbahnhof (main station) — departure details confirmed at booking",
+  "tips": [
+    "Morning visits avoid the afternoon coach crowds — this tour departs early",
+    "The castle path involves a 15-minute uphill walk; wear comfortable shoes",
+    "Photography inside the Treasury is restricted — enjoy the crown with your eyes",
+    "On clear days the Alps are visible from the ramparts — ask your guide what peaks you can see"
+  ],
+  "faqs": [
+    {
+      "question": "Is Hohenzollern Castle still owned by the royal family?",
+      "answer": "Yes — it remains the private property of the House of Hohenzollern (the former imperial family) and is managed as a heritage site."
+    },
+    {
+      "question": "Can I visit Hohenzollern independently?",
+      "answer": "You can, but public transport connections are limited and the guided treasury access on this tour includes areas not available to independent visitors."
+    },
+    {
+      "question": "What is the difference between this and Neuschwanstein?",
+      "answer": "Neuschwanstein is Ludwig II's fantasy creation. Hohenzollern is genuinely dynastic — the actual ancestral seat of the German Kaisers, with real royal treasures rather than theatrical décor."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/stuttgart-hohenzollern-castle-day-trip.webp",
+    "alt": "Hohenzollern Castle rising from its peak in the Swabian Alps, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Stuttgart to Hohenzollern Castle Day Trip | Imperial Germany Tour",
+    "description": "Guided day trip from Stuttgart to Hohenzollern Castle — ancestral seat of the German Kaisers, with the Prussian Royal Crown and sweeping Swabian Alps views."
+  },
+  "gyg_url": "https://www.getyourguide.com/frankfurt-l21/zamok-gogentsollernov-ekskursiia-na-ves-den-iz-frankfurta-t213642/"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "verona-sirmione-lake-garda-scaligero-cruise",
+  "slug": "verona-sirmione-lake-garda-scaligero-cruise",
+  "name": "From Verona: Sirmione & Lake Garda Day Tour with Cruise",
+  "tagline": "The Scaligero dynasty's lake fortresses from the city of Romeo and Juliet",
+  "departure_country": "italy",
+  "departure_city": "Verona",
+  "visited_countries": [
+    "italy"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "93765",
+  "gyg_url": "https://www.getyourguide.com/verona-l389/from-verona-sirmione-and-lake-garda-day-tour-t93765/",
+  "price_from": 48,
+  "currency": "EUR",
+  "rating": 4.4,
+  "review_count": 320,
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "max_group_size": 45,
+  "overview": "Verona — the city of the della Scala lords — was the seat of the dynasty that built the Scaligero castles scattered across the shores of Lake Garda. This day tour follows that legacy west from Verona to the jewel of the lake: Sirmione, a fortified peninsula where the Scaligero Castle stands with its drawbridge lowered over clear turquoise water. A boat cruise along the southern shore reveals more medieval towers at Lazise before the group returns through the Veneto countryside. The tour pairs perfectly with a morning visit to Verona's Roman Arena and medieval castles before heading to the lake.",
+  "highlights": [
+    "Visit the Scaligero Castle of Sirmione — the most photogenic medieval fortress on Lake Garda",
+    "Cruise the southern shore of Lake Garda past the Scaligero walls of Lazise and lakeside villas",
+    "Explore Sirmione's medieval old town and walk out to the Grotte di Catullo Roman ruins",
+    "Depart from Verona, home of the Scaligero dynasty's most famous stronghold, the Castelvecchio",
+    "Enjoy free time in Sirmione to swim at the thermal beach, shop, or dine on the waterfront"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Drive from Verona to Sirmione",
+      "duration": "45 minutes",
+      "description": "Depart from central Verona and drive west along the Garda Moraine hills, passing vineyards producing Bardolino and Lugana wines. Your guide provides an introduction to the Scaligero dynasty that ruled this region from Verona in the 13th and 14th centuries, building fortresses across Lake Garda to control trade routes."
+    },
+    {
+      "order": 2,
+      "castle_name": "Scaligero Castle — Sirmione",
+      "duration": "2.5 hours",
+      "description": "Enter the Scaligero Castle of Sirmione via its narrow drawbridge over the inner harbour. The fortress was built in the 13th century as a military port and garrison, with a large harbour protected by walls where the Scaligero fleet was anchored. Climb the main tower for views over the entire lake and peninsula, then walk the walled lane to the Grotte di Catullo for Roman history."
+    },
+    {
+      "order": 3,
+      "castle_name": "Lake Garda Cruise",
+      "duration": "1.5 hours",
+      "description": "Board a lake ferry for a cruise along the southern shore of Lake Garda. The boat passes the medieval walled town of Lazise — one of the best-preserved Scaligero fortified villages on the lake — with its 14th-century customs house and port walls. The cruise continues past Peschiera del Garda, where the Venetians built the largest star-shaped fortress in northern Italy in the 16th century."
+    },
+    {
+      "order": 4,
+      "castle_name": "Lazise — Scaligero Village Walls",
+      "duration": "1 hour",
+      "description": "Disembark at Lazise and walk through the intact Scaligero walls that enclose this small medieval town. The 14th-century Scaligero Castle of Lazise and its custom house (one of the oldest in Italy) overlook the boat harbour. Free time to explore the walled lanes, visit the Romanesque church of San Nicolò, and enjoy a coffee on the waterfront before the return to Verona."
+    }
+  ],
+  "included": [
+    "Air-conditioned coach transport from Verona",
+    "Lake Garda boat cruise",
+    "Professional English-speaking guide",
+    "Free time in Sirmione and Lazise"
+  ],
+  "excluded": [
+    "Scaligero Castle entrance fee (approx. €8)",
+    "Grotte di Catullo entrance fee (approx. €8)",
+    "Meals and drinks",
+    "Hotel pickup (central Verona meeting point)"
+  ],
+  "meeting_point": "Central Verona meeting point near the Arena (confirmed upon booking). Return by early evening.",
+  "tips": [
+    "If you have a morning before the tour, Verona's own Castelvecchio museum (a Scaligero fortress) is 5 minutes from the meeting point",
+    "The thermal beaches at the tip of the Sirmione peninsula are excellent for a swim during free time in summer",
+    "Lazise is considerably quieter than Sirmione — great for photos of the intact medieval walls",
+    "Book the castle entrance tickets online for Sirmione to skip the queue at the gate"
+  ],
+  "faqs": [
+    {
+      "question": "Is there a connection between Verona and the Scaligero castles?",
+      "answer": "Yes — the Scaligeri (della Scala) were the lords of Verona from 1262 to 1387. They built the Castelvecchio in Verona, the castle at Sirmione, the walls of Lazise, and fortresses across Lake Garda and the Veneto to defend their domain. Their tombs (the Arche Scaligere) are still visible in central Verona."
+    },
+    {
+      "question": "Can I combine this tour with a morning in Verona?",
+      "answer": "Yes — most departures leave at mid-morning, leaving time to visit the Roman Arena, Juliet's balcony, and the Castelvecchio before joining the group."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/verona-sirmione-lake-garda-scaligero-cruise.webp",
+    "alt": "Lake Garda panorama with medieval tower and crystal-clear water",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Sirmione & Lake Garda Castle Tour from Verona | Castles & Palaces",
+    "description": "Day tour from Verona to Lake Garda: explore the Scaligero Castle of Sirmione, cruise past the medieval walls of Lazise, and discover the dynasty that built the most beautiful fortresses in northern Italy. Book on GetYourGuide."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "carcassonne",
+  "name": "Carcassonne",
+  "local_name": "Cité de Carcassonne",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 3000000,
+  "country": "france",
+  "region": "Occitanie",
+  "nearest_city": "Carcassonne",
+  "address": "Château Comtal, Rue Viollet-le-Duc, 11000 Carcassonne, France",
+  "lat": 43.2074,
+  "lng": 2.3642,
+  "unesco": true,
+  "year_built": 100,
+  "architectural_style": "Gallo-Roman walls, Visigothic towers, medieval additions — comprehensively restored by Viollet-le-Duc 1853–1879",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Apr–Sep: 10:00–18:30. Oct–Mar: 10:00–17:00. Closed 1 Jan, 1 May, 1 Nov, 25 Dec. The outer town is always free to walk."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.carcassonne.org/",
+  "visit_duration": "3–4 hours",
+  "best_season": "April to June and September–October — fewer summer crowds, comfortable weather",
+  "accessibility": "The outer walls are paved but uneven. The inner castle (Château Comtal) has some steps. The free outer town is accessible on level ground.",
+  "booking_advance_days": 0,
+  "tagline": "The largest medieval walled city in Europe — two kilometres of ramparts rising from the plains of Languedoc",
+  "highlights": [
+    "The double ring of ramparts — 3 kilometres of walls with 52 towers, largely intact and walkable",
+    "The Château Comtal — the inner castle within the Cité, with a museum of the city's history and views from the towers",
+    "The Cité — a complete medieval walled town with cobbled streets, restaurants and hotels within the walls",
+    "The view from the lower town — the skyline of towers against the Pyrenees on a clear day is one of France's great panoramas",
+    "The Bastille Day fireworks — the 14th July fireworks display over the Cité is considered the most spectacular in France"
+  ],
+  "description": "Carcassonne is not merely a castle but a complete walled medieval city — the Cité de Carcassonne — with two concentric rings of ramparts totalling over 3 kilometres, 52 towers, and within the walls a settlement of narrow cobbled streets, a Romanesque cathedral, the inner fortress of the Château Comtal, and even hotels and restaurants. It is the largest fortified medieval city in Europe and one of the most visited monuments in France: around 3 million people a year climb the slope from the lower town to walk the ramparts.\n\nThe walls themselves span two millennia: the lowest courses are Gallo-Roman from the 1st–3rd centuries AD; the round towers are Visigothic (5th–7th centuries); the pointed towers and most of the visible fabric are medieval, added by the French crown after the Cathar Crusade of the 13th century brought the city under royal control. The comprehensive restoration by Eugène Viollet-le-Duc between 1853 and 1879 is responsible for much of the dramatic appearance — the pointed slate cone roofs on the towers, for instance, are his invention rather than medieval practice, and are historically questionable but visually indispensable.\n\nThe Cité is one of the most atmospheric places in France on a summer evening, when the day visitors have departed and the hotel guests have the ramparts largely to themselves. The view of the towers against the Pyrenees at sunset, or the walls illuminated at night, is one of the most memorable in European travel.",
+  "history": "The site of Carcassonne has been fortified since before Roman times, and the earliest visible walls — the lower courses of the outer ramparts — are Gallo-Roman work of the 1st–3rd centuries AD. After the fall of Rome, the Visigoths occupied the city and added their characteristic horseshoe towers (distinguishable by their Visigothic construction technique) in the 5th–6th centuries. The Franks took the city in the 8th century, and it subsequently became part of the County of Carcassonne.\n\nThe city's most dramatic medieval episode was its role in the Cathar Crusade of 1209–29. The Cathars were a Christian dualist sect with a large following in Languedoc; Pope Innocent III declared a crusade against them, and northern French forces besieged and took Carcassonne in 1209. The city eventually came under direct French royal control in 1247, and the French crown invested heavily in strengthening the fortifications — adding the outer ring of walls and rebuilding many towers. The city was never taken again. When Viollet-le-Duc began his restoration in 1853, the ramparts were ruinous and partially inhabited by squatters; his work, though historically contested, saved the city.",
+  "how_to_visit": "**Getting there:** Carcassonne has a TGV station with direct services from Paris (4.5 hours), Toulouse (50 minutes) and Montpellier (1.5 hours). The Cité is 2km from the station — taxi, bus (line 4) or a scenic 25-minute walk.\n\n**Free vs. paid:** The outer town (Cité) and rampart walks are free. The inner Château Comtal has an admission fee. The best way to experience the Cité is to arrive in the late afternoon after most tour buses have left — the cobbled streets become much more pleasant after 17:00.\n\n**Combine with:** The Canal du Midi (UNESCO — one of the world's great engineering feats, walkable and cyclable from Carcassonne), the Cathar castles of the Ariège (Montségur, Peyrepertuse — dramatic clifftop ruins 1 hour by car), and Toulouse (50 minutes).",
+  "faqs": [
+    {
+      "question": "Is the whole of Carcassonne free to visit?",
+      "answer": "The medieval town within the walls (La Cité) is free to enter and walk through — the cobbled streets, rampart walk between the two rings of walls, and the general atmosphere are all free. The Château Comtal, the inner fortress, and the museum inside it require a paid ticket (around €10 for adults, free under 18). The most popular activity — walking the outer ramparts with views over the lower town and Pyrenees — is free and very worthwhile."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/carcassonne.webp",
+    "alt": "Carcassonne's double ring of towers and ramparts rising above the Languedoc plain at sunset",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/carcassonne.webp",
+  "instagram_tag": "#carcassonne",
+  "meta_title": "Carcassonne: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Carcassonne — Europe's largest medieval walled city and UNESCO World Heritage Site. Book tickets, walk the ramparts and explore 2,000 years of fortifications.",
+  "tags": [
+    "medieval",
+    "unesco",
+    "dramatic",
+    "instagram-worthy",
+    "walled-city"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "south-france-heritage"
+  ],
+  "nearby_castles": [
+    "alhambra-granada",
+    "alcazar-seville",
+    "alcazar-of-segovia"
+  ],
+  "gyg_location_id": "504",
+  "gyg_search_query": "Carcassonne walled city tour France",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

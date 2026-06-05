@@ -1,0 +1,111 @@
+{
+  "id": "schonbrunn-palace",
+  "name": "Schönbrunn Palace",
+  "local_name": "Schloss Schönbrunn",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 2500000,
+  "country": "austria",
+  "region": "Vienna",
+  "nearest_city": "Vienna",
+  "address": "Schönbrunner Schloßstraße 47, 1130 Vienna, Austria",
+  "lat": 48.1845,
+  "lng": 16.3122,
+  "unesco": true,
+  "year_built": 1696,
+  "architectural_style": "Baroque",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Jan–Mar & Nov: 09:00–17:00; Apr–Jun & Sep–Oct: 09:00–17:30; Jul–Aug: 09:00–18:30. Gardens open daily from 06:30 (free)."
+  },
+  "price_adult": 22,
+  "price_child": 14,
+  "booking_required": false,
+  "official_tickets_url": "https://www.schoenbrunn.at/en/",
+  "visit_duration": "2–4 hours",
+  "best_season": "Spring (April–May) for the gardens in bloom; December for the famous Christmas market",
+  "accessibility": "The palace is partially accessible. The Grand Tour rooms include level access to most apartments. Gardens fully accessible. Audio guide includes accessibility information.",
+  "booking_advance_days": 3,
+  "tagline": "Vienna's imperial summer palace, where Mozart played and Sisi reigned",
+  "highlights": [
+    "1,441 rooms of Habsburg imperial grandeur, 45 open to visitors",
+    "The Gloriette — a hilltop colonnade with the finest panoramic view of Vienna",
+    "The world's oldest continually operating zoo, opened in 1752 in the palace grounds",
+    "The gardens are a UNESCO World Heritage Site along with the palace itself",
+    "Napoleon Bonaparte used the palace as his headquarters in 1805 and 1809"
+  ],
+  "description": "If Versailles represents the peak of French royal ambition, Schönbrunn is its Viennese answer — and in some respects its superior. The Habsburg summer palace stands at the western edge of Vienna, its 1,441 rooms spread across an ochre-yellow Baroque facade that stretches 186 metres end to end. The formal gardens extend south for a kilometre, rising to the Gloriette, a hilltop colonnade from whose terrace you see the entire city laid out below.\n\nThe palace interior balances imperial grandeur with something more personal. The Habsburg dynasty lived at Schönbrunn for centuries, and the rooms reflect real lives within the ceremonial shell: the apartment of Franz Joseph I, Emperor of Austria for 68 years, is furnished with almost shocking modesty; the rooms of his wife Elisabeth ('Sisi'), one of history's most romanticised queens, retain the gymnasium equipment she had installed for her obsessive exercise regime. The contrast with the gold-encrusted state rooms is striking.\n\nThe palace's Rococo state apartments — the Hall of Ceremonies, the Chinese Salon, the Millions Room with its rosewood panels — represent the peak of 18th-century Central European decorative arts. The six-year-old Mozart performed for Empress Maria Theresa in the Mirror Room in 1762 and, according to legend, proposed to the young Archduchess Marie Antoinette after the concert.\n\nIn the grounds, the world's oldest zoo (1752), the largest Baroque orangery in the world, and a maze and labyrinth make Schönbrunn one of the most complete palace complexes in Europe.",
+  "history": "The site of Schönbrunn was a hunting ground long before it became a palace. The name — 'beautiful spring' — refers to a fresh water spring discovered here by Emperor Matthias during a hunting expedition in 1619. His successor Ferdinand II built a small imperial hunting lodge on the site.\n\nThe palace as it stands today was conceived by Emperor Leopold I following the defeat of the Ottoman siege of Vienna in 1683. Commissioned in 1693, the architect Johann Bernhard Fischer von Erlach created a design of extraordinary ambition — a palace to surpass Versailles itself. The final execution was more modest, but still magnificent: 1,441 rooms in a Baroque complex completed mainly under Empress Maria Theresa between 1740 and 1780, who made it her primary residence and the centre of the Habsburg court.\n\nMaria Theresa's reign at Schönbrunn coincided with the peak of Viennese cultural life. She had 16 children, including Marie Antoinette (later Queen of France) and Joseph II, whose reforms attempted to modernise the Habsburg empire. The young Mozart was one of many musicians who performed here.\n\nNapoleon occupied the palace twice, using it as his headquarters during the campaigns of 1805 and 1809. His young son, the Duke of Reichstadt, lived at Schönbrunn in gilded captivity after his father's fall, dying of tuberculosis there in 1832 at the age of 21.\n\nEmperor Franz Joseph I was born at Schönbrunn in 1830 and died there in 1916, having reigned for 68 years. His death came during the First World War, two years before the Habsburg Empire itself collapsed. In November 1918, the last Austrian Emperor, Karl I, signed his abdication documents at Schönbrunn. The palace became state property and has been open to the public ever since.",
+  "how_to_visit": "**Getting there:** Schönbrunn is one of Vienna's most accessible attractions. Take U4 metro line to Schönbrunn station — the palace is directly visible from the exit. Journey time from central Vienna (Karlsplatz) is about 10 minutes. Trams 10, 58 and 60 also serve the area.\n\n**Tickets:** The Grand Tour (45 rooms, €22 adults) is the most popular option and covers the principal state apartments and private rooms. The Imperial Tour (22 rooms, €16.50) is shorter. Both include audio guides. A Classic Pass (€32) adds the Gloriette, maze and privy garden. Buy online to skip morning queues.\n\n**The Gloriette:** The hilltop colonnade at the end of the garden axis is free to approach but charges for interior access (€4.50). The view from the terrace, looking over the gardens to the palace and Vienna beyond, is one of the great urban panoramas of Europe. Best at golden hour.\n\n**Zoo:** The Schönbrunn Zoo (Tiergarten Schönbrunn) in the palace grounds is the world's oldest, opened 1752. It still uses the original Baroque circular layout with a pavilion at the centre. Buy a combined palace+zoo ticket online for a full day.\n\n**Christmas Market:** From late November to December 26, the palace forecourt hosts one of Vienna's finest Christmas markets. Illuminated decorations, traditional food stalls, mulled wine, and the Baroque facade lit at night — an unmissable experience.",
+  "faqs": [
+    {
+      "question": "How do I get to Schönbrunn Palace from central Vienna?",
+      "answer": "Take the U4 (green) metro line to Schönbrunn station — the palace is directly visible as you exit. The journey from Karlsplatz in the city centre takes about 10 minutes and costs the standard Vienna transit fare. The palace grounds open at 06:30, so early morning visits are possible. From Vienna Airport, take the City Airport Train (CAT) or S-Bahn to Wien Mitte, then U4 to Schönbrunn."
+    },
+    {
+      "question": "What is the difference between the Grand Tour and Imperial Tour at Schönbrunn?",
+      "answer": "The Grand Tour (45 rooms, €22) includes all the major state apartments, the Ceremonial Hall, the Hall of Mirrors and the private rooms of Franz Joseph and Elisabeth. It takes about 50 minutes. The Imperial Tour (22 rooms, €16.50) covers the most important rooms but skips some of the private apartments. For most visitors, the Grand Tour is worth the extra cost. Both include a multilingual audio guide."
+    },
+    {
+      "question": "Is the Schönbrunn garden free?",
+      "answer": "Yes — the formal gardens and main park are free to enter and open daily from 06:30. You can walk the entire garden axis, visit the Neptune Fountain and reach the base of the Gloriette hill at no charge. Entering the Gloriette interior, the maze, the privy garden and the children's museum requires a separate ticket or combined pass."
+    },
+    {
+      "question": "What is the best thing to see at Schönbrunn?",
+      "answer": "The Hall of Mirrors (where Mozart performed), the private apartments of Empress Elisabeth, and the view from the Gloriette terrace are the three highlights that stay with most visitors. The contrast between the ornate state rooms and the surprisingly modest private apartments of Franz Joseph tells the story of the Habsburg dynasty better than any museum exhibit."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schonbrunn-palace.webp",
+    "alt": "Schönbrunn Palace in Vienna from the Gloriette, with formal gardens stretching toward the ochre Baroque facade",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schonbrunn-palace.webp",
+  "instagram_tag": "#schonbrunn",
+  "meta_title": "Schönbrunn Palace Vienna: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Plan your visit to Schönbrunn Palace in Vienna. Buy Grand Tour tickets, explore the gardens and Gloriette, and discover the Habsburg imperial apartments.",
+  "tags": [
+    "baroque",
+    "17th-century",
+    "18th-century",
+    "royal-residence",
+    "unesco-world-heritage",
+    "instagram-worthy",
+    "family-friendly",
+    "accessible"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "central-europe-palaces"
+  ],
+  "nearby_castles": [
+    "hohensalzburg-fortress"
+  ],
+  "gyg_location_id": "97",
+  "gyg_search_query": "Schönbrunn Palace Vienna tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "471518",
+      "title": "Vienna: Schönbrunn Palace Skip-the-Line Tour",
+      "type": "skip_the_line",
+      "duration": "1–2.5 hours",
+      "price_from": 18,
+      "rating": 4.8,
+      "reviews": 6310,
+      "covers_castles": []
+    }
+  ]
+}

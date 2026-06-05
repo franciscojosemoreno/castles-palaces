@@ -1,0 +1,98 @@
+{
+  "id": "luxembourg-vianden-beaufort-castles-tour",
+  "slug": "luxembourg-vianden-beaufort-castles-tour",
+  "name": "Luxembourg: Vianden Castle, Beaufort Ruins & Medieval Echternach",
+  "tagline": "Two extraordinary medieval fortresses — a perfectly preserved Gothic castle and dramatic hilltop ruins — in Europe's most castle-dense small country",
+  "departure_country": "luxembourg",
+  "departure_city": "Luxembourg City",
+  "visited_countries": [
+    "luxembourg"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "389003",
+  "gyg_url": "https://www.getyourguide.com/luxembourg-l430/luxembourg-city-hop-on-hop-off-castles-nature-day-tour-t389003/",
+  "price_from": 55,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 340,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 20,
+  "overview": "Luxembourg may be Europe's smallest independent state, but it is among its most castle-rich. The small country's position at the crossroads of France, Germany and the Low Countries made every hilltop a strategic fortress for 1,500 years — from Roman watchtowers to Carolingian keeps to the great medieval strongholds of the Counts of Vianden and Luxembourg. This tour explores the Mullerthal region — Luxembourg's 'Little Switzerland' — and visits two of the country's finest medieval fortifications. Beaufort Castle is one of the most atmospheric medieval ruins in the Benelux region: a 12th-century keep expanded in the 15th century, now overgrown with ivy and surrounded by forest, with a Renaissance château attached. Vianden Castle is the crown jewel of Luxembourg's heritage — a vast Romanesque and Gothic palace-fortress on a rocky spur above the Our River valley, one of the most impressive medieval castles west of the Rhine. The tour also visits Echternach, Luxembourg's oldest town, founded by the English missionary St Willibrord in 698 on the site of a Roman villa.",
+  "highlights": [
+    "Vianden Castle — one of the finest Romanesque-Gothic palatial castles in western Europe, associated with Victor Hugo and the Counts of Nassau",
+    "Beaufort Castle ruins — a 12th-century ivy-clad keep in the Mullerthal forest, one of the most atmospheric medieval ruins in the Benelux",
+    "Mullerthal Trail — Luxembourg's 'Little Switzerland', with sandstone rock formations, ancient beech forest and waterfalls",
+    "Echternach — Luxembourg's oldest town, founded by an English saint in 698 AD, with Roman mosaics and a Carolingian basilica",
+    "The Our River valley — one of the most scenic medieval castle landscapes in the Ardennes",
+    "Victor Hugo in Vianden — the exiled French author spent summers in Vianden in the 1860s and wrote extensively about the castle"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Beaufort Castle",
+      "duration": "1.5 hours",
+      "description": "Beaufort Castle was built in the 12th century by the Lords of Beaufort on a rocky promontory in the Mullerthal forest — one of the most dramatically positioned medieval castles in Luxembourg. The original Romanesque keep was expanded through the 15th century, and a Renaissance château was added in the 16th century by the Salm family. The castle was abandoned in 1795 and its stone was subsequently quarried for local construction, leaving the atmospheric roofless ruins visible today — ivy-covered towers, collapsed vaulted halls and a still-intact underground cistern. The Beaufort lords were notorious for their blackcurrant liqueur (cassis), still produced today under the Beaufort name from the castle's orchards."
+    },
+    {
+      "order": 2,
+      "castle_name": "Mullerthal & Echternach",
+      "duration": "1 hour",
+      "description": "The Mullerthal region — named for its mill valleys — contains Luxembourg's most distinctive landscape: sandstone rock formations worn into extraordinary shapes by millions of years of erosion, ancient beech forest, and clear streams. The guide covers the region's medieval history and the story of Echternach — Luxembourg's oldest town, founded in 698 by the Northumbrian missionary St Willibrord (later venerated as the Apostle of the Frisians). His basilica still stands in the town centre, rebuilt in Romanesque style in the 11th century on the site of the original 7th-century abbey."
+    },
+    {
+      "order": 3,
+      "castle_name": "Vianden Castle",
+      "duration": "2.5 hours",
+      "description": "Vianden Castle is the most impressive medieval castle in Luxembourg and one of the finest examples of Romanesque-Gothic palatial architecture west of the Rhine. The castle was the seat of the Counts of Vianden — one of the most powerful dynasties in the medieval Low Countries — from the 11th to the 14th century. Their palace included an extraordinary circular Romanesque chapel (one of only a handful in western Europe), vast Gothic halls, and a defensive system of towers and curtain walls enclosing the entire hilltop. The castle passed to the House of Nassau-Orange in the 14th century and was eventually inherited by William of Orange — the same dynasty that provided stadholders to the Dutch Republic and King William III of England. Victor Hugo, exiled from France by Napoleon III, spent several summers in Vianden in the 1860s and wrote extensively about the castle. The restored castle offers views over the entire Our River valley toward Germany."
+    }
+  ],
+  "included": [
+    "Return transport from Luxembourg City",
+    "Professional English-speaking guide",
+    "Beaufort Castle entry",
+    "Vianden Castle entry",
+    "Small group (max 20)"
+  ],
+  "excluded": [
+    "Lunch (free time in Echternach or Vianden town)",
+    "Vianden chairlift (optional, ~€5)",
+    "Victor Hugo House Museum in Vianden (optional, ~€4)",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Luxembourg City centre — exact departure point confirmed at booking",
+  "tips": [
+    "Take the Vianden chairlift for aerial views of the castle and the Our valley — it is one of the best perspectives on the castle's scale",
+    "Luxembourg's medieval heritage is completely underrated — Vianden Castle rivals any castle in France or Germany but receives a fraction of the visitors",
+    "The Beaufort cassis (blackcurrant liqueur) has been made from the castle's orchards for centuries — pick up a bottle in the village",
+    "Echternach's Benedictine dancing procession on Whit Tuesday is UNESCO-listed — if visiting in May or June, check the date"
+  ],
+  "faqs": [
+    {
+      "question": "What is the connection between Vianden Castle and Victor Hugo?",
+      "answer": "Victor Hugo was exiled from France by Napoleon III following the 1851 coup and spent most of his exile in Guernsey and Brussels. Between 1862 and 1871 he made several summer visits to Vianden, staying in a house on the main street (now the Victor Hugo House Museum). He wrote extensively about the castle and the Our valley in his travel journals, and produced a series of drawings of the castle that remain among the most famous images of Luxembourg. His visits helped establish Vianden's reputation as a romantic destination."
+    },
+    {
+      "question": "How many castles does Luxembourg have?",
+      "answer": "Luxembourg has approximately 60 castles and castle ruins — an extraordinary number for a country of 2,600 square kilometres. The concentration is higher than almost any other European country. This is a direct result of Luxembourg's strategic position: every invading army from the Romans to Napoleon had to cross its territory, making hilltop fortifications essential. Luxembourg City itself was one of the most fortified cities in Europe until the Congress of Vienna (1867) required its fortifications to be demolished."
+    },
+    {
+      "question": "Who were the Counts of Vianden?",
+      "answer": "The Counts of Vianden were one of the most powerful noble dynasties in the medieval Low Countries, ruling a county that straddled the Our River valley from the 11th to the 14th century. They were closely linked to the Holy Roman Empire and the Counts of Luxembourg, and their dynasty produced several bishops of Utrecht and abbots of major Benedictine monasteries. The county passed to the House of Nassau in 1417 through marriage, eventually becoming part of the inheritance of William the Silent, leader of the Dutch Revolt and ancestor of the current Dutch and British royal families."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/luxembourg-vianden-beaufort-castles-tour.webp",
+    "alt": "Vianden Castle rising above the Our River valley on its rocky spur, Luxembourg",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Luxembourg: Vianden Castle, Beaufort Ruins & Echternach Day Tour",
+    "description": "Full-day tour from Luxembourg City to Vianden Castle and Beaufort ruins in the Mullerthal — two of Europe's finest medieval fortresses in one of the continent's most castle-dense small countries."
+  }
+}

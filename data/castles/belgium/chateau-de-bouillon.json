@@ -1,0 +1,82 @@
+{
+  "id": "chateau-de-bouillon",
+  "name": "Bouillon Castle",
+  "local_name": "Château de Bouillon",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 180000,
+  "country": "belgium",
+  "region": "Wallonia, Luxembourg Province",
+  "nearest_city": "Liège",
+  "address": "Rue du Château 1, 6830 Bouillon, Belgium",
+  "lat": 49.7939,
+  "lng": 5.0642,
+  "unesco": false,
+  "year_built": 988,
+  "architectural_style": "Medieval / Vauban",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Extended to 18:00 July and August. Open daily March to November. Reduced hours December to February."
+  },
+  "price_adult": 10,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.bouillon-initiative.be",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — steep paths and stairs throughout",
+  "booking_advance_days": 0,
+  "tagline": "The castle of Godfrey of Bouillon — leader of the First Crusade",
+  "highlights": [
+    "Home of Godfrey of Bouillon, leader of the First Crusade (1096)",
+    "One of the oldest and best-preserved medieval castles in Belgium",
+    "Dramatically wrapped around a rocky loop of the Semois River",
+    "Underground passages and dungeons open to explore",
+    "Spectacular views over the Ardennes forest from the battlements"
+  ],
+  "description": "Bouillon Castle is the most historically charged medieval fortress in Belgium — the ancestral seat of Godfrey of Bouillon, who sold or mortgaged the castle to finance his participation in the First Crusade in 1096 and went on to become the first ruler of the Crusader Kingdom of Jerusalem. The castle wraps dramatically around a rocky spur almost entirely enclosed by a loop of the Semois River, deep in the Ardennes forest. First documented in 988, it is one of the oldest castles in Belgium and preserves an impressive sequence of medieval towers, underground passages, and Vauban-era modifications. The surrounding town of Bouillon is the most picturesque in the Belgian Ardennes, its slate-roofed houses mirrored in the river below the fortress walls.",
+  "history": "The castle was first documented in 988 as a stronghold of the Counts of Ardennes. It became the seat of the Duchy of Bouillon and the birthplace of Godfrey of Bouillon, who sold it to the Prince-Bishop of Liège in 1096 to finance the First Crusade. After Godfrey captured Jerusalem in 1099, becoming its first ruler, the castle passed through various hands including the French crown and the Prince-Bishops of Liège. It was modified by the military engineer Vauban in the 17th century. Belgium acquired it after independence in 1830.",
+  "how_to_visit": "Bouillon is in the southern Belgian Ardennes, 30 km south of Bastogne and 20 km from the French border. By car from Brussels it takes about 2.5 hours via the E411. No direct train; buses run from Libramont station. The town is a popular weekend destination from Belgium, Luxembourg, and northern France. Kayaking on the Semois river offers a spectacular view of the castle from the water.",
+  "faqs": [
+    {
+      "question": "Who was Godfrey of Bouillon?",
+      "answer": "A medieval Frankish knight who sold Bouillon Castle to finance the First Crusade in 1096. He became the leader of the Crusader forces that captured Jerusalem in 1099 and was offered the title of King, which he refused, calling himself instead 'Advocate of the Holy Sepulchre.' He is one of medieval Europe's most celebrated heroes."
+    },
+    {
+      "question": "Can I kayak on the Semois river?",
+      "answer": "Yes — kayaking on the Semois is one of the most popular activities at Bouillon, with several operators offering routes that pass below the castle walls. A highly recommended way to see the fortress."
+    },
+    {
+      "question": "Are there underground passages to explore?",
+      "answer": "Yes — the castle has an extensive network of underground passages, dungeons, and storage rooms open to visitors, some requiring low ducking."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-bouillon.webp",
+    "alt": "Château de Bouillon wrapped around a rocky river loop in the Belgian Ardennes",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-bouillon.webp",
+  "instagram_tag": "#chateaudebouillon",
+  "meta_title": "Bouillon Castle, Belgium — Home of the First Crusade's Leader in the Ardennes",
+  "meta_description": "Visit Château de Bouillon in the Belgian Ardennes — the medieval castle of Godfrey of Bouillon, leader of the First Crusade, wrapped around a Semois river loop.",
+  "tags": ["medieval", "belgian-castle", "ardennes", "crusades", "godfrey-of-bouillon"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["namur-citadel"],
+  "gyg_location_id": "2385",
+  "gyg_search_query": "Bouillon Castle Belgium Ardennes tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

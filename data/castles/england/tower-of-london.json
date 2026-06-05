@@ -1,0 +1,94 @@
+{
+  "id": "tower-of-london",
+  "name": "Tower of London",
+  "local_name": "Her Majesty's Royal Palace and Fortress of the Tower of London",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 10,
+  "annual_visitors": 3000000,
+  "country": "england",
+  "region": "Greater London",
+  "nearest_city": "London",
+  "address": "Tower Hill, London EC3N 4AB, England",
+  "lat": 51.5081,
+  "lng": -0.0759,
+  "unesco": true,
+  "year_built": 1078,
+  "architectural_style": "Norman, Medieval — White Tower 1078, outer walls 13th century",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Tue–Sat 09:00–17:30, Sun–Mon 10:00–17:30 (summer). Nov–Feb closes 16:30. Closed 24–26 Dec and 1 Jan."
+  },
+  "price_adult": 34,
+  "price_child": 17,
+  "booking_required": true,
+  "official_tickets_url": "https://www.hrp.org.uk/tower-of-london/",
+  "visit_duration": "3–4 hours",
+  "best_season": "March and October — fewer crowds, comfortable weather, good light",
+  "accessibility": "Some areas have cobblestones and steps. The Crown Jewels, White Tower and main exhibits are accessible. Audio guides and large-print guides available.",
+  "booking_advance_days": 14,
+  "tagline": "A thousand years of royal history — palace, prison, treasury and fortress on the Thames",
+  "highlights": [
+    "The Crown Jewels — the actual crowns, orbs and sceptres used in British coronations, guarded by the Yeoman Warders",
+    "The White Tower — the Norman keep built by William the Conqueror in 1078, now housing the Royal Armouries collection",
+    "The Yeoman Warders (Beefeaters) — ceremonial guards who also serve as guides and have lived within the Tower since 1485",
+    "The Ravens — at least six ravens must reside at the Tower by royal decree, or 'the kingdom will fall'",
+    "Traitors' Gate — the watergate through which prisoners accused of treason arrived by boat from Westminster"
+  ],
+  "description": "The Tower of London has been simultaneously a royal palace, a prison of state, a treasury, a menagerie and an execution ground across its near-thousand-year history. Built by William the Conqueror after the Norman Conquest of 1066, the White Tower — the original square keep — still stands at the heart of the complex, surrounded by concentric rings of walls, towers and a moat (now dry) added by later medieval kings.\n\nToday the Tower is most famous for two things: the Crown Jewels and the Yeoman Warders. The Jewel House holds the actual regalia used in British coronations — St. Edward's Crown, the Sovereign's Orb, the Sceptre with the Cross — along with the Koh-i-Noor diamond set into a queen consort's crown. Visitors pass the display on moving walkways to prevent bottlenecks, but it is possible to step off and stand still before the jewels. The Yeoman Warders, popularly called Beefeaters, have guarded the Tower since the 15th century. They live within the walls, serve as guides, and conduct the nightly Ceremony of the Keys — the formal locking of the Tower's gates, performed without interruption for over 700 years.\n\nThe Tower's dark history is inseparable from English history. Anne Boleyn, Catherine Howard, Lady Jane Grey, Thomas More and Walter Raleigh all spent time here, and many were executed either on Tower Green (for those of noble rank) or on Tower Hill outside the walls. The two young princes — Edward V and his brother — disappeared within the Tower in 1483 in a mystery that remains unsolved.",
+  "history": "William the Conqueror began building the White Tower around 1078 as both a fortress and a symbol of Norman power over his newly conquered English subjects. The choice of site, just inside the old Roman city walls on the Thames, was strategic: it controlled river traffic into London and overlooked the city's wealthiest district. Subsequent kings expanded the complex — Richard I and Henry III added outer walls and towers, Edward I completed the concentric fortification and created the moat.\n\nFrom the 13th to the 16th centuries the Tower served as the principal royal palace in London, as the country's main state prison, and as the repository of the royal treasury and records. The Tudor monarchs used it most dramatically as a political prison: the Tower saw the execution of two of Henry VIII's wives and contained, at various times, almost every major figure in the turbulent politics of the English Reformation. Elizabeth I was herself briefly imprisoned there before becoming queen. After the Restoration in 1660, the Tower's role as a residence faded, but it remained a prison until 1952, when Rudolf Hess was held there briefly during World War II.",
+  "how_to_visit": "**Getting there:** Tower Hill Underground station (Circle and District lines) is directly outside. London Bridge station (5-minute walk across Tower Bridge) also works well. Thames Clipper river buses stop at Tower Pier.\n\n**Tickets:** Book online well in advance — the Tower sells out on busy days and online tickets include a timed entry slot. Audio tours are included in admission. The Yeoman Warder guided tours (free with entry) leave from the main gate every 30 minutes and are excellent.\n\n**Ceremony of the Keys:** This ancient locking ceremony (every night at 21:30) requires free tickets booked months in advance at the Historic Royal Palaces website. Only around 40 people are admitted per night.\n\n**Crown Jewels tip:** Arrive early to avoid the longest queues. The moving walkways can be stepped off to view the main display cases at your own pace.\n\n**Combine with:** Tower Bridge (adjacent, with its glass floor walkway), Borough Market (10-minute walk), the Monument to the Great Fire of London, and Shakespeare's Globe Theatre are all walkable.",
+  "faqs": [
+    {
+      "question": "Why are ravens kept at the Tower of London?",
+      "answer": "According to tradition, at least six ravens must live at the Tower at all times, or the kingdom and the Tower will fall. The ravens are resident birds whose wings are partially clipped to prevent flight. They have individual names and personalities and are cared for by the Ravenmaster, a Yeoman Warder. The tradition is often attributed to Charles II, though its exact origins are unclear. The current ravens are Jubilee, Harris, Gripp, Rocky, Erin, Poppy, George and Georgie."
+    },
+    {
+      "question": "Can I see the real Crown Jewels at the Tower of London?",
+      "answer": "Yes — the Crown Jewels on display in the Jewel House are the actual regalia used in British coronations, not replicas. They include St. Edward's Crown (used to crown the monarch), the Imperial State Crown (worn afterwards), the Sovereign's Orb, and the Sceptre with the Cross. The collection also includes several crowns made for queen consorts, including one set with the 105-carat Koh-i-Noor diamond."
+    },
+    {
+      "question": "What is the Ceremony of the Keys at the Tower of London?",
+      "answer": "The Ceremony of the Keys is the formal locking of the Tower's gates, performed every night at 21:30. The Chief Yeoman Warder carries a lantern and the Queen's (or King's) Keys through the Tower, locking each gate. The ceremony ends with a sentry challenging the party and the Warder declaring 'The keys of King Charles'. It has been performed without interruption for over 700 years. Free tickets must be booked months in advance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/tower-of-london.webp",
+    "alt": "The Tower of London with Tower Bridge visible behind it at dusk, reflected in the Thames",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/tower-of-london.webp",
+  "instagram_tag": "#toweroflondon",
+  "meta_title": "Tower of London: Tickets, Crown Jewels & Visitor Guide 2026",
+  "meta_description": "Visit the Tower of London — home of the Crown Jewels and the Yeoman Warders. Book tickets, see the White Tower and explore 1,000 years of royal history on the Thames.",
+  "tags": [
+    "medieval",
+    "royal-residence",
+    "unesco",
+    "family-friendly",
+    "city-centre"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "english-royal-castles"
+  ],
+  "nearby_castles": [
+    "windsor-castle",
+    "warwick-castle",
+    "bodiam-castle"
+  ],
+  "gyg_location_id": "59",
+  "gyg_search_query": "Tower of London tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,82 @@
+{
+  "id": "yedikule-fortress",
+  "name": "Yedikule Fortress",
+  "local_name": "Yedikule Hisarı",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "turkey",
+  "region": "Istanbul, European side",
+  "nearest_city": "Istanbul",
+  "address": "Yedikule, 34020 Fatih/Istanbul, Turkey",
+  "lat": 40.9993,
+  "lng": 28.9199,
+  "unesco": true,
+  "year_built": 413,
+  "architectural_style": "Byzantine / Ottoman",
+  "opening_hours": {
+    "monday": "09:00–18:30",
+    "tuesday": "09:00–18:30",
+    "wednesday": "09:00–18:30",
+    "thursday": "09:00–18:30",
+    "friday": "09:00–18:30",
+    "saturday": "09:00–18:30",
+    "sunday": "09:00–18:30",
+    "seasonal_note": "Open daily except Tuesdays. Hours may vary — check locally."
+  },
+  "price_adult": 4,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://muze.gov.tr",
+  "visit_duration": "1.5 hours",
+  "best_season": "Year-round",
+  "accessibility": "Limited — uneven terrain; walls and towers involve steep stairs",
+  "booking_advance_days": 0,
+  "tagline": "The Fortress of Seven Towers — where Constantinople's last emperors fell",
+  "highlights": [
+    "Part of the UNESCO Theodosian Walls — the greatest surviving Byzantine fortification",
+    "The Golden Gate — the triumphal arch through which emperors entered Constantinople",
+    "Ottoman treasury and state prison inside the towers",
+    "Inscription-covered tower walls left by imprisoned ambassadors",
+    "Panoramic views over the Sea of Marmara and Istanbul's ancient walls"
+  ],
+  "description": "Yedikule — the Fortress of Seven Towers — is one of the most historically layered monuments in Istanbul, a complex that fuses the Byzantine Theodosian Walls (413 AD) with an Ottoman citadel added by Mehmed II after the conquest of 1453. At its heart stands the Golden Gate — the magnificent triumphal marble arch through which Byzantine emperors made their ceremonial entries into Constantinople for a thousand years. After the Ottoman conquest, Mehmed II connected four Byzantine towers with three new Ottoman towers to create the seven-towered fortress that gave it its name. It served as the imperial treasury and later a notorious state prison where foreign ambassadors, deposed sultans, and political prisoners were held. The towers are covered with graffiti and inscriptions left by prisoners across the centuries — a haunting historical palimpsest. The site is part of the UNESCO-listed Theodosian Walls.",
+  "history": "The Theodosian Walls were built in 413 AD under Emperor Theodosius II and remained the main defensive circuit of Constantinople for over 1,000 years. The Golden Gate was constructed as a triumphal arch in 390 AD by Theodosius I. After the Ottoman conquest of 1453, Sultan Mehmed II built three additional towers to enclose the Byzantine gate towers, creating Yedikule as a fortress-treasury. It later became a prison for foreign ambassadors during diplomatic conflicts and for political prisoners, including several Ottoman sultans. Restoration works in the 20th century opened it as a museum.",
+  "how_to_visit": "Yedikule is in the Fatih district of Istanbul, on the European side near the Sea of Marmara. Take the suburban Marmaray or local train to Yedikule station (5 minutes' walk to the fortress). The site is also accessible by tram from Sultanahmet. Walking the Theodosian Walls between Yedikule and Edirnekapı (the main land gate) takes 2–3 hours and is one of Istanbul's great heritage walks.",
+  "faqs": [
+    {
+      "question": "What is the Golden Gate?",
+      "answer": "A monumental triumphal arch of white marble built by Emperor Theodosius I in 390 AD, through which Byzantine emperors made ceremonial entries into Constantinople after military victories. It is now enclosed within the fortress."
+    },
+    {
+      "question": "Can I walk along the Theodosian Walls?",
+      "answer": "Yes — sections of the land walls between Yedikule and Edirnekapı can be walked along the top and base, passing Byzantine towers, Ottoman restorations, and neighbourhood gardens that have grown up against the ancient masonry."
+    },
+    {
+      "question": "Is Yedikule part of a UNESCO site?",
+      "answer": "Yes — the Historic Areas of Istanbul, including the Theodosian Walls of which Yedikule is part, are a UNESCO World Heritage Site."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/yedikule-fortress.webp",
+    "alt": "Yedikule Fortress towers and Byzantine walls above the Sea of Marmara in Istanbul",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/yedikule-fortress.webp",
+  "instagram_tag": "#yedikule",
+  "meta_title": "Yedikule Fortress, Istanbul — Byzantine Golden Gate & Ottoman Prison",
+  "meta_description": "Visit Yedikule Fortress in Istanbul — the Seven Towers fortress enclosing Byzantine Constantinople's Golden Gate, part of the UNESCO Theodosian Walls.",
+  "tags": ["byzantine", "ottoman", "istanbul", "unesco-world-heritage", "walls"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["uchisar-castle"],
+  "gyg_location_id": "2731",
+  "gyg_search_query": "Yedikule Fortress Istanbul tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

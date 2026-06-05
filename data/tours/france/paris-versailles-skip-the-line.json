@@ -1,0 +1,92 @@
+{
+  "id": "paris-versailles-skip-the-line",
+  "slug": "paris-versailles-skip-the-line",
+  "name": "Palace of Versailles Skip-the-Line Half-Day Trip from Paris",
+  "tagline": "The Sun King's masterpiece — the grandest palace ever built, one hour from Paris",
+  "departure_country": "france",
+  "departure_city": "Paris",
+  "visited_countries": [
+    "france"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 4–5 hours",
+  "gyg_tour_id": "10424",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 28400,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese"
+  ],
+  "max_group_size": 20,
+  "overview": "Versailles is not just a palace — it is the physical embodiment of absolute power. Louis XIV spent 50 years transforming a hunting lodge into a statement that would define European monarchy for a century. Today it remains the most opulent royal residence on earth: the Hall of Mirrors alone stretches 73 metres, lined with 357 mirrors and 20,000 candles. Skip the queue of thousands and go straight inside with a licensed guide who brings the court of the Sun King to life.",
+  "highlights": [
+    "Skip-the-line access to the Palace of Versailles",
+    "Guided tour of the State Apartments and Hall of Mirrors",
+    "Learn the story of Louis XIV, Marie Antoinette, and the French Revolution",
+    "Free time in the formal gardens (fountain shows seasonal)",
+    "Round-trip transport from Paris included"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "palace-of-versailles",
+      "castle_name": "Grand Apartments & Hall of Mirrors",
+      "duration": "1.5 hours",
+      "description": "Skip-the-line entry directly into the State Apartments — the King's Apartments, Queen's Apartments, and the great ceremonial rooms. The Hall of Mirrors is the climax: 73 metres of gilded magnificence, where the Treaty of Versailles was signed in 1919 and the German Empire proclaimed in 1871."
+    },
+    {
+      "order": 2,
+      "castle_id": "palace-of-versailles",
+      "castle_name": "Gardens of Versailles",
+      "duration": "1.5 hours",
+      "description": "Free time in the formal gardens designed by André Le Nôtre — 800 hectares of geometry, fountains, and sculpture. On Grande Eaux days (weekends in season) the fountains play to baroque music. Walk to the Grand Canal for views back toward the palace."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Paris",
+    "Skip-the-line palace entry",
+    "Licensed guide for the State Apartments",
+    "Garden access"
+  ],
+  "excluded": [
+    "Trianon Palaces entry (optional, separate ticket)",
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Paris city centre — confirmed at booking",
+  "tips": [
+    "Go on a weekday if possible — weekend crowds at Versailles are extraordinary",
+    "The Grande Eaux Musicales fountain show (Sat/Sun, Apr–Oct) is worth planning around",
+    "The Trianon Palaces — Marie Antoinette's private retreat — are a 30-minute walk from the main palace and well worth the extra ticket",
+    "Rent a bike or golf cart inside the gardens to cover more ground efficiently"
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to see all of Versailles?",
+      "answer": "The main palace takes 1.5–2 hours with a guide. Seeing the full gardens, Grand Canal, and Trianon Palaces properly requires a full day. This tour focuses on the palace highlights with time in the main gardens."
+    },
+    {
+      "question": "Is Versailles open year-round?",
+      "answer": "Yes, with the exception of Mondays (closed) and some public holidays. The gardens are open daily. The Grandes Eaux fountain shows only run from April to October."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/paris-versailles-skip-the-line.webp",
+    "alt": "The Palace of Versailles garden facade reflected in the ornamental canal at golden hour",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Palace of Versailles Skip-the-Line Day Trip from Paris | Castles & Palaces",
+    "description": "Book the Versailles skip-the-line half-day trip from Paris. Hall of Mirrors, State Apartments, gardens. From €45. 28,000+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/paris-l16/versailles-half-day-tour-from-paris-with-guide-t10424/"
+}

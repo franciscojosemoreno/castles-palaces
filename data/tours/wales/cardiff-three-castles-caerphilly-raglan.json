@@ -1,0 +1,103 @@
+{
+  "id": "cardiff-three-castles-caerphilly-raglan",
+  "slug": "cardiff-three-castles-caerphilly-raglan",
+  "name": "From Cardiff: Three Castles & the Welsh Mountains",
+  "tagline": "The largest castle in Wales, the most dramatic of the Civil War ruins, and the leaning tower that leans more than Pisa — all in one day from Cardiff",
+  "departure_country": "wales",
+  "departure_city": "Cardiff",
+  "visited_countries": [
+    "wales"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "486798",
+  "gyg_url": "https://www.getyourguide.com/cardiff-l449/from-cardiff-three-castles-welsh-mountains-more-day-tour-t486798/",
+  "price_from": 45,
+  "currency": "GBP",
+  "rating": 4.7,
+  "review_count": 620,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "South Wales is arguably the most castle-dense landscape in Europe — more castles per square mile than anywhere else on the continent, built during two centuries of Norman and English attempts to control the Welsh. This day from Cardiff visits three of the finest: Caerphilly, the second largest castle in the UK after Windsor, built in 1268 with a water fortress covering 30 acres; Raglan, the 15th-century showpiece with its legendary hexagonal Great Tower and its extraordinary Civil War siege; and Tretower, the fortified court and tower that traces Welsh castle history from Norman motte to Lancastrian manor. The route passes through the Brecon Beacons — the mountain heartland of Wales — explaining why so many fortresses were needed to hold this landscape.",
+  "highlights": [
+    "Caerphilly Castle — 30 acres of concentric water defences, the largest medieval castle in Wales and the UK's second largest",
+    "Caerphilly's leaning tower — more vertiginous than the Leaning Tower of Pisa, caused by Civil War undermining",
+    "Raglan Castle — the 15th-century showpiece with its hexagonal Great Tower (Yellow Tower of Gwent) surrounded by its own moat",
+    "Raglan's Civil War siege (1646) — one of the last Royalist strongholds to fall to Parliament, deliberately slighted afterwards",
+    "Tretower Court & Castle — a complete Norman tower alongside a fortified medieval manor, tracing 400 years of Welsh castle evolution",
+    "Brecon Beacons — the mountain landscape that made this corridor so strategically vital for 600 years"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Cardiff Departure",
+      "duration": "Travel north (30 minutes)",
+      "description": "Head north from Cardiff into the South Wales valleys. The guide introduces the Norman and Plantagenet colonisation of Wales — the systematic castle-building programme that began with William the Conqueror and intensified under Edward I — and explains why Gilbert de Clare, Earl of Gloucester, chose the Caerphilly basin as the site for the most ambitious water fortress in medieval Britain."
+    },
+    {
+      "order": 2,
+      "castle_name": "Caerphilly Castle",
+      "duration": "2 hours",
+      "description": "Caerphilly Castle (Castell Caerffili) was built with extraordinary speed between 1268 and 1271 by Gilbert de Clare in direct response to Llywelyn ap Gruffudd's growing domination of Wales. At 30 acres it is the second largest castle in the UK after Windsor, and the largest in Wales — its scale achieved not by height but by water. Three artificial lakes, two moats, and a vast concentric ring of walls and towers transform the valley floor into a fortress that cannot be approached on any side without crossing water. The famous leaning southeast tower — which leans at a greater angle than the Tower of Pisa — was deliberately undermined during the Civil War and never restored, becoming one of the defining images of Welsh castle architecture."
+    },
+    {
+      "order": 3,
+      "castle_name": "Tretower Court & Castle",
+      "duration": "1 hour",
+      "description": "Tretower, in the Usk valley above Crickhowell, offers something unique on the Welsh castle landscape: a complete Norman round tower (c. 1230) standing immediately beside the fortified manor court built in the 14th and 15th centuries by the Picard and Vaughan families. The court's great hall, solar, and gatehouse date from the 1420s to 1480s — the same period as Raglan — and preserve the transition from purely military architecture to the comfortable defended manor that represents the end of the medieval castle tradition. The Brecon Beacons rise directly above the site."
+    },
+    {
+      "order": 4,
+      "castle_name": "Raglan Castle",
+      "duration": "2 hours",
+      "description": "Raglan Castle was built from 1431 by Sir William ap Thomas — 'the Blue Knight of Gwent' — and completed by his son William Herbert, the most powerful man in Wales in the 1460s. Its distinguishing feature is the Yellow Tower of Gwent (Great Tower): a hexagonal keep surrounded by its own water-filled moat, accessible only by a drawbridge from the main castle — a castle within a castle. Raglan was one of the last great medieval castle-building projects in Britain, conceived as both a military fortress and a grand noble residence. In 1646 it was the last Royalist stronghold in Wales to surrender to Parliamentary forces after a three-month siege. Parliament subsequently ordered the slighting of the Great Tower; its walls were undermined and partially demolished, creating the dramatic ruin visible today."
+    }
+  ],
+  "included": [
+    "Return transport from Cardiff city centre",
+    "Professional English-speaking guide",
+    "Caerphilly Castle entry",
+    "Tretower Court & Castle entry",
+    "Raglan Castle entry",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Lunch (free time at Crickhowell or Raglan village)",
+    "Optional Caerphilly town market (if day falls on a market day)"
+  ],
+  "meeting_point": "Cardiff city centre — exact location confirmed at booking",
+  "tips": [
+    "Caerphilly is best appreciated from the lakeside path to the south — the full scale of the water defences is only visible from this angle",
+    "The leaning tower at Caerphilly is more dramatic than photographs suggest — stand at the base for the full effect",
+    "Raglan village has a good pub (The Beaufort Arms, named for the family that owned the castle estates after the Civil War) for lunch before or after the castle",
+    "Tretower is less visited than the other two but architectural historians consider it one of the finest examples of the transition from castle to manor in Wales"
+  ],
+  "faqs": [
+    {
+      "question": "Why does Caerphilly Castle lean?",
+      "answer": "The southeast tower at Caerphilly was deliberately undermined during the Civil War (1640s) by Parliamentary forces attempting to make the castle indefensible. The foundations were weakened, causing the tower to tilt at approximately 10 degrees from vertical — more than the Leaning Tower of Pisa. Unlike Pisa, no attempt was ever made to stabilise or restore it, so it continues to stand in its dramatically tilted state."
+    },
+    {
+      "question": "How large is Caerphilly Castle compared to other British castles?",
+      "answer": "At 30 acres (12 hectares), Caerphilly is the second largest castle in the United Kingdom after Windsor Castle. It is the largest castle in Wales and one of the largest in Europe. Its size derives from the vast water defences rather than from height — the walls and towers are not unusually tall, but the system of lakes and moats surrounding them is extraordinary."
+    },
+    {
+      "question": "What happened to Raglan during the Civil War?",
+      "answer": "Raglan was held by the Marquess of Worcester, one of the wealthiest Royalist magnates in Britain. Parliamentary forces besieged it from June to August 1646 — the last Welsh castle to resist. After surrender, Parliament ordered the castle slighted to prevent its future military use: the Great Tower was undermined and partially demolished, lead was stripped from the roofs, and the elaborate state rooms were gutted. The ruins have been in this state ever since."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/cardiff-three-castles-caerphilly-raglan.webp",
+    "alt": "Caerphilly Castle and its vast water defences reflected in the moat lakes, South Wales",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "From Cardiff: Three Castles Day Trip — Caerphilly, Raglan & Tretower",
+    "description": "Day trip from Cardiff to three South Wales castles — Caerphilly (the UK's second largest), Raglan (Civil War siege ruin), and Tretower Court. Brecon Beacons scenery included."
+  }
+}

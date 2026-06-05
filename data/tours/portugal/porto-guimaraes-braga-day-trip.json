@@ -1,0 +1,96 @@
+{
+  "id": "porto-guimaraes-braga-day-trip",
+  "slug": "porto-guimaraes-braga-day-trip",
+  "name": "Guimarães Castle & Braga Day Trip from Porto",
+  "tagline": "The birthplace of Portugal — the 10th-century castle where Afonso Henriques founded a nation",
+  "departure_country": "portugal",
+  "departure_city": "Porto",
+  "visited_countries": [
+    "portugal"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 9 hours",
+  "gyg_tour_id": "32568",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 4100,
+  "languages": [
+    "English",
+    "Portuguese",
+    "Spanish",
+    "French"
+  ],
+  "max_group_size": 30,
+  "overview": "Guimarães is where Portugal began. In 1128, Afonso Henriques defeated his own mother's forces at the Battle of São Mamede and declared himself the first king of Portugal — founding a nation that would go on to build the first global maritime empire. The 10th-century castle that towers over the UNESCO World Heritage city centre is the most historically charged site in the country. Combined with Braga — the oldest city in Portugal and its ecclesiastical capital — this is a day trip through the origins of a civilization.",
+  "highlights": [
+    "Visit Guimarães Castle — the birthplace of Portugal",
+    "Explore the UNESCO-listed historic centre of Guimarães",
+    "See the Palace of the Dukes of Braganza",
+    "Visit Braga — Portugal's oldest city and religious capital",
+    "Round-trip transport from Porto"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "guimaraes-castle",
+      "castle_name": "Guimarães Castle",
+      "duration": "1.5 hours",
+      "description": "Climb the ten towers of Portugal's founding castle, built by Mumadona Dias in the 10th century to defend against Moorish and Viking raids. Inside the walls, the small chapel of São Miguel do Castelo marks the spot where Afonso Henriques — the first King of Portugal — was allegedly baptised. The views over the medieval city are superb."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Guimarães Historic Centre",
+      "duration": "1 hour",
+      "description": "Walk the UNESCO World Heritage city centre — one of the best-preserved medieval town centres in the Iberian Peninsula. See the Palace of the Dukes of Braganza (the finest medieval secular building in Portugal), the Largo da Oliveira with its Gothic canopy, and the cobbled streets lined with granite houses and azulejo façades."
+    },
+    {
+      "order": 3,
+      "castle_id": "",
+      "castle_name": "Braga",
+      "duration": "1.5 hours",
+      "description": "Portugal's oldest city and its religious capital — nicknamed 'the Portuguese Rome.' Visit the Se Cathedral (founded 1070), walk the Rua do Souto lined with baroque mansions, and see the Bom Jesus do Monte sanctuary rising on its hillside staircase above the city."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Porto",
+    "Expert guide",
+    "Guimarães Castle entry"
+  ],
+  "excluded": [
+    "Palace of the Dukes entry (optional, approx €5)",
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Porto city centre — confirmed at booking",
+  "tips": [
+    "Guimarães is only 50km from Porto — an easy day trip on excellent roads",
+    "The castle and palace are side by side — allow at least 2 hours for both",
+    "Try the 'torta de Guimarães' — a traditional almond and egg pastry unique to the city",
+    "Braga's Bom Jesus sanctuary staircase is a 20-minute walk uphill — worth the effort for the view"
+  ],
+  "faqs": [
+    {
+      "question": "Why is Guimarães called the birthplace of Portugal?",
+      "answer": "In 1128, Afonso Henriques won the Battle of São Mamede near Guimarães against his mother's Leonese forces and declared himself ruler of the County of Portugal. He was proclaimed the first King of Portugal in 1139, and Guimarães — where he was born and raised — became the first capital of the new kingdom."
+    },
+    {
+      "question": "How different is this from the Sintra day trip?",
+      "answer": "Very different. Sintra is about Romantic palaces and fairytale architecture (19th century). Guimarães is about the medieval origins of the Portuguese nation — austere, historic, and emotionally powerful. Both are essential Portugal."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/porto-guimaraes-braga-day-trip.webp",
+    "alt": "Guimarães Castle rising above the historic city centre — the birthplace of Portugal",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Guimarães Castle & Braga Day Trip from Porto | Castles & Palaces",
+    "description": "Visit Guimarães Castle — the birthplace of Portugal — and Braga on a day trip from Porto. From €45 per person. UNESCO World Heritage."
+  },
+  "gyg_url": "https://www.getyourguide.com/porto-l151/from-porto-braga-and-guimaraes-full-day-trip-t32568/"
+}

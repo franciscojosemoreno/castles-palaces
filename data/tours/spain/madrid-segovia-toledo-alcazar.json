@@ -1,0 +1,95 @@
+{
+  "id": "madrid-segovia-toledo-alcazar",
+  "slug": "madrid-segovia-toledo-alcazar",
+  "name": "Segovia & Toledo with Alcázar Entry from Madrid",
+  "tagline": "Two UNESCO World Heritage cities, two legendary Alcázar fortresses — one extraordinary day from Madrid",
+  "departure_country": "spain",
+  "departure_city": "Madrid",
+  "visited_countries": [
+    "spain"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 12 hours",
+  "gyg_tour_id": "117462",
+  "price_from": 79,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 7300,
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "max_group_size": 45,
+  "overview": "Spain's meseta plateau holds two of the country's most dramatic fortified cities, each within an hour of Madrid. Segovia's fairy-tale Alcázar — the model for Disney's Cinderella castle — and Toledo's clifftop Alcázar fortress bookend a day that also includes the famous Roman aqueduct and Toledo's tangle of medieval streets.",
+  "highlights": [
+    "Entry to the Alcázar of Segovia, Disney's Cinderella inspiration",
+    "See the Roman aqueduct of Segovia (2,000 years old)",
+    "Visit Toledo, the City of Three Cultures",
+    "Entry to the Alcázar of Toledo military museum",
+    "Round-trip transport from Madrid with expert guide"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "alcazar-of-segovia",
+      "castle_name": "Alcázar of Segovia",
+      "duration": "1.5 hours",
+      "description": "Tour the ship-shaped fortress that reportedly inspired Walt Disney's Cinderella castle. Climb the Torre de Juan II for panoramic views over Old Castile, and admire the Hall of the Monarchs."
+    },
+    {
+      "order": 2,
+      "castle_id": "roman-aqueduct-segovia",
+      "castle_name": "Segovia Roman Aqueduct",
+      "duration": "45 minutes",
+      "description": "Free time at one of the best-preserved Roman engineering marvels in existence — 166 arches of granite blocks held together without a single drop of mortar."
+    },
+    {
+      "order": 3,
+      "castle_id": "alcazar-of-toledo",
+      "castle_name": "Alcázar of Toledo",
+      "duration": "1 hour",
+      "description": "Visit the imposing hilltop fortress rebuilt by Charles I of Spain. Now a military museum with a famous civil war exhibit, it commands views over the entire city."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Madrid",
+    "Expert guide",
+    "Alcázar of Segovia entry",
+    "Alcázar of Toledo entry"
+  ],
+  "excluded": [
+    "Lunch",
+    "Personal expenses",
+    "Gratuities"
+  ],
+  "meeting_point": "Madrid city centre — confirmed at booking",
+  "tips": [
+    "Toledo is best explored on foot — wear comfortable shoes",
+    "The Alcázar of Segovia is magical in winter snow — consider a December visit",
+    "Book the morning slot to avoid midday heat in summer"
+  ],
+  "faqs": [
+    {
+      "question": "Which city comes first?",
+      "answer": "Typically Segovia in the morning and Toledo in the afternoon, but this can vary by departure."
+    },
+    {
+      "question": "Can I buy traditional Toledo items?",
+      "answer": "Yes, Toledo is famous for damascene metalwork and marzipan. Free time in the old city allows for shopping."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/madrid-segovia-toledo-alcazar.webp",
+    "alt": "The Alcázar of Segovia rising above the Castilian plateau",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Segovia & Toledo with Alcázar Entry from Madrid | Castles & Palaces",
+    "description": "Visit the Alcázar of Segovia and Toledo on a guided day trip from Madrid. Entry included. From €79 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/madrid-l46/from-madrid-full-day-segovia-toledo-tour-t117462/"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "peles-castle",
+  "name": "Peleș Castle",
+  "local_name": "Castelul Peleș",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 450000,
+  "country": "romania",
+  "region": "Wallachia / Carpathians",
+  "nearest_city": "Brașov",
+  "address": "Aleea Peleșului 2, Sinaia 106100, Romania",
+  "lat": 45.3598,
+  "lng": 25.5379,
+  "unesco": false,
+  "year_built": 1873,
+  "architectural_style": "Neo-Renaissance / Neo-Gothic",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "Closed",
+    "wednesday": "11:00–17:00",
+    "thursday": "11:00–17:00",
+    "friday": "11:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Hours vary by season and tour type. Closed Mon–Tue year-round. Check official website before visiting as openings change seasonally. Guided tours only for interiors."
+  },
+  "price_adult": 10,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.peles.ro/en/",
+  "visit_duration": "2 hours",
+  "best_season": "May to September; the mountain setting and gardens are spectacular in good weather",
+  "accessibility": "The approach path and gardens are accessible. Interior stairs limit full access to some rooms. Contact in advance.",
+  "booking_advance_days": 0,
+  "tagline": "Romania's fairy-tale mountain palace — 160 rooms of Neo-Renaissance splendour in the Carpathians",
+  "highlights": [
+    "The most spectacular 19th-century palace in Eastern Europe, set in Carpathian mountain forest",
+    "160 rooms showcasing Venetian stucco, Moroccan tiles, German stained glass and Turkish weapons",
+    "Built for King Carol I and used by the Romanian royal family until communist confiscation in 1947",
+    "The palace inspired the architectural style of the entire town of Sinaia below",
+    "The smaller Pelișor Palace next door was the preferred residence of Queen Marie"
+  ],
+  "description": "Peleș Castle stops most visitors mid-step. The approach through mountain forest delivers you to a courtyard surrounded by Neo-Renaissance arcades, stone carvings, painted gables and terracotta rooflines that look like a German medieval city compressed into a single building. Then the doors open, and the interior is even more extraordinary: 160 rooms in a state of high decorative intensity, each one deploying a different national style — Venetian, Moorish, Turkish, German Renaissance, French Baroque — with a confidence that should feel gaudy but instead reads as magnificent.\n\nKing Carol I of Romania commissioned the castle in 1873 as a royal summer residence, choosing the Sinaia mountain valley for its resemblance to his native Hohenzollern homeland in Swabia. The architect was Wilhelm von Doderer, who designed a building that synthesised every European style the Romanian royals admired, assembled with materials and craftsmanship imported from across the continent: Venetian glass, Delft tiles, Carrara marble, Bohemian crystal, Damascus weapons, Flemish tapestries.\n\nThe result is the most complete expression of 19th-century royal taste in Eastern Europe — and one of the most honestly eclectic, in the sense that it makes no claim to historical authenticity but instead celebrates the possibilities of wealth, collecting and imagination. The Weapons Room, the Concert Hall, the Royal Theatre (the first electrified in Europe), the Moorish Salon — each room is a set piece complete in itself.\n\nThe communist government confiscated Peleș in 1947, used it as a state guesthouse (Nicolae Ceaușescu reportedly disliked it), and converted it to a museum. Restitution to the former royal family has been a contested legal process since 1989, still not fully resolved.",
+  "history": "Carol I, a Hohenzollern prince brought to Romania in 1866 to stabilise the newly independent principality, chose the Prahova valley near Sinaia for his summer residence specifically because its forested Carpathian mountains reminded him of the landscape around his family's ancestral castle (Hohenzollern) in Germany. Construction began in 1873 and continued until 1914, spanning two architects and the entire duration of Carol's reign.\n\nThe palace grew continuously as Carol added wings and interiors. He was personally involved in the decorative decisions, corresponding with craftsmen across Europe and assembling collections of weapons, carpets, glass and tapestries that filled the expanding rooms. The palace became a centre of Romanian cultural and political life: foreign royalty visited, state decisions were made, treaties signed.\n\nCarol died at Peleș in 1914, weeks after the outbreak of the First World War. His nephew Ferdinand I inherited the throne and the palace. Queen Marie — granddaughter of Queen Victoria, whose heart rests at Bran Castle — preferred the adjacent Pelișor Palace (built 1899–1902) with its Art Nouveau interiors, which she decorated with Byzantine golden mosaics according to her own aesthetic.\n\nThe communist takeover of Romania in 1947 ended royal ownership. King Michael I, who had helped remove the pro-German dictatorship in 1944, was forced to abdicate at gunpoint in December 1947 and expelled from Romania. Peleș became a state museum, then briefly Ceaușescu's private guesthouse (he preferred other properties), then public museum again after 1989. The former royal family's restitution claims have been partially but not fully settled.",
+  "how_to_visit": "**Getting there:** Sinaia is on the main Bucharest–Brașov railway line with frequent direct trains (1 hour from Bucharest, 45 min from Brașov). From Sinaia station, walk uphill through the town for 20–30 minutes, or take a taxi (€5). The castle is clearly signposted.\n\n**Tours:** Entry is by guided tour only. Tours in Romanian and English run at set times throughout the day. The 45-minute standard tour covers the main state rooms. A longer premium tour adds the treasury and some upper floors. Book at the ticket office on arrival; tours fill quickly on summer weekends.\n\n**Pelișor:** The smaller Pelișor Palace is 200 metres from Peleș and included in many ticket combinations. Queen Marie's Art Nouveau interiors — particularly the Golden Room with Byzantine-inspired mosaics — are strikingly different from Peleș's Renaissance profusion. Allow an additional 45 minutes.\n\n**Combine with Bran Castle:** Peleș and Bran are the two most visited castles in Romania and are frequently combined on tours from Bucharest or Brașov. They're 35km apart via the Carpathian pass road, which is itself a spectacular drive.",
+  "faqs": [
+    {
+      "question": "Who built Peleș Castle and why?",
+      "answer": "King Carol I of Romania, a Hohenzollern prince imported from Germany in 1866 to rule the newly independent Romanian principality, built Peleș as his summer residence between 1873 and 1914. He chose the Sinaia mountain valley because its pine-forested Carpathians reminded him of his family's homeland in Swabia. The castle was designed by German architects and decorated with materials and craftwork from across Europe, creating one of the most elaborate 19th-century palaces outside of Bavaria."
+    },
+    {
+      "question": "Can you visit Peleș without a tour guide?",
+      "answer": "No — the castle interior is accessible only on guided tours. Self-guided visits are not permitted. Tours in English run several times daily (check the website for current times). The grounds and exterior courtyard are accessible without a ticket. The guided tour covers approximately 35 rooms in 45 minutes; premium tours add additional floors."
+    },
+    {
+      "question": "How do I combine Peleș Castle and Bran Castle in one day?",
+      "answer": "Both castles are feasible in a single day from Brașov, but it is tiring. Start with Peleș Castle in Sinaia (45 min from Brașov by train), allow 2–2.5 hours including the Pelișor Palace next door, then drive or take a taxi over the Carpathian pass to Bran (35km, about 45 min). Most organised tours from Bucharest combine both sites. From Bucharest alone, two castles in one day requires an early start."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/peles-castle.webp",
+    "alt": "Peleș Castle in Sinaia — Neo-Renaissance towers and painted gables rising from Carpathian mountain forest",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/peles-castle.webp",
+  "instagram_tag": "#peles",
+  "meta_title": "Peleș Castle Romania: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Peleș Castle in Sinaia — Romania's most beautiful palace in the Carpathian mountains. Book tickets, combine with Bran Castle and discover 160 rooms of royal splendour.",
+  "tags": [
+    "neogothic",
+    "19th-century",
+    "mountain-castle",
+    "royal-residence",
+    "fairy-tale",
+    "romantic",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "transylvania-castles"
+  ],
+  "nearby_castles": [
+    "bran-castle",
+    "corvin-castle"
+  ],
+  "gyg_location_id": "977",
+  "gyg_search_query": "Peles Castle Sinaia Romania tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "135264",
+      "title": "From Bucharest: Dracula's Castle, Peleș & Brașov Old Town",
+      "type": "day_trip",
+      "duration": "6–12 hours",
+      "price_from": 11,
+      "rating": 4.4,
+      "reviews": 20410,
+      "covers_castles": [
+        "bran-castle"
+      ]
+    }
+  ]
+}

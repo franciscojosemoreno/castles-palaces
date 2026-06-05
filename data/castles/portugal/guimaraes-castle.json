@@ -1,0 +1,83 @@
+{
+  "id": "guimaraes-castle",
+  "name": "Guimarães Castle",
+  "local_name": "Castelo de Guimarães",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "portugal",
+  "region": "Braga",
+  "nearest_city": "Guimarães",
+  "address": "Rua Conde Dom Henrique, 4800-412 Guimarães, Portugal",
+  "lat": 41.4433,
+  "lng": -8.2913,
+  "unesco": true,
+  "year_built": 950,
+  "architectural_style": "Medieval — square keep with eight towers, mostly 10th–14th century",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Daily 10:00–18:00. Last entry 30 minutes before closing. Closed 1 Jan, Easter Sunday, 1 May, 25 Dec."
+  },
+  "price_adult": 2,
+  "price_child": 1,
+  "booking_required": false,
+  "official_tickets_url": "https://www.guimaraesturismo.com",
+  "visit_duration": "1–2 hours",
+  "best_season": "April to October — good weather, lively town atmosphere",
+  "accessibility": "The castle keep has stairs and is not wheelchair accessible. The courtyard is accessible from street level.",
+  "booking_advance_days": 0,
+  "tagline": "The birthplace of Portugal — the castle where Afonso Henriques was born and a nation began",
+  "highlights": [
+    "The medieval keep — a square tower with walls 3 metres thick, surviving virtually intact from the 10th century",
+    "The eight crenellated towers connected by curtain walls — largely original medieval fabric",
+    "Views over the UNESCO-listed historic centre of Guimarães from the castle battlements",
+    "The Palace of the Dukes of Braganza (adjacent) — a 15th-century ducal palace with a remarkable collection of Flemish tapestries",
+    "The symbolic importance — 'Aqui nasceu Portugal' ('Here Portugal was born') is carved into the rock at the base of the castle"
+  ],
+  "description": "Guimarães Castle occupies a place in Portuguese national mythology that no other castle can match: it is where Afonso Henriques, the first King of Portugal, was born in 1109, and where he won the Battle of São Mamede in 1128 that established Portuguese independence from the Kingdom of León. The phrase 'Aqui nasceu Portugal' — 'Here Portugal was born' — is inscribed at the foot of the castle, and the keep, with its eight crenellated towers, appears on the Portuguese coat of arms.\n\nThe castle was built in the 10th century by the Countess Mumadona Dias to defend the region from Moorish and Norman raids. The square keep — its walls up to 3 metres thick — has survived largely intact for over a thousand years, an unusual degree of preservation for a Portuguese medieval fortress. The adjacent Palace of the Dukes of Braganza, built in the early 15th century and extensively restored in the 20th, provides a contrast: a grand Gothic palace with chimneys, arched windows and a collection of Flemish tapestries and Portuguese furniture that is considered among the finest in the country.\n\nThe historic centre of Guimarães, surrounding the castle on its hill, is a UNESCO World Heritage Site — a remarkably complete medieval urban fabric with arcaded streets, stone fountain squares and painted facades that has survived largely unaltered from the 15th to the 17th centuries.",
+  "history": "The castle was built in the 10th century by Mumadona Dias, Countess of Portucale, to defend the monastery she had founded below. It was substantially rebuilt and enlarged by Count Henry of Burgundy, who was granted the County of Portugal by the King of León in 1096. Henry's son, Afonso Henriques, was born at Guimarães around 1109 and in 1128 defeated his own mother's forces at the Battle of São Mamede, establishing himself as sole ruler of the county. In 1139 he declared himself King of Portugal, and in 1143 the independence of the Kingdom of Portugal was formally recognised by the Treaty of Zamora.\n\nAfonso Henriques made Guimarães his capital before transferring it first to Coimbra and later to Lisbon as the territory expanded southward through the Reconquista. The castle lost its strategic importance but retained its symbolic resonance — it became a pilgrimage site for Portuguese nationalism in the 19th century and was restored by António Salazar's Estado Novo government in the 1930s–40s, partly as a nationalist symbol.",
+  "how_to_visit": "**Getting there:** Guimarães has regular bus and train connections from Porto (45 minutes by train). From Porto's São Bento station, trains run to Guimarães via Lousado. A car makes it easier to visit the castle and then explore the surrounding Minho region.\n\n**Tickets:** Admission is unusually affordable (€2 for adults). The adjacent Palace of the Dukes of Braganza has a separate ticket.\n\n**Combine with:** The historic centre of Guimarães (a UNESCO site surrounding the castle), the city of Braga (25 minutes by car — cathedral, archbishop's palace, Bom Jesus do Monte), and the Peneda-Gerês National Park for a full northern Portugal itinerary.",
+  "faqs": [
+    {
+      "question": "Why is Guimarães called the birthplace of Portugal?",
+      "answer": "Afonso Henriques, the first King of Portugal, was born at Guimarães around 1109 and launched his campaign for Portuguese independence from here. After defeating his mother's forces at the Battle of São Mamede in 1128, he declared himself King of Portugal in 1139. The town became the first capital of the new kingdom before the capital moved south. The phrase 'Aqui nasceu Portugal' (Here Portugal was born) is carved at the base of the castle."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/guimaraes-castle.webp",
+    "alt": "Guimarães Castle with its eight medieval towers above the rooftops of the historic town",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/guimaraes-castle.webp",
+  "instagram_tag": "#guimaraescastle",
+  "meta_title": "Guimarães Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Guimarães Castle — the birthplace of Portugal and UNESCO World Heritage Site. Book tickets and explore the medieval keep where the first King of Portugal was born.",
+  "tags": [
+    "medieval",
+    "unesco",
+    "birthplace-of-portugal",
+    "historic"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "portugal-heritage-north"
+  ],
+  "nearby_castles": [
+    "pena-palace"
+  ],
+  "gyg_location_id": "3218",
+  "gyg_search_query": "Guimaraes Castle tour Portugal",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

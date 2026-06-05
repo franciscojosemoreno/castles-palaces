@@ -1,0 +1,84 @@
+{
+  "id": "rock-of-cashel",
+  "name": "Rock of Cashel",
+  "local_name": "Carraig Phádraig",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 300000,
+  "country": "ireland",
+  "region": "Tipperary",
+  "nearest_city": "Cashel",
+  "address": "Cashel, Co. Tipperary, E25 T526, Ireland",
+  "lat": 52.5196,
+  "lng": -7.8887,
+  "unesco": false,
+  "year_built": 1100,
+  "architectural_style": "Medieval — Romanesque chapel 1127, Gothic cathedral 13th century, round tower 11th century",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Mid-Mar to mid-Jun: 09:00–17:30. Mid-Jun to mid-Sep: 09:00–19:00. Mid-Sep to mid-Mar: 09:00–16:30. Last entry 45 min before closing."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.heritageireland.ie/places-to-visit/rock-of-cashel/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September — long evenings, warm weather, dramatic light on the limestone outcrop",
+  "accessibility": "The rock involves steep paths and steps. Some areas accessible but the main viewpoints require a climb.",
+  "booking_advance_days": 0,
+  "tagline": "A cluster of medieval towers rising from a limestone outcrop — the ancient seat of the Kings of Munster",
+  "highlights": [
+    "Cormac's Chapel — one of the finest Romanesque buildings in Ireland, built 1127–1134 with painted stone carvings",
+    "The round tower — an intact 11th-century tower, one of the best-preserved in Ireland",
+    "The Gothic cathedral — a ruined 13th-century cathedral with nave, choir and transepts open to the sky",
+    "The panoramic view from the rock over the Golden Vale — the richest farmland in Ireland spread out in every direction",
+    "The legendary coronation site of the Kings of Munster, including Brian Boru, High King of Ireland"
+  ],
+  "description": "The Rock of Cashel is a dramatic limestone outcrop rising 60 metres above the plain of Tipperary, crowned with a cluster of medieval buildings that together form one of the most evocative archaeological sites in Ireland. The site is associated with St. Patrick, who according to tradition baptised Aengus, King of Munster, here around 450 AD. Whether or not the tradition is accurate, the rock was certainly the seat of the Kings of Munster from the 4th century onwards, and Brian Boru — who became High King of Ireland and defeated the Vikings at the Battle of Clontarf in 1014 — was inaugurated here.\n\nThe buildings visible today span three centuries of medieval construction. The round tower, rising 28 metres and dating from around 1100, predates everything else on the site and served as both a bell tower and a place of refuge. Cormac's Chapel (1127–1134) is the oldest and most important building — a twin-towered Romanesque chapel of great beauty, with carved stone capitals, painted panels and a carved sarcophagus, representing the highest achievement of Irish Romanesque art. The Gothic cathedral, built from the 13th century onwards and now roofless, dwarfs everything around it, its nave and transepts exposed to the Tipperary sky.",
+  "history": "The Rock of Cashel was the royal seat of the Eóganacht dynasty, Kings of Munster, from around the 4th century AD. Brian Boru, who rose to become High King of Ireland and the greatest political figure in early medieval Irish history, was crowned here in 977. His defeat of the Vikings at Clontarf in 1014 — though Brian himself was killed in his tent after the battle — effectively ended the Viking threat to Ireland.\n\nIn 1101 the King of Munster donated the rock to the Church, and it became an episcopal see. The subsequent centuries saw intensive building: the Round Tower, Cormac's Chapel, the Cathedral, the Hall of the Vicars Choral and the castle were all added in sequence. The cathedral was burned in 1495 by Gerald FitzGerald, Earl of Kildare, who explained to Henry VII that he had done so because 'I thought the Archbishop was inside it'. The cathedral was repaired but fell into ruin after the diocese moved to Cashel town in the 18th century. The site is now managed by the Office of Public Works.",
+  "how_to_visit": "**Getting there:** Cashel town is on the N8 motorway between Dublin and Cork, about 2 hours from Dublin by bus or car. Bus Éireann express services run regularly. There is no train station — bus or car is the only option.\n\n**Tickets:** Available at the visitor centre at the base of the rock. The climb takes 10–15 minutes on a paved path.\n\n**Combine with:** Cahir Castle (15 minutes by car — a large, well-preserved medieval castle, free), Holy Cross Abbey (20 minutes), and the Tipperary towns of Clonmel and Thurles make a full day in the region.",
+  "faqs": [
+    {
+      "question": "Who was Brian Boru and what is his connection to the Rock of Cashel?",
+      "answer": "Brian Boru (c. 941–1014) was King of Munster and later High King of Ireland — the most powerful political figure in Irish history before the Norman invasion. He was inaugurated as King of Munster at the Rock of Cashel around 977. He is celebrated for breaking Viking power in Ireland at the Battle of Clontarf in 1014, though he was killed in his tent on the day of the battle. His dynasty, the Dál Cais, gave Cashel its position as the most important site in southern Ireland."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rock-of-cashel.webp",
+    "alt": "The Rock of Cashel rising above the Tipperary plain at dawn, its medieval towers silhouetted against a golden sky",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rock-of-cashel.webp",
+  "instagram_tag": "#rockofcashel",
+  "meta_title": "Rock of Cashel: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit the Rock of Cashel — Ireland's most dramatic medieval site and ancient seat of the Kings of Munster. Book tickets and explore Cormac's Chapel and the Gothic Cathedral.",
+  "tags": [
+    "medieval",
+    "romanesque",
+    "dramatic",
+    "instagram-worthy",
+    "celtic"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "ireland-heritage-trail"
+  ],
+  "nearby_castles": [
+    "kilkenny-castle"
+  ],
+  "gyg_location_id": "1",
+  "gyg_search_query": "Rock of Cashel tour Ireland",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

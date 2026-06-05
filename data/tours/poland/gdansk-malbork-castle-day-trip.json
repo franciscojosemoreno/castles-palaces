@@ -1,0 +1,87 @@
+{
+  "id": "gdansk-malbork-castle-day-trip",
+  "slug": "gdansk-malbork-castle-day-trip",
+  "name": "Malbork Castle Day Trip from Gdansk",
+  "tagline": "The largest castle in the world by floor area — a Gothic brick fortress of extraordinary scale built by the Teutonic Knights",
+  "departure_country": "poland",
+  "departure_city": "Gdansk",
+  "visited_countries": [
+    "poland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 5 hours",
+  "gyg_tour_id": "388248",
+  "price_from": 29,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 890,
+  "languages": [
+    "English",
+    "Polish",
+    "German"
+  ],
+  "max_group_size": 30,
+  "overview": "Malbork Castle is the largest castle in the world by floor area and the largest Gothic brick structure on earth — built by the Teutonic Knights in the 13th century as the headquarters of their religious military order. 52 hectares of courtyards, towers, churches, palaces, and fortifications rise above the Nogat river. UNESCO World Heritage listed, it is the most impressive medieval castle in Central Europe and just 50km from Gdansk.",
+  "highlights": [
+    "Visit the largest castle in the world by floor area",
+    "Explore the three castle sections: High, Middle and Lower Castle",
+    "Audioguide included for a self-paced experience",
+    "UNESCO World Heritage Site",
+    "Round-trip transport from Gdansk in under an hour"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "malbork-castle",
+      "castle_name": "High Castle (Zamek Wysoki)",
+      "duration": "1.5 hours",
+      "description": "The oldest and most sacred part of the complex — the original Teutonic Knights' headquarters built in the 1270s. See the Chapter House where the knights gathered, the Church of the Virgin Mary with its extraordinary star vault, and the Golden Gate entrance portal. The views from the top tower over the Nogat river are superb."
+    },
+    {
+      "order": 2,
+      "castle_id": "malbork-castle",
+      "castle_name": "Middle & Lower Castle",
+      "duration": "1.5 hours",
+      "description": "The Palace of the Grand Masters — one of the finest secular Gothic buildings in Northern Europe — occupies the Middle Castle. The Summer Refectory with its palm vaulting suspended from a single central pillar is an engineering miracle. The Lower Castle contained the workshops, stables, and granaries of what was effectively a self-sufficient medieval city."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Gdansk",
+    "Castle entry ticket",
+    "Audioguide"
+  ],
+  "excluded": [
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Gdansk city centre — confirmed at booking",
+  "tips": [
+    "The castle is vast — wear comfortable shoes and allow the full 3 hours inside",
+    "The amber exhibition in the cellars is one of the finest in Poland",
+    "The Evening Light Show (summer only) illuminates the castle walls after dark — check availability when booking",
+    "Combine with Gdansk's spectacular Old Town for a complete day in the region"
+  ],
+  "faqs": [
+    {
+      "question": "How is Malbork larger than Windsor Castle?",
+      "answer": "Malbork covers approximately 52 hectares of enclosed area, making it the largest castle complex in the world by floor area. Windsor Castle covers about 13 hectares. Malbork's three interconnected castle sections were built to house hundreds of Teutonic Knights and their support staff."
+    },
+    {
+      "question": "Is it easy to visit Malbork independently?",
+      "answer": "Yes — regular trains run from Gdansk to Malbork in about 30 minutes. However, the guided or audioguide tour adds enormous context to what you see inside."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/gdansk-malbork-castle-day-trip.webp",
+    "alt": "Malbork Castle's red brick towers reflected in the Nogat river at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Malbork Castle Day Trip from Gdansk | Castles & Palaces",
+    "description": "Visit Malbork Castle — the largest castle in the world — on a day trip from Gdansk. UNESCO World Heritage Site. From €29 per person, audioguide included."
+  },
+  "gyg_url": "https://www.getyourguide.com/malbork-l153896/from-gdansk-malbork-castle-tour-with-audioguide-t388248/"
+}

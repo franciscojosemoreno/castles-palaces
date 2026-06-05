@@ -1,0 +1,82 @@
+{
+  "id": "predjama-castle",
+  "name": "Predjama Castle",
+  "local_name": "Predjamski Grad",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 150000,
+  "country": "slovenia",
+  "region": "Littoral",
+  "nearest_city": "Postojna",
+  "address": "Predjama 1, 6230 Postojna, Slovenia",
+  "lat": 45.8156,
+  "lng": 14.12,
+  "unesco": false,
+  "year_built": 1274,
+  "architectural_style": "Medieval cave castle — built into the mouth of a limestone cave, Gothic and Renaissance elements",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "May–Sep: 09:00–19:00. Oct–Apr: 10:00–16:00 or 18:00. Last entry 1 hour before closing."
+  },
+  "price_adult": 16,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://www.postojnska-jama.eu/en/predjama-castle/",
+  "visit_duration": "1–2 hours",
+  "best_season": "May to September — best light on the cave mouth, wildflowers in the valley",
+  "accessibility": "Many areas of the castle require climbing stairs and ducking through low passages. Not suitable for visitors with limited mobility.",
+  "booking_advance_days": 0,
+  "tagline": "Built into the mouth of a cave — the world's largest cave castle and the lair of a Renaissance outlaw",
+  "highlights": [
+    "The setting — 16 floors of castle built seamlessly into the mouth of a 123-metre limestone cave, seemingly defying gravity",
+    "The cave passages behind the castle — a network of natural tunnels that allowed the castle's defenders to receive supplies even under siege",
+    "The Knight's Hall — the main room of the castle with original painted wooden ceilings and a fireplace carved into the rock",
+    "The legend of Erasmus of Lueg — the outlaw knight who held the castle for over a year under Habsburg siege using the cave passages",
+    "Postojna Cave (10km away) — the world's most visited cave system, easily combined with Predjama"
+  ],
+  "description": "Predjama Castle is perhaps the most extraordinary castle site in Europe: a Gothic and Renaissance fortress built directly into the gaping mouth of a 123-metre limestone cave in the Karst plateau of Slovenia. The castle does not simply stand in front of a cave — it is integrated with it, so that the upper floors of the castle give way to natural rock chambers above, and a network of natural passages behind the walls allowed the castle's defenders to move, receive supplies and escape even when the entrance was completely blockaded by besieging forces.\n\nThe castle is most associated with Erasmus of Lueg (c. 1400–1484), a knight who became a folk hero and symbol of Slovenian resistance to Habsburg authority. After killing the imperial marshal in Vienna, Erasmus retreated to Predjama and held it for over a year against a Habsburg siege — using the cave passages to receive fresh food, including cherries, which he reportedly threw down to the besieging soldiers to taunt them. He was eventually killed, according to legend, when a servant signalled to the attackers that Erasmus was in the privy, and a cannonball struck the latrine tower.\n\nThe castle interior preserves the Knight's Hall with its painted wooden ceiling, a well cut into the cave floor, and the dark passages that wind back into the mountain. The cave system behind the castle extends for kilometres and connects to the Postojna Cave system 10 kilometres away.",
+  "history": "The first written record of the castle dates to 1274, though a fortification on the site is likely earlier. The cave location made it virtually impregnable — the entrance could be covered by defenders above, and the passage network allowed almost indefinite supply. The castle passed through various noble families before being associated most strongly with Erasmus of Lueg in the 15th century.\n\nAfter Erasmus's death, the castle was rebuilt in its current Renaissance form in the 16th century. It remained inhabited and strategically useful through the Uskok wars of the early 17th century, when Croatian-Slavonian soldiers of fortune used the Karst plateau to raid Ottoman and Venetian territory. The castle gradually fell into disuse and partial ruin in the 18th century, and a major restoration was undertaken in the 20th century. It is now managed by the Postojna Cave company and visited by around 150,000 people a year.",
+  "how_to_visit": "**Getting there:** Predjama is 9km from Postojna. Postojna itself is 50km from Ljubljana (45 minutes by car, regular buses). A car is the most convenient way to reach Predjama. There are shuttle connections from Postojna Cave in high season.\n\n**Combined ticket:** A discounted combined ticket for both Postojna Cave and Predjama Castle is available and strongly recommended — the cave is one of the great natural spectacles of Europe and the two sites together make an exceptional day trip from Ljubljana.\n\n**Combine with:** Postojna Cave (10km — the world's most visited cave system, with an underground train), Ljubljana (1 hour — the Slovenian capital with its own castle), and the Škocjan Caves (40 minutes — UNESCO, smaller but arguably more dramatic).",
+  "faqs": [
+    {
+      "question": "How was Predjama Castle built into a cave?",
+      "answer": "The castle is built into the mouth of a natural limestone cave in the Karst plateau. The rock face above provides the 'roof' of the upper floors, and the natural cave continues behind the castle into the mountain for several kilometres. Medieval builders used the cave's natural features as structural elements — the rock face serves as walls, and the natural passages were incorporated as escape routes and supply lines. The result is a building that appears to grow from the cliff face rather than being constructed against it."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/predjama-castle.webp",
+    "alt": "Predjama Castle built into the mouth of a limestone cave in the Karst hills of Slovenia",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/predjama-castle.webp",
+  "instagram_tag": "#predjamacasle",
+  "meta_title": "Predjama Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Predjama Castle in Slovenia — the world's largest cave castle, built into a limestone cliff. Book tickets and explore the lair of the outlaw knight Erasmus of Lueg.",
+  "tags": [
+    "medieval",
+    "cave",
+    "dramatic",
+    "instagram-worthy",
+    "unique"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "slovenian-karst-route"
+  ],
+  "nearby_castles": [],
+  "gyg_location_id": "3218",
+  "gyg_search_query": "Predjama Castle Postojna Cave tour Slovenia",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

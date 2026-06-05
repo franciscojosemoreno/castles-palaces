@@ -1,0 +1,87 @@
+{
+  "id": "toulouse-carcassonne-day-trip",
+  "slug": "toulouse-carcassonne-day-trip",
+  "name": "Carcassonne Day Trip from Toulouse with Audioguide",
+  "tagline": "The most complete medieval walled city in Europe — 3km of double ramparts, 52 towers, and 2,500 years of continuous habitation",
+  "departure_country": "france",
+  "departure_city": "Toulouse",
+  "visited_countries": [
+    "france"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 7 hours",
+  "gyg_tour_id": "276372",
+  "price_from": 39,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 1850,
+  "languages": [
+    "English",
+    "French",
+    "Spanish"
+  ],
+  "max_group_size": 50,
+  "overview": "Carcassonne is not merely a castle — it is an entire fortified city, the largest and most complete medieval walled settlement in Europe. Three kilometres of double ramparts with 52 towers enclose a labyrinth of cobbled streets, a cathedral, a château, and a community that has been continuously inhabited since the Gallo-Roman era. UNESCO World Heritage listed since 1997, it was famously restored in the 19th century by Viollet-le-Duc — the architect who also restored Notre-Dame de Paris. Just 90 minutes from Toulouse by coach.",
+  "highlights": [
+    "Explore the largest medieval walled city in Europe",
+    "Audioguide in multiple languages included",
+    "Visit the Château Comtal — the inner fortress within the fortress",
+    "Walk the full circuit of the double ramparts",
+    "Free time to explore the medieval streets and cathedral"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "carcassonne",
+      "castle_name": "Château Comtal",
+      "duration": "1.5 hours",
+      "description": "The inner citadel of Carcassonne — a 12th-century castle within the walled city. The audioguide leads you through the barbican, the five towers, and the archaeological museum, explaining how the Trencavel viscounts and later the French crown used this double fortress system to control southwestern France."
+    },
+    {
+      "order": 2,
+      "castle_id": "carcassonne",
+      "castle_name": "Ramparts & Medieval City",
+      "duration": "2 hours",
+      "description": "Walk the full circuit of the lices — the passage between the inner and outer walls. Fifty-two towers, Gallo-Roman sections, Visigothic repairs, and medieval extensions create a 2,500-year palimpsest of fortification. Inside the walls, explore the Basilica of Saints Nazarius and Celsus, with its extraordinary Gothic stained glass, and the web of medieval streets beyond."
+    }
+  ],
+  "included": [
+    "Round-trip coach from Toulouse",
+    "Audioguide",
+    "Château Comtal entry"
+  ],
+  "excluded": [
+    "Lunch (excellent restaurants inside the walls)",
+    "Gratuities"
+  ],
+  "meeting_point": "Toulouse city centre — confirmed at booking",
+  "tips": [
+    "Arrive early — the walled city gets very crowded by midday in summer",
+    "The best view of Carcassonne is from across the Aude river to the south — 10 minutes' walk from the main gate",
+    "Lunch inside the walls is expensive but atmospheric; the Bastide Saint-Louis below has better value restaurants",
+    "The night illumination of the ramparts (summer only) is spectacular if you can stay late"
+  ],
+  "faqs": [
+    {
+      "question": "Is Carcassonne authentic or restored?",
+      "answer": "Both. The Romans, Visigoths, and medieval lords all built and modified the walls. Viollet-le-Duc's 19th-century restoration was controversial — he used northern French conical towers that some historians dispute — but the fundamental structure is genuinely ancient. The debate itself is part of what makes Carcassonne fascinating."
+    },
+    {
+      "question": "How much free time is there inside the city?",
+      "answer": "Approximately 3 hours after the guided Château section, giving you time to walk the ramparts, explore the cathedral, and have lunch inside the walls."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/toulouse-carcassonne-day-trip.webp",
+    "alt": "Carcassonne's medieval ramparts and towers rising above the Aude valley at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Carcassonne Day Trip from Toulouse | Castles & Palaces",
+    "description": "Visit Carcassonne — Europe's largest medieval walled city — on a day trip from Toulouse. Audioguide and Château entry included. From €39 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/toulouse-l288/toulouse-carcassonne-day-trip-t276372/"
+}

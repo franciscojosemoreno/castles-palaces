@@ -1,0 +1,78 @@
+{
+  "id": "cahir-castle",
+  "name": "Cahir Castle",
+  "local_name": "Caisleán an Chathair",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 130000,
+  "country": "ireland",
+  "region": "County Tipperary",
+  "nearest_city": "Cahir",
+  "address": "Castle Street, Cahir, Co. Tipperary, Ireland",
+  "lat": 52.3750,
+  "lng": -7.9261,
+  "unesco": false,
+  "year_built": 1142,
+  "architectural_style": "Medieval Irish tower castle",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Oct–Feb: 09:30–17:30. Managed by the Office of Public Works (OPW). Closed Christmas and New Year. Free guided tours run at regular intervals in summer."
+  },
+  "price_adult": 5,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.heritageireland.ie/places-to-visit/cahir-castle/",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "Spring and summer for guided tours and the Suir River views; the castle is accessible year-round and rarely crowded",
+  "accessibility": "The main floor and great hall are accessible. Some towers and upper wall walks involve stairs. The grounds around the castle are flat and accessible.",
+  "booking_advance_days": 0,
+  "tagline": "One of the largest and best-preserved medieval castles in Ireland — on an island in the River Suir",
+  "highlights": [
+    "One of the largest medieval tower castles in Ireland, built on a rocky island in the River Suir and continuously inhabited for over 700 years",
+    "Survived virtually intact from the medieval period despite attacks by the Earl of Essex (1599) and Cromwell's forces (1650) — surrendered both times without significant damage",
+    "Appeared in John Boorman's 1981 film Excalibur as Camelot — one of the most recognisable castle film settings in Irish cinema",
+    "Three interlocking wards (outer, middle, and inner) with impressive towers, a great hall, and a working portcullis — the most complete medieval gatehouse mechanism in Ireland",
+    "Free guided tours in summer from the OPW — among the best-value castle experiences in Ireland at €5 entry"
+  ],
+  "description": "Cahir Castle occupies a rocky island in the River Suir in the heart of County Tipperary — a position that made it one of the most defensible and consequently best-preserved medieval fortresses in Ireland. Three interlocking wards, massive towers, a great hall, and Ireland's most complete surviving portcullis mechanism give Cahir a completeness of medieval fabric that few Irish castles can match. And unlike many Irish castles that surrendered to time and neglect, Cahir survived centuries of conflict largely intact — it was taken three times (by Essex in 1599, by Cromwell in 1650, and by Inchiquin in 1647) but each time surrendered with minimal damage.\n\nThe Butler family — Earls and later Barons of Cahir — held the castle from the mid-14th century until 1961, when the last Baron died without heirs and the castle passed to the state. Seven centuries of continuous ownership by one family produced a building that accumulated rather than replaced — the massive outer ward tower from the 15th century, the great hall from the 16th, the residential improvements from the 17th, all sitting side by side in layered historical palimpsest.\n\nThe River Suir provides the castle's most distinctive aspect: the water surrounds the rock on which the castle stands, creating a moat effect without the artificiality of an excavated ditch. The views from the towers over the river and the town of Cahir are quietly beautiful in the soft Tipperary light.",
+  "history": "The site of Cahir Castle was fortified by Conor O'Brien, King of Thomond, around 1142. The castle passed through several Hiberno-Norman families before being granted to the Butler family in 1375 by Edmund Butler. The Butlers — one of the most powerful Anglo-Norman families in Ireland, who served as Earls of Ormond and later created the subsidiary title of Baron Cahir — expanded and strengthened the castle throughout the 15th and 16th centuries.\n\nCahir's survival through the Tudor conquest of Ireland is somewhat paradoxical: the Butlers were nominally loyal to the English crown but managed to maintain their independence through skilful negotiation. When Robert Devereux, Earl of Essex, arrived with an army in 1599 as Lord Lieutenant of Ireland and bombarded the castle, it surrendered after a brief resistance — the only occasion in its history when Cahir's walls were breached by artillery. Cromwell's forces achieved the same result in 1650 with even less resistance.\n\nThe castle was restored in the 1840s under the direction of J. J. McCarthy, the Irish Gothic Revival architect, who provided the current drawbridge mechanism and various interior restorations. The last Baron Cahir died in 1961 and the castle was taken into state care, eventually coming under the management of the Office of Public Works, which has maintained it to a high standard since.",
+  "how_to_visit": "**Getting there:** Cahir is a small town on the N24 between Tipperary and Clonmel, 30 km south of Thurles. By car it is 2 hours from Dublin, 1.5 hours from Cork. Buses from Dublin (Bus Éireann via Tipperary) take about 3 hours. The castle is in the town centre — visible from the main street.\n\n**Value for money:** At €5 adult entry with free guided tours in summer, Cahir is exceptional value for an Irish heritage site of this completeness. The guided tours explain the history of the Butler family and walk visitors through all three wards.\n\n**Combine with:** The Rock of Cashel (16 km north — one of Ireland's most dramatic ecclesiastical sites, on a limestone outcrop above the Tipperary plain) and Blarney Castle (80 km southwest) make a natural South Tipperary-Cork castle circuit.",
+  "faqs": [
+    {
+      "question": "Was Cahir Castle used in any films?",
+      "answer": "Yes — Cahir Castle was used as Camelot in John Boorman's 1981 film Excalibur, one of the most visually striking Arthurian films. The castle's well-preserved medieval fabric and Irish setting made it ideal. It has also appeared in various other Irish film and TV productions."
+    },
+    {
+      "question": "How does Cahir Castle compare to other Irish castles?",
+      "answer": "Cahir is considered one of the three or four most important and best-preserved medieval castles in Ireland, alongside Kilkenny, Trim, and Rock of Cashel. Unlike Kilkenny Castle (which was substantially modified in the 19th century) and Rock of Cashel (which is primarily ecclesiastical), Cahir retains a coherent medieval military character — towers, ward walls, portcullis, and great hall — in near-complete condition."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/cahir-castle.webp",
+    "alt": "Cahir Castle on its island in the River Suir in County Tipperary, Ireland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/cahir-castle.webp",
+  "instagram_tag": "#cahircastle",
+  "meta_title": "Cahir Castle: Tickets, History & Visitor Guide 2026",
+  "meta_description": "Visit Cahir Castle in County Tipperary — one of the largest and best-preserved medieval castles in Ireland, on an island in the River Suir. Complete visitor guide with tickets and tours.",
+  "tags": ["medieval", "irish", "tower-castle", "river-island", "ireland"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["rock-of-cashel", "kilkenny-castle", "blarney-castle"],
+  "gyg_location_id": "274",
+  "gyg_search_query": "Cahir Castle Tipperary tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

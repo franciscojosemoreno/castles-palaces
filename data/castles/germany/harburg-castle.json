@@ -1,0 +1,82 @@
+{
+  "id": "harburg-castle",
+  "name": "Harburg Castle",
+  "local_name": "Burg Harburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 100000,
+  "country": "germany",
+  "region": "Bavaria, Swabia",
+  "nearest_city": "Augsburg",
+  "address": "Schlossgasse 1, 86655 Harburg (Schwaben), Germany",
+  "lat": 48.7868,
+  "lng": 10.6892,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "Romanesque / Medieval German",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open mid-March to October only. Closed Mondays. Guided tours only in some areas."
+  },
+  "price_adult": 6,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.burg-harburg.de",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — steep cobblestone paths and stairs throughout",
+  "booking_advance_days": 0,
+  "tagline": "One of the best-preserved medieval castles in Germany, overlooking the Romantic Road",
+  "highlights": [
+    "One of the largest and best-preserved medieval castles in southern Germany",
+    "Completely intact medieval townscape within the castle walls",
+    "Strategically positioned above the Wörnitz River on the Romantic Road",
+    "Original medieval buildings including treasury, gatehouse, and keep",
+    "Spectacular views over the Wörnitz valley and Bavarian countryside"
+  ],
+  "description": "Burg Harburg is one of the largest and best-preserved medieval castle complexes in Germany, a sprawling hilltop fortification above the Wörnitz River valley in Swabian Bavaria. Unlike many German castles rebuilt or restored in the 19th century, Harburg retains largely original medieval fabric — a genuine ensemble of Romanesque and Gothic buildings clustered within its walls, including a Romanesque chapel, treasury, keep, and multiple residential wings. The castle sits directly on the Romantic Road (Romantische Straße), Germany's most famous heritage driving route, making it one of the most visited medieval monuments in Bavaria. It has been in the ownership of the Princes of Oettingen-Wallerstein for centuries and remains their property today.",
+  "history": "The castle is first documented in 1150 and was an imperial Hohenstaufen fortress before passing to the Counts and later Princes of Oettingen. It served as the administrative centre of their territories for centuries and was never captured or destroyed, accounting for its exceptional state of preservation. The castle passed to the senior line of the Oettingen-Wallerstein dynasty and remains their property — one of the oldest continuously owned noble properties in Germany.",
+  "how_to_visit": "Harburg is 80 km north of Augsburg on the B25, directly on the Romantic Road. The town and castle are served by regional trains from Augsburg and Nördlingen. The castle hill is a 10-minute walk from Harburg train station. The Romantic Road offers an excellent driving itinerary combining Harburg with Nördlingen (medieval walled town), Dinkelsbühl, and Rothenburg ob der Tauber.",
+  "faqs": [
+    {
+      "question": "Is Harburg part of the Romantic Road?",
+      "answer": "Yes — it sits directly on the Romantische Straße, Germany's most famous heritage driving route from Würzburg to Füssen, and is one of its most impressive stops."
+    },
+    {
+      "question": "Is the castle privately owned?",
+      "answer": "Yes — Harburg Castle has been owned by the Princes of Oettingen-Wallerstein for centuries and remains in their possession today."
+    },
+    {
+      "question": "Can I walk around the village inside the castle?",
+      "answer": "Yes — a small inhabited village sits within the castle walls, and much of the complex can be explored on foot, with guided tours available for the main buildings."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/harburg-castle.webp",
+    "alt": "Harburg Castle rising above the Wörnitz River valley on the Romantic Road in Bavaria",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/harburg-castle.webp",
+  "instagram_tag": "#burgharburg",
+  "meta_title": "Harburg Castle, Bavaria — Medieval Fortress on Germany's Romantic Road",
+  "meta_description": "Visit Harburg Castle on the Romantic Road — one of Germany's largest medieval fortresses, perfectly preserved above the Wörnitz River in Bavaria.",
+  "tags": ["medieval", "german-castle", "bavaria", "romantic-road", "romanesque"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["albrechtsburg-castle", "moritzburg-castle"],
+  "gyg_location_id": "2395",
+  "gyg_search_query": "Harburg Castle Romantic Road Bavaria tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

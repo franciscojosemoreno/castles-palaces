@@ -1,0 +1,82 @@
+{
+  "id": "vaxholm-fortress",
+  "name": "Vaxholm Fortress",
+  "local_name": "Vaxholms fästning",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 100000,
+  "country": "sweden",
+  "region": "Stockholm Archipelago, Stockholm County",
+  "nearest_city": "Stockholm",
+  "address": "Vaxholms fästning, 185 94 Vaxholm, Sweden",
+  "lat": 59.4025,
+  "lng": 18.3530,
+  "unesco": false,
+  "year_built": 1548,
+  "architectural_style": "Swedish Renaissance / Vauban",
+  "opening_hours": {
+    "monday": "11:00–17:00",
+    "tuesday": "11:00–17:00",
+    "wednesday": "11:00–17:00",
+    "thursday": "11:00–17:00",
+    "friday": "11:00–17:00",
+    "saturday": "11:00–17:00",
+    "sunday": "11:00–17:00",
+    "seasonal_note": "Open daily mid-May to mid-September only. Reached by boat from Vaxholm town or direct from Stockholm."
+  },
+  "price_adult": 100,
+  "price_child": 50,
+  "booking_required": false,
+  "official_tickets_url": "https://www.forsvaretsmuseer.se",
+  "visit_duration": "1.5 hours",
+  "best_season": "June to August",
+  "accessibility": "Limited — boat access required; interiors involve stairs",
+  "booking_advance_days": 0,
+  "tagline": "The guardian of Stockholm — a Renaissance sea fortress on its own island in the archipelago",
+  "highlights": [
+    "Built by Gustav Vasa to protect Stockholm from seaborne invasion",
+    "Dramatically positioned on its own island in the Stockholm Archipelago",
+    "Reached exclusively by boat — the approach by water is spectacular",
+    "National Coastal Defence Museum inside the fortress",
+    "The fortress that stopped a Russian fleet in 1719"
+  ],
+  "description": "Vaxholm Fortress is the guardian of Stockholm — a Renaissance sea fortress on its own island in the inner Stockholm Archipelago, commanding the main waterway between the Baltic and the Swedish capital. Founded by King Gustav Vasa in 1548, the fortress was continuously expanded and reinforced for 350 years as Sweden's primary coastal defence against seaborne attack. It was never taken by force: a Russian fleet turned back from its walls in 1719 during the Great Northern War, one of the most significant moments in the fortress's long history. Today it is home to the National Coastal Defence Museum, with collections spanning Swedish naval and coastal military history. The fortress is only accessible by boat — a 10-minute crossing from Vaxholm town, itself a charming wooden-housed island community 35 km from Stockholm, making the whole excursion one of the finest summer day trips from the Swedish capital.",
+  "history": "Gustav Vasa ordered the fortress built in 1548 to protect Stockholm from seaborne attack. It was expanded in the 17th century during Sweden's era as a Baltic great power, with Vauban-influenced bastions added. In 1719 a Russian fleet under Admiral Apraxin turned back from the fortress during Peter the Great's retaliatory raids on the Swedish coast. The fortress continued as an active military installation until 1833, when the navy moved to Karlskrona. It was converted to a museum in the 20th century.",
+  "how_to_visit": "Take the Waxholmsbolaget ferry from Stockholm's Strömkajen or Nybroplan to Vaxholm (1 hour). From Vaxholm harbour, a local boat service runs to the fortress island (10 minutes). The journey through the inner archipelago is itself beautiful. Vaxholm town is worth exploring before or after the fortress — it is one of the prettiest wooden towns near Stockholm.",
+  "faqs": [
+    {
+      "question": "Can I drive to Vaxholm Fortress?",
+      "answer": "You can drive to Vaxholm town (35 km from Stockholm), but the fortress is on a separate island accessible only by boat from the town harbour."
+    },
+    {
+      "question": "What is the Coastal Defence Museum?",
+      "answer": "A museum inside the fortress covering Swedish coastal and naval defence history from the 16th century to the 20th, with artillery, weapons, uniforms, and ship models."
+    },
+    {
+      "question": "Is Vaxholm worth visiting beyond the fortress?",
+      "answer": "Yes — the town of Vaxholm has beautiful 19th-century wooden architecture, good seafood restaurants, and is the gateway to the Stockholm Archipelago boat routes further out to sea."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/vaxholm-fortress.webp",
+    "alt": "Vaxholm Fortress on its own island in the Stockholm Archipelago in Sweden",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/vaxholm-fortress.webp",
+  "instagram_tag": "#vaxholmsfastning",
+  "meta_title": "Vaxholm Fortress, Sweden — Renaissance Sea Castle in the Stockholm Archipelago",
+  "meta_description": "Visit Vaxholm Fortress near Stockholm — a Renaissance island sea fortress accessible only by boat, with the National Coastal Defence Museum and archipelago views.",
+  "tags": ["renaissance", "swedish-castle", "stockholm-archipelago", "coastal", "island-fortress"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["drottningholm-palace"],
+  "gyg_location_id": "2713",
+  "gyg_search_query": "Vaxholm fortress Stockholm archipelago tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

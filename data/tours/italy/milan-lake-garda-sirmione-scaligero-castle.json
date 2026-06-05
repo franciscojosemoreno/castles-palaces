@@ -1,0 +1,100 @@
+{
+  "id": "milan-lake-garda-sirmione-scaligero-castle",
+  "slug": "milan-lake-garda-sirmione-scaligero-castle",
+  "name": "From Milan: Lake Garda, Salò & Sirmione Day Trip with Boat",
+  "tagline": "Three Scaligero castles and a boat on the most beautiful lake in Italy",
+  "departure_country": "italy",
+  "departure_city": "Milan",
+  "visited_countries": [
+    "italy"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "812327",
+  "gyg_url": "https://www.getyourguide.com/milan-l139/milan-lake-garda-salo-and-sirmione-day-trip-with-boat--t812327/",
+  "price_from": 62,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 480,
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "max_group_size": 50,
+  "overview": "Escape Milan for a full day on the shores of Lake Garda, Italy's largest and most scenic lake. The tour winds south along the western shore to the elegant town of Salò before boarding a boat that glides across the water to Sirmione — a needle-thin peninsula crowned by the perfectly preserved Scaligero Castle. Built by the powerful della Scala dynasty of Verona in the 13th century, the castle rises directly from the lake with its drawbridge, towers, and panoramic battlements still intact. After exploring the fortress and the nearby Roman ruins of the Grotte di Catullo, there is free time to wander Sirmione's cobbled lanes before the boat returns you across the water and back to Milan.",
+  "highlights": [
+    "Sail across Lake Garda on a scenic boat crossing between the western shore and Sirmione peninsula",
+    "Enter the Scaligero Castle of Sirmione, one of Italy's best-preserved 13th-century lakeside fortresses",
+    "Walk Salò's elegant waterfront promenade and visit the town that briefly served as the capital of Mussolini's Italian Social Republic",
+    "See the Grotte di Catullo, the largest Roman residential ruins in northern Italy, perched at the tip of the Sirmione peninsula",
+    "Enjoy panoramic views of Lake Garda from the Scaligero Castle's battlements with the Alps as a backdrop"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Salò — Lakeside Town",
+      "duration": "1.5 hours",
+      "description": "Arrive in Salò, a refined Lombard town on the western shore of Lake Garda. Walk the elegant lakeside promenade lined with Liberty-style villas, visit the unfinished Gothic cathedral, and hear the town's unusual wartime history as capital of the Italian Social Republic from 1943 to 1945. Free time for a coffee or gelato before boarding the boat."
+    },
+    {
+      "order": 2,
+      "castle_name": "Lake Garda Boat Crossing",
+      "duration": "30 minutes",
+      "description": "Board a traditional lake ferry and cross to the Sirmione peninsula, with views of snow-capped mountains to the north and the rolling hills of the Veneto to the east. The boat approaches the peninsula's tip, revealing the Scaligero Castle rising straight from the water."
+    },
+    {
+      "order": 3,
+      "castle_name": "Scaligero Castle — Sirmione",
+      "duration": "2 hours",
+      "description": "Enter the Scaligero Castle of Sirmione, commissioned by Cangrande I della Scala in the 13th century. The fortress is built on a rocky promontory with water on three sides, accessible only by drawbridge. Climb the towers for sweeping views over the lake and explore the walls, harbour tower, and inner keep. The castle is one of the finest examples of Scaligero military architecture in Italy."
+    },
+    {
+      "order": 4,
+      "castle_name": "Grotte di Catullo — Roman Ruins",
+      "duration": "1 hour",
+      "description": "Walk to the northern tip of the peninsula to visit the Grotte di Catullo, the largest Roman residential complex in northern Italy. Once believed to be the villa of the Latin poet Catullus, the site features vast vaulted halls, mosaic fragments, and terraced gardens overlooking the lake. The on-site museum displays finds from Roman and early medieval periods."
+    }
+  ],
+  "included": [
+    "Air-conditioned minibus transport from Milan",
+    "Boat crossing on Lake Garda",
+    "Professional English-speaking guide",
+    "Free time in Salò and Sirmione"
+  ],
+  "excluded": [
+    "Scaligero Castle entrance fee (approx. €8)",
+    "Grotte di Catullo entrance fee (approx. €8)",
+    "Meals and drinks",
+    "Hotel pickup (departure from central meeting point)"
+  ],
+  "meeting_point": "Central Milan meeting point (confirmed upon booking). Return to same location by early evening.",
+  "tips": [
+    "Book Scaligero Castle tickets online in advance during peak summer months — the queue at the entrance can be long",
+    "Wear comfortable walking shoes — Sirmione's cobblestones are uneven and steep near the Roman ruins",
+    "Bring sunscreen and a hat — the boat crossing and castle battlements are fully exposed",
+    "Lake Garda can be busy in July and August; the early morning departure helps beat the crowds in Sirmione"
+  ],
+  "faqs": [
+    {
+      "question": "Is this tour suitable for families with children?",
+      "answer": "Yes. Children enjoy climbing the Scaligero Castle towers and the boat crossing. The walking is moderate — around 4–5 km total. Castle entrance fees for children under 18 are reduced or free."
+    },
+    {
+      "question": "What is the best time of year to visit?",
+      "answer": "April to June and September to October offer pleasant temperatures, smaller crowds, and calmer lake conditions for the boat crossing. July and August are beautiful but very busy in Sirmione."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/milan-lake-garda-sirmione-scaligero-castle.webp",
+    "alt": "Scaligero Castle of Sirmione rising from the waters of Lake Garda at sunrise",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Lake Garda & Sirmione Scaligero Castle Day Trip from Milan | Castles & Palaces",
+    "description": "Day trip from Milan to Lake Garda: sail to the Sirmione peninsula, explore the 13th-century Scaligero Castle rising from the water, and visit ancient Roman ruins. Book on GetYourGuide."
+  }
+}

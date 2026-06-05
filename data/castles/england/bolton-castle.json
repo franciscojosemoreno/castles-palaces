@@ -1,0 +1,82 @@
+{
+  "id": "bolton-castle",
+  "name": "Bolton Castle",
+  "local_name": "Bolton Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 70000,
+  "country": "england",
+  "region": "North Yorkshire, Yorkshire Dales",
+  "nearest_city": "Leyburn",
+  "address": "Castle Bolton, Leyburn, DL8 4ET, England",
+  "lat": 54.3113,
+  "lng": -1.9524,
+  "unesco": false,
+  "year_built": 1379,
+  "architectural_style": "14th-century English quadrangular",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open daily March to November. Closed December to February except for special events."
+  },
+  "price_adult": 10,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.boltoncastle.co.uk",
+  "visit_duration": "2 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — ground floor accessible; tower floors have narrow stairs",
+  "booking_advance_days": 0,
+  "tagline": "Mary Queen of Scots' Yorkshire prison, standing in the heart of Wensleydale",
+  "highlights": [
+    "Mary Queen of Scots imprisoned here for six months in 1568–1569",
+    "One of the best-preserved 14th-century quadrangular castles in England",
+    "Spectacular position above Wensleydale in the Yorkshire Dales",
+    "Medieval herb garden and vineyard in the castle grounds",
+    "Exhibitions on Mary's captivity and daily medieval life"
+  ],
+  "description": "Bolton Castle stands on a commanding spur above the green sweep of Wensleydale, its four corner towers largely intact after more than 640 years. Built by Richard le Scrope, Chancellor of England, from 1379, the castle is one of the finest examples of the 14th-century quadrangular castle design in England — a self-contained fortress palace arranged around a central courtyard. Its most famous chapter came in 1568–1569 when Mary Queen of Scots was held here as a prisoner of Elizabeth I for six months, occupying the upper floors under relatively comfortable conditions before being transferred further south. Today the castle houses engaging exhibitions on Mary's captivity, medieval life, and castle history, alongside a recreated medieval garden and vineyard. Its setting in the Yorkshire Dales National Park is magnificent.",
+  "history": "Built by Richard le Scrope between 1379 and 1399, the castle passed through the Scrope family for generations. It was besieged during the English Civil War and partially slighted — the north-east tower was left in ruins — but the remaining three towers and much of the interior survived. The famous association with Mary Queen of Scots dates to her flight to England in 1568, when she was placed in comfortable captivity here before being moved to Tutbury Castle. The castle has remained in private ownership throughout and is still home to the Orde-Powlett family.",
+  "how_to_visit": "Bolton Castle is in Castle Bolton village, 6 km west of Leyburn in the Yorkshire Dales. Leyburn is served by bus from Northallerton and Darlington. A seasonal bus runs from Leyburn to the castle. By car it is 80 km from York and 70 km from Leeds. The castle makes an excellent stop on a Yorkshire Dales drive combining Aysgarth Falls (4 km) and Hawes.",
+  "faqs": [
+    {
+      "question": "How long was Mary Queen of Scots held at Bolton?",
+      "answer": "Mary was imprisoned at Bolton Castle from July 1568 to January 1569 — approximately six months — before being transferred to Tutbury Castle in Staffordshire."
+    },
+    {
+      "question": "Is the castle still inhabited?",
+      "answer": "Yes — the castle is privately owned by the Orde-Powlett family, descendants of the original Scrope builders, who continue to manage it as a heritage attraction."
+    },
+    {
+      "question": "What can I see in the castle grounds?",
+      "answer": "The grounds include a recreated medieval herb garden, a small vineyard, a falconry area, and a maze, all within the castle walls."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bolton-castle.webp",
+    "alt": "Bolton Castle rising above the green valley of Wensleydale in the Yorkshire Dales",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bolton-castle.webp",
+  "instagram_tag": "#boltoncastle",
+  "meta_title": "Bolton Castle, Yorkshire Dales — Mary Queen of Scots' Prison in Wensleydale",
+  "meta_description": "Visit Bolton Castle in the Yorkshire Dales — a 14th-century quadrangular fortress and prison of Mary Queen of Scots, set above beautiful Wensleydale.",
+  "tags": ["medieval", "english-castle", "yorkshire", "mary-queen-of-scots", "yorkshire-dales"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["bamburgh-castle", "alnwick-castle"],
+  "gyg_location_id": "2554",
+  "gyg_search_query": "Bolton Castle Yorkshire Dales tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

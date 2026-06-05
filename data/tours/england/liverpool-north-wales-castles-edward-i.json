@@ -1,0 +1,105 @@
+{
+  "id": "liverpool-north-wales-castles-edward-i",
+  "slug": "liverpool-north-wales-castles-edward-i",
+  "name": "Liverpool: Caernarfon & Conwy — The UNESCO Castles of Edward I",
+  "tagline": "Two of Europe's greatest medieval fortresses, built by England's most ambitious castle-builder",
+  "departure_country": "england",
+  "departure_city": "Liverpool",
+  "visited_countries": [
+    "england",
+    "wales"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "469108",
+  "gyg_url": "https://www.getyourguide.com/liverpool-l210/from-liverpool-north-wales-and-caernarfon-castle-tour-t469108/",
+  "price_from": 45,
+  "currency": "GBP",
+  "rating": 4.6,
+  "review_count": 2850,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "In 1283, King Edward I of England launched the most ambitious castle-building programme in European history — a ring of fortresses designed to permanently subdue Wales. Caernarfon and Conwy are the crown jewels of this campaign, and both are now UNESCO World Heritage Sites. Caernarfon's polygon towers and colour-banded walls were modelled on the walls of Constantinople, designed to intimidate as much as to defend. Conwy's eight drum towers and unbroken town walls still enclose the medieval town entirely. This day trip from Liverpool crosses into North Wales to visit both in a single extraordinary day, with a guide who brings the Welsh perspective — and the English — to one of history's most contested building projects.",
+  "highlights": [
+    "Caernarfon Castle — UNESCO World Heritage, birthplace of the first Prince of Wales",
+    "Conwy Castle — eight towers, intact medieval town walls and the Conwy estuary",
+    "Snowdonia National Park scenery on the approach through North Wales",
+    "The story of Edward I's 'iron ring' of castles — the most ambitious medieval building campaign in Europe",
+    "Small group maximum 16 guests",
+    "Conwy's remarkably intact medieval town walls — still complete after 700 years"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Liverpool Departure",
+      "duration": "Travel west into Wales (1.5 hours)",
+      "description": "Cross the border into North Wales and drive through the Clwydian hills toward Snowdonia. The guide introduces Edward I's Welsh wars and explains why this relatively small region contains more castles per square mile than anywhere in Europe."
+    },
+    {
+      "order": 2,
+      "castle_id": "conwy-castle",
+      "castle_name": "Conwy Castle",
+      "duration": "2 hours",
+      "description": "Begin at Conwy, where Edward I's master builder James of St George constructed an eight-towered concentric fortress and simultaneously enclosed the entire new English town in a complete circuit of walls — over a kilometre, with 21 towers, still standing intact today. Walk the castle battlements for views over the Conwy estuary and the 1826 suspension bridge Thomas Telford built in deliberate deference to the castle's silhouette."
+    },
+    {
+      "order": 3,
+      "castle_name": "Snowdonia Drive & Lunch",
+      "duration": "1 hour",
+      "description": "Drive along the spectacular Snowdonia coastal road past Penrhyn Castle and Bangor Strait to Caernarfon. Lunch stop with free time (own expense)."
+    },
+    {
+      "order": 4,
+      "castle_id": "caernarfon-castle",
+      "castle_name": "Caernarfon Castle",
+      "duration": "2 hours",
+      "description": "The most powerful castle in the Iron Ring. Caernarfon's polygonal towers (rather than round) and the distinctive banded masonry were deliberate references to the walls of Constantinople — chosen because legend held that the Roman Emperor Magnus Maximus, father of the first Christian emperor, was buried here. Walk the wall walk connecting the towers for panoramic views of the Menai Strait and Snowdonia, and visit the Regimental Museum of the Royal Welch Fusiliers inside the Eagle Tower."
+    }
+  ],
+  "included": [
+    "Return transport from Liverpool",
+    "Professional English-speaking guide",
+    "Caernarfon Castle entry",
+    "Conwy Castle entry",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Lunch (free time in Caernarfon)",
+    "Conwy town walls walking route (free, no ticket needed)"
+  ],
+  "meeting_point": "Liverpool city centre — exact pickup point confirmed at booking",
+  "tips": [
+    "Caernarfon is the larger and more impressive interior; Conwy has the better exterior and town walls",
+    "Walk the Conwy town walls for free — they're included in the castle ticket and the views are worth it",
+    "The drive along the Menai Strait with Snowdonia behind is spectacular — sit on the left side of the coach",
+    "Both castles were built simultaneously by the same architect, James of St George — see if you can spot the similarities"
+  ],
+  "faqs": [
+    {
+      "question": "Why are Caernarfon and Conwy UNESCO World Heritage Sites?",
+      "answer": "They are part of the 'Castles and Town Walls of King Edward in Gwynedd' — a UNESCO inscription covering four castles (Caernarfon, Conwy, Beaumaris, Harlech) recognised as the finest surviving examples of 13th-century military architecture in Europe."
+    },
+    {
+      "question": "What is the Prince of Wales connection?",
+      "answer": "Edward I allegedly promised the Welsh a prince 'born in Wales who spoke no English or French' — then presented his newborn son (future Edward II, born at Caernarfon) as that prince. The investiture of Prince Charles as Prince of Wales was held at Caernarfon Castle in 1969."
+    },
+    {
+      "question": "Is this tour suitable for children?",
+      "answer": "Excellent for children — both castles have towers to climb, battlements to walk and plenty of interactive history. Minimum age is around 5."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/liverpool-north-wales-castles-edward-i.webp",
+    "alt": "Caernarfon Castle and its medieval walls reflected in the harbour, Wales",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Liverpool to Caernarfon & Conwy Castle Day Trip | UNESCO Wales Tour",
+    "description": "Day trip from Liverpool to Caernarfon and Conwy — two UNESCO medieval fortresses built by Edward I, with intact town walls, battlements and Snowdonia views."
+  }
+}

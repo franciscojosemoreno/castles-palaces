@@ -1,0 +1,97 @@
+{
+  "id": "copenhagen-kronborg-frederiksborg-roskilde",
+  "slug": "copenhagen-kronborg-frederiksborg-roskilde",
+  "name": "From Copenhagen: Kronborg, Frederiksborg & Roskilde Cathedral",
+  "tagline": "Shakespeare's Elsinore, the Danish Renaissance masterpiece, and the cathedral where 39 kings and queens have been buried — a full circuit of royal Denmark",
+  "departure_country": "denmark",
+  "departure_city": "Copenhagen",
+  "visited_countries": [
+    "denmark"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8.5 hours)",
+  "gyg_tour_id": "38371",
+  "gyg_url": "https://www.getyourguide.com/copenhagen-l12/grand-day-trip-around-copenhagen-t38371/",
+  "price_from": 90,
+  "currency": "EUR",
+  "rating": 4.9,
+  "review_count": 1900,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "The region around Copenhagen contains Denmark's three great royal heritage sites within 60 kilometres. Kronborg Castle at Helsingør — Shakespeare's 'Elsinore', the castle of Hamlet — guards the narrowest point of the Øresund strait between Denmark and Sweden, the toll point that funded the Danish crown for 400 years. Frederiksborg Castle at Hillerød is the most ambitious Renaissance building in Scandinavia: a red-brick palace on three islands in a lake, built by Christian IV in the early 17th century and now housing the National Museum of History. And Roskilde Cathedral — 30km west of Copenhagen on a fjord — is the burial church of 39 Danish monarchs from the 10th century to the present day, and the UNESCO World Heritage Site that defines the image of Danish Gothic architecture. One day, three of the most significant royal buildings in Northern Europe.",
+  "highlights": [
+    "Kronborg Castle — Shakespeare's Elsinore, the Renaissance fortress that controlled the Øresund toll and inspired Hamlet",
+    "Hamlet's ghost in the casemates — the underground passages where tradition places the ghost of King Hamlet walking at night",
+    "Frederiksborg Castle — the most ambitious Renaissance palace in Scandinavia, on three islands, now the National Museum of History",
+    "Roskilde Cathedral — burial site of 39 Danish monarchs, UNESCO World Heritage, the defining church of Danish royal history",
+    "Viking Ship Museum, Roskilde — five original Viking ships from 1030-1042 AD, excavated from Roskilde Fjord in 1962",
+    "Small group with expert English-speaking guide"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Kronborg Castle, Helsingør",
+      "duration": "2 hours",
+      "description": "Kronborg Castle stands on the northernmost point of the island of Zealand, at the 4km-wide Øresund strait that separates Denmark from Sweden. From 1429 to 1857, every ship passing through the strait was required to pay a toll to the Danish crown — at its peak, this 'Sound Dues' generated up to 70% of Denmark's total state revenue. The original castle (Krogen) was built in the 1420s; the present Renaissance structure was rebuilt by Frederick II in 1574-1585 and restored after a catastrophic fire in 1629. Shakespeare never visited Elsinore, but the real castle's dark corridors and granite walls are perfectly suited to the play he set here. Walk the great hall (62m long), the chapel, and the underground casemates — the barrel-vaulted tunnels where a seated stone statue of the hero Holger Danske (Ogier the Dane) is said to wake when Denmark faces its gravest danger."
+    },
+    {
+      "order": 2,
+      "castle_name": "Frederiksborg Castle, Hillerød",
+      "duration": "2 hours",
+      "description": "Frederiksborg is the finest Renaissance building in Scandinavia — a red-brick palace built between 1600 and 1620 by King Christian IV on three small islands in a lake, connected by bridges and causeways. Christian IV was one of the most remarkable monarchs in Danish history: an architect, a warrior, a patron of music and art, and a builder who transformed Copenhagen and covered Denmark with Renaissance architecture. He built Frederiksborg as his principal royal residence, and it remained the coronation church of Danish monarchs until 1840. After a devastating fire in 1859, the Danish brewer J.C. Jacobsen (founder of Carlsberg) personally funded the restoration — the castle now houses the National Museum of Danish History, with portraits of every Danish monarch from Christian I (1448) to the present day."
+    },
+    {
+      "order": 3,
+      "castle_name": "Roskilde Cathedral & Viking Ships",
+      "duration": "2 hours",
+      "description": "Roskilde, 30km west of Copenhagen on the Roskilde Fjord, was Denmark's capital and the seat of its bishops throughout the medieval period. The Cathedral of Saint Luke (Roskilde Domkirke) was built between 1170 and 1280 on the site of an earlier wooden church founded by Harald Bluetooth around 960 AD. Since the 15th century it has been the burial church of the Danish royal house: 39 kings and queens are interred here in chapels and sarcophagi spanning 600 years of Danish history, from Margaret I (d. 1412) to Frederick IX (d. 1972). UNESCO World Heritage since 1995. The adjacent Viking Ship Museum houses five original Viking ships — a merchant vessel, a warship, and three smaller craft — deliberately sunk in the 11th century to block the fjord approach to Roskilde, excavated in 1962 in one of Scandinavia's most important archaeological discoveries."
+    }
+  ],
+  "included": [
+    "Return minibus transport from Copenhagen",
+    "Professional English-speaking guide",
+    "Kronborg Castle entry",
+    "Frederiksborg Castle & museum entry",
+    "Roskilde Cathedral entry",
+    "Viking Ship Museum entry",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Lunch (free time in Hillerød or Roskilde)"
+  ],
+  "meeting_point": "Copenhagen city centre — exact location confirmed at booking",
+  "tips": [
+    "Frederiksborg's interior is more impressive than most visitors expect — the Knights' Hall, the chapel, and the Great Hall with its Flemish tapestries take the full 2 hours",
+    "At Kronborg, ask the guide to take you into the casemates — the underground tunnels are not always included in basic visits but are the most atmospheric part of the castle",
+    "The Viking ships at Roskilde are the real thing — not reconstructions — and the museum's boatbuilding workshops where archaeologists build replica Viking ships using original techniques are fascinating",
+    "This tour has a 4.9 rating across nearly 2,000 reviews — one of the highest-rated castle day trips in Scandinavia"
+  ],
+  "faqs": [
+    {
+      "question": "Did Shakespeare ever visit Kronborg?",
+      "answer": "Almost certainly not — there is no evidence Shakespeare visited Denmark. He would have known Kronborg (which he called 'Elsinore', the English rendering of Helsingør) through contemporary accounts, maps, and possibly from Danish actors who performed at the English court. The real Kronborg Castle bears no particular resemblance to the play's staging, but Shakespeare's imagination transformed the actual toll-castle into the world's most famous fictional fortress."
+    },
+    {
+      "question": "How many monarchs are buried at Roskilde Cathedral?",
+      "answer": "39 Danish monarchs are buried in Roskilde Cathedral, making it the most concentrated site of royal burial in Scandinavia. The tombs span nearly 600 years, from Queen Margaret I (died 1412) to King Frederick IX (died 1972). Each generation added new chapels and burial chambers to the medieval building, creating a kind of compressed history of Danish royal art and architecture."
+    },
+    {
+      "question": "When were the Viking ships at Roskilde discovered?",
+      "answer": "The five ships were discovered in 1957-1962 during an excavation of Roskilde Fjord. They had been deliberately sunk in the 11th century — loaded with stones and scuttled — to block the narrow channel and prevent enemy ships from reaching Roskilde by water. The excavation involved pumping out a section of the fjord; the waterlogged timber had been preserved for 1,000 years by the anaerobic conditions. Dendrochronology dates the ships to between 1030 and 1042 AD."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/copenhagen-kronborg-frederiksborg-roskilde.webp",
+    "alt": "Frederiksborg Castle on its lake at Hillerød, the finest Renaissance palace in Scandinavia, Denmark",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "From Copenhagen: Kronborg, Frederiksborg & Roskilde Day Trip",
+    "description": "Full-day tour from Copenhagen to three Danish royal sites — Kronborg (Shakespeare's Elsinore), Frederiksborg Renaissance castle, and Roskilde Cathedral with 39 royal burials and Viking ships."
+  }
+}

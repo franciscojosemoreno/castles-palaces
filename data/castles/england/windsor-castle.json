@@ -1,0 +1,100 @@
+{
+  "id": "windsor-castle",
+  "name": "Windsor Castle",
+  "local_name": "Windsor Castle",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 1500000,
+  "country": "england",
+  "region": "Berkshire",
+  "nearest_city": "Windsor",
+  "address": "Windsor, Berkshire SL4 1NJ, England",
+  "lat": 51.4839,
+  "lng": -0.6044,
+  "unesco": false,
+  "year_built": 1070,
+  "architectural_style": "Norman motte-and-bailey, extensively rebuilt in Gothic Revival style 1820s",
+  "opening_hours": {
+    "monday": "10:00–17:15",
+    "tuesday": "10:00–17:15",
+    "wednesday": "10:00–17:15",
+    "thursday": "10:00–17:15",
+    "friday": "10:00–17:15",
+    "saturday": "10:00–17:15",
+    "sunday": "10:00–17:15",
+    "seasonal_note": "Open daily 10:00–17:15 (last entry 16:15). Nov–Feb closes at 16:15. Parts of the castle close for royal events and ceremonies — check website before visiting."
+  },
+  "price_adult": 28,
+  "price_child": 17,
+  "booking_required": true,
+  "official_tickets_url": "https://www.rct.uk/visit/windsor-castle",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to June — gardens open, State Apartments accessible, Changing of the Guard",
+  "accessibility": "The State Apartments and St. George's Chapel have step-free access via alternative routes. The castle is on a hill — some gradients. Accessible parking available.",
+  "booking_advance_days": 7,
+  "tagline": "The world's oldest and largest inhabited castle — the official weekend home of the British monarch",
+  "highlights": [
+    "St. George's Chapel — one of England's finest Gothic buildings, burial place of ten monarchs including Henry VIII and Charles III's parents",
+    "The State Apartments — lavishly decorated rooms containing works by Rubens, Canaletto and Rembrandt from the Royal Collection",
+    "Queen Mary's Dolls' House — a 1:12 scale palace with running water, electric lights and miniature books written by real authors",
+    "The Changing of the Guard — ceremony at 11:00 on alternating days (check schedule), one of Britain's most famous traditions",
+    "Windsor Great Park — 4,800 acres of parkland stretching south from the castle, with the Long Walk avenue of trees"
+  ],
+  "description": "Windsor Castle has been the home of English and British monarchs for nearly a thousand years — longer than any other royal residence in the world. William the Conqueror chose the site in 1070 for its commanding position above the Thames and its proximity to London, and every monarch since has added to, altered, or restored the complex. The castle King Charles III inherited is largely the creation of George IV, who spent lavishly in the 1820s to transform a functional fortress into a romantic Gothic palace.\n\nToday Windsor functions as both a working royal residence and one of Britain's most-visited attractions. The State Apartments — a sequence of ceremonial rooms decorated with Gobelins tapestries, suits of armour, and paintings from the Royal Collection — are among the finest palace interiors in Europe. St. George's Chapel, begun in 1475, is considered a masterpiece of Perpendicular Gothic architecture. It is also, quietly, a place of recent royal history: Queen Elizabeth II and Prince Philip are buried here, as are Henry VIII and Jane Seymour, Charles I, and George VI.\n\nThe Changing of the Guard at Windsor is smaller and less frantic than the one at Buckingham Palace, making it paradoxically easier to see properly. The town of Windsor itself, packed with Georgian and Victorian architecture, forms an enjoyable context for a visit.",
+  "history": "William the Conqueror built the original motte-and-bailey castle in 1070 to control the Thames Valley and the approach to London. Henry I made it a royal residence and Henry II rebuilt the Round Tower in stone. Edward III, born at Windsor, transformed it into a medieval palace worthy of his Arthurian ambitions: he founded the Order of the Garter here in 1348, created St. George's Hall, and began St. George's Chapel.\n\nThe Stuart kings made Windsor their principal out-of-London residence, and Charles II undertook a major baroque renovation after the Restoration. But the castle's current appearance is overwhelmingly the work of George IV and his architect Jeffrey Wyatville, who in the 1820s Gothicised the exteriors, raised the Round Tower by 30 feet to make it more dramatically picturesque, and redecorated the State Apartments in a style of theatrical magnificence. Queen Victoria made Windsor her preferred home after Prince Albert's death in 1861 and is buried in the Royal Mausoleum at Frogmore, within the park.",
+  "how_to_visit": "**Getting there:** Windsor & Eton Riverside station has direct trains from London Waterloo (55 min). Windsor & Eton Central station connects from London Paddington via Slough (35 min). The castle is a short walk from both stations.\n\n**Tickets:** Book online in advance — the castle regularly sells out. Admission includes the State Apartments, St. George's Chapel and Queen Mary's Dolls' House. Parts of the castle close for royal use — check the website on the day.\n\n**Changing of the Guard:** Occurs at 11:00 on Tuesday, Thursday and Saturday (alternating weeks in winter). The procession comes through town to the castle — arriving 20 minutes early secures a good viewing position.\n\n**Combine with:** Eton College (10-minute walk across Windsor Bridge), the Long Walk (a 3-mile avenue through Windsor Great Park), and Frogmore House gardens (open on specific days) make a full day.",
+  "faqs": [
+    {
+      "question": "Is Windsor Castle a royal residence?",
+      "answer": "Yes — Windsor Castle is an official residence of the British monarch and is used as a working royal palace. King Charles III uses it on most weekends. When the monarch is in residence, the Royal Standard flag flies above the Round Tower. State Apartments and chapel may close at short notice for royal functions."
+    },
+    {
+      "question": "Which monarchs are buried at Windsor Castle?",
+      "answer": "St. George's Chapel contains the tombs of ten monarchs: Henry VIII (with Jane Seymour), Charles I, George III, George IV, William IV, George V, George VI, Queen Elizabeth II, and Prince Philip. The Royal Mausoleum at Frogmore in Windsor Great Park contains Queen Victoria and Prince Albert."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/windsor-castle.webp",
+    "alt": "Windsor Castle's round tower and battlements viewed across the Thames on a clear day",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/windsor-castle.webp",
+  "instagram_tag": "#windsorcastle",
+  "meta_title": "Windsor Castle: Tickets, State Apartments & Visitor Guide 2026",
+  "meta_description": "Visit Windsor Castle — the world's oldest inhabited castle and home of the British Royal Family. Book tickets, see the Crown Jewels and St George's Chapel.",
+  "tags": [
+    "royal-residence",
+    "gothic",
+    "family-friendly",
+    "city-centre"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "english-royal-castles"
+  ],
+  "nearby_castles": [
+    "tower-of-london",
+    "warwick-castle"
+  ],
+  "gyg_location_id": "59",
+  "gyg_search_query": "Windsor Castle tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "945",
+      "title": "London: Windsor Castle, Stonehenge & Bath Day Trip",
+      "type": "day_trip",
+      "duration": "11–12 hours",
+      "price_from": 111,
+      "rating": 4.5,
+      "reviews": 5368,
+      "covers_castles": []
+    }
+  ]
+}

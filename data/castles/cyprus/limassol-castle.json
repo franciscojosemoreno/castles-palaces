@@ -1,0 +1,82 @@
+{
+  "id": "limassol-castle",
+  "name": "Limassol Medieval Castle",
+  "local_name": "Μεσαιωνικό Κάστρο Λεμεσού",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 90000,
+  "country": "cyprus",
+  "region": "Limassol District",
+  "nearest_city": "Limassol",
+  "address": "Irinis & Kilikis 1, Limassol 3041, Cyprus",
+  "lat": 34.6712,
+  "lng": 33.0447,
+  "unesco": false,
+  "year_built": 1000,
+  "architectural_style": "Byzantine / Lusignan / Ottoman",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "10:00–13:00",
+    "seasonal_note": "Open Monday to Saturday year-round; Sunday morning only. Last admission 30 minutes before closing."
+  },
+  "price_adult": 5,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.mcw.gov.cy",
+  "visit_duration": "1 hour",
+  "best_season": "Year-round",
+  "accessibility": "Limited — narrow stairs throughout the keep",
+  "booking_advance_days": 0,
+  "tagline": "Where Richard the Lionheart married Berengaria of Navarre on the way to the Crusades",
+  "highlights": [
+    "Richard the Lionheart married Berengaria of Navarre here in 1191",
+    "One of the most historically layered castles in Cyprus",
+    "Cyprus Medieval Museum inside the keep",
+    "In the heart of Limassol's charming old town",
+    "Byzantine origins, Lusignan expansion, Ottoman conversion to mosque and prison"
+  ],
+  "description": "Limassol Castle is a compact but historically layered medieval fortress in the heart of Limassol's old town, best known as the site where Richard I of England (the Lionheart) married Berengaria of Navarre in May 1191, during his stop in Cyprus on the way to the Third Crusade. The castle began as a Byzantine fort, was expanded by the Lusignan kings of Cyprus, later used as a mosque and prison by the Ottomans, and briefly served as a British military prison. Today it houses the Cyprus Medieval Museum, displaying an outstanding collection of Byzantine and Crusader artefacts — Byzantine silver, Lusignan coats of arms, medieval ceramics, and armour — within the original keep. The castle stands within easy walking distance of Limassol's excellent seafront promenade and old town restaurants.",
+  "history": "A Byzantine fortification occupied the site from around 1000 AD. The Lusignan dynasty of Cyprus, who took power after Richard the Lionheart sold the island in 1191, rebuilt the castle in the 14th century. It was captured by the Mamelukes in 1426 and the Ottomans in 1570, who converted the chapel to a mosque. The British used it as a prison during their colonial administration. The Department of Antiquities restored the keep and opened the Medieval Museum in the 20th century.",
+  "how_to_visit": "The castle is in the centre of Limassol's old town, near the municipal market and old port. It is easily walkable from the city centre hotels and seafront promenade. Limassol is 75 km from Nicosia (1 hour by motorway) and 65 km from Paphos. Combined with the nearby Limassol Archaeological Museum and the Kourion ancient theatre (20 km west), it makes a full day of Cypriot heritage.",
+  "faqs": [
+    {
+      "question": "Did the Lionheart really get married here?",
+      "answer": "Yes — Richard I married Berengaria of Navarre at the Byzantine chapel within the castle on 12 May 1191, making Berengaria the only English queen never to set foot in England."
+    },
+    {
+      "question": "What is in the Medieval Museum?",
+      "answer": "The Cyprus Medieval Museum holds Byzantine silver, Lusignan heraldic carvings, medieval ceramics, Crusader weapons and armour, and coins spanning the Byzantine, Frankish, and Ottoman periods."
+    },
+    {
+      "question": "Is it far from the seafront?",
+      "answer": "No — the castle is about 10 minutes' walk from Limassol's seafront promenade and the old port area, with good restaurants and cafés nearby."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/limassol-castle.webp",
+    "alt": "Limassol Medieval Castle in the old town of Limassol, Cyprus",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/limassol-castle.webp",
+  "instagram_tag": "#limassolcastle",
+  "meta_title": "Limassol Castle, Cyprus — Where Richard the Lionheart Married on the Crusades",
+  "meta_description": "Visit Limassol Medieval Castle in Cyprus — where Richard the Lionheart married in 1191, now home to the Cyprus Medieval Museum in the heart of the old town.",
+  "tags": ["byzantine", "lusignan", "cypriot-castle", "crusades", "richard-lionheart"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["kolossi-castle"],
+  "gyg_location_id": "2491",
+  "gyg_search_query": "Limassol castle medieval museum Cyprus tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

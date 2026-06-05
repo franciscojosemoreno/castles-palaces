@@ -1,0 +1,101 @@
+{
+  "id": "goreme-cappadocia-uchisar-ortahisar-red-tour",
+  "slug": "goreme-cappadocia-uchisar-ortahisar-red-tour",
+  "name": "Cappadocia Red Tour: Uchisar & Ortahisar Rock Castles with Lunch",
+  "tagline": "Two volcanic rock castles carved by nature and sculpted by man",
+  "departure_country": "turkey",
+  "departure_city": "Göreme",
+  "visited_countries": [
+    "turkey"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "479864",
+  "gyg_url": "https://www.getyourguide.com/goreme-l984/cappadocia-guided-red-tour-with-lunch-and-entrance-ticket-t479864/",
+  "price_from": 38,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 1240,
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French"
+  ],
+  "max_group_size": 20,
+  "overview": "Cappadocia's landscape of volcanic tuff, carved by millennia of erosion into towers, cones, and cliffs, gave rise to a unique form of military architecture: the rock castle. Uchisar Castle and Ortahisar Castle are not built on the landscape — they are the landscape, massive natural rock formations riddled with tunnels, stairways, rooms, and battlements carved out by Byzantine and medieval communities who turned geological accidents into impregnable fortresses. The Cappadocia Red Tour — one of the most popular guided tours in Turkey — combines both rock castles with the Göreme Open Air Museum, a UNESCO World Heritage Site of cave churches decorated with Byzantine frescoes, and the fairy chimney valleys that make Cappadocia one of the most recognisable places on earth.",
+  "highlights": [
+    "Climb Uchisar Castle — the highest point in Cappadocia, a natural volcanic rock riddled with Byzantine carved chambers offering panoramic views across the fairy chimney valleys",
+    "Explore Ortahisar Castle, a dramatic 80-metre rock needle that was used as a fortress until the 1950s and sits above a traditional bazaar town",
+    "Visit the Göreme Open Air Museum, a UNESCO site with over 30 rock-cut Byzantine churches decorated with frescoes from the 10th–13th centuries",
+    "Walk through the Pigeon Valley, named for the thousands of carved dovecotes in the cliffs, used for centuries to collect pigeon guano as fertiliser",
+    "Lunch at a local Cappadocian restaurant with testi kebab (meat slow-cooked in a sealed clay pot)"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Göreme Open Air Museum",
+      "duration": "1.5 hours",
+      "description": "Begin at the Göreme Open Air Museum, the densest concentration of rock-cut Byzantine architecture in Cappadocia. Over 30 cave churches and monasteries are carved into the soft tuff cliffs, decorated with frescoes from the Iconoclast period (726–843 AD) and the post-Iconoclast revival. Highlights include the Dark Church (Karanlık Kilise) with its vivid painted ceiling, the Snake Church with unusual medieval iconography, and the Apple Church with its iconic cross-plan interior."
+    },
+    {
+      "order": 2,
+      "castle_name": "Uchisar Castle",
+      "duration": "1.5 hours",
+      "description": "Drive to Uchisar, dominated by the tallest rock in Cappadocia — a massive volcanic cone riddled with Byzantine-era tunnels, rooms, storage chambers, and stairways. The summit was used as a military stronghold from the Byzantine period through Ottoman times. Climb to the top (with carved steps throughout) for the finest 360-degree panorama in Cappadocia: the fairy chimney valleys of Göreme, the valley toward Avanos, the flat-topped rock of Ortahisar, and on clear days, Mount Erciyes (3,916m) to the south."
+    },
+    {
+      "order": 3,
+      "castle_name": "Pigeon Valley Viewpoint & Lunch",
+      "duration": "1.5 hours",
+      "description": "Walk along the Pigeon Valley rim trail for views over hundreds of carved dovecotes (güvercinlik) cut into the cliff faces. Byzantine and medieval farmers carved these niches to attract pigeons, collecting their dung as fertiliser for vineyards and orchards. Lunch is served at a local Cappadocian restaurant — typically featuring testi kebab (clay pot slow-cooked meat), pide bread, and local wines."
+    },
+    {
+      "order": 4,
+      "castle_name": "Ortahisar Castle",
+      "duration": "1 hour",
+      "description": "Visit Ortahisar Castle, an 80-metre natural rock needle rising above the village of the same name. More urban in character than Uchisar, Ortahisar's castle is embedded in the town itself, with a bazaar of cave-carved fruit storage rooms and workshops at its base. The Ortahisar region was historically the centre of Cappadocia's citrus fruit industry — cave rooms maintained a natural temperature for preserving lemons and oranges through winter. Climb the castle for views into the Ürgüp Valley."
+    }
+  ],
+  "included": [
+    "Air-conditioned minibus with hotel pickup in Göreme, Ürgüp, Avanos, or Uchisar",
+    "Professional English-speaking guide",
+    "Lunch at a local restaurant",
+    "Göreme Open Air Museum entrance ticket"
+  ],
+  "excluded": [
+    "Uchisar Castle entrance fee (approx. €3)",
+    "Ortahisar Castle entrance fee (approx. €3)",
+    "Dark Church additional entry at Göreme Open Air Museum (approx. €5)",
+    "Drinks (included in some tour versions — confirm at booking)"
+  ],
+  "meeting_point": "Hotel pickup from Göreme, Ürgüp, Avanos, or Uchisar area hotels. Confirm your address at booking. Return to hotels by late afternoon.",
+  "tips": [
+    "Book the Cappadocia Red Tour at least 2–3 days in advance in summer — it sells out frequently",
+    "The Dark Church inside the Göreme Open Air Museum has an additional entrance fee but is worth every penny — the frescoes are the best-preserved in Cappadocia",
+    "Combine the Red Tour with a sunrise hot air balloon flight on the same morning (balloon flights land before 8am, tour departs later)",
+    "Uchisar Castle is steep — the carved steps are uneven and can be slippery after rain. Sturdy shoes are essential"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between the Red Tour and the Blue Tour in Cappadocia?",
+      "answer": "The Red Tour (this one) focuses on Göreme Open Air Museum, Uchisar Castle, Ortahisar Castle, and the eastern valleys. The Blue Tour typically covers the underground cities (Derinkuyu or Kaymakli), Ihlara Valley, and Selime Monastery — the other half of Cappadocia. Doing both gives you a complete picture of the region."
+    },
+    {
+      "question": "Are the rock castles actual castles or just geological formations?",
+      "answer": "Both. Uchisar and Ortahisar are natural volcanic tuff formations that were extensively carved and fortified by humans from Byzantine times onward. They functioned as genuine military strongholds — with guard rooms, escape tunnels, food stores, and cisterns — making them arguably the most unusual castles in Europe."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/goreme-cappadocia-uchisar-ortahisar-red-tour.webp",
+    "alt": "Uchisar rock castle rising above the fairy chimneys of Cappadocia at dawn",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Cappadocia Red Tour: Uchisar & Ortahisar Rock Castles | Castles & Palaces",
+    "description": "Guided Cappadocia Red Tour from Göreme: climb the volcanic rock castles of Uchisar and Ortahisar, explore the UNESCO Göreme Open Air Museum, and walk the Pigeon Valley. Includes lunch. Book on GetYourGuide."
+  }
+}

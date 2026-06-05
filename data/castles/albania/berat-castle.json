@@ -1,0 +1,82 @@
+{
+  "id": "berat-castle",
+  "name": "Berat Castle",
+  "local_name": "Kalaja e Beratit",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 200000,
+  "country": "albania",
+  "region": "Berat County",
+  "nearest_city": "Berat",
+  "address": "Kalaja, Berat, Albania",
+  "lat": 40.7058,
+  "lng": 19.9442,
+  "unesco": true,
+  "year_built": 300,
+  "architectural_style": "Byzantine / Ottoman",
+  "opening_hours": {
+    "monday": "08:00–22:00",
+    "tuesday": "08:00–22:00",
+    "wednesday": "08:00–22:00",
+    "thursday": "08:00–22:00",
+    "friday": "08:00–22:00",
+    "saturday": "08:00–22:00",
+    "sunday": "08:00–22:00",
+    "seasonal_note": "Open daily year-round. The castle is a living neighbourhood — access is unrestricted. Museums inside have shorter hours (09:00–17:00)."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.albania.al",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — steep cobblestone paths throughout",
+  "booking_advance_days": 0,
+  "tagline": "A living Byzantine citadel above the City of a Thousand Windows",
+  "highlights": [
+    "UNESCO World Heritage Site as part of historic Berat",
+    "A living neighbourhood — people still live inside the castle walls",
+    "Over 20 Byzantine and Ottoman churches within the citadel",
+    "National Museum of Iconography (Onufri Museum) inside a Byzantine church",
+    "Spectacular views over the white Ottoman houses of the Mangalem quarter below"
+  ],
+  "description": "Berat Castle is one of the most extraordinary living monuments in Europe — a Byzantine citadel on a steep rocky hill whose walls enclose not ruins but an inhabited neighbourhood of stone houses, Byzantine churches, and cobblestone lanes where local families still live. The castle hill dominates Berat, the UNESCO-listed 'City of a Thousand Windows' — named for the distinctive rows of large windows on the white Ottoman houses that cascade down the slopes below. Within the castle walls stand over 20 Byzantine churches, several converted to mosques and back again across the centuries; the finest houses the Onufri Museum, dedicated to the 16th-century Albanian iconographer Onufri, whose vivid use of red pigment revolutionised Byzantine painting. The castle dates from the 4th century BC in its origins and was expanded under Byzantine, Bulgarian, Angevin, and Ottoman rule.",
+  "history": "The site was fortified in Illyrian times; the current walls date mainly from the 4th–13th centuries of Byzantine rule. Berat was an important Byzantine administrative centre, a bishopric, and later a seat of Albanian despots. It was conquered by the Ottoman Empire in 1417 and became a major craft and trade centre. The castle and old town were inscribed as a UNESCO World Heritage Site in 2008. Unlike most Albanian citadels, the castle was never fully militarised under communism and the residential character of its interior was preserved.",
+  "how_to_visit": "Berat is 122 km south of Tirana, connected by regular buses (2 hours). The castle hill is reached by a steep cobblestone road from the Mangalem quarter below — a 20-minute walk. Taxis are available from the centre. Allow half a day to explore both the castle and the Mangalem and Gorica quarters below.",
+  "faqs": [
+    {
+      "question": "Do people really live inside the castle?",
+      "answer": "Yes — a small community of Albanian families still lives within the castle walls, making Berat one of the very few inhabited medieval castle citadels in Europe."
+    },
+    {
+      "question": "What is the Onufri Museum?",
+      "answer": "A museum inside the Cathedral of the Dormition of St Mary housing the works of Onufri, a celebrated 16th-century Albanian icon painter whose distinctive vivid red colour became his signature."
+    },
+    {
+      "question": "Why is Berat called the City of a Thousand Windows?",
+      "answer": "The distinctive Ottoman-era houses of the Mangalem quarter have unusually large windows arranged in symmetrical rows across their white facades, creating a striking effect visible from the castle above."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/berat-castle.webp",
+    "alt": "Berat Castle rising above the white Ottoman houses of the City of a Thousand Windows in Albania",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/berat-castle.webp",
+  "instagram_tag": "#beratcastle",
+  "meta_title": "Berat Castle, Albania — Living Byzantine Citadel, UNESCO World Heritage",
+  "meta_description": "Visit Berat Castle in Albania — a UNESCO-listed living Byzantine citadel with Byzantine churches, an icon museum, and views over the City of a Thousand Windows.",
+  "tags": ["byzantine", "ottoman", "albanian-castle", "unesco-world-heritage", "living-castle"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2785",
+  "gyg_search_query": "Berat castle Albania tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

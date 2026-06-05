@@ -1,0 +1,104 @@
+{
+  "id": "frankfurt-rhine-valley-castles-cruise",
+  "slug": "frankfurt-rhine-valley-castles-cruise",
+  "name": "Frankfurt: Rhine Valley Castle Cruise & Wine Tasting",
+  "tagline": "Seven medieval fortresses, a river cruise through UNESCO gorges, and Riesling at the source",
+  "departure_country": "germany",
+  "departure_city": "Frankfurt",
+  "visited_countries": [
+    "germany"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "7157",
+  "gyg_url": "https://www.getyourguide.com/frankfurt-l21/rhine-day-tour-with-river-cruise-and-wine-tasting-t7157/",
+  "price_from": 79,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 4650,
+  "languages": [
+    "English",
+    "German"
+  ],
+  "max_group_size": 25,
+  "overview": "The Middle Rhine Valley between Rüdesheim and Koblenz is one of Germany's most dramatic landscapes — a narrow gorge where hilltop castles rise every few kilometres above the river, each one built to extract tolls from the medieval trade routes below. This full-day tour from Frankfurt takes you into the UNESCO World Heritage section of the Rhine, combining a 90-minute river cruise past Marksburg, Gutenfels, Sterrenberg and Liebenstein with stops in the wine towns of Rüdesheim and Bacharach. Your guide covers the Romantic movement that transformed these ruins into symbols of German national identity — and a private wine tasting introduces you to the Rieslings that grow on the steep slate terraces above the river.",
+  "highlights": [
+    "90-minute river cruise through the UNESCO Middle Rhine gorge past 7 medieval castles",
+    "Marksburg Castle — the only Rhine hilltop fortress never destroyed",
+    "Rüdesheim am Rhein: wine tasting in a historic Riesling estate",
+    "Bacharach: a perfectly preserved medieval Rhine town beneath Stahleck Castle",
+    "The Loreley Rock — the legendary cliff at the Rhine's most dramatic bend",
+    "Expert commentary on the Romantic movement and the Rhine's medieval history"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Frankfurt Departure",
+      "duration": "Travel west (1 hour)",
+      "description": "Depart Frankfurt for the Rheingau, the wine-growing heart of the Rhine Valley. The guide introduces the medieval toll system that funded the construction of the castles you're about to see — every Rhine castle was built to stop ships and extract payment."
+    },
+    {
+      "order": 2,
+      "castle_name": "Rüdesheim am Rhein",
+      "duration": "1.5 hours",
+      "description": "Explore the wine town of Rüdesheim, gateway to the Middle Rhine UNESCO section. Visit a Riesling estate in the Drosselgasse for a guided tasting of wines grown on the steep slate terraces above the town — the same vineyards Goethe described as the finest in Germany."
+    },
+    {
+      "order": 3,
+      "castle_name": "Rhine River Cruise — Castle Gorge",
+      "duration": "90 minutes",
+      "description": "Board the historic Rhine steamer for the cruise through the UNESCO gorge. The guide identifies each castle as it appears: Ehrenfels, Gutenfels, Schönburg, the twin castles of Sterrenberg and Liebenstein ('the Quarrelsome Brothers'), Marksburg (the only intact hilltop fortress), and the ruins of Rheinfels above St Goar. The Loreley Rock marks the river's narrowest and most dangerous point."
+    },
+    {
+      "order": 4,
+      "castle_name": "Bacharach & Stahleck Castle",
+      "duration": "1 hour",
+      "description": "Disembark at Bacharach, one of the Rhine's best-preserved medieval towns. Walk the half-timbered streets to the base of Stahleck Castle (now a youth hostel perched above the town) for the finest panoramic view of the Rhine Valley before the return drive to Frankfurt."
+    }
+  ],
+  "included": [
+    "Return transport from Frankfurt",
+    "Professional English/German-speaking guide",
+    "90-minute Rhine river cruise",
+    "Wine tasting at a Riesling estate (3 wines)",
+    "Bottled water on coach"
+  ],
+  "excluded": [
+    "Meals",
+    "Marksburg Castle interior entry (optional, ~€8)",
+    "Additional wine purchases"
+  ],
+  "meeting_point": "Frankfurt city centre — Wiesenhüttenplatz (near Hauptbahnhof). Exact details confirmed at booking.",
+  "tips": [
+    "Sit on the right side of the coach for the best castle views on the drive through the valley",
+    "The river cruise is outdoors — bring a layer even in summer, the gorge creates wind",
+    "Bacharach's Altes Haus (1368) is one of Germany's most photographed half-timbered buildings",
+    "Book well ahead in summer — this is one of Germany's most popular day trips"
+  ],
+  "faqs": [
+    {
+      "question": "How many castles does the tour pass?",
+      "answer": "The river cruise passes approximately 7 castle ruins and fortresses in the UNESCO gorge section, plus several more are visible from the coach on the approach road."
+    },
+    {
+      "question": "Can I visit inside Marksburg Castle?",
+      "answer": "Marksburg is visible from the river cruise. An interior visit is optional and self-guided if time permits — ask your guide on the day."
+    },
+    {
+      "question": "Is this tour suitable for children?",
+      "answer": "Yes — the river cruise and castle scenery are very engaging for children. The wine tasting is for adults; soft drinks are available."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/frankfurt-rhine-valley-castles-cruise.webp",
+    "alt": "Medieval castles rising above the Rhine Valley gorge, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Rhine Valley Castle Cruise from Frankfurt | UNESCO Day Trip Germany",
+    "description": "Full-day tour from Frankfurt through the UNESCO Rhine Valley gorge — river cruise past 7 medieval castles, Rüdesheim wine tasting, and Bacharach old town."
+  }
+}

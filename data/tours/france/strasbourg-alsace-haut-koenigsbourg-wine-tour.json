@@ -1,0 +1,112 @@
+{
+  "id": "strasbourg-alsace-haut-koenigsbourg-wine-tour",
+  "slug": "strasbourg-alsace-haut-koenigsbourg-wine-tour",
+  "name": "Strasbourg: Haut-Kœnigsbourg Castle & Alsace Wine Route",
+  "tagline": "A perfectly restored medieval fortress above the most beautiful wine villages in France",
+  "departure_country": "france",
+  "departure_city": "Strasbourg",
+  "visited_countries": [
+    "france"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "34849",
+  "gyg_url": "https://www.getyourguide.com/strasbourg-l293/from-strasbourg-full-day-highlights-of-the-alsace-tour-t34849/",
+  "price_from": 55,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 5240,
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "max_group_size": 20,
+  "overview": "The Alsace Wine Route winds for 170 kilometres through the foothills of the Vosges, linking some of the most beautiful villages in France — half-timbered facades in Hansel-and-Gretel colours, stork nests on every church tower, and the smell of Gewurztraminer on the autumn air. Above it all, on a Vosges ridge at 757 metres, Haut-Kœnigsbourg Castle commands the entire Rhine plain with the Black Forest visible on the far bank. Originally built in the 12th century as a toll castle controlling the wine route below, it was virtually destroyed in the Thirty Years War and then meticulously reconstructed by Kaiser Wilhelm II between 1900 and 1908 — the most complete medieval castle restoration in Europe. This day tour from Strasbourg combines a guided visit to the castle with the best of the Route du Vin: Colmar, Riquewihr and Eguisheim.",
+  "highlights": [
+    "Haut-Kœnigsbourg Castle — Europe's most complete medieval castle restoration, UNESCO candidate",
+    "360-degree views from the keep: Alsace plain, Rhine, Black Forest and, on clear days, the Alps",
+    "Riquewihr — one of France's most beautiful villages, unchanged since the 16th century",
+    "Eguisheim — birthplace of Pope Leo IX and the prettiest circular medieval village in France",
+    "Colmar: the 'Little Venice' of Alsace, home of the Isenheim Altarpiece",
+    "Alsatian wine tasting: Riesling, Gewurztraminer and Pinot Gris from the grand cru vineyards"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Strasbourg Departure",
+      "duration": "Travel south (45 min)",
+      "description": "Head south from Strasbourg into the foothills of the Vosges. The guide introduces the extraordinary history of Alsace — a region that changed nationality between France and Germany four times between 1870 and 1945, producing a unique hybrid culture visible in every village name, every dish and every wine label."
+    },
+    {
+      "order": 2,
+      "castle_name": "Haut-Kœnigsbourg Castle",
+      "duration": "2 hours",
+      "description": "Climb to the castle entrance at 757 metres for views stretching from the Vosges to the Rhine and across to the Black Forest. The guided tour covers the medieval toll system, the destruction in 1633, and the extraordinary restoration commissioned by Kaiser Wilhelm II — who wanted to symbolise German sovereignty over Alsace by rebuilding its greatest fortress. The keep's panoramic platform is the tour's visual highlight."
+    },
+    {
+      "order": 3,
+      "castle_name": "Riquewihr",
+      "duration": "1 hour",
+      "description": "Descend to Riquewihr, a walled wine village whose 16th-century ramparts, towers and half-timbered houses are so perfectly preserved it has never needed restoration. Walk the single main street past Riesling producers and medieval courtyards, and taste the wine that Richelieu declared the king of French whites."
+    },
+    {
+      "order": 4,
+      "castle_name": "Eguisheim",
+      "duration": "45 min",
+      "description": "The most beautiful circular village in France — Eguisheim was built around a medieval castle in concentric rings, so every street curves around the original fortified centre. The village is the birthplace of Pope Leo IX (1002) and produces some of the finest Gewurztraminer grand cru wine in Alsace."
+    },
+    {
+      "order": 5,
+      "castle_name": "Colmar",
+      "duration": "1 hour",
+      "description": "End in Colmar's 'Little Venice' quarter — canals lined with flower-draped 16th-century houses, the medieval customs house, and the Koïfhus. Optional visit to the Unterlinden Museum housing the Isenheim Altarpiece, considered the greatest German painting of the Renaissance."
+    }
+  ],
+  "included": [
+    "Return transport from Strasbourg",
+    "Professional multilingual guide",
+    "Haut-Kœnigsbourg Castle entry",
+    "Alsatian wine tasting",
+    "Headset commentary system"
+  ],
+  "excluded": [
+    "Lunch (free time in Riquewihr or Colmar)",
+    "Isenheim Altarpiece museum entry (optional, ~€13)",
+    "Additional wine purchases"
+  ],
+  "meeting_point": "Strasbourg city centre — meeting point confirmed at booking",
+  "tips": [
+    "October is the best month — harvest season, golden light and the vendanges (grape harvest) happening in the vineyards",
+    "Riquewihr is the most wine-focused village; Eguisheim is the most architecturally pure — both are exceptional",
+    "The castle is best in morning light — the eastward views over the Rhine plain are clearest before noon",
+    "Alsatian Flammkuchen (tarte flambée) is the essential lunch — try it in Colmar's covered market"
+  ],
+  "faqs": [
+    {
+      "question": "Why did Kaiser Wilhelm II restore the castle?",
+      "answer": "After Germany annexed Alsace in 1871 following the Franco-Prussian War, Wilhelm II wanted to assert German cultural ownership of the region. Rebuilding Haut-Kœnigsbourg was a political statement — and an architectural masterpiece."
+    },
+    {
+      "question": "Is Alsace French or German?",
+      "answer": "French since 1945, but the culture, dialect, cuisine and wine tradition are distinctly hybrid. Alsatian is a Germanic dialect, Christmas markets are a German tradition, and choucroute garnie is essentially German sauerkraut — but refined into French haute cuisine."
+    },
+    {
+      "question": "What wine should I buy in Riquewihr?",
+      "answer": "Riesling from the Schoenenbourg grand cru vineyard above Riquewihr is the benchmark. Ask your guide which producer to visit."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/strasbourg-alsace-haut-koenigsbourg-wine-tour.webp",
+    "alt": "Haut-Kœnigsbourg Castle rising above the Alsace vineyards in autumn",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Strasbourg: Haut-Kœnigsbourg Castle & Alsace Wine Route Day Tour",
+    "description": "Guided day trip from Strasbourg to Haut-Kœnigsbourg Castle and the Alsace Wine Route — Riquewihr, Eguisheim and Colmar. Wine tasting included. 5,200+ reviews."
+  }
+}

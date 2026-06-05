@@ -1,0 +1,82 @@
+{
+  "id": "ogrodzieniec-castle",
+  "name": "Ogrodzieniec Castle",
+  "local_name": "Zamek Ogrodzieniec",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "poland",
+  "region": "Silesia, Zawiercie County",
+  "nearest_city": "Częstochowa",
+  "address": "Zamkowa 1, 42-440 Podzamcze, Poland",
+  "lat": 50.4567,
+  "lng": 19.5356,
+  "unesco": false,
+  "year_built": 1320,
+  "architectural_style": "Gothic / Renaissance",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily April to October. November to March Saturday and Sunday only. Night tours by torchlight available in summer."
+  },
+  "price_adult": 16,
+  "price_child": 10,
+  "booking_required": false,
+  "official_tickets_url": "https://www.zamek-ogrodzieniec.pl",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — ruins on rocky terrain with uneven surfaces",
+  "booking_advance_days": 0,
+  "tagline": "Poland's most romantic castle ruin — Gothic towers rising from a limestone crag",
+  "highlights": [
+    "The most visited castle ruin in Poland",
+    "Dramatically positioned on the highest crag of the Kraków-Częstochowa Upland",
+    "Gothic towers, Renaissance halls, and dungeon open to explore",
+    "Nocturnal torchlight tours in summer — one of Poland's most atmospheric experiences",
+    "Central stop on the Trail of the Eagles' Nests"
+  ],
+  "description": "Ogrodzieniec is the most visited castle ruin in Poland and the most dramatic monument on the Trail of the Eagles' Nests — a shattered Gothic and Renaissance fortress sprawling across the highest limestone crag of the Kraków-Częstochowa Upland, its broken towers silhouetted against the sky with views stretching across the upland plateau. First built as a royal stronghold in the early 14th century and expanded into a magnificent Renaissance residence by the Boner family in the 16th century, the castle was burned by the Swedes in 1655 during the 'Deluge' and never rebuilt. The evocative ruins include a cylindrical Gothic tower, Renaissance loggias, underground dungeons, and a well — all freely walkable. The castle is renowned for its nocturnal torchlight tours on summer evenings, one of the most atmospheric heritage experiences in Poland.",
+  "history": "A royal castle was built at Ogrodzieniec around 1320 by King Władysław the Short. It passed to the wealthy Boner family in the 16th century, who rebuilt it in Renaissance style with a beautiful loggia courtyard. The Swedish invasion of Poland (the 'Deluge') in 1655 resulted in the castle being burned and looted; it was briefly rebuilt but fell into permanent ruin in the 18th century. Stabilisation and tourist infrastructure were developed from the 1950s. It is now the most popular castle ruin in the country.",
+  "how_to_visit": "Ogrodzieniec is 35 km north-west of Kraków and 35 km south-east of Częstochowa on the DK78. By car it is 45 minutes from Kraków. Buses connect from Zawiercie (the nearest train station, 10 km). The castle is on the edge of the village of Podzamcze. Combined with Pieskowa Skała (50 km south) and the Jasna Góra Monastery in Częstochowa (35 km north) for a full Eagles' Nests day.",
+  "faqs": [
+    {
+      "question": "What are the torchlight night tours?",
+      "answer": "On summer evenings, the castle offers guided tours by torchlight through the ruins, dungeon, and towers — one of the most popular and atmospheric night experiences at any Polish castle."
+    },
+    {
+      "question": "Who destroyed Ogrodzieniec Castle?",
+      "answer": "Swedish forces burned and looted the castle during the Swedish invasion of Poland known as 'the Deluge' in 1655 — one of the most catastrophic episodes in Polish history, which devastated dozens of castles across the country."
+    },
+    {
+      "question": "Is there a legend associated with the castle?",
+      "answer": "Yes — local legend tells of the Black Dog of Ogrodzieniec, the ghost of a greedy nobleman transformed into a dog and condemned to haunt the ruins, dragging a chain through the corridors at night."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ogrodzieniec-castle.webp",
+    "alt": "Ogrodzieniec Castle Gothic towers and ruins on a limestone crag in southern Poland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ogrodzieniec-castle.webp",
+  "instagram_tag": "#zamek_ogrodzieniec",
+  "meta_title": "Ogrodzieniec Castle, Poland — The Most Dramatic Ruin on the Eagles' Nests Trail",
+  "meta_description": "Visit Ogrodzieniec Castle in Poland — the country's most visited castle ruin, with Gothic towers on a limestone crag and atmospheric torchlight night tours.",
+  "tags": ["gothic", "polish-castle", "eagles-nests", "ruins", "silesia"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["pieskowa-skala-castle", "malbork-castle"],
+  "gyg_location_id": "2620",
+  "gyg_search_query": "Ogrodzieniec castle ruins Eagles Nests Poland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

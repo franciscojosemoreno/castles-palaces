@@ -1,0 +1,88 @@
+{
+  "id": "munich-neuschwanstein-linderhof",
+  "slug": "munich-neuschwanstein-linderhof",
+  "name": "Neuschwanstein & Linderhof Castle Day Trip from Munich",
+  "tagline": "Two of Bavaria's most spectacular royal castles in a single unforgettable day",
+  "departure_country": "germany",
+  "departure_city": "Munich",
+  "visited_countries": [
+    "germany"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 10–11 hours",
+  "gyg_tour_id": "1753",
+  "price_from": 65,
+  "currency": "EUR",
+  "rating": 4.4,
+  "review_count": 12800,
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "max_group_size": 55,
+  "overview": "Leave the Bavarian capital behind and spend the day among Ludwig II's fairy-tale creations. Visit Neuschwanstein — the castle that inspired Disney's Cinderella — perched high above the Hohenschwangau valley, then continue to the intimate Linderhof Palace, the only one of Ludwig's projects he lived to see completed.",
+  "highlights": [
+    "Skip-the-line access to Neuschwanstein Castle",
+    "Guided tour of Linderhof Palace and its formal gardens",
+    "Round-trip transport from Munich included",
+    "Expert guide narrating the life of King Ludwig II",
+    "Views over the Alpsee lake and Alpine foothills"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "neuschwanstein-castle",
+      "castle_name": "Neuschwanstein Castle",
+      "duration": "2.5 hours",
+      "description": "Explore the iconic fairy-tale castle commissioned by Ludwig II. Guided interior tour of the Throne Room, Singer's Hall, and royal apartments. Panoramic views from Marienbrücke bridge."
+    },
+    {
+      "order": 2,
+      "castle_id": "linderhof-palace",
+      "castle_name": "Linderhof Palace",
+      "duration": "1.5 hours",
+      "description": "Tour the only Bavarian royal residence Ludwig II completed. Admire the rococo interiors and the spectacular water-jet fountain in the formal French gardens."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Munich",
+    "Professional guide",
+    "Neuschwanstein skip-the-line ticket",
+    "Linderhof Palace entry"
+  ],
+  "excluded": [
+    "Lunch and drinks",
+    "Gratuities",
+    "Personal travel insurance"
+  ],
+  "meeting_point": "Munich city centre — exact location confirmed at booking",
+  "tips": [
+    "Wear comfortable walking shoes — the path to Neuschwanstein involves a 30-minute uphill walk",
+    "Bring layers: temperatures at castle level are cooler than in Munich",
+    "Book at least a week ahead in summer — this is one of GYG's most popular tours globally"
+  ],
+  "faqs": [
+    {
+      "question": "Is the tour suitable for children?",
+      "answer": "Yes, children are welcome. Note the uphill walk to Neuschwanstein takes about 30 minutes on a paved path."
+    },
+    {
+      "question": "What happens if it rains?",
+      "answer": "The tour runs in all weather. Both castles are primarily indoor experiences. Bring a light waterproof jacket."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/munich-neuschwanstein-linderhof.webp",
+    "alt": "Neuschwanstein Castle rising above autumn forest in Bavaria",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Neuschwanstein & Linderhof Day Trip from Munich | Castles & Palaces",
+    "description": "Book the best Neuschwanstein and Linderhof castle day trip from Munich. Skip-the-line access, expert guide, round-trip transport. From €65 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/munich-l26/from-munich-neuschwanstein-linderhof-castle-full-day-trip-t1753/"
+}

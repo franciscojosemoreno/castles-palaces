@@ -1,0 +1,83 @@
+{
+  "id": "ljubljana-castle",
+  "name": "Ljubljana Castle",
+  "local_name": "Ljubljanski grad",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 800000,
+  "country": "slovenia",
+  "region": "Central Slovenia",
+  "nearest_city": "Ljubljana",
+  "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+  "lat": 46.0488,
+  "lng": 14.508,
+  "unesco": false,
+  "year_built": 1144,
+  "architectural_style": "Medieval origins, largely rebuilt 16th century, 19th-century additions and 20th-century restoration",
+  "opening_hours": {
+    "monday": "09:00–21:00",
+    "tuesday": "09:00–21:00",
+    "wednesday": "09:00–21:00",
+    "thursday": "09:00–21:00",
+    "friday": "09:00–21:00",
+    "saturday": "09:00–21:00",
+    "sunday": "09:00–21:00",
+    "seasonal_note": "Jan–Mar & Nov: 10:00–20:00. Apr–Sep: 09:00–22:00. Oct & Dec: 10:00–21:00."
+  },
+  "price_adult": 16,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://www.ljubljanskigrad.si/en/",
+  "visit_duration": "1–2 hours",
+  "best_season": "April to October — the funicular, views and café terraces all at their best",
+  "accessibility": "Accessible via funicular from the old town. Some areas within the castle require steps.",
+  "booking_advance_days": 0,
+  "tagline": "Ljubljana's crown — a hilltop castle above one of Europe's most charming small capitals",
+  "highlights": [
+    "The views — panoramic views over Ljubljana's orange rooftops, the Ljubljana marsh and the surrounding Alps from the castle tower",
+    "The funicular — a short funicular ride from the old town connects to the castle gate in 1 minute",
+    "The Virtual Castle — an immersive 3D film experience telling the history of the castle and Ljubljana",
+    "The Tower — climb the 19th-century lookout tower for the finest views in the city",
+    "The Ljubljana old town below — one of the most walkable and charming city centres in central Europe, best seen from the castle"
+  ],
+  "description": "Ljubljana Castle sits on a 376-metre hill directly above the old town of Ljubljana, Slovenia's compact and charming capital. The castle is one of the oldest structures in the city — a medieval fortification, largely rebuilt in the 16th century, that has served as a palace, a barracks, a prison, a military hospital and, since extensive restoration in the 1990s and 2000s, one of Ljubljana's most visited cultural sites.\n\nThe castle's appeal today lies as much in the setting as in the historical fabric. A funicular connects the old town to the castle gate in 60 seconds; alternatively, several pleasant paths wind up through the wooded hillside in 15–20 minutes. From the castle terrace and the lookout tower, the view over Ljubljana's terracotta rooftops, the Baroque churches and the Ljubljana castle hill's reflection in the Ljubljanica River is one of the most complete and satisfying urban panoramas in central Europe. The Alps are visible on clear days.\n\nLjubljana itself — a city of 280,000 people that functions as a remarkably complete European capital — is one of the most enjoyable cities in the region for visitors. The pedestrianised old town, the Triple Bridge, the Central Market and the architectural legacy of Jože Plečnik (who redesigned much of the city in the 1920s–30s) make it a city that rewards wandering.",
+  "history": "Written records of a castle on Ljubljana's castle hill begin in 1144, though a Roman fort stood here before that. The castle passed through various owners in the medieval period and became a Habsburg possession in 1335, when it served as the administrative centre of the Duchy of Carniola. The 16th century brought extensive rebuilding in response to the Ottoman threat to the region — the walls, towers and keep visible today date largely from this period.\n\nIn the 17th century the castle declined as a noble residence and was converted to other uses — barracks, granary, provincial prison. It served as a prison from the 18th to the early 20th century, during which period the medieval fabric suffered considerable damage and neglect. Restoration began in 1905 and continued in phases through the 20th century; the most comprehensive work was done after Slovenian independence in 1991, converting the castle into a cultural venue while preserving the medieval structure.",
+  "how_to_visit": "**Getting there:** Ljubljana is easily reached by train from Vienna (6 hours), Zagreb (2 hours), Venice (4 hours) and Budapest (6 hours). The castle is in the centre of the old town — the funicular departs from Krekov trg, a 5-minute walk from the main pedestrian street (Stari trg).\n\n**Free vs. paid:** The castle grounds and courtyard are free to enter on foot. The funicular, lookout tower, virtual castle film and some exhibitions require tickets.\n\n**Combine with:** Predjama Castle (50 minutes by car) and Postojna Cave (50 minutes) make Ljubljana a natural base for a Slovenian castles day trip.",
+  "faqs": [
+    {
+      "question": "How do I get up to Ljubljana Castle?",
+      "answer": "There are three options: the funicular from Krekov trg (1 minute, operates daily, small fee), several walking paths through the wooded hill (15–20 minutes, free), or by car to a car park near the castle gate. The funicular is the most popular option. The castle grounds are free to enter on foot; individual attractions within the castle (lookout tower, virtual castle, exhibitions) require paid tickets."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ljubljana-castle.webp",
+    "alt": "Ljubljana Castle on its wooded hill above the orange rooftops of the old town at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ljubljana-castle.webp",
+  "instagram_tag": "#ljubljanacastle",
+  "meta_title": "Ljubljana Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Ljubljana Castle in Slovenia — a medieval hilltop fortress above one of Europe's most charming capitals. Book tickets, ride the funicular and enjoy panoramic views.",
+  "tags": [
+    "medieval",
+    "city-centre",
+    "instagram-worthy",
+    "views"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "slovenian-castles-route"
+  ],
+  "nearby_castles": [
+    "predjama-castle"
+  ],
+  "gyg_location_id": "3218",
+  "gyg_search_query": "Ljubljana Castle tour Slovenia",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,82 @@
+{
+  "id": "les-baux-de-provence",
+  "name": "Les Baux-de-Provence Castle",
+  "local_name": "Château des Baux-de-Provence",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 400000,
+  "country": "france",
+  "region": "Provence-Alpes-Côte d'Azur, Bouches-du-Rhône",
+  "nearest_city": "Arles",
+  "address": "Rue du Château des Baux, 13520 Les Baux-de-Provence, France",
+  "lat": 43.7443,
+  "lng": 4.7953,
+  "unesco": false,
+  "year_built": 900,
+  "architectural_style": "Medieval Provençal",
+  "opening_hours": {
+    "monday": "09:00–19:30",
+    "tuesday": "09:00–19:30",
+    "wednesday": "09:00–19:30",
+    "thursday": "09:00–19:30",
+    "friday": "09:00–19:30",
+    "saturday": "09:00–19:30",
+    "sunday": "09:00–19:30",
+    "seasonal_note": "Hours vary significantly by season: 09:00–20:30 in July–August; 09:00–17:00 in winter. Open daily year-round."
+  },
+  "price_adult": 11,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateau-baux-provence.com",
+  "visit_duration": "2 hours",
+  "best_season": "March to June, September to November",
+  "accessibility": "Limited — steep rocky paths throughout the site",
+  "booking_advance_days": 0,
+  "tagline": "A ruined citadel on a white limestone spur above the olive groves of Provence",
+  "highlights": [
+    "Spectacular ruined citadel perched on a white limestone ridge",
+    "One of the most visited historic sites in France",
+    "Full-scale medieval siege engine demonstrations",
+    "Views over the Alpilles mountains and Provençal plains",
+    "Adjacent village of Les Baux is one of France's most beautiful villages"
+  ],
+  "description": "Les Baux-de-Provence is one of the most visited historic sites in France and one of the most spectacular — a ruined medieval citadel crowning a razor-edge limestone spur above the silver-green Alpilles, its walls fused with the bare white rock. The Lords of Baux were among the most powerful and turbulent feudal dynasties of medieval Provence, ruling over 79 towns at their peak. The citadel, covering over 7 hectares of cliff-top terrain, was razed by Cardinal Mazarin in 1632 following a revolt and never rebuilt. Today visitors walk through extensive ruins that include a chapel, towers, the lord's residence, and — uniquely — full-scale functioning reproductions of medieval siege engines: trebuchets, catapults, and battering rams with live demonstrations. The preserved medieval village below the ruins is one of France's most beautiful.",
+  "history": "The Lords of Baux claimed descent from the Biblical Magus Balthazar and were celebrated across medieval Europe as patrons of troubadour poetry. At their peak in the 12th century they ruled over 79 towns and territories. The dynasty died out in 1426, and the castle passed to René of Anjou and later the French crown. In 1632 Cardinal Mazarin ordered the destruction of the citadel following Protestant resistance; 800 workers demolished it for three weeks, creating the dramatic ruins visible today. The site was restored and opened as a heritage attraction in the 20th century.",
+  "how_to_visit": "Les Baux is 20 km from Arles and 30 km from Saint-Rémy-de-Provence on the D27. There is no regular public transport to the village; a car is recommended. In summer the village is extremely busy; arrive early morning or late afternoon. Combine with the Carrières de Lumières — an immersive light projection show held inside a disused limestone quarry 500 m from the castle, one of the most remarkable art experiences in France.",
+  "faqs": [
+    {
+      "question": "What is the Carrières de Lumières?",
+      "answer": "A spectacular immersive art installation in a disused limestone quarry 500 metres from the castle, where giant projections of great paintings cover the rock walls and floor. It is separate from the castle and requires its own ticket."
+    },
+    {
+      "question": "Are the siege engine demonstrations included in the ticket?",
+      "answer": "Yes — live trebuchet and catapult demonstrations are included in the castle entry and run several times daily in the main season."
+    },
+    {
+      "question": "Is Les Baux village worth visiting?",
+      "answer": "Absolutely — the medieval village below the castle is listed as one of France's most beautiful villages, with galleries, restaurants, and lavender products. Budget extra time to explore."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/les-baux-de-provence.webp",
+    "alt": "Les Baux-de-Provence castle ruins on a white limestone spur above the Alpilles",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/les-baux-de-provence.webp",
+  "instagram_tag": "#lesbauxdeprovence",
+  "meta_title": "Les Baux-de-Provence Castle, France — Medieval Citadel in the Alpilles",
+  "meta_description": "Visit Les Baux-de-Provence — a ruined medieval citadel on a Provençal limestone ridge with siege engine demos and views over the Alpilles mountains.",
+  "tags": ["medieval", "french-castle", "provence", "alpilles", "ruins"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["chateau-de-beynac"],
+  "gyg_location_id": "2448",
+  "gyg_search_query": "Les Baux de Provence castle tour Arles",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

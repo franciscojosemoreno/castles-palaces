@@ -1,0 +1,99 @@
+{
+  "id": "rhodes-medieval-city-lindos-acropolis-tour",
+  "slug": "rhodes-medieval-city-lindos-acropolis-tour",
+  "name": "Rhodes: Medieval City, Palace of the Grand Master & Lindos Acropolis",
+  "tagline": "Three thousand years of fortress history — Knights Hospitaller, Byzantine towers and a Greek acropolis above the Aegean",
+  "departure_country": "greece",
+  "departure_city": "Rhodes",
+  "visited_countries": [
+    "greece"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (6 hours)",
+  "gyg_tour_id": "619557",
+  "gyg_url": "https://www.getyourguide.com/rhodes-l409/best-of-rhodes-tour-including-lindos-and-medieval-city-t619557/",
+  "price_from": 65,
+  "currency": "EUR",
+  "rating": 4.3,
+  "review_count": 820,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 18,
+  "overview": "Rhodes contains two extraordinary medieval sites within one small island — and this tour covers both in a single day. The walled city of Rhodes is one of the finest surviving examples of medieval urban planning in the world: built by the Knights Hospitaller between 1309 and 1522, its 4-kilometre walls, moats, and towers remained virtually unchanged when the Ottomans finally took the city after a legendary siege. The Palace of the Grand Master — rebuilt by Mussolini as a summer residence but housing extraordinary medieval floors and mosaics — dominates the upper town. Then the tour heads south to Lindos, where an ancient Greek acropolis rises 116 metres above an Aegean bay on a sheer limestone cliff, its Doric temple columns still standing after 2,500 years, with a Crusader castle built around them. Beneath the acropolis, Lindos village is a labyrinth of whitewashed captains' houses, each decorated with the pebble mosaics unique to the Dodecanese.",
+  "highlights": [
+    "Palace of the Grand Master — the headquarters of the Knights Hospitaller, rebuilt with original medieval mosaics from Kos",
+    "Street of the Knights (Ippoton) — the world's best-preserved medieval street, each section built by a different 'tongue' of the Order",
+    "Rhodes Old Town — a UNESCO World Heritage Site, entire medieval city still inhabited and functioning",
+    "Lindos Acropolis — a Doric Greek temple (c.300 BC) perched on a 116m cliff, with a Crusader castle built around it",
+    "Lindos village — whitewashed captains' houses with distinctive Rhodian pebble mosaics",
+    "Views over three seas — Aegean, Mediterranean and Marmara visible from the highest battlements"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Rhodes Medieval City",
+      "duration": "2 hours",
+      "description": "Enter through the Gate of St Paul into the UNESCO World Heritage walled city — one of the best-preserved medieval urban complexes in the world. The guide covers the extraordinary story of the Knights Hospitaller, a crusading military order that turned Rhodes into the most fortified city in the Mediterranean after they acquired it in 1309. Walk the Street of the Knights (Ippoton), where each 'tongue' (national group) of the Order built its own inn, creating the most intact medieval street in Europe. The inns of France, Italy, Aragon, England and Provence still line the cobblestones exactly as they appeared in 1480."
+    },
+    {
+      "order": 2,
+      "castle_name": "Palace of the Grand Master",
+      "duration": "1 hour",
+      "description": "The Palace of the Grand Master was the headquarters and residence of the Grand Master of the Knights Hospitaller — the most powerful military official in the eastern Mediterranean. Originally built in the 14th century, it was almost entirely destroyed by an accidental explosion in 1856, then rebuilt by the Italian occupiers between 1936 and 1940. The rebuilding used hundreds of extraordinary floor mosaics transferred from the island of Kos, dating from the 2nd and 3rd centuries AD, creating one of the finest mosaic collections in Greece. The views from the battlements over the medieval city and the Turkish Süleymaniye Mosque are exceptional."
+    },
+    {
+      "order": 3,
+      "castle_name": "Lindos Acropolis & Castle",
+      "duration": "2 hours",
+      "description": "Drive south along the Rhodian coast to Lindos, where the acropolis rises 116 metres above a double natural harbour on a sheer cliff. The site has been continuously occupied since the Bronze Age: the Doric Sanctuary of Athena Lindia (c. 300 BC) still dominates the summit, its four surviving columns visible from 20 miles at sea. The Knights of St John built their castle around the ancient temenos in the 14th century, incorporating the classical propylaea into their defensive wall. The guide explains the stratification of cultures — Doric, Hellenistic, Byzantine, Crusader, Ottoman — all visible simultaneously from a single viewpoint. Descend through the whitewashed village and see the distinctive Rhodian pebble mosaics (hoklakia) that decorate every courtyard and doorway."
+    }
+  ],
+  "included": [
+    "Hotel or port pickup and drop-off",
+    "Air-conditioned coach",
+    "Professional English-speaking guide",
+    "Local wines and olive oil tasting",
+    "Small group (max 18)"
+  ],
+  "excluded": [
+    "Palace of the Grand Master entry ticket (~€12 — optional)",
+    "Lindos Acropolis entry ticket (~€12 — required to enter the temple complex)",
+    "Lunch (free time in Lindos village)",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Hotel or cruise ship pickup — exact location confirmed at booking",
+  "tips": [
+    "The climb to the Lindos Acropolis involves 300 steep stone steps — wear flat, closed shoes and bring water",
+    "You can hire a donkey to ride up the acropolis path if needed — local 'acropolis donkeys' have operated this route for generations",
+    "The best light for photography is in the afternoon when the acropolis faces west",
+    "The Street of the Knights is most atmospheric in the early morning before tour groups arrive",
+    "Book ahead: Rhodes is one of the busiest cruise ship ports in the Mediterranean and this fills fast"
+  ],
+  "faqs": [
+    {
+      "question": "Who were the Knights Hospitaller and why were they in Rhodes?",
+      "answer": "The Knights Hospitaller were a crusading military order originally founded to care for pilgrims in Jerusalem. After the fall of Acre in 1291 ended the Crusader presence in the Holy Land, they captured Rhodes in 1309. They held it against Ottoman attacks for over 200 years before Sultan Suleiman the Magnificent took the city in 1522 after a six-month siege."
+    },
+    {
+      "question": "Is it worth going inside the Palace of the Grand Master?",
+      "answer": "Yes — particularly for the floor mosaics transferred from the island of Kos, among the finest Roman mosaics in Greece. Allow at least 45 minutes inside."
+    },
+    {
+      "question": "How difficult is the Lindos Acropolis climb?",
+      "answer": "The path involves approximately 300 steps of uneven ancient stone. Manageable for most people in moderate fitness but strenuous in summer heat. Donkeys are available for hire at the bottom. The view is worth every step."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/rhodes-medieval-city-lindos-acropolis-tour.webp",
+    "alt": "The Palace of the Grand Master rising above the medieval walls of Rhodes Old Town",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Rhodes: Medieval City, Palace of the Grand Master & Lindos Acropolis Tour",
+    "description": "Full-day tour of Rhodes covering the UNESCO medieval walled city, the Knights Hospitaller's Palace of the Grand Master, and the ancient Greek acropolis at Lindos."
+  }
+}

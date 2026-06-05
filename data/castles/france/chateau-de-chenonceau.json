@@ -1,0 +1,118 @@
+{
+  "id": "chateau-de-chenonceau",
+  "name": "Château de Chenonceau",
+  "local_name": "Château de Chenonceau",
+  "type": "chateau",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 800000,
+  "country": "france",
+  "region": "Loire Valley",
+  "nearest_city": "Tours",
+  "address": "Château de Chenonceau, 37150 Chenonceaux, France",
+  "lat": 47.3244,
+  "lng": 1.0699,
+  "unesco": true,
+  "year_built": 1514,
+  "architectural_style": "French Renaissance",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Hours vary by season: Jan 09:00–17:00, Feb–Mar 09:00–17:30, Apr–Sep 09:00–19:00, Oct 09:00–18:30, Nov–Dec 09:00–17:00. Gardens open at same time."
+  },
+  "price_adult": 17,
+  "price_child": 13,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chenonceau.com/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to June for the gardens in full bloom; September for quieter crowds",
+  "accessibility": "Ground floor and bridge gallery accessible. Gardens have some gravel paths. Wheelchairs available on request.",
+  "booking_advance_days": 3,
+  "tagline": "The ladies' château — built on arches over a river by the women who loved it most",
+  "highlights": [
+    "The only château in France built as a bridge spanning an entire river — the Cher",
+    "The 60-metre long gallery across the river is one of the finest Renaissance interiors in France",
+    "Associated with six extraordinary women, including Diane de Poitiers and Catherine de Médicis",
+    "The wax figures in the kitchens recreate life in the château with unusual immediacy",
+    "During WWI the bridge gallery served as a military hospital — tiles marked the ambulance routes"
+  ],
+  "description": "Of all the great châteaux of the Loire Valley, Chenonceau is the one that surprises you most. The approach is classical — a long allée of plane trees, formal gardens to either side, a round tower from the original medieval manor. Then you turn the corner and see it: the château spanning the Cher river on five arches, its reflection shimmering below, a 60-metre gallery extending across the water like a hall suspended between two banks.\n\nChenonceau is unique in France: a castle that functions simultaneously as a building and a bridge. The original manor was built in 1514 on a mill foundation in the river. Catherine Briçonnet, the wife of the tax collector who purchased the site, supervised the construction herself, commissioning one of the first staircases in French architecture to have a straight rather than spiral flight — a small detail that marked a rupture with the medieval. What followed was a series of powerful women who transformed a tax collector's home into one of France's great architectural statements.\n\nDiane de Poitiers, mistress of Henri II, designed the first formal garden and built the bridge over the Cher. After Henri's death, his widow Catherine de Médicis evicted Diane and built the two-storey gallery across the bridge, hosting the most lavish parties of the 16th century. Louise de Lorraine, who inherited the château after her husband Henri III was assassinated, went into mourning for the rest of her life — her room, still decorated in black and silver, is one of the most haunting spaces in Loire Valley architecture.\n\nChenonceau was the second most visited monument in France after Versailles for many years. The secret is that, unlike Versailles, it feels personal. The gardens are intimate, the rooms furnished with genuine objects, the story of the women who shaped it told at every turn.",
+  "history": "The land at Chenonceau was acquired by Thomas Bohier, a tax collector for the French crown, in 1513. His wife Catherine Briçonnet supervised the construction of the main building between 1514 and 1522, earning Chenonceau its reputation as a 'ladies' castle' from the very beginning — though the designation more properly belongs to its later owners.\n\nHenri II gave the château to his favourite, Diane de Poitiers, in 1547. Diane, fifteen years older than the king and his intellectual and romantic companion for decades, transformed the estate: she designed the formal garden on the eastern bank and in 1556 built the bridge over the Cher, the element that makes Chenonceau architecturally unique. When Henri II died in a jousting tournament in 1559, his widow Catherine de Médicis immediately reclaimed Chenonceau from Diane, who was evicted to Anet.\n\nCatherine de Médicis built the two-storey gallery across Diane's bridge between 1576 and 1581, hosting elaborate fêtes in it — including the first time fireworks were used in France. She envisioned a great château on the south bank of the Cher to complete the composition, but died before it could be built. The foundation piers are still visible in the riverbank.\n\nDuring the First World War, the gallery across the river served as a military hospital, with nearly 2,000 wounded soldiers treated there between 1914 and 1918. During the Second World War, the château's unique geographical position made it politically significant: the north bank was in the German-occupied zone, the south bank in Vichy France, and the gallery became a clandestine passage used by the French Resistance to move people across the demarcation line.",
+  "how_to_visit": "**Getting there:** The nearest town with a train station is Chenonceaux village (note the extra 'x'), served by trains from Tours (45 min) and Amboise (20 min). The château is a 5-minute walk from the station. By car from Tours, 34km southeast on the D40, about 40 minutes. From Paris, take a TGV to Tours (1h 10min) and then a regional train.\n\n**Best approach:** The main entrance leads you through the plane tree allée to the château's north facade. Most visitors rush to the château, but walk the Diane de Poitiers garden and the Catherine de Médicis garden (on opposite banks) before entering — the views from the gardens across the water to the arches are as impressive as anything inside.\n\n**Inside:** Work from the ground floor up. The kitchen in the basement, built into one of the bridge's arches directly over the river, is one of the most unusual spaces — the wax figures and working fireplace give a vivid impression of daily life. The gallery on the first floor, spanning the full 60 metres of the bridge, has black-and-white tiled floors and windows on both sides looking down to the water.\n\n**Combine with:** Amboise is 12km north and contains both the Château d'Amboise (where François I held court) and the Clos Lucé, Leonardo da Vinci's final home and workshop, now an extraordinary hands-on museum of his inventions. A natural half-day pairing.",
+  "faqs": [
+    {
+      "question": "Why is Chenonceau called the 'ladies' château'?",
+      "answer": "Six women shaped Chenonceau more than any man. Catherine Briçonnet supervised its original construction in 1514. Diane de Poitiers, mistress of Henri II, built the bridge over the Cher. Catherine de Médicis built the gallery across the bridge and hosted France's most lavish Renaissance fêtes there. Louise de Lorraine inherited it after her husband's murder and spent 11 years in mourning in the château. Later, two more women — Madame Dupin in the 18th century and Madame Pelouze in the 19th — funded major restorations. The château's story is, unusually, told by its women."
+    },
+    {
+      "question": "How do I get to Chenonceau from Paris?",
+      "answer": "Take a TGV from Paris Montparnasse to Tours (1 hour 10 minutes), then a regional TER train from Tours to Chenonceaux village (45 minutes, not all trains stop there — check times). The château is a 5-minute walk from Chenonceaux station. Total journey time about 2 hours. Alternatively, join a Loire Valley day tour from Paris that includes Chenonceau among its stops."
+    },
+    {
+      "question": "What makes Chenonceau architecturally unique?",
+      "answer": "Chenonceau is the only major château in France built as a bridge spanning a navigable river. The building rests on five arches over the Cher river, with a 60-metre two-storey gallery — built by Catherine de Médicis in the 1570s — extending the château across the full width of the river. During the Second World War, the river formed the border between German-occupied and Vichy France, making this gallery a clandestine escape route used by the Resistance."
+    },
+    {
+      "question": "Is Chenonceau worth visiting if I can only choose one Loire Valley château?",
+      "answer": "Yes. If you can only visit one Loire Valley château, most visitors and travel experts put Chenonceau first for its unique architecture, the intimacy of its scale, the extraordinary story of the women who built it, and the beauty of its river setting and gardens. Chambord is the most theatrically spectacular; Chenonceau is the most moving and most complete as an experience."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-chenonceau.webp",
+    "alt": "Château de Chenonceau spanning the Cher river on its five arches, reflected in still water at sunrise",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-chenonceau.webp",
+  "instagram_tag": "#chenonceau",
+  "meta_title": "Château de Chenonceau: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château de Chenonceau in the Loire Valley — the château spanning the Cher river. Tickets, guided tours and the story of the six women who built it.",
+  "tags": [
+    "renaissance",
+    "16th-century",
+    "river-castle",
+    "unesco-world-heritage",
+    "romantic",
+    "instagram-worthy",
+    "day-trip-from-paris"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-chambord",
+    "chateau-damboise",
+    "chateau-de-cheverny",
+    "palace-of-versailles"
+  ],
+  "gyg_location_id": "504",
+  "gyg_search_query": "Chenonceau Loire Valley tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "10751",
+      "title": "From Paris: Loire Valley Castles Day Trip",
+      "type": "day_trip",
+      "duration": "12–12.5 hours",
+      "price_from": 110,
+      "rating": 4.5,
+      "reviews": 1353,
+      "covers_castles": [
+        "chateau-de-chambord",
+        "chateau-de-chenonceau",
+        "chateau-damboise",
+        "chateau-de-cheverny"
+      ]
+    }
+  ]
+}

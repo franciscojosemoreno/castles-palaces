@@ -1,0 +1,98 @@
+{
+  "id": "albufeira-silves-castle-lagos-ponta-piedade",
+  "slug": "albufeira-silves-castle-lagos-ponta-piedade",
+  "name": "From Albufeira: Silves Castle, Lagos & Ponta da Piedade Tour",
+  "tagline": "The Moorish capital of the Algarve and the most dramatic coastline in Portugal",
+  "departure_country": "portugal",
+  "departure_city": "Albufeira",
+  "visited_countries": [
+    "portugal"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "415254",
+  "gyg_url": "https://www.getyourguide.com/albufeira-l1116/albufeira-silves-castle-lagos-and-ponta-da-piedade-tour-t415254/",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 390,
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "max_group_size": 30,
+  "overview": "Silves was once the greatest city in the western Algarve — the capital of the Moorish kingdom of al-Gharb, more populous than Lisbon and home to poets, scholars, and a court that rivalled those of al-Andalus. Its castle is the finest surviving Moorish fortress in Portugal: a vast red sandstone citadel built by the Almohad dynasty in the 12th century, perched above the River Arade and still enclosing towers, cisterns, and battlements that tell the story of the Christian Reconquista of 1242. This tour combines Silves Castle with the walled port town of Lagos — base of Henry the Navigator and the first slave market in Europe — and the extraordinary sea cliffs of Ponta da Piedade, where ochre-coloured limestone pinnacles rise from the Atlantic.",
+  "highlights": [
+    "Explore Silves Castle — the best-preserved Moorish fortress in Portugal, built by the Almohad Caliphate in the 12th century as capital of the Algarve under Islamic rule",
+    "Visit the Gothic Cathedral of Silves, built directly over the city's former Grand Mosque after the Reconquista in 1242",
+    "Walk the historic centre of Lagos, the 15th-century base of Prince Henry the Navigator and birthplace of Portugal's age of exploration",
+    "Stand on the clifftop above Ponta da Piedade — the most photographed sea-stack landscape in Portugal, with grottos, arches, and golden pinnacles 20 metres above the Atlantic",
+    "Learn about the medieval history of the Algarve from its Phoenician, Roman, Visigoth, and Moorish layers on a guided tour with a local expert"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Silves Castle",
+      "duration": "2 hours",
+      "description": "Drive inland from Albufeira to Silves, following the Arade River valley into the hills. The castle appears above the orange groves on the hillside — a circuit of massive sandstone walls with eight towers, a deep cistern, and views over the town and valley below. Your guide explains the remarkable story of Silves under Moorish rule (711–1242): a city of 30,000 people with running water, libraries, and tile-decorated palaces at a time when most of Europe was in the early Middle Ages. The castle was taken by Crusader forces in 1189 and finally conquered by Afonso III in 1242."
+    },
+    {
+      "order": 2,
+      "castle_name": "Silves Cathedral & Old Town",
+      "duration": "45 minutes",
+      "description": "Descend into Silves old town to visit the Gothic Cathedral of Nossa Senhora da Conceição, built directly on the foundations of the Grand Mosque that Moorish rulers had constructed centuries earlier. The cathedral retains traces of both Visigoth and Islamic architecture in its foundations and apse. The surrounding streets of whitewashed houses with orange trees are peaceful and largely tourist-free."
+    },
+    {
+      "order": 3,
+      "castle_name": "Lagos — Historic Walled Port",
+      "duration": "2 hours",
+      "description": "Drive west to Lagos, the fortified Atlantic port from which Henry the Navigator organised the first Portuguese voyages of exploration along the African coast in the 15th century. Walk the restored 17th-century city walls and visit the Igreja de Santo António — one of the finest examples of gilded azulejo tile decoration in Portugal. The town's dark history includes the Mercado de Escravos, the first purpose-built slave market in Europe (1441), now a museum documenting the transatlantic slave trade and Portugal's role in its origins."
+    },
+    {
+      "order": 4,
+      "castle_name": "Ponta da Piedade — Sea Cliffs",
+      "duration": "1 hour",
+      "description": "Walk the clifftop path south of Lagos to Ponta da Piedade, where the Algarve's limestone plateau ends in an astonishing series of sea stacks, arches, and grottos carved by the Atlantic. The golden-orange pinnacles catch afternoon light in spectacular fashion. Optional boat tours from the beach below take visitors into the sea caves, but the clifftop view is itself one of the most dramatic in Europe."
+    }
+  ],
+  "included": [
+    "Air-conditioned coach transport from Albufeira",
+    "Professional English-speaking guide",
+    "Hotel pickup and drop-off in Albufeira"
+  ],
+  "excluded": [
+    "Silves Castle entrance fee (approx. €3)",
+    "Lagos Igreja de Santo António entrance (approx. €3)",
+    "Meals and drinks",
+    "Optional boat tour at Ponta da Piedade (paid separately on site)"
+  ],
+  "meeting_point": "Hotel pickup from Albufeira (confirm address at booking). Return by evening.",
+  "tips": [
+    "The Silves Medieval Fair (usually held in August) recreates the castle town as it was in the 12th century — check dates before booking",
+    "Ponta da Piedade is best in afternoon light (golden hour turns the rocks amber) — this tour's timing is ideal",
+    "Silves is much quieter than Albufeira and Faro — the castle has almost no queues even in peak season",
+    "Medronho — a firewater distilled from arbutus berries unique to the Algarve hills — is sold in small shops in Silves old town"
+  ],
+  "faqs": [
+    {
+      "question": "Is Silves Castle open every day?",
+      "answer": "Silves Castle is open daily year-round, including weekends and public holidays, from 9am to 8pm in summer and shorter hours in winter. The tour timing ensures you arrive during opening hours."
+    },
+    {
+      "question": "What is the difference between this tour and the standard Silves Castle visit?",
+      "answer": "This guided tour combines three distinct destinations — Silves Castle, the walled port of Lagos, and the coastal cliffs of Ponta da Piedade — with transport from Albufeira and a guide who contextualises the medieval and exploration-era history of each site."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/albufeira-silves-castle-lagos-ponta-piedade.webp",
+    "alt": "Silves Castle red sandstone walls above the orange groves of the Algarve, Portugal",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Silves Castle & Lagos Day Tour from Albufeira, Portugal | Castles & Palaces",
+    "description": "Day tour from Albufeira: explore Silves Castle — the finest Moorish fortress in Portugal — the historic walled port of Lagos, and the dramatic sea cliffs of Ponta da Piedade. Book on GetYourGuide."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "oslo-akershus-fortress-walking-tour",
+  "slug": "oslo-akershus-fortress-walking-tour",
+  "name": "Oslo: Akershus Fortress & Waterfront History Walking Tour",
+  "tagline": "Seven centuries of Norwegian history above the Oslo Fjord",
+  "departure_country": "norway",
+  "departure_city": "Oslo",
+  "visited_countries": [
+    "norway"
+  ],
+  "duration_days": 1,
+  "duration_label": "3 hours",
+  "gyg_tour_id": "97836",
+  "price_from": 29,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 2140,
+  "languages": [
+    "English",
+    "Norwegian"
+  ],
+  "max_group_size": 20,
+  "overview": "Akershus Fortress rises from a rocky headland above the Oslo Fjord, its medieval walls a constant backdrop to Norwegian history since 1299. This walking tour explores the fortress and its surrounding waterfront, taking in the medieval castle halls, the Royal Mausoleum where Norwegian kings lie buried, and the casemates from which Norway's defenders fought during World War II. The guide weaves together 700 years of history — from medieval royal residence to Nazi occupation headquarters — while the Oslo Fjord glitters below. A compact but deeply rewarding exploration of the site that has defined Oslo's identity.",
+  "highlights": [
+    "Guided walk through Akershus Castle's medieval halls and royal chapel",
+    "Royal Mausoleum containing Norwegian monarchs including Haakon VII",
+    "WWII casemates and the story of Norway's five-year Nazi occupation",
+    "Panoramic views over the Oslo Fjord and the city's harbourfront",
+    "The Norwegian Resistance Museum adjacent to the fortress"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Oslo Waterfront Meeting Point",
+      "duration": "15 min",
+      "description": "Meet at the fortress gate on the Oslo waterfront. The guide introduces the medieval origins of Akershus — built by King Haakon V in 1299 to defend the city after Oslo was burned by Danish forces."
+    },
+    {
+      "order": 2,
+      "castle_id": "akershus-fortress",
+      "castle_name": "Akershus Castle & Fortress",
+      "duration": "2 hours",
+      "description": "Enter the fortress and explore the medieval courtyard, the restored royal chapel, and the casemates — underground chambers used both as royal apartments and, during WWII, as a Gestapo prison. The Royal Mausoleum houses the remains of King Haakon VII and Queen Maud, who led Norway's wartime government from exile in London. The guide covers the dramatic moment in April 1940 when the Norwegian royal family narrowly escaped German paratroopers by fleeing through these very walls."
+    },
+    {
+      "order": 3,
+      "castle_name": "Oslo Fjord Waterfront",
+      "duration": "45 min",
+      "description": "Walk the harbour ramparts for the finest views of the Oslo Fjord and the new Munch Museum. The guide covers Oslo's transformation from a fortified medieval town into a modern Scandinavian capital, all visible from this single vantage point."
+    }
+  ],
+  "included": [
+    "Professional English/Norwegian-speaking guide",
+    "Akershus Fortress entry ticket",
+    "Castle interior guided tour",
+    "Headset system for group commentary"
+  ],
+  "excluded": [
+    "Norwegian Resistance Museum entry (optional, ~€10)",
+    "Food and drinks",
+    "Transport to meeting point"
+  ],
+  "meeting_point": "Akershus Fortress main gate, Festningsplassen, Oslo — accessible on foot from Aker Brygge",
+  "tips": [
+    "The fortress grounds are free to enter — the tour fee covers the castle interior",
+    "Combine with the Norwegian Resistance Museum next door for the full WWII story",
+    "Summer evenings offer extraordinary golden light over the fjord from the ramparts",
+    "The fortress is a 10-minute walk from Aker Brygge or City Hall"
+  ],
+  "faqs": [
+    {
+      "question": "Is the tour accessible for visitors with mobility issues?",
+      "answer": "The exterior grounds are mostly accessible, but the castle interior involves stairs. Contact the operator for specific accessibility requirements."
+    },
+    {
+      "question": "What is the best time of year to visit?",
+      "answer": "May to September for the best weather. Winter visits offer atmospheric snow-covered ramparts but shorter daylight hours."
+    },
+    {
+      "question": "Is photography allowed inside the castle?",
+      "answer": "Yes, photography is permitted throughout the castle and grounds."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/oslo-akershus-fortress-walking-tour.webp",
+    "alt": "Akershus Fortress at dusk above the Oslo Fjord, Norway",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Oslo Akershus Fortress Walking Tour | Norway History Guide",
+    "description": "Guided walking tour of Akershus Fortress and Castle in Oslo — 700 years of Norwegian royal and wartime history above the fjord. Small groups, expert guides."
+  },
+  "gyg_url": "https://www.getyourguide.com/akershus-fortress-l4243/oslo-4-hour-walking-tour-t97836/"
+}

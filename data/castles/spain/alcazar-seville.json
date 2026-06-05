@@ -1,0 +1,95 @@
+{
+  "id": "alcazar-seville",
+  "name": "Alcázar of Seville",
+  "local_name": "Real Alcázar de Sevilla",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 1800000,
+  "country": "spain",
+  "region": "Andalusia",
+  "nearest_city": "Seville",
+  "address": "Patio de Banderas, s/n, 41004 Seville, Spain",
+  "lat": 37.3833,
+  "lng": -5.9908,
+  "unesco": true,
+  "year_built": 913,
+  "architectural_style": "Mudéjar, Gothic, Renaissance",
+  "opening_hours": {
+    "monday": "10:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Oct–Mar: 09:30–17:00 (Mon from 10:30). Apr–Sep: 09:30–19:00 (Mon from 10:30). Last entry 1 hour before closing. Night visits available Tue–Sat in summer (book separately)."
+  },
+  "price_adult": 14,
+  "price_child": 0,
+  "booking_required": true,
+  "official_tickets_url": "https://www.alcazarsevilla.org/",
+  "visit_duration": "2–3 hours",
+  "best_season": "March to May and October to November — Seville in summer is extremely hot (40°C+)",
+  "accessibility": "Main palace largely accessible with ramps to most areas. Gardens have gravel paths. Contact in advance for accessible tour route.",
+  "booking_advance_days": 14,
+  "tagline": "A living Moorish palace — still the Spanish royal residence in Seville after 1,100 years",
+  "highlights": [
+    "The oldest royal palace still in use anywhere in Europe — the Spanish royals stay here today",
+    "The Mudéjar Palace of Pedro I (1364) — the finest example of Hispano-Islamic architecture in Spain after the Alhambra",
+    "Featured as the Water Gardens of Dorne in Game of Thrones — one of the show's most recognisable locations",
+    "11 hectares of gardens with orange trees, fountains, reflecting pools and Gothic pavilions",
+    "The Hall of Ambassadors — a golden dome of breathtaking complexity built by Moorish craftsmen for a Christian king"
+  ],
+  "description": "The Alcázar of Seville is one of Europe's most startling buildings for a simple reason: it was built by Christian kings using Muslim architects, craftsmen and decorative language, for explicitly political purposes, long after the Christian reconquest of Seville in 1248. The result — Mudéjar architecture at its most sophisticated — is a palace where Islamic geometric patterns, Arabic calligraphy and horseshoe arches serve a Christian court, creating something that belongs wholly to neither tradition and is more beautiful for it.\n\nThe palace complex occupies an entire city block adjacent to Seville's cathedral, enclosed by crenellated walls. The main entrance, the Puerta del León, leads through a series of courts of increasing intimacy and refinement. The oldest sections (the Patio del Yeso, built in the 12th century) are Almohad Islamic architecture; the grandest (the Palacio del Rey Don Pedro, built by Pedro I between 1356 and 1366) are Mudéjar at peak sophistication — craftsmen imported from Granada and Toledo working a generation after the Christian reconquest to produce interiors for a Christian king that are virtually indistinguishable from the Alhambra's.\n\nWhat makes the Alcázar exceptional among Spain's historic palaces is that it remains a working royal palace: the Spanish royal family stays here on official visits to Seville, and the upper floors of the palace are closed to the public during royal residence. This gives the building a living quality that many more-visited monuments lack. The gardens, extending 11 hectares behind the palace, are among the finest in Spain — formal parterres of myrtle and orange, Gothic pavilions, a mercury pool and walled gardens in the English style.",
+  "history": "The site has been a royal residence since at least 913 AD, when the Abbasid governor Abd ar-Rahman III built a palace for the Umayyad caliph here. The Almohad dynasty expanded it substantially in the 12th century, adding the Patio del Yeso (the oldest surviving Alcázar courtyard) and the Torre del Oro on the river. The Christian reconquest of Seville in 1248 under Fernando III brought the palace intact into Castilian royal hands.\n\nThe decisive creative moment came under Pedro I 'the Cruel' (1350–1369), who demolished much of the Almohad palace and built a new one between 1356 and 1366 using craftsmen brought from Islamic Granada and Toledo. Pedro's choice to build in the Mudéjar style — using Muslim craftsmen and Islamic decorative vocabulary for a Christian court — was a deliberate political and aesthetic statement: it projected power and cultural sophistication by demonstrating that the greatest art in the Iberian world was still being produced by Muslim craftsmen, and that the Castilian kings could commission it.\n\nIsabella of Castile and Ferdinand of Aragon used the Alcázar as their base for the final campaigns of the Reconquista, and it was here that Christopher Columbus received his commission to sail west in 1492. The palace was modified in Renaissance style under Charles V, who added a large hall for his marriage to Isabella of Portugal in 1526. Subsequent centuries added Gothic chapels, Baroque fountains, and English gardens.\n\nThe 1755 Lisbon earthquake caused significant damage, as did the 19th-century romantic restorations that repainted many of the original medieval interiors. Major conservation work has been ongoing since the 1990s. The palace was used as a filming location for Game of Thrones between 2015 and 2019, appearing as the Water Gardens of Dorne.",
+  "how_to_visit": "**Getting there:** The Alcázar is in central Seville, adjacent to the Cathedral. Seville's old city is largely car-free; the nearest metro is Puerta Jerez (10 min walk). Seville is connected to Madrid by AVE high-speed train (2.5 hours) and to Córdoba (45 min). The city centre is walkable.\n\n**Booking essential:** Tickets sell out days to weeks in advance in spring and autumn. Book online at alcazarsevilla.org. Timed entry windows prevent the worst of the crowd buildup, but the palace can still feel crowded on peak mornings.\n\n**Strategy:** Arrive at opening time (09:30 on weekdays). Go directly to the Palacio de Pedro I — this is the most popular section and gets crowded by 11am. The gardens are best visited after the palace interior, when tour groups have left. Allow at least 45 minutes for the gardens alone.\n\n**Night visits:** On Tuesday to Saturday evenings in summer (June–September), night tours run with atmospheric lighting in the palace and gardens. Separate ticket, book in advance. A very different experience from the daytime visit.",
+  "faqs": [
+    {
+      "question": "Is the Alcázar of Seville in Game of Thrones?",
+      "answer": "Yes. The Alcázar served as the Water Gardens of Dorne in Seasons 5 and 6 of Game of Thrones, with the gardens, fountains and reflecting pools used extensively for the Martell storylines. The Jardín del Estanque (Pool Garden), the Galería del Grutesco and several inner courtyards appeared in the show. The Alcázar's Mudéjar architecture was considered the closest European equivalent to the show's fictional architecture."
+    },
+    {
+      "question": "How is the Alcázar different from the Alhambra?",
+      "answer": "Both are UNESCO-listed Moorish-influenced palaces in Andalusia, but they differ fundamentally in origin. The Alhambra was built by Muslim Nasrid kings as their own palace in an Islamic city. The Alcázar was rebuilt by a Christian king (Pedro I) using Muslim craftsmen in the Mudéjar style — Islamic artistry in the service of Christian royalty. The Alhambra is slightly older, larger and more purely Moorish; the Alcázar is more surprising for being Mudéjar Christian, and requires booking much less far in advance."
+    },
+    {
+      "question": "Is the Alcázar still a royal palace?",
+      "answer": "Yes — uniquely among Spanish historic palaces, the Alcázar of Seville remains an official royal residence. The Spanish royal family uses the upper floors of the palace for state visits and official functions in Seville. When the royals are in residence, those floors are closed to the public (advance notice is not always given). The main palace and gardens accessible to visitors remain open regardless."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alcazar-seville.webp",
+    "alt": "The courtyard of the Alcázar of Seville with its Mudéjar arches and reflecting pool, surrounded by orange trees",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alcazar-seville.webp",
+  "instagram_tag": "#alcazarsevilla",
+  "meta_title": "Alcázar of Seville: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit the Real Alcázar de Sevilla — Europe's oldest royal palace still in use. The Game of Thrones filming location and UNESCO Mudéjar masterpiece. Book tickets in advance.",
+  "tags": [
+    "moorish",
+    "medieval",
+    "renaissance",
+    "royal-residence",
+    "unesco-world-heritage",
+    "film-location",
+    "book-in-advance",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "andalucia-palaces"
+  ],
+  "nearby_castles": [
+    "alhambra-granada"
+  ],
+  "gyg_location_id": "547",
+  "gyg_search_query": "Alcazar Seville tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

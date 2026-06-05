@@ -1,0 +1,82 @@
+{
+  "id": "namur-citadel",
+  "name": "Citadel of Namur",
+  "local_name": "Citadelle de Namur",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "belgium",
+  "region": "Wallonia, Namur Province",
+  "nearest_city": "Namur",
+  "address": "Route Merveilleuse 64, 5000 Namur, Belgium",
+  "lat": 50.4587,
+  "lng": 4.8625,
+  "unesco": false,
+  "year_built": 940,
+  "architectural_style": "Medieval / Vauban / 19th-century",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily April to October. Reduced hours and days November to March. Cable car operates in peak season."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.citadelle.namur.be",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October",
+  "accessibility": "Good — cable car provides accessible ascent; main grounds largely flat",
+  "booking_advance_days": 0,
+  "tagline": "The most besieged fortress in history, guardian of the confluence of the Meuse and Sambre",
+  "highlights": [
+    "Claimed to be the most besieged fortress in European history",
+    "Commanding the strategic confluence of the Meuse and Sambre rivers",
+    "Underground passages and galleries spanning multiple centuries",
+    "Cable car ascent from the city centre",
+    "Panoramic views over Namur and the Ardennes countryside"
+  ],
+  "description": "The Citadel of Namur crowns a steep rocky promontory above the confluence of the Meuse and Sambre rivers — one of the most strategically important points in northwestern Europe, where armies have fought over this hill for more than a thousand years. It is widely claimed to be the most besieged fortress in European history: the Counts of Namur, Burgundians, Spanish, French, Dutch, and Germans all fought for control of this key junction between France, Germany, and the Low Countries. The current fortifications layer medieval walls with Vauban-era modifications and 19th-century works, covering 8 km of underground passages open to visitors. A cable car connects the city centre to the plateau above, from which panoramic views extend over the city and into the Ardennes.",
+  "history": "A fortress was established on the Namur promontory around 940 by the Counts of Namur. The city changed hands repeatedly through the medieval and early modern periods — taken by the Spanish, then the French under Louis XIV (with Vauban designing new fortifications), then the Dutch, then Napoleon, then besieged by German forces in both World Wars. After 1945 the military ceased using the citadel and it opened progressively as a heritage and tourism site.",
+  "how_to_visit": "Namur is easily reached from Brussels by train in 60 minutes. The citadel is above the city centre, reachable by cable car from the Sambre riverbank, on foot (20 minutes), or by the scenic Route Merveilleuse road. Namur itself is the capital of Wallonia and has a pleasant old town along the Meuse.",
+  "faqs": [
+    {
+      "question": "Is it really the most besieged fortress in history?",
+      "answer": "The claim is made by the citadel itself and is widely cited — the strategic importance of the Meuse-Sambre confluence meant virtually every major power that fought over the Low Countries targeted Namur. The exact count of sieges is debated, but the number is exceptional."
+    },
+    {
+      "question": "Can I explore the underground passages?",
+      "answer": "Yes — guided tours of the extensive underground gallery system are available and included in the citadel visit during main season."
+    },
+    {
+      "question": "Is there a cable car?",
+      "answer": "Yes — a cable car runs from the riverbank near the city centre to the citadel plateau, offering aerial views over the Meuse and Sambre confluence."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/namur-citadel.webp",
+    "alt": "Citadel of Namur above the confluence of the Meuse and Sambre rivers in Belgium",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/namur-citadel.webp",
+  "instagram_tag": "#citadellenamur",
+  "meta_title": "Citadel of Namur, Belgium — Europe's Most Besieged Fortress",
+  "meta_description": "Visit the Citadel of Namur — claimed to be Europe's most besieged fortress, with underground passages, cable car access, and views over the Meuse-Sambre confluence.",
+  "tags": ["medieval", "belgian-castle", "vauban", "wallonia", "fortress"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["chateau-de-bouillon"],
+  "gyg_location_id": "2385",
+  "gyg_search_query": "Namur Citadel Belgium tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

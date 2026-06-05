@@ -1,0 +1,87 @@
+{
+  "id": "frankfurt-heidelberg-castle-old-city",
+  "slug": "frankfurt-heidelberg-castle-old-city",
+  "name": "Heidelberg Castle & Old City Day Trip from Frankfurt",
+  "tagline": "Germany's most romantic ruin — a Renaissance castle above a baroque university city on the Neckar",
+  "departure_country": "germany",
+  "departure_city": "Frankfurt",
+  "visited_countries": [
+    "germany"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 8 hours",
+  "gyg_tour_id": "7371",
+  "price_from": 49,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 4200,
+  "languages": [
+    "English",
+    "German",
+    "Spanish"
+  ],
+  "max_group_size": 53,
+  "overview": "Heidelberg Castle is the most visited castle ruin in Germany — a vast red sandstone complex perched above the Neckar river, half-ruined by French bombardment in 1693, and half-preserved in eerie magnificence. The Romantic movement of the 19th century was partly born here: Goethe, Hölderlin, and Victor Hugo all visited and wrote about the castle. Below it, the Altstadt is one of Germany's few perfectly preserved baroque city centres, having escaped the Allied bombing of World War II entirely.",
+  "highlights": [
+    "Guided tour of Heidelberg Castle and the world's largest wine barrel",
+    "Walk the Altstadt — Germany's best-preserved baroque city",
+    "Views over the Neckar valley from the castle terrace",
+    "Round-trip transport from Frankfurt",
+    "Cable car ride up to the castle (seasonal)"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "heidelberg-castle",
+      "castle_name": "Heidelberg Castle",
+      "duration": "2 hours",
+      "description": "Guided tour of the castle complex. See the Friedrich Building — one of the finest examples of German Renaissance architecture — the shattered Powder Tower blown apart in the French wars, and the Great Barrel of Heidelberg: 221,726 litres, once the largest wine barrel in the world. Views from the castle terrace over the Neckar valley are among the finest in Germany."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Heidelberg Altstadt",
+      "duration": "2 hours",
+      "description": "Free time to explore Germany's most romantic old town. Walk the Hauptstrasse (Germany's longest pedestrian zone), cross the Karl-Theodor Bridge with its baroque gate and monkey statue, and see Germany's oldest university founded in 1386. Browse the bookshops and cafés that have served students, poets, and philosophers for 600 years."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Frankfurt",
+    "Expert guide",
+    "Heidelberg Castle entry"
+  ],
+  "excluded": [
+    "Cable car ticket (optional, approx €7)",
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Frankfurt city centre — confirmed at booking",
+  "tips": [
+    "The walk down from the castle to the Altstadt takes about 20 minutes — perfectly pleasant if the weather is good",
+    "The Philosopher's Way (Philosophenweg) on the north bank of the Neckar gives the best view of the castle — worth the 20-minute walk",
+    "Combine with the Rhine Valley if you're spending several days in Frankfurt"
+  ],
+  "faqs": [
+    {
+      "question": "Is Heidelberg Castle in ruins?",
+      "answer": "Partially — the east wing was destroyed by French forces in 1693 and was never fully rebuilt. The contrast between the intact Renaissance sections and the dramatic ruin is precisely what makes it so atmospheric. The castle is very much worth visiting in this state."
+    },
+    {
+      "question": "How far is Heidelberg from Frankfurt?",
+      "answer": "About 80km south — approximately 1 hour by road or train. Heidelberg is easily the most rewarding day trip from Frankfurt for history and architecture."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/frankfurt-heidelberg-castle-old-city.webp",
+    "alt": "Heidelberg Castle ruin above the Neckar river at sunset with the old bridge in the foreground",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Heidelberg Castle Day Trip from Frankfurt | Castles & Palaces",
+    "description": "Visit Heidelberg Castle and the baroque Altstadt on a guided day trip from Frankfurt. From €49 per person. Castle entry included."
+  },
+  "gyg_url": "https://www.getyourguide.com/frankfurt-l21/heidelberg-day-trip-from-frankfurt-t7371/"
+}

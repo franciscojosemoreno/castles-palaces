@@ -1,0 +1,82 @@
+{
+  "id": "samuels-fortress",
+  "name": "Samuel's Fortress",
+  "local_name": "Самуилова тврдина",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 100000,
+  "country": "north-macedonia",
+  "region": "Ohrid Municipality",
+  "nearest_city": "Ohrid",
+  "address": "Samoilova Tvrdina, 6000 Ohrid, North Macedonia",
+  "lat": 41.1141,
+  "lng": 20.7986,
+  "unesco": true,
+  "year_built": 976,
+  "architectural_style": "Byzantine / Medieval Bulgarian",
+  "opening_hours": {
+    "monday": "08:00–22:00",
+    "tuesday": "08:00–22:00",
+    "wednesday": "08:00–22:00",
+    "thursday": "08:00–22:00",
+    "friday": "08:00–22:00",
+    "saturday": "08:00–22:00",
+    "sunday": "08:00–22:00",
+    "seasonal_note": "Open daily year-round. Evening illumination in summer makes a spectacular nighttime visit."
+  },
+  "price_adult": 3,
+  "price_child": 1,
+  "booking_required": false,
+  "official_tickets_url": "https://www.ohrid.gov.mk",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — steep cobblestone path from the old town",
+  "booking_advance_days": 0,
+  "tagline": "The citadel of Tsar Samuel, towering above Ohrid and its UNESCO lake",
+  "highlights": [
+    "Part of the UNESCO World Heritage Site of Ohrid",
+    "Built by Tsar Samuel of the First Bulgarian Empire",
+    "Panoramic views over Lake Ohrid — one of Europe's oldest and deepest lakes",
+    "2 km of walls with 24 towers encircling the old town hill",
+    "Illuminated at night — one of the most spectacular evening views in the Balkans"
+  ],
+  "description": "Samuel's Fortress crowns the hill above Ohrid's remarkable UNESCO-listed old town, its reconstructed walls and towers encircling the highest point with sweeping views over Lake Ohrid — one of the oldest and deepest lakes in the world, its water so clear and ancient it contains species found nowhere else on earth. Built by Tsar Samuel of the First Bulgarian Empire around 976 AD as his western capital and last stronghold, the fortress was taken by Byzantine Emperor Basil II in 1018 after his devastating defeat of the Bulgarian army. The walls — nearly 2 km long with 24 towers — were reconstructed in the 20th century and illuminated at night, making the hilltop one of the most photogenic evening destinations in the western Balkans. Below the fortress, Ohrid's old town is dense with Byzantine churches, including the extraordinary St. Sophia Cathedral and St. Naum Monastery.",
+  "history": "The hill at Ohrid was fortified in Hellenistic times. Tsar Samuel of Bulgaria made Ohrid his capital and built the current fortress from around 976, using it as his last refuge against Byzantine pressure. After Byzantine Emperor Basil II captured it in 1018, ending the First Bulgarian Empire, the fortress remained a Byzantine stronghold. It was used by successive rulers — Byzantine, Serbian, Ottoman — until the 19th century. Significant reconstruction of the walls was undertaken in the 20th century.",
+  "how_to_visit": "Ohrid is in southwestern North Macedonia, 170 km from Skopje (2.5 hours by bus or car). Regular buses connect Skopje and Ohrid. The fortress is above the old town, reached by a 20-minute walk up the cobblestone hill path from St. Sophia Cathedral. The town is compact and best explored on foot. Lake Ohrid boat trips are available from the old town harbour.",
+  "faqs": [
+    {
+      "question": "Who was Tsar Samuel?",
+      "answer": "Samuel was the Tsar of the First Bulgarian Empire (r. 976–1014), who made Ohrid his capital and resisted Byzantine expansion for decades. After his defeat by Emperor Basil II, Samuel died of shock upon seeing 15,000 of his soldiers blinded (one eye left to every hundredth man to lead the rest home)."
+    },
+    {
+      "question": "What is special about Lake Ohrid?",
+      "answer": "Lake Ohrid is 3 million years old — one of the oldest lakes in the world — and contains unique endemic species including the Ohrid trout. Its clarity and age make it a site of exceptional natural significance alongside the cultural heritage."
+    },
+    {
+      "question": "Is Ohrid Old Town also UNESCO-listed?",
+      "answer": "Yes — the city of Ohrid and Lake Ohrid together form a UNESCO World Heritage Site recognised for both cultural (Byzantine churches, the fortress) and natural (the ancient lake ecosystem) outstanding universal value."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/samuels-fortress.webp",
+    "alt": "Samuel's Fortress walls above Ohrid old town and Lake Ohrid in North Macedonia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/samuels-fortress.webp",
+  "instagram_tag": "#samuelsfortress",
+  "meta_title": "Samuel's Fortress, Ohrid — Byzantine Citadel Above UNESCO Lake Ohrid",
+  "meta_description": "Visit Samuel's Fortress in Ohrid, North Macedonia — the medieval citadel of Tsar Samuel above a UNESCO old town and one of Europe's oldest lakes.",
+  "tags": ["byzantine", "medieval", "north-macedonia", "unesco-world-heritage", "lake-ohrid"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2648",
+  "gyg_search_query": "Samuel Fortress Ohrid tour North Macedonia",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

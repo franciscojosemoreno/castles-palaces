@@ -1,0 +1,82 @@
+{
+  "id": "stahleck-castle",
+  "name": "Stahleck Castle",
+  "local_name": "Burg Stahleck",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "germany",
+  "region": "Rhineland-Palatinate, Rhine Gorge",
+  "nearest_city": "Koblenz",
+  "address": "Burg Stahleck, 55422 Bacharach, Germany",
+  "lat": 50.0590,
+  "lng": 7.7700,
+  "unesco": true,
+  "year_built": 1135,
+  "architectural_style": "Romanesque / Medieval Rhenish",
+  "opening_hours": {
+    "monday": "07:00–22:00",
+    "tuesday": "07:00–22:00",
+    "wednesday": "07:00–22:00",
+    "thursday": "07:00–22:00",
+    "friday": "07:00–22:00",
+    "saturday": "07:00–22:00",
+    "sunday": "07:00–22:00",
+    "seasonal_note": "The castle operates as a youth hostel; access to grounds and tower is generally open during hostel operating hours."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.burg-stahleck.de",
+  "visit_duration": "1 hour",
+  "best_season": "April to October",
+  "accessibility": "Limited — steep hill path to reach the castle",
+  "booking_advance_days": 0,
+  "tagline": "A medieval Rhine castle turned youth hostel, commanding the UNESCO gorge above Bacharach",
+  "highlights": [
+    "Part of the UNESCO Upper Middle Rhine Valley",
+    "One of the most dramatically positioned castles on the Rhine",
+    "Now operates as a youth hostel — you can sleep inside a medieval castle",
+    "Sweeping views over the Rhine gorge, vineyards, and Bacharach",
+    "Medieval tower, curtain walls, and courtyard well-preserved"
+  ],
+  "description": "Burg Stahleck commands one of the most striking positions in the UNESCO-listed Upper Middle Rhine Valley, perched high above the perfectly preserved medieval town of Bacharach and the river gorge below. First documented in 1135, the castle was a Rhenish Palatinate stronghold throughout the medieval period, controlling river traffic through the narrow gorge. Badly damaged in the Thirty Years' War, it was rebuilt in the 1920s–1930s by the German Youth Hostel Association (DJH) and today operates as one of Germany's most spectacular and beloved youth hostels — allowing guests to sleep within authentic medieval walls above the Rhine. The courtyard, tower, and ramparts are freely accessible, offering panoramic views down the gorge.",
+  "history": "First documented in 1135, the castle was a key Rhenish stronghold controlling Rhine traffic for the Counts Palatine. It was besieged and partially destroyed during the Thirty Years' War (1618–1648) and fell into ruin. The German Youth Hostel movement acquired the ruins in 1925 and undertook a restoration, opening it as a hostel in 1926. It has operated continuously as a hostel since, aside from World War II, and was included in the UNESCO Upper Middle Rhine Valley designation in 2002.",
+  "how_to_visit": "Bacharach is on the west bank of the Rhine, 40 km south of Koblenz. Frequent Rhine Valley trains (Koblenz–Mainz) stop at Bacharach. The castle is a 20-minute walk up the hillside from the station through the medieval town walls. Rhine cruise ships also stop at Bacharach in summer — one of the most scenic boat journeys in Germany.",
+  "faqs": [
+    {
+      "question": "Can anyone stay in the youth hostel?",
+      "answer": "Yes — Burg Stahleck youth hostel is open to all ages (youth hostels in Germany are not restricted to young people). Advance booking is strongly recommended."
+    },
+    {
+      "question": "Is the castle part of a UNESCO site?",
+      "answer": "Yes — Burg Stahleck is within the Upper Middle Rhine Valley, a UNESCO World Heritage Site recognised for its combination of castles, medieval towns, and vineyards along 65 km of the Rhine gorge."
+    },
+    {
+      "question": "What is the town of Bacharach like?",
+      "answer": "Bacharach is one of the best-preserved medieval towns in the Rhine Valley, with intact 14th-century walls, half-timbered houses, and a Romanesque church — an ideal base for exploring the gorge."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/stahleck-castle.webp",
+    "alt": "Stahleck Castle above Bacharach and the Rhine gorge in Rhineland-Palatinate",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/stahleck-castle.webp",
+  "instagram_tag": "#burgstahleck",
+  "meta_title": "Stahleck Castle, Rhine Valley — Medieval UNESCO Fortress & Youth Hostel",
+  "meta_description": "Visit Stahleck Castle above Bacharach on the Rhine — a medieval fortress in the UNESCO Rhine gorge that operates as Germany's most spectacular youth hostel.",
+  "tags": ["medieval", "german-castle", "rhine", "unesco-world-heritage", "youth-hostel"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["albrechtsburg-castle"],
+  "gyg_location_id": "2456",
+  "gyg_search_query": "Rhine Valley castle tour Bacharach",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

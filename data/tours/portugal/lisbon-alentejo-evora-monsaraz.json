@@ -1,0 +1,93 @@
+{
+  "id": "lisbon-alentejo-evora-monsaraz",
+  "slug": "lisbon-alentejo-evora-monsaraz",
+  "name": "From Lisbon: Alentejo – Évora, Chapel of Bones & Monsaraz Castle",
+  "tagline": "A Roman city turned medieval capital, a church decorated with human skulls, and a perfect hilltop castle above Europe's largest reservoir",
+  "departure_country": "portugal",
+  "departure_city": "Lisbon",
+  "visited_countries": [
+    "portugal"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "613120",
+  "gyg_url": "https://www.getyourguide.com/lisbon-l42/from-lisbon-alentejo-tour-evora-and-monsaraz-t613120/",
+  "price_from": 65,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 380,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 12,
+  "overview": "The Alentejo — the vast, hot, cork-oak plain south of Lisbon — contains some of the most extraordinary medieval fortifications in Portugal, and two UNESCO-listed historic centres that are among the most intact in Iberia. Évora, capital of the Alentejo, was a major Roman city (its Temple of Diana still stands virtually complete), a medieval bishopric, and the seat of the Portuguese royal court in the 15th and 16th centuries. Its historic centre — entirely encircled by medieval walls — preserves 2,000 years of architecture in a walkable area. The Church of São Francisco contains the famous Chapel of Bones (Capelas dos Ossos): a Franciscan meditation room whose walls and ceiling are entirely covered with the bones and skulls of approximately 5,000 medieval monks, with the inscription at the entrance reading 'We bones here are waiting for yours.' An hour east, the medieval village of Monsaraz sits on a hilltop 340 metres above the Alentejo plain and the vast Alqueva reservoir — Europe's largest artificial lake — its 14th-century castle, granite streets, Roman menhirs and whitewashed houses entirely intact, suspended between sky and water.",
+  "highlights": [
+    "Évora's Roman Temple of Diana — 14 Corinthian columns from the 1st century AD, the best-preserved Roman temple in Portugal",
+    "Chapel of Bones — the Franciscan meditation room lined with the skulls and bones of 5,000 monks",
+    "Évora Cathedral — the largest Romanesque cathedral in Portugal, with medieval cloister and treasury",
+    "Évora medieval walls — the complete Roman and medieval defensive circuit still encircling the city",
+    "Monsaraz Castle — a 14th-century frontier fortress on a hilltop 340 metres above the Alentejo plain",
+    "Alqueva Lake — Europe's largest artificial reservoir, created in 2002, visible from Monsaraz's battlements"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Évora — Roman Temple, Cathedral & Chapel of Bones",
+      "duration": "3 hours",
+      "description": "Évora's historic centre has been inhabited continuously for 5,000 years — the Romans called it Liberalitas Julia and made it one of the most important cities in Lusitania. The Temple of Diana (c.1st century AD) is the best-preserved Roman temple in Portugal: 14 Corinthian granite columns with marble capitals still standing to almost full height in the centre of the medieval city. The guide covers 2,000 years of Évora's history: the Moorish occupation (711–1166), the reconquest by the Portuguese knight Geraldo Sem Pavor (Gerald the Fearless), and the extraordinary period in the 15th century when the Portuguese royal court relocated to Évora and the city became a centre of Renaissance learning. The Cathedral of Évora (begun 1186) is the largest Romanesque cathedral in Portugal; its cloister contains Gothic sculpture of exceptional quality. The Chapel of Bones is in the Church of São Francisco — a room constructed in the 16th century by Franciscan monks from the bones of approximately 5,000 individuals exhumed from Évora's overcrowded cemeteries. The inscription above the door: 'Nós ossos que aqui estamos, pelos vossos esperamos' — 'We bones here are waiting for yours.'"
+    },
+    {
+      "order": 2,
+      "castle_name": "Monsaraz Castle & Village",
+      "duration": "2 hours",
+      "description": "Monsaraz sits on a granite hill 342 metres above the Alentejo plain — a medieval frontier castle village that has been fortified since prehistoric times (a significant Bronze Age settlement existed here) and whose current walls date to the 14th-century reconstruction under King Afonso IV. The castle keep and enceinte walls are the finest example of medieval military architecture in the Alentejo: the keep's battlements offer a 360-degree view over the vast plain, the River Guadiana (the Portuguese-Spanish border) and the Alqueva reservoir, created in 2002 by damming the Guadiana and now the largest artificial lake in Europe. The medieval village within the walls is extraordinarily preserved: granite-paved streets, whitewashed houses, a Roman menhir standing in the main square (moved here when its original site was flooded by Alqueva), and the village bullring — the oldest in Portugal — built inside the castle enceinte. The guide covers the Alentejo's extraordinary prehistoric heritage: the region contains the highest concentration of megalithic monuments in the Iberian Peninsula."
+    }
+  ],
+  "included": [
+    "Hotel pickup and drop-off in Lisbon",
+    "Air-conditioned private van",
+    "Expert English-speaking guide",
+    "Chapel of Bones entry",
+    "Monsaraz Castle entry",
+    "Small group (max 12)"
+  ],
+  "excluded": [
+    "Évora Cathedral entry (~€4 — recommended)",
+    "Lunch (free time in Évora — traditional Alentejo cuisine recommended)",
+    "Alentejo wine tasting (optional)",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Hotel pickup in Lisbon — address confirmed at booking",
+  "tips": [
+    "The Chapel of Bones is genuinely striking — not macabre in a cheap way, but deeply meditative. The Franciscan theological intention (memento mori: remember you will die) is visible in every detail. Allow 20 minutes and read the inscription carefully.",
+    "Monsaraz at sunset is one of the finest views in Portugal — the light turns the Alentejo plain gold, the Alqueva reservoir turns silver, and the castle walls glow. Try to be there in the last hour of daylight.",
+    "Alentejo cuisine is among the most distinctive in Portugal: açorda (bread soup), migas (fried bread with pork), black pork from the Iberian pig, and the local Alentejo wines (particularly the reds from Reguengos de Monsaraz, grown around the castle's base).",
+    "The menhir standing in Monsaraz's main square was moved from its original Bronze Age site when the Alqueva reservoir was created — a 5,000-year-old megalith saved from drowning."
+  ],
+  "faqs": [
+    {
+      "question": "What is the Chapel of Bones made of?",
+      "answer": "The Chapel of Bones (Capela dos Ossos) in Évora's Church of São Francisco was constructed in the 16th century by Franciscan monks using the bones and skulls of approximately 5,000 individuals exhumed from the city's overcrowded cemeteries. The walls and pillars are entirely covered in bones arranged in decorative patterns, with the skulls facing outward. The chapel was designed as a meditative space — a place for contemplating mortality consistent with Franciscan spirituality. It is one of several similar 'ossuary chapels' in Europe (Sedlec in the Czech Republic and the Catacombs in Paris are others), but one of the most intact and most explicitly theological."
+    },
+    {
+      "question": "What is the Alqueva reservoir?",
+      "answer": "The Alqueva dam and reservoir, completed in 2002, created Europe's largest artificial lake by damming the River Guadiana in the Alentejo. The reservoir covers 250 square kilometres and required the relocation of several villages, including part of the ancient village of Aldeia da Luz. A Roman bridge and several prehistoric megalithic sites were flooded. The menhir now standing in Monsaraz's main square was relocated from one of these flooded sites. The reservoir has transformed the Alentejo economically, enabling irrigation of crops in one of Europe's driest regions."
+    },
+    {
+      "question": "Why is the Alentejo so different from the rest of Portugal?",
+      "answer": "The Alentejo (meaning 'beyond the Tagus') is the largest region of Portugal — covering roughly a third of the country — but contains only 4% of its population. Its sparse settlement is the result of the latifúndio system: large agricultural estates established after the Christian reconquest in the 12th–13th centuries, when the land was divided between the nobility and military orders rather than settled by small farmers. The landscape of vast cork-oak plains, whitewashed villages and frontier castles on hilltops reflects this specific feudal and agricultural history."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/lisbon-alentejo-evora-monsaraz.webp",
+    "alt": "Monsaraz Castle on its hilltop above the Alentejo plain and Alqueva Lake, Portugal",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Lisbon: Alentejo – Évora, Chapel of Bones & Monsaraz Castle Day Tour",
+    "description": "Full-day tour from Lisbon to Évora (Roman temple, Chapel of Bones, medieval walls) and Monsaraz Castle — a 14th-century frontier fortress on a hilltop above Europe's largest reservoir."
+  }
+}

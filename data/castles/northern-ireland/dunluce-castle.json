@@ -1,0 +1,82 @@
+{
+  "id": "dunluce-castle",
+  "name": "Dunluce Castle",
+  "local_name": "Dún Libhse",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 220000,
+  "country": "northern-ireland",
+  "region": "County Antrim",
+  "nearest_city": "Portrush",
+  "address": "87 Dunluce Road, Bushmills, BT57 8UY, Northern Ireland",
+  "lat": 55.2099,
+  "lng": -6.5821,
+  "unesco": false,
+  "year_built": 1500,
+  "architectural_style": "Scottish / Irish medieval",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "12:00–17:00",
+    "seasonal_note": "Extended to 18:00 July and August. Reduced hours October to March. Closed Christmas and New Year."
+  },
+  "price_adult": 6,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.communities-ni.gov.uk/dunluce-castle",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "April to September",
+  "accessibility": "Limited — steep path and steps to castle; dramatic clifftop terrain",
+  "booking_advance_days": 0,
+  "tagline": "Northern Ireland's most dramatic ruin — a castle on the edge of the Atlantic",
+  "highlights": [
+    "Most dramatically positioned castle ruin in Ireland",
+    "Perched on a basalt sea stack with sheer Atlantic drops",
+    "Filming location for Game of Thrones (Castle Greyjoy / Pyke)",
+    "Part of the Causeway Coastal Route — minutes from the Giant's Causeway",
+    "A kitchen tower fell into the sea in 1639 during a dinner party"
+  ],
+  "description": "Dunluce Castle is the most dramatically situated castle ruin in Ireland and one of the most atmospheric in Europe — a shattered medieval fortress clinging to a basalt sea stack above the Atlantic, connected to the mainland by a narrow stone bridge, with sheer drops into the churning sea on three sides. Seat of the MacQuillan and later the MacDonnell clan (the Earls of Antrim), the castle dominated the north Antrim coast from the 16th century. Its most famous misfortune came in 1639 when part of the kitchen tower — servants inside — fell into the sea during a dinner party, reportedly causing the Countess to abandon the castle permanently. Dunluce appeared as Castle Pyke (House Greyjoy) in Game of Thrones, drawing a new generation of visitors to the Causeway Coast. The castle sits 8 km from the Giant's Causeway and 3 km from Bushmills Whiskey Distillery.",
+  "history": "A medieval fortification existed at this site from at least the 14th century. The current ruins date mainly from the 16th century, when the MacDonnell clan — Scottish lords of the Glens of Antrim — made it their chief seat. Sorley Boy MacDonnell resisted English Tudor forces here for decades in the late 16th century. The castle reached its peak under Randal MacDonnell, 1st Earl of Antrim, in the early 17th century, when it housed a substantial court. After the kitchen collapse of 1639 the castle was gradually abandoned and fell into the picturesque ruin seen today.",
+  "how_to_visit": "Dunluce is on the A2 Causeway Coastal Route, 3 km west of Bushmills and 8 km from the Giant's Causeway. The Causeway Rambler bus connects Giant's Causeway, Bushmills, and Dunluce in summer. By car it is 90 minutes from Belfast and 20 minutes from Portrush. Combine with the Giant's Causeway, Old Bushmills Distillery, and Carrick-a-Rede Rope Bridge for a full Causeway Coast day.",
+  "faqs": [
+    {
+      "question": "Was Dunluce really in Game of Thrones?",
+      "answer": "Yes — Dunluce served as visual inspiration and filming reference for Castle Pyke, the seat of House Greyjoy, in Game of Thrones. Some exterior shots used the castle directly."
+    },
+    {
+      "question": "Did a kitchen really fall into the sea?",
+      "answer": "Yes — in 1639 a section of the kitchen tower collapsed into the sea during a dinner, killing several servants. This event is said to have caused the Countess of Antrim to leave the castle, hastening its abandonment."
+    },
+    {
+      "question": "How close is Dunluce to the Giant's Causeway?",
+      "answer": "Just 8 km — a 10-minute drive. They are always visited together as part of the Causeway Coastal Route."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/dunluce-castle.webp",
+    "alt": "Dunluce Castle ruins on the edge of a basalt sea stack above the Atlantic in Northern Ireland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/dunluce-castle.webp",
+  "instagram_tag": "#dunlucecastle",
+  "meta_title": "Dunluce Castle, Northern Ireland — Dramatic Atlantic Ruin on the Causeway Coast",
+  "meta_description": "Visit Dunluce Castle on Northern Ireland's Causeway Coast — a Game of Thrones filming location perched on Atlantic sea cliffs, near the Giant's Causeway.",
+  "tags": ["medieval", "northern-ireland", "coastal", "game-of-thrones", "ruins"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["carrickfergus-castle"],
+  "gyg_location_id": "2558",
+  "gyg_search_query": "Dunluce Castle Causeway Coast tour Belfast",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

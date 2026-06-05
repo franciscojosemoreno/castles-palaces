@@ -1,0 +1,82 @@
+{
+  "id": "st-andrews-castle",
+  "name": "St Andrews Castle",
+  "local_name": "St Andrews Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 140000,
+  "country": "scotland",
+  "region": "Fife",
+  "nearest_city": "Dundee",
+  "address": "The Scores, St Andrews, KY16 9AR, Scotland",
+  "lat": 56.3408,
+  "lng": -2.7960,
+  "unesco": false,
+  "year_built": 1200,
+  "architectural_style": "Scottish medieval",
+  "opening_hours": {
+    "monday": "09:30–17:30",
+    "tuesday": "09:30–17:30",
+    "wednesday": "09:30–17:30",
+    "thursday": "09:30–17:30",
+    "friday": "09:30–17:30",
+    "saturday": "09:30–17:30",
+    "sunday": "09:30–17:30",
+    "seasonal_note": "Extended to 18:30 April to September. Managed by Historic Environment Scotland."
+  },
+  "price_adult": 8,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.historicenvironment.scot/st-andrews-castle",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "Year-round",
+  "accessibility": "Partially accessible — site is mostly open-air ruins; uneven ground throughout",
+  "booking_advance_days": 0,
+  "tagline": "A ruined bishop's castle on the North Sea cliffs, with a famous siege tunnel beneath",
+  "highlights": [
+    "Dramatic cliffside ruin above the North Sea",
+    "Famous mine and countermine tunnels from the 1546–1547 siege",
+    "Bottle dungeon — a horrifying 7-metre-deep pit cut into solid rock",
+    "Cardinal Beaton's murder here sparked the Scottish Reformation",
+    "Visitor centre with original carved stones and castle history"
+  ],
+  "description": "St Andrews Castle perches on a dramatic clifftop above the North Sea at the eastern tip of St Andrews, its broken towers and walls commanding views along the Fife coast. Built around 1200 as the residence of the Bishops (later Archbishops) of St Andrews — the most powerful churchmen in medieval Scotland — the castle was the seat of ecclesiastical power and a scene of bloody religious conflict during the Scottish Reformation. The castle's most extraordinary feature lies underground: during the siege of 1546–1547, Protestant reformers held up inside dug a mine to escape; their Catholic besiegers countered with their own tunnel to intercept it. Both tunnels survive, open to visitors to crawl through — one of the most remarkable underground medieval survivals in Britain. The infamous 'bottle dungeon' — a pit carved into the cliff bedrock from which escape was impossible — held political prisoners for centuries.",
+  "history": "The castle was built around 1200 for Bishop Roger of St Andrews and expanded over the following centuries. It was repeatedly captured and destroyed during the Wars of Scottish Independence. In 1546 Cardinal David Beaton, the most powerful Catholic in Scotland, was murdered here by Protestant conspirators who then held the castle for over a year in one of the Scottish Reformation's most dramatic episodes. The siege tunnels date from this period. After the castle fell to French forces supporting the Catholic cause, Protestant preacher John Knox was taken prisoner and sent to the French galleys. The castle was never fully rebuilt and fell into permanent ruin in the 17th century.",
+  "how_to_visit": "St Andrews is 85 km north-east of Edinburgh. Regular buses and trains run via Leuchars junction (7 km), with buses into St Andrews. The castle is at the north end of the town, a 15-minute walk from the bus station, adjacent to the ruins of St Andrews Cathedral. Both sites are managed by Historic Environment Scotland and can be visited with a combined ticket.",
+  "faqs": [
+    {
+      "question": "Can visitors enter the siege tunnels?",
+      "answer": "Yes — the mine and countermine tunnels are open to visitors. They are low and narrow; be prepared to crouch or crawl through sections."
+    },
+    {
+      "question": "What is the bottle dungeon?",
+      "answer": "A drop dungeon carved into the cliff bedrock beneath the Sea Tower — bottle-shaped, wider at the bottom than the top, making escape impossible. It held prisoners throughout the castle's history."
+    },
+    {
+      "question": "Is the Cathedral of St Andrews worth visiting too?",
+      "answer": "Absolutely — the cathedral ruins are immediately adjacent and were once the largest church in Scotland. A combined castle and cathedral ticket is available."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/st-andrews-castle.webp",
+    "alt": "St Andrews Castle ruins on the North Sea cliffs in Fife, Scotland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/st-andrews-castle.webp",
+  "instagram_tag": "#standrewscastle",
+  "meta_title": "St Andrews Castle, Scotland — Cliffside Ruin with Siege Tunnels & Bottle Dungeon",
+  "meta_description": "Explore St Andrews Castle in Fife — a medieval bishop's fortress on the North Sea cliffs with underground siege tunnels, a bottle dungeon, and Reformation history.",
+  "tags": ["medieval", "scottish-castle", "fife", "reformation", "ruins"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["dunnottar-castle"],
+  "gyg_location_id": "2534",
+  "gyg_search_query": "St Andrews Castle tour Scotland Fife",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,83 @@
+{
+  "id": "akershus-fortress",
+  "name": "Akershus Fortress",
+  "local_name": "Akershus Festning",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 600000,
+  "country": "norway",
+  "region": "Oslo",
+  "nearest_city": "Oslo",
+  "address": "Akershus Festning, 0150 Oslo, Norway",
+  "lat": 59.9073,
+  "lng": 10.7362,
+  "unesco": false,
+  "year_built": 1299,
+  "architectural_style": "Medieval Norse, rebuilt as Renaissance castle 1580s–1640s",
+  "opening_hours": {
+    "monday": "06:00–21:00",
+    "tuesday": "06:00–21:00",
+    "wednesday": "06:00–21:00",
+    "thursday": "06:00–21:00",
+    "friday": "06:00–21:00",
+    "saturday": "06:00–21:00",
+    "sunday": "06:00–21:00",
+    "seasonal_note": "Grounds open daily 06:00–21:00 (free). Castle interior (guided tours): May–Aug Mon–Sat 10:00–16:00, Sun 12:00–17:00. Sep–Apr limited hours."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.akershus-festning.no/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September — the harbour promenade, castle grounds and views over the Oslofjord at their best",
+  "accessibility": "The grounds are largely accessible. The castle interior (guided tours) has steps. The harbour-side promenade is flat and accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Seven centuries of Norwegian history above the Oslofjord — the fortress that defined Oslo's skyline",
+  "highlights": [
+    "The harbour views — panoramic views over the Oslofjord, Aker Brygge and the islands from the castle walls",
+    "The Royal Mausoleum — Kings Haakon VII, Olav V and the Norwegian Royal Family are buried in the castle chapel",
+    "The castle grounds — free to enter, a wooded hill above the harbour with ramparts, grass slopes and city views",
+    "The Norwegian Armed Forces Museum — two museums within the fortress covering Norwegian military history from the Viking age to WW2",
+    "The German occupation — the castle was used as a Gestapo prison during the German occupation 1940–45; 37 Norwegian resistance fighters were executed in the grounds"
+  ],
+  "description": "Akershus Fortress has guarded the entrance to the Oslofjord from its rocky promontory since King Haakon V ordered its construction around 1299. Today it sits incongruously between the modern opera house and the city's waterfront, a medieval and Renaissance fortress that has never been successfully taken by an enemy force despite repeated sieges — a record that covers 700 years and includes Swedish, Danish and German attempts.\n\nThe fortress grounds are free to enter and form one of Oslo's most pleasant public spaces: a wooded hill with ramparts, cannon batteries, grass slopes and views across the Oslofjord to the islands of the harbour. The interior of the Renaissance castle — built by Christian IV of Denmark-Norway in the early 17th century — is open for guided tours in summer. The chapel contains the Royal Mausoleum, where Norwegian kings Haakon VII and Olav V are buried.\n\nThe fortress's darkest chapter is its use as a Gestapo headquarters and prison during the German occupation of Norway (1940–45). Thirty-seven Norwegian resistance fighters were executed within the walls; the Norwegian Resistance Museum, housed in the fortress, is one of the finest and most moving museums of its kind in Europe.",
+  "history": "King Haakon V began construction of Akershus around 1299 as the primary fortification of Oslo (then Christiania). The fortress was attacked several times by Swedish forces in the 14th and 15th centuries but never taken. In 1523 Christian II was besieged here and eventually forced to flee Norway. The Danish-Norwegian king Christian IV undertook a major Renaissance rebuilding of the castle in the early 17th century, transforming the medieval fortress into a more comfortable and architecturally sophisticated residence.\n\nThe fortress remained an active military installation through the 19th and into the 20th century. During the German invasion of Norway in April 1940, the king and government escaped from Oslo by night, and the fortress was occupied by German forces for the duration of the war. It was used as the headquarters of the occupation administration and as a prison where resistance fighters were held and executed. After liberation in 1945, collaborators including Vidkun Quisling were tried and executed within the fortress.",
+  "how_to_visit": "**Getting there:** The fortress is a 10-minute walk from Oslo Central Station along the waterfront, or accessible by ferry from Aker Brygge. It is one of the most centrally located major fortresses in Europe.\n\n**Free access:** The fortress grounds, ramparts and harbour views are free at all times. The castle interior requires a guided tour (fee). Both museums (Armed Forces Museum and Resistance Museum) require separate admission.\n\n**Norwegian Resistance Museum:** Strongly recommended — one of the best WW2 museums in Scandinavia, housed within the fortress walls and covering the German occupation, resistance movement and liberation with exceptional exhibits.\n\n**Combine with:** The Oslo Fjord islands (ferry from the fortress pier — Bygdøy and Hovedøya), the Viking Ship Museum, and the Vigeland Sculpture Park.",
+  "faqs": [
+    {
+      "question": "Is Akershus Fortress free to visit?",
+      "answer": "The fortress grounds and the promenade around the walls are free to enter at all times. The castle interior is visited by paid guided tour (summer season only). The Norwegian Armed Forces Museum and the Norwegian Resistance Museum within the fortress each charge a separate admission fee. The grounds are one of Oslo's best free attractions — the views over the Oslofjord are exceptional."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/akershus-fortress.webp",
+    "alt": "Akershus Fortress above the Oslofjord at dusk, its towers reflected in the water",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/akershus-fortress.webp",
+  "instagram_tag": "#akershusfestning",
+  "meta_title": "Akershus Fortress Oslo: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Akershus Fortress in Oslo — 700 years of Norwegian history above the Oslofjord. Free to enter grounds, Royal Mausoleum, Resistance Museum and harbour views.",
+  "tags": [
+    "medieval",
+    "renaissance",
+    "free",
+    "instagram-worthy",
+    "city-centre"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": [
+    "kronborg-castle",
+    "edinburgh-castle"
+  ],
+  "gyg_location_id": "1",
+  "gyg_search_query": "Akershus Fortress Oslo tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

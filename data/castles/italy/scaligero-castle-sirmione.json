@@ -1,0 +1,82 @@
+{
+  "id": "scaligero-castle-sirmione",
+  "name": "Scaligero Castle of Sirmione",
+  "local_name": "Castello Scaligero di Sirmione",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 400000,
+  "country": "italy",
+  "region": "Lombardy, Province of Brescia",
+  "nearest_city": "Brescia",
+  "address": "Piazza Castello, 25019 Sirmione BS, Italy",
+  "lat": 45.4956,
+  "lng": 10.6050,
+  "unesco": false,
+  "year_built": 1259,
+  "architectural_style": "Scaligero Gothic",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–19:30",
+    "wednesday": "09:00–19:30",
+    "thursday": "09:00–19:30",
+    "friday": "09:00–19:30",
+    "saturday": "09:00–19:30",
+    "sunday": "09:00–19:30",
+    "seasonal_note": "Hours vary by season; shorter in winter (09:00–17:00 Nov–Mar). Closed Mondays year-round."
+  },
+  "price_adult": 6,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.beniculturali.it",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — numerous stairs to reach towers and walkways",
+  "booking_advance_days": 0,
+  "tagline": "A medieval fortress rising from the waters of Lake Garda",
+  "highlights": [
+    "Dramatically positioned on the tip of the Sirmione peninsula over Lake Garda",
+    "One of the best-preserved Scaligero castles in northern Italy",
+    "Original harbour enclosed within the castle walls",
+    "Panoramic views over Lake Garda from the tower battlements",
+    "Walking the medieval walls above the lake water"
+  ],
+  "description": "Castello Scaligero rises directly from the waters of Lake Garda at the narrowest point of the Sirmione peninsula, its crenellated towers reflected in the clear lake below. Built by the Scaligeri (della Scala) lords of Verona from 1259 onwards, the castle served as both a military stronghold and harbour — its curtain walls enclosing a protected port where Scaligero warships were moored. It is one of the finest and best-preserved examples of Scaligero military architecture in Italy. Climbing the main tower rewards visitors with sweeping views over all of Lake Garda, with the Dolomites visible on clear days to the north. The castle sits at the gateway to the charming historic centre of Sirmione, one of the most picturesque towns on the lake.",
+  "history": "The Scaligeri family commissioned the castle from 1259 as part of their expansion across the Veneto and Lombardy. It passed to the Visconti of Milan in 1387 and later to Venice, which reinforced it against Ottoman threats. Under Venetian rule the castle was expanded and modernised. Napoleon's forces occupied it briefly in the late 18th century. It was declared a national monument in the 19th century and underwent careful restoration, today managed by the Italian Ministry of Culture.",
+  "how_to_visit": "Sirmione is on the southern shore of Lake Garda, 40 km east of Brescia and 35 km west of Verona. Frequent buses run from Brescia and Verona. In summer, ferries connect Sirmione with Desenzano, Peschiera, Bardolino, and other lake towns. The castle is at the entrance of the old town pedestrian zone, a few steps from the main car parks.",
+  "faqs": [
+    {
+      "question": "Can I visit the interior of all towers?",
+      "answer": "Yes — visitors can climb the main tower and walk the interior wall walkways, all of which offer lake views."
+    },
+    {
+      "question": "Is Sirmione's Roman villa included in the ticket?",
+      "answer": "No — the Grotte di Catullo Roman villa at the tip of the peninsula requires a separate ticket, but both sites can easily be visited on the same day."
+    },
+    {
+      "question": "How far is the castle from Verona?",
+      "answer": "About 35 km, roughly 40 minutes by car or bus. Many visitors combine Sirmione with a day in Verona."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/scaligero-castle-sirmione.webp",
+    "alt": "Scaligero Castle rising from the waters of Lake Garda at Sirmione",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/scaligero-castle-sirmione.webp",
+  "instagram_tag": "#castelloscaligero",
+  "meta_title": "Scaligero Castle Sirmione, Lake Garda — Medieval Fortress on the Water",
+  "meta_description": "Visit Scaligero Castle in Sirmione on Lake Garda — a 13th-century Scaligero fortress with lake views, a harbour, and medieval towers.",
+  "tags": ["medieval", "italian-castle", "lake-garda", "scaligero", "lombardy"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["miramare-castle"],
+  "gyg_location_id": "2517",
+  "gyg_search_query": "Sirmione castle Lake Garda tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

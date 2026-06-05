@@ -1,0 +1,81 @@
+{
+  "id": "rome-castel-santangelo-guided-tour",
+  "slug": "rome-castel-santangelo-guided-tour",
+  "name": "Castel Sant'Angelo Rome: Skip-the-Line Guided Tour",
+  "tagline": "2,000 years of history in one fortress — Hadrian's tomb, papal refuge, and Renaissance palace all in one",
+  "departure_country": "italy",
+  "departure_city": "Rome",
+  "visited_countries": [
+    "italy"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 2 hours",
+  "gyg_tour_id": "334381",
+  "price_from": 29,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 5200,
+  "languages": [
+    "English",
+    "Spanish",
+    "Italian",
+    "French",
+    "German"
+  ],
+  "max_group_size": 15,
+  "overview": "Castel Sant'Angelo has served as a Roman emperor's tomb, a medieval fortress, a papal prison, and a Renaissance palace — all over 2,000 years of continuous use. Skip the queues with a licensed guide who opens up areas normally closed to independent visitors, including the historic prisons, the papal apartments, and the famous Passetto di Borgo — the secret elevated corridor connecting the castle to the Vatican. Finish on the rooftop terrace for one of Rome's finest views.",
+  "highlights": [
+    "Skip-the-line entry to Castel Sant'Angelo",
+    "Licensed guide with access to areas closed to solo visitors",
+    "See the papal prison cells and Renaissance apartments",
+    "Panoramic views over Rome from the rooftop terrace",
+    "Learn the full 2,000-year history from Hadrian to the popes"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "castel-santangelo",
+      "castle_name": "Castel Sant'Angelo",
+      "duration": "2 hours",
+      "description": "Skip-the-line entry and guided tour of the full castle. Begin in the Roman mausoleum of Emperor Hadrian, pass through medieval fortifications, explore the Renaissance papal apartments decorated with frescoes, and visit the historic prison where Puccini's Tosca throws herself from the battlements. End on the rooftop terrace with 360° views over Rome and the Tiber."
+    }
+  ],
+  "included": [
+    "Skip-the-line castle entry",
+    "Licensed guide",
+    "Small group (max 15)"
+  ],
+  "excluded": [
+    "Hotel pickup/dropoff",
+    "Gratuities"
+  ],
+  "meeting_point": "Outside Castel Sant'Angelo main entrance, Lungotevere Castello, Rome",
+  "tips": [
+    "The castle is a 10-minute walk from the Vatican — combine both in a single morning",
+    "The rooftop view at sunset is spectacular — try to book an afternoon slot",
+    "The papal prison cells where Galileo and Benvenuto Cellini were held are the most atmospheric spaces in the castle"
+  ],
+  "faqs": [
+    {
+      "question": "What is the Passetto di Borgo?",
+      "answer": "The Passetto is a secret elevated corridor built in 1277 connecting Castel Sant'Angelo to the Vatican. Popes used it to escape to the castle during sieges — most famously Clement VII during the Sack of Rome in 1527."
+    },
+    {
+      "question": "How long does the guided tour last?",
+      "answer": "The guided portion lasts approximately 2 hours. You are welcome to stay and explore independently after the tour ends."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/rome-castel-santangelo-guided-tour.webp",
+    "alt": "Castel Sant'Angelo at dusk reflected in the Tiber, with the Angel Bridge in the foreground",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Castel Sant'Angelo Skip-the-Line Guided Tour Rome | Castles & Palaces",
+    "description": "Skip the queues at Castel Sant'Angelo with a licensed guide. Papal prison, Renaissance apartments, rooftop views. From €29. Small group."
+  },
+  "gyg_url": "https://www.getyourguide.com/rome-l33/rome-castel-sant-angelo-tour-with-skip-the-line-access-t334381/"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "kolossi-castle",
+  "name": "Kolossi Castle",
+  "local_name": "Κάστρο Κολοσσίου",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 80000,
+  "country": "cyprus",
+  "region": "Limassol District",
+  "nearest_city": "Limassol",
+  "address": "Kolossi 4610, Cyprus",
+  "lat": 34.6717,
+  "lng": 32.9322,
+  "unesco": false,
+  "year_built": 1210,
+  "architectural_style": "Crusader Gothic",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Apr–Sep: 09:30–17:30. Last entry 30 minutes before closing. Managed by the Department of Antiquities of Cyprus."
+  },
+  "price_adult": 3,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.mcw.gov.cy/en",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "Year-round; avoid midday heat in July–August; the winter citrus season when the surrounding orange and lemon groves are fruiting adds to the atmosphere",
+  "accessibility": "The ground floor and courtyard are accessible. The tower staircase to the upper floors is steep and narrow. The surrounding site (sugarcane mill ruins, courtyard) is mostly flat.",
+  "booking_advance_days": 0,
+  "tagline": "The Crusader keep of the Knights Hospitaller — birthplace of Commandaria, the world's oldest named wine",
+  "highlights": [
+    "Built by the Knights Hospitaller (Knights of St John) in 1210 and rebuilt as the current tower in 1454 — their Grand Commandery on Cyprus",
+    "The estate produced Commandaria wine — one of the oldest named wines in the world, ordered by Richard I and served at the medieval French court",
+    "One of the best-preserved examples of Crusader military architecture in the eastern Mediterranean",
+    "The remains of the medieval sugarcane mill in the courtyard — the Knights ran sugar plantations that made Cyprus's economy one of the most valuable in the medieval world",
+    "A coat of arms relief of the Grand Commander Louis de Magnac (1454) survives intact above the entrance doorway"
+  ],
+  "description": "Kolossi Castle is a compact and perfectly preserved Crusader keep — a 21-metre-high square tower of golden limestone rising from citrus groves 14 km west of Limassol. Built by the Knights Hospitaller (Knights of St John) after they inherited Cyprus from the Knights Templar in 1313, the castle served as the Grand Commandery of the Order's Cyprus operation — the administrative headquarters from which the Knights managed their most profitable estate in the eastern Mediterranean.\n\nThe keep visible today was built in 1454 under Grand Commander Louis de Magnac, whose coat of arms survives above the entrance doorway in excellent relief — one of the finest examples of medieval heraldic carving in Cyprus. The three-storey tower contained the commander's apartments on the upper floors, storerooms below, and a painted hall with a fireplace whose hood still bears traces of fresco decoration. From the roof, the fertile Akrotiri peninsula and the Troodos Mountains are visible in one direction, the sea in the other.\n\nBut Kolossi's greatest legacy is not military — it is viticultural. The Knights' estate produced Commandaria wine from sun-dried Xynisteri and Mavro grapes grown on the surrounding hillsides. Commandaria is documented as far back as the 12th century; Richard I ordered it after conquering Cyprus in 1191; King Philip II of France requested it by name from Cyprus; it was served at the coronation feast of Henry V of England. It remains in production today, available at the castle visitor shop and throughout Cyprus.",
+  "history": "The Hospitaller presence at Kolossi dates to 1210, when the Order of St John received the estate as part of their Cypriot holdings. Cyprus had been conquered by Richard I of England during the Third Crusade in 1191 and was subsequently ruled by the Lusignan dynasty as a Crusader kingdom. The Knights used the Cyprus estate — one of their richest — to fund their military operations in the Holy Land and, after the fall of Acre in 1291, their operations from Rhodes.\n\nAfter the dissolution of the Knights Templar in 1312, the Templars' Cyprus properties were transferred to the Hospitallers, making Kolossi the centre of a greatly expanded estate. The current tower was built by Grand Commander Louis de Magnac in 1454 — a period of relative Cypriot stability before the Ottoman conquest. The Knights held Cyprus until 1489, when the last Lusignan queen Catherine Cornaro ceded the island to Venice.\n\nUnder Venetian, then Ottoman, then British colonial rule, the castle fell out of active use but survived intact due to the solidity of its 15th-century construction. The Department of Antiquities of Cyprus has managed it as a heritage site since independence in 1960.",
+  "how_to_visit": "**Getting there:** Kolossi village is 14 km west of Limassol. By car, take the B6 coastal road west from Limassol toward Paphos and turn north at the Kolossi junction — the castle is clearly signposted. Regular buses from Limassol to Episkopi pass through Kolossi village. Taxi from Limassol takes about 20 minutes.\n\n**Combine with:** Kourion (5 km west — a dramatic clifftop Greco-Roman city with a perfectly restored theatre and mosaics) and Limassol Castle (20 minutes east in the city centre) make an ideal full-day circuit of the western Limassol area. This is the itinerary of the Paphos castle tour featured on this site.\n\n**Commandaria wine:** Available at the castle visitor shop and at vineyards in the Commandaria wine region (the villages of Alassa, Agios Konstantinos, Agios Mamas, and others in the Troodos foothills 30 km north). A visit to a Commandaria producer rounds out the Kolossi experience.",
+  "faqs": [
+    {
+      "question": "What is Commandaria wine?",
+      "answer": "Commandaria is a sweet amber dessert wine made from sun-dried Xynisteri (white) and Mavro (red) grapes grown in the 14 villages of the Commandaria wine region in the Troodos foothills. It is one of the oldest named wines in continuous production — documented references date to at least the 12th century. Richard I ordered it after his 1191 Cyprus campaign; it was served at medieval royal courts across Europe. Modern Commandaria is produced under a Protected Designation of Origin and is widely available throughout Cyprus."
+    },
+    {
+      "question": "Who were the Knights Hospitaller?",
+      "answer": "The Knights Hospitaller (officially the Order of Knights of the Hospital of Saint John of Jerusalem) was a Catholic military order founded in Jerusalem around 1099 to care for sick pilgrims and defend the Crusader states. After the fall of the Holy Land, the Order relocated to Cyprus (1291), then Rhodes (1310), and finally Malta (1530), where they are still based today as the Sovereign Military Order of Malta. Cyprus was their most profitable estate during the Crusader period."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/kolossi-castle.webp",
+    "alt": "Kolossi Crusader Castle golden limestone tower rising from citrus groves in Cyprus",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/kolossi-castle.webp",
+  "instagram_tag": "#kolossicaste",
+  "meta_title": "Kolossi Castle Cyprus: Tickets, Commandaria Wine & Visitor Guide 2026",
+  "meta_description": "Visit Kolossi Castle in Cyprus — the Crusader keep of the Knights Hospitaller and birthplace of Commandaria, one of the world's oldest wines. Near Limassol. Complete guide.",
+  "tags": ["crusader", "gothic", "knights-hospitaller", "medieval", "cyprus", "wine"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["limassol-castle"],
+  "gyg_location_id": "426",
+  "gyg_search_query": "Kolossi Castle Cyprus tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

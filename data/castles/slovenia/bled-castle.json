@@ -1,0 +1,82 @@
+{
+  "id": "bled-castle",
+  "name": "Bled Castle",
+  "local_name": "Blejski grad",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 500000,
+  "country": "slovenia",
+  "region": "Upper Carniola",
+  "nearest_city": "Bled",
+  "address": "Grajska cesta 61, 4260 Bled, Slovenia",
+  "lat": 46.3883,
+  "lng": 14.0942,
+  "unesco": false,
+  "year_built": 1004,
+  "architectural_style": "Medieval with Renaissance additions",
+  "opening_hours": {
+    "monday": "08:00–20:00",
+    "tuesday": "08:00–20:00",
+    "wednesday": "08:00–20:00",
+    "thursday": "08:00–20:00",
+    "friday": "08:00–20:00",
+    "saturday": "08:00–20:00",
+    "sunday": "08:00–20:00",
+    "seasonal_note": "Nov–Mar: opens at 08:00, closes at 18:00. Open every day of the year including public holidays. The castle restaurant operates the same hours."
+  },
+  "price_adult": 15,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.bled.si/en/what-to-do/attractions/bled-castle",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "All seasons — the castle view changes dramatically from spring flowers to autumn mist to winter snow. Summer sunsets from the upper terrace are extraordinary.",
+  "accessibility": "The castle is reached by a steep path from the lakeside (about 15 minutes). The path involves uneven stone steps and is not accessible for wheelchairs. The castle courtyard and main terrace are flat once inside.",
+  "booking_advance_days": 0,
+  "tagline": "Slovenia's most iconic sight — a medieval castle on a 130-metre cliff above the most beautiful lake in the Alps",
+  "highlights": [
+    "The view from the castle terrace over Lake Bled, the island church, and the Julian Alps is one of the great panoramas of Central Europe",
+    "First documented in 1004 when Emperor Henry II granted it to the Bishop of Brixen; continuously occupied for over a thousand years",
+    "The castle winery produces wine from a vineyard on the cliff below — one of the most steeply positioned vineyards in Slovenia",
+    "The museum inside includes a reconstruction of a medieval printing press, traditional bookbinding, and blacksmithing workshops",
+    "Lake Bled below — with its island church reached by traditional pletna rowboats — is Slovenia's most photographed scene"
+  ],
+  "description": "Bled Castle has the finest position of any castle in the Alps — perched on a sheer cliff 130 metres above the emerald water of Lake Bled, with the Julian Alps rising directly behind and the church on the lake's island visible below. Slovenia's most iconic image incorporates all three: castle, lake, island, and mountains. The reality more than matches the photographs.\n\nThe castle's thousand-year history begins in 1004 with a grant from Emperor Henry II of the Holy Roman Empire to the Prince-Bishops of Brixen, who used it as their primary residence in the Carniolan highlands for over 800 years. The structure was continuously expanded, rebuilt, and modified through the Romanesque, Gothic, and Renaissance periods, leaving a complex of buildings accumulated over centuries rather than a single architectural statement. The result — courtyard, chapel, defensive walls, residential towers, and a wine cellar cut into the cliff — is characteristically Slovenian in its modest scale and practical beauty.\n\nThe castle museum is more interesting than most castle museums at comparable sites: it includes a reconstruction of a Gutenberg-era printing press on which visitors can print a souvenir certificate, a wine cellar with the castle's own Bled wines, and workshops demonstrating traditional crafts. But the real reason to come is the terrace view: 360 degrees of Alps, lake, and valley, with the sound of the island church bell drifting up through the clear air.",
+  "history": "Bled's strategic position controlling the pass into the Julian Alps has attracted fortification since at least the late Iron Age. The first written record of the castle dates to 1004, when Emperor Henry II donated the estates of Bled to the Prince-Bishops of Brixen (in modern South Tyrol), who used it as their administrative centre for the region.\n\nThe castle was expanded through the 11th and 12th centuries in Romanesque style. The defensive towers and walls that survive today date largely from the 15th century, when threats from Ottoman raiding parties — which reached as far as present-day Slovenia — made substantial fortification necessary. The Renaissance loggia and chapel were added in the 16th century under the Bishops of Brixen.\n\nIn 1803, after the Napoleonic suppression of the Church properties, the castle passed to the Austrian imperial administration. After 1918 it became the property of Yugoslavia and was used briefly as a royal residence by King Alexander I. After World War II, Yugoslav President Josip Broz Tito used the area around Lake Bled as a summer retreat — his villa (now a hotel) is still visible on the lakeside. The castle was converted into a museum and tourist facility in the 1950s.",
+  "how_to_visit": "**Getting there:** Lake Bled is 55 km northwest of Ljubljana. Direct buses run from Ljubljana Bus Station approximately every hour (1h15 journey). By car, follow the A2 motorway to Kranjska Gora direction, exiting at Bled. The castle is clearly visible from the lakeside; the path up begins from the main road east of the lake.\n\n**The climb:** A 15-minute walk on a steep stone path through forest leads from the road to the castle gate. An alternative car park near the castle serves visitors who drive up the road behind the hill (signposted).\n\n**Lake Bled:** Combine the castle with a pletna boat ride to the island (traditional wooden rowboats, approx. €15–18 per person, 45-minute round trip with time to climb the 99 steps to ring the bell). The combination of castle, island, and lakeside walk makes Bled a full day.\n\n**Bled cream cake (kremna rezina):** The famous Bled cream cake — vanilla custard and whipped cream between two layers of puff pastry — is served in the castle restaurant and at the Sava Hotels' Park Hotel café by the lake. Non-negotiable.",
+  "faqs": [
+    {
+      "question": "What is the island in Lake Bled?",
+      "answer": "The island in Lake Bled is the only natural island in Slovenia. It contains the Church of the Assumption, dating to the 17th century (on the site of an early medieval church), reached by traditional wooden rowboats (pletna) rowed by boatmen who have held their licences for generations. Visitors climb 99 stone steps to the church and are invited to ring the bell and make a wish."
+    },
+    {
+      "question": "Is Bled Castle worth visiting or just for the view?",
+      "answer": "The castle museum, printing press workshop, wine cellar, and chapel are genuinely interesting — allow 1.5–2 hours rather than just stopping for the terrace view. The entry fee includes all museum areas. The castle restaurant serves the famous Bled cream cake and is a pleasant place for coffee or lunch with the view."
+    },
+    {
+      "question": "Can I visit Bled Castle and Predjama Castle on the same day?",
+      "answer": "Yes — Predjama Castle is 55 km south of Bled (about 1 hour by car), and both can be combined with Ljubljana in a well-planned day. The Ljubljana–Bled–Predjama–Ljubljana loop works well for those based in Ljubljana."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bled-castle.webp",
+    "alt": "Bled Castle on its sheer cliff above the emerald waters of Lake Bled with the Julian Alps behind, Slovenia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bled-castle.webp",
+  "instagram_tag": "#bledcastle",
+  "meta_title": "Bled Castle Slovenia: Tickets, History & Visitor Guide 2026",
+  "meta_description": "Visit Bled Castle — perched 130m above Lake Bled in Slovenia with panoramic views of the Julian Alps. Includes museum, wine cellar, and printing press. Complete visitor guide.",
+  "tags": ["medieval", "alpine", "lake", "iconic", "slovenia"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["ljubljana-castle", "predjama-castle"],
+  "gyg_location_id": "1023",
+  "gyg_search_query": "Bled Castle tour Slovenia",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

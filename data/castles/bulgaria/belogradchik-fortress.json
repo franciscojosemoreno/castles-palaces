@@ -1,0 +1,82 @@
+{
+  "id": "belogradchik-fortress",
+  "name": "Belogradchik Fortress",
+  "local_name": "Белоградчишка крепост",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 120000,
+  "country": "bulgaria",
+  "region": "Vidin Province, Northwestern Bulgaria",
+  "nearest_city": "Vidin",
+  "address": "Belogradchik Fortress, 3900 Belogradchik, Bulgaria",
+  "lat": 43.6261,
+  "lng": 22.6872,
+  "unesco": false,
+  "year_built": 100,
+  "architectural_style": "Roman / Medieval Bulgarian / Ottoman",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Extended to 20:00 May to September. Open daily year-round."
+  },
+  "price_adult": 4,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.belogradchik.bg",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — main courtyard reachable; upper walls have stairs",
+  "booking_advance_days": 0,
+  "tagline": "A Roman fortress woven between giant red rock sculptures in the Bulgarian wilderness",
+  "highlights": [
+    "Fortress walls built directly among extraordinary red sandstone rock formations",
+    "Nominated as one of the New Seven Wonders of Nature",
+    "Roman origins expanded through Byzantine, Bulgarian, and Ottoman periods",
+    "The rocks themselves are named after legendary characters — the Schoolgirl, the Madonna, the Monks",
+    "One of Bulgaria's most spectacular and underrated natural and historic sites"
+  ],
+  "description": "Belogradchik Fortress is one of Europe's most visually extraordinary ancient monuments — a Roman fortress whose walls weave between and incorporate the spectacular Belogradchik Rocks, a landscape of towering red sandstone formations sculpted by 230 million years of erosion into shapes resembling human figures, animals, and mythological scenes. The Romans established the first fortification here in the 1st–2nd centuries AD, using the rock formations as natural walls. It was expanded by the Bulgarian tsars, heavily reinforced by the Ottomans between 1805 and 1837, and briefly held by Serbian, Russian, and Bulgarian forces during the liberation wars of the 19th century. The site was nominated as a candidate for the New Seven Wonders of Nature. Each rock formation has a name rooted in local legend — the Schoolgirl, the Madonna, the Monks, the Bear — giving the landscape a haunting human quality.",
+  "history": "Roman soldiers garrisoned the site in the 1st–2nd centuries AD, building the first walls between the rock formations. Bulgarian medieval rulers expanded the fortification, and the Ottoman Empire undertook major reconstruction between 1805 and 1837, creating the three-courtyard layout visible today. During the Russo-Turkish War of 1877–1878 that liberated Bulgaria, the fortress changed hands several times. It was declared a national monument and opened as a heritage site in the 20th century.",
+  "how_to_visit": "Belogradchik is in northwestern Bulgaria, 55 km from Vidin and 180 km from Sofia. By car from Sofia take the A3 and E79 (2.5 hours). Buses run from Vidin and Montana. The rocks and fortress are at the edge of the small town — park near the entrance gate. The Belogradchik Rocks Natural Park extends beyond the fortress and has marked hiking trails for a half-day exploration.",
+  "faqs": [
+    {
+      "question": "What are the Belogradchik Rocks?",
+      "answer": "An extraordinary natural landscape of red and yellow sandstone formations up to 200 metres tall, shaped over 230 million years into human and animal forms. They surround and are incorporated into the fortress walls."
+    },
+    {
+      "question": "Was Belogradchik really nominated for the New Seven Wonders?",
+      "answer": "Yes — it was among the candidates in the New Seven Wonders of Nature initiative, drawing international attention to this relatively unknown site."
+    },
+    {
+      "question": "Can I hike through the rock formations?",
+      "answer": "Yes — marked trails through the Belogradchik Rocks Natural Park extend beyond the fortress and allow exploration of the rock formations on foot. Allow 2–3 hours for the full circuit."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/belogradchik-fortress.webp",
+    "alt": "Belogradchik Fortress walls weaving between giant red sandstone rock formations in Bulgaria",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/belogradchik-fortress.webp",
+  "instagram_tag": "#belogradchik",
+  "meta_title": "Belogradchik Fortress, Bulgaria — Roman Fortress Among Giant Rock Sculptures",
+  "meta_description": "Visit Belogradchik Fortress in Bulgaria — a Roman fortress woven between extraordinary red sandstone rock formations, one of Europe's most spectacular hidden gems.",
+  "tags": ["roman", "bulgarian-castle", "rock-formations", "ottoman", "nature"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["tsarevets-fortress"],
+  "gyg_location_id": "2430",
+  "gyg_search_query": "Belogradchik Fortress rocks Bulgaria tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

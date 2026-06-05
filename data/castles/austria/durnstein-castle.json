@@ -1,0 +1,82 @@
+{
+  "id": "durnstein-castle",
+  "name": "Dürnstein Castle",
+  "local_name": "Burgruine Dürnstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 150000,
+  "country": "austria",
+  "region": "Lower Austria, Wachau",
+  "nearest_city": "Krems an der Donau",
+  "address": "Burgruine Dürnstein, 3601 Dürnstein, Austria",
+  "lat": 48.3958,
+  "lng": 15.5189,
+  "unesco": true,
+  "year_built": 1140,
+  "architectural_style": "Medieval Austrian",
+  "opening_hours": {
+    "monday": "Open 24h (exterior ruins)",
+    "tuesday": "Open 24h (exterior ruins)",
+    "wednesday": "Open 24h (exterior ruins)",
+    "thursday": "Open 24h (exterior ruins)",
+    "friday": "Open 24h (exterior ruins)",
+    "saturday": "Open 24h (exterior ruins)",
+    "sunday": "Open 24h (exterior ruins)",
+    "seasonal_note": "The ruins are freely accessible at all times via a hiking trail. The climb takes 20–30 minutes from Dürnstein village."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.duernstein.at",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Very limited — steep 30-minute hike on rocky trail",
+  "booking_advance_days": 0,
+  "tagline": "The prison of Richard the Lionheart, high above the Danube vineyards of the Wachau",
+  "highlights": [
+    "UNESCO Wachau Cultural Landscape",
+    "Prison of Richard I of England (Richard the Lionheart) in 1192–1193",
+    "Legend of the troubadour Blondel searching for his captive king",
+    "Dramatic views over Danube vineyards, apricot orchards, and the Wachau valley",
+    "The ruined tower is visible from Danube cruise ships passing below"
+  ],
+  "description": "The ruined castle of Dürnstein stands on a steep limestone crag above one of the most beautiful river landscapes in Europe — the UNESCO Wachau valley, where Danube wine terraces and apricot orchards stretch between Melk and Krems. The castle's fame rests entirely on one extraordinary episode: in 1192, the returning Crusader king Richard I of England (Richard the Lionheart) was captured by Duke Leopold V of Austria near Vienna and secretly imprisoned here. Legend holds that Richard's loyal troubadour Blondel wandered Europe searching for his king, eventually identifying the castle by singing one of their shared songs from below the walls until Richard answered from his tower. Richard was held for 14 months until a vast ransom was paid. The ruined tower where he was kept still stands, and the climb from the blue-domed Baroque village of Dürnstein below is one of the most rewarding short hikes in Austria.",
+  "history": "The castle was built around 1140 by the Kuenring family. Duke Leopold V of Austria imprisoned Richard I of England here from December 1192 to March 1193, extracting a ransom of 150,000 marks of silver — two years of English royal income. The castle passed to the Habsburgs and was largely demolished in 1645 during the Thirty Years' War by Swedish forces. The ruins were left standing and became one of the most celebrated Romantic-era destinations in the Danube valley. The Wachau was inscribed as a UNESCO Cultural Landscape in 2000.",
+  "how_to_visit": "Dürnstein is 80 km west of Vienna in the Wachau valley. Trains run from Vienna Hauptbahnhof to Krems (1 hour), then local bus or taxi to Dürnstein (10 km). Danube cruise ships from Vienna, Linz, and Passau stop at Dürnstein — arriving by boat with the castle visible on the crag above is the classic Wachau experience. The hike to the ruins takes 20–30 minutes from the village.",
+  "faqs": [
+    {
+      "question": "Is the Blondel legend true?",
+      "answer": "The story of the troubadour Blondel singing beneath the castle walls is a medieval romantic legend rather than documented history. Richard's imprisonment at Dürnstein, however, is fully historical."
+    },
+    {
+      "question": "Can I reach the castle without hiking?",
+      "answer": "No — the castle is only accessible on foot via a rocky trail from Dürnstein village. The climb takes 20–30 minutes and is steep in places."
+    },
+    {
+      "question": "What is the Wachau famous for besides the castle?",
+      "answer": "The Wachau is one of Austria's most celebrated wine regions, known for Grüner Veltliner and Riesling grown on steep terraced slopes, and for its apricot orchards whose fruit gives the region's famous Marillenschnaps."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/durnstein-castle.webp",
+    "alt": "Dürnstein Castle ruins on the limestone crag above the Wachau Danube valley in Austria",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/durnstein-castle.webp",
+  "instagram_tag": "#durnsteincastle",
+  "meta_title": "Dürnstein Castle, Austria — Richard the Lionheart's Prison in the UNESCO Wachau",
+  "meta_description": "Visit Dürnstein Castle in the Wachau — the medieval Austrian prison of Richard the Lionheart, with panoramic views over UNESCO Danube vineyards.",
+  "tags": ["medieval", "austrian-castle", "wachau", "unesco-world-heritage", "danube"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2371",
+  "gyg_search_query": "Dürnstein castle Wachau tour from Vienna",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

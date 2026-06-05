@@ -1,0 +1,82 @@
+{
+  "id": "drottningholm-palace",
+  "name": "Drottningholm Palace",
+  "local_name": "Drottningholms slott",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 800000,
+  "country": "sweden",
+  "region": "Stockholm County",
+  "nearest_city": "Stockholm",
+  "address": "Drottningholm, 178 02 Drottningholm, Sweden",
+  "lat": 59.3226,
+  "lng": 17.8868,
+  "unesco": true,
+  "year_built": 1662,
+  "architectural_style": "Baroque",
+  "opening_hours": {
+    "monday": "10:00–16:30",
+    "tuesday": "10:00–16:30",
+    "wednesday": "10:00–16:30",
+    "thursday": "10:00–16:30",
+    "friday": "10:00–16:30",
+    "saturday": "10:00–16:30",
+    "sunday": "10:00–16:30",
+    "seasonal_note": "May–Sep: open daily 10:00–17:00. Oct: 10:00–16:00. Nov–Apr: weekends only 12:00–15:30. The Chinese Pavilion is open May–Sep only. The palace is a working royal residence — some state apartments may be closed on short notice for official functions. Check the website before visiting."
+  },
+  "price_adult": 14,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.kungligaslotten.se/english/royal-palaces-and-sites/drottningholm-palace",
+  "visit_duration": "3–4 hours",
+  "best_season": "Summer (June–August) for gardens, Chinese Pavilion, and boat access from Stockholm; winter for a quieter, atmospheric experience in the snow",
+  "accessibility": "The ground floor of the palace is accessible via lift. The baroque gardens are flat and accessible. The boat from Stockholm is accessible with assistance. The Chinese Pavilion involves steps.",
+  "booking_advance_days": 0,
+  "tagline": "The living palace of the Swedish royal family — Sweden's Versailles on a lake island near Stockholm",
+  "highlights": [
+    "UNESCO World Heritage Site since 1991 — the best-preserved Baroque royal palace in Scandinavia and residence of the Swedish Royal Family",
+    "The Palace Theatre (Drottningholms slottsteater) — the world's best-preserved 18th-century theatre, with original 1766 stage machinery still operational",
+    "The Chinese Pavilion (Kina slott) — an extraordinary royal fantasy of the 18th-century chinoiserie fashion, built as a surprise birthday gift in 1753",
+    "The baroque French garden and the English landscape park — 18th-century garden design at its most complete in Sweden",
+    "Accessible from Stockholm by boat along Lake Mälaren — one of the most pleasant royal palace approaches in Europe"
+  ],
+  "description": "Drottningholm Palace sits on a small island in Lake Mälaren, 11 km west of Stockholm, and functions simultaneously as the official private residence of the Swedish Royal Family and one of Sweden's most visited tourist destinations. The combination is quintessentially Scandinavian in its pragmatism: the public is welcome in the palace apartments, the gardens, the theatre, and the Chinese Pavilion, while the royal family occupies a private wing in the east section. It is an arrangement that reflects Sweden's unusually open relationship with its monarchy.\n\nThe palace was begun in 1662 by the architects Nicodemus Tessin the Elder and completed by his son Nicodemus Tessin the Younger — the duo responsible for most of Sweden's great Baroque architecture of the 17th and 18th centuries. The result is sometimes called the 'Versailles of the North', though this does the palace a disservice: it is more intimate, more refined, and more architecturally coherent than its French counterpart, with a modesty of scale that allows the details of the French-influenced decoration and the Swedish natural setting to be appreciated fully.\n\nThe Palace Theatre is the most extraordinary element. Built in 1766 and abandoned following the assassination of King Gustav III in 1792, the theatre was sealed and forgotten for over a century, preserving its entire original stage machinery, painted backdrops, costumes, and equipment intact. When rediscovered in the 1920s, it was essentially a time capsule of 18th-century theatre technology. Today it is the best-preserved 18th-century theatre in the world and still stages period opera productions each summer using the original mechanisms.",
+  "history": "A royal residence on the Drottningholm island is first recorded in the 16th century, during the reign of Johan III. The original palace was destroyed by fire in 1661; Queen Hedvig Eleonora (mother of Karl XI) commissioned the current palace, begun in 1662 by Nicodemus Tessin the Elder. The name means 'Queen's Island' (Drottning = queen).\n\nThe palace was significantly expanded by Tessin the Younger under Karl XII and Ulrika Eleonora in the early 18th century. Queen Lovisa Ulrika — a Prussian princess and passionate admirer of French culture — received the palace as a gift in 1744 and undertook its most intense period of cultural enrichment: commissioning the Chinese Pavilion (1753), building the palace theatre (1766), and establishing the library that made Drottningholm one of the intellectual centres of Swedish court life. Her son, the theatre-loving King Gustav III, continued the cultural programme until his assassination at a masked ball in 1792.\n\nAfter a period of neglect in the 19th century, the palace was comprehensively restored in the 1900s. The Swedish Royal Family returned to Drottningholm as their primary residence in 1981. The palace was inscribed as a UNESCO World Heritage Site in 1991 — only the third Swedish site to receive this designation.",
+  "how_to_visit": "**Getting there by boat:** From May to September, traditional lake steamers run from City Hall quay (Stadshuskajen) in central Stockholm to Drottningholm (1 hour, approx. €20 return). This is the most enjoyable approach — the palace was designed to be seen from the water. Check timetables carefully as sailings are limited.\n\n**Getting there by metro/bus:** From Stockholm, take the metro (tunnelbana) green line to Brommaplan, then bus 301 or 323 to Drottningholm (about 45 minutes total). This is the faster option for those with limited time.\n\n**What to see:** The Royal Apartments (ground and first floor), the Chinese Pavilion (separate ticket, open May–Sep), the Palace Theatre (guided tours; check performance dates for evening opera), and the baroque garden.\n\n**The theatre:** Guided tours of the theatre run several times daily in summer. Evening performances of 18th-century opera and ballet using the original machinery run June–August — tickets sell out months in advance.",
+  "faqs": [
+    {
+      "question": "Is Drottningholm Palace a working royal residence?",
+      "answer": "Yes — the Swedish Royal Family uses the east wing of the palace as their primary residence. The state apartments and most of the palace are open to visitors, but some areas may be closed at short notice for official functions. The family is resident for most of the year but the exact schedule is not publicised."
+    },
+    {
+      "question": "What makes the Palace Theatre so special?",
+      "answer": "The Drottningholm Palace Theatre was built in 1766, closed after Gustav III's assassination in 1792, and then sealed and forgotten for 130 years. When rediscovered in 1921, all the original 18th-century stage machinery — including wind machines, wave effects, and flying rigs — was intact, along with original painted backdrops, costumes, and props. It is the best-preserved example of 18th-century theatre technology in the world and still stages summer opera performances using these original mechanisms."
+    },
+    {
+      "question": "What is the Chinese Pavilion?",
+      "answer": "The Kina Slott (Chinese Pavilion) was built in 1753 as a surprise birthday gift from King Adolf Fredrik to Queen Lovisa Ulrika. It is a vivid example of the 18th-century chinoiserie fashion — European fantasy of Chinese style applied to architecture, decoration, and gardens. The pavilion contains original Chinese furniture and silk wall coverings, with a European interpretation of Chinese design that is charming and slightly absurd in equal measure. Open May–September only."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/drottningholm-palace.webp",
+    "alt": "Drottningholm Palace Baroque facade reflected in Lake Mälaren near Stockholm, Sweden",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/drottningholm-palace.webp",
+  "instagram_tag": "#drottningholm",
+  "meta_title": "Drottningholm Palace: Tickets, Theatre & Visitor Guide 2026",
+  "meta_description": "Visit Drottningholm Palace near Stockholm — Sweden's UNESCO Baroque royal residence, home of the best-preserved 18th-century theatre in the world and the enchanting Chinese Pavilion.",
+  "tags": ["baroque", "palace", "unesco-world-heritage", "royal", "sweden", "lake"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["vaxholm-fortress"],
+  "gyg_location_id": "36",
+  "gyg_search_query": "Drottningholm Palace tour Stockholm",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

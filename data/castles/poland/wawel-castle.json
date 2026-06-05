@@ -1,0 +1,84 @@
+{
+  "id": "wawel-castle",
+  "name": "Wawel Royal Castle",
+  "local_name": "Zamek Królewski na Wawelu",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 1200000,
+  "country": "poland",
+  "region": "Lesser Poland",
+  "nearest_city": "Kraków",
+  "address": "Wawel 5, 31-001 Kraków, Poland",
+  "lat": 50.0541,
+  "lng": 19.9354,
+  "unesco": true,
+  "year_built": 1038,
+  "architectural_style": "Medieval origins, comprehensively rebuilt as Renaissance palace 1504–1548 under Sigismund I",
+  "opening_hours": {
+    "monday": "Grounds open all day. Museums: closed Monday.",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Apr–Oct: Tue–Sun 09:30–17:00. Nov–Mar: Tue–Sun 09:30–16:00. Closed Mondays. Each museum circuit requires a separate timed ticket — book online."
+  },
+  "price_adult": 35,
+  "price_child": 25,
+  "booking_required": true,
+  "official_tickets_url": "https://wawel.krakow.pl/en/",
+  "visit_duration": "3–4 hours",
+  "best_season": "April to June and September–October — pleasant weather, the castle gardens and Vistula riverbank at their best",
+  "accessibility": "The main courtyard and some ground floor areas are accessible. Many exhibition rooms require steps. Audio guides available.",
+  "booking_advance_days": 7,
+  "tagline": "Poland's Acropolis — the royal castle and cathedral where Polish kings lived, ruled and are buried",
+  "highlights": [
+    "The Renaissance courtyard — one of the finest Renaissance arcaded courtyards in central Europe, built by Italian masters for Sigismund I",
+    "The Royal Apartments — 71 rooms with Flemish tapestries commissioned by Sigismund Augustus, considered the finest tapestry cycle outside Brussels",
+    "Wawel Cathedral — the Gothic cathedral where Polish kings were crowned and where the tombs of 36 monarchs stand",
+    "The Wawel Dragon's Den — a limestone cave at the base of the hill, with a fire-breathing dragon sculpture at the entrance",
+    "The Crown Treasury and Armory — housing the Szczerbiec coronation sword (13th century) and Polish royal regalia"
+  ],
+  "description": "Wawel Castle in Kraków is the symbolic heart of Poland — the hilltop complex of palace, cathedral and fortifications where Polish kings ruled for five centuries, where they were crowned in the cathedral, and where many of them are buried in its royal crypts. The hill itself, rising 228 metres above the Vistula River, has been occupied since at least the Neolithic period; the castle in its current Renaissance form was created between 1504 and 1548 by Sigismund I, who brought Italian masters from Florence and Padua to transform a Gothic fortress into a palace worthy of a European renaissance court.\n\nThe centrepiece of the castle is the arcaded Renaissance courtyard — three storeys of open arcades surrounding a rectangular courtyard, its proportions elegant and its stonework detailed. Around the courtyard are arranged the royal apartments, the cathedral and the fortifications. The royal apartments contain 71 rooms of which 24 are open to visitors, displaying the extraordinary cycle of Flemish tapestries commissioned by Sigismund Augustus — 136 survive of an original 365, depicting biblical and hunting scenes in vivid colour.\n\nWawel Cathedral, adjacent to the palace, is where Polish kings were crowned (from Władysław I in 1320) and where 36 monarchs are buried — including the great Jagiellonian dynasty kings and, controversially, President Lech Kaczyński, killed in the Smolensk air crash of 2010. The Bell of Sigismund, cast in 1520, is rung on national occasions and its sound — heard across Kraków — remains one of Poland's most powerful national symbols.",
+  "history": "Wawel Hill has been an administrative centre since at least the 10th century, when Poland's first dynasty, the Piasts, established their seat here. Casimir III (the Great, r. 1333–1370) built the first significant stone castle. When the Jagiellonian dynasty came to power in 1386, Wawel became the seat of one of Europe's most powerful kingdoms — at its height in the late 15th and early 16th centuries, the Polish-Lithuanian Commonwealth stretched from the Baltic to the Black Sea.\n\nThe current Renaissance palace was built between 1504 and 1548 under Sigismund I and his son Sigismund Augustus, using Italian architects including Francesco Fiorentino and Bartolommeo Berecci. The move of the royal capital to Warsaw in 1596 began Wawel's decline as an active royal residence. Swedish invasions in the 17th century and Austrian occupation after the partitions of Poland (1772–1918) left the castle in poor condition. A major restoration campaign began after Polish independence in 1918 and continued through the 20th century.",
+  "how_to_visit": "**Getting there:** The castle is a 20-minute walk from Kraków's main railway station (Kraków Główny) along the Royal Way through the old town, or a 10-minute walk from the main market square (Rynek Główny). Trams stop near the castle entrance.\n\n**Tickets:** The castle operates multiple separate exhibition circuits, each with a limited daily allocation of timed entry tickets. Book online well in advance — the Royal Apartments in particular sell out quickly. The cathedral and Dragon's Den are ticketed separately.\n\n**The Dragon's Den:** The limestone cave at the base of Wawel Hill (separate ticket, small fee) is a short walk through atmospheric passages, ending at the river with the fire-breathing dragon sculpture — popular with children.\n\n**Combine with:** Kraków old town (UNESCO — the largest medieval market square in Europe), the Kazimierz Jewish quarter, and the Auschwitz-Birkenau Memorial (80km, 1.5 hours by bus) for a full Kraków itinerary.",
+  "faqs": [
+    {
+      "question": "What is the Wawel Dragon and is the legend real?",
+      "answer": "The Wawel Dragon (Smok Wawelski) is the most famous creature in Polish folklore — a fire-breathing dragon said to have lived in the cave at the base of Wawel Hill, devouring livestock and terrorising the city until a clever cobbler's apprentice named Skuba killed it by feeding it a sheep stuffed with sulphur. The dragon drank from the Vistula until it burst. A fire-breathing sculpture of the dragon by Bronisław Chromy stands at the cave entrance and breathes real fire (natural gas) every few minutes."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wawel-castle.webp",
+    "alt": "Wawel Royal Castle above the Vistula River at dawn, with the cathedral dome and fortifications visible",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wawel-castle.webp",
+  "instagram_tag": "#wawelcastle",
+  "meta_title": "Wawel Royal Castle Kraków: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Wawel Royal Castle in Kraków — Poland's most important historic monument with the Renaissance courtyard, Flemish tapestries and royal cathedral. Book tickets online.",
+  "tags": [
+    "renaissance",
+    "royal-residence",
+    "unesco",
+    "instagram-worthy",
+    "city-centre"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "central-europe-royal-castles"
+  ],
+  "nearby_castles": [
+    "malbork-castle"
+  ],
+  "gyg_location_id": "527",
+  "gyg_search_query": "Wawel Castle Krakow guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

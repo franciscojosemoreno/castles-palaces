@@ -1,0 +1,82 @@
+{
+  "id": "golubac-fortress",
+  "name": "Golubac Fortress",
+  "local_name": "Голубачка тврђава",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 150000,
+  "country": "serbia",
+  "region": "Braničevo District",
+  "nearest_city": "Požarevac",
+  "address": "Golubac, 12223 Golubac, Serbia",
+  "lat": 44.6558,
+  "lng": 21.6267,
+  "unesco": false,
+  "year_built": 1336,
+  "architectural_style": "Medieval Serbian / Hungarian",
+  "opening_hours": {
+    "monday": "09:00–19:00",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–19:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Open daily May to October. Reduced hours November to April. Modern visitor centre on site."
+  },
+  "price_adult": 5,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.golubackatvrdjava.rs",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to October",
+  "accessibility": "Partially accessible — lower visitor centre accessible; fortress towers involve stairs",
+  "booking_advance_days": 0,
+  "tagline": "A medieval river fortress guarding the Iron Gates gorge of the Danube",
+  "highlights": [
+    "One of the most spectacularly positioned medieval fortresses in Europe",
+    "Rises directly from the Danube at the entrance to the Iron Gates gorge",
+    "Nine towers visible from the river — a jaw-dropping approach by boat",
+    "Thoroughly restored with a modern visitor centre (2019)",
+    "Fought over by Serbs, Hungarians, and Ottomans across two centuries"
+  ],
+  "description": "Golubac Fortress is one of the most dramatically positioned medieval fortresses in Europe — nine towers rising directly from the rocky shore of the Danube at the very entrance to the Iron Gates gorge, where the river narrows between sheer cliffs. Built in the 14th century and contested bitterly by Serbian despots, Hungarian kings, and Ottoman sultans across two centuries of Balkan power struggles, the fortress finally fell to the Ottomans in 1458. For centuries it was partially submerged as the Danube level rose after the Iron Gates dam construction in 1972; major restoration work completed in 2019 has returned it to spectacular condition with a modern visitor centre and walkable towers. A river cruise or boat trip from Donji Milanovac remains the most dramatic way to approach the fortress, revealing all nine towers rising from the water.",
+  "history": "First documented in 1336 as a Serbian stronghold, Golubac was a key prize in the struggles between the medieval Kingdom of Serbia, the Kingdom of Hungary, and the expanding Ottoman Empire. It changed hands multiple times before the Ottomans took permanent control in 1458. Under Ottoman rule it remained an active garrison. In the 20th century the completion of the Đerdap hydroelectric dam raised the Danube level, partially submerging the lower towers for decades. The Serbian government undertook major restoration from 2014, completed in 2019, including structural consolidation, walkways, and a visitor centre.",
+  "how_to_visit": "Golubac town is 100 km east of Požarevac on the E770. By car from Belgrade the drive takes about 2 hours via the Danube road. River cruises on the Danube stop at Golubac — the approach by water is the most dramatic. The Iron Gates National Park (Đerdap) extends along the Danube from Golubac, with the Roman Trajan's Plaque and Lepenski Vir prehistoric site along the route.",
+  "faqs": [
+    {
+      "question": "Why is the fortress partially in the water?",
+      "answer": "The 1972 completion of the Iron Gates (Đerdap) hydroelectric dam raised the Danube water level by several metres, submerging the lower sections. The 2019 restoration raised retaining walls to protect the towers from the water."
+    },
+    {
+      "question": "Can I arrive by boat?",
+      "answer": "Yes — river taxis and cruise boats from Donji Milanovac offer the most spectacular approach, with all nine towers visible rising from the river as you approach."
+    },
+    {
+      "question": "What is the Iron Gates?",
+      "answer": "The Iron Gates (Đerdap) is a dramatic gorge where the Danube cuts through the Carpathian Mountains between Serbia and Romania, forming one of Europe's great natural landscapes — now a national park on both sides."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/golubac-fortress.webp",
+    "alt": "Golubac Fortress nine towers rising from the Danube at the Iron Gates gorge in Serbia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/golubac-fortress.webp",
+  "instagram_tag": "#golubacfortress",
+  "meta_title": "Golubac Fortress, Serbia — Medieval Towers on the Iron Gates Danube",
+  "meta_description": "Visit Golubac Fortress in Serbia — nine medieval towers rising from the Danube at the Iron Gates gorge, one of Europe's most spectacular fortress sites.",
+  "tags": ["medieval", "serbian-castle", "danube", "iron-gates", "fortress"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["smederevo-fortress", "ram-fortress"],
+  "gyg_location_id": "2701",
+  "gyg_search_query": "Golubac Fortress Iron Gates Serbia tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

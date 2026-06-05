@@ -1,0 +1,89 @@
+{
+  "id": "copenhagen-kronborg-frederiksborg-castles",
+  "slug": "copenhagen-kronborg-frederiksborg-castles",
+  "name": "Kronborg & Frederiksborg Castle Day Trip from Copenhagen",
+  "tagline": "Hamlet's castle and Denmark's most spectacular royal palace — two of the finest in Scandinavia in a single day",
+  "departure_country": "denmark",
+  "departure_city": "Copenhagen",
+  "visited_countries": [
+    "denmark"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 8 hours",
+  "gyg_tour_id": "38371",
+  "price_from": 85,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 2100,
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "French"
+  ],
+  "max_group_size": 20,
+  "overview": "North Zealand holds two of the greatest castles in Scandinavia within 30km of each other. Kronborg — Shakespeare's Elsinore, the setting of Hamlet — guards the narrowest point of the sound between Denmark and Sweden, where every ship sailing between the North Sea and the Baltic paid toll for centuries. Frederiksborg is Denmark's greatest Renaissance palace, built by Christian IV between 1600 and 1620 and now home to the Museum of National History. Together they represent the full range of Danish royal ambition.",
+  "highlights": [
+    "Visit Kronborg Castle — the setting of Shakespeare's Hamlet",
+    "Tour Frederiksborg Palace, Denmark's finest Renaissance castle",
+    "See Kronborg's casemates where Holger Danske is said to sleep",
+    "Round-trip transport from Copenhagen",
+    "Expert guide with Scandinavian history background"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "kronborg-castle",
+      "castle_name": "Kronborg Castle (Elsinore)",
+      "duration": "2 hours",
+      "description": "Tour the UNESCO World Heritage fortress at Helsingør. The castle that inspired Shakespeare's Hamlet — though the Danish prince Amleth predates the play by centuries. Walk the ramparts above the Øresund, descend into the dark casemates where the statue of the sleeping hero Holger Danske awaits Denmark's hour of need, and tour the state rooms including the Great Hall — one of the longest in northern Europe."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Frederiksborg Palace",
+      "duration": "2 hours",
+      "description": "Denmark's most lavish royal castle, built on three islets in a lake and reflected perfectly in the still water. Christian IV's baroque palace of red brick and copper roofs houses the Museum of National History — 90 rooms of portraits, furniture, and silverware spanning 500 years of Danish history. The castle church with its original Compenius organ (1610) is one of the finest in Scandinavia."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Copenhagen",
+    "Expert guide",
+    "Kronborg Castle entry",
+    "Frederiksborg Palace entry"
+  ],
+  "excluded": [
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Copenhagen city centre — confirmed at booking",
+  "tips": [
+    "Kronborg's casemates are cold and dark year-round — bring a light jacket even in summer",
+    "The view of Kronborg from the ferry to Sweden is the most iconic — consider a brief crossing",
+    "Frederiksborg is at its most dramatic in winter when the lake reflects the lit palace windows",
+    "Combine with a Roskilde Cathedral visit (Viking ship museum) for a complete day in North Zealand"
+  ],
+  "faqs": [
+    {
+      "question": "Did Shakespeare ever visit Kronborg?",
+      "answer": "Almost certainly not — but English players performed there regularly in the late 16th century, and their reports of the castle almost certainly informed his imagination. The Danish prince Amleth (the original Hamlet) appears in Scandinavian legend from the 13th century."
+    },
+    {
+      "question": "Who is Holger Danske?",
+      "answer": "A legendary Danish hero said to be sleeping in Kronborg's casemates, ready to wake and defend Denmark in its hour of greatest need. Hans Christian Andersen wrote a famous story about him, and the name was adopted by the Danish resistance movement in World War II."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/kronborg-frederiksborg-castles.webp",
+    "alt": "Kronborg Castle rising above the Øresund strait at dawn, Sweden visible on the far shore",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Kronborg & Frederiksborg Castle Day Trip from Copenhagen | Castles & Palaces",
+    "description": "Visit Kronborg Castle (Hamlet's Elsinore) and Frederiksborg Palace on a day trip from Copenhagen. Both entry fees included. From €85 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/copenhagen-l12/grand-day-trip-around-copenhagen-t38371/"
+}

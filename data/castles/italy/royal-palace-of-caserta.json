@@ -1,0 +1,82 @@
+{
+  "id": "royal-palace-of-caserta",
+  "name": "Royal Palace of Caserta",
+  "local_name": "Reggia di Caserta",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 900000,
+  "country": "italy",
+  "region": "Campania",
+  "nearest_city": "Naples",
+  "address": "Viale Douhet, 2, 81100 Caserta CE, Italy",
+  "lat": 41.0739,
+  "lng": 14.3262,
+  "unesco": true,
+  "year_built": 1752,
+  "architectural_style": "Baroque / Neoclassical",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–19:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Last admission one hour before closing. Gardens open until sunset. Closed Tuesdays in winter."
+  },
+  "price_adult": 16,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.reggiadicaserta.beniculturali.it",
+  "visit_duration": "3–5 hours",
+  "best_season": "Year-round",
+  "accessibility": "Good — lifts available in the palace; main garden avenue flat and accessible",
+  "booking_advance_days": 2,
+  "tagline": "Italy's Versailles — the largest royal palace in the world by volume",
+  "highlights": [
+    "UNESCO World Heritage Site",
+    "Largest royal palace in the world by volume",
+    "Grand Baroque staircase — one of the most spectacular in Europe",
+    "3-km formal garden with cascading waterfall and fountains",
+    "Filming location for Star Wars: The Phantom Menace and Mission Impossible 3"
+  ],
+  "description": "The Reggia di Caserta is Italy's answer to Versailles and by volume the largest royal palace ever built. Commissioned by Charles III of Bourbon in 1752 and designed by Luigi Vanvitelli, the palace contains 1,200 rooms, 1,742 windows, and 34 staircases spread across a facade 250 metres wide. The interior is an overwhelming procession of Baroque and Neoclassical state apartments — the Royal Apartments, Throne Room, and palatial chapel among the most ornate in the world. Behind the palace, a formal garden stretches 3 kilometres up a gentle slope punctuated by fountains, cascades, pools, and an enormous waterfall fed by a 40-km aqueduct. A UNESCO World Heritage Site since 1997, the Reggia draws nearly a million visitors a year and doubles as a film location for productions including Star Wars, Mission Impossible, and numerous Italian films.",
+  "history": "King Charles VII of Naples (later Charles III of Spain) commissioned the palace in 1751 as a new royal capital removed from the coastal vulnerability of Naples. Luigi Vanvitelli designed the vast complex; construction ran from 1752 and continued under his son Carlo after his death. The palace was completed under Ferdinand IV in 1845. It served as the seat of the Neapolitan Bourbons until Italian unification in 1861, when it became a royal residence of the Savoy dynasty. The German High Command used it as headquarters in World War II; the Italian surrender was signed here in April 1945.",
+  "how_to_visit": "Caserta is 35 km north of Naples and reachable by frequent Trenitalia trains from Naples Centrale (35–45 min). The palace is a 10-minute walk from Caserta station. To see the full garden, rent a bicycle or take the shuttle inside the grounds. Allow at least half a day; a full day is ideal to cover palace and gardens.",
+  "faqs": [
+    {
+      "question": "How does the Reggia compare to Versailles in size?",
+      "answer": "The Reggia di Caserta exceeds Versailles in total floor area and is considered the largest palace in the world by volume, with 235,000 square metres of floor space."
+    },
+    {
+      "question": "How long is the garden?",
+      "answer": "The main garden axis runs 3 kilometres from the palace rear to the Grand Cascade waterfall, making it one of the longest formal garden vistas in Europe."
+    },
+    {
+      "question": "Was it really used in Star Wars?",
+      "answer": "Yes — the palace exteriors and interiors appeared in Star Wars Episode I: The Phantom Menace as the royal palace of Naboo."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/royal-palace-of-caserta.webp",
+    "alt": "The Royal Palace of Caserta with its grand fountain gardens stretching to the cascade",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/royal-palace-of-caserta.webp",
+  "instagram_tag": "#reggiadicaserta",
+  "meta_title": "Royal Palace of Caserta, Italy — World's Largest Royal Palace",
+  "meta_description": "Visit the Reggia di Caserta near Naples — a UNESCO World Heritage Baroque palace with 1,200 rooms and 3 km of formal gardens. Italy's Versailles.",
+  "tags": ["baroque", "unesco-world-heritage", "palace", "campania", "bourbon"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["palazzo-dei-normanni"],
+  "gyg_location_id": "2509",
+  "gyg_search_query": "Royal Palace Caserta tour from Naples",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,104 @@
+{
+  "id": "belfast-carrickfergus-dunluce-giants-causeway",
+  "slug": "belfast-carrickfergus-dunluce-giants-causeway",
+  "name": "From Belfast: Carrickfergus Castle, Dunluce & Giant's Causeway",
+  "tagline": "900 years of Norman conquest and a cliff-edge ruin so extreme its kitchen fell into the sea during a dinner party — the most dramatic castle coast in the British Isles",
+  "departure_country": "northern-ireland",
+  "departure_city": "Belfast",
+  "visited_countries": [
+    "northern-ireland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "165257",
+  "gyg_url": "https://www.getyourguide.com/belfast-l442/from-belfast-giant-s-causeway-guided-day-tour-with-castles-t165257/",
+  "price_from": 32,
+  "currency": "GBP",
+  "rating": 4.7,
+  "review_count": 2100,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "The Antrim coast of Northern Ireland has one of the most concentrated castle landscapes in the British Isles — and two of its fortifications are unlike anything else in Europe. Carrickfergus Castle, at the mouth of Belfast Lough, is the best-preserved Norman castle in Ireland: a massive grey keep built by John de Courcy in 1177, still virtually complete, that has been in almost continuous military use for 800 years. Dunluce Castle, on a basalt sea stack above the Atlantic near Bushmills, is the most vertiginously positioned ruin in the British Isles: a 13th-century stronghold perched on a detached rock column accessible only by a narrow rock bridge, whose outer defenses drop 30 metres directly into the sea. Part of the castle's kitchen collapsed into the cave below during a dinner party in 1639 — taking the kitchen staff with it. Between these two castles, the Antrim coast drive passes waterfalls, dark basalt cliffs and the ruins of abbeys, before arriving at the Giant's Causeway — 40,000 perfectly hexagonal basalt columns formed by a volcanic eruption 60 million years ago, stepping down into the Atlantic like a giant's staircase.",
+  "highlights": [
+    "Carrickfergus Castle — the best-preserved Norman castle in Ireland, built in 1177, in continuous military use for 800 years",
+    "Dunluce Castle — Northern Ireland's most spectacular ruin, perched on a basalt sea stack above the Atlantic, with a kitchen that fell into the sea in 1639",
+    "Giant's Causeway (UNESCO) — 40,000 hexagonal basalt columns stepping into the Atlantic, formed 60 million years ago",
+    "The Antrim Coastal Road — one of the most scenic drives in Europe, passing waterfalls, dark basalt cliffs and ruined abbeys",
+    "Game of Thrones filming locations — the Antrim coast doubled as Westeros in multiple seasons (Dark Hedges, Ballintoy Harbour, Dunluce as the Red Keep)",
+    "Bushmills Distillery — the world's oldest licensed whiskey distillery (1608), two miles from Dunluce Castle"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Carrickfergus Castle",
+      "duration": "1 hour",
+      "description": "Carrickfergus Castle was built by John de Courcy, the Anglo-Norman adventurer who invaded and conquered Ulster in 1177 — one of the most audacious individual military campaigns in medieval Irish history. De Courcy arrived from England with a small force, defeated the Ulster king at the Battle of Down, and carved out a personal kingdom in northeast Ireland, building Carrickfergus as his headquarters on the shore of Belfast Lough. The castle's keep — four storeys of grey basalt, still complete with its original battlements — is one of the finest Norman keeps in the British Isles. The guide covers the castle's remarkable history: King John of England (the Magna Carta king) besieged it in 1210; Edward Bruce of Scotland seized it in 1316 during the Bruce invasion of Ireland; William III landed nearby in 1690 on his way to the Battle of the Boyne. The castle was in military use until 1928."
+    },
+    {
+      "order": 2,
+      "castle_name": "Antrim Coast Drive",
+      "duration": "1.5 hours driving",
+      "description": "The Antrim Coastal Road, built in the 1830s as a famine relief project, follows the basalt cliffs north from Larne through a landscape of waterfalls, raised beaches and ruined abbeys. The guide covers the geological story — the Antrim plateau is one of the largest basalt formations in the world, created by the same volcanic episode that formed the Giant's Causeway 60 million years ago — and the medieval history of the Glens of Antrim, which were controlled by the MacDonnell clan (later the Earls of Antrim) who imported Scottish gallowglass warriors from the Western Isles to fight the English. Pass the ruins of Glenarm Castle, the Layde Church ruins where the MacDonnells are buried, and the Dark Hedges — the beech tree avenue filmed as the King's Road in Game of Thrones."
+    },
+    {
+      "order": 3,
+      "castle_name": "Dunluce Castle",
+      "duration": "1.5 hours",
+      "description": "Dunluce Castle stands on a detached basalt sea stack at the edge of the Antrim plateau, connected to the mainland by a narrow rock bridge over a 30-metre drop to the cave and sea below. The castle was the seat of the MacDonnell clan — the most powerful lords of northeast Ireland — and was built in the 13th century, expanded in the 15th and 16th centuries, and finally abandoned in the late 17th century after the clan's power collapsed. The most famous incident in the castle's history: in 1639, during a dinner party, the castle's kitchen — built overhanging the sea cave below — collapsed into the cave, taking an unknown number of kitchen staff with it. The Countess of Antrim reportedly never returned to Dunluce after this. The ruins are the most dramatically positioned in Ireland: the outer ward walls drop vertically into the sea cave, the inner ward towers overlook the Atlantic, and the entire basalt stack is isolated from the mainland on three sides by the sea."
+    },
+    {
+      "order": 4,
+      "castle_name": "Giant's Causeway",
+      "duration": "1.5 hours",
+      "description": "The Giant's Causeway — UNESCO World Heritage Site — is a formation of approximately 40,000 interlocking basalt columns stepping down from the cliff face into the North Atlantic. The columns were formed 60 million years ago when a massive lava flow cooled and contracted into regular hexagonal shapes with extraordinary geometric precision: most are hexagonal, but some have four, five, seven or eight sides. The guide covers both the geological explanation (Paleocene volcanic activity) and the legend: the Irish giant Finn MacCool supposedly built the causeway as a path to Scotland so he could fight his Scottish rival Benandonner — who was so terrified when he saw Finn's size that he fled back across the sea, tearing up the causeway behind him."
+    }
+  ],
+  "included": [
+    "Return transport from Belfast",
+    "Professional English-speaking guide throughout",
+    "Carrickfergus Castle entry",
+    "Giant's Causeway entry (National Trust)",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Dunluce Castle entry (~£5 — historic monument entry fee)",
+    "Bushmills Distillery tour (optional, ~£15 — 2 miles from Dunluce)",
+    "Lunch (free time at Bushmills or Dunluce area)",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Belfast city centre — exact departure point confirmed at booking",
+  "tips": [
+    "The Giant's Causeway is best visited at the far end of the cliff path, away from the main access point — walk to the Shepherd's Steps viewpoint for the best perspective on the full scale of the formation",
+    "Bushmills Distillery (1608) is two miles from Dunluce Castle and offers tours ending in tasting — if the tour schedule allows, it is highly recommended",
+    "The Dark Hedges (a beech tree avenue used as the King's Road in Game of Thrones) is 2 miles from Dunluce — ask your guide if a stop is possible",
+    "The Antrim coast is notoriously changeable in weather — dress in layers and bring waterproofs regardless of the forecast. The light when it's dramatic is extraordinary."
+  ],
+  "faqs": [
+    {
+      "question": "Is the story about the kitchen falling into the sea real?",
+      "answer": "Yes — the collapse of Dunluce Castle's kitchen into the sea cave below is a documented historical event, recorded in a 1639 letter. The kitchen had been built overhanging the cave on a section of the outer ward wall, and the combination of the cave undermining the foundations and structural weakness caused the collapse during a meal. Contemporary accounts mention the loss of kitchen staff; the Countess of Antrim is recorded as having refused to return to the castle afterward. Archaeologists excavating the cave have found kitchen debris and artefacts consistent with the collapse."
+    },
+    {
+      "question": "What Game of Thrones scenes were filmed on the Antrim coast?",
+      "answer": "The Antrim coast served as multiple Game of Thrones locations: the Dark Hedges was used as the King's Road (Season 2); Ballintoy Harbour doubled as the Iron Islands' Lordsport Harbour; Murlough Bay was used for multiple Wildling scenes; Dunluce Castle's exterior inspired the design of the Red Keep in King's Landing; and the entire Antrim plateau landscape was used in various Westeros establishing shots. Northern Ireland was the primary filming location for the series for most of its run."
+    },
+    {
+      "question": "How old is Carrickfergus Castle and why is it so well preserved?",
+      "answer": "Carrickfergus Castle was begun in 1177 — making it nearly 850 years old — and is the best-preserved Norman castle in Ireland. Its exceptional condition is due to continuous military use: the castle was a garrison post under British control until 1928, meaning it was maintained and repaired throughout its entire existence rather than falling into ruin. Unlike most medieval castles that were abandoned after the introduction of artillery rendered them obsolete, Carrickfergus was continuously upgraded and used as a military prison, barracks and storehouse for 750 years."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/belfast-carrickfergus-dunluce-giants-causeway.webp",
+    "alt": "Dunluce Castle perched on its basalt sea stack above the Atlantic, County Antrim",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Belfast: Carrickfergus Castle, Dunluce & Giant's Causeway – Antrim Coast Day Tour",
+    "description": "Full-day tour from Belfast to the Antrim coast — the best-preserved Norman castle in Ireland, the most dramatically positioned castle ruin in the British Isles, and the UNESCO Giant's Causeway."
+  }
+}

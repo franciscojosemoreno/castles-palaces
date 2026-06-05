@@ -1,0 +1,82 @@
+{
+  "id": "alnwick-castle",
+  "name": "Alnwick Castle",
+  "local_name": "Alnwick Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 600000,
+  "country": "england",
+  "region": "Northumberland",
+  "nearest_city": "Newcastle upon Tyne",
+  "address": "Alnwick, Northumberland, NE66 1NQ, England",
+  "lat": 55.4152,
+  "lng": -1.7046,
+  "unesco": false,
+  "year_built": 1096,
+  "architectural_style": "Norman / Gothic Revival",
+  "opening_hours": {
+    "monday": "10:00–17:30",
+    "tuesday": "10:00–17:30",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "10:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Open daily April to October. Last admission 1 hour before closing. Closed November to March except for special events."
+  },
+  "price_adult": 17,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://www.alnwickcastle.com",
+  "visit_duration": "3–4 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — state rooms on main level; some areas have steps",
+  "booking_advance_days": 0,
+  "tagline": "Harry Potter's Hogwarts filming location and the seat of the Percy Dukes of Northumberland",
+  "highlights": [
+    "Filming location for Harry Potter (Hogwarts exterior, broomstick lessons)",
+    "One of the largest inhabited castles in England",
+    "State rooms with Meissen porcelain, Titian and Canaletto paintings",
+    "Alnwick Garden — one of Britain's most visited contemporary gardens",
+    "Home of the Percy family, Dukes of Northumberland, for 700 years"
+  ],
+  "description": "Alnwick Castle is one of the largest inhabited castles in England and one of the most recognisable in the world, thanks to its appearance as Hogwarts School of Witchcraft and Wizardry in the first two Harry Potter films. Seat of the Percy family — the Dukes of Northumberland — for over 700 years, the castle has played a central role in the history of the English-Scottish borderlands. The interior houses spectacular state rooms filled with Old Master paintings by Titian, Canaletto, and Van Dyck, Meissen porcelain, and medieval weapons. Beyond the castle walls, the world-class Alnwick Garden draws visitors with its Grand Cascade, Poison Garden, and spectacular treehouse restaurant. The castle remains a family home — the Duke and Duchess of Northumberland still reside here.",
+  "history": "A castle was built at Alnwick by Yves de Vescy, Baron of Alnwick, in 1096. It was acquired by Henry Percy in 1309 and has remained in Percy family ownership ever since. The Percys were one of the most powerful noble families in medieval England — the 'Hotspur' Percy was a major figure in the Wars of the Roses. The castle was extensively restored in the 18th and 19th centuries, first in Gothic style and later in the Italianate manner under the 4th Duke. Harry Potter filming began in 2000, transforming visitor numbers.",
+  "how_to_visit": "Alnwick is 55 km north of Newcastle, served by regular buses from Newcastle (1h15) and by train to Alnmouth station (5 km, taxi connection). The castle and Alnwick Garden are separate ticketed attractions a 10-minute walk apart. The town of Alnwick itself is charming, with a famous second-hand bookshop (Barter Books) in the Victorian railway station worth a visit.",
+  "faqs": [
+    {
+      "question": "Is Alnwick the real Hogwarts?",
+      "answer": "Alnwick Castle's exterior and courtyard appeared as Hogwarts in Harry Potter and the Philosopher's Stone (2001) and Chamber of Secrets (2002), including the famous broomstick flying lessons scene."
+    },
+    {
+      "question": "Is the Alnwick Garden included in the castle ticket?",
+      "answer": "No — the castle and Alnwick Garden are separate admissions, though combination tickets are available and are strongly recommended."
+    },
+    {
+      "question": "Do the Duke and Duchess still live there?",
+      "answer": "Yes — Alnwick Castle remains the family home of the Duke and Duchess of Northumberland, making it one of England's largest inhabited private residences."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alnwick-castle.webp",
+    "alt": "Alnwick Castle seen across the River Aln in Northumberland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alnwick-castle.webp",
+  "instagram_tag": "#alnwickcastle",
+  "meta_title": "Alnwick Castle, Northumberland — Harry Potter's Hogwarts & Percy Family Seat",
+  "meta_description": "Visit Alnwick Castle in Northumberland — Harry Potter's Hogwarts filming location with state rooms, Old Masters, and the world-class Alnwick Garden.",
+  "tags": ["norman", "english-castle", "northumberland", "harry-potter", "inhabited"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["bamburgh-castle"],
+  "gyg_location_id": "2554",
+  "gyg_search_query": "Alnwick Castle Harry Potter tour Northumberland",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

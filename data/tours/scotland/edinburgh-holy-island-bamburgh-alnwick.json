@@ -1,0 +1,104 @@
+{
+  "id": "edinburgh-holy-island-bamburgh-alnwick",
+  "slug": "edinburgh-holy-island-bamburgh-alnwick",
+  "name": "Edinburgh: Holy Island, Bamburgh Castle & Alnwick Day Trip",
+  "tagline": "Three legendary fortresses of the Northumbrian coast — Lindisfarne, Bamburgh and Harry Potter's castle",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland",
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "12659",
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/holy-island-bamburgh-alnwick-castle-t12659/",
+  "price_from": 45,
+  "currency": "GBP",
+  "rating": 4.7,
+  "review_count": 3820,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "Cross the border into Northumberland for three of the most dramatic historic sites on Britain's northeast coast. Holy Island (Lindisfarne) is connected to the mainland by a tidal causeway — a place of pilgrimage since AD 635, where the Lindisfarne Gospels were illuminated and Viking raids began Britain's medieval trauma. Bamburgh Castle rises from a basalt crag above the North Sea and was the ancient capital of the Northumbrian kingdom. And Alnwick Castle — Harry Potter's Hogwarts for exterior scenes, Downton Abbey's Brancaster — remains the seat of the Percy family, Dukes of Northumberland, who have held it since 1309. Three different eras of British history, all within 50 miles of Edinburgh.",
+  "highlights": [
+    "Holy Island (Lindisfarne) — birthplace of British Christianity and the Lindisfarne Gospels",
+    "Lindisfarne Castle: a Tudor fort perched on a volcanic plug above the island harbour",
+    "Bamburgh Castle: Britain's most impressive coastal fortress, ancient capital of Northumbria",
+    "Alnwick Castle: filming location for Harry Potter (Hogwarts) and Downton Abbey",
+    "The tidal causeway crossing — a reminder that Holy Island was genuinely cut off by the sea",
+    "Expert guide covering the story from the first monks to the Viking raids to the Percy dynasty"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Edinburgh Departure",
+      "duration": "Travel south (1.5 hours)",
+      "description": "Head south across the Scottish border into Northumberland. The guide introduces the Northumbrian kingdom — the most powerful Anglo-Saxon state in 7th-century Britain, stretching from Edinburgh to the Humber — and explains why this coastline saw both the birth of English Christianity and the first Viking raids."
+    },
+    {
+      "order": 2,
+      "castle_name": "Holy Island (Lindisfarne)",
+      "duration": "2 hours",
+      "description": "Cross the tidal causeway to Holy Island, checking tide tables as medieval pilgrims once did. Explore the ruins of the 12th-century Lindisfarne Priory, built on the site of the original monastery founded by St Aidan in 635. Visit Lindisfarne Castle — a Tudor artillery fort converted by Edwin Lutyens into a private house in 1903 — perched on a basalt crag with views across the Farne Islands. Try the island's legendary mead, still made to a monastic recipe."
+    },
+    {
+      "order": 3,
+      "castle_name": "Bamburgh Castle",
+      "duration": "1.5 hours",
+      "description": "Drive south along the Northumberland coast to Bamburgh, where a vast Norman castle occupies the basalt crag that was the ancient capital of the kingdom of Bernicia. The guide covers the castle's role in the Wars of the Roses (the first English castle taken by artillery in 1464) and its restoration by Victorian industrialist William Armstrong. The beach below Bamburgh is one of England's finest — Bamburgh Castle reflected in the tidal pools has become one of Britain's most photographed images."
+    },
+    {
+      "order": 4,
+      "castle_name": "Alnwick Castle",
+      "duration": "1.5 hours",
+      "description": "The second largest inhabited castle in England after Windsor, Alnwick has been home to the Percy family — Earls and Dukes of Northumberland — since 1309. The exterior is recognizable worldwide as Hogwarts in the first two Harry Potter films. The interior houses one of England's finest private art collections including works by Titian and Canaletto. The guide explains the Percy family's extraordinary role in English history — Henry 'Hotspur' Percy, who inspired Shakespeare's character, was born here."
+    }
+  ],
+  "included": [
+    "Return transport from Edinburgh",
+    "Professional English-speaking guide",
+    "Lindisfarne Castle entry (National Trust)",
+    "Lindisfarne Priory entry",
+    "Small group (max 16)"
+  ],
+  "excluded": [
+    "Alnwick Castle interior entry (optional, ~£18 — exterior and gardens included)",
+    "Lunch (free time at Alnwick)",
+    "Mead tasting on Holy Island (optional)"
+  ],
+  "meeting_point": "Edinburgh city centre — exact location confirmed at booking",
+  "tips": [
+    "The Holy Island causeway is tidal — the tour is timed to cross safely, but arriving independently requires checking tide tables",
+    "Bamburgh beach is one of England's best — bring a camera and expect extraordinary light in the afternoon",
+    "Alnwick Garden (separate from the castle) is worth the extra time if you have it — the Poison Garden alone is extraordinary",
+    "Book months ahead for summer — maximum 16 guests and this sells out fast"
+  ],
+  "faqs": [
+    {
+      "question": "What is the Holy Island tidal causeway?",
+      "answer": "A road across the tidal flats that is passable for approximately 5-6 hours around low tide. When the tide comes in, the island is completely cut off by sea — exactly as it was in medieval times."
+    },
+    {
+      "question": "Can I go inside Alnwick Castle?",
+      "answer": "The exterior, grounds and state rooms are included in the castle entry. The full interior tour costs extra but is highly recommended — the Percy family's art collection rivals any English stately home."
+    },
+    {
+      "question": "Which Harry Potter scenes were filmed at Alnwick?",
+      "answer": "The exterior Hogwarts scenes including the broomstick flying lesson (Philosopher's Stone) and the Whomping Willow scenes (Chamber of Secrets) were filmed in the outer bailey."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-holy-island-bamburgh-alnwick.webp",
+    "alt": "Bamburgh Castle rising from its basalt crag above the Northumberland coast",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Edinburgh: Holy Island, Bamburgh & Alnwick Castle Day Trip",
+    "description": "Day trip from Edinburgh to three legendary Northumbrian fortresses — Holy Island, Bamburgh Castle and Alnwick (Harry Potter's Hogwarts). Small group, expert guide."
+  }
+}

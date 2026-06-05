@@ -1,0 +1,82 @@
+{
+  "id": "moritzburg-castle",
+  "name": "Moritzburg Castle",
+  "local_name": "Schloss Moritzburg",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 400000,
+  "country": "germany",
+  "region": "Saxony",
+  "nearest_city": "Dresden",
+  "address": "Schloßallee 1, 01468 Moritzburg, Germany",
+  "lat": 51.1588,
+  "lng": 13.6800,
+  "unesco": false,
+  "year_built": 1542,
+  "architectural_style": "Baroque",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Extended to 18:00 April to October. Closed Mondays November to March. Famous Christmas exhibition runs November to February."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.schloss-moritzburg.de",
+  "visit_duration": "2 hours",
+  "best_season": "Year-round",
+  "accessibility": "Partially accessible — ground floor accessible; upper floors have stairs",
+  "booking_advance_days": 0,
+  "tagline": "A Baroque hunting palace rising like a mirage from a Saxon lake",
+  "highlights": [
+    "Four round towers perfectly reflected in the surrounding lake",
+    "One of the most photogenic palaces in Germany",
+    "Magnificent Baroque hunting rooms with antler decorations",
+    "The world's largest antler in the palace collections",
+    "Famous Cinderella Christmas exhibition (November to February)"
+  ],
+  "description": "Schloss Moritzburg is one of the most photogenic palaces in Germany — a four-towered Baroque hunting palace rising from an artificial island in the middle of a lake, its reflection shimmering in the water on calm mornings. Built as a hunting lodge by Duke Moritz of Saxony in 1542 and completely rebuilt by Augustus the Strong between 1723 and 1736, the palace became his favoured hunting retreat and the site of legendary royal hunts. The Baroque interior is lavishly decorated with hunting trophies, red velvet, and gilded leather wallcoverings; the collection includes what is claimed to be the world's largest antler, with a 24-point spread. In winter the palace hosts a famous Cinderella Christmas exhibition that draws visitors from across Europe.",
+  "history": "The original hunting lodge was built for Duke Moritz in 1542. It was completely rebuilt in Baroque style for Augustus the Strong, Elector of Saxony, between 1723 and 1736, with the surrounding lake artificially enlarged to create the island setting. The palace hosted spectacular baroque court hunts attended by thousands. After the death of Augustus it was used less frequently and fell into some disrepair before thorough restoration in the 20th century.",
+  "how_to_visit": "Moritzburg is 14 km north-west of Dresden. Take tram 12 from Dresden to Radebeul Ost, then the historic narrow-gauge steam train to Moritzburg — a delightful 50-minute journey. By car, take the B6 north from Dresden. The palace and its park make an easy half-day trip from Dresden.",
+  "faqs": [
+    {
+      "question": "Why is the castle built on water?",
+      "answer": "Augustus the Strong had the surrounding area flooded to create a lake around the existing palace, giving it the romantic island appearance it has today."
+    },
+    {
+      "question": "What is the Cinderella exhibition?",
+      "answer": "Each winter the palace recreates the fairy-tale atmosphere of the 1973 East German Cinderella film, which was shot at Moritzburg — one of the most beloved Christmas films in Germany."
+    },
+    {
+      "question": "Can I take the steam train from Dresden?",
+      "answer": "Yes — the Lößnitzgrundbahn, a historic narrow-gauge steam railway, runs between Radebeul (near Dresden) and Moritzburg, and is a highlight of the visit in itself."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/moritzburg-castle.webp",
+    "alt": "Moritzburg Baroque palace reflected in the surrounding lake in Saxony",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/moritzburg-castle.webp",
+  "instagram_tag": "#schlossmoritzburg",
+  "meta_title": "Moritzburg Castle, Saxony — Baroque Palace on a Lake near Dresden",
+  "meta_description": "Visit Moritzburg Palace near Dresden — a Baroque hunting palace rising from a lake, with ornate interiors and a famous Cinderella Christmas exhibition.",
+  "tags": ["baroque", "german-castle", "saxony", "palace", "hunting-lodge"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["albrechtsburg-castle"],
+  "gyg_location_id": "2478",
+  "gyg_search_query": "Moritzburg Palace tour from Dresden",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

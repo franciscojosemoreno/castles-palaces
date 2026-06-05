@@ -1,0 +1,82 @@
+{
+  "id": "cardona-castle",
+  "name": "Cardona Castle",
+  "local_name": "Castell de Cardona",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 120000,
+  "country": "spain",
+  "region": "Catalonia, Bages",
+  "nearest_city": "Manresa",
+  "address": "Carrer del Castell, s/n, 08261 Cardona, Barcelona, Spain",
+  "lat": 41.9112,
+  "lng": 1.6868,
+  "unesco": false,
+  "year_built": 798,
+  "architectural_style": "Carolingian and Romanesque",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Extended to 20:00 on Saturdays in summer. Closed Mondays year-round."
+  },
+  "price_adult": 6,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.castelldecardona.cat",
+  "visit_duration": "1–2 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — outer grounds accessible; tower interiors have steps",
+  "booking_advance_days": 0,
+  "tagline": "A Carolingian fortress and Romanesque jewel rising above the salt mountains",
+  "highlights": [
+    "One of the oldest Carolingian castles in Catalonia",
+    "Romanesque Collegiate Church of Sant Vicenç inside the walls",
+    "Parador hotel occupying the castle buildings",
+    "Spectacular views over the Cardoner valley and salt mountain",
+    "Site of the Dukes of Cardona, one of Catalonia's most powerful medieval dynasties"
+  ],
+  "description": "Cardona Castle crowns an isolated hill above the Cardoner River valley in the Catalan pre-Pyrenees, its silhouette unmistakable for miles around. First fortified in Carolingian times, the castle reached its peak as the seat of the Viscounts and later Dukes of Cardona — one of the most powerful dynasties in medieval Catalonia, whose motto 'Neither the King, nor the Count, but the Duke of Cardona' speaks to their independent authority. Within the walls stands the exquisite Romanesque Collegiate Church of Sant Vicenç (1019), considered one of the finest early Romanesque buildings in Spain. The castle complex today houses a Parador hotel in the restored palatial wing, allowing guests to sleep within medieval walls.",
+  "history": "The hill was fortified in pre-Roman times, though the Carolingian castle dates from the late 8th century. The Viscounts of Cardona expanded the complex and built the Collegiate Church in 1019. The castle became the seat of the Duchy of Cardona from the 15th century and was a major player in the politics of Catalonia and Aragon. After the Napoleonic Wars it served as a military barracks before being converted into a state-run Parador hotel in the 1970s.",
+  "how_to_visit": "Cardona is 93 km north of Barcelona via the C-16 motorway. Regular buses run from Barcelona's Estació del Nord to Cardona (1h 45min). The castle hill is a short taxi ride or 30-minute walk from the town centre. Combine with a visit to the adjacent salt mountain (Muntanya de Sal), one of the largest salt deposits in the world.",
+  "faqs": [
+    {
+      "question": "Can I stay overnight in the castle?",
+      "answer": "Yes — the Parador de Cardona operates inside the restored castle buildings, offering hotel rooms with medieval atmosphere and valley views."
+    },
+    {
+      "question": "What is the Collegiate Church of Sant Vicenç?",
+      "answer": "A Romanesque church built in 1019 inside the castle walls, considered one of the finest examples of early Romanesque architecture in Spain."
+    },
+    {
+      "question": "Is the salt mountain nearby?",
+      "answer": "Yes — the Muntanya de Sal, an extraordinary geological salt formation, is immediately adjacent to the castle hill and well worth combining with a visit."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/cardona-castle.webp",
+    "alt": "Cardona Castle rising above the Cardoner valley in Catalonia, Spain",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/cardona-castle.webp",
+  "instagram_tag": "#castelldecardona",
+  "meta_title": "Cardona Castle, Catalonia — Carolingian Fortress & Romanesque Church",
+  "meta_description": "Explore Cardona Castle in Catalonia — a Carolingian hilltop fortress with a Romanesque church, Parador hotel, and views over the salt mountain.",
+  "tags": ["medieval", "romanesque", "carolingian", "catalonia", "parador"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2634",
+  "gyg_search_query": "Cardona castle Barcelona tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

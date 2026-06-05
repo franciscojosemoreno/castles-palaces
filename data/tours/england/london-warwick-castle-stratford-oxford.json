@@ -1,0 +1,99 @@
+{
+  "id": "london-warwick-castle-stratford-oxford",
+  "slug": "london-warwick-castle-stratford-oxford",
+  "name": "Warwick Castle, Stratford-upon-Avon & Oxford Day Trip from London",
+  "tagline": "England's finest medieval castle, Shakespeare's birthplace, and Britain's oldest university — all in one extraordinary day",
+  "departure_country": "england",
+  "departure_city": "London",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 12 hours",
+  "gyg_tour_id": "437",
+  "price_from": 65,
+  "currency": "GBP",
+  "rating": 4.4,
+  "review_count": 14200,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "max_group_size": 53,
+  "overview": "One of GetYourGuide's longest-established European tours — a classic English day trip that has introduced hundreds of thousands of visitors to three of England's greatest destinations. Warwick Castle is the most complete medieval castle in England: built by William the Conqueror, expanded by the Earls of Warwick, and still spectacularly intact with towers you can climb, dungeons you can enter, and great hall you can walk. Add Shakespeare's Stratford and the dreaming spires of Oxford and you have arguably the finest single day out in England.",
+  "highlights": [
+    "Visit Warwick Castle — England's most complete medieval fortress",
+    "Explore Shakespeare's Birthplace in Stratford-upon-Avon",
+    "Walk the historic centre of Oxford",
+    "Drive through the Cotswolds villages",
+    "Round-trip coach from London with multilingual guide"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "warwick-castle",
+      "castle_name": "Warwick Castle",
+      "duration": "2.5 hours",
+      "description": "Tour one of England's best-preserved and most spectacular medieval fortresses. Climb the Caesar's Tower (built 1360) for views over the Avon valley, explore the State Rooms furnished as a Victorian house party of 1898, walk the medieval ramparts, and descend to the dungeon. The castle has been in continuous occupation since William the Conqueror first fortified the site in 1068."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Stratford-upon-Avon",
+      "duration": "1.5 hours",
+      "description": "Free time in the market town where William Shakespeare was born in 1564. Visit the half-timbered house on Henley Street where he grew up, walk to Holy Trinity Church where he is buried, and browse the bookshops and tea rooms lining the medieval streets."
+    },
+    {
+      "order": 3,
+      "castle_id": "",
+      "castle_name": "Oxford",
+      "duration": "1.5 hours",
+      "description": "Walk the centre of the world's second-oldest English-speaking university. See the Bodleian Library (Harry Potter's Hogwarts library), the Radcliffe Camera, Christ Church college, and the Bridge of Sighs. The guide points out the filming locations used in Inspector Morse, Inspector Lewis, and Endeavour."
+    }
+  ],
+  "included": [
+    "Round-trip coach from London",
+    "Expert guide",
+    "Warwick Castle entry"
+  ],
+  "excluded": [
+    "Lunch",
+    "Shakespeare's Birthplace entry (optional)",
+    "Oxford college entries",
+    "Gratuities"
+  ],
+  "meeting_point": "London Victoria or Trafalgar Square area — confirmed at booking",
+  "tips": [
+    "Warwick Castle is the longest stop — allocate your energy accordingly",
+    "The Cotswolds drive between Stratford and Oxford passes some of England's most beautiful villages — have a camera ready",
+    "Oxford is best on foot; the guide covers the highlights efficiently in 1.5 hours",
+    "This tour combines perfectly with the Windsor/Stonehenge/Bath trip for a two-day English classics itinerary"
+  ],
+  "faqs": [
+    {
+      "question": "Is Warwick Castle still a royal castle?",
+      "answer": "No — it is privately owned and operated as a heritage attraction by Merlin Entertainments. The Earls of Warwick held it from the Norman Conquest until 1978, when the 8th Earl sold it to Madame Tussauds. Despite the commercial ownership, the medieval fabric is largely authentic and well preserved."
+    },
+    {
+      "question": "Is there time to visit the inside of Oxford colleges?",
+      "answer": "The free time in Oxford is for the public streets and exterior views. Individual college entries require separate tickets and are not included; the most visually impressive buildings (Bodleian, Radcliffe Camera, Sheldonian) are accessible from outside."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/london-warwick-castle-stratford-oxford.webp",
+    "alt": "Warwick Castle's medieval towers reflected in the River Avon on a clear morning",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Warwick Castle, Stratford & Oxford Day Trip from London | Castles & Palaces",
+    "description": "Visit Warwick Castle, Shakespeare's Stratford and Oxford on a day trip from London. Castle entry included. From £65 per person. 14,000+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/london-l57/warwick-castle-stratford-oxford-cotswolds-day-trip-t437/"
+}

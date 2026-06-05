@@ -1,0 +1,97 @@
+{
+  "id": "london-windsor-stonehenge-bath",
+  "slug": "london-windsor-stonehenge-bath",
+  "name": "Windsor Castle, Stonehenge & Bath Day Trip from London",
+  "tagline": "Britain's oldest royal residence, the world's most famous prehistoric monument, and a Georgian spa city — all in one day",
+  "departure_country": "england",
+  "departure_city": "London",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 12 hours",
+  "gyg_tour_id": "945",
+  "price_from": 85,
+  "currency": "GBP",
+  "rating": 4.5,
+  "review_count": 22100,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German"
+  ],
+  "max_group_size": 53,
+  "overview": "The single most popular day trip from London combines three of England's greatest treasures: Windsor Castle — the oldest inhabited castle in the world and the King's weekend residence — with the prehistoric mystery of Stonehenge and the Roman-Georgian elegance of Bath. One of GetYourGuide's highest-reviewed European day trips with over 22,000 ratings.",
+  "highlights": [
+    "Visit Windsor Castle, the world's oldest inhabited castle",
+    "Stand before Stonehenge with expert guide commentary",
+    "Free time to explore Roman Baths and Georgian Bath",
+    "Round-trip transport from London",
+    "Available in 5 languages"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "windsor-castle",
+      "castle_name": "Windsor Castle",
+      "duration": "1.5 hours",
+      "description": "Explore the State Apartments, St George's Chapel (burial place of 10 monarchs including Henry VIII), and the magnificent Round Tower. The castle has been in continuous royal use for over 900 years."
+    },
+    {
+      "order": 2,
+      "castle_id": "stonehenge",
+      "castle_name": "Stonehenge",
+      "duration": "1 hour",
+      "description": "Stand at one of humanity's greatest architectural achievements — 5,000 years old and still perfectly aligned with the summer solstice sunrise. Guided commentary brings the neolithic world to life."
+    },
+    {
+      "order": 3,
+      "castle_id": "bath-city",
+      "castle_name": "Bath",
+      "duration": "2 hours",
+      "description": "Free time to explore the Roman Baths museum (entry not included), browse the famous Pulteney Bridge, or relax in one of the many Georgian tearooms."
+    }
+  ],
+  "included": [
+    "Round-trip coach from London",
+    "Expert guide",
+    "Windsor Castle entry",
+    "Stonehenge entry"
+  ],
+  "excluded": [
+    "Roman Baths entry (approx £20)",
+    "Lunch and refreshments",
+    "Gratuities"
+  ],
+  "meeting_point": "London Victoria or Trafalgar Square area — confirmed at booking",
+  "tips": [
+    "Arrive 10 minutes before departure — coaches leave on time",
+    "Windsor can be busy — the skip-the-line entry saves 45–60 minutes",
+    "Bath has excellent lunch options near the abbey — plan your stop there"
+  ],
+  "faqs": [
+    {
+      "question": "Is Windsor Castle always open?",
+      "answer": "Windsor occasionally closes for state events. Your guide will confirm access before departure. In rare cases, the exterior and grounds remain accessible."
+    },
+    {
+      "question": "Is Stonehenge entry included?",
+      "answer": "Yes, Stonehenge timed entry is included in the tour price."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/london-windsor-stonehenge-bath.webp",
+    "alt": "Windsor Castle Round Tower reflected in the Thames on a clear morning",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Windsor Castle, Stonehenge & Bath Day Trip from London | Castles & Palaces",
+    "description": "Book the best Windsor, Stonehenge and Bath day trip from London. Entry included. From £85 per person. 22,000+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/london-l57/windsor-roman-baths-and-pump-room-stonehenge-t945/"
+}

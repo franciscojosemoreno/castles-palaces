@@ -1,0 +1,89 @@
+{
+  "id": "buda-castle",
+  "name": "Buda Castle",
+  "local_name": "Budavári Palota",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 1500000,
+  "country": "hungary",
+  "region": "Budapest",
+  "nearest_city": "Budapest",
+  "address": "Szent György tér 2, 1014 Budapest, Hungary",
+  "lat": 47.496,
+  "lng": 19.0399,
+  "unesco": true,
+  "year_built": 1265,
+  "architectural_style": "Medieval origins, comprehensively rebuilt in Baroque style 1715–1770, restored after WW2 damage",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "The castle grounds and terraces are accessible daily. The Hungarian National Gallery and Budapest History Museum within the castle have separate hours (Tue–Sun 10:00–18:00, closed Monday). Check individual institution websites."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.mng.hu/",
+  "visit_duration": "3–4 hours",
+  "best_season": "April to June and September–October — comfortable temperatures, good views over the Danube",
+  "accessibility": "The castle district is on a hill — accessible via funicular from the Chain Bridge, or free elevator from Clark Ádám square. Castle grounds are largely accessible. Individual museums have their own accessibility provisions.",
+  "booking_advance_days": 0,
+  "tagline": "Budapest's crown above the Danube — a royal palace, a UNESCO panorama and a thousand years of Hungarian history",
+  "highlights": [
+    "The panoramic view over the Danube, the Chain Bridge and Pest from the castle terraces — one of Europe's great urban views",
+    "The Matthias Fountain — an elaborate neo-Gothic fountain in the western courtyard depicting King Matthias hunting",
+    "The Hungarian National Gallery within the castle — containing the finest collection of Hungarian art from the medieval period to the 20th century",
+    "The Budapest History Museum in the southern wing — with Gothic halls and cellars from the medieval palace excavated below",
+    "The Funicular (Sikló) — the cable car running from the Chain Bridge up to the castle, built in 1870 and still in operation"
+  ],
+  "description": "Buda Castle occupies the southern tip of Castle Hill on the western bank of the Danube, its long Baroque facade and green dome dominating the Budapest skyline as surely as the Chain Bridge and the Parliament Building on the opposite bank. The castle is not a single building but a complex of palaces, museums, gardens and medieval streets spread across a limestone plateau, and it is simultaneously one of Hungary's most important historical monuments and one of its most visited attractions.\n\nThe current palace is largely a post-war reconstruction. The original medieval royal palace was destroyed by the Ottoman siege of 1686; a new Baroque palace was built in its place in the 18th century; that was damaged and partly destroyed in the bombing of Budapest in 1944–45. The reconstruction, completed in the 1960s–70s, preserved the exterior shell while creating new museum spaces inside. Paradoxically, the bombing revealed medieval cellars and Gothic halls beneath the Baroque palace that had been buried and forgotten — these are now accessible through the Budapest History Museum.\n\nThe castle is set within the Buda Castle District — a UNESCO World Heritage Site of cobbled streets, Baroque churches and 18th-century townhouses that preserved much of its character despite the war. Matthias Church, the Fisherman's Bastion (with its neo-Romanesque towers), and the quiet lanes of the Táncsics Mihály and Úri streets are all within walking distance.",
+  "history": "A royal residence has occupied Castle Hill since 1265, when King Béla IV built the first palace here. The medieval palace reached its greatest splendour under Matthias Corvinus (r. 1458–1490), who transformed it into a Renaissance court of European distinction, employing Italian humanists and artists. The palace library (Bibliotheca Corviniana) was the largest in Europe outside the Vatican.\n\nThe Ottoman conquest of Buda in 1541 ended the Hungarian royal period. The palace was used as a barracks and administrative centre and fell gradually into disrepair. In 1686 an allied Christian army retook Buda in a destructive siege that left the palace in ruins. The Habsburgs commissioned a new Baroque palace, completed in the 1770s under Maria Theresa, but it was rarely used by the imperial court. After the Compromise of 1867 that created Austria-Hungary, the palace was remodelled and expanded as a Hungarian royal residence; Franz Joseph I used it regularly. The palace suffered severe damage in the final campaign of World War II, when German and Hungarian forces held out against a Soviet siege for seven weeks in 1944–45.",
+  "how_to_visit": "**Getting there:** The Sikló funicular runs from Clark Ádám square (foot of the Chain Bridge) to the castle. A free elevator also runs from the same point. Bus 16 connects the castle to Deák Ferenc Square in central Pest. The castle is also walkable from the Déli railway station (10 minutes).\n\n**Free vs. paid:** The castle grounds and terraces are free to enter. The Hungarian National Gallery and Budapest History Museum require separate admission tickets. The Matthias Church and Fisherman's Bastion also have entry fees.\n\n**Best time:** Early morning (before 09:00) offers almost empty terraces and the best light for photographs across the Danube. The sunset view from the Fisherman's Bastion is one of Budapest's most memorable experiences.\n\n**Combine with:** Matthias Church (adjacent), Fisherman's Bastion (adjacent), the Great Market Hall in Pest (accessible via the Chain Bridge), and the thermal baths of Budapest (Széchenyi or Gellért) make a perfect Budapest itinerary.",
+  "faqs": [
+    {
+      "question": "Is Buda Castle free to visit?",
+      "answer": "The castle grounds, courtyards and terraces are free to enter and offer the famous views over the Danube and Budapest. The museums housed within the castle — the Hungarian National Gallery (art) and the Budapest History Museum (archaeology and history) — charge separate admission fees. Matthias Church and Fisherman's Bastion in the adjacent castle district also charge entry fees for their towers and interiors."
+    },
+    {
+      "question": "What is the Fisherman's Bastion near Buda Castle?",
+      "answer": "The Fisherman's Bastion is a neo-Romanesque terrace with seven conical towers, built between 1895 and 1902 as a decorative promenade next to Matthias Church. It provides some of the most iconic views of Budapest, the Danube and the Hungarian Parliament Building on the opposite bank. The towers and lower terraces are accessible for free; there is a fee for the upper viewing platform. The name comes from the guild of fishermen who defended this section of the medieval walls."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/buda-castle.webp",
+    "alt": "Buda Castle and its green dome above the Danube at dusk, with the Chain Bridge illuminated",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/buda-castle.webp",
+  "instagram_tag": "#budacastle",
+  "meta_title": "Buda Castle Budapest: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Buda Castle in Budapest — a UNESCO World Heritage Site with the Hungarian National Gallery, medieval cellars and panoramic views over the Danube.",
+  "tags": [
+    "baroque",
+    "royal-residence",
+    "unesco",
+    "instagram-worthy",
+    "city-centre"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "danube-palaces-route"
+  ],
+  "nearby_castles": [
+    "schonbrunn-palace",
+    "hohensalzburg-fortress"
+  ],
+  "gyg_location_id": "1867",
+  "gyg_search_query": "Buda Castle Budapest tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,82 @@
+{
+  "id": "chateau-de-castelnaud",
+  "name": "Château de Castelnaud",
+  "local_name": "Château de Castelnaud-la-Chapelle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 300000,
+  "country": "france",
+  "region": "Dordogne, Nouvelle-Aquitaine",
+  "nearest_city": "Sarlat-la-Canéda",
+  "address": "Le Bourg, 24250 Castelnaud-la-Chapelle, France",
+  "lat": 44.8167,
+  "lng": 1.1667,
+  "unesco": false,
+  "year_built": 1214,
+  "architectural_style": "Medieval Périgord",
+  "opening_hours": {
+    "monday": "10:00–19:00",
+    "tuesday": "10:00–19:00",
+    "wednesday": "10:00–19:00",
+    "thursday": "10:00–19:00",
+    "friday": "10:00–19:00",
+    "saturday": "10:00–19:00",
+    "sunday": "10:00–19:00",
+    "seasonal_note": "Open daily. Hours vary by season: 10:00–20:00 in July and August; 10:00–17:00 November to March."
+  },
+  "price_adult": 10,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.castelnaud.com",
+  "visit_duration": "2 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — some areas reachable by wheelchair; steep sections exist",
+  "booking_advance_days": 0,
+  "tagline": "The English fortress of the Dordogne and museum of medieval warfare",
+  "highlights": [
+    "Outstanding Museum of Medieval Warfare inside the castle",
+    "Authentic trebuchets and siege engines on display",
+    "Panoramic views over the Dordogne and Céou valleys",
+    "Face-to-face with Château de Beynac across the river",
+    "One of the most visited castles in the Périgord Noir"
+  ],
+  "description": "Perched above the village of Castelnaud-la-Chapelle, Château de Castelnaud is one of the most complete and visited medieval fortresses in France. Its position overlooking the confluence of the Dordogne and Céou rivers made it a strategic prize contested throughout the Hundred Years' War, when it served as an English stronghold facing French-held Beynac across the valley. Today the castle houses a superb Museum of Medieval Warfare, displaying original weapons, armour, and authentic reconstructed siege engines including full-scale trebuchets. The panoramic views from the battlements take in the Dordogne valley and the rival silhouette of Beynac in the distance.",
+  "history": "The castle was built in the early 13th century and fell under English control during the Hundred Years' War, changing hands multiple times before France finally claimed it permanently in 1442. It fell into ruin after the Renaissance but was classified as a historic monument in 1966 and underwent thorough restoration. The Museum of Medieval Warfare opened within its walls to great success, making Castelnaud one of the top heritage attractions in southwest France.",
+  "how_to_visit": "Located 11 km south-west of Sarlat-la-Canéda. Drive to Castelnaud-la-Chapelle; parking available at the base of the hill. A short steep walk leads to the entrance. Canoe excursions on the Dordogne often pass below both Castelnaud and Beynac and are a popular way to experience the valley. Combine with Beynac (6 km away) for a full day of medieval castles.",
+  "faqs": [
+    {
+      "question": "What is the Museum of Medieval Warfare?",
+      "answer": "It is a permanent exhibition inside the castle displaying weapons, armour, manuscripts, and reconstructed siege engines including trebuchets and mangonels."
+    },
+    {
+      "question": "Can I visit Castelnaud and Beynac in the same day?",
+      "answer": "Yes — the two castles are only 6 km apart and make an ideal combined visit from Sarlat."
+    },
+    {
+      "question": "Are there guided tours in English?",
+      "answer": "Audio guides in English are available. Guided tours in English are offered in peak season."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-castelnaud.webp",
+    "alt": "Château de Castelnaud overlooking the Dordogne valley in France",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-castelnaud.webp",
+  "instagram_tag": "#castelnaud",
+  "meta_title": "Château de Castelnaud, France — Medieval Fortress & Museum of Warfare",
+  "meta_description": "Explore Château de Castelnaud in the Dordogne — medieval siege engines, panoramic valley views, and one of France's finest castle museums.",
+  "tags": ["medieval", "french-castle", "dordogne", "hundred-years-war", "museum"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["chateau-de-beynac"],
+  "gyg_location_id": "2807",
+  "gyg_search_query": "Castelnaud castle Dordogne tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

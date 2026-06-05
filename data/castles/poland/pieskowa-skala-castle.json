@@ -1,0 +1,82 @@
+{
+  "id": "pieskowa-skala-castle",
+  "name": "Pieskowa Skała Castle",
+  "local_name": "Zamek Pieskowa Skała",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 130000,
+  "country": "poland",
+  "region": "Lesser Poland, Kraków-Częstochowa Upland",
+  "nearest_city": "Kraków",
+  "address": "Pieskowa Skała 1, 32-045 Sułoszowa, Poland",
+  "lat": 50.2197,
+  "lng": 19.8006,
+  "unesco": false,
+  "year_built": 1340,
+  "architectural_style": "Gothic / Renaissance",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Extended to 18:00 June to August. Closed Mondays year-round and throughout November."
+  },
+  "price_adult": 25,
+  "price_child": 15,
+  "booking_required": false,
+  "official_tickets_url": "https://www.pieskowa-skala.pl",
+  "visit_duration": "2 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — courtyard accessible; towers involve stairs",
+  "booking_advance_days": 0,
+  "tagline": "A Renaissance pearl of the Eagles' Nests Trail, perched above a limestone valley",
+  "highlights": [
+    "One of the finest Renaissance castles in Poland",
+    "Part of the Trail of the Eagles' Nests — Poland's most scenic castle route",
+    "Arcaded Renaissance courtyard inspired by Wawel Castle",
+    "Museum of European decorative arts from the 13th to 18th centuries",
+    "Spectacular setting above the Prądnik valley with Hercules Club rock beside the moat"
+  ],
+  "description": "Pieskowa Skała is one of the most beautiful and best-preserved Renaissance castles in Poland — a white-arcaded palace perched on a limestone crag above the Prądnik valley gorge, 25 km north of Kraków. Built in the 14th century and completely rebuilt in Renaissance style in the 16th century by the Szafraniec family, the castle's three-storey arcaded courtyard is directly inspired by Wawel Royal Castle in Kraków and is one of the finest examples of Polish Renaissance architecture. The castle houses a branch of the Wawel Royal Collections with outstanding displays of European decorative arts spanning five centuries. Immediately beside the castle moat rises the Hercules Club — a 25-metre isolated limestone pinnacle, one of the most distinctive rock formations in Poland. The castle is a key stop on the Trail of the Eagles' Nests, a 163-km route linking medieval castles across the Kraków-Częstochowa Upland.",
+  "history": "A royal stronghold was built here by King Casimir the Great of Poland around 1340 as part of the defensive chain guarding the southern border. The Szafraniec family acquired it in the 15th century and rebuilt it in Renaissance style between 1542 and 1580. After the family died out the castle passed through various owners and fell into partial ruin in the 18th–19th centuries. Major restoration was undertaken in the 1950s–1960s and the castle opened as a museum.",
+  "how_to_visit": "Pieskowa Skała is 25 km north of Kraków in the Ojców National Park. By car take the DK94 and local roads (40 minutes). Bus number 10 from Kraków runs to Ojców (the national park village) 3 km south — from there a marked trail leads to the castle through the gorge (45 minutes' walk). Combine with Ojców Castle ruins (3 km south) and the Łokietek Cave for a full Eagles' Nests day trip.",
+  "faqs": [
+    {
+      "question": "What is the Trail of the Eagles' Nests?",
+      "answer": "A 163-km marked tourist trail connecting 25 medieval castle ruins and museums across the Kraków-Częstochowa Upland — the limestone plateau north of Kraków. Pieskowa Skała is its finest surviving castle."
+    },
+    {
+      "question": "What is the Hercules Club rock?",
+      "answer": "A 25-metre isolated limestone pinnacle standing beside the castle moat, named for its resemblance to a club. It is one of the most characteristic limestone formations in the Ojców National Park."
+    },
+    {
+      "question": "Can I visit Ojców National Park on the same trip?",
+      "answer": "Yes — Pieskowa Skała is within Ojców National Park, Poland's smallest national park, known for its limestone gorges, caves, and diverse wildlife. The walk through the Prądnik valley from Ojców village is excellent."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/pieskowa-skala-castle.webp",
+    "alt": "Pieskowa Skała Renaissance castle above the Prądnik valley gorge in Poland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/pieskowa-skala-castle.webp",
+  "instagram_tag": "#pieskowa_skala",
+  "meta_title": "Pieskowa Skała Castle, Poland — Renaissance Pearl of the Eagles' Nests Trail",
+  "meta_description": "Visit Pieskowa Skała Castle near Kraków — a stunning Renaissance palace above a limestone gorge, part of Poland's Trail of the Eagles' Nests.",
+  "tags": ["renaissance", "polish-castle", "eagles-nests", "ojców", "lesser-poland"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["ogrodzieniec-castle", "malbork-castle"],
+  "gyg_location_id": "2620",
+  "gyg_search_query": "Pieskowa Skała castle Kraków Eagles Nests tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

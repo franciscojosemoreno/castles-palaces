@@ -1,0 +1,82 @@
+{
+  "id": "sigulda-castle",
+  "name": "Sigulda Medieval Castle",
+  "local_name": "Siguldas viduslaiku pils",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 150000,
+  "country": "latvia",
+  "region": "Vidzeme, Gauja National Park",
+  "nearest_city": "Riga",
+  "address": "Pils iela 18, Sigulda, LV-2150, Latvia",
+  "lat": 57.1530,
+  "lng": 24.8618,
+  "unesco": false,
+  "year_built": 1207,
+  "architectural_style": "Livonian Gothic",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Park grounds freely accessible at all times. Museum and tower have seasonal hours."
+  },
+  "price_adult": 3,
+  "price_child": 1,
+  "booking_required": false,
+  "official_tickets_url": "https://www.sigulda.lv",
+  "visit_duration": "1 hour",
+  "best_season": "May to October",
+  "accessibility": "Partially accessible — ruins are mostly open-air walking; some uneven terrain",
+  "booking_advance_days": 0,
+  "tagline": "The Livonian Order's first Latvian stronghold in the Gauja valley",
+  "highlights": [
+    "Latvia's oldest Livonian Order castle (1207)",
+    "Picturesque ruins with intact gate tower and curtain wall",
+    "Directly beside the 19th-century Sigulda New Castle (now a conference centre)",
+    "Gateway to the Gauja National Park valley excursions",
+    "Views across the Gauja gorge towards Krimulda and Turaida"
+  ],
+  "description": "Sigulda Medieval Castle is the oldest Livonian Order castle in Latvia, founded in 1207 as the first permanent stronghold of the crusading Order of the Brethren of the Sword. Standing at the edge of the Gauja river gorge, the ruins preserve a striking gate tower, sections of curtain wall, and the foundations of the great hall, now framed by mature trees within a public park. Adjacent to the ruins stands the 19th-century Sigulda New Castle, a neo-Gothic manor built by Prince Kropotkin that today serves as the municipal government building and a wedding venue. Together with Turaida and Krimulda castles across the gorge, Sigulda's medieval ruins form the centrepiece of the Gauja National Park heritage trail — Latvia's most popular outdoor excursion.",
+  "history": "Founded in 1207 by the Livonian Brothers of the Sword as their first castle in Latvia, Sigulda served as a key base for the Order's campaigns into Latvian and Estonian territory. It was expanded across the 13th and 14th centuries. The castle was damaged during the Livonian Wars and later abandoned, falling into ruin. The adjacent New Castle was built in 1878 for Prince Dmitry Kropotkin. The ruins were preserved as a heritage site and park in the 20th century.",
+  "how_to_visit": "Sigulda is 50 km from Riga, with trains running hourly (1 hour). The castle ruins are a 15-minute walk from Sigulda train station. A cable car crosses the Gauja gorge to Krimulda on the opposite bank. The town is also well known for its bobsled track, bungee jumping, and winter sports — making it a year-round outdoor destination.",
+  "faqs": [
+    {
+      "question": "What is the difference between Sigulda Castle and Turaida Castle?",
+      "answer": "Sigulda was built by the Livonian Order (military crusaders) while Turaida was built by the Archbishop of Riga. Sigulda is largely ruined; Turaida has a restored tower and a full museum reserve."
+    },
+    {
+      "question": "Can I cross the gorge to Turaida?",
+      "answer": "Yes — a cable car runs across the Gauja gorge from near Sigulda Castle to Krimulda on the other side, and walking trails connect the valley sites."
+    },
+    {
+      "question": "Is the New Castle open to visit?",
+      "answer": "The exterior can be freely viewed. The interior serves as a conference and events venue, so interior visits are limited to scheduled events."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/sigulda-castle.webp",
+    "alt": "Sigulda Medieval Castle ruins above the Gauja river gorge in Latvia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/sigulda-castle.webp",
+  "instagram_tag": "#siguldacastle",
+  "meta_title": "Sigulda Medieval Castle, Latvia — Latvia's Oldest Livonian Fortress",
+  "meta_description": "Visit Sigulda Castle in Latvia — the oldest Livonian Order fortress in the country, set above the Gauja gorge with trails to Turaida and Krimulda.",
+  "tags": ["medieval", "livonian", "latvian-castle", "gauja", "ruins"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["turaida-castle", "cesis-castle"],
+  "gyg_location_id": "2600",
+  "gyg_search_query": "Sigulda castle Gauja valley tour Latvia",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

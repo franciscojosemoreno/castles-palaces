@@ -1,0 +1,89 @@
+{
+  "id": "paris-loire-valley-castles",
+  "slug": "paris-loire-valley-castles",
+  "name": "Loire Valley Castles Day Trip from Paris — Chambord, Chenonceau & More",
+  "tagline": "The greatest concentration of Renaissance châteaux in the world — just 90 minutes from Paris",
+  "departure_country": "france",
+  "departure_city": "Paris",
+  "visited_countries": [
+    "france"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 12–13 hours",
+  "gyg_tour_id": "10751",
+  "price_from": 79,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 14200,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German"
+  ],
+  "max_group_size": 50,
+  "overview": "The Loire Valley is France's château country — a 200km stretch of river lined with the most beautiful Renaissance castles in the world, all built as pleasure palaces for French royalty. This day trip from Paris visits the most iconic: the vast Château de Chambord (with its extraordinary double-helix staircase attributed to Leonardo da Vinci) and the supremely elegant Château de Chenonceau, built across the river Cher.",
+  "highlights": [
+    "Visit Château de Chambord, France's largest castle",
+    "Tour Château de Chenonceau, the 'Ladies' Castle'",
+    "Walk the banks of the Loire and Cher rivers",
+    "Expert guide with art history background",
+    "Round-trip transport from Paris"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "chateau-de-chambord",
+      "castle_name": "Château de Chambord",
+      "duration": "2 hours",
+      "description": "Explore France's largest and most architecturally ambitious castle — 440 rooms and 365 fireplaces built by François I. See the famous double-helix staircase, possibly designed by Leonardo da Vinci, who lived nearby during its construction."
+    },
+    {
+      "order": 2,
+      "castle_id": "chateau-de-chenonceau",
+      "castle_name": "Château de Chenonceau",
+      "duration": "2 hours",
+      "description": "Visit the most visited castle in France after Versailles. Built by and for remarkable women — Catherine Briçonnet, Diane de Poitiers, Catherine de' Medici — it spans the Cher river on a series of graceful arches."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Paris",
+    "Expert guide",
+    "Chambord entry",
+    "Chenonceau entry"
+  ],
+  "excluded": [
+    "Lunch (wine-cellar picnics available at extra cost)",
+    "Gratuities"
+  ],
+  "meeting_point": "Paris city centre — confirmed at booking",
+  "tips": [
+    "The Loire Valley is spectacular in spring (May) and autumn (October) when the light is golden",
+    "Chenonceau has a restaurant inside the castle — book ahead if you want lunch there",
+    "This same tour operator also runs routes to Château d'Amboise and Château de Cheverny"
+  ],
+  "faqs": [
+    {
+      "question": "Why is Chenonceau called the 'Ladies' Castle'?",
+      "answer": "Chenonceau was built, owned, and shaped primarily by women over 500 years — from its original architect Catherine Briçonnet to Diane de Poitiers and Catherine de' Medici, who famously competed for control of it."
+    },
+    {
+      "question": "Can I see Château d'Amboise or Versailles on the same tour?",
+      "answer": "This tour covers Chambord and Chenonceau. The same operator offers tours to Amboise and Versailles — check their full catalogue for combinations."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/paris-loire-valley-castles.webp",
+    "alt": "Château de Chenonceau spanning the Cher river in the Loire Valley at dawn",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Loire Valley Castles Day Trip from Paris — Chambord & Chenonceau | Castles & Palaces",
+    "description": "Visit Château de Chambord and Chenonceau on a guided day trip from Paris. Entry included. From €79 per person. 14,000+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/paris-l16/a-day-in-chateaux-country-from-paris-t10751/"
+}

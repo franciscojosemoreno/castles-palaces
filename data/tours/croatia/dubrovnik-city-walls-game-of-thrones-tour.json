@@ -1,0 +1,102 @@
+{
+  "id": "dubrovnik-city-walls-game-of-thrones-tour",
+  "slug": "dubrovnik-city-walls-game-of-thrones-tour",
+  "name": "Dubrovnik: City Walls & Game of Thrones Tour",
+  "tagline": "Walk the walls of King's Landing — the medieval republic that inspired Westeros",
+  "departure_country": "croatia",
+  "departure_city": "Dubrovnik",
+  "visited_countries": [
+    "croatia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half day (3 hours)",
+  "gyg_tour_id": "443857",
+  "gyg_url": "https://www.getyourguide.com/dubrovnik-l513/dubrovnik-3-hour-game-of-thrones-tour-city-walls-t443857/",
+  "price_from": 39,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 4130,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 15,
+  "overview": "Dubrovnik's medieval city walls are among the best-preserved in the world — a complete 1.9-kilometre circuit of limestone ramparts enclosing a perfectly intact medieval city above the Adriatic. Built by the Republic of Ragusa between the 13th and 17th centuries, the walls never fell to a military assault in 450 years of independence. When Game of Thrones producers needed a city that looked like King's Landing, Dubrovnik's Old Town was chosen not because it was convenient but because nothing else in the world looks like it. This guided tour walks the full wall circuit with an expert guide who covers both the extraordinary history of the Ragusan Republic — one of the most sophisticated small states in European history — and the specific locations used in Game of Thrones Seasons 2 through 8.",
+  "highlights": [
+    "Full circuit of Dubrovnik's 14th-century city walls — 1.9 km above the Adriatic",
+    "Game of Thrones filming locations: Fort Lovrijenac (Red Keep), Minčeta Tower, Pile Gate",
+    "Panoramic views over the Old Town rooftops, Lokrum Island and the open sea",
+    "The story of the Republic of Ragusa — 450 years of independence through diplomacy, not war",
+    "Rector's Palace, Stradun and the hidden streets of the medieval republic",
+    "Expert guide covering both medieval history and GoT production details"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Pile Gate & Wall Entry",
+      "duration": "15 min",
+      "description": "Meet at the iconic Pile Gate — the main western entrance to the walled city, recognisable from the Game of Thrones title sequence. The guide introduces the Republic of Ragusa: a city-state that managed to stay independent for 450 years between the Ottoman Empire and Venice through a combination of brilliant diplomacy, strict laws against slavery (abolished in 1416 — 450 years before the US), and the most sophisticated quarantine system in medieval Europe."
+    },
+    {
+      "order": 2,
+      "castle_name": "Fort Lovrijenac — The Red Keep",
+      "duration": "30 min",
+      "description": "Cross to Fort Lovrijenac, the free-standing sea fortress just outside the western gate. This is the primary Game of Thrones filming location used for the Red Keep exterior and the famous jousting tournament scenes. The fort was built in 1018 to prevent Venetian ships from establishing a foothold — above its entrance gate is carved the Ragusan motto 'Non bene pro toto libertas venditur auro' (Liberty is not sold for all the gold in the world). The views south along the Adriatic are extraordinary."
+    },
+    {
+      "order": 3,
+      "castle_name": "City Wall Circuit — South and East",
+      "duration": "1 hour",
+      "description": "Begin the wall walk south along the sea-facing ramparts. The guide identifies Game of Thrones filming locations as you go: the harbour steps used for the Walk of Shame, the Minceta Tower (used as the House of the Undying), and the Buza Gate area used for multiple crowd scenes. The views down into the crystal-clear Adriatic and across the Old Town's terracotta roofscape are the defining Dubrovnik experience."
+    },
+    {
+      "order": 4,
+      "castle_name": "Stradun & Old Town",
+      "duration": "45 min",
+      "description": "Descend to the Stradun — the main limestone-paved street of the Old Town, built on the channel that once separated the island of Ragusa from the mainland. The guide covers the Rector's Palace (the seat of Ragusan government — the Rector served a one-month term and was forbidden from leaving the building), the Gothic Cathedral, and the 16th-century Sponza Palace. Specific GoT locations on the Stradun and surrounding streets are identified with episode references."
+    }
+  ],
+  "included": [
+    "Professional English-speaking guide",
+    "City walls entry ticket",
+    "Fort Lovrijenac entry",
+    "Small group (max 15)"
+  ],
+  "excluded": [
+    "Transport to meeting point",
+    "Rector's Palace entry (optional, ~€15)",
+    "Meals and drinks"
+  ],
+  "meeting_point": "Pile Gate (western entrance to the Old Town), Dubrovnik",
+  "tips": [
+    "Start as early as possible — the wall walk becomes extremely crowded and hot by mid-morning in summer",
+    "Bring water: the wall circuit has no shade and temperatures regularly exceed 35°C in July and August",
+    "The evening light on the Old Town is extraordinary — consider a sunset return to the walls independently",
+    "Fort Lovrijenac is the most important GoT location — spend extra time there if you're a fan"
+  ],
+  "faqs": [
+    {
+      "question": "Which Game of Thrones scenes were filmed in Dubrovnik?",
+      "answer": "The majority of King's Landing exterior scenes from Seasons 2–8 were filmed here. Key locations include Fort Lovrijenac (Red Keep exterior), Minčeta Tower (House of the Undying), the harbour steps (Walk of Shame), and the Stradun (various crowd scenes). The Purple Wedding took place in the Rector's Palace courtyard."
+    },
+    {
+      "question": "Is the wall walk physically demanding?",
+      "answer": "The circuit involves approximately 1.9 km of walking with significant stair climbing at multiple points. It is manageable for most people but not suitable for those with serious mobility issues. The steps can be uneven and wet."
+    },
+    {
+      "question": "Why did the Republic of Ragusa never fall?",
+      "answer": "Ragusa (modern Dubrovnik) maintained independence from 1358 to 1808 through sophisticated diplomacy rather than military strength. It paid tribute to the Ottoman Empire while maintaining trade relations with Venice and Spain simultaneously, and was one of the first states to recognise American independence in 1776. Napoleon finally abolished the republic in 1808."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/dubrovnik-city-walls-game-of-thrones-tour.webp",
+    "alt": "Dubrovnik's medieval city walls and Old Town above the Adriatic Sea, Croatia",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Dubrovnik City Walls & Game of Thrones Tour | King's Landing Walking Tour",
+    "description": "Guided tour of Dubrovnik's medieval city walls and Game of Thrones filming locations — Fort Lovrijenac, Minčeta Tower and King's Landing streets. 4,100+ reviews."
+  }
+}

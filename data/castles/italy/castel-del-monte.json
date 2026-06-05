@@ -1,0 +1,84 @@
+{
+  "id": "castel-del-monte",
+  "name": "Castel del Monte",
+  "local_name": "Castel del Monte",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 130000,
+  "country": "italy",
+  "region": "Puglia",
+  "nearest_city": "Andria",
+  "address": "Piazza Castel del Monte, 76123 Andria BT, Italy",
+  "lat": 41.0852,
+  "lng": 16.2705,
+  "unesco": true,
+  "year_built": 1240,
+  "architectural_style": "Hohenstaufen — octagonal castle with eight octagonal towers, perfect geometric symmetry",
+  "opening_hours": {
+    "monday": "09:15–19:30",
+    "tuesday": "09:15–19:30",
+    "wednesday": "09:15–19:30",
+    "thursday": "09:15–19:30",
+    "friday": "09:15–19:30",
+    "saturday": "09:15–19:30",
+    "sunday": "09:15–19:30",
+    "seasonal_note": "Apr–Sep: 10:15–19:30. Oct–Mar: 09:15–13:30. Closed 1 Jan, 1 May, 25 Dec."
+  },
+  "price_adult": 7,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.casteldelmonte.beniculturali.it/",
+  "visit_duration": "1–2 hours",
+  "best_season": "April to June and September–October — light across the Apulian plain, wildflowers around the castle",
+  "accessibility": "Ground floor accessible. Upper levels require steps.",
+  "booking_advance_days": 0,
+  "tagline": "The most perfect geometric building of the Middle Ages — Frederick II's mysterious octagonal castle on the Apulian plain",
+  "highlights": [
+    "The geometry — a perfect octagonal castle with eight octagonal towers at each corner, every angle and proportion deliberately calculated",
+    "The mystery — the castle's purpose remains debated: hunting lodge, astronomical observatory, pilgrimage site or pure geometric statement",
+    "The location — alone on a hill above the Apulian plain, visible for miles in every direction with no town or village nearby",
+    "The interior — Gothic windows, marble columns and carved decorative elements of exceptional quality for a purely functional fortress",
+    "The 1-cent euro coin — Castel del Monte appears on the Italian 1-cent euro coin, making it one of Europe's most reproduced images"
+  ],
+  "description": "Castel del Monte is one of the most mathematically extraordinary buildings of the Middle Ages: a perfect octagonal castle with eight octagonal towers, built by Holy Roman Emperor Frederick II around 1240 on a hill above the Apulian plain in Puglia. Every element of the design is based on the octagon — the plan of the castle, the plan of each tower, the plan of the courtyard — and the proportions throughout suggest a deliberate programme of geometric and perhaps astronomical symbolism that has never been fully decoded.\n\nFrederick II was himself an extraordinary figure — polyglot, scientist, patron of Arab and Jewish scholars, author of a treatise on falconry, and simultaneously Holy Roman Emperor, King of Sicily and King of Jerusalem. His building at Castel del Monte reflects interests that went far beyond military necessity: the castle was certainly not intended as a serious fortification (it has no moat, drawbridge or defensive outworks). Whether it was a hunting lodge, a monument to Frederick's cosmological beliefs, an astronomical instrument or something else entirely remains debated by scholars.\n\nThe castle appears on the Italian 1-cent euro coin, making it one of the most reproduced images in Europe. The interior, while largely empty of furnishings, retains Gothic windows of great delicacy, marble columns, and carved details of exceptional quality. The view from the castle's position — 540 metres above the Apulian plain, alone on its hill — encompasses an enormous sweep of the Murge plateau.",
+  "history": "Frederick II began Castel del Monte around 1240, and the castle was substantially complete by 1246. Frederick's court spent time there in 1246, and his sons were briefly imprisoned in the castle after his death in 1250. Subsequent Angevin rulers of Sicily and Naples used it occasionally as a hunting lodge and prison. It was inhabited by squatters in the 17th–19th centuries, who stripped the marble decoration and coloured tile floors. The Italian state purchased and began restoring it in the early 20th century, and it was inscribed as a UNESCO World Heritage Site in 1996.",
+  "how_to_visit": "**Getting there:** Castel del Monte is 60km southwest of Bari, near the town of Andria. By public transport, take a train to Andria and then a bus (seasonally) or taxi to the castle. By car it's the most convenient option — 1 hour from Bari, 1.5 hours from Matera.\n\n**Combine with:** The trulli of Alberobello (UNESCO, 50 minutes), the caves of Matera (UNESCO, 1.5 hours), and the Baroque churches of Lecce (2 hours) make Castel del Monte a natural part of a Puglia circuit.",
+  "faqs": [
+    {
+      "question": "Why is Castel del Monte octagonal?",
+      "answer": "The octagon has symbolic significance in medieval Christian cosmology — eight is the number of resurrection and the New Jerusalem; the octagonal baptistery was a common form throughout the medieval period. Frederick II was deeply interested in mathematics, astronomy and Islamic science (he maintained Arab scholars at his court), and the octagonal form of Castel del Monte may reflect a deliberate symbolic or astronomical programme. The exact significance has never been definitively established, which is part of what makes the castle so fascinating to scholars and visitors."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castel-del-monte.webp",
+    "alt": "Castel del Monte on its solitary hill above the Apulian plain, its eight octagonal towers casting long shadows",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castel-del-monte.webp",
+  "instagram_tag": "#casteldelmonte",
+  "meta_title": "Castel del Monte: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Castel del Monte in Puglia — Frederick II's mysterious UNESCO-listed octagonal castle on the Apulian plain. Book tickets and explore one of Italy's most unique buildings.",
+  "tags": [
+    "medieval",
+    "unesco",
+    "geometric",
+    "unique",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "puglia-heritage-route"
+  ],
+  "nearby_castles": [
+    "castel-santangelo"
+  ],
+  "gyg_location_id": "36",
+  "gyg_search_query": "Castel del Monte Puglia tour Italy",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

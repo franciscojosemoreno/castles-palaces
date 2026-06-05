@@ -1,0 +1,97 @@
+{
+  "id": "bucharest-transylvania-castles",
+  "slug": "bucharest-transylvania-castles",
+  "name": "Bran Castle, Peleș Castle & Brașov Day Trip from Bucharest",
+  "tagline": "Dracula's castle, Romania's grandest palace, and a medieval Saxon city — all in one day",
+  "departure_country": "romania",
+  "departure_city": "Bucharest",
+  "visited_countries": [
+    "romania"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 13–14 hours",
+  "gyg_tour_id": "135264",
+  "price_from": 11,
+  "currency": "USD",
+  "rating": 4.6,
+  "review_count": 20410,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German"
+  ],
+  "max_group_size": 50,
+  "overview": "Romania's most iconic tour packs three world-class destinations into a single extraordinary day. Begin at Bran Castle — the fortress linked to the Dracula legend — then visit the neo-Renaissance masterpiece of Peleș Castle before exploring the cobblestone streets of medieval Brașov. With over 20,000 reviews, this is one of GetYourGuide's highest-rated European castle tours.",
+  "highlights": [
+    "Visit Bran Castle, Transylvania's most famous fortress",
+    "Tour the lavish interiors of Peleș Castle",
+    "Free time in the medieval city of Brașov",
+    "Round-trip transport from Bucharest included",
+    "Available in 5 languages with licensed guides"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "bran-castle",
+      "castle_name": "Bran Castle",
+      "duration": "1.5 hours",
+      "description": "Explore the medieval fortress perched dramatically above Transylvania. Associated with Bram Stoker's Dracula, the castle houses a fascinating museum of royal artefacts and medieval weapons."
+    },
+    {
+      "order": 2,
+      "castle_id": "peles-castle",
+      "castle_name": "Peleș Castle",
+      "duration": "1.5 hours",
+      "description": "Tour one of Europe's most opulent royal residences, built for King Carol I of Romania. 160 rooms of gilded interiors, Flemish tapestries, and an armoury await inside this neo-Renaissance masterpiece."
+    },
+    {
+      "order": 3,
+      "castle_id": "brasov-old-town",
+      "castle_name": "Brașov Old Town",
+      "duration": "1 hour",
+      "description": "Free exploration of the best-preserved medieval Saxon city in Transylvania. Walk the cobbled Strada Republicii, see the Black Church, and take in views from the city walls."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Bucharest",
+    "Licensed local guide",
+    "Bran Castle entrance",
+    "Peleș Castle entrance"
+  ],
+  "excluded": [
+    "Lunch",
+    "Personal expenses",
+    "Gratuities"
+  ],
+  "meeting_point": "Bucharest city centre — confirmed at booking",
+  "tips": [
+    "Start time is early (around 7–8am) — this is a long day but worth every minute",
+    "At €11/person this is exceptional value for three major sites",
+    "Book well in advance — with 20,000+ reviews this sells out daily in peak season"
+  ],
+  "faqs": [
+    {
+      "question": "Why is this tour so affordable?",
+      "answer": "Romania has a lower cost of living than Western Europe. The price reflects local market rates while the quality of the experience is world-class."
+    },
+    {
+      "question": "Is Bran Castle really Dracula's castle?",
+      "answer": "Bram Stoker's description of Castle Dracula closely matches Bran, though there is no definitive historical link to Vlad the Impaler. The legend and the castle atmosphere are equally compelling."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/bucharest-transylvania-castles.webp",
+    "alt": "Bran Castle rising above the Transylvanian forest at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Bran Castle & Peleș Castle Day Trip from Bucharest | Castles & Palaces",
+    "description": "Book the best Transylvania castle day trip from Bucharest. Visit Bran Castle, Peleș Castle and Brașov with a licensed guide. From $11 per person — one of Europe's best-value tours."
+  },
+  "gyg_url": "https://www.getyourguide.com/bucharest-l111/from-bucharest-peles-bran-castle-old-town-brasov-t135264/"
+}

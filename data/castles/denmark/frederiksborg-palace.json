@@ -1,0 +1,78 @@
+{
+  "id": "frederiksborg-palace",
+  "name": "Frederiksborg Palace",
+  "local_name": "Frederiksborg Slot",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 350000,
+  "country": "denmark",
+  "region": "North Zealand",
+  "nearest_city": "Copenhagen",
+  "address": "Frederiksborg Slot, 3400 Hillerød, Denmark",
+  "lat": 55.9349,
+  "lng": 12.2990,
+  "unesco": false,
+  "year_built": 1620,
+  "architectural_style": "Dutch Renaissance",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Nov–Mar: 11:00–15:00. Apr–Oct: 10:00–17:00. The palace chapel holds Sunday services and may have restricted access. The baroque garden is free to enter. The Museum of National History is housed inside the palace."
+  },
+  "price_adult": 15,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.dnm.dk/en",
+  "visit_duration": "2–3 hours",
+  "best_season": "Late spring and summer when the baroque garden is in full bloom; the palace is magical in snow in winter",
+  "accessibility": "The ground floor and museum rooms are accessible via lift. The baroque garden is flat and accessible. The island setting requires crossing bridges which are accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Denmark's grandest royal palace — a Dutch Renaissance masterpiece on three islands in a lake",
+  "highlights": [
+    "The grandest Renaissance palace in Scandinavia, built by King Christian IV between 1600 and 1620 across three artificial islands in a lake",
+    "Houses the Museum of National History — Denmark's most important collection of portraits, furniture, and silver tracing 500 years of Danish history",
+    "The Great Hall (Riddersalen) with its extraordinary gilded ceiling, tapestries, and one of the finest Renaissance interiors in Northern Europe",
+    "The Palace Chapel — original 17th-century interior surviving intact, where Danish monarchs were anointed from 1671 to 1840",
+    "The baroque garden restored to its 1720s design — formal terraces, fountains, and canal gardens descending to the lake"
+  ],
+  "description": "Frederiksborg Palace is the most architecturally ambitious royal building in Denmark — a Dutch Renaissance masterpiece of red brick, sandstone spires, and copper rooflines spread across three artificial islands in the lake at Hillerød, 40 km north of Copenhagen. King Christian IV, the most prolific builder in Danish history, constructed it between 1600 and 1620 as a statement of royal power and personal taste, replacing an earlier Renaissance structure on the same site. The result — a complex of connected buildings, towers, and bridges reflected in still water — is among the finest ensemble views of any royal palace in Northern Europe.\n\nThe palace is now home to the Museum of National History, established by the Carlsberg Foundation in 1878 after a catastrophic fire in 1859 destroyed much of the original interior. The museum traces Danish history through portraits, furniture, silver, and decorative arts from the 16th century to the present. The Great Hall (Riddersalen) was meticulously reconstructed after the fire and remains one of the great Renaissance interiors of Scandinavia — gilded ceiling, elaborate tapestries, and a room scaled for royal ceremony.\n\nThe Palace Chapel survived the fire intact and retains its complete 17th-century interior, including the original organ by Esaias Compenius (1610) — one of the oldest playable organs in Europe. Danish monarchs were anointed in this chapel from 1671 to 1840, and it retains the coats of arms of the Danish Orders of Chivalry arranged around the walls, creating a heraldic panorama of the nobility.",
+  "history": "The Frederiksborg estate was originally acquired by King Frederick II, who built a Renaissance manor here in the 1560s. His son Christian IV inherited it in 1588 and immediately set about replacing the modest structure with a palace worthy of the wealthiest king in Scandinavia. Construction began around 1600 and continued until 1620, employing Dutch and Flemish craftsmen who gave the palace its distinctive Dutch Renaissance character.\n\nChristian IV used Frederiksborg as his primary residence and the ceremonial centre of the Danish court. The Peace of Roskilde (1658), which ceded significant Norwegian and Swedish territories and fundamentally altered the Scandinavian map, was negotiated in the vicinity. The palace served the Danish royal family until King Frederik IV moved the court to Frederiksberg Palace in the early 18th century, after which Frederiksborg declined as a residence.\n\nThe devastating fire of December 1859 destroyed almost the entire interior of the main building, leaving only the chapel and audience chamber intact. The Carlsberg brewery magnate J. C. Jacobsen financed a reconstruction and proposed converting the palace into the Museum of National History, which opened in 1878. The museum has been expanded continuously since then and now holds over 400 years of Danish history across more than 80 rooms.",
+  "how_to_visit": "**Getting there:** Frederiksborg Palace is in Hillerød, 40 km north of Copenhagen. Trains run from Copenhagen Central Station (København H) to Hillerød on the A and E lines (about 1 hour). The palace is a 10-minute walk from Hillerød station, clearly signposted through the town centre.\n\n**Combine with Kronborg:** Both Frederiksborg (Hillerød) and Kronborg (Helsingør) are in North Zealand and can be combined in a single day trip from Copenhagen. Trains connect Hillerød and Helsingør in about 30 minutes. A 'Hamlet tour' combining both palaces and the coastal scenery of North Zealand is one of the best day trips from Copenhagen.\n\n**The baroque garden:** The formal garden below the palace terraces is free to enter and beautifully maintained — restored to its 1720s appearance with parterres, fountains, and canal features. The walk from the garden to the palace entrance gives the classic view of the building reflected in the lake.\n\n**Museum highlights:** The Great Hall (Room 21), the Chapel (Room 4), and the Golden Room (Room 26) are the three most important spaces. The portrait gallery on the upper floors traces Danish history through faces.",
+  "faqs": [
+    {
+      "question": "What is the difference between Frederiksborg and Kronborg castles?",
+      "answer": "Kronborg (Elsinore/Helsingør) is a defensive Renaissance castle guarding the Sound between Denmark and Sweden — famous as the setting of Hamlet and a UNESCO World Heritage Site. Frederiksborg (Hillerød) is a Dutch Renaissance palace built for royal ceremony and residence, now housing the Museum of National History. Both are in North Zealand and easily combined in one day from Copenhagen."
+    },
+    {
+      "question": "Was Frederiksborg Palace destroyed by fire?",
+      "answer": "Yes — a catastrophic fire in December 1859 destroyed most of the palace interior, sparing only the chapel, audience chamber, and some outer walls. The reconstruction was financed by J. C. Jacobsen of the Carlsberg Foundation and took several decades. The Museum of National History opened in the restored building in 1878."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/frederiksborg-palace.webp",
+    "alt": "Frederiksborg Palace Dutch Renaissance towers reflected in the lake at Hillerød, Denmark",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/frederiksborg-palace.webp",
+  "instagram_tag": "#frederiksborg",
+  "meta_title": "Frederiksborg Palace: Tickets, Museum & Visitor Guide 2026",
+  "meta_description": "Visit Frederiksborg Palace in Hillerød — Denmark's grandest Renaissance royal palace, home of the Museum of National History. Day trip from Copenhagen. Complete visitor guide.",
+  "tags": ["renaissance", "palace", "baroque-garden", "museum", "denmark"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["kronborg-castle"],
+  "gyg_location_id": "97",
+  "gyg_search_query": "Frederiksborg Palace Hillerød tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

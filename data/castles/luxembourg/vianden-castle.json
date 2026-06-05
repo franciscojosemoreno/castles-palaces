@@ -1,0 +1,82 @@
+{
+  "id": "vianden-castle",
+  "name": "Vianden Castle",
+  "local_name": "Château de Vianden",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 250000,
+  "country": "luxembourg",
+  "region": "Canton of Vianden",
+  "nearest_city": "Ettelbruck",
+  "address": "Montée du Château, 9408 Vianden, Luxembourg",
+  "lat": 49.9344,
+  "lng": 6.2014,
+  "unesco": false,
+  "year_built": 1090,
+  "architectural_style": "Romanesque and Gothic",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Apr–Sep open until 18:00. Oct–Mar: 10:00–16:00 or 17:00 depending on month. January: weekends only 10:00–16:00. Check website for exact winter hours. A chairlift operates seasonally from the town to near the castle."
+  },
+  "price_adult": 10,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.vianden-castle.lu",
+  "visit_duration": "2–3 hours",
+  "best_season": "Spring and autumn for valley foliage; the chairlift from the Our River valley to the castle provides the most dramatic approach",
+  "accessibility": "The castle interior has multiple levels accessible primarily by stairs. The courtyard and ground floor are broadly accessible. The steep town below the castle is challenging for wheelchairs.",
+  "booking_advance_days": 0,
+  "tagline": "The most spectacular medieval castle in Luxembourg — a Romanesque and Gothic marvel above the Our River valley",
+  "highlights": [
+    "One of the largest and most important feudal residences in the Romanesque-Gothic style in Europe, dating from the 11th century",
+    "Victor Hugo lived in exile in Vianden in 1871 and sketched the castle daily — his house in the lower town is now a museum",
+    "Dramatically positioned on a spur above the Our River valley, visible for kilometres across the Ardennes",
+    "The Byzantine-influenced double chapel is one of the finest examples of 12th-century religious architecture in Luxembourg",
+    "Completely restored to its medieval appearance between 1977 and 2009 after being sold for demolition and stripped by speculators in 1820"
+  ],
+  "description": "Vianden Castle looms above the charming medieval town of the same name, its towers and battlements perched on a rocky spur above the Our River valley in a setting that would seem contrived if it appeared in a painting. One of the largest and most architecturally significant feudal residences in the Romanesque-Gothic tradition in Europe, the castle has been the dominant physical and historical presence in Luxembourg's smallest and most beautiful canton for nearly a thousand years.\n\nThe castle's most famous resident was not a medieval lord but a French literary exile: Victor Hugo arrived in Vianden in 1871, having fled the German occupation of Paris, and stayed for two months in a modest house by the river. During his stay he sketched the castle compulsively, producing dozens of drawings that give us an invaluable record of its semi-ruined state before restoration. Hugo's house is now a small museum; his drawings hang in the rooms where he lived.\n\nThe restoration of Vianden Castle is one of the great heritage achievements of the 20th century. In 1820, the King of the Netherlands — to whom Luxembourg then belonged — sold the castle for demolition. Speculators stripped it of all removable material: roof tiles, window frames, interior stonework. What was left was a shell of bare walls open to the sky. From 1977 to 2009, the Luxembourg Friends of Vianden Castle association undertook a systematic reconstruction, returning the great hall, chapel, residential towers, and kitchen ranges to their medieval appearance. The result is the most complete 'full restoration' of a major Romanesque-Gothic castle in the Benelux region.",
+  "history": "The spur above the Our River at Vianden has been fortified since at least Roman times, when a watch tower guarded the road through the Ardennes. The medieval castle was established by the Counts of Vianden, a significant noble family in the 11th century, and expanded substantially through the 12th and 13th centuries into the palace complex that survives as its basis today.\n\nThe 12th-century double chapel — a two-storey Byzantine-influenced structure with apsidal chapels and geometric patterned stonework — represents the architectural high point of the Romanesque period. The great hall and residential towers were added in the 13th and 14th centuries in Gothic style. The County of Vianden passed to the House of Nassau (ancestors of the modern Dutch royal family and Luxembourg's Grand Ducal family) through marriage in 1417.\n\nThe Nassau family expanded the castle through the 15th and 16th centuries and used it as a residence until the 17th century, when political gravity shifted toward their Dutch and Flemish territories. The castle fell into disuse and disrepair, accelerated by the scandalous 1820 demolition sale. The Luxembourg state acquired the ruins in 1977 and handed them to the Friends of Vianden Castle association, which undertook the 30-year restoration programme that transformed the shells into one of Luxembourg's greatest heritage sites.",
+  "how_to_visit": "**Getting there:** Vianden is 55 km north of Luxembourg City. By car, take the N17 north through Ettelbruck toward the Belgian border. Regular buses run from Ettelbruck train station (reached from Luxembourg City in 35 minutes by train) to Vianden — the journey from Ettelbruck takes about 30 minutes.\n\n**The chairlift:** A seasonal chairlift (télésiège) operates from the Our River valley at the bottom of Vianden town up to a point near the castle — a dramatic approach offering aerial views over the town and valley. Check operating season before visiting.\n\n**Victor Hugo's house:** The small Hugo museum (Maison de Victor Hugo) is on the main street by the bridge, a 5-minute walk from the castle. It contains Hugo's drawings of Vianden and personal memorabilia from his 1871 stay — worth 30 minutes.\n\n**Combine with:** Beaufort Castle (40 km southeast, ruined medieval castle in a different style), Echternach (the oldest city in Luxembourg with an important Benedictine abbey), and the Müllerthal trail for hiking.",
+  "faqs": [
+    {
+      "question": "Was Vianden Castle really sold for demolition?",
+      "answer": "Yes — in 1820, King William I of the Netherlands (who governed Luxembourg at the time) sold the medieval castle to a speculator for demolition. The buyer stripped all removable materials including roof tiles, window frames, floors, and interior stonework over the following decades. The shell of bare walls remained until the Luxembourg state acquired it in 1977 and began the 30-year restoration programme."
+    },
+    {
+      "question": "Why did Victor Hugo come to Vianden?",
+      "answer": "Hugo arrived in Vianden in May 1871 as a refugee from the Paris Commune and the German siege of Paris. He had previously been in exile from Napoleon III's France and returned to Paris after the Emperor's fall — only to flee again when the Commune descended into violence. He stayed in Vianden for two months, walked constantly, sketched the castle, and recovered from the traumatic events in Paris. His Vianden drawings are among the most detailed records of the castle's semi-ruined state."
+    },
+    {
+      "question": "Is Vianden worth visiting from Luxembourg City?",
+      "answer": "Absolutely — it is one of the most underrated castle experiences in Western Europe. The combination of the spectacular castle, the medieval town, the Our River valley, and the Victor Hugo connection makes it the best day trip from Luxembourg City. Allow a full day to see the castle, town, and chairlift."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/vianden-castle.webp",
+    "alt": "Vianden Castle towers above the Our River valley and medieval town in Luxembourg",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/vianden-castle.webp",
+  "instagram_tag": "#viandencastle",
+  "meta_title": "Vianden Castle Luxembourg: Tickets, History & Visitor Guide 2026",
+  "meta_description": "Visit Vianden Castle — Luxembourg's most spectacular medieval fortress, Victor Hugo's refuge in 1871, and a perfectly restored Romanesque-Gothic palace above the Our River valley.",
+  "tags": ["romanesque", "gothic", "medieval", "restored", "luxembourg", "valley"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["beaufort-castle"],
+  "gyg_location_id": "503",
+  "gyg_search_query": "Vianden Castle tour Luxembourg",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

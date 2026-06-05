@@ -1,0 +1,88 @@
+{
+  "id": "naples-caserta-royal-palace",
+  "slug": "naples-caserta-royal-palace",
+  "name": "Royal Palace of Caserta Day Trip from Naples",
+  "tagline": "Italy's answer to Versailles — 1,200 rooms, the longest baroque fountain cascade in the world, and a Star Wars film set",
+  "departure_country": "italy",
+  "departure_city": "Naples",
+  "visited_countries": [
+    "italy"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 4–5 hours",
+  "gyg_tour_id": "168386",
+  "price_from": 35,
+  "currency": "EUR",
+  "rating": 4.4,
+  "review_count": 3100,
+  "languages": [
+    "English",
+    "Italian",
+    "Spanish"
+  ],
+  "max_group_size": 25,
+  "overview": "The Reggia di Caserta is the largest royal palace in the world by volume — built by the Bourbon kings of Naples to rival Versailles, with 1,200 rooms, 1,742 windows, and a park stretching 3km into the hills behind. The great cascade waterfall and formal gardens are among the most dramatic in Europe. UNESCO World Heritage listed and notably used as a filming location for Star Wars Episodes I and II (as the planet Naboo's royal palace).",
+  "highlights": [
+    "Guided tour of the Royal Apartments of the Bourbon kings",
+    "Walk the 3km grand axis through the baroque gardens",
+    "See the spectacular cascade waterfall and Diana & Actaeon fountain",
+    "Skip-the-line entry included",
+    "UNESCO World Heritage Site — Italy's largest royal palace"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "",
+      "castle_name": "Royal Apartments",
+      "duration": "1.5 hours",
+      "description": "Guided tour of the State Apartments where the Bourbon royal family lived. Highlights include the grand ceremonial staircase — one of the finest in Europe — the throne room, the palatine chapel, and the royal library. The sheer scale of the halls is overwhelming."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Park & Grand Cascade",
+      "duration": "1.5 hours",
+      "description": "Walk or take the tourist shuttle along the 3km axis through the formal gardens to the great cascade waterfall at the far end. Pass the fish ponds, fountains, and the Diana and Actaeon sculptural group at the foot of the waterfall. The view back down toward the palace from the cascade is extraordinary."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Naples",
+    "Licensed guide",
+    "Skip-the-line palace entry"
+  ],
+  "excluded": [
+    "Tourist shuttle in the park (optional, €3)",
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Naples city centre — confirmed at booking",
+  "tips": [
+    "Wear comfortable shoes — the full garden walk is 6km return",
+    "The palace is 30km from Naples; the drive through the Campanian plain is part of the experience",
+    "Combine with Pompeii or Herculaneum for a full-day Campania itinerary",
+    "The interiors were used as Naboo's royal palace in Star Wars Episodes I and II — a detail that delights younger visitors"
+  ],
+  "faqs": [
+    {
+      "question": "Is Caserta really bigger than Versailles?",
+      "answer": "By floor area, yes — Caserta covers 47,000 square metres compared to Versailles's 36,000. However Versailles has a larger park. Both are UNESCO World Heritage sites and among the finest baroque royal palaces in the world."
+    },
+    {
+      "question": "Is the full garden walk necessary?",
+      "answer": "Not at all — you can take the tourist shuttle for €3. But walking the central axis gives a sense of the palace's immense scale that you can't appreciate from a vehicle."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/naples-caserta-royal-palace.webp",
+    "alt": "The Royal Palace of Caserta with its baroque gardens and cascade stretching into the distance",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Royal Palace of Caserta Day Trip from Naples | Castles & Palaces",
+    "description": "Visit the Royal Palace of Caserta — Italy's largest palace and UNESCO World Heritage site. Day trip from Naples with guided tour. From €35."
+  },
+  "gyg_url": "https://www.getyourguide.com/caserta-city-l3426/day-trip-to-royal-palace-of-caserta-t168386/"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "stirling-castle",
+  "name": "Stirling Castle",
+  "local_name": "Caisteal Shruighlea",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 450000,
+  "country": "scotland",
+  "region": "Central Scotland",
+  "nearest_city": "Stirling",
+  "address": "Castle Wynd, Stirling FK8 1EJ, Scotland",
+  "lat": 56.1235,
+  "lng": -3.947,
+  "unesco": false,
+  "year_built": 1110,
+  "architectural_style": "Renaissance palace within medieval fortress",
+  "opening_hours": {
+    "monday": "09:30–18:00",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "Apr–Sep: 09:30–18:00. Oct–Mar: 09:30–17:00. Last entry 45 minutes before closing."
+  },
+  "price_adult": 20,
+  "price_child": 12,
+  "booking_required": false,
+  "official_tickets_url": "https://www.stirlingcastle.scot/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September; views of the Wallace Monument and Ochil Hills best in clear weather",
+  "accessibility": "Uneven cobblestones and some steep gradients. Main palace and great hall accessible. Audio guide available.",
+  "booking_advance_days": 3,
+  "tagline": "Where Scottish kings were crowned and history pivoted — the key to Scotland",
+  "highlights": [
+    "One of the grandest Renaissance palaces in Scotland, built by James V and Mary Queen of Scots",
+    "Site of nine Scottish royal coronations, including Mary Queen of Scots and the infant James VI",
+    "The Stirling Heads — 38 extraordinary carved oak medallion portraits of Renaissance royalty",
+    "Views of the battlefield of Bannockburn (1314) from the castle ramparts",
+    "The Great Hall is the finest medieval hall in Scotland, with a hammerbeam roof"
+  ],
+  "description": "Stirling Castle has been called 'the key to Scotland' — and the metaphor is geographical before it is military. The castle sits on a 76-metre volcanic rock commanding the lowest crossing point of the River Forth, the gateway between the Highlands and the Lowlands. Every army that moved north or south in Scotland for a thousand years passed within sight of this rock. Whoever held Stirling held Scotland.\n\nToday the military reality has faded into history, but the castle is no less impressive for it. The centrepiece is the Royal Palace, built by James V between 1538 and 1542 as a statement of Renaissance magnificence to rival the courts of France, where he had been educated. Its exterior is decorated with an extraordinary sequence of sculpted figures — kings, courtiers, mythological beasts — that art historians consider one of the finest examples of Renaissance sculpture in northern Europe. Inside, the Stirling Heads: 38 carved oak medallion portraits of monarchs, nobles and mythological figures that once decorated the ceiling of the King's Inner Hall, now displayed in the palace rooms after painstaking conservation.\n\nStirling's history is inseparable from Scotland's defining moments. William Wallace's victory at Stirling Bridge (1297) was fought within sight of the rock. Robert the Bruce's decisive victory at Bannockburn (1314) — which secured Scottish independence for a generation — took place 2km south of the castle. Mary Queen of Scots was crowned here at nine months old in 1543. James VI, who would unite the Scottish and English crowns, spent much of his childhood within these walls.",
+  "history": "The rock at Stirling has been occupied since prehistoric times, but recorded castle history begins with Alexander I, who held court here in the early 12th century. The castle's strategic importance made it the prize of the Wars of Independence: Edward I of England captured it in 1296 (having already taken Edinburgh Castle), and it changed hands repeatedly between English and Scottish forces until Robert the Bruce's victory at Bannockburn in 1314 settled the question — temporarily — in Scotland's favour.\n\nThe Stewarts transformed Stirling from a military fortress into a royal residence. James III was born here; James IV held magnificent tournaments in the lists below the castle walls. James V, who had grown up in France and absorbed Renaissance culture with enthusiasm, commissioned the Royal Palace between 1538 and 1542 — a building that imported Italian and French decorative ideas into a Scottish Gothic structure with startling originality. His daughter Mary Queen of Scots was crowned in the Chapel Royal at nine months old, having inherited the throne immediately after her father's death at Flodden.\n\nThe castle declined as a royal residence after James VI inherited the English throne in 1603 and moved his court to London. It remained a military garrison for centuries, with the army occupying much of the site until 1964. Historic Scotland (now Historic Environment Scotland) took control and began the restoration of the Royal Palace, completed in 2011 — a project that included recreating the unicorn tapestries based on the Hunt of the Unicorn series at the Cloisters Museum in New York, which scholars believe were originally woven for Stirling.",
+  "how_to_visit": "**Getting there:** Stirling is on the main Edinburgh–Glasgow railway line, with frequent direct trains from both cities (45 min from Edinburgh, 40 min from Glasgow). Stirling station is a 20-minute walk uphill to the castle, or a 5-minute taxi. By car from Edinburgh, 1 hour via M9; from Glasgow, 45 min.\n\n**Combine with:** The Wallace Monument (2km northeast of the castle, unmissable tower on the Abbey Craig) and the Bannockburn Heritage Centre (2km south) make Stirling a full day of Scottish history. Both are within easy walking distance of the town centre. Doune Castle (25km northwest) is worth the short drive if you have a car — it's the filming location for Monty Python and the Holy Grail and Game of Thrones' Winterfell exteriors.",
+  "faqs": [
+    {
+      "question": "What are the Stirling Heads?",
+      "answer": "The Stirling Heads are 38 carved oak medallion portraits — depicting monarchs, courtiers, mythological figures and classical heroes — that originally decorated the ceiling of the King's Inner Hall in the Royal Palace, probably installed around 1540. They are considered the most important works of Renaissance sculpture in Scotland. The original heads, damaged and dispersed over centuries, are displayed in the palace alongside high-quality replicas in the reconstructed ceiling."
+    },
+    {
+      "question": "What is the difference between Stirling Castle and Edinburgh Castle?",
+      "answer": "Edinburgh Castle is Scotland's most visited paid attraction and contains the Scottish Crown Jewels and Stone of Destiny. Stirling is less crowded, has arguably more impressive Renaissance architecture (the Royal Palace interior is finer), and offers better views of the surrounding landscape including Bannockburn. Both are operated by Historic Environment Scotland. If you can only do one, Edinburgh is the more famous — but Stirling rewards the extra effort."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/stirling-castle.webp",
+    "alt": "Stirling Castle on its volcanic rock above the Forth Valley, with the Wallace Monument visible in the distance",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/stirling-castle.webp",
+  "instagram_tag": "#stirlingcastle",
+  "meta_title": "Stirling Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Stirling Castle — Scotland's finest Renaissance palace, site of royal coronations and gateway to the Highlands. Tickets, tours and visitor guide.",
+  "tags": [
+    "medieval",
+    "renaissance",
+    "royal-residence",
+    "dramatic",
+    "instagram-worthy"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "scottish-highlands-castles"
+  ],
+  "nearby_castles": [
+    "edinburgh-castle",
+    "doune-castle",
+    "eilean-donan-castle"
+  ],
+  "gyg_location_id": "44",
+  "gyg_search_query": "Stirling Castle Scotland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "94182",
+      "title": "Edinburgh: Stirling Castle, Kelpies & Loch Lomond",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 70,
+      "rating": 4.7,
+      "reviews": 1108,
+      "covers_castles": []
+    }
+  ]
+}

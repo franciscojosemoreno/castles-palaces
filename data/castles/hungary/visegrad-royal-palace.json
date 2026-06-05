@@ -1,0 +1,82 @@
+{
+  "id": "visegrad-royal-palace",
+  "name": "Visegrád Royal Palace",
+  "local_name": "Visegrádi Királyi Palota",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 130000,
+  "country": "hungary",
+  "region": "Pest County, Danube Bend",
+  "nearest_city": "Budapest",
+  "address": "Fő utca 27, 2025 Visegrád, Hungary",
+  "lat": 47.7895,
+  "lng": 18.9804,
+  "unesco": false,
+  "year_built": 1323,
+  "architectural_style": "Hungarian Gothic / Renaissance",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Open Tuesday to Sunday. Extended to 18:00 in summer. Closed Mondays and major Hungarian holidays."
+  },
+  "price_adult": 5,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.visegradmuzeum.hu",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Good — excavated palace on flat terrain; main areas accessible",
+  "booking_advance_days": 0,
+  "tagline": "The Renaissance palace of Matthias Corvinus — once the most splendid court north of the Alps",
+  "highlights": [
+    "Most important Renaissance palace in Hungary",
+    "Residence of Matthias Corvinus — Hungary's greatest Renaissance king",
+    "Described by contemporaries as among the most splendid palaces in Europe",
+    "Stunning Danube Bend views from the hillside above the excavations",
+    "Adjacent Visegrád Upper Castle on the hilltop above"
+  ],
+  "description": "The Royal Palace of Visegrád was once the most celebrated Renaissance court north of the Alps — a palace of fountains, hanging gardens, and gilded halls that dazzled the ambassadors of Renaissance Europe. Built from 1323 for King Charles I of Hungary at the heart of the spectacular Danube Bend, the palace reached its peak under Matthias Corvinus (r. 1458–1490), who transformed it into a Renaissance masterpiece with Italian marble, carved reliefs, and a celebrated Hercules Fountain. Contemporary accounts described it as unmatched in splendour outside Italy. After the Ottoman occupation the palace was abandoned and buried under centuries of silt and rubble, only rediscovered by archaeologists in 1934. Ongoing excavations have revealed the fountain court, chapel, and throne room, displayed in situ alongside a museum of carved stonework.",
+  "history": "Built by Angevin King Charles I of Hungary from 1323, the palace was expanded by subsequent Hungarian kings. Matthias Corvinus undertook the major Renaissance reconstruction from 1458, importing Italian craftsmen and acquiring a celebrated library. After Matthias died in 1490 the palace declined rapidly. The Ottomans occupied Visegrád from 1544; the palace was looted and eventually buried under landslides. Archaeological work began in 1934 and continues today, steadily uncovering new sections of the once-magnificent complex.",
+  "how_to_visit": "Visegrád is 45 km north of Budapest on the west bank of the Danube. Regular buses run from Budapest Árpád híd station (1 hour). In summer, Danube riverboats connect Budapest, Visegrád, and Esztergom — a highly recommended way to travel. Combine the palace with the Visegrád Upper Castle on the hilltop (separate ticket, 20-minute walk up) for a full day.",
+  "faqs": [
+    {
+      "question": "Why was the palace buried underground?",
+      "answer": "After the Ottoman occupation and subsequent abandonment, the terraced palace was gradually buried by landslides from the hillside above, preserving it until 20th-century excavations revealed it."
+    },
+    {
+      "question": "What is the Hercules Fountain?",
+      "answer": "A celebrated Renaissance marble fountain decorated with reliefs of Hercules, installed by Matthias Corvinus in the palace courtyard. A reconstruction stands on site; original fragments are in the museum."
+    },
+    {
+      "question": "Can I also visit the Upper Castle?",
+      "answer": "Yes — the impressive Visegrád Upper Castle on the hilltop above the town is a separate site offering panoramic Danube Bend views. It is 20 minutes on foot from the palace."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/visegrad-royal-palace.webp",
+    "alt": "Excavated courtyard of Visegrád Royal Palace on the Danube Bend in Hungary",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/visegrad-royal-palace.webp",
+  "instagram_tag": "#visegradpalace",
+  "meta_title": "Visegrád Royal Palace, Hungary — Renaissance Court on the Danube Bend",
+  "meta_description": "Visit Visegrád Royal Palace in Hungary — the excavated Renaissance palace of Matthias Corvinus, once Europe's most splendid court north of the Alps.",
+  "tags": ["renaissance", "hungarian-castle", "danube-bend", "matthias-corvinus", "palace"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["esztergom-castle"],
+  "gyg_location_id": "2507",
+  "gyg_search_query": "Visegrad palace Danube Bend tour Budapest",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

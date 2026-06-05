@@ -1,0 +1,100 @@
+{
+  "id": "prague-castle",
+  "name": "Prague Castle",
+  "local_name": "Pražský hrad",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 2590000,
+  "country": "czech-republic",
+  "region": "Bohemia",
+  "nearest_city": "Prague",
+  "address": "Hradčany, 119 08 Prague 1, Czech Republic",
+  "lat": 50.0909,
+  "lng": 14.4005,
+  "unesco": true,
+  "year_built": 870,
+  "architectural_style": "Gothic, Baroque, Romanesque — multiple styles across centuries",
+  "opening_hours": {
+    "monday": "06:00–22:00 (grounds) / 09:00–17:00 (interiors Apr–Oct)",
+    "tuesday": "06:00–22:00 (grounds) / 09:00–17:00 (interiors Apr–Oct)",
+    "wednesday": "06:00–22:00 (grounds) / 09:00–17:00 (interiors Apr–Oct)",
+    "thursday": "06:00–22:00 (grounds) / 09:00–17:00 (interiors Apr–Oct)",
+    "friday": "06:00–22:00 (grounds) / 09:00–17:00 (interiors Apr–Oct)",
+    "saturday": "06:00–22:00 (grounds) / 09:00–17:00 (interiors Apr–Oct)",
+    "sunday": "06:00–22:00 (grounds) / 09:00–17:00 (interiors Apr–Oct)",
+    "seasonal_note": "Grounds and courtyards free, open 06:00–22:00 daily. Interior attractions (Cathedral, Old Royal Palace, etc.) require a ticket and are open Apr–Oct 09:00–17:00, Nov–Mar 09:00–16:00."
+  },
+  "price_adult": 14,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hrad.cz/en/visitors",
+  "visit_duration": "3–4 hours",
+  "best_season": "May, September and October for pleasant weather and manageable crowds",
+  "accessibility": "The castle grounds have uneven cobblestones and steep hills. Some interiors have stairs. Wheelchair access to some sections.",
+  "booking_advance_days": 0,
+  "tagline": "The world's largest ancient castle complex, rising above a thousand years of Czech history",
+  "highlights": [
+    "St. Vitus Cathedral — Gothic masterpiece housing the Bohemian Crown Jewels",
+    "The world's largest ancient castle by area: 70,000 square metres",
+    "The Golden Lane — a row of tiny colourful medieval cottages within the castle walls",
+    "Breathtaking panoramic views over Prague's red rooftops from the castle battlements",
+    "Franz Kafka lived and wrote in a cottage on Golden Lane in 1916–17"
+  ],
+  "description": "Prague Castle is a superlative in a city full of them. According to the Guinness World Records, it is the largest ancient castle complex in the world: a fortified hilltop district covering 70,000 square metres that contains palaces, churches, galleries, gardens and a street of tiny medieval cottages, all presiding over one of Europe's best-preserved historic city centres.\n\nThe castle is not a single building but a walled city within a city. Entering through the main gates (where the changing of the guard takes place on the hour), you pass through three courtyards of increasing age and grandeur before arriving at St. Vitus Cathedral, whose Gothic façade fills the second courtyard completely. The Cathedral alone merits an hour — its stained glass windows include one designed by Alphonse Mucha, its crypt contains the remains of Bohemian kings, and its treasuries hold the Bohemian Crown Jewels (shown only on select occasions).\n\nBeyond the Cathedral, the Old Royal Palace reveals the administrative history of Bohemia across seven centuries. The Vladislav Hall, built in 1493, is a single vaulted space of remarkable scale — it once held jousting tournaments indoors. The Golden Lane, tucked behind the castle's northern ramparts, is something else entirely: a row of miniature Gothic and Renaissance cottages built into the castle walls, home to goldsmiths, castle guards and, famously, Franz Kafka, who used cottage no. 22 as a writing retreat in 1916–17.\n\nThe grounds are free to explore, and many visitors spend hours simply walking the courtyards and terraced gardens without buying an interior ticket. But the cathedral and its associated buildings repay the entry cost many times over.",
+  "history": "Prague Castle's foundation is traditionally dated to around 870 AD, when Prince Bořivoj of the Přemyslid dynasty built a wooden fortress on the rocky promontory above the Vltava river. What began as a practical defensive fortification evolved over the next twelve centuries into the complex that stands today — a palimpsest of architectural styles that reads like a history of Central European civilisation.\n\nThe Romanesque elements date from the 11th and 12th centuries, when the Přemyslid princes expanded the wooden structures into stone palaces and basilicas. The Gothic Cathedral of St. Vitus was begun in 1344 by Emperor Charles IV, who made Prague the capital of the Holy Roman Empire and the most important city in Europe outside Rome. Construction continued for nearly six centuries — the cathedral was not fully completed until 1929.\n\nThe Habsburg dynasty took control of Bohemia in 1526 and ruled from the castle for over 400 years, leaving their mark in Baroque palaces, gardens and churches. The 17th century brought the Thirty Years' War, which began in Prague when Protestant nobles literally threw two Catholic governors from a castle window in 1618 (the 'Defenestration of Prague') — a political act that plunged Europe into its bloodiest conflict.\n\nFollowing the collapse of the Habsburg Empire in 1918, Prague Castle became the seat of the Czechoslovak presidency, a role it continues to hold today. Tomáš Masaryk, the first Czechoslovak president, hired the Slovenian architect Josip Plečnik to redesign the castle grounds in the 1920s — Plečnik's humanist modifications, including garden staircases, fountains and obelisks, are still visible and debated by architects today.",
+  "how_to_visit": "**Getting there from central Prague:** Metro Line A to Malostranská station, then walk uphill through Malá Strana (15–20 minutes). Alternatively, tram 22 to Pražský hrad stop delivers you directly to the castle gates. The walk from the Old Town across Charles Bridge and up through Malá Strana is one of the great urban walks in Europe — allow an extra 45 minutes if you take this route.\n\n**Tickets:** Grounds and courtyards are free. To enter the Cathedral, Old Royal Palace, Basilica of St. George and Golden Lane, buy Circuit B (€14 adults) or Circuit A (€16, adds the Powder Tower and Story of Prague Castle exhibition). Buy at the ticket centres in the Second Courtyard or online.\n\n**Changing of the Guard:** Happens on the hour at the main gate, with a more elaborate ceremony at noon including a fanfare. Worth timing your arrival accordingly.\n\n**Crowds:** The main entrance from Hradčany Square is extremely crowded. Consider entering from the east via the Old Castle Stairs (coming up from Malostranská metro) — you emerge near the Golden Lane with far fewer people and walk the complex in reverse, reaching the Cathedral from the quieter side.\n\n**Best views of Prague:** The southern terrace gardens below the castle (open April–October) offer spectacular views over Malá Strana and the river. The castle itself is best photographed from Charles Bridge or from the Letná park across the river.",
+  "faqs": [
+    {
+      "question": "Is Prague Castle free to enter?",
+      "answer": "The castle grounds, outer courtyards and gardens are free to enter and explore without a ticket. To access the key interiors — St. Vitus Cathedral, the Old Royal Palace, the Basilica of St. George and the Golden Lane — you need to buy a circuit ticket (€14–16 for the most useful combinations). Some people are surprised to find they've walked through the whole complex without paying, and missed everything inside."
+    },
+    {
+      "question": "How long does it take to visit Prague Castle?",
+      "answer": "Allow 3–4 hours to cover the main highlights: 1 hour for St. Vitus Cathedral, 45 minutes for the Old Royal Palace, 30 minutes for Golden Lane, and time to walk the grounds and enjoy the views. A full day is needed if you also want to explore the southern gardens, the Story of Prague Castle exhibition and the Lobkowicz Palace (a separate private museum within the complex)."
+    },
+    {
+      "question": "What is the best time to visit Prague Castle?",
+      "answer": "Early morning (opening at 09:00) on a weekday significantly reduces crowds. The castle's popularity means the Cathedral and Golden Lane can be very congested by 11am in summer. May, September and October offer the best weather and lighter summer crowds. In winter (Nov–Feb), the castle is cold and some gardens close, but crowds are minimal and the atmosphere in the cathedral is particularly atmospheric."
+    },
+    {
+      "question": "What is the connection between Kafka and Prague Castle?",
+      "answer": "Franz Kafka, Prague's most famous literary son, rented cottage no. 22 on Golden Lane from his sister Ottla during the winter of 1916–17. He used the tiny space as a writing retreat and composed some of his short stories there. The connection to the Castle is also literary — Kafka's novel 'The Castle' (1926), about a land surveyor who can never quite gain access to the mysterious castle that governs the village, draws on Prague's own dark bureaucratic geography, though Kafka denied it was autobiographical."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/prague-castle.webp",
+    "alt": "Prague Castle and St. Vitus Cathedral rising above the Vltava river and red rooftops of Malá Strana",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/prague-castle.webp",
+  "instagram_tag": "#praguecastle",
+  "meta_title": "Prague Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Prague Castle — the world's largest ancient castle. Skip the queues with timed tickets, explore St. Vitus Cathedral and the Golden Lane. Complete visitor guide.",
+  "tags": [
+    "gothic",
+    "medieval",
+    "unesco-world-heritage",
+    "royal-residence",
+    "romantic",
+    "instagram-worthy",
+    "family-friendly"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "bohemia-castle-road",
+    "central-europe-palaces"
+  ],
+  "nearby_castles": [
+    "cesky-krumlov-castle",
+    "karlstejn-castle"
+  ],
+  "gyg_location_id": "540",
+  "gyg_search_query": "Prague Castle guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

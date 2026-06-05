@@ -1,0 +1,99 @@
+{
+  "id": "prague-castle-guided-tour",
+  "slug": "prague-castle-guided-tour",
+  "name": "Prague Castle Small Group Tour with Local Guide & Entry Tickets",
+  "tagline": "The largest ancient castle complex in the world — 1,000 years of Bohemian history on a hill above the Vltava",
+  "departure_country": "czech-republic",
+  "departure_city": "Prague",
+  "visited_countries": [
+    "czech-republic"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 2.5 hours",
+  "gyg_tour_id": "219531",
+  "price_from": 52,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 11049,
+  "languages": [
+    "English",
+    "Spanish",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "max_group_size": 12,
+  "overview": "Prague Castle is the largest ancient castle complex in the world — covering 70,000 square metres of palaces, churches, gardens, and galleries on a ridge above the Vltava river. It has been the seat of Bohemian kings, Holy Roman Emperors, Austro-Hungarian governors, and Czech presidents for over a thousand years. The complex contains St Vitus Cathedral (where the Bohemian Crown Jewels are kept), the Old Royal Palace with its breathtaking Vladislav Hall, the Romanesque St George's Basilica, and the Golden Lane where Franz Kafka briefly lived. A licensed local guide turns this labyrinth into a coherent story.",
+  "highlights": [
+    "Skip-the-line entry to Prague Castle",
+    "Licensed local guide — small group (max 12)",
+    "Visit St Vitus Cathedral and the Bohemian Crown Jewels vault",
+    "Walk the Golden Lane where Franz Kafka wrote in 1916",
+    "Panoramic views over Prague's red rooftops and the Vltava"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "prague-castle",
+      "castle_name": "St Vitus Cathedral & Old Royal Palace",
+      "duration": "1 hour",
+      "description": "Begin in the Third Courtyard — the heart of the castle. Enter St Vitus Cathedral, the largest church in Bohemia, where the Bohemian Crown Jewels are locked behind seven keys held by seven different custodians. See the silver tomb of St John of Nepomuk and the Mucha stained glass window. Cross to the Old Royal Palace and the extraordinary Vladislav Hall — large enough to hold jousting tournaments on horseback."
+    },
+    {
+      "order": 2,
+      "castle_id": "prague-castle",
+      "castle_name": "Golden Lane & St George's Basilica",
+      "duration": "1 hour",
+      "description": "Walk the Golden Lane — a row of tiny colourful houses built into the castle wall in the 16th century for castle guards. House No. 22 was rented by Franz Kafka from 1916 to 1917, where he wrote several stories in what he called 'the most comfortable room I've ever lived in.' The Romanesque St George's Basilica (920 AD) is the oldest surviving church in the castle."
+    },
+    {
+      "order": 3,
+      "castle_id": "prague-castle",
+      "castle_name": "Castle Viewpoints",
+      "duration": "30 minutes",
+      "description": "Walk the castle's south gardens and terrace for the finest elevated views over the city — the orange rooftops, the Charles Bridge crossing the Vltava, and the church towers of Malá Strana stretching to the horizon."
+    }
+  ],
+  "included": [
+    "Skip-the-line castle entry",
+    "Licensed local guide",
+    "St Vitus Cathedral access",
+    "Golden Lane access",
+    "Small group (max 12)"
+  ],
+  "excluded": [
+    "Hotel pickup/dropoff",
+    "Gratuities"
+  ],
+  "meeting_point": "Prague Castle main gate, Hradčanské náměstí, Prague",
+  "tips": [
+    "The castle is busiest 10am–2pm — book the first slot of the day for the smallest crowds",
+    "Wear comfortable shoes — the castle complex is large and on a hill",
+    "The Stag Moat on the north side is free to walk and completely uncrowded",
+    "The view from the castle's south terrace at sunset is one of the finest in Central Europe"
+  ],
+  "faqs": [
+    {
+      "question": "Why are the Bohemian Crown Jewels so difficult to see?",
+      "answer": "The crown jewels are stored in a chamber in St Vitus Cathedral secured by seven locks — each key held by a different custodian including the Czech President, Prime Minister, and Archbishop of Prague. They are displayed publicly only on rare national occasions, typically every five years."
+    },
+    {
+      "question": "Is Prague Castle the same as the old town?",
+      "answer": "No — Prague Castle (Hradčany) is on the west bank of the Vltava, while the Old Town (Staré Město) is on the east. They are connected by the Charles Bridge. Most visitors explore both on the same day."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/prague-castle-guided-tour.webp",
+    "alt": "Prague Castle and St Vitus Cathedral rising above the Vltava river at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Prague Castle Guided Tour with Entry Tickets | Castles & Palaces",
+    "description": "Book the Prague Castle small-group guided tour. Skip-the-line entry, St Vitus Cathedral, Golden Lane, panoramic views. From €52. 11,000+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/prague-l10/prague-castle-small-group-tour-with-local-guide-admission-t219531/"
+}

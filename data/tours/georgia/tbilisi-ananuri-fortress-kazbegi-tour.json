@@ -1,0 +1,92 @@
+{
+  "id": "tbilisi-ananuri-fortress-kazbegi-tour",
+  "slug": "tbilisi-ananuri-fortress-kazbegi-tour",
+  "name": "From Tbilisi: Ananuri Fortress, Gudauri & Kazbegi Day Trip",
+  "tagline": "A 13th-century castle reflected in a mountain reservoir on the road to the Caucasus",
+  "departure_country": "georgia",
+  "departure_city": "Tbilisi",
+  "visited_countries": [
+    "georgia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (12 hours)",
+  "gyg_tour_id": "466188",
+  "gyg_url": "https://www.getyourguide.com/tbilisi-l1379/tbilisi-ananuri-gudauri-kazbegi-full-day-group-tour-t466188/",
+  "price_from": 32,
+  "currency": "USD",
+  "rating": 4.7,
+  "review_count": 620,
+  "languages": [
+    "English",
+    "Russian",
+    "Georgian"
+  ],
+  "max_group_size": 20,
+  "overview": "The Georgian Military Highway runs north from Tbilisi through the Great Caucasus, climbing past alpine meadows and ancient fortresses to the 5,047-metre Mount Kazbek on the Russian border. It is one of the great mountain roads of the world, and the journey passes one of the most strikingly positioned fortresses in Europe: Ananuri Castle, a 13th-century stronghold of the Dukes of Aragvi that sits above the turquoise waters of the Zhinvali Reservoir as though it were a painting. This day trip from Tbilisi combines Ananuri Fortress with the ski resort plateau of Gudauri (2,200m) and the mountain town of Kazbegi (Stepantsminda), where the 14th-century Gergeti Trinity Church perches on a cliff 2,170 metres above sea level with the glacial summit of Kazbek behind it.",
+  "highlights": [
+    "Explore Ananuri Fortress — a 13th-century castle complex of the Dukes of Aragvi, with two towers, two churches, and battlements reflected in the turquoise Zhinvali Reservoir below",
+    "Drive through the Great Caucasus at Gudauri (2,200m) for panoramic views of the mountain highway and the Caucasus range stretching east toward Azerbaijan",
+    "See the Gergeti Trinity Church at Kazbegi — a 14th-century stone church on a cliff at 2,170m with the glacial 5,047m Mount Kazbek directly behind it, one of the most extraordinary views in Europe",
+    "Walk inside both of Ananuri's medieval churches: the 17th-century Church of the Assumption with original frescoes and the 16th-century Church of the Redeemer",
+    "Experience the Georgian Military Highway, built by Russian imperial engineers in the 19th century through the Caucasus — a route used by traders, pilgrims, and armies for over 2,000 years"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Ananuri Fortress",
+      "duration": "1.5 hours",
+      "description": "Drive 72 km north of Tbilisi to Ananuri on the shores of the artificial Zhinvali Reservoir. The fortress complex was the seat of the Aragvispiri (Dukes of Aragvi), who controlled this mountain pass from the 13th century until their clan was extinguished by a rival duke in 1743. The complex includes the main Keep Tower (Sheupovari), the smaller older tower, the Church of the Assumption (17th century) with well-preserved frescoes of the Virgin and warrior saints, and the Church of the Redeemer (16th century) decorated with relief carvings of grapevines and crosses. The reservoir was created in the 1980s and has transformed the castle's setting from a river valley fortress to an island-like position above turquoise water — now one of the most photographed views in Georgia."
+    },
+    {
+      "order": 2,
+      "castle_name": "Gudauri — Caucasus Viewpoint",
+      "duration": "45 minutes",
+      "description": "Continue north on the Georgian Military Highway as it climbs to Gudauri at 2,200 metres, passing the Russian-era Cross Pass (Jvari Pass) viewpoint at 2,395m. Stop at the Friendship Monument — a Soviet-era circular mosaic panorama celebrating Georgian-Russian friendship, now somewhat ironic — and photograph the dramatic valley below with the Caucasus ridgeline extending in every direction. In winter, Gudauri is Georgia's main ski resort; in summer it is a paragliding hub with outstanding views."
+    },
+    {
+      "order": 3,
+      "castle_name": "Gergeti Trinity Church — Kazbegi",
+      "duration": "2 hours",
+      "description": "Arrive in Kazbegi (Stepantsminda), a mountain town at 1,740m above sea level. The 14th-century Gergeti Trinity Church (Tsminda Sameba) sits on a cliff at 2,170m above the town, with the glacial cone of Mount Kazbek (5,047m) directly behind it. A 4WD vehicle takes the group up the mountain track to the church, which has been a place of pilgrimage since the medieval period. Inside, the walls retain fragments of medieval frescoes. The view from the church toward the Russian border and the Caucasus is among the most dramatic mountain panoramas in Europe. Free time in Kazbegi for lunch before the return to Tbilisi."
+    }
+  ],
+  "included": [
+    "Air-conditioned minivan from Tbilisi with hotel pickup",
+    "Professional English-speaking guide",
+    "4WD vehicle to Gergeti Trinity Church from Kazbegi town"
+  ],
+  "excluded": [
+    "Ananuri Fortress entrance fee (approx. $1)",
+    "Meals and drinks",
+    "Optional horse riding at Kazbegi (paid on site)"
+  ],
+  "meeting_point": "Hotel pickup from central Tbilisi (confirm exact address at booking). Return to Tbilisi by late evening.",
+  "tips": [
+    "Dress in layers — Kazbegi is 1,740m above sea level and temperatures can be 10–15°C cooler than Tbilisi even in summer",
+    "The Gergeti Trinity Church track can be impassable after heavy rain — the 4WD transfer is essential and included in the tour",
+    "Photography at Ananuri is best in the morning when the light falls directly on the fortress walls and the reservoir is calm",
+    "Book at least 2 days in advance — this is one of the most popular day trips from Tbilisi and groups fill up quickly"
+  ],
+  "faqs": [
+    {
+      "question": "Is Georgia considered part of Europe for this website?",
+      "answer": "Georgia is a transcontinental country on the border of Europe and Asia, a member of the Council of Europe since 1999, and a candidate for European Union membership. Like Turkey (also featured on this site), its extraordinary medieval fortresses and castle culture are an essential part of the wider European heritage landscape."
+    },
+    {
+      "question": "Is the Gergeti Trinity Church accessible without the 4WD?",
+      "answer": "The church can be reached on foot in about 1.5 hours from Kazbegi town. The 4WD transfer is faster and is included in this tour, but fit visitors can ask to walk and rejoin the group. The hiking trail is strenuous but beautiful."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/tbilisi-ananuri-fortress-kazbegi-tour.webp",
+    "alt": "Ananuri Fortress towers reflected in the turquoise Zhinvali Reservoir with the Caucasus mountains behind",
+    "credit": "Castles & Palaces",
+    "width": 1920,
+    "height": 1280
+  },
+  "meta": {
+    "title": "Ananuri Fortress & Kazbegi Day Trip from Tbilisi, Georgia | Castles & Palaces",
+    "description": "Day trip from Tbilisi: explore Ananuri Fortress reflected in a mountain reservoir, cross the Great Caucasus at Gudauri, and see the Gergeti Trinity Church above 5,000m Mount Kazbek. Book on GetYourGuide."
+  }
+}

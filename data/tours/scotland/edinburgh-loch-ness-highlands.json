@@ -1,0 +1,92 @@
+{
+  "id": "edinburgh-loch-ness-highlands",
+  "slug": "edinburgh-loch-ness-highlands",
+  "name": "Loch Ness, Glencoe & Scottish Highlands Day Trip from Edinburgh",
+  "tagline": "Eilean Donan Castle, the mysterious Loch Ness, and the wild Glencoe valley in one epic day",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 13 hours",
+  "gyg_tour_id": "385687",
+  "price_from": 45,
+  "currency": "GBP",
+  "rating": 4.7,
+  "review_count": 18856,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "One of Scotland's most celebrated day tours takes you deep into the Highlands, past the brooding Glencoe valley, along the legendary Loch Ness, and to the impossibly photogenic Eilean Donan Castle — arguably the most photographed castle in Scotland. Small group size ensures a personal experience.",
+  "highlights": [
+    "Visit Eilean Donan Castle, Scotland's most iconic fortress",
+    "Cruise on Loch Ness with monster-spotting opportunity",
+    "Drive through the dramatic Glencoe valley",
+    "Small-group tour (max 16) for a personal experience",
+    "Expert Scottish guide with local knowledge"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "eilean-donan-castle",
+      "castle_name": "Eilean Donan Castle",
+      "duration": "1 hour",
+      "description": "Visit the most photographed castle in Scotland, sitting on a small island where three lochs meet. Tour the medieval banqueting hall, armoury, and the Jacobite memorial room."
+    },
+    {
+      "order": 2,
+      "castle_id": "loch-ness",
+      "castle_name": "Loch Ness",
+      "duration": "1 hour",
+      "description": "Optional boat cruise on the world-famous loch. Visit the Loch Ness Centre and see the ruins of Urquhart Castle on the shores."
+    },
+    {
+      "order": 3,
+      "castle_id": "glencoe-valley",
+      "castle_name": "Glencoe Valley",
+      "duration": "45 minutes",
+      "description": "Scenic stop in the dramatic Highland valley made famous by the 1692 massacre and featured in James Bond and Harry Potter films."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Edinburgh",
+    "Expert guide",
+    "Loch Ness cruise (selected departures)"
+  ],
+  "excluded": [
+    "Eilean Donan entry fee (approx £8)",
+    "Lunch and refreshments",
+    "Gratuities"
+  ],
+  "meeting_point": "Edinburgh city centre — confirmed at booking",
+  "tips": [
+    "Departs very early (around 6:30–7am) — get a good night's sleep",
+    "Dress in warm layers; Highland weather is unpredictable year-round",
+    "The small group size (max 16) makes this feel like a private tour"
+  ],
+  "faqs": [
+    {
+      "question": "Is Eilean Donan Castle entry included?",
+      "answer": "Transport to the castle is included; the entry fee (approx £8) is paid on arrival. Check your specific booking for updates."
+    },
+    {
+      "question": "Can I see the Loch Ness monster?",
+      "answer": "The monster remains unconfirmed, but the cruise gives you the best possible chance. The loch's scenery alone is worth the trip."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-loch-ness-highlands.webp",
+    "alt": "Eilean Donan Castle reflected in the still waters of Loch Duich at dawn",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Loch Ness & Eilean Donan Castle Day Trip from Edinburgh | Castles & Palaces",
+    "description": "Explore Eilean Donan Castle, Loch Ness and Glencoe on a small-group day trip from Edinburgh. From £45 per person. 18,000+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/edinburgh-loch-ness-glencoe-the-scottish-highlands-tour-t385687/"
+}

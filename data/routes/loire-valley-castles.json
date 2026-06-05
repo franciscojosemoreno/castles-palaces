@@ -1,0 +1,42 @@
+{
+  "id": "loire-valley-castles",
+  "name": "Loire Valley Castles",
+  "tagline": "The garden of France — 42 châteaux along the world's most elegant river",
+  "description": "The Loire Valley is France's greatest concentration of Renaissance architecture and the closest thing Europe has to a purpose-built landscape of châteaux. Kings and queens chose this stretch of the Loire — between Gien and Angers, 280km of river valley — as their preferred setting for five centuries, commissioning one extraordinary building after another in a competition of stone, slate and formal geometry.\n\nThe result is a UNESCO World Heritage route where almost every road leads to another masterpiece: Chambord's impossible roofline, Chenonceau spanning the Cher, Amboise rising from its clifftop, Cheverny preserved exactly as its owners left it in the 17th century. No other region in Europe offers this density of high-quality castle visiting within such a compact, navigable geography.\n\nThe Loire Valley is ideally explored by bicycle — the EuroVelo 6 cycle route runs the length of the valley on traffic-free paths, connecting Blois, Amboise and Chenonceaux through vineyard villages and riverside forest. By car, you can cover 4–5 châteaux in a day. By bicycle, 2–3 is a more satisfying pace. Base yourself in Tours (the largest city, excellent train connections to Paris) or Amboise (smaller, more charming, central).",
+  "hero_image": {
+    "url": "/images/routes/loire-valley-castles.webp",
+    "alt": "Château de Chambord reflected in the Cosson river at dawn — the Loire Valley's most theatrical château",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "france"
+  ],
+  "castles": [
+    "palace-of-versailles",
+    "chateau-de-chambord",
+    "chateau-de-chenonceau",
+    "chateau-damboise",
+    "chateau-de-cheverny"
+  ],
+  "distance_km": 280,
+  "duration_days": "3–5 days",
+  "difficulty": "easy",
+  "map_center": {
+    "lat": 47.5,
+    "lng": 1.0
+  },
+  "tags": [
+    "renaissance",
+    "cycling",
+    "wine-region",
+    "day-trip-from-paris",
+    "family-friendly"
+  ],
+  "gyg_search_query": "Loire Valley châteaux tour",
+  "thumbnail_image": {
+    "url": "/images/routes/loire-valley-castles-thumb.webp",
+    "alt": "Château de Chambord reflected in the Cosson river at dawn — the Loire Valley's most theatrical château"
+  }
+}

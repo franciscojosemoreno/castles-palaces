@@ -1,0 +1,87 @@
+{
+  "id": "manchester-north-wales-caernarfon-conwy",
+  "slug": "manchester-north-wales-caernarfon-conwy",
+  "name": "North Wales Castles Day Trip from Manchester — Caernarfon & Conwy",
+  "tagline": "Two of Edward I's greatest fortresses — the finest medieval castle-building project in British history",
+  "departure_country": "england",
+  "departure_city": "Manchester",
+  "visited_countries": [
+    "wales"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 10 hours",
+  "gyg_tour_id": "468819",
+  "price_from": 49,
+  "currency": "GBP",
+  "rating": 4.8,
+  "review_count": 228,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "In the 1280s, Edward I of England built an Iron Ring of castles around North Wales to consolidate his conquest — the most ambitious and expensive castle-building programme in medieval European history. Caernarfon and Conwy are the two greatest survivals: both UNESCO World Heritage Sites, both still largely intact after 700 years, both rising from the water's edge in a way that makes them look exactly as a medieval castle should. This small-group day trip from Manchester covers both in a single extraordinary day through the mountains of Snowdonia.",
+  "highlights": [
+    "Visit Caernarfon Castle — birthplace of the Prince of Wales since 1284",
+    "Explore Conwy Castle and its complete medieval town walls",
+    "Drive through Snowdonia National Park",
+    "Small group (max 16) with an expert Welsh guide",
+    "Both castles are UNESCO World Heritage Sites"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "conwy-castle",
+      "castle_name": "Conwy Castle",
+      "duration": "1.5 hours",
+      "description": "Begin at Conwy — a castle and walled town so complete that you can still walk the full circuit of medieval walls. Built by Edward I between 1283 and 1289, the eight towers and two great halls are remarkably intact. Views from the battlements over the Conwy estuary are superb."
+    },
+    {
+      "order": 2,
+      "castle_id": "caernarfon-castle",
+      "castle_name": "Caernarfon Castle",
+      "duration": "2 hours",
+      "description": "The centrepiece of Edward I's Iron Ring — a polygonal castle of immense scale with colour-banded masonry influenced by the walls of Constantinople. In 1284, the future Edward II was born here and presented to the Welsh as their new Prince of Wales. In 1969, Prince Charles was invested here in the same ceremony. The Eagle Tower is the finest surviving medieval tower in Britain."
+    }
+  ],
+  "included": [
+    "Round-trip coach from Manchester",
+    "Expert guide",
+    "Conwy Castle entry",
+    "Caernarfon Castle entry"
+  ],
+  "excluded": [
+    "Lunch",
+    "Personal expenses",
+    "Gratuities"
+  ],
+  "meeting_point": "Manchester city centre — confirmed at booking",
+  "tips": [
+    "Both castles involve significant walking and uneven medieval surfaces — wear sturdy shoes",
+    "The drive through Snowdonia between the two castles is spectacular — sit on the right side of the coach for mountain views",
+    "Conwy town walls are free to walk and give the best exterior view of the castle",
+    "Caernarfon town has excellent Welsh bakeries for lunch between stops"
+  ],
+  "faqs": [
+    {
+      "question": "Why are both Conwy and Caernarfon UNESCO World Heritage Sites?",
+      "answer": "They are part of the Castles and Town Walls of King Edward in Gwynedd — a UNESCO site recognising Edward I's complete castle and fortified town complexes as the finest example of late 13th-century military architecture in Europe."
+    },
+    {
+      "question": "Can I do this trip from Liverpool or Chester instead?",
+      "answer": "Yes — the same operator runs very similar tours departing from Liverpool and Chester, which are slightly closer to North Wales."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/manchester-north-wales-caernarfon-conwy.webp",
+    "alt": "Caernarfon Castle reflected in the Menai Strait at dawn, its Eagle Tower rising above the waterfront",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Caernarfon & Conwy Castle Day Trip from Manchester | Castles & Palaces",
+    "description": "Visit Caernarfon and Conwy Castle on a small-group day trip from Manchester. Both UNESCO World Heritage Sites. From £49 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/manchester-l1128/from-manchester-north-wales-and-caernarfon-castle-day-trip-t468819/"
+}

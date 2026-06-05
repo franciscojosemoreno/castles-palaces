@@ -1,0 +1,82 @@
+{
+  "id": "smederevo-fortress",
+  "name": "Smederevo Fortress",
+  "local_name": "Смедеревска тврђава",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 100000,
+  "country": "serbia",
+  "region": "Podunavlje District",
+  "nearest_city": "Belgrade",
+  "address": "Smederevo, 11300 Smederevo, Serbia",
+  "lat": 44.6611,
+  "lng": 20.9302,
+  "unesco": false,
+  "year_built": 1428,
+  "architectural_style": "Medieval Serbian",
+  "opening_hours": {
+    "monday": "08:00–20:00",
+    "tuesday": "08:00–20:00",
+    "wednesday": "08:00–20:00",
+    "thursday": "08:00–20:00",
+    "friday": "08:00–20:00",
+    "saturday": "08:00–20:00",
+    "sunday": "08:00–20:00",
+    "seasonal_note": "Open daily. Shorter hours October to April (09:00–17:00)."
+  },
+  "price_adult": 2,
+  "price_child": 1,
+  "booking_required": false,
+  "official_tickets_url": "https://www.smederevo.org.rs",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Partially accessible — flat courtyard accessible; wall walks have stairs",
+  "booking_advance_days": 0,
+  "tagline": "The last capital of medieval Serbia — the largest medieval fortress in the Balkans",
+  "highlights": [
+    "Largest medieval fortress in the Balkans by area",
+    "Last capital of the medieval Serbian Despotate",
+    "25 towers and nearly 2 km of walls enclosing a triangular town fortress",
+    "Directly on the Danube — spectacular riverfront walls",
+    "Built by Despot Đurađ Branković in just three years (1428–1430)"
+  ],
+  "description": "Smederevo Fortress is the largest medieval fortress in the Balkans — a massive triangular citadel enclosing 11 hectares directly on the south bank of the Danube, with 25 towers and nearly 2 km of walls. Built with extraordinary speed by Serbian Despot Đurađ Branković between 1428 and 1430 as his new capital after Belgrade was ceded to Hungary, the fortress was the last seat of medieval Serbian statehood before the Ottoman conquest of 1459. Despite an accidental ammunition explosion in World War II that destroyed much of the upper structure, the sheer scale of the surviving walls and towers is overwhelming. The Small Town — the residential inner fortress — is separated from the Large Town by an internal wall, and a summer festival and concert series draws visitors to perform beneath the medieval ramparts.",
+  "history": "Despot Đurađ Branković built the fortress between 1428 and 1430 as his capital after surrendering Belgrade to Hungarian King Sigismund. It became the capital of the Serbian Despotate and the centre of resistance to Ottoman expansion. After Đurađ's death it fell to the Ottomans in 1459, marking the end of the medieval Serbian state. The Ottomans used it as a garrison for centuries. In 1941 a German ammunition train exploded near the fortress, causing massive damage. Restoration began in the late 20th century.",
+  "how_to_visit": "Smederevo is 45 km south-east of Belgrade, connected by frequent buses and trains from the capital (1 hour). The fortress is on the Danube waterfront, a short walk from the town centre and bus station. The Smederevo wine region — one of Serbia's finest — surrounds the town; combine the fortress with a local winery visit.",
+  "faqs": [
+    {
+      "question": "Why is Smederevo important in Serbian history?",
+      "answer": "It was the last capital of the medieval Serbian Despotate before the Ottoman conquest of 1459 — the fortress's fall effectively ended Serbian medieval statehood for four centuries."
+    },
+    {
+      "question": "What caused the damage to the upper walls?",
+      "answer": "In June 1941, a German ammunition train parked near the fortress exploded, causing massive blast damage to the upper sections of the walls and towers that has never been fully rebuilt."
+    },
+    {
+      "question": "Are there events at the fortress?",
+      "answer": "Yes — the Smederevo Fortress hosts a popular summer festival with concerts and cultural events held inside the walls during July and August."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/smederevo-fortress.webp",
+    "alt": "Smederevo Fortress towers and walls on the Danube riverfront in Serbia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/smederevo-fortress.webp",
+  "instagram_tag": "#smederevskatvrd",
+  "meta_title": "Smederevo Fortress, Serbia — The Balkans' Largest Medieval Citadel on the Danube",
+  "meta_description": "Visit Smederevo Fortress in Serbia — the largest medieval fortress in the Balkans, last capital of medieval Serbia, with 25 towers on the Danube riverfront.",
+  "tags": ["medieval", "serbian-castle", "danube", "balkans", "despotate"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["golubac-fortress", "ram-fortress"],
+  "gyg_location_id": "2701",
+  "gyg_search_query": "Smederevo Fortress Belgrade tour Serbia",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

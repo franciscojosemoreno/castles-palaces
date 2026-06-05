@@ -1,0 +1,82 @@
+{
+  "id": "chateau-de-beynac",
+  "name": "Château de Beynac",
+  "local_name": "Château de Beynac",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 250000,
+  "country": "france",
+  "region": "Dordogne, Nouvelle-Aquitaine",
+  "nearest_city": "Sarlat-la-Canéda",
+  "address": "Le Bourg, 24220 Beynac-et-Cazenac, France",
+  "lat": 44.8333,
+  "lng": 1.1500,
+  "unesco": false,
+  "year_built": 1115,
+  "architectural_style": "Medieval Périgord",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Extended to 19:00 in July and August. Closed in January."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateau-beynac.com",
+  "visit_duration": "1–2 hours",
+  "best_season": "April to October",
+  "accessibility": "Limited — steep paths and stairs throughout",
+  "booking_advance_days": 0,
+  "tagline": "A medieval fortress perched above the Dordogne River",
+  "highlights": [
+    "Dramatic clifftop position above the river",
+    "Original 12th-century keep",
+    "Panoramic views of the Dordogne valley",
+    "Scene of conflicts between England and France during the Hundred Years' War",
+    "One of the best-preserved castles in Périgord"
+  ],
+  "description": "Château de Beynac rises dramatically from a sheer limestone cliff 150 metres above the Dordogne River, its silhouette unchanged since the Middle Ages. One of the finest examples of medieval military architecture in France, the castle served as a key stronghold during the Hundred Years' War, when the river below formed the border between French and English territory. Beynac held firm for the French crown while the rival Château de Castelnaud, visible across the valley, flew the English flag. Today visitors explore the keep, great hall, and ramparts, taking in sweeping views over one of France's most beautiful river landscapes.",
+  "history": "Built in the 12th century, Beynac was seized by Richard the Lionheart in 1189 and dismantled on the orders of Simon de Montfort during the Albigensian Crusade in 1214. Rebuilt in the 13th century, it became a major baronial seat and one of the four baronies of Périgord. During the Hundred Years' War it was a French stronghold facing the English-held Castelnaud across the valley. After the war the castle fell into gradual decline, eventually becoming a ruin. Major restoration work began in the 1960s under the initiative of Lucien Grosso, who spent decades rebuilding the castle stone by stone.",
+  "how_to_visit": "Drive to the village of Beynac-et-Cazenac, 12 km south-west of Sarlat. Park in the village and follow the signed path up to the castle entrance. The climb takes about 10 minutes on foot. No direct public transport; car hire from Sarlat is the easiest option. Canoe tours along the Dordogne offer excellent views of the castle from below.",
+  "faqs": [
+    {
+      "question": "Can I see Château de Castelnaud from Beynac?",
+      "answer": "Yes — the two rival castles face each other across the Dordogne valley and are clearly visible from each other's battlements."
+    },
+    {
+      "question": "Is there parking at the castle?",
+      "answer": "Parking is available in the village of Beynac-et-Cazenac, a short walk below the castle."
+    },
+    {
+      "question": "Is the castle suitable for young children?",
+      "answer": "The steep climb and uneven surfaces make it challenging for very young children, but older kids enjoy the towers and views."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-beynac.webp",
+    "alt": "Château de Beynac perched on a cliff above the Dordogne River",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-beynac.webp",
+  "instagram_tag": "#chateaudebeynac",
+  "meta_title": "Château de Beynac, France — Medieval Castle Above the Dordogne",
+  "meta_description": "Visit Château de Beynac, a 12th-century fortress rising above the Dordogne River in Périgord. Opening hours, tickets, and tours.",
+  "tags": ["medieval", "french-castle", "dordogne", "hundred-years-war", "périgord"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["chateau-de-castelnaud"],
+  "gyg_location_id": "2807",
+  "gyg_search_query": "Dordogne castle tour Beynac",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

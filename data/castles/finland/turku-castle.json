@@ -1,0 +1,78 @@
+{
+  "id": "turku-castle",
+  "name": "Turku Castle",
+  "local_name": "Turun linna",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 180000,
+  "country": "finland",
+  "region": "Southwest Finland",
+  "nearest_city": "Turku",
+  "address": "Linnankatu 80, 20100 Turku, Finland",
+  "lat": 60.4361,
+  "lng": 22.2233,
+  "unesco": false,
+  "year_built": 1280,
+  "architectural_style": "Medieval with Renaissance additions",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Jun–Aug: open Mon–Sun 10:00–18:00 (Mondays also open in summer). Sep–May: closed Mondays. Last entry 1 hour before closing."
+  },
+  "price_adult": 12,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.turku.fi/en/turku-castle",
+  "visit_duration": "2–3 hours",
+  "best_season": "Summer (June–August) for full opening hours and the Turku Medieval Market (late June — the largest medieval festival in the Nordic countries)",
+  "accessibility": "The main floor of the castle is largely accessible. Some towers and upper levels involve stairs. The castle is reached on foot from the harbour along a flat riverside path.",
+  "booking_advance_days": 0,
+  "tagline": "Finland's largest and most important medieval castle — seven centuries of Nordic history at the mouth of the Aura River",
+  "highlights": [
+    "The largest surviving medieval castle in Finland, built from the 1280s onward at the strategic mouth of the Aura River",
+    "Houses the Historical Museum of Turku — one of the most comprehensive medieval collections in Scandinavia",
+    "The Duke's Chambers — well-preserved Renaissance apartments from the 1560s when Finland was the Duchy of John, later King John III of Sweden",
+    "Turku Medieval Market (late June) — the largest medieval festival in the Nordic countries, held on the castle grounds",
+    "The dungeon and prison levels where Swedish and Finnish prisoners of state were held for centuries"
+  ],
+  "description": "Turku Castle guards the mouth of the Aura River where it meets the Baltic archipelago — the strategic gateway to the Finnish interior that made Turku (Åbo) the capital of the Swedish realm's Finnish territories for 600 years. Construction began in the 1280s when the Swedish Crown established its administrative control over Finland, and the castle has been continuously expanded, modified, and fortified through every century since. The result is one of the most architecturally layered medieval fortresses in the Nordic region — a complex of halls, courtyards, towers, and dungeons accumulated over seven centuries.\n\nThe castle is home to the Historical Museum of Turku, which uses the medieval rooms, halls, and dungeons as gallery spaces in a way that blends architecture and exhibition more successfully than most castle museums. The medieval and Renaissance collections are displayed in the rooms where they would have functioned: weapons in the armoury, furniture in the great hall, religious objects in the chapel. The dungeons — which held prisoners of state including Erik XIV, the deposed King of Sweden — are as evocative as any prison in Scandinavia.\n\nThe most historically significant rooms are the Duke's Chambers in the Renaissance wing, created in the 1560s when King John III of Sweden (then Duke of Finland) used Turku Castle as his residence and court. The chambers retain fragments of original 16th-century painted decoration and Renaissance architectural details that make them among the finest surviving rooms of the period in Finland.",
+  "history": "Turku Castle was established in the 1280s as the administrative centre of the Swedish Crown's governance of Finland. The original structure was a simple stone tower; it was progressively expanded through the 14th, 15th, and 16th centuries as Turku's importance as the capital of the Finnish territories grew. The Great Hall and bailey were added in the 14th century; the Outer Bailey and the round towers in the late 15th century during the intensification of conflicts with Novgorod and later Russia.\n\nThe most dramatic period in the castle's history was the 1560s, when the future King John III of Sweden was Duke of Finland and used Turku as his primary residence. John's Renaissance ambitions produced the finest suite of rooms in the castle's history, and his marriage to the Polish princess Catherine Jagiellon brought Polish Renaissance influence to Finnish court culture. When John became King of Sweden in 1568 after imprisoning his brother Erik XIV (who was held at Turku), the castle briefly became the centre of Swedish royal politics.\n\nThe castle was severely damaged by fire in 1614 and never fully recovered its importance as a royal residence. It served as an administrative centre, prison, and granary under Swedish and later Russian rule (Finland became part of the Russian Empire in 1809). Major restoration began in the 1870s and continued through the 20th century.",
+  "how_to_visit": "**Getting there:** Turku Castle is at the mouth of the Aura River, about 2 km from Turku city centre. Bus line 1 runs from the Market Square (Kauppatori) to the castle stop. Walking from the Market Square along the riverbank takes about 25 minutes — a pleasant route past the Aura riverboats and restaurants.\n\n**Medieval Market:** The Turku Medieval Market (Keskiaikaiset markkinat), held for four days in late June, is the largest medieval festival in Scandinavia, with jousting, archery, craft markets, period food and drink, and theatrical performances around the castle. The atmosphere is exceptional — plan well in advance if visiting during this period.\n\n**Combine with:** Turku Cathedral (15 minutes from the castle by foot — the oldest cathedral in Finland), the Aura riverboats, and the archipelago ferry connections to Stockholm and Tallinn. Turku is also the gateway to the Finnish archipelago — the largest archipelago in Europe.",
+  "faqs": [
+    {
+      "question": "Is Turku Castle worth visiting on a day trip from Helsinki?",
+      "answer": "Yes — Turku is 1.5–2 hours from Helsinki by train (frequent services). A day combining Turku Castle, the Aura riverside, and Turku Cathedral is one of the best day trips from Helsinki. Turku is also the departure point for the overnight ferry to Stockholm through the archipelago — a spectacular journey."
+    },
+    {
+      "question": "Who was held prisoner at Turku Castle?",
+      "answer": "Several significant prisoners were held in the castle dungeons. The most famous is King Erik XIV of Sweden, who was deposed by his brother John III in 1568 and held at Turku before being poisoned (probably) in 1577. Various Swedish and Finnish nobles involved in political conflicts were imprisoned here over the centuries."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/turku-castle.webp",
+    "alt": "Turku Castle medieval towers at the mouth of the Aura River with the Baltic sea behind, Finland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/turku-castle.webp",
+  "instagram_tag": "#turkucastle",
+  "meta_title": "Turku Castle: Tickets, Medieval Museum & Visitor Guide 2026",
+  "meta_description": "Visit Turku Castle — Finland's largest medieval castle at the mouth of the Aura River. Houses the Historical Museum of Turku. Day trip from Helsinki. Complete visitor guide.",
+  "tags": ["medieval", "museum", "nordic", "finland", "harbour"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["akershus-fortress", "bergenhus-fortress"],
+  "gyg_location_id": "503",
+  "gyg_search_query": "Turku Castle tour Finland",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

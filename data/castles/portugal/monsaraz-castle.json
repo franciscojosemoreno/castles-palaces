@@ -1,0 +1,82 @@
+{
+  "id": "monsaraz-castle",
+  "name": "Monsaraz Castle",
+  "local_name": "Castelo de Monsaraz",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 100000,
+  "country": "portugal",
+  "region": "Alentejo",
+  "nearest_city": "Évora",
+  "address": "Rua do Castelo, 7200-175 Monsaraz, Portugal",
+  "lat": 38.4441,
+  "lng": -7.3773,
+  "unesco": false,
+  "year_built": 1310,
+  "architectural_style": "Medieval Portuguese",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Extended to 20:00 from May to September. The walled village itself is always accessible."
+  },
+  "price_adult": 2,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.cm-reguengos-monsaraz.pt",
+  "visit_duration": "1–2 hours",
+  "best_season": "September to May",
+  "accessibility": "Limited — cobblestone streets and steep castle interior",
+  "booking_advance_days": 0,
+  "tagline": "A medieval hilltop village frozen in time above the Alentejo plains",
+  "highlights": [
+    "One of Portugal's best-preserved medieval walled villages",
+    "Castle bullring — a unique medieval arena converted for bullfighting",
+    "Sweeping views over the Alqueva reservoir and Spanish border",
+    "Stargazing destination within the Dark Sky Alqueva reserve",
+    "Unspoiled whitewashed village with authentic Alentejo atmosphere"
+  ],
+  "description": "Monsaraz is one of Portugal's most unspoiled medieval villages, its whitewashed houses clustered on a granite hilltop above the vast Alentejo plain, entirely enclosed by 14th-century walls. The castle at the village's highest point offers views that on clear days stretch to Spain — and over the Alqueva reservoir, the largest artificial lake in Western Europe, which transformed the landscape after its creation in 2002. The castle's keep encloses a remarkable feature unique in Portugal: a functioning bullring installed within the medieval walls. The surrounding Alqueva region is a designated Dark Sky reserve, making Monsaraz one of the finest stargazing destinations in Europe. The village has barely changed since the medieval period and retains a handful of permanent residents alongside its tourism facilities.",
+  "history": "The site was occupied by Romans and Moors before the castle was built by King Dinis I of Portugal around 1310, following the area's reconquest from the Moors in 1167. It was part of the defensive network guarding the Spanish border. The village prospered in the medieval period as a trading post. After the border stabilised in the 15th century its strategic importance declined, preserving its medieval character through lack of development. The area was transformed again in 2002 with the completion of the Alqueva Dam, flooding the valley below.",
+  "how_to_visit": "Monsaraz is 55 km south-east of Évora and 170 km east of Lisbon. A car is essential — no regular public transport serves the village. The drive from Évora takes about 50 minutes through stunning Alentejo landscape. Combine with the Alqueva reservoir (boat trips available) and nearby megalithic sites including the Cromlech of Xerez. Overnight stays in the village are highly recommended for sunset and stargazing.",
+  "faqs": [
+    {
+      "question": "What is the bullring doing inside a medieval castle?",
+      "answer": "The castle keep at Monsaraz was adapted for bullfighting in the 19th century, creating one of the most unusual and atmospheric bullrings in Portugal — a medieval courtyard with makeshift wooden stands."
+    },
+    {
+      "question": "What is the Alqueva reservoir?",
+      "answer": "It is the largest artificial lake in Western Europe, created by the Alqueva Dam completed in 2002, visible from the castle ramparts as a vast sheet of water stretching to the horizon."
+    },
+    {
+      "question": "Is Monsaraz good for stargazing?",
+      "answer": "Yes — the region is part of the Starlight Dark Sky Alqueva reserve, with very low light pollution. The village offers some of the clearest night skies in Europe."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/monsaraz-castle.webp",
+    "alt": "Monsaraz medieval walled village and castle above the Alentejo plain in Portugal",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/monsaraz-castle.webp",
+  "instagram_tag": "#monsaraz",
+  "meta_title": "Monsaraz Castle, Alentejo — Medieval Village Above the Alqueva Reservoir",
+  "meta_description": "Visit Monsaraz in the Alentejo — a medieval hilltop castle and walled village with views over the Alqueva reservoir and Portugal's finest dark skies.",
+  "tags": ["medieval", "portuguese-castle", "alentejo", "walled-village", "dark-sky"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["silves-castle", "obidos-castle"],
+  "gyg_location_id": "2669",
+  "gyg_search_query": "Monsaraz castle Alentejo tour Évora",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

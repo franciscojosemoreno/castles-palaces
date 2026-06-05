@@ -1,0 +1,608 @@
+[
+  {
+    "slug": "france",
+    "name": "France",
+    "description": "Home to more than 40,000 châteaux, France is the world's premier castle destination. From the Loire Valley's fairy-tale palaces to the fortified bastides of the South, French castles shaped European history, architecture and royal culture for centuries.",
+    "hero_image": {
+      "url": "/images/countries/france.webp",
+      "alt": "Château de Chambord reflected in the Loire River at dawn",
+      "credit": "Unsplash",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "palace-of-versailles",
+      "chateau-de-chambord",
+      "chateau-de-chenonceau"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/france-thumb.webp",
+      "alt": "Château de Chambord reflected in the Loire River at dawn"
+    }
+  },
+  {
+    "slug": "georgia",
+    "name": "Georgia",
+    "description": "Perched where Europe meets the Caucasus, Georgia is home to some of the most dramatic medieval fortresses on earth — towering cliff-edge castles, ancient walled monasteries, and hilltop strongholds that guard the legendary Georgian Military Highway through the mountains.",
+    "hero_image": {
+      "url": "/images/countries/georgia.webp",
+      "alt": "Ananuri Fortress towers rising above the Aragvi River gorge",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/georgia-thumb.webp",
+      "alt": "Georgia's Ananuri Fortress on the Aragvi River"
+    }
+  },
+  {
+    "slug": "germany",
+    "name": "Germany",
+    "description": "Germany's castle landscape stretches from the Rhine's medieval fortresses to Bavaria's romantic 19th-century fantasies. With over 20,000 castle sites, no country has more concentrated castle heritage — from Neuschwanstein's fairy-tale peaks to Heidelberg's noble ruins.",
+    "hero_image": {
+      "url": "/images/countries/germany.webp",
+      "alt": "Neuschwanstein Castle in the Bavarian Alps in autumn",
+      "credit": "Unsplash",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "neuschwanstein-castle",
+      "heidelberg-castle",
+      "hohenzollern-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/germany-thumb.webp",
+      "alt": "Neuschwanstein Castle in the Bavarian Alps in autumn"
+    }
+  },
+  {
+    "slug": "poland",
+    "name": "Poland",
+    "description": "Poland's castle heritage spans a thousand years of turbulent history. From the colossal red-brick fortress of Malbork — the largest castle in the world by surface area — to the Gothic towers of Wawel in Kraków, Poland's strongholds tell the story of kings, Teutonic Knights and battles that shaped Central Europe.",
+    "hero_image": {
+      "url": "/images/countries/poland.webp",
+      "alt": "Malbork Castle's red-brick towers reflected in the Nogat River",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "malbork-castle",
+      "wawel-castle",
+      "ogrodzieniec-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/castles/malbork-castle.webp",
+      "alt": "Malbork Castle's brick towers reflected in the Nogat River"
+    }
+  },
+  {
+    "slug": "spain",
+    "name": "Spain",
+    "description": "Spain's castles tell the story of a continent where Christian and Islamic civilisations clashed and created. From the sublime Moorish geometry of the Alhambra to the austere stone towers of Castile, Spain's fortresses are among Europe's most culturally significant.",
+    "hero_image": {
+      "url": "/images/countries/spain.jpg",
+      "alt": "The Alhambra palace complex overlooking Granada at golden hour",
+      "credit": "Unsplash",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "alhambra-granada",
+      "alcazar-seville"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/spain-thumb.webp",
+      "alt": "The Alhambra palace complex overlooking Granada at golden hour"
+    }
+  },
+  {
+    "slug": "scotland",
+    "name": "Scotland",
+    "description": "Perched on volcanic rock, rising from misty lochs, or clinging to sea cliffs, Scotland's castles are among the world's most dramatically situated. With over 3,000 castle ruins and 2,000 still standing, Scotland has more castles per square mile than almost anywhere on earth.",
+    "hero_image": {
+      "url": "/images/countries/scotland.webp",
+      "alt": "Eilean Donan Castle on Loch Duich in the Scottish Highlands",
+      "credit": "Unsplash",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "edinburgh-castle",
+      "eilean-donan-castle",
+      "stirling-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/scotland-thumb.webp",
+      "alt": "Eilean Donan Castle on Loch Duich in the Scottish Highlands"
+    }
+  },
+  {
+    "slug": "austria",
+    "name": "Austria",
+    "description": "The former seat of the Habsburg Empire, Austria contains some of Europe's grandest palaces. Vienna alone has three imperial residences open to visitors, while the Austrian Alps hide medieval fortresses of jaw-dropping drama.",
+    "hero_image": {
+      "url": "/images/countries/austria.webp",
+      "alt": "Schönbrunn Palace gardens with Vienna skyline in the background",
+      "credit": "Unsplash",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "schonbrunn-palace",
+      "hohensalzburg-fortress"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/austria-thumb.webp",
+      "alt": "Schönbrunn Palace gardens with Vienna skyline in the background"
+    }
+  },
+  {
+    "slug": "czech-republic",
+    "name": "Czech Republic",
+    "description": "Bohemia and Moravia contain one of Europe's densest concentrations of castles per square kilometre. Prague Castle — the world's largest ancient castle complex — anchors a country where Gothic towers and Baroque palaces seem to appear around every bend in the river.",
+    "hero_image": {
+      "url": "/images/countries/czech-republic.webp",
+      "alt": "Prague Castle overlooking the Vltava River and Charles Bridge",
+      "credit": "Unsplash",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "prague-castle",
+      "cesky-krumlov-castle",
+      "karlstejn-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/czech-republic-thumb.webp",
+      "alt": "Prague Castle overlooking the Vltava River and Charles Bridge"
+    }
+  },
+  {
+    "slug": "romania",
+    "name": "Romania",
+    "description": "Transylvania's medieval fortresses and Carpathian mountain citadels make Romania one of Europe's last great castle frontiers. Less visited but no less spectacular than its western neighbours, Romania offers extraordinary castle heritage without the summer crowds.",
+    "hero_image": {
+      "url": "/images/countries/romania.webp",
+      "alt": "Bran Castle in Transylvania at dusk, Romania",
+      "credit": "Unsplash",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "bran-castle",
+      "peles-castle",
+      "corvin-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/romania-thumb.webp",
+      "alt": "Bran Castle in Transylvania at dusk, Romania"
+    }
+  },
+  {
+    "slug": "belgium",
+    "name": "Belgium",
+    "description": "Home to medieval guild halls, Flemish belfries and the moated castles of the Ardennes.",
+    "hero_image": {
+      "url": "/images/countries/belgium.webp",
+      "alt": "Belgium castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/belgium-thumb.webp",
+      "alt": "Belgium castles thumbnail"
+    }
+  },
+  {
+    "slug": "denmark",
+    "name": "Denmark",
+    "description": "Land of Viking fortresses, Renaissance palaces and the iconic Kronborg Castle of Hamlet fame.",
+    "hero_image": {
+      "url": "/images/countries/denmark.webp",
+      "alt": "Denmark castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/denmark-thumb.webp",
+      "alt": "Denmark castles thumbnail"
+    }
+  },
+  {
+    "slug": "england",
+    "name": "England",
+    "description": "From the Tower of London to Windsor Castle, England's royal fortresses span a thousand years of history.",
+    "hero_image": {
+      "url": "/images/countries/england.webp",
+      "alt": "England castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/england-thumb.webp",
+      "alt": "England castles thumbnail"
+    }
+  },
+  {
+    "slug": "hungary",
+    "name": "Hungary",
+    "description": "Budapest Buda Castle crowns a limestone ridge above the Danube, flanked by Baroque palaces and medieval ruins.",
+    "hero_image": {
+      "url": "/images/countries/hungary.webp",
+      "alt": "Hungary castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/hungary-thumb.webp",
+      "alt": "Hungary castles thumbnail"
+    }
+  },
+  {
+    "slug": "ireland",
+    "name": "Ireland",
+    "description": "Rock of Cashel, Kilkenny and hundreds of tower houses dot the Irish countryside from coast to coast.",
+    "hero_image": {
+      "url": "/images/countries/ireland.webp",
+      "alt": "Ireland castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/ireland-thumb.webp",
+      "alt": "Ireland castles thumbnail"
+    }
+  },
+  {
+    "slug": "italy",
+    "name": "Italy",
+    "description": "From Castel Sant Angelo in Rome to the Norman castles of Sicily, Italy's fortress heritage is without parallel.",
+    "hero_image": {
+      "url": "/images/countries/italy.webp",
+      "alt": "Italy castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/italy-thumb.webp",
+      "alt": "Italy castles thumbnail"
+    }
+  },
+  {
+    "slug": "netherlands",
+    "name": "Netherlands",
+    "description": "Muiderslot and the water castles of Holland reflect centuries of Dutch ingenuity in defensive architecture.",
+    "hero_image": {
+      "url": "/images/countries/netherlands.webp",
+      "alt": "Netherlands castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/netherlands-thumb.webp",
+      "alt": "Netherlands castles thumbnail"
+    }
+  },
+  {
+    "slug": "norway",
+    "name": "Norway",
+    "description": "Akershus Fortress guards Oslo's harbour, while Viking-era fortifications dot the fjord coastline.",
+    "hero_image": {
+      "url": "/images/countries/norway.webp",
+      "alt": "Norway castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/norway-thumb.webp",
+      "alt": "Norway castles thumbnail"
+    }
+  },
+  {
+    "slug": "portugal",
+    "name": "Portugal",
+    "description": "Sintra's Pena Palace and the Templar fortress of Tomar make Portugal one of Europe's great castle destinations.",
+    "hero_image": {
+      "url": "/images/countries/portugal.webp",
+      "alt": "Portugal castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/portugal-thumb.webp",
+      "alt": "Portugal castles thumbnail"
+    }
+  },
+  {
+    "slug": "slovenia",
+    "name": "Slovenia",
+    "description": "Ljubljana Castle and the cliff-embedded Predjama Castle make Slovenia a hidden gem of European castle tourism.",
+    "hero_image": {
+      "url": "/images/countries/slovenia.webp",
+      "alt": "Slovenia castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/slovenia-thumb.webp",
+      "alt": "Slovenia castles thumbnail"
+    }
+  },
+  {
+    "slug": "switzerland",
+    "name": "Switzerland",
+    "description": "Chillon on Lake Geneva and the Rhine castles of the north define Switzerland's dramatic fortress landscape.",
+    "hero_image": {
+      "url": "/images/countries/switzerland.webp",
+      "alt": "Switzerland castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/switzerland-thumb.webp",
+      "alt": "Switzerland castles thumbnail"
+    }
+  },
+  {
+    "slug": "wales",
+    "name": "Wales",
+    "description": "Wales has more castles per square mile than any country in Europe — Caernarfon and Conwy lead a remarkable collection.",
+    "hero_image": {
+      "url": "/images/countries/wales.webp",
+      "alt": "Wales castle landscape"
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/wales-thumb.webp",
+      "alt": "Wales castles thumbnail"
+    }
+  },
+  {
+    "slug": "croatia",
+    "name": "Croatia",
+    "description": "Croatia's medieval fortifications are among the most dramatic in Europe. The walled city of Dubrovnik — the Republic of Ragusa — maintained independence for 450 years through brilliant diplomacy and civic innovation. Along the Adriatic coast, Venetian-built fortresses guard every headland, while inland, the continental castles of Trakošćan and Veliki Tabor rise from the forested hills of Zagorje.",
+    "hero_image": {
+      "url": "/images/countries/croatia.webp",
+      "alt": "Dubrovnik city walls and the Adriatic coast at golden hour",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/croatia-thumb.webp",
+      "alt": "Dubrovnik city walls and Adriatic Sea at sunset"
+    }
+  },
+  {
+    "slug": "cyprus",
+    "name": "Cyprus",
+    "description": "The crossroads of the Mediterranean, Cyprus preserves a remarkable legacy of Crusader castles, Byzantine fortresses, and medieval city walls shaped by Richard the Lionheart, the Knights Hospitaller, and Venetian rulers.",
+    "hero_image": {
+      "url": "/images/countries/cyprus.webp",
+      "alt": "Kolossi Castle surrounded by the Cypriot countryside",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/cyprus-thumb.webp",
+      "alt": "Kolossi Castle in the Cypriot countryside"
+    }
+  },
+  {
+    "slug": "sweden",
+    "name": "Sweden",
+    "description": "Sweden's royal palaces and medieval castles reflect a thousand years of Scandinavian kingship. Drottningholm Palace — the UNESCO-listed residence of the Swedish royal family — is the finest Baroque ensemble in northern Europe. Along Lake Mälaren, the castles of Skokloster, Gripsholm and Läckö preserve the extraordinary material culture of Sweden's 17th-century Baltic empire.",
+    "hero_image": {
+      "url": "/images/countries/sweden.webp",
+      "alt": "Drottningholm Palace reflected on Lake Mälaren at dusk",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/sweden-thumb.webp",
+      "alt": "Drottningholm Palace reflected on Lake Mälaren"
+    }
+  },
+  {
+    "slug": "greece",
+    "name": "Greece",
+    "description": "The birthplace of Western civilization, Greece's fortresses span 3,000 years — from the Mycenaean citadels of the Bronze Age to the Byzantine towers, the Crusader castles of the Dodecanese and the Ottoman fortifications of the Aegean coast. Rhodes alone contains one of the world's best-preserved medieval walled cities, still encircled by the 4-kilometre walls built by the Knights Hospitaller.",
+    "hero_image": {
+      "url": "/images/countries/greece.webp",
+      "alt": "Rhodes medieval city walls overlooking the Aegean Sea",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/greece-thumb.webp",
+      "alt": "Rhodes medieval city walls overlooking the Aegean"
+    }
+  },
+  {
+    "slug": "latvia",
+    "name": "Latvia",
+    "description": "Latvia's medieval heritage is defined by the Livonian Order — German crusading knights who built a network of powerful red-brick fortresses across the Baltic in the 13th century. The Gauja National Park contains four Livonian Order castles within 30 kilometres, earning the valley the nickname 'Latvian Switzerland'. Rundāle Palace adds a stunning Baroque counterpoint — one of the finest 18th-century palaces in northern Europe.",
+    "hero_image": {
+      "url": "/images/countries/latvia.webp",
+      "alt": "Turaida Castle towers rising above the Gauja valley forest",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/latvia-thumb.webp",
+      "alt": "Turaida Castle towers rising above the Gauja valley"
+    }
+  },
+  {
+    "slug": "lithuania",
+    "name": "Lithuania",
+    "description": "Lithuania was the last pagan country in Europe — converted to Christianity only in 1387, after resisting crusading orders for nearly 200 years. Trakai Island Castle, rising from Lake Galvė on a peninsula of red brick, is the most iconic castle in the Baltic states. Gediminas Tower crowns the hill above Vilnius, capital of the medieval Grand Duchy of Lithuania — once the largest state in Europe, stretching from the Baltic to the Black Sea.",
+    "hero_image": {
+      "url": "/images/countries/lithuania.webp",
+      "alt": "Trakai Island Castle reflected in the still waters of Lake Galvė",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/lithuania-thumb.webp",
+      "alt": "Trakai Island Castle reflected in Lake Galvė"
+    }
+  },
+  {
+    "slug": "slovakia",
+    "name": "Slovakia",
+    "description": "Slovakia's castle density is extraordinary — over 180 castle sites for a country smaller than England. Bojnice Castle rises on a limestone cliff above the Nitra Valley, its neo-Gothic towers and moat making it Central Europe's most fairy-tale fortress. Trencin Castle guards a Roman-era crossing point above the Váh River, with a 2nd-century Latin inscription carved by legionaries still visible in the rock below.",
+    "hero_image": {
+      "url": "/images/countries/slovakia.webp",
+      "alt": "Bojnice Castle fairy-tale spires rising over the Slovak countryside",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/slovakia-thumb.webp",
+      "alt": "Bojnice Castle fairy-tale towers in central Slovakia"
+    }
+  },
+  {
+    "slug": "bulgaria",
+    "name": "Bulgaria",
+    "description": "Bulgaria's medieval fortresses tell the story of the Second Bulgarian Empire — the Balkan kingdom that rivalled Byzantium for supremacy of the eastern Balkans between 1185 and 1396. Tsarevets Fortress in Veliko Tarnovo, the imperial capital on a dramatic hill loop of the Yantra River, is one of the most spectacular medieval citadels in southeastern Europe. Bulgaria's castle heritage is among the least visited and most rewarding in Europe.",
+    "hero_image": {
+      "url": "/images/countries/bulgaria.webp",
+      "alt": "Tsarevets Fortress hilltop citadel at sunset in Veliko Tarnovo",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/bulgaria-thumb.webp",
+      "alt": "Tsarevets Fortress hilltop at sunset in Veliko Tarnovo"
+    }
+  },
+  {
+    "slug": "estonia",
+    "name": "Estonia",
+    "description": "Estonia's medieval heritage combines the best-preserved Gothic old town in northern Europe — Tallinn, a UNESCO World Heritage Site — with a coastline of Teutonic Order castles and the dramatic frontier fortress of Narva, where Hermann Castle faces the Russian Ivangorod Fortress across 150 metres of river. Tallinn's Toompea Castle has been the seat of power in Estonia for 700 years.",
+    "hero_image": {
+      "url": "/images/countries/estonia.webp",
+      "alt": "Narva Castle on the banks of the Narva River at twilight",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/estonia-thumb.webp",
+      "alt": "Narva Castle on the banks of the Narva River"
+    }
+  },
+  {
+    "slug": "luxembourg",
+    "name": "Luxembourg",
+    "description": "Luxembourg is one of Europe's most castle-dense countries — a small nation whose strategic position at the crossroads of France, Germany and Belgium made every hilltop a fortress. Vianden Castle, perched above the Our River valley on its rocky spur, is one of the most impressive Romanesque-Gothic castles in western Europe. The Mullerthal region alone contains the ruins of a dozen medieval fortresses.",
+    "hero_image": {
+      "url": "/images/countries/luxembourg.webp",
+      "alt": "Vianden Castle perched dramatically above the Our river valley",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/luxembourg-thumb.webp",
+      "alt": "Vianden Castle perched above the Our river valley"
+    }
+  },
+  {
+    "slug": "montenegro",
+    "name": "Montenegro",
+    "description": "Montenegro's medieval fortifications are among the most dramatically situated in Europe. The Bay of Kotor — a landlocked sea fjord enclosed by 2,000-metre mountains — contains a UNESCO World Heritage walled city whose 4.5 kilometres of walls climb from sea level to 280 metres above the harbour. Budva's old town, perched on a coastal promontory, has been fortified for 2,500 years. Along the Adriatic coast, Venetian-built sea fortresses guard every headland.",
+    "hero_image": {
+      "url": "/images/countries/montenegro.webp",
+      "alt": "Stari Bar fortress ruins on the rocky Montenegrin coast",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/montenegro-thumb.webp",
+      "alt": "Stari Bar fortress ruins in coastal Montenegro"
+    }
+  },
+  {
+    "slug": "albania",
+    "name": "Albania",
+    "description": "Albania contains two of the world's most extraordinary UNESCO-listed fortified towns — Berat ('the City of a Thousand Windows') and Gjirokastër ('the Stone City') — plus a coastline of ancient Greek, Roman and Byzantine fortifications. Berat Castle is a living castle-city: an entire medieval community of houses, churches and mosques still inhabited within its walls. Albania is Europe's most undervisited medieval destination.",
+    "hero_image": {
+      "url": "/images/countries/albania.webp",
+      "alt": "Berat Castle's Ottoman-era towers above the Osum River valley",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/albania-thumb.webp",
+      "alt": "Berat Castle's Ottoman-era towers above the Osum River"
+    }
+  },
+  {
+    "slug": "northern-ireland",
+    "name": "Northern Ireland",
+    "description": "Northern Ireland's Antrim coast is one of the most dramatic castle landscapes in the British Isles. Dunluce Castle clings to a basalt sea stack above the Atlantic — a ruin so extreme that part of the kitchen fell into the sea during a dinner party in 1639. Carrickfergus Castle, the best-preserved Norman castle in Ireland, has guarded Belfast Lough for 900 years. The Giant's Causeway, UNESCO World Heritage, frames them with 40,000 volcanic hexagonal columns.",
+    "hero_image": {
+      "url": "/images/countries/northern-ireland.webp",
+      "alt": "Dunluce Castle perched on the Antrim cliffs above the North Channel",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/northern-ireland-thumb.webp",
+      "alt": "Dunluce Castle cliffs on the Antrim coast"
+    }
+  },
+  {
+    "slug": "finland",
+    "name": "Finland",
+    "description": "Finland's medieval heritage is concentrated at its maritime frontier — the sea fortress of Suomenlinna, spread across six islands in Helsinki harbour (UNESCO World Heritage), and Turku Castle, the country's largest medieval fortress, guarding the mouth of the Aura River since 1280. Both were built by Swedish rulers to defend the eastern edge of the Baltic world against Russian expansion.",
+    "hero_image": {
+      "url": "/images/countries/finland.webp",
+      "alt": "Turku Castle medieval towers reflected on the Aura River",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/finland-thumb.webp",
+      "alt": "Turku Castle medieval towers on the Aura River"
+    }
+  },
+  {
+    "slug": "serbia",
+    "name": "Serbia",
+    "description": "The crossroads of Eastern and Western empires, Serbia's medieval fortresses guard the Danube's most dramatic bends and gorges. From Smederevo — one of the largest medieval fortresses in Europe — to Golubac's ten towers rising above the Iron Gate gorge, Serbia's castles mark the front lines where Byzantine, Ottoman and Serbian kingdoms fought for supremacy across five centuries.",
+    "hero_image": {
+      "url": "/images/countries/serbia.webp",
+      "alt": "Golubac Fortress towers rising from the banks of the Danube",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/serbia-thumb.webp",
+      "alt": "Golubac Fortress towers on the Danube"
+    }
+  },
+  {
+    "slug": "bosnia",
+    "name": "Bosnia & Herzegovina",
+    "description": "One of Europe's most underrated castle destinations, Bosnia & Herzegovina carries the imprint of every empire that crossed the Balkans. The Ottoman fortified towns of Počitelj and Mostar, the medieval citadels of the Neretva valley, and the Dervish monasteries perched above river springs make Herzegovina a concentrated castle landscape unlike anywhere else in Europe.",
+    "hero_image": {
+      "url": "/images/countries/bosnia.webp",
+      "alt": "Počitelj citadel rising in tiers above the Neretva River",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/bosnia-thumb.webp",
+      "alt": "Počitelj citadel rising above the Neretva River"
+    }
+  },
+  {
+    "slug": "turkey",
+    "name": "Turkey",
+    "description": "Istanbul sits at the crossroads of two continents — and its European shore (Thrace) contains some of the most extraordinary military architecture in history. The Theodosian Walls, built in 412 AD and unconquered for a thousand years, are the defining land fortification of the ancient world. Yedikule Fortress, Rumeli Hisarı on the Bosphorus, and the ruins of the Blachernae Palace trace the full arc of the city’s story from Roman capital to Ottoman empire.",
+    "hero_image": {
+      "url": "/images/countries/turkey.webp",
+      "alt": "Yedikule Fortress walls and towers rising above the Bosphorus in Istanbul",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/turkey-thumb.webp",
+      "alt": "Yedikule Fortress walls in Istanbul at dusk"
+    }
+  },
+  {
+    "slug": "north-macedonia",
+    "name": "North Macedonia",
+    "description": "On the shore of Europe’s oldest lake, Ohrid was the capital of a medieval empire and remains one of the most concentrated sites of Byzantine and medieval heritage in the Balkans. Samuel’s Fortress — built by Tsar Samuel of the First Bulgarian Empire in the late 10th century — crowns the hill above a town of Byzantine churches, Hellenistic ruins, and a UNESCO-protected lake that has existed unchanged for three million years.",
+    "hero_image": {
+      "url": "/images/countries/north-macedonia.webp",
+      "alt": "Samuel's Fortress walls overlooking the shores of Lake Ohrid",
+      "width": 1200,
+      "height": 800
+    },
+    "thumbnail_image": {
+      "url": "/images/countries/north-macedonia-thumb.webp",
+      "alt": "Samuel's Fortress on the hills above Ohrid Lake"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "id": "ortahisar-castle",
+  "name": "Ortahisar Castle",
+  "local_name": "Ortahisar Kalesi",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 150000,
+  "country": "turkey",
+  "region": "Central Anatolia, Nevşehir, Cappadocia",
+  "nearest_city": "Nevşehir",
+  "address": "Ortahisar, 50500 Nevşehir, Turkey",
+  "lat": 38.5243,
+  "lng": 34.8613,
+  "unesco": false,
+  "year_built": 0,
+  "architectural_style": "Rock-carved / Byzantine",
+  "opening_hours": {
+    "monday": "08:00–19:00",
+    "tuesday": "08:00–19:00",
+    "wednesday": "08:00–19:00",
+    "thursday": "08:00–19:00",
+    "friday": "08:00–19:00",
+    "saturday": "08:00–19:00",
+    "sunday": "08:00–19:00",
+    "seasonal_note": "Open daily. Shorter hours in winter. Periodically closed for safety checks."
+  },
+  "price_adult": 3,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.goturkey.com",
+  "visit_duration": "45 minutes",
+  "best_season": "April to June, September to November",
+  "accessibility": "Very limited — very steep carved rock stairs",
+  "booking_advance_days": 0,
+  "tagline": "Cappadocia's needle — a slender rock fortress piercing the valley sky",
+  "highlights": [
+    "Slender 86-metre rock pinnacle — the tallest natural fortress in Cappadocia",
+    "Carved rooms and galleries accessible by steep internal staircases",
+    "Panoramic views over the Rose Valley, Urgup, and surrounding fairy chimneys",
+    "Charming, quieter village than Göreme — more authentic local atmosphere",
+    "Famous for its caves used to store citrus fruits at natural temperature"
+  ],
+  "description": "Ortahisar Castle is a 86-metre volcanic tuff needle rising sharply above the village of Ortahisar — the tallest natural rock formation used as a fortress in Cappadocia, and a striking counterpart to the broader mass of Üçhisar. Like its neighbour, the rock is riddled with Byzantine-era carved rooms and connecting passages, used historically for refuge, storage, and habitation. The village surrounding the rock is one of the most authentic and least crowded in Cappadocia, preserving a traditional character away from the main tourist circuit. A local speciality of the area is the use of natural cave rooms in the valley below for storing citrus fruits — lemons and oranges — at constant cool temperatures, a practice still visible in the valley. From the summit, views encompass the Rose Valley, Urgüp, and on clear days the snow-capped summit of Mount Erciyes.",
+  "history": "Like all Cappadocian rock formations, the pinnacle at Ortahisar was carved and used from Byzantine times as part of the wider defensive network against Arab raids. The village grew around and beneath the rock. During the Seljuk and Ottoman periods the rock continued to be used for storage and emergency shelter. The cave storage system for citrus fruits developed as an agricultural practice in the late medieval and Ottoman periods, exploiting the stable cool temperature of the rock chambers.",
+  "how_to_visit": "Ortahisar is 5 km south-east of Göreme and 8 km from Ürgüp. Local dolmuş minibuses connect to both. A bicycle or scooter rental from Göreme is an excellent way to combine Ortahisar with the Rose Valley and Ürgüp wine caves in a half-day loop. The village has good local restaurants and is noticeably quieter than Göreme.",
+  "faqs": [
+    {
+      "question": "How does Ortahisar differ from Üçhisar?",
+      "answer": "Ortahisar is taller and more slender than Üçhisar, with a more dramatic needle-like profile. The village is quieter and less tourist-oriented, offering a more local Cappadocian experience."
+    },
+    {
+      "question": "What are the citrus storage caves?",
+      "answer": "The valley below the castle contains natural cave rooms used by local farmers to store lemons and oranges at stable cool temperatures — an unusual agricultural tradition unique to this part of Cappadocia."
+    },
+    {
+      "question": "Is the Rose Valley accessible from Ortahisar?",
+      "answer": "Yes — the Rose Valley, famous for its pink-hued fairy chimneys and rock churches, begins near Ortahisar and can be walked through to Göreme in about 2 hours."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ortahisar-castle.webp",
+    "alt": "Ortahisar Castle rock needle rising above the Cappadocian village in Turkey",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ortahisar-castle.webp",
+  "instagram_tag": "#ortahisar",
+  "meta_title": "Ortahisar Castle, Cappadocia — Volcanic Rock Fortress Above the Rose Valley",
+  "meta_description": "Visit Ortahisar Castle in Cappadocia — an 86-metre carved rock fortress above a quiet village, with views over the Rose Valley and fairy chimneys.",
+  "tags": ["byzantine", "rock-carved", "cappadocia", "turkey", "volcanic"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["uchisar-castle"],
+  "gyg_location_id": "2745",
+  "gyg_search_query": "Ortahisar Castle Cappadocia tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

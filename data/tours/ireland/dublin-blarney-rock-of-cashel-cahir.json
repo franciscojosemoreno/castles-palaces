@@ -1,0 +1,96 @@
+{
+  "id": "dublin-blarney-rock-of-cashel-cahir",
+  "slug": "dublin-blarney-rock-of-cashel-cahir",
+  "name": "Blarney Castle, Rock of Cashel & Cahir Castle Day Trip from Dublin",
+  "tagline": "Three of Ireland's greatest castles — kiss the Blarney Stone, stand on the Rock of Cashel, explore Cahir's perfect fortress",
+  "departure_country": "ireland",
+  "departure_city": "Dublin",
+  "visited_countries": [
+    "ireland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 12 hours",
+  "gyg_tour_id": "18764",
+  "price_from": 89,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 1151,
+  "languages": [
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "max_group_size": 53,
+  "overview": "Three of Ireland's most celebrated castles in a single long day from Dublin. Begin at the Rock of Cashel — a 12th-century complex of medieval buildings on a limestone outcrop where the Kings of Munster held court and St Patrick is said to have baptised the first Irish king. Continue to the perfectly preserved Cahir Castle on the River Suir — the largest castle in Ireland and one of its best kept. End at Blarney Castle, home of the famous stone that is said to grant the gift of eloquence to all who kiss it.",
+  "highlights": [
+    "Visit the Rock of Cashel — seat of the Kings of Munster",
+    "Explore Cahir Castle, the largest and most intact castle in Ireland",
+    "Kiss the Blarney Stone at Blarney Castle",
+    "All three castle entry fees included",
+    "Round-trip transport from Dublin"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "rock-of-cashel",
+      "castle_name": "Rock of Cashel",
+      "duration": "1.5 hours",
+      "description": "The most spectacular archaeological site in Ireland — a cluster of medieval buildings on a dramatic limestone outcrop rising 60 metres from the Tipperary plain. The complex includes a 12th-century round tower, a Romanesque chapel, a Gothic cathedral, and a 15th-century castle. St Patrick is said to have visited in the 5th century, and the kings of Munster were crowned here until 1101."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Cahir Castle",
+      "duration": "1 hour",
+      "description": "Built on a rocky island in the River Suir in the 13th century, Cahir is the largest castle in Ireland and one of its best preserved. Its three wards, round towers, and great hall are largely intact — a remarkably complete medieval fortress that has featured in several films including Braveheart."
+    },
+    {
+      "order": 3,
+      "castle_id": "",
+      "castle_name": "Blarney Castle",
+      "duration": "1.5 hours",
+      "description": "Visit the 15th-century tower house famous worldwide for the Blarney Stone set in its battlements. Legend holds that kissing the stone grants the gift of eloquence — a tradition dating to at least 1833. Explore the castle grounds including the Poison Garden, the Witch's Kitchen, and Blarney House."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Dublin",
+    "Professional guide",
+    "Rock of Cashel entry",
+    "Cahir Castle entry",
+    "Blarney Castle entry"
+  ],
+  "excluded": [
+    "Lunch and refreshments",
+    "Gratuities"
+  ],
+  "meeting_point": "Dublin city centre — confirmed at booking",
+  "tips": [
+    "This is a long day — the drive from Dublin is about 2 hours each way",
+    "Wear comfortable shoes; all three sites involve uneven medieval surfaces",
+    "The Rock of Cashel is extraordinary at any time of day but glows gold in late afternoon light",
+    "Book ahead — this is one of the most popular full-day tours from Dublin"
+  ],
+  "faqs": [
+    {
+      "question": "Do I have to kiss the Blarney Stone?",
+      "answer": "Not at all — but most visitors do. You lean backwards over a gap in the battlements (held safely by an attendant) to kiss the stone set in the outer parapet. The view from the top of the tower alone is worth the climb."
+    },
+    {
+      "question": "Is the Rock of Cashel different from a regular castle?",
+      "answer": "Yes — it is primarily an ecclesiastical and royal site rather than a military one, though it has defensive elements. The combination of round tower, chapel, and cathedral on a single rock makes it unique in Europe."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/dublin-blarney-rock-of-cashel-cahir.webp",
+    "alt": "The Rock of Cashel rising dramatically from the Tipperary plain at sunset",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Blarney Castle, Rock of Cashel & Cahir Day Trip from Dublin | Castles & Palaces",
+    "description": "Visit three of Ireland's greatest castles in one day from Dublin — Blarney, Rock of Cashel and Cahir. All entry fees included. From €89 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/dublin-l31/blarney-castle-and-cork-full-day-tour-from-dublin-t18764/"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "dublin-kilkenny-castle-day-trip",
+  "slug": "dublin-kilkenny-castle-day-trip",
+  "name": "Dublin to Kilkenny Castle: Medieval Day Trip",
+  "tagline": "Ireland's finest medieval city and its magnificent Norman castle in one perfect day",
+  "departure_country": "ireland",
+  "departure_city": "Dublin",
+  "visited_countries": [
+    "ireland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "75151",
+  "price_from": 45,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 3240,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "Leave Dublin behind and travel south through the Irish countryside to Kilkenny, one of Ireland's best-preserved medieval cities. At its heart stands Kilkenny Castle, a 12th-century Norman fortress that has dominated the River Nore for over 800 years. With a knowledgeable guide, explore the castle's lavishly restored State Apartments, the Long Gallery with its Pre-Raphaelite ceiling, and the sweeping parklands. Then walk the Medieval Mile — a kilometre of history connecting the castle to St. Canice's Cathedral, passing butter slips, medieval alleyways and the finest collection of medieval architecture in Ireland.",
+  "highlights": [
+    "Guided tour of Kilkenny Castle's restored State Apartments and Long Gallery",
+    "Walk the Medieval Mile between castle and cathedral",
+    "St. Canice's Cathedral and its intact medieval round tower",
+    "Free time to explore Kilkenny's craft shops, pubs and streets",
+    "Small group for personal attention and easier access"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Dublin City Centre Pickup",
+      "duration": "Travel south (90 min)",
+      "description": "Depart from central Dublin, passing through County Carlow as the guide introduces the history of the Norman invasion and the Butler dynasty who shaped Kilkenny."
+    },
+    {
+      "order": 2,
+      "castle_id": "kilkenny-castle",
+      "castle_name": "Kilkenny Castle",
+      "duration": "2 hours",
+      "description": "Explore the castle's exterior gardens before entering the State Apartments. The Long Gallery dazzles with its hammerbeam roof painted by the Brock brothers in Pre-Raphaelite style. The guide covers 800 years of Butler family history inside these walls."
+    },
+    {
+      "order": 3,
+      "castle_name": "The Medieval Mile",
+      "duration": "1.5 hours",
+      "description": "Walk from the castle through the heart of medieval Kilkenny: Rothe House, the Black Abbey, the butter slips marketplace, and St. Canice's Cathedral with its 9th-century round tower — one of only two in Ireland you can still climb."
+    },
+    {
+      "order": 4,
+      "castle_name": "Free Time in Kilkenny City",
+      "duration": "1.5 hours",
+      "description": "Explore independently: browse the Kilkenny Design Centre for Irish craft, stop into Marble City Bar, or duck into one of the city's famous craft breweries before the return journey to Dublin."
+    }
+  ],
+  "included": [
+    "Return coach transport from Dublin",
+    "Professional English-speaking guide",
+    "Kilkenny Castle entry ticket",
+    "Medieval Mile walking tour",
+    "Headsets for outdoor commentary"
+  ],
+  "excluded": [
+    "Meals and drinks",
+    "St. Canice's Cathedral entry (optional, ~€5)",
+    "Personal purchases"
+  ],
+  "meeting_point": "Dublin city centre — exact pickup point confirmed at booking",
+  "tips": [
+    "Wear comfortable walking shoes — the Medieval Mile involves uneven cobblestones",
+    "Book at least 3 days ahead in summer; tours sell out fast",
+    "Try a pint of Smithwick's, brewed in Kilkenny since 1710",
+    "The Kilkenny Design Centre has exceptional Irish craft work if you want to shop"
+  ],
+  "faqs": [
+    {
+      "question": "Is this tour suitable for children?",
+      "answer": "Yes, very family-friendly. The castle has engaging displays and the Medieval Mile is manageable for children aged 6 and up."
+    },
+    {
+      "question": "How far is Kilkenny from Dublin?",
+      "answer": "About 120 km south, a 90-minute drive depending on traffic."
+    },
+    {
+      "question": "Is there free time to explore on our own?",
+      "answer": "Yes, approximately 90 minutes of free time is included after the guided walking tour."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/dublin-kilkenny-castle-day-trip.webp",
+    "alt": "Kilkenny Castle reflected in the River Nore, Ireland",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Dublin to Kilkenny Castle Day Trip | Medieval Ireland Tour",
+    "description": "Guided day trip from Dublin to Kilkenny Castle and the Medieval Mile. Explore 800 years of Norman history, St. Canice's Cathedral and Ireland's finest medieval city."
+  },
+  "gyg_url": "https://www.getyourguide.com/dublin-l31/from-dublin-full-day-wicklow-glendalough-kilkenny-t75151/"
+}

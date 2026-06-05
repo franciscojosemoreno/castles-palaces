@@ -1,0 +1,81 @@
+{
+  "id": "eger-castle",
+  "name": "Eger Castle",
+  "local_name": "Egri Vár",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 300000,
+  "country": "hungary",
+  "region": "Northern Hungary",
+  "nearest_city": "Eger",
+  "address": "Vár köz 1, 3300 Eger, Hungary",
+  "lat": 47.9039,
+  "lng": 20.3772,
+  "unesco": false,
+  "year_built": 1000,
+  "architectural_style": "Medieval — bishop's palace, Gothic cathedral ruins, Renaissance bastions",
+  "opening_hours": {
+    "monday": "08:00–18:00",
+    "tuesday": "08:00–18:00",
+    "wednesday": "08:00–18:00",
+    "thursday": "08:00–18:00",
+    "friday": "08:00–18:00",
+    "saturday": "08:00–18:00",
+    "sunday": "08:00–18:00",
+    "seasonal_note": "Apr–Oct: 08:00–18:00. Nov–Mar: 08:00–17:00. Casements (underground tunnels) open separately."
+  },
+  "price_adult": 12,
+  "price_child": 6,
+  "booking_required": false,
+  "official_tickets_url": "https://www.egrivar.hu/en",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to October — the castle gardens and wine cellars of Eger both at their best",
+  "accessibility": "Main courtyard accessible. Some areas require steps. Underground casements have low passages.",
+  "booking_advance_days": 0,
+  "tagline": "Where 2,000 Hungarians held off 80,000 Ottomans — the siege of 1552 that became Hungary's national legend",
+  "highlights": [
+    "The hero of 1552 — Captain István Dobó led the garrison of 2,000 Hungarians (including women) against an Ottoman army of 80,000 for 38 days",
+    "The underground casements — a network of tunnels and gun galleries beneath the castle walls, visitable by torchlight",
+    "The bishop's palace and ruins — Gothic and Renaissance buildings surviving from the medieval episcopal centre",
+    "The views over Eger — the castle hill commands panoramic views over the Baroque city and the Eger wine valley",
+    "The museum — artefacts from the 1552 siege including weapons, armour and the famous cannon"
+  ],
+  "description": "Eger Castle is associated above all with the Siege of 1552 — one of the great episodes in Hungarian national history. An Ottoman army estimated at between 80,000 and 150,000 men besieged the castle, defended by a garrison of approximately 2,000 Hungarians under Captain István Dobó, including women who fought alongside the men. After 38 days, the Ottomans withdrew — one of the few instances in the 16th century where Hungarian forces successfully held off a major Ottoman assault. The legend of the defenders, who were said to have drunk red wine that stained their beards red (giving rise to the 'Egri Bikavér' — Bull's Blood — wine that takes its name from the story), became one of the defining narratives of Hungarian identity under Habsburg and later Soviet rule.\n\nThe castle today preserves the bishop's palace complex, Renaissance bastions, the ruins of a Gothic cathedral, and an extensive system of underground casements — tunnels and gun galleries cut through the rock beneath the walls. Eger itself is one of the most beautiful Baroque cities in Hungary, with a cathedral, a minaret (the northernmost Ottoman minaret in Europe), and the famous wine cellars of the Valley of the Beautiful Woman immediately below the castle hill.",
+  "history": "A fortification has existed on Eger's castle hill since at least the 10th century — the bishops of Eger administered the region from this site throughout the medieval period. The current castle structures date largely from the 14th–16th centuries. The Siege of 1552 was a genuine military miracle: Dobó's defenders held out against overwhelming odds, and while the Ottomans eventually occupied the town below in 1596 (when the castle garrison was let down by mercenaries who refused to fight), the memory of 1552 remained a powerful symbol. The Ottomans demolished much of the castle after their eventual occupation; the current ruins reflect both medieval construction and post-Ottoman restoration work.",
+  "how_to_visit": "**Getting there:** Eger is 2 hours by bus from Budapest. Direct trains are slower (3 hours, change at Füzesabony). From Budapest's Keleti station, buses run regularly. By car it's 130km northeast of Budapest.\n\n**Wine:** After the castle, the Valley of the Beautiful Woman (Szépasszony-völgy) is a 20-minute walk from the city centre — a valley lined with wine cellars where Egri Bikavér (Bull's Blood) and other local wines are poured directly from the barrel.\n\n**Combine with:** Budapest (2 hours — Buda Castle, thermal baths), Aggtelek National Park (cave system, UNESCO, 1 hour).",
+  "faqs": [
+    {
+      "question": "What is the connection between Eger Castle and Bull's Blood wine?",
+      "answer": "Egri Bikavér (Eger Bull's Blood) is a red wine blend from the Eger wine region. The name comes from the legend of the 1552 siege: Hungarian defenders drank red wine that stained their beards, and Ottoman soldiers, seeing the red-stained men fighting with extraordinary ferocity, believed they had drunk bull's blood to gain strength. Whether the story is literally true is debated, but it has given the wine its enduring name and the siege one of its most memorable details."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/eger-castle.webp",
+    "alt": "Eger Castle on its hill above the Baroque city, with the Eger Valley visible beyond",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/eger-castle.webp",
+  "instagram_tag": "#egercastle",
+  "meta_title": "Eger Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Eger Castle in Hungary — the site of the legendary 1552 siege where 2,000 Hungarians held off 80,000 Ottomans. Book tickets and pair with Bull's Blood wine tastings.",
+  "tags": [
+    "medieval",
+    "siege",
+    "historic",
+    "wine"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "danube-palaces-route"
+  ],
+  "nearby_castles": [],
+  "gyg_location_id": "1867",
+  "gyg_search_query": "Eger Castle Hungary tour wine tasting",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

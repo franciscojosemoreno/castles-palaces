@@ -1,0 +1,78 @@
+{
+  "id": "tsarevets-fortress",
+  "name": "Tsarevets Fortress",
+  "local_name": "Царевец",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 400000,
+  "country": "bulgaria",
+  "region": "Veliko Tarnovo Province",
+  "nearest_city": "Veliko Tarnovo",
+  "address": "Tsarevets Hill, 5000 Veliko Tarnovo, Bulgaria",
+  "lat": 43.0839,
+  "lng": 25.6500,
+  "unesco": false,
+  "year_built": 1185,
+  "architectural_style": "Medieval Bulgarian fortification",
+  "opening_hours": {
+    "monday": "08:00–19:00",
+    "tuesday": "08:00–19:00",
+    "wednesday": "08:00–19:00",
+    "thursday": "08:00–19:00",
+    "friday": "08:00–19:00",
+    "saturday": "08:00–19:00",
+    "sunday": "08:00–19:00",
+    "seasonal_note": "Nov–Mar: 09:00–17:00. The Sound and Light Show runs on selected evenings (mainly Fridays in summer) — check the municipality website for dates. The show illuminates the entire fortress with coloured lights and lasers, telling the story of the Second Bulgarian Empire."
+  },
+  "price_adult": 6,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.veliko-tarnovo.net/en/sights/tsarevets/",
+  "visit_duration": "2–3 hours",
+  "best_season": "Spring and autumn for pleasant temperatures; summer evenings for the Sound and Light Show; the fortress is dramatic in all seasons",
+  "accessibility": "The path from the entrance to the upper fortress involves a steep climb on paved paths and some stairs. The route to the Patriarch's Church at the summit is steep but doable for most visitors. Not accessible for wheelchairs to the upper levels.",
+  "booking_advance_days": 0,
+  "tagline": "The hilltop citadel of the Second Bulgarian Empire — capital of the medieval Balkans",
+  "highlights": [
+    "The capital fortress of the Second Bulgarian Empire (1185–1393) — one of the most powerful medieval states in the Balkans",
+    "The hilltop Cathedral of the Holy Ascension — rebuilt after the Ottoman destruction of 1393, now the symbol of Bulgarian national identity",
+    "The Sound and Light Show — the fortress is illuminated with coloured lights, projections, and laser beams on selected evenings, telling the story of Bulgaria's medieval golden age",
+    "The Execution Rock — a cliff on the eastern side from which traitors were thrown into the river bend below, according to medieval Bulgarian chronicles",
+    "The view over the Yantra River gorge and the medieval city of Veliko Tarnovo — one of the most scenic historic cities in the Balkans"
+  ],
+  "description": "Tsarevets rises from a steep hill encircled on three sides by a horseshoe bend of the Yantra River — a natural fortress that the Bulgarian Tsars transformed into the most powerful citadel in medieval Balkan history. From this hill, the emperors of the Second Bulgarian Empire ruled a state that stretched from the Danube to the Aegean and from the Black Sea to the Adriatic, challenging Byzantium and matching the great medieval kingdoms of Europe at their 13th-century height.\n\nThe fortress is a complex of over 400 houses, 18 churches, a royal palace, the Patriarch's Cathedral, and the execution cliff — an entire medieval city compressed onto a single hilltop. After the Ottoman conquest of Tarnovo in 1393 — when the last Bulgarian Patriarch Euthymius was imprisoned and the city was systematically destroyed — the site fell into ruin. The catastrophic fall of the capital became the defining trauma of Bulgarian national memory, and the reconstruction of the fortress and Cathedral, undertaken between 1930 and 1981, was a deliberate act of national cultural recovery.\n\nThe Sound and Light Show, performed on selected evenings, illuminates the entire hilltop with coloured lights, lasers, and recorded narration telling the story of the Bulgarian Empire's rise, golden age, and fall. It is one of the most atmospheric historical spectacles in the Balkans — the fortress, river, and surrounding town transformed into a single dramatic stage.",
+  "history": "The hill at Tsarevets has been inhabited since Neolithic times and fortified since the early Byzantine period. Its defining historical moment came in 1185 when the brothers Asen and Peter led a rebellion against Byzantine rule from this hill, establishing the Second Bulgarian Empire with Tarnovo (later renamed Veliko — 'Great' — Tarnovo) as its capital.\n\nThe Second Bulgarian Empire was a major Balkan power for two centuries. Under Tsar Kaloyan (1197–1207), who defeated and captured the Latin Emperor Baldwin I after the Fourth Crusade, and under Ivan Asen II (1218–1241), whose empire reached its maximum extent, Tsarevets was one of the great royal courts of the medieval world. The Patriarch's Cathedral on the hilltop was the spiritual centre of the Bulgarian Orthodox Church, which had achieved independence from Constantinople in 1235.\n\nThe Ottoman conquest of 1393 ended the Second Bulgarian Empire definitively. The Ottoman commander Ali Pasha's forces besieged the city for three months; when it fell, the Patriarch Euthymius was exiled, the nobility was executed, and the churches and palace were systematically dismantled. Bulgaria remained under Ottoman rule for nearly 500 years. When Bulgarian independence was restored in 1878, Tsarevets became a symbol of the lost medieval golden age, and the reconstruction programme begun in 1930 was completed by the communist government in 1981.",
+  "how_to_visit": "**Getting there:** Veliko Tarnovo is 230 km from Sofia (2.5–3 hours by bus or car). Regular buses run from Sofia's Yug (South) terminal. By car, take the Hemus highway east from Sofia. Tsarevets hill is visible from the town centre — walk across the footbridge over the Yantra River to the fortress entrance.\n\n**The Sound and Light Show:** The most memorable way to experience Tsarevets. Shows are held on selected evenings (primarily Fridays in summer, plus special events) and last about 40 minutes. The entire fortress is illuminated with coloured lights and the narration tells the story of the Bulgarian Empire. Check the Veliko Tarnovo municipality website for the current season's schedule.\n\n**Combine with:** Arbanasi (3 km northeast — a village of wealthy Bulgarian merchant houses from the 17th–18th centuries, beautifully preserved), the Asenova Fortress (7 km south — ruins of another Bulgarian medieval fortress in the river gorge), and Preobrazhenski Monastery.\n\n**Photography:** The classic view of Tsarevets is from the Gurko Street neighbourhood on the opposite hill — the entire fortress silhouette with the Cathedral on top is visible at a distance. For the Sound and Light Show, position yourself on Gurko Street or the restaurant terraces overlooking the gorge.",
+  "faqs": [
+    {
+      "question": "What happened when Tsarevets fell to the Ottomans?",
+      "answer": "In July 1393, after a three-month siege, Ottoman forces under Ali Pasha captured Tarnovo. The last Bulgarian Patriarch Euthymius was put on trial and sentenced to exile (he died in a Bulgarian monastery around 1402). The Bulgarian nobility was largely executed. The churches, palace, and administrative buildings were demolished. The last Bulgarian Tsar, Ivan Shishman, was captured and killed in 1395, ending the Second Bulgarian Empire after 208 years."
+    },
+    {
+      "question": "Is the Cathedral at the top of Tsarevets original?",
+      "answer": "No — the Patriarch's Cathedral was destroyed by the Ottomans in 1393. The current building was entirely reconstructed between 1975 and 1981 as part of Bulgaria's communist-era national heritage programme. The controversial modern frescoes inside the reconstructed cathedral, featuring communist-era Bulgarian leaders alongside medieval saints, were repainted in a more traditional style after 1989."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/tsarevets-fortress.webp",
+    "alt": "Tsarevets Fortress on its hilltop above the Yantra River gorge with the Cathedral of the Holy Ascension at the summit, Veliko Tarnovo",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/tsarevets-fortress.webp",
+  "instagram_tag": "#tsarevets",
+  "meta_title": "Tsarevets Fortress Veliko Tarnovo: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Tsarevets Fortress — capital citadel of the Second Bulgarian Empire, dramatically positioned above a river gorge in Veliko Tarnovo. Sound and Light Show. Complete guide.",
+  "tags": ["medieval", "bulgarian", "dramatic", "sound-and-light", "hilltop"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["belogradchik-fortress"],
+  "gyg_location_id": "2174",
+  "gyg_search_query": "Tsarevets Fortress Veliko Tarnovo tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

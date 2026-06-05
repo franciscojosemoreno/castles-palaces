@@ -1,0 +1,82 @@
+{
+  "id": "vienna-schonbrunn-skip-the-line",
+  "slug": "vienna-schonbrunn-skip-the-line",
+  "name": "Schönbrunn Palace Skip-the-Line Tour with Imperial Apartments",
+  "tagline": "The Habsburg summer residence — 1,441 rooms, a century of empire, and the gardens of Vienna",
+  "departure_country": "austria",
+  "departure_city": "Vienna",
+  "visited_countries": [
+    "austria"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 2.5 hours",
+  "gyg_tour_id": "471518",
+  "price_from": 29,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 8900,
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French",
+    "Italian"
+  ],
+  "max_group_size": 20,
+  "overview": "Skip the queues at Vienna's most visited monument and go straight into the imperial apartments where Franz Joseph, Sisi, and Napoleon all once lived. A licensed guide unlocks the private stories behind each room, from the mirrored Great Gallery to the intimate breakfast room where the Empress took her morning coffee.",
+  "highlights": [
+    "Skip-the-line access to Schönbrunn Palace",
+    "Licensed expert guide for the Imperial Apartments",
+    "Learn the story of Empress Sisi and Franz Joseph",
+    "Visit the Grand Parterre gardens (seasonal)",
+    "Small group for an intimate experience"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "schonbrunn-palace",
+      "castle_name": "Schönbrunn Palace",
+      "duration": "2.5 hours",
+      "description": "Skip-the-line entry to the Imperial Apartments. Guided tour of the Mirror Room, the Chinese Cabinets, the Napoleon Room, and the Grand Gallery. Free time in the formal gardens with views to the Gloriette hilltop monument."
+    }
+  ],
+  "included": [
+    "Skip-the-line palace entry",
+    "Expert licensed guide",
+    "Grand Tour Imperial Apartments access"
+  ],
+  "excluded": [
+    "Transport to/from palace",
+    "Schönbrunn Zoo entry",
+    "Gratuities"
+  ],
+  "meeting_point": "Schönbrunn Palace main gate, Vienna",
+  "tips": [
+    "The palace is reachable in 10 minutes from central Vienna on U4 line",
+    "Combine with Belvedere Palace for a full Viennese palace day",
+    "Book at least 3 days ahead — morning slots sell out first"
+  ],
+  "faqs": [
+    {
+      "question": "How many rooms does Schönbrunn have?",
+      "answer": "The palace has 1,441 rooms, though only 45 Imperial Apartments are open to visitors. The Grand Tour covers the most historically significant ones."
+    },
+    {
+      "question": "Is the Gloriette included?",
+      "answer": "The gardens are free to enter. The Gloriette interior has a separate ticket not included in this tour."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/vienna-schonbrunn-skip-the-line.webp",
+    "alt": "Schönbrunn Palace baroque facade with formal gardens and the Gloriette in the background",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Schönbrunn Palace Skip-the-Line Tour Vienna | Castles & Palaces",
+    "description": "Skip the queues at Schönbrunn Palace with a licensed guide for the Imperial Apartments. From €29. Small group, 8,900+ reviews."
+  },
+  "gyg_url": "https://www.getyourguide.com/vienna-l7/vienna-skip-the-line-schonbrunn-palace-and-gardens-tour-t471518/"
+}

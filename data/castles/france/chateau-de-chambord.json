@@ -1,0 +1,118 @@
+{
+  "id": "chateau-de-chambord",
+  "name": "Château de Chambord",
+  "local_name": "Château de Chambord",
+  "type": "chateau",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 1190000,
+  "country": "france",
+  "region": "Loire Valley",
+  "nearest_city": "Blois",
+  "address": "41250 Chambord, France",
+  "lat": 47.616,
+  "lng": 1.5174,
+  "unesco": true,
+  "year_built": 1519,
+  "architectural_style": "French Renaissance",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Jan & Nov–Dec: 09:00–17:00. Feb–Mar & Oct: 09:00–17:30. Apr–Jun & Sep: 09:00–18:00. Jul–Aug: 09:00–19:00. Closed Jan 1 and Dec 25."
+  },
+  "price_adult": 14,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chambord.org/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "September and October — autumn colours in the estate's forest and harvest season in the Loire Valley",
+  "accessibility": "Ground floor largely accessible. The double helix staircase is accessible with assistance. Wheelchairs available on loan. Some areas have uneven surfaces.",
+  "booking_advance_days": 0,
+  "tagline": "François I's Renaissance fantasy — the Loire Valley's most theatrical château",
+  "highlights": [
+    "The double-helix staircase — two spirals that never meet, possibly designed by Leonardo da Vinci",
+    "365 chimneys and towers create a roofscape unlike anything in European architecture",
+    "Set in France's largest walled forest — 5,440 hectares of ancient woodland",
+    "Built for a king who spent less than 40 days there — a pure architectural statement",
+    "The terrace roofline is designed to be walked, like a promenade above the forest canopy"
+  ],
+  "description": "Chambord is the Loire Valley's most extreme creation: a château built not to live in but to astonish. François I, who commissioned it in 1519 at the height of his rivalry with Charles V of Spain, spent a total of less than 40 days here during his reign. The château was not a residence but an architectural manifesto — a declaration that France was the cultural centre of Europe and that its king could build anything.\n\nThe statistics are extravagant by any era's standards: 426 rooms, 365 chimneys, 800 sculpted capitals, and a roofline so complex — a forest of towers, lanterns and dormers that rises above the main bulk of the building — that it has been compared to an upended Istanbul skyline. But no statistic captures Chambord like the double-helix staircase at its core: two spiral ramps that wind around a shared central axis without ever touching, allowing people to ascend and descend simultaneously without meeting. The staircase's design has been attributed to Leonardo da Vinci, who spent his final years at the French court under François's patronage and died in Amboise in 1519 — the year Chambord's construction began.\n\nThe château's setting deepens its theatrical quality. It stands at the centre of France's largest walled forest — 5,440 hectares of woodland and meadow enclosed by 32 kilometres of stone wall, still home to wild boar, deer and migratory birds. In autumn, when the trees turn gold against the white stone of the towers, Chambord is one of the most photographed buildings in France.",
+  "history": "François I came to the throne in 1515, fought the Battle of Marignano, and immediately began transforming France into a Renaissance monarchy to rival the Italian city-states he had just encountered. Chambord was the architectural expression of that ambition. Construction began in 1519, the same year François invited Leonardo da Vinci to France — the coincidence has fuelled centuries of speculation about Leonardo's involvement in the famous double-helix staircase, which appears in his notebooks but was never directly attributed.\n\nBuilt on marshy ground in the Sologne forest, Chambord required the diversion of the Cosson river to stabilise its foundations. The construction employed up to 1,800 workers at its peak and consumed resources that alarmed even François's admirers. Holy Roman Emperor Charles V, who visited in 1539, reportedly called it 'a compendium of what human industry is capable of.'\n\nFrançois used Chambord as a hunting lodge — the Sologne forests were among the richest hunting grounds in France. His successors continued the tradition. Louis XIV, who preferred Versailles, nonetheless visited Chambord twelve times and commissioned Molière to perform two world-premiere plays in the château, including Le Bourgeois Gentilhomme in 1670.\n\nThe château passed through various hands during the Revolution and Empire periods, falling into disrepair. In the 19th century it was purchased for the exiled Bourbon Pretender and became a symbol of monarchist resistance to the French Republic — a political association that made public investment in its restoration controversial for decades. Today it is state-owned and one of France's most popular historic sites.",
+  "how_to_visit": "**Getting there:** Chambord has no train station — you must arrive by car, bicycle or organised tour. The château is 18km east of Blois, which has regular TGV connections to Paris (1 hour). From Blois, take the D33 road; taxis are available (€25–30 one way). In summer, a shuttle bus runs from Blois station. Many visitors combine Chambord with Cheverny or Chaumont-sur-Loire as a full-day Loire Valley château circuit.\n\n**By bicycle:** The Loire Valley is crisscrossed by the EuroVelo 6 cycle route. Chambord is a 1.5–2 hour ride from Blois along well-maintained paths through forests and past vineyard villages. Bicycle rental available in Blois and Amboise.\n\n**Tickets and what to see:** Tickets cover the château interior and the roof terrace — don't skip the roof, which is the most spectacular and unusual part of the visit. The double-helix staircase is in the central keep. The royal apartments are furnished with period pieces, though sparse by Versailles standards. Allow 1.5 hours inside and 30–45 minutes to walk the grounds.\n\n**Best photo position:** The classic reflection shot — château reflected in the Cosson river — is taken from the stone bridge at the eastern end of the formal gardens. Golden hour from 1 hour before sunset is best; arrive early to choose your spot.",
+  "faqs": [
+    {
+      "question": "Did Leonardo da Vinci design Chambord's famous staircase?",
+      "answer": "The attribution to Leonardo is debated by historians but widely accepted as plausible. The double-helix staircase appears in Leonardo's notebooks, and he was working for the French court at the same time as Chambord's construction began in 1519 — the year Leonardo died. The staircase's mathematical complexity and departure from contemporary convention is consistent with Leonardo's design philosophy. No definitive documentary proof exists, but the circumstantial case is strong."
+    },
+    {
+      "question": "How do I get to Château de Chambord from Paris?",
+      "answer": "There is no direct train to Chambord. The fastest route from Paris: TGV from Paris Montparnasse to Blois (1 hour), then taxi or shuttle bus to Chambord (18km, about 25 minutes by taxi). Alternatively, join an organised day tour from Paris which handles transport — several operators run Loire Valley château tours including Chambord. By car from Paris, it's about 2.5 hours via the A10 motorway."
+    },
+    {
+      "question": "How many rooms does Chambord have?",
+      "answer": "Chambord has 426 rooms in total. Of these, approximately 80 are open to visitors on the standard château tour, including the royal apartments, the Great Hall, the Council Room and the remarkable rooftop terrace. The double-helix staircase connects all floors and is the architectural centrepiece of the visit."
+    },
+    {
+      "question": "What is the best château to combine with Chambord?",
+      "answer": "Château de Cheverny, 12km south of Chambord, is the most logical pairing — it's one of the best-preserved furnished châteaux in France, with a working hunting tradition and the original inspiration for Tintin's Moulinsart. Château de Blois (in the town of Blois, which is the transport hub) makes sense if arriving by train. For a longer Loire circuit, Chenonceau (spanning the Cher river) is 45km away and the most visually striking of all."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-chambord.webp",
+    "alt": "Château de Chambord reflected in the Cosson river, with its extraordinary roofline of towers and chimneys against a stormy sky",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-chambord.webp",
+  "instagram_tag": "#chambord",
+  "meta_title": "Château de Chambord: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château de Chambord in the Loire Valley. Explore the Leonardo da Vinci staircase, rooftop terrace and France's largest walled forest estate. Complete visitor guide.",
+  "tags": [
+    "renaissance",
+    "16th-century",
+    "fairy-tale",
+    "unesco-world-heritage",
+    "river-castle",
+    "instagram-worthy",
+    "day-trip-from-paris"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-chenonceau",
+    "palace-of-versailles",
+    "chateau-damboise",
+    "chateau-de-cheverny"
+  ],
+  "gyg_location_id": "504",
+  "gyg_search_query": "Chambord Loire Valley tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "10751",
+      "title": "From Paris: Loire Valley Castles Day Trip",
+      "type": "day_trip",
+      "duration": "12–12.5 hours",
+      "price_from": 110,
+      "rating": 4.5,
+      "reviews": 1353,
+      "covers_castles": [
+        "chateau-de-chambord",
+        "chateau-de-chenonceau",
+        "chateau-damboise",
+        "chateau-de-cheverny"
+      ]
+    }
+  ]
+}

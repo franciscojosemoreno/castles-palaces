@@ -1,0 +1,82 @@
+{
+  "id": "uchisar-castle",
+  "name": "Üçhisar Castle",
+  "local_name": "Üçhisar Kalesi",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 300000,
+  "country": "turkey",
+  "region": "Central Anatolia, Nevşehir, Cappadocia",
+  "nearest_city": "Nevşehir",
+  "address": "Üçhisar, 50240 Nevşehir, Turkey",
+  "lat": 38.5319,
+  "lng": 34.8278,
+  "unesco": false,
+  "year_built": 0,
+  "architectural_style": "Rock-carved / Byzantine",
+  "opening_hours": {
+    "monday": "08:00–19:00",
+    "tuesday": "08:00–19:00",
+    "wednesday": "08:00–19:00",
+    "thursday": "08:00–19:00",
+    "friday": "08:00–19:00",
+    "saturday": "08:00–19:00",
+    "sunday": "08:00–19:00",
+    "seasonal_note": "Open daily. Shorter hours in winter (08:00–17:30). Closed for renovation periods — check locally."
+  },
+  "price_adult": 3,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.goturkey.com",
+  "visit_duration": "1 hour",
+  "best_season": "April to June, September to November",
+  "accessibility": "Very limited — steep carved rock stairs throughout",
+  "booking_advance_days": 0,
+  "tagline": "Cappadocia's highest peak — a volcanic rock fortress carved with a thousand rooms",
+  "highlights": [
+    "Highest point in the Cappadocia region with panoramic 360° views",
+    "Entirely carved from a single volcanic tuff pinnacle",
+    "Labyrinth of rooms, tunnels, and stairs cut into the living rock",
+    "Spectacular view point for hot air balloon flights at sunrise",
+    "The rock face is riddled with pigeon houses used for centuries to collect fertiliser"
+  ],
+  "description": "Üçhisar Castle is the highest point in Cappadocia — a massive volcanic tuff pinnacle 60 metres tall, entirely honeycombed with rooms, tunnels, storage chambers, and staircases carved directly into the rock over many centuries. The extraordinary natural formation was first used as a fortress in Byzantine times, its labyrinthine interior providing refuge against Arab raids. From the summit, on clear days the entire Cappadocian landscape unfolds — the fairy chimneys of Göreme, the valleys of Love and Rose, the distant snow-capped peak of Mount Erciyes, and dozens of hot air balloons drifting at dawn over the landscape below. The exterior rock face is studded with pigeon houses — small carved niches used for centuries by local farmers to collect pigeon droppings as fertiliser — giving the castle its characteristic pockmarked appearance.",
+  "history": "The volcanic tuff pinnacle at Üçhisar was carved and inhabited from at least Byzantine times (6th–7th centuries), when the network of rooms and tunnels provided refuge from Arab raids across Anatolia. It was expanded through the medieval period as the region passed between Byzantine, Seljuk, and Ottoman control. The village of Üçhisar grew around its base, and the rock continued to be used for storage and habitation into the 20th century. Some sections have been periodically closed for structural safety consolidation as the soft tuff erodes.",
+  "how_to_visit": "Üçhisar is 5 km west of Göreme, the main tourist base of Cappadocia. Dolmuş minibuses connect Üçhisar to Göreme and Nevşehir throughout the day. The castle entrance is in the centre of Üçhisar village. Hot air balloon tours — the classic Cappadocia experience — offer aerial views of the castle at sunrise. Combine with the Göreme Open Air Museum (UNESCO), Devrent Valley, and Zelve Open Air Museum on a full Cappadocia itinerary.",
+  "faqs": [
+    {
+      "question": "What are the pigeon houses on the rock face?",
+      "answer": "Small carved niches on the exterior of the rock used to house pigeons, whose droppings were collected as valuable fertiliser for Cappadocian vineyards and orchards. Thousands of such niches cover the valley walls throughout the region."
+    },
+    {
+      "question": "Is Üçhisar good for watching hot air balloons?",
+      "answer": "Yes — the castle summit is one of the best vantage points in Cappadocia to watch the dozens of hot air balloons that rise over the valleys each morning at dawn."
+    },
+    {
+      "question": "How difficult is the climb inside?",
+      "answer": "The interior involves steep carved rock staircases with low ceilings in places. It is not suitable for those with mobility issues or claustrophobia."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/uchisar-castle.webp",
+    "alt": "Üçhisar Castle rock pinnacle rising above Cappadocia at sunrise in Turkey",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/uchisar-castle.webp",
+  "instagram_tag": "#uchisar",
+  "meta_title": "Üçhisar Castle, Cappadocia — Rock-Carved Fortress with Panoramic Views",
+  "meta_description": "Visit Üçhisar Castle in Cappadocia — the highest point in the region, a Byzantine rock fortress carved from a volcanic pinnacle with 360° views over fairy chimneys.",
+  "tags": ["byzantine", "rock-carved", "cappadocia", "turkey", "volcanic"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["ortahisar-castle"],
+  "gyg_location_id": "2745",
+  "gyg_search_query": "Uchisar Castle Cappadocia tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

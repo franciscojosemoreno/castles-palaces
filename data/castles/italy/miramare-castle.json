@@ -1,0 +1,82 @@
+{
+  "id": "miramare-castle",
+  "name": "Miramare Castle",
+  "local_name": "Castello di Miramare",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 350000,
+  "country": "italy",
+  "region": "Friuli-Venezia Giulia, Trieste",
+  "nearest_city": "Trieste",
+  "address": "Viale Miramare, 34151 Trieste TS, Italy",
+  "lat": 45.7069,
+  "lng": 13.7070,
+  "unesco": false,
+  "year_built": 1856,
+  "architectural_style": "Neo-Gothic / Eclectic",
+  "opening_hours": {
+    "monday": "09:00–19:00",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–19:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Last admission 30 minutes before closing. Park open daily dawn to dusk."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.castello-miramare.it",
+  "visit_duration": "2 hours",
+  "best_season": "Year-round",
+  "accessibility": "Mostly accessible — main floor reachable; some upper areas have stairs",
+  "booking_advance_days": 0,
+  "tagline": "A fairy-tale palace on the Adriatic cliffs, built for a tragic archduke",
+  "highlights": [
+    "Stunning white neo-Gothic palace on a rocky Adriatic promontory",
+    "Original 19th-century state rooms furnished for Archduke Maximilian",
+    "Dramatic sea views over the Gulf of Trieste",
+    "Beautiful coastal park with exotic plants and marine reserve below",
+    "Fascinating story of Maximilian — later Emperor of Mexico"
+  ],
+  "description": "Castello di Miramare is one of the most romantic and melancholic castles in Italy, rising in white limestone from a rocky headland above the Adriatic Sea, 8 km north of Trieste. Built between 1856 and 1860 for Archduke Maximilian of Austria and his wife Charlotte of Belgium, the castle's interiors survive intact — from the sailor-themed bedroom to the throne room and Chinese salon — preserving a vivid portrait of mid-19th century aristocratic life. Maximilian left Miramare in 1864 to become Emperor of Mexico, where he was executed three years later at the age of 34, never to return. Charlotte lived on, losing her sanity in grief. The castle's stunning promontory setting, with views across the Adriatic, and its surrounding coastal park make it one of the most visited attractions in the Trieste region.",
+  "history": "Archduke Maximilian, younger brother of Emperor Franz Joseph I of Austria, chose the Miramare promontory for his personal residence and oversaw its design closely. Construction ran from 1856 to 1860. After his execution in Mexico in 1867, the castle passed to his wife Charlotte and later to the Duke of Aosta. It was used as a base by the German command in World War II and briefly by Allied forces, before becoming a state museum in 1955.",
+  "how_to_visit": "Located 8 km north of Trieste city centre on the SS14 coastal road. Bus number 36 runs from Trieste Piazza Oberdan to the castle gates. By car, parking is available at the entrance. The coastal park can be explored on foot and includes a small marine reserve. Trieste is reachable by train from Venice (2h), Ljubljana (2h30), and Vienna (6h).",
+  "faqs": [
+    {
+      "question": "Can I visit the park without paying for the castle?",
+      "answer": "Yes — the surrounding coastal park is free to enter and open daily from dawn to dusk."
+    },
+    {
+      "question": "What happened to Archduke Maximilian?",
+      "answer": "He became Emperor Maximilian I of Mexico in 1864 but was overthrown and executed by Republican forces in 1867 at just 34 years old."
+    },
+    {
+      "question": "Is there a marine reserve near the castle?",
+      "answer": "Yes — the waters below the castle form a small marine protected area, popular with snorkellers."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/miramare-castle.webp",
+    "alt": "Miramare Castle rising from the Adriatic Sea cliffs near Trieste, Italy",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/miramare-castle.webp",
+  "instagram_tag": "#miramare",
+  "meta_title": "Miramare Castle, Trieste — Romantic Adriatic Palace of Archduke Maximilian",
+  "meta_description": "Visit Miramare Castle near Trieste — a stunning 19th-century palace on the Adriatic with original rooms, a coastal park, and a tragic royal story.",
+  "tags": ["palace", "neo-gothic", "adriatic", "habsburg", "trieste"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["san-giusto-castle"],
+  "gyg_location_id": "2742",
+  "gyg_search_query": "Miramare Castle Trieste tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

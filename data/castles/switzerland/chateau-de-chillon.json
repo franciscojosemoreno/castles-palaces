@@ -1,0 +1,85 @@
+{
+  "id": "chateau-de-chillon",
+  "name": "Château de Chillon",
+  "local_name": "Château de Chillon",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 450000,
+  "country": "switzerland",
+  "region": "Vaud",
+  "nearest_city": "Montreux",
+  "address": "Avenue de Chillon 21, 1820 Veytaux, Switzerland",
+  "lat": 46.4141,
+  "lng": 6.927,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "Medieval — island fortress, series of buildings from 12th to 17th century",
+  "opening_hours": {
+    "monday": "09:00–19:00",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–19:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Apr–Sep: 09:00–19:00. Oct–Mar: 10:00–17:00. Last entry 1 hour before closing."
+  },
+  "price_adult": 13,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chillon.ch/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October — lake views, the castle reflected in Lake Geneva, wildflowers on the approach walk",
+  "accessibility": "Many areas of the castle require steps or have low doorways. A printed accessibility guide is available. Some areas with low beams and uneven floors.",
+  "booking_advance_days": 0,
+  "tagline": "A medieval castle on a lake island — the setting that inspired Byron, Hugo and Rousseau",
+  "highlights": [
+    "The island location — the castle rises directly from a rocky island in Lake Geneva, surrounded by water on three sides",
+    "The underground vaults — the Gothic cellars where François Bonivard was chained for four years, immortalised in Byron's 'The Prisoner of Chillon'",
+    "The Great Hall of the Count — the largest room in the castle, with 13th-century frescoes and views across the lake to the French Alps",
+    "The prison column — the pillar to which Bonivard was chained, with Byron's signature carved into it during his 1816 visit",
+    "The walk from Montreux — a lakeside path through gardens and vineyards, with the castle appearing round each headland"
+  ],
+  "description": "Château de Chillon rises from a rocky island in Lake Geneva just outside Montreux, its towers and battlements reflected in the still water of the lake with the French Alps behind it — one of the most photographed views in Switzerland. The castle is not one building but a series of buildings accumulated over five centuries, their towers and halls ranged along the island's length and connected by internal passages. From the lake approach, what appears to be a single dramatic ensemble is actually the product of continuous construction from the 12th to the 17th centuries.\n\nThe castle owes much of its international fame to Lord Byron, who visited in 1816 and wrote 'The Prisoner of Chillon' — a romantic narrative poem about François Bonivard, a Genevan monk imprisoned here from 1530 to 1536 by the Duke of Savoy for his support of the Genevan republic. The underground vaults where Bonivard was chained to a pillar survive intact, and Byron's name — carved into the pillar itself during his visit — is one of the most famous pieces of literary graffiti in the world. Victor Hugo, Rousseau and Alexandre Dumas also visited and wrote about Chillon.\n\nThe interior is exceptionally well preserved and unusually rich for a castle of its size. The 13th-century frescoes in the Great Hall of the Count are among the finest medieval paintings in Switzerland; the Gothic vaulted cellars are atmospheric and cool even in summer; and the sequence of rooms from kitchen to great hall to solar gives an unusually complete picture of how a medieval lord's household was organised.",
+  "history": "The first documented mention of Chillon dates from 1150, but the strategic importance of the site — controlling the narrow passage between the lake and the mountains that was the main route between northern Europe and Italy — suggests earlier occupation. The Bishops of Sion were the first lords of Chillon; from the late 12th century it became the principal residence of the Counts of Savoy.\n\nThe castle reached its greatest development under Peter II of Savoy (1203–1268), who commissioned the master builder William of Rossilon to build the great halls, towers and underground vaults. Peter was the great-uncle of Eleanor of Castile, Queen of England, and had strong English connections — English craftsmen may have contributed to the construction. The castle remained in Savoyard hands until 1536, when Bernese forces captured it during the Reformation wars. The Prisoner Bonivard was released from the vaults when the castle fell.\n\nFrom 1536 the castle served as a Bernese administrative centre, then a Vaudois cantonal prison (until 1798), a cantonal arsenal, and eventually a museum. Restoration began in the 1890s and has continued since; the castle is now one of the most visited monuments in Switzerland and receives around 400,000 visitors a year.",
+  "how_to_visit": "**Getting there:** Montreux is easily reached by train from Geneva (1 hour) or Lausanne (25 minutes). From Montreux, the castle is a 45-minute walk along the lakeside path — one of the most scenic walks in Switzerland. A bus (line 201) also runs from Montreux station to the castle entrance. Boat services on Lake Geneva stop at Chillon in summer.\n\n**Tickets:** Available at the door — no advance booking needed except for groups. The self-guided audio tour (included) explains each room in detail.\n\n**Photography:** The best external photos are from the lakeside walk approaching from Montreux, with the mountains behind the castle. At dawn the lake is still and the reflections are perfect.\n\n**Combine with:** Montreux town (Freddie Mercury statue, the Jazz Festival in July), the terraced vineyards of the Lavaux UNESCO landscape (between Lausanne and Montreux), and the Rochers-de-Naye mountain railway from Montreux make a superb Lake Geneva day.",
+  "faqs": [
+    {
+      "question": "Who was the Prisoner of Chillon?",
+      "answer": "François Bonivard (1493–1570) was a Genevan monk and political activist who supported Genevan independence from the Duke of Savoy. He was captured in 1530 and imprisoned in the underground vaults of Chillon Castle, chained to a pillar, for six years until Bernese forces captured the castle and released him in 1536. Lord Byron visited the castle in 1816 and was so moved by the story that he wrote 'The Prisoner of Chillon' in two days. Byron's name is carved into the pillar where Bonivard was chained — one of the world's most famous pieces of literary graffiti."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-chillon.webp",
+    "alt": "Château de Chillon rising from Lake Geneva with the Swiss Alps reflected in the still water",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-chillon.webp",
+  "instagram_tag": "#chateaudechillon",
+  "meta_title": "Château de Chillon: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château de Chillon on Lake Geneva — the medieval island castle that inspired Byron, Rousseau and Victor Hugo. Book tickets and walk the scenic lakeside path from Montreux.",
+  "tags": [
+    "medieval",
+    "lake",
+    "romantic",
+    "instagram-worthy",
+    "literary"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "swiss-alpine-castles"
+  ],
+  "nearby_castles": [
+    "hohensalzburg-fortress",
+    "schonbrunn-palace"
+  ],
+  "gyg_location_id": "12567",
+  "gyg_search_query": "Chateau de Chillon Montreux tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

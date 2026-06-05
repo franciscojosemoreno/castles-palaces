@@ -1,0 +1,88 @@
+{
+  "id": "karlstejn-castle",
+  "name": "Karlštejn Castle",
+  "local_name": "Hrad Karlštejn",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 280000,
+  "country": "czech-republic",
+  "region": "Central Bohemia",
+  "nearest_city": "Prague",
+  "address": "267 18 Karlštejn, Czech Republic",
+  "lat": 49.939,
+  "lng": 14.1879,
+  "unesco": false,
+  "year_built": 1348,
+  "architectural_style": "Gothic",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Mar & Nov: Tue–Sun 09:00–15:00. Apr & Oct: 09:00–17:00. May–Jun & Sep: 09:00–18:00. Jul–Aug: 09:00–19:00. Closed Mon and all of Dec–Feb."
+  },
+  "price_adult": 12,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hradkarlstejn.cz/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to June and September — manageable crowds and the Berounka valley in full colour",
+  "accessibility": "Steep terrain with many stairs. The approach path from the village is uphill (20 min walk). Some sections of the tour have significant stair access only.",
+  "booking_advance_days": 0,
+  "tagline": "The Gothic crown jewel of Bohemia — built by Emperor Charles IV to guard the Holy Roman regalia",
+  "highlights": [
+    "Built by Emperor Charles IV in 1348 specifically to house the Holy Roman Imperial Crown Jewels",
+    "The Chapel of the Holy Cross — walls set with 2,200 semi-precious stones and 128 panel paintings",
+    "Dramatically sited on a limestone ridge above a forested valley 30km from Prague",
+    "The most popular day trip from Prague after Kutná Hora",
+    "The village of Karlštejn below is perfectly preserved and entirely castle-oriented"
+  ],
+  "description": "Karlštejn was built for one purpose: to keep things safe. Emperor Charles IV, who made Prague the most important city in Europe and spent enormous sums making it look the part, commissioned Karlštejn in 1348 as an imperial treasury — a fortress so secure that it could protect the most valuable objects in the known world: the Holy Roman Imperial Crown Jewels, the Bohemian Crown Jewels, the Imperial Orb, the True Cross, and a collection of sacred relics that represented the symbolic authority of the Holy Roman Empire.\n\nThe castle rises in three stages up a limestone ridge above the Berounka river valley, each stage more restricted than the last: the outer palace open to court, the Great Tower accessible to fewer, and at the summit the Chapel of the Holy Cross — accessible originally only to Charles himself and a small number of the highest clergy. The Chapel is the architectural centrepiece: its walls are set with 2,200 polished semi-precious stones that catch the light like a reliquary scaled to room size, while 128 panel paintings by Master Theodoric — the most important Czech medieval painter — cover the vaults and upper walls. It is, in effect, the inside of a reliquary made habitable.\n\nThe crown jewels are no longer here — they were moved repeatedly over the centuries and now rest in Prague Castle — but the architecture built to contain them remains among the most extraordinary Gothic spaces in Central Europe. Karlštejn is also the easiest significant castle in Bohemia to reach from Prague, which makes it the most visited day-trip castle in the Czech Republic.",
+  "history": "Charles IV commissioned Karlštejn immediately after his coronation as Holy Roman Emperor in 1346, seeking a secure repository for the imperial and Bohemian crown jewels and sacred relics. The architect was French — Matthias of Arras, who was also working on the new St. Vitus Cathedral in Prague — reflecting the Parisian Gothic influence Charles absorbed during his education in France.\n\nConstruction was completed in 1365. Charles designed the security hierarchy of the castle with care: the lowest level was accessible to his court, the middle level to his household, and the Chapel of the Holy Cross — containing the most sacred objects — was accessible only to Charles, the castle's spiritual administrators, and on one day per year when the relics were publicly displayed.\n\nFollowing Charles's death in 1378, the castle retained its symbolic importance but the Holy Roman crown jewels were gradually removed to more secure or more politically convenient locations. The Hussite Wars of the early 15th century left Karlštejn intact (it was too well-fortified to assault), but the economic and political disruption of the following centuries diminished its relevance as a treasury.\n\nMajor restorations were undertaken in the 1890s under Josef Mocker — whose romantic restorations are also responsible for the dramatic silhouette of Prague Castle's St. Vitus Cathedral as seen today. Mocker's Karlštejn restoration was thorough to the point of replacing original elements with Neo-Gothic interpretations, generating academic controversy that continues. The Chapel of the Holy Cross was restored more carefully in a later campaign and is considered authentic.",
+  "how_to_visit": "**Getting there from Prague:** Direct trains run from Prague Hlavní nádraží (main station) to Karlštejn station in 45 minutes, departing every 1–2 hours (€3–5). From the station, walk through the village (flat, 10 min) then uphill to the castle gate (20 min, steep). Total from Prague city centre to castle: about 1.5 hours. This is by far the easiest major castle day trip from Prague.\n\n**Tours:** Castle interiors are accessible only on guided tours (Route I covers the castle's outer levels; Route II includes the Chapel of the Holy Cross). Route II requires advance booking and has very limited places — book online at least 2 weeks ahead in summer if the Chapel is your priority. Many day-trippers take only Route I without knowing Route II exists.\n\n**The village:** Karlštejn village, in the valley below the castle, is a single street of medieval and Renaissance houses running from the train station to the castle base. It is almost entirely devoted to tourism — souvenir shops, restaurants, wine cellars — but the architecture is genuinely old and the setting attractive.",
+  "faqs": [
+    {
+      "question": "How do I get to Karlštejn Castle from Prague?",
+      "answer": "Take a direct train from Prague Hlavní nádraží (main station) to Karlštejn — the journey takes about 45 minutes and trains run roughly every 1–2 hours. Cost is approximately €3–5. From Karlštejn station, walk through the village (10 min flat) then 20 minutes uphill to the castle entrance. No car needed and no transfer — it's the most straightforward day trip from Prague."
+    },
+    {
+      "question": "What is the Chapel of the Holy Cross at Karlštejn?",
+      "answer": "The Chapel of the Holy Cross, in the castle's Great Tower, is the architectural masterpiece of Karlštejn — built by Emperor Charles IV as the innermost sanctuary for the Holy Roman Imperial relics. Its walls are set with 2,200 polished semi-precious stones (jasper, amethyst, chalcedony) designed to simulate the walls of the Heavenly Jerusalem, while 128 Gothic panel paintings by Master Theodoric cover the vaults and upper walls. Access is via separate Tour II tickets with limited daily numbers — book in advance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/karlstejn-castle.webp",
+    "alt": "Karlštejn Castle rising in Gothic tiers above the forested Berounka valley, 30km from Prague",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/karlstejn-castle.webp",
+  "instagram_tag": "#karlstejn",
+  "meta_title": "Karlštejn Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Karlštejn Castle — the Gothic Imperial treasury 30km from Prague. Built by Emperor Charles IV to guard the Holy Roman Crown Jewels. Day trip guide.",
+  "tags": [
+    "gothic",
+    "medieval",
+    "14th-century",
+    "dramatic",
+    "day-trip-from-paris"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "bohemia-castle-road"
+  ],
+  "nearby_castles": [
+    "cesky-krumlov-castle"
+  ],
+  "gyg_location_id": "540",
+  "gyg_search_query": "Karlstejn Castle day trip Prague",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,89 @@
+{
+  "id": "ljubljana-predjama-castle-postojna",
+  "slug": "ljubljana-predjama-castle-postojna",
+  "name": "Predjama Castle & Postojna Cave Tour from Ljubljana",
+  "tagline": "The world's largest cave castle, built into a cliff face above one of Europe's greatest underground caverns",
+  "departure_country": "slovenia",
+  "departure_city": "Ljubljana",
+  "visited_countries": [
+    "slovenia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 8 hours",
+  "gyg_tour_id": "97692",
+  "price_from": 55,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 1340,
+  "languages": [
+    "English",
+    "Slovenian",
+    "German",
+    "Italian"
+  ],
+  "max_group_size": 8,
+  "overview": "Predjama Castle is the most dramatically situated castle in Europe — a Renaissance fortress built into the mouth of a cave halfway up a 123-metre cliff face in the Karst region of Slovenia. Below the castle, the world's largest cave system (Postojna) runs for 24km through limestone caverns filled with stalactites, stalagmites, and the extraordinary olm — a blind cave salamander that can live for 100 years. Both sites together form one of Slovenia's most extraordinary travel experiences.",
+  "highlights": [
+    "Visit Predjama Castle — the world's largest cave castle, built into a cliff face",
+    "Explore Postojna Cave on an underground train ride through 5km of caverns",
+    "Small group of maximum 8 for a personal experience",
+    "Learn the legend of Erazem Lueger, the Slovenian Robin Hood",
+    "Round-trip transport from Ljubljana"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "predjama-castle",
+      "castle_name": "Predjama Castle",
+      "duration": "1.5 hours",
+      "description": "Tour the remarkable Renaissance castle built in 1570 into the mouth of a natural cave system. The castle was home to the legendary knight Erazem Lueger, who defied the Habsburg Emperor from this impregnable position for over a year, supplied through secret passages in the cave behind. Tour the medieval rooms, torture chamber, and the cave passage Erazem used to escape his besiegers."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Postojna Cave",
+      "duration": "2 hours",
+      "description": "Board an electric train that disappears into the mountain for a 3km ride through the largest cave system in Europe. Walk the remaining 2km on foot past Concert Hall (with its 10,000-person capacity), the White and Red Caves, and the famous 5-metre Brilliant stalactite. See the olm — the mysterious blind cave salamander discovered in Postojna in 1768."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Ljubljana",
+    "Expert guide",
+    "Predjama Castle entry",
+    "Postojna Cave entry and train ride"
+  ],
+  "excluded": [
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Ljubljana city centre — confirmed at booking",
+  "tips": [
+    "Postojna Cave is a constant 10°C year-round — bring a warm layer regardless of the season",
+    "The castle perched in the cliff is best photographed from the valley below — step back to get it all in",
+    "Predjama's secret cave passage is narrow — not suitable for those with severe claustrophobia",
+    "The small group size (max 8) means booking ahead is essential — this sells out weeks in advance"
+  ],
+  "faqs": [
+    {
+      "question": "Who was Erazem Lueger?",
+      "answer": "A 15th-century Slovenian knight who feuded with the Holy Roman Emperor Frederick III. He used Predjama's hidden cave passages to receive supplies during a year-long siege, becoming a folk hero. He was eventually killed not in battle but while using the castle's facilities — a cannonball found its mark at an inopportune moment."
+    },
+    {
+      "question": "What is an olm?",
+      "answer": "A blind, depigmented cave salamander (Proteus anguinus) endemic to the underground rivers of the Dinaric Alps. It lives entirely in darkness, can survive over 10 years without food, and was first described to science in 1768 after flooding brought specimens to the surface — where locals assumed they were baby dragons."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/ljubljana-predjama-castle-postojna.webp",
+    "alt": "Predjama Castle built into the mouth of a cave in the vertical limestone cliff face",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Predjama Castle & Postojna Cave Tour from Ljubljana | Castles & Palaces",
+    "description": "Visit Predjama Castle and Postojna Cave on a small-group day trip from Ljubljana. The world's largest cave castle. From €55 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/ljubljana-l318/postojna-cave-predjama-castle-from-ljubljana-t97692/"
+}

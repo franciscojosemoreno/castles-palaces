@@ -1,0 +1,82 @@
+{
+  "id": "bunratty-castle",
+  "name": "Bunratty Castle",
+  "local_name": "Caisleán Bun Ráite",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 400000,
+  "country": "ireland",
+  "region": "County Clare, Munster",
+  "nearest_city": "Limerick",
+  "address": "Bunratty, Co. Clare, V95 HD35, Ireland",
+  "lat": 52.6955,
+  "lng": -8.8165,
+  "unesco": false,
+  "year_built": 1425,
+  "architectural_style": "Tower house",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Last admission one hour before closing. Medieval banquets held nightly (separate booking required)."
+  },
+  "price_adult": 14,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://www.shannonheritage.com/bunrattycastle",
+  "visit_duration": "2–3 hours",
+  "best_season": "Year-round",
+  "accessibility": "Limited — narrow spiral staircases throughout the tower",
+  "booking_advance_days": 0,
+  "tagline": "Ireland's most complete medieval castle and folk park",
+  "highlights": [
+    "Most complete medieval castle in Ireland",
+    "Authentic 15th-century furnishings and tapestries",
+    "Bunratty Folk Park — a reconstructed 19th-century Irish village",
+    "Nightly medieval banquets with traditional music",
+    "Located minutes from Shannon Airport"
+  ],
+  "description": "Bunratty Castle is the most complete and authentically restored medieval castle in Ireland, standing on a low mound above the Ratty River where it has dominated the surrounding landscape since 1425. Built by the MacNamara family and later seized by the O'Brien Kings of Thomond, the castle's Great Hall, solar, and battlements are furnished with original 15th- and 16th-century artefacts, tapestries, and paintings. Adjacent to the castle, Bunratty Folk Park recreates a 19th-century Irish village complete with farmhouses, a forge, a post office, and a working Victorian-era street. Each evening the Great Hall is transformed for medieval banquets — a theatrical feast with traditional Irish music that has been running for over 60 years.",
+  "history": "A fortress has stood at Bunratty since Viking times. The present tower house was built around 1425 by the MacNamara clan and subsequently acquired by the O'Brien Kings of Munster, who made it their chief seat. It passed through English colonial hands after the Cromwellian period and fell into disrepair. Major restoration began in the 1950s under the direction of Lord Gort and the Irish Tourist Board, guided by historians who filled the rooms with period-appropriate furnishings. The first medieval banquet was held in 1963, launching a tradition that continues to this day.",
+  "how_to_visit": "Bunratty is located on the N18 motorway, 14 km from Limerick city and 8 km from Shannon Airport — making it a convenient first or last stop on an Irish trip. Regular bus services connect Shannon and Limerick to Bunratty. Ample parking is available on site.",
+  "faqs": [
+    {
+      "question": "What is the medieval banquet experience?",
+      "answer": "An evening of traditional Irish food, wine, and live music performed in the Great Hall, evoking the feasts of the castle's O'Brien kings. Booking in advance is essential."
+    },
+    {
+      "question": "Is the Folk Park included in the castle ticket?",
+      "answer": "Yes — the Folk Park and castle are covered by a single admission ticket."
+    },
+    {
+      "question": "How far is Bunratty from Shannon Airport?",
+      "answer": "Just 8 km — about a 10-minute drive — making it a perfect first stop after landing in Ireland."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bunratty-castle.webp",
+    "alt": "Bunratty Castle reflected in the Ratty River in County Clare, Ireland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bunratty-castle.webp",
+  "instagram_tag": "#bunrattycastle",
+  "meta_title": "Bunratty Castle, Ireland — Medieval Fortress, Folk Park & Banquets",
+  "meta_description": "Visit Bunratty Castle in County Clare — Ireland's most complete medieval castle with a folk park, period furnishings, and nightly banquets.",
+  "tags": ["medieval", "irish-castle", "tower-house", "folk-park", "banquet"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["blarney-castle", "cahir-castle"],
+  "gyg_location_id": "2563",
+  "gyg_search_query": "Bunratty Castle tour Clare",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

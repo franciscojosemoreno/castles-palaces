@@ -1,0 +1,98 @@
+{
+  "id": "dublin-bunratty-cliffs-moher-ennis",
+  "slug": "dublin-bunratty-cliffs-moher-ennis",
+  "name": "From Dublin: Bunratty Castle, Cliffs of Moher & Ennis",
+  "tagline": "Ireland's most complete tower castle, the most spectacular sea cliffs in Europe, and the medieval capital of County Clare",
+  "departure_country": "ireland",
+  "departure_city": "Dublin",
+  "visited_countries": [
+    "ireland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (13 hours)",
+  "gyg_tour_id": "590491",
+  "gyg_url": "https://www.getyourguide.com/dublin-l31/dublin-cliffs-of-moher-ennis-bunratty-castle-day-tour-t590491/",
+  "price_from": 40,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 3200,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 50,
+  "overview": "The west coast of Ireland — the Wild Atlantic Way — contains two of the most extraordinary sights on the island: Bunratty Castle and the Cliffs of Moher. Bunratty Castle, in County Clare, is the most complete and authentic tower castle in Ireland: a 15th-century tower house of the powerful MacNamara and O'Brien clans, restored to its original medieval appearance and furnished with genuine 15th and 16th-century furniture, tapestries and artefacts. The Folk Park surrounding it recreates a 19th-century Irish village with working farmhouses, a village street and a medieval walled garden — the most visited heritage attraction in Ireland outside Dublin. The Cliffs of Moher, 60 kilometres north, are 8 kilometres of sheer Atlantic sea cliffs rising to 214 metres — the highest and most dramatic sea cliffs in Europe. Below the cliffs, Atlantic gannets, puffins and razorbills nest in ledges carved by 320 million years of wave action. Ennis, the county town of Clare, contains Ireland's finest surviving Franciscan friary — the Ennis Friary, founded in 1241 — and a medieval street plan unchanged since the 13th century.",
+  "highlights": [
+    "Bunratty Castle — the most complete 15th-century tower castle in Ireland, fully furnished with authentic medieval artefacts",
+    "Bunratty Folk Park — 30 acres of reconstructed 19th-century Irish rural life surrounding the castle",
+    "Cliffs of Moher (UNESCO Global Geopark) — 8 km of 214-metre Atlantic sea cliffs, the most dramatic in Europe",
+    "O'Brien's Tower — the Victorian folly at the highest point of the Cliffs, with views to the Aran Islands and Galway Bay",
+    "Ennis Friary — Ireland's best-preserved Franciscan monastery, founded 1241, with extraordinary medieval sculpture",
+    "The Burren — the limestone karst landscape between Ennis and the Cliffs, a unique glaciated moonscape with rare flora"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Bunratty Castle & Folk Park",
+      "duration": "2 hours",
+      "description": "Bunratty Castle was built in 1425 by the MacNamara clan and quickly passed to the powerful O'Brien dynasty — the Kings of Thomond (County Clare and Limerick) — who used it as their principal residence throughout the 15th and 16th centuries. The four-storey tower house is one of the most complete medieval tower castles in Ireland: its Great Hall, Solar, Chapel and prisoner dungeons are all accessible, furnished with genuine 15th and 16th-century furniture, tapestries, weapons and artefacts assembled from European collections. The guide covers the extraordinary history of the O'Brien dynasty — descendants of the 11th-century High King of Ireland Brian Boru — and their centuries of resistance to English rule, using Bunratty as both a residence and a political statement. The surrounding Folk Park was created in 1960 to rescue and reconstruct examples of 19th-century rural Irish architecture: a Golden Vale farmhouse, a Clare farmhouse, a Crannog (island dwelling), a village street with pub, post office and printer's shop, and a medieval walled herb garden."
+    },
+    {
+      "order": 2,
+      "castle_name": "Ennis & The Burren",
+      "duration": "1.5 hours",
+      "description": "Ennis was the medieval capital of County Clare — the seat of the O'Brien kings of Thomond, whose patronage of the Franciscan order created the Ennis Friary in 1241. The friary church contains the finest collection of medieval sculpture in Munster: a 15th-century Ecce Homo, the McMahon tomb with its carved Passion scenes, and the remarkable figure of St Francis with the stigmata, all carved in local limestone with extraordinary naturalism. The guide covers the political geography of Clare in the medieval period and the role of Ennis as the administrative centre of the O'Brien territory. On the drive toward the Cliffs, pass the Burren — a 250 square-kilometre limestone plateau of bare karst, glacial boulders and rare orchids, created when the ice sheets stripped the topsoil 15,000 years ago. The Burren's botanical uniqueness (Arctic, Alpine and Mediterranean plants growing side by side due to the mild Atlantic climate) has made it a UNESCO Geopark."
+    },
+    {
+      "order": 3,
+      "castle_name": "Cliffs of Moher",
+      "duration": "1.5 hours",
+      "description": "The Cliffs of Moher rise from the Atlantic along 8 kilometres of County Clare coastline, reaching their maximum height of 214 metres at Knockardakin. The cliffs are formed of alternating layers of shale and sandstone deposited 320 million years ago when this region lay at the bottom of a shallow tropical sea — the distinct horizontal banding in the cliff face is the preserved sediment of that ancient seabed. The cliff edge provides a view of extraordinary scale: looking north toward Galway Bay and the Aran Islands (their stone walls visible on clear days), looking south to Loop Head, and looking west toward the open Atlantic with nothing between here and Newfoundland. O'Brien's Tower, a Victorian folly built by landowner Cornelius O'Brien in 1835 as a viewing tower for tourists (making the Cliffs one of the oldest tourist attractions in Ireland), marks the highest accessible point. The Atlantic seabird colony on the cliff faces includes razorbills, guillemots, kittiwakes and (seasonally) puffins."
+    }
+  ],
+  "included": [
+    "Return coach transport from Dublin",
+    "Professional English-speaking guide",
+    "Bunratty Castle entry",
+    "Bunratty Folk Park entry",
+    "Cliffs of Moher entry",
+    "Large group with guide"
+  ],
+  "excluded": [
+    "Ennis Friary entry (~€5 — highly recommended)",
+    "Lunch (free time at Bunratty or Ennis)",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Dublin city centre — exact departure point confirmed at booking",
+  "tips": [
+    "The Cliffs of Moher are best in the late afternoon when the westerly light turns the sandstone orange and the shadows deepen in the horizontal strata — plan your timing if possible",
+    "Walk south from the main viewing area along the cliff path toward Hag's Head for progressively more dramatic cliff faces and far fewer tourists",
+    "Bunratty Castle holds medieval banquets on selected evenings — an authentic recreation of a 15th-century O'Brien feast with costumed entertainment, period food and mead. If staying overnight nearby it is highly recommended.",
+    "The Burren's rare plants are best in late spring (May–June) when the orchids bloom — Bloody Cranesbill, Spring Gentian and the Dense-flowered Orchid grow nowhere else in Ireland"
+  ],
+  "faqs": [
+    {
+      "question": "Who was Brian Boru and what is his connection to Bunratty?",
+      "answer": "Brian Boru (941–1014) was the most powerful king in Irish history — the High King of Ireland who united the Irish kingdoms and decisively defeated the Viking-Irish alliance at the Battle of Clontarf in 1014, ending Viking political power in Ireland (though Brian himself died in the battle). He was the founder of the Dal Cais dynasty, from which the O'Brien kings of Munster and Clare directly descended. The O'Briens who built Bunratty Castle in 1425 were Brian Boru's direct descendants, which gave Bunratty symbolic significance as a statement of Irish royal legitimacy in the face of English colonisation."
+    },
+    {
+      "question": "What are the Aran Islands visible from the Cliffs of Moher?",
+      "answer": "The Aran Islands (Inis Mór, Inis Meáin and Inis Oírr) are three small islands at the mouth of Galway Bay, clearly visible from the Cliffs of Moher on a clear day — approximately 25 kilometres north. The islands are famous for their extraordinary concentration of prehistoric and early medieval stone forts (Dún Aonghasa on Inis Mór is a semicircular Iron Age fort on a 90-metre cliff edge) and for being one of the last Irish-speaking communities in Ireland. The stone walls that cover every surface of the islands are visible from the Cliffs on a clear day."
+    },
+    {
+      "question": "Are the Cliffs of Moher safe to visit?",
+      "answer": "The main tourist section of the Cliffs has a paved path and sections of low wall. The cliff edge itself is unfenced in many places — the traditional approach in Ireland is to allow visitors to assess risk personally. Fatalities do occasionally occur, always involving people who go beyond the marked path. Stay on the path, respect weather conditions (westerly gales can be sudden and severe), and do not sit on the cliff edge. The coastal walk north and south of the main viewing area is safe when taken sensibly and offers far better views than the main area."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/dublin-bunratty-cliffs-moher-ennis.webp",
+    "alt": "The Cliffs of Moher rising 214 metres from the Atlantic, County Clare, Ireland",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Dublin: Bunratty Castle, Cliffs of Moher & Ennis Day Tour",
+    "description": "Full-day tour from Dublin to Bunratty Castle (Ireland's most complete medieval tower house), the Cliffs of Moher (214m Atlantic sea cliffs) and the medieval Franciscan friary of Ennis."
+  }
+}

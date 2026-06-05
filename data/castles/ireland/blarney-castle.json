@@ -1,0 +1,82 @@
+{
+  "id": "blarney-castle",
+  "name": "Blarney Castle",
+  "local_name": "Caisleán na Blarnan",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 500000,
+  "country": "ireland",
+  "region": "County Cork",
+  "nearest_city": "Cork",
+  "address": "Blarney, Co. Cork, Ireland",
+  "lat": 51.9293,
+  "lng": -8.5717,
+  "unesco": false,
+  "year_built": 1446,
+  "architectural_style": "Late medieval tower house",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Jul–Aug open until 19:00. Oct–Apr closes at 17:00 or dusk. Last entry 30 minutes before closing. Kissing the Stone may involve queuing — arrive early in peak summer months."
+  },
+  "price_adult": 18,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.blarneycastle.ie",
+  "visit_duration": "2–3 hours",
+  "best_season": "Shoulder season (April–May and September–October) for shorter queues at the Blarney Stone and pleasant grounds",
+  "accessibility": "The keep involves narrow spiral staircases to reach the Blarney Stone (top floor) and is not accessible to wheelchairs. The extensive grounds (including Wishing Steps and Rock Close) are mostly accessible on well-maintained paths.",
+  "booking_advance_days": 0,
+  "tagline": "The 15th-century tower where kissing a stone is supposed to give you the gift of the gab",
+  "highlights": [
+    "The Blarney Stone — set in the battlements of a 15th-century tower keep, kissed by millions for the legendary gift of eloquence",
+    "One of Ireland's best-preserved late medieval tower houses, built by Cormac Laidir MacCarthy in 1446",
+    "The Rock Close — an extraordinary garden of ancient standing stones, dolmens, and a druidic stone circle below the castle",
+    "The Wishing Steps, Witch's Kitchen, and Fairy Glen — a landscape of moss-covered boulders and ancient trees",
+    "Blarney House and its gardens — a Scottish baronial mansion built in 1874 beside the castle"
+  ],
+  "description": "Blarney Castle has been telling people what they want to hear for centuries. The legend says that kissing the Blarney Stone — a block of Carboniferous limestone set in the battlements of the keep's parapet — bestows the gift of eloquence, charm, and persuasive speech. Millions of visitors have contorted themselves backwards over the castle's edge to press their lips to it. Whether it works is debatable; that the ritual has made Blarney one of the most visited sites in Ireland is not.\n\nBeyond the Stone, Blarney Castle is a substantial and atmospheric late medieval tower house, built in 1446 by Cormac Laidir MacCarthy, the powerful Lord of Muskerry. The keep stands 26 metres high with walls nearly four metres thick, and its interior — stone chambers, spiral staircases, the great hall and the battlements — tells the story of Irish tower house architecture at its peak. The castle was besieged by Cromwell's forces in 1646 and the outer walls were blown up after the Williamite Wars in 1690, leaving the distinctive ruined shell that surrounds the intact tower.\n\nThe grounds are the castle's second great asset. The Rock Close below the keep contains ancient limestone outcrops, a Druid circle, a witch's kitchen, and a wishing well of genuine antiquity, all set in a garden of extraordinary atmospheric quality. The Wishing Steps — 'descend backwards with eyes closed and your wish will be granted' — and the Fairy Glen continue the tradition of turning landscape into legend that makes Irish castle visits unlike any other in Europe.",
+  "history": "The site of Blarney has been inhabited and fortified since the earliest medieval period. The first castle on the rock was reputedly built by Cormac MacCarthy around 1210, but the substantial tower that survives today was constructed in 1446 by Cormac Laidir ('the Strong') MacCarthy, Lord of Muskerry and one of the most powerful chiefs of Munster. The MacCarthy clan held the castle for generations, and it was during this period that the Blarney Stone legend most likely developed — though its precise origins are unclear.\n\nThe most famous Blarney story concerns Queen Elizabeth I and Dermot McCarthy. The Queen, exasperated by McCarthy's eloquent but entirely hollow promises of submission to the Crown, reportedly declared his correspondence 'all Blarney' — giving the English language a word for pleasant, plausible nonsense. Whether true or not, the story captures the spirit of the place: a castle whose greatest weapon was always words.\n\nBlarney passed through several owners after the Williamite Wars, including the Jefferyes family who built the current Blarney House in 1874 in Scottish baronial style. The castle and grounds have been managed as a tourist attraction since the 19th century, when romantic tourists including Sir Walter Scott visited. The Colthurst family, descendants of the Jefferyes, still own and manage the estate today.",
+  "how_to_visit": "**Getting there:** Blarney is 8 km northwest of Cork city. Bus Éireann runs direct services from Cork Bus Station (Parnell Place) to Blarney village approximately every 30 minutes. The castle is a 10-minute walk from the bus stop. Many visitors combine Blarney with a day in Cork city.\n\n**Kissing the Stone:** The Blarney Stone is at the top of the keep. You must climb four floors of narrow spiral stairs, then lean back over the parapet (held by a staff member) to kiss the stone. In peak summer (July–August), queues can be 60–90 minutes at mid-morning. Arrive at opening (09:00) or after 16:00 to minimise waiting.\n\n**The grounds:** Don't rush through — the Rock Close, Wishing Steps, Fern Garden, and Fairy Glen are among the most atmospheric castle grounds in Ireland. Allow at least an hour for the exterior grounds after the keep.\n\n**Combine with:** Cork city (English Market, St Fin Barre's Cathedral) and the Rock of Cashel (2 hours east) make natural additions for a multi-day Munster itinerary.",
+  "faqs": [
+    {
+      "question": "Is the Blarney Stone legend real?",
+      "answer": "The legend that kissing the Blarney Stone bestows the gift of eloquence dates to at least the 18th century, though its exact origins are uncertain. Various origin stories exist — a gift from Robert the Bruce, a stone from the Biblical Holy Land, a pagan ritual stone. The most historically plausible version connects it to the diplomatic eloquence of the MacCarthy lords. Whether it works or not, over 400,000 people a year kiss it."
+    },
+    {
+      "question": "Is Blarney Castle just for the Blarney Stone?",
+      "answer": "No — the castle grounds are among the finest in Ireland. The Rock Close prehistoric garden, the Wishing Steps, Fern Garden, Witch's Kitchen, and Fairy Glen make Blarney one of the most atmospheric and beautiful castle estates to walk through, regardless of the Stone. Many visitors spend more time in the grounds than in the keep itself."
+    },
+    {
+      "question": "Can I visit Blarney Castle as a day trip from Dublin?",
+      "answer": "Blarney is 260 km from Dublin (about 3 hours by car). It's more practical as a day trip from Cork (8 km, 30 minutes) or Killarney (90 minutes). Several Dublin tour operators run multi-day tours combining Blarney with the Ring of Kerry and the Cliffs of Moher."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/blarney-castle.webp",
+    "alt": "Blarney Castle tower rising from woodland gardens in County Cork, Ireland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/blarney-castle.webp",
+  "instagram_tag": "#blarneycastle",
+  "meta_title": "Blarney Castle: Tickets, Blarney Stone & Visitor Guide 2026",
+  "meta_description": "Visit Blarney Castle in Cork, Ireland — kiss the Blarney Stone and explore Ireland's most visited medieval tower house. Complete guide to tickets, opening hours, and the Rock Close gardens.",
+  "tags": ["medieval", "tower-house", "iconic", "gardens", "ireland"],
+  "last_updated": "2026-05-01",
+  "routes": [],
+  "nearby_castles": ["rock-of-cashel", "kilkenny-castle"],
+  "gyg_location_id": "274",
+  "gyg_search_query": "Blarney Castle tour Cork",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

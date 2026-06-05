@@ -1,0 +1,86 @@
+{
+  "id": "bodiam-castle",
+  "name": "Bodiam Castle",
+  "local_name": "Bodiam Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 220000,
+  "country": "england",
+  "region": "East Sussex",
+  "nearest_city": "Hastings",
+  "address": "Bodiam, Robertsbridge TN32 5UA, England",
+  "lat": 50.9843,
+  "lng": 0.5474,
+  "unesco": false,
+  "year_built": 1385,
+  "architectural_style": "Late medieval — quadrangular plan with corner towers and gatehouse, built as a complete unit 1385",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Mar–Oct: daily 10:00–18:00. Nov–Feb: Sat–Sun only 10:00–16:00. Check National Trust website for exact dates."
+  },
+  "price_adult": 16,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.nationaltrust.org.uk/visit/kent/bodiam-castle",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October — wildflowers in the moat, waterlilies in summer, autumn colours in the surrounding woodland",
+  "accessibility": "Grounds and exterior are accessible. Interior is largely ruined with uneven surfaces and steep stairs — some areas not accessible.",
+  "booking_advance_days": 0,
+  "tagline": "The perfect romantic ruin — a moated medieval castle rising from water lilies in the English countryside",
+  "highlights": [
+    "The moat — a perfectly square sheet of water surrounding the castle, with water lilies in summer, creating a mirror-image reflection",
+    "The exterior — one of the most photographically perfect medieval castles in England, its four corner towers intact",
+    "The interior — a romantic ruin, roofless but with the walls standing to full height, towers climbable for views",
+    "The National Trust approach — a wooded path along the River Rother with views of the castle appearing across the meadow",
+    "The gatehouse — the original portcullis grooves visible, the most complete part of the surviving interior"
+  ],
+  "description": "Bodiam Castle is the definitive romantic English castle ruin: a moated medieval fortress whose four corner towers and two gatehouses stand to full height, reflected in a broad square moat of still water, while the interior — roofless and grass-floored — fills the imagination rather than the eye. Built in 1385 by Sir Edward Dalyngrigge, a veteran of the Hundred Years War, as both a defensive structure and a comfortable home, Bodiam has the distinction of being designed as a complete, coherent unit rather than accumulated over centuries.\n\nThe castle's military effectiveness has been debated by historians — the moat and outer walls look formidable but the gatehouse arrangement may have been more decorative than genuinely defensible. What is beyond debate is the aesthetic achievement: the four drum towers, the twin-towered north gatehouse and the postern gate create an exterior of formal symmetry that is almost unique in English medieval architecture. The National Trust, which has owned the castle since 1925, has kept the grounds in a condition that emphasises the romantic qualities: wildflowers grow in the moat margins, water lilies spread across the surface in summer, and the approach path along the Rother valley allows the castle to appear gradually across a meadow.\n\nThe interior is a ruin — the floors and roofs are gone, the walls open to the sky — but the towers can be climbed, the gatehouse passage explored, and the ground plan of the original domestic arrangements traced in the stone foundations.",
+  "history": "Edward Dalyngrigge obtained a licence to crenellate from Richard II in 1385, during a period when French raids on the South Coast made coastal defence a genuine concern. Bodiam was built as a fortified manor house as much as a military fortification — the original interior would have contained a great hall, private chambers, kitchens and chapels arranged around a central courtyard.\n\nThe castle saw little actual military action. During the Wars of the Roses, Sir Thomas Lewknor held it briefly against Edward IV, but it was surrendered without significant fighting. In the Civil War the castle was held for the King, but Parliamentary forces took it in 1644 without resistance and demolished the interior to prevent further use — hence the roofless state visible today. The castle was purchased by the antiquary John Fuller in 1829, who stabilised and partly restored it. Lord Curzon of Kedleston, former Viceroy of India, purchased it in 1917, undertook a major restoration, and bequeathed it to the National Trust in 1925.",
+  "how_to_visit": "**Getting there:** By car: Bodiam is 18km north of Hastings on the B2244. National Trust parking on site. By public transport: bus 349 runs from Hastings to Bodiam (45 minutes). The Kent and East Sussex Railway runs steam trains to Bodiam station from Tenterden on summer weekends — one of the most atmospheric arrivals possible.\n\n**Steam railway:** The Kent and East Sussex Railway is a heritage steam line that runs to Bodiam Castle station in summer — a wonderful way to arrive. Book at the railway's website separately.\n\n**Photography:** The best shots are from the path on the north bank of the moat, with the gatehouse and reflection in frame. Early morning has the stillest water and best light.\n\n**Combine with:** Battle Abbey (site of the Battle of Hastings, 18km), Sissinghurst Castle Garden (National Trust, 30 minutes), and Rye (a perfectly preserved medieval town, 15 minutes).",
+  "faqs": [
+    {
+      "question": "Is Bodiam Castle a ruin?",
+      "answer": "Yes — Bodiam Castle is a romantic ruin. The exterior walls and towers stand to their full original height, but the interior is largely gutted: no roofs, no floors, and only stone foundations remaining of the original rooms. The castle was deliberately slighted (partially demolished) by Parliamentarian forces in 1644 during the Civil War. The National Trust has stabilised the walls and made the towers climbable, but the interior experience is of an evocative, atmospheric shell rather than a furnished historic building."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bodiam-castle.webp",
+    "alt": "Bodiam Castle reflected in its moat on a still summer morning, water lilies surrounding the walls",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bodiam-castle.webp",
+  "instagram_tag": "#bodiamcastle",
+  "meta_title": "Bodiam Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Bodiam Castle in East Sussex — England's most photogenic moated medieval castle. Book National Trust tickets and explore the towers and romantic ruins.",
+  "tags": [
+    "medieval",
+    "moat",
+    "romantic",
+    "instagram-worthy",
+    "ruin"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "english-royal-castles"
+  ],
+  "nearby_castles": [
+    "tower-of-london",
+    "windsor-castle",
+    "warwick-castle"
+  ],
+  "gyg_location_id": "59",
+  "gyg_search_query": "Bodiam Castle East Sussex tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

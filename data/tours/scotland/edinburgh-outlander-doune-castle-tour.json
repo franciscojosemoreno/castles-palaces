@@ -1,0 +1,86 @@
+{
+  "id": "edinburgh-outlander-doune-castle-tour",
+  "slug": "edinburgh-outlander-doune-castle-tour",
+  "name": "Outlander Filming Locations Day Trip from Edinburgh — Doune Castle & Highlands",
+  "tagline": "Castle Leoch, Cranesmuir, and the Scottish Highlands that inspired Diana Gabaldon's world",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 10 hours",
+  "gyg_tour_id": "121236",
+  "price_from": 55,
+  "currency": "GBP",
+  "rating": 4.8,
+  "review_count": 2640,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "Doune Castle is one of the best-preserved medieval castles in Scotland and one of the most filmed in history: Monty Python's Holy Grail (1975), Game of Thrones (Winterfell), and most famously Outlander — where it serves as Castle Leoch, home of the MacKenzie clan. This full-day tour from Edinburgh visits the castle and multiple Outlander filming locations across Stirlingshire and the Trossachs, guided by an expert who knows both the show and the real history behind every location.",
+  "highlights": [
+    "Visit Doune Castle — Outlander's Castle Leoch — with expert commentary",
+    "See multiple Outlander filming locations across Central Scotland",
+    "Walk the grounds where Monty Python and Game of Thrones filmed",
+    "Small group (max 16) with a dedicated Outlander-specialist guide",
+    "Drive through the Trossachs National Park"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "doune-castle",
+      "castle_name": "Doune Castle (Castle Leoch)",
+      "duration": "2 hours",
+      "description": "The undisputed highlight: Doune Castle is the medieval fortress used as Castle Leoch throughout Outlander. Walk the great hall where the MacKenzies feasted, the kitchens where Mrs Fitz presided, and the courtyard where Claire first arrived as a prisoner. The audioguide is voiced by Sam Heughan (Jamie Fraser) — unique among Scottish castles. Also filmed here: Monty Python (Castle Anthrax, Castle Aaaaargh), Game of Thrones Season 1 (Winterfell)."
+    },
+    {
+      "order": 2,
+      "castle_id": "",
+      "castle_name": "Outlander Filming Locations",
+      "duration": "3 hours",
+      "description": "Drive through Stirlingshire and the Trossachs visiting key Outlander locations: Blackness Castle (Fort William prison), the village of Culross (Cranesmuir), the Kelpies, and locations from Season 1 and 2. Your guide narrates both the fictional storylines and the real Scottish history each location represents."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Edinburgh",
+    "Outlander-specialist guide",
+    "Doune Castle entry"
+  ],
+  "excluded": [
+    "Lunch",
+    "Other site entry fees",
+    "Gratuities"
+  ],
+  "meeting_point": "Edinburgh city centre — confirmed at booking",
+  "tips": [
+    "The Doune Castle audioguide voiced by Sam Heughan is available inside — worth getting even on this guided tour",
+    "Wear layers — Central Scotland is unpredictable and some locations are exposed",
+    "Fans of the books will want to ask the guide about locations that appear in the novels but not the show",
+    "Culross (Cranesmuir) is a perfectly preserved 17th-century burgh — allow time to explore beyond the filming spots"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need to have watched Outlander to enjoy this tour?",
+      "answer": "No — the guide covers both the fictional context for Outlander fans and the genuine history of each location for those unfamiliar with the show. Doune Castle is historically significant in its own right, and the landscape of Central Scotland is spectacular regardless."
+    },
+    {
+      "question": "Is Doune Castle also the castle from Monty Python?",
+      "answer": "Yes — Doune Castle was used for multiple castle scenes in Monty Python and the Holy Grail (1975) including Castle Anthrax, Swamp Castle, and Castle Aaaaargh. The same gatehouse and courtyard appear throughout the film."
+    }
+  ],
+  "featured": true,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-outlander-doune-castle-tour.webp",
+    "alt": "Doune Castle rising above the River Teith in the Scottish Highlands — Castle Leoch in Outlander",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Outlander Filming Locations Day Trip from Edinburgh — Doune Castle | Castles & Palaces",
+    "description": "Visit Doune Castle (Outlander's Castle Leoch) and Outlander filming locations on a small-group day trip from Edinburgh. From £55 per person."
+  },
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/from-edinburgh-full-day-outlander-explorer-tour-t121236/"
+}

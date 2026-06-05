@@ -1,0 +1,86 @@
+{
+  "id": "wartburg-castle",
+  "name": "Wartburg Castle",
+  "local_name": "Wartburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 400000,
+  "country": "germany",
+  "region": "Thuringia",
+  "nearest_city": "Eisenach",
+  "address": "Auf der Wartburg 1, 99817 Eisenach, Germany",
+  "lat": 50.9667,
+  "lng": 10.3081,
+  "unesco": true,
+  "year_built": 1067,
+  "architectural_style": "Romanesque — 12th-century great hall and residential buildings, later Gothic and 19th-century additions",
+  "opening_hours": {
+    "monday": "08:30–20:00",
+    "tuesday": "08:30–20:00",
+    "wednesday": "08:30–20:00",
+    "thursday": "08:30–20:00",
+    "friday": "08:30–20:00",
+    "saturday": "08:30–20:00",
+    "sunday": "08:30–20:00",
+    "seasonal_note": "Mar–Oct: 08:30–20:00. Nov–Feb: 09:00–17:00. Interior by guided tour only. Last tour 1.5 hours before closing."
+  },
+  "price_adult": 11,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.wartburg.de/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to October — forest walk from Eisenach most pleasant; the castle grounds are excellent in autumn",
+  "accessibility": "The approach is uphill. The interior tour involves stairs. Some areas not accessible. A road approach by car is possible.",
+  "booking_advance_days": 0,
+  "tagline": "Where Luther translated the Bible and St. Elisabeth lived — the castle that shaped German history and language",
+  "highlights": [
+    "Luther's study — the room where Martin Luther, hiding as 'Junker Jörg', translated the New Testament into German in just 10 weeks (1521–22)",
+    "The Romanesque Palas — one of the best-preserved Romanesque palace buildings in Germany, dating from the 12th century",
+    "The Elisabeth Gallery — murals depicting the life of St. Elisabeth of Hungary, who lived at the Wartburg as a young woman",
+    "The Great Hall — a 12th-century hall decorated in 19th-century Historicist style, with tiled floors and painted ceilings",
+    "The forest approach from Eisenach — a 45-minute walk through beech forest that has been made since the Middle Ages"
+  ],
+  "description": "Wartburg Castle rises above the town of Eisenach in Thuringia on a wooded spur of the Thuringian Forest, its red-roofed buildings visible above the treeline from the valley below. The castle has two great moments in German history, separated by four centuries, that together made it one of the most symbolically important sites in the German-speaking world.\n\nThe first moment is the story of St. Elisabeth of Hungary (1207–1231). Elisabeth came to Wartburg as a child, betrothed to Ludwig IV of Thuringia, and lived here until his death on the Crusades in 1227. She devoted her short life (she died aged 24) to caring for the poor and sick in ways that scandalised the court — the legend of the 'miracle of roses', in which bread she was carrying secretly for the poor transformed into roses when challenged, is associated with the castle. She was canonised in 1235, just four years after her death.\n\nThe second moment is Martin Luther's stay in 1521–22. After his excommunication by the Pope and outlawing by the Holy Roman Emperor at the Diet of Worms, Luther was 'kidnapped' by his protector Frederick III of Saxony and brought secretly to Wartburg, where he lived under the pseudonym 'Junker Jörg' (Squire George) for ten months. In this room — preserved essentially as Luther left it — he translated the entire New Testament from Greek into German in ten weeks, a work that standardised the German language and shaped the subsequent Protestant Reformation across northern Europe.",
+  "history": "Wartburg Castle was founded in 1067 by Ludwig the Springer, Count of Thuringia, who according to legend leapt from a cliff to escape captivity on the condition that he could keep whatever land his horse's feet touched — and directed his horse to leap to the site of the future castle. The Romanesque Palas (great hall) dates from around 1190 and is one of the oldest secular buildings in Germany still standing to its full height.\n\nThe Landgraves of Thuringia made Wartburg their principal residence in the 12th–13th centuries. The court hosted the Sängerkrieg (Minstrel Contest) of 1207 — a celebrated gathering of the great Minnesingers including Walther von der Vogelweide — which Wagner dramatised in his opera Tannhäuser, set at the Wartburg. The castle declined in importance after the extinction of the Thuringian landgraviate in 1247. In the 15th–16th centuries it served as an occasional prison and administrative building before Luther's famous stay in 1521–22. In the 19th century, Grand Duke Carl Alexander of Saxe-Weimar-Eisenach undertook a major romantic restoration, adding the murals of Elisabeth's life and bringing the castle to its current condition.",
+  "how_to_visit": "**Getting there:** Eisenach station has regular trains from Frankfurt (2 hours) and Erfurt (40 minutes). From Eisenach station, the castle is a 45-minute walk through the beech forest, or a short bus and 10-minute walk, or accessible by car to a car park below the castle gate.\n\n**Interior tours:** The interior is visited by guided tour only (German-language, with printed English information). Tours run every 10–15 minutes in high season. The Romanesque Palas, Luther's study, Elisabeth's rooms and the Great Hall are all visited.\n\n**Combine with:** Bach's birthplace in Eisenach (Johann Sebastian Bach was born here in 1685), the Thuringian Forest walks, Erfurt (40 minutes — extraordinarily well-preserved medieval city), and Weimar (Goethe, Schiller, Bauhaus — 1 hour by car).",
+  "faqs": [
+    {
+      "question": "Why did Martin Luther translate the Bible at Wartburg Castle?",
+      "answer": "After Luther was excommunicated by Pope Leo X and outlawed by Holy Roman Emperor Charles V at the Diet of Worms in 1521, his protector Frederick III of Saxony arranged for him to be 'kidnapped' and hidden at Wartburg Castle for his own safety. Luther lived there for ten months under the alias 'Junker Jörg'. During this time, to keep himself occupied and to further the cause of the Reformation, he translated the entire New Testament from the original Greek into German in just ten weeks. His translation, published in 1522, standardised the German language and became one of the most influential books in German history."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wartburg-castle.webp",
+    "alt": "Wartburg Castle above the autumn forest of Thuringia, its red roofs visible above the beech trees",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wartburg-castle.webp",
+  "instagram_tag": "#wartburg",
+  "meta_title": "Wartburg Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Wartburg Castle in Thuringia — the UNESCO-listed castle where Martin Luther translated the Bible and St. Elisabeth of Hungary lived. Book guided tours.",
+  "tags": [
+    "medieval",
+    "romanesque",
+    "unesco",
+    "luther",
+    "reformation"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "thuringia-castles"
+  ],
+  "nearby_castles": [
+    "heidelberg-castle",
+    "hohenzollern-castle",
+    "eltz-castle"
+  ],
+  "gyg_location_id": "528",
+  "gyg_search_query": "Wartburg Castle Eisenach tour Germany",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}

@@ -1,0 +1,42 @@
+{
+  "id": "scottish-highlands-castles",
+  "name": "Scottish Highlands Castles",
+  "tagline": "From Edinburgh's volcanic rock to the sea lochs of the far northwest",
+  "description": "Scotland has more castles per square mile than almost anywhere in Europe — over 3,000 ruins and 2,000 still standing — and the Highlands route connects the most dramatic of them across a landscape of volcanic rock, dark sea lochs, ancient forest and mountain passes that has changed little since the castles were built.\n\nThe route moves from Edinburgh Castle on its basalt plug above the Old Town — 1,000 years of concentrated Scottish history — north through Stirling's volcanic fortress and on into the Highlands, where Doune's medieval walls guard the River Teith and the route eventually reaches Eilean Donan, the most photographed building in Scotland, at the meeting of three sea lochs in the far northwest.\n\nThis is not a route to rush. The driving distances are real, the weather is unpredictable, and the reward — finding Eilean Donan at the end of a long Highland drive in golden light — requires the journey that precedes it. Most visitors base in Edinburgh for the city castles, then move to Inverness or the Skye road for the Highland section. The full route can be driven in 3 days; a week allows the walking, the whisky distilleries, and the side detours to ruined clan keeps that make the Highlands transformative.",
+  "hero_image": {
+    "url": "/images/routes/scottish-highlands-castles.webp",
+    "alt": "Eilean Donan Castle at the meeting of three Highland sea lochs — the final destination of the Scottish castle route",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "countries": [
+    "scotland"
+  ],
+  "castles": [
+    "edinburgh-castle",
+    "stirling-castle",
+    "doune-castle",
+    "eilean-donan-castle"
+  ],
+  "distance_km": 320,
+  "duration_days": "3–7 days",
+  "difficulty": "moderate",
+  "map_center": {
+    "lat": 57.0,
+    "lng": -4.5
+  },
+  "tags": [
+    "medieval",
+    "dramatic",
+    "sea-view",
+    "island-castle",
+    "mountain-castle",
+    "off-the-beaten-path"
+  ],
+  "gyg_search_query": "Scottish Highlands castle tour",
+  "thumbnail_image": {
+    "url": "/images/routes/scottish-highlands-castles-thumb.webp",
+    "alt": "Eilean Donan Castle at the meeting of three Highland sea lochs — the final destination of the Scottish castle route"
+  }
+}

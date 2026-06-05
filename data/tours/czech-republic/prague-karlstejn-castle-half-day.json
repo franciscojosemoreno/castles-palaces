@@ -1,0 +1,88 @@
+{
+  "id": "prague-karlstejn-castle-half-day",
+  "slug": "prague-karlstejn-castle-half-day",
+  "name": "Karlštejn Castle Half-Day Trip from Prague",
+  "tagline": "The Gothic jewel of Bohemia — Charles IV's treasure fortress rising from the Berounka valley, 30km from Prague",
+  "departure_country": "czech-republic",
+  "departure_city": "Prague",
+  "visited_countries": [
+    "czech-republic"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 5 hours",
+  "gyg_tour_id": "851",
+  "price_from": 35,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 3700,
+  "languages": [
+    "English",
+    "German",
+    "Spanish",
+    "French"
+  ],
+  "max_group_size": 25,
+  "overview": "Karlštejn is the most visited castle in the Czech Republic outside Prague — a 14th-century Gothic fortress built by Holy Roman Emperor Charles IV as a treasury for the imperial crown jewels and the holy relics of the Bohemian kingdom. Perched above the Berounka valley 30km southwest of Prague, its series of towers rising from a wooded ridge look exactly as a medieval castle should look. The Chapel of the Holy Cross, where the relics were stored, is encrusted with 2,200 semi-precious stones.",
+  "highlights": [
+    "Skip-the-line access to Karlštejn Castle",
+    "Guided tour of the Imperial Palace and Great Tower",
+    "Learn the story of Charles IV and the holy relics",
+    "Scenic drive through the Bohemian countryside",
+    "Round-trip transport from Prague included"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "karlstejn-castle",
+      "castle_name": "Karlštejn Castle — Lower Floors",
+      "duration": "1 hour",
+      "description": "Guided tour of the Imperial Palace and the Well Tower. See the Royal Hall where Charles IV received ambassadors, the private apartments of the Emperor and Empress, and the Chapel of St Catherine decorated with amethysts and jasper."
+    },
+    {
+      "order": 2,
+      "castle_id": "karlstejn-castle",
+      "castle_name": "Great Tower & Chapel of the Holy Cross",
+      "duration": "1 hour",
+      "description": "Ascend the Great Tower to the Chapel of the Holy Cross — the most sacred room in the castle and the vault where Charles IV kept the Imperial Crown, the True Cross, and other holy relics. The walls and vaulted ceiling are covered with 2,200 semi-precious stones set into gilded plaster, with 129 Gothic panel paintings by Master Theodoric."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Prague",
+    "Skip-the-line castle entry",
+    "Expert guide"
+  ],
+  "excluded": [
+    "Lunch",
+    "Gratuities"
+  ],
+  "meeting_point": "Prague city centre — confirmed at booking",
+  "tips": [
+    "The walk up from the village to the castle gate takes about 20 minutes on a paved path — worth it for the views",
+    "The village of Karlštejn below the castle has excellent Czech restaurants for lunch after the tour",
+    "The Chapel of the Holy Cross has limited access — book the full tour to guarantee entry",
+    "Combine with a Český Krumlov trip for a full introduction to Bohemian castles"
+  ],
+  "faqs": [
+    {
+      "question": "Where are the crown jewels now?",
+      "answer": "The original Bohemian Crown Jewels are now kept in St Vitus Cathedral in Prague Castle. The imperial regalia (separate from the Bohemian ones) are in Vienna. Karlštejn displays replicas, but the chapel itself — with its 2,200 gemstones — is the real treasure."
+    },
+    {
+      "question": "How does Karlštejn compare to Prague Castle?",
+      "answer": "They are very different experiences. Prague Castle is a vast royal complex and cathedral in the city. Karlštejn is a compact, purpose-built Gothic treasury in the countryside — more dramatic in silhouette and more intimate inside."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/prague-karlstejn-castle-half-day.webp",
+    "alt": "Karlštejn Castle perched on its forested ridge above the Berounka valley",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Karlštejn Castle Day Trip from Prague | Castles & Palaces",
+    "description": "Visit Karlštejn Castle, the most visited Czech castle outside Prague. Skip-the-line guided tour. From €35 per person, round-trip from Prague."
+  },
+  "gyg_url": "https://www.getyourguide.com/prague-l10/karlstejn-castle-tour-from-prague-t851/"
+}

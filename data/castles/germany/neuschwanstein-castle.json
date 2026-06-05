@@ -1,0 +1,116 @@
+{
+  "id": "neuschwanstein-castle",
+  "name": "Neuschwanstein Castle",
+  "local_name": "Schloss Neuschwanstein",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 1000000,
+  "country": "germany",
+  "region": "Bavaria",
+  "nearest_city": "Füssen",
+  "address": "Neuschwansteinstraße 20, 87645 Schwangau, Germany",
+  "lat": 47.5576,
+  "lng": 10.7498,
+  "unesco": true,
+  "year_built": 1869,
+  "architectural_style": "Romanesque Revival",
+  "opening_hours": {
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "monday": "Closed",
+    "seasonal_note": "Open daily Apr–Oct 09:00–18:00, Nov–Mar 10:00–16:00. Last entry 30 min before closing."
+  },
+  "price_adult": 15,
+  "price_child": 0,
+  "booking_required": true,
+  "official_tickets_url": "https://www.hohenschwangau.de/",
+  "visit_duration": "2–3 hours",
+  "best_season": "Spring and autumn for smaller crowds and better light",
+  "accessibility": "Steep terrain. Shuttle bus available from the village. The castle interior has stairs; not fully wheelchair accessible.",
+  "booking_advance_days": 30,
+  "tagline": "The fairy-tale castle that inspired Disney's Sleeping Beauty",
+  "highlights": [
+    "Built by the eccentric King Ludwig II of Bavaria",
+    "Direct inspiration for Disney's Cinderella Castle",
+    "Breathtaking views of the Bavarian Alps and Alpsee lake",
+    "Dramatic interior with Wagnerian opera themes throughout",
+    "Best viewed from Marienbrücke bridge for the iconic shot"
+  ],
+  "description": "Rising like a dream from the Bavarian Alps, Neuschwanstein Castle is one of the most photographed buildings on earth — and with good reason. Commissioned by the reclusive King Ludwig II in 1869, this romantic masterpiece was never meant to be a seat of power. It was a personal fantasy, an escape from politics and reality into a world of medieval legend and Wagnerian opera.\n\nThe exterior alone is a work of breathtaking audacity. Towers of white limestone erupt from a forested ridge above Hohenschwangau village, framed by snow-capped Alps and turquoise lakes below. No matter how many times you've seen the postcard, the first real sighting always stops visitors in their tracks.\n\nInside, Ludwig's vision becomes even more extraordinary. Every hall is a theatrical set: the Throne Room glows with Byzantine mosaics under a cobalt-blue vaulted ceiling; the Singers' Hall is a full-scale opera stage designed for Wagner's Parsifal, though it was completed after the king's death and he never heard a note performed there; the bedroom took 14 master craftsmen four years to carve from oak.\n\nLudwig died in mysterious circumstances in 1886 — just six weeks after being declared insane and removed from power — having spent only a handful of nights in his dream castle. Today, over a million visitors a year make the pilgrimage to see what one man's obsession built. It remains, by any measure, the quintessential castle of the imagination.",
+  "history": "Neuschwanstein was not built on the site of a great medieval fortress, as its appearance might suggest. Ludwig II chose a jagged rock above the family's summer residence, Hohenschwangau Castle, deliberately selecting a location that maximised dramatic effect over strategic value. Construction began in 1869 under the theatrical set designer Christian Jank and architect Eduard Riedel, who translated Ludwig's elaborate painted sketches into structural reality.\n\nLudwig drew constant inspiration from Richard Wagner's operas, which he had attended obsessively since adolescence. He corresponded with the composer throughout construction, and the castle's iconography — from the Lohengrin frescoes in the Singers' Hall to the swan motifs repeated through the decor — reads as a complete Wagnerian mythology made manifest in stone.\n\nThe king financed Neuschwanstein almost entirely from his personal fortune, supplemented by loans he concealed from the Bavarian parliament. By 1885, his debts were catastrophic. The following year, a government commission declared him mentally unfit to rule. He was taken to Berg Castle on Starnberger See, and the following day — 13 June 1886 — was found dead in the lake along with his physician. The circumstances have never been conclusively explained. Was it suicide? Murder? Attempted escape? The mystery has never been solved.\n\nAt the time of Ludwig's death, only 14 rooms out of a planned 200 had been completed. The Bavarian government opened the castle to the public just seven weeks after his death, ostensibly to recoup his debts. Since then it has never closed. Walt Disney visited in the 1950s and used it as the direct model for Cinderella Castle at Disneyland Paris, cementing Neuschwanstein's place not just in European history but in global popular culture.",
+  "how_to_visit": "**Getting there from Munich:** Take a train from Munich Hauptbahnhof to Füssen (Zugspitz-Bahn, about 2 hours, runs every 2 hours). From Füssen station, take bus 73 or 78 to Hohenschwangau village (10 min). From the village, you can walk up (about 30–40 min, steep path) or take the horse-drawn carriage (€7 up, €3.50 down) or shuttle bus (€3.80 up, €2.60 down).\n\n**Tickets:** Book online at least 2–4 weeks ahead in summer — tickets sell out completely. You'll be assigned a specific entry time slot. Arrive at least 30 minutes before your slot to collect your paper ticket at the ticket centre. The castle is guided-tour only (35 minutes). No free exploration.\n\n**Best view:** The Marienbrücke (Mary's Bridge) hangs 90m above a gorge just a 10-minute walk uphill from the castle entrance. This is where the iconic full-castle photo is taken. Go early morning or stay for golden hour. The bridge closes in icy conditions — check ahead in winter.\n\n**What to combine:** Hohenschwangau Castle (Ludwig's childhood home, different ticket) sits 30 minutes' walk below and is worth adding for the contrast. The Alpsee lake at the foot of the hill is a beautiful spot for a picnic after your visit. The village of Füssen itself has a charming old town worth 1–2 hours.",
+  "faqs": [
+    {
+      "question": "Do I need to book Neuschwanstein Castle tickets in advance?",
+      "answer": "Yes, absolutely essential. Tickets sell out weeks — sometimes months — in advance during summer. Book online at least 2–4 weeks ahead via the official website (hohenschwangau.de). Same-day tickets are almost never available from June to September. If you arrive without a ticket, you almost certainly won't get in."
+    },
+    {
+      "question": "How do I get to Neuschwanstein from Munich?",
+      "answer": "Take a train from Munich Hauptbahnhof to Füssen (about 2 hours, runs every 2 hours). From Füssen, bus 73 or 78 goes to Hohenschwangau village in 10 minutes. From there, walk 30–40 minutes uphill, take the horse-drawn carriage (€7), or the shuttle bus (€3.80). The full journey from Munich takes about 2.5–3 hours each way."
+    },
+    {
+      "question": "Can I visit Neuschwanstein for free?",
+      "answer": "The castle interior requires a paid ticket (€15 for adults, free under 18). However, you can walk up to the castle exterior and the Marienbrücke viewpoint for free without buying a ticket. The views from the bridge are arguably the highlight of the visit anyway."
+    },
+    {
+      "question": "How long does a visit to Neuschwanstein take?",
+      "answer": "The guided tour itself lasts 35 minutes. Allow 2–3 hours total including the walk up from the village, the tour, and the walk to Marienbrücke for the view. If you're combining with Hohenschwangau Castle next door, plan a full day."
+    },
+    {
+      "question": "Is Neuschwanstein accessible for wheelchairs or prams?",
+      "answer": "The steep terrain makes access difficult. A shuttle bus runs from the village to near the castle entrance. The castle interior has multiple staircases and is not fully wheelchair accessible. Contact the ticket office in advance if you have specific mobility needs."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/neuschwanstein-castle.webp",
+    "alt": "Neuschwanstein Castle rising above the Bavarian forest with snow-capped Alps in the background",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/neuschwanstein-castle.webp",
+  "instagram_tag": "#neuschwanstein",
+  "meta_title": "Neuschwanstein Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Plan your visit to Neuschwanstein Castle in Bavaria. Book tickets and guided tours, get insider tips, and discover why this fairy-tale castle inspired Disney.",
+  "tags": [
+    "fairy-tale",
+    "neogothic",
+    "19th-century",
+    "mountain-castle",
+    "disney-inspired",
+    "day-trip-from-munich",
+    "book-in-advance"
+  ],
+  "last_updated": "2026-05-01",
+  "routes": [
+    "bavaria-castles"
+  ],
+  "nearby_castles": [
+    "hohenschwangau-castle",
+    "linderhof-palace",
+    "herrenchiemsee-palace"
+  ],
+  "gyg_location_id": "528",
+  "gyg_search_query": "Neuschwanstein Castle tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1753",
+      "title": "From Munich: Neuschwanstein & Linderhof Castles Day Trip",
+      "type": "day_trip",
+      "duration": "10.5 hours",
+      "price_from": 88,
+      "rating": 4.6,
+      "reviews": 15379,
+      "covers_castles": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "barcelona-montserrat-cardona-castle",
+  "slug": "barcelona-montserrat-cardona-castle",
+  "name": "From Barcelona: Montserrat & Cardona Castle Day Trip",
+  "tagline": "Catalonia's two most sacred heights — a Benedictine monastery on serrated rock and a feudal castle built the year Charlemagne's grandsons divided his empire",
+  "departure_country": "spain",
+  "departure_city": "Barcelona",
+  "visited_countries": [
+    "spain"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (10 hours)",
+  "gyg_tour_id": "61452",
+  "gyg_url": "https://www.getyourguide.com/barcelona-l45/from-barcelona-montserrat-cardona-salt-mountain-day-trip-t61452/",
+  "price_from": 75,
+  "currency": "EUR",
+  "rating": 4.8,
+  "review_count": 520,
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "max_group_size": 8,
+  "overview": "Two of the defining landmarks of inland Catalonia, both reachable in a single day from Barcelona. Montserrat — the serrated mountain rising 1,236 metres from the Catalan plain — has housed a Benedictine monastery since 1025 and its Black Madonna (La Moreneta) has been one of the great pilgrimage destinations of Western Christendom for 700 years. Cardona Castle, 100km inland, is one of the oldest intact feudal fortresses in Catalonia: founded in 886 by the Count of Barcelona on a strategic hill above the Cardener River, its 11th-century Romanesque church (Sant Vicenç de Cardona) is considered a masterpiece of Catalan Romanesque architecture and one of the finest Romanesque buildings in Europe. The geological marvel of the salt mountain beneath the town — continuously mined for 3,000 years — completes one of the most extraordinary day trips in Spain.",
+  "highlights": [
+    "Montserrat Monastery — Benedictine abbey founded 1025, pilgrimage centre for seven centuries, home of La Moreneta",
+    "La Moreneta (Black Madonna) — Catalonia's patron saint, a 12th-century Romanesque carving venerated by millions",
+    "Cardona Castle (886 AD) — one of the oldest intact feudal fortresses in Catalonia, now a Parador luxury hotel",
+    "Sant Vicenç de Cardona — the 11th-century Romanesque collegiate church, a recognised masterpiece of European medieval architecture",
+    "Cardona Salt Mountain — 3,000 years of continuous mining, with underground galleries of multi-coloured salt crystal",
+    "Private vehicle with hotel pickup and drop-off; small group (max 8)"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Barcelona Departure",
+      "duration": "Travel northwest (1.5 hours)",
+      "description": "Pick up from your Barcelona hotel in a private vehicle with an expert guide. Head northwest through the Catalan interior, leaving the Mediterranean behind as the landscape rises toward the pre-Pyrenean ranges. The guide introduces the County of Barcelona — the Carolingian frontier county that became the Crown of Aragon and eventually a Mediterranean empire — and explains why the Cardoner Valley salt monopoly made the Viscounts of Cardona the wealthiest lords in 10th-century Catalonia."
+    },
+    {
+      "order": 2,
+      "castle_name": "Montserrat",
+      "duration": "2.5 hours",
+      "description": "The Benedictine monastery of Santa Maria de Montserrat sits at 725m on the extraordinary conglomerate mountain whose pinnacles gave Catalonia one of its defining images. Founded as a hermitage in the 9th century and established as a monastery in 1025, it guards La Moreneta — a 12th-century Romanesque carving of the Virgin and Child in dark polychrome wood that has been one of Spain's most venerated religious images for 700 years. Ignatius of Loyola laid down his sword here in 1522 before founding the Jesuits; Wagner set Parsifal here. Visit the basilica to venerate La Moreneta, walk the mountain paths with views across the Catalan plain to the sea, and if timing aligns, hear the Escolania choir — one of Europe's oldest boys' choirs, founded in 1307."
+    },
+    {
+      "order": 3,
+      "castle_name": "Cardona Castle",
+      "duration": "2 hours",
+      "description": "Cardona Castle (Castell de Cardona) stands on a hill above the town like a compressed millennium of Catalan power. Founded in 886 by Count Wilfred the Hairy of Barcelona — the same year that Charles the Fat's failure to defend Paris effectively ended Carolingian authority — it served as the principal fortress of the Viscounts of Cardona for 700 years. The collegiate church of Sant Vicenç de Cardona (consecrated 1040) is built within the castle enclosure: a three-aisled basilica in the Lombard Romanesque style with barrel vaulting, three apses, and stonework of extraordinary refinement that architectural historians rank alongside the finest Romanesque buildings in Europe. The castle complex now operates as a Parador (luxury state hotel) — walk the towers, the inner ward, and the church with your guide, and see one of the best-preserved early medieval military complexes in Spain."
+    },
+    {
+      "order": 4,
+      "castle_name": "Cardona Salt Mountain",
+      "duration": "1 hour",
+      "description": "The Muntanya de Sal (Salt Mountain) at the foot of Cardona Castle is one of the most unusual geological formations in Europe — a salt diapir pushed upward from deposits laid down when the Ebro Basin was a Miocene inland sea approximately 15 million years ago. The mountain has been continuously mined since at least the Bronze Age (documented for 3,000 years) and the mines extend for nearly 2km underground. Tour the accessible galleries where the salt walls show bands of pink, grey, blue and white crystal formed over millions of years — an otherworldly interior that makes the geological history of the Mediterranean tangible."
+    }
+  ],
+  "included": [
+    "Private vehicle with hotel pickup and drop-off in Barcelona",
+    "Professional English and Spanish-speaking guide",
+    "Montserrat Monastery visit",
+    "Cardona Castle guided walk",
+    "Salt Mountain tour entry",
+    "Small group (max 8)"
+  ],
+  "excluded": [
+    "Montserrat funicular or rack railway to upper peaks (optional extra)",
+    "Lunch (free time in Cardona town)",
+    "Parador de Cardona dinner (can be arranged at booking — highly recommended)"
+  ],
+  "meeting_point": "Your Barcelona hotel — pickup confirmed at booking",
+  "tips": [
+    "The Parador de Cardona restaurant serves excellent Catalan cuisine with views across the valley — book in advance if you want to eat in the castle",
+    "At Montserrat, daily choral services (12:00 and 18:45) feature the Escolania boys' choir in the basilica — time your visit accordingly",
+    "Sant Vicenç de Cardona is considered one of the defining works of European Romanesque architecture — bring a torch to appreciate the stonework in the side aisles",
+    "The salt-themed gastronomy of Cardona town (locally cured meats, salt-cave cheeses, salted pastries) is unique to this valley and worth exploring before departure"
+  ],
+  "faqs": [
+    {
+      "question": "What is La Moreneta?",
+      "answer": "La Moreneta (The Little Dark One) is a 12th-century Romanesque carving of the Virgin Mary holding the infant Christ, venerated at the Montserrat monastery. The dark colouration — which gives her name — is thought to result from centuries of candle smoke rather than original pigment. She is the patron saint of Catalonia and receives millions of pilgrims each year. Ignatius of Loyola, founder of the Jesuits, made a night-long vigil before her image in 1522."
+    },
+    {
+      "question": "Is Cardona Castle still a working building?",
+      "answer": "Yes. Cardona Castle operates as a Parador — a state-run luxury hotel in a historic building — meaning the castle is a working hotel while also being open to day visitors. The collegiate church, towers, and main courtyard are accessible to non-guests. Staying overnight in the castle tower rooms is one of the more memorable hotel experiences in Catalonia."
+    },
+    {
+      "question": "How old is the Cardona Salt Mountain?",
+      "answer": "The salt deposits were laid down approximately 15 million years ago when the Ebro Basin was an inland sea that evaporated. The salt dome was subsequently pushed upward by tectonic pressure over millions of years. Archaeological evidence shows mining began at least 3,000 years ago, making Cardona one of the longest continuously operated industrial sites in European history."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/barcelona-montserrat-cardona-castle.webp",
+    "alt": "Cardona Castle and its 11th-century Romanesque church on the hilltop above the salt town of Cardona, Catalonia",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Barcelona: Montserrat & Cardona Castle Day Trip",
+    "description": "Private day trip from Barcelona to Montserrat monastery (La Moreneta) and Cardona Castle (founded 886 AD), one of the oldest medieval fortresses in Catalonia. Small group max 8."
+  }
+}

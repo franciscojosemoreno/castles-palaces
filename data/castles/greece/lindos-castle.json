@@ -1,0 +1,82 @@
+{
+  "id": "lindos-castle",
+  "name": "Lindos Acropolis & Castle of the Knights",
+  "local_name": "Ακρόπολη Λίνδου",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 350000,
+  "country": "greece",
+  "region": "South Aegean, Rhodes",
+  "nearest_city": "Rhodes",
+  "address": "Acropolis of Lindos, 851 07 Lindos, Greece",
+  "lat": 36.0913,
+  "lng": 28.0872,
+  "unesco": false,
+  "year_built": 300,
+  "architectural_style": "Ancient Greek / Knights Hospitaller",
+  "opening_hours": {
+    "monday": "08:00–19:40",
+    "tuesday": "08:00–19:40",
+    "wednesday": "08:00–19:40",
+    "thursday": "08:00–19:40",
+    "friday": "08:00–19:40",
+    "saturday": "08:00–19:40",
+    "sunday": "08:00–19:40",
+    "seasonal_note": "Winter hours 08:00–15:00. Check locally as hours vary. Closed Mondays in winter."
+  },
+  "price_adult": 12,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://odysseus.culture.gr",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to June, September to October",
+  "accessibility": "Very limited — steep donkey path or 300-step climb to the top",
+  "booking_advance_days": 0,
+  "tagline": "A dazzling acropolis of ancient temples and crusader walls above the Aegean",
+  "highlights": [
+    "Stunning hilltop site combining 4th-century BC Greek temples and medieval Knights' fortifications",
+    "Temple of Athena Lindia — one of the most sacred sites in the ancient Aegean",
+    "Panoramic views over the Lindian bay — one of the most beautiful in Greece",
+    "The whitewashed village of Lindos below is one of Greece's finest",
+    "Alexander the Great reportedly prayed at this temple before his Persian campaign"
+  ],
+  "description": "The Acropolis of Lindos is one of the most spectacular ancient sites in the Greek world — a sheer 116-metre rock above the Aegean crowned by the ruins of the 4th-century BC Temple of Athena Lindia, enclosed within the massive medieval walls built by the Knights of St John. The sacred site of Lindos was one of the most important religious centres of the ancient Aegean: Alexander the Great reportedly prayed here before his invasion of Persia. The Knights Hospitaller took control of Rhodes in 1309 and built their commanding castle walls around and over the ancient remains, creating the remarkable layered monument visible today. Below the acropolis stretches the dazzling white village of Lindos, one of the most beautiful in Greece, its cubist houses and Byzantine church filling a natural amphitheatre above a perfect circular bay.",
+  "history": "The sanctuary of Lindos was established in the 10th century BC and expanded into a major temple complex in the 4th century BC. The Temple of Athena Lindia was rebuilt in the 3rd century BC in the form seen today. The Romans held the site and later the Byzantines. In 1309 the Knights of St John (Hospitallers) conquered Rhodes and fortified the acropolis with the massive defensive walls still standing. After the Ottoman conquest of Rhodes in 1522, the site continued to be used militarily. Archaeological excavations began in the early 20th century and continue today.",
+  "how_to_visit": "Lindos is 50 km south of Rhodes Town on the east coast of Rhodes island. Regular buses and taxis run from Rhodes Town (1 hour). From the village a steep 300-step path (or donkey ride) leads to the acropolis entrance. Lindos is extremely busy in July and August; visit in April–June or September–October for manageable crowds and cooler temperatures. The village itself is car-free.",
+  "faqs": [
+    {
+      "question": "Can I ride a donkey to the top?",
+      "answer": "Yes — donkeys are available for hire at the base of the hill as an alternative to climbing the steps, a long-standing local tradition."
+    },
+    {
+      "question": "What is the Temple of Athena Lindia?",
+      "answer": "The Doric temple at the summit was one of the most sacred shrines in the ancient Aegean, dedicated to Athena. It was rebuilt in the 3rd century BC and Alexander the Great reportedly visited before his Persian campaigns."
+    },
+    {
+      "question": "Is the village of Lindos worth exploring?",
+      "answer": "Absolutely — the UNESCO-protected village is one of Greece's finest, with medieval sea captains' houses, a Byzantine church with 18th-century frescoes, and excellent restaurants."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lindos-castle.webp",
+    "alt": "Lindos Acropolis and Knights' Castle above the white village and Aegean bay in Rhodes",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lindos-castle.webp",
+  "instagram_tag": "#lindosacropolis",
+  "meta_title": "Lindos Castle & Acropolis, Rhodes — Ancient Temples and Crusader Walls",
+  "meta_description": "Visit Lindos Acropolis in Rhodes — ancient Greek temples and Knights Hospitaller walls on a cliff above the Aegean, with one of Greece's most beautiful villages below.",
+  "tags": ["ancient-greek", "knights-hospitaller", "greek-castle", "rhodes", "aegean"],
+  "last_updated": "2026-06-01",
+  "routes": [],
+  "nearby_castles": ["palace-of-the-grand-master"],
+  "gyg_location_id": "2502",
+  "gyg_search_query": "Lindos Acropolis Rhodes tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4
+}
