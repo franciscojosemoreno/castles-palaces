@@ -72,7 +72,7 @@ export default async function CastlePage({ params }: PageProps) {
           {/* ── Main content ─────────────────────────────────── */}
           <div className="min-w-0">
             {/* Hero image */}
-            <div className="relative aspect-[3/2] sm:aspect-[16/9] -mx-4 sm:mx-0 rounded-none sm:rounded-xl overflow-hidden mb-6">
+            <div className="relative aspect-[16/12] -mx-4 sm:mx-0 rounded-none sm:rounded-xl overflow-hidden mb-6">
               <Image
                 src={castle.hero_image.url}
                 alt={castle.hero_image.alt}
