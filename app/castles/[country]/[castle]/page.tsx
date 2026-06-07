@@ -72,14 +72,15 @@ export default async function CastlePage({ params }: PageProps) {
           {/* ── Main content ─────────────────────────────────── */}
           <div className="min-w-0">
             {/* Hero image */}
-            <div className="relative aspect-[16/12] rounded-xl overflow-hidden mb-6">
+            <div className="relative aspect-[3/2] sm:aspect-[16/9] -mx-4 sm:mx-0 rounded-none sm:rounded-xl overflow-hidden mb-6">
               <Image
                 src={castle.hero_image.url}
                 alt={castle.hero_image.alt}
                 fill
                 priority
-                className="object-cover"
-                sizes="(max-width: 1024px) 100vw, calc(100vw - 380px)"
+                quality={90}
+                className="object-cover object-center"
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, calc(100vw - 380px)"
               />
               {castle.hero_image.credit && (
                 <p className="absolute bottom-2 right-3 text-white/60 text-xs">

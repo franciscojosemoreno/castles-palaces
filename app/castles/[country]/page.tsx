@@ -54,7 +54,7 @@ export default async function CountryPage({ params }: PageProps) {
           <h1 className="font-serif text-4xl sm:text-5xl font-bold mb-2">
             Castles in {countryData.name}
           </h1>
-          <p className="text-white/85 text-lg">{countryData.description.slice(0, 120)}…</p>
+          <p className="text-white/85 text-lg">{countryData.description}</p>
         </div>
       </div>
 

@@ -102,6 +102,21 @@ const CASTLE_POOL = [
   { id: 'caernarfon-castle', name: 'Caernarfon Castle', country: 'wales', slug: 'caernarfon-castle', tags: ['medieval', 'unesco', 'dramatic', 'instagram-worthy', 'welsh-castle', 'concentric'] },
   { id: 'bojnice-castle', name: 'Bojnice Castle', country: 'slovakia', slug: 'bojnice-castle', tags: ['neo-gothic', 'romantic', 'medieval', 'fairytale', 'fairy-tale', 'off-the-beaten-path'] },
   { id: 'rock-of-cashel', name: 'Rock of Cashel', country: 'ireland', slug: 'rock-of-cashel', tags: ['medieval', 'romanesque', 'dramatic', 'instagram-worthy', 'irish-castle', 'hilltop', 'ruins'] },
+  { id: 'buda-castle', name: 'Buda Castle', country: 'hungary', slug: 'buda-castle', tags: ['baroque', 'royal-residence', 'unesco', 'instagram-worthy', 'city-centre', 'habsburg', 'palace'] },
+  { id: 'blarney-castle', name: 'Blarney Castle', country: 'ireland', slug: 'blarney-castle', tags: ['medieval', 'tower-house', 'iconic', 'gardens', 'ireland', 'irish-castle', 'family-friendly'] },
+  { id: 'wawel-castle', name: 'Wawel Royal Castle', country: 'poland', slug: 'wawel-castle', tags: ['renaissance', 'royal-residence', 'unesco', 'instagram-worthy', 'city-centre', '16th-century'] },
+  { id: 'castel-santangelo', name: "Castel Sant'Angelo", country: 'italy', slug: 'castel-santangelo', tags: ['roman', 'medieval', 'papal', 'instagram-worthy', 'city-centre', 'dramatic', 'fortress'] },
+  { id: 'royal-palace-of-caserta', name: 'Royal Palace of Caserta', country: 'italy', slug: 'royal-palace-of-caserta', tags: ['baroque', 'palace', 'unesco-world-heritage', 'gardens', 'royal-residence', '18th-century'] },
+  { id: 'drottningholm-palace', name: 'Drottningholm Palace', country: 'sweden', slug: 'drottningholm-palace', tags: ['baroque', 'palace', 'unesco-world-heritage', 'royal-residence', 'lake', '17th-century'] },
+  { id: 'kronborg-castle', name: 'Kronborg Castle', country: 'denmark', slug: 'kronborg-castle', tags: ['renaissance', 'dramatic', 'instagram-worthy', 'coastal', 'sea-view', '16th-century', 'iconic'] },
+  { id: 'alnwick-castle', name: 'Alnwick Castle', country: 'england', slug: 'alnwick-castle', tags: ['norman', 'english-castle', 'harry-potter', 'medieval', 'inhabited', 'dramatic', 'museum'] },
+  { id: 'dunluce-castle', name: 'Dunluce Castle', country: 'northern-ireland', slug: 'dunluce-castle', tags: ['medieval', 'coastal', 'game-of-thrones', 'ruins', 'dramatic', 'sea-view', 'instagram-worthy'] },
+  { id: 'tsarevets-fortress', name: 'Tsarevets Fortress', country: 'bulgaria', slug: 'tsarevets-fortress', tags: ['medieval', 'dramatic', 'hilltop', 'sound-and-light', 'fortress', 'off-the-beaten-path'] },
+  { id: 'ananuri-fortress', name: 'Ananuri Fortress', country: 'georgia', slug: 'ananuri-fortress', tags: ['medieval', 'dramatic', 'mountain', 'caucasus', 'instagram-worthy', 'off-the-beaten-path'] },
+  { id: 'palace-of-the-grand-master', name: 'Palace of the Grand Master', country: 'greece', slug: 'palace-of-the-grand-master', tags: ['gothic', 'crusader', 'unesco-world-heritage', 'knights-hospitaller', 'mediterranean', 'medieval'] },
+  { id: 'frederiksborg-palace', name: 'Frederiksborg Palace', country: 'denmark', slug: 'frederiksborg-palace', tags: ['renaissance', 'palace', 'baroque-garden', 'museum', 'lake', '17th-century', 'instagram-worthy'] },
+  { id: 'gravensteen', name: 'Gravensteen', country: 'belgium', slug: 'gravensteen', tags: ['medieval', 'crusader', 'city-centre', 'instagram-worthy', 'norman', 'fortress', 'family-friendly'] },
+  { id: 'klis-fortress', name: 'Klis Fortress', country: 'croatia', slug: 'klis-fortress', tags: ['medieval', 'game-of-thrones', 'clifftop', 'dramatic', 'coastal', 'fortress', 'instagram-worthy'] },
 ];
 
 function computeResult(answers: string[][]): typeof CASTLE_POOL[0] {

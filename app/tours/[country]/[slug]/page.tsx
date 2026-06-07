@@ -45,7 +45,9 @@ export default async function TourPage({ params }: Props) {
   const countryData = getCountryBySlug(country);
   const countryName = countryData?.name ?? country.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   const currencySymbol = tour.currency === 'USD' ? '$' : tour.currency === 'GBP' ? '£' : '€';
-  const gygUrl = tour.gyg_url;
+  const gygUrl = GYG_PARTNER_ID
+    ? `${tour.gyg_url}${tour.gyg_url.includes('?') ? '&' : '?'}partner_id=${GYG_PARTNER_ID}`
+    : tour.gyg_url;
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 pb-24 lg:pb-6">
@@ -65,14 +67,15 @@ export default async function TourPage({ params }: Props) {
         <div className="min-w-0">
 
           {/* Hero image */}
-          <div className="relative aspect-[16/12] rounded-xl overflow-hidden mb-6">
+          <div className="relative aspect-[3/2] sm:aspect-[16/9] -mx-4 sm:mx-0 rounded-none sm:rounded-xl overflow-hidden mb-6">
             <Image
               src={tour.hero_image.url}
               alt={tour.hero_image.alt}
               fill
               priority
-              className="object-cover"
-              sizes="(max-width: 1024px) 100vw, calc(100vw - 380px)"
+              quality={90}
+              className="object-cover object-center"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, calc(100vw - 380px)"
             />
           </div>
 
