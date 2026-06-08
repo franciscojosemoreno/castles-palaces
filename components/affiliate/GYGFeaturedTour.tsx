@@ -24,12 +24,18 @@ export default function GYGFeaturedTour({ tour }: Props) {
         {tour.title}
       </h3>
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-stone-600 mb-3">
-        <span>⭐ {tour.rating} ({tour.reviews.toLocaleString()})</span>
-        <span className="text-stone-300">·</span>
+        {tour.rating != null && tour.reviews != null && (
+          <>
+            <span>⭐ {tour.rating} ({tour.reviews.toLocaleString()})</span>
+            <span className="text-stone-300">·</span>
+          </>
+        )}
         <span>{tour.duration}</span>
       </div>
       <div className="flex items-center gap-2 mb-4">
-        <span className="font-bold text-[#1a1a1a] text-sm">From ${tour.price_from}</span>
+        <span className="font-bold text-[#1a1a1a] text-sm">
+          {tour.price_from != null ? `From $${tour.price_from}` : 'Check availability'}
+        </span>
         <span className="bg-stone-100 text-stone-600 text-xs font-medium px-2 py-0.5 rounded-full">
           {typeLabels[tour.type]}
         </span>
