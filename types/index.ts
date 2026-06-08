@@ -83,7 +83,7 @@ export interface Castle {
   gyg_featured_tours?: {
     tour_id: string;
     title: string;
-    type: 'day_trip' | 'guided_tour' | 'skip_the_line' | 'multi_day';
+    type: 'day_trip' | 'guided_tour' | 'skip_the_line' | 'multi_day' | 'entry_ticket';
     duration: string;
     price_from: number;
     rating: number;
