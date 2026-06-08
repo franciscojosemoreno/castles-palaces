@@ -25,11 +25,18 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
     },
     castle.price_adult !== undefined && {
       icon: '🎟️',
-      label: 'Tickets from',
-      value:
-        castle.price_adult === 0
-          ? 'Free'
-          : `€${castle.price_adult}`,
+      label: (() => {
+        const tour = castle.gyg_featured_tours?.[0];
+        if (tour?.type === 'skip_the_line') return 'Skip-the-line from';
+        if (tour?.type === 'entry_ticket') return 'Entry via GYG';
+        return 'Entry from';
+      })(),
+      value: (() => {
+        const tour = castle.gyg_featured_tours?.[0];
+        const useGYGPrice = tour && (tour.type === 'skip_the_line' || tour.type === 'entry_ticket') && tour.price_from;
+        const price = useGYGPrice ? tour.price_from : castle.price_adult;
+        return price === 0 ? 'Free' : `€${price}`;
+      })(),
       href: getGYGUrl(castle) ?? undefined,
     },
     castle.visit_duration && {
