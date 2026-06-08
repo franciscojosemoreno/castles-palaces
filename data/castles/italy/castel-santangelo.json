@@ -77,8 +77,20 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "36",
+  "gyg_location_id": "33",
   "gyg_search_query": "Castel Sant Angelo Rome tour tickets",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "863365",
+      "title": "Official Castel Sant'Angelo Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 16,
+      "rating": 4.7,
+      "reviews": 1240,
+      "covers_castles": []
+    }
+  ]
 }

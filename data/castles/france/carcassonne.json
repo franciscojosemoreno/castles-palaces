@@ -79,8 +79,20 @@
     "alcazar-seville",
     "alcazar-of-segovia"
   ],
-  "gyg_location_id": "504",
+  "gyg_location_id": "1319",
   "gyg_search_query": "Carcassonne walled city tour France",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "75012",
+      "title": "Carcassonne: Castle and Ramparts Skip-the-Line Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 10,
+      "rating": 4.6,
+      "reviews": 890,
+      "covers_castles": []
+    }
+  ]
 }
