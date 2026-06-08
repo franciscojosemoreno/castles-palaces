@@ -7,6 +7,7 @@ const typeLabels: Record<FeaturedTour['type'], string> = {
   guided_tour: 'Guided tour',
   skip_the_line: 'Skip the line',
   multi_day: 'Multi-day',
+  entry_ticket: 'Entry ticket',
 };
 
 interface Props {
