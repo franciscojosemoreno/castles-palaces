@@ -282,33 +282,31 @@ export default async function CastlePage({ params }: PageProps) {
       </div>
 
       {/* ── Sticky mobile booking bar ── */}
-      {castle.official_tickets_url && (
-        <div className="lg:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-stone-200 shadow-[0_-4px_12px_rgba(0,0,0,0.08)] px-4 py-3 flex items-center gap-3">
-          <div className="flex-1 min-w-0">
-            {castle.price_adult !== undefined && castle.price_adult > 0 ? (
-              <>
-                <p className="text-xs text-stone-500 leading-none mb-0.5">Entry from</p>
-                <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
-                  €{castle.price_adult}
-                  <span className="text-stone-400 font-normal text-xs ml-1">/ adult</span>
-                </p>
-              </>
-            ) : castle.price_adult === 0 ? (
-              <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">Free Entry</p>
-            ) : (
-              <p className="font-serif font-bold text-[#1761a0] text-base leading-none">Plan Your Visit</p>
-            )}
-          </div>
-          <a
-            href={castle.official_tickets_url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
-          >
-            Book Tickets →
-          </a>
+      <div className="lg:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-stone-200 shadow-[0_-4px_12px_rgba(0,0,0,0.08)] px-4 py-3 flex items-center gap-3">
+        <div className="flex-1 min-w-0">
+          {castle.price_adult !== undefined && castle.price_adult > 0 ? (
+            <>
+              <p className="text-xs text-stone-500 leading-none mb-0.5">Entry from</p>
+              <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
+                €{castle.price_adult}
+                <span className="text-stone-400 font-normal text-xs ml-1">/ adult</span>
+              </p>
+            </>
+          ) : castle.price_adult === 0 ? (
+            <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">Free Entry</p>
+          ) : (
+            <p className="font-serif font-bold text-[#1761a0] text-base leading-none">Plan Your Visit</p>
+          )}
         </div>
-      )}
+        <a
+          href={`https://www.getyourguide.com/-l${castle.gyg_location_id}/?partner_id=${process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? ''}`}
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
+        >
+          See Tours →
+        </a>
+      </div>
     </>
   );
 }

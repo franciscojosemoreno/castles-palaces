@@ -6,15 +6,14 @@ interface CastleQuickFactsProps {
 
 function getGYGUrl(castle: Castle): string | null {
   const partnerId = process.env.NEXT_PUBLIC_GYG_PARTNER_ID || '';
-  // Use search query first — targets the specific castle, not just the city
-  if (castle.gyg_search_query) {
-    return `https://www.getyourguide.com/s/?q=${encodeURIComponent(castle.gyg_search_query)}&partner_id=${partnerId}`;
-  }
-  // Fallback: city-level location page
+  // Prioritise location page (precise destination) over generic search
   if (castle.gyg_location_id) {
     return `https://www.getyourguide.com/-l${castle.gyg_location_id}/?partner_id=${partnerId}`;
   }
-  return castle.official_tickets_url ?? null;
+  if (castle.gyg_search_query) {
+    return `https://www.getyourguide.com/s/?q=${encodeURIComponent(castle.gyg_search_query)}&partner_id=${partnerId}`;
+  }
+  return null;
 }
 
 export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {

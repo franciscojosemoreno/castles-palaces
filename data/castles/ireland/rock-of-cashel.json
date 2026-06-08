@@ -77,8 +77,20 @@
   "nearby_castles": [
     "kilkenny-castle"
   ],
-  "gyg_location_id": "1",
+  "gyg_location_id": "182131",
   "gyg_search_query": "Rock of Cashel tour Ireland",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "951621",
+      "title": "Rock of Cashel, Folk Museum & City Tour",
+      "type": "guided_tour",
+      "duration": "2–3 hours",
+      "price_from": null,
+      "rating": null,
+      "reviews": null,
+      "covers_castles": []
+    }
+  ]
 }
