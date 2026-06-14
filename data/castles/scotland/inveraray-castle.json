@@ -1,0 +1,82 @@
+{
+  "id": "inveraray-castle",
+  "name": "Inveraray Castle",
+  "local_name": "Caisteal Inbhir Aora",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 100000,
+  "country": "scotland",
+  "region": "Argyll and Bute",
+  "nearest_city": "Glasgow",
+  "address": "Inveraray, Argyll PA32 8XE, Scotland",
+  "lat": 56.2326,
+  "lng": -5.0713,
+  "unesco": false,
+  "year_built": 1745,
+  "architectural_style": "Gothic Revival / Palladian",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open daily Apr–Oct 10:00–17:00. Closed Nov–Mar. Last entry 4:00pm. Check website for seasonal variations."
+  },
+  "price_adult": 19,
+  "price_child": 0,
+  "booking_required": false,
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "April to October; autumn colours in September–October are spectacular",
+  "accessibility": "Ground floor accessible. Upper floors involve stairs. Gardens largely accessible.",
+  "booking_advance_days": 0,
+  "tagline": "The ancestral seat of the Dukes of Argyll — a Gothic turreted palace above Loch Fyne",
+  "highlights": [
+    "Ancestral home of the Dukes of Argyll and the chief of Clan Campbell since the 18th century",
+    "The iconic blue-grey turreted exterior is one of the most photographed castle views in Scotland",
+    "The Armory Hall holds one of Europe's largest collections of antique arms and armour",
+    "Set on the banks of Loch Fyne in some of the most scenic Highland country in Argyll",
+    "Still an inhabited private residence — the same family has lived here continuously for 800 years"
+  ],
+  "description": "Inveraray Castle is the image that comes to mind when people imagine a Scottish Highland castle — and that is no accident. With its four conical corner towers, its blue-grey stone, and its position on the wooded banks of Loch Fyne, it is a building of such concentrated picturesqueness that it almost seems designed to fill a postcard frame. In fact it was designed by the finest architects of the 18th century, and it achieves its air of romantic inevitability through exceptional architectural skill rather than any accidental quality.\n\nThe castle is the seat of the Dukes of Argyll and the hereditary home of the Campbell clan chief — and the Campbells have held this ground beside Loch Fyne for around 800 years. The current castle was begun in 1745 to designs by Roger Morris, in a style that blends Gothic Revival towers with a Palladian interior plan. The combination is unusual and completely successful: from outside the castle looks medieval, from inside it feels entirely like an 18th-century aristocratic house.\n\nThe interior is remarkable. The Armory Hall contains one of the largest collections of antique arms and armour in private hands in Europe — a dizzying pyramid of muskets, swords, and pistols arranged with geometric precision on walls that rise to a painted ceiling. The State Dining Room and the Drawing Room are furnished with French Baroque pieces and portraits of Campbells stretching back to the 17th century. The family still lives in the castle, which gives it a warmth and lived-in quality that many grander Scottish seats lack.",
+  "history": "The Campbell clan has held the land at Inveraray since the early 14th century. The first castle on the site was a tower house built by the 1st Earl of Argyll in the 15th century. By the 18th century, the 3rd Duke of Argyll decided that the existing medieval castle was inadequate to his station and began planning a complete replacement.\n\nConstruction of the new castle began in 1745, just months before the Jacobite rising of that year, in which the Campbells fought for the Hanoverian government. The architect Roger Morris designed the exterior; the interior was later completed by William Adam and his sons John and Robert Adam, Scotland's greatest architectural dynasty. The castle took over 40 years to complete. Inveraray town itself — the perfect planned Georgian village arranged below the castle — was built at the same time, to plans by the same architects, making the whole ensemble one of the finest 18th-century landscape compositions in Britain.",
+  "how_to_visit": "**Getting there from Glasgow:** Inveraray is 97 km north-west of Glasgow on the A83 road — about 1 hour 45 minutes by car. Regular bus services from Glasgow Buchanan Street to Inveraray take about 2 hours (Scottish Citylink coaches to Campbeltown stop in Inveraray). The castle is a 10-minute walk from the town centre.\n\n**On site:** Begin in the Armory Hall — it is one of the most visually overwhelming rooms in any Scottish castle. The State Dining Room and Drawing Room follow. Allow time for the grounds and the view back to the castle from across the formal garden.\n\n**Combine with:** The town of Inveraray has an excellent jail museum (Inveraray Jail) and is on the edge of Loch Fyne, famous for the Loch Fyne Oyster Bar nearby. Kilchurn Castle at the head of Loch Awe is 30 minutes' drive east and complements an Inveraray visit perfectly.",
+  "faqs": [
+    {
+      "question": "Who lives in Inveraray Castle?",
+      "answer": "Inveraray Castle is the private home of the Duke of Argyll, chief of Clan Campbell — one of the largest Scottish clans. The same family, the Campbells of Argyll, has held land at Inveraray for approximately 800 years. The castle is open to the public in summer but remains a private family residence."
+    },
+    {
+      "question": "Is Inveraray Castle in Outlander?",
+      "answer": "Yes — Inveraray Castle featured in the TV series Outlander as Castle Leoch, the seat of the MacKenzie clan. The castle's distinctive turreted exterior and grand interiors provided the visual identity of the fictional MacKenzie stronghold in the first season. The castle has also appeared in other film and television productions."
+    },
+    {
+      "question": "How far is Inveraray Castle from Glasgow?",
+      "answer": "Inveraray is approximately 97 km from Glasgow by road — about 1 hour 45 minutes to 2 hours by car via the A82 and A83. Scottish Citylink coaches run from Glasgow Buchanan Street Bus Station to Inveraray town; the journey takes about 2 hours. The castle is a 10-minute walk from the town bus stop."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/inveraray-castle.webp",
+    "alt": "Inveraray Castle's iconic blue-grey turreted facade reflected in the River Aray, surrounded by woodland in Argyll on a still autumn day",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/inveraray-castle.webp",
+  "instagram_tag": "#inverarayCastle",
+  "meta_title": "Inveraray Castle Scotland: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Inveraray Castle, ancestral seat of the Dukes of Argyll on Loch Fyne. Book tickets and plan your day trip from Glasgow to Scotland's most photogenic Highland castle.",
+  "tags": ["castle", "gothic-revival", "highland", "clan-campbell", "argyll", "loch-fyne", "day-trip-from-glasgow", "private-residence"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["edinburgh-castle", "stirling-castle", "dunnottar-castle"],
+  "gyg_location_id": "93362",
+  "gyg_search_query": "Inveraray Castle tour from Glasgow",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

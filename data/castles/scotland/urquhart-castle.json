@@ -1,0 +1,89 @@
+{
+  "id": "urquhart-castle",
+  "name": "Urquhart Castle",
+  "local_name": "Caisteal na Sròine",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 500000,
+  "country": "scotland",
+  "region": "Highlands",
+  "nearest_city": "Inverness",
+  "address": "Urquhart Castle, Drumnadrochit, Inverness IV63 6XJ, Scotland",
+  "lat": 57.3243,
+  "lng": -4.4395,
+  "unesco": false,
+  "year_built": 1200,
+  "architectural_style": "Medieval (ruined)",
+  "opening_hours": {
+    "monday": "09:30–18:00",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "Open daily. Apr–Sep 09:30–18:00; Oct 09:30–17:00; Nov–Mar 09:30–16:30. Last entry 30 minutes before closing. Closed Christmas Day."
+  },
+  "price_adult": 16,
+  "price_child": 0,
+  "booking_required": false,
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "May to September for long Highland summer days; morning visits avoid coach tours",
+  "accessibility": "Visitor centre is fully accessible. The castle ruins involve uneven ground and steps — some areas not accessible by wheelchair.",
+  "booking_advance_days": 0,
+  "tagline": "The most dramatic ruin in Scotland — a medieval fortress on the shores of Loch Ness",
+  "highlights": [
+    "Set directly on the shores of Loch Ness, with the loch stretching away in both directions",
+    "The Grant Tower remains substantially intact — offering outstanding views from the battlements over the dark water",
+    "Scene of repeated battles between the Scottish crown and the Lords of the Isles across four centuries",
+    "The ruins were deliberately blown up in 1692 to prevent Jacobite use — the explosion preserved the dramatic profile",
+    "One of the most photographed castle views in Scotland, especially with morning mist rolling off the loch"
+  ],
+  "description": "There is a view from the battlements of Urquhart Castle's Grant Tower that stops visitors from speaking. Below, the dark waters of Loch Ness stretch away to the south-west without apparent end, framed by steep Highland hills descending directly to the waterline. In winter the mist sits low on the loch; in summer the light turns the water from black to deep green. In every season the ruins of Urquhart occupy their position on the shoreline with a quality of absolute rightness, as if no other spot in Scotland could have generated a ruin of this precise character.\n\nThe castle began as a wooden fortification in the 12th century, on a promontory that commands a strategic point on Loch Ness. By the 13th century it had become a major stone fortification, and for the following four centuries it was contested more or less continuously between the Scottish crown and the Lords of the Isles — the great Gaelic lords of the western Highlands who repeatedly seized, held, and lost it. The castle changed hands at least a dozen times, and was besieged, burned, sacked, and rebuilt with sufficient regularity that its history reads more like a fever chart than a narrative.\n\nThe ruins' distinctive silhouette — roofless walls, isolated towers, and a gatehouse reduced to its lower courses — was largely created in 1692, when the garrison blew up the castle's remaining intact sections to prevent it falling into Jacobite hands. The explosion preserved the ruin in its current form and, inadvertently, gave Urquhart the dramatic profile that has made it the most photographed castle in Scotland.",
+  "history": "The promontory at Urquhart has been occupied since at least the Iron Age — a vitrified fort from around 500 BC has been identified beneath the medieval remains. The first documented castle here appears in the 13th century, when Alan Durward held the site for the Scottish crown. After the Wars of Scottish Independence, Edward I of England captured Urquhart and garrisoned it with English troops; Robert the Bruce recaptured it after Bannockburn in 1314.\n\nThe most turbulent period of the castle's history came in the 14th and 15th centuries, when it was contested repeatedly between the Scottish crown and the MacDonald Lords of the Isles. The MacDonalds raided and occupied Urquhart multiple times between 1395 and 1513, each time being driven out by crown forces who would repair and regarrison the castle. By the 17th century, Urquhart had become a crown garrison outpost protecting the Great Glen route north. After the Jacobite rising of 1689, the government decided to abandon the castle rather than risk it being used against them. In 1692, departing soldiers blew up the castle's main tower and barracks, leaving the dramatic ruins that survive today.",
+  "how_to_visit": "**Getting there from Inverness:** Urquhart Castle is 23 km south-west of Inverness on the A82 road along the western shore of Loch Ness. Stagecoach buses run from Inverness Bus Station to Drumnadrochit (30 minutes), from where the castle is a short walk. Many visitors take organised day tours from Inverness that combine Urquhart with a Loch Ness cruise.\n\n**On site:** The visitor centre is excellent — allow 30–40 minutes before going out to the ruins. The scale model of the castle as it appeared in the 14th century is useful for making sense of the fragments. The trebuchet in the grounds is fired during summer demonstrations. Climb the Grant Tower for the best loch views.\n\n**Photography:** Morning visits give the best light on the ruins and the highest chance of atmospheric mist on the loch. The classic photograph — ruins in the foreground, loch receding — is taken from the path above the gatehouse looking south-west.",
+  "faqs": [
+    {
+      "question": "Can you see the Loch Ness Monster from Urquhart Castle?",
+      "answer": "Urquhart Castle is one of the most frequently cited locations for alleged Nessie sightings — and the loch view from the Grant Tower is certainly dramatic enough to spark the imagination. The first modern Nessie sighting was reported in 1933, near Drumnadrochit (the village next to the castle). Whether you believe in the legend or not, the view from the battlements over the deep, dark water is genuinely eerie and unforgettable."
+    },
+    {
+      "question": "Why did they blow up Urquhart Castle?",
+      "answer": "In 1692, the government garrison at Urquhart decided to abandon the castle rather than leave it intact for Jacobite forces to use. Before departing, they detonated explosive charges beneath the main tower and barracks. The explosion brought down most of the remaining intact structures, creating the dramatic ruin visible today. Paradoxically, the deliberate demolition helped preserve what remained by removing the roof structures — roofed buildings are more susceptible to later stone-robbing."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/urquhart-castle.webp",
+    "alt": "Urquhart Castle's roofless towers and gatehouse ruins on the wooded shore of Loch Ness, with the dark Highland water stretching into the mist behind",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/urquhart-castle.webp",
+  "instagram_tag": "#urquhartCastle",
+  "meta_title": "Urquhart Castle Loch Ness: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Urquhart Castle on the shores of Loch Ness — the most dramatic ruined castle in Scotland. Book tickets and plan your day trip from Inverness.",
+  "tags": ["castle", "medieval", "ruined", "loch-ness", "highlands", "scotland", "day-trip-from-inverness", "loch-views"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["edinburgh-castle", "stirling-castle", "eilean-donan-castle"],
+  "gyg_location_id": "89324",
+  "gyg_search_query": "Urquhart Castle Loch Ness tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "190035",
+      "title": "From Inverness: Loch Ness and The Highlands Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 40,
+      "rating": 4.7,
+      "reviews": 850,
+      "covers_castles": ["urquhart-castle"]
+    }
+  ]
+}

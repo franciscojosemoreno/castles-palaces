@@ -1,0 +1,81 @@
+{
+  "id": "dunvegan-castle",
+  "name": "Dunvegan Castle",
+  "local_name": "Caisteal Dhùn Bheagain",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "scotland",
+  "region": "Isle of Skye",
+  "nearest_city": "Portree",
+  "address": "Dunvegan, Isle of Skye IV55 8WF, Scotland",
+  "lat": 57.4471,
+  "lng": -6.5874,
+  "unesco": false,
+  "year_built": 1220,
+  "architectural_style": "Medieval (13th-century origins, Victorian additions)",
+  "opening_hours": {
+    "monday": "10:00–17:30",
+    "tuesday": "10:00–17:30",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "10:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Open daily Apr–Oct 10:00–17:30 (last entry 16:30). Closed Nov–Mar. Grounds and gardens may have different opening times. Seal colony boat trips run Apr–Oct, subject to weather."
+  },
+  "price_adult": 17,
+  "price_child": 10,
+  "booking_required": false,
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September; Skye's weather is unpredictable — pack layers and waterproofs year-round",
+  "accessibility": "Castle interior involves stairs and uneven floors. Grounds partially accessible. Sea boat trips are accessible with assistance.",
+  "booking_advance_days": 0,
+  "tagline": "The oldest continuously inhabited castle in Scotland — home of the MacLeod chiefs for 800 years",
+  "highlights": [
+    "The oldest continuously inhabited castle in Scotland — the same clan has lived here since the 13th century",
+    "Home of the Fairy Flag — a mysterious 4th–7th century silk cloth said to have magical protective powers for the MacLeod clan",
+    "Boat trips from the castle jetty to see wild seal colonies in the sea loch",
+    "Set at the head of Loch Dunvegan with views of the Outer Hebrides on clear days",
+    "The gardens include a spectacular walled garden and a Victorian water garden"
+  ],
+  "description": "Dunvegan Castle holds a distinction unlike any other castle in Scotland: it has been continuously inhabited by the same family — the MacLeods — since the early 13th century. For 800 unbroken years, through wars, famines, Jacobite risings, and Highland clearances, the chiefs of Clan MacLeod have held this position at the head of a remote sea loch on the Isle of Skye. That continuity gives Dunvegan a quality of authenticity — of genuine, accumulated, layered history — that purpose-built attractions cannot manufacture.\n\nThe castle sits directly at the water's edge, approachable only by sea or a drawbridge until the 19th century. The Victorian modifications that created the current exterior — battlemented towers, a gatehouse in Gothic Revival style — overlay medieval walls of genuine antiquity, some of which date from the 13th and 14th centuries. The interior reflects 800 years of continuous occupation rather than any single decorator's vision: portraits of MacLeod chiefs hang beside Jacobite relics, medieval weapons, and Victorian watercolours of the Cuillin mountains visible across the water.\n\nThe castle's most famous possession is the Fairy Flag — a fragile square of silk held in a glass case in the Drawing Room. Legend holds that the flag was given to a MacLeod chief by his fairy wife when she returned to her people, and that waving it will summon supernatural aid in times of crisis. Scientific analysis has dated the silk to the 4th–7th centuries AD, possibly from Rhodes or Syria, making it authentically ancient even if the fairy story is embellishment. MacLeod soldiers in World War Two reportedly carried photographs of the flag into battle.",
+  "history": "Leod, the founder of the MacLeod clan and a descendant of the Viking kings of the Isle of Man, established himself on Skye in the early 13th century. His successors built the first tower on the current castle site around 1220, making it one of the earliest stone castles in the western Highlands. The castle was gradually extended over the following centuries — the Fairy Tower (14th century), the East Wing (16th century), and the Keep (17th century) — all absorbed into the growing structure.\n\nThe MacLeods were caught on the wrong side of several historical turning points. They supported the Jacobite cause in 1715 but prudently switched sides by 1745, avoiding the crushing reprisals that followed Culloden. The current appearance of the castle dates largely from the Victorian restoration undertaken in the 1840s, which regularised the exterior and added the battlemented towers. The castle has been open to the public since 1933 and remains the private home of the 30th Chief of Clan MacLeod.",
+  "how_to_visit": "**Getting to the Isle of Skye:** From Inverness, cross the Skye Bridge from Kyle of Lochalsh (A87, about 1 hour 40 minutes) — the bridge is free to cross. Alternatively, take the scenic ferry from Mallaig to Armadale on Skye (45 minutes; book in advance in summer).\n\n**Getting to Dunvegan from Portree:** Dunvegan is 25 km west of Portree — about 30 minutes by car on the A850. Public bus services are limited — check Stagecoach Highlands routes. Most visitors to Skye drive; car hire is available in Inverness.\n\n**On site:** Book a seal colony boat trip in advance — trips run from the castle jetty and take 45 minutes. Inside, prioritise the Drawing Room (Fairy Flag), the Dining Room, and the dungeon. Allow time for the walled garden and water garden.\n\n**Practical note:** Dunvegan is on the north-west of Skye, a dead-end road — plan your Skye itinerary to avoid backtracking.",
+  "faqs": [
+    {
+      "question": "What is the Fairy Flag at Dunvegan Castle?",
+      "answer": "The Fairy Flag is a fragile square of yellowish silk, now held in a glass case in the Drawing Room. MacLeod clan tradition holds that it was given by a fairy woman to a clan chief, and that waving it three times will summon supernatural help in times of crisis. Scientific analysis has identified the silk as originating from the Middle East or Eastern Mediterranean, dating to approximately the 4th–7th centuries AD — making it genuinely ancient. How it came to Skye is unknown. During World War Two, MacLeod clan members carried photographs of the flag into combat."
+    },
+    {
+      "question": "Can I see seals at Dunvegan Castle?",
+      "answer": "Yes — the castle operates seal colony boat trips from its own jetty on Loch Dunvegan. The 45-minute trip visits a resident seal colony in the loch and is excellent for wildlife photography. Trips run in season (April–October), subject to weather. Book in advance through the castle website as spaces are limited, especially in peak summer."
+    },
+    {
+      "question": "How long has the same family lived at Dunvegan Castle?",
+      "answer": "The MacLeod clan has occupied Dunvegan Castle continuously for approximately 800 years — since the early 13th century. This makes Dunvegan the longest continuously inhabited castle by the same family in Scotland, and one of the longest-occupied family seats in Europe. The current resident is the 30th Chief of Clan MacLeod, who opened the castle to the public in 1933."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/dunvegan-castle.webp",
+    "alt": "Dunvegan Castle rising from the wooded shore of Loch Dunvegan on the Isle of Skye, with the sea loch reflecting the castle walls on a clear Highland morning",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/dunvegan-castle.webp",
+  "instagram_tag": "#dunveganCastle",
+  "meta_title": "Dunvegan Castle Isle of Skye: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Dunvegan Castle on the Isle of Skye — Scotland's oldest continuously inhabited castle, home to the legendary Fairy Flag. Book tickets and plan your Skye visit.",
+  "tags": ["castle", "medieval", "isle-of-skye", "clan-macleod", "fairy-flag", "seal-trips", "continuously-inhabited"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["edinburgh-castle", "eilean-donan-castle", "stirling-castle"],
+  "gyg_search_query": "Dunvegan Castle Isle of Skye tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

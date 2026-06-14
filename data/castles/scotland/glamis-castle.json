@@ -1,0 +1,93 @@
+{
+  "id": "glamis-castle",
+  "name": "Glamis Castle",
+  "local_name": "Caisteal Glamis",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 100000,
+  "country": "scotland",
+  "region": "Angus",
+  "nearest_city": "Dundee",
+  "address": "Glamis, Forfar DD8 1RJ, Scotland",
+  "lat": 56.6082,
+  "lng": -3.0013,
+  "unesco": false,
+  "year_built": 1400,
+  "architectural_style": "Scottish Baronial",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily Apr–Oct 10:00–18:00 (last entry 16:30). Closed Nov–Mar except Christmas events. Check website for current schedule."
+  },
+  "price_adult": 18,
+  "price_child": 10,
+  "booking_required": false,
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September",
+  "accessibility": "Grounds largely accessible. Castle interior has stairs; some areas not wheelchair accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Shakespeare's Macbeth, the Queen Mother's childhood home — Scotland's most legendary castle",
+  "highlights": [
+    "The setting for Shakespeare's Macbeth — King Duncan was supposedly murdered here in the play",
+    "Childhood home of Queen Elizabeth The Queen Mother and birthplace of Princess Margaret in 1930",
+    "One of Scotland's most impressive Scottish Baronial castles, with 16th-century towers and conical turrets",
+    "Said to harbour a secret room where a monstrous heir to the Earls of Strathmore was hidden for centuries",
+    "The surrounding parkland and walled garden are among the finest in Angus"
+  ],
+  "description": "Glamis Castle holds a unique position in Scottish cultural imagination — it is simultaneously the setting of Shakespeare's most famous Scottish tragedy, the childhood home of the most beloved member of the 20th-century British royal family, and the keeper of one of the most persistent secret legends in Scottish folklore. That it is also a building of great architectural beauty, rising in a cluster of towers and turrets above a wide Angus avenue, makes it the complete package.\n\nThe castle's Shakespearean connection is more literary than historical — the real Macbeth and the real King Duncan never had anything to do with Glamis. But Shakespeare's choice of Glamis as the thane-dom Macbeth holds from the beginning of the play has given the castle an association with treachery and darkness that its interior, with its low-ceilinged panelled rooms and portraits of Earls stretching back centuries, does nothing to dispel.\n\nThe royal connection is both more recent and more personal. Lady Elizabeth Bowes-Lyon, daughter of the 14th Earl of Strathmore, grew up at Glamis and spent her summers here throughout her childhood. In 1923 she married the Duke of York, who became King George VI in 1936. Their second daughter, Princess Margaret, was born at Glamis in 1930 — the last royal birth in Scotland. As Queen Elizabeth The Queen Mother, she remained deeply attached to Glamis throughout her long life.",
+  "history": "The land at Glamis was granted to Sir John Lyon by King Robert II of Scotland in 1376, and the Lyon family — later the Earls of Strathmore and Kinghorne — have held it ever since, making Glamis one of the longest continuously held private estates in Scotland.\n\nThe earliest parts of the existing castle date from the early 15th century, when the Lyon family began replacing an earlier timber structure with stone. The tower house that forms the castle's core was substantially extended in the 17th century by Patrick Lyon, 1st Earl of Kinghorne, and his son, the 3rd Earl, who created the French-influenced central section of the building around 1680. The distinctive Scottish Baronial exterior with its conical turrets and circular towers gives the castle its fairy-tale profile. The most enduring legend associated with Glamis concerns a secret room — various versions centre on a monstrous heir born in the 17th or 18th century whose existence was concealed from the family and the world, with the secret allegedly passed from Earl to Earl on each heir's 21st birthday.",
+  "how_to_visit": "**Getting there from Dundee:** Glamis is 20 km north of Dundee, a 25-minute drive on the A928. By public transport, take a bus from Dundee towards Forfar and alight at Glamis village — the castle is a short walk. Bus services are limited; check Traveline Scotland before visiting.\n\n**From Edinburgh or Glasgow:** Both cities are about 1.5 hours by car via the M90/A9. Organised day tours from Edinburgh combining Glamis with Dunnottar Castle are popular and available through GetYourGuide.\n\n**On site:** Guided tours of the interior run on a set schedule — join one at the entrance. The State Dining Room, the Drawing Room, and the Chapel are the interior highlights. Allow time for the walled garden and the nature trail through the grounds.\n\n**Best season:** May to September for the gardens at their best. Halloween events at Glamis are particularly atmospheric and popular — book well in advance.",
+  "faqs": [
+    {
+      "question": "Is Glamis Castle really the setting of Macbeth?",
+      "answer": "Shakespeare set the opening of Macbeth at Glamis, making it Macbeth's home thane-dom. But the real 11th-century Macbeth had no connection to Glamis — Shakespeare's geography is not historical. The real Macbeth killed King Duncan in battle near Elgin in 1040, not in a castle. Glamis was not even built in Macbeth's time. The Shakespearean association is entirely literary, but it has given the castle a permanent dramatic identity that the building's atmosphere does nothing to undermine."
+    },
+    {
+      "question": "What is the connection between Glamis Castle and the Queen Mother?",
+      "answer": "Lady Elizabeth Bowes-Lyon, daughter of the 14th Earl of Strathmore, spent much of her childhood at Glamis and used it as a family home throughout her life. In 1923 she married Prince Albert (later King George VI). During World War One, Glamis was used as a convalescent hospital for wounded soldiers — Elizabeth helped nurse them. Her daughter Princess Margaret was born at Glamis in 1930 — the last royal birth in Scotland. As Queen Elizabeth The Queen Mother, she maintained a deep personal attachment to Glamis until her death in 2002 at the age of 101."
+    },
+    {
+      "question": "What is the secret room at Glamis Castle?",
+      "answer": "The legend of the secret room at Glamis — supposedly containing a monstrous family member hidden from the world — has circulated since at least the 19th century. Various versions involve a disfigured heir or a hidden chamber whose secret was passed from Earl to Earl on each heir's 21st birthday. No conclusive evidence for any hidden room has been produced, but the castle's irregular plan does make it genuinely difficult to account for all its internal spaces, which keeps the legend alive."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/glamis-castle.webp",
+    "alt": "Glamis Castle's Scottish Baronial towers and conical turrets rising above a tree-lined avenue in Angus on a clear summer morning",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/glamis-castle.webp",
+  "instagram_tag": "#glamisCastle",
+  "meta_title": "Glamis Castle Scotland: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Glamis Castle in Angus — Shakespeare's Macbeth setting and the Queen Mother's childhood home. Book tickets and plan your day trip from Dundee or Edinburgh.",
+  "tags": ["castle", "scottish-baronial", "macbeth", "royal", "angus", "scotland", "haunted", "day-trip-from-edinburgh"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["edinburgh-castle", "dunnottar-castle", "stirling-castle"],
+  "gyg_location_id": "125123",
+  "gyg_search_query": "Glamis Castle Angus Scotland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "134733",
+      "title": "From Edinburgh: Glamis and Dunnottar Castles Day Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 68,
+      "rating": 4.6,
+      "reviews": 199,
+      "covers_castles": ["glamis-castle", "dunnottar-castle"]
+    }
+  ]
+}

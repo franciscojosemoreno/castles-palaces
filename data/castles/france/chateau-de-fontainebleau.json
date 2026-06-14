@@ -1,0 +1,93 @@
+{
+  "id": "chateau-de-fontainebleau",
+  "name": "Château de Fontainebleau",
+  "local_name": "Château de Fontainebleau",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 500000,
+  "country": "france",
+  "region": "Île-de-France",
+  "nearest_city": "Paris",
+  "address": "77300 Fontainebleau, France",
+  "lat": 48.4024,
+  "lng": 2.7017,
+  "unesco": true,
+  "year_built": 1137,
+  "architectural_style": "French Renaissance / Classical",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "Open Tue–Sun 09:30–18:00 (May–Sep); 09:30–17:00 (Oct–Apr). Closed Mondays, Christmas Day, and New Year's Day. Gardens open daily at no charge."
+  },
+  "price_adult": 14,
+  "price_child": 0,
+  "booking_required": false,
+  "visit_duration": "2–4 hours",
+  "best_season": "Spring and autumn for smaller crowds; summer for full garden access",
+  "accessibility": "The main apartments are largely accessible. Some areas involve stairs. The formal gardens are accessible.",
+  "booking_advance_days": 0,
+  "tagline": "A thousand years of French royal history — the palace that Versailles aspired to become",
+  "highlights": [
+    "Over 1,500 rooms spanning eight centuries of French royal history — the longest-occupied royal palace in France",
+    "The Francis I Gallery is a masterpiece of French Renaissance decoration, setting the template for every royal gallery that followed",
+    "Napoleon signed his abdication here in 1814 — the Red Council Room where he did so is preserved exactly as he left it",
+    "UNESCO World Heritage Site: the palace and surrounding Fontainebleau Forest (25,000 hectares) are inscribed together",
+    "The carp pond where Napoleon fed the fish is the oldest ornamental fish pond in France — its carp are reputedly 400 years old"
+  ],
+  "description": "If Versailles is the palace that France shows to the world — magnificent, overscaled, designed for politics and display — Fontainebleau is the one France kept for itself. Older, more personal, more varied, and more deeply woven into the fabric of French royal history, it is the palace where every French monarch from Louis VII to Napoleon III slept, hunted, celebrated, and died. It has over 1,500 rooms spanning eight centuries, and it is the most directly autobiographical of all the great French royal residences.\n\nThe palace's greatest individual achievement is the Francis I Gallery, created between 1533 and 1540 by the Florentine artist Rosso Fiorentino with stucco frames by Primaticcio. This long corridor — full of allegorical paintings in high-relief plasterwork frames, combining Italian Renaissance motifs with French symbolism — effectively invented the French decorative tradition. Every French palace gallery that followed, including those at Versailles, derives from what was first worked out here at Fontainebleau. Standing in it is to stand at the origin of a visual language that shaped European palace decoration for the next 300 years.\n\nThe palace's other unmissable moment is historical rather than artistic: the Salle du Conseil Rouge, where Napoleon signed his abdication on 6 April 1814 following the Allied capture of Paris. The room is preserved almost exactly as it was that morning. The courtyard outside is called the Cour des Adieux — the Courtyard of Farewells — where Napoleon made his famous last speech to the Old Guard before departing for exile on Elba.",
+  "history": "Fontainebleau appears in the historical record from 1137, when Louis VII granted it to the monks of a nearby priory. By the 12th century a royal hunting lodge had been established in the forest, and the Fontainebleau forest — covering 25,000 hectares — remains one of the finest in France.\n\nThe transformation from hunting lodge to royal palace began under Francis I (reigned 1515–1547), who demolished the medieval buildings and replaced them with a Renaissance palace of extraordinary ambition. He brought Italian artists — Rosso Fiorentino, Primaticcio, and Benvenuto Cellini — to create a French version of the Italian Renaissance. The result, the so-called First School of Fontainebleau, effectively transplanted the Italian Renaissance to France and launched the French artistic tradition that would eventually produce Versailles. Every subsequent French monarch from Henri II to Napoleon III left their mark on Fontainebleau, and it contains more accumulated royal history than any other building in France.",
+  "how_to_visit": "**Getting there from Paris:** Take the Transilien N or R train from Paris Gare de Lyon to Fontainebleau-Avon station (approximately 40–45 minutes, trains run frequently). From the station, local bus Ligne 1 runs to the château in 10 minutes, or walk through the town (25 minutes). A return train ticket costs around €12–15.\n\n**What to see:** The Francis I Gallery (unmissable). The Grand Apartments of Napoleon. The Salle du Conseil Rouge where Napoleon signed his abdication. The Renaissance ballroom. The formal gardens and the carp pond. Allow 2 hours minimum for the palace interior; add 1 hour for the gardens.\n\n**Best combination:** Fontainebleau pairs naturally with Vaux-le-Vicomte, 20 km north-west (taxi or car needed). Several tour operators run combined day tours from Paris.\n\n**Practical:** Far less crowded than Versailles. On weekdays outside school holidays, queues are minimal. The Fontainebleau forest immediately behind the palace is excellent for cycling.",
+  "faqs": [
+    {
+      "question": "How is Fontainebleau different from Versailles?",
+      "answer": "Versailles was built in the late 17th century as a deliberate political statement — a purpose-built palace designed to awe Europe. Fontainebleau is 500 years older, a palace that evolved organically over eight centuries of royal occupation. Where Versailles overwhelms with scale and unity, Fontainebleau rewards with variety and depth — a Renaissance gallery here, a Napoleonic bedroom there, a medieval chapel wing, a Louis XV room. It is less perfectly coherent than Versailles and more interesting for it. Crowds are also far smaller."
+    },
+    {
+      "question": "Where did Napoleon sign his abdication?",
+      "answer": "Napoleon signed his abdication on 6 April 1814 in the Salle du Conseil Rouge (the Red Council Room) at Fontainebleau Palace. The room is preserved almost exactly as it was that morning. The courtyard below, where Napoleon made his final farewell speech to the Old Guard before departing for exile on Elba, is called the Cour des Adieux — the Courtyard of Farewells. The scene of Napoleon descending the double staircase to embrace his weeping veterans is one of the most iconic moments of the Napoleonic saga."
+    },
+    {
+      "question": "How do I get from Paris to Fontainebleau?",
+      "answer": "Take a Transilien N or R train from Paris Gare de Lyon to Fontainebleau-Avon station (40–45 minutes, trains run every 30–60 minutes). From the station, local bus Ligne 1 runs to the château (10 minutes), or walk through the town (25 minutes, a pleasant route). A return ticket costs approximately €12–15."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-fontainebleau.webp",
+    "alt": "Château de Fontainebleau's classical facade reflected in the ornamental carp pond, with the formal parterre stretching towards the Fontainebleau forest",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-fontainebleau.webp",
+  "instagram_tag": "#chateauFontainebleau",
+  "meta_title": "Château de Fontainebleau: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château de Fontainebleau near Paris — 1,000 years of French royal history and the UNESCO-listed palace where Napoleon signed his abdication.",
+  "tags": ["palace", "renaissance", "napoleon", "unesco-world-heritage", "day-trip-from-paris", "ile-de-france", "french-history"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["palace-of-versailles", "chateau-de-vaux-le-vicomte"],
+  "gyg_location_id": "34714",
+  "gyg_search_query": "Château de Fontainebleau Paris tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "921066",
+      "title": "Paris: Château Fontainebleau Small Group Guided Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 55,
+      "rating": 4.8,
+      "reviews": 65,
+      "covers_castles": ["chateau-de-fontainebleau"]
+    }
+  ]
+}

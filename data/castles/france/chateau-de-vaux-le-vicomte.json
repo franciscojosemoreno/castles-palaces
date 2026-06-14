@@ -1,0 +1,82 @@
+{
+  "id": "chateau-de-vaux-le-vicomte",
+  "name": "Château de Vaux-le-Vicomte",
+  "local_name": "Château de Vaux-le-Vicomte",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 300000,
+  "country": "france",
+  "region": "Île-de-France",
+  "nearest_city": "Paris",
+  "address": "77950 Maincy, France",
+  "lat": 48.5683,
+  "lng": 2.7158,
+  "unesco": false,
+  "year_built": 1661,
+  "architectural_style": "French Baroque / Classical",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–20:00",
+    "sunday": "10:00–20:00",
+    "seasonal_note": "Open daily Mar–Nov 10:00–18:00 (Sat–Sun 10:00–20:00). Closed Dec–Feb. Saturday evening candlelit visits (May–Oct) are unmissable — over 2,000 candles illuminate the château and gardens. Book in advance."
+  },
+  "price_adult": 21,
+  "price_child": 0,
+  "booking_required": false,
+  "visit_duration": "2–4 hours",
+  "best_season": "May to October; Saturday evening candlelit visits are a highlight",
+  "accessibility": "Gardens are largely accessible. Château interior involves some stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The château that made Louis XIV jealous — and gave France its greatest landscape designer",
+  "highlights": [
+    "Built in just 5 years by Nicolas Fouquet — its magnificence so outshone Versailles that Louis XIV had Fouquet arrested",
+    "André Le Nôtre designed the formal gardens here before going on to create the Gardens of Versailles",
+    "Charles Le Brun's painted ceilings are among the finest in 17th-century France",
+    "Saturday evening candlelit visits with over 2,000 candles illuminate the château and gardens in extraordinary atmosphere",
+    "The complete artistic team of Vaux-le-Vicomte — Le Vau, Le Brun, Le Nôtre — were immediately hired by Louis XIV to build Versailles"
+  ],
+  "description": "The story of Vaux-le-Vicomte is one of the great cautionary tales of French history, and it is perfectly embodied in the building. Nicolas Fouquet, Louis XIV's finance minister and the most powerful man in France after the king, decided to build himself a château of unprecedented magnificence. He hired the three finest artists in France — architect Louis Le Vau, painter Charles Le Brun, and landscape designer André Le Nôtre — gave them unlimited resources, and in just five years created a palace and gardens that surpassed anything in Europe.\n\nFouquet held a housewarming party in August 1661 — six thousand guests, fireworks, theatre, dancing, and a full dinner served from silver plate. Three weeks later, Louis XIV had him arrested on charges of embezzlement. The real reason was simpler: a subject could not be allowed to outshine a king. Fouquet died in prison seventeen years later. Louis XIV immediately hired Le Vau, Le Brun, and Le Nôtre and ordered them to do the same thing at Versailles, but bigger.\n\nThe château Fouquet built, and the gardens Le Nôtre laid out, remain almost intact today. Le Nôtre's first major garden commission is a masterpiece of perspectival illusion and classical order — from the château steps, the grand axis appears to extend to the horizon, with fountains, parterres, and canal organised into a geometry of absolute authority. The interior, with Le Brun's painted ceilings at their most inventive, is equally compelling. It is, in every possible sense, the prototype of Versailles — and it is better to visit because it is not Versailles.",
+  "history": "Nicolas Fouquet (1615–1680) rose through the French legal and financial establishment to become Louis XIV's Superintendent of Finances — effectively the controller of the French state's money. In 1658, he purchased land near Melun and began building Vaux-le-Vicomte. To clear the site, he purchased and demolished three entire villages, relocating their inhabitants. At its peak, 18,000 workers laboured simultaneously on the project.\n\nFouquet assembled the most talented creative team in France: architect Louis Le Vau, who designed the oval salon and the overall plan; Charles Le Brun, who painted every ceiling and designed every tapestry; and André Le Nôtre, a young gardener who had never designed a project of this scale, whose formal gardens at Vaux became the defining model for French landscape design for the next two centuries. The housewarming party on 17 August 1661 was the most spectacular private entertainment in French history. On 5 September 1661, Louis XIV had Fouquet arrested by d'Artagnan of the Musketeers. After a three-year trial, Fouquet was convicted and sentenced to life imprisonment; he died in Pignerol fortress in 1680.\n\nThe château passed through several private owners after Fouquet's fall and eventually fell into serious disrepair. In 1875 it was purchased by Alfred Sommier, a sugar industrialist, who undertook a comprehensive restoration of both the château and Le Nôtre's gardens. His descendants, the Vogüé family, own and manage the château to this day — one of the most significant privately maintained historic properties in France.",
+  "how_to_visit": "**Getting there from Paris:** Take a train from Paris Gare de Lyon to Melun station (25–30 minutes), then a taxi to the château (about 10 minutes, roughly €15). Alternatively, in season (March–November) shuttle buses run from Melun station on Saturdays and Sundays. By car from Paris, take the A6 motorway to exit 16 Melun-Senart; the château is about 8 km from the motorway. Driving time from Paris is approximately 50 minutes.\n\n**Candlelit Saturdays:** The château's most famous experience is the Saturday evening visit (May–October) when over 2,000 candles illuminate the interior and gardens. The effect is extraordinary — the parterres and fountains glowing in the dark are one of the most romantic sights in France. Book tickets in advance; these evenings sell out weeks ahead in summer.\n\n**What to see:** The Salon d'Hercule (Le Brun's painted ceiling). The formal gardens from the steps of the château (the full grand axis is best appreciated from here). The kitchen and basement, restored to their 17th-century appearance. Allow at least 2 hours for château and gardens.\n\n**Combine with:** Fontainebleau (20 km south) makes an excellent pairing — the two châteaux together tell the complete story of French 17th-century architecture. No public transport between them; a taxi or car is needed.",
+  "faqs": [
+    {
+      "question": "Why did Louis XIV have Fouquet arrested after the Vaux-le-Vicomte party?",
+      "answer": "The official charge was embezzlement — Fouquet had indeed used public funds for private enrichment, which was common practice at the time but technically illegal. The real motivation was the young Louis XIV's fury at being outshone by a subject. The party of 17 August 1661 was the most spectacular private entertainment ever held in France, and Louis — who had nothing to match it — took it as an insult. He ordered Fouquet's arrest three weeks later. The charge of treason was not proven; Fouquet was convicted only of embezzlement and sentenced to exile, which Louis changed to life imprisonment."
+    },
+    {
+      "question": "What are the candlelit evening visits at Vaux-le-Vicomte?",
+      "answer": "Every Saturday evening from May to October (and on some special dates), the château and gardens are illuminated by over 2,000 wax candles — no electric light. The effect transforms Vaux-le-Vicomte into something from another century: the painted ceilings glow, the parterres are outlined in candlelight, and the fountains catch the flame. These evenings run from around 20:00 to 24:00 and are among the most atmospheric experiences in Île-de-France. Book in advance — they sell out weeks ahead in summer."
+    },
+    {
+      "question": "Is Vaux-le-Vicomte better than Versailles to visit?",
+      "answer": "For many visitors, yes. Vaux-le-Vicomte sees about 300,000 visitors a year compared to Versailles' 10+ million, so the experience is far calmer and more intimate. The château is smaller but its interiors are at least as fine as Versailles' finest rooms. Le Nôtre's gardens, though smaller than those at Versailles, are arguably more perfectly proportioned. And the story — the magnificent party, the jealous king, the arrested minister — gives the visit a narrative drama that Versailles, despite its scale, cannot match."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-vaux-le-vicomte.webp",
+    "alt": "Château de Vaux-le-Vicomte reflected in the grand canal, with Le Nôtre's formal parterres stretching from the château steps to the horizon in Île-de-France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-vaux-le-vicomte.webp",
+  "instagram_tag": "#vauxLeVicomte",
+  "meta_title": "Château de Vaux-le-Vicomte: Tickets, Candlelit Visits & Guide 2026",
+  "meta_description": "Visit Vaux-le-Vicomte near Paris — the baroque château that inspired Versailles, with Saturday evening candlelit visits and Le Nôtre's formal gardens.",
+  "tags": ["palace", "baroque", "17th-century", "day-trip-from-paris", "ile-de-france", "candlelit-visits", "le-notre"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau"],
+  "gyg_location_id": "34526",
+  "gyg_search_query": "Vaux-le-Vicomte château tour Paris",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
