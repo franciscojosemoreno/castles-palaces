@@ -1,0 +1,78 @@
+{
+  "id": "belmonte-castle",
+  "name": "Belmonte Castle",
+  "local_name": "Castillo de Belmonte",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "spain",
+  "region": "Castilla-La Mancha",
+  "nearest_city": "Belmonte",
+  "address": "Castillo de Belmonte, 16640 Belmonte, Cuenca, Spain",
+  "lat": 39.7056,
+  "lng": -2.6861,
+  "unesco": false,
+  "year_built": 1456,
+  "architectural_style": "Late Gothic, hexagonal floor plan",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–14:00",
+    "wednesday": "10:00–14:00",
+    "thursday": "10:00–14:00",
+    "friday": "10:00–14:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–14:00",
+    "seasonal_note": "Summer hours (July–August): Tuesday–Sunday 10:00–14:00 and 16:30–20:00. Spring/Autumn: Tuesday–Friday 10:00–14:00, Saturday–Sunday 10:00–18:00. Winter: Tuesday–Sunday 10:00–14:00. Closed Mondays year-round. Check the website for guided tour times."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "booking_required": false,
+  "visit_duration": "1–2 hours",
+  "best_season": "Spring and autumn",
+  "accessibility": "The castle exterior and courtyard are largely accessible on flat ground. The interior rooms involve some steps. The hexagonal towers have spiral staircases that are not accessible.",
+  "booking_advance_days": 0,
+  "tagline": "A perfectly preserved Late Gothic masterpiece in the empty Manchegan meseta — the castle that shaped the country of Don Quixote",
+  "highlights": [
+    "The hexagonal floor plan — one of only a handful of hexagonal castles in Europe, Belmonte's unique geometry creates a series of interior spaces of extraordinary variety and character",
+    "Gothic-Mudéjar interiors — coffered ceilings of intricately carved wood in Mudéjar style, decorated with heraldic motifs of the Pacheco family, in rooms that have been little altered since the 15th century",
+    "The Manchegan landscape — the castle rises above the flat wheat-gold meseta that Cervantes described in Don Quixote, with windmills visible on distant ridges and the silence of the central Spanish plains",
+    "Filming locations — Belmonte's striking silhouette and authentic medieval interior have made it one of the most-used castle locations in Spanish cinema and television, including El Cid and the Amazon series El Ministerio del Tiempo",
+    "The Eugenia de Montijo connection — Napoleon III's Empress Eugenia, a Spanish noblewoman born in Granada, took a romantic interest in Belmonte and restored it in the 19th century, her apartments preserved as she left them"
+  ],
+  "description": "Belmonte Castle rises from a low hill above the flat Manchegan meseta like a vision from a medieval manuscript — its six towers, triangular plan and perfectly preserved Late Gothic stonework making it one of the most distinctive castle silhouettes in Spain. Built between 1456 and 1470 by Juan Pacheco, Marquis of Villena and one of the most powerful nobles of 15th-century Castile, Belmonte was conceived as both a military stronghold and a statement of aristocratic magnificence. Its unusual hexagonal plan, with three round towers at alternate vertices and three more octagonal towers at the others, gives it an architectural individuality that has made it one of the most admired and most filmed castles in Spain.\n\nThe interior is remarkable for its survival. The Gothic-Mudéjar coffered ceilings in the principal halls — carved in interlocking geometric patterns of Moorish inspiration and decorated with the heraldic devices of the Pacheco family — are among the finest examples of 15th-century decorative art in Castilla-La Mancha. In the 19th century the castle was restored by Eugenia de Montijo, Countess of Teba and future Empress of the French as wife of Napoleon III, whose family connection to the region made her take an active interest in the building's preservation. Her apartments survive largely intact and are among the most evocative Victorian-era castle interiors in Spain.\n\nThe castle stands in the landscape that inspired Miguel de Cervantes when he sent Don Quixote tilting at windmills through the plains of La Mancha. On clear days from the battlements you can see the white sails of windmills on the ridges above the village of Campo de Criptana, 30 kilometres to the south — the very windmills Cervantes's hero mistook for giants. The combination of authentic medieval architecture, extraordinary decorative art, Napoleonic period rooms and Quixotic landscape makes Belmonte one of the most rewarding off-the-beaten-track castle visits in Spain.",
+  "history": "Juan Pacheco, 1st Marquis of Villena, was the most powerful magnate in 15th-century Castile — the kingmaker who dominated the reigns of both John II and Henry IV. He commissioned the castle at Belmonte in 1456 on a site already fortified since the Moorish period, and the construction proceeded rapidly through the 1460s under the supervision of architects influenced by the latest Flemish and Italian Gothic. The castle served as one of Pacheco's principal residences and the administrative centre of his enormous Marquesate of Villena, which at its peak encompassed much of eastern Castile.\n\nAfter the Pacheco line died out, Belmonte passed through several noble families and fell into gradual decline. The decisive intervention came in the 19th century when Eugenia de Montijo — the Spanish countess who became Empress of the French as Napoleon III's wife — undertook a significant restoration, saving the castle from the ruination that overtook many comparable buildings during the Carlist Wars. Her romantic attachment to Spain's medieval heritage, combined with her substantial resources as Empress, produced a restoration of considerable quality. The castle was declared a National Monument in 1931.",
+  "how_to_visit": "**Getting there:** Belmonte is 150 kilometres southeast of Madrid and 70 kilometres southwest of Cuenca. By car, take the A-3 motorway towards Valencia and exit at Motilla del Palancar, then the CM-311 to Belmonte. There is no direct public transport from Madrid; the nearest train station is Cuenca, from which a rental car is the practical option.\n\n**Tickets:** Tickets can be purchased at the castle door — no advance booking required for individual visitors. Guided tours in Spanish (and sometimes English) depart at fixed times. The village of Belmonte itself, with its 15th-century collegiate church and medieval street plan, is free to explore.\n\n**Combine with:** The windmills of Campo de Criptana (30 km south) and Consuegra (60 km south) are the most visited symbols of Don Quixote country and make the perfect complement to Belmonte. The UNESCO-listed city of Cuenca, with its hanging houses, is 70 kilometres to the northeast. El Toboso — the village of Don Quixote's Dulcinea — is 40 kilometres southeast.",
+  "faqs": [
+    {
+      "question": "Why does Belmonte Castle have a hexagonal plan?",
+      "answer": "The hexagonal plan of Belmonte Castle was a deliberate architectural choice by its builder Juan Pacheco and his architects, influenced by the latest ideas in European military theory and castle design. A hexagonal or polygonal plan creates no right-angle corners — which were vulnerable to undermining — and allowed the defenders to cover every section of wall with flanking fire from the towers. Aesthetically, the hexagonal plan created a greater variety of internal spaces and a more dynamic exterior silhouette than the rectangular plans that dominated Castilian castle-building at the time."
+    },
+    {
+      "question": "What is the connection between Belmonte Castle and Empress Eugenia?",
+      "answer": "Eugenia de Montijo was born in Granada in 1826, the daughter of the Spanish Count of Teba, and married Napoleon III in 1853 to become Empress of the French. As a Spanish noblewoman with Castilian roots, she maintained a deep connection to her homeland and took a particular interest in Belmonte, which passed to her family in the 19th century. She funded a significant restoration of the castle from the 1860s onwards, saving it from the deterioration that affected many Spanish castles during this turbulent period. Her apartments in the castle are preserved as they were during her residency and include Empire-style furnishings that provide a striking contrast with the medieval architecture."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/belmonte-castle.webp",
+    "alt": "Belmonte Castle's six towers and Late Gothic battlements rising dramatically from the flat golden Manchegan meseta on a clear spring afternoon",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/belmonte-castle.webp",
+  "instagram_tag": "#belmontecastle",
+  "meta_title": "Belmonte Castle: Don Quixote Country, Tickets & Guide 2026",
+  "meta_description": "Visit Belmonte Castle in Castilla-La Mancha — a stunning Late Gothic hexagonal fortress in Don Quixote country. Tickets and visitor information 2026.",
+  "tags": ["gothic", "medieval", "off-the-beaten-path", "don-quixote", "castle-of-la-mancha", "dramatic", "spanish-castle"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["alcazar-of-segovia", "alhambra-granada"],
+  "gyg_location_id": "162662",
+  "gyg_search_query": "Belmonte Castle Cuenca tour Spain",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

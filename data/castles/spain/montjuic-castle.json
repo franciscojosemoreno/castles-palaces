@@ -1,0 +1,78 @@
+{
+  "id": "montjuic-castle",
+  "name": "Montjuïc Castle",
+  "local_name": "Castell de Montjuïc",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 800000,
+  "country": "spain",
+  "region": "Catalonia",
+  "nearest_city": "Barcelona",
+  "address": "Carretera de Montjuïc 66, 08038 Barcelona, Spain",
+  "lat": 41.3635,
+  "lng": 2.1668,
+  "unesco": false,
+  "year_built": 1640,
+  "architectural_style": "17th-century star-shaped military fortress",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–20:00",
+    "wednesday": "10:00–20:00",
+    "thursday": "10:00–20:00",
+    "friday": "10:00–20:00",
+    "saturday": "10:00–20:00",
+    "sunday": "10:00–20:00",
+    "seasonal_note": "Open Tuesday to Sunday. Summer (March–October) Tuesday–Sunday 10:00–20:00. Winter (November–February) Tuesday–Sunday 10:00–18:00. Closed Mondays. Free entry on Sundays from 15:00. Access by cable car, bus 150, or on foot via the Montjuïc gardens."
+  },
+  "price_adult": 5,
+  "price_child": 3,
+  "booking_required": false,
+  "visit_duration": "1–2 hours",
+  "best_season": "Year-round — stunning panoramic views over Barcelona",
+  "accessibility": "The castle's main level is accessible via ramps and lifts from the lower esplanade. The cable car from Barceloneta provides the most scenic accessible approach. The rampart walks involve some steps but the key viewpoints are reachable.",
+  "booking_advance_days": 0,
+  "tagline": "The fortress that watched over Barcelona for 400 years — a star-shaped castle with panoramic views from the port to the Pyrenees, now a symbol of the city's freedom",
+  "highlights": [
+    "Panoramic views over Barcelona — from the ramparts, the entire city spreads below: La Barceloneta beach, the Gothic Quarter, the Sagrada Família, and on clear days the Pyrenees to the north",
+    "The star-shaped plan — a classic example of Vauban-style military engineering, with angled bastions designed to deflect cannon fire and eliminate defensive blind spots, offering a textbook lesson in 17th-century military architecture",
+    "The Fossar de la Pedrera memorial — the quarry below the castle that was used as a mass burial site during the Spanish Civil War and Franco's dictatorship, now a moving memorial to Catalan political prisoners",
+    "The cable car approach — the Telefèric de Montjuïc ascends from Paral·lel metro station to the castle with spectacular aerial views over the port, city and coastline",
+    "The permanent history museum — exhibitions tracing the castle's complex history as royal fortress, military prison and symbol of political oppression, culminating in the city's recovery of the site in 2007"
+  ],
+  "description": "Montjuïc Castle stands on the 173-metre hill that has dominated Barcelona's harbour and cityscape for nearly four centuries — a star-shaped military fortress whose dark history as a prison and place of political execution has given it a significance in Catalonia that goes far beyond its architectural interest. Built in 1640 and substantially expanded after 1694, the castle served the Spanish Crown as a controlling presence above the city it periodically bombarded and dominated for two centuries. Its conversion into a democratic city monument by the Barcelona City Council — who took formal possession from the Spanish Ministry of Defence in 2007 — represents a deliberate act of historical reclamation.\n\nThe fortress's design is a classical example of the star-shaped military engineering associated with the French engineer Vauban: projecting angular bastions eliminate the blind corners that made medieval walls vulnerable to artillery, and the sloping surfaces are designed to deflect rather than absorb cannon shot. Walking the perimeter of the bastions today, with the Mediterranean spread before you and the city of Barcelona laid out below like a map, it is impossible not to feel the military logic of the position — and to understand why successive rulers were so determined to hold it.\n\nThe castle's most painful history belongs to the 19th and 20th centuries. It served as a military prison throughout the 19th century, and after the Spanish Civil War it became a place of political execution: Lluís Companys, the president of the Generalitat of Catalonia, was brought here in 1940 and shot by firing squad on the orders of Franco. The Fossar de la Pedrera memorial below the castle's north wall honours the thousands of Republicans and Catalans who were executed or imprisoned here during the dictatorship. Today the castle's exhibitions confront this history directly and unflinchingly.",
+  "history": "The first defensive structure on Montjuïc hill was built during the Second Catalan War of 1640, when Catalan rebels allied with France seized the strategic high point above Barcelona. The current castle was constructed between 1694 and 1705 to replace the earlier fortification, following the designs of military engineers working in the French tradition of Vauban's star fortifications. The castle was intended not only to defend the harbour from seaborne attack but to dominate the city itself — a dual purpose that defined its relationship with Barcelona for two centuries.\n\nThe castle bombarded the city of Barcelona in 1714 during the War of Spanish Succession, in 1842 during the Revolt of 1842, and again in 1843. It served as a political prison throughout the liberal and conservative oscillations of 19th-century Spanish politics, holding republican prisoners, Carlists and anarchists at various times. After the Spanish Civil War the castle became synonymous with Franco's political repression in Catalonia, most notoriously with the execution of Catalan president Lluís Companys in October 1940. The Spanish Ministry of Defence transferred ownership to the City of Barcelona in 2007, and the castle was opened as a public historical monument and site of memory.",
+  "how_to_visit": "**Getting there:** The Telefèric de Montjuïc cable car runs from Paral·lel metro station (Lines 2 and 3) to the castle, with aerial views over the port and city. Bus 150 climbs the hill from Plaça d'Espanya. The Montjuïc funicular from Paral·lel connects to the cable car midway. Alternatively, the hill can be walked from the Olympic area via the Jardins de Laribal.\n\n**Tickets:** Entry is €5 for adults. Free on Sundays from 15:00. No advance booking required. The ticket includes the museum exhibitions and all rampart areas. The cable car costs extra and must be purchased separately.\n\n**Combine with:** The Montjuïc hill has multiple attractions besides the castle: the Fundació Joan Miró (world's finest Miró collection), the MNAC national art museum in the Palau Nacional, the 1992 Olympic Stadium and the Jardins de Laribal botanical gardens. A full day on Montjuïc barely scratches the surface.",
+  "faqs": [
+    {
+      "question": "What happened at Montjuïc Castle during the Franco dictatorship?",
+      "answer": "During the Franco dictatorship (1939–1975) Montjuïc Castle served as a military prison and place of execution for political opponents of the regime, particularly Catalan nationalists and Spanish Republicans. The most prominent victim was Lluís Companys i Jover, President of the Generalitat de Catalunya (the Catalan regional government), who was arrested in France by the Gestapo, extradited to Spain, tried by a military tribunal, and executed by firing squad at Montjuïc on 15 October 1940. Thousands of others were imprisoned or executed here during the post-Civil War repression. The Fossar de la Pedrera — a former quarry below the castle — is now a memorial garden dedicated to their memory."
+    },
+    {
+      "question": "What is the best way to reach Montjuïc Castle?",
+      "answer": "The most spectacular approach is via the Telefèric de Montjuïc cable car, which departs from Paral·lel metro station and offers extraordinary aerial views over the port of Barcelona and the coastline as it ascends to the castle. The cable car runs regularly and tickets must be purchased separately from castle admission. Alternatively, Bus 150 climbs the hill from Plaça d'Espanya and stops near the castle entrance. The hill is also popular with cyclists and walkers who use the network of garden paths and roads to ascend from Barceloneta or Poble Sec."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/montjuic-castle.webp",
+    "alt": "Montjuïc Castle's star-shaped bastions overlooking the port of Barcelona and the Mediterranean coast, with the city's skyline and distant hills beyond",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/montjuic-castle.webp",
+  "instagram_tag": "#montjuiccastle",
+  "meta_title": "Montjuïc Castle Barcelona: Tickets, Views & Visitor Guide 2026",
+  "meta_description": "Visit Montjuïc Castle in Barcelona — a 17th-century star fortress with panoramic city views and a moving history. Tickets and travel guide for 2026.",
+  "tags": ["baroque", "fortress", "city-centre", "instagram-worthy", "views", "barcelona", "panoramic", "military", "hilltop", "family-friendly"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["alhambra-granada", "alcazar-seville", "alcazar-of-segovia"],
+  "gyg_location_id": "3057",
+  "gyg_search_query": "Montjuic Castle Barcelona tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

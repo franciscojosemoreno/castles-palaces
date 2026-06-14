@@ -1,0 +1,77 @@
+{
+  "id": "tintagel-castle",
+  "name": "Tintagel Castle",
+  "type": "ruins",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 220000,
+  "country": "england",
+  "region": "Cornwall",
+  "nearest_city": "Tintagel",
+  "address": "Castle Road, Tintagel, Cornwall PL34 0HE, England",
+  "lat": 50.6673,
+  "lng": -4.7579,
+  "unesco": false,
+  "year_built": 1233,
+  "architectural_style": "Medieval coastal fortification, on Iron Age and Dark Age remains",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily April–September 10:00–18:00; October 10:00–17:00; November–March 10:00–16:00 (last entry one hour before closing). The site involves significant climbing — wear sturdy footwear. May close in severe coastal weather."
+  },
+  "price_adult": 14,
+  "price_child": 8,
+  "booking_required": true,
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to October — coastal walks best in clear weather",
+  "accessibility": "The site is not fully accessible. The ruins occupy steep clifftops connected by a footbridge and many steps. English Heritage provides a virtual tour for those unable to access the ruins. The village of Tintagel is accessible from the car park.",
+  "booking_advance_days": 3,
+  "tagline": "The legendary birthplace of King Arthur — dramatic clifftop ruins above the crashing Atlantic on Cornwall's wild north coast",
+  "highlights": [
+    "The clifftop ruins — the broken walls of Earl Richard's 13th-century castle perched on sheer Atlantic headlands, with the sea boiling in the cove 100 metres below",
+    "The footbridge — English Heritage's dramatic modern bridge spanning the gap between the mainland and the island citadel, opened in 2019 and offering vertigo-inducing views",
+    "Dark Age remains — extensive traces of a 5th and 6th century settlement recently identified as one of the most significant post-Roman sites in Britain, consistent with Arthurian legends",
+    "Merlin's Cave — an atmospheric sea cave accessible at low tide beneath the island, long associated in legend with Merlin, King Arthur's wizard and adviser",
+    "The Arthurian connection — the site has been identified with King Arthur's legendary birthplace since Geoffrey of Monmouth wrote his History of the Kings of Britain in 1138"
+  ],
+  "description": "Tintagel Castle occupies one of the most dramatically beautiful sites in England — a series of clifftop headlands jutting into the Atlantic on Cornwall's windswept north coast, connected by the narrowest of causeways and a modern pedestrian bridge. The medieval castle visible today was built in the 1230s by Richard, Earl of Cornwall, the younger brother of Henry III, largely as a romantic gesture: even then, the site was associated with King Arthur, and Richard wanted his Cornish seat to carry that legendary resonance. But beneath the Norman ruins lies something far older and more mysterious.\n\nArchaeological excavations have revealed that the Tintagel headland was an important trading post and possible royal court between roughly 450 and 650 AD — the period when a historical figure like the legendary King Arthur might have lived. Imported pottery from the eastern Mediterranean, north African and French amphorae, and evidence of metalworking and high-status occupation all point to a settlement of unusual wealth and reach for post-Roman Britain. A stone inscribed with the name 'Artognou' — a Brittonic name related to 'Arthur' — was found here in 1998. The Arthurian connection, dismissed for centuries as pure romance, suddenly feels considerably more plausible.\n\nThe visit involves significant physical effort: a steep descent from the village, a climb to the mainland ward, a crossing of the new footbridge, and a further climb to the island citadel. The reward is one of the most spectacular views on the English coast, and the extraordinary atmosphere of standing in ruins above the crashing Atlantic that inspired Geoffrey of Monmouth, Alfred Lord Tennyson, and Thomas Hardy.",
+  "history": "The site at Tintagel has been occupied since at least the Iron Age, and recent excavations have confirmed intensive settlement in the 5th and 6th centuries AD, consistent with the Arthurian period described in medieval legend. The headland's unusual wealth of imported Mediterranean goods suggests it was a seat of power in post-Roman Cornwall — possibly the stronghold of the Dumnonian kings who ruled the peninsula after the Roman withdrawal.\n\nThe visible ruins date from the 1230s, when Richard, Earl of Cornwall — brother of Henry III and fabulously wealthy from tin-mining revenues — built a castle on the site. Richard was fully aware of the Arthurian legends already attached to the place; he chose to build there precisely because of the romantic association. The castle was never intended as a serious military fortification and fell into disrepair by the 14th century. English Heritage took over management in the 20th century, and the striking new footbridge connecting the mainland and island wards was opened in 2019.",
+  "how_to_visit": "**Getting there:** Tintagel has no railway station. The nearest station is Bodmin Parkway (about 20 miles). By car, Tintagel is reached via the A39 and B3263 from either Camelford or Boscastle. Parking is available in the village car park (a 10-minute walk from the castle entrance).\n\n**Tickets:** Book online through English Heritage in advance, especially in summer. The ticket includes access to all parts of the ruins accessible on foot. Wear sturdy footwear — the path involves over 100 steps and exposed cliff edges in places.\n\n**Combine with:** The village of Tintagel itself has the Old Post Office (National Trust, medieval manor house), and King Arthur's Great Halls (a 1930s Arthurian fantasy hall). Boscastle, a dramatic and beautifully preserved fishing village, is 5 miles along the coast path.",
+  "faqs": [
+    {
+      "question": "What is the connection between Tintagel and King Arthur?",
+      "answer": "Geoffrey of Monmouth's 12th-century History of the Kings of Britain first identified Tintagel as the birthplace of King Arthur, claiming the wizard Merlin enchanted the fortress so that Uther Pendragon could enter disguised as the Duke of Cornwall. The legend attached firmly to the site. Modern archaeology has added credibility: excavations since the 1990s have found evidence of a high-status 5th–6th century settlement at Tintagel with imported Mediterranean goods, and in 1998 a stone inscribed with 'Artognou' — a name related to Arthur — was discovered. Whether a historical Arthur existed remains debated, but Tintagel was clearly a place of unusual importance in the post-Roman period."
+    },
+    {
+      "question": "Is the new footbridge at Tintagel worth seeing?",
+      "answer": "Absolutely — the footbridge opened by English Heritage in 2019 is itself a dramatic piece of contemporary architecture. Two cantilevered steel spans, one from each cliff, meet in the middle without touching, creating a split walkway 70 metres above the cove below. Designed by Ney and Partners and William Matthews Associates, it replaced the precarious steps that previously connected the mainland and island wards. The bridge has won architectural awards and the view from its centre, with the sea far below and the ruins around you, is one of the most vertiginous and beautiful in Cornwall."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/tintagel-castle.webp",
+    "alt": "The ruined walls of Tintagel Castle clinging to dramatic Atlantic clifftops in Cornwall, with the steel footbridge spanning the chasm between the island and mainland wards",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/tintagel-castle.webp",
+  "instagram_tag": "#tintagelcastle",
+  "meta_title": "Tintagel Castle: King Arthur, Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Tintagel Castle in Cornwall — legendary birthplace of King Arthur, with dramatic clifftop ruins and Atlantic views. Book English Heritage tickets.",
+  "tags": ["medieval", "ruins", "coastal", "dramatic", "king-arthur", "legendary", "english-castle", "english-heritage", "instagram-worthy", "sea-view"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["alnwick-castle", "bamburgh-castle"],
+  "gyg_location_id": "128693",
+  "gyg_search_query": "Tintagel Castle King Arthur Cornwall tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

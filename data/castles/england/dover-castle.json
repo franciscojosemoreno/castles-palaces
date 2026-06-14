@@ -1,0 +1,88 @@
+{
+  "id": "dover-castle",
+  "name": "Dover Castle",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 350000,
+  "country": "england",
+  "region": "Kent",
+  "nearest_city": "Dover",
+  "address": "Castle Hill, Dover, Kent CT16 1HU, England",
+  "lat": 51.1279,
+  "lng": 1.3215,
+  "unesco": false,
+  "year_built": 1168,
+  "architectural_style": "Norman, with medieval additions",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily April–September 10:00–18:00; October 10:00–17:00; November–March Wednesday–Sunday 10:00–16:00. Last entry one hour before closing."
+  },
+  "price_adult": 22,
+  "price_child": 13,
+  "booking_required": true,
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October",
+  "accessibility": "The Great Tower and underground tunnels involve stairs and uneven chalk surfaces. A surface-level accessible route covers the outer grounds and Roman Pharos. Contact English Heritage in advance for assistance.",
+  "booking_advance_days": 5,
+  "tagline": "England's mightiest fortress — guardian of the Channel crossing for nine centuries",
+  "highlights": [
+    "The Great Tower — one of England's tallest and best-preserved Norman keeps, with three floors of immersive medieval interiors recreated in authentic 1180s style",
+    "Wartime Tunnels — the WWII underground command centre carved into the chalk cliffs where Churchill's staff planned the Dunkirk evacuation and D-Day invasion",
+    "Pharos Roman Lighthouse — a 1,900-year-old Roman structure rising to 19 metres within the castle grounds, one of the tallest surviving Roman buildings in Britain",
+    "Medieval tunnels — a 13th-century labyrinth burrowed by King John, later expanded during the Napoleonic Wars to house an emergency garrison of 2,000 troops",
+    "Panoramic Channel views — from the battlements the French coastline at Cap Gris-Nez is visible on clear days just 34 kilometres across the Strait of Dover"
+  ],
+  "description": "Dover Castle has guarded the narrowest crossing of the English Channel for over nine centuries, earning the epithet 'Key to England.' Built by Henry II in the 1160s and 1170s on a promontory already fortified since the Iron Age, its Great Tower — one of the finest Norman keeps in existence — still dominates the white chalk cliffs above the port town. Successive monarchs poured resources into reinforcing its walls, deepening its moats and extending its tunnels to ensure that the shortest sea crossing between England and France could never fall into hostile hands.\n\nThe castle's layered history reads like a chronicle of English military endeavour across two thousand years. The Roman lighthouse known as the Pharos stands within its walls — one of the very few Roman structures in Britain still rising to meaningful height. Medieval tunnels burrowed under King John provided a subterranean labyrinth later expanded dramatically during the Napoleonic Wars. Below the castle's Norman core lies Operation Dynamo's nerve centre: the wartime tunnels where Vice Admiral Ramsay and his staff orchestrated the rescue of 338,000 Allied troops from the beaches of Dunkirk in May and June 1940.\n\nA visit combines three utterly distinct periods of history — Norman medieval grandeur, Napoleonic coastal defences, and Second World War command operations — each interpreted with English Heritage's characteristic attention to atmospheric detail. The views from the battlements, with France visible across glittering grey water, give this fortress an immediacy that no inland castle can match.",
+  "history": "Henry II commissioned the Great Tower at Dover in 1168, spending the extraordinary sum of £6,000 — roughly a fifth of the Crown's entire annual income — over the following two decades. He chose the site partly to reinforce royal authority in the aftermath of Thomas Becket's murder in nearby Canterbury, and partly to create an invincible coastal bastion. The castle withstood a sustained siege by Prince Louis of France in 1216, when the heroic defence of the outer gates by Hubert de Burgh, with his garrison outnumbered and undermined, was the single act that prevented a French prince from seizing the English throne.\n\nIn 1803, as Napoleon assembled his invasion flotilla at Boulogne, the military dug an entirely new network of tunnels beneath the cliff face to house a garrison of two thousand troops. These same galleries, used again during the Napoleonic Wars, became the secret headquarters of Vice Admiral Bertram Ramsay during the Second World War. It was here, in a room overlooking the grey Channel, that Operation Dynamo was planned and executed between 26 May and 4 June 1940 — one of the most remarkable improvisations of rescue and military willpower in modern history.",
+  "how_to_visit": "**Getting there:** Trains from London St Pancras reach Dover Priory in approximately 1 hour 10 minutes via high-speed service. The castle is a 30-minute uphill walk from the station or a short taxi ride. National Express coaches connect London Victoria to Dover town centre.\n\n**Tickets:** Book online through English Heritage in advance, especially in summer — timed entry to the Wartime Tunnels is limited and sells out. English Heritage members enter free. Admission covers the Great Tower, Wartime Tunnels and all outer grounds.\n\n**Combine with:** The White Cliffs of Dover (National Trust, free access, 10-minute drive) and the medieval Maison Dieu in Dover town. Canterbury — one of England's finest cathedral cities — is just 18 miles away and combines perfectly into a full day.",
+  "faqs": [
+    {
+      "question": "What are the Wartime Tunnels at Dover Castle?",
+      "answer": "The Wartime Tunnels are a network of galleries carved into the chalk beneath Dover Castle, first dug during the Napoleonic Wars as barracks and then repurposed as a secret military headquarters in World War II. It was here that Vice Admiral Ramsay and his staff planned Operation Dynamo — the evacuation of 338,000 Allied troops from the beaches of Dunkirk between 26 May and 4 June 1940. English Heritage presents the tunnels with immersive audio-visual interpretation that evokes the crisis atmosphere of those nine days."
+    },
+    {
+      "question": "How long does it take to visit Dover Castle?",
+      "answer": "Allow at least 2–3 hours for the Great Tower and Wartime Tunnels alone. The Wartime Tunnels experience takes around 45 minutes and runs at timed intervals. Adding the outer grounds, the Roman Pharos lighthouse, St Mary-in-Castro church and the cliff-top walks extends a visit comfortably to 3–4 hours. The site is large — wear comfortable walking shoes."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/dover-castle.webp",
+    "alt": "Dover Castle's massive Norman Great Tower rising above the white chalk cliffs of Kent, with the English Channel glinting silver in the distance",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/dover-castle.webp",
+  "instagram_tag": "#dovercastle",
+  "meta_title": "Dover Castle: Tickets, Wartime Tunnels & Visitor Guide 2026",
+  "meta_description": "Visit Dover Castle — England's greatest fortress with a Norman keep, WWII tunnels & Channel views. Book English Heritage tickets in advance.",
+  "tags": ["medieval", "norman", "fortress", "coastal", "english-castle", "museum", "dramatic", "english-heritage"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["leeds-castle", "tower-of-london", "hever-castle"],
+  "gyg_location_id": "36402",
+  "gyg_search_query": "Dover Castle tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "193694",
+      "title": "Dover Castle Admission Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 22,
+      "rating": 4.7,
+      "reviews": 755,
+      "covers_castles": []
+    }
+  ]
+}

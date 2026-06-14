@@ -1,0 +1,77 @@
+{
+  "id": "leeds-castle",
+  "name": "Leeds Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 600000,
+  "country": "england",
+  "region": "Kent",
+  "nearest_city": "Maidstone",
+  "address": "Maidstone, Kent ME17 1PL, England",
+  "lat": 51.2481,
+  "lng": 0.6277,
+  "unesco": false,
+  "year_built": 1119,
+  "architectural_style": "Medieval with Tudor and later additions",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily 10:00–18:00 in summer (last entry 17:00); shorter hours October–March. The grounds, gardens and castle interior are all included in admission. Special events and concerts may close areas to general visitors — check the website."
+  },
+  "price_adult": 30,
+  "price_child": 18,
+  "booking_required": true,
+  "visit_duration": "3–4 hours",
+  "best_season": "Spring and summer — gardens at their best",
+  "accessibility": "The main gardens and grounds are largely accessible via hard-surfaced paths. The castle interior involves some steps; an accessible route is available. Dogs are welcome in the grounds on a lead.",
+  "booking_advance_days": 7,
+  "tagline": "Six queens called it home — the loveliest castle in the world, rising from a shimmering lake in the Kentish countryside",
+  "highlights": [
+    "The castle on the lake — two conjoined Norman islands reflected in the still moat, a composition so perfect that it has been painted by Turner and photographed millions of times",
+    "The Gloriette — the intimate inner castle dating to 1278, where Eleanor of Castile, the beloved queen of Edward I, spent her summers",
+    "The Dog Collar Museum — a collection of over a hundred historic dog collars spanning five centuries, one of the world's most eccentric and charming specialist museums",
+    "English cottage gardens — 500 acres of parkland and formal gardens designed by Russell Page, with a yew maze, vineyard, aviary and grotto",
+    "The Culpeper Garden — a tumbling English cottage garden in bloom from spring through autumn, offering one of the most photogenic views in Kent"
+  ],
+  "description": "Leeds Castle in Kent is widely regarded as one of the most beautiful castles in the world — a claim that photographs alone seem to justify. Two conjoined stone buildings rise from twin islands in a dark lake that was originally fed by the River Len, their reflections shimmering in water that has surrounded this site since the Norman Conquest. Though the name suggests Yorkshire, Leeds Castle is firmly in the Kentish countryside south of Maidstone, and it has been accumulating history — and famous admirers — for nine centuries.\n\nBuilt by the Norman baron Robert de Crevecoeur on a Saxon estate around 1119, the castle passed to the English Crown in 1278 and became the favourite residence of a remarkable succession of medieval queens. Eleanor of Castile, Margaret of France, Isabella of France, Anne of Bohemia, Joan of Navarre and Catherine of Aragon all held or visited the castle. Henry VIII used it as a royal palace and as a lavish overnight stop for the Field of the Cloth of Gold in 1520, modernising the apartments and adding tennis courts. After the Crown it passed through private hands, and the last owner, Lady Baillie, restored it to its current romantic splendour in the early twentieth century.\n\nToday Leeds Castle is a self-sufficient attraction: the grounds hold formal gardens, a yew maze, a grotto, a vineyard, an aviary with exotic birds, a golf course, and a hotel. The castle interior is lavishly furnished with antiques and tapestries collected by Lady Baillie. The famous Dog Collar Museum occupies the gatehouse and offers a cheerfully eccentric counterpoint to the grandeur above it.",
+  "history": "The site at Leeds was mentioned in the Domesday Book of 1086 as a Saxon estate of the Crevecoeur family. Robert de Crevecoeur built the first stone castle around 1119, and the estate passed to the English Crown in 1278 when Edward I acquired it for his queen, Eleanor of Castile. Edward I and his successive queens lavished attention on the castle, converting the Gloriette — the small inner keep on the smaller island — into a refined royal apartment. Edward III gave it to his queen, Philippa of Hainault, cementing its tradition as a 'queen's castle.'\n\nHenry VIII undertook the most dramatic expansion, spending the then-colossal sum of £4,000 to modernise the royal apartments in preparation for Catherine of Aragon, who used the castle as a retreat. After the Tudor period Leeds fell into private aristocratic ownership, and the estate was dramatically rebuilt in the Victorian era before Lady Olive Baillie purchased it in 1926 and undertook a sympathetic restoration with the architects Owen Little and Armand-Albert Rateau, creating the interiors visitors see today.",
+  "how_to_visit": "**Getting there:** Trains from London Victoria to Bearsted take approximately 55 minutes; a shuttle bus runs from Bearsted station to the castle during the main season (check timetable). By car, Leeds Castle is well signed from the M20 motorway, junction 8. Parking is included in the ticket price.\n\n**Tickets:** Book online to secure entry, especially for weekends and summer school holidays. Admission includes the castle interior, all gardens, the maze, the grotto, the aviary and the Dog Collar Museum. Annual passes offer excellent value for repeat visitors.\n\n**Combine with:** The nearby village of Harrietsham and the North Downs Way walking trail make a half-day addition. Maidstone town centre is 5 miles away. Dover Castle is 25 miles to the east, making an ambitious but rewarding full-day double.",
+  "faqs": [
+    {
+      "question": "Why is Leeds Castle called Leeds if it's in Kent?",
+      "answer": "Leeds Castle takes its name not from the city of Leeds in Yorkshire but from the Saxon chief Led, or Ledian, who owned the estate before the Norman Conquest. The Domesday Book records the village of Esledes (later Ledes) which gave its name to the castle built on the site around 1119. The Yorkshire city of Leeds similarly takes its name from a local Saxon word, but the two places share only etymology, not geography."
+    },
+    {
+      "question": "Can you stay overnight at Leeds Castle?",
+      "answer": "Yes — Leeds Castle has hotel accommodation within the grounds, offering guests the extraordinary experience of having the castle largely to themselves after day visitors leave. The hotel rooms range from classic castle rooms to more contemporary lodges in the grounds. Staying overnight also gives early morning access to the gardens before the public arrives, which is particularly magical in spring and early summer."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/leeds-castle.webp",
+    "alt": "Leeds Castle rising from its shimmering moat in the Kent countryside, the stone towers perfectly reflected in still water on a sunny morning",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/leeds-castle.webp",
+  "instagram_tag": "#leedscastle",
+  "meta_title": "Leeds Castle: Tickets, Gardens & Visitor Guide 2026",
+  "meta_description": "Visit Leeds Castle in Kent — one of the world's most beautiful castles, rising from a lake with 500 acres of gardens, a maze and rich royal history.",
+  "tags": ["medieval", "moat", "gardens", "english-castle", "family-friendly", "romantic", "instagram-worthy", "tudor"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["dover-castle", "hever-castle", "tower-of-london"],
+  "gyg_location_id": "5022",
+  "gyg_search_query": "Leeds Castle tour tickets Kent",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "arundel-castle",
+  "name": "Arundel Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 180000,
+  "country": "england",
+  "region": "West Sussex",
+  "nearest_city": "Arundel",
+  "address": "Arundel, West Sussex BN18 9AB, England",
+  "lat": 50.8558,
+  "lng": -0.5527,
+  "unesco": false,
+  "year_built": 1068,
+  "architectural_style": "Norman original, extensively rebuilt in Gothic Revival style in the 19th century",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "Closed",
+    "seasonal_note": "Open Tuesday to Saturday, April to October, typically 10:00–17:00 (last entry 16:00). Closed Sundays, Mondays and from November to March. Fitzalan Chapel may have separate access on Sundays via the adjacent Catholic church. Check the website for specific opening dates."
+  },
+  "price_adult": 24,
+  "price_child": 14,
+  "booking_required": true,
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October — gardens open and Fitzalan Chapel accessible",
+  "accessibility": "The castle grounds are largely accessible via paved and gravel paths. The castle interior involves some stairs; a lift provides access to the main floor State Rooms. The keep involves steep steps and is not accessible.",
+  "booking_advance_days": 3,
+  "tagline": "Nine hundred years of the same family — the ancestral seat of the Dukes of Norfolk rising above the River Arun on the Sussex Downs",
+  "highlights": [
+    "The State Rooms — the baron's hall, drawing rooms and library crammed with 700 years of accumulated treasures: Van Dycks, Gainsboroughs, Canaletti and suits of armour",
+    "The Fitzalan Chapel — a medieval collegiate chapel shared uniquely between the Church of England (nave) and Roman Catholic (chancel) traditions, containing the tombs of the Earls of Arundel since the 14th century",
+    "The Norman Motte — the original 11th-century earthwork motte topped by its circular shell keep, offering commanding views across the Arun valley and the distant South Downs",
+    "The Victorian restoration — the 15th Duke's extraordinary late-Victorian rebuilding created a suite of Gothic Revival rooms that rival Pugin's finest interiors, with heraldic stained glass and carved oak",
+    "The castle gardens — romantic gardens laid out on the south slopes of the castle with a cutting garden, kitchen garden and collector's garden, at their best from May through September"
+  ],
+  "description": "Arundel Castle in West Sussex is one of England's most dramatic medieval silhouettes — a mass of towers and battlements rising above the rooftops of the ancient town of Arundel and the flat levels of the River Arun valley. The castle has been home to the Dukes of Norfolk, England's premier Catholic dukes and hereditary Earl Marshals, for over 400 years, and the Howard family connection gives it a historical significance that few purely tourist attractions can claim: the Dukes of Norfolk have attended the coronation of every English and British monarch since 1483.\n\nThe castle was founded by Roger de Montgomery, one of William the Conqueror's most trusted commanders, in 1068. The Norman motte is still the most prominent feature of the silhouette, and the circular shell keep atop it is one of the finest surviving examples in England. But the interior of the castle is largely the product of a spectacular Victorian restoration commissioned by Henry, 15th Duke of Norfolk between 1890 and 1903, who spent lavishly to create a sequence of Gothic Revival state rooms that rank among the finest Victorian interiors in private hands. The baronial hall, library and drawing rooms are decorated with heraldic stained glass, carved oak, and portraits and objects accumulated by the Howard family over seven centuries.\n\nThe adjacent Fitzalan Chapel is among England's most unusual ecclesiastical buildings — a medieval collegiate church with its nave belonging to the Church of England and its chancel reserved for Catholic worship, a division maintained since the Reformation and entirely unique in the country. The chancel contains the tombs of the medieval Earls of Arundel, including some of the finest medieval tomb sculpture in the south of England.",
+  "history": "Roger de Montgomery received the Earldom of Arundel from William the Conqueror as a reward for his role at Hastings, and he built the first castle on the River Arun mound in 1068. The castle passed through several Norman families before coming to the FitzAlan family in the 13th century, and through them — via a marriage — to the Howard family, who became Dukes of Norfolk in 1483. The Howards have held the castle, with interruptions during periods of royal disfavour, ever since.\n\nThe castle suffered badly during the English Civil War, when Parliamentary forces besieged it in 1643 and, after its capture, deliberately demolished the towers and walls to render it uninhabitable. The reconstruction began slowly in the 18th century, but the most dramatic restoration came under the 15th Duke of Norfolk, who between 1890 and 1903 rebuilt the interior in a style of Victorian Gothic grandeur that obliterated the medieval fabric but created a sequence of rooms of exceptional quality. His architect, C.A. Buckler, produced work of a standard to stand comparison with Pugin's greatest achievements.",
+  "how_to_visit": "**Getting there:** Arundel has a railway station on the line from London Victoria (journey time approximately 90 minutes). The castle is a 10-minute uphill walk from the station through the medieval town. By car, Arundel is reached via the A27 and is well signed. Parking is available in the town.\n\n**Tickets:** Book online in advance for guaranteed entry. Admission includes the State Rooms, Keep and grounds. A combined ticket with the castle gardens is available and represents the best value if visiting between May and September when the garden is at its best.\n\n**Combine with:** Arundel Cathedral (a Victorian Gothic Catholic cathedral built for the 15th Duke) is directly adjacent to the castle and free to enter. The medieval town of Arundel has excellent independent shops and cafés. The South Downs National Park begins immediately south — the Arundel Park estate, owned by the Duke, has free public access for walking.",
+  "faqs": [
+    {
+      "question": "Do the Dukes of Norfolk still live at Arundel Castle?",
+      "answer": "Yes — the 18th Duke of Norfolk, Edward William Fitzalan-Howard, lives at Arundel Castle with his family. The castle is both a private home and a public attraction, and the family apartments in the east wing are not open to visitors. The Duke, like all his predecessors, serves as hereditary Earl Marshal of England, responsible for organising state ceremonies including coronations, state funerals and the State Opening of Parliament. The Howard family's nine centuries of continuous association with Arundel is one of the longest family connections with a single English castle."
+    },
+    {
+      "question": "What makes the Fitzalan Chapel at Arundel unique?",
+      "answer": "The Fitzalan Chapel is uniquely divided between two Christian denominations — its nave belongs to the Church of England parish church of St Nicholas (which adjoins it), while its chancel remains private property of the Duke of Norfolk and is used for Roman Catholic worship. The two parts are separated by an iron grille and glass screen. This unusual arrangement dates from the Reformation, when the Howard family maintained their Catholicism despite the risks, and has never been resolved into a single denominational space. The Catholic chancel contains the tombs of the medieval FitzAlan Earls of Arundel, including some of the finest medieval alabaster tomb sculpture in Sussex."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/arundel-castle.webp",
+    "alt": "Arundel Castle's Gothic Revival towers and Norman motte rising dramatically above the River Arun valley in West Sussex on a clear autumn day",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/arundel-castle.webp",
+  "instagram_tag": "#arundelcastle",
+  "meta_title": "Arundel Castle: Tickets, State Rooms & Visitor Guide 2026",
+  "meta_description": "Visit Arundel Castle in West Sussex — ancestral seat of the Dukes of Norfolk with Norman keep, Victorian State Rooms and Tudor gardens. Book tickets 2026.",
+  "tags": ["norman", "gothic-revival", "inhabited", "gardens", "english-castle", "victorian", "aristocratic", "instagram-worthy"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["hever-castle", "bodiam-castle", "leeds-castle"],
+  "gyg_location_id": "168154",
+  "gyg_search_query": "Arundel Castle Sussex tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

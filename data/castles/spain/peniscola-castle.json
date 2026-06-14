@@ -1,0 +1,78 @@
+{
+  "id": "peniscola-castle",
+  "name": "Peñíscola Castle",
+  "local_name": "Castillo de Peñíscola",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 300000,
+  "country": "spain",
+  "region": "Comunitat Valenciana",
+  "nearest_city": "Peñíscola",
+  "address": "Castillo de Peñíscola, 12598 Peñíscola, Castellón, Spain",
+  "lat": 40.3603,
+  "lng": 0.4140,
+  "unesco": false,
+  "year_built": 1294,
+  "architectural_style": "Gothic, built by the Knights Templar",
+  "opening_hours": {
+    "monday": "09:30–21:30",
+    "tuesday": "09:30–21:30",
+    "wednesday": "09:30–21:30",
+    "thursday": "09:30–21:30",
+    "friday": "09:30–21:30",
+    "saturday": "09:30–21:30",
+    "sunday": "09:30–21:30",
+    "seasonal_note": "Summer hours (July–August): daily 09:30–21:30. Spring/Autumn (April–June, September–October): 10:00–19:30. Winter (November–March): 10:00–17:30. Open every day of the year including public holidays."
+  },
+  "price_adult": 6,
+  "price_child": 3,
+  "booking_required": false,
+  "visit_duration": "1–1.5 hours",
+  "best_season": "Spring and autumn — avoid summer heat and crowds",
+  "accessibility": "The castle involves cobblestone streets and some steps. The main ceremonial rooms are accessible on the same level. The rock peninsula itself has narrow streets that may be challenging for wheelchair users.",
+  "booking_advance_days": 0,
+  "tagline": "The 'City of the Sea' — a Knights Templar fortress crowning a rocky peninsula jutting into the Mediterranean, once home to an Antipope",
+  "highlights": [
+    "The Knights Templar fortress — built by the Order of the Temple between 1294 and 1307, Peñíscola's castle is one of the finest and best-preserved Templar fortresses in the western Mediterranean",
+    "The papal apartments — the rooms where the Antipope Benedict XIII, known as Papa Luna, held court from 1411 to his death in 1423, maintaining his claim to the papacy alone against the entire Christian world",
+    "The rocky peninsula setting — the castle crowns a dramatic 64-metre limestone promontory jutting into the Mediterranean, connected to the mainland only by a narrow sandy isthmus",
+    "Game of Thrones filming location — the castle's old town served as Meereen in Seasons 5 and 6, making it one of Spain's most recognisable HBO filming locations",
+    "Panoramic Mediterranean views — from the castle ramparts the horizon stretches 180 degrees across open sea, with the old white town of Peñíscola spreading below"
+  ],
+  "description": "Peñíscola Castle stands on one of the most dramatic natural sites in the western Mediterranean — a 64-metre limestone promontory that juts into the sea like a ship's prow, connected to the mainland only by a narrow sandy isthmus. The castle that crowns it was built by the Knights Templar between 1294 and 1307, in the final years before the Order's suppression by King Philip IV of France, and it is one of the finest surviving examples of Templar military architecture in Europe. Its location — simultaneously a natural fortress, a sea gateway and a town — made it the logical destination for one of the most extraordinary ecclesiastical sagas of the medieval world.\n\nIn 1411, the Antipope Benedict XIII — born Pedro Martínez de Luna and known to posterity as Papa Luna — retreated to Peñíscola after being declared deposed by the Council of Constance. The Great Schism of the Western Church had produced multiple claimants to the papacy, and Papa Luna, by this point the last surviving antipope, refused to abdicate despite the abandonment of virtually all his supporters. He spent his final twelve years in Peñíscola's castle, maintaining his claim with magnificent dignity and conducting papal business — issuing bulls, appointing cardinals and excommunicating his enemies — until his death in 1423 at the extraordinary age of 95.\n\nIn more recent times Peñíscola achieved global recognition when it appeared as the city of Meereen in Seasons 5 and 6 of Game of Thrones, its golden stone walls and labyrinthine streets providing the perfect visual analogue for George R.R. Martin's Slaver's Bay. The combination of Templar history, papal drama and fantasy television makes Peñíscola one of the most layered and rewarding day trips from Valencia or Barcelona.",
+  "history": "The rocky promontory of Peñíscola was settled in antiquity by Phoenicians and later by Iberian tribes, and the Romans built a lighthouse on the headland. After Moorish occupation, the peninsula was conquered by the Knights Templar in 1233 during the Reconquista campaigns of James I of Aragon. The Templars constructed their fortress between 1294 and 1307 — the great square tower, the Gothic hall and the vaulted chapel that survive today — in a style that combines the military pragmatism of the Crusader states with the emerging Gothic vocabulary of 14th-century Spain.\n\nAfter the suppression of the Templars in 1312 the castle passed to the Order of Montesa. The decisive moment in its history came in 1411, when Pedro Martínez de Luna — Cardinal, then Pope Benedict XIII — chose Peñíscola as his last refuge after the Council of Constance deposed him. His tenacious maintenance of his papal claim from this remote coastal promontory for twelve years made him one of the most remarkable figures of the late medieval church. The castle was subsequently held by successive Aragonese and Spanish rulers and saw action during the War of Spanish Succession in the early 18th century.",
+  "how_to_visit": "**Getting there:** Peñíscola is 130 kilometres north of Valencia. By car, take the AP-7 motorway to exit 43 and follow the N-340. ALSA buses run from Valencia bus station to Peñíscola (approximately 2 hours). The castle is at the top of the old town, reached on foot up cobblestone streets from the seafront parking areas.\n\n**Tickets:** Entry tickets can be purchased at the castle gate — no advance booking needed for the standard visit. Combined audio guide packages are available. The castle is open every day of the year, including Christmas.\n\n**Combine with:** The medieval old town of Peñíscola surrounding the castle is excellent for wandering — the narrow whitewashed streets, fish restaurants and sea views make a full morning. Morella, an extraordinary medieval walled hill town 65 kilometres inland, is a highly recommended addition for those with a car.",
+  "faqs": [
+    {
+      "question": "Who was Papa Luna, the Antipope of Peñíscola?",
+      "answer": "Pedro Martínez de Luna was born in Aragon around 1328 and became one of the leading canonists of his age. During the Great Western Schism — when rival popes in Rome and Avignon each claimed to be the legitimate successor of St Peter — Luna was elected Avignon Pope in 1394 as Benedict XIII. When the Council of Constance declared him deposed in 1417 and elected a new pope (Martin V) to reunite the church, Luna refused to abdicate. He retreated to Peñíscola with a tiny remnant court, continuing to issue papal bulls and appoint cardinals until his death in 1423. He remains one of history's most compelling figures of principled (or obstinate) defiance."
+    },
+    {
+      "question": "Was Peñíscola really used to film Game of Thrones?",
+      "answer": "Yes — the exterior of the city of Meereen in Seasons 5 and 6 of Game of Thrones was filmed primarily at Peñíscola, with the castle and its golden stone walls standing in for the Slaver's Bay city where Daenerys establishes her court. The distinctive pyramid-topped towers and the sea-gate were recreated digitally, but the underlying streetscapes and the fortress itself are recognisably Peñíscola. Other Spanish locations used for Meereen include Osuna (Bullring) and Almería (for the fighting pits), but Peñíscola's overall castle silhouette defined the visual identity of the city."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/peniscola-castle.webp",
+    "alt": "Peñíscola Castle's Knights Templar walls rising from the golden limestone promontory above the whitewashed old town, with the blue Mediterranean stretching to the horizon",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/peniscola-castle.webp",
+  "instagram_tag": "#peniscolacastle",
+  "meta_title": "Peñíscola Castle: Knights Templar, Game of Thrones & Guide 2026",
+  "meta_description": "Visit Peñíscola Castle in Valencia — a Knights Templar fortress on a Mediterranean peninsula, famous as a Game of Thrones filming location.",
+  "tags": ["gothic", "medieval", "coastal", "knights-templar", "game-of-thrones", "instagram-worthy", "sea-view", "hilltop"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["alhambra-granada", "alcazar-seville"],
+  "gyg_location_id": "168050",
+  "gyg_search_query": "Peniscola Castle Game of Thrones tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

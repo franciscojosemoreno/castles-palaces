@@ -1,0 +1,77 @@
+{
+  "id": "highclere-castle",
+  "name": "Highclere Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "england",
+  "region": "Hampshire",
+  "nearest_city": "Newbury",
+  "address": "Highclere Park, Newbury, Hampshire RG20 9RN, England",
+  "lat": 51.3314,
+  "lng": -1.3601,
+  "unesco": false,
+  "year_built": 1838,
+  "architectural_style": "Victorian Gothic Revival, designed by Sir Charles Barry",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "Closed",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Highclere is privately owned and has limited public opening days, primarily in summer (July–September) with occasional spring openings. Check the official website carefully as dates sell out months in advance. The castle is closed for private events, filming and in the off-season."
+  },
+  "price_adult": 30,
+  "price_child": 18,
+  "booking_required": true,
+  "visit_duration": "2–3 hours",
+  "best_season": "Summer openings — check website, limited public access days",
+  "accessibility": "The ground floor State Rooms are accessible. Upper floors are not open to visitors. The gardens have some gravel paths and slopes. The Egyptian Exhibition in the basement has step-free access via a lift.",
+  "booking_advance_days": 30,
+  "tagline": "Downton Abbey in real life — the spectacular Victorian Gothic seat of the Carnarvon family, where the 5th Earl discovered Tutankhamun's tomb",
+  "highlights": [
+    "The State Rooms — the library, saloon and dining room used as Downton Abbey's Crawley family interiors, furnished exactly as seen on screen with original Victorian pieces and family portraits",
+    "The Egyptian Exhibition — the castle's remarkable collection of artefacts and photographs from the 5th Earl of Carnarvon's excavations in Egypt, including finds from the Valley of the Kings",
+    "Downton Abbey connections — the saloon, library, great hall and grounds are instantly recognisable to fans of the ITV series, with guides who share filming anecdotes",
+    "The Victorian Gothic exterior — Sir Charles Barry's 1838 design combines Tudor towers with Italian terraces and Jacobean chimneys into one of the most photographed country houses in England",
+    "The parkland — Capability Brown's 18th-century landscape park surrounding the castle with sweeping lawns, ancient cedars and woodland walks through 1,000 acres"
+  ],
+  "description": "Highclere Castle in Hampshire is famous worldwide as the filming location of the ITV drama Downton Abbey — but the real history of the house is equally compelling and considerably stranger than the fictional one. The castle was redesigned in its current Victorian Gothic form in 1838 by Sir Charles Barry, who was simultaneously designing the Houses of Parliament, for Henry John George Herbert, the 3rd Earl of Carnarvon. Barry imposed a dramatic Gothic silhouette onto an earlier Jacobean mansion, creating a building that is theatrical, romantic and deeply English in a way that perfectly served Julian Fellowes's vision a century and a half later.\n\nThe Herbert family's most extraordinary chapter concerns the 5th Earl, Henry Herbert, who was born here in 1866 and became a passionate Egyptologist. Working with the archaeologist Howard Carter, Lord Carnarvon funded and supervised the excavation of the Valley of the Kings for twelve seasons, enduring years of frustration before Carter's brush finally revealed the step leading to the intact tomb of Tutankhamun in November 1922. Carnarvon died at the Cairo hotel six months later, in circumstances that launched the legend of the 'Curse of the Pharaohs.' The Egyptian Exhibition in Highclere's basement contains remarkable artefacts and documents from those extraordinary excavations.\n\nThe castle remains the private home of the 8th Earl and Countess of Carnarvon, who open it to the public for limited periods each summer. The experience is therefore unusually intimate — guides who know the family bring a warmth to the tour that more corporate attractions cannot replicate. Tickets must be booked well in advance; they sell out months before the opening dates are reached.",
+  "history": "The estate at Highclere has a history stretching back to the Bishops of Winchester, who held a palace here in the medieval period. The current mansion was built in 1679 for Sir Robert Sawyer and extensively rebuilt in 1774. The dramatic transformation into its current Gothic Revival appearance was undertaken between 1838 and 1842 by Sir Charles Barry — the same architect responsible for the rebuilt Palace of Westminster — working for the 3rd Earl of Carnarvon. Barry used Bath stone to create his composition of towers, turrets and loggias around a Jacobean core.\n\nThe most famous chapter in the castle's history belongs to the 5th Earl, George Herbert, who became one of the leading patrons of Egyptology in the early 20th century. Working alongside Howard Carter from 1907, he funded excavations in the Valley of the Kings until November 1922, when Carter discovered the step to Tutankhamun's tomb. Lord Carnarvon was present for the opening in February 1923 and died in Cairo in April 1923, probably of an infected mosquito bite — though the 'Mummy's Curse' legend has proved more enduring than the medical explanation.",
+  "how_to_visit": "**Getting there:** Newbury railway station is about 5 miles from the castle. Taxis are available from the station. By car, the castle is signed from the A34 south of Newbury. Parking is available in the castle grounds.\n\n**Tickets:** Book as early as possible — opening days are extremely limited and tickets sell out months in advance. Check the official website at highclerecastle.co.uk for the current season's dates. No walk-in admission is possible; you must have a pre-booked ticket. Gift and afternoon tea experiences are available as add-ons.\n\n**Combine with:** The market town of Newbury is close by with the Newbury Racecourse and West Berkshire countryside. Basildon Park (National Trust) is about 20 miles away. The town of Kingsclere, directly adjacent to the estate, has a fine Norman church.",
+  "faqs": [
+    {
+      "question": "Is Highclere Castle really used for filming Downton Abbey?",
+      "answer": "Yes — Highclere Castle is the primary filming location for the exterior and many interior sequences of Downton Abbey. The Great Hall, Library, Saloon and Drawing Room are all recognisable from the series. The production team used the actual castle rooms, filled with real Carnarvon family furniture and portraits. Julian Fellowes, the creator of Downton Abbey, based his fictional Crawley family estate closely on Highclere, and the current Lady Carnarvon has written a book about the parallel histories. The Downton Abbey films (2019 and 2022) were also partially filmed at Highclere."
+    },
+    {
+      "question": "What is in the Egyptian Exhibition at Highclere?",
+      "answer": "The Egyptian Exhibition in the castle's basement displays artefacts, photographs and documents from the Carnarvon family's Egyptological activities in the early 20th century. The 5th Earl of Carnarvon funded Howard Carter's excavations in the Valley of the Kings for fifteen seasons, culminating in the discovery of Tutankhamun's tomb in November 1922. The exhibition includes finds from those excavations, personal photographs of Carter and Carnarvon at work, and objects that remained with the family. It provides a fascinating counterpoint to the more conventional country house rooms above."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/highclere-castle.webp",
+    "alt": "Highclere Castle's Victorian Gothic towers rising above landscaped lawns in Hampshire, instantly recognisable as the Downton Abbey country house",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/highclere-castle.webp",
+  "instagram_tag": "#highclerecastle",
+  "meta_title": "Highclere Castle: Downton Abbey, Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Highclere Castle — the real Downton Abbey estate in Hampshire with State Rooms, Egyptian Exhibition and Carnarvon family history. Book early.",
+  "tags": ["victorian", "neo-gothic", "downton-abbey", "television", "inhabited", "english-castle", "aristocratic", "instagram-worthy"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["windsor-castle", "blenheim-palace"],
+  "gyg_location_id": "34761",
+  "gyg_search_query": "Highclere Castle Downton Abbey tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

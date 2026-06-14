@@ -1,0 +1,77 @@
+{
+  "id": "nottingham-castle",
+  "name": "Nottingham Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 180000,
+  "country": "england",
+  "region": "Nottinghamshire",
+  "nearest_city": "Nottingham",
+  "address": "Lenton Road, Nottingham NG1 6EL, England",
+  "lat": 52.9499,
+  "lng": -1.1510,
+  "unesco": false,
+  "year_built": 1068,
+  "architectural_style": "Norman motte, rebuilt as Baroque ducal mansion 1674, restored as museum",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open Tuesday to Sunday 10:00–17:00 (last entry 16:00). Closed Mondays except Bank Holidays. Reduced hours possible in winter — check website. Cave tours depart at regular intervals and must be booked in advance."
+  },
+  "price_adult": 12,
+  "price_child": 7,
+  "booking_required": true,
+  "visit_duration": "2–3 hours",
+  "best_season": "Year-round — indoor museum",
+  "accessibility": "The museum and art gallery are fully accessible. The Castle Rock caves involve stairs and low ceilings; a step-free option is not available for the cave tour. The grounds are accessible via paved paths.",
+  "booking_advance_days": 2,
+  "tagline": "The legendary lair of the Sheriff of Nottingham — a cliff-top castle reborn as a museum, with caves where outlaws once hid beneath Castle Rock",
+  "highlights": [
+    "The Castle Rock Caves — sandstone caverns carved over centuries beneath the castle rock, including the medieval Mortimer's Hole tunnel and a WWII air-raid shelter visited on guided tours",
+    "The Robin Hood Exhibition — an immersive exploration of the Robin Hood legend tracing it from medieval ballads through Victorian novels to 21st-century films",
+    "The Ducal Palace galleries — the 17th-century mansion rebuilt on the Norman motte now houses a fine art collection and decorative arts museum with works by Pre-Raphaelites and local artists",
+    "The Robin Hood statue — Brian Kneale's 1952 bronze figure of Robin Hood at the castle gates has become one of the most photographed public sculptures in the East Midlands",
+    "The Castle Green and views — the elevated position of Castle Rock offers panoramic views across Nottingham city centre, the Lace Market and the Trent Valley"
+  ],
+  "description": "Nottingham Castle occupies a commanding sandstone outcrop known as Castle Rock at the heart of one of England's most historic cities. The original Norman castle was built by William the Conqueror in 1068 and was for centuries one of the most strategically significant fortresses in England — a stronghold from which successive kings controlled the Midlands and the North. It is also the castle most vividly associated with the legend of Robin Hood and the corrupt Sheriff of Nottingham who made his name.\n\nThe medieval castle was demolished after the Civil War by the Parliamentary forces who captured it, and the current ducal mansion was built on the Norman motte in 1674 by the Duke of Newcastle as a baroque Italianate palazzo. This building was itself badly damaged during the 1831 Reform Riots, when a Nottingham mob — outraged at the Duke's opposition to parliamentary reform — broke into the mansion and set fire to it. The gutted shell stood empty for decades before being converted into a museum and art gallery in 1878, the first municipal museum in England outside London.\n\nUnder the castle and city, the sandstone is riddled with hand-carved caves that have served as cellars, tanneries, an 18th-century pub, a WWII air-raid shelter and — according to legend — as hiding places for outlaws including Robin Hood's Merry Men. The guided cave tour is one of the most distinctive experiences in Nottingham, combining genuine archaeology with irresistible medieval romance.",
+  "history": "William the Conqueror chose the promontory of Castle Rock in 1068 for its naturally defensive position overlooking the River Leen and its commanding view across the surrounding plains. The Norman motte-and-bailey grew into a major royal castle under successive kings: Henry II built a substantial stone fortification, and King John — the villain of Robin Hood legend — used it as a favourite residence and military base. Richard I besieged the castle in 1194 after returning from the Crusades to find it occupied by John's supporters.\n\nDuring the English Civil War the castle was held for Parliament and used as a prison; the medieval structure was demolished after the war ended. The 1st Duke of Newcastle built an Italian-style ducal palace on the rock in 1679, which was gutted by fire during the Reform Riots of 1831. After nearly five decades as a picturesque ruin it was restored and opened as England's first provincial public museum in 1878. A major refurbishment completed in 2021 transformed the museum's galleries and created new exhibition spaces including the Robin Hood and the Castle of Many Faces permanent exhibitions.",
+  "how_to_visit": "**Getting there:** Nottingham Castle is a 10-minute walk from Nottingham railway station. The NET tram system stops at Old Market Square, a 5-minute walk from the castle. The castle entrance is on Lenton Road, at the foot of Castle Rock.\n\n**Tickets:** Book online to guarantee entry, especially for the popular cave tours which run at timed intervals. Combined tickets covering the museum, art gallery and cave tour offer the best value. Cave tours last approximately 45 minutes and are not suitable for those with severe mobility restrictions.\n\n**Combine with:** The Lace Market district, with its Victorian warehouses and independent galleries, is a 10-minute walk. The Tales of Robin Hood attraction is nearby for family visitors. The Nottingham Contemporary art gallery and the city's excellent food scene make a full day out.",
+  "faqs": [
+    {
+      "question": "What is Mortimer's Hole at Nottingham Castle?",
+      "answer": "Mortimer's Hole is a tunnel carved through the sandstone beneath Castle Rock, running approximately 100 metres from the base of the rock to the interior of the castle. According to historical accounts, in 1330 the young King Edward III used this secret passage to lead a group of loyal knights into the castle at night to arrest his mother Queen Isabella and her lover Roger Mortimer, 1st Earl of March, who had effectively controlled England since the murder of Edward II. Mortimer was subsequently executed. The tunnel can be visited on the castle's cave tours."
+    },
+    {
+      "question": "Is Robin Hood real, and what is his connection to Nottingham?",
+      "answer": "Robin Hood is a legendary figure, and historians continue to debate whether a historical original existed. The earliest ballads, dating from the 14th century, place him in Yorkshire rather than Nottingham, and the Sheriff of Nottingham appears in the stories as a corrupt official rather than a major villain. The association with Nottingham Castle strengthened over centuries and was cemented by Victorian novels and films. What is certain is that Nottingham Castle was a real and important royal stronghold in the medieval period, and the Sheriff of Nottingham was a genuine royal official — making the legend plausible even if its hero is invented."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/nottingham-castle.webp",
+    "alt": "Nottingham Castle's baroque ducal mansion rising above Castle Rock, with the famous Robin Hood bronze statue standing guard at the gates below",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/nottingham-castle.webp",
+  "instagram_tag": "#nottinghamcastle",
+  "meta_title": "Nottingham Castle: Robin Hood, Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Nottingham Castle — explore Robin Hood's legendary stronghold with caves, museum and panoramic city views. Book tickets online for 2026.",
+  "tags": ["medieval", "robin-hood", "museum", "city-centre", "english-castle", "norman", "history", "family-friendly"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["warwick-castle", "windsor-castle", "alnwick-castle"],
+  "gyg_location_id": "168515",
+  "gyg_search_query": "Nottingham Castle Robin Hood tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

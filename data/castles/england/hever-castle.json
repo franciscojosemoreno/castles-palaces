@@ -1,0 +1,77 @@
+{
+  "id": "hever-castle",
+  "name": "Hever Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 300000,
+  "country": "england",
+  "region": "Kent",
+  "nearest_city": "Edenbridge",
+  "address": "Hever Road, Hever, Edenbridge, Kent TN8 7NG, England",
+  "lat": 51.1834,
+  "lng": 0.1167,
+  "unesco": false,
+  "year_built": 1270,
+  "architectural_style": "Medieval moated castle, Tudor additions",
+  "opening_hours": {
+    "monday": "10:30–17:00",
+    "tuesday": "10:30–17:00",
+    "wednesday": "10:30–17:00",
+    "thursday": "10:30–17:00",
+    "friday": "10:30–17:00",
+    "saturday": "10:30–17:00",
+    "sunday": "10:30–17:00",
+    "seasonal_note": "Open daily from mid-March to early November, typically 10:30–17:00 (last entry 16:00). Closed in winter — check website for exact seasonal dates. Gardens may open at 10:00 with castle from 12:00 on select days."
+  },
+  "price_adult": 22,
+  "price_child": 13,
+  "booking_required": true,
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September — gardens and maze at their best",
+  "accessibility": "The castle interior involves some narrow medieval passageways and stairs. The gardens are largely accessible via smooth paths, though some lawn areas are uneven. A wheelchairs-accessible route covers the main garden features.",
+  "booking_advance_days": 5,
+  "tagline": "The childhood home of Anne Boleyn — a perfectly moated Tudor jewel hidden in the Kentish Weald",
+  "highlights": [
+    "Anne Boleyn's childhood rooms — the intimate Tudor chambers where the future queen of Henry VIII spent her formative years, complete with period furniture and her personal prayer book",
+    "The double moat — Hever is one of only a handful of English castles with a double moat, its still water creating an almost impossibly romantic reflection of the stone gatehouse",
+    "The Italian Garden — William Waldorf Astor's extraordinary classical garden, modelled on the Italian lakes, with loggia, statuary from Rome and Pompeii, and a 110-metre pergola",
+    "The Yew Maze — a traditional hedge maze planted in the early 20th century, with a water maze of stepping stones across fountains at the castle's lakeside",
+    "Henry VIII's personal relics — including letters in Henry VIII's own hand to Anne Boleyn, displayed in the castle's remarkable collection of Tudor portraits and documents"
+  ],
+  "description": "Hever Castle in the Kentish Weald is one of England's most intimate and affecting historic houses — a genuine Tudor double-moated manor where Anne Boleyn, the second wife of Henry VIII and mother of Elizabeth I, spent her childhood. The castle was built in the 1270s as a fortified residence and completed as a moated manor house around 1383. The Boleyn family acquired it in 1462, and it was here, in rooms that survive essentially intact, that Anne was born around 1501 and returned to from her education in France to be courted by the king who would eventually have her executed.\n\nThe castle passed through several aristocratic hands after the fall of the Boleyns and fell into significant decay before being purchased in 1903 by the American-born newspaper magnate William Waldorf Astor, Viscount Astor, who undertook one of the most ambitious castle restorations in Edwardian England. Astor spent over a million pounds — a staggering sum — restoring the castle to its Tudor appearance, creating the Italian Garden modelled on the gardens of the Italian lakes, installing a collection of classical sculpture from Rome and Pompeii, and constructing an entire 'Tudor Village' outside the moat to house his guests without disturbing the castle's medieval silhouette.\n\nToday Hever Castle is one of Kent's most treasured visitor attractions. The castle interiors combine authentic Tudor rooms — including Anne Boleyn's personal chambers — with the rich furnishings collected by the Astor family. The gardens range from the romantic English to the grand Italian, and include a yew maze, a water maze, a 35-acre lake, and an award-winning exhibition garden trail.",
+  "history": "The original fortified house at Hever was built around 1270, and the current castle — with its distinctive gatehouse, portcullis and double moat — was completed in the 1380s. The Boleyn family acquired the estate in 1462, and Sir Thomas Boleyn, a skilled diplomat and courtier, raised his children here including Anne, who returned from the French court to Hever around 1522. King Henry VIII visited frequently while courting Anne, riding from Greenwich and Hampton Court to press his attentions in these very rooms. Anne became queen in 1533; she was executed in the Tower of London in 1536.\n\nAfter the Boleyns' fall, Henry VIII gave Hever to his fourth wife Anne of Cleves as part of their divorce settlement. After centuries of ownership by the Waldegrave and Meade-Waldos families, the castle was purchased in 1903 by William Waldorf Astor — recently ennobled, prodigiously rich, and determined to create a showpiece property in England. His restoration of Hever, with its combination of scholarly Tudor accuracy in the castle and theatrical Italianate invention in the gardens, transformed what had become a farmhouse into the icon it is today.",
+  "how_to_visit": "**Getting there:** Hever train station is on the line from London Bridge via Oxted (approximately 1 hour). The castle is a 1-mile walk from the station through quiet countryside. By car, Hever is signed from the B2027 south of Edenbridge; parking is included in the ticket price.\n\n**Tickets:** Book online in advance, especially for weekends and school holidays. Admission includes the castle rooms, all gardens, the yew maze and the water maze. Anne Boleyn exhibition and grounds are all covered by the standard ticket.\n\n**Combine with:** The nearby Chartwell (Churchill's family home, National Trust) is 6 miles away. Edenbridge town has a pleasant medieval church. The Kent Weald is excellent cycling country — the castle is on several popular cycling routes from London.",
+  "faqs": [
+    {
+      "question": "Was Anne Boleyn born at Hever Castle?",
+      "answer": "Almost certainly, though historians debate this. Anne Boleyn was born around 1501 and her family home was Hever Castle, which her father Sir Thomas Boleyn owned from 1462. She spent her early childhood here before being sent to the Low Countries and then France for her education around age 12. She returned to Hever around 1522, and Henry VIII visited the castle repeatedly while courting her. Her personal prayer book — which she carried to her execution — is displayed in the castle today."
+    },
+    {
+      "question": "What did William Waldorf Astor do to Hever Castle?",
+      "answer": "William Waldorf Astor purchased Hever in 1903 and spent over £1 million — an almost unimaginable sum at the time — on a comprehensive restoration and expansion. He returned the castle to its Tudor appearance, created the 35-acre lake, laid out the grand Italian Garden with loggias, fountains and classical sculpture he brought from Rome and Pompeii, planted the yew maze, and built an entire 'Tudor Village' outside the moat to house guests. His work is now so integrated into the whole that it is difficult to distinguish from the authentic medieval fabric."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hever-castle.webp",
+    "alt": "Hever Castle's medieval gatehouse and stone towers reflected in its double moat on a still autumn morning, surrounded by trees in russet and gold",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hever-castle.webp",
+  "instagram_tag": "#hevercastle",
+  "meta_title": "Hever Castle: Anne Boleyn, Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Hever Castle in Kent — Anne Boleyn's childhood home with Tudor rooms, Italian gardens and a double moat. Book tickets online for 2026.",
+  "tags": ["medieval", "tudor", "moat", "anne-boleyn", "romantic", "gardens", "instagram-worthy", "english-castle"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["leeds-castle", "dover-castle", "bodiam-castle"],
+  "gyg_location_id": "36374",
+  "gyg_search_query": "Hever Castle Anne Boleyn tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

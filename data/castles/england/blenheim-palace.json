@@ -1,0 +1,77 @@
+{
+  "id": "blenheim-palace",
+  "name": "Blenheim Palace",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 850000,
+  "country": "england",
+  "region": "Oxfordshire",
+  "nearest_city": "Woodstock",
+  "address": "Woodstock, Oxfordshire OX20 1PP, England",
+  "lat": 51.8435,
+  "lng": -1.3617,
+  "unesco": true,
+  "year_built": 1705,
+  "architectural_style": "English Baroque",
+  "opening_hours": {
+    "monday": "10:00–17:30",
+    "tuesday": "10:00–17:30",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "10:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Palace and gardens open daily mid-February to mid-December, 10:00–17:30 (last entry 16:45). Closed mid-December to mid-February. The parkland is open year-round. Special events including literary and music festivals may close areas — check website."
+  },
+  "price_adult": 35,
+  "price_child": 21,
+  "booking_required": true,
+  "visit_duration": "3–4 hours",
+  "best_season": "Spring and early summer — gardens and lake at their best",
+  "accessibility": "The palace has step-free routes through all principal state rooms. The formal gardens are largely accessible. The parkland paths vary in surface. Parking for blue badge holders is available adjacent to the palace entrance.",
+  "booking_advance_days": 7,
+  "tagline": "England's only non-royal, non-episcopal palace — the birthplace of Winston Churchill and a baroque masterpiece set in Capability Brown's greatest landscape",
+  "highlights": [
+    "The Long Library — a 55-metre hall of books and plasterwork, considered one of the finest Baroque interiors in England, with a stunning organ case by Grinling Gibbons",
+    "The Great Hall and State Rooms — a theatrical sequence of ceremonial rooms decorated with tapestries celebrating the 1st Duke of Marlborough's victories, culminating in a painted ceiling by Louis Laguerre",
+    "Winston Churchill's birthplace — the bedroom where Churchill was born on 30 November 1874, now maintained as a shrine to his life with original family photographs and memorabilia",
+    "Capability Brown's landscape — 2,000 acres of parkland designed by the greatest landscape architect in English history, with a spectacular lake, the Grand Bridge, the Column of Victory and ancient oaks",
+    "The formal gardens — a geometric water terrace, Italian garden and walled Secret Garden laid out by the 9th Duke in the early 20th century, at their most beautiful from May to July"
+  ],
+  "description": "Blenheim Palace is England's only non-royal, non-episcopal palace, and the country's most magnificent example of the English Baroque style. Built between 1705 and 1724 as a gift from a grateful nation to John Churchill, 1st Duke of Marlborough, for his decisive victory over Louis XIV's army at the Battle of Blenheim in 1704, the palace was designed by John Vanbrugh with the assistance of Nicholas Hawksmoor. The result is a building of enormous theatrical ambition — a statement in stone that England had humbled the Sun King and that the Marlborough family had earned their place among Europe's greatest dynasties.\n\nThe palace is inseparable from Winston Churchill, who was born here on 30 November 1874 in a ground-floor bedroom, the result of his mother, the American heiress Jennie Jerome, going into premature labour while attending a dance in the palace. Churchill's connection to Blenheim was lifelong: he proposed to his future wife Clementine in the Temple of Diana in the grounds, and he returned repeatedly throughout his life to paint the park, walk the lake shores and draw energy from his ancestral home. Today the palace contains the Churchill Exhibition — a large and moving collection of photographs, documents and memorabilia tracing his life from Blenheim to the wartime premiership.\n\nThe landscape around the palace is among the greatest works of art in England. Lancelot 'Capability' Brown was engaged in 1764 to transform the formal gardens into a naturalistic English landscape, and he created the Grand Lake by damming the River Glyme — flooding Vanbrugh's original formal garden but creating a scene of such romantic beauty that it justified everything. Brown's work at Blenheim is widely considered his masterpiece.",
+  "history": "The land at Woodstock was a royal hunting ground since the time of Henry I. The original Woodstock Palace, used by Henry II and later by Queen Elizabeth I, stood nearby. Queen Anne granted the manor and public funds for a new palace to John Churchill, 1st Duke of Marlborough, in recognition of the victory at Blenheim. The architect John Vanbrugh — better known as a playwright before he turned to architecture — produced a design of baroque grandeur that immediately proved controversial: the Duchess of Marlborough, Sarah, detested Vanbrugh's theatrical approach and eventually dismissed him before the palace was complete.\n\nThe palace passed through successive dukes of Marlborough, with the 4th Duke undertaking the most significant landscape alteration by commissioning Capability Brown. The 9th Duke, Charles Spencer-Churchill, restored the palace's finances in 1895 by marrying the American heiress Consuelo Vanderbilt in what both parties would later describe as a loveless arrangement. Their marriage — unhappy but productive — funded the restoration of the formal gardens and the rescue of a building that had deteriorated badly. Today the 12th Duke and his family still live in the east wing of the palace, making Blenheim a living aristocratic home as well as a world-class heritage attraction.",
+  "how_to_visit": "**Getting there:** The S3 bus runs from Oxford railway station to Woodstock and Blenheim Palace gates approximately every 30 minutes (journey time around 30 minutes). By car, Blenheim is on the A44 about 8 miles from Oxford; parking is free within the palace grounds. Direct trains from London Paddington reach Oxford in as little as 55 minutes.\n\n**Tickets:** Book online in advance, especially for summer weekends. Admission covers the palace interior (State Rooms, Long Library, Churchill Exhibition), the formal gardens, butterfly house and parkland train. The parkland itself is free to enter on foot via the Woodstock Gate.\n\n**Combine with:** The historic market town of Woodstock immediately outside the palace gates has fine pubs and the Oxfordshire Museum. Oxford is 20 minutes away. The Cotswolds villages of Burford and Bourton-on-the-Water are within a 30-minute drive.",
+  "faqs": [
+    {
+      "question": "Is Winston Churchill buried at Blenheim Palace?",
+      "answer": "No — Winston Churchill is buried in the churchyard of St Martin's Church in Bladon, a village about a mile south of Blenheim Palace. He chose this simple country churchyard rather than a state funeral at Westminster Abbey, and the grave is visited by thousands of admirers each year. His parents Lord Randolph Churchill and Lady Jennie Churchill are buried nearby. The village of Bladon is a 20-minute walk from Blenheim's Hensington Gate."
+    },
+    {
+      "question": "Why is Blenheim Palace a UNESCO World Heritage Site?",
+      "answer": "Blenheim Palace was inscribed on the UNESCO World Heritage List in 1987 as an outstanding example of English Baroque architecture and an exceptional synthesis of palace and landscape. UNESCO cited the work of Vanbrugh and Hawksmoor in the architecture, Capability Brown's landscape as one of the supreme achievements of the English landscape movement, and the historical significance of the palace as a monument to an important moment in European history — Marlborough's halting of French expansionism. It is one of only a handful of secular buildings in England on the World Heritage List."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/blenheim-palace.webp",
+    "alt": "Blenheim Palace's grand Baroque façade reflected in Capability Brown's great lake, with the Column of Victory rising above ancient oaks on a summer afternoon",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/blenheim-palace.webp",
+  "instagram_tag": "#blenheimpalace",
+  "meta_title": "Blenheim Palace: Tickets, Churchill & Visitor Guide 2026",
+  "meta_description": "Visit Blenheim Palace — UNESCO World Heritage Site, birthplace of Winston Churchill and England's greatest Baroque palace. Book tickets online for 2026.",
+  "tags": ["baroque", "palace", "unesco-world-heritage", "gardens", "royal-residence", "winston-churchill", "english-castle", "instagram-worthy", "family-friendly", "18th-century"],
+  "last_updated": "2026-06-09",
+  "routes": [],
+  "nearby_castles": ["windsor-castle", "tower-of-london", "warwick-castle"],
+  "gyg_location_id": "4658",
+  "gyg_search_query": "Blenheim Palace Churchill tour Oxfordshire",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
