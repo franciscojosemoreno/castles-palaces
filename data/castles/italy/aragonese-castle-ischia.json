@@ -74,9 +74,20 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": ["castel-santangelo", "royal-palace-of-caserta"],
-  "gyg_location_id": "3879",
+  "gyg_location_id": "161516",
   "gyg_search_query": "Aragonese Castle Ischia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "498634",
+      "title": "Aragonese Castle on the Island of Ischia",
+      "type": "guided_tour",
+      "duration": "2.5 hours",
+      "price_from": 59,
+      "rating": 4.4,
+      "reviews": 9,
+      "covers_castles": ["aragonese-castle-ischia"]
+    }
+  ]
 }
