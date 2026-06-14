@@ -1,0 +1,78 @@
+{
+  "id": "lichtenstein-castle",
+  "name": "Lichtenstein Castle",
+  "local_name": "Schloss Lichtenstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 130000,
+  "country": "germany",
+  "region": "Baden-Württemberg",
+  "nearest_city": "Stuttgart",
+  "address": "Schloss Lichtenstein 1, 72805 Lichtenstein, Germany",
+  "lat": 48.4103,
+  "lng": 9.2406,
+  "unesco": false,
+  "year_built": 1840,
+  "architectural_style": "Romantic Neo-Gothic",
+  "opening_hours": {
+    "monday": "10:00–16:00",
+    "tuesday": "10:00–16:00",
+    "wednesday": "10:00–16:00",
+    "thursday": "10:00–16:00",
+    "friday": "10:00–16:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open daily Mar–Nov 10:00–17:00 (Sat–Sun) / 10:00–16:00 (weekdays). Guided tours every 30 minutes. Closed Dec–Feb except some weekends — check website."
+  },
+  "price_adult": 12,
+  "price_child": 6,
+  "booking_required": false,
+  "visit_duration": "1–2 hours",
+  "best_season": "Spring to autumn; misty autumn mornings are especially atmospheric",
+  "accessibility": "Uphill path from parking area. Castle interior accessed by stairs only. Not suitable for wheelchairs.",
+  "booking_advance_days": 0,
+  "tagline": "Germany's fairy-tale clifftop castle, inspired by a Romantic novel",
+  "highlights": [
+    "Perched on a sheer limestone cliff 817 metres above sea level in the Swabian Alps",
+    "Built in 1840 inspired by the eponymous Romantic novel by Wilhelm Hauff",
+    "The private residence of the Duke of Urach — still occupied by the same family today",
+    "Guided tours reveal a medieval-style great hall, armour collection, and period-furnished rooms",
+    "Views across the Echaz valley and Swabian Alb are among the finest in Baden-Württemberg"
+  ],
+  "description": "Schloss Lichtenstein occupies one of the most dramatic natural positions of any castle in Germany: a narrow spur of limestone jutting from a cliff face in the Swabian Alps, 817 metres above sea level, with a sheer 200-metre drop on three sides. Looking up at it from the valley below — a slender tower emerging from the rock like something assembled from the most intense childhood imagination — it is genuinely hard to believe it is real.\n\nThe castle was built between 1840 and 1842 on the site of a medieval ruin, commissioned by Count Wilhelm of Württemberg who had been inspired by a Romantic novel of the same name by Wilhelm Hauff. The count hired architect Carl Alexander Heideloff to create a castle that would realise the spirit of the novel — a medieval fortress that had never quite existed made concrete in stone. The result is a Neo-Gothic building of great quality: not a theme park replica but a serious architectural statement that uses the cliff position to maximum theatrical effect.\n\nThe castle has been in the same family ever since — it is the private residence of the Duke of Urach — and this continuity of ownership gives it a lived-in quality that many state-owned palaces lack. Guided tours take visitors through rooms furnished with genuine medieval armour, antique weapons, and period fittings that feel curated by an enthusiast rather than arranged by a museum committee.",
+  "history": "The limestone spur on which Lichtenstein stands was first fortified in the 12th century. The original castle was destroyed in 1381 and its ruins stood abandoned for centuries, visible from the valley below but gradually being absorbed back into the cliff.\n\nThe transformation came in 1837, when Wilhelm Hauff published a Romantic novel called Lichtenstein, set in a dramatic clifftop castle and evoking the turbulent history of Württemberg in the 15th century. Count Wilhelm of Württemberg — who owned the ruined site — was captivated by the idea of making the fictional castle real. He commissioned a new building in 1840, designed by architect Carl Alexander Heideloff in the Romantic Gothic style then in vogue across Germany. Construction was completed in 1842. The castle passed to the Dukes of Urach, descendants of the original owners, and remains in private family ownership today.",
+  "how_to_visit": "**Getting there from Stuttgart:** By car, Lichtenstein is about 50 km south of Stuttgart on the B312 road towards Reutlingen. The drive takes about 1 hour. By public transport, take a train from Stuttgart to Reutlingen (20 minutes), then bus 382 to Honau (about 30 minutes), then a 20-minute walk uphill to the castle.\n\n**Tours:** Entry is by guided tour only. Tours depart every 30 minutes during opening hours and last about 45 minutes. Confirm English tour availability via the website — German tours are more frequent.\n\n**Combine with:** The Nebelhöhle cave (2 km) and Wasserfall Güterstein waterfall make good additions. Hohenzollern Castle, the ancestral home of the Hohenzollern dynasty, is about 30 km away and makes a fine full-day castle pairing.",
+  "faqs": [
+    {
+      "question": "Is Lichtenstein Castle in Germany or the country of Liechtenstein?",
+      "answer": "This is Germany's Lichtenstein Castle — Schloss Lichtenstein in Baden-Württemberg, near the city of Reutlingen. It is an entirely different place from the Principality of Liechtenstein (the country between Switzerland and Austria). The German castle was named after a medieval fortress on the same clifftop site, long predating any confusion with the principality."
+    },
+    {
+      "question": "Who owns Lichtenstein Castle?",
+      "answer": "Lichtenstein Castle is privately owned by the Dukes of Urach, a branch of the Württemberg royal family. It remains an inhabited aristocratic residence, not a state museum. This family continuity — the same dynasty has owned it since the 19th century — gives the castle a distinctive character quite different from state-managed palaces."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lichtenstein-castle.webp",
+    "alt": "Lichtenstein Castle's slender Neo-Gothic tower rising dramatically from a sheer limestone cliff in the Swabian Alps of Baden-Württemberg, surrounded by autumn forest",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lichtenstein-castle.webp",
+  "instagram_tag": "#schlossLichtenstein",
+  "meta_title": "Lichtenstein Castle Germany: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Lichtenstein Castle in Baden-Württemberg — a private Neo-Gothic clifftop fortress above the Swabian Alps. Guided tours and day trip guide from Stuttgart.",
+  "tags": ["castle", "neo-gothic", "19th-century", "clifftop", "swabian-alps", "private-castle", "day-trip-from-stuttgart"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["hohenzollern-castle", "heidelberg-castle"],
+  "gyg_location_id": "174126",
+  "gyg_search_query": "Lichtenstein Castle Baden-Württemberg tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

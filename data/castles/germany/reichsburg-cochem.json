@@ -1,0 +1,78 @@
+{
+  "id": "reichsburg-cochem",
+  "name": "Cochem Castle",
+  "local_name": "Reichsburg Cochem",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 300000,
+  "country": "germany",
+  "region": "Rhineland-Palatinate",
+  "nearest_city": "Koblenz",
+  "address": "Schloßstraße 36, 56812 Cochem, Germany",
+  "lat": 50.1466,
+  "lng": 7.1668,
+  "unesco": false,
+  "year_built": 1100,
+  "architectural_style": "Neo-Gothic (rebuilt 1877 on medieval foundations)",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Open daily mid-Mar to early Nov 09:00–17:00. Guided tours only; depart every 15–20 minutes. Check website for winter openings."
+  },
+  "price_adult": 6,
+  "price_child": 4,
+  "booking_required": false,
+  "visit_duration": "1–1.5 hours",
+  "best_season": "April to October — wine harvest in October adds atmosphere",
+  "accessibility": "Steep hillside path to the castle. Not suitable for wheelchairs. Shuttle bus available in season.",
+  "booking_advance_days": 0,
+  "tagline": "The jewel of the Moselle — a medieval castle above Germany's greatest wine river",
+  "highlights": [
+    "Perched 100 metres above the Moselle River with panoramic valley views",
+    "One of the best-preserved Neo-Gothic castles in the Rhineland",
+    "Guided tours reveal medieval great halls, armour collections, and a Baroque stateroom",
+    "The medieval village of Cochem below is among Germany's most beautiful small towns",
+    "Combine with a Moselle River cruise for one of the great German travel pairings"
+  ],
+  "description": "There are few more satisfying sights in German travel than rounding a bend of the Moselle River and seeing Reichsburg Cochem rise from its forested hill above the vine-draped valley. It is the castle Germany's travel posters have been using for decades — and the original is even better than the image.\n\nThe original imperial fortress was built here around 1100, making use of a spur of rock that commanded the entire valley below. It survived several sieges before falling to Louis XIV's forces in 1689, who demolished it so thoroughly that only the outer walls remained. The castle sat in ruins for nearly two centuries until a wealthy Berlin merchant named Louis Ravené purchased it in 1868, fell completely in love with the site, and spent the equivalent of millions of euros restoring and rebuilding it in a grand Neo-Gothic style. The result is not strictly medieval — it is a 19th-century romantic vision of what a medieval castle should be — but it is executed with such quality and coherence that it feels entirely right.\n\nVisitors can only enter on guided tours, which depart every 15–20 minutes and last about 40 minutes. The guide leads groups through a series of rooms that range from recreated medieval great halls hung with armour and antlers to a surprisingly fine Baroque stateroom that survived from an earlier restoration. The real reward, however, is the terrace: the view down the Moselle valley from 100 metres above the river, with the old town of Cochem clustered at your feet, is one of the great panoramas of the German wine country.",
+  "history": "Reichsburg Cochem appears in historical records from around 1100, when it served as a stronghold of the Holy Roman Empire controlling river traffic and trade on the Moselle. In 1151, Emperor Conrad III pledged the castle as security for a loan — the earliest documented mention of the fortress. It changed hands repeatedly over the following centuries, spending time under the control of the Archbishops of Trier and the Counts Palatine of the Rhine.\n\nThe castle's most significant trauma came in 1689, during the Nine Years' War, when French forces under Louis XIV systematically demolished it along with most of the region's castles — a deliberate policy of denying the territory to the Holy Roman Emperor. For 178 years, Reichsburg sat as a ruin. Ludwig Ravené, a wealthy Prussian industrialist, changed all of that when he purchased the ruins in 1868 and commissioned a complete reconstruction in the prevailing Romantic style. The rebuild took nine years and was completed in 1877. Today the castle is privately owned and managed as a museum and event venue, drawing around 300,000 visitors per year.",
+  "how_to_visit": "**Getting there:** Cochem is on the Moselle railway line between Koblenz (45 minutes) and Trier (1 hour 20 minutes). Regular trains run throughout the day. From Cochem station, the castle is a 15-minute walk uphill through the old town, following the signposted Schloßstraße path. A seasonal shuttle bus operates in summer from the town centre.\n\n**Tours:** Entry is by guided tour only. Tours depart every 15–20 minutes in season (mid-March to November) and last approximately 40 minutes. English tours are available on request or at set times — check the website before visiting.\n\n**Best combination:** Cochem pairs perfectly with a Moselle River cruise. Boat services run between Cochem and Beilstein from spring to autumn. A morning castle visit followed by an afternoon boat cruise is the classic Moselle day out.",
+  "faqs": [
+    {
+      "question": "Can I enter Cochem Castle without a guide?",
+      "answer": "No — entry is by guided tour only. Tours depart every 15–20 minutes in season and last about 40 minutes. English-language tours are available; check the castle website for current schedule and times. Tickets are purchased at the gate."
+    },
+    {
+      "question": "How do I get to Cochem Castle from Koblenz?",
+      "answer": "Regular trains run from Koblenz Hauptbahnhof to Cochem in about 45 minutes. From Cochem station, walk through the old town and follow the signs uphill to Schloßstraße — the walk takes about 15 minutes. A seasonal shuttle bus also operates from the town centre in summer."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/reichsburg-cochem.webp",
+    "alt": "Reichsburg Cochem perched above the vine-covered hillsides of the Moselle River valley in Rhineland-Palatinate, its towers reflected in the river below",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/reichsburg-cochem.webp",
+  "instagram_tag": "#reichsburgCochem",
+  "meta_title": "Cochem Castle (Reichsburg): Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Reichsburg Cochem above the Moselle River. Book guided tours and plan your day trip from Koblenz or Trier — one of Germany's most beautiful wine-country castles.",
+  "tags": ["medieval", "rhineland", "river-castle", "wine-country", "guided-tour-only", "moselle", "day-trip"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["eltz-castle", "stahleck-castle"],
+  "gyg_location_id": "174056",
+  "gyg_search_query": "Cochem Castle Reichsburg tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

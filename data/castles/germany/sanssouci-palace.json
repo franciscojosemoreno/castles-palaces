@@ -1,0 +1,93 @@
+{
+  "id": "sanssouci-palace",
+  "name": "Sanssouci Palace",
+  "local_name": "Schloss Sanssouci",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 500000,
+  "country": "germany",
+  "region": "Brandenburg",
+  "nearest_city": "Berlin",
+  "address": "Maulbeerallee 5, 14469 Potsdam, Germany",
+  "lat": 52.4037,
+  "lng": 13.0389,
+  "unesco": true,
+  "year_built": 1747,
+  "architectural_style": "Prussian Rococo",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:30",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "10:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Open Tue–Sun. Apr–Oct 10:00–17:30; Nov–Mar 10:00–16:30. Timed entry — book online in advance. The park is open daily year-round at no charge."
+  },
+  "price_adult": 22,
+  "price_child": 0,
+  "booking_required": true,
+  "visit_duration": "2–3 hours (palace) or full day (park and multiple palaces)",
+  "best_season": "Spring (April–May) for terraced vineyard gardens; summer for all park palaces open",
+  "accessibility": "The park is largely accessible. The palace interior involves stairs and is not fully wheelchair accessible.",
+  "booking_advance_days": 14,
+  "tagline": "Frederick the Great's summer escape — Prussia's most personal and intimate palace",
+  "highlights": [
+    "Built in 1747 as Frederick the Great's personal summer retreat — deliberately intimate and unfortified",
+    "The terraced vineyard gardens descending to a formal parterre are among Europe's finest",
+    "Rococo interiors include Frederick's library, music room, and the famous Round Table dining room",
+    "The park contains six major palaces in 300 hectares of gardens — a full day's exploration",
+    "UNESCO World Heritage Site: one of the greatest 18th-century landscape parks in Europe"
+  ],
+  "description": "Sanssouci is where Frederick the Great came to escape his wars, his duties, and his difficult marriage — and it shows. Unlike the bombastic grandeur of Versailles or the cold symmetry of most royal palaces, Sanssouci is a building of intimacy and personality. Its very name means 'without worries' in French, and Frederick designed every detail to reflect a man who wanted nothing more than a place to read, play the flute, discuss philosophy, and tend his vineyards. The result is one of the most human royal residences in Europe.\n\nThe palace itself is a single-storey building of remarkable elegance, stretched along the top of a hill whose south face has been sculpted into six terraces of formal gardens and grapevines. Frederick placed his bedroom and study at the centre, flanked by guest rooms for the philosophers and musicians he invited to his court — Voltaire spent three years at Sanssouci as Frederick's personal guest. The Rococo interiors are among the finest in northern Europe: all gold leaf, curved walls, and painted silks, with a lightness of touch entirely different from the weightier grandeur of most palace rooms.\n\nBut Sanssouci is also the centrepiece of a vast park that contains five other palaces, an orangery modelled on the Vatican, a Chinese teahouse covered in gilded figures, and 300 hectares of gardens and woodland paths. Most visitors focus on Sanssouci alone, but the full park rewards a full day of wandering — and rewards it especially richly in late spring when the cherry trees and formal plantings are in bloom.",
+  "history": "Frederick II of Prussia — better known as Frederick the Great — ascended the throne in 1740 at the age of 28. He was a deeply cultivated man: a composer, a flautist, a poet, and a reader of philosophy. Sanssouci was his attempt to reconcile these qualities with his role as a soldier-king: a private retreat where he could be simply a man of culture. He designed the building himself in 1744, working with court architect Georg Wenzeslaus von Knobelsdorff to realise his vision of a single-storey summer palace atop a vineyard hill. Construction took just two years; the palace was completed in 1747.\n\nHe was so devoted to Sanssouci that he instructed he be buried on the vineyard terrace beside his greyhounds. His request was ignored at his death in 1786, and he was buried in the Garrison Church in Potsdam. For over 200 years, Sanssouci stood without him. Then, on 17 August 1991 — exactly 205 years after his death — Frederick the Great's remains were finally transferred to Sanssouci and buried where he had always wished: on the terrace, under a simple stone slab, with his dogs.",
+  "how_to_visit": "**Getting there from Berlin:** Take the S-Bahn (S7) from Berlin Hauptbahnhof to Potsdam Hauptbahnhof (about 35–40 minutes). From Potsdam station, take bus 695 directly to Sanssouci Park (10 minutes) or walk through the park (about 30 minutes).\n\n**Timed entry — book in advance:** Sanssouci Palace uses timed entry tickets that sell out days in advance in summer. Book through the official SPSG website (spsg.de) before your visit. Arrive at least 15 minutes before your entry slot.\n\n**What to see beyond the palace:** The New Palace (Neues Palais), the gilded Chinese Teahouse, the 560-metre Orangery Palace, Charlottenhof Palace, and the Roman Baths. A day ticket covers multiple palaces. The park itself is always free.\n\n**Frederick the Great's tomb:** On the vineyard terrace directly in front of the palace entrance — a simple stone slab, always marked with fresh flowers left by admirers.",
+  "faqs": [
+    {
+      "question": "Do I need to book Sanssouci Palace in advance?",
+      "answer": "Yes — timed entry tickets are required and sell out in advance, especially in summer. Book through the official SPSG website (spsg.de) as early as possible. Walk-up tickets are limited and not guaranteed. If you can't get a palace ticket, the park is free to enter and the exterior is magnificent."
+    },
+    {
+      "question": "How long does it take to get from Berlin to Sanssouci?",
+      "answer": "About 45–60 minutes door-to-door. Take the S7 S-Bahn from Berlin Hauptbahnhof to Potsdam Hauptbahnhof (35 minutes), then bus 695 to the park entrance (10 minutes). The train runs every 10–20 minutes. Berlin ABC zone day tickets cover the journey."
+    },
+    {
+      "question": "Where is Frederick the Great buried?",
+      "answer": "Frederick the Great is buried exactly where he wished — on the vineyard terrace of Sanssouci, under a simple stone slab beside the steps to the palace. He requested this burial in his will but was initially interred elsewhere. His remains were finally returned to Sanssouci in August 1991. The grave is always marked with fresh flowers left by admirers."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/sanssouci-palace.webp",
+    "alt": "Sanssouci Palace's elegant single-storey Rococo facade seen from the terraced vineyard gardens, with the central fountain and formal parterre below in Potsdam",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/sanssouci-palace.webp",
+  "instagram_tag": "#sanssouci",
+  "meta_title": "Sanssouci Palace Potsdam: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Sanssouci Palace in Potsdam — Frederick the Great's intimate Rococo retreat. Book timed entry, plan your Berlin day trip and explore the UNESCO-listed park.",
+  "tags": ["palace", "rococo", "18th-century", "unesco-world-heritage", "day-trip-from-berlin", "frederick-the-great", "book-in-advance"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["heidelberg-castle", "hohenzollern-castle"],
+  "gyg_location_id": "4527",
+  "gyg_search_query": "Sanssouci Palace Potsdam tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "26520",
+      "title": "From Berlin: Potsdam and Sanssouci Palace Tour with Entry",
+      "type": "day_trip",
+      "duration": "4 hours",
+      "price_from": 65,
+      "rating": 4.6,
+      "reviews": 2100,
+      "covers_castles": ["sanssouci-palace"]
+    }
+  ]
+}

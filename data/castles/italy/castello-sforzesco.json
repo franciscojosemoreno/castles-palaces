@@ -1,0 +1,93 @@
+{
+  "id": "castello-sforzesco",
+  "name": "Sforza Castle",
+  "local_name": "Castello Sforzesco",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 700000,
+  "country": "italy",
+  "region": "Lombardy",
+  "nearest_city": "Milan",
+  "address": "Piazza Castello, 20121 Milano MI, Italy",
+  "lat": 45.4705,
+  "lng": 9.1797,
+  "unesco": false,
+  "year_built": 1358,
+  "architectural_style": "Renaissance Military Architecture",
+  "opening_hours": {
+    "monday": "07:00–19:30",
+    "tuesday": "07:00–19:30",
+    "wednesday": "07:00–19:30",
+    "thursday": "07:00–19:30",
+    "friday": "07:00–19:30",
+    "saturday": "07:00–19:30",
+    "sunday": "07:00–19:30",
+    "seasonal_note": "Courtyards and grounds open daily 07:00–19:30 (free). Museums open Tue–Sun 10:00–17:30. Last entry 30 minutes before closing. Closed Mondays and 1 January, 1 May, 25 December."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": false,
+  "visit_duration": "2–3 hours",
+  "best_season": "Year-round — a city centre castle, not weather-dependent",
+  "accessibility": "Courtyards are fully accessible. Most museum spaces are accessible. Some towers have stairs only.",
+  "booking_advance_days": 0,
+  "tagline": "Milan's Renaissance fortress — where Leonardo da Vinci painted the ceilings and Michelangelo worked on his final sculpture",
+  "highlights": [
+    "Leonardo da Vinci worked here under Ludovico Sforza — his ceiling frescoes still decorate the Sala delle Asse",
+    "Houses Michelangelo's last sculpture: the unfinished Pietà Rondanini, completed days before his death in 1564",
+    "The vast courtyards are free to enter and among the grandest open spaces in central Milan",
+    "One of the largest castles in Europe — the outer walls enclose over 200,000 square metres",
+    "The Pinacoteca del Castello holds masterworks by Bellini, Mantegna, and Canaletto"
+  ],
+  "description": "Castello Sforzesco sits at the northern end of central Milan like a city within a city — its outer walls enclosing a space so vast that the courtyards could contain entire city blocks. For centuries it was the power centre of Lombardy, the residence of the Visconti and Sforza dynasties, and the workplace of some of the greatest artists of the Italian Renaissance. Today it is simultaneously a free public park, a complex of civic museums, and one of the most historically dense buildings in Italy.\n\nThe castle's connection to Leonardo da Vinci is its most remarkable distinction. Leonardo spent nearly two decades at the Sforza court, working as a painter, engineer, stage designer, and general creative polymath for Duke Ludovico Sforza. In the Sala delle Asse — a ground-floor room in the north tower — you can still see Leonardo's ceiling frescoes from 1498: an elaborate trompe-l'oeil canopy of intertwined mulberry trees, recently restored to reveal their original extraordinary quality.\n\nBut the castle's greatest artistic treasure is Michelangelo's Pietà Rondanini, displayed in a dedicated museum space in the Spanish Hospital. Michelangelo worked on this sculpture from around 1552 until six days before his death in 1564. It was never finished, and its unfinished quality — the raw stone, the elongated anguished figures — gives it an intensity that his polished Vatican Pietà never achieves. Standing before it in the quiet of its dedicated room is one of the most moving experiences Milan offers.",
+  "history": "The site has been fortified since Roman times, when it lay on the northern edge of Milan's city walls. The first medieval castle was built by Gian Galeazzo Visconti, Duke of Milan, in 1358 — a massive military fortress designed to control both external enemies and the potentially rebellious Milanese citizens within.\n\nWhen Francesco Sforza seized Milan in 1450, he ordered the castle comprehensively rebuilt as a ducal residence worthy of his new dynasty. The Sforzas employed the finest architects of the Renaissance, including Filarete and Bramante. It was during the reign of Ludovico Sforza 'il Moro' (1480–1499) that Castello Sforzesco became one of the most brilliant courts in Europe, attracting Leonardo da Vinci, Donato Bramante, and the poet Bernardo Bellincioni. After French, Spanish, Austrian, and Napoleonic control, the architect Luca Beltrami undertook a major restoration between 1893 and 1905, returning the castle to something approaching its Renaissance appearance.",
+  "how_to_visit": "**Getting there:** Castello Sforzesco is in central Milan, easily reached by Metro (Line 1, Cairoli station, 3-minute walk; or Cadorna station, 5 minutes). It is 15 minutes on foot from Milan Centrale station.\n\n**What to visit:** The courtyards are free and always open. Museum tickets (€10) cover all civic collections: the Museum of Ancient Art, the Pinacoteca, the Egyptian Museum, the Museum of Musical Instruments, and the dedicated Pietà Rondanini room. The Sala delle Asse with Leonardo's ceiling is included.\n\n**Don't miss:** The Pietà Rondanini by Michelangelo in the Spanish Hospital wing. The Sala delle Asse ceiling by Leonardo. The view from the main Filarete Tower back across the Piazza d'Armi courtyard.\n\n**Combine with:** Parco Sempione immediately behind the castle. The Pinacoteca di Brera (Milan's great painting gallery) is 10 minutes on foot.",
+  "faqs": [
+    {
+      "question": "Is Castello Sforzesco free to enter?",
+      "answer": "The outer courtyards and grounds are free to enter at any time. The civic museums inside (which include the Michelangelo Pietà Rondanini and Leonardo da Vinci's Sala delle Asse ceiling) require a ticket: €10 for adults, free for under 18s. The castle is free every first Sunday of the month."
+    },
+    {
+      "question": "What did Leonardo da Vinci do at Castello Sforzesco?",
+      "answer": "Leonardo da Vinci spent approximately 17 years (1482–1499) at the Sforza court in Milan, working for Duke Ludovico Sforza as painter, engineer, sculptor, architect, and stage designer. At the castle itself, he painted the ceiling of the Sala delle Asse in 1498 — an intricate trompe-l'oeil canopy of intertwined mulberry trees, recently restored. He also worked on theatrical productions, court festivals, and the design of the castle's water systems."
+    },
+    {
+      "question": "What is Michelangelo's Pietà Rondanini?",
+      "answer": "The Pietà Rondanini is Michelangelo's last sculpture, worked on from around 1552 until six days before his death in 1564. Unlike the polished Vatican Pietà, this one was never finished — and that rawness gives it extraordinary emotional power. The elongated, grief-stricken figures of Christ and the Virgin seem to merge into each other. It is considered one of the most moving works in Michelangelo's entire output, and its dedicated room in Castello Sforzesco is one of the great contemplative spaces in Italian art."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castello-sforzesco.webp",
+    "alt": "Castello Sforzesco's main Filarete Tower rising above the entrance piazza in central Milan, framed by the medieval red-brick walls of the fortress",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castello-sforzesco.webp",
+  "instagram_tag": "#castelloSforzesco",
+  "meta_title": "Sforza Castle Milan: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Castello Sforzesco in Milan — Renaissance fortress with Leonardo da Vinci's ceiling and Michelangelo's last sculpture. Book tickets and tours for 2026.",
+  "tags": ["castle", "renaissance", "milan", "leonardo-da-vinci", "michelangelo", "city-centre", "free-entry-courtyard"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["scaligero-castle-sirmione", "miramare-castle"],
+  "gyg_location_id": "3582",
+  "gyg_search_query": "Sforza Castle Milan tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "414400",
+      "title": "Milan: Sforza Castle Entry Ticket with Digital Audio Guide",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 15,
+      "rating": 4.5,
+      "reviews": 320,
+      "covers_castles": ["castello-sforzesco"]
+    }
+  ]
+}

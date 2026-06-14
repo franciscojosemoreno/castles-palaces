@@ -1,0 +1,78 @@
+{
+  "id": "schwerin-castle",
+  "name": "Schwerin Castle",
+  "local_name": "Schweriner Schloss",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 350000,
+  "country": "germany",
+  "region": "Mecklenburg-Vorpommern",
+  "nearest_city": "Hamburg",
+  "address": "Lennéstraße 1, 19053 Schwerin, Germany",
+  "lat": 53.6255,
+  "lng": 11.4124,
+  "unesco": false,
+  "year_built": 1845,
+  "architectural_style": "Historicism (Neo-Gothic, Neo-Renaissance)",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open Tue–Sun 10:00–18:00 (Apr–Oct), 10:00–17:00 (Nov–Mar). Closed Mondays."
+  },
+  "price_adult": 13,
+  "price_child": 0,
+  "booking_required": false,
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September for gardens and lake views",
+  "accessibility": "Ground floor and gardens largely accessible. Interior stairs limit full wheelchair access.",
+  "booking_advance_days": 0,
+  "tagline": "Germany's fairy-tale island palace — the Versailles of the North",
+  "highlights": [
+    "Set on a small island in Lake Schwerin, reached via a single ornamental bridge",
+    "86 spires and towers reflected in the surrounding water — one of Germany's most photogenic palaces",
+    "State apartments preserve original 19th-century furnishings from the Grand Duchy of Mecklenburg",
+    "Surrounding landscaped gardens designed in the tradition of English landscape parks",
+    "Often called the 'Versailles of the North' — with far fewer crowds than its French counterpart"
+  ],
+  "description": "Few German palaces stop visitors in their tracks the way Schwerin Castle does. Sitting on a small island in the middle of Lake Schwerin, ringed by water on all sides and crowned with 86 towers and spires, it looks less like a real building and more like the castle a child draws when given a blank page and told to imagine royalty. That combination of island setting, reflective water and fairy-tale silhouette makes Schwerin one of the most photographed buildings in northern Germany — and one of the most underrated in all of Europe.\n\nThe palace you see today was built between 1845 and 1857 on the foundations of a medieval fortress that had stood on the island since the 14th century. The grand duke of Mecklenburg-Schwerin wanted a residence that could rival the great palaces of Europe, and his architects drew from the Château de Chambord for the roofline, from English Gothic for the towers, and from the Italian Renaissance for the courtyard arcades. The result is an architectural hybrid that somehow achieves total coherence — every detail contributes to an overall effect of romantic grandeur.\n\nInside, the state apartments retain their original 19th-century furnishings in remarkable condition: gilded throne rooms, tapestry-hung audience chambers, and intimate private quarters that feel as though the Grand Duke simply stepped away for the afternoon. The basement holds an archaeological museum tracing the site's history back to a Slavic settlement from the 10th century. Outside, the English landscape garden wraps around the lake's shore, offering views across the water to the castle that rival anything in northern Europe.",
+  "history": "The island on which Schwerin Castle stands has been occupied since at least the 10th century, when a Slavic tribe called the Obodriti built a fortified settlement here. The Christianised name 'Zuarin' — meaning animal enclosure — gave the city its name. After the German conquest of Mecklenburg in the 12th century, the island became the seat of the Counts of Schwerin, who built the first stone fortress.\n\nGrand Duke Friedrich Franz II decided not to restore the deteriorating existing structure but to rebuild from scratch on an almost unimaginable scale — the result is the building visible today, completed in 1857. Schwerin remained a royal residence until 1918, when Kaiser Wilhelm II abdicated and the monarchies of the German states collapsed with him. Since German reunification in 1990 — Schwerin is the capital of the newly reconstituted state of Mecklenburg-Vorpommern — the palace has been gradually restored to its 19th-century splendour, with the state parliament (Landtag) occupying one wing.",
+  "how_to_visit": "**Getting there from Hamburg:** Direct trains from Hamburg Hauptbahnhof to Schwerin take approximately 1 hour 15 minutes and run frequently throughout the day. From Schwerin station, the castle is a 15-minute walk through the old town, or a short bus ride.\n\n**Getting there from Berlin:** Trains from Berlin Hauptbahnhof to Schwerin run roughly every 2 hours and take about 2 hours 15 minutes. Schwerin also works well as a day trip from Rostock (50 minutes by train).\n\n**Best photo spot:** The most iconic view — all 86 spires reflected in calm water — is taken from the bridge connecting the island to the mainland. Early morning offers the best light and calmest reflections.\n\n**Combine with:** The old town of Schwerin, with its Dom cathedral and market square, deserves an hour of exploration. The Mecklenburg Lake District begins immediately east of the city.",
+  "faqs": [
+    {
+      "question": "How do I get to Schwerin Castle from Hamburg?",
+      "answer": "Direct trains from Hamburg Hauptbahnhof to Schwerin run roughly every 30–60 minutes and take about 1 hour 15 minutes. From Schwerin station, the castle is a 15–20 minute walk or a short bus ride. The journey is entirely feasible as a day trip from Hamburg."
+    },
+    {
+      "question": "Why is Schwerin Castle called the Versailles of the North?",
+      "answer": "The nickname refers to the palace's ambition and scale — it was built deliberately to rival the great European royal residences of the 19th century. The island setting, the elaborate roofline of towers and domes, and the surrounding formal gardens all evoke Versailles, but in a northern German register. Schwerin sees a fraction of Versailles' visitor numbers, making it an excellent alternative for those who want palace grandeur without the crowds."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schwerin-castle.webp",
+    "alt": "Schwerin Castle rising from its island in Lake Schwerin, its 86 spires and towers perfectly reflected in the still water on a clear morning",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schwerin-castle.webp",
+  "instagram_tag": "#schwerinerSchloss",
+  "meta_title": "Schwerin Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Schwerin Castle, Germany's fairy-tale island palace on Lake Schwerin. Plan your day trip from Hamburg and discover the Versailles of the North.",
+  "tags": ["palace", "island-castle", "19th-century", "historicism", "day-trip-from-hamburg", "lake-view", "north-germany"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["wartburg-castle", "moritzburg-castle"],
+  "gyg_location_id": "150311",
+  "gyg_search_query": "Schwerin Castle tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}

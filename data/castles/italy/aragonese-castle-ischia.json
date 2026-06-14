@@ -1,0 +1,82 @@
+{
+  "id": "aragonese-castle-ischia",
+  "name": "Aragonese Castle",
+  "local_name": "Castello Aragonese d'Ischia",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 400000,
+  "country": "italy",
+  "region": "Campania",
+  "nearest_city": "Naples",
+  "address": "Via Pontano, 80070 Ischia NA, Italy",
+  "lat": 40.7281,
+  "lng": 13.9565,
+  "unesco": false,
+  "year_built": 474,
+  "architectural_style": "Medieval / Aragonese fortress",
+  "opening_hours": {
+    "monday": "09:00–19:00",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–19:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Open daily 09:00–19:00 (summer); closing times vary in winter (typically 16:00–17:00). Check website for current hours. Closed some national holidays."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": false,
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October — combine with Ischia's thermal beaches",
+  "accessibility": "Lift (elevator) available inside the rock to the upper levels. Main areas accessible. Some exterior paths uneven.",
+  "booking_advance_days": 0,
+  "tagline": "A volcanic island fortress rising from the Bay of Naples — 2,500 years of history above the sea",
+  "highlights": [
+    "A medieval city on a volcanic islet, connected to Ischia by a 220-metre causeway built by Alfonso of Aragon in 1438",
+    "Originally fortified by the Greeks in 474 BC — one of the oldest continuously occupied castle sites in Europe",
+    "Houses an extraordinary ossuary where Clarissine nuns sat their deceased sisters to decompose as a meditation on mortality",
+    "The terraces offer some of the finest views in the Bay of Naples, across to Vesuvius and Capri",
+    "Reached via a spectacular lift bored through 75 metres of volcanic rock"
+  ],
+  "description": "Castello Aragonese is not quite like any other castle in Europe. It sits on a small volcanic islet just off the eastern shore of Ischia, connected to the main island by a 220-metre causeway first built by Alfonso of Aragon in 1438. Rising 113 metres from the sea, it carries the accumulated weight of 2,500 years of continuous occupation — Greek, Roman, Byzantine, Norman, Swabian, Aragonese, Spanish — an entire civilisation's worth of history compressed onto a single jagged rock above the Bay of Naples.\n\nTo reach the upper levels, visitors board an extraordinary lift bored vertically through 75 metres of volcanic rock — a tunnel created by the Bourbons in the 18th century that emerges onto the castle's upper terraces. From here the views are spectacular in every direction: south to Capri, east to the Amalfi Coast, north across the Bay of Naples to Vesuvius, and west back to Ischia's own thermal hills.\n\nThe castle's most memorable and singular feature is its ossuary — the Cimitero delle Monache Clarisse. The Clarissine convent that occupied the castle for centuries had a custom that confronted death with remarkable directness: when a nun died, her body was seated on one of the stone chairs lining the ossuary walls and allowed to decompose naturally in view of her living sisters, who used the decomposing remains as a meditation on mortality. The desiccated figures are still there, preserved in their stone seats, making the ossuary one of the most extraordinary and affecting spaces in all of Italian heritage.",
+  "history": "The rock on which Castello Aragonese stands has been fortified almost without interruption for 2,500 years. The first fortification was built by Hiero I of Syracuse in 474 BC, who used the islet as a military outpost to protect Greek colonies in the Bay of Naples. The Romans later used it as a military base; the Byzantines fortified it again in the 6th century AD; the Normans added their own walls in the 11th century.\n\nThe castle's Aragonese character dates from 1441, when Alfonso I of Aragon conquered Naples and ordered a comprehensive rebuilding of the fortress, connecting the islet to Ischia with a causeway and transforming it into a fortified town that at its peak housed around 13,000 people. The poet Vittoria Colonna lived here from 1501 to 1509 and made it a centre of Renaissance humanist culture; she corresponded with Michelangelo for decades and he addressed some of his finest sonnets to her. After various periods of Spanish, British, and French occupation, the castle was sold into private hands in the 19th century and remains privately owned today.",
+  "how_to_visit": "**Getting there from Naples:** Ferries and hydrofoils run from Molo Beverello (Naples) and Pozzuoli to Ischia Porto and Casamicciola. The journey takes 1 hour (ferry) or 45 minutes (hydrofoil). From Ischia Porto, take a bus or taxi to Ischia Ponte (about 10 minutes), where the causeway leads to the castle entrance.\n\n**Inside the castle:** A lift bored through the volcanic rock transports visitors from the base to the upper levels (included in the entry ticket). Above, the castle complex is extensive — allow at least 2 hours to explore the cathedral ruins, the convent, the ossuary, and the various terraces and viewpoints.\n\n**Don't miss:** The Cimitero delle Monache Clarisse (the ossuary) — unique in Italy and genuinely haunting. The top terrace viewpoints for Bay of Naples panoramas. The barrel-vaulted interior of the Cathedral of the Assumption.\n\n**Combine with:** Ischia rewards a full day or overnight stay. The Poseidon Gardens thermal spa, Sant'Angelo village, and the natural thermal beach at Cavascura are all excellent additions.",
+  "faqs": [
+    {
+      "question": "How do I get to Aragonese Castle from Naples?",
+      "answer": "Take a ferry or hydrofoil from Molo Beverello in central Naples to Ischia Porto (1 hour by ferry, 45 minutes by hydrofoil). From Ischia Porto, take a bus or taxi to Ischia Ponte (10 minutes) — the castle's 220-metre causeway begins there. Ferries run frequently throughout the day in summer; book in advance for peak season weekends."
+    },
+    {
+      "question": "What is the ossuary at Aragonese Castle?",
+      "answer": "The ossuary — called the Cimitero delle Monache Clarisse — is where deceased Clarissine nuns were seated on stone chairs and allowed to decompose in full view of their living sisters. The practice was a deliberate meditation on mortality, common in some contemplative orders. The stone chairs and the desiccated remains are still present in the original room, making it one of the most extraordinary historical spaces in the Bay of Naples."
+    },
+    {
+      "question": "Is Aragonese Castle worth visiting in winter?",
+      "answer": "Yes — the castle is open year-round and winter visits offer uncrowded terraces and dramatic light over the Bay of Naples. The ossuary and cathedral interiors are equally moving in any season. The ferry crossing from Naples is also less crowded outside summer. However, some island services run reduced schedules in winter, so check ferry times in advance and allow flexibility in your planning."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/aragonese-castle-ischia.webp",
+    "alt": "Castello Aragonese d'Ischia rising 113 metres from its volcanic islet above the blue Bay of Naples, with the causeway connecting it to the island of Ischia below",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/aragonese-castle-ischia.webp",
+  "instagram_tag": "#castelloAragonese",
+  "meta_title": "Aragonese Castle Ischia: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Castello Aragonese d'Ischia — a 2,500-year-old volcanic island fortress in the Bay of Naples with extraordinary ossuary and panoramic views.",
+  "tags": ["medieval", "island-castle", "bay-of-naples", "campania", "ossuary", "volcanic", "sea-view", "instagram-worthy"],
+  "last_updated": "2026-06-13",
+  "routes": [],
+  "nearby_castles": ["castel-santangelo", "royal-palace-of-caserta"],
+  "gyg_location_id": "3879",
+  "gyg_search_query": "Aragonese Castle Ischia tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
