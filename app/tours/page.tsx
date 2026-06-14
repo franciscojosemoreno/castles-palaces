@@ -5,8 +5,8 @@ import { getCountryBySlug } from '@/lib/countries';
 import TourCard from '@/components/tours/TourCard';
 
 export const metadata: Metadata = {
-  title: 'Castle Tours in Europe | Castles & Palaces',
-  description: 'Book the best multi-castle day trips and guided tours across Europe. Handpicked tours with verified reviews from GetYourGuide.',
+  title: 'European Castle Tours 2026: Best Guided Trips & Day Tours | Castles & Palaces',
+  description: 'Discover the best European castle tours — multi-castle day trips, guided experiences, and skip-the-line entry across 30+ countries. Verified reviews, free cancellation.',
 };
 
 export default function ToursPage() {
