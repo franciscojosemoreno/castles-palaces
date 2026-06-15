@@ -1,0 +1,94 @@
+{
+  "id": "malahide-castle",
+  "name": "Malahide Castle",
+  "local_name": "Caisleán Mhullach Íde",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "ireland",
+  "region": "County Dublin",
+  "nearest_city": "Dublin",
+  "address": "Malahide Demesne, Malahide, Co. Dublin, Ireland",
+  "lat": 53.4508,
+  "lng": -6.1542,
+  "unesco": false,
+  "year_built": 1185,
+  "architectural_style": "Medieval with 18th-century additions",
+  "opening_hours": {
+    "monday": "09:30–17:30",
+    "tuesday": "09:30–17:30",
+    "wednesday": "09:30–17:30",
+    "thursday": "09:30–17:30",
+    "friday": "09:30–17:30",
+    "saturday": "09:30–17:30",
+    "sunday": "09:30–17:30",
+    "seasonal_note": "Open daily 09:30–17:30. Last guided tour at 16:30. Gardens open from 09:00."
+  },
+  "price_adult": 13,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://malahidecastleandgardens.ie",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "Year-round — accessible by DART from Dublin city centre",
+  "accessibility": "Ground floor of castle accessible. Gardens and grounds largely accessible. Upper floors involve stairs.",
+  "booking_advance_days": 0,
+  "tagline": "Eight centuries in one family — Ireland's most remarkable lived-in castle",
+  "highlights": [
+    "The same family — the Talbots — lived here for 791 unbroken years from 1185 to 1976",
+    "Reputedly the most haunted castle in Ireland, with five documented resident ghosts",
+    "The great hall portrait gallery displays the largest collection of portraits from the Irish Georgian Society",
+    "Set in 260 acres of parkland and gardens 15 minutes from Dublin by DART train",
+    "The walled garden contains a butterfly house with tropical species"
+  ],
+  "description": "The Talbot family arrived in Ireland with the Norman conquest and settled at Malahide in 1185. They stayed for 791 years — through the Black Death, the Wars of the Roses, the Reformation, Cromwell's campaign, the Jacobite wars, the Famine, independence, and two world wars — until the last surviving Talbot, Rose, sold the castle to Dublin County Council in 1976. That unbroken continuity of occupation, longer than almost any other castle in Europe, gives Malahide a layered, lived-in quality that purpose-built attractions cannot manufacture.\n\nThe castle that stands today reflects those accumulated centuries honestly. The original 12th-century tower house is embedded within later additions — a great hall added in the 14th century, residential wings added in the 17th and 18th centuries, Victorian gothic flourishes applied in the 19th. The overall effect is not grand in the palace sense but deeply domestic: a house that happens to have medieval towers. Inside, the portrait gallery in the great hall displays a remarkable collection of Irish Georgian paintings, many of them recording the generations of Talbots who looked out from these walls across their demesne.\n\nMalahide's other distinction is its ghosts — five of them, by documented tradition. The most frequently reported is Puck, a court jester said to haunt the great hall; he appears in a portrait above the fireplace. Whether or not you believe the stories, the castle's long history and atmospheric rooms generate an excellent atmosphere for ghost-hunting of the imaginative variety.",
+  "history": "Richard Talbot received the lands at Malahide from Henry II following the Norman invasion of Ireland, and construction of the first castle began around 1185. The Talbots were loyal servants of the English crown throughout the medieval period — a loyalty that cost them when Oliver Cromwell confiscated their estates in the 1650s and gave the castle to Miles Corbet, a regicide judge. When Charles II was restored, the Talbots reclaimed their home in 1660.\n\nThe castle's most dramatic moment of historical loss came on the morning of the Battle of the Boyne in 1690. Fourteen members of the Talbot family breakfasted together in the great hall before riding out to fight for the Jacobite cause. By nightfall all fourteen were dead on the battlefield. The castle passed to a cousin, and the family line continued — but the memory of that morning is embedded in Malahide's identity.\n\nThe 20th century brought gradual decline. The estate taxes required by Irish independence proved difficult to sustain on the income from farming alone. In 1976, Rose Talbot sold the castle and grounds to Dublin County Council. Fenella Fielding and David Niven were reportedly guests at the last party held by the Talbots before the sale. The books and furniture were auctioned; much of the portrait collection was acquired by the National Gallery of Ireland. Today the castle operates as a heritage attraction managed by Fingal County Council.",
+  "how_to_visit": "**Getting there from Dublin:** The DART commuter rail runs directly from Dublin city centre (Connolly, Tara Street, or Pearse stations) to Malahide station in about 25 minutes. The castle is a 15-minute walk from the station through the village. This is by far the easiest and most pleasant way to visit — no car needed, no parking, and the DART runs every 15–30 minutes throughout the day.\n\n**On site:** Guided tours of the castle interior run regularly from the entrance hall. The gardens are open independently and include a walled garden with butterfly house, a sensory garden, and wide-open parkland for walking. Combine with lunch or coffee in Malahide village (the seafront is a 10-minute walk from the castle) for a full half-day from Dublin.",
+  "faqs": [
+    {
+      "question": "How do I get to Malahide Castle from Dublin?",
+      "answer": "The DART suburban rail runs from central Dublin (Connolly, Tara Street, Pearse stations) directly to Malahide in about 25 minutes. The castle is a 15-minute walk from Malahide station. DART trains run every 15–30 minutes throughout the day. This is the most convenient option — far easier than driving. The return ticket costs about €5–7."
+    },
+    {
+      "question": "Is Malahide Castle haunted?",
+      "answer": "By tradition, yes — five ghosts are associated with the castle. The most famous is Puck, a court jester who appears in a portrait above the great hall fireplace and is said to haunt the room. There is also the spirit of Maud Plunkett (married and widowed on the same day), a lady in white, a grey lady, and a man in armour. Whether you believe any of this, the long history and layered atmosphere of the building make the ghost stories easy to enjoy."
+    },
+    {
+      "question": "How long did the same family live in Malahide Castle?",
+      "answer": "The Talbot family lived in Malahide Castle from approximately 1185 to 1976 — a period of 791 years, interrupted only by the Cromwellian confiscation (1653–1660). This makes it one of the longest continuously inhabited private castles in Europe. The last member of the family to live there, Rose Talbot, sold the estate to Dublin County Council in 1976."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/malahide-castle.webp",
+    "alt": "Malahide Castle surrounded by its demesne parkland near Dublin, Ireland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/malahide-castle.webp",
+  "instagram_tag": "#malahideCastle",
+  "meta_title": "Malahide Castle Dublin: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Malahide Castle near Dublin — the same family lived here for 791 years. Book tickets, take the DART from Dublin city centre, and explore Ireland's most atmospheric lived-in castle.",
+  "tags": ["castle", "medieval", "haunted", "county-dublin", "day-trip-from-dublin", "dart-accessible", "georgian-portraits"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["trim-castle", "kilkenny-castle", "blarney-castle"],
+  "gyg_location_id": "34328",
+  "gyg_search_query": "Malahide Castle Dublin tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "510330",
+      "title": "Dublin to Malahide Castle & Gardens Half-Day Trip by Car",
+      "type": "day_trip",
+      "duration": "4 hours",
+      "price_from": 45,
+      "rating": 4.6,
+      "reviews": 85,
+      "covers_castles": ["malahide-castle"]
+    }
+  ]
+}
