@@ -86,7 +86,7 @@
     "instagram-worthy",
     "family-friendly"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "scottish-highlands-castles"
   ],
@@ -98,5 +98,47 @@
   "gyg_location_id": "44",
   "gyg_search_query": "Edinburgh Castle guided tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "156135",
+      "title": "Edinburgh Castle: Guided History Tour with Fast-Track Entry",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 390,
+      "covers_castles": ["edinburgh-castle"]
+    },
+    {
+      "tour_id": "453045",
+      "title": "Edinburgh Castle: A Thousand Years of Majesty Tour with Tickets",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 52,
+      "rating": 4.6,
+      "reviews": 250,
+      "covers_castles": ["edinburgh-castle"]
+    },
+    {
+      "tour_id": "1003028",
+      "title": "Edinburgh Castle: Tickets & Tour with Kilted Scottish Guide",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 58,
+      "rating": 4.8,
+      "reviews": 160,
+      "covers_castles": ["edinburgh-castle"]
+    },
+    {
+      "tour_id": "451961",
+      "title": "Edinburgh Castle: 120-Minute In-Depth Guided Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 69,
+      "rating": 4.7,
+      "reviews": 210,
+      "covers_castles": ["edinburgh-castle"]
+    }
+  ]
 }

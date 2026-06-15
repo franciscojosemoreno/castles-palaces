@@ -69,7 +69,7 @@
     "instagram-worthy",
     "views"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "slovenian-castles-route"
   ],
@@ -79,5 +79,17 @@
   "gyg_location_id": "3218",
   "gyg_search_query": "Ljubljana Castle tour Slovenia",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "488908",
+      "title": "Ljubljana: Castle Entry Ticket with Optional Funicular Ride",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 17,
+      "rating": 4.3,
+      "reviews": 791,
+      "covers_castles": ["ljubljana-castle"]
+    }
+  ]
 }
