@@ -1,0 +1,82 @@
+{
+  "id": "de-haar-castle",
+  "name": "De Haar Castle",
+  "local_name": "Kasteel de Haar",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 250000,
+  "country": "netherlands",
+  "region": "Utrecht Province",
+  "nearest_city": "Utrecht",
+  "address": "Kasteellaan 1, 3455 RR Haarzuilens, Netherlands",
+  "lat": 52.1167,
+  "lng": 4.8050,
+  "unesco": false,
+  "year_built": 1892,
+  "architectural_style": "Neo-Gothic / Romantic",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "11:00–17:00",
+    "wednesday": "11:00–17:00",
+    "thursday": "11:00–17:00",
+    "friday": "11:00–17:00",
+    "saturday": "11:00–17:00",
+    "sunday": "11:00–17:00",
+    "seasonal_note": "Open Tue–Sun year-round, 11:00–17:00. Closed Mondays, 1 Jan, and 25 Dec. Extended to 18:00 in summer. The castle closes for private events — check the website before visiting."
+  },
+  "price_adult": 19,
+  "price_child": 10,
+  "booking_required": true,
+  "official_tickets_url": "https://kasteeldehaar.nl",
+  "visit_duration": "2–3 hours",
+  "best_season": "Spring — the castle gardens are spectacular in bloom (April–May)",
+  "accessibility": "Ground floor of castle accessible by wheelchair. Gardens largely accessible. Upper floors require stairs.",
+  "booking_advance_days": 3,
+  "tagline": "The largest castle in the Netherlands — a neo-Gothic masterpiece rebuilt for a baron's fairytale",
+  "highlights": [
+    "The largest castle in the Netherlands, with 200 rooms, 12 towers, and a drawbridge over a wide moat",
+    "Designed by Pierre Cuypers — the same architect who built the Rijksmuseum and Amsterdam Central Station",
+    "Rebuilt between 1892 and 1912 for Baron Étienne van Zuylen van Nijevelt at extraordinary expense",
+    "The surrounding village of Haarzuilens was entirely relocated to make room for the castle gardens",
+    "The castle remains the private property of the Van Zuylen family — still occupied one month per year"
+  ],
+  "description": "De Haar Castle is an anomaly in a country not known for medieval fortresses: a vast, moated, turreted neo-Gothic castle of 200 rooms, 12 towers, and a scale that would be remarkable anywhere in Europe. That it stands in the flat Dutch countryside 12 kilometres west of Utrecht — surrounded by French-style gardens, a wide moat, and the small village of Haarzuilens that was entirely relocated to create space for its grounds — makes it all the more startling.\n\nThe castle's origins are medieval, but what visitors see today is almost entirely the work of Pierre Cuypers, the architect of the Rijksmuseum and Amsterdam Central Station, who rebuilt it between 1892 and 1912 for Baron Étienne van Zuylen van Nijevelt. Baron Étienne had married into the Rothschild banking family and had essentially unlimited funds — and he used them to create one of the most elaborate neo-Gothic castles in Europe, furnished with genuine medieval tapestries, armour, and art collected across the continent.\n\nThe interior matches the exterior's theatrical ambition. Each of the main rooms is individually decorated in a different historical style — the great hall in Flemish Gothic, the library in Dutch Renaissance, the dining room with 16th-century Flemish tapestries. The castle's private chapel contains original medieval glass. The Van Zuylen family still occupies the castle for one month each year (typically September), when it closes to the public — an arrangement that keeps the building alive as a home rather than a museum.",
+  "history": "The original medieval castle at De Haar dates from the 14th century, when it was built by the lords of Haarzuilens to control this corner of the Bishop of Utrecht's territory. It was largely destroyed in 1482 during a conflict with the Duke of Guelders and spent four centuries as a picturesque ruin, passing through various hands before coming to the Van Zuylen family in the 18th century.\n\nThe transformation began when Baron Étienne van Zuylen van Nijevelt married Hélène de Rothschild in 1892. The couple commissioned Pierre Cuypers — at the height of his fame following the completion of the Rijksmuseum — to rebuild the castle in the romantic neo-Gothic style then fashionable among European nobility. Cuypers worked on De Haar for twenty years, essentially creating a new castle that incorporated fragments of the original structure while achieving a scale and coherence that the medieval original never had.\n\nThe Van Zuylen family used De Haar as a social hub for European aristocracy in the early 20th century, hosting figures including the Spanish royal family and various Rothschild relations. After World War II the castle was donated to a foundation to ensure its preservation, while the family retained the right of annual occupation. It opened fully to the public in the 1990s and has since become the most visited castle in the Netherlands.",
+  "how_to_visit": "**Getting there from Utrecht:** By car, De Haar is 12 km west of Utrecht — about 15 minutes via the A2 motorway and then country roads to Haarzuilens. By public transport, take a bus from Utrecht Centraal towards Vleuten or Woerden; the castle is a short walk from the Haarzuilens stop. Cycling from Utrecht is a popular option — the route through the Utrecht countryside takes about 40 minutes and is mostly flat.\n\n**Book in advance:** De Haar requires timed entry tickets booked online — walk-up availability is very limited, especially on weekends and in spring when the gardens are in bloom. Book at least a few days ahead.\n\n**Gardens:** The formal gardens — designed by the French landscape architect Edouard André and covering 45 hectares — are worth at least an hour independently of the castle interior. The rose garden, the orangery, and the moat walk are all included in the castle ticket.",
+  "faqs": [
+    {
+      "question": "Is De Haar Castle a real medieval castle?",
+      "answer": "De Haar has medieval origins — a 14th-century castle stood on the site — but what visitors see today is almost entirely a neo-Gothic reconstruction completed between 1892 and 1912 by architect Pierre Cuypers. The rebuild incorporated some original medieval stonework, but the castle's current scale, towers, and interiors are essentially a Victorian creation funded by the Rothschild fortune. This makes it historically authentic in origin but architecturally a product of the 19th century — similar in nature to Neuschwanstein in Bavaria or Pierrefonds in France."
+    },
+    {
+      "question": "How do I get to De Haar Castle from Amsterdam?",
+      "answer": "By car, De Haar is about 45 minutes from Amsterdam via the A2 motorway towards Utrecht. By train, take the Intercity from Amsterdam Centraal to Utrecht Centraal (26 minutes, frequent), then a bus towards Vleuten or a taxi to the castle (about 15 minutes from Utrecht). Several day-tour operators run trips from Amsterdam that combine De Haar with Utrecht city, which takes the logistics out of it entirely."
+    },
+    {
+      "question": "Does anyone still live in De Haar Castle?",
+      "answer": "Yes — the Van Zuylen family, descendants of Baron Étienne who had the castle rebuilt, retain the right to occupy the castle for one month each year, typically September. During this period the castle closes to the public. This arrangement was part of the donation agreement when the castle was transferred to a preservation foundation after World War II, and it keeps the building's identity as a home rather than purely a museum."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/de-haar-castle.webp",
+    "alt": "De Haar Castle with its 12 towers reflected in the surrounding moat, Utrecht Province, Netherlands",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/de-haar-castle.webp",
+  "instagram_tag": "#kasteelDeHaar",
+  "meta_title": "De Haar Castle Netherlands: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit De Haar Castle near Utrecht — the largest castle in the Netherlands, with 200 rooms, 12 towers, and magnificent gardens. Book tickets in advance and plan your day trip from Amsterdam.",
+  "tags": ["castle", "neo-gothic", "moated-castle", "netherlands", "utrecht", "day-trip-from-amsterdam", "gardens", "rothschild"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["muiderslot"],
+  "gyg_search_query": "De Haar Castle Utrecht Netherlands tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
