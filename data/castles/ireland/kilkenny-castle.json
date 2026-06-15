@@ -69,7 +69,7 @@
     "city-centre",
     "family-friendly"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "ireland-heritage-trail"
   ],
@@ -79,5 +79,37 @@
   "gyg_location_id": "121675",
   "gyg_search_query": "Kilkenny Castle tour Ireland",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "324408",
+      "title": "Kilkenny: Medieval Castle Guided Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 32,
+      "rating": 4.4,
+      "reviews": 85,
+      "covers_castles": ["kilkenny-castle"]
+    },
+    {
+      "tour_id": "421846",
+      "title": "Kilkenny: Guided City Boat Tour with Kilkenny Castle Views",
+      "type": "guided_tour",
+      "duration": "1 hour",
+      "price_from": 18,
+      "rating": 4.5,
+      "reviews": 120,
+      "covers_castles": ["kilkenny-castle"]
+    },
+    {
+      "tour_id": "49845",
+      "title": "Ireland: Blarney Castle, Kilkenny & Irish Whiskey 3-Day Tour",
+      "type": "day_trip",
+      "duration": "3 days",
+      "price_from": 320,
+      "rating": 4.6,
+      "reviews": 420,
+      "covers_castles": ["kilkenny-castle", "blarney-castle"]
+    }
+  ]
 }

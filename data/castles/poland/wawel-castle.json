@@ -70,15 +70,57 @@
     "instagram-worthy",
     "city-centre"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "central-europe-royal-castles"
   ],
   "nearby_castles": [
     "malbork-castle"
   ],
-  "gyg_location_id": "527",
+  "gyg_location_id": "4142",
   "gyg_search_query": "Wawel Castle Krakow guided tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "414337",
+      "title": "Krakow: Wawel Castle Guided Tour with Entry Tickets",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 35,
+      "rating": 4.7,
+      "reviews": 590,
+      "covers_castles": ["wawel-castle"]
+    },
+    {
+      "tour_id": "508499",
+      "title": "Krakow: Wawel Castle & Cathedral Skip-the-Line Small Group Tour",
+      "type": "skip_the_line",
+      "duration": "2 hours",
+      "price_from": 42,
+      "rating": 4.6,
+      "reviews": 380,
+      "covers_castles": ["wawel-castle"]
+    },
+    {
+      "tour_id": "368896",
+      "title": "Krakow: Skip the Line Wawel Castle & Cathedral Private Tour",
+      "type": "skip_the_line",
+      "duration": "2 hours",
+      "price_from": 65,
+      "rating": 4.7,
+      "reviews": 240,
+      "covers_castles": ["wawel-castle"]
+    },
+    {
+      "tour_id": "539441",
+      "title": "Krakow: Fast Track Wawel Castle and Old Town Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 38,
+      "rating": 4.5,
+      "reviews": 180,
+      "covers_castles": ["wawel-castle"]
+    }
+  ]
 }
