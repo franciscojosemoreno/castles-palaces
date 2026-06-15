@@ -1,0 +1,82 @@
+{
+  "id": "trakoscan-castle",
+  "name": "Trakošćan Castle",
+  "local_name": "Dvorac Trakošćan",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 150000,
+  "country": "croatia",
+  "region": "Krapina-Zagorje County",
+  "nearest_city": "Zagreb",
+  "address": "Trakošćan 1, 42253 Bednja, Croatia",
+  "lat": 46.2511,
+  "lng": 15.9672,
+  "unesco": false,
+  "year_built": 1334,
+  "architectural_style": "Medieval / Romantic Neo-Gothic",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Open daily 09:00–18:00 (Apr–Oct); 09:00–16:00 (Nov–Mar). Last entry 30 minutes before closing."
+  },
+  "price_adult": 7,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.trakoscan.hr",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "April to October — the artificial lake reflects the castle beautifully in all seasons",
+  "accessibility": "The castle involves steep stairs and uneven cobblestones. The lakeside grounds are accessible on flat terrain.",
+  "booking_advance_days": 0,
+  "tagline": "Croatia's fairy-tale castle — a romantic hilltop fortress above a mirrored lake",
+  "highlights": [
+    "The most visited castle in Croatia, set on a wooded hill above a picture-perfect artificial lake",
+    "The romantic 19th-century restoration by Count Juraj Drašković created one of Europe's finest examples of Romantic historicism",
+    "The castle's reflection in the still lake water is one of Croatia's most photographed images",
+    "Inside: authentic Drašković family furnishings, weapons, portraits, and decorative arts spanning 600 years",
+    "Surrounded by 6 km of lakeside walking paths through ancient parkland"
+  ],
+  "description": "Every country has a castle it puts on its tourist posters, and Trakošćan is Croatia's. The image is always the same: white walls and round towers rising from a wooded hill, and below them a perfectly still artificial lake that mirrors the whole composition in its dark water. It is an image of such composed beauty that it seems almost contrived — yet Trakošćan has looked essentially like this for nearly two centuries, and the effect never becomes routine.\n\nThe castle's medieval origins date to 1334, when it appears in written records as a Hungarian border fortress in the hills of the Zagorje region north of Zagreb. But the castle that visitors see today is largely the product of a mid-19th-century romantic restoration by Count Juraj Drašković, who inherited Trakošćan in 1840 and transformed it according to the fashions of the Romantic era: towers were heightened, crenellations restored, the artificial lake created by damming the Bednja River, and the interior furnished as a romantic aristocratic residence rather than a military installation.\n\nThe Drašković family occupied the castle until World War II, accumulating the collection of weapons, portraits, furniture, and decorative arts that visitors see today in the 30 furnished rooms. The castle was nationalised after the war and opened as a museum, but unlike many nationalised properties, it retained much of its original furnishing rather than being emptied. Walking the rooms of Trakošćan, you see the genuine domestic life of a 19th-century Croatian noble family — not a reconstruction, but the thing itself.",
+  "history": "Trakošćan first appears in records in 1334 as a military fortress guarding the Bednja valley on the border between the Hungarian Kingdom and the territories to the north. It passed through various noble families and was significantly modified in the 16th century when the Ottoman threat made defensive improvements urgent throughout this region of Croatia.\n\nThe castle came to the Drašković family in 1569 and remained in their possession for over 350 years. The decisive transformation came when Count Juraj Drašković inherited the property in 1840 and embarked on a comprehensive romantic restoration inspired by the neo-Gothic revival then sweeping European aristocratic architecture. Juraj commissioned Viennese architects to redesign the exterior, created the artificial lake by damming the Bednja River, and laid out the English-style parkland that still surrounds the castle. The restoration took approximately 20 years to complete.\n\nThe Drašković family continued to accumulate the furnishings, weapons, and portraits that fill the castle today until the communist takeover of Yugoslavia after World War II, when the property was nationalised. The castle was converted into a museum in 1953 and has been open to the public ever since. It was returned to state ownership after Croatian independence in 1991 and remains one of the most visited cultural sites in the country.",
+  "how_to_visit": "**Getting there from Zagreb:** Trakošćan is about 65 km north of Zagreb — approximately 1 hour by car on the A4 motorway and then regional roads towards Ivanec and Bednja. There is no direct public transport to the castle; the nearest town with bus connections is Ivanec (10 km away). A rental car or organised tour from Zagreb is strongly recommended.\n\n**On site:** The castle museum occupies 30 rooms across three floors. The lakeside walk — approximately 6 km around the artificial lake — is included with the castle ticket and is one of the most pleasant castle walks in Croatia, with views of the castle from every angle. Rowboat rental on the lake is available in summer.\n\n**Combine with:** Trakošćan is in the heart of Zagorje, a region dotted with small castles and manor houses. Veliki Tabor Castle (30 km south-east, one of the best-preserved medieval castles in Croatia) and the Baroque pilgrimage church of Marija Bistrica make for an excellent Zagorje day trip from Zagreb.",
+  "faqs": [
+    {
+      "question": "Is Trakošćan Castle the most beautiful in Croatia?",
+      "answer": "It is consistently ranked as such — and for visual impact, the combination of hilltop position, white walls, and perfect lake reflection is unmatched in Croatia. Dubrovnik's city walls are more dramatic and historically significant, and the Dalmatian coast has impressive Venetian fortifications, but for the classic fairy-tale castle image in a pastoral setting, Trakošćan is the Croatian standard."
+    },
+    {
+      "question": "How do I get to Trakošćan from Zagreb?",
+      "answer": "By car, Trakošćan is about 65 km north of Zagreb — around 1 hour via the A4 motorway towards Varaždin, then regional roads. There is no practical public transport to the castle itself. Several operators in Zagreb run day tours to Trakošćan, often combined with Varaždin (Croatia's baroque town) or other Zagorje castles. If you want flexibility, renting a car for a day is the best approach."
+    },
+    {
+      "question": "Can you walk around the lake at Trakošćan?",
+      "answer": "Yes — the lakeside walking path is approximately 6 km and is included with the castle ticket. The walk takes about 1–1.5 hours at a relaxed pace and offers excellent views of the castle from different angles, including the famous mirror reflection that makes Trakošćan one of Croatia's most photographed places. Rowboats are available to rent on the lake in summer for an even better perspective."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/trakoscan-castle.webp",
+    "alt": "Trakošćan Castle reflected in its artificial lake in the Zagorje hills, Croatia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/trakoscan-castle.webp",
+  "instagram_tag": "#trakoscan",
+  "meta_title": "Trakošćan Castle Croatia: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Trakošćan Castle — Croatia's most beautiful castle, reflected in a mirrored lake in the Zagorje hills. Plan your day trip from Zagreb and explore 30 furnished historic rooms.",
+  "tags": ["castle", "medieval", "romantic", "zagorje", "day-trip-from-zagreb", "lake-reflection", "croatia", "neo-gothic"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["klis-fortress"],
+  "gyg_search_query": "Trakošćan Castle Zagreb Croatia tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
