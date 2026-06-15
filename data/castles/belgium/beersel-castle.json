@@ -1,0 +1,82 @@
+{
+  "id": "beersel-castle",
+  "name": "Beersel Castle",
+  "local_name": "Kasteel van Beersel",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 40000,
+  "country": "belgium",
+  "region": "Flemish Brabant / Brussels",
+  "nearest_city": "Brussels",
+  "address": "Lotstraat 65, 1650 Beersel, Belgium",
+  "lat": 50.7658,
+  "lng": 4.3072,
+  "unesco": false,
+  "year_built": 1315,
+  "architectural_style": "Gothic Medieval / Moated",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open Tue–Sun Mar–Nov 10:00–18:00; Dec–Feb 10:00–17:00. Closed Mondays and January."
+  },
+  "price_adult": 5,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.kasteelvanbeersel.be",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "Spring and summer — the moat reflects the castle beautifully in morning light",
+  "accessibility": "The exterior and grounds are largely accessible. The castle interior involves stairs. The moat walk is on flat ground.",
+  "booking_advance_days": 0,
+  "tagline": "A perfectly preserved 14th-century moated fortress just 15 km from Brussels",
+  "highlights": [
+    "One of the best-preserved medieval moated castles in Belgium, essentially unchanged since the 14th century",
+    "Three round towers and a complete curtain wall surrounded by a still-water moat — the classic fairy-tale image",
+    "Only 15 km from Brussels — the most accessible medieval castle from the Belgian capital",
+    "Survived two major sieges intact, including an assault by Charles the Bold of Burgundy in 1489",
+    "The surrounding landscape of Flemish countryside and orchards gives it a storybook quality"
+  ],
+  "description": "Beersel Castle is the medieval castle that Brussels forgot it had on its doorstep. Fifteen kilometres south of the capital, along a quiet road through Flemish orchards and farmland, three round towers rise from a perfectly still moat and reflect themselves in the dark water with an exactness that seems almost too compositionally perfect to be real. This is the image that comes to mind when someone says 'medieval castle' — and Beersel delivers it within easy reach of a major European capital.\n\nThe castle was built in 1315 by Godfrey of Heverlee as a frontier fortress protecting the southern approaches to Brussels and the Duchy of Brabant. The three round towers, connected by a curtain wall, represent the fully developed military architecture of early 14th-century Brabant — arrow slits, projecting corbels for dropping materials on attackers, a moat fed by a natural stream, and a drawbridge controlling the single entrance. The construction is in local ferruginous sandstone that has weathered to a warm reddish-brown.\n\nBeersel withstood two major sieges: the first in 1388 by Duke Wenceslas of Brabant, and the second in 1489 by Maximilian of Austria's forces during the conflicts following Charles the Bold's death. Both times the walls held. The castle fell into private hands and gradual disrepair in the 17th century, then was purchased and restored in the 19th century. Today it is one of the most photogenic and least crowded castle experiences in Belgium — a medieval fortress that has escaped the tour-bus circuit simply because no one thought to put it on the map.",
+  "history": "The castle was commissioned by Godfrey of Heverlee, lord of the village of Beersel, in 1315. Construction used the local ferruginous sandstone that gives the towers their characteristic warm-red colour. The strategic purpose was to defend the southern route into the Duchy of Brabant from the County of Namur — a recurring medieval flashpoint.\n\nThe castle suffered its most significant damage during the siege of 1489, when forces loyal to Maximilian of Austria besieged Beersel because its lords had supported the rebellious towns of Flanders and Brabant. The town of Beersel was burned, but the castle itself held. The lords of Beersel subsequently submitted and the castle was returned to them.\n\nFrom the 17th century onwards, Beersel's military role ended and the castle passed through several private owners. By the 19th century it had fallen into substantial disrepair — the interior buildings were long gone, and vegetation had taken over. A major restoration campaign in the late 19th and early 20th century stabilised the towers and walls, cleared the moat, and opened the castle to visitors. The restoration was conservative by Victorian standards — far less interventionist than the restorations of Pierrefonds or Carcassonne in France — and the result is a castle that reads as genuinely medieval rather than reconstructed.",
+  "how_to_visit": "**Getting there from Brussels:** By public transport, take the Brussels metro to Gare du Midi (South Station), then a train to Ruisbroek or Lot (about 15 minutes), followed by a short walk or taxi to the castle. By car, Beersel is about 20 minutes from central Brussels via the R0 ring road — take the Beersel exit and follow signs. Parking is available near the castle entrance.\n\n**Combine with:** Beersel pairs naturally with a visit to the Sonian Forest (Forêt de Soignes), one of the most beautiful beech forests in Europe, which begins just north of Beersel. A day combining the castle, a walk in the forest, and lunch in the village of Beersel makes for an excellent Brussels escape. The Brewers' House in Brussels and the abbey of Villers-la-Ville (ruins of a 12th-century Cistercian abbey, about 30 km south) are also worth combining.",
+  "faqs": [
+    {
+      "question": "How do I get to Beersel Castle from Brussels?",
+      "answer": "By car, Beersel Castle is about 20 minutes south of central Brussels — take the R0 ring road and exit at Beersel. By public transport, take a train from Brussels Midi (South Station) to Ruisbroek or Lot station (about 15 minutes), then a 20-minute walk or short taxi to the castle. It is one of the few genuinely medieval Belgian castles accessible without a car from Brussels, though a car makes it easier."
+    },
+    {
+      "question": "Is Beersel Castle worth visiting?",
+      "answer": "Yes, particularly if you are based in Brussels and want a half-day medieval castle experience without a long drive. The exterior — three towers, moat, drawbridge — is one of the most classically beautiful castle images in Belgium. The interior is essentially a shell (the original buildings inside the walls are long gone), so the visit is more atmospheric than museum-like. Allow about 1–1.5 hours. Entry is inexpensive at €5 per adult."
+    },
+    {
+      "question": "Can you go inside Beersel Castle?",
+      "answer": "Yes — you can enter through the main gate, walk the courtyard, and climb the towers. The interior of the castle walls is open grass and cobblestone — the medieval buildings that once occupied the courtyard have not survived. However, the towers themselves are accessible and offer views of the surrounding countryside. The moat walk outside the walls is also free to do and provides the best photographic angles."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/beersel-castle.webp",
+    "alt": "Beersel Castle's three round towers reflected in the surrounding moat, Flemish Brabant, Belgium",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/beersel-castle.webp",
+  "instagram_tag": "#kasteelVanBeersel",
+  "meta_title": "Beersel Castle Belgium: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Beersel Castle near Brussels — a perfectly preserved 14th-century moated fortress just 15 km from the Belgian capital. Plan your half-day trip from Brussels.",
+  "tags": ["castle", "medieval", "moated-castle", "flemish-brabant", "day-trip-from-brussels", "14th-century", "three-towers"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["gravensteen", "bouillon-castle"],
+  "gyg_search_query": "Beersel Castle Brussels Belgium tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
