@@ -1,0 +1,82 @@
+{
+  "id": "ksiaz-castle",
+  "name": "Książ Castle",
+  "local_name": "Zamek Książ",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 300000,
+  "country": "poland",
+  "region": "Lower Silesia / Wałbrzych",
+  "nearest_city": "Wrocław",
+  "address": "ul. Piastów Śląskich 1, 58-306 Wałbrzych, Poland",
+  "lat": 50.8622,
+  "lng": 16.2878,
+  "unesco": false,
+  "year_built": 1292,
+  "architectural_style": "Gothic / Renaissance / Baroque",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open daily. Extended to 18:00 May–Sep. Castle interiors and tunnel tours have separate tickets and timed entry. Book tunnel tours in advance in peak season."
+  },
+  "price_adult": 12,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.ksiaz.walbrzych.pl",
+  "visit_duration": "2–3 hours (castle + tunnels)",
+  "best_season": "May to October — the terrace gardens are magnificent in summer",
+  "accessibility": "The main castle rooms are partially accessible. The tunnel tour involves significant underground walking and low passages — not suitable for claustrophobics or limited mobility.",
+  "booking_advance_days": 2,
+  "tagline": "Silesia's castle of secrets — 400 rooms, Baroque splendour, and unfinished Nazi tunnels beneath the foundations",
+  "highlights": [
+    "The largest castle in Silesia and third largest in Poland, with over 400 rooms across three building phases",
+    "From 1943, the Nazis converted the castle for Heinrich Himmler's headquarters, cutting 950 metres of tunnels underneath — purpose unknown",
+    "The Hochberg/Pless family occupied the castle for over 300 years, accumulating one of the greatest private collections in central Europe",
+    "The terrace gardens, descending the hillside in three formal levels, are among the most striking in Silesia",
+    "The mystery of the Nazi tunnels — and rumours of hidden gold — make Książ one of the most intriguing sites in Poland"
+  ],
+  "description": "Książ Castle is Silesia's great castle of contradictions: a building of extraordinary Baroque refinement that conceals, in its foundations, 950 metres of wartime tunnels carved by Nazi forced labourers for a purpose that remains unknown. Above ground, the castle is all rococo plasterwork, frescoed ceilings, and terrace gardens; below ground, unfinished concrete corridors stretch into the hillside and invite speculation about what Heinrich Himmler intended to build here in 1943.\n\nThe castle occupies a dramatic position on a forested sandstone promontory above the Pełcznica River gorge, 65 kilometres south-west of Wrocław. The current structure reflects three distinct building campaigns: a Gothic core from the 13th century, a major Renaissance rebuilding in the 16th century under the Hochberg family, and an elaborate Baroque expansion in the 18th century that produced the ornate interiors surviving today. The Hochbergs — who later became the Princes of Pless — occupied the castle for over 300 years, filling it with one of the greatest private art collections in central Europe.\n\nIn 1941, the Nazis confiscated Książ from Princess Daisy of Pless (née Cornwallis-West, a British noblewoman who had married into the Hochberg family). In 1943, the SS requisitioned the castle as a potential headquarters for Heinrich Himmler, and forced labourers — mainly concentration camp prisoners — were set to work cutting tunnels under the castle and surrounding hills. The tunnels connect to the larger 'Project Riese' underground complex in the surrounding mountains. The Nazis stripped the castle's interiors before the war ended, and the tunnels were never completed. The mystery of their intended purpose, and persistent rumours of hidden Nazi gold, have made Książ a subject of obsessive speculation and, occasionally, serious archaeological investigation.",
+  "history": "The first castle at Książ (Fürstenstein in German) was built in 1292 by Bolko I, Duke of Silesia. Silesia changed hands multiple times in the medieval period, passing from the Piast dynasty to Bohemia in 1368 and to the Habsburgs in 1526. The castle was acquired by the Hochberg family in 1509, who held it continuously until 1941 — over 400 years.\n\nThe Hochbergs transformed the Gothic castle through two major building campaigns: a Renaissance rebuilding in the 16th century and, most significantly, a Baroque expansion between 1718 and 1734 under Count Konrad Ernst Maximilian von Hochberg, which produced the ornate ballrooms, galleries, and state apartments that survive today. In the 19th century, the family was elevated to Princes of Pless, and the castle became a centre of European aristocratic social life. Kaiser Wilhelm II was a regular guest in the early 20th century.\n\nThe SS expropriation in 1941 and the subsequent construction of the underground tunnel system effectively destroyed the castle as a working aristocratic residence. Princess Daisy, already estranged from the family in the late 1930s, never returned to the castle. After the war, Książ came under Polish state administration (Silesia was transferred from Germany to Poland in 1945), was partly used as a hotel and research facility, and progressively restored and opened to the public from the 1970s onwards.",
+  "how_to_visit": "**Getting there from Wrocław:** By car, Książ is 65 km south-west of Wrocław — about 1 hour via the A4 motorway and then south to Wałbrzych. By train, Wałbrzych Miasto station is served from Wrocław in about 1.5 hours; from the station, the castle is 4 km by taxi or bus 8. Several Wrocław tour operators run day trips to Książ.\n\n**Tunnel tours:** The tunnel system beneath the castle requires a separate ticket and is toured in guided groups (Polish and English). Book in advance in summer as capacity is limited. The tunnels are cool year-round — bring a layer even in summer. The tour takes about 45 minutes underground.\n\n**Terrace gardens:** The three-level formal gardens terraced into the hillside below the castle are included with the main ticket and worth 30–45 minutes independently of the castle interior.",
+  "faqs": [
+    {
+      "question": "What are the Nazi tunnels under Książ Castle?",
+      "answer": "From 1943, SS forces used concentration camp prisoners to excavate approximately 950 metres of tunnels under the castle and into the surrounding sandstone hills. The tunnels were intended as part of 'Project Riese' (German for 'Giant') — a vast underground construction project in the Owl Mountains that remains one of the largest Nazi construction projects of the war. The purpose of Riese is still debated: proposed theories include a Führer headquarters, an underground factory complex, or a combination. The tunnels under the castle were never completed, and no documentation of their exact intended function has been found. Rumours of hidden Nazi gold or art have circulated since the war but no significant cache has ever been discovered."
+    },
+    {
+      "question": "How do I get to Książ Castle from Wrocław?",
+      "answer": "By car, Książ is about 65 km south-west of Wrocław — roughly 1 hour via the A4 motorway towards Legnica, then south on the S3 and local roads to Wałbrzych. By train from Wrocław Główny to Wałbrzych Miasto (about 1.5 hours), then a short bus or taxi to the castle. Several Wrocław operators run organised day trips to Książ, often combined with the Chwaliszów viaduct or other Lower Silesia sites."
+    },
+    {
+      "question": "Who was Princess Daisy of Pless?",
+      "answer": "Princess Daisy of Pless (1873–1943) was born Mary Theresa Olivia Cornwallis-West, daughter of a Welsh aristocratic family. She married Hans Heinrich XV, Prince of Pless (heir to Książ Castle) in 1891, becoming one of the most prominent social figures in Wilhelmine Germany and a friend of Kaiser Wilhelm II. She was known for her beauty, her social activism, and her memoirs. She and her husband separated in 1922, and she died in Bad Salzbrunn (now Szczawno-Zdrój) in May 1943, just after the Nazis had confiscated the castle from her family. She never saw Książ again after her estrangement."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ksiaz-castle.webp",
+    "alt": "Książ Castle's Baroque towers rising above the forested Pełcznica River gorge in Silesia, Poland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ksiaz-castle.webp",
+  "instagram_tag": "#zamekKsiaz",
+  "meta_title": "Książ Castle Poland: Tickets, Nazi Tunnels & Visitor Guide 2026",
+  "meta_description": "Visit Książ Castle in Silesia — Poland's third largest castle with 400 rooms and mysterious Nazi tunnels beneath the foundations. Plan your day trip from Wrocław.",
+  "tags": ["castle", "baroque", "gothic", "silesia", "poland", "nazi-tunnels", "project-riese", "day-trip-from-wroclaw", "hochberg", "mystery"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["malbork-castle", "wawel-castle", "ogrodzieniec-castle"],
+  "gyg_search_query": "Książ Castle Wrocław Poland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
