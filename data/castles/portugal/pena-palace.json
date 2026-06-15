@@ -74,7 +74,7 @@
     "instagram-worthy",
     "colorful"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "sintra-palaces-route"
   ],
@@ -85,5 +85,47 @@
   "gyg_location_id": "4788",
   "gyg_search_query": "Pena Palace Sintra tour tickets",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "79596",
+      "title": "Sintra: Pena Palace and Park Entrance Ticket",
+      "type": "skip_the_line",
+      "duration": "Self-guided",
+      "price_from": 17,
+      "rating": 4.4,
+      "reviews": 1100,
+      "covers_castles": ["pena-palace"]
+    },
+    {
+      "tour_id": "892800",
+      "title": "Sintra: Pena Palace Guided Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 39,
+      "rating": 4.6,
+      "reviews": 280,
+      "covers_castles": ["pena-palace"]
+    },
+    {
+      "tour_id": "619568",
+      "title": "Sintra: Pena Palace and Gardens Guided Tour with Ticket",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 58,
+      "rating": 4.7,
+      "reviews": 190,
+      "covers_castles": ["pena-palace"]
+    },
+    {
+      "tour_id": "482251",
+      "title": "From Lisbon: Sintra Half-Day Tour with Pena Palace Tickets",
+      "type": "day_trip",
+      "duration": "5 hours",
+      "price_from": 52,
+      "rating": 4.5,
+      "reviews": 920,
+      "covers_castles": ["pena-palace", "castle-of-the-moors"]
+    }
+  ]
 }
