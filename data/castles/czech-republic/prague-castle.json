@@ -84,7 +84,7 @@
     "instagram-worthy",
     "family-friendly"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "bohemia-castle-road",
     "central-europe-palaces"
@@ -93,8 +93,50 @@
     "cesky-krumlov-castle",
     "karlstejn-castle"
   ],
-  "gyg_location_id": "540",
+  "gyg_location_id": "2720",
   "gyg_search_query": "Prague Castle guided tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "406279",
+      "title": "Prague: Official Entry Ticket to Prague Castle",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 23,
+      "rating": 4.4,
+      "reviews": 840,
+      "covers_castles": ["prague-castle"]
+    },
+    {
+      "tour_id": "53490",
+      "title": "Prague Castle: Skip-the-Line Ticket with Optional Audio Guide",
+      "type": "skip_the_line",
+      "duration": "Self-guided",
+      "price_from": 34,
+      "rating": 4.5,
+      "reviews": 620,
+      "covers_castles": ["prague-castle"]
+    },
+    {
+      "tour_id": "219531",
+      "title": "Prague: Castle Small Group Tour with Local Guide & Admission",
+      "type": "guided_tour",
+      "duration": "2.5 hours",
+      "price_from": 57,
+      "rating": 4.7,
+      "reviews": 490,
+      "covers_castles": ["prague-castle"]
+    },
+    {
+      "tour_id": "50046",
+      "title": "Prague Castle: 2.5-Hour Tour Including Admission Ticket",
+      "type": "guided_tour",
+      "duration": "2.5 hours",
+      "price_from": 59,
+      "rating": 4.6,
+      "reviews": 380,
+      "covers_castles": ["prague-castle"]
+    }
+  ]
 }

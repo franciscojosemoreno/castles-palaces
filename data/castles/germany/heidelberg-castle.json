@@ -84,7 +84,7 @@
     "medieval",
     "dramatic"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "rhine-valley-castles"
   ],
@@ -95,5 +95,37 @@
   "gyg_location_id": "367",
   "gyg_search_query": "Heidelberg Castle tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "34832",
+      "title": "Heidelberg Castle Tour: Residence of the Electors",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 24,
+      "rating": 4.5,
+      "reviews": 330,
+      "covers_castles": ["heidelberg-castle"]
+    },
+    {
+      "tour_id": "396692",
+      "title": "Heidelberg: Sightseeing Bus and Castle Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 29,
+      "rating": 4.4,
+      "reviews": 290,
+      "covers_castles": ["heidelberg-castle"]
+    },
+    {
+      "tour_id": "7371",
+      "title": "From Frankfurt: Heidelberg Castle and Old City Guided Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 49,
+      "rating": 4.6,
+      "reviews": 480,
+      "covers_castles": ["heidelberg-castle"]
+    }
+  ]
 }
