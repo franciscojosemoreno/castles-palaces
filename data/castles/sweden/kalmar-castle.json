@@ -1,0 +1,82 @@
+{
+  "id": "kalmar-castle",
+  "name": "Kalmar Castle",
+  "local_name": "Kalmar slott",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 100000,
+  "country": "sweden",
+  "region": "Småland / Kalmar County",
+  "nearest_city": "Kalmar",
+  "address": "Kungsgatan, 392 33 Kalmar, Sweden",
+  "lat": 56.6604,
+  "lng": 16.3563,
+  "unesco": false,
+  "year_built": 1100,
+  "architectural_style": "Medieval / Renaissance",
+  "opening_hours": {
+    "monday": "10:00–16:00",
+    "tuesday": "10:00–16:00",
+    "wednesday": "10:00–16:00",
+    "thursday": "10:00–16:00",
+    "friday": "10:00–16:00",
+    "saturday": "10:00–16:00",
+    "sunday": "10:00–16:00",
+    "seasonal_note": "Open daily. Extended to 18:00 Jun–Aug. Shorter hours Oct–Apr. Closed some public holidays — check website."
+  },
+  "price_adult": 12,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://kalmarslott.se",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to September",
+  "accessibility": "Ground floor accessible. Upper floors and towers require stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The castle that forged Scandinavia — birthplace of the union that united Denmark, Norway and Sweden",
+  "highlights": [
+    "One of Scandinavia's best-preserved Renaissance castles, with original 16th-century interiors largely intact",
+    "The Kalmar Union of 1397 — which united Denmark, Norway, and Sweden under one crown — was signed here",
+    "The castle's Great Hall, royal chapel, and King Erik's Chamber are outstanding examples of Nordic Renaissance",
+    "Set on a small island connected to the city, with water views on all sides",
+    "The castle's role in the Kalmar War of 1611–1613 determined the future border between Sweden and Denmark"
+  ],
+  "description": "Kalmar Castle is where Scandinavia was unified. In June 1397, Queen Margaret I of Denmark convened a meeting of Nordic nobles at Kalmar and created the Kalmar Union — a single crown governing Denmark, Norway, and Sweden — that lasted for 126 years and shaped the political geography of northern Europe. The castle that hosted that meeting still stands on its small island in the Kalmar Sound, still accessible by the same approach across the water, and it is one of the best-preserved Renaissance castles in Scandinavia.\n\nThe castle's origins are medieval — a defensive tower was built here around 1100, controlling the strategically vital strait between Sweden and the island of Öland. But the castle that visitors explore today is substantially a Renaissance creation: the circular outer wall, round corner towers, and richly decorated interior apartments were built between 1542 and 1620 by Gustav Vasa and his sons Johan III and Karl IX, who transformed a medieval fortress into a royal palace of great sophistication.\n\nThe interior is exceptional by any standard. The Great Hall retains its original 16th-century ceiling paintings. The royal chapel preserves carved wooden fittings from the 1580s. King Erik XIV's chamber has original painted decoration from around 1570, including a remarkable series of portraits and allegorical scenes. These rooms have survived because Kalmar's strategic importance diminished after the border between Sweden and Denmark shifted south in 1658 — no longer a frontier fortress, the castle was simply maintained rather than remodelled.",
+  "history": "Kalmar's position on the strait between the Swedish mainland and the island of Öland made it one of the most strategically significant points in medieval Scandinavia — whoever controlled Kalmar controlled trade between the Baltic and the North Sea. A defensive tower was established here around 1100, developed into a proper castle by the 13th century, and became one of the most contested fortifications in northern Europe.\n\nThe castle's most significant historical moment came in 1397, when Queen Margaret I assembled the nobles of Denmark, Norway, and Sweden here to create the Kalmar Union — the first attempt to unite the Scandinavian kingdoms under a single crown. The Union endured, with interruptions, until 1523, when Gustav Vasa broke Sweden away and became king of an independent Sweden.\n\nGustav Vasa subsequently transformed Kalmar from a contested medieval fortress into a Swedish royal residence, beginning the Renaissance reconstruction that his sons continued. The castle was besieged multiple times during the wars between Sweden and Denmark that defined 16th and 17th century Scandinavian history. After the Treaty of Roskilde in 1658 moved the Swedish-Danish border permanently south to Skåne, Kalmar lost its frontier role and the castle gradually fell out of royal use, becoming a county prison in the 18th century before restoration and conversion to a museum in the 19th century.",
+  "how_to_visit": "**Getting there:** Kalmar is well connected by train from Stockholm (about 2.5 hours) and Gothenburg (about 3 hours). The castle is 10 minutes' walk from Kalmar Central Station. By car from Stockholm, the journey takes about 3 hours via the E22 motorway.\n\n**Combine with Öland:** Kalmar is the gateway to the island of Öland, connected to the mainland by a 6-km bridge. Öland's UNESCO World Heritage landscape (the Alvar limestone plateau and historic windmills) is easily reached from Kalmar and makes for an excellent full-day combination.\n\n**On site:** The guided tours of the interior (included in the ticket price and strongly recommended) run regularly in Swedish and English. The castle museum in the outer buildings covers the history of the Kalmar Union and the castle's military role in detail.",
+  "faqs": [
+    {
+      "question": "What was the Kalmar Union and why is it important?",
+      "answer": "The Kalmar Union was a personal union of Denmark, Norway, and Sweden under a single monarch, created at Kalmar in 1397 by Queen Margaret I of Denmark. It was the first and most successful attempt to unite the Scandinavian kingdoms, and it lasted — with significant interruptions — until 1523 when Gustav Vasa broke Sweden away. The Union shaped the political and cultural identity of Scandinavia for over a century and its legacy is still felt in the shared cultural and linguistic heritage of the Nordic countries."
+    },
+    {
+      "question": "How do I get to Kalmar Castle from Stockholm?",
+      "answer": "By train, the journey from Stockholm to Kalmar takes about 2.5 hours on the direct Intercity service — trains run several times daily. The castle is a 10-minute walk from Kalmar Central Station. By car, the drive is about 3 hours via the E22 motorway along the Baltic coast. Kalmar is also easily reachable from Gothenburg (about 3 hours by train or car)."
+    },
+    {
+      "question": "Are the interiors of Kalmar Castle original?",
+      "answer": "Substantially yes — the Great Hall, royal chapel, and several of the royal apartments retain original 16th-century painted ceilings, carved woodwork, and decorative schemes. This makes Kalmar one of the most intact Renaissance interiors in Scandinavia. The castle's survival in this state is largely due to its diminished strategic importance after 1658, which meant it was maintained rather than remodelled to suit later tastes."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/kalmar-castle.webp",
+    "alt": "Kalmar Castle's round towers rising from the water at the edge of Kalmar Sound, Sweden",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/kalmar-castle.webp",
+  "instagram_tag": "#kalmarCastle",
+  "meta_title": "Kalmar Castle Sweden: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Kalmar Castle — Scandinavia's finest Renaissance castle where the Kalmar Union was signed in 1397. Plan your visit from Stockholm and explore original 16th-century royal interiors.",
+  "tags": ["castle", "renaissance", "medieval", "kalmar-union", "scandinavia", "royal-castle", "sweden", "baltic"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["gripsholm-castle", "drottningholm-palace"],
+  "gyg_search_query": "Kalmar Castle Sweden tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
