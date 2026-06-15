@@ -1,0 +1,82 @@
+{
+  "id": "harlech-castle",
+  "name": "Harlech Castle",
+  "local_name": "Castell Harlech",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 80000,
+  "country": "wales",
+  "region": "Gwynedd / Snowdonia",
+  "nearest_city": "Harlech",
+  "address": "Castle Square, Harlech, Gwynedd LL46 2YH, Wales",
+  "lat": 52.8605,
+  "lng": -4.1095,
+  "unesco": true,
+  "year_built": 1282,
+  "architectural_style": "Edwardian Concentric Medieval",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Open daily Mar–Oct 09:30–17:00; Nov–Feb 10:00–16:00. Managed by Cadw (Welsh Government). Last entry 30 minutes before closing."
+  },
+  "price_adult": 13,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/visit/places-to-visit/harlech-castle",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to September — views across Cardigan Bay and Snowdonia are clearest in summer",
+  "accessibility": "The gatehouse ground floor and main courtyard are accessible. Towers and upper walkways require steep stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The castle that inspired 'Men of Harlech' — Edward I's Iron Ring fortress on a cliff above the Irish Sea",
+  "highlights": [
+    "Part of UNESCO's 'Castles and Town Walls of King Edward in Gwynedd' — one of four Iron Ring fortresses",
+    "Built in just 6 years (1282–1289) by Master James of St. George, Edward I's master castle-builder",
+    "The massive twin-towered gatehouse is one of the finest in Britain — near-impregnable in its day",
+    "The famous 'Way from the Sea' — 108 steps cut into the cliff face — once the castle's seaborne supply route",
+    "Views from the battlements: Cardigan Bay, the Llŷn Peninsula, and Snowdon on clear days"
+  ],
+  "description": "Harlech Castle sits on a rock 60 metres above Tremadog Bay, and in 1282 when it was built, the sea came to the base of that rock. The 'Way from the Sea' — a long flight of steps cut into the cliff face — was the castle's supply route, allowing ships to offload provisions directly into the fortification even during siege. The sea has since receded, leaving Harlech's cliff stranded a kilometre from the water, but the steps remain, and the quality of the position — controlling the whole sweep of Cardigan Bay from an almost unassailable natural platform — is as apparent today as it was to Edward I's military engineers.\n\nHarlech was built between 1282 and 1289 by Master James of St. George, the Savoyard architect who designed all four of Edward I's Iron Ring castles in north Wales. The design is a masterpiece of concentrated military architecture: a massive twin-towered gatehouse capable of independent defence, an inner ward with four round corner towers, and an outer ward with lower walls — all fitted into the irregular shape of the rock with extraordinary precision. The gatehouse alone, with its two D-shaped towers rising five storeys, is one of the most impressive pieces of medieval military architecture in Britain.\n\nHarlech's historical fame rests on two long sieges. In 1404, Owain Glyndŵr — the Welsh national hero — captured the castle after a lengthy siege and held court here as Prince of Wales for several years, using it as his de facto capital. In 1461–1468, during the Wars of the Roses, Harlech became the last Lancastrian stronghold in England and Wales, holding out under Dafydd ap Ieuan for seven years. It was the inspiration for the march 'Men of Harlech,' still one of the most famous Welsh songs.",
+  "history": "Harlech was built as part of Edward I's programme of military conquest following the defeat of the last native Prince of Wales, Llywelyn ap Gruffudd, in 1282. Edward needed a chain of fortresses to hold north Wales permanently, and Master James of St. George was commissioned to design and build Harlech, Conwy, Caernarfon, and Beaumaris — the Iron Ring.\n\nConstruction at Harlech was completed with remarkable speed — the castle was essentially finished in six years at a cost of around £8,190 (a very large sum for the period). The workforce at peak construction included over 950 workers brought from across England.\n\nThe castle's greatest test came during the revolt of Owain Glyndŵr (1400–1415), Wales's most serious attempt to throw off English rule. Glyndŵr captured Harlech in 1404 and used it as his capital and family home. His wife, children, and mother-in-law were eventually captured here when English forces retook the castle in 1409.\n\nDuring the Wars of the Roses, Harlech's Lancastrian garrison held out from 1461 to 1468 against Yorkist forces — the longest siege in the Wars and possibly the inspiration for the march 'Men of Harlech.' After its eventual surrender, the castle gradually fell into disrepair and was already ruinous by the 16th century. It was inscribed as a UNESCO World Heritage Site in 1986.",
+  "how_to_visit": "**Getting there:** Harlech is on the Cambrian Coast railway line, with direct services from Machynlleth (change from Birmingham/Shrewsbury) and from Pwllheli. The journey from London involves a change at Machynlleth or Shrewsbury and takes about 5–6 hours. By car from Chester, allow about 2 hours via the A55 and A496. Parking is available in the town below the castle.\n\n**Combine with Snowdonia:** Harlech is on the southern edge of Snowdonia National Park. The combination of the castle in the morning and an afternoon walk in Snowdonia — whether the Rhinog mountains above Harlech or the Snowdon massif further north — makes for an excellent Wales day.\n\n**The Way from the Sea:** Don't miss the descent of the 108 steps cut into the cliff face on the castle's seaward side. This was the medieval supply route from the sea and gives a visceral sense of how the castle functioned as a military installation dependent on maritime supply.",
+  "faqs": [
+    {
+      "question": "What is the Iron Ring of Edward I?",
+      "answer": "The Iron Ring (or Iron Ring of Castles) refers to the chain of fortresses built by King Edward I of England between 1277 and 1295 to control north Wales after his conquest of the region. The four main Iron Ring castles — Conwy, Caernarfon, Harlech, and Beaumaris — were all designed by the same architect, Master James of St. George, and were all designated UNESCO World Heritage Sites in 1986. They represent the most sophisticated programme of castle construction in medieval history and effectively ended any prospect of Welsh independence for several centuries."
+    },
+    {
+      "question": "What is 'Men of Harlech'?",
+      "answer": "'Men of Harlech' (Rhyfelgyrch Gwŷr Harlech in Welsh) is a traditional Welsh march whose lyrics describe the defence of Harlech Castle. It is most commonly associated with the 7-year Lancastrian siege of 1461–1468, when the castle's garrison held out under Dafydd ap Ieuan against Yorkist forces. The song became one of the most famous pieces of Welsh music and is now widely used as a Welsh national anthem alternative. It featured in the film Zulu (1964), where it is sung by Welsh soldiers."
+    },
+    {
+      "question": "Can you walk the walls of Harlech Castle?",
+      "answer": "Yes — the wall walk and towers are accessible and form a significant part of the visitor experience. From the battlements, on clear days, you can see Cardigan Bay, the Llŷn Peninsula, the Rhinog mountains, and on the best days, Snowdon. The 'Way from the Sea' staircase descending the cliff face can also be walked and gives excellent views of the castle's exterior from the base of the rock."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/harlech-castle.webp",
+    "alt": "Harlech Castle's massive twin-towered gatehouse on its cliff above Cardigan Bay and the mountains of Snowdonia, Wales",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/harlech-castle.webp",
+  "instagram_tag": "#harlech",
+  "meta_title": "Harlech Castle Wales: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Harlech Castle — Edward I's UNESCO Iron Ring fortress on a Gwynedd cliff with views across Cardigan Bay. Book Cadw tickets and plan your Snowdonia trip.",
+  "tags": ["castle", "medieval", "edward-i", "iron-ring", "unesco-world-heritage", "wales", "snowdonia", "cadw", "gwynedd"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["caernarfon-castle", "conwy-castle", "caerphilly-castle", "beaumaris-castle"],
+  "gyg_search_query": "Harlech Castle North Wales tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
