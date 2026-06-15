@@ -1,0 +1,82 @@
+{
+  "id": "methoni-castle",
+  "name": "Methoni Castle",
+  "local_name": "Κάστρο Μεθώνης",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 60000,
+  "country": "greece",
+  "region": "Messenia / Peloponnese",
+  "nearest_city": "Kalamata",
+  "address": "Methoni, 24006, Greece",
+  "lat": 36.8183,
+  "lng": 21.7047,
+  "unesco": false,
+  "year_built": 1209,
+  "architectural_style": "Venetian Medieval",
+  "opening_hours": {
+    "monday": "08:30–15:30",
+    "tuesday": "08:30–15:30",
+    "wednesday": "08:30–15:30",
+    "thursday": "08:30–15:30",
+    "friday": "08:30–15:30",
+    "saturday": "08:30–15:30",
+    "sunday": "08:30–15:30",
+    "seasonal_note": "Open daily. Extended to 20:00 in summer (Jun–Sep). Free entry. Hours vary — verify locally before visiting."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.visitgreece.gr",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to June and September to October — avoid peak summer heat",
+  "accessibility": "The main causeway and lower areas are accessible. The interior ruins involve uneven terrain and some stairs.",
+  "booking_advance_days": 0,
+  "tagline": "Venice's gateway to the East — a sea fortress at the tip of the Peloponnese with an octagonal tower rising from the sea",
+  "highlights": [
+    "One of the largest and best-preserved Venetian sea fortresses in the Mediterranean",
+    "The Bourtzi — an octagonal Ottoman tower on a tiny offshore island, connected to the fortress by a stone bridge",
+    "Free entry — one of Greece's most spectacular fortifications at no cost",
+    "Set on a peninsula at the tip of the Messenian Peninsula, surrounded by the Mediterranean on three sides",
+    "The fortress walls, towers, and Byzantine church ruins cover an area of over 12 hectares"
+  ],
+  "description": "Methoni Castle occupies the entire tip of a rocky peninsula at the south-western corner of the Peloponnese, with the Ionian Sea washing against its walls on three sides. The scale is immediately striking: 12 hectares of fortress, running from the narrow isthmus that connects it to the mainland to the seaward bastions that face open water in every direction. Beyond the southernmost walls, a stone bridge extends to a tiny islet where an octagonal Ottoman tower — the Bourtzi — rises from the sea like a chess piece.\n\nThe fortress has ancient origins — Methoni (called Modon by the Venetians and by medieval travellers) was an important port on the route from Venice to the Levant. But the surviving walls are predominantly Venetian, built after 1209 when the Fourth Crusade redistributed the Byzantine Empire among western European powers and the Republic of Venice acquired a strategic chain of ports across the eastern Mediterranean. Methoni was one of the first and most important: 'the eyes of the Republic,' the Venetians called it, along with the nearby fortress of Koroni.\n\nThe interior of the fortress is a ruin, but a substantial one — several towers, the remains of a Byzantine church, cisterns, and the outline of the medieval town that once existed within the walls are all visible. The walk around the sea walls, with the Mediterranean below and, on clear days, the island of Sapienza to the south-west, is one of the finest fortress walks in Greece. Entry is free.",
+  "history": "The Methoni peninsula has been fortified since antiquity — Nestor's palace at nearby Pylos controlled this coastline in the Bronze Age, and ancient Methone appears in classical sources as a significant port. The medieval castle's construction began after 1209, when Venice acquired the site following the Fourth Crusade's dismemberment of the Byzantine Empire.\n\nVenice held Methoni for almost three centuries, using it as a crucial resupply point on the shipping routes between Venice and the eastern Mediterranean. The fortress was substantially rebuilt and expanded multiple times during Venetian rule. In 1500, after a siege of two weeks, the Ottoman Sultan Bayezid II's forces stormed Methoni — a defeat that shocked Europe and prompted the Pope to call for a new Crusade. The fall of Methoni marked the effective end of Venetian dominance in the eastern Mediterranean.\n\nThe Ottomans held Methoni for three centuries, adding the offshore Bourtzi tower and maintaining the fortress as a regional stronghold. The castle changed hands between Venice and the Ottomans twice more (briefly Venetian 1686–1715) before being definitively incorporated into the Greek state in 1828 following the War of Independence. Today it is maintained as an archaeological site with free public access.",
+  "how_to_visit": "**Getting there:** Methoni is a small village on the south-western Peloponnese, 60 km south-west of Kalamata. By car from Kalamata, the drive takes about 1 hour via the E55 and regional roads. From Athens, allow about 4 hours. There is no train. Limited bus connections run from Pylos (20 km north). A car is strongly recommended.\n\n**The Bourtzi:** Don't miss the walk across the stone bridge from the main fortress to the offshore Bourtzi tower. The view back at the main castle walls from the Bourtzi platform is excellent.\n\n**Combine with:** Methoni pairs perfectly with the nearby fortresses of Koroni (45 km east, also Venetian and dramatically positioned) and the Palace of Nestor at Pylos (Bronze Age, 20 km north). A Messenia peninsula loop combining all three makes for an outstanding archaeological day.",
+  "faqs": [
+    {
+      "question": "Is Methoni Castle free to enter?",
+      "answer": "Yes — Methoni Castle has free entry. The fortress is open daily and there is no admission charge for the main site. This makes it one of the best-value major fortifications in Greece. The only potential additional cost is parking near the village."
+    },
+    {
+      "question": "What is the Bourtzi tower at Methoni?",
+      "answer": "The Bourtzi (from the Turkish word for tower) is an octagonal tower built by the Ottomans on a tiny rocky islet just offshore from the main Methoni fortress, connected to it by a stone bridge. The Ottomans built it after their capture of Methoni in 1500, using it as an additional watchtower and execution site. It is one of the most distinctive elements of the Methoni complex and can be walked to via the bridge."
+    },
+    {
+      "question": "How do I get to Methoni from Athens?",
+      "answer": "By car, Methoni is about 4 hours from Athens via the E65 towards Corinth, then south through the Peloponnese via Tripoli and Kalamata. By public transport from Athens, take the KTEL bus to Kalamata (about 3.5 hours), then a local bus to Pylos (about 1 hour), then another bus or taxi to Methoni (20 km). A rental car from Athens, Kalamata, or Tripoli is much more practical for exploring the Peloponnese."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/methoni-castle.webp",
+    "alt": "Methoni Castle's Venetian walls and the octagonal Bourtzi tower on its offshore islet in the Ionian Sea, Peloponnese, Greece",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/methoni-castle.webp",
+  "instagram_tag": "#methoniCastle",
+  "meta_title": "Methoni Castle Greece: Free Entry, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Methoni Castle — one of the largest Venetian sea fortresses in the Mediterranean, with the iconic Bourtzi tower and free entry. Plan your Peloponnese trip.",
+  "tags": ["castle", "venetian", "sea-fortress", "peloponnese", "free-entry", "greece", "messenia", "bourtzi", "mediterranean"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["palamidi-fortress", "palace-of-the-grand-master", "lindos-castle"],
+  "gyg_search_query": "Methoni Castle Peloponnese Greece tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
