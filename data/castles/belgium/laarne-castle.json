@@ -1,0 +1,82 @@
+{
+  "id": "laarne-castle",
+  "name": "Laarne Castle",
+  "local_name": "Kasteel van Laarne",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 35000,
+  "country": "belgium",
+  "region": "East Flanders",
+  "nearest_city": "Ghent",
+  "address": "Eekhoekstraat 7, 9270 Laarne, Belgium",
+  "lat": 51.0167,
+  "lng": 3.8500,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "Medieval Flemish / Moated",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "Closed",
+    "wednesday": "14:00–17:30",
+    "thursday": "Closed",
+    "friday": "Closed",
+    "saturday": "14:00–17:30",
+    "sunday": "14:00–17:30",
+    "seasonal_note": "Open Wed, Sat, Sun afternoons from Easter to October. Closed Nov–Mar. Group visits by appointment year-round. Check website before visiting as hours vary seasonally."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.kasteellaarne.be",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "May to September",
+  "accessibility": "The exterior moat walk is accessible. The castle interior involves stairs and uneven floors. Limited wheelchair access inside.",
+  "booking_advance_days": 0,
+  "tagline": "One of the best-preserved moated medieval castles in Flanders — 10 km from Ghent",
+  "highlights": [
+    "Among the finest preserved medieval moated castles in Belgium, with a complete pentagonal plan",
+    "Exceptional collection of medieval silverware inside — one of the richest in Belgium",
+    "The water moat and drawbridge approach create one of the most atmospheric arrivals in Flemish castle country",
+    "Only 10 km east of Ghent — ideal half-day combination with Gravensteen in the city",
+    "The castle has remained in private hands for centuries, giving it an unusually intimate, lived-in character"
+  ],
+  "description": "Laarne Castle is what Gravensteen might look like if it had been quietly preserved in the countryside rather than absorbed by a growing city. Ten kilometres east of Ghent, surrounded by a wide water moat that reflects the castle's pentagonal outline, Laarne has the quality that urban castles inevitably lose: silence. The only sound when you cross the drawbridge is water and birdsong.\n\nThe castle dates from the mid-12th century, when a stone keep replaced an earlier earthwork fortification at this strategically useful point in the Flemish plain. It was expanded significantly in the 14th and 15th centuries, acquiring the pentagonal plan and the round corner towers that give it its distinctive silhouette. Unlike many Belgian castles that fell into ruin and were restored romantically in the 19th century, Laarne remained in continuous private occupation — a sequence of noble families maintained it as a residence, which explains both its excellent structural condition and its remarkable interior collections.\n\nThe castle's greatest surprise is its silverware. Laarne holds one of the most important collections of medieval and Renaissance silver in Belgium — pieces accumulated over centuries by the families who lived here. The combination of an intact medieval exterior, a furnished interior that feels genuinely inhabited rather than museum-staged, and a collection of decorative arts that would be impressive in a city museum makes Laarne one of the more rewarding castle visits in Flanders for those who seek it out.",
+  "history": "The first stone structure at Laarne was built around 1150, replacing an earlier motte-and-bailey fortification. The castle sits at a point where several waterways converge in the flat Flemish landscape — a position that offered both defensive advantages (the moat could be maintained at high water level) and commercial ones (control of river traffic).\n\nThe castle was substantially rebuilt in the 14th century, acquiring the pentagonal curtain wall and cylindrical corner towers that define its current appearance. In 1431 Philip the Good, Duke of Burgundy, held a chapter of the Order of the Golden Fleece nearby — an event that reflects Laarne's status within the Flemish aristocratic network of the period.\n\nThe castle passed through the hands of several noble families over the subsequent centuries. Each successive owner made modifications but — crucially — none demolished or substantially altered the medieval structure. In the 20th century, Laarne was acquired by the Royal Association of Belgian Castles, which restored it and opened it to the public while maintaining its private character. The silverware collection, assembled from various sources, was installed as a permanent exhibition.",
+  "how_to_visit": "**Getting there from Ghent:** Laarne is 10 km east of Ghent — about 15 minutes by car via the N445. By public transport, take a bus from Ghent towards Laarne or Wetteren; the journey takes about 25 minutes. Cycling from Ghent along the Flemish countryside roads is also a pleasant option (about 40 minutes each way).\n\n**Combine with Gravensteen:** The natural pairing is Gravensteen in the morning (Ghent city centre, opens at 10:00) followed by Laarne in the afternoon (opens at 14:00). This gives you both the urban castle and the rural moated castle in a single day — two completely different experiences of Flemish medieval architecture.\n\n**Check hours carefully:** Laarne has limited opening hours (Wednesday, Saturday, Sunday afternoons from Easter to October). Verify on the official website before visiting, especially outside peak season.",
+  "faqs": [
+    {
+      "question": "Is Laarne Castle worth visiting if I've already seen Gravensteen in Ghent?",
+      "answer": "Yes — and in fact they complement each other very well. Gravensteen is an urban castle, extensively restored, with crowds and a museum atmosphere. Laarne is a rural moated castle, more intimately preserved, with an exceptional silverware collection inside and countryside surroundings. Visiting both in one day — Gravensteen in the morning, Laarne after lunch — gives you two fundamentally different experiences of Flemish medieval architecture."
+    },
+    {
+      "question": "What is the silverware collection at Laarne Castle?",
+      "answer": "Laarne holds one of the most important collections of medieval and Renaissance silverware in Belgium — pieces ranging from the 14th to the 17th century, including liturgical objects, domestic silver, and decorative pieces. The collection was assembled from various noble estates and installed at Laarne by the Royal Association of Belgian Castles. It is displayed in the castle's furnished rooms, which gives it a domestic rather than museum context."
+    },
+    {
+      "question": "How far is Laarne Castle from Ghent?",
+      "answer": "Laarne Castle is approximately 10 km east of Ghent city centre — about 15 minutes by car. By bus it takes about 25 minutes. It can also be reached by bicycle along pleasant Flemish country roads in about 40 minutes. The castle is easily combined with a morning visit to Gravensteen in Ghent, as Laarne's afternoon opening hours (from 14:00) align perfectly with this schedule."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/laarne-castle.webp",
+    "alt": "Laarne Castle reflected in its water moat, East Flanders, Belgium",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/laarne-castle.webp",
+  "instagram_tag": "#kasteelLaarne",
+  "meta_title": "Laarne Castle Belgium: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Laarne Castle near Ghent — one of the best-preserved moated medieval castles in Flanders with a remarkable silverware collection. Plan your half-day trip from Ghent.",
+  "tags": ["castle", "medieval", "moated-castle", "east-flanders", "day-trip-from-ghent", "flemish", "silverware-collection"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["gravensteen", "beersel-castle", "bouillon-castle"],
+  "gyg_search_query": "Laarne Castle Ghent Belgium tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
