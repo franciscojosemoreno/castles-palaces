@@ -78,7 +78,7 @@
     "family-friendly",
     "city-centre"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "english-royal-castles"
   ],
@@ -90,5 +90,47 @@
   "gyg_location_id": "59",
   "gyg_search_query": "Tower of London tour tickets",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "21253",
+      "title": "London: Tower of London and Crown Jewels Exhibition Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 50,
+      "rating": 4.6,
+      "reviews": 30721,
+      "covers_castles": ["tower-of-london"]
+    },
+    {
+      "tour_id": "164745",
+      "title": "Tower of London: Early Access with Beefeater and Crown Jewels",
+      "type": "skip_the_line",
+      "duration": "2 hours",
+      "price_from": 65,
+      "rating": 4.7,
+      "reviews": 590,
+      "covers_castles": ["tower-of-london"]
+    },
+    {
+      "tour_id": "459935",
+      "title": "London: Tower of London Tour with Crown Jewels & Beefeaters",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 430,
+      "covers_castles": ["tower-of-london"]
+    },
+    {
+      "tour_id": "52949",
+      "title": "London: VIP Tower of London & Tower Bridge Early-Access Tour",
+      "type": "skip_the_line",
+      "duration": "3 hours",
+      "price_from": 95,
+      "rating": 4.8,
+      "reviews": 290,
+      "covers_castles": ["tower-of-london"]
+    }
+  ]
 }
