@@ -1,0 +1,82 @@
+{
+  "id": "marvao-castle",
+  "name": "Marvão Castle",
+  "local_name": "Castelo de Marvão",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 50000,
+  "country": "portugal",
+  "region": "Alentejo / Portalegre District",
+  "nearest_city": "Lisbon",
+  "address": "Castelo de Marvão, 7330-122 Marvão, Portugal",
+  "lat": 39.3963,
+  "lng": -7.3644,
+  "unesco": false,
+  "year_built": 1299,
+  "architectural_style": "Medieval Portuguese / Moorish influence",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "Open daily 09:00–17:30 (Oct–Apr); 09:00–19:00 (May–Sep). Free entry."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://cm-marvao.pt",
+  "visit_duration": "1–2 hours (castle) + 1–2 hours (walled village)",
+  "best_season": "April to June and September to November for clear views",
+  "accessibility": "The castle itself involves uneven terrain and steep paths. The village streets are cobbled and steep.",
+  "booking_advance_days": 0,
+  "tagline": "A medieval village on a 900-metre clifftop — Portugal's most dramatically perched castle",
+  "highlights": [
+    "Perched at 900 metres on a sheer granite spur, visible for 50 kilometres in every direction",
+    "Free entry — one of Portugal's most spectacular viewpoints at no cost",
+    "The entire medieval walled village of Marvão survives intact within the castle walls",
+    "On clear days, views extend across the Alentejo plain, the Serra de São Mamede, and into Spain",
+    "One of the best-preserved medieval fortifications in Portugal, with minimal 20th-century intervention"
+  ],
+  "description": "Marvão sits on a needle of granite at 900 metres above the Alentejo plain, and from a distance it looks simply impossible — a walled village and a castle perched on the very tip of a rock spur that appears too narrow and too steep to support any building at all. Closer inspection reveals that the village is real, the castle is complete, and the whole ensemble has been sitting up there since the 13th century, staring out across Portugal and Spain with absolute authority.\n\nThe castle crowns the highest point of the spur, its keep and towers rising another 20 metres above the village rooftops. Entry is free — you simply walk through the village gate and up through the cobbled medieval streets to the castle entrance. From the battlements the view is genuinely staggering: the Serra de São Mamede falls away in every direction, the Alentejo plain stretches south to the horizon, and Spain is visible across the border mountains to the east. On very clear mornings you can see Serra da Estrela 200 kilometres to the north.\n\nMarvão's extraordinary preservation is partly the result of its remoteness. The village has never grown beyond its medieval walls — there was simply nowhere to expand on the narrow spur. Modern development happened elsewhere; Marvão was bypassed. The result is a medieval townscape of whitewashed houses, stone churches, and narrow cobbled lanes that requires no imagination to inhabit — it simply is what it has always been.",
+  "history": "The granite spur at Marvão has been fortified since Roman times. The name derives from Ibn Marwan, a Moorish chieftain who held the site in the 9th century and built the first medieval fortifications. After the Christian reconquest of the region in the 11th century, Marvão passed to Portuguese control.\n\nThe present castle was built by King Dinis I of Portugal in 1299, who recognised the spur's extraordinary defensive potential on the border with Castile. The castle was expanded and strengthened by subsequent monarchs, particularly during the periods of conflict with Spain in the 14th and 17th centuries. During the 17th-century Restoration War (when Portugal fought to regain independence from Spain), Marvão's position made it an important frontier fortress.\n\nBy the 19th century the military importance of Marvão had ended, and the village population gradually declined as agricultural work drew people to the plains below. The castle was classified as a National Monument in 1906. Today the village has fewer than 200 permanent residents — a tiny community maintaining an extraordinary legacy inside the medieval walls.",
+  "how_to_visit": "**Getting there:** Marvão is best reached by car — public transport connections are very limited. From Lisbon, drive north on the A6 motorway towards Évora, then take the IP2 north towards Portalegre; Marvão is about 2.5 hours from Lisbon. From Porto, it's about 3 hours. The nearest train station is Marvão-Beirã (10 km away), served by slow regional trains from Portalegre.\n\n**On site:** Park outside the village walls (parking is free at the base of the spur). Walk up through the village gate and follow the cobbled main street to the castle entrance. Entry is free. The castle museum inside has modest exhibits on the castle's history. Allow at least 30 minutes on the battlements for the view. Spend time walking the village streets — the church, the cistern, and the town house museum are all worth a look.\n\n**Stay overnight:** Marvão is at its most magical in the early morning (mist in the valley below) and at dusk. If you can, stay in the village — there are several small guesthouses and a pousada (historic hotel) inside the walls. The village at night, with no traffic and full stars visible, is one of the finest experiences in Portugal.",
+  "faqs": [
+    {
+      "question": "Is Marvão Castle free to enter?",
+      "answer": "Yes — Marvão Castle has free entry. You pay nothing to walk through the village, enter the castle, and climb to the battlements for the views. There is a small museum inside the castle with exhibits on local history, which is also included. Marvão is one of the finest free cultural experiences in Portugal."
+    },
+    {
+      "question": "Can I visit Marvão without a car?",
+      "answer": "It's very difficult. The nearest train station is Marvão-Beirã, 10 km away on the slow regional line from Portalegre. Taxi services from the station to the village exist but are limited. There are occasional bus services from Portalegre (about 45 minutes) but these are infrequent. A rental car from Lisbon (2.5 hours) or Évora (1.5 hours) is by far the most practical approach."
+    },
+    {
+      "question": "How far can you see from Marvão Castle?",
+      "answer": "On very clear days — typically in autumn and spring — the view from Marvão's battlements extends to the Serra da Estrela (200 km north), across the Alentejo plain to the south, and clearly into Spain to the east. The Spanish fortified city of Valencia de Alcántara is visible just across the border. It is one of the most expansive castle viewpoints in the Iberian Peninsula."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/marvao-castle.webp",
+    "alt": "Marvão Castle on its granite clifftop spur at 900 metres, with the Alentejo plain stretching to the horizon",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/marvao-castle.webp",
+  "instagram_tag": "#casteloDeMarvao",
+  "meta_title": "Marvão Castle Portugal: Free Entry, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Marvão Castle — a free medieval clifftop fortress at 900 metres with views across Portugal and Spain. Plan your visit from Lisbon or Évora and discover Alentejo's hidden gem.",
+  "tags": ["castle", "medieval", "free-entry", "clifftop", "alentejo", "border-castle", "viewpoint", "village-castle"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["obidos-castle", "castle-of-the-moors", "silves-castle"],
+  "gyg_search_query": "Marvão Castle Alentejo Portugal tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
