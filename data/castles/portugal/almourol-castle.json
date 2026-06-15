@@ -1,0 +1,94 @@
+{
+  "id": "almourol-castle",
+  "name": "Almourol Castle",
+  "local_name": "Castelo de Almourol",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "portugal",
+  "region": "Ribatejo / Santarém District",
+  "nearest_city": "Lisbon",
+  "address": "Ilha do Almourol, 2200-000 Praia do Ribatejo, Portugal",
+  "lat": 39.4645,
+  "lng": -8.1910,
+  "unesco": false,
+  "year_built": 1171,
+  "architectural_style": "Templar Medieval",
+  "opening_hours": {
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "monday": "Closed",
+    "seasonal_note": "Open Tue–Sun. Hours vary by season — check local boat operators as access is by boat only. Short boat trips run from the riverbank when the castle is open."
+  },
+  "price_adult": 2,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.cm-constancia.pt",
+  "visit_duration": "1–1.5 hours (including boat crossing)",
+  "best_season": "April to October — boat trips depend on river conditions",
+  "accessibility": "Boat required for access — not wheelchair accessible. Castle interior involves steep steps.",
+  "booking_advance_days": 0,
+  "tagline": "Portugal's island castle — a Knights Templar fortress rising from the Tagus River",
+  "highlights": [
+    "Sits on a small island in the middle of the Tagus River — reached only by short boat trip",
+    "Built by the Knights Templar in 1171, one of their most important fortresses on the Iberian Peninsula",
+    "The most romantically positioned castle in Portugal — photographed from every angle of the river",
+    "10 towers and a central keep survive in remarkably complete condition",
+    "One of Portugal's great legends is set here — the love story of the Moorish princess Giralda and the knight Ramiro"
+  ],
+  "description": "No photograph does Almourol Castle full justice because no photograph can convey the surprise of it. You are driving through the flat Ribatejo farmland when suddenly, in the middle of the Tagus River, a medieval fortress appears on a small granite island — 10 towers, a central keep, complete curtain walls, all reflected in the dark river water. It is one of those sights that stops you immediately and makes you question whether Portugal was hiding this from the world.\n\nThe castle was built in 1171 by Gualdim Pais, Grand Master of the Knights Templar in Portugal, on the site of an earlier Roman fortification. The Templars used Almourol as a key defensive point on the Tagus — the river being the main route of advance for Moorish forces attempting to retake Lisbon. Its island position made it essentially impregnable: there was no way to bring siege machinery to bear on a fortress surrounded by deep river water. The keep and towers that survive are the original 12th-century Templar construction, barely altered by subsequent owners.\n\nAccess requires a short boat trip — typically a 5-minute crossing from the riverbank, operated by local boatmen when the castle is open. The interior offers good views from the keep battlements across the Tagus plain. The main experience here, though, is the exterior: walking the riverbank and watching the castle from different angles as the light changes is the essential Almourol moment.",
+  "history": "The rock island in the Tagus at Almourol was first fortified by the Romans, who recognised its strategic value controlling river traffic. After the Moorish invasion of Iberia in 711, the site passed through various hands before being granted to the Knights Templar by King Afonso Henriques following the Portuguese reconquest.\n\nGualdim Pais, Master of the Templars in Portugal, built the present castle between 1171 and the 1190s. It served as a key defensive installation protecting the Tagus corridor against Moorish counterattacks during the wars of the Reconquista. After the dissolution of the Knights Templar in 1312, Almourol passed to the Order of Christ (the successor organisation that continued in Portugal) and eventually to the Portuguese crown.\n\nBy the 16th century the castle had lost its military purpose and was gradually abandoned. Unlike many Portuguese castles that were heavily restored in the 19th and 20th centuries, Almourol was left largely as it was — which paradoxically preserved it better than more 'restored' structures. The romantic legend associated with the castle — the love story of the Moorish princess Giralda, told in a 16th-century chivalric romance — embedded it deeply in Portuguese cultural consciousness.",
+  "how_to_visit": "**Getting there from Lisbon:** Take the Alfa Pendular or regional train from Lisboa Santa Apolónia or Oriente to Entroncamento (about 1h 15min), then change for the local train to Praia do Ribatejo station (15 minutes). The riverbank and boat crossing to the castle are a 10-minute walk from the station. Alternatively, drive from Lisbon on the A23 motorway (about 90 minutes) — park near the village of Praia do Ribatejo.\n\n**Boat crossing:** Small boats run from the riverbank to the island when the castle is open. The crossing takes about 5 minutes and costs a small fee (typically €2–3 return). Check locally as boat service depends on river conditions and season.\n\n**Combine with:** Almourol pairs naturally with the Convent of Christ in Tomar (30 km north, UNESCO World Heritage Site and the greatest Templar monument in Portugal) and the village of Constância (a few km downstream, beautiful confluence of the Zêzere and Tagus rivers). Several day tours from Lisbon combine all three.",
+  "faqs": [
+    {
+      "question": "How do I get to Almourol Castle?",
+      "answer": "Access to the castle island requires a short boat crossing from the village of Praia do Ribatejo on the north bank of the Tagus. Small boats operated by local boatmen run when the castle is open (usually Tuesday–Sunday). By public transport from Lisbon, take the train to Entroncamento and change for Praia do Ribatejo (total about 1h 30min). By car from Lisbon, the A23 motorway takes about 90 minutes."
+    },
+    {
+      "question": "Who built Almourol Castle?",
+      "answer": "Almourol Castle was built by Gualdim Pais, Grand Master of the Knights Templar in Portugal, beginning in 1171. It was one of the Templars' most important fortresses on the Iberian Peninsula, guarding the Tagus River against Moorish attack during the Reconquista. The castle was built on the site of an earlier Roman fortification that recognised the same strategic advantages of the island position."
+    },
+    {
+      "question": "Is Almourol Castle worth visiting from Lisbon?",
+      "answer": "Yes — but plan it as part of a longer day trip rather than a sole destination. The castle itself takes about 1–1.5 hours including the boat crossing. The best approach is to combine it with the Convent of Christ in Tomar (UNESCO World Heritage, 30 km north) and the village of Constância for a full day of Templar heritage in the Ribatejo. Several day tours from Lisbon offer this combination."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/almourol-castle.webp",
+    "alt": "Almourol Castle rising from its island in the Tagus River, Portugal, with its 10 Templar towers reflected in the water",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/almourol-castle.webp",
+  "instagram_tag": "#castelodeAlmourol",
+  "meta_title": "Almourol Castle Portugal: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Almourol Castle — a Knights Templar island fortress in the Tagus River. Plan your day trip from Lisbon and discover Portugal's most dramatically positioned medieval castle.",
+  "tags": ["castle", "templar", "island-castle", "medieval", "tagus-river", "ribatejo", "day-trip-from-lisbon", "knights-templar"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["convent-of-christ-tomar", "obidos-castle", "castle-of-the-moors"],
+  "gyg_location_id": "1913",
+  "gyg_search_query": "Almourol Castle Tomar Lisbon tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "18912",
+      "title": "From Lisbon: Tomar, Convent of Christ & Almourol Castle",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 65,
+      "rating": 4.7,
+      "reviews": 340,
+      "covers_castles": ["almourol-castle", "convent-of-christ-tomar"]
+    }
+  ]
+}
