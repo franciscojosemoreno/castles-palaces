@@ -1,0 +1,82 @@
+{
+  "id": "bodrum-castle",
+  "name": "Bodrum Castle",
+  "local_name": "Bodrum Kalesi / Petronium",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 500000,
+  "country": "turkey",
+  "region": "Muğla Province / Aegean Coast",
+  "nearest_city": "Bodrum",
+  "address": "Bodrum Kalesi, Kale Cad. No:3, 48400 Bodrum, Turkey",
+  "lat": 37.0347,
+  "lng": 27.4258,
+  "unesco": false,
+  "year_built": 1402,
+  "architectural_style": "Crusader / Late Medieval",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–19:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Open Tue–Sun. Hours 09:00–19:00 in summer; 08:30–17:00 in winter. Extended hours in peak season (Jul–Aug). Closed Mondays and some national holidays."
+  },
+  "price_adult": 15,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://muze.gov.tr/muze-detay?sectionId=BDR01&distId=BDR",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to June and September to November — avoid peak summer heat",
+  "accessibility": "The castle grounds involve significant changes of level and steep paths. Lower areas more accessible. Not suitable for full wheelchair access.",
+  "booking_advance_days": 0,
+  "tagline": "The Crusader fortress that guards Bodrum harbour — now home to one of the world's greatest underwater archaeology museums",
+  "highlights": [
+    "Built by the Knights of St. John from 1402 using marble from the Mausoleum of Halicarnassus — one of the Seven Wonders of the Ancient World",
+    "Houses the Museum of Underwater Archaeology — the finest collection of ancient shipwrecks and Bronze Age artefacts in the world",
+    "Five towers, each built by a different European nation (England, France, Germany, Italy, Spain) of the Knights Hospitaller",
+    "The Uluburun shipwreck exhibition, dated to around 1300 BC, is one of the most important archaeological finds of the 20th century",
+    "Set at the entrance to Bodrum harbour, with views across the Aegean to the Greek island of Kos"
+  ],
+  "description": "Bodrum Castle guards the entrance to Bodrum harbour from a rocky promontory between the two bays, its five towers visible from every angle of the water and from the Greek island of Kos across the strait. It was built by the Knights of St. John — the same military order that built the Palace of the Grand Master in Rhodes — beginning in 1402, after the Ottoman advance had made their position in the eastern Mediterranean increasingly precarious. The castle they built at Bodrum (which they called Petronium) was one of the last great Crusader fortifications in Asia Minor.\n\nThe castle's construction involved a remarkable act of archaeological destruction: the Knights quarried the Mausoleum of Halicarnassus — one of the Seven Wonders of the Ancient World, already partially ruined by earthquake — for building stone. Green marble slabs from the Mausoleum are visible in the castle walls today, and a carved frieze of lions and warriors clearly recycled from the ancient monument can be seen in one of the towers. The castle thus contains literal fragments of antiquity.\n\nSince 1961 the castle has housed the Museum of Underwater Archaeology, and this museum is the reason Bodrum Castle attracts visitors who might otherwise pass through without stopping. The collection includes the world's most important Bronze Age shipwreck — the Uluburun wreck of around 1300 BC, discovered off the coast of Kaş in 1982, carrying the most diverse cargo ever found from the ancient world. The Glass Wreck Hall, the Amphora Hall, and the Byzantine shipwreck galleries are all exceptional. Plan at least 2–3 hours to do it justice.",
+  "history": "The site at Bodrum was fortified in antiquity as the acropolis of Halicarnassus, birthplace of Herodotus and capital of the Carian kingdom of Mausolus — who gave his name to the word 'mausoleum.' The Mausoleum of Halicarnassus, built for Mausolus around 353 BC, was one of the Seven Wonders of the Ancient World. By the medieval period, the mausoleum had been largely destroyed by earthquake and the site was occupied only by ruins.\n\nThe Knights of St. John were granted Bodrum by the Byzantine emperor in 1402 as a base following their loss of Smyrna to Timur. They began constructing a castle from 1402, building five towers assigned to different national contingents of the Order: the English Tower, French Tower, German Tower, Italian Tower, and Spanish Tower. Each nation funded and built its own section, which is why the towers vary significantly in style and height.\n\nThe Knights held Bodrum until 1523, when Sultan Suleiman the Magnificent — who had already taken Rhodes — received the surrender of the last Knights' outpost in Asia Minor. Under Ottoman rule the castle became a prison and ammunition store. The minarets added to the castle chapel (converted to a mosque) are still visible. After the establishment of the Turkish Republic, the castle was converted to a museum in 1961.",
+  "how_to_visit": "**Getting there:** Bodrum is served by Milas-Bodrum Airport (BJV), with direct flights from Istanbul (1 hour) and many European cities in summer. Bodrum Castle is in the centre of Bodrum town — 10 minutes' walk from the main harbour and bus station, and within walking distance of most hotels in the town centre.\n\n**Museum strategy:** Allow at least 2–3 hours for the Museum of Underwater Archaeology. The Uluburun Shipwreck Hall and the Glass Wreck exhibition require more time than visitors typically plan for. Pick up the museum map at the entrance and prioritise the Bronze Age galleries if time is limited. The castle towers themselves can be explored separately on the upper levels.\n\n**Best time to visit:** The castle is in the heart of the Bodrum resort area, which is extremely crowded July–August. Spring (April–May) and autumn (September–October) offer significantly better conditions — mild weather, shorter queues, and more available space in the galleries.",
+  "faqs": [
+    {
+      "question": "What is the Museum of Underwater Archaeology at Bodrum Castle?",
+      "answer": "The Museum of Underwater Archaeology, housed inside Bodrum Castle since 1961, is the most important collection of ancient shipwrecks and maritime artefacts in the world. Its centrepiece is the Uluburun Shipwreck — a Bronze Age merchant vessel dated to around 1300 BC, discovered off the Turkish coast in 1982, carrying the most diverse and valuable cargo ever found from the ancient world: Egyptian gold, Canaanite jewellery, copper ingots from Cyprus, tin from Afghanistan, and much more. The museum also contains Byzantine shipwreck galleries, an amphora hall, a glass hall, and coin collections spanning three millennia."
+    },
+    {
+      "question": "Did the Knights really use the Seven Wonders of the World to build Bodrum Castle?",
+      "answer": "Yes — the Knights of St. John quarried the Mausoleum of Halicarnassus (one of the Seven Wonders of the Ancient World) for building stone when constructing the castle from 1402. The mausoleum had already been partially destroyed by earthquake, but the Knights accelerated its demolition by using its marble blocks in the castle walls. You can still see green marble slabs and carved ancient reliefs incorporated into the castle fabric, including a frieze of warriors and lions recycled from the monument."
+    },
+    {
+      "question": "How do I get to Bodrum from Istanbul?",
+      "answer": "The fastest option is to fly from Istanbul (Sabiha Gökçen or Atatürk airports) to Milas-Bodrum Airport — the flight takes about 1 hour and operates multiple times daily. From the airport, a shuttle bus (Havas) runs to Bodrum town centre in about 45 minutes. By coach from Istanbul, the journey takes about 10–12 hours overnight — not recommended over flying unless you are travelling on a very tight budget."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bodrum-castle.webp",
+    "alt": "Bodrum Castle and its five towers reflected in the Aegean harbour of Bodrum, Turkey, with the Greek island of Kos visible beyond",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bodrum-castle.webp",
+  "instagram_tag": "#bodrumCastle",
+  "meta_title": "Bodrum Castle Turkey: Tickets, Underwater Museum & Visitor Guide 2026",
+  "meta_description": "Visit Bodrum Castle — the Crusader fortress built by the Knights of St. John, now housing the world's finest underwater archaeology museum. Plan your visit to Turkey's Aegean coast.",
+  "tags": ["castle", "crusader", "knights-hospitaller", "underwater-archaeology", "aegean", "turkey", "bodrum", "bronze-age", "museum"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["ortahisar-castle", "palace-of-the-grand-master"],
+  "gyg_search_query": "Bodrum Castle Museum Turkey tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
