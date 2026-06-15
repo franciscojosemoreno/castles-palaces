@@ -1,0 +1,82 @@
+{
+  "id": "toompea-castle",
+  "name": "Toompea Castle",
+  "local_name": "Toompea loss",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 500000,
+  "country": "estonia",
+  "region": "Harju County / Tallinn",
+  "nearest_city": "Tallinn",
+  "address": "Lossi plats 1a, 15165 Tallinn, Estonia",
+  "lat": 59.4360,
+  "lng": 24.7378,
+  "unesco": true,
+  "year_built": 1227,
+  "architectural_style": "Medieval / Danish Crusader",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "The castle exterior and Toompea hill are freely accessible at all times. The Tall Hermann tower interior: guided tours available May–Sep. The Kiek in de Kök bastion museum opens Tue–Sun 10:00–18:00. The Estonian Parliament building (inside the castle walls) is not open to the public for general visits."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.visittallinn.ee",
+  "visit_duration": "1–2 hours (castle area) + 2–3 hours (Tallinn Old Town)",
+  "best_season": "Year-round — Tallinn's medieval Old Town is spectacular in every season, including snow",
+  "accessibility": "The Toompea hill is accessible by road and elevator from the lower Old Town. The castle exterior and viewing platforms are largely accessible. Tower interiors involve stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The castle that built Estonia — a medieval Danish fortress on Tallinn's limestone hill, seat of power for 800 years",
+  "highlights": [
+    "Tall Hermann (Pikk Hermann) — a 46-metre tower flying the Estonian flag, the most recognisable symbol of Estonian statehood",
+    "The hill fortress that has served as the seat of power in Estonia without interruption since 1227 — today it houses the Estonian Parliament",
+    "Part of the UNESCO-listed Historic Centre of Tallinn, one of the best-preserved medieval cities in northern Europe",
+    "The limestone cliff and castle towers dominate Tallinn's famous skyline — visible from almost every angle of the city",
+    "The views from Toompea over the red-roofed lower town and Tallinn Bay are among the finest city views in the Baltic"
+  ],
+  "description": "Tallinn's skyline is defined by two things: the limestone cliff of Toompea rising 40 metres above the lower city, and the towers and walls of the castle that has crowned that cliff for nearly 800 years. Toompea Castle is not a single discrete structure but a walled compound built and rebuilt over centuries — Danish, Teutonic, Swedish, Russian, and finally Estonian hands have all left their mark — and its most famous element, the 46-metre Tall Hermann tower with the Estonian blue-black-white flag flying from its summit, has become the defining symbol of the country itself.\n\nThe Danes built the first stone fortress on Toompea in 1227, establishing a power base for their crusade-driven colonisation of what is now Estonia. The Teutonic Knights acquired the castle in 1346 and expanded it substantially, adding the three remaining towers and creating the curtain wall that still defines the compound's outline. The Tall Hermann tower was built in the 1360s and named — in ironic contrast to its height — after the common German name Hermann. It has flown the Estonian flag from its summit since 1884, a tradition suppressed during Soviet occupation and joyfully reinstated in 1989 as Estonia moved towards independence.\n\nThe castle's interior today houses the Riigikogu — the Estonian Parliament — which is not generally open to visitors. But the exterior and towers are the real experience at Toompea. The castle walls define the edge of the hill, the lower town's medieval rooftops spread below, Tallinn Bay is visible beyond, and the city's extraordinary network of medieval towers, churches, and merchants' houses fills the view in every direction. Combine with the Kiek in de Kök bastion museum for underground tours of Tallinn's medieval tunnel network.",
+  "history": "The Toompea hill was the site of an Estonian hill fort before the Danish crusade, and its capture by Danish forces under King Valdemar II in 1219 marked the beginning of seven centuries of foreign domination of Estonia. The Danes built the first stone castle here in 1227, establishing a bishop's seat and administrative centre for the new territory.\n\nThe Teutonic Knights — a German military-religious order that controlled much of the eastern Baltic — purchased Estonia from the Danish crown in 1346 and undertook major construction at Toompea, building the three conical-roofed towers that survive today (including Tall Hermann, completed around 1371) and the curtain wall that enclosed the compound. The castle served as the administrative centre of the Livonian Order's Estonian territories.\n\nSweden acquired Estonia in 1561, and Toompea became a Swedish provincial administration centre. Russia took it in 1710, and the tsarist administration converted the interior medieval buildings into a neoclassical palace (the pink baroque building now used by Parliament, completed 1773). Estonian independence in 1918 established the Riigikogu in the castle, a function interrupted by Soviet occupation (1940–1991) and restored with independence. In 1997, Tallinn's Historic Centre — including Toompea — was inscribed as a UNESCO World Heritage Site.",
+  "how_to_visit": "**Getting to Tallinn:** Tallinn is served by Lennart Meri Tallinn Airport with direct flights from most European cities. Ferries run from Helsinki (2–2.5 hours, several daily) and Stockholm (overnight). Tallinn is also 3.5 hours by bus from Riga.\n\n**Getting to Toompea:** From the lower Old Town, two medieval gate towers give access to the hill: Pikk jalg (Long Leg) and Lühike jalg (Short Leg), both steep cobbled lanes lined with historic buildings. There is also a modern glass elevator from the lower town car park. The castle compound and Toompea hill are freely accessible at all times.\n\n**What to see:** From Toompea, the two main viewpoints (Kohtuotsa and Patkuli terraces) give panoramic views over the lower town. The Alexander Nevsky Cathedral (Russian Orthodox, 1900) and Dome Church (Toomkirik, medieval) are both on the hill. For the castle itself, focus on the towers visible from outside, then descend to the lower Old Town for the full medieval townscape.",
+  "faqs": [
+    {
+      "question": "Can you go inside Toompea Castle?",
+      "answer": "The Estonian Parliament (Riigikogu) occupies the interior of Toompea Castle and is not open to general visitors. However, the castle exterior — the towers, walls, and the Toompea hill itself — is freely accessible. The Tall Hermann tower can be visited on guided tours in summer. The nearby Kiek in de Kök bastion (a separate medieval tower now a museum, about 200m away) offers underground tours of Tallinn's medieval tunnel and bastion system, which is highly recommended."
+    },
+    {
+      "question": "Is Tallinn's Old Town a UNESCO World Heritage Site?",
+      "answer": "Yes — the Historic Centre of Tallinn was inscribed as a UNESCO World Heritage Site in 1997. It is one of the best-preserved medieval cities in northern Europe, with the original layout of streets, fortifications, merchants' houses, guild buildings, and churches largely intact. Toompea Castle and its towers are part of the inscribed area. The combined experience of the castle hill and the lower medieval town makes Tallinn one of the finest medieval city visits in Europe."
+    },
+    {
+      "question": "What is the Tall Hermann tower?",
+      "answer": "Tall Hermann (Pikk Hermann in Estonian) is the 46-metre defensive tower built at the south-west corner of Toompea Castle around 1371 by the Teutonic Knights. It is the tallest surviving tower of the castle and flies the Estonian tricolour (blue, black, white) from its summit — a tradition that began in 1884, was suppressed during Soviet occupation, and was ceremonially reinstated on 24 February 1989 as Estonia moved towards independence. Lowering and raising the flag on the tower is a daily ceremony and a deeply symbolic act in Estonian public life."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/toompea-castle.webp",
+    "alt": "Toompea Castle and Tall Hermann tower rising above Tallinn's red-roofed medieval lower town, Estonia",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/toompea-castle.webp",
+  "instagram_tag": "#toompeaCastle",
+  "meta_title": "Toompea Castle Tallinn: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Toompea Castle in Tallinn — Estonia's medieval hilltop fortress with the iconic Tall Hermann tower. Explore the UNESCO Old Town and plan your visit to the Baltic's finest medieval city.",
+  "tags": ["castle", "medieval", "danish-crusader", "teutonic-knights", "tallinn", "estonia", "unesco-world-heritage", "baltic", "tall-hermann"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["narva-castle", "trakai-island-castle"],
+  "gyg_search_query": "Toompea Castle Tallinn Old Town tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
