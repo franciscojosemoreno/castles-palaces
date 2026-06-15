@@ -1,0 +1,82 @@
+{
+  "id": "gripsholm-castle",
+  "name": "Gripsholm Castle",
+  "local_name": "Gripsholms slott",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 130000,
+  "country": "sweden",
+  "region": "Södermanland",
+  "nearest_city": "Stockholm",
+  "address": "Gripsholmsvägen, 647 23 Mariefred, Sweden",
+  "lat": 59.2517,
+  "lng": 17.0167,
+  "unesco": false,
+  "year_built": 1537,
+  "architectural_style": "Renaissance / Nordic",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–16:00",
+    "wednesday": "10:00–16:00",
+    "thursday": "10:00–16:00",
+    "friday": "10:00–16:00",
+    "saturday": "10:00–16:00",
+    "sunday": "10:00–16:00",
+    "seasonal_note": "Open Tue–Sun. Extended to 17:00 May–Sep. Open daily Jun–Aug. Closed Mondays year-round, Jan–Feb limited hours. Verify before visiting."
+  },
+  "price_adult": 14,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.kungligaslotten.se/gripsholm",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "May to September — the town of Mariefred and steamboat journey are at their best in summer",
+  "accessibility": "The castle involves stairs and uneven surfaces. Some rooms accessible. The town and lakeside are largely accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Sweden's most visited royal castle — a Renaissance fortress on Lake Mälaren reached by vintage steamboat",
+  "highlights": [
+    "Founded in 1537 by Gustav Vasa — one of Sweden's most historically significant royal castles",
+    "Houses Sweden's national portrait collection with over 4,000 portraits spanning 500 years",
+    "Set on a peninsula in Lake Mälaren in the perfectly preserved small town of Mariefred",
+    "The vintage steamboat journey from Stockholm to Mariefred is one of Sweden's great summer experiences",
+    "Round towers and red brick give it an iconic Nordic Renaissance silhouette unique in Swedish architecture"
+  ],
+  "description": "Gripsholm Castle sits on a promontory in Lake Mälaren, its round towers and red brick reflected in the water, with the small wooden houses of Mariefred visible behind it — a composition that has been one of the defining images of Swedish summer since the 18th century. The castle is about 60 kilometres west of Stockholm, easily reachable by train or road, but the classic approach is by the vintage steamboat DS Mariefred, which runs from Stockholm on summer weekends and turns the journey into an experience in itself: three hours across Lake Mälaren's islands and bays, arriving at a town that has barely changed in a century.\n\nThe castle was founded in 1537 by Gustav Vasa, the king who broke Sweden free from the Kalmar Union with Denmark and established the modern Swedish state. Vasa converted an earlier monastery on the site into a royal fortress, and subsequent monarchs added to it across the 16th and 17th centuries until it reached its current four-tower configuration. The interior's most unusual feature is Sweden's national portrait collection — over 4,000 portraits of Swedish historical figures, from medieval monarchs to contemporary politicians, accumulated since the 17th century and hung throughout the castle's rooms.\n\nThe town of Mariefred, beyond the castle, is worth exploring for at least an hour: a grid of 18th-century wooden houses in the ochre and yellow palette characteristic of Swedish provincial towns, with good cafes on the main square and a miniature railway that runs between the town and a nearby station in summer.",
+  "history": "The name Gripsholm derives from an earlier fortification built by Bo Jonsson Grip in the 14th century, of which no trace remains. Gustav Vasa began building the current castle in 1537 on the peninsula where Grip's tower had stood, converting a Carthusian monastery into a royal residence and fortress — part of a broader programme of castle construction with which Vasa consolidated royal power across Sweden.\n\nThe castle was substantially expanded under Johan III in the 1570s, who added the characteristic round towers and brought in architects from Germany and the Low Countries to create a more modern Renaissance fortress. His son Sigismund, who became King of Poland and briefly King of Sweden, was born at Gripsholm in 1566.\n\nGripsholm served as a royal prison as well as a residence: Erik XIV, deposed by his brother Johan III in 1568, was held here for several years until his death (possibly by arsenic poisoning) in 1577. The castle passed out of regular royal use in the 18th century but was preserved and restored, opening to the public in 1822 — making it one of the earliest royal castles in Europe to be opened to visitors. The national portrait collection has been installed here since 1822 and continues to grow.",
+  "how_to_visit": "**By train (easiest):** Direct trains run from Stockholm Centraal to Läggesta station (about 50 minutes, runs frequently). From Läggesta, a connecting bus or the narrow-gauge Östra Södermanlands Jernväg steam railway (summer only) covers the final 2 km to Mariefred. This is the most reliable option year-round.\n\n**By vintage steamboat (most memorable):** The DS Mariefred steamer runs from Stadshuskajen (City Hall quay) in Stockholm on summer weekends, taking about 3 hours across Lake Mälaren. You can return by train if you prefer not to do the full return journey by boat. This is the classic Swedish summer experience and well worth planning around.\n\n**By car:** The drive from Stockholm takes about 1 hour via the E20 motorway. Parking available in Mariefred near the castle.",
+  "faqs": [
+    {
+      "question": "How do I get to Gripsholm Castle from Stockholm?",
+      "answer": "By train: direct services from Stockholm Centraal to Läggesta take about 50 minutes, then a short bus or steam railway connection to Mariefred. By vintage steamboat (summer weekends only): the DS Mariefred departs from Stockholm's City Hall quay and takes 3 hours across Lake Mälaren — one of Sweden's great summer excursions. By car: about 1 hour from Stockholm via the E20. The steamboat is the most atmospheric option; the train is the most practical."
+    },
+    {
+      "question": "What is the national portrait collection at Gripsholm Castle?",
+      "answer": "Sweden's national portrait collection consists of over 4,000 portraits of historical Swedish figures — monarchs, politicians, scientists, artists, and military commanders — spanning from the medieval period to the present day. It has been housed at Gripsholm since 1822, hung throughout the castle's rooms in a way that integrates the collection with the historic interiors rather than presenting it as a separate gallery. New portraits of living Swedes are added regularly."
+    },
+    {
+      "question": "Is the steamboat journey from Stockholm to Gripsholm worth it?",
+      "answer": "Yes, if you have the time — the 3-hour journey across Lake Mälaren is genuinely one of the best summer experiences in Sweden. The DS Mariefred is a vintage steamer from 1903, the route passes through the lake's characteristic archipelago of forested islands, and arriving at Mariefred by water gives you the best first view of the castle. Run this option on a clear summer weekend. If you're short on time or visiting outside summer, the train is perfectly satisfactory."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gripsholm-castle.webp",
+    "alt": "Gripsholm Castle's round towers reflected in Lake Mälaren, Mariefred, Sweden",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gripsholm-castle.webp",
+  "instagram_tag": "#gripsholmCastle",
+  "meta_title": "Gripsholm Castle Sweden: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Gripsholm Castle near Stockholm — Sweden's most famous royal castle on Lake Mälaren, reached by vintage steamboat. Book tickets and plan your day trip from Stockholm.",
+  "tags": ["castle", "renaissance", "royal-castle", "lake-malaren", "day-trip-from-stockholm", "mariefred", "swedish-royal-family", "portrait-collection"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["drottningholm-palace", "vaxholm-fortress"],
+  "gyg_search_query": "Gripsholm Castle Stockholm day trip",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
