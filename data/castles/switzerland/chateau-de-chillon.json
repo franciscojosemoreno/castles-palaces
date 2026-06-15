@@ -70,7 +70,7 @@
     "instagram-worthy",
     "literary"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "swiss-alpine-castles"
   ],
@@ -78,8 +78,40 @@
     "hohensalzburg-fortress",
     "schonbrunn-palace"
   ],
-  "gyg_location_id": "12567",
+  "gyg_location_id": "139246",
   "gyg_search_query": "Chateau de Chillon Montreux tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "322818",
+      "title": "Montreux: Château de Chillon Entrance Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 14,
+      "rating": 4.4,
+      "reviews": 620,
+      "covers_castles": ["chateau-de-chillon"]
+    },
+    {
+      "tour_id": "164778",
+      "title": "Geneva: Swiss Riviera — Lausanne, Montreux & Château Chillon Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 480,
+      "covers_castles": ["chateau-de-chillon"]
+    },
+    {
+      "tour_id": "4851",
+      "title": "Geneva: Montreux, Chaplin's World, Chillon Castle & Apéritif",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 85,
+      "rating": 4.5,
+      "reviews": 320,
+      "covers_castles": ["chateau-de-chillon"]
+    }
+  ]
 }
