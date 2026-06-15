@@ -1,0 +1,82 @@
+{
+  "id": "olavinlinna-castle",
+  "name": "Olavinlinna Castle",
+  "local_name": "Olavinlinna",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 120000,
+  "country": "finland",
+  "region": "South Savo / Savonlinna",
+  "nearest_city": "Savonlinna",
+  "address": "Olavinlinna, 57130 Savonlinna, Finland",
+  "lat": 61.8694,
+  "lng": 28.8836,
+  "unesco": false,
+  "year_built": 1475,
+  "architectural_style": "Medieval Nordic Fortress",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily Jun–Aug 10:00–18:00. Sep–May 10:00–16:00 Tue–Sun, closed Mon. The castle closes during the Savonlinna Opera Festival (July) for production periods — check the festival schedule."
+  },
+  "price_adult": 14,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://olavinlinna.fi",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "July for the Opera Festival; June and August for best weather and open access",
+  "accessibility": "The castle involves significant changes in level and many stairs. Limited accessibility inside. The approach bridge and courtyard are accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Finland's most famous castle — a medieval fortress on a lake island that hosts Europe's most atmospheric opera festival",
+  "highlights": [
+    "Built on a small rocky island in the Finnish lake system — a medieval fortress rising directly from the water",
+    "Founded in 1475 by Erik Axelsson Tott to defend the eastern frontier of Sweden against Novgorod",
+    "Hosts the Savonlinna Opera Festival each July — opera performances inside the castle courtyard, one of the world's great music experiences",
+    "Three massive round towers and curtain walls survive in remarkable condition after 550 years",
+    "Set within the extraordinary Finnish Lakeland landscape of Savonlinna — water, forest, and islands in every direction"
+  ],
+  "description": "Olavinlinna rises directly from a rocky island in the Finnish lake system — three massive round towers of grey granite, connected by thick curtain walls, with the waters of Lake Saimaa on every side. It is the northernmost intact medieval castle in the world, and its island position gives it a quality unique among European fortresses: you approach it by bridge over open water, and from any angle the castle is inseparable from the lake that surrounds it.\n\nThe castle was founded in 1475 by Erik Axelsson Tott, a Swedish nobleman charged with defending the eastern frontier against the expanding power of Novgorod (later Muscovite Russia). The site — an island at a strategic strait in the Finnish lake system — was chosen for exactly the defensive qualities that make it so striking today: attackers could not bring siege machinery through the water, and the garrison controlled all movement between the lake basins on either side. The three towers, added progressively between 1475 and the early 16th century, give the castle its distinctive profile.\n\nOlavinlinna is known internationally for the Savonlinna Opera Festival, held each July since 1912. Performances of opera — typically three or four major productions over three to four weeks — take place in the castle courtyard, with the medieval walls as stage backdrop and the Finnish summer sky overhead. It is one of the world's most atmospheric music venues and, for many visitors, the reason to make the journey to this remote corner of Finland. Tickets sell out months in advance.",
+  "history": "The castle's founding in 1475 reflects the unstable political situation of the Finnish eastern frontier. The region — part of the Swedish realm — faced increasing pressure from Novgorod and later the Grand Duchy of Moscow, and the Swedish crown needed a strong defensive point to assert control over the lake system and the trade routes it carried.\n\nErik Axelsson Tott built the first phase of the castle rapidly between 1475 and 1477 — three towers and the initial curtain walls. The castle was named Olofsborg (St. Olof's Castle) in Swedish, which became Olavinlinna in Finnish (Olavi being the Finnish form of Olof). Subsequent Swedish commanders added to the fortifications through the 16th century, creating the castle's current configuration.\n\nOlavinlinna changed hands repeatedly between Sweden and Russia as the political border shifted across eastern Finland. Russia held it from 1714 to 1721 following the Great Northern War, and again from 1743 to the 1800s. When Finland became a Russian Grand Duchy in 1809, the castle was decommissioned as a military installation and gradually fell into disrepair. Restoration work in the late 19th and 20th centuries stabilised the structure. The Savonlinna Opera Festival, founded in 1912 and revived in its modern form in 1967, brought international attention to the castle and funds for its continued maintenance.",
+  "how_to_visit": "**Getting there:** Savonlinna is in eastern Finland, about 340 km north-east of Helsinki. By train from Helsinki, the journey takes about 3.5–4 hours (change at Pieksämäki or Parikkala depending on the service). By car, the drive from Helsinki takes about 3.5 hours via the E75 and regional roads. Savonlinna is a small city entirely oriented around the lake and the castle — the two are within easy walking distance of each other.\n\n**Opera Festival (July):** Tickets for the Savonlinna Opera Festival must be purchased months in advance — popular productions sell out within hours of going on sale in November for the following summer. The festival website (operafestival.fi) handles all ticket sales. Book accommodation in Savonlinna simultaneously as the town fills completely during festival weeks.\n\n**Outside the festival:** The castle is excellent outside July, with fewer crowds, full visitor access to all rooms and towers, and the Finnish Lakeland at its summer best. June and August are ideal.",
+  "faqs": [
+    {
+      "question": "What is the Savonlinna Opera Festival?",
+      "answer": "The Savonlinna Opera Festival is an internationally acclaimed opera festival held in the courtyard of Olavinlinna Castle each July. Founded in 1912 and running in its modern form since 1967, it presents three to four major opera productions over three to four weeks, with performances taking place against the backdrop of the medieval castle walls under the Finnish summer sky. It is one of the world's most atmospheric opera venues and draws audiences from across Europe and beyond. Tickets sell out months in advance."
+    },
+    {
+      "question": "Is Olavinlinna Castle accessible in winter?",
+      "answer": "The castle is open year-round, with reduced hours outside the main season (Tuesday–Sunday, 10:00–16:00 from September to May). The Finnish winter experience — the castle surrounded by frozen lake, deep snow, and polar night — is genuinely extraordinary, though the number of visitor facilities is reduced. The summer months (June–August) offer the best access, longest opening hours, and the Opera Festival option in July."
+    },
+    {
+      "question": "How do I get to Savonlinna from Helsinki?",
+      "answer": "By train from Helsinki, the journey to Savonlinna takes about 3.5–4 hours with one change (at Pieksämäki or Parikkala). Direct services exist but are limited. By car, the drive is about 3.5 hours via the E75 motorway and eastern Finnish roads. Several tour operators offer day trips from Helsinki to Savonlinna by coach, though these make for a very long day. Staying one or two nights in Savonlinna is strongly recommended."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/olavinlinna-castle.webp",
+    "alt": "Olavinlinna Castle rising from its island in the Finnish lake system at Savonlinna, Finland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/olavinlinna-castle.webp",
+  "instagram_tag": "#olavinlinna",
+  "meta_title": "Olavinlinna Castle Finland: Tickets, Opera Festival & Visitor Guide 2026",
+  "meta_description": "Visit Olavinlinna Castle in Savonlinna — Finland's most famous medieval fortress on a lake island, home to the world-renowned Savonlinna Opera Festival each July.",
+  "tags": ["castle", "medieval", "lake-island", "finland", "opera-festival", "savonlinna", "nordic", "lake-saimaa"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["turku-castle"],
+  "gyg_search_query": "Olavinlinna Castle Savonlinna Finland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
