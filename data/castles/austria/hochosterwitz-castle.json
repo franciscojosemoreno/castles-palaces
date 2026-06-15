@@ -1,0 +1,82 @@
+{
+  "id": "hochosterwitz-castle",
+  "name": "Hochosterwitz Castle",
+  "local_name": "Burg Hochosterwitz",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 120000,
+  "country": "austria",
+  "region": "Carinthia / Kärnten",
+  "nearest_city": "Klagenfurt",
+  "address": "Hochosterwitz 1, 9314 St. Georgen am Längsee, Austria",
+  "lat": 46.8036,
+  "lng": 14.4819,
+  "unesco": false,
+  "year_built": 1570,
+  "architectural_style": "Medieval / Renaissance Defensive",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Open daily Apr–Oct 09:00–18:00. Closed November–March. A cable car operates May–Oct (additional fee). The path through all 14 gates can be walked year-round when the castle is open."
+  },
+  "price_adult": 17,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hochosterwitz.at",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September — the Carinthian valley views are at their best in clear weather",
+  "accessibility": "The 14-gate path is steep and involves significant climbing. A cable car operates as an alternative to the path for part of the ascent. The castle interior involves stairs. Not suitable for full wheelchair access.",
+  "booking_advance_days": 0,
+  "tagline": "Fourteen gates on a sheer rock — Austria's most dramatically defended medieval fortress",
+  "highlights": [
+    "14 successive fortified gateways wind up a sheer 175-metre rock — each gate an independent defensive position",
+    "The castle has never been taken by force in its entire history — the 14-gate approach made it militarily impregnable",
+    "Still owned by the Khevenhüller family, who have held it since 1571",
+    "The path through the 14 gates takes about 30–40 minutes uphill and passes through a series of increasingly dramatic defensive positions",
+    "Views from the summit across the Carinthian valley to the Karawanken Alps and the border with Slovenia"
+  ],
+  "description": "Hochosterwitz Castle rises from a sheer isolated dolomite rock 175 metres above the Carinthian plain on a formation so vertical that the rock itself appears to be a natural fortress before any wall is built. The path to the top winds through 14 successive gateways — each one a separate defensive work, some with portcullises, some with murder holes in the vaulted ceilings, all fitted with gates and chains — in a sequence that makes the castle not merely impregnable but almost pedagogically so: each gate teaches an attacker why the next one is also going to be impossible.\n\nThe 14-gate defensive system was designed and built by Georg Khevenhüller between 1570 and 1586, when the Ottoman advance through the Balkans made the fortification of Carinthia urgent. Khevenhüller had bought the older medieval castle on the rock in 1571 and systematically rebuilt it as a fortress of maximum defensive sophistication: the 14 towers and gate passages were added progressively, each gate named (the Gate of the Peacock, the German Gate, the Rope Gate) and each equipped with its own defensive features. The result is the most elaborate defensive gate sequence anywhere in central European castle architecture.\n\nThe castle has never fallen to assault. During the Ottoman raids of the 16th century, the local population took refuge within the walls — and in one famous episode, the garrison, down to their last provisions, is said to have lowered a calf covered in grain to the besieging Ottoman forces to suggest they had ample supplies. The Ottomans, believing the garrison well-provisioned, lifted the siege. The castle remains in Khevenhüller family ownership today — a direct line from Georg Khevenhüller to the current owners spanning 450 years.",
+  "history": "A castle on the Hochosterwitz rock appears in records from 860 AD, when it was mentioned as the property of the Bishop of Salzburg. The strategic position — controlling the valley route between Carinthia and Styria — made it consistently important throughout the medieval period. It passed through various owners before being acquired by the Habsburg crown in 1478 and then sold to Georg Khevenhüller in 1571.\n\nKhevenhüller's transformation of the medieval castle into the 14-gate fortress was driven by the immediate threat of Ottoman expansion. The siege of Vienna in 1529 had demonstrated the Ottomans' reach into the heart of Europe, and the border provinces — of which Carinthia was one — lived under regular threat of Ottoman raiding parties throughout the second half of the 16th century. The 14-gate system was completed by 1586, the year Khevenhüller died.\n\nThe castle remained in Khevenhüller family possession through the Thirty Years War, the final Ottoman advance of 1683, the Napoleonic period, and both World Wars, never changing hands and never being seriously threatened militarily after the Ottoman danger receded. The family opened the castle to visitors in the 20th century and built the cable car as an alternative ascent option. The castle museum documents both the family history and the castle's defensive architecture.",
+  "how_to_visit": "**Getting there from Klagenfurt:** Hochosterwitz is 20 km north-east of Klagenfurt — about 25 minutes by car on the B317 road towards St. Veit an der Glan. By train, take the service from Klagenfurt to St. Georgen im Lavanttal (about 30 minutes) — the castle is visible from the train and a 20-minute walk from the station. Several Klagenfurt tour operators include the castle in half-day excursions.\n\n**The ascent:** Choose between the 14-gate path (30–40 minutes uphill, the recommended experience) or the cable car (operates May–October, included in some ticket packages). The path through the gates is the essential experience — take time at each gate to examine the defensive mechanisms. The cable car is useful for the return journey if legs are tired.\n\n**Combine with:** Burg Hochosterwitz pairs naturally with a visit to Klagenfurt (the Carinthian capital, with the Landhaus and Wörthersee lake) and the monastery at Maria Saal (3 km from the castle), which contains Roman stonework recycled from the ancient city of Virunum.",
+  "faqs": [
+    {
+      "question": "Why does Hochosterwitz Castle have 14 gates?",
+      "answer": "The 14 gates were built between 1570 and 1586 by Georg Khevenhüller as a response to the Ottoman threat. Each gate is an independent defensive position: an attacker who broke through one gate would face the next immediately, under fire from the flanking towers. Some gates have portcullises, some have murder holes in the vaulted ceiling for dropping projectiles, and all are designed so that defenders above have clear firing lines onto attackers below. The sequence makes the castle not just difficult to capture but essentially impossible to take by direct assault — a claim borne out by the fact that Hochosterwitz has never fallen to force."
+    },
+    {
+      "question": "Is Hochosterwitz Castle still privately owned?",
+      "answer": "Yes — Burg Hochosterwitz has been owned by the Khevenhüller family since 1571, when Georg Khevenhüller bought it from the Habsburg crown. This makes it one of the longest continuously family-owned castles in Austria, with ownership spanning nearly 450 years across roughly 15 generations. The family operates the castle as a tourist attraction and maintains the buildings. The upper residential section of the castle remains the private residence of the family and is not open to visitors."
+    },
+    {
+      "question": "How do I get to Hochosterwitz Castle from Vienna?",
+      "answer": "By car from Vienna, the drive to Hochosterwitz takes about 3 hours via the A2 motorway towards Graz and then south to Carinthia — exit at St. Veit an der Glan and follow signs. By train, take the Railjet or Intercity from Vienna to Klagenfurt (about 3.5 hours), then a regional train to St. Georgen im Lavanttal (30 minutes from Klagenfurt) and a 20-minute walk to the castle. The most comfortable option is overnight in Klagenfurt and a half-day excursion."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hochosterwitz-castle.webp",
+    "alt": "Hochosterwitz Castle's 14-gate defensive path winding up a sheer 175-metre dolomite rock in Carinthia, Austria",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hochosterwitz-castle.webp",
+  "instagram_tag": "#hochosterwitz",
+  "meta_title": "Hochosterwitz Castle Austria: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Hochosterwitz Castle in Carinthia — Austria's most dramatic fortress with 14 successive gates on a 175m rock. Plan your day trip from Klagenfurt.",
+  "tags": ["castle", "medieval", "renaissance", "carinthia", "austria", "14-gates", "khevenhüller", "ottoman-era", "klagenfurt"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["durnstein-castle", "hohensalzburg-fortress"],
+  "gyg_search_query": "Hochosterwitz Castle Carinthia Austria tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
