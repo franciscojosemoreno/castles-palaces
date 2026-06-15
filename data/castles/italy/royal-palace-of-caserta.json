@@ -72,11 +72,53 @@
   "meta_title": "Royal Palace of Caserta, Italy — World's Largest Royal Palace",
   "meta_description": "Visit the Reggia di Caserta near Naples — a UNESCO World Heritage Baroque palace with 1,200 rooms and 3 km of formal gardens. Italy's Versailles.",
   "tags": ["baroque", "unesco-world-heritage", "palace", "campania", "bourbon"],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": ["palazzo-dei-normanni"],
-  "gyg_location_id": "2509",
+  "gyg_location_id": "32692",
   "gyg_search_query": "Royal Palace Caserta tour from Naples",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "909868",
+      "title": "Caserta: Royal Palace Skip-the-Line Entrance Ticket",
+      "type": "skip_the_line",
+      "duration": "Self-guided",
+      "price_from": 22,
+      "rating": 4.5,
+      "reviews": 310,
+      "covers_castles": ["royal-palace-of-caserta"]
+    },
+    {
+      "tour_id": "363175",
+      "title": "Caserta: Royal Palace of Caserta Ticket and Guided Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 38,
+      "rating": 4.6,
+      "reviews": 220,
+      "covers_castles": ["royal-palace-of-caserta"]
+    },
+    {
+      "tour_id": "211827",
+      "title": "Caserta: Small-Group Royal Palace Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 45,
+      "rating": 4.7,
+      "reviews": 180,
+      "covers_castles": ["royal-palace-of-caserta"]
+    },
+    {
+      "tour_id": "444430",
+      "title": "From Rome: Royal Palace of Caserta Entry and Train Ticket",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 72,
+      "rating": 4.5,
+      "reviews": 290,
+      "covers_castles": ["royal-palace-of-caserta"]
+    }
+  ]
 }
