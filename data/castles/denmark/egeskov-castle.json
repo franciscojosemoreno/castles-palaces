@@ -1,0 +1,82 @@
+{
+  "id": "egeskov-castle",
+  "name": "Egeskov Castle",
+  "local_name": "Egeskov Slot",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 250000,
+  "country": "denmark",
+  "region": "Funen / Fyn",
+  "nearest_city": "Odense",
+  "address": "Egeskovvej 18, 5772 Kværndrup, Denmark",
+  "lat": 55.1794,
+  "lng": 10.4875,
+  "unesco": false,
+  "year_built": 1554,
+  "architectural_style": "Renaissance / Nordic",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open daily May–Oct, 10:00–17:00 (extended to 20:00 in July for evening events). Closed November–April. Last entry 1 hour before closing. The ticket price includes castle, gardens, and all museums on site."
+  },
+  "price_adult": 36,
+  "price_child": 19,
+  "booking_required": false,
+  "official_tickets_url": "https://www.egeskov.dk",
+  "visit_duration": "3–4 hours (castle + gardens + museums)",
+  "best_season": "June to August — the gardens are magnificent and the longest days give most time on site",
+  "accessibility": "The castle interior involves stairs. The extensive gardens and ground-floor areas are largely accessible. A tram operates around the estate.",
+  "booking_advance_days": 0,
+  "tagline": "The best-preserved Renaissance water castle in northern Europe — built on a foundation of oak piles sunk into a lake",
+  "highlights": [
+    "Built in 1554 entirely on a foundation of thousands of oak piles sunk into a small lake — the piles still hold the castle 470 years later",
+    "The best-preserved Renaissance water castle in northern Europe, surrounded by a still-water moat that perfectly mirrors the towers",
+    "One of Denmark's most visited attractions, with world-class gardens, vintage car museum, and motorcycle collection",
+    "Still occupied by the same family — the Ahlefeldt-Laurvig-Bille family — who have owned it since the 18th century",
+    "The great hall and historic apartments are furnished with original contents spanning five centuries"
+  ],
+  "description": "Egeskov Castle was built on a lake. Not beside a lake, not incorporating a lake in its defences — on a lake: the entire structure rests on a foundation of thousands of oak piles driven into the bed of a small inland lake, their tips sunk into the mud below the waterline where they have remained preserved without oxygen for 470 years. The principle was ancient military engineering taken to an extreme: an island fortress is impregnable, so create the island artificially. The name 'Egeskov' means 'oak forest' — a reference to the number of trees that were felled to build the foundation.\n\nThe castle completed in 1554 is one of the finest and best-preserved Renaissance buildings in Scandinavia. The two main towers, connected by a double wall concealing a secret passage, rise directly from the water — their reflections as precise as the towers themselves. The red brick, steep rooflines, and distinctive turrets give Egeskov the quality that northern European Renaissance architecture achieves at its best: a building that is simultaneously fortress and residence, military architecture that has become genuinely beautiful.\n\nEgeskov today is one of Denmark's most visited attractions — not just for the castle but for the extraordinary ensemble that surrounds it: formal baroque gardens, an English landscape park, a kitchen garden, a vintage car museum with over 200 vehicles, a motorcycle collection, a treetop walkway, and a hedge maze. The ticket covers everything. Allow a full day, particularly in summer when the grounds are at their best and evening events frequently extend the visit.",
+  "history": "Egeskov was built by Frands Brockenhuus, a Danish nobleman, between 1540 and 1554. The choice to build on a lake rather than beside one reflects the heightened security concerns of the mid-16th century — the period of the Count's War (Grevens Fejde) that devastated many Danish noble estates. Frands Brockenhuus wanted a castle that could not be taken by the land-based forces that had destroyed his contemporaries' homes.\n\nThe castle passed through several noble families over the following centuries. The Ahlefeldt family acquired it in 1784 and, through marriage, the current owners — the Ahlefeldt-Laurvig-Bille family — have held it since the 19th century. Unlike many European aristocratic castles that were sold, donated to the state, or converted to museums during the 20th century, Egeskov has remained in private family ownership and occupation throughout.\n\nThe extensive gardens were laid out in several phases: the baroque formal garden in the 17th century, the English landscape park in the 18th century, and various specialist gardens in the 20th century. The vehicle museums — containing vintage cars, motorcycles, and aircraft — were developed by the current Count in the latter half of the 20th century and have become major attractions in their own right. Egeskov opened formally to the public in 1967.",
+  "how_to_visit": "**Getting there from Odense:** Egeskov is 35 km south of Odense on the island of Funen — about 35 minutes by car. By public transport, take a train from Odense to Kværndrup station (about 20 minutes) and then a 15-minute walk or taxi to the castle. By car from Copenhagen, cross the Great Belt Bridge to Funen and drive south — the journey takes about 2 hours.\n\n**Plan the day:** Allow at least 3–4 hours to cover the castle, one or two of the gardens, and the vehicle museum. The treetop walkway (Treetop Experience) is excellent for children. The formal baroque garden is the most photogenic. In July, evening events including concerts and theatrical performances extend the site's appeal.\n\n**Combine with Funen:** Egeskov is the centrepiece of a Funen day from Copenhagen or Odense. Hans Christian Andersen's birthplace in Odense (about 45 minutes north) makes a natural morning complement before an afternoon at Egeskov.",
+  "faqs": [
+    {
+      "question": "Why is Egeskov Castle built on a lake?",
+      "answer": "Egeskov was built on a small inland lake in 1554 for military security — an island fortress was essentially impregnable against the land-based attacks that had destroyed many Danish noble estates during the Count's War of 1534–1536. The foundation consists of thousands of oak piles driven into the lake bed, their tips buried in oxygen-free mud where they have remained preserved for 470 years. The name 'Egeskov' means 'oak forest' in Danish, reflecting the number of trees consumed in the foundation."
+    },
+    {
+      "question": "What else is there to do at Egeskov besides the castle?",
+      "answer": "The Egeskov estate includes: baroque formal gardens, an English landscape park, a kitchen garden, a vintage car museum (200+ vehicles), a motorcycle collection, a veteran aircraft collection, a treetop walkway, a hedge maze, a rope course, and farm animals. The single ticket covers all of these. In summer, evening concerts and theatrical events are frequently scheduled. Allow a full day — particularly for families — to cover the main attractions."
+    },
+    {
+      "question": "How do I get to Egeskov Castle from Copenhagen?",
+      "answer": "By car from Copenhagen, cross the Øresund Bridge to Sweden, then take the E20 motorway via Malmö and Odense across the Great Belt Bridge to Funen — Egeskov is about 35 km south of Odense. Total drive: about 2.5 hours. By train, take the Intercity from Copenhagen to Odense (about 1.5 hours), then a regional train to Kværndrup (20 minutes) and a short walk or taxi. The car is more convenient for a day that includes multiple Funen stops."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/egeskov-castle.webp",
+    "alt": "Egeskov Castle's Renaissance towers reflected in the surrounding moat on the island of Funen, Denmark",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/egeskov-castle.webp",
+  "instagram_tag": "#egeskovSlot",
+  "meta_title": "Egeskov Castle Denmark: Tickets, Gardens & Visitor Guide 2026",
+  "meta_description": "Visit Egeskov Castle on the island of Funen — northern Europe's best Renaissance water castle, with world-class gardens and vintage car museums. Plan your day trip from Odense or Copenhagen.",
+  "tags": ["castle", "renaissance", "water-castle", "funen", "denmark", "gardens", "day-trip-from-odense", "day-trip-from-copenhagen", "private-castle"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["kronborg-castle", "frederiksborg-palace"],
+  "gyg_search_query": "Egeskov Castle Funen Denmark tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
