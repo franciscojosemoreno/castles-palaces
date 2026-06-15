@@ -88,15 +88,57 @@
     "instagram-worthy",
     "romantic"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "andalucia-palaces"
   ],
   "nearby_castles": [
     "alcazar-seville"
   ],
-  "gyg_location_id": "2562",
+  "gyg_location_id": "2772",
   "gyg_search_query": "Alhambra Granada tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "54011",
+      "title": "Granada: Alhambra & Nasrid Palaces Guided Tour with Tickets",
+      "type": "skip_the_line",
+      "duration": "3 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 3200,
+      "covers_castles": ["alhambra-granada"]
+    },
+    {
+      "tour_id": "48872",
+      "title": "Granada: Alhambra & Generalife Fast-Track Guided Tour",
+      "type": "skip_the_line",
+      "duration": "3 hours",
+      "price_from": 45,
+      "rating": 4.6,
+      "reviews": 2800,
+      "covers_castles": ["alhambra-granada"]
+    },
+    {
+      "tour_id": "171748",
+      "title": "Granada: Alhambra Gardens and Generalife Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 22,
+      "rating": 4.3,
+      "reviews": 850,
+      "covers_castles": ["alhambra-granada"]
+    },
+    {
+      "tour_id": "51201",
+      "title": "Granada: Alhambra Fast-Track Ticket and Guided Tour by Night",
+      "type": "skip_the_line",
+      "duration": "2 hours",
+      "price_from": 38,
+      "rating": 4.6,
+      "reviews": 420,
+      "covers_castles": ["alhambra-granada"]
+    }
+  ]
 }

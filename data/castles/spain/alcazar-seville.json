@@ -81,15 +81,57 @@
     "book-in-advance",
     "instagram-worthy"
   ],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [
     "andalucia-palaces"
   ],
   "nearby_castles": [
     "alhambra-granada"
   ],
-  "gyg_location_id": "547",
+  "gyg_location_id": "4542",
   "gyg_search_query": "Alcazar Seville tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "162078",
+      "title": "Seville: Alcázar Skip-the-Line Tickets and Guided Tour",
+      "type": "skip_the_line",
+      "duration": "1.5 hours",
+      "price_from": 30,
+      "rating": 4.7,
+      "reviews": 2400,
+      "covers_castles": ["alcazar-seville"]
+    },
+    {
+      "tour_id": "491580",
+      "title": "Seville: Small-Group Alcázar Guided Tour & Entry Ticket",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 45,
+      "rating": 4.8,
+      "reviews": 680,
+      "covers_castles": ["alcazar-seville"]
+    },
+    {
+      "tour_id": "455108",
+      "title": "Seville: Real Alcázar of Seville Guided Tour and Ticket",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 28,
+      "rating": 4.6,
+      "reviews": 890,
+      "covers_castles": ["alcazar-seville"]
+    },
+    {
+      "tour_id": "443676",
+      "title": "Seville: Royal Alcázar Skip-the-Line Tour by Local Experts",
+      "type": "skip_the_line",
+      "duration": "2 hours",
+      "price_from": 38,
+      "rating": 4.7,
+      "reviews": 420,
+      "covers_castles": ["alcazar-seville"]
+    }
+  ]
 }

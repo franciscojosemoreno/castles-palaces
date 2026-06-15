@@ -72,11 +72,53 @@
   "meta_title": "Mont-Saint-Michel: Abbey Tickets, Tides & Visitor Guide 2026",
   "meta_description": "Visit Mont-Saint-Michel — France's iconic tidal island-fortress and UNESCO abbey. Complete guide to tickets, tide times, getting there from Paris, and what to see.",
   "tags": ["gothic", "romanesque", "medieval", "unesco-world-heritage", "iconic", "coastal"],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": ["carcassonne", "chateau-de-pierrefonds"],
-  "gyg_location_id": "13",
+  "gyg_location_id": "1805",
   "gyg_search_query": "Mont Saint Michel tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 6
+  "gyg_num_results": 6,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "66202",
+      "title": "Mont-Saint-Michel Abbey: Entry Ticket & Information Booklet",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 14,
+      "rating": 4.3,
+      "reviews": 980,
+      "covers_castles": ["mont-saint-michel"]
+    },
+    {
+      "tour_id": "537006",
+      "title": "Mont-Saint-Michel: Tour with National Guide",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 28,
+      "rating": 4.6,
+      "reviews": 190,
+      "covers_castles": ["mont-saint-michel"]
+    },
+    {
+      "tour_id": "10754",
+      "title": "From Paris: Full-Day Mont Saint-Michel Guided Tour",
+      "type": "day_trip",
+      "duration": "14 hours",
+      "price_from": 95,
+      "rating": 4.5,
+      "reviews": 1800,
+      "covers_castles": ["mont-saint-michel"]
+    },
+    {
+      "tour_id": "151667",
+      "title": "From Paris: Mont Saint-Michel Tour with Hotel Pickup",
+      "type": "day_trip",
+      "duration": "14 hours",
+      "price_from": 90,
+      "rating": 4.5,
+      "reviews": 650,
+      "covers_castles": ["mont-saint-michel"]
+    }
+  ]
 }
