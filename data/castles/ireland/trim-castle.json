@@ -1,0 +1,94 @@
+{
+  "id": "trim-castle",
+  "name": "Trim Castle",
+  "local_name": "Caisleán Baile Átha Troim",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 120000,
+  "country": "ireland",
+  "region": "County Meath",
+  "nearest_city": "Dublin",
+  "address": "Castle Street, Trim, Co. Meath, Ireland",
+  "lat": 53.5540,
+  "lng": -6.7900,
+  "unesco": false,
+  "year_built": 1173,
+  "architectural_style": "Norman Medieval",
+  "opening_hours": {
+    "monday": "09:30–17:30",
+    "tuesday": "09:30–17:30",
+    "wednesday": "09:30–17:30",
+    "thursday": "09:30–17:30",
+    "friday": "09:30–17:30",
+    "saturday": "09:30–17:30",
+    "sunday": "09:30–17:30",
+    "seasonal_note": "Open daily 09:30–17:30 (Mar–Oct); 09:30–16:00 (Nov–Feb). Last entry 45 minutes before closing. Interior by guided tour only."
+  },
+  "price_adult": 5,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.heritageireland.ie/visit/places-to-visit/trim-castle/",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "April to October",
+  "accessibility": "Grounds largely accessible. Interior tours involve narrow stairs — not suitable for wheelchairs. Contact in advance for arrangements.",
+  "booking_advance_days": 0,
+  "tagline": "The largest Norman castle in Ireland — Braveheart's fortress on the River Boyne",
+  "highlights": [
+    "Largest Anglo-Norman castle in Ireland, covering over 1.2 hectares within its curtain walls",
+    "The great keep — 20 metres high with walls 3 metres thick — is the most complete Norman keep in Ireland",
+    "Filming location for Mel Gibson's Braveheart (1995)",
+    "The Yellow Steeple and Sheep Gate ruins across the river complete one of Ireland's finest medieval townscapes",
+    "Set on the banks of the River Boyne, surrounded by atmospheric earthworks and moat"
+  ],
+  "description": "Trim Castle is the largest and most complete Anglo-Norman castle in Ireland, a fact that becomes viscerally clear the moment you approach its 20-metre keep. Built in stone after 1173 by Hugh de Lacy — granted the lordship of Meath by Henry II — the castle grew over the following century into a vast fortress complex: a great keep of unusual cruciform plan, a curtain wall enclosing over 1.2 hectares, three D-shaped mural towers, and a substantial barbican controlling the river crossing below. For two centuries it was the administrative capital of the Lordship of Meath and one of the most powerful fortresses in Ireland.\n\nThe interior — accessible only by guided tour — reveals the scale of medieval ambition here. The great keep's walls are 3 metres thick at their base. The upper floors, where the lord and his household would have lived, have been partially restored to give a sense of the original arrangement: hall, solar, and chapel stacked vertically above the garrison levels. A spiral stair winds through the thickness of the wall to the battlements, where the view across the Boyne Valley and the ruins of the Yellow Steeple friary explains immediately why this position was worth fighting over.\n\nInternational visitors often recognise Trim before knowing its name — the castle appeared as Edinburgh in Mel Gibson's Braveheart (1995), its walls standing in for Scottish medieval architecture in a film shot largely in Ireland. The combination of genuine medieval grandeur and cinematic familiarity makes Trim one of the most satisfying castle visits in the country.",
+  "history": "The first fortification at Trim was ordered by Hugh de Lacy shortly after the Norman invasion of Ireland in 1169. The original earthwork castle was burned in 1173 during an attack by Rory O'Connor, High King of Ireland — the burning forced a rebuild in stone that created the foundations of the structure visible today. Hugh de Lacy's son Walter completed the great keep between 1190 and 1220, giving it its distinctive cruciform plan with square projecting towers at each face.\n\nTrim served as the capital of the Lordship of Meath throughout the 13th and 14th centuries, regularly hosting parliaments and councils. The future King Henry V of England was held at Trim as a child in the 1390s, placed there by Richard II for safekeeping during the Irish campaigns. The castle declined in importance after the 15th century as the political centre of English Ireland shifted definitively to Dublin, and by the 17th century it had been largely abandoned.\n\nHeritage Ireland undertook major conservation work in the 1990s, stabilising the ruins and opening the castle to visitors. The guided tours offer the only access to the keep interior — a decision that preserves the fabric of the building while ensuring visitors understand what they are seeing.",
+  "how_to_visit": "**Getting there from Dublin:** Trim is 50 km north-west of Dublin — about 1 hour by car on the M3 motorway. Bus Éireann route 111 runs from Dublin Busáras to Trim several times daily (about 1 hour 15 minutes). Many visitors combine Trim with Newgrange and the Hill of Tara on a Boyne Valley day trip, for which organised tours from Dublin are excellent value.\n\n**On site:** The grounds are free to walk; the castle interior requires a guided tour (€5 adults). Tours depart regularly and last about 45 minutes — join one when you arrive. The Yellow Steeple and Sheep Gate across the Boyne are a 10-minute walk and worth including. The town of Trim itself has good pubs and cafes.",
+  "faqs": [
+    {
+      "question": "Was Braveheart filmed at Trim Castle?",
+      "answer": "Yes — Trim Castle appears as Edinburgh Castle in Mel Gibson's Braveheart (1995). The film used several Irish locations, including Trim and the Wicklow Mountains. The castle's great keep and curtain walls can be recognised in various scenes, though the film makes no attempt to accurately represent Scottish architecture. The production brought significant revenue to County Meath and remains a popular point of interest for visitors."
+    },
+    {
+      "question": "How do I get to Trim Castle from Dublin?",
+      "answer": "By car, Trim is about 50 km from Dublin city centre — approximately 1 hour via the M3 motorway. By bus, Bus Éireann route 111 runs from Dublin Busáras (central bus station) to Trim several times daily; the journey takes about 1 hour 15 minutes. Many visitors take an organised day tour from Dublin that combines Trim with Newgrange and the Hill of Tara — these handle all transport and typically cost €40–60."
+    },
+    {
+      "question": "Can I enter Trim Castle without a guided tour?",
+      "answer": "The castle grounds and exterior are freely accessible at any time. The interior of the great keep requires a paid guided tour (€5 adults, €3 children). Tours depart regularly during opening hours and last about 45 minutes. The tours are generally excellent and greatly increase understanding of how the castle functioned."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/trim-castle.webp",
+    "alt": "Trim Castle's great Norman keep rising above the River Boyne in County Meath, Ireland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/trim-castle.webp",
+  "instagram_tag": "#trimCastle",
+  "meta_title": "Trim Castle Ireland: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Trim Castle — Ireland's largest Norman fortress on the River Boyne. Book tickets, plan your day trip from Dublin, and discover the Braveheart filming location.",
+  "tags": ["castle", "norman", "medieval", "braveheart", "county-meath", "day-trip-from-dublin", "boyne-valley"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["kilkenny-castle", "blarney-castle", "rock-of-cashel"],
+  "gyg_location_id": "89964",
+  "gyg_search_query": "Trim Castle Ireland tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "178556",
+      "title": "Dublin: Private Boyne Valley and Trim Castle Day Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 85,
+      "rating": 4.8,
+      "reviews": 120,
+      "covers_castles": ["trim-castle"]
+    }
+  ]
+}
