@@ -1,0 +1,82 @@
+{
+  "id": "beaumaris-castle",
+  "name": "Beaumaris Castle",
+  "local_name": "Castell Biwmares",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 60000,
+  "country": "wales",
+  "region": "Anglesey / Isle of Anglesey",
+  "nearest_city": "Bangor",
+  "address": "Castle Street, Beaumaris, Anglesey LL58 8AP, Wales",
+  "lat": 53.2635,
+  "lng": -4.0888,
+  "unesco": true,
+  "year_built": 1295,
+  "architectural_style": "Edwardian Concentric Medieval",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Open daily Mar–Oct 09:30–17:00; Nov–Feb 10:00–16:00. Managed by Cadw. Last entry 30 minutes before closing."
+  },
+  "price_adult": 13,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/visit/places-to-visit/beaumaris-castle",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "April to October — the flat Anglesey setting and views across the Menai Strait are best in good weather",
+  "accessibility": "The outer ward and main courtyard are largely accessible. The inner ward and towers involve stairs. The moat walk path around the castle is flat and accessible.",
+  "booking_advance_days": 0,
+  "tagline": "The most technically perfect medieval castle ever built — Edward I's unfinished masterpiece of concentric design",
+  "highlights": [
+    "Considered by military historians to be the most technically perfect concentric castle ever designed",
+    "Part of the UNESCO Iron Ring — one of four Edward I fortresses in Gwynedd inscribed in 1986",
+    "The outer and inner walls are perfectly symmetrical — each side a mirror of the others",
+    "Never completed: Edward I's money ran out in 1330, leaving the towers unfinished",
+    "Set on the Anglesey shore of the Menai Strait, with views across to Snowdonia and the Menai Suspension Bridge"
+  ],
+  "description": "Beaumaris Castle is the most technically perfect medieval castle ever built — or rather, ever designed. The distinction matters, because Beaumaris was never completed. Edward I began it in 1295 on the flat marshland of Anglesey's Menai Strait shore, and Master James of St. George — the greatest military architect of the medieval world — produced a design of such geometric precision and theoretical sophistication that it has been studied by military engineers and architectural historians ever since. Then the money ran out. The towers were never raised to their intended height. The overall scheme was never realised. What stands today is a magnificent, perfectionist fragment.\n\nThe design principle of Beaumaris is concentric defence: two rings of walls, one inside the other, each independently defensible, with the inner ring higher so that both walls can be defended simultaneously. The outer wall has 12 towers and 2 gatehouses; the inner wall has 6 towers and 2 massive gatehouses. Every element is placed with geometric exactness — each side of the outer wall mirrors the opposite, each tower aligns precisely with the next. A moat fed by the tidal water of the Menai Strait surrounds the whole. In theory, an attacker who breached the outer wall would find themselves trapped in the space between the two walls under fire from defenders on both sides simultaneously.\n\nBeaumaris was never tested in a major siege — partly because it was never finished, and partly because its design made any attack obviously suicidal. It was garrisoned and administered through the medieval period but saw no significant military action. Its fame is entirely architectural: it is the expression of an idea about castle design taken to its logical extreme, and then stopped, incomplete, at the precise moment when it would have been most formidable.",
+  "history": "Beaumaris was Edward I's last castle in Wales, begun in 1295 following a Welsh revolt that demonstrated the need for a strong English presence on Anglesey — the island that had been the heartland of the native Welsh princes. Edward chose a flat site on the Menai Strait, unusual in Welsh castle building (most Edwardian castles use dramatic natural terrain) but ideal for realising the geometric concentric design.\n\nConstruction proceeded rapidly: in the first year, 2,000 workers were employed, including 400 masons, 30 blacksmiths, and 1,000 labourers. But the enormous cost of maintaining simultaneous wars in Scotland and France drained the English treasury, and funding for Beaumaris became increasingly erratic after 1300. By 1330 construction had essentially ceased, leaving the towers significantly lower than planned and the overall scheme incomplete.\n\nEdward II visited the unfinished castle in 1306; subsequent English monarchs showed little interest. Beaumaris changed hands several times during the Welsh rebellions of the 15th century and the Civil War of the 17th century, before falling into the disrepair that left it in its current incomplete but remarkably authentic condition. It was inscribed as a UNESCO World Heritage Site in 1986, alongside Conwy, Caernarfon, and Harlech.",
+  "how_to_visit": "**Getting there:** Beaumaris is on the Isle of Anglesey, reached from the mainland by the A55 road (crossing the Menai Suspension Bridge or the Britannia Bridge). From Bangor on the mainland, Beaumaris is about 12 km — 20 minutes by car or 30–40 minutes by bus (service 53/58 from Bangor). By train, arrive at Bangor station and take the bus or taxi to Beaumaris.\n\n**Combine with Caernarfon:** The classic Iron Ring day trip from north Wales combines Caernarfon Castle (the most impressive of the four, with the town walls) with Beaumaris (the most architecturally sophisticated). The drive between them via the Menai Bridge is about 25 minutes. Add Conwy (another 30 minutes east) for a full Iron Ring day — three UNESCO castles in one trip.\n\n**The town of Beaumaris:** The town around the castle is worth exploring — the Victorian courthouse (still operating), Georgian townhouses along the waterfront, and excellent pubs and cafes near the castle. The views across the Menai Strait to the Snowdonia mountains from the castle moat walk are outstanding.",
+  "faqs": [
+    {
+      "question": "Why is Beaumaris Castle considered the most perfect medieval castle?",
+      "answer": "Military historians and architectural scholars consistently describe Beaumaris as the most geometrically perfect and theoretically sophisticated concentric castle ever designed. Its symmetrical double-ring plan — with outer and inner walls each independently defensible, the inner wall raised to allow simultaneous fire from both — represents the logical endpoint of medieval castle design. Every element (towers, gates, water gate, moat) is placed with precise geometric intention. The fact that it was never completed only adds to its theoretical importance: Beaumaris is a design blueprint that was never fully realised."
+    },
+    {
+      "question": "Was Beaumaris Castle ever finished?",
+      "answer": "No — Beaumaris was never completed. Edward I began construction in 1295 but English wars in Scotland and France drained the treasury, and funding became erratic after 1300. By 1330 construction had effectively stopped, leaving the towers significantly shorter than planned and the great gatehouses incomplete. The castle as it stands today is therefore a magnificent but partial realisation of Master James of St. George's design. Historians estimate that completing it to the original specification would have roughly doubled the construction cost."
+    },
+    {
+      "question": "How do I get to Beaumaris from Caernarfon?",
+      "answer": "By car, Beaumaris is about 25 km from Caernarfon — roughly 25 minutes via the A487 and A55 across the Menai Suspension Bridge. Alternatively, the more scenic route around the north of Anglesey adds time but passes through attractive countryside. There is no direct public transport between Caernarfon and Beaumaris; bus travel requires going via Bangor (total about 1–1.5 hours with a change)."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/beaumaris-castle.webp",
+    "alt": "Beaumaris Castle's perfectly symmetrical concentric walls and towers reflected in the surrounding moat, Anglesey, Wales",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/beaumaris-castle.webp",
+  "instagram_tag": "#beaumariscastle",
+  "meta_title": "Beaumaris Castle Wales: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Beaumaris Castle — the most technically perfect medieval castle ever designed, UNESCO-listed on the Isle of Anglesey. Book Cadw tickets and plan your North Wales Iron Ring trip.",
+  "tags": ["castle", "medieval", "edward-i", "iron-ring", "unesco-world-heritage", "wales", "anglesey", "cadw", "concentric-castle"],
+  "last_updated": "2026-06-14",
+  "routes": [],
+  "nearby_castles": ["caernarfon-castle", "conwy-castle", "harlech-castle"],
+  "gyg_search_query": "Beaumaris Castle Anglesey Wales tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": []
+}
