@@ -72,11 +72,33 @@
   "meta_title": "Moritzburg Castle, Saxony — Baroque Palace on a Lake near Dresden",
   "meta_description": "Visit Moritzburg Palace near Dresden — a Baroque hunting palace rising from a lake, with ornate interiors and a famous Cinderella Christmas exhibition.",
   "tags": ["baroque", "german-castle", "saxony", "palace", "hunting-lodge"],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": ["albrechtsburg-castle"],
-  "gyg_location_id": "2478",
+  "gyg_location_id": "4629",
   "gyg_search_query": "Moritzburg Palace tour from Dresden",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "378959",
+      "title": "Moritzburg: Castle Interactive Hunting Tour",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 17,
+      "rating": 4.5,
+      "reviews": 140,
+      "covers_castles": ["moritzburg-castle"]
+    },
+    {
+      "tour_id": "932849",
+      "title": "From Prague: Dresden, Moritzburg Castle & Meissen Day Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 82,
+      "rating": 4.6,
+      "reviews": 230,
+      "covers_castles": ["moritzburg-castle"]
+    }
+  ]
 }

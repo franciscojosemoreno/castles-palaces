@@ -72,11 +72,43 @@
   "meta_title": "Les Baux-de-Provence Castle, France — Medieval Citadel in the Alpilles",
   "meta_description": "Visit Les Baux-de-Provence — a ruined medieval citadel on a Provençal limestone ridge with siege engine demos and views over the Alpilles mountains.",
   "tags": ["medieval", "french-castle", "provence", "alpilles", "ruins"],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": ["chateau-de-beynac"],
-  "gyg_location_id": "2448",
+  "gyg_location_id": "197705",
   "gyg_search_query": "Les Baux de Provence castle tour Arles",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1162474",
+      "title": "Les Baux-de-Provence: Carrières des Lumières Immersive Art Ticket",
+      "type": "entry_ticket",
+      "duration": "1 hour",
+      "price_from": 19,
+      "rating": 4.6,
+      "reviews": 580,
+      "covers_castles": ["les-baux-de-provence"]
+    },
+    {
+      "tour_id": "489673",
+      "title": "From Avignon: Arles, Les Baux-de-Provence & Saint-Rémy Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 60,
+      "rating": 4.5,
+      "reviews": 340,
+      "covers_castles": ["les-baux-de-provence"]
+    },
+    {
+      "tour_id": "199444",
+      "title": "From Marseille: Full-Day Les Baux-de-Provence Wine Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 88,
+      "rating": 4.5,
+      "reviews": 210,
+      "covers_castles": ["les-baux-de-provence"]
+    }
+  ]
 }
