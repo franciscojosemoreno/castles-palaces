@@ -71,8 +71,40 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["akershus-fortress"],
-  "gyg_location_id": "237",
+  "gyg_location_id": "109212",
   "gyg_search_query": "Bergenhus Fortress Bergen tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "401189",
+      "title": "Bergen: Past & Present Small Group Guided Walking Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 28,
+      "rating": 4.6,
+      "reviews": 420,
+      "covers_castles": ["bergenhus-fortress"]
+    },
+    {
+      "tour_id": "516319",
+      "title": "Bergen: Private Walking Tour with Bergenhus Fortress",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 142,
+      "covers_castles": ["bergenhus-fortress"]
+    },
+    {
+      "tour_id": "435189",
+      "title": "Bergen: Sightseeing Cruise of Bergen's Historic Landmarks",
+      "type": "guided_tour",
+      "duration": "1 hour",
+      "price_from": 38,
+      "rating": 4.5,
+      "reviews": 285,
+      "covers_castles": ["bergenhus-fortress"]
+    }
+  ]
 }

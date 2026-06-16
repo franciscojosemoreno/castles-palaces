@@ -71,8 +71,40 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["akershus-fortress", "bergenhus-fortress"],
-  "gyg_location_id": "503",
+  "gyg_location_id": "236651",
   "gyg_search_query": "Turku Castle tour Finland",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1099548",
+      "title": "Turku Castle & City: Fully Guided Day Tour from Helsinki",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 292,
+      "rating": 4.7,
+      "reviews": 85,
+      "covers_castles": ["turku-castle"]
+    },
+    {
+      "tour_id": "865516",
+      "title": "Private Turku by Car from Helsinki: Cathedral & Castle",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 526,
+      "rating": 4.6,
+      "reviews": 36,
+      "covers_castles": ["turku-castle"]
+    },
+    {
+      "tour_id": "955712",
+      "title": "Helsinki: Turku Private Tour with Local Guide",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 637,
+      "rating": 4.7,
+      "reviews": 28,
+      "covers_castles": ["turku-castle"]
+    }
+  ]
 }
