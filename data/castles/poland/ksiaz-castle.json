@@ -75,8 +75,50 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["malbork-castle", "wawel-castle", "ogrodzieniec-castle"],
+  "gyg_location_id": "94182",
   "gyg_search_query": "Książ Castle Wrocław Poland tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "172320",
+      "title": "From Wrocław: Książ Castle Skip-the-Line Guided Tour",
+      "type": "skip_the_line",
+      "duration": "5 hours",
+      "price_from": 60,
+      "rating": 4.7,
+      "reviews": 524,
+      "covers_castles": ["ksiaz-castle"]
+    },
+    {
+      "tour_id": "79461",
+      "title": "From Wrocław: Lower Silesia, Książ Castle & Church of Peace",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 385,
+      "covers_castles": ["ksiaz-castle"]
+    },
+    {
+      "tour_id": "214914",
+      "title": "From Wrocław: Książ Castle and Church of Peace in Świdnica",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 198,
+      "covers_castles": ["ksiaz-castle"]
+    },
+    {
+      "tour_id": "215400",
+      "title": "From Wrocław: Project Riese and Książ Castle Private Tour",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 95,
+      "rating": 4.7,
+      "reviews": 148,
+      "covers_castles": ["ksiaz-castle"]
+    }
+  ]
 }
