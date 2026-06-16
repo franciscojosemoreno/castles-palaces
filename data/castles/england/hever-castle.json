@@ -73,5 +73,26 @@
   "gyg_search_query": "Hever Castle Anne Boleyn tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1128430",
+      "title": "London: Leeds Castle and Hever Castle Day Trip with Tickets",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 520,
+      "covers_castles": ["hever-castle", "leeds-castle"]
+    },
+    {
+      "tour_id": "1085288",
+      "title": "London: Hever Castle & Chartwell House Private Day Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 150,
+      "rating": 4.7,
+      "reviews": 85,
+      "covers_castles": ["hever-castle"]
+    }
+  ]
 }

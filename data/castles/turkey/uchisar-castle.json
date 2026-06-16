@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["ortahisar-castle"],
-  "gyg_location_id": "2745",
+  "gyg_location_id": "93594",
   "gyg_search_query": "Uchisar Castle Cappadocia tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "133551",
+      "title": "Cappadocia: Full-Day Blue Tour (Goreme Museum & Pasabaglari)",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 45,
+      "rating": 4.6,
+      "reviews": 680,
+      "covers_castles": ["uchisar-castle"]
+    },
+    {
+      "tour_id": "479864",
+      "title": "Cappadocia: Guided Red Tour with Lunch and Ticket",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 590,
+      "covers_castles": ["uchisar-castle"]
+    },
+    {
+      "tour_id": "57471",
+      "title": "Best of Cappadocia: Private Guided Tour",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 95,
+      "rating": 4.8,
+      "reviews": 420,
+      "covers_castles": ["uchisar-castle"]
+    },
+    {
+      "tour_id": "147747",
+      "title": "Cappadocia: Full-Day Skip-the-Line Private Tour",
+      "type": "skip_the_line",
+      "duration": "8 hours",
+      "price_from": 85,
+      "rating": 4.8,
+      "reviews": 310,
+      "covers_castles": ["uchisar-castle"]
+    }
+  ]
 }
