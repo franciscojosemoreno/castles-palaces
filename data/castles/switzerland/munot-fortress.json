@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["chateau-de-chillon"],
-  "gyg_location_id": "2716",
+  "gyg_location_id": "174149",
   "gyg_search_query": "Munot fortress Schaffhausen Rhine Falls Switzerland tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "980715",
+      "title": "Zurich: Half-Day Trip to Rhine Falls & Historic Schaffhausen",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 250,
+      "rating": 5.0,
+      "reviews": 4,
+      "covers_castles": ["munot-fortress"]
+    },
+    {
+      "tour_id": "844130",
+      "title": "Schaffhausen: Private Express Walk with a Local in 2 hours",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 206,
+      "rating": 4.4,
+      "reviews": 0,
+      "covers_castles": ["munot-fortress"]
+    },
+    {
+      "tour_id": "1049034",
+      "title": "Private Tour Zurich: Rhine Falls and Stein am Rhein Tour",
+      "type": "guided_tour",
+      "duration": "9 hours",
+      "price_from": 598,
+      "rating": 5.0,
+      "reviews": 0,
+      "covers_castles": ["munot-fortress"]
+    }
+  ]
 }

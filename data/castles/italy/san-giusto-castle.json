@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["miramare-castle"],
-  "gyg_location_id": "2742",
-  "gyg_search_query": "Trieste castle San Giusto tour",
+  "gyg_location_id": "236516",
+  "gyg_search_query": "Castello San Giusto Trieste tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "161685",
+      "title": "Trieste: Bus Tour with Audio Guide",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 20,
+      "rating": 4.4,
+      "reviews": 2390,
+      "covers_castles": ["san-giusto-castle"]
+    },
+    {
+      "tour_id": "1039467",
+      "title": "Trieste E-Bike Tour: Old Town, Miramare Castle and Gelato",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 176,
+      "rating": 4.8,
+      "reviews": 0,
+      "covers_castles": ["san-giusto-castle"]
+    },
+    {
+      "tour_id": "1010717",
+      "title": "Trieste: City That Will Definitely Surprise You",
+      "type": "guided_tour",
+      "duration": "2.5 hours",
+      "price_from": 70,
+      "rating": 5.0,
+      "reviews": 93,
+      "covers_castles": ["san-giusto-castle"]
+    }
+  ]
 }
