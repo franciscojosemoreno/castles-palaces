@@ -74,5 +74,36 @@
   "gyg_search_query": "Santa Barbara Castle Alicante tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "487547",
+      "title": "Alicante: Santa Bárbara Castle Wine Tasting with Cold Cuts",
+      "type": "guided_tour",
+      "duration": "45 minutes",
+      "price_from": 30,
+      "rating": 4.7,
+      "reviews": 280,
+      "covers_castles": ["santa-barbara-castle"]
+    },
+    {
+      "tour_id": "1070794",
+      "title": "Alicante & Elche Day Trip with Santa Bárbara Castle Visit",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 65,
+      "rating": 4.5,
+      "reviews": 195,
+      "covers_castles": ["santa-barbara-castle"]
+    },
+    {
+      "tour_id": "923928",
+      "title": "Alicante: Santa Bárbara Castle Visit & Flamenco Show",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 140,
+      "covers_castles": ["santa-barbara-castle"]
+    }
+  ]
 }

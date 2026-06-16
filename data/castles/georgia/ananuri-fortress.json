@@ -74,5 +74,47 @@
   "gyg_location_id": "1379",
   "gyg_search_query": "Ananuri Fortress Georgia tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "466188",
+      "title": "From Tbilisi: Guided Day Trip to Ananuri, Gudauri & Kazbegi",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 28,
+      "rating": 4.7,
+      "reviews": 620,
+      "covers_castles": ["ananuri-fortress"]
+    },
+    {
+      "tour_id": "196553",
+      "title": "Tbilisi: Day Trip to Kazbegi, Gudauri, Gergeti & Ananuri",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 30,
+      "rating": 4.6,
+      "reviews": 480,
+      "covers_castles": ["ananuri-fortress"]
+    },
+    {
+      "tour_id": "818222",
+      "title": "From Tbilisi: Kazbegi Mountain and Ananuri Fortress Day Trip",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 35,
+      "rating": 4.7,
+      "reviews": 390,
+      "covers_castles": ["ananuri-fortress"]
+    },
+    {
+      "tour_id": "187575",
+      "title": "From Tbilisi: Ananuri, Gudauri & Kazbegi Private Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 95,
+      "rating": 4.8,
+      "reviews": 215,
+      "covers_castles": ["ananuri-fortress"]
+    }
+  ]
 }
