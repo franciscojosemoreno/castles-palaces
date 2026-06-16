@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["alnwick-castle"],
-  "gyg_location_id": "2554",
+  "gyg_location_id": "141926",
   "gyg_search_query": "Bamburgh Castle Northumberland tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "435550",
+      "title": "From Edinburgh: Day Trip to Bamburgh and Alnwick Castle",
+      "type": "day_trip",
+      "duration": "8.5 hours",
+      "price_from": 73,
+      "rating": 4.7,
+      "reviews": 264,
+      "covers_castles": ["bamburgh-castle", "alnwick-castle"]
+    },
+    {
+      "tour_id": "682092",
+      "title": "Edinburgh: Bamburgh Castle, Northumberland & Alnwick Trip",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 85,
+      "rating": 4.5,
+      "reviews": 180,
+      "covers_castles": ["bamburgh-castle", "alnwick-castle"]
+    },
+    {
+      "tour_id": "426634",
+      "title": "From Newcastle: Bamburgh Castle & Anglo-Saxon Kings Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 65,
+      "rating": 4.6,
+      "reviews": 145,
+      "covers_castles": ["bamburgh-castle"]
+    },
+    {
+      "tour_id": "409234",
+      "title": "Northumberland: Private Bamburgh and Lindisfarne Guided Tour",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 120,
+      "rating": 4.8,
+      "reviews": 85,
+      "covers_castles": ["bamburgh-castle"]
+    }
+  ]
 }

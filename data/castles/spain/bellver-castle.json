@@ -74,5 +74,36 @@
   "gyg_search_query": "Bellver Castle Palma Mallorca tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "158651",
+      "title": "Palma de Mallorca: Castillo de Bellver Admission Ticket",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 8,
+      "rating": 4.4,
+      "reviews": 320,
+      "covers_castles": ["bellver-castle"]
+    },
+    {
+      "tour_id": "399491",
+      "title": "Palma: City Tour by Cabrio Bus with Bellver Castle Entry",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 35,
+      "rating": 4.6,
+      "reviews": 480,
+      "covers_castles": ["bellver-castle"]
+    },
+    {
+      "tour_id": "3455",
+      "title": "Palma de Mallorca: Hop-On Hop-Off Bus Tour 24 Hours",
+      "type": "guided_tour",
+      "duration": "1 day",
+      "price_from": 25,
+      "rating": 4.4,
+      "reviews": 850,
+      "covers_castles": ["bellver-castle"]
+    }
+  ]
 }
