@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["dunnottar-castle"],
-  "gyg_location_id": "2534",
+  "gyg_location_id": "123750",
   "gyg_search_query": "St Andrews Castle tour Scotland Fife",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "12658",
+      "title": "From Edinburgh: St Andrews & Fishing Villages of Fife Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 852,
+      "covers_castles": ["st-andrews-castle"]
+    },
+    {
+      "tour_id": "259837",
+      "title": "Edinburgh: St Andrews, Dunnottar Castle & Falkland Tour",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 87,
+      "rating": 4.7,
+      "reviews": 522,
+      "covers_castles": ["st-andrews-castle", "dunnottar-castle"]
+    },
+    {
+      "tour_id": "385583",
+      "title": "From Edinburgh: St Andrews, Dundee, Perth & Stirling Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 65,
+      "rating": 4.5,
+      "reviews": 324,
+      "covers_castles": ["st-andrews-castle"]
+    }
+  ]
 }

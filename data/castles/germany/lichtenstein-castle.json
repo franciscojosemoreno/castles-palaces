@@ -74,5 +74,16 @@
   "gyg_search_query": "Lichtenstein Castle Baden-Württemberg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1055779",
+      "title": "From Stuttgart: Mindful Hike to Lichtenstein Castle",
+      "type": "day_trip",
+      "duration": "6 hours",
+      "price_from": 71,
+      "rating": 4.6,
+      "reviews": 182,
+      "covers_castles": ["lichtenstein-castle"]
+    }
+  ]
 }
