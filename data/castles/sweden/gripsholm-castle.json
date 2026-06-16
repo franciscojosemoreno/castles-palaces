@@ -75,8 +75,30 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["drottningholm-palace", "vaxholm-fortress"],
+  "gyg_location_id": "187815",
   "gyg_search_query": "Gripsholm Castle Stockholm day trip",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1140374",
+      "title": "From Stockholm: Mariefred & Gripsholm Castle Private Day Trip",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 285,
+      "rating": 4.9,
+      "reviews": 48,
+      "covers_castles": ["gripsholm-castle"]
+    },
+    {
+      "tour_id": "1007543",
+      "title": "Stockholm: Drottningholm & Gripsholm Castles VIP Private Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 345,
+      "rating": 4.8,
+      "reviews": 32,
+      "covers_castles": ["gripsholm-castle"]
+    }
+  ]
 }

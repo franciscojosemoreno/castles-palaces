@@ -83,8 +83,40 @@
     "edinburgh-castle",
     "eilean-donan-castle"
   ],
-  "gyg_location_id": "44",
+  "gyg_location_id": "4976",
   "gyg_search_query": "Doune Castle Stirling Scotland tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "121236",
+      "title": "From Edinburgh: Outlander Filming Locations Explorer Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 90,
+      "rating": 4.7,
+      "reviews": 1403,
+      "covers_castles": ["doune-castle"]
+    },
+    {
+      "tour_id": "141324",
+      "title": "From Edinburgh: Outlander Adventure Day Tour with Entry",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 105,
+      "rating": 4.8,
+      "reviews": 1372,
+      "covers_castles": ["doune-castle"]
+    },
+    {
+      "tour_id": "212358",
+      "title": "From Edinburgh: The Outlander Experience Guided Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 94,
+      "rating": 4.7,
+      "reviews": 963,
+      "covers_castles": ["doune-castle"]
+    }
+  ]
 }

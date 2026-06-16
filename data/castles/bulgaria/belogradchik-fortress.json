@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["tsarevets-fortress"],
-  "gyg_location_id": "2430",
+  "gyg_location_id": "160848",
   "gyg_search_query": "Belogradchik Fortress rocks Bulgaria tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "820283",
+      "title": "From Sofia: Belogradchik Fortress & Venetsa Cave 12-Hour Tour",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 57,
+      "rating": 4.8,
+      "reviews": 85,
+      "covers_castles": ["belogradchik-fortress"]
+    },
+    {
+      "tour_id": "408650",
+      "title": "From Sofia: Day Trip to Belogradchik Rocks and Fortress",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 65,
+      "rating": 4.7,
+      "reviews": 124,
+      "covers_castles": ["belogradchik-fortress"]
+    },
+    {
+      "tour_id": "28975",
+      "title": "From Sofia: Belogradchik Rocks & Venetsa Cave Full-Day Tour",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 182,
+      "covers_castles": ["belogradchik-fortress"]
+    }
+  ]
 }
