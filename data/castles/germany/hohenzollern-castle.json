@@ -81,8 +81,20 @@
     "neuschwanstein-castle",
     "heidelberg-castle"
   ],
-  "gyg_location_id": "528",
+  "gyg_location_id": "87290",
   "gyg_search_query": "Hohenzollern Castle tour Stuttgart",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "213642",
+      "title": "From Frankfurt: Hohenzollern Castle Full-Day Tour",
+      "type": "day_trip",
+      "duration": "10.5 hours",
+      "price_from": 26,
+      "rating": 4.4,
+      "reviews": 95,
+      "covers_castles": ["hohenzollern-castle"]
+    }
+  ]
 }

@@ -78,8 +78,50 @@
     "beaumaris-castle",
     "harlech-castle"
   ],
-  "gyg_location_id": "333",
+  "gyg_location_id": "130088",
   "gyg_search_query": "Caernarfon Castle tour Wales",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "897041",
+      "title": "Holyhead: Caernarfon Castle Guided Tour with Entry Ticket",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 45,
+      "rating": 4.8,
+      "reviews": 150,
+      "covers_castles": ["caernarfon-castle"]
+    },
+    {
+      "tour_id": "469108",
+      "title": "From Liverpool: North Wales & Caernarfon Castle Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 17,
+      "rating": 4.6,
+      "reviews": 380,
+      "covers_castles": ["caernarfon-castle"]
+    },
+    {
+      "tour_id": "203722",
+      "title": "From Chester: North Wales & Caernarfon Castle Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 17,
+      "rating": 4.5,
+      "reviews": 290,
+      "covers_castles": ["caernarfon-castle"]
+    },
+    {
+      "tour_id": "630344",
+      "title": "From London: North Wales, Snowdonia & Caernarfon Castle",
+      "type": "day_trip",
+      "duration": "14 hours",
+      "price_from": 17,
+      "rating": 4.5,
+      "reviews": 210,
+      "covers_castles": ["caernarfon-castle"]
+    }
+  ]
 }

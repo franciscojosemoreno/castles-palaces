@@ -75,8 +75,30 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["miramare-castle"],
-  "gyg_location_id": "2517",
+  "gyg_location_id": "191244",
   "gyg_search_query": "Sirmione castle Lake Garda tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1330635",
+      "title": "Sirmione: Scaligero Castle Ticket and Guided Tour",
+      "type": "entry_ticket",
+      "duration": "45 minutes",
+      "price_from": 34,
+      "rating": 4.1,
+      "reviews": 85,
+      "covers_castles": ["scaligero-castle-sirmione"]
+    },
+    {
+      "tour_id": "421668",
+      "title": "Sirmione: Private Guided Walking Tour on Lake Garda",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 35,
+      "rating": 4.8,
+      "reviews": 120,
+      "covers_castles": ["scaligero-castle-sirmione"]
+    }
+  ]
 }
