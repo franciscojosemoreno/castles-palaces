@@ -74,8 +74,40 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": ["edinburgh-castle", "eilean-donan-castle", "stirling-castle"],
+  "gyg_location_id": "97240",
   "gyg_search_query": "Dunvegan Castle Isle of Skye tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "433330",
+      "title": "Inverness: 2-Day Isle of Skye, Fairy Pools & Dunvegan Castle",
+      "type": "day_trip",
+      "duration": "2 days",
+      "price_from": 250,
+      "rating": 4.7,
+      "reviews": 648,
+      "covers_castles": ["dunvegan-castle"]
+    },
+    {
+      "tour_id": "42441",
+      "title": "Edinburgh: Isle of Skye & Scottish Highlands 5-Day Tour",
+      "type": "day_trip",
+      "duration": "5 days",
+      "price_from": 485,
+      "rating": 4.8,
+      "reviews": 1240,
+      "covers_castles": ["dunvegan-castle"]
+    },
+    {
+      "tour_id": "11256",
+      "title": "From Edinburgh: Isle of Skye 3-Day Small Group Tour",
+      "type": "day_trip",
+      "duration": "3 days",
+      "price_from": 325,
+      "rating": 4.8,
+      "reviews": 2185,
+      "covers_castles": ["dunvegan-castle"]
+    }
+  ]
 }

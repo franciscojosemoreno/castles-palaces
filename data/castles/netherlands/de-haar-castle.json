@@ -75,8 +75,50 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["muiderslot"],
+  "gyg_location_id": "124793",
   "gyg_search_query": "De Haar Castle Utrecht Netherlands tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "406690",
+      "title": "Utrecht: De Haar Castle & Park Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "3 hours",
+      "price_from": 25,
+      "rating": 4.7,
+      "reviews": 2085,
+      "covers_castles": ["de-haar-castle"]
+    },
+    {
+      "tour_id": "406696",
+      "title": "Utrecht: De Haar Castle Park-Only Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 9,
+      "rating": 4.5,
+      "reviews": 248,
+      "covers_castles": ["de-haar-castle"]
+    },
+    {
+      "tour_id": "421600",
+      "title": "From Amsterdam: Castle De Haar Half-Day Guided Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 318,
+      "covers_castles": ["de-haar-castle"]
+    },
+    {
+      "tour_id": "619388",
+      "title": "From Amsterdam: Muiderslot and De Haar Castle Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 85,
+      "rating": 4.6,
+      "reviews": 168,
+      "covers_castles": ["muiderslot", "de-haar-castle"]
+    }
+  ]
 }
