@@ -72,11 +72,43 @@
   "meta_title": "Bled Castle Slovenia: Tickets, History & Visitor Guide 2026",
   "meta_description": "Visit Bled Castle — perched 130m above Lake Bled in Slovenia with panoramic views of the Julian Alps. Includes museum, wine cellar, and printing press. Complete visitor guide.",
   "tags": ["medieval", "alpine", "lake", "iconic", "slovenia"],
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": ["ljubljana-castle", "predjama-castle"],
-  "gyg_location_id": "1023",
+  "gyg_location_id": "140261",
   "gyg_search_query": "Bled Castle tour Slovenia",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "71087",
+      "title": "From Ljubljana: Lake Bled and Bled Castle Day Trip",
+      "type": "day_trip",
+      "duration": "5 hours",
+      "price_from": 62,
+      "rating": 4.6,
+      "reviews": 890,
+      "covers_castles": ["bled-castle"]
+    },
+    {
+      "tour_id": "448044",
+      "title": "From Ljubljana: Lake Bled & Postojna Cave with Entry Tickets",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 79,
+      "rating": 4.7,
+      "reviews": 540,
+      "covers_castles": ["bled-castle", "predjama-castle"]
+    },
+    {
+      "tour_id": "198928",
+      "title": "From Ljubljana: Lake Bled, Postojna Cave and Predjama Day Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 85,
+      "rating": 4.6,
+      "reviews": 420,
+      "covers_castles": ["bled-castle", "predjama-castle"]
+    }
+  ]
 }
