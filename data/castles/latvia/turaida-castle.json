@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["cesis-castle", "sigulda-castle"],
-  "gyg_location_id": "2600",
+  "gyg_location_id": "173605",
   "gyg_search_query": "Turaida castle Sigulda tour from Riga",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "822818",
+      "title": "From Riga: Group Tour to Turaida Castle and Sigulda",
+      "type": "day_trip",
+      "duration": "6 hours",
+      "price_from": 115,
+      "rating": 4.9,
+      "reviews": 112,
+      "covers_castles": ["turaida-castle"]
+    },
+    {
+      "tour_id": "20482",
+      "title": "From Riga: Cēsis, Sigulda & Turaida Castle Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 125,
+      "rating": 4.7,
+      "reviews": 248,
+      "covers_castles": ["turaida-castle"]
+    },
+    {
+      "tour_id": "608853",
+      "title": "From Riga: Sigulda and Turaida Legends Tour",
+      "type": "guided_tour",
+      "duration": "7 hours",
+      "price_from": 65,
+      "rating": 4.6,
+      "reviews": 145,
+      "covers_castles": ["turaida-castle"]
+    },
+    {
+      "tour_id": "411498",
+      "title": "From Riga: Private Day Trip to Cēsis, Sigulda & Turaida Castles",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 145,
+      "rating": 4.7,
+      "reviews": 68,
+      "covers_castles": ["turaida-castle"]
+    }
+  ]
 }
