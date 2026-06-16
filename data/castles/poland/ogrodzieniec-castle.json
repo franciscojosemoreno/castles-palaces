@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["pieskowa-skala-castle", "malbork-castle"],
-  "gyg_location_id": "2620",
+  "gyg_location_id": "91881",
   "gyg_search_query": "Ogrodzieniec castle ruins Eagles Nests Poland tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "412543",
+      "title": "From Krakow: Ojców National Park & Ogrodzieniec Castle Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 310,
+      "covers_castles": ["ogrodzieniec-castle"]
+    },
+    {
+      "tour_id": "351316",
+      "title": "From Krakow: 'The Witcher' Ogrodzieniec Castle Private Trip",
+      "type": "day_trip",
+      "duration": "6 hours",
+      "price_from": 75,
+      "rating": 4.7,
+      "reviews": 195,
+      "covers_castles": ["ogrodzieniec-castle"]
+    },
+    {
+      "tour_id": "890962",
+      "title": "Krakow: 'The Witcher' Ogrodzieniec Castle Private Tour",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 120,
+      "rating": 4.8,
+      "reviews": 88,
+      "covers_castles": ["ogrodzieniec-castle"]
+    },
+    {
+      "tour_id": "969438",
+      "title": "From Krakow: Ojców National Park and Ogrodzieniec Castle",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 55,
+      "rating": 4.5,
+      "reviews": 145,
+      "covers_castles": ["ogrodzieniec-castle"]
+    }
+  ]
 }

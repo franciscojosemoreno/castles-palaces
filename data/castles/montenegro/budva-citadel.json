@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "2640",
+  "gyg_location_id": "246833",
   "gyg_search_query": "Budva citadel Montenegro old town tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "463551",
+      "title": "From Kotor: Budva Old Town & Riviera Half-Day Tour",
+      "type": "day_trip",
+      "duration": "4 hours",
+      "price_from": 35,
+      "rating": 4.5,
+      "reviews": 180,
+      "covers_castles": ["budva-citadel"]
+    },
+    {
+      "tour_id": "929993",
+      "title": "Old Town Budva and Kotor Guided Tour with Transfers",
+      "type": "guided_tour",
+      "duration": "5 hours",
+      "price_from": 45,
+      "rating": 4.6,
+      "reviews": 95,
+      "covers_castles": ["budva-citadel"]
+    },
+    {
+      "tour_id": "433899",
+      "title": "From Dubrovnik: Perast, Kotor & Budva Small-Group Day Trip",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 65,
+      "rating": 4.6,
+      "reviews": 520,
+      "covers_castles": ["budva-citadel"]
+    },
+    {
+      "tour_id": "128961",
+      "title": "Kotor: Luxury Coast of Montenegro Private Tour",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 95,
+      "rating": 4.7,
+      "reviews": 143,
+      "covers_castles": ["budva-citadel"]
+    }
+  ]
 }
