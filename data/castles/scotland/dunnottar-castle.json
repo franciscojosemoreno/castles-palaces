@@ -75,8 +75,50 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["edinburgh-castle", "stirling-castle", "eilean-donan-castle"],
-  "gyg_location_id": "295",
+  "gyg_location_id": "124993",
   "gyg_search_query": "Dunnottar Castle tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "259837",
+      "title": "Edinburgh: St Andrews, Dunnottar Castle & Falkland Tour",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 87,
+      "rating": 4.7,
+      "reviews": 522,
+      "covers_castles": ["dunnottar-castle"]
+    },
+    {
+      "tour_id": "134733",
+      "title": "From Edinburgh: Glamis and Dunnottar Castles Day Trip",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 85,
+      "rating": 4.6,
+      "reviews": 382,
+      "covers_castles": ["dunnottar-castle"]
+    },
+    {
+      "tour_id": "204358",
+      "title": "From Aberdeen: Dunnottar Castle & Cairngorms Day Trip",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 248,
+      "covers_castles": ["dunnottar-castle"]
+    },
+    {
+      "tour_id": "436026",
+      "title": "From Aberdeen: Guided Coast & Dunnottar Castle Visit",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 133,
+      "rating": 4.7,
+      "reviews": 182,
+      "covers_castles": ["dunnottar-castle"]
+    }
+  ]
 }

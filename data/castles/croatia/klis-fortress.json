@@ -71,8 +71,50 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["dubrovnik-walls"],
-  "gyg_location_id": "3011",
+  "gyg_location_id": "4881",
   "gyg_search_query": "Klis Fortress Split Game of Thrones tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "402230",
+      "title": "Split: Klis Fortress Game of Thrones & Olive Museum Tickets",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 25,
+      "rating": 4.5,
+      "reviews": 422,
+      "covers_castles": ["klis-fortress"]
+    },
+    {
+      "tour_id": "442240",
+      "title": "Split: Bus Tour of Klis Fortress & Diocletian Palace",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 35,
+      "rating": 4.5,
+      "reviews": 582,
+      "covers_castles": ["klis-fortress"]
+    },
+    {
+      "tour_id": "631230",
+      "title": "From Dubrovnik: Split and Klis Fortress Day Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 348,
+      "covers_castles": ["klis-fortress"]
+    },
+    {
+      "tour_id": "228505",
+      "title": "From Zadar: Klis Fortress, Split & Trogir Day Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 65,
+      "rating": 4.5,
+      "reviews": 282,
+      "covers_castles": ["klis-fortress"]
+    }
+  ]
 }
