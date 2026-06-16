@@ -75,8 +75,40 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["karlstejn-castle", "cesky-krumlov-castle", "prague-castle"],
+  "gyg_location_id": "147318",
   "gyg_search_query": "Loket Castle Karlovy Vary Czech Republic tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1083682",
+      "title": "Prague: Karlovy Vary & Loket Tour with Hot Springs & Castle",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 173,
+      "rating": 5.0,
+      "reviews": 28,
+      "covers_castles": ["loket-castle"]
+    },
+    {
+      "tour_id": "1292358",
+      "title": "From Prague: Karlovy Vary and Loket Castle Day Trip",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 0,
+      "covers_castles": ["loket-castle"]
+    },
+    {
+      "tour_id": "645227",
+      "title": "Famous Spa Town Karlovy Vary & Castle Loket from Prague",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 158,
+      "rating": 5.0,
+      "reviews": 1,
+      "covers_castles": ["loket-castle"]
+    }
+  ]
 }
