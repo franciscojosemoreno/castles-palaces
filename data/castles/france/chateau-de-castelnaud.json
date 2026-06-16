@@ -75,8 +75,20 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["chateau-de-beynac"],
-  "gyg_location_id": "2807",
+  "gyg_location_id": "139351",
   "gyg_search_query": "Castelnaud castle Dordogne tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1079053",
+      "title": "Castelnaud Castle: Medieval Warfare Museum Admission Ticket",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 20,
+      "rating": 4.5,
+      "reviews": 250,
+      "covers_castles": ["chateau-de-castelnaud"]
+    }
+  ]
 }

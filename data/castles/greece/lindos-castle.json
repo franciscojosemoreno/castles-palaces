@@ -75,8 +75,20 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["palace-of-the-grand-master"],
-  "gyg_location_id": "2502",
+  "gyg_location_id": "131218",
   "gyg_search_query": "Lindos Acropolis Rhodes tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "426444",
+      "title": "Rhodes: Lindos Acropolis Entry Ticket & Optional Audio Guide",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 28,
+      "rating": 4.5,
+      "reviews": 580,
+      "covers_castles": ["lindos-castle"]
+    }
+  ]
 }
