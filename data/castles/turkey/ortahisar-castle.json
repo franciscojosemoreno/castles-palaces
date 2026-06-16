@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["uchisar-castle"],
-  "gyg_location_id": "2745",
+  "gyg_location_id": "180157",
   "gyg_search_query": "Ortahisar Castle Cappadocia tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "81327",
+      "title": "Cappadocia: Best Seller Red Tour with Lunch",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 45,
+      "rating": 4.7,
+      "reviews": 3248,
+      "covers_castles": ["ortahisar-castle"]
+    },
+    {
+      "tour_id": "479864",
+      "title": "Cappadocia: Guided Red Tour with Lunch and Ticket",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 45,
+      "rating": 4.6,
+      "reviews": 1188,
+      "covers_castles": ["ortahisar-castle"]
+    },
+    {
+      "tour_id": "503081",
+      "title": "Cappadocia: Red Tour with Göreme Open Air Museum & Paşabağ",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 40,
+      "rating": 4.5,
+      "reviews": 824,
+      "covers_castles": ["ortahisar-castle"]
+    },
+    {
+      "tour_id": "446799",
+      "title": "Cappadocia: Private Red & Green Tour with Air-Conditioned Car",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 185,
+      "rating": 4.8,
+      "reviews": 342,
+      "covers_castles": ["ortahisar-castle"]
+    }
+  ]
 }

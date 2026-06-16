@@ -74,5 +74,16 @@
   "gyg_search_query": "Manzanares el Real Castle Madrid day trip",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "372990",
+      "title": "From Madrid: Day Trip to Guadarrama National Park & Castle",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 103,
+      "rating": 4.6,
+      "reviews": 69,
+      "covers_castles": ["manzanares-el-real-castle"]
+    }
+  ]
 }
