@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["san-giusto-castle"],
-  "gyg_location_id": "2742",
+  "gyg_location_id": "63561",
   "gyg_search_query": "Miramare Castle Trieste tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "663361",
+      "title": "Trieste: Miramare Castle & Museum Entry Ticket & Audio App",
+      "type": "entry_ticket",
+      "duration": "Full day",
+      "price_from": 21,
+      "rating": 4.3,
+      "reviews": 613,
+      "covers_castles": ["miramare-castle"]
+    },
+    {
+      "tour_id": "397858",
+      "title": "Trieste: Miramare Castle Skip-the-Line Entrance Ticket",
+      "type": "skip_the_line",
+      "duration": "Full day",
+      "price_from": 25,
+      "rating": 4.4,
+      "reviews": 180,
+      "covers_castles": ["miramare-castle"]
+    },
+    {
+      "tour_id": "189528",
+      "title": "Trieste: Panoramic City and Miramare Castle Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 40,
+      "rating": 4.6,
+      "reviews": 140,
+      "covers_castles": ["miramare-castle"]
+    },
+    {
+      "tour_id": "635056",
+      "title": "Trieste: Miramare Castle Private Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 45,
+      "rating": 4.7,
+      "reviews": 95,
+      "covers_castles": ["miramare-castle"]
+    }
+  ]
 }

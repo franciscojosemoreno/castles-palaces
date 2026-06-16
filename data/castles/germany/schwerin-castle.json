@@ -74,5 +74,26 @@
   "gyg_search_query": "Schwerin Castle tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "389581",
+      "title": "From Rostock: Day Trip to Schwerin Castle with Guided Tour",
+      "type": "day_trip",
+      "duration": "5 hours",
+      "price_from": 295,
+      "rating": 4.5,
+      "reviews": 120,
+      "covers_castles": ["schwerin-castle"]
+    },
+    {
+      "tour_id": "389582",
+      "title": "From Lübeck: Trip to Schwerin Castle and Guided Tour",
+      "type": "day_trip",
+      "duration": "4 hours",
+      "price_from": 150,
+      "rating": 4.5,
+      "reviews": 85,
+      "covers_castles": ["schwerin-castle"]
+    }
+  ]
 }
