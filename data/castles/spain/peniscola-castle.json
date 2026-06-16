@@ -74,5 +74,46 @@
   "gyg_search_query": "Peniscola Castle Game of Thrones tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "407854",
+      "title": "Peñíscola: Castle & Walled City Spanish Guided Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 20,
+      "rating": 4.6,
+      "reviews": 380,
+      "covers_castles": ["peniscola-castle"]
+    },
+    {
+      "tour_id": "567655",
+      "title": "From Valencia: Day Trip to Peñíscola with Castle Visit",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 55,
+      "rating": 4.5,
+      "reviews": 490,
+      "covers_castles": ["peniscola-castle"]
+    },
+    {
+      "tour_id": "901009",
+      "title": "Peñíscola: Game of Thrones Day Tour with Castle Lunch & Beach",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 240,
+      "covers_castles": ["peniscola-castle"]
+    },
+    {
+      "tour_id": "617939",
+      "title": "From Valencia: Peñíscola Day Trip & Game of Thrones",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 60,
+      "rating": 4.5,
+      "reviews": 310,
+      "covers_castles": ["peniscola-castle"]
+    }
+  ]
 }

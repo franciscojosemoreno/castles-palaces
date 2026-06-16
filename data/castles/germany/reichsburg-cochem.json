@@ -74,5 +74,26 @@
   "gyg_search_query": "Cochem Castle Reichsburg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "808785",
+      "title": "Cochem: Castle, Moselle Boat Cruise and Wine Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 87,
+      "rating": 4.7,
+      "reviews": 310,
+      "covers_castles": ["reichsburg-cochem"]
+    },
+    {
+      "tour_id": "426641",
+      "title": "Cochem: KD Panoramic Evening Cruise on the Moselle River",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 16,
+      "rating": 4.5,
+      "reviews": 190,
+      "covers_castles": ["reichsburg-cochem"]
+    }
+  ]
 }

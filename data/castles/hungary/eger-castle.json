@@ -74,8 +74,30 @@
     "danube-palaces-route"
   ],
   "nearby_castles": [],
-  "gyg_location_id": "1867",
+  "gyg_location_id": "232436",
   "gyg_search_query": "Eger Castle Hungary tour wine tasting",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "275",
+      "title": "From Budapest: Gödöllő Royal Castle and Eger Wine Day Tour",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 320,
+      "covers_castles": ["eger-castle"]
+    },
+    {
+      "tour_id": "37123",
+      "title": "From Budapest: Eger, Bull's Blood & Egerszalók Private Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 65,
+      "rating": 4.7,
+      "reviews": 185,
+      "covers_castles": ["eger-castle"]
+    }
+  ]
 }
