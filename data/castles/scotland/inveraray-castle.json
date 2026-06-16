@@ -78,5 +78,36 @@
   "gyg_search_query": "Inveraray Castle tour from Glasgow",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "399209",
+      "title": "Oban, Highland Lochs, Castles & Glencoe Tour from Glasgow",
+      "type": "day_trip",
+      "duration": "full day",
+      "price_from": 72,
+      "rating": 4.9,
+      "reviews": 240,
+      "covers_castles": ["inveraray-castle"]
+    },
+    {
+      "tour_id": "392165",
+      "title": "Edinburgh: Highland Lochs, Glens & Castles Small Group Tour",
+      "type": "day_trip",
+      "duration": "full day",
+      "price_from": 83,
+      "rating": 5.0,
+      "reviews": 60,
+      "covers_castles": ["inveraray-castle"]
+    },
+    {
+      "tour_id": "130350",
+      "title": "Edinburgh: Eilean Donan, Loch Ness & Glenfinnan 2-Day Tour",
+      "type": "day_trip",
+      "duration": "2 days",
+      "price_from": 172,
+      "rating": 4.8,
+      "reviews": 231,
+      "covers_castles": ["inveraray-castle"]
+    }
+  ]
 }

@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["golubac-fortress", "ram-fortress"],
-  "gyg_location_id": "2701",
+  "gyg_location_id": "226089",
   "gyg_search_query": "Smederevo Fortress Belgrade tour Serbia",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "629757",
+      "title": "From Belgrade: 3 Danube Fortresses Guided Day Trip",
+      "type": "day_trip",
+      "duration": "1 day",
+      "price_from": 111,
+      "rating": 4.9,
+      "reviews": 44,
+      "covers_castles": ["smederevo-fortress", "ram-fortress", "golubac-fortress"]
+    },
+    {
+      "tour_id": "218871",
+      "title": "Danube fortresses and Roman archeological park",
+      "type": "guided_tour",
+      "duration": "9 hours",
+      "price_from": 221,
+      "rating": 5.0,
+      "reviews": 2,
+      "covers_castles": ["smederevo-fortress", "golubac-fortress"]
+    },
+    {
+      "tour_id": "1276562",
+      "title": "Day Trip: Along Danube, Rome & Europe's Oldest Settlement",
+      "type": "guided_tour",
+      "duration": "10 hours",
+      "price_from": 192,
+      "rating": 4.9,
+      "reviews": 0,
+      "covers_castles": ["smederevo-fortress", "golubac-fortress"]
+    }
+  ]
 }
