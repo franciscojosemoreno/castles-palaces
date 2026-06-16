@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["moritzburg-castle"],
-  "gyg_location_id": "2478",
+  "gyg_location_id": "120110",
   "gyg_search_query": "Meissen castle Albrechtsburg tour Dresden",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "50405",
+      "title": "Dresden: Elbe River Cruise to Meissen & Albrechtsburg",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 24,
+      "rating": 4.4,
+      "reviews": 807,
+      "covers_castles": ["albrechtsburg-castle"]
+    },
+    {
+      "tour_id": "261092",
+      "title": "Dresden to Meissen: Porcelain Factory & Albrechtsburg Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 35,
+      "rating": 4.5,
+      "reviews": 348,
+      "covers_castles": ["albrechtsburg-castle"]
+    },
+    {
+      "tour_id": "643534",
+      "title": "Meissen: Baroque Tour — Secret Laboratory of Albrechtsburg",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 28,
+      "rating": 4.6,
+      "reviews": 178,
+      "covers_castles": ["albrechtsburg-castle"]
+    },
+    {
+      "tour_id": "51900",
+      "title": "From Dresden: Day Trip to Meißen and Moritzburg",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 45,
+      "rating": 4.5,
+      "reviews": 422,
+      "covers_castles": ["albrechtsburg-castle"]
+    }
+  ]
 }

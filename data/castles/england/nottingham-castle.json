@@ -73,5 +73,26 @@
   "gyg_search_query": "Nottingham Castle Robin Hood tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "411146",
+      "title": "Nottingham Castle Admission Ticket",
+      "type": "entry_ticket",
+      "duration": "3 hours",
+      "price_from": 18,
+      "rating": 4.5,
+      "reviews": 252,
+      "covers_castles": ["nottingham-castle"]
+    },
+    {
+      "tour_id": "496489",
+      "title": "Nottingham: Robin Hood Town Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 30,
+      "rating": 4.9,
+      "reviews": 11,
+      "covers_castles": ["nottingham-castle"]
+    }
+  ]
 }

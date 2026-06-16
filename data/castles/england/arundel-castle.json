@@ -73,5 +73,26 @@
   "gyg_search_query": "Arundel Castle Sussex tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "16592",
+      "title": "From London: Private Brighton & Arundel Castle Day Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 125,
+      "rating": 4.5,
+      "reviews": 122,
+      "covers_castles": ["arundel-castle"]
+    },
+    {
+      "tour_id": "1130195",
+      "title": "Arundel: Guided Walking Tour of Town History",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 20,
+      "rating": 4.6,
+      "reviews": 88,
+      "covers_castles": ["arundel-castle"]
+    }
+  ]
 }
