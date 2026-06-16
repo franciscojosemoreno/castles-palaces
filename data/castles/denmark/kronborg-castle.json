@@ -77,8 +77,50 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "49",
+  "gyg_location_id": "1958",
   "gyg_search_query": "Kronborg Castle Hamlet tour Denmark",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "703001",
+      "title": "Kronborg Castle Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 23,
+      "rating": 4.7,
+      "reviews": 420,
+      "covers_castles": ["kronborg-castle"]
+    },
+    {
+      "tour_id": "38371",
+      "title": "Copenhagen: Kronborg, Frederiksborg Castle and Roskilde Tour",
+      "type": "day_trip",
+      "duration": "8.5 hours",
+      "price_from": 214,
+      "rating": 4.9,
+      "reviews": 1967,
+      "covers_castles": ["kronborg-castle", "frederiksborg-palace"]
+    },
+    {
+      "tour_id": "130995",
+      "title": "From Copenhagen: 4-Hour Private Hamlet Castle Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 75,
+      "rating": 4.8,
+      "reviews": 180,
+      "covers_castles": ["kronborg-castle"]
+    },
+    {
+      "tour_id": "531457",
+      "title": "Copenhagen: Castles of Kronborg and Frederiksborg by Car",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 120,
+      "rating": 4.7,
+      "reviews": 250,
+      "covers_castles": ["kronborg-castle", "frederiksborg-palace"]
+    }
+  ]
 }

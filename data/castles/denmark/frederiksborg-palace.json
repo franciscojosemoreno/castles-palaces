@@ -71,8 +71,50 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["kronborg-castle"],
-  "gyg_location_id": "97",
+  "gyg_location_id": "1956",
   "gyg_search_query": "Frederiksborg Palace Hillerød tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "791446",
+      "title": "Hillerød: Frederiksborg Castle Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "Full day",
+      "price_from": 19,
+      "rating": 4.8,
+      "reviews": 228,
+      "covers_castles": ["frederiksborg-palace"]
+    },
+    {
+      "tour_id": "38371",
+      "title": "Copenhagen: Kronborg, Frederiksborg Castle and Roskilde Tour",
+      "type": "day_trip",
+      "duration": "8.5 hours",
+      "price_from": 214,
+      "rating": 4.9,
+      "reviews": 1967,
+      "covers_castles": ["kronborg-castle", "frederiksborg-palace"]
+    },
+    {
+      "tour_id": "132540",
+      "title": "From Copenhagen: Private Frederiksborg Castle Tour",
+      "type": "guided_tour",
+      "duration": "5 hours",
+      "price_from": 85,
+      "rating": 4.7,
+      "reviews": 150,
+      "covers_castles": ["frederiksborg-palace"]
+    },
+    {
+      "tour_id": "685174",
+      "title": "Easy Pace Tour: Kronborg Castle and Frederiksborg Palace",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 185,
+      "covers_castles": ["kronborg-castle", "frederiksborg-palace"]
+    }
+  ]
 }
