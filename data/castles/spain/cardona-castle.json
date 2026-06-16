@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "2634",
+  "gyg_location_id": "136918",
   "gyg_search_query": "Cardona castle Barcelona tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "61452",
+      "title": "From Barcelona: Montserrat, Cardona & Salt Mountain Day Trip",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 331,
+      "rating": 5.0,
+      "reviews": 2,
+      "covers_castles": ["cardona-castle"]
+    },
+    {
+      "tour_id": "872776",
+      "title": "Barcelona: Private Tour of Montserrat, Cardona Castle, and Salt Mine",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 522,
+      "rating": 4.7,
+      "reviews": 3,
+      "covers_castles": ["cardona-castle"]
+    },
+    {
+      "tour_id": "1227032",
+      "title": "Cardona Salt Mountain, Castle, & Wine Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 464,
+      "rating": 0,
+      "reviews": 0,
+      "covers_castles": ["cardona-castle"]
+    }
+  ]
 }
