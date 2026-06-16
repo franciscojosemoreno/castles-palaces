@@ -75,8 +75,20 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["trakai-island-castle"],
-  "gyg_location_id": "2601",
+  "gyg_location_id": "86988",
   "gyg_search_query": "Gediminas Tower Vilnius tour Lithuania",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "23778",
+      "title": "Vilnius: City Highlights Walking Tour with Gediminas Castle",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 22,
+      "rating": 4.6,
+      "reviews": 490,
+      "covers_castles": ["gediminas-tower"]
+    }
+  ]
 }
