@@ -71,8 +71,50 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["trencin-castle"],
-  "gyg_location_id": "1756",
+  "gyg_location_id": "150488",
   "gyg_search_query": "Bojnice Castle tour Slovakia",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "949581",
+      "title": "From Bratislava: Bojnice Castle & Čičmany Day Trip",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 12,
+      "rating": 4.5,
+      "reviews": 120,
+      "covers_castles": ["bojnice-castle"]
+    },
+    {
+      "tour_id": "41672",
+      "title": "From Bratislava: Slovakia's Castles Private Full-Day Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 12,
+      "rating": 4.6,
+      "reviews": 89,
+      "covers_castles": ["bojnice-castle"]
+    },
+    {
+      "tour_id": "841948",
+      "title": "From Bratislava: Bojnice Castle, Čičmany & Aphrodite Spa",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 12,
+      "rating": 4.4,
+      "reviews": 65,
+      "covers_castles": ["bojnice-castle"]
+    },
+    {
+      "tour_id": "704131",
+      "title": "From Bratislava: Bojnice, Banská Štiavnica & Čičmany Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 12,
+      "rating": 4.5,
+      "reviews": 48,
+      "covers_castles": ["bojnice-castle"]
+    }
+  ]
 }

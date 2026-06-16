@@ -71,8 +71,40 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["belogradchik-fortress"],
-  "gyg_location_id": "2174",
+  "gyg_location_id": "141231",
   "gyg_search_query": "Tsarevets Fortress Veliko Tarnovo tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "972756",
+      "title": "Veliko Tarnovo: City Monuments Guided Walking Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 20,
+      "rating": 4.7,
+      "reviews": 180,
+      "covers_castles": ["tsarevets-fortress"]
+    },
+    {
+      "tour_id": "64621",
+      "title": "From Sofia: Veliko Tarnovo & Arbanasi Full Day Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 5,
+      "rating": 4.6,
+      "reviews": 320,
+      "covers_castles": ["tsarevets-fortress"]
+    },
+    {
+      "tour_id": "483049",
+      "title": "From Bucharest: Day Trip to Bulgaria & Veliko Tarnovo",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 5,
+      "rating": 4.5,
+      "reviews": 150,
+      "covers_castles": ["tsarevets-fortress"]
+    }
+  ]
 }
