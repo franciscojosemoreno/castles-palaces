@@ -79,5 +79,47 @@
   "gyg_location_id": "88426",
   "gyg_search_query": "Guimaraes Castle tour Portugal",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "914939",
+      "title": "Guimarães: Castle of Guimarães Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 5,
+      "rating": 4.5,
+      "reviews": 340,
+      "covers_castles": ["guimaraes-castle"]
+    },
+    {
+      "tour_id": "32568",
+      "title": "From Porto: Braga & Guimarães Tour with Bom Jesus & Castle",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 65,
+      "rating": 4.7,
+      "reviews": 520,
+      "covers_castles": ["guimaraes-castle"]
+    },
+    {
+      "tour_id": "35586",
+      "title": "Porto: Guimarães & Braga Tour with Entry Tickets and Lunch",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 380,
+      "covers_castles": ["guimaraes-castle"]
+    },
+    {
+      "tour_id": "762108",
+      "title": "From Porto: Medieval Castles Private All-Inclusive Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 120,
+      "rating": 4.8,
+      "reviews": 95,
+      "covers_castles": ["guimaraes-castle"]
+    }
+  ]
 }

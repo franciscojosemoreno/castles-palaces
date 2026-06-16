@@ -83,8 +83,50 @@
     "bran-castle",
     "peles-castle"
   ],
-  "gyg_location_id": "977",
+  "gyg_location_id": "127588",
   "gyg_search_query": "Corvin Castle Transylvania tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "433807",
+      "title": "From Sibiu: Alba Iulia and Corvin Castle Guided Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 280,
+      "covers_castles": ["corvin-castle"]
+    },
+    {
+      "tour_id": "623171",
+      "title": "From Sibiu: Alba Carolina Citadel and Corvin's Castle Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 48,
+      "rating": 4.5,
+      "reviews": 190,
+      "covers_castles": ["corvin-castle"]
+    },
+    {
+      "tour_id": "942191",
+      "title": "From Cluj: Corvin Castle & Sibiu Fortified City Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 65,
+      "rating": 4.7,
+      "reviews": 145,
+      "covers_castles": ["corvin-castle"]
+    },
+    {
+      "tour_id": "273067",
+      "title": "From Brasov: Corvin Castle and Sibiu Private Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 75,
+      "rating": 4.7,
+      "reviews": 120,
+      "covers_castles": ["corvin-castle"]
+    }
+  ]
 }
