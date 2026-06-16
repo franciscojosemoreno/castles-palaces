@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["chateau-de-castelnaud"],
-  "gyg_location_id": "2807",
+  "gyg_location_id": "139341",
   "gyg_search_query": "Dordogne castle tour Beynac",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1198774",
+      "title": "Château de Beynac: Discover the Most Authentic Castle in Périgord",
+      "type": "skip_the_line",
+      "duration": "2 hours",
+      "price_from": 20,
+      "rating": 4.6,
+      "reviews": 195,
+      "covers_castles": ["chateau-de-beynac"]
+    },
+    {
+      "tour_id": "3327",
+      "title": "From Sarlat: Beynac & Domme Villages and Dordogne Boat Ride",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 127,
+      "rating": 4.6,
+      "reviews": 310,
+      "covers_castles": ["chateau-de-beynac"]
+    },
+    {
+      "tour_id": "453041",
+      "title": "Dordogne: Canoe/Kayak Through the Castles of the Dordogne",
+      "type": "day_trip",
+      "duration": "3 hours",
+      "price_from": 38,
+      "rating": 4.5,
+      "reviews": 140,
+      "covers_castles": ["chateau-de-beynac", "chateau-de-castelnaud"]
+    }
+  ]
 }

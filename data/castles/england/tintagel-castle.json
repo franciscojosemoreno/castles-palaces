@@ -73,5 +73,36 @@
   "gyg_search_query": "Tintagel Castle King Arthur Cornwall tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "714294",
+      "title": "Cornwall: Tintagel Castle Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 18,
+      "rating": 4.7,
+      "reviews": 340,
+      "covers_castles": ["tintagel-castle"]
+    },
+    {
+      "tour_id": "39217",
+      "title": "Cornwall: 2-Day King Arthur, Tintagel and Boscastle Tour",
+      "type": "day_trip",
+      "duration": "2 days",
+      "price_from": 220,
+      "rating": 4.6,
+      "reviews": 120,
+      "covers_castles": ["tintagel-castle"]
+    },
+    {
+      "tour_id": "660368",
+      "title": "From Glastonbury: 2-Day Tintagel, Boscastle & Dartmoor Tour",
+      "type": "day_trip",
+      "duration": "2 days",
+      "price_from": 185,
+      "rating": 4.5,
+      "reviews": 95,
+      "covers_castles": ["tintagel-castle"]
+    }
+  ]
 }
