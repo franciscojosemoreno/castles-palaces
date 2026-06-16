@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "2648",
+  "gyg_location_id": "143609",
   "gyg_search_query": "Samuel Fortress Ohrid tour North Macedonia",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "639000",
+      "title": "North Macedonia: Ohrid & St Naum Day Tour from Tirana",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 51,
+      "rating": 4.8,
+      "reviews": 1240,
+      "covers_castles": ["samuels-fortress"]
+    },
+    {
+      "tour_id": "677292",
+      "title": "Tirana/Durrës: Day Trip to Ohrid, St Naum, North Macedonia",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 51,
+      "rating": 4.8,
+      "reviews": 253,
+      "covers_castles": ["samuels-fortress"]
+    },
+    {
+      "tour_id": "200767",
+      "title": "From Skopje: Private Full-Day Tour of Ohrid and Saint Naum",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 266,
+      "rating": 5.0,
+      "reviews": 8,
+      "covers_castles": ["samuels-fortress"]
+    }
+  ]
 }

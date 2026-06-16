@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["albrechtsburg-castle", "moritzburg-castle"],
-  "gyg_location_id": "2395",
+  "gyg_location_id": "145407",
   "gyg_search_query": "Harburg Castle Romantic Road Bavaria tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1781",
+      "title": "From Munich: Rothenburg and Romantic Road Day Trip by Bus",
+      "type": "day_trip",
+      "duration": "10.5 hours",
+      "price_from": 95,
+      "rating": 4.4,
+      "reviews": 2319,
+      "covers_castles": ["harburg-castle"]
+    },
+    {
+      "tour_id": "758554",
+      "title": "Private Trip from Munich to Rothenburg & Harburg and Back",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 472,
+      "rating": 4.8,
+      "reviews": 4,
+      "covers_castles": ["harburg-castle"]
+    },
+    {
+      "tour_id": "603038",
+      "title": "Harburg Private Guided Walking Tour",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 275,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["harburg-castle"]
+    }
+  ]
 }
