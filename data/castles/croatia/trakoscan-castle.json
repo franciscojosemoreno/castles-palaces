@@ -75,8 +75,40 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["klis-fortress"],
+  "gyg_location_id": "161358",
   "gyg_search_query": "Trakošćan Castle Zagreb Croatia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "338976",
+      "title": "From Zagreb: Fairytale Castle, Wine Tasting & Lunch",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 85,
+      "rating": 4.6,
+      "reviews": 305,
+      "covers_castles": ["trakoscan-castle"]
+    },
+    {
+      "tour_id": "83172",
+      "title": "From Zagreb: Varaždin Baroque Town & Trakošćan Castle",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 55,
+      "rating": 4.5,
+      "reviews": 422,
+      "covers_castles": ["trakoscan-castle"]
+    },
+    {
+      "tour_id": "956881",
+      "title": "Zagreb: Krapina Neanderthal Museum & Trakošćan Castle Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 65,
+      "rating": 4.5,
+      "reviews": 188,
+      "covers_castles": ["trakoscan-castle"]
+    }
+  ]
 }

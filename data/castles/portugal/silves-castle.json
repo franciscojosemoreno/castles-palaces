@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["obidos-castle"],
-  "gyg_location_id": "2669",
+  "gyg_location_id": "88429",
   "gyg_search_query": "Silves castle Algarve tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "374104",
+      "title": "Albufeira: Silves Castle, Chapel of Bones & Benagil Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 58,
+      "rating": 4.5,
+      "reviews": 482,
+      "covers_castles": ["silves-castle"]
+    },
+    {
+      "tour_id": "441181",
+      "title": "From Albufeira: Half-Day Silves & Monchique Highlights Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 45,
+      "rating": 4.5,
+      "reviews": 288,
+      "covers_castles": ["silves-castle"]
+    },
+    {
+      "tour_id": "415254",
+      "title": "Albufeira: Silves Castle, Lagos & Ponta da Piedade Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 65,
+      "rating": 4.5,
+      "reviews": 348,
+      "covers_castles": ["silves-castle"]
+    },
+    {
+      "tour_id": "500707",
+      "title": "Albufeira: Benagil Caves & Silves Castle Sightseeing Tour",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 55,
+      "rating": 4.5,
+      "reviews": 224,
+      "covers_castles": ["silves-castle"]
+    }
+  ]
 }
