@@ -75,8 +75,50 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["conwy-castle", "caernarfon-castle"],
-  "gyg_location_id": "156",
+  "gyg_location_id": "91698",
   "gyg_search_query": "Caerphilly Castle tour Cardiff",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "67689",
+      "title": "From London: Cardiff & Caerphilly Castle Day Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 95,
+      "rating": 4.5,
+      "reviews": 248,
+      "covers_castles": ["caerphilly-castle"]
+    },
+    {
+      "tour_id": "486798",
+      "title": "From Cardiff: Three Castles & Welsh Mountains Day Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 65,
+      "rating": 4.5,
+      "reviews": 182,
+      "covers_castles": ["caerphilly-castle"]
+    },
+    {
+      "tour_id": "1137827",
+      "title": "Cardiff & South Wales Private Day Tour: Three Welsh Castles",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 145,
+      "rating": 4.6,
+      "reviews": 118,
+      "covers_castles": ["caerphilly-castle"]
+    },
+    {
+      "tour_id": "559581",
+      "title": "From Cardiff: Caerleon, Tintern Abbey & Three Castles Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 75,
+      "rating": 4.6,
+      "reviews": 148,
+      "covers_castles": ["caerphilly-castle"]
+    }
+  ]
 }

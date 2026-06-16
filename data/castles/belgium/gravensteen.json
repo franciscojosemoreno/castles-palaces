@@ -75,5 +75,37 @@
   "gyg_location_id": "35038",
   "gyg_search_query": "Gravensteen Ghent castle tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "168014",
+      "title": "From Brussels: Ghent Full-Day Guided Tour in English",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 55,
+      "rating": 4.6,
+      "reviews": 648,
+      "covers_castles": ["gravensteen"]
+    },
+    {
+      "tour_id": "725231",
+      "title": "From Brussels: Ghent City Centre, Gravensteen & Belfry Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 65,
+      "rating": 4.5,
+      "reviews": 322,
+      "covers_castles": ["gravensteen"]
+    },
+    {
+      "tour_id": "731255",
+      "title": "Ghent: Private Historic Walking Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 45,
+      "rating": 4.7,
+      "reviews": 182,
+      "covers_castles": ["gravensteen"]
+    }
+  ]
 }

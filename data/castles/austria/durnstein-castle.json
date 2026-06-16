@@ -75,8 +75,30 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "2371",
+  "gyg_location_id": "174218",
   "gyg_search_query": "Dürnstein castle Wachau tour from Vienna",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1805",
+      "title": "Vienna: Wachau Valley, Melk Abbey & Danube Boat Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 85,
+      "rating": 4.6,
+      "reviews": 1185,
+      "covers_castles": ["durnstein-castle"]
+    },
+    {
+      "tour_id": "212391",
+      "title": "From Vienna: Dürnstein and Wachau Valley Cruise",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 95,
+      "rating": 4.6,
+      "reviews": 418,
+      "covers_castles": ["durnstein-castle"]
+    }
+  ]
 }
