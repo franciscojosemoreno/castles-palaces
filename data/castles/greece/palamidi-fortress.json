@@ -75,8 +75,50 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["palace-of-the-grand-master"],
-  "gyg_location_id": "3026",
+  "gyg_location_id": "56602",
   "gyg_search_query": "Palamidi Fortress Nafplio tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1218699",
+      "title": "Nafplio: Half-Day Palamidi Fortress & Karathona Beach",
+      "type": "skip_the_line",
+      "duration": "5 hours",
+      "price_from": 95,
+      "rating": 4.5,
+      "reviews": 42,
+      "covers_castles": ["palamidi-fortress"]
+    },
+    {
+      "tour_id": "442288",
+      "title": "Athens: Nafplio Full-Day Tour",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 75,
+      "rating": 4.5,
+      "reviews": 510,
+      "covers_castles": ["palamidi-fortress"]
+    },
+    {
+      "tour_id": "654933",
+      "title": "Athens: Private Tour of Corinth, Mycenae & Nafplio",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 120,
+      "rating": 4.6,
+      "reviews": 185,
+      "covers_castles": ["palamidi-fortress"]
+    },
+    {
+      "tour_id": "821714",
+      "title": "Athens: Nafplio Private Tour with Palamidi Fortress",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 145,
+      "rating": 4.7,
+      "reviews": 88,
+      "covers_castles": ["palamidi-fortress"]
+    }
+  ]
 }

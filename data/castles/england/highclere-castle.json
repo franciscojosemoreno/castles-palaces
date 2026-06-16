@@ -73,5 +73,46 @@
   "gyg_search_query": "Highclere Castle Downton Abbey tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "123059",
+      "title": "London: Downton Abbey, Cotswolds & Highclere Castle Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 115,
+      "rating": 4.5,
+      "reviews": 350,
+      "covers_castles": ["highclere-castle"]
+    },
+    {
+      "tour_id": "61489",
+      "title": "London: Downton Abbey Filming Locations & Highclere Castle",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 95,
+      "rating": 4.4,
+      "reviews": 210,
+      "covers_castles": ["highclere-castle"]
+    },
+    {
+      "tour_id": "76972",
+      "title": "London: Downton Abbey Tour with Highclere, Bampton & Oxford",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 105,
+      "rating": 4.5,
+      "reviews": 245,
+      "covers_castles": ["highclere-castle"]
+    },
+    {
+      "tour_id": "95367",
+      "title": "London: Downton Abbey Tour with Castle Entry & Lunch",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 145,
+      "rating": 4.6,
+      "reviews": 155,
+      "covers_castles": ["highclere-castle"]
+    }
+  ]
 }
