@@ -75,8 +75,50 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["ogrodzieniec-castle", "malbork-castle"],
-  "gyg_location_id": "2620",
+  "gyg_location_id": "91884",
   "gyg_search_query": "Pieskowa Skała castle Kraków Eagles Nests tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "162327",
+      "title": "From Kraków: Ojców National Park & Pieskowa Skała Castle",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 38,
+      "rating": 4.7,
+      "reviews": 582,
+      "covers_castles": ["pieskowa-skala-castle"]
+    },
+    {
+      "tour_id": "194336",
+      "title": "From Kraków: Ojców National Park and Pieskowa Skała Castle Tour",
+      "type": "guided_tour",
+      "duration": "5 hours",
+      "price_from": 42,
+      "rating": 4.6,
+      "reviews": 384,
+      "covers_castles": ["pieskowa-skala-castle"]
+    },
+    {
+      "tour_id": "63776",
+      "title": "From Krakow: Ojców National Park Full-Day Trip",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 55,
+      "rating": 4.5,
+      "reviews": 244,
+      "covers_castles": ["pieskowa-skala-castle"]
+    },
+    {
+      "tour_id": "147414",
+      "title": "From Krakow: Ojców National Park & Eagle's Nest Trail Tour",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 50,
+      "rating": 4.6,
+      "reviews": 322,
+      "covers_castles": ["pieskowa-skala-castle"]
+    }
+  ]
 }

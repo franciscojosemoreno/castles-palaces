@@ -71,8 +71,40 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["rock-of-cashel", "kilkenny-castle", "blarney-castle"],
-  "gyg_location_id": "274",
+  "gyg_location_id": "166673",
   "gyg_search_query": "Cahir Castle Tipperary tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "18764",
+      "title": "Dublin: Blarney Castle, Rock of Cashel & Cahir Castle Tour",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 85,
+      "rating": 4.6,
+      "reviews": 852,
+      "covers_castles": ["cahir-castle"]
+    },
+    {
+      "tour_id": "140673",
+      "title": "From Dublin: Cork City, Cahir Castle & Rock of Cashel Tour",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 75,
+      "rating": 4.5,
+      "reviews": 382,
+      "covers_castles": ["cahir-castle"]
+    },
+    {
+      "tour_id": "620166",
+      "title": "From Dublin: Rock of Cashel & Cahir Castle Private Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 175,
+      "rating": 4.8,
+      "reviews": 124,
+      "covers_castles": ["cahir-castle"]
+    }
+  ]
 }
