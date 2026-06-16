@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["dunluce-castle"],
-  "gyg_location_id": "2558",
+  "gyg_location_id": "91134",
   "gyg_search_query": "Carrickfergus Castle Belfast tour Northern Ireland",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "165248",
+      "title": "Belfast: Giant's Causeway & Game of Thrones Locations Tour",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 845,
+      "covers_castles": ["carrickfergus-castle"]
+    },
+    {
+      "tour_id": "91899",
+      "title": "Belfast: Giant's Causeway Guided Tour Including Castles",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 45,
+      "rating": 4.6,
+      "reviews": 778,
+      "covers_castles": ["carrickfergus-castle"]
+    },
+    {
+      "tour_id": "165257",
+      "title": "From Belfast: Giant's Causeway Guided Day Tour with Castles",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 602,
+      "covers_castles": ["carrickfergus-castle"]
+    }
+  ]
 }

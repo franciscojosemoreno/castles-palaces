@@ -75,8 +75,20 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["namur-citadel"],
-  "gyg_location_id": "2385",
+  "gyg_location_id": "224826",
   "gyg_search_query": "Bouillon Castle Belgium Ardennes tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "881951",
+      "title": "From Brussels: Namur, Huy, Bouillon & Dinant Day Trip",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 75,
+      "rating": 4.5,
+      "reviews": 87,
+      "covers_castles": ["chateau-de-bouillon", "namur-citadel"]
+    }
+  ]
 }
