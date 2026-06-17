@@ -75,8 +75,40 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["obidos-castle", "castle-of-the-moors", "silves-castle"],
+  "gyg_location_id": "236130",
   "gyg_search_query": "Marvão Castle Alentejo Portugal tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1306465",
+      "title": "Guided Visit of Marvão",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 23,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["marvao-castle"]
+    },
+    {
+      "tour_id": "1066790",
+      "title": "Lisbon: Small-Group Tour of Castelo de Vide and Marvão",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 110,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["marvao-castle"]
+    },
+    {
+      "tour_id": "472869",
+      "title": "Castelo de Vide & Marvão Private Day Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 695,
+      "rating": 5.0,
+      "reviews": 1,
+      "covers_castles": ["marvao-castle"]
+    }
+  ]
 }
