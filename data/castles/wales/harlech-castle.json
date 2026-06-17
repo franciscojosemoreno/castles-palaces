@@ -75,8 +75,20 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["caernarfon-castle", "conwy-castle", "caerphilly-castle", "beaumaris-castle"],
+  "gyg_location_id": "128653",
   "gyg_search_query": "Harlech Castle North Wales tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "173934",
+      "title": "From London: Wales 5-Day Group Tour",
+      "type": "guided_tour",
+      "duration": "5 days",
+      "price_from": 1071,
+      "rating": 4.6,
+      "reviews": 47,
+      "covers_castles": ["harlech-castle"]
+    }
+  ]
 }

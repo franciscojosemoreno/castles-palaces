@@ -74,5 +74,16 @@
   "gyg_search_query": "Belmonte Castle Cuenca tour Spain",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "516765",
+      "title": "Belmonte Castle Entry Ticket with Audio Guide",
+      "type": "entry_ticket",
+      "duration": "1-2 hours",
+      "price_from": 12,
+      "rating": 4.8,
+      "reviews": 9,
+      "covers_castles": ["belmonte-castle"]
+    }
+  ]
 }

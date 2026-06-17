@@ -75,8 +75,30 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["uchisar-castle"],
-  "gyg_location_id": "2731",
+  "gyg_location_id": "229381",
   "gyg_search_query": "Yedikule Fortress Istanbul tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "598851",
+      "title": "Tour of Byzantine and Constantinople, in Istanbul",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 180,
+      "rating": 4.5,
+      "reviews": 13,
+      "covers_castles": ["yedikule-fortress"]
+    },
+    {
+      "tour_id": "918209",
+      "title": "Istanbul: Theodosian Walls and Yedikule Fortress Guided Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 212,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["yedikule-fortress"]
+    }
+  ]
 }
