@@ -75,8 +75,40 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["palamidi-fortress", "methoni-castle", "palace-of-the-grand-master"],
+  "gyg_location_id": "148658",
   "gyg_search_query": "Acrocorinth Corinth Greece day trip Athens",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "659485",
+      "title": "Paul's Biblical and Ancient Corinth Half-Day Tour",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 148,
+      "rating": 4.9,
+      "reviews": 164,
+      "covers_castles": ["acrocorinth"]
+    },
+    {
+      "tour_id": "689081",
+      "title": "The Apostle Paul's Missionary Journey in Athens and Corinth",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 78,
+      "rating": 5.0,
+      "reviews": 92,
+      "covers_castles": ["acrocorinth"]
+    },
+    {
+      "tour_id": "1167771",
+      "title": "Athens: Ancient Corinth Tour with Ticket Beach Stop & Pickup",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 81,
+      "rating": 4.9,
+      "reviews": 49,
+      "covers_castles": ["acrocorinth"]
+    }
+  ]
 }

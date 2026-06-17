@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["vianden-castle"],
-  "gyg_location_id": "2602",
+  "gyg_location_id": "158269",
   "gyg_search_query": "Beaufort Castle Luxembourg tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "389003",
+      "title": "Luxembourg: Nature, History and Castles Full-Day Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 133,
+      "rating": 4.5,
+      "reviews": 587,
+      "covers_castles": ["beaufort-castle"]
+    },
+    {
+      "tour_id": "1295754",
+      "title": "Entry Ticket: Beaufort Castle",
+      "type": "entry_ticket",
+      "duration": "1 day",
+      "price_from": 9,
+      "rating": 5.0,
+      "reviews": 1,
+      "covers_castles": ["beaufort-castle"]
+    },
+    {
+      "tour_id": "1247963",
+      "title": "Luxembourg: Haunted Castles and Ghost Legends Private Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 796,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["beaufort-castle"]
+    }
+  ]
 }
