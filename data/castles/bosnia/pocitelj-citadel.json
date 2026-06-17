@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "2796",
+  "gyg_location_id": "2220",
   "gyg_search_query": "Počitelj citadel Mostar Bosnia tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "441472",
+      "title": "From Mostar: Blagaj, Počitelj & Kravice Waterfalls Day Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 50,
+      "rating": 5.0,
+      "reviews": 1691,
+      "covers_castles": ["pocitelj-citadel"]
+    },
+    {
+      "tour_id": "402063",
+      "title": "From Dubrovnik: Kravica Waterfalls, Mostar and Pocitelj Day Trip",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 35,
+      "rating": 4.5,
+      "reviews": 3730,
+      "covers_castles": ["pocitelj-citadel"]
+    },
+    {
+      "tour_id": "139253",
+      "title": "Sarajevo: Mostar, Konjic, Blagaj, Pocitelj & Kravica Falls",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 102,
+      "rating": 4.9,
+      "reviews": 2190,
+      "covers_castles": ["pocitelj-citadel"]
+    }
+  ]
 }

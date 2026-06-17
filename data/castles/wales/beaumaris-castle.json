@@ -75,8 +75,40 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": ["caernarfon-castle", "conwy-castle", "harlech-castle"],
+  "gyg_location_id": "262764",
   "gyg_search_query": "Beaumaris Castle Anglesey Wales tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "892783",
+      "title": "Holyhead: Anglesey Highlights Shore Excursion",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 79,
+      "rating": 5.0,
+      "reviews": 10,
+      "covers_castles": ["beaumaris-castle"]
+    },
+    {
+      "tour_id": "895501",
+      "title": "Anglesey: Full-Day Tour with Lunch from Llandudno and Conwy",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 79,
+      "rating": 5.0,
+      "reviews": 16,
+      "covers_castles": ["beaumaris-castle"]
+    },
+    {
+      "tour_id": "1196218",
+      "title": "Llandudno: Best Of Anglesey & Snowdonia Combined",
+      "type": "guided_tour",
+      "duration": "9 hours",
+      "price_from": 87,
+      "rating": 5.0,
+      "reviews": 3,
+      "covers_castles": ["beaumaris-castle"]
+    }
+  ]
 }

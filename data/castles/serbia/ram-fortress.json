@@ -75,8 +75,30 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["golubac-fortress", "smederevo-fortress"],
-  "gyg_location_id": "2701",
+  "gyg_location_id": "240581",
   "gyg_search_query": "Ram Fortress Serbia Danube tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "629757",
+      "title": "From Belgrade: 3 Danube Fortresses Guided Day Trip",
+      "type": "day_trip",
+      "duration": "1 day",
+      "price_from": 111,
+      "rating": 5.0,
+      "reviews": 44,
+      "covers_castles": ["ram-fortress", "golubac-fortress", "smederevo-fortress"]
+    },
+    {
+      "tour_id": "1235820",
+      "title": "Ram & Golubac Fortresses with Rakia Tasting",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 238,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["ram-fortress", "golubac-fortress"]
+    }
+  ]
 }

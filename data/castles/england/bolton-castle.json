@@ -75,8 +75,40 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": ["bamburgh-castle", "alnwick-castle"],
-  "gyg_location_id": "2554",
+  "gyg_location_id": "182587",
   "gyg_search_query": "Bolton Castle Yorkshire Dales tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "51228",
+      "title": "The Yorkshire Dales Tour from York",
+      "type": "day_trip",
+      "duration": "8.5 hours",
+      "price_from": 109,
+      "rating": 4.8,
+      "reviews": 535,
+      "covers_castles": ["bolton-castle"]
+    },
+    {
+      "tour_id": "644377",
+      "title": "York: \"All Creatures Great and Small\" Yorkshire Dales Tour",
+      "type": "day_trip",
+      "duration": "8.5 hours",
+      "price_from": 109,
+      "rating": 4.9,
+      "reviews": 191,
+      "covers_castles": ["bolton-castle"]
+    },
+    {
+      "tour_id": "189936",
+      "title": "From York: Full-Day Yorkshire Dales Tour",
+      "type": "day_trip",
+      "duration": "8.5 hours",
+      "price_from": 79,
+      "rating": 4.9,
+      "reviews": 140,
+      "covers_castles": ["bolton-castle"]
+    }
+  ]
 }

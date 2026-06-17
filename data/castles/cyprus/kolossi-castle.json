@@ -71,8 +71,40 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": ["limassol-castle"],
-  "gyg_location_id": "426",
+  "gyg_location_id": "127728",
   "gyg_search_query": "Kolossi Castle Cyprus tour",
   "gyg_widget_type": "activities",
-  "gyg_num_results": 4
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "647865",
+      "title": "From Paphos: Trip to Limassol with Kourion & Kolossi Castle",
+      "type": "guided_tour",
+      "duration": "7 hours",
+      "price_from": 58,
+      "rating": 4.6,
+      "reviews": 170,
+      "covers_castles": ["kolossi-castle"]
+    },
+    {
+      "tour_id": "416054",
+      "title": "From Paphos: Guided Tour of Limassol with Aphrodite's Rock",
+      "type": "guided_tour",
+      "duration": "7 hours",
+      "price_from": 64,
+      "rating": 4.5,
+      "reviews": 385,
+      "covers_castles": ["kolossi-castle"]
+    },
+    {
+      "tour_id": "1251268",
+      "title": "Heritage Experience from Paphos: Kourion, Kolossi & Omodos",
+      "type": "guided_tour",
+      "duration": "7 hours",
+      "price_from": 52,
+      "rating": 4.9,
+      "reviews": 14,
+      "covers_castles": ["kolossi-castle"]
+    }
+  ]
 }
