@@ -1,0 +1,127 @@
+{
+  "id": "chateau-d-if",
+  "name": "Château d'If",
+  "local_name": "Château d'If",
+  "type": "fortress",
+  "status": "published",
+  "featured": true,
+  "priority_score": 8,
+  "annual_visitors": 400000,
+  "country": "france",
+  "region": "Provence",
+  "nearest_city": "Marseille",
+  "address": "Île d'If, 13007 Marseille, France",
+  "lat": 43.2796,
+  "lng": 5.3247,
+  "unesco": false,
+  "year_built": 1524,
+  "architectural_style": "Renaissance military",
+  "opening_hours": {
+    "monday": "09:30–18:00",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "April–September: open daily 09:30–18:00. October–March: open Tuesday–Sunday 09:30–17:15, closed Monday. Closed 25 Dec and 1 Jan. Access depends on ferry service and sea conditions — always verify ferry schedules before visiting."
+  },
+  "price_adult": 6,
+  "price_child": 0,
+  "booking_required": true,
+  "official_tickets_url": "https://www.monuments-nationaux.fr/",
+  "visit_duration": "2–3 hours (including ferry crossing)",
+  "best_season": "May to September — calm Mediterranean seas and clear visibility from the ramparts; early morning ferries avoid the busiest crowds",
+  "accessibility": "Requires climbing steep stone stairs inside the fortress. Narrow passages and uneven floors throughout. No wheelchair access to the upper ramparts or towers. Ferry boarding requires stepping over the boat gunwale.",
+  "booking_advance_days": 1,
+  "tagline": "The island fortress that inspired The Count of Monte Cristo — Marseille's most dramatic and literary landmark",
+  "highlights": [
+    "The cells of the fictional Edmond Dantès and Abbé Faria, labelled and visited by fans of The Count of Monte Cristo from around the world",
+    "Panoramic views of Marseille, the Calanques coastline, and the open Mediterranean from the castle's ramparts",
+    "A 15-minute ferry crossing from the Vieux-Port — the approach by sea is how the fortress was designed to be seen",
+    "An island prison that held Huguenots, political ministers, and the literary counterpart of the Man in the Iron Mask",
+    "Part of the Frioul archipelago — the wild islands of Pomègues and Ratonneau are visible and reachable by the same ferry"
+  ],
+  "description": "Château d'If sits on a rocky island barely 1.5 kilometres from the Vieux-Port of Marseille, small enough to walk across in ten minutes yet visually commanding from every angle. Seen from the city's waterfront, it appears as a pale limestone keep rising straight from the Mediterranean — a fortress with no harbour, no beach, no gentle approach. You take a ferry from the Old Port, and fifteen minutes later you step through its gatehouse into a place that was built for power, repurposed for cruelty, and immortalised by fiction.\n\nAlexandre Dumas visited the château in 1842 and left determined to use it. His novel The Count of Monte Cristo, published in serial form from 1844, made Château d'If one of the most famous prisons in the world — not for any real prisoner, but for the imaginary ones: Edmond Dantès, who escaped by swapping places with his dead cellmate, and Abbé Faria, the wise priest who tunnelled into the wrong cell. Inside the castle today, two cells are marked with their names and rank among the most photographed rooms in southern France. The label acknowledges the fiction — this is explicitly the cell of the fictional Dantès — which only deepens the strangeness of standing there.\n\nThe fortress itself is compact: three round towers connected by walls, a central courtyard, a small chapel, and ramparts that offer a 360-degree view of the coastline from Cap Croisette to L'Estaque. In every direction the sea is present, which is precisely why this location was chosen. François I ordered the château's construction in 1516, not as a residence but as a fortified position to protect Marseille from seaborne attack. In practice it was never tested in battle. Within decades it became a prison, and it is as a prison — real and imaginary — that history remembered it.",
+  "history": "François I, King of France, came to Marseille in 1516 to meet Pope Leo X. Eyeing the island of If in the harbour, he recognised its strategic position and ordered a fortress built there. Construction ran from roughly 1524 to 1531, producing a three-tower keep that was militarily effective but, in the end, never tested in battle — no naval attack on Marseille required it. The château's career as a defensive outpost lasted barely a generation before it was converted to a prison in 1580, a role it would hold for over 300 years.\n\nThe château's most prominent historical prisoner was Nicolas Fouquet, Louis XIV's Superintendent of Finances, arrested in 1661 and briefly held here before transfer to a permanent cell. Among the most numerous inmates were Huguenots — Protestant dissenters confined in the lower dungeons during the Wars of Religion and their aftermath. A legend attached itself to Château d'If concerning the 'Man in the Iron Mask', the mysterious prisoner whose identity was concealed; though historians now generally place him at the Fortress of Pignerol, the association with Château d'If proved irresistible to literature.\n\nThe château ceased functioning as a prison in 1890 and was classified as a national monument. For most of the twentieth century it was progressively restored. Since 1890 its most effective guardian has been literature: Dumas brought more visitors here than any military history could. The Centre des Monuments Nationaux now manages the site, and the ferry from the Vieux-Port runs several times a day throughout the year.",
+  "how_to_visit": "**Getting there:** The only way to reach Château d'If is by ferry from Marseille's Vieux-Port (Quai des Belges). The crossing takes approximately 15 minutes and costs around €12–18 for a round-trip ticket, depending on the operator. Monument entry (purchased separately) costs approximately €6. Ferries run throughout the day — hourly in summer, less frequently in winter. In July and August, book your ferry in advance: boats fill quickly and the next departure may be two hours away.\n\n**What to see:** The interior is compact but atmospheric. The central courtyard, the small chapels in the towers, the dimly lit cell blocks, and the two cells labelled for Edmond Dantès and Abbé Faria are the main draws. The ramparts above offer the finest views — Marseille to the east, the Calanques to the south, open sea to the west. Allow 90 minutes inside the fortress and use the ferry journey back to photograph the château from the water at its best angle.\n\n**Practical advice:** There is no food or shade available on the island. Bring water and sunscreen — the limestone walls reflect heat intensely in summer. Go at opening time or take the last afternoon ferry to avoid the worst of the midday crowds. In winter, the mistral wind can make the sea rough and the island cold; always check weather and ferry conditions before setting out.",
+  "faqs": [
+    {
+      "question": "Did Edmond Dantès really escape from Château d'If?",
+      "answer": "No — Edmond Dantès is a fictional character, and his escape is a literary invention by Alexandre Dumas. The château nonetheless shows visitors the cells labelled 'Edmond Dantès' and 'Abbé Faria', with the hole in the wall through which Faria supposedly tunnelled. The label acknowledges the fiction explicitly. Real prisoners were held here from 1580 to 1890, but none escaped in the manner Dumas described."
+    },
+    {
+      "question": "How do I get to Château d'If from Marseille?",
+      "answer": "Take a ferry from the Vieux-Port (Quai des Belges) in central Marseille. The crossing takes about 15 minutes. Multiple companies operate the service — look for the ferry kiosks at the waterfront or book in advance online. Round-trip boat tickets cost approximately €12–18; château entry (around €6) is purchased separately at the island. In summer, book ferry tickets at least a day ahead."
+    },
+    {
+      "question": "Can I visit the Frioul Islands on the same trip?",
+      "answer": "Yes — and this is the recommended approach. Most ferry services to Château d'If also stop at the Frioul Islands (Pomègues and Ratonneau). You can spend 90 minutes at the château, then continue to Frioul for swimming, lunch at a harbourside restaurant, and the wild limestone landscape of the archipelago. Allow a full half-day for this combination."
+    },
+    {
+      "question": "Is The Count of Monte Cristo worth reading before visiting?",
+      "answer": "Absolutely — visiting Château d'If with the novel fresh in mind transforms the experience entirely. The book is very long (over 1,200 pages unabridged), so an abridged edition or audiobook works well as preparation. The château's small gift shop sells copies in French and English. The 2002 film adaptation with Jim Caviezel is the most accessible screen version for English-speaking visitors."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-d-if.webp",
+    "alt": "Château d'If rising from the Mediterranean Sea, its pale stone towers seen from a ferry approaching from Marseille's Vieux-Port",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-d-if.webp",
+  "instagram_tag": "#chateaudif",
+  "meta_title": "Château d'If: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château d'If, the island fortress near Marseille that inspired The Count of Monte Cristo. Book ferry tickets, guided boat tours, and explore the historic prison cells. Complete 2026 visitor guide.",
+  "tags": [
+    "renaissance",
+    "island-castle",
+    "prison",
+    "literary-connection",
+    "boat-access",
+    "instagram-worthy",
+    "day-trip-from-marseille",
+    "mediterranean"
+  ],
+  "last_updated": "2026-06-21",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "66053",
+  "gyg_search_query": "Château d'If Marseille ferry tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1316140",
+      "title": "Château d'If Entry Ticket & Marseille Audio Tour",
+      "type": "entry_ticket",
+      "duration": "1 day",
+      "price_from": 10,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["chateau-d-if"]
+    },
+    {
+      "tour_id": "1243290",
+      "title": "Marseille: Skip the Line Boat Trip to Île d'If with Castle",
+      "type": "skip_the_line",
+      "duration": "4 hours",
+      "price_from": 53,
+      "rating": 3.0,
+      "reviews": 4,
+      "covers_castles": ["chateau-d-if"]
+    },
+    {
+      "tour_id": "943114",
+      "title": "Marseille: Set Sail for Château d'If and the Frioul Islands",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 68,
+      "rating": 4.9,
+      "reviews": 150,
+      "covers_castles": ["chateau-d-if"]
+    }
+  ]
+}

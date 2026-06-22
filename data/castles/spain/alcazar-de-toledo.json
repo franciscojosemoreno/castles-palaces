@@ -1,0 +1,129 @@
+{
+  "id": "alcazar-de-toledo",
+  "name": "Alcázar of Toledo",
+  "local_name": "Alcázar de Toledo",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 7,
+  "annual_visitors": 300000,
+  "country": "spain",
+  "region": "Castile-La Mancha",
+  "nearest_city": "Toledo",
+  "address": "Calle Unión s/n, 45001 Toledo, Spain",
+  "lat": 39.8584,
+  "lng": -4.0207,
+  "unesco": true,
+  "year_built": 1537,
+  "architectural_style": "Spanish Renaissance (Plateresque)",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "June–September: open until 20:00. Closed Monday, 24–25 Dec, and 1 Jan. Entry to the permanent collection is free."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.museo.ejercito.es/",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to June or September to October — comfortable temperatures for Toledo's steep streets and the Alcázar's exposed northern terrace",
+  "accessibility": "Fully accessible. The museum has lifts to all floors, wheelchair-accessible toilets, and level access throughout. The Charles V Courtyard and all major galleries are reachable without stairs.",
+  "booking_advance_days": 0,
+  "tagline": "Toledo's impregnable hilltop fortress — from Roman praetorium to the most contested building of the Spanish Civil War",
+  "highlights": [
+    "The 1936 Civil War siege rooms — one of the most emotionally intense military history exhibits in Europe, presented without triumphalism",
+    "A Roman cistern with two millennia of continuous history visible beneath your feet, preserved in the castle's lower levels",
+    "The Charles V Courtyard — a masterpiece of Spanish Renaissance architecture by Alonso de Covarrubias, open to the sky at the building's heart",
+    "Views from the northern parade ground across Toledo's rooftops, the Tagus River gorge, and the plains of Castile stretching to the horizon",
+    "The National Army Museum's collection of medieval armour, Conquistador weapons, and an extraordinary room of swords belonging to figures from Spanish history"
+  ],
+  "description": "The Alcázar of Toledo dominates the city from every direction — a massive square fortress perched on the highest point of the old city, visible from the main road approach twenty kilometres away. It has occupied this position continuously for over two thousand years, changing hands between Romans, Visigoths, Moors, and Christian kings, each leaving layers that the present building preserves underground while presenting a Renaissance face to the world above. The current structure was commissioned by the Holy Roman Emperor Charles V in 1537, designed by Alonso de Covarrubias in the Plateresque style, and is considered one of the finest Spanish Renaissance buildings in existence.\n\nSince 2009, the Alcázar has housed the National Museum of the Spanish Army — one of the largest and most comprehensive military history collections in Europe, and, crucially, free to enter. The building provides an extraordinary setting for the exhibits: the Roman cistern beneath the courtyard is preserved exactly where it was discovered during excavations, the Arab walls of the Moorish alcázar are displayed in situ in the lower levels, and the Civil War rooms occupy spaces that were genuinely part of the 1936 siege. Walking through the collection is not simply a visit to a museum but an archaeology of the building itself.\n\nToledo as a city is itself a UNESCO World Heritage Site, inscribed in 1986 for its unique coexistence of Christian, Islamic, and Jewish architecture across its medieval streets. The Alcázar, at the highest point of this city of monuments, is both the most visible and the most historically layered of its landmarks.",
+  "history": "The hilltop that the Alcázar occupies has been fortified since at least the 3rd century AD, when the Romans built a praetorium here — a military governor's compound whose cistern survives intact in the building's lower levels. Visigoths rebuilt it, the Moors transformed it into an alcázar (a fortified palace), and Alfonso VI of Castile captured it when he took Toledo in 1085. For the next four centuries it served as a royal residence: Alfonso X the Wise worked here, and it was familiar to most medieval Castilian monarchs.\n\nThe decisive moment in the building's architectural history came in 1537, when Emperor Charles I of Spain (Charles V of the Holy Roman Empire) ordered a complete reconstruction in the Spanish Renaissance style. His architect Alonso de Covarrubias created the current four-towered square plan with the magnificent central courtyard. The building was later damaged by fires and partially rebuilt under Philip II. By the 19th century it had been used as a military academy — the role that would define its most dramatic episode.\n\nOn 21 July 1936, at the outbreak of the Spanish Civil War, Colonel José Moscardó Ituarte barricaded approximately 1,200 Nationalist soldiers, civilians, and cadets inside the Alcázar against Republican forces. The 70-day siege that followed became one of the most legendary episodes of the war — including the famous telephone call in which Moscardó was told his son would be shot if the Alcázar did not surrender, and refused. The building was largely destroyed by the end of the siege. Franco's government rebuilt it in the 1940s–60s as a monument to its defenders. The Army Museum, which moved here from Madrid in 2009, has presented this history with more nuance than its predecessors.",
+  "how_to_visit": "**Getting there:** Toledo is 70 kilometres from Madrid and served by frequent high-speed AVE trains from Madrid Atocha (journey time: 33 minutes; trains run roughly every 30–60 minutes). From Toledo station it is a 1.5-kilometre walk uphill to the old city, or a short bus ride. The Alcázar is at the highest point of the old town — allow 20–30 minutes on foot from the main square, Plaza de Zocodover, following the streets uphill to the eastern end of the city.\n\n**At the museum:** Entry to the permanent collection is free. The museum is large and the collection is dense — a focused visit using the highlights guide (available in English at the entrance) is more rewarding than attempting to see everything. Don't miss the Roman cistern in the basement, the Charles V Courtyard, the Civil War rooms, and the views from the northern terrace. The guided tour available on GetYourGuide ($23 per person) provides expert context for the Civil War rooms and the archaeological layers, which are difficult to interpret without background knowledge.\n\n**Combining with Toledo:** The Alcázar pairs naturally with the Cathedral of Toledo (15 minutes' walk), the Church of Santo Tomé with El Greco's masterwork The Burial of the Count of Orgaz, and the medieval Jewish quarter below. Toledo is best visited as a full day from Madrid — arrive at opening time, have lunch in the old city, and take a late afternoon train back.",
+  "faqs": [
+    {
+      "question": "Is entry to the Alcázar of Toledo free?",
+      "answer": "Yes — the National Museum of the Spanish Army, which occupies the Alcázar, is free to enter for all visitors. This includes access to the permanent collection, the Roman cistern, the Charles V Courtyard, and all galleries. Some temporary exhibitions may carry an additional charge. Guided tours of the museum (sold separately through operators like GetYourGuide) are not free, but the self-guided visit is."
+    },
+    {
+      "question": "What happened during the 1936 siege of the Alcázar?",
+      "answer": "When the Spanish Civil War began in July 1936, Colonel José Moscardó barricaded approximately 1,200 Nationalist soldiers, cadets, and civilians inside the Alcázar. Republican forces besieged the building for 70 days, mining its foundations and destroying much of the structure. The most famous episode was a phone call in which Moscardó was told his captured son would be executed if the Alcázar did not surrender — Moscardó refused. The Nationalists were eventually relieved by General Varela's forces on 27 September 1936. The museum's Civil War rooms, including a reconstruction of Moscardó's office, present this history in detail."
+    },
+    {
+      "question": "How do I get to Toledo from Madrid?",
+      "answer": "The fastest route is the AVE high-speed train from Madrid Atocha to Toledo station — the journey takes just 33 minutes and trains run frequently. Buy tickets in advance on Renfe's website. Alternatively, buses from Madrid's Estación Sur (Mendez Alvaro) take about 75 minutes and are cheaper. By car from Madrid, Toledo is about 70km via the A-42 motorway. Many visitors also book day-trip tours from Madrid that include transport and guided visits to the Alcázar and Cathedral."
+    },
+    {
+      "question": "How long should I plan for the Alcázar visit?",
+      "answer": "Allow 2–3 hours for a thorough self-guided visit to the Army Museum. The building is very large and the collection extensive — a focused visitor hitting the highlights (Roman cistern, Charles V Courtyard, Civil War rooms, northern terrace views) can do it in 90 minutes. With a guided tour, the same circuit takes about 2 hours including commentary. If you want to see the temporary exhibitions and full collection, plan 3 hours."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alcazar-de-toledo.webp",
+    "alt": "The Alcázar of Toledo seen from across the Tagus River gorge, its four Renaissance towers rising above the medieval rooftops of the city",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alcazar-de-toledo.webp",
+  "instagram_tag": "#alcazardetoledo",
+  "meta_title": "Alcázar of Toledo: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit the Alcázar of Toledo, Spain's most dramatic hilltop fortress and home to the free National Army Museum. Book guided tours, plan your visit, and discover 2,000 years of history. Complete 2026 guide.",
+  "tags": [
+    "renaissance",
+    "military-history",
+    "civil-war",
+    "roman-origins",
+    "moorish-heritage",
+    "free-entry",
+    "day-trip-from-madrid",
+    "unesco-world-heritage"
+  ],
+  "last_updated": "2026-06-21",
+  "routes": [],
+  "nearby_castles": [
+    "alcazar-of-segovia"
+  ],
+  "gyg_location_id": "82187",
+  "gyg_search_query": "Alcázar Toledo Army Museum guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "197164",
+      "title": "Toledo Alcázar and Army Museum: Guided Tour",
+      "type": "guided_tour",
+      "duration": "1.5–3 hours",
+      "price_from": 23,
+      "rating": 4.4,
+      "reviews": 157,
+      "covers_castles": ["alcazar-de-toledo"]
+    },
+    {
+      "tour_id": "117462",
+      "title": "Madrid: Segovia and Toledo Tour, Alcazar, and Cathedral",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 47,
+      "rating": 4.7,
+      "reviews": 9290,
+      "covers_castles": ["alcazar-de-toledo", "alcazar-de-segovia"]
+    },
+    {
+      "tour_id": "379304",
+      "title": "Toledo & Segovia Tour with Cathedral, Alcazar & Lunch",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 45,
+      "rating": 4.6,
+      "reviews": 6619,
+      "covers_castles": ["alcazar-de-toledo", "alcazar-de-segovia"]
+    }
+  ]
+}

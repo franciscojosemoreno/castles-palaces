@@ -1,0 +1,129 @@
+{
+  "id": "burghausen-castle",
+  "name": "Burghausen Castle",
+  "local_name": "Burg Burghausen",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 7,
+  "annual_visitors": 200000,
+  "country": "germany",
+  "region": "Bavaria",
+  "nearest_city": "Burghausen",
+  "address": "Burg 48, 84489 Burghausen, Germany",
+  "lat": 48.1680,
+  "lng": 12.8270,
+  "unesco": false,
+  "year_built": 1255,
+  "architectural_style": "Gothic",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "April–September: daily 09:00–18:00. October–March: daily 10:00–16:00. The outer courtyards are free and accessible at all times; the main keep and State Gallery require a ticket."
+  },
+  "price_adult": 5,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.schloesser.bayern.de/deutsch/schloss/objekte/buoh_bur.htm",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September — the summer jazz festival fills the inner courtyard with music, the Salzach valley below is at its most scenic, and the views extend to the Austrian Alps",
+  "accessibility": "The main keep and State Gallery are accessible via stairs only. The outer courtyards are level and accessible on foot. No wheelchair access to the upper castle sections. The path from the town below involves a steep climb.",
+  "booking_advance_days": 0,
+  "tagline": "The world's longest castle — 1,051 metres of Gothic towers and courtyards perched above the Salzach River on the Bavarian-Austrian border",
+  "highlights": [
+    "A ridge-top complex stretching 1,051 metres — officially the world's longest castle and a record that has stood for decades",
+    "Six successive courtyards, each built for a different purpose, creating a journey through medieval military and domestic architecture",
+    "Views from the ramparts into Austria, over the turquoise Salzach River and the Wöhrsee lake far below",
+    "The annual Burghausen Jazz Festival, held in the inner courtyard each June — one of the most atmospheric open-air music venues in Germany",
+    "The State Gallery in the main keep, with late Gothic paintings, medieval altarpieces, and the history of the Duchy of Bavaria-Landshut"
+  ],
+  "description": "Burghausen Castle holds a record that no other fortress in the world has come close to matching: at 1,051 metres, it is the longest castle complex ever built. Stretched along a narrow limestone ridge above the confluence of the Salzach River and the Wöhrsee, it was not designed as a single building but as a chain of six successive courtyards, each separately fortified, creating a defensive sequence that an attacker would need to breach multiple times to reach the main keep at the southern end. Walk its full length and the town of Burghausen gradually recedes below you, the Austrian Alps appear on the horizon, and the experience shifts from sightseeing to something closer to a walk through medieval strategic logic.\n\nThe castle was the secondary residence and treasury of the Wittelsbach Dukes of Bavaria — the dynasty that also built Neuschwanstein, Nymphenburg, and the Residenz in Munich. Here, though, the aesthetic is entirely Gothic rather than Baroque fantasy: the towers are heavy, the walls are thick, and the views are earned by climbing. The main keep at the southern tip houses a State Gallery with late Gothic altarpieces and panel paintings that feel exactly right in rooms of this age and weight.\n\nEach June, Burghausen Castle becomes one of the most unusual concert venues in Europe. The inner courtyard fills with an audience of several thousand for the Burghausen Jazz Festival, with the castle walls providing extraordinary acoustic reflection. The contrast — medieval stone, modern jazz, summer darkness, and torchlight — is one of those experiences particular to old European places that use their history imaginatively rather than simply displaying it.",
+  "history": "The hill above Burghausen was fortified at least as early as the 10th century, when the site is first mentioned in documents (1025 AD). The Wittelsbach dynasty, who would go on to rule Bavaria for seven centuries, made Burghausen their ducal treasury and secondary residence in 1255 — the year that marks the beginning of the castle's transformation from a simple hilltop fort into a complex of successive courtyards and towers.\n\nThe most significant period of construction came under Duke George the Rich (Georg der Reiche) of Bavaria-Landshut, who ruled from 1479 to 1503. The 'Reiche' in his name referred to his legendary wealth, and he spent it on Burghausen — extending the castle to its present extraordinary length, adding towers, rebuilding the main keep, and creating the sequence of six courtyards that makes the complex unique. The castle served its purpose as a treasury for the valuables of the Duchy, including the famous Landshut ducal treasure, kept here safe from attack.\n\nFollowing the Landshut War of Succession (1503–1505), Burghausen passed under unified Bavarian rule and gradually lost its strategic importance. By the 19th century, when Romantic-era travellers and artists began to rediscover Germany's medieval heritage, Burghausen attracted painters and writers for the same reason it attracts photographers today: the castle reflected in the Wöhrsee below, the ridge stretched against the horizon, and the Austrian Alps in the distance compose a view that has changed almost nothing in five hundred years.",
+  "how_to_visit": "**Getting there:** Burghausen is approximately 90 kilometres east of Munich, on the Bavarian-Austrian border. By car from Munich, take the A94 motorway east toward Passau, then south on the B20 to Burghausen — about 1.5 hours. By public transport, take the train from Munich Hauptbahnhof to Burghausen via Mühldorf (about 1.5–2 hours depending on connections); the castle is a 30-minute walk uphill from the station, or a short taxi ride. The closest larger city is Salzburg in Austria, 60 kilometres to the south.\n\n**Approaching the castle:** The castle is reached by climbing the hill from Burghausen's old town below. The main entrance is at the southern end; you enter through the first courtyard and work northward or vice versa. The outer courtyards are free to enter and open at all times — you pay only to enter the main keep and State Gallery at the southern tip. The full walk from the entrance gate to the northernmost courtyard and back takes about 90 minutes at a relaxed pace.\n\n**What to see:** The main keep houses the State Gallery (Staatsgalerie), with late Gothic paintings — allow 30–45 minutes here. The ducal apartments give a sense of life in a medieval Bavarian court. From the towers, the panorama of the Salzach valley, the Wöhrsee, and the Austrian mountains is the finest view in this part of Bavaria. If you are visiting in June, check the Burghausen Jazz Festival schedule — concerts sell out months in advance.",
+  "faqs": [
+    {
+      "question": "Why is Burghausen Castle the longest castle in the world?",
+      "answer": "Burghausen Castle stretches 1,051 metres along a narrow limestone ridge — a record confirmed by the Guinness Book of Records. Its length is not a design flourish but a military and practical response to the ridge's topography: rather than building a single large fortification, the Wittelsbach dukes built a chain of six successive courtyards, each separately fortified, so that an attacker breaching one defensive line would face another. The result is the longest continuous castle complex ever constructed."
+    },
+    {
+      "question": "How do I get to Burghausen from Munich?",
+      "answer": "By car from Munich, take the A94 motorway east toward Passau, then the B20 south to Burghausen — about 90 minutes. By public transport, take the regional train from Munich Hauptbahnhof toward Mühldorf and then Burghausen; the journey takes 1.5–2 hours depending on connections. A taxi or rideshare from Burghausen station to the castle base takes about 5 minutes; alternatively, it is a pleasant 30-minute walk through the town."
+    },
+    {
+      "question": "When is the Burghausen Jazz Festival and how do I get tickets?",
+      "answer": "The Burghausen Jazz Festival takes place in June each year, with most concerts held in the main courtyard of the castle. It is one of Europe's largest jazz festivals and attracts major international artists. Tickets go on sale in early spring and sell out quickly for headline events. Check the official festival website (burghausen.de) for dates and lineup. Day tickets and multi-day passes are available; the castle setting — floodlit medieval walls, warm summer nights — makes even the free outdoor performances between venues worth attending."
+    },
+    {
+      "question": "What is inside the Burghausen Castle State Gallery?",
+      "answer": "The State Gallery (Staatsgalerie) in the main keep houses a collection of late Gothic paintings and altarpieces, primarily from the 15th and 16th centuries. Highlights include altarpieces from the studios of Bavarian and Austrian painters of the period, devotional panel paintings, and decorative objects from the ducal court. The gallery is relatively small but of high quality, and the Gothic rooms of the keep provide an unusually appropriate setting. Entry is included in the castle ticket."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/burghausen-castle.webp",
+    "alt": "Burghausen Castle stretching along its limestone ridge above the turquoise Salzach River and Wöhrsee lake, with the Austrian Alps on the horizon",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/burghausen-castle.webp",
+  "instagram_tag": "#burgburghausen",
+  "meta_title": "Burghausen Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Burghausen Castle — the world's longest castle at 1,051 metres in Bavaria. Book guided tours, plan your visit to the State Gallery, and discover the Burghausen Jazz Festival. Complete 2026 guide.",
+  "tags": [
+    "medieval",
+    "gothic",
+    "world-record",
+    "bavarian-castle",
+    "museum",
+    "river-castle",
+    "jazz-festival",
+    "border-castle"
+  ],
+  "last_updated": "2026-06-21",
+  "routes": [],
+  "nearby_castles": [
+    "neuschwanstein-castle"
+  ],
+  "gyg_location_id": "180789",
+  "gyg_search_query": "Burghausen Castle Bavaria guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "430622",
+      "title": "Burghausen Castle Private Tour with Entry Ticket",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 255,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["burghausen-castle"]
+    },
+    {
+      "tour_id": "1058996",
+      "title": "Burghausen Castle Walk Tour with a Professional Guide",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 265,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["burghausen-castle"]
+    },
+    {
+      "tour_id": "1341870",
+      "title": "Munich: Burghausen Castle & Altötting Private Day Trip",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 186,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["burghausen-castle"]
+    }
+  ]
+}
