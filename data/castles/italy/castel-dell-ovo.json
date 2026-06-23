@@ -64,14 +64,14 @@
     }
   ],
   "hero_image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Castel_dell%27Ovo_2019.jpg/1280px-Castel_dell%27Ovo_2019.jpg",
+    "url": "/images/castles/castel-dell-ovo.webp",
     "alt": "Castel dell'Ovo rising from the Bay of Naples with Vesuvius in the background",
-    "credit": "Wikimedia Commons",
+    "credit": "Unsplash",
     "width": 1280,
     "height": 853
   },
   "gallery": [],
-  "og_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Castel_dell%27Ovo_2019.jpg/1280px-Castel_dell%27Ovo_2019.jpg",
+  "og_image": "/images/castles/castel-dell-ovo.webp",
   "instagram_tag": "casteldellovo",
   "meta_title": "Castel dell'Ovo, Naples: Free Entry, Hours & Visitor Guide (2026)",
   "meta_description": "Visit Castel dell'Ovo in Naples — the city's oldest castle, free to enter, with spectacular views of the Bay of Naples and Vesuvius. Opening hours and tips.",

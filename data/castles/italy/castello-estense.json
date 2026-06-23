@@ -64,14 +64,14 @@
     }
   ],
   "hero_image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Castello_Estense_Ferrara.jpg/1280px-Castello_Estense_Ferrara.jpg",
+    "url": "/images/castles/castello-estense.webp",
     "alt": "Castello Estense rising from its moat in the centre of Ferrara, Italy",
-    "credit": "Wikimedia Commons",
+    "credit": "Unsplash",
     "width": 1280,
     "height": 853
   },
   "gallery": [],
-  "og_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Castello_Estense_Ferrara.jpg/1280px-Castello_Estense_Ferrara.jpg",
+  "og_image": "/images/castles/castello-estense.webp",
   "instagram_tag": "castelloestense",
   "meta_title": "Castello Estense, Ferrara: Tickets, Hours & Visitor Guide (2026)",
   "meta_description": "Visit the Castello Estense in Ferrara — a perfectly preserved Renaissance moated castle and UNESCO World Heritage Site in the heart of Emilia-Romagna.",
