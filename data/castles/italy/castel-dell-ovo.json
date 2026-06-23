@@ -1,0 +1,108 @@
+{
+  "id": "castel-dell-ovo",
+  "name": "Castel dell'Ovo",
+  "local_name": "Castel dell'Ovo",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 78,
+  "annual_visitors": 1000000,
+  "country": "italy",
+  "region": "Campania",
+  "nearest_city": "Naples",
+  "address": "Via Eldorado 3, 80132 Naples, Italy",
+  "lat": 40.829,
+  "lng": 14.2477,
+  "unesco": false,
+  "year_built": 1154,
+  "architectural_style": "Norman-Aragonese, Medieval fortress",
+  "opening_hours": {
+    "monday": "09:00-19:30",
+    "tuesday": "09:00-19:30",
+    "wednesday": "09:00-19:30",
+    "thursday": "09:00-19:30",
+    "friday": "09:00-19:30",
+    "saturday": "09:00-19:30",
+    "sunday": "09:00-14:00",
+    "seasonal_note": "Open Monday to Saturday 9:00–19:30, Sunday 9:00–14:00. Entry is free. Hours may vary on public holidays — check the Comune di Napoli website before visiting."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.comune.napoli.it/casteldelluovo",
+  "visit_duration": "1-1.5 hours",
+  "best_season": "Spring (April to June) — mild temperatures for the seafront walk and clear views across the bay; avoid the peak summer heat and crowds",
+  "accessibility": "Partially accessible — the courtyard and lower halls are reachable on flat ground; the upper terraces and towers involve steps and uneven stone surfaces.",
+  "booking_advance_days": 0,
+  "tagline": "Naples' oldest castle, rising from the sea on a volcanic island since ancient times",
+  "highlights": [
+    "Free entry to one of Naples' most iconic landmarks — a castle that has stood on this rocky islet since the age of ancient Rome",
+    "Climb to the upper terraces for sweeping views of the Bay of Naples, Vesuvius, and the city's celebrated waterfront",
+    "Explore the atmospheric Norman and Aragonese halls, chapels, and vaulted corridors carved into the living rock",
+    "Walk the Borgo Marinari — the fishing village that shelters beneath the castle walls, with its seafood restaurants and sailboat harbour",
+    "Discover the legendary egg hidden in the castle's foundations, whose fate, according to Neapolitan legend, is tied to the fate of the city itself"
+  ],
+  "description": "Jutting into the Bay of Naples on a small volcanic islet connected to the mainland by a narrow causeway, Castel dell'Ovo is the oldest standing fortress in Naples and one of the most recognizable silhouettes on Italy's most theatrical waterfront. Its name — the Castle of the Egg — derives from a medieval legend involving the Roman poet Virgil, who was believed in the Middle Ages to have been a powerful magician. According to the tale, Virgil hid a magic egg in the foundations of the castle, and as long as the egg remains unbroken, Naples will survive.\n\nThe site has been occupied since antiquity. In the first century BC, the Roman general Lucullus built a spectacular villa on the islet, transforming it into one of the most luxurious private residences in the ancient world. The villa eventually became imperial property and was used as a place of exile — Romulus Augustulus, the last emperor of the Western Roman Empire, was deposed and sent here in 476 AD, effectively ending a thousand years of Roman rule from this small rock in a Neapolitan bay.\n\nThe fortification visible today was built by the Norman king William I of Sicily in 1154, subsequently reinforced by the Hohenstaufen emperors and extensively modified by the Angevins and Aragonese during their successive domination of southern Italy. Charles I of Anjou moved the royal treasury here in the 13th century, and for decades Castel dell'Ovo was the most heavily guarded site in the kingdom. The castle passed through Spanish, French, and Bourbon hands before becoming a military installation in the unified Italian state, a function it retained until 1976 when it was opened to the public.\n\nToday admission is free, making it one of Naples' most accessible landmarks. The interior offers a sequence of atmospheric halls, chapels, and terrace walks through Norman and Aragonese stonework, with views at every turn of the Bay of Naples framed in ancient archways. The upper terraces provide arguably the finest panorama of the bay available from sea level — Vesuvius rising behind the city, the islands of Capri, Ischia, and Procida visible on clear days, and the Neapolitan waterfront stretching north toward Pozzuoli in one sweeping arc.",
+  "history": "The history of Castel dell'Ovo begins not in the medieval period but in antiquity. The rocky islet of Megaride was chosen by the Roman nobleman Lucullus in the 1st century BC as the site of an extraordinary villa, featuring fishponds carved into the volcanic rock and gardens planted with exotic plants from across the Mediterranean world. After Lucullus's death, the property passed through various hands until it became part of the imperial estates.\n\nThe island entered its most historically significant moment in 476 AD, when the Germanic chieftain Odoacer deposed the teenage emperor Romulus Augustulus and sent him into comfortable exile in Lucullus's former villa. This moment is conventionally taken as the fall of the Western Roman Empire — one of the most consequential events in world history — unfolding on this quiet rock in Naples Bay.\n\nThe Norman king William I of Sicily built the first proper fortification on the site in 1154, establishing the castle as a stronghold of the new Norman Kingdom of Sicily. Subsequent rulers — the Hohenstaufen, the Angevins, the Aragonese, and the Spanish viceroys — each added to and modified the structure, creating the layered medieval fortress visible today. Charles I of Anjou used it as a royal treasury, and the Aragonese king Alfonso V sheltered here during his conquest of Naples in 1442. The castle declined in strategic importance after the construction of Castel Nuovo on the mainland, becoming primarily a prison and military depot before its current use as a cultural and exhibition space.",
+  "how_to_visit": "Castel dell'Ovo is located on the Borgo Marinari waterfront in the Chiaia district of Naples, about 2km west of the historic centre. From Naples Centrale station, take the metro (Line 1) to Municipio or Piazza Amedeo, or buses R3/140 to Via Caracciolo. The walk along the seafront promenade from Piazza del Plebiscito takes about 20 minutes and is one of the great urban walks in Italy.\n\nEntry is free and no booking is required. The castle is best visited in the morning before the midday heat in summer. Allow 1 to 1.5 hours for the interior and terraces. After your visit, the Borgo Marinari below the castle walls is an ideal spot for lunch — its seafood restaurants serve directly over the water and are among the most atmospheric in Naples.",
+  "faqs": [
+    {
+      "question": "Is entry to Castel dell'Ovo really free?",
+      "answer": "Yes — admission to Castel dell'Ovo is completely free of charge. No booking is required. You simply walk across the causeway and enter through the main gate during opening hours."
+    },
+    {
+      "question": "What is the legend of the egg?",
+      "answer": "Medieval Neapolitans believed the Roman poet Virgil — regarded as a magician in the Middle Ages — had hidden a magic egg in the castle's foundations. If the egg were to break, the castle would crumble, and Naples would fall with it. The legend gave the castle its name and persists in Neapolitan folklore to this day."
+    },
+    {
+      "question": "How does Castel dell'Ovo compare to Castel Nuovo?",
+      "answer": "Castel dell'Ovo is older and more atmospheric, built on a rock in the sea with dramatic bay views. Castel Nuovo (also called Maschio Angioino) is a later, larger Angevin fortress on the mainland near the port. Castel dell'Ovo has free entry; Castel Nuovo charges admission. Both are worth visiting on a Naples trip."
+    },
+    {
+      "question": "What is the Borgo Marinari?",
+      "answer": "The Borgo Marinari is the small fishing village that developed at the base of the castle causeway. Today it is a neighbourhood of seafood restaurants and a small yacht harbour, making it an ideal spot for lunch or an aperitivo after visiting the castle."
+    }
+  ],
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Castel_dell%27Ovo_2019.jpg/1280px-Castel_dell%27Ovo_2019.jpg",
+    "alt": "Castel dell'Ovo rising from the Bay of Naples with Vesuvius in the background",
+    "credit": "Wikimedia Commons",
+    "width": 1280,
+    "height": 853
+  },
+  "gallery": [],
+  "og_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Castel_dell%27Ovo_2019.jpg/1280px-Castel_dell%27Ovo_2019.jpg",
+  "instagram_tag": "casteldellovo",
+  "meta_title": "Castel dell'Ovo, Naples: Free Entry, Hours & Visitor Guide (2026)",
+  "meta_description": "Visit Castel dell'Ovo in Naples — the city's oldest castle, free to enter, with spectacular views of the Bay of Naples and Vesuvius. Opening hours and tips.",
+  "tags": ["italy", "naples", "campania", "norman", "free-entry", "sea-castle", "bay-of-naples", "vesuvius", "family-friendly"],
+  "last_updated": "2026-06-23",
+  "routes": [],
+  "nearby_castles": ["castel-santangelo", "aragonese-castle-ischia"],
+  "gyg_location_id": "140221",
+  "gyg_search_query": "Castel dell'Ovo Naples tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1107197",
+      "title": "Naples: Refined Chiaia District Walking Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 149,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["castel-dell-ovo"]
+    },
+    {
+      "tour_id": "37170",
+      "title": "Naples: Guided Walking Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 103,
+      "rating": 4.8,
+      "reviews": 65,
+      "covers_castles": ["castel-dell-ovo"]
+    }
+  ]
+}

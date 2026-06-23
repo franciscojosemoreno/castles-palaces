@@ -1,0 +1,108 @@
+{
+  "id": "castello-estense",
+  "name": "Castello Estense",
+  "local_name": "Castello Estense di Ferrara",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 77,
+  "annual_visitors": 130000,
+  "country": "italy",
+  "region": "Emilia-Romagna",
+  "nearest_city": "Ferrara",
+  "address": "Piazza della Repubblica 1, 44121 Ferrara, Italy",
+  "lat": 44.838,
+  "lng": 11.6196,
+  "unesco": true,
+  "year_built": 1385,
+  "architectural_style": "Medieval moated castle, Este dynasty",
+  "opening_hours": {
+    "monday": "09:30-17:30",
+    "tuesday": "09:30-17:30",
+    "wednesday": "09:30-17:30",
+    "thursday": "09:30-17:30",
+    "friday": "09:30-17:30",
+    "saturday": "09:30-17:30",
+    "sunday": "09:30-17:30",
+    "seasonal_note": "Open daily 9:30–17:30 (last entry 17:00). Extended hours possible in peak summer. Closed on some public holidays including January 1 and December 25. The moat and exterior are accessible at all times."
+  },
+  "price_adult": 12,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.castelloestense.it/en/visit/",
+  "visit_duration": "1.5-2 hours",
+  "best_season": "Spring (April to June) — comfortable temperatures for exploring central Ferrara and cycling the city's flat streets",
+  "accessibility": "Partially accessible — the courtyard and ground-floor rooms are reachable on level ground; the dungeons and upper towers involve stairs.",
+  "booking_advance_days": 0,
+  "tagline": "A Renaissance power centre rising from its moat in the heart of a UNESCO World Heritage city",
+  "highlights": [
+    "One of Italy's most complete moated medieval castles, rising four-towered from a water-filled moat in the living centre of Ferrara",
+    "A UNESCO World Heritage Site as part of the historic city of Ferrara — the Este dynasty's court was among the most cultured in Renaissance Italy",
+    "Explore the dungeons where Parisina Malatesta and Ugo d'Este were imprisoned and executed in 1425, one of the Renaissance's most famous tragedies",
+    "Admire the frescoed Sala dei Giochi and the reconstructed Este apartments, offering a vivid picture of Renaissance courtly life",
+    "Walk the hanging gardens on the castle's upper terraces, with views across Ferrara's distinctive Renaissance urban grid"
+  ],
+  "description": "Rising from a water-filled moat in the precise centre of Ferrara, the Castello Estense is one of the most perfectly preserved medieval moated castles in Italy and the most dramatic monument of a city that was among the most brilliant courts of the Italian Renaissance. Built in 1385 by Niccolò II d'Este as a fortress-residence for the Este dynasty — the ruling family of Ferrara for three centuries — the castle combines the functional logic of a military stronghold with the aesthetic ambitions of a family that counted Ariosto, Tasso, and Titian among its cultural clients.\n\nThe castle's exterior is immediately impressive: four massive towers connected by crenellated curtain walls, the whole reflected in the moat below, the ensemble rising from the busy commercial streets of central Ferrara with a drama that has not diminished in six centuries. The drawbridge and portcullis are original, and crossing them — as Ferrara's citizens still do daily, since the castle also houses regional government offices — is a physical encounter with the Renaissance that few Italian monuments can match.\n\nThe interior reveals layers of Este patronage. The frescoed rooms commissioned by the Este dukes include the celebrated Sala dei Giochi, decorated with scenes of courtly games and pastimes, and the Camera della Duchessa, where the ceiling paintings survive in remarkable condition. The dungeons below hold darker stories: the medieval prison cells where Parisina Malatesta and her stepson Ugo d'Este were held and executed by Niccolò III in 1425 after being discovered in an affair — a scandal that inspired Byron's poem Parisina and resonates through the castle's stones.\n\nFerrara itself is one of Italy's most underrated cities, its Renaissance street plan intact and its historic centre nearly free of modern intrusions. The castle anchors the city's central Piazza della Repubblica and is within walking distance of the Cathedral, the Palazzo dei Diamanti, and the Jewish Ghetto. Combined with Ferrara's exceptional cycle paths — the city is known as Italy's most bicycle-friendly — the castle makes a deeply satisfying day trip from Bologna (30 minutes by train) or Venice (90 minutes).",
+  "history": "Ferrara's Este dynasty rose to prominence in the 13th century, establishing a signoria — a form of personal lordship — over the city that would last until 1598. By the 14th century, the Este were among the most powerful lords in northern Italy, and Niccolò II commissioned the Castello Estense in 1385 following a popular uprising that nearly destroyed the dynasty. The castle was simultaneously a refuge from the city's population and a symbol of Este power over it — a tension that defines the building's character.\n\nUnder successive Este lords — Leonello, Borso, Ercole I, Alfonso I, and Alfonso II — the castle was transformed from a military fortress into one of the most culturally sophisticated court residences in Europe. Ludovico Ariosto, author of the Orlando Furioso, served at the Este court and is commemorated throughout the city. Titian painted Alfonso I d'Este and his wife Lucrezia Borgia (whose marriage to Alfonso brought the notorious Borgia family into the Este orbit). The court attracted musicians, poets, architects, and artists from across Italy.\n\nThe Este dynasty ended in 1597 when Duke Alfonso II died without a legitimate heir, and Pope Clement VIII claimed the city for the Papal States. The Este were expelled, taking their art collection to Modena, and Ferrara entered a long period of papal administration and gradual decline. The castle passed to the papacy and eventually to the Italian state. Since 1999, the city of Ferrara — including the castle — has been listed as a UNESCO World Heritage Site, recognised for its extraordinary Renaissance urban planning and architecture.",
+  "how_to_visit": "The Castello Estense is located in the absolute centre of Ferrara, steps from the Cathedral and the main shopping streets. Ferrara is easily reached by train from Bologna (30 minutes) or Padua (60 minutes). The station is about 15 minutes on foot from the castle, or a short bus ride.\n\nAllow 1.5 to 2 hours for the interior. Guided tours in Italian depart regularly and are available in English by prior arrangement. The castle is best combined with a visit to Ferrara's other major monuments — the Cathedral, the Palazzo dei Diamanti with its diamond-faceted exterior, and the remarkable Palazzo Schifanoia with its extraordinary cycle of Ferrarese Renaissance frescoes. Ferrara is also famous for its cycling culture — bikes are widely available for rent near the station.",
+  "faqs": [
+    {
+      "question": "Is the Castello Estense a UNESCO site?",
+      "answer": "Yes — Ferrara's historic centre, including the Castello Estense, was inscribed as a UNESCO World Heritage Site in 1995 (extended 1999) under the title 'Ferrara, City of the Renaissance, and its Po Delta.' The UNESCO inscription covers the remarkable integrity of Ferrara's Renaissance urban plan."
+    },
+    {
+      "question": "What are the dungeons like?",
+      "answer": "The dungeons are among the most evocative parts of the visit. The actual prison cells where Parisina Malatesta and Ugo d'Este were held in 1425 are preserved, along with interpretive material about the scandal that inspired Byron's poem. The atmosphere is genuinely medieval and quite different from the frescoed apartments above."
+    },
+    {
+      "question": "How far is Ferrara from Bologna?",
+      "answer": "Ferrara is approximately 50km north of Bologna and is reached by direct train in about 30 minutes. It makes an excellent day trip from Bologna. From Venice, the train takes approximately 90 minutes via Padua."
+    },
+    {
+      "question": "Are guided tours available in English?",
+      "answer": "Scheduled guided tours of the castle interior operate primarily in Italian. English-language guided tours are available through licensed local guide services and can be arranged through the castle's official booking page or local tour operators in Ferrara."
+    }
+  ],
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Castello_Estense_Ferrara.jpg/1280px-Castello_Estense_Ferrara.jpg",
+    "alt": "Castello Estense rising from its moat in the centre of Ferrara, Italy",
+    "credit": "Wikimedia Commons",
+    "width": 1280,
+    "height": 853
+  },
+  "gallery": [],
+  "og_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Castello_Estense_Ferrara.jpg/1280px-Castello_Estense_Ferrara.jpg",
+  "instagram_tag": "castelloestense",
+  "meta_title": "Castello Estense, Ferrara: Tickets, Hours & Visitor Guide (2026)",
+  "meta_description": "Visit the Castello Estense in Ferrara — a perfectly preserved Renaissance moated castle and UNESCO World Heritage Site in the heart of Emilia-Romagna.",
+  "tags": ["italy", "ferrara", "emilia-romagna", "renaissance", "este-dynasty", "moated-castle", "unesco", "medieval", "museum"],
+  "last_updated": "2026-06-23",
+  "routes": [],
+  "nearby_castles": ["castel-santangelo", "palazzo-dei-normanni"],
+  "gyg_location_id": "173357",
+  "gyg_search_query": "Castello Estense Ferrara tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "566379",
+      "title": "Ferrara: Estense Castle Guided Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 15,
+      "rating": 4.4,
+      "reviews": 119,
+      "covers_castles": ["castello-estense"]
+    },
+    {
+      "tour_id": "441693",
+      "title": "Ferrara: City Highlights Walking Tour with Local Guide",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 17,
+      "rating": 4.6,
+      "reviews": 257,
+      "covers_castles": ["castello-estense"]
+    }
+  ]
+}
