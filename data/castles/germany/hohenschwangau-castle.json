@@ -1,0 +1,121 @@
+{
+  "id": "hohenschwangau-castle",
+  "name": "Hohenschwangau Castle",
+  "local_name": "Schloss Hohenschwangau",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 78,
+  "annual_visitors": 300000,
+  "country": "germany",
+  "region": "Bavaria",
+  "nearest_city": "Füssen",
+  "address": "Alpseestraße 12, 87645 Schwangau, Germany",
+  "lat": 47.558,
+  "lng": 10.7453,
+  "unesco": false,
+  "year_built": 1832,
+  "architectural_style": "Gothic Revival",
+  "opening_hours": {
+    "monday": "09:00–17:00",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Apr–Oct: 09:00–18:00; Nov–Mar: 10:00–16:00. Last guided tour 30 minutes before closing. Guided tours only — admission without a tour guide is not permitted."
+  },
+  "price_adult": 15,
+  "price_child": 0,
+  "booking_required": true,
+  "official_tickets_url": "https://www.hohenschwangau.de/",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "May–October for Alpine scenery; December for a fairy-tale atmosphere with snow and proximity to the Christmas market at Schwangau",
+  "accessibility": "The castle is not wheelchair accessible. The site involves steep stairs and uneven terrain throughout. No lifts are available.",
+  "booking_advance_days": 7,
+  "tagline": "The childhood castle of King Ludwig II — the Gothic Revival palace where the fairy-tale obsession began",
+  "highlights": [
+    "The Swan Knight Hall — murals depicting the legend of Lohengrin that inspired Wagner's opera and shaped Ludwig II's lifelong mythology",
+    "Royal bedchamber of Ludwig II with a ceiling lit by indirect light to simulate a starry night",
+    "The room where King Maximilian II received the young Richard Wagner, setting the course for Wagnerian opera",
+    "Direct view of Neuschwanstein Castle being constructed on the opposite hill, visible from the upper terraces",
+    "The Hohenschwangau swan motif — Ludwig II's obsession with swans began here, reflected in every detail of the interior"
+  ],
+  "description": "Hohenschwangau Castle stands on a forested hill above the village of Schwangau, directly across a valley from Neuschwanstein — the fairy-tale castle that overshadows it in fame but would never have existed without it. Hohenschwangau was the childhood home of King Ludwig II of Bavaria, and it was here, surrounded by murals depicting medieval legends and the Swan Knight myth of Lohengrin, that Ludwig developed the romantic obsessions that would shape his life and ultimately drive him to build Neuschwanstein on the opposite hill.\n\nThe castle was commissioned by Crown Prince Maximilian (later Maximilian II of Bavaria) in 1832 on the ruins of a medieval fortress, and completed in 1837. The Gothic Revival architecture was designed by the stage designer Dominic Quaglio — a choice that already hints at the theatrical sensibility that would define the Wittelsbach monarchs. Every room tells a story from medieval legend: the Swan Knight Hall with its Lohengrin murals, the Hall of Heroes with scenes from Carolingian epic, the Queen's bedchamber with Tasso's Jerusalem Delivered.\n\nLudwig II grew up here with these images surrounding him. He first met Richard Wagner at Hohenschwangau in 1861, a meeting that would define both men's lives. When he became king in 1864 at the age of 18, he continued visiting Hohenschwangau, watching from its windows as the foundations of Neuschwanstein rose on the hill opposite — a castle he designed to be everything Hohenschwangau was not: not a real residence but a pure statement of architectural fantasy.\n\nToday Hohenschwangau is visited by around 300,000 people a year — roughly a third of Neuschwanstein's numbers — but it arguably offers the richer human story: this is where the king actually lived, slept, and conceived his impossible dreams.",
+  "history": "The site had been fortified since the 12th century, when the Knights of Schwangau built the original Schwanstein Castle. The fortress passed through several hands and fell into ruin by the early 19th century, when Crown Prince Maximilian of Bavaria acquired the ruins in 1829 and commissioned the architect Dominic Quaglio to rebuild it in the Gothic Revival style then fashionable across Europe. Construction began in 1833 and was largely complete by 1837.\n\nMaximilian II used Hohenschwangau as a summer residence, and it was here that his son Ludwig II spent much of his youth. The murals covering the walls were painted to Maximilian's programme: medieval legends, the Nibelung cycle, the legend of Lohengrin and the Swan Knight. These images became the formative imaginative landscape of Ludwig's mind.\n\nWhen Ludwig became king in 1864, he continued to use Hohenschwangau as a base. He first received Richard Wagner here, famously embracing him on the steps and declaring: 'I have waited so long for you.' Their partnership — Ludwig's patronage funding Wagner's Ring Cycle and the Bayreuth Festspielhaus — would transform European music. After his mother Queen Marie moved back to Hohenschwangau, Ludwig increasingly retreated to Neuschwanstein on the opposite hill, which he had begun building in 1869.\n\nLudwig was declared insane and deposed in June 1886. He died at Lake Starnberg three days later under unexplained circumstances. Hohenschwangau remained in the possession of the House of Wittelsbach and was opened to the public in 1887, shortly after Ludwig's death. It remains one of the best-preserved 19th-century royal interiors in Germany.",
+  "how_to_visit": "**Getting there:** Hohenschwangau is in the village of Schwangau near Füssen. By train, take the regional service from Munich to Füssen (about 2 hours), then bus 73 or 78 to the Hohenschwangau ticket centre (10 minutes). By car, take the A7 motorway to the Füssen exit; paid parking is available in the P1–P5 lots near the ticket centre.\n\n**Tickets:** All visits are on a timed guided tour. Book online well in advance — tickets sell out weeks ahead in summer. The ticket centre at the base of both castles sells on-the-day tickets, but availability is very limited from late spring through September. Adults €15, children under 18 free.\n\n**Combining with Neuschwanstein:** The two castles are a 15-minute walk apart along a forest path, or accessible by horse-drawn carriage from the bottom. Most visitors book tickets to both on the same day, scheduling Hohenschwangau in the morning and Neuschwanstein in the afternoon. Allow a full day. The view of Neuschwanstein from Hohenschwangau's terrace is exceptional.\n\n**Mary's Bridge (Marienbrücke):** A 30-minute walk above Neuschwanstein leads to the narrow bridge over a gorge that gives the classic Neuschwanstein photograph. This is a separate short hike and may be closed in winter due to ice.",
+  "faqs": [
+    {
+      "question": "What is the difference between Hohenschwangau and Neuschwanstein?",
+      "answer": "Hohenschwangau (1832–1837) was the childhood home of King Ludwig II and his actual residence — a functioning royal palace with furnished apartments, where the king lived and slept. Neuschwanstein (1869–1886) was Ludwig's personal architectural fantasy, designed as a theatrical stage set inspired by Wagnerian opera and medieval legend. Ludwig spent very little time at Neuschwanstein before his death in 1886. Hohenschwangau has more personal historical significance; Neuschwanstein has greater visual spectacle."
+    },
+    {
+      "question": "Do I need to book Hohenschwangau tickets in advance?",
+      "answer": "Yes — strongly recommended, especially from April to October. The castle operates on timed guided tours only, and tickets sell out weeks ahead in peak season. Book at hohenschwangau.de. On-the-day tickets are available at the ticket centre in Schwangau but cannot be guaranteed. Same-day tickets for both Hohenschwangau and Neuschwanstein together are rarely available in summer without early booking."
+    },
+    {
+      "question": "Is Hohenschwangau accessible for wheelchair users?",
+      "answer": "No. The castle involves significant steep staircases and uneven historic flooring throughout. The approach from the car park also involves an uphill climb. There are no lifts. Visitors with mobility impairments are advised to check with the castle administration in advance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hohenschwangau-castle.webp",
+    "alt": "Hohenschwangau Castle rising above the forest with Alpsee lake below and the Bavarian Alps behind",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hohenschwangau-castle.webp",
+  "instagram_tag": "#hohenschwangau",
+  "meta_title": "Hohenschwangau Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Hohenschwangau Castle in Bavaria — the childhood home of King Ludwig II and the inspiration for Neuschwanstein. Book guided tours and plan your visit.",
+  "tags": [
+    "gothic-revival",
+    "19th-century",
+    "royal-residence",
+    "ludwig-ii",
+    "bavaria",
+    "family-friendly"
+  ],
+  "last_updated": "2026-06-24",
+  "routes": [],
+  "nearby_castles": ["neuschwanstein-castle", "burghausen-castle", "hohenzollern-castle"],
+  "gyg_location_id": "35349",
+  "gyg_search_query": "Hohenschwangau Castle Bavaria tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "188619",
+      "title": "Neuschwanstein Castle: Guided Tour with Tickets & Carriage",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 69,
+      "rating": 4.8,
+      "reviews": 784,
+      "covers_castles": ["hohenschwangau-castle", "neuschwanstein-castle"]
+    },
+    {
+      "tour_id": "795986",
+      "title": "Kombi Ticket Neuschwanstein and Hohenschwangau Castle",
+      "type": "skip_the_line",
+      "duration": "4 hours",
+      "price_from": 89,
+      "rating": 4.4,
+      "reviews": 44,
+      "covers_castles": ["hohenschwangau-castle", "neuschwanstein-castle"]
+    },
+    {
+      "tour_id": "1017191",
+      "title": "Neuschwanstein & Hohenschwangau Castle Ticket & Audio Guide",
+      "type": "skip_the_line",
+      "duration": "4 hours",
+      "price_from": 91,
+      "rating": 4.6,
+      "reviews": 233,
+      "covers_castles": ["hohenschwangau-castle", "neuschwanstein-castle"]
+    }
+  ]
+}
