@@ -1,0 +1,98 @@
+{
+  "id": "culzean-castle",
+  "name": "Culzean Castle",
+  "local_name": "Culzean Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 300000,
+  "country": "scotland",
+  "region": "South Ayrshire",
+  "nearest_city": "Ayr",
+  "address": "Maybole, South Ayrshire, KA19 8LE, Scotland",
+  "lat": 55.3508,
+  "lng": -4.7950,
+  "unesco": false,
+  "year_built": 1777,
+  "architectural_style": "Neoclassical and Gothic Revival by Robert Adam — round towers, dramatic cliff-top profile, and refined Georgian interiors",
+  "opening_hours": {
+    "monday": "10:00-17:00",
+    "tuesday": "10:00-17:00",
+    "wednesday": "10:00-17:00",
+    "thursday": "10:00-17:00",
+    "friday": "10:00-17:00",
+    "saturday": "10:00-17:00",
+    "sunday": "10:00-17:00",
+    "seasonal_note": "Castle open April to October, 10:00–17:00 daily. Country Park grounds open year-round from 09:00. Last entry to castle 45 minutes before closing."
+  },
+  "price_adult": 13,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.nts.org.uk/visit/places/culzean-castle-and-country-park",
+  "visit_duration": "2-4 hours",
+  "best_season": "Late spring to early autumn (May to September) — castle fully open, coastal gardens in full bloom, and dramatic sunsets over Ailsa Craig and the Isle of Arran",
+  "accessibility": "Partially accessible — the ground-floor rooms, country park, and gardens are wheelchair-friendly; upper floors require stairs.",
+  "booking_advance_days": 0,
+  "tagline": "Robert Adam's clifftop masterpiece above the Firth of Clyde — Scotland's most dramatic coastal castle",
+  "highlights": [
+    "Perched on a clifftop above the Firth of Clyde with sweeping views of Ailsa Craig, the Isle of Arran, and on clear days the coast of Northern Ireland",
+    "Designed by Robert Adam between 1777 and 1792 — his masterwork in Scotland, fusing Gothic towers with neoclassical interiors of extraordinary elegance",
+    "The Oval Staircase, widely considered one of Adam's finest spatial achievements, rising in two tiers within a circular drum tower above the Firth",
+    "Home Farm visitor centre, Swan Pond, deer park, woodland walks, and 560 acres of country park — Scotland's first designated country park",
+    "The Eisenhower Apartment on the top floor was gifted to General Dwight D. Eisenhower in 1945 in gratitude for his wartime command — now available to rent"
+  ],
+  "description": "Dramatically sited on a basalt outcrop above the Firth of Clyde in South Ayrshire, Culzean Castle is the work of Robert Adam and one of the finest examples of neoclassical architecture in Scotland. The castle was built between 1777 and 1792 for David Kennedy, 10th Earl of Cassillis, transforming a medieval tower house into a palatial seaside residence of remarkable refinement. With its round towers, battlemented roofline, and position above a sheer cliff face, Culzean achieves something rare in British architecture: a building that is simultaneously romantic and rigorously designed.\n\nThe interiors are among Adam's greatest achievements. The Oval Staircase — a double helix rising within a circular drum tower cantilevered over the cliff edge — is among the most inventive spatial experiences in any Scottish house. The Round Drawing Room on the upper floor, curved to follow the tower's circumference and fitted with semicircular window recesses overlooking the Firth, is an object lesson in Adam's ability to reconcile function with formal drama. The state rooms throughout display the full vocabulary of Adam's mature style: plasterwork ceilings of delicate arabesques, semicircular niches, and colour schemes of soft green, cream, and terracotta.\n\nBeyond the castle, the 560-acre country park was established as Scotland's first designated country park in 1969. It encompasses Swan Pond, a walled garden, deer park, woodland walks, and an accessible cliff-top path with continuous views south toward Ailsa Craig and the Arran peaks. The estate is managed by the National Trust for Scotland.\n\nA final distinction: the top-floor apartment was gifted by the people of Scotland to General Dwight D. Eisenhower in 1945 as a lifetime tenancy in recognition of his wartime leadership. Eisenhower used it four times, and the rooms remain furnished as they were during his visits.",
+  "history": "The Kennedy clan held this coastal promontory from the 15th century, building a tower house on the site that remained the family seat through the upheavals of Reformation and civil war. The transformation from medieval tower to Adam masterpiece was the work of David Kennedy, 10th Earl of Cassillis, who commissioned Robert Adam in 1777. Adam worked on the project continuously until his death in 1792, producing a sequence of additions and alterations that gradually encased the old tower within the new building.\n\nThe castle passed to the Marquess of Ailsa in the 19th century, who added a third storey to the drum tower and made further alterations in the Victorian period. The National Trust for Scotland acquired Culzean in 1945, the same year that the Eisenhower apartment was established as a gesture of international goodwill at the close of the Second World War. The country park was formally designated in 1969 — Scotland's first — bringing a framework of public access to the wider estate that continues today.",
+  "how_to_visit": "Culzean Castle is located near Maybole in South Ayrshire, approximately 20km south of Ayr and 80km southwest of Glasgow. By car, take the A77 south from Ayr toward Girvan, turning off at the B7023 for Culzean. From Glasgow, the drive takes about 1 hour 15 minutes.\n\nBy public transport, take a train from Glasgow Central to Maybole (55 minutes), then a taxi (approx. 8km). There is no direct bus service to the castle gates. Day tours from Glasgow are the most practical public-transport option, typically running April through September.\n\nGive yourself at least 2–3 hours for the castle interior and country park. The cliff path is open year-round even when the castle is closed. NTS members enter free.",
+  "faqs": [
+    {
+      "question": "Can I rent the Eisenhower Apartment at Culzean?",
+      "answer": "Yes — the top-floor Eisenhower Apartment is available to rent through the National Trust for Scotland. It sleeps up to 12 guests across six bedrooms, with a private drawing room and dining room retaining the period furniture and memorabilia from Eisenhower's visits. Bookings fill quickly, especially for summer weekends."
+    },
+    {
+      "question": "Is the country park open when the castle is closed?",
+      "answer": "Yes — the 560-acre country park is open year-round from 09:00, including the cliff path, deer park, Swan Pond, and walled garden. Castle access requires a separate ticket and is only available April to October."
+    },
+    {
+      "question": "How far is Culzean Castle from Glasgow?",
+      "answer": "Culzean Castle is approximately 80km (50 miles) southwest of Glasgow, about a 1-hour-15-minute drive on the A77. Day tours from Glasgow run regularly through the summer season, often combined with Ayr and the Robert Burns birthplace at Alloway."
+    },
+    {
+      "question": "What can I see from the castle grounds?",
+      "answer": "On clear days the views from the cliff path and castle windows extend across the Firth of Clyde to Ailsa Craig (the volcanic plug nicknamed Paddy's Milestone), the peaks of Arran, and on very clear days the coast of Northern Ireland approximately 60km to the southwest."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/culzean-castle.webp",
+    "alt": "Culzean Castle perched on clifftop above the Firth of Clyde, South Ayrshire, Scotland",
+    "credit": "Unsplash",
+    "width": 1280,
+    "height": 853
+  },
+  "gallery": [],
+  "og_image": "/images/castles/culzean-castle.webp",
+  "instagram_tag": "culzeancastle",
+  "meta_title": "Culzean Castle: Tickets, Tours & Visitor Guide (2026)",
+  "meta_description": "Visit Culzean Castle in South Ayrshire — Robert Adam's clifftop masterpiece with sweeping Firth of Clyde views, elegant interiors, and 560 acres of country park.",
+  "tags": ["scotland", "ayrshire", "robert-adam", "neoclassical", "coastal", "nts", "country-park", "eisenhower"],
+  "last_updated": "2026-06-23",
+  "routes": [],
+  "nearby_castles": ["inveraray-castle", "stirling-castle", "doune-castle"],
+  "gyg_location_id": "91609",
+  "gyg_search_query": "Culzean Castle tour Ayrshire Scotland",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "12623",
+      "title": "Glasgow: Culzean Castle, Robert Burns Country & the Ayrshire Coast",
+      "type": "day_trip",
+      "duration": "1 day",
+      "price_from": 126,
+      "rating": 4.7,
+      "reviews": 72,
+      "covers_castles": ["culzean-castle"]
+    }
+  ]
+}

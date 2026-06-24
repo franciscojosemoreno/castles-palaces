@@ -1,0 +1,118 @@
+{
+  "id": "balmoral-castle",
+  "name": "Balmoral Castle",
+  "local_name": "Balmoral Castle",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 9,
+  "annual_visitors": 90000,
+  "country": "scotland",
+  "region": "Aberdeenshire, Royal Deeside",
+  "nearest_city": "Aberdeen",
+  "address": "Balmoral Estate, Ballater, AB35 5TB, Scotland",
+  "lat": 57.0355,
+  "lng": -3.2244,
+  "unesco": false,
+  "year_built": 1856,
+  "architectural_style": "Scottish Baronial — conical granite towers, bartizans, and crow-step gables designed by William Smith under Prince Albert's personal direction",
+  "opening_hours": {
+    "monday": "10:00-17:00",
+    "tuesday": "10:00-17:00",
+    "wednesday": "10:00-17:00",
+    "thursday": "10:00-17:00",
+    "friday": "10:00-17:00",
+    "saturday": "10:00-17:00",
+    "sunday": "10:00-17:00",
+    "seasonal_note": "Open to visitors April to late July only (typically closes 9 August when the Royal Family arrives for their annual summer stay). Last entry 16:00. Closed August to March."
+  },
+  "price_adult": 19,
+  "price_child": 10,
+  "booking_required": false,
+  "official_tickets_url": "https://www.balmoralcastle.com/visit",
+  "visit_duration": "2-3 hours",
+  "best_season": "Late April to July — the estate is open to visitors and the Cairngorm hills are at their most colourful with heather blooming from June",
+  "accessibility": "Partially accessible — the Ballroom exhibition and formal gardens are wheelchair-accessible; the castle interior involves stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The Royal Family's Scottish retreat since Queen Victoria fell in love with the Highlands in 1848",
+  "highlights": [
+    "The private Highland estate of the British Royal Family since 1852, when Queen Victoria and Prince Albert purchased it — still the summer residence of the Sovereign today",
+    "Designed by Prince Albert himself in collaboration with Aberdeen architect William Smith, built in local Aberdeenshire granite in the Scottish Baronial style between 1853 and 1856",
+    "The Ballroom — the only room in the castle open to the public — houses a rotating exhibition of paintings, silver, and royal memorabilia not otherwise on public display",
+    "Set within 20,000 acres of Cairngorm moorland along the River Dee, with access to formal gardens, carriage rides, and estate land walks",
+    "The surrounding Royal Deeside landscape immortalised by Queen Victoria in her journals — heather moorland, Scots pine forest, and mountain views that define the Scottish Romantic ideal"
+  ],
+  "description": "Balmoral Castle is the private Scottish estate of the British Royal Family and one of the most evocative royal residences in Europe. Situated on the River Dee in Aberdeenshire within the Cairngorms National Park, the estate encompasses 20,000 acres of Highland moorland, ancient Caledonian woodland, and heather-covered hills that have drawn British monarchs since Queen Victoria first visited in 1848 and declared it 'my dearest Albert's own creation'.\n\nThe current castle was built between 1853 and 1856, replacing an earlier house on the estate that had proved too small for the expanding royal household. Prince Albert directed the design in close collaboration with Aberdeen architect William Smith, producing a building in the Scottish Baronial style — granite-built, with conical corner towers, bartizans, crow-step gables, and a 30-metre clock tower that anchors the composition. The building material, Invergelder granite from the estate itself, gives the castle its characteristic pale grey shimmer.\n\nThe castle is open to visitors from April to late July each year, when the Royal Family is not in residence. Access is limited to the Ballroom — the largest room in the castle, which houses changing exhibitions of royal paintings, silver, and memorabilia — and to the formal gardens, kitchen garden, and estate grounds. Carriage rides through the estate are available in season.\n\nThe wider Royal Deeside landscape — the valley of the River Dee from Aboyne to Braemar — retains much of the character that captivated Victoria and Albert: small granite towns, Scots pine forests, heather moorland, and the high Cairngorm peaks rising above the valley. The village of Braemar, 12km west, hosts the Royal Highland Gathering each September, one of Scotland's most famous Highland Games events and traditionally attended by the Sovereign.",
+  "history": "The history of Balmoral as a royal residence begins with Queen Victoria's first visit to Scotland in 1842 and her subsequent discovery of the original Balmoral House in 1848. Victoria was so enchanted by the Deeside landscape — comparing it favourably to the Thuringian hills of Prince Albert's homeland — that the couple purchased the estate in 1852. Prince Albert immediately began planning a new, larger castle, working closely with local architect William Smith to produce the Scottish Baronial building completed in 1856, three years before Albert's premature death.\n\nThe estate has remained in royal hands ever since. Victoria made it her most private retreat, spending increasingly long periods there after Albert's death, and writing her celebrated Highlands journals that romanticised the Scottish landscape for a Victorian readership. Each succeeding monarch has maintained the tradition of the summer Balmoral visit, which typically runs from August through October.\n\nThe estate was expanded significantly in the Victorian period and now encompasses four farms, grouse moors, deer forest, and river beats on the Dee. It operates as a working Highland estate year-round, with only the core castle and gardens accessible to the public during the spring opening season.",
+  "how_to_visit": "Balmoral Castle is located near Ballater in Royal Deeside, approximately 90km west of Aberdeen. By car, take the A93 west from Aberdeen through Banchory and Ballater — the drive takes about 1 hour 15 minutes. From Edinburgh, allow about 2 hours 30 minutes via the A90 and A93.\n\nBy public transport, take a train from Aberdeen to Ballater is no longer possible (the line closed in 1966), but Stagecoach operates bus services from Aberdeen to Ballater, from where a taxi covers the final 10km. The most practical public-transport option is a guided day tour from Aberdeen or Edinburgh, several of which include Balmoral as part of a Royal Deeside itinerary.\n\nNote that the castle is only open April to late July. It closes when the Royal Family arrives for their summer stay (typically 9 August). In late summer and autumn, nearby Braemar Castle (4km) remains open as an alternative.",
+  "faqs": [
+    {
+      "question": "When is Balmoral Castle open to visitors?",
+      "answer": "Balmoral Castle is open to visitors from April to late July only, typically closing around 9 August when the Royal Family arrives for their annual summer stay. The castle is closed from August through March. Check the official Balmoral Castle website for exact dates each year."
+    },
+    {
+      "question": "Can I see inside Balmoral Castle?",
+      "answer": "Visitors can access the Ballroom — the only interior room open to the public — which houses exhibitions of royal paintings, silver, and memorabilia. The formal gardens, kitchen garden, carriage rides, and estate land are also accessible. The main royal apartments are not open to the public at any time."
+    },
+    {
+      "question": "How far is Balmoral from Aberdeen?",
+      "answer": "Balmoral Castle is approximately 90km west of Aberdeen, about 1 hour 15 minutes by car on the A93. Guided day tours from Aberdeen typically visit Balmoral together with other Royal Deeside highlights including Crathie Kirk, the River Dee, and often Dunnottar Castle near Stonehaven."
+    },
+    {
+      "question": "Is Balmoral Castle part of the Cairngorms National Park?",
+      "answer": "Yes — the Balmoral Estate lies within the Cairngorms National Park, the largest national park in the UK. The estate's 20,000 acres encompass Cairngorm moorland, ancient Caledonian pine forest, and heather hills typical of the Royal Deeside landscape."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/balmoral-castle.webp",
+    "alt": "Balmoral Castle on Royal Deeside, the Scottish Highland estate of the British Royal Family, Aberdeenshire",
+    "credit": "Unsplash",
+    "width": 1280,
+    "height": 853
+  },
+  "gallery": [],
+  "og_image": "/images/castles/balmoral-castle.webp",
+  "instagram_tag": "balmoralcastle",
+  "meta_title": "Balmoral Castle: Tickets, Tours & Visitor Guide (2026)",
+  "meta_description": "Visit Balmoral Castle on Royal Deeside — the Royal Family's Scottish retreat since Queen Victoria. Open April to late July. Tours from Aberdeen and Edinburgh.",
+  "tags": ["scotland", "aberdeenshire", "royal-deeside", "royal-family", "victorian", "scottish-baronial", "cairngorms", "queen-victoria"],
+  "last_updated": "2026-06-23",
+  "routes": [],
+  "nearby_castles": ["dunnottar-castle", "glamis-castle", "stirling-castle"],
+  "gyg_location_id": "144525",
+  "gyg_search_query": "Balmoral Castle Royal Deeside tour Scotland",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "343186",
+      "title": "From Aberdeen: Balmoral Estate & Royal Deeside Tour",
+      "type": "day_trip",
+      "duration": "7.5 hours",
+      "price_from": 131,
+      "rating": 4.9,
+      "reviews": 276,
+      "covers_castles": ["balmoral-castle"]
+    },
+    {
+      "tour_id": "739357",
+      "title": "Edinburgh: Aberdeenshire, Balmoral Castle & Northeast Coast",
+      "type": "day_trip",
+      "duration": "2 days",
+      "price_from": 213,
+      "rating": 4.8,
+      "reviews": 19,
+      "covers_castles": ["balmoral-castle", "dunnottar-castle"]
+    },
+    {
+      "tour_id": "915643",
+      "title": "Edinburgh: Balmoral Castle and Scone Palace Royal Tour",
+      "type": "guided_tour",
+      "duration": "10 hours",
+      "price_from": 875,
+      "rating": 5.0,
+      "reviews": 18,
+      "covers_castles": ["balmoral-castle"]
+    }
+  ]
+}
