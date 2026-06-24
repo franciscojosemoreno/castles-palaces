@@ -76,7 +76,7 @@
   ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": ["rosenborg-castle"],
   "gyg_location_id": "1958",
   "gyg_search_query": "Kronborg Castle Hamlet tour Denmark",
   "gyg_widget_type": "activities",

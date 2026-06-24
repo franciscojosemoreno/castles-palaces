@@ -1,0 +1,108 @@
+{
+  "id": "rosenborg-castle",
+  "name": "Rosenborg Castle",
+  "local_name": "Rosenborg Slot",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 75,
+  "annual_visitors": 400000,
+  "country": "denmark",
+  "region": "Copenhagen",
+  "nearest_city": "Copenhagen",
+  "address": "Øster Voldgade 4A, 1350 Copenhagen, Denmark",
+  "lat": 55.6862,
+  "lng": 12.5776,
+  "unesco": false,
+  "year_built": 1606,
+  "architectural_style": "Dutch Renaissance",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "June to August: open daily 09:00–18:00. September to May: Tuesday to Sunday 10:00–17:00, closed Mondays. The King's Garden surrounding the castle is free and open year-round."
+  },
+  "price_adult": 130,
+  "price_child": 65,
+  "booking_required": false,
+  "official_tickets_url": "https://denkongeligesamling.dk/en/rosenborg-castle",
+  "visit_duration": "1–2 hours",
+  "best_season": "June–August — long days and the garden at its best; buy tickets in advance",
+  "accessibility": "The castle is not wheelchair accessible — there are stairs throughout and no lift. The King's Garden is fully accessible.",
+  "booking_advance_days": 1,
+  "tagline": "Christian IV's turreted summer castle, vault to the Danish Crown Jewels, set in Copenhagen's free royal garden",
+  "highlights": [
+    "The Crown Jewels vault holds the coronation crown of Christian IV (1596), the oldest royal crown in Denmark, alongside the regalia still used at royal occasions today",
+    "The Long Hall (Riddersalen) is lined with three life-size silver lions guarding the coronation thrones — one of the great set-pieces of Danish royal interior design",
+    "Christian IV's personal cabinet of curiosities survives largely intact, an early-modern collection of natural wonders, ivory, and exotica gathered by the king himself",
+    "The King's Garden (Kongens Have) surrounding the castle is one of Copenhagen's oldest public parks and remains completely free to enter, year-round",
+    "Built explicitly as Christian IV's pleasure retreat outside the city walls — a winter residence later eclipsed by his own search for a grander summer palace nearby"
+  ],
+  "description": "Rosenborg looks like the castle a child would draw if asked to imagine Denmark: red brick, copper-green spires, and a sandstone trim picked out against the Dutch Renaissance brickwork, sitting inside its own walled garden a few minutes' walk from central Copenhagen. That fairy-tale exterior, however, gives little warning of what waits inside — a sequence of intimate royal apartments that climbs, floor by floor, toward a basement vault holding the actual Danish Crown Jewels, guarded today much as they always have been.\n\nThe contrast between outside and in is the heart of a Rosenborg visit. The upper floors are modestly scaled royal living quarters — Christian IV's writing room, later kings' bedchambers, a winter room tiled in Delft ceramics — intimate compared to the grand state architecture of other European courts. Then you descend to the Treasury, where the apartments give way to the hard reality of dynastic wealth: the crown, the sceptre, the orb, and the sword of state, set behind glass in a stone vault built specifically to hold them. Few European monarchies still display their actual working regalia this directly to the public.\n\nThe Long Hall on the upper floor, with its three monumental silver lions standing guard beside the coronation thrones, is the castle's grandest single room and the natural counterpart to the Treasury below — ceremony above, security below. Christian IV's cabinet of curiosities, assembled during his own lifetime, rounds out the sense that this castle was always more personal possession than seat of state.\n\nOutside, the King's Garden that surrounds Rosenborg is Copenhagen's own front lawn: a free public park used daily by locals for picnics, sunbathing, and a popular marionette theatre in summer, set against the same Dutch Renaissance silhouette that anchors the castle's reputation as one of the city's defining images.",
+  "history": "Christian IV, the most prolific royal builder in Danish history, had Rosenborg built between 1606 and 1624 as a private summer residence just outside Copenhagen's fortifications, on land that became the King's Garden. The original structure was a relatively modest pleasure house; Christian IV enlarged it twice during his reign, ultimately producing the three-storey, turreted castle that stands today, designed in the Dutch Renaissance style fashionable across Northern Europe at the time.\n\nAs Copenhagen expanded and Christian IV himself built newer, larger residences — including what eventually became Christiansborg Palace closer to the city centre — Rosenborg's role shifted from active royal residence to royal treasury and storehouse. Successive Danish kings used it to keep valuables, archives, and family heirlooms safe, gradually filling its rooms with furniture, portraits, and regalia spanning generations rather than redecorating for any single reign — which is why the castle's interiors today read less like a single moment in time and more like a layered record of the Danish monarchy.\n\nIn 1838, Rosenborg opened to the public as a museum, making it one of the earliest royal residences in the world to be displayed this way, predating many comparable European house-museums. It survived intact through the upheavals of the 19th and 20th centuries and remains part of the Royal Danish Collection, with the Crown Jewels still removed to secure storage during national emergencies, including, according to popular account, both World Wars.",
+  "how_to_visit": "**Getting there:** Rosenborg is a short walk from Nørreport Station, Copenhagen's main transit hub for Metro, S-train, and regional rail — about 10 minutes on foot through or alongside the King's Garden. Several city bus routes also stop nearby.\n\n**Tickets:** Buy online in advance, especially for a summer visit — the castle's small rooms and narrow staircases mean visitor numbers are managed, and tickets to the Crown Jewels vault can sell out on peak days. During the busiest periods, entry to the Treasury may be staggered with timed slots.\n\n**The King's Garden:** Always free, regardless of whether you have a castle ticket, and open from early morning to late evening. It's worth visiting even if you skip the castle interior — locals use it as Copenhagen's most popular city park, and the castle's best exterior photo angles are from inside the garden looking back at the turrets.\n\n**Combine with:** Amalienborg Palace, the working royal residence, is about a 15-minute walk away, and the Nyhavn waterfront is roughly 20 minutes on foot — both make natural pairings for a single day exploring royal and historic Copenhagen.",
+  "faqs": [
+    {
+      "question": "Where are the Danish Crown Jewels?",
+      "answer": "The Danish Crown Jewels and royal regalia, including Christian IV's 1596 coronation crown — the oldest in Denmark — are displayed in the Treasury, a secure vault in the basement of Rosenborg Castle. They remain the actual working regalia used at state occasions, not replicas."
+    },
+    {
+      "question": "Is the King's Garden free?",
+      "answer": "Yes — Kongens Have, the public garden surrounding Rosenborg Castle, is free to enter year-round and open from early morning until evening. Only the castle interior, including the state rooms and Crown Jewels vault, requires a paid ticket."
+    },
+    {
+      "question": "What is the price in DKK?",
+      "answer": "Standard adult admission to Rosenborg Castle is 130 DKK, with reduced admission of 65 DKK for children. Prices are set by the Royal Danish Collection and may be adjusted seasonally — check the official website before visiting for the current rate."
+    },
+    {
+      "question": "How long should I spend at Rosenborg Castle?",
+      "answer": "Most visitors complete the castle interior, including the Long Hall and Crown Jewels vault, in 1 to 2 hours. Add extra time if you plan to relax in the King's Garden afterward, which many visitors treat as part of the same outing."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rosenborg-castle.webp",
+    "alt": "Rosenborg Castle's Dutch Renaissance turrets and copper spires seen across the King's Garden in Copenhagen",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rosenborg-castle.webp",
+  "instagram_tag": "#rosenborg",
+  "meta_title": "Rosenborg Castle Copenhagen: Crown Jewels Tickets 2026",
+  "meta_description": "Visit Rosenborg Castle in Copenhagen to see the Danish Crown Jewels, Christian IV's royal apartments, and the free King's Garden. Tickets and visitor guide for 2026.",
+  "tags": ["renaissance", "dutch-renaissance", "royal-residence", "crown-jewels", "17th-century", "instagram-worthy", "family-friendly"],
+  "last_updated": "2026-06-24",
+  "routes": [],
+  "nearby_castles": ["kronborg-castle", "frederiksborg-palace", "egeskov-castle"],
+  "gyg_location_id": "3822",
+  "gyg_search_query": "Rosenborg Castle Copenhagen tickets tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "851143",
+      "title": "Copenhagen: Rosenborg Castle Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "1–2 hours",
+      "price_from": 38,
+      "rating": 4.5,
+      "reviews": 63,
+      "covers_castles": ["rosenborg-castle"]
+    },
+    {
+      "tour_id": "534195",
+      "title": "Copenhagen: Rosenborg Castle Tour with Skip-the-Line Ticket",
+      "type": "guided_tour",
+      "duration": "2–5 hours",
+      "price_from": 255,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["rosenborg-castle"]
+    }
+  ]
+}
