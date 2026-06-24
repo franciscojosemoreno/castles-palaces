@@ -1,0 +1,125 @@
+{
+  "id": "chateau-de-blois",
+  "name": "Château de Blois",
+  "local_name": "Château Royal de Blois",
+  "type": "chateau",
+  "status": "published",
+  "featured": false,
+  "priority_score": 76,
+  "annual_visitors": 350000,
+  "country": "france",
+  "region": "Loire Valley",
+  "nearest_city": "Blois",
+  "address": "6 Pl. du Château, 41000 Blois, France",
+  "lat": 47.5867,
+  "lng": 1.3331,
+  "unesco": false,
+  "year_built": 1170,
+  "architectural_style": "Gothic, Renaissance, Classical",
+  "opening_hours": {
+    "monday": "09:00–18:30",
+    "tuesday": "09:00–18:30",
+    "wednesday": "09:00–18:30",
+    "thursday": "09:00–18:30",
+    "friday": "09:00–18:30",
+    "saturday": "09:00–18:30",
+    "sunday": "09:00–18:30",
+    "seasonal_note": "Jan–Mar & Nov–Dec: 09:00–12:30, 13:30–17:30. Apr–Jun & Sep–Oct: 09:00–18:30. Jul–Aug: 09:00–19:00. Son et lumière evenings in Jul–Aug (separate ticket)."
+  },
+  "price_adult": 14,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateaudeblois.fr/",
+  "visit_duration": "1.5–2.5 hours",
+  "best_season": "April to June and September — summer is busy but the evening son et lumière is excellent",
+  "accessibility": "Most exterior and ground-floor rooms are accessible. Interior staircases in some wings are steep. Limited wheelchair access to upper floors.",
+  "booking_advance_days": 0,
+  "tagline": "Where four French architectural centuries collide — and where a queen kept her poisons",
+  "highlights": [
+    "Four distinct architectural wings from four different centuries in one courtyard: Medieval, Gothic (Louis XII), early Renaissance (François I), and Classical (Gaston d'Orléans)",
+    "The famous François I staircase — an open-spiral external staircase that defined early French Renaissance style",
+    "The cabinet of Catherine de Medici, where 237 carved wood panels are said to conceal the queen's private collection of poisons",
+    "The royal apartments where Henri III was assassinated in 1588 — the most dramatic court murder in French history",
+    "Evening son et lumière show (July–August) projecting the château's story across its façade in coloured light"
+  ],
+  "description": "Blois is the Loire Valley's most architecturally complex château, and in some ways its most intellectually rich. What visitors find in the courtyard is not one building but four, separated by roughly a century each: a medieval hall from the 13th century, a Gothic wing built by Louis XII at the turn of the 16th, the magnificent early Renaissance François I wing completed around 1520, and an unfinished Classical wing commissioned by Gaston d'Orléans in the 1630s. Stand in the courtyard and you are looking at four centuries of French architectural history compressed into one space.\n\nThe François I wing is the star. Its loggia-style façade, open to the air with stacked galleries, brought the Italian Renaissance to the Loire Valley in the same years that Leonardo da Vinci was working nearby at Amboise. The external spiral staircase — elaborately decorated, projecting from the façade like a column of carved stone — became the definitive image of early French Renaissance architecture and influenced castle-builders for a generation.\n\nBut Blois is also a château of stories. This was where Henri III, trying to break the power of the Catholic League, arranged the assassination of the Duke of Guise in 1588. The duke was lured to the royal apartments and stabbed by the royal guard — the king reportedly stepped over the body afterwards and said, 'I am finally king.' The room is still shown to visitors.\n\nThe cabinet of Catherine de Medici, accessible from the royal apartments, is the château's most theatrical set piece: 237 wood-panelled compartments arranged around the walls, many accessible by a concealed pedal mechanism. The panels do not actually contain poisons — that is legend — but the room itself is real and the cabinetwork extraordinary.",
+  "history": "The hill at Blois was the seat of the Counts of Blois from the 10th century, and a fortified residence stood here before the Capetian crown absorbed the county in 1498. Louis XII, born at Blois in 1462, made it the principal seat of the French court and began transforming the medieval castle into a royal palace in the 1490s. His wing is notable for its elegant Gothic decoration — the porcupine, Louis XII's personal emblem, appears repeatedly in the stonework.\n\nFrançois I inherited the throne in 1515 and continued building at Blois throughout his reign, commissioning the spectacular Renaissance wing that bears his name. His emblem, the salamander, alternates with the porcupine of Louis XII throughout the two wings' decoration. The court centered on Blois, Chambord and Amboise in these years, a Loire Valley triangle that represented the greatest concentration of royal patronage in early 16th-century France.\n\nThe château's most violent hour came under Henri III, who was at war with the Catholic League and its leader, Henri de Guise. On 23 December 1588, the King summoned Guise to his private apartments and had him stabbed by his bodyguard. Guise's brother, the Cardinal of Guise, was killed the following day. The murders shocked Europe and contributed to Henri III's own assassination eight months later.\n\nCatherine de Medici died at Blois in January 1589, weeks after the Guise murders. The château passed between owners during the Wars of Religion and the 17th century, was partially rebuilt by Gaston d'Orléans, and then largely abandoned as the court moved permanently to Versailles. It served variously as a barracks and stable before serious restoration began in the 19th century under architect Félix Duban.",
+  "how_to_visit": "**Getting there:** Blois has a SNCF station on the Paris–Tours main line. Direct trains from Paris-Austerlitz take about 1 hour 15 minutes; from Tours, 30 minutes. The château is a 10-minute walk uphill from the station through the old town. Most Loire Valley day trips from Paris include a stop or free time in Blois.\n\n**Son et lumière:** The castle's evening light show (July and August, Wednesday to Saturday, starting around 22:30 in July and 22:00 in August) is one of the best in the Loire Valley. It is not included in the daytime ticket and should be booked separately at the castle website.\n\n**Combination tickets:** The château sells combination tickets including the Maison de la Magie Robert-Houdin, a magic museum opposite the castle entrance. The combination makes a full day in Blois.",
+  "faqs": [
+    {
+      "question": "Did Catherine de Medici really keep poisons at Château de Blois?",
+      "answer": "The cabinet of Catherine de Medici at Blois is real — a small study with 237 wood-panelled compartments, some accessible by a concealed pedal mechanism in the floor. However, the story that the panels contained poisons is a legend, probably originating in 16th and 17th-century propaganda portraying Catherine as a scheming foreigner. The compartments were almost certainly used for documents, jewellery and personal valuables. The room exists, the mechanism exists, but the poison story is apocryphal."
+    },
+    {
+      "question": "What happened to the Duke of Guise at Blois?",
+      "answer": "On 23 December 1588, Henri III summoned Henri, Duke of Guise — leader of the powerful Catholic League — to the royal apartments at Blois, ostensibly for a private meeting. As Guise entered the king's bedchamber, he was attacked and stabbed multiple times by Henri III's personal guard. His brother, Cardinal Louis II de Guise, was killed the following day. The murders shocked Catholic Europe and led directly to Henri III's own assassination by a Dominican monk eight months later."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-blois.webp",
+    "alt": "The François I wing of Château de Blois with its famous spiral staircase and Renaissance loggia facade facing the courtyard",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-blois.webp",
+  "instagram_tag": "#chateaudeblois",
+  "meta_title": "Château de Blois: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château de Blois in the Loire Valley — four centuries of French architecture in one courtyard, Catherine de Medici's mysterious cabinet, and royal court drama. Book tickets and guided tours.",
+  "tags": [
+    "renaissance",
+    "gothic",
+    "classical",
+    "16th-century",
+    "royal-residence",
+    "loire-valley",
+    "day-trip-from-paris",
+    "french-history"
+  ],
+  "last_updated": "2026-06-24",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-damboise",
+    "chateau-de-chambord",
+    "chateau-de-chenonceau"
+  ],
+  "gyg_location_id": "35246",
+  "gyg_search_query": "Blois Castle Loire Valley guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "13987",
+      "title": "From Paris: Loire Valley Castles Day Trip With Wine Tasting",
+      "type": "day_trip",
+      "duration": "13 hours",
+      "price_from": 125,
+      "rating": 4.6,
+      "reviews": 1972,
+      "covers_castles": ["chateau-de-blois", "chateau-de-chambord", "chateau-de-chenonceau"]
+    },
+    {
+      "tour_id": "1149747",
+      "title": "Guided Visit of the Royal Castle of Blois",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 51,
+      "rating": 4.8,
+      "reviews": 5,
+      "covers_castles": ["chateau-de-blois"]
+    },
+    {
+      "tour_id": "442609",
+      "title": "Blois: Private Tour of the Castle with Entry Tickets",
+      "type": "skip_the_line",
+      "duration": "2 hours",
+      "price_from": 255,
+      "rating": 4.7,
+      "reviews": 6,
+      "covers_castles": ["chateau-de-blois"]
+    }
+  ]
+}

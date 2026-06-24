@@ -1,0 +1,125 @@
+{
+  "id": "marksburg-castle",
+  "name": "Marksburg Castle",
+  "local_name": "Burg Marksburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 72,
+  "annual_visitors": 100000,
+  "country": "germany",
+  "region": "Rhineland-Palatinate",
+  "nearest_city": "Braubach",
+  "address": "Marksburg, 56338 Braubach, Germany",
+  "lat": 50.2647,
+  "lng": 7.6134,
+  "unesco": true,
+  "year_built": 1117,
+  "architectural_style": "Medieval Romanesque and Gothic",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Winter (Nov–Mar): 11:00–16:00. Guided tours only — no self-guided access. Tours run approximately every hour; English tours at specified times."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "booking_required": false,
+  "official_tickets_url": "https://www.marksburg.de/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to September — Rhine Valley boat tours run frequently and the views are at their best",
+  "accessibility": "Limited. The castle is built on a steep hill with multiple staircases and uneven medieval floors. Not suitable for wheelchairs or visitors with limited mobility.",
+  "booking_advance_days": 0,
+  "tagline": "The only Rhine castle never destroyed — 900 years of unbroken medieval history",
+  "highlights": [
+    "The only hilltop castle along the Rhine Gorge never destroyed or substantially rebuilt — a genuine medieval interior unlike the 19th-century Romantic restorations of its neighbours",
+    "UNESCO World Heritage Site as part of the Upper Middle Rhine Valley designation",
+    "Home of the German Castles Association (Deutsche Burgenvereinigung) since 1900",
+    "The Palas (great hall), battlements, armory and knight's bath are original medieval structures",
+    "Views across the Rhine Gorge from the 13th-century keep over the slate-roofed vineyards below"
+  ],
+  "description": "Of the dozens of castles lining the Rhine Gorge, Marksburg stands apart for one simple reason: it has never been destroyed. Its neighbours — Rheinfels, Sooneck, Stahleck — were razed by French forces in the late 17th century, rebuilt in the Romantic era, and present visitors today with 19th-century reconstructions of medieval architecture. Marksburg, by contrast, was never taken. Its gatehouse, great hall, chapel, kitchen, armory and keep are authentic medieval structures, making it the most genuinely medieval castle on the Rhine.\n\nThe castle occupies a volcanic rock spur high above Braubach, visible from the river for miles in both directions. It was first mentioned in a 1231 document confirming a toll station at the riverbank below — the Rhine's medieval economy of castles and tolls in miniature. The Eppstein family built the first substantial stone structures; the Katzenelnbogen counts, who acquired Marksburg in 1283, undertook the major expansions that created the silhouette visible today.\n\nThe Deutsche Burgenvereinigung (German Castles Association) has occupied Marksburg since 1900, using it as headquarters and maintaining it as a living example of medieval castle architecture. Their guided tours are the only way inside — self-guided visits are not permitted — and the guides are unusually knowledgeable, explaining not just what the rooms were used for but how medieval castles actually functioned as military, administrative and domestic complexes.",
+  "history": "Marksburg's strategic position above the Rhine bend near Braubach made it a natural toll and customs post from at least the early 12th century. The first stone tower is traditionally dated to 1117; documentary evidence from 1231 confirms a fortified complex in active use. The Eppstein lords began serious construction; the Katzenelnbogen counts, who acquired the castle in 1283, were responsible for the main ring wall, the great tower, and most of the residential buildings that survive.\n\nThe Landgraviate of Hesse took control in 1479 and held Marksburg for over three centuries. While the Rhine Valley's other great castles were destroyed during the Nine Years' War — Louis XIV's French forces systematically demolished Rhine fortifications in 1689 — Marksburg was spared. The castle was likely too remote and its rock-spur position too formidable to justify the effort.\n\nDuring the Napoleonic reorganisation, the castle passed briefly through Prussian hands before the German Castles Association purchased it in 1900. The Association has maintained Marksburg ever since, carrying out restoration that aimed at historical authenticity rather than Romantic reconstruction, making it the scholarly benchmark for Rhenish castle architecture.",
+  "how_to_visit": "**Getting there:** Braubach has a train station on the Koblenz–Mainz regional line. From Koblenz, trains take about 25 minutes; from Mainz, about 50 minutes. The castle is about 40 minutes on foot from the station (steep, uphill), or accessible by taxi. There is no road to the castle itself — a footpath winds up from the parking area in Braubach.\n\n**Rhine boat tours:** The most atmospheric way to see Marksburg is from the river on one of the Rhine cruise boats running between Koblenz and Rüdesheim. Koblenz is the main departure point; the journey past Marksburg takes about 2 hours one-way. Several companies run regular services from May to October.\n\n**Guided tours only:** The castle does not permit independent exploration. Guided tours run approximately every hour in German; English tours are available at specified times (check the website). The guide meets the group at the lower gate and leads them through all accessible areas.",
+  "faqs": [
+    {
+      "question": "Why is Marksburg the only Rhine castle that was never destroyed?",
+      "answer": "Most Rhine Valley castles were destroyed during the Nine Years' War (1688–1697), when French forces under Louis XIV systematically demolished fortifications along the Rhine. Marksburg survived, likely because its position on a near-vertical volcanic spur made it exceptionally difficult to assault and perhaps not worth the effort. The castle was never rebuilt in the 19th-century Romantic style that transformed most of its neighbours, preserving its authentic medieval character."
+    },
+    {
+      "question": "Can I visit Marksburg Castle without a guide?",
+      "answer": "No. Marksburg is managed without self-guided access — you must join a guided tour. Tours run approximately every hour in German, with English tours at specified times. The German Castles Association, which owns and operates the castle, requires guided access to protect the authentic medieval interiors and ensure responsible visitor management on the steep site."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/marksburg-castle.webp",
+    "alt": "Marksburg Castle rising above the Rhine Gorge near Braubach, with the river and vine-covered slopes below",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/marksburg-castle.webp",
+  "instagram_tag": "#marksburgcastle",
+  "meta_title": "Marksburg Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Marksburg Castle on the Rhine — the only hilltop Rhine castle never destroyed. UNESCO World Heritage. Book tickets and Rhine Valley boat tours from Koblenz.",
+  "tags": [
+    "medieval",
+    "romanesque",
+    "gothic",
+    "12th-century",
+    "unesco-world-heritage",
+    "rhine-valley",
+    "never-destroyed",
+    "boat-tour"
+  ],
+  "last_updated": "2026-06-24",
+  "routes": [
+    "rhine-valley-castles"
+  ],
+  "nearby_castles": [
+    "stahleck-castle",
+    "reichsburg-cochem",
+    "eltz-castle"
+  ],
+  "gyg_location_id": "174139",
+  "gyg_search_query": "Marksburg Castle Rhine Valley Koblenz tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "597159",
+      "title": "Koblenz: Rhine Valley Castles and Palaces Boat Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 22,
+      "rating": 4.4,
+      "reviews": 2037,
+      "covers_castles": ["marksburg-castle"]
+    },
+    {
+      "tour_id": "420323",
+      "title": "Koblenz: Rhine Valley Boat Tour along the Castles and Palaces",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 22,
+      "rating": 4.6,
+      "reviews": 1161,
+      "covers_castles": ["marksburg-castle"]
+    },
+    {
+      "tour_id": "755835",
+      "title": "Private Day Trip from Frankfurt to Rhine Valley & Back",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 430,
+      "rating": null,
+      "reviews": 0,
+      "covers_castles": ["marksburg-castle"]
+    }
+  ]
+}

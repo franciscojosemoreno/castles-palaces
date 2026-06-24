@@ -1,0 +1,124 @@
+{
+  "id": "belgrade-fortress",
+  "name": "Belgrade Fortress",
+  "local_name": "Beogradska tvrđava / Kalemegdan",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 78,
+  "annual_visitors": 1500000,
+  "country": "serbia",
+  "region": "Belgrade",
+  "nearest_city": "Belgrade",
+  "address": "Kalemegdan Park, 11000 Belgrade, Serbia",
+  "lat": 44.8231,
+  "lng": 20.4497,
+  "unesco": false,
+  "year_built": 279,
+  "architectural_style": "Roman, Byzantine, Medieval, Ottoman",
+  "opening_hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "seasonal_note": "Park grounds are free and open at all hours. Indoor exhibitions and underground tours run their own schedules (typically 10:00–18:00 in summer). Underground tours depart from ~11:00."
+  },
+  "price_adult": 0,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.beograd.rs/",
+  "visit_duration": "1.5–3 hours",
+  "best_season": "April to October — the park is lively and the river views are at their best at sunset",
+  "accessibility": "The park paths and upper terrace are largely accessible. Underground tours and medieval stairways are not wheelchair accessible. The outer park areas are suitable for all visitors.",
+  "booking_advance_days": 0,
+  "tagline": "At the confluence of two rivers, where every empire came — and none could hold for long",
+  "highlights": [
+    "Commanding position at the confluence of the Sava and Danube rivers — one of the most strategically critical sites in European history, destroyed and rebuilt over 40 times",
+    "The Roman well, an 18th-century Austrian engineering marvel drilled 60 metres into bedrock — Alfred Hitchcock's favourite spot in Belgrade",
+    "The Cold War army bunker from Tito's Yugoslavia, accessible only by guided underground tour",
+    "The Military Museum within the fortress complex, with exhibits spanning Roman legions to the 20th century",
+    "The sunset view from the upper terrace over the two rivers — one of the great urban panoramas of the Balkans"
+  ],
+  "description": "Belgrade Fortress has been fought over more than any other site in Europe. Historians estimate the fortress has been destroyed and rebuilt more than 40 times across its 2,300-year history, changing hands between Romans, Byzantines, Bulgars, Hungarians, Ottomans, Habsburgs, Serbs and others in a cycle of conquest and reconquest that reflects the site's extraordinary strategic value. The ridge at the confluence of the Sava and Danube is the natural gateway between Central Europe and the Balkans.\n\nToday the fortress is Kalemegdan Park — one of the great urban parks of southeast Europe, where Belgradians walk, play chess, kiss, and watch the sunset over the two rivers. The military tension is gone but the physical evidence is everywhere: Roman foundations beneath the Ottoman walls, Habsburg inscriptions beside medieval Serbian towers, Cold War bunkers beneath 18th-century ramparts.\n\nThe park divides into the Upper Town (main residential buildings, church, military museum) and the Lower Town (inner defensive ring, closer to the rivers). Between them, a series of underground passages, Roman wells, gunpowder warehouses and military bunkers tell the story of the fortress's long life. Most of this underground world is accessible only through guided tours — the most vivid way to understand what Kalemegdan actually is beneath its pastoral surface.",
+  "history": "The site was first fortified by the Celtic Scordisci tribe in the 3rd century BC, but the first permanent Roman installation dates to around 279 AD — the establishment of Singidunum, a legionary fortress at the Danube crossing that became a city of perhaps 50,000 people.\n\nWith Rome's decline, the fortress passed successively to Byzantium, the Ostrogoths, the Avars, and the Bulgarian First Empire before the medieval Serbian state consolidated control in the 13th century. The Despot Stefan Lazarević transformed Kalemegdan into one of the finest medieval fortresses in the Balkans in the early 15th century, building the great towers and walls that form the core of what survives today.\n\nThe Ottomans captured Belgrade in 1521 under Suleiman the Magnificent and held it for most of the next three centuries. The Habsburgs took the fortress twice — in 1688 and again in 1717 under Prince Eugene of Savoy — and during their occupations built the Roman well, the ammunition magazines, and the inner fortifications that give the site much of its current form.\n\nSerbia recovered Belgrade in 1867 and the fortress became a symbol of national identity. In the 20th century, it was bombarded by Austria-Hungary in 1914 (among the first shots of World War I were fired at Belgrade from across the river) and occupied by Nazi Germany in 1941. The Cold War era added the military bunker accessible today on underground guided tours.",
+  "how_to_visit": "**Getting there:** The fortress is in central Belgrade, accessible on foot from most central hotels. From Knez Mihailova Street (Belgrade's main pedestrian street), it is a 10-minute walk to the main entrance. Taxis and ride-sharing are cheap and widely available.\n\n**Underground tours:** The most distinctive experience at Kalemegdan is the underground guided tour, giving access to the Roman well, the Cold War military bunker and the Austrian gunpowder warehouse. Tours run daily in summer (typically from 11:00, last tour around 17:00) and take about 2.5 hours. Book in advance through GetYourGuide or at the tour operator's desk at the fortress entrance.\n\n**Military Museum:** The Military Museum inside the fortress (small entry fee) covers Serbian and Yugoslav military history comprehensively. The outdoor exhibition of tanks, artillery and aircraft in the courtyard is free to view.\n\n**Sunset:** The terrace above the river confluence — called 'the lips' by locals — is one of the best sunset spots in Belgrade. Come an hour before sunset, particularly in summer when the light on the two rivers is extraordinary.",
+  "faqs": [
+    {
+      "question": "Is Belgrade Fortress free to enter?",
+      "answer": "Yes — Kalemegdan Park and the fortress grounds are free to enter at all times. There are charges for specific indoor attractions: the Military Museum (small fee), underground tours (ticketed through tour operators), and temporary exhibitions. The park itself, the walking paths, the terraces and the views over the two rivers are entirely free."
+    },
+    {
+      "question": "What is the Roman well and why is it famous?",
+      "answer": "The Roman well at Kalemegdan is actually an Austrian engineering feat built in the 1720s, not by the Romans — the name is simply colloquial. It was drilled 60 metres into the rock to provide a water supply independent of a besieged city above. The well became famous when Alfred Hitchcock visited Belgrade in the 1960s and reportedly declared it his favourite spot in the city, entranced by the perfect circle of light at the bottom. The story has made it one of Belgrade's most-photographed sites."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/belgrade-fortress.webp",
+    "alt": "Belgrade Fortress at sunset with the confluence of the Sava and Danube rivers visible from the upper terrace",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/belgrade-fortress.webp",
+  "instagram_tag": "#kalemegdan",
+  "meta_title": "Belgrade Fortress (Kalemegdan): Guide, Tours & Visitor Info 2026",
+  "meta_description": "Explore Belgrade Fortress (Kalemegdan) — free entry, Roman wells, Cold War bunkers and sunset views over two rivers. Book underground tours and guided visits.",
+  "tags": [
+    "roman",
+    "byzantine",
+    "medieval",
+    "ottoman",
+    "free-entry",
+    "fortress",
+    "underground-tours",
+    "balkans",
+    "sunset-views"
+  ],
+  "last_updated": "2026-06-24",
+  "routes": [],
+  "nearby_castles": [
+    "golubac-fortress",
+    "smederevo-fortress",
+    "ram-fortress"
+  ],
+  "gyg_location_id": "110162",
+  "gyg_search_query": "Belgrade Fortress Kalemegdan guided tour underground",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "465369",
+      "title": "Belgrade: Guided City Tour and Kalemegdan Fortress Visit",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 44,
+      "rating": 4.9,
+      "reviews": 86,
+      "covers_castles": ["belgrade-fortress"]
+    },
+    {
+      "tour_id": "141141",
+      "title": "Belgrade: Underground Tour with Riverside Sparkling Wine",
+      "type": "guided_tour",
+      "duration": "2.5 hours",
+      "price_from": 35,
+      "rating": 4.8,
+      "reviews": 452,
+      "covers_castles": ["belgrade-fortress"]
+    },
+    {
+      "tour_id": "855378",
+      "title": "Belgrade Fortress: Private Tour to See Big Picture",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 55,
+      "rating": 5.0,
+      "reviews": 1,
+      "covers_castles": ["belgrade-fortress"]
+    }
+  ]
+}
