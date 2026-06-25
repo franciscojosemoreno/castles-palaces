@@ -1,0 +1,109 @@
+{
+  "id": "chateau-d-angers",
+  "name": "Château d'Angers",
+  "local_name": "Château d'Angers",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 80,
+  "annual_visitors": 330000,
+  "country": "france",
+  "region": "Loire Valley",
+  "nearest_city": "Angers",
+  "address": "2 Promenade du Bout du Monde, 49100 Angers, France",
+  "lat": 47.4713,
+  "lng": -0.5566,
+  "unesco": true,
+  "year_built": 1228,
+  "architectural_style": "Medieval, Angevin",
+  "opening_hours": {
+    "monday": "09:30–17:30",
+    "tuesday": "09:30–17:30",
+    "wednesday": "09:30–17:30",
+    "thursday": "09:30–17:30",
+    "friday": "09:30–17:30",
+    "saturday": "09:30–17:30",
+    "sunday": "09:30–17:30",
+    "seasonal_note": "May–August: daily 09:30–18:30. September–April: daily 09:30–17:30. Closed 1 January, 1 May and 25 December. Last entry 45 minutes before closing."
+  },
+  "price_adult": 9,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateau-angers.fr/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to October; spring brings the castle garden into bloom; pre-book in July–August peak season",
+  "accessibility": "Partially accessible; rampart walks have uneven stone surfaces; main gallery, chapel and gardens are accessible",
+  "booking_advance_days": 0,
+  "tagline": "The 13th-century Angevin fortress that protects the world's greatest surviving medieval tapestry",
+  "highlights": [
+    "The Apocalypse Tapestry — commissioned in 1375 by Louis I of Anjou and woven by Nicolas Bataille from designs by Hennequin of Bruges, 103 metres long and 4.5 metres high with 90 surviving scenes from the Book of Revelation, displayed in a purpose-built climate-controlled gallery",
+    "A 17-tower fortress ring — 800 metres of curtain wall in distinctive Angevin masonry, alternating bands of black schist and white tufa stone, with towers up to 40 metres tall and a rampart walk circling the entire site",
+    "The castle garden and working vineyard — a walled terraced garden within the fortress courtyard, planted with formal beds and roses alongside vines that still produce Anjou rosé sold in the château shop",
+    "The legacy of Louis IX (Saint Louis) — the king who rebuilt the fortress between 1228 and 1238 as a staging point for his Crusades, and who also built the Sainte-Chapelle in Paris in the same decades",
+    "The Logis Royal — the 15th-century residential wing built within the military shell, with a Gothic chapel and Mille-Fleurs tapestries associated with René of Anjou, who held nominal crowns over Naples, Sicily, Aragon and Jerusalem while living here"
+  ],
+  "description": "Most Loire Valley itineraries cluster around the Renaissance châteaux east of Tours and skip Angers entirely — a fundamental misreading of the valley's architectural history. Château d'Angers is not Renaissance but resolutely medieval: its 17-tower ring belongs to a different tradition altogether from Chambord's fantastical roofline or Chenonceau's elegant river span. Angers was built to intimidate and to hold. Its walls run 3 metres thick and its towers were engineered to withstand artillery. Visiting it before heading east is to understand the full 200-year arc of the Loire Valley's story, from medieval military architecture to French Renaissance pleasure palace — Angers is where that story begins.\n\nThe château's defining object is the Apocalypse Tapestry, commissioned in 1375 by Louis I of Anjou as a portable visual encyclopedia of the end of the world — something to be hung in his halls as a demonstration of theological learning and courtly magnificence. At 103 surviving metres (of an original 140), it was the largest textile artwork in medieval Europe. The Revolutionary period saw it dispersed, cut into rugs and curtains, even used as frost protection for orange trees. Its systematic recovery from 1848 onward, and the state's 1954 commissioning of a purpose-built gallery, ranks among the more remarkable acts of cultural salvage in French heritage history — and the long, dim gallery experience, lit section by section, is unlike anything else in French heritage tourism.\n\nAngers was the capital of the Counts of Anjou who became Kings of England — the Plantagenet dynasty. Henry II, Eleanor of Aquitaine, Richard the Lionheart and King John all held court here before the French crown seized Anjou in 1205. A later Angevin branch then held the château, including René of Anjou, who lived in this Loire Valley fortress while simultaneously holding nominal claim to the crowns of Naples, Jerusalem, Aragon and Sicily. Angers was the administrative heart of a medieval European power structure that no longer exists, and the tapestry remains its most eloquent surviving monument.\n\nA focused visit takes about 90 minutes. The Apocalypse Tapestry gallery is the principal destination — go to it first, before the tour groups arrive. The rampart walk, when open, extends the visit by 30 minutes and offers wide views over Angers and the Maine river. Most visitors reach Angers by TGV from Paris Montparnasse in around 105 minutes, making the château an efficient and historically essential opening stop on any Loire Valley itinerary.",
+  "history": "The Angers promontory above the Maine river has been fortified since at least the 9th century. The Counts of Anjou, beginning with Fulk Nerra ('the Black Falcon', count from 987 to 1040), undertook the systematic fortification of Anjou that made the family one of medieval France's most formidable regional powers. That power reached England when Geoffrey of Anjou married the Empress Matilda; their son became King Henry II of England, founding the Plantagenet dynasty. Anjou itself passed to the French crown in 1205, when Philippe Auguste seized it from King John. Louis IX then completely rebuilt the fortress between 1228 and 1238, raising the 17-tower ring that still stands today as part of his broader consolidation of royal power across western France — and using Angers as a staging point for his Crusading campaigns of 1248 and 1270.\n\nLouis IX later gave Anjou to his brother Charles, who became King of Sicily and Naples, launching two centuries of Angevin dynastic ambition across the Mediterranean. Louis I of Anjou commissioned the Apocalypse Tapestry in 1375, and the court of René of Anjou (1409–1480) — poet, painter, tournament organiser, and nominal King of Naples and Jerusalem — made Angers a centre of late medieval court culture. René died without heirs in 1480, and Anjou reverted to the French crown.\n\nHenri III nearly ordered the fortress demolished in 1585, a fate avoided when the governor of Anjou persuaded the king to spare the towers. The castle subsequently served as a military prison and garrison through the 17th to 19th centuries. The Apocalypse Tapestry, dispersed during the Revolution, was systematically recovered beginning in 1848; the château was classified a monument historique in 1875, and the purpose-built tapestry gallery was completed in 1954. The site was inscribed as part of the Loire Valley UNESCO World Heritage Site in 2000 and is now managed by the Centre des Monuments Nationaux.",
+  "how_to_visit": "**Getting there:** Angers sits on the Paris–Nantes TGV and intercités line, with direct trains from Paris Montparnasse taking around 1h45. The château is a 15-minute walk from Angers Saint-Laud station, or 5 minutes by tramway (Line A, stop 'Ralliement'). By car from Tours, the château is 60km east via the N23, about an hour; from Paris via the A11, around 3 hours. It is well signed from all central Angers approaches.\n\n**Tickets and timing:** Adult entry is around €9; under-18s and EU nationals under 26 enter free. The GYG entry ticket (t176019, $13) offers convenient advance booking. The château opens daily except Christmas Day and New Year's Day. Allow 90 minutes for the standard visit covering the tapestry gallery, inner courtyard and Logis Royal, plus 30 minutes more if the rampart walk is open. Arrive at opening time to see the tapestry gallery before tour groups fill it.\n\n**Combining with the Loire Valley:** Château d'Angers makes a logical first stop on a Loire itinerary from Paris — arrive by TGV, spend 2–3 hours at the château, then continue east to Azay-le-Rideau (90km), Villandry (110km), and the main Loire cluster around Tours. The GYG 2-day tour from Paris (t229210) combines an overnight in Angers with Mont-Saint-Michel and the Loire châteaux. Before leaving Angers, the Cathédrale Saint-Maurice, 10 minutes from the château, holds 12th-century stained glass among the finest in France.",
+  "faqs": [
+    {
+      "question": "What is the Apocalypse Tapestry and why is it at Château d'Angers?",
+      "answer": "The Apocalypse Tapestry is a monumental medieval textile depicting 90 scenes from the Book of Revelation, commissioned in 1375 by Louis I of Anjou and woven by Nicolas Bataille from designs by the court painter Hennequin of Bruges. At 103 surviving metres, it was the largest such artwork attempted in medieval Europe. It belongs to Château d'Angers because the Angevin counts who commissioned it ruled from this fortress, and the tapestry — dispersed and partially destroyed during the French Revolution before being painstakingly recovered from 1848 onward — is now displayed in a purpose-built gallery within the castle walls."
+    },
+    {
+      "question": "Is Château d'Angers part of the Loire Valley UNESCO World Heritage Site?",
+      "answer": "Yes — it was inscribed in 2000 as part of the wider Loire Valley UNESCO World Heritage listing, which recognises the valley's combination of châteaux, towns and cultivated landscape between Sully-sur-Loire and Chalonnes-sur-Loire as a unified cultural achievement."
+    },
+    {
+      "question": "How does Château d'Angers compare to Chambord and Chenonceau?",
+      "answer": "Chambord and Chenonceau are Renaissance pleasure châteaux, built for display and leisure rather than defence. Château d'Angers is an earlier, purely medieval military fortress — a 17-tower ring with walls 3 metres thick, built to withstand siege rather than to impress with architectural fantasy. Visiting Angers first gives useful historical context for the Renaissance châteaux further east, showing what French royal building looked like two centuries before Chambord."
+    },
+    {
+      "question": "Is there time to visit both the château and the city of Angers in a day?",
+      "answer": "Yes. The château itself takes 90 minutes to 2 hours, leaving ample time to explore central Angers, including the Cathédrale Saint-Maurice (10 minutes' walk) and the old town's half-timbered streets. A day trip from Paris by TGV, arriving mid-morning and returning in the evening, comfortably covers both the château and a walk through the city."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-d-angers.webp",
+    "alt": "The striped black-and-white Angevin towers of Château d'Angers rising above their moat-side gardens",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-d-angers.webp",
+  "instagram_tag": "#chateaudangers",
+  "meta_title": "Château d'Angers: Apocalypse Tapestry Tickets & Guide 2026",
+  "meta_description": "Visit Château d'Angers — the 17-tower medieval fortress home to the Apocalypse Tapestry, the largest surviving medieval tapestry in the world. Tickets for 2026.",
+  "tags": ["medieval", "fortress", "unesco-world-heritage", "loire-valley", "tapestry", "angevin", "day-trip-from-paris"],
+  "last_updated": "2026-06-25",
+  "routes": ["loire-valley-castles"],
+  "nearby_castles": ["chateau-de-azay-le-rideau", "chateau-de-villandry", "chateau-damboise", "chateau-de-blois"],
+  "gyg_location_id": "56807",
+  "gyg_search_query": "Château d'Angers Loire Valley tickets tours",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "176019",
+      "title": "Angers: Château d'Angers Entrance Ticket",
+      "type": "entry_ticket",
+      "duration": "1–3 hours",
+      "price_from": 13,
+      "rating": 4.5,
+      "reviews": 215,
+      "is_top_pick": true,
+      "covers_castles": ["chateau-d-angers"]
+    },
+    {
+      "tour_id": "229210",
+      "title": "From Paris: Mont Saint-Michel and Loire Valley 2-Day Tour",
+      "type": "multi_day_tour",
+      "duration": "2 days",
+      "price_from": 541,
+      "rating": 4.3,
+      "reviews": 34,
+      "covers_castles": ["chateau-d-angers"]
+    }
+  ]
+}

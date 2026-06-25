@@ -1,0 +1,109 @@
+{
+  "id": "mafra-palace",
+  "name": "Mafra Palace",
+  "local_name": "Palácio Nacional de Mafra",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 83,
+  "annual_visitors": 220000,
+  "country": "portugal",
+  "region": "Lisbon Region",
+  "nearest_city": "Lisbon",
+  "address": "Terreiro D. João V, 2640-491 Mafra, Portugal",
+  "lat": 38.9342,
+  "lng": -9.3244,
+  "unesco": true,
+  "year_built": 1717,
+  "architectural_style": "Baroque, Neoclassical",
+  "opening_hours": {
+    "monday": "09:30–17:30",
+    "tuesday": "Closed",
+    "wednesday": "09:30–17:30",
+    "thursday": "09:30–17:30",
+    "friday": "09:30–17:30",
+    "saturday": "09:30–17:30",
+    "sunday": "09:30–17:30",
+    "seasonal_note": "Open daily except Tuesday, 09:30–17:30 (last entry 16:45). The library and basilica are visited as part of the standard guided circuit. Closed 1 January, Easter Sunday, 1 May and 25 December."
+  },
+  "price_adult": 6,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://palaciodemafra.pt/en/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "Year-round; the Lisbon region has mild Atlantic climate; avoid August bank holidays when closed",
+  "accessibility": "Partially accessible; some cobblestone courtyards and historic stairs; ground-floor basilica and main state rooms accessible",
+  "booking_advance_days": 0,
+  "tagline": "João V's pharaonic convent-palace, built on Brazil's gold at the western edge of Europe",
+  "highlights": [
+    "The library — 36,000 volumes in two-tiered carved wood galleries within an 88-metre marble room, still guarded at night by a centuries-old colony of bats that eat the insects threatening the bindings",
+    "The basilica — the largest church interior in Portugal, with 58 bells cast in Antwerp forming the largest carillon in the world at the time of installation, and Carrara marble covering its altars, floors and statues",
+    "The School of Mafra — Portugal's first sculpture school, founded by João V in 1754 with imported Italian masters, whose students carved the 58 marble statues of saints lining the basilica",
+    "A complex covering 4 hectares with over 1,200 rooms, 29 courtyards, 4,700 doors and windows, and 156 staircases, its main facade stretching 220 metres end to end",
+    "The Tapada Nacional de Mafra — an 819-hectare walled royal hunting reserve behind the palace, roamed by wild deer and boar and included in the 2019 UNESCO inscription"
+  ],
+  "description": "Pena Palace is romantic fantasy; the Castle of the Moors is picturesque ruin. Mafra is something else entirely — an act of pharaonic will, built with extraordinary speed using an extraordinary workforce, on a scale designed to announce Portugal's imperial status to the rest of Europe. King João V employed some 50,000 workers at peak construction and imported marble, bells and craftsmen from Italy, Flanders and France. The building took 30 years and consumed a substantial share of Brazil's gold production. The result is the largest royal palace on the Iberian Peninsula and one of the largest palace complexes in Europe — and visiting it is disorienting in a specific way, because the building never becomes intimate. Room after room unfolds at palatial scale, marble everywhere, until the sheer quantity of crafted stone, carved wood and cast bronze begins to feel like a different order of architectural ambition altogether.\n\nJoão V made a vow in 1711: if the queen bore him a son, he would build a convent. She did, and he built a palace-convent-basilica of colossal dimensions. The vow was the pretext; the real motivation was the wealth pouring in from Brazil — gold and diamonds on an unprecedented scale that transformed Portugal from a mid-tier European power into one of the richest courts on the continent. João V wanted a building that would make Versailles's architects jealous and El Escorial's friars envious. He hired the German-trained architect Johann Friedrich Ludwig, known in Portugal as Ludovice, who designed in the grand European Baroque manner. Construction began in 1717; the basilica was consecrated in 1730, though building continued until 1755, the year of the Lisbon earthquake.\n\nThe palace's library holds 36,000 volumes, including medieval illuminated manuscripts, early printed books and Portuguese navigation charts from the Age of Discovery, ranking it among the three or four finest palace libraries in Europe alongside the Escorial and the Vatican. It is also, improbably, a living ecosystem: a colony of bats has occupied the library for as long as anyone can document, emerging at dusk to navigate the shelves by echolocation and eat the leather-feeding insects that would otherwise destroy the bindings, then departing before dawn. Library staff cover the reading tables with leather sheets each evening to protect them — a cohabitation of Baroque scholarship and endemic wildlife that ranks among the more beautiful arrangements in European cultural history.\n\nThe Nobel Prize-winning novelist José Saramago set his 1982 novel Baltasar and Blimunda at the Mafra construction site, following two peasants caught up in the building of the palace alongside a defrocked priest's attempt to build a flying machine. It is one of the masterpieces of 20th-century European literature, and it treats the construction of Mafra as what it actually was: a catastrophic concentration of human labour and suffering in the service of royal vanity. For many Portuguese readers, Mafra cannot be separated from Saramago's version of it — reading the novel before or after a visit fundamentally changes how the building reads.",
+  "history": "King João V's vow of 1711 set the project in motion: the queen bore him a son, and he resolved to build a convent in thanks. The site chosen was Mafra, then a small village 40 kilometres north of Lisbon. Johann Friedrich Ludwig — known in Portugal as Ludovice — was appointed architect, and construction began in 1717 with a workforce that swelled to 50,000 at its peak. Carrara marble was imported wholesale, 58 bells were commissioned from the Hemony foundry in Antwerp (the largest carillon ever cast at the time), and Italian sculptors were engaged for the basilica's decoration. The basilica was consecrated on João V's 41st birthday in 1730, and the School of Mafra, training Portugal's first generation of native sculptors, was founded in 1754.\n\nThe palace served as a royal residence for João V and his successors until 1807, when the entire Portuguese royal family fled to Brazil ahead of Napoleon's invading army, taking the treasury but leaving the library behind; occupying French troops looted parts of the building in the years that followed. João VI's return in 1821 triggered a constitutional crisis, and Dom Miguel continued to use the palace as a royal residence through the 1820s and 1830s. After 1834, the building was converted into a military academy, housing the military college until as recently as 2011, with museum areas gradually opening to the public from the 1950s onward.\n\nIn 2019, the complex was inscribed on the UNESCO World Heritage List as the 'Royal Building of Mafra — Palace, Basilica, Convent, Cerco Garden and Hunting Park (Tapada)', recognising not just the building but the entire designed landscape around it. New visitor routes through previously inaccessible sections opened the same year. Mafra remains the least-visited major UNESCO site in the Lisbon region, making it one of the few places in Portugal where palatial architecture on this scale can be experienced without significant crowds.",
+  "how_to_visit": "**Getting there:** Mafra is 40km north of Lisbon, about 40 minutes by car via the A8 motorway. The Mafrense bus company runs services from Lisbon's Campo Grande bus terminal, taking roughly 50 minutes; there is no direct train connection. Many organised day trips from Lisbon combine Mafra with Ericeira, the surf town on the Atlantic coast 9km away, or with Sintra, 40km south. The GYG day trip (t428443) combines Mafra with Ericeira and Queluz Palace.\n\n**Tickets and access:** Adult entry is €6, one of the best-value major monuments in Portugal. The GYG entry ticket (t434082, $17) offers pre-booking convenience. The standard ticket covers the state apartments, the library and the basilica; allow at least 90 minutes. The library can only be visited as part of the standard guided circuit, with no independent access. Photography is permitted in most areas.\n\n**What to prioritise:** Arrive at opening (10:00) and head toward the library, even though it sits at the end of the standard circuit — it is the building's most extraordinary single room. See the basilica's exterior and twin bell towers from the main square, Terreiro D. João V; the 58-bell carillon is rung on Sundays, so check timing if you want to hear it. If time permits, the Tapada Nacional de Mafra has its own separate entrance and is worth the extra time — a combined visit to the palace and the Tapada fills a full half-day.",
+  "faqs": [
+    {
+      "question": "What is the library's bat colony and why is it there?",
+      "answer": "A colony of bats has lived in Mafra's Baroque library for centuries, emerging at night to eat the insects that would otherwise destroy the leather bindings of its 36,000 volumes. The bats are actively considered part of the collection's preservation strategy rather than a pest problem, and library staff cover the reading tables with leather sheets each evening to protect the surfaces from droppings. They depart before the library opens to visitors each morning."
+    },
+    {
+      "question": "Is Mafra Palace worth visiting if I'm already going to Sintra?",
+      "answer": "Yes — the two offer very different experiences. Sintra's palaces, especially Pena Palace, are colourful Romantic fantasies that draw large crowds. Mafra is a vast 18th-century Baroque convent-palace built on a scale closer to El Escorial or Versailles, and it receives a fraction of Sintra's visitor numbers. If you have a full day in the region, pairing Mafra's library and basilica with Sintra's hilltop palaces gives a much fuller picture of Portuguese royal architecture across two centuries."
+    },
+    {
+      "question": "What does the UNESCO inscription for Mafra cover?",
+      "answer": "The 2019 UNESCO World Heritage inscription covers the 'Royal Building of Mafra — Palace, Basilica, Convent, Cerco Garden and Hunting Park (Tapada)', recognising the entire designed landscape rather than just the palace building itself. This includes the 819-hectare walled hunting reserve, the Tapada Nacional de Mafra, immediately behind the main complex."
+    },
+    {
+      "question": "Is the Tapada Nacional de Mafra included in the palace ticket?",
+      "answer": "No — the Tapada Nacional de Mafra, the walled hunting reserve behind the palace, has its own separate entrance and ticket. Visitors wanting to see both the palace interior and the Tapada's grounds and wildlife should plan for a longer visit, typically a full half-day to do both properly."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mafra-palace.webp",
+    "alt": "The colossal Baroque facade and twin bell towers of Mafra Palace in Portugal, stretching across the main square",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mafra-palace.webp",
+  "instagram_tag": "#mafrapalace",
+  "meta_title": "Mafra Palace: Library, Basilica & Visitor Guide 2026",
+  "meta_description": "Visit Mafra Palace near Lisbon — João V's colossal Baroque convent-palace with its bat-guarded library and the largest basilica in Portugal. Tickets for 2026.",
+  "tags": ["baroque", "18th-century", "unesco-world-heritage", "royal-residence", "basilica", "library", "day-trip-from-lisbon"],
+  "last_updated": "2026-06-25",
+  "routes": ["sintra-palaces-route"],
+  "nearby_castles": ["pena-palace", "queluz-palace", "castle-of-the-moors", "obidos-castle"],
+  "gyg_location_id": "2074",
+  "gyg_search_query": "Mafra Palace Lisbon day trip tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "434082",
+      "title": "Mafra: National Palace of Mafra Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "1–3 hours",
+      "price_from": 17,
+      "rating": 4.5,
+      "reviews": 201,
+      "is_top_pick": true,
+      "covers_castles": ["mafra-palace"]
+    },
+    {
+      "tour_id": "428443",
+      "title": "From Lisbon: Mafra, Ericeira & Queluz Palace Day Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 92,
+      "rating": 5.0,
+      "reviews": 16,
+      "covers_castles": ["mafra-palace", "queluz-palace"]
+    }
+  ]
+}
