@@ -1,0 +1,109 @@
+{
+  "id": "hofburg-palace",
+  "name": "Hofburg Palace",
+  "local_name": "Hofburg",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 95,
+  "annual_visitors": 2000000,
+  "country": "austria",
+  "region": "Vienna",
+  "nearest_city": "Vienna",
+  "address": "Michaelerkuppel, 1010 Vienna, Austria",
+  "lat": 48.2082,
+  "lng": 16.3738,
+  "unesco": false,
+  "year_built": 1279,
+  "architectural_style": "Gothic, Renaissance, Baroque, Neoclassical",
+  "opening_hours": {
+    "monday": "09:00–17:30",
+    "tuesday": "09:00–17:30",
+    "wednesday": "09:00–17:30",
+    "thursday": "09:00–17:30",
+    "friday": "09:00–17:30",
+    "saturday": "09:00–17:30",
+    "sunday": "09:00–17:30",
+    "seasonal_note": "September–June: daily 09:00–17:30. July–August: daily 09:00–18:00. Last entry 1 hour before closing. Spanish Riding School performances and training sessions run on a separate schedule — check spanischehofreitschule.com."
+  },
+  "price_adult": 18,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hofburg-wien.at/en/",
+  "visit_duration": "2–3 hours",
+  "best_season": "Year-round; late November to December for Vienna's famous Christmas markets in the palace forecourt",
+  "accessibility": "The main Sisi Museum and Imperial Apartments route has lift access and is largely accessible for wheelchair users. Some historic courtyards have cobblestones. The Spanish Riding School has tiered seating accessible via lifts.",
+  "booking_advance_days": 0,
+  "tagline": "700 years of Habsburg rule compressed into one living palace at the absolute centre of imperial Vienna",
+  "highlights": [
+    "The Sisi Museum — the most personal portrait of Empress Elisabeth ever assembled, from her obsessive fitness equipment and travelling cosmetics case to the sash she wore when an anarchist's blade ended her life in Geneva in 1898",
+    "The Imperial Apartments of Emperor Franz Joseph — his famously austere iron military bed and the desk where he worked 18-hour days sit in stark contrast to the gold and crystal of the state rooms surrounding them",
+    "The Imperial Silver Collection — 20,000 pieces of Habsburg tableware, including a ceremonial dining service for 1,200 guests and the longest formal table setting reassembled anywhere in Europe",
+    "The Spanish Riding School in the Winter Riding School hall — Lipizzan horses performing classical equitation in an unbroken Baroque tradition dating to 1572, the oldest institution of its kind in the world",
+    "The Michaelerplatz entrance — a great triumphal arch leading straight through the palace complex to Heldenplatz and the Ringstrasse beyond"
+  ],
+  "description": "The Hofburg is not a single palace but a living city within Vienna, and that is precisely what sets it apart from Versailles or even its own sister palace, Schönbrunn. The office of the Austrian Federal President still occupies one wing. The National Library holds another. The Spanish Riding School trains its Lipizzaner stallions in a third. Walking through the Sisi Museum or the Imperial Apartments means moving through a building that is simultaneously a 13th-century fortress, a Baroque residence, a Neoclassical monument, and a functioning seat of government — a palace that never stopped being used.\n\nNo figure haunts the Hofburg more thoroughly than Empress Elisabeth, known to history as Sisi. She despised court protocol, spent much of her reign fleeing Vienna for Hungary, Madeira, and Corfu, and has nonetheless become Austria's most commercially potent historical figure — her face sold on mugs, chocolates, and tourist posters across the city. The Sisi Museum complicates that image deliberately. Alongside the idealised official portraits, it displays her obsessive exercise regime, her extreme dieting, her travelling vanity case, and the deeply unhappy woman behind the romanticised myth. Few palace museums anywhere are this candid about the gap between image and person.\n\nThe Imperial Apartments tell a different but related story. Franz Joseph was born in this palace in 1830, worked within its walls for 68 years, and died here in 1916 as the empire he embodied fought the war that would end it. His rooms are furnished with almost shocking restraint — an iron field bed, a plain washstand, a desk piled with paperwork — set within a building whose state rooms blaze with gilt and crystal chandeliers. The contrast is the point: a working monarch's private austerity inside a structure built entirely for ceremonial display.\n\nStep outside onto Heldenplatz, the great open square at the palace's western end, and the building's weight in modern history becomes unavoidable. It was here, in March 1938, that Hitler addressed a crowd of some 200,000 to announce the Anschluss. The Hofburg cannot and does not try to escape that history; it simply absorbs it, as it has absorbed seven centuries of additions, abdications, and reinventions before.",
+  "history": "The Habsburgs began building at this site in 1279, the founding date of the Hofburg as a dynastic seat, shortly after establishing Vienna as their capital. What started as a modest medieval fortress grew, over the following seven centuries, through the addition of a new wing under nearly every reigning emperor, each building in the architectural language of his own era. The result is the most architecturally incoherent major palace in Europe — and one of its most fascinating: Gothic vaults sit beside Baroque stucco, which sits beside Neoclassical marble, with no attempt at stylistic unity across the complex.\n\nThe last great addition, the Neue Burg wing, was not completed until 1913 — one year before the First World War set in motion the collapse of the empire the palace had been built to house. Franz Joseph died at the Hofburg in 1916, having reigned for 68 years, and his successor Karl I signed his abdication from the palace in November 1918, handing the building over to the newly declared Austrian republic.\n\nThat transfer began the Hofburg's extraordinary postwar afterlife. Rather than becoming a static monument, it remained at the centre of a functioning capital: today it houses the Austrian presidency, the National Library's state hall, the Spanish Riding School, multiple museums, and the convention centre that hosts diplomatic summits, all within the same walls that once held the Habsburg court.",
+  "how_to_visit": "**Getting there:** The most dramatic approach is on foot through the Michaelertor arch from Michaelerplatz. The U3 metro stops at Herrengasse, a 3-minute walk from the palace gates. The Hofburg is also a 10-minute walk from the State Opera and the Ringstrasse museums, making it easy to combine with a wider day in central Vienna.\n\n**Tickets:** The main combined ticket — Sisi Museum, Imperial Apartments, and Imperial Silver Collection — costs €18 for adults and €8 for children aged 6–18, and covers the essential Habsburg experience in one route. The Spanish Riding School requires a separate advance booking for performances, which sell out months ahead. The National Library's Baroque state hall (Prunksaal) has its own separate ticket and entrance.\n\n**Practical tips:** Arrive before 10:00 to get ahead of the tour groups that build steadily from mid-morning. The Imperial Silver Collection is frequently skipped by rushed visitors — allocate an extra 30 minutes for it, the table settings are extraordinary. The palace's courtyards are free to walk through at any time and give a good sense of the complex's scale even without a ticket. Combine with Schönbrunn on the same day only if you start early — both are substantial visits in their own right.",
+  "faqs": [
+    {
+      "question": "What is included in the Hofburg Palace ticket?",
+      "answer": "The standard combined ticket covers the Sisi Museum, the Imperial Apartments of Franz Joseph and Elisabeth, and the Imperial Silver Collection — three connected sections accessed via a single route. It costs €18 for adults and €8 for children aged 6 to 18. The Spanish Riding School, the National Library's Prunksaal, and the Hofburg's other museums (including the Treasury) require separate tickets."
+    },
+    {
+      "question": "How do I see the Spanish Riding School at the Hofburg?",
+      "answer": "Performances take place in the Winter Riding School, a Baroque hall used continuously by the Spanish Riding School since 1572. Tickets must be booked well in advance through spanischehofreitschule.com, as performance dates sell out months ahead. Morning training sessions, held more frequently and with more available tickets, offer a less expensive way to see the Lipizzaner stallions training in the same historic hall."
+    },
+    {
+      "question": "Who was Empress Sisi and why is she famous?",
+      "answer": "Empress Elisabeth of Austria, known as Sisi, married Emperor Franz Joseph in 1854 at the age of 16 and became one of the most photographed and mythologised women of the 19th century. She resented court protocol, suffered from severe anxiety and extreme dieting, and spent much of her later life travelling rather than residing in Vienna. She was assassinated by an Italian anarchist in Geneva in 1898. The Hofburg's Sisi Museum presents both the romanticised public image and the more troubled private reality."
+    },
+    {
+      "question": "How long does it take to visit the Hofburg?",
+      "answer": "Allow 2 to 3 hours for the Sisi Museum, Imperial Apartments, and Silver Collection combined ticket. Add at least an hour if you also want to see the Spanish Riding School performance or training session, and another 30–45 minutes for the National Library's Prunksaal. Visitors trying to cover the full complex in depth should plan for the better part of a day."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hofburg-palace.webp",
+    "alt": "The Hofburg Palace's grand Michaelertor entrance facade in central Vienna, with its imperial dome and statuary against a clear sky",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hofburg-palace.webp",
+  "instagram_tag": "#hofburgpalace",
+  "meta_title": "Hofburg Palace Vienna: Sisi Museum Tickets & Guide 2026",
+  "meta_description": "Visit the Hofburg Palace in Vienna — the Sisi Museum, Imperial Apartments, Silver Collection and Spanish Riding School. Book tickets and plan your visit for 2026.",
+  "tags": ["baroque", "gothic", "habsburg", "royal-residence", "sisi", "vienna", "instagram-worthy", "city-centre"],
+  "last_updated": "2026-06-25",
+  "routes": ["central-europe-palaces"],
+  "nearby_castles": ["schonbrunn-palace", "belvedere-palace", "hohensalzburg-fortress"],
+  "gyg_location_id": "3943",
+  "gyg_search_query": "Hofburg Palace Vienna tour Sisi Museum",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "471440",
+      "title": "Vienna: Skip-the-Line Sisi Museum, Hofburg and Gardens Tour",
+      "type": "guided_tour",
+      "duration": "2–3 hours",
+      "price_from": 60,
+      "rating": 4.8,
+      "reviews": 7102,
+      "is_top_pick": true,
+      "covers_castles": ["hofburg-palace"]
+    },
+    {
+      "tour_id": "377306",
+      "title": "Vienna: Hofburg and Empress Sisi Museum Guided Tour",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 55,
+      "rating": 4.7,
+      "reviews": 1582,
+      "covers_castles": ["hofburg-palace"]
+    }
+  ]
+}
