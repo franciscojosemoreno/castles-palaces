@@ -1,0 +1,110 @@
+{
+  "id": "queluz-palace",
+  "name": "Queluz Palace",
+  "local_name": "Palácio Nacional de Queluz",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 80,
+  "annual_visitors": 300000,
+  "country": "portugal",
+  "region": "Lisbon Region",
+  "nearest_city": "Lisbon",
+  "address": "Largo do Palácio, 2745-191 Queluz, Portugal",
+  "lat": 38.7519,
+  "lng": -9.2569,
+  "unesco": false,
+  "year_built": 1747,
+  "architectural_style": "Baroque, Rococo, Neoclassical",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "Closed",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Open daily except Tuesday, 09:00–18:00 (last entry 17:30). The gardens keep the same hours as the palace. Closed 1 January, Easter Sunday, 1 May and 25 December."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.palaciosnacionais.pt/en/palaces/national-palace-of-queluz/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "Spring and autumn for the gardens; summer is pleasant but avoid midday heat in the open parterres",
+  "accessibility": "Gardens are flat and accessible; palace interior has some uneven historic floors and limited step-free routing",
+  "booking_advance_days": 0,
+  "tagline": "The pink Versailles of Portugal, where the last Bragança court danced before the Republic",
+  "highlights": [
+    "The Throne Room — one of Europe's most accomplished Rococo throne rooms, its mirrored walls multiplying gilded swags and crystal chandeliers to infinity beneath a painted allegorical ceiling",
+    "The Neptune Canal — an 18th-century navigable canal lined entirely with azulejo tile panels depicting the Tagus River, mythology and court life, once used by the royal family for boating parties",
+    "The Music Room — octagonal and gilded, where the Portuguese court performed chamber music, and where the mad Queen Maria I spent her final years hearing orchestras no one else could hear",
+    "Two distinct façades — the Ceremonial Facade by Mateus Vicente de Oliveira (1747) and the Garden Facade by the French architect Jean-Baptiste Robillion — together showing Portugal's translation of French Baroque ideas into its own Rococo language",
+    "A fraction of Sintra's visitor numbers, meaning it is entirely possible to walk the Throne Room and the full length of the Neptune Canal with few other people in sight"
+  ],
+  "description": "Queluz is not a grand political statement but an intimate court pleasure palace. Built for the Infante Dom Pedro in the 1740s as a summer retreat 12 kilometres from Lisbon, it grew over several decades into the principal residence of the Portuguese royal family in the late 18th and early 19th centuries. Today it receives a fraction of the visitors who pack Pena Palace or the rest of Sintra, which means an unhurried encounter with rooms — the Rococo throne room above all — as accomplished as anything produced by an 18th-century European court.\n\nNo other palace in Europe has a garden canal lined entirely with azulejo tile panels. The Neptune Canal brings together two of Portugal's defining art forms, the formal garden and the decorative tile tradition, into a single object of real ambition: a functional waterway that the royal family genuinely used for boating parties, decorated from end to end with painted scenes of the Tagus, mythology and courtly life. Standing beside it in the low light of late afternoon is one of the experiences that separates a visit to Queluz from any other palace trip in Portugal.\n\nQueluz was also the setting for the last act of the Portuguese monarchy. King João VI returned here from Brazil in 1821 to a kingdom already fracturing under constitutional pressure. His son Pedro IV, Emperor of Brazil and briefly King of Portugal, died in the palace in 1834. The court that had once danced in the Throne Room and picnicked beside the canal continued using Queluz through the 19th century even as the monarchy's authority steadily eroded, until the Republic was declared in 1910 and the royal family went into exile, leaving the palace to the new Portuguese state.\n\nThe former royal kitchen, the Cozinha Velha, is a vast vaulted room built on a palatial scale and has since been converted into one of Portugal's most atmospheric restaurants. Eating in a room that once fed the royal court is worth planning a visit around — though it requires its own separate reservation and is not included with the standard palace ticket.",
+  "history": "Infante Dom Pedro, later King Pedro III, engaged the architect Mateus Vicente de Oliveira in 1747 to transform a small hunting lodge at Queluz into a proper summer palace. The project's scale and ambition grew steadily over the following decades: the French architect Jean-Baptiste Robillion later added the garden façades and designed the Neptune Canal, and construction continued into the 1790s, making Queluz the last major royal palace built in Portugal.\n\nQueluz sat at the centre of Portuguese political life through the reign of João VI and his wife Queen Carlota Joaquina in the late 18th century. In 1807, the entire royal court fled to Brazil ahead of Napoleon's invading army, leaving the palace empty and partially looted by occupying French forces. João VI's eventual return in 1821 set off a constitutional crisis that defined the final decades of absolutist rule in Portugal, with Queluz as its backdrop throughout.\n\nAfter the monarchy's fall in 1910, Queluz passed into state ownership and underwent restoration through the 20th century. It now functions as both a public museum and, through the adjacent Lion Building, a residence used to host visiting heads of state — making Queluz a still-functioning element of Portuguese state ceremony rather than a purely historical relic.",
+  "how_to_visit": "**Getting there:** Queluz lies 15km northwest of Lisbon. The easiest connection is the Sintra rail line from Lisbon's Rossio station to Queluz-Belas station, a 10-minute walk from the palace, with trains running roughly every 20 minutes and a journey time of about 20 minutes. By car, the IC19 motorway covers the same distance in around 20 minutes. Queluz is frequently combined with a Sintra day trip.\n\n**Tickets:** The standard entry ticket (€10 adults, free under 12) covers both the palace and the formal gardens. A fast-track ticket skips any queue, and an audio-guide ticket adds smartphone narration that fills in context the room labels do not provide. The Cozinha Velha restaurant requires a separate reservation and is not included with palace admission.\n\n**What to prioritise:** The Throne Room is essential — allow at least 10 minutes there. Walk the full length of the Neptune Canal, ideally in the afternoon light. The Robillion Pavilion's garden façades are best photographed from beside the canal. Don't skip the Music Room. Allow about 90 minutes for the combined palace and garden circuit.",
+  "faqs": [
+    {
+      "question": "How does Queluz Palace compare to Sintra's palaces?",
+      "answer": "Sintra's Pena Palace is a colourful 19th-century Romantic fantasy that draws large crowds and requires advance booking, while Queluz is an 18th-century Rococo court palace closer to Lisbon that sees far fewer visitors. Where Pena overwhelms with spectacle, Queluz rewards with intimacy — its Throne Room and Neptune Canal rank among Portugal's finest 18th-century interiors, experienced at a pace Sintra's busier sites rarely allow."
+    },
+    {
+      "question": "Is the Cozinha Velha restaurant at Queluz worth visiting?",
+      "answer": "Yes, for the setting as much as the food. The Cozinha Velha occupies the former royal kitchen, a vast vaulted space built on a palatial scale, and is one of the more atmospheric dining rooms in Portugal. It operates as a separate restaurant with its own reservation system and is not included in the standard palace admission ticket, so plan ahead if you want to combine the two."
+    },
+    {
+      "question": "Can I combine Queluz Palace with Sintra in a day?",
+      "answer": "Yes — Queluz sits roughly between Lisbon and Sintra on the same Sintra rail line from Rossio station, making it straightforward to visit Queluz in the morning and continue to Sintra's palaces in the afternoon, or the reverse. Allow around 90 minutes for Queluz alone, on top of whatever time you plan for Sintra."
+    },
+    {
+      "question": "What is the azulejo canal at Queluz and why is it significant?",
+      "answer": "The Neptune Canal is an 18th-century navigable waterway running alongside the palace gardens, lined from end to end with painted azulejo tile panels depicting scenes from the Tagus River, mythology and court life. It is the only palace garden canal of its kind in Europe, combining Portugal's formal garden tradition with its distinctive decorative tile art in a single object the royal family used for actual boating parties."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/queluz-palace.webp",
+    "alt": "Queluz Palace's pink Rococo facade and formal gardens near Lisbon, with the Neptune Canal visible in the foreground",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/queluz-palace.webp",
+  "instagram_tag": "#queluzpalace",
+  "meta_title": "Queluz Palace: Tickets, Gardens & Visitor Guide 2026",
+  "meta_description": "Visit Queluz Palace near Lisbon — Portugal's pink Rococo palace with the Throne Room, the azulejo Neptune Canal and the historic Cozinha Velha. Tickets for 2026.",
+  "tags": ["baroque", "rococo", "18th-century", "royal-residence", "bragança", "azulejo", "gardens", "instagram-worthy", "day-trip-from-lisbon"],
+  "last_updated": "2026-06-25",
+  "routes": ["sintra-palaces-route"],
+  "nearby_castles": ["pena-palace", "castle-of-the-moors", "obidos-castle"],
+  "gyg_location_id": "5064",
+  "gyg_search_query": "Queluz Palace Lisbon National Palace tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "156735",
+      "title": "Queluz National Palace & Gardens Ticket",
+      "type": "entry_ticket",
+      "duration": "1–3 hours",
+      "price_from": 7,
+      "rating": 4.6,
+      "reviews": 510,
+      "is_top_pick": true,
+      "certified_by_gyg": true,
+      "covers_castles": ["queluz-palace"]
+    },
+    {
+      "tour_id": "465888",
+      "title": "Queluz: National Palace and Gardens E-Ticket & Audio Guide",
+      "type": "audio_guide",
+      "duration": "1–2.5 hours",
+      "price_from": 16,
+      "rating": 4.5,
+      "reviews": 50,
+      "covers_castles": ["queluz-palace"]
+    }
+  ]
+}
