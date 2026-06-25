@@ -1,0 +1,120 @@
+{
+  "id": "linderhof-palace",
+  "name": "Linderhof Palace",
+  "local_name": "Schloss Linderhof",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 85,
+  "annual_visitors": 450000,
+  "country": "germany",
+  "region": "Bavaria",
+  "nearest_city": "Oberammergau",
+  "address": "Linderhof 12, 82488 Ettal, Germany",
+  "lat": 47.5703,
+  "lng": 10.9617,
+  "unesco": false,
+  "year_built": 1878,
+  "architectural_style": "Rococo Revival",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "April–October: daily 09:00–18:00, including the Venus Grotto and all outbuildings. November–March: daily 10:00–16:30, palace interior only — the Venus Grotto, Moorish Kiosk and other outbuildings are closed for winter. Timed entry required; book well ahead in summer."
+  },
+  "price_adult": 10,
+  "price_child": 0,
+  "booking_required": true,
+  "official_tickets_url": "https://www.schloesser.bayern.de/englisch/palace/objects/lind_pa.htm",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to October — Venus Grotto illuminated, grounds fully open; some outbuildings close in winter",
+  "accessibility": "The palace interior has steps throughout and is not fully accessible. The formal gardens are largely accessible on level ground. Contact Bavarian Palace Administration for details.",
+  "booking_advance_days": 14,
+  "tagline": "Ludwig II's smallest palace, an Alpine valley turned into a private fantasy of grottos and mirrored rooms",
+  "highlights": [
+    "The Venus Grotto — an artificial stalactite cave built to stage Wagner's Tannhäuser, its subterranean lake lit by some of Bavaria's first electric lights, where Ludwig was rowed alone at night",
+    "The Hall of Mirrors — a circular room where Ludwig dined at a mechanical 'table of silence' that descended into the kitchen below, so he never had to see a servant",
+    "The Moorish Kiosk — a peacock throne pavilion built for the 1867 Paris Exposition, purchased by Ludwig and reassembled whole in his gardens",
+    "Formal French gardens centred on a 25-metre fountain jet, the highest in Bavaria",
+    "The smallest of Ludwig II's three royal building projects — and the only one he actually completed and lived in"
+  ],
+  "description": "Linderhof is the smallest of King Ludwig II's three great building projects, tucked into the remotest Alpine valley of the three, and for that very reason it is the most revealing of his character. Neuschwanstein and Herrenchiemsee were left unfinished at his death, partial gestures toward an idea; Linderhof was completed and actually inhabited, which makes its obsessive interior detail and theatrical grounds the clearest available record of what Ludwig wanted his private world to feel like.\n\nThat private world was, in essence, Versailles in miniature, replayed obsessively. Every room at Linderhof references Louis XIV in some way — Ludwig considered the Sun King the ideal of absolute, theatrical, divinely sanctioned monarchy, an ideal increasingly out of reach for a 19th-century Bavarian king whose actual power was steadily being constrained by parliament and by Bismarck's new German Reich. The dining table mechanism, lowered into the kitchen so Ludwig need never see the servant who prepared his meal, and a bedchamber more lavishly appointed than anything at Versailles itself, both speak to a monarch building the absolutism he could no longer exercise in fact.\n\nThe approach to Linderhof amplifies the strangeness. A winding mountain road through Alpine forest gives no warning of what's coming, and then, abruptly, a formal French parterre garden appears in a high valley surrounded by the peaks of the Ammergau Alps — Baroque geometry dropped into terrain that has no business hosting it. The shock of that juxtaposition is, for many visitors, the most memorable single impression of the whole site.\n\nThe grounds beyond the palace are arguably the main event. The Venus Grotto, the Moorish Kiosk, the Moroccan House, and the cascading water features scattered through the woodland form something closer to a private theme park of royal fantasy than a conventional palace garden — each structure built to stage a particular mood or memory Ludwig wanted to inhabit, none of it intended for any audience beyond himself.",
+  "history": "The site began as a hunting lodge belonging to Ludwig II's father, Maximilian II. Ludwig rebuilt and expanded it in stages from 1869, working from designs by the architect Georg von Dollmann, transforming a modest royal retreat into the elaborate Rococo Revival palace and garden complex that survives today.\n\nThe Versailles references threaded through every room were not decorative whimsy but a genuine ideological project. Ludwig's fascination with Louis XIV intensified as his own authority within Bavaria and the newly unified German Reich grew more constrained; building monuments to absolute monarchy became, for him, a way of inhabiting a version of kingship that contemporary politics no longer permitted. The main palace building was completed in 1878, with the surrounding outbuildings and grottos added through the early 1880s.\n\nLudwig's pattern of visiting Linderhof reinforced its character as a private retreat rather than a functioning seat of government. He rarely came in daylight, often arriving after midnight by sleigh in winter, dining alone, and being rowed across the Venus Grotto's underground lake in the small hours before returning to Munich before dawn. After his death in 1886 — officially by drowning, under circumstances that remain disputed — his palaces, including Linderhof, were opened to a public eager to see the private world of a king who had become, in his final years, an object of both fascination and concern.",
+  "how_to_visit": "**Getting there:** There is no direct public transport route from Munich. Take a regional train to Oberammergau, then local bus 9622 to Linderhof — a journey of roughly 2 hours in total. Most visitors instead book a day trip from Munich that combines Linderhof with Neuschwanstein in a single outing.\n\n**Tickets:** Timed entry is required and should be booked well in advance during summer, particularly for Thursdays and weekends. A combined ticket covering the palace interior, the Venus Grotto, and the other outbuildings is the better-value option if you intend to see the full site.\n\n**Timing tip:** The Venus Grotto and Moorish Kiosk operate on separate timed-entry slots from the main palace. Arrive early in the day to have the best chance of securing entry to all three on the same visit, rather than missing one due to slots filling up.\n\n**Combine with:** Oberammergau, 11km away, is famous for traditional woodcarving and its decennial Passion Play, and makes a natural pairing with a Linderhof visit. Note that in winter (November to March), the Venus Grotto and most outbuildings close, leaving only the palace interior open.",
+  "faqs": [
+    {
+      "question": "Did King Ludwig II actually live at Linderhof?",
+      "answer": "Yes — unlike Neuschwanstein and Herrenchiemsee, which were left unfinished at his death, Linderhof was fully completed and is the one palace Ludwig II actually lived in and used regularly. He visited frequently, often at night, making it the most personally inhabited of his three major building projects."
+    },
+    {
+      "question": "What is the Venus Grotto at Linderhof?",
+      "answer": "The Venus Grotto is an artificial stalactite cave built in the palace grounds to stage the first act of Wagner's opera Tannhäuser. It contains a subterranean lake illuminated by coloured electric lights, among the earliest uses of electric lighting in Bavaria, on which Ludwig II would be rowed alone in a gilded shell-shaped boat, often late at night."
+    },
+    {
+      "question": "How do I get to Linderhof Palace from Munich?",
+      "answer": "There is no direct public transport. The route involves a regional train to Oberammergau followed by local bus 9622 to Linderhof, taking about 2 hours total. Most visitors find it easier to book a guided day trip from Munich, which typically combines Linderhof with Neuschwanstein Castle in the same outing."
+    },
+    {
+      "question": "Is Linderhof Palace a UNESCO World Heritage Site?",
+      "answer": "No. Despite its architectural and historical significance as part of King Ludwig II's building legacy, Linderhof Palace does not hold UNESCO World Heritage status. It remains under the care of the Bavarian Palace Administration as one of the most visited royal sites in Bavaria."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/linderhof-palace.webp",
+    "alt": "Linderhof Palace's Rococo Revival facade and formal fountain garden set in an Alpine valley near Oberammergau, Bavaria",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/linderhof-palace.webp",
+  "instagram_tag": "#linderhofpalace",
+  "meta_title": "Linderhof Palace: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Linderhof Palace in Bavaria — King Ludwig II's smallest palace, with the fantastical Venus Grotto and Hall of Mirrors. Tickets and Munich day trips for 2026.",
+  "tags": [
+    "rococo",
+    "19th-century",
+    "royal-residence",
+    "ludwig-ii",
+    "bavaria",
+    "gardens",
+    "instagram-worthy",
+    "alpine",
+    "grotto",
+    "day-trip-from-munich"
+  ],
+  "last_updated": "2026-06-25",
+  "routes": [],
+  "nearby_castles": ["neuschwanstein-castle", "hohenschwangau-castle", "nymphenburg-palace"],
+  "gyg_location_id": "33984",
+  "gyg_search_query": "Linderhof Palace tour from Munich Bavaria",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1753",
+      "title": "From Munich: Neuschwanstein & Linderhof Castle Full-Day Trip",
+      "type": "day_trip",
+      "duration": "10–10.5 hours",
+      "price_from": 87,
+      "rating": 4.6,
+      "reviews": 15730,
+      "is_top_pick": true,
+      "covers_castles": ["linderhof-palace", "neuschwanstein-castle"]
+    },
+    {
+      "tour_id": "91965",
+      "title": "From Munich: Premium Neuschwanstein Castle & Linderhof Tour",
+      "type": "guided_tour",
+      "duration": "Full day",
+      "price_from": 223,
+      "rating": 4.8,
+      "reviews": 1589,
+      "covers_castles": ["linderhof-palace", "neuschwanstein-castle"]
+    }
+  ]
+}

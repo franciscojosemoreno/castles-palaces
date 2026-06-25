@@ -1,0 +1,120 @@
+{
+  "id": "nymphenburg-palace",
+  "name": "Nymphenburg Palace",
+  "local_name": "Schloss Nymphenburg",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 88,
+  "annual_visitors": 300000,
+  "country": "germany",
+  "region": "Bavaria",
+  "nearest_city": "Munich",
+  "address": "Schloß Nymphenburg 1, 80638 Munich, Germany",
+  "lat": 48.1581,
+  "lng": 11.5032,
+  "unesco": false,
+  "year_built": 1664,
+  "architectural_style": "Baroque",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "April–October: daily 09:00–18:00. November–March: daily 10:00–16:00. The park and grounds remain open after the palace closes, until dusk. Outbuildings (Amalienburg, Pagodenburg, Badenburg, Magdalenenklause) close earlier in winter."
+  },
+  "price_adult": 18,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.schloesser.bayern.de/englisch/palace/objects/nymphb_p.htm",
+  "visit_duration": "2–3 hours",
+  "best_season": "May to September — palace park and gardens at their most spectacular; summer concerts in the orangery",
+  "accessibility": "The palace grounds and outer areas are largely accessible. The palace interior has steps; a limited accessible route is available — contact the palace directly for details.",
+  "booking_advance_days": 0,
+  "tagline": "The Wittelsbachs' Baroque summer palace, 700 metres of facade reflected in a canal running to the Alps",
+  "highlights": [
+    "A 700-metre-wide Baroque facade — the widest palace facade in Germany — anchoring the western edge of Munich's skyline",
+    "The Schönheitengalerie (Gallery of Beauties), King Ludwig I's collection of 36 portraits of beautiful women regardless of rank, from a cobbler's daughter to the dancer Lola Montez",
+    "The Marstallmuseum (Carriage Museum), housing the Wittelsbach dynasty's extravagantly gilded state coaches and ceremonial sleighs",
+    "The Amalienburg hunting lodge in the grounds — a Rococo jewel by François de Cuvilliés with a dazzling silver-and-mirror Hall of Mirrors",
+    "A formal canal running the full length of the palace and gardens, lined with avenues and still used today by Munich joggers, cyclists, and model boat enthusiasts"
+  ],
+  "description": "Nymphenburg's facade announces itself from a considerable distance: a continuous run of Baroque stonework 700 metres wide, wider in places than the comparable garden front at Versailles, forming the dominant feature of western Munich's skyline. Approached along the dead-straight canal that runs from the city toward the palace, the building reveals itself gradually — a central pavilion flanked by long galleries and outer wings, the whole composition mirrored in the water below.\n\nThat immense public face conceals a building of surprisingly intimate pleasures. Behind the ceremonial scale of the central hall, the apartments are sized for actual habitation rather than spectacle: rooms hung with court portraits, a private collection of Nymphenburg porcelain made on site since the 18th century, and chambers that feel domestic in a way the exterior gives no warning of. The contrast between monumental shell and human-scaled interior is part of what makes Nymphenburg rewarding to visit slowly rather than rushed.\n\nNo room captures the palace's particular character better than the Schönheitengalerie. King Ludwig I commissioned 36 portraits of women he considered the most beautiful in Bavaria, drawn deliberately from across the social order — a butcher's daughter and an English aristocrat hang beside princesses and the dancer Lola Montez, whose scandalous relationship with the king eventually contributed to his abdication. The gallery's quiet social levelling, rare for a 19th-century royal collection, remains one of the more unexpectedly progressive gestures in any European palace.\n\nThe grounds extend the experience well beyond the main building. Munich residents use the park daily — for running, cycling, and sailing model boats on the long canal — making Nymphenburg one of the rare royal palaces that functions simultaneously as a major heritage site and an ordinary part of city life. The Amalienburg, tucked into the woodland a short walk from the main palace, rewards the detour: a small Rococo hunting lodge whose circular Hall of Mirrors, lined in silver stucco, ranks among the finest Rococo interiors in Germany.",
+  "history": "Elector Ferdinand Maria of Bavaria gave Nymphenburg to his wife, Henriette Adelaide of Savoy, in 1664 as a gift to mark the birth of their long-awaited heir, the future Elector Max Emanuel. The original structure was a relatively modest Italian-style villa, a far smaller building than the palace that exists today.\n\nMax Emanuel, once he succeeded his father, expanded Nymphenburg substantially between 1701 and 1726, adding the flanking pavilions that began transforming the villa into a true palace complex. His successor, Carl Albrecht, continued the expansion through the 18th century, completing the long canal and the formal gardens that give the palace its current ceremonial approach and established Nymphenburg as the Wittelsbach dynasty's principal summer residence.\n\nThe palace's most consequential moment arrived almost by accident: King Ludwig II was born here on 25 August 1845, making Nymphenburg the birthplace of the monarch who would later build Neuschwanstein and Linderhof. The palace survived the Second World War largely intact, sparing Munich one of its most significant Baroque monuments and the porcelain manufactory that continues to operate in the grounds to this day.",
+  "how_to_visit": "**Getting there:** Take tram 17 from central Munich directly to the Schloss Nymphenburg stop, a journey of about 20 minutes. Drivers will find free parking within the palace grounds.\n\n**Tickets:** Palace interior only costs €13; the combined ticket covering the Marstallmuseum (Carriage Museum) and the Museum of Nymphenburg Porcelain is €18 and better value for most visitors given how much is included.\n\n**Suggested order:** Start inside the main palace, then work outward through the park to the satellite buildings. The Amalienburg is the standout among the outbuildings and deserves extra time — don't treat it as an afterthought to the main palace visit.\n\n**Timing and access:** The grounds are free to enter and stay open after the palace itself closes, making an evening walk along the canal a worthwhile option even outside opening hours. For the classic facade view, approach on foot or by tram from the Neuhausen side along the canal axis — the reflection of the full facade in the water is the defining image of Nymphenburg.",
+  "faqs": [
+    {
+      "question": "Is Nymphenburg Palace free to visit?",
+      "answer": "The palace interior requires a paid ticket (€13 for the palace alone, or €18 combined with the Marstallmuseum and porcelain museum). However, the surrounding park and gardens, including the canal and woodland paths to the outbuildings, are free to enter and open daily until dusk."
+    },
+    {
+      "question": "Where was King Ludwig II born?",
+      "answer": "King Ludwig II of Bavaria was born at Nymphenburg Palace on 25 August 1845. The future builder of Neuschwanstein and Linderhof first entered the world in this Baroque summer palace, a fact often noted by visitors connecting Munich's royal palaces with the Bavarian Alpine castles further south."
+    },
+    {
+      "question": "What is the Gallery of Beauties at Nymphenburg?",
+      "answer": "The Schönheitengalerie is a collection of 36 portraits commissioned by King Ludwig I, depicting women he considered the most beautiful in Bavaria regardless of their social rank. The collection deliberately mixes aristocrats with commoners — including the dancer Lola Montez, whose relationship with the king later contributed to political unrest and his abdication."
+    },
+    {
+      "question": "How long does it take to visit Nymphenburg Palace?",
+      "answer": "Allow 2 to 3 hours for the main palace interior and at least one of the park's outbuildings, particularly the Amalienburg. Visitors wanting to see all four satellite buildings (Amalienburg, Pagodenburg, Badenburg, and the Magdalenenklause) plus the full park should plan for closer to half a day."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/nymphenburg-palace.webp",
+    "alt": "Nymphenburg Palace's wide Baroque facade reflected in its formal canal, Munich, Bavaria",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/nymphenburg-palace.webp",
+  "instagram_tag": "#nymphenburgpalace",
+  "meta_title": "Nymphenburg Palace Munich: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Nymphenburg Palace in Munich — Bavaria's Baroque summer residence, birthplace of King Ludwig II, with the Gallery of Beauties. Tickets and tours for 2026.",
+  "tags": [
+    "baroque",
+    "17th-century",
+    "18th-century",
+    "royal-residence",
+    "munich",
+    "bavaria",
+    "gardens",
+    "instagram-worthy",
+    "porcelain",
+    "ludwig-ii"
+  ],
+  "last_updated": "2026-06-25",
+  "routes": [],
+  "nearby_castles": ["neuschwanstein-castle", "hohenschwangau-castle", "linderhof-palace"],
+  "gyg_location_id": "3575",
+  "gyg_search_query": "Nymphenburg Palace Munich tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "571037",
+      "title": "Munich Nymphenburg Palace & Carriage Museum Fast-Track Tour",
+      "type": "guided_tour",
+      "duration": "2–3 hours",
+      "price_from": 63,
+      "rating": 4.9,
+      "reviews": 64,
+      "is_top_pick": true,
+      "covers_castles": ["nymphenburg-palace"]
+    },
+    {
+      "tour_id": "701906",
+      "title": "Munich: Nymphenburg Palace Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-guided",
+      "price_from": 25,
+      "rating": 3.9,
+      "reviews": 385,
+      "covers_castles": ["nymphenburg-palace"]
+    }
+  ]
+}

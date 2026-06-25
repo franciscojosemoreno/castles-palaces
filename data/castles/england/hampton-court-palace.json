@@ -1,0 +1,121 @@
+{
+  "id": "hampton-court-palace",
+  "name": "Hampton Court Palace",
+  "local_name": "Hampton Court Palace",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 91,
+  "annual_visitors": 700000,
+  "country": "england",
+  "region": "Greater London",
+  "nearest_city": "London",
+  "address": "East Molesey, Surrey KT8 9AU, England",
+  "lat": 51.4036,
+  "lng": -0.3377,
+  "unesco": false,
+  "year_built": 1515,
+  "architectural_style": "Tudor, English Baroque",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "April–October: daily 10:00–18:00, last entry 17:00. November–March: daily 10:00–16:30, last entry 15:30. The gardens open earlier and close at dusk. The maze has its own ticketed entry within palace opening hours."
+  },
+  "price_adult": 28,
+  "price_child": 14,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hrp.org.uk/hampton-court-palace/",
+  "visit_duration": "3–4 hours",
+  "best_season": "May to September — gardens and maze at their best; the famous Hampton Court flower show in July",
+  "accessibility": "Most ground-floor rooms and the gardens are accessible for wheelchair users. The maze and some upper-floor areas have limited accessibility. Historic Royal Palaces provides accessibility guides on their website.",
+  "booking_advance_days": 7,
+  "tagline": "Henry VIII's Tudor powerhouse on the Thames, hiding the world's oldest hedge maze in its gardens",
+  "highlights": [
+    "The Great Hall — the finest surviving Tudor hammer-beam ceiling in England, hung with original Flemish tapestries commissioned by Henry VIII",
+    "The Haunted Gallery, where Catherine Howard is said to have run screaming toward Henry VIII's chapel after her arrest, with visitors still reporting unexplained cold spots",
+    "The Hampton Court Maze, the UK's oldest surviving hedge maze, planted around 1700 for William III and still genuinely disorienting after 300 years",
+    "The Baroque State Apartments built for William III by Christopher Wren — a palace within the palace, with ceilings painted by Antonio Verrio and woodcarving by Grinling Gibbons",
+    "The Tudor Kitchens, the largest surviving Tudor kitchen complex in existence, covering 3,000 square metres and once feeding 800 people a day"
+  ],
+  "description": "Hampton Court is, structurally, two palaces fused into one. Approach from the west and you meet Henry VIII's brick Tudor gatehouse and the medieval-feeling courtyards beyond it; walk through to the east front and the building changes entirely into Christopher Wren's disciplined red-brick Baroque, built for William III and Mary II a century and a half later. The join between the two is visible if you know where to look, and that visible seam is the whole story of the palace in a single architectural fact.\n\nFor roughly two centuries Hampton Court stood among the most important royal residences in England, not a retreat from power but a working seat of it — the backdrop to councils of state, royal births, and the day-to-day administration of the Tudor and Stuart courts. Standing in the Great Hall, beneath the hammer-beam roof and surrounded by the Flemish tapestries Henry VIII commissioned at enormous expense, it is possible to feel the scale of Tudor royal ambition in a way that few surviving buildings communicate so directly.\n\nThe gardens reward equally specific attention. The maze, planted around 1700, remains the UK's oldest surviving hedge maze and is still capable of genuinely disorienting visitors three centuries on. The Great Vine, planted in 1768, still produces grapes today and is reputedly the oldest known vine in the world under continuous cultivation. The sunken pond gardens, originally dug as fishponds to supply Henry VIII's kitchens, now form one of the most photographed formal garden features on the site.\n\nWhat makes a visit to Hampton Court distinct from other English royal palaces is this constant layering — Tudor brick against Baroque stone, working kitchens against painted state apartments, ghost stories against horticultural history — all compressed into one riverside site that never stopped being added to until it simply stopped being a royal residence at all.",
+  "history": "Cardinal Thomas Wolsey, Henry VIII's powerful Lord Chancellor, acquired the site in 1515 and built himself one of the grandest private residences in Europe — a palace so opulent it rivalled royal properties and ultimately contributed to his downfall. When Wolsey fell from royal favour in 1529, he surrendered Hampton Court to Henry VIII in a desperate, unsuccessful attempt to win back the king's goodwill.\n\nHenry VIII expanded the palace dramatically after taking possession, and it became central to the personal drama of his reign. Jane Seymour died at Hampton Court shortly after giving birth to the future Edward VI; Catherine Howard was arrested here before her execution, giving rise to the enduring ghost story of the Haunted Gallery. Every Tudor and Stuart monarch after Henry continued to use the palace, cementing its status as one of the most important royal residences in England for two centuries.\n\nThe palace's hybrid character dates to 1689, when William III and Mary II commissioned Christopher Wren to rebuild Hampton Court entirely in the fashionable Baroque style, intending to demolish Henry VIII's Tudor palace completely. Money and royal attention ran out before the project could be finished, leaving Wren's new state apartments standing directly alongside the surviving Tudor courtyards — an accident of budget and timing that produced the architecturally layered building seen today. George II was the last reigning monarch to use Hampton Court as a residence, in the 1730s, after which the palace gradually transitioned toward its current role as one of England's most visited historic sites.",
+  "how_to_visit": "**Getting there:** Direct trains run from London Waterloo to Hampton Court station in about 35 minutes; the palace is a 5-minute walk from the station across the river bridge. Drivers will find paid parking on site. In summer, a more leisurely option is the Thames river boat from Westminster Pier, a scenic journey of around 4 hours each way.\n\n**Tickets:** Book directly through Historic Royal Palaces, or via a GetYourGuide day trip that bundles transport and admission together.\n\n**Timing:** Arrive at opening time to walk through the State Apartments before tour groups build up through the morning. Visit the maze in the late afternoon, when crowds typically thin out and you're more likely to genuinely get lost rather than just follow the person ahead of you.\n\n**Combine with:** A riverside walk along the Thames toward Kingston upon Thames takes about 20 minutes and makes a pleasant extension to the visit. Even visitors short on time should not skip the gardens — the spring flower borders alone are worth the trip, independent of the palace interior.",
+  "faqs": [
+    {
+      "question": "How many of Henry VIII's wives lived at Hampton Court?",
+      "answer": "Several of Henry VIII's wives are closely associated with Hampton Court. Jane Seymour gave birth to the future Edward VI here and died shortly afterward. Catherine Howard was arrested at the palace before her execution, an episode tied to the famous ghost story of the Haunted Gallery. Catherine Parr also lived at Hampton Court as queen, and the palace was the setting for Henry VIII's wedding to Jane Seymour."
+    },
+    {
+      "question": "Who built Hampton Court Palace?",
+      "answer": "Cardinal Thomas Wolsey originally built Hampton Court as his private residence from 1515. Henry VIII acquired and substantially expanded the palace after Wolsey's fall from power in 1529. The palace's later Baroque wing was built by Christopher Wren from 1689, commissioned by William III and Mary II, who intended to replace the Tudor palace entirely but ran out of funds before completing the project."
+    },
+    {
+      "question": "Is Hampton Court Palace haunted?",
+      "answer": "Hampton Court's best-known ghost story concerns the Haunted Gallery, where Catherine Howard is said to have run screaming after her arrest, attempting to reach Henry VIII in the chapel to beg for mercy. Visitors and staff have long reported unexplained cold spots and other unsettling experiences in this corridor, making it one of the most discussed haunted locations among England's royal palaces."
+    },
+    {
+      "question": "How do you get from London to Hampton Court Palace?",
+      "answer": "The fastest option is a direct train from London Waterloo to Hampton Court station, taking about 35 minutes, with the palace a 5-minute walk over the river bridge. In summer, a scenic alternative is the Thames river boat departing from Westminster Pier, though the journey takes around 4 hours each way."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hampton-court-palace.webp",
+    "alt": "Hampton Court Palace's Tudor gatehouse and Baroque wings beside the Thames, Greater London",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hampton-court-palace.webp",
+  "instagram_tag": "#hamptoncourtpalace",
+  "meta_title": "Hampton Court Palace: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Hampton Court Palace near London — Henry VIII's Tudor palace, the UK's oldest hedge maze, and Wren's Baroque State Apartments. Tickets and tours for 2026.",
+  "tags": [
+    "tudor",
+    "english-baroque",
+    "palace",
+    "16th-century",
+    "royal-residence",
+    "henry-viii",
+    "maze",
+    "haunted",
+    "instagram-worthy",
+    "thames",
+    "day-trip-from-london"
+  ],
+  "last_updated": "2026-06-25",
+  "routes": [],
+  "nearby_castles": ["tower-of-london", "windsor-castle", "blenheim-palace", "hever-castle"],
+  "gyg_location_id": "4673",
+  "gyg_search_query": "Hampton Court Palace tour London",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "70032",
+      "title": "Hampton Court Palace Half-Day Trip from London with Tickets",
+      "type": "day_trip",
+      "duration": "5.5 hours",
+      "price_from": 106,
+      "rating": 4.1,
+      "reviews": 30,
+      "is_top_pick": true,
+      "covers_castles": ["hampton-court-palace"]
+    },
+    {
+      "tour_id": "443122",
+      "title": "Royal Hampton Court Guided Tour with Afternoon Tea",
+      "type": "guided_tour",
+      "duration": "2.5 hours",
+      "price_from": 202,
+      "rating": 4.9,
+      "reviews": 80,
+      "covers_castles": ["hampton-court-palace"]
+    }
+  ]
+}
