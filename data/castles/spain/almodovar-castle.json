@@ -1,0 +1,106 @@
+{
+  "id": "almodovar-castle",
+  "name": "Almodóvar Castle",
+  "local_name": "Castillo de Almodóvar del Río",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 82,
+  "annual_visitors": 80000,
+  "country": "spain",
+  "region": "Andalusia",
+  "nearest_city": "Almodóvar del Río",
+  "address": "C. Castillo, s/n, 14720 Almodóvar del Río, Córdoba, Spain",
+  "lat": 37.7985,
+  "lng": -5.0175,
+  "unesco": false,
+  "year_built": 760,
+  "architectural_style": "Umayyad Moorish origin (760 AD); extensively rebuilt in Almohad style; romantic nationalist restoration by the 4th Count of Torreblanca, 1901–1936",
+  "opening_hours": {
+    "monday": "10:00–14:30, 16:00–19:00",
+    "tuesday": "10:00–14:30, 16:00–19:00",
+    "wednesday": "10:00–14:30, 16:00–19:00",
+    "thursday": "10:00–14:30, 16:00–19:00",
+    "friday": "10:00–14:30, 16:00–19:00",
+    "saturday": "10:00–14:30, 16:00–19:00",
+    "sunday": "10:00–14:30, 16:00–19:00",
+    "seasonal_note": "Closed daily 14:30–16:00 for the traditional Andalusian siesta — arrive before 13:30 to complete the full visit before this closure. Summer hours extend slightly later in the evening; check the official site before visiting."
+  },
+  "price_adult": 14,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.castillodealmodovar.com",
+  "visit_duration": "1–2 hours",
+  "best_season": "March to May, September to November (avoid summer heat and siesta closure 14:30–16:00)",
+  "accessibility": "Limited — the castle involves stairs and uneven medieval stone surfaces throughout the towers and walls; the lower courtyard is more level",
+  "booking_advance_days": 0,
+  "tagline": "Nine towers above the Guadalquivir, rebuilt as a romantic vision of the Moorish frontier",
+  "highlights": [
+    "A silhouette of nine towers visible from miles across the Guadalquivir valley, looking more medieval than almost any castle that actually survived the Middle Ages intact",
+    "Foundations laid under the Umayyad emirate of Córdoba in 760 AD and expanded by Abd al-Rahman III as part of the Caliphate's defensive ring around the capital",
+    "A 35-year romantic nationalist restoration (1901–1936) by Don Luis de la Cerda y Fernández de Córdoba, 4th Count of Torreblanca, who rebuilt a roofless ruin into the castle visitors see today",
+    "The exterior of Casterly Rock, seat of House Lannister, in Season 7 of HBO's Game of Thrones — the Unsullied assault on the Lannister stronghold was filmed here",
+    "Still the private property of the Count of Torreblanca's descendants, giving the visit an intimate, lived-in quality unlike state-run monuments nearby"
+  ],
+  "description": "From across the Guadalquivir valley, Almodóvar Castle looks like the platonic ideal of a medieval Spanish fortress — nine towers crowning a hill, walls following the contour of the rock, the whole silhouette legible from kilometres away. The paradox is that almost everything visitors actually walk through dates from 1901 to 1936, even though the site itself has been fortified continuously since 760 AD. Few castles in Spain demonstrate so clearly how thin the line can be between restoration and reinvention — and how little that distinction matters to the eye.\n\nThe hill was first fortified under the Umayyad emirate of Córdoba, controlling a strategic crossing of the Guadalquivir river on the approach to the emirate's capital. Abd al-Rahman III expanded the fortifications between 912 and 961 AD as part of the wider defensive ring the Caliphate of Córdoba built around its seat of power, and the lower courses of the curtain walls and the base of the Torre del Homenaje, the keep, still preserve original Almohad masonry beneath later rebuilding — genuine medieval stonework hiding in plain sight beneath a castle that looks, at first glance, almost too perfect to be real.\n\nFerdinand III of Castile captured the castle in 1240 during the Reconquista, after which it passed through a succession of noble houses, including the powerful House of Guzmán. By the 19th century it had collapsed into picturesque ruin — roofless, its towers crumbling, vegetation reclaiming the courtyards — the fate of most Spanish castles that lost their military function once the frontier with Islamic Iberia closed. That ruin is what Don Luis de la Cerda y Fernández de Córdoba, 4th Count of Torreblanca, purchased in 1901, and what he spent the rest of his life — 35 years — rebuilding into a romantic nationalist vision of what a medieval Spanish castle ought to look like: machicolations added, towers rebuilt to full height, a chapel and a medieval great hall installed where none had clearly stood before. The result never existed in quite this form at any single point in history, yet nearly every individual element has genuine historical precedent somewhere in the building's long life. It is invented and authentic at the same time.\n\nThat photogenic unreality is precisely what drew HBO's Game of Thrones to the castle for Season 7, where it served as the exterior of Casterly Rock, the ancestral seat of House Lannister, most memorably during the Unsullied's assault on the stronghold. The association has measurably increased the castle's international visitor numbers since the episode aired, bringing fans who arrive specifically to stand where Grey Worm's army breached the Lannister walls — a fittingly theatrical postscript for a castle that was already, in its own way, a 20th-century work of architectural fiction built on real medieval bones.",
+  "history": "The hill above the Guadalquivir was first fortified under the Umayyad emirate of Córdoba in 760 AD, controlling a key river crossing on the approach to the emirate's capital. Abd al-Rahman III, who proclaimed himself Caliph of Córdoba in 929, expanded the fortifications between 912 and 961 AD as part of a defensive ring of strongholds protecting the Caliphate's seat of power — Almodóvar's position made it one of the more strategically important links in that chain. The Torre del Homenaje and the lower sections of the curtain wall still preserve masonry from this Almohad-era phase of construction beneath later rebuilding.\n\nFerdinand III of Castile took the castle in 1240 as part of the broader Reconquista campaign that brought Córdoba and its surrounding territory under Christian control. Over the following centuries it passed through several noble Castilian houses, including the House of Guzmán, serving as a residence and a symbol of regional lordship rather than a frontier fortress, since the military border with Islamic Iberia had moved south. As its defensive function faded, so did its upkeep, and by the 19th century the castle had fallen into substantial ruin — roofless, overgrown, its towers crumbling toward collapse.\n\nIn 1901, Don Luis de la Cerda y Fernández de Córdoba, 4th Count of Torreblanca, purchased the ruin and began a restoration that would occupy the rest of his life, continuing until 1936. Working in the romantic nationalist spirit common across Europe at the time — the same impulse that produced Pierrefonds in France and Hohenzollern in Germany — he rebuilt the towers to full height, added machicolations, and installed a chapel and a medieval-style great hall, creating a castle that synthesised historical precedent into something more complete and dramatic than the building had ever actually been. The castle has remained in private hands ever since, still belonging to the Count of Torreblanca's descendants.",
+  "how_to_visit": "**Getting there:** A local bus from Córdoba runs to Almodóvar del Río for around €2, stopping near the castle entrance; the journey takes roughly 30–40 minutes. By car, the castle is about 25 minutes from central Córdoba via the A-431. The village itself is small and easily walkable from the bus stop to the castle gate.\n\n**The visit and the siesta closure:** The self-guided tour follows information boards in seven languages through the towers, curtain walls, chapel and medieval hall, with the views from the top tower over the Guadalquivir valley among the best in the region. The castle closes daily from 14:30 to 16:00 for the traditional Andalusian siesta — arrive before 13:30 if you want to complete the full circuit without an interruption, since re-entry after the midday closure means starting again from the ticket office.\n\n**A private castle:** Almodóvar remains the private property of the Count of Torreblanca's family, which gives it a noticeably more intimate feel than state-run Andalusian monuments nearby — there are no concession stands inside and no gift shop visible from the main circuit, just the rooms, walls and towers themselves.",
+  "faqs": [
+    {
+      "question": "Is Almodóvar Castle real or rebuilt?",
+      "answer": "Both. The hill has been fortified continuously since 760 AD, and genuine Umayyad and Almohad masonry survives in the lower walls and the base of the keep, but almost everything visitors see above that — the towers, machicolations, chapel and great hall — was rebuilt between 1901 and 1936 by the 4th Count of Torreblanca, working from a roofless ruin. The result combines real medieval foundations with an early 20th-century romantic vision of what a medieval Spanish castle should look like."
+    },
+    {
+      "question": "Was Almodóvar Castle used in Game of Thrones?",
+      "answer": "Yes. The castle served as the exterior of Casterly Rock, the ancestral seat of House Lannister, in Season 7 of HBO's Game of Thrones, most notably in the scenes depicting the Unsullied army's assault on the Lannister stronghold. The association has significantly increased the castle's international visitor numbers since the episode aired."
+    },
+    {
+      "question": "Why does the castle close in the middle of the day?",
+      "answer": "Almodóvar Castle observes the traditional Andalusian siesta, closing daily from 14:30 to 16:00. Visitors planning to see the full circuit in one visit should arrive before about 13:30 to allow enough time before the closure, since the castle does not refund or carry over partial visits across the midday break."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/almodovar-castle.webp",
+    "alt": "Almodóvar Castle's nine towers crowning a hill above the Guadalquivir valley in Andalusia, Spain",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/almodovar-castle.webp",
+  "instagram_tag": "#almodovarcastle",
+  "meta_title": "Almodóvar Castle, Spain: Tickets, Hours & Visitor Guide 2026",
+  "meta_description": "Visit Almodóvar Castle near Córdoba — nine towers above the Guadalquivir, a romantic 20th-century rebuild on Moorish foundations, and Casterly Rock from Game of Thrones.",
+  "tags": ["moorish", "medieval", "andalusia", "romantic-restoration", "film-location", "private-castle", "day-trip-from-cordoba"],
+  "last_updated": "2026-06-26",
+  "routes": ["andalucia-palaces"],
+  "nearby_castles": ["alcazar-seville", "alhambra-granada", "alcazaba-de-almeria"],
+  "gyg_location_id": "147721",
+  "gyg_search_query": "Almodovar Castle Cordoba tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 2,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "384541",
+      "title": "Córdoba: Almódovar Castle Entrance Ticket",
+      "type": "entrance_ticket",
+      "duration": "1 hour",
+      "price_from": 13,
+      "rating": 4.7,
+      "reviews": 551,
+      "is_top_pick": true,
+      "covers_castles": ["almodovar-castle"]
+    },
+    {
+      "tour_id": "923816",
+      "title": "Guided Tour of Almodovar Castle with Admission Included",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 30,
+      "rating": 4.5,
+      "reviews": 6,
+      "is_top_pick": false,
+      "covers_castles": ["almodovar-castle"]
+    }
+  ]
+}
