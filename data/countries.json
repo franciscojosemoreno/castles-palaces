@@ -622,5 +622,23 @@
       "url": "/images/countries/malta-thumb.webp",
       "alt": "Fort St. Angelo above Grand Harbour, Malta"
     }
+  },
+  {
+    "slug": "kosovo",
+    "name": "Kosovo",
+    "description": "Europe's newest country carries an outsized share of Balkan history in a small footprint. Prizren Fortress, rebuilt by Sultan Mehmed II on Byzantine foundations, watched the 1878 founding of the League of Prizren — the first organised Albanian national movement — directly below its walls. Kosovo's fortified hilltops trace a continuous line from Byzantine garrison to Ottoman provincial seat to the birthplace of modern Albanian and Kosovar identity.",
+    "hero_image": {
+      "url": "/images/countries/kosovo.webp",
+      "alt": "Prizren Fortress ramparts overlooking the rooftops of Prizren, Kosovo",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "prizren-fortress"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/kosovo-thumb.webp",
+      "alt": "Prizren Fortress above the city of Prizren, Kosovo"
+    }
   }
 ]

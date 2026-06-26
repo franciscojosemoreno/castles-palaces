@@ -21,7 +21,7 @@ export default function CastlesIndexPage() {
           Castles &amp; Palaces of Europe
         </h1>
         <p className="text-stone-600 text-lg max-w-2xl">
-          {castles.length} historic sites across 40 countries, with visitor guides, ticket information and curated tours.
+          {castles.length} historic sites across 41 countries, with visitor guides, ticket information and curated tours.
         </p>
       </div>
 

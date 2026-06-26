@@ -74,7 +74,7 @@
   "tags": ["venetian", "montenegrin-castle", "adriatic", "old-town", "coastal"],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": ["kotor-city-walls"],
   "gyg_location_id": "246833",
   "gyg_search_query": "Budva citadel Montenegro old town tour",
   "gyg_widget_type": "activities",
