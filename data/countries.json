@@ -604,5 +604,23 @@
       "url": "/images/countries/north-macedonia-thumb.webp",
       "alt": "Samuel's Fortress on the hills above Ohrid Lake"
     }
+  },
+  {
+    "slug": "malta",
+    "name": "Malta",
+    "description": "Malta's castle heritage is inseparable from its geography — a limestone archipelago in the Mediterranean's narrowest passage, fought over by every empire that needed to control that crossing. The Knights of St. John built a harbour fortress here that held against 40,000 Ottoman troops in 1565 and refused to surrender to the Luftwaffe in 1942. No other country of comparable size has accumulated more military history per square kilometre.",
+    "hero_image": {
+      "url": "/images/countries/malta.webp",
+      "alt": "Fort St. Angelo's bastions rising above Grand Harbour, Malta",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "fort-st-angelo"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/malta-thumb.webp",
+      "alt": "Fort St. Angelo above Grand Harbour, Malta"
+    }
   }
 ]
