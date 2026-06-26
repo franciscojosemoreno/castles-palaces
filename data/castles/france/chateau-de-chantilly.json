@@ -1,0 +1,109 @@
+{
+  "id": "chateau-de-chantilly",
+  "name": "Château de Chantilly",
+  "local_name": "Château de Chantilly",
+  "type": "chateau",
+  "status": "published",
+  "featured": true,
+  "priority_score": 85,
+  "annual_visitors": 500000,
+  "country": "france",
+  "region": "Île-de-France",
+  "nearest_city": "Paris",
+  "address": "7 Rue du Connétable, 60500 Chantilly, France",
+  "lat": 49.1942,
+  "lng": 2.4843,
+  "unesco": false,
+  "year_built": 1560,
+  "architectural_style": "Renaissance, Neo-Renaissance",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "Closed",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Château and Condé Museum open Wednesday–Monday 10:00–18:00, closed Tuesdays. The Grandes Écuries (Great Stables) open at 12:00. Closed in January for annual maintenance — check chateaudechantilly.fr before visiting."
+  },
+  "price_adult": 20,
+  "price_child": 10,
+  "booking_required": false,
+  "official_tickets_url": "https://chateaudechantilly.fr/en/",
+  "visit_duration": "3–4 hours",
+  "best_season": "May to October; French formal gardens at their best in late spring; the estate is 25 minutes from Paris by train and rarely crowded compared to Versailles",
+  "accessibility": "Gardens and grounds fully accessible; château interior has historic stairs on upper floors; wheelchair users should contact the château in advance for ground-floor access arrangements",
+  "booking_advance_days": 2,
+  "tagline": "The neo-Renaissance château 25 minutes from Paris housing the second-greatest old masters collection in France",
+  "highlights": [
+    "The Condé Museum — over 800 old master paintings including works by Raphael, Botticelli, Poussin, Delacroix, Ingres and Watteau, displayed exactly as the Duc d'Aumale arranged them in 1897, under a bequest forbidding anything to be moved, sold or lent",
+    "The Grandes Écuries — a horseshoe-shaped stable 186 metres long, built 1719–1740 for a Prince de Condé who believed he would be reincarnated as a horse, capable of housing 240 horses and 500 dogs and now home to the Living Museum of the Horse",
+    "André Le Nôtre's French formal gardens, designed 1663–1686 with a 100-metre-wide, 2.5-kilometre canal, alongside a 19th-century English garden, an Anglo-Chinese garden and a model-farm Hameau across 115 hectares of grounds",
+    "The Très Riches Heures du Duc de Berry — one of the most important illuminated manuscripts in the world, painted by the Limbourg brothers around 1410–1416 and held in the château's library, a defining work of International Gothic art",
+    "Crème Chantilly itself — perfected at the château in the 17th century by François Vatel, maître d'hôtel to the Prince de Condé, whose dramatic 1671 death is recorded by Madame de Sévigné as one of the great anecdotes of Louis XIV's court"
+  ],
+  "description": "Chantilly is 25 minutes from Paris by train, contains world-class art, architectural magnificence on a Versailles-comparable scale, and formal gardens designed by Le Nôtre — yet its crowds are a fraction of Versailles and its admission price lower. Most Paris visitors go to Versailles and skip Chantilly entirely, a genuine distortion of relative value. Chantilly has things Versailles does not: the Condé Museum's Raphaels, the Great Stables as a monument in their own right, and the intimacy of a collection assembled by a private individual rather than arranged by a state institution. Versailles overwhelms. Chantilly rewards.\n\nHenri d'Orléans, Duc d'Aumale (1822–1897), fifth son of King Louis-Philippe, was one of the great collector-princes of 19th-century Europe. Exiled after the fall of the July Monarchy, he spent decades in England assembling an extraordinary collection of paintings, manuscripts and objects. He had inherited Chantilly in 1830 and spent the rest of his life restoring the château — stripped during the Revolution — into a repository of French art and history. His condition of bequest to the Institut de France, that nothing be moved, sold or lent, was a deliberate act of resistance against the museum logic of dispersal and rearrangement. The rooms are exactly as he left them; the experience is of a great collection in its original setting, something almost impossible to find anywhere else.\n\nThe estate is actually three distinct buildings raised three centuries apart. The site has been occupied since Carolingian times, and the first significant château was built by the Montmorency family in the 16th century. The 'Petit Château', built around 1560 by Jean Bullant for the Constable de Montmorency, is the only surviving Renaissance structure and contains the estate's most beautiful room, the Santuario, with its painted wooden ceiling. The 'Grand Château', on the same island as the Petit Château, was demolished during the Revolution and rebuilt between 1876 and 1882 by the Duc d'Aumale in the Neo-Renaissance style. The Great Stables stand separately across the road. Together these three structures form the coherent ensemble visitors see today.\n\nBuy tickets online and arrive by train from Paris Gare du Nord, a 25-minute journey, with the station a 15-minute walk from the château. Allow 4 hours minimum for the château, museum, stables and formal gardens. The Condé Museum rooms are the principal destination — do not rush them for the gardens. The Hameau model farm at the far end of the gardens requires an additional 30-minute walk but is peaceful and historically significant, and the equestrian demonstrations at the Great Stables run multiple times daily, taking 45 minutes each. Crème Chantilly at the château café after the visit is, by any reasonable account, mandatory.",
+  "history": "Thibaud de Chantilly held the estate in the 13th century, and the Montmorency family developed it through the 16th century, commissioning Jean Bullant to build the Petit Château around 1560 for the Constable Anne de Montmorency — the structure that survives today as the estate's oldest building. The execution of Henri II de Montmorency in 1632 transferred the estate to the House of Condé, and the Grand Condé (Louis II de Bourbon, Prince de Condé, 1621–1686), the general who had defeated the Spanish at Rocroi before later rebelling against Louis XIV and being rehabilitated, developed the Grand Château and commissioned André Le Nôtre for the gardens. It was at a 1671 dinner for Louis XIV that François Vatel, the household's maître d'hôtel and the figure credited with perfecting crème Chantilly, died by his own hand after fearing a fish delivery would arrive too late for the king's table.\n\nThe Revolution brought confiscation and the demolition of the Grand Château, which was stripped of its contents and its stone sold off, though the Petit Château and the Great Stables survived. Henri d'Orléans, Duc d'Aumale, inherited the estate in 1830, was exiled after 1848, and spent his years in England at Twickenham assembling the collection that would become the Musée Condé. On his return to France he undertook the systematic reconstruction of the Grand Château between 1876 and 1882, assembling the collection now displayed there, and in 1884 bequeathed the entire estate to the Institut de France on condition that nothing be moved, sold or lent — an instruction honoured to this day. He died in 1897.\n\nThe château opened to the public after the First World War, and the Musée Condé was formally established in 1923. German forces occupied the château as a headquarters during the Second World War, after which a long programme of post-war restoration began. The Très Riches Heures du Duc de Berry, held in the château's library, was registered on UNESCO's Memory of the World list in 2013. Chantilly remains one of the most significant private art collections in France displayed in its original setting, managed by the Institut de France.",
+  "how_to_visit": "**Getting there from Paris:** The fastest route is by train from Paris Gare du Nord — regular Transilien H and TER trains to Chantilly-Gouvieux station, a journey of 25–35 minutes, running roughly hourly. From the station it is a 15-minute walk to the château along the Condé forest road, or a short taxi ride. By car from Paris, the château is 55km north via the A1 motorway (exit 7, Survilliers/Chantilly), about 50 minutes depending on traffic, with its own parking on site.\n\n**Tickets and timing:** Adult entry is €20, children aged 4–17 €10. The château and museum open at 10:00 (closed Tuesdays); the Great Stables open at noon. Arriving at 10:00 gives a quiet first hour in the Condé Museum before day-tripper groups arrive. The equestrian demonstrations in the Grandes Écuries run at fixed times — check the website for the current schedule.\n\n**What to combine:** Chantilly pairs naturally with Compiègne, 20km north (Napoléon's palace and the Forest of Compiègne), or Senlis, 10km east, a medieval walled town. Château de Pierrefonds is 40km to the northeast. For a Paris day out combining two châteaux, Chantilly in the morning and Vaux-le-Vicomte in the afternoon is feasible by car, with around 90km between them.",
+  "faqs": [
+    {
+      "question": "What is the Condé Museum and why is it significant?",
+      "answer": "The Musée Condé is the art collection housed within Château de Chantilly, assembled almost entirely by Henri d'Orléans, Duc d'Aumale, in the 19th century. It holds over 800 old master paintings, including works by Raphael, Botticelli, Poussin, Delacroix and Ingres — the largest privately assembled collection of old masters in France outside the Louvre. Its significance lies as much in its presentation as its contents: the Duc d'Aumale's 1884 bequest required that nothing be moved, sold or lent, so the rooms remain exactly as he arranged them in 1897, offering a rare time capsule of 19th-century connoisseurship rather than a conventionally curated museum."
+    },
+    {
+      "question": "Is Château de Chantilly better than Versailles to visit?",
+      "answer": "For many visitors, yes, particularly those who have already seen Versailles or want to avoid its crowds. Chantilly offers comparable architectural ambition and genuinely world-class art at a fraction of the visitor numbers and price, plus the Great Stables and Le Nôtre-designed gardens. Versailles remains unmatched for sheer scale and royal history, but Chantilly rewards a calmer, more intimate visit and is easily reached from Paris in 25 minutes by train."
+    },
+    {
+      "question": "What are the Great Stables (Grandes Écuries) and are they included in the ticket?",
+      "answer": "The Grandes Écuries are a horseshoe-shaped stable complex built between 1719 and 1740 for the Prince de Condé, who reportedly believed he would be reincarnated as a horse and wanted stabling worthy of that fate. At 186 metres long, with room for 240 horses and 500 dogs, they rank among the grandest secular buildings of 18th-century France and now house the Living Museum of the Horse, with daily equestrian demonstrations. They are covered by the standard château ticket but open later, at noon."
+    },
+    {
+      "question": "How do I get from Paris to Chantilly by train?",
+      "answer": "Take a Transilien H or TER train from Paris Gare du Nord to Chantilly-Gouvieux station, a journey of 25 to 35 minutes with roughly hourly departures. From the station, it is a 15-minute walk to the château through the Condé forest, or a short taxi ride for those who prefer not to walk."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-chantilly.webp",
+    "alt": "Château de Chantilly's Neo-Renaissance facade reflected in its moat, with André Le Nôtre's formal gardens stretching toward the canal",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-chantilly.webp",
+  "instagram_tag": "#chateaudechantilly",
+  "meta_title": "Château de Chantilly: Condé Museum Tickets & Guide 2026",
+  "meta_description": "Visit Château de Chantilly near Paris — the Condé Museum's old masters, the Grandes Écuries and Le Nôtre's formal gardens. Tickets and visitor tips for 2026.",
+  "tags": ["renaissance", "neo-renaissance", "art-museum", "gardens", "ile-de-france", "day-trip-from-paris", "instagram-worthy"],
+  "last_updated": "2026-06-25",
+  "routes": [],
+  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau", "chateau-de-pierrefonds", "chateau-de-vaux-le-vicomte"],
+  "gyg_location_id": "34703",
+  "gyg_search_query": "Château de Chantilly Paris day trip tickets tours",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "766754",
+      "title": "Chantilly: Château de Chantilly Skip-the-Line Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "4 hours",
+      "price_from": 20,
+      "rating": 4.6,
+      "reviews": 479,
+      "is_top_pick": true,
+      "covers_castles": ["chateau-de-chantilly"]
+    },
+    {
+      "tour_id": "393950",
+      "title": "Chateau of Chantilly: Skip-the-Line Ticket",
+      "type": "entry_ticket",
+      "duration": "3 hours",
+      "price_from": 20,
+      "rating": 4.5,
+      "reviews": 195,
+      "covers_castles": ["chateau-de-chantilly"]
+    }
+  ]
+}
