@@ -1,0 +1,91 @@
+{
+  "id": "belvoir-castle",
+  "name": "Belvoir Castle",
+  "local_name": "Belvoir Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 66,
+  "annual_visitors": 80000,
+  "country": "england",
+  "region": "Leicestershire",
+  "nearest_city": "Grantham",
+  "address": "Belvoir Castle, Grantham NG32 1PE, United Kingdom",
+  "lat": 52.8766,
+  "lng": -0.7693,
+  "unesco": false,
+  "year_built": 1067,
+  "architectural_style": "Gothic Revival; first Norman castle 1067 by Robert de Todeni; current building primarily by James Wyatt 1801–1813 for 5th Duke of Rutland; south wing rebuilt after fire 1816 by Duchess of Rutland with Matthew Wyatt; final form established by William Burn 1841–1845",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "House and gardens open March to October, with reduced days outside peak season. Grounds frequently host events (country shows, concerts, jousting) that can affect normal opening — check the event calendar before visiting."
+  },
+  "price_adult": 14,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.belvoircastle.com/visit/",
+  "visit_duration": "3 hours (castle, gardens, and grounds)",
+  "best_season": "March to October",
+  "accessibility": "Ground-floor State Rooms are largely accessible; the towers and some upper rooms involve stairs. Terraced gardens have sloped gravel paths.",
+  "booking_advance_days": 0,
+  "tagline": "A beautiful view rebuilt as a Gothic dream — the seat of the Dukes of Rutland",
+  "highlights": [
+    "Built by Robert de Todeni, standard-bearer to William the Conqueror, in 1067 — the seat has belonged to the Manners family, Dukes of Rutland, since 1508",
+    "The current Gothic Revival castle is the fourth structure on the site, designed from 1801 by James Wyatt and rebuilt after an 1816 fire by Elizabeth, Duchess of Rutland",
+    "The Elizabeth Saloon, with its gilded ceiling and French Empire furniture, designed by the Duchess herself in collaboration with sculptor Matthew Wyatt",
+    "State Rooms holding Holbein, Reynolds, Gainsborough, Poussin and Murillo, displayed along the 37-metre Regent's Gallery",
+    "A filming location for The Crown (Season 4), among other English heritage dramas drawn to its romantic Gothic silhouette"
+  ],
+  "description": "'Belvoir' is French for 'beautiful view' — and the view from the castle's hilltop over the Vale of Belvoir, stretching across Leicestershire and Lincolnshire, is exactly that. The name has been Anglicised to 'Beaver' by centuries of English pronunciation, which tells you something about the relationship between the Norman aristocracy who named the place and the English who subsequently inhabited it. Belvoir Castle is the seat of the Dukes of Rutland, one of the oldest noble titles in England, and has been their home since the 16th century. It looks exactly as an English castle should look — from a distance.\n\nRobert de Todeni, standard-bearer to William the Conqueror, built the first castle here in 1067 on a natural ridge above the Lincolnshire marshes, a site that controlled movement between the north and south of England through a natural gap in the landscape. The Todeni castle passed through several families before coming to the Roos family in the 14th century, and then to the Manners family, later Dukes of Rutland, in 1508 when Thomas Manners, 1st Earl of Rutland, inherited it through marriage.\n\nBelvoir is one of those English castles where the current structure is almost entirely separate from the medieval original. The first castle decayed after the Wars of the Roses. A second, Elizabethan mansion was built and later demolished. A third, 17th-century building was itself largely demolished by the 8th Earl, who commissioned James Wyatt to design an entirely new Gothic Revival castle from scratch beginning in 1801. This fourth structure — largely Wyatt's work, modified after a fire in 1816 by the remarkable Duchess of Rutland, who effectively became the castle's architect for the post-fire rebuilding — is what stands today. It is a Romantic invention as much as a historical survival: a Gothic dream of what an English castle should look like, built at the very peak of the Gothic Revival movement.\n\nThe fire of 1816 destroyed the south wing and gave Elizabeth, Duchess of Rutland, her architectural moment. She worked with sculptor Matthew Wyatt, James Wyatt's son, to design the rebuilt section, specifying a more ornate and archaeologically detailed Gothic than her predecessor had used. The Elizabeth Saloon, named for her, with its gilded ceiling, blue walls and collection of French Empire furniture, is the most distinctive room in the castle. She died in 1825, her work essentially complete.\n\nThe State Rooms on show contain a significant collection assembled over five centuries: Holbein portraits, Reynolds, Gainsborough, works by Poussin and Murillo, and a particularly fine collection of sculpture. The Regent's Gallery, 37 metres long, was designed specifically to display the collection to its best advantage. Military memorabilia, reflecting Belvoir's long association with the 17th Lancers regiment, includes items connected to the Charge of the Light Brigade.\n\nBelvoir's dramatic silhouette on its hill has attracted film and television production over the years, including scenes for The Crown (Season 4), filmed here as a fictional stately home. The castle's combination of romantic exterior and well-preserved interior rooms makes it one of the more frequently used locations in English heritage drama.\n\nThe grounds extend over formal terraced gardens immediately below the castle walls and beyond into parkland and woodland. The Spring Gardens, a woodland garden, are particularly good from April to June. The castle's hilltop position means the gardens descend in terraces, each level offering different views across the Vale of Belvoir below.",
+  "history": "Robert de Todeni, standard-bearer to William the Conqueror, built the first castle at Belvoir in 1067, choosing a ridge that controlled a natural gap in the landscape between northern and southern England. The site passed through the Roos family from the 14th century before coming to the Manners family in 1508 through the marriage of Thomas Manners, who became 1st Earl of Rutland. The original castle decayed after the Wars of the Roses, and successive structures — an Elizabethan mansion, then a 17th-century house — were each built and later demolished or substantially altered.\n\nThe 8th Earl of Rutland commissioned architect James Wyatt to design an entirely new Gothic Revival castle beginning in 1801, creating the fourth and largely current structure. A fire in 1816 destroyed the south wing, and Elizabeth, Duchess of Rutland, took personal charge of its reconstruction, working with sculptor Matthew Wyatt to create a more ornate Gothic interior, including the Elizabeth Saloon named in her honour. The castle's final form was established under architect William Burn between 1841 and 1845, and it has remained the seat of the Dukes of Rutland ever since, privately owned and regularly used as a filming location and event venue.",
+  "how_to_visit": "**Getting there:** Belvoir Castle is 11km west of Grantham, about 20 minutes by car. Grantham sits on the main East Coast Mainline, about 1 hour from London King's Cross. There is no direct public transport to the castle; a taxi from Grantham is the practical approach.\n\n**Events:** The castle is privately owned by the Duke of Rutland, and the grounds regularly host events — country shows, outdoor concerts, medieval jousting tournaments — throughout the summer season. Check the official event calendar before visiting, since these can affect normal opening hours.",
+  "faqs": [
+    {
+      "question": "Why is it called Belvoir Castle if it doesn't look medieval?",
+      "answer": "The name 'Belvoir' (French for 'beautiful view') dates to the first Norman castle built here in 1067, but the structure visible today is the fourth on the site, designed from 1801 by architect James Wyatt in the Gothic Revival style for the 8th Earl of Rutland. The earlier medieval and later 17th-century buildings were each demolished in turn, making the current castle a Romantic 19th-century recreation of medieval grandeur rather than a surviving original."
+    },
+    {
+      "question": "Who was the Duchess of Rutland who rebuilt part of Belvoir Castle?",
+      "answer": "Elizabeth, Duchess of Rutland, took charge of rebuilding the south wing after a fire destroyed it in 1816, working with sculptor Matthew Wyatt, son of the castle's original architect James Wyatt, to design a more ornate and archaeologically detailed Gothic interior than her predecessor had used. Her best-known contribution, the Elizabeth Saloon, with its gilded ceiling and French Empire furniture, is named in her honour and remains the castle's most distinctive room."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/belvoir-castle.webp",
+    "alt": "Belvoir Castle's Gothic Revival towers above the Vale of Belvoir in Leicestershire",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/belvoir-castle.webp",
+  "instagram_tag": "#belvoircastle",
+  "meta_title": "Belvoir Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Belvoir Castle in Leicestershire — the Gothic Revival seat of the Dukes of Rutland with State Rooms, art collections and sweeping views. Guide for 2026.",
+  "tags": ["gothic-revival", "leicestershire", "stately-home", "duke-of-rutland", "filming-location"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["nottingham-castle", "warwick-castle"],
+  "gyg_location_id": "154403",
+  "gyg_search_query": "Belvoir Castle Leicestershire tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1077196",
+      "title": "Belvoir Castle: Castle, Gardens and Ground Entry",
+      "type": "entrance_ticket",
+      "duration": "3 hours",
+      "price_from": 12,
+      "rating": 4.2,
+      "reviews": 10,
+      "is_top_pick": true,
+      "covers_castles": ["belvoir-castle"]
+    }
+  ]
+}
