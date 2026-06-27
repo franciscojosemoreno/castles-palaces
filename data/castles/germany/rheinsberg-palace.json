@@ -1,0 +1,91 @@
+{
+  "id": "rheinsberg-palace",
+  "name": "Rheinsberg Palace",
+  "local_name": "Schloss Rheinsberg",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 70,
+  "annual_visitors": 50000,
+  "country": "germany",
+  "region": "Brandenburg",
+  "nearest_city": "Rheinsberg",
+  "address": "Mühlenstr. 1, 16831 Rheinsberg, Germany",
+  "lat": 53.1063,
+  "lng": 12.8933,
+  "unesco": false,
+  "year_built": 1566,
+  "architectural_style": "North German Baroque; original Renaissance manor 1566; rebuilt and extended 1737–1740 by Georg Wenzeslaus von Knobelsdorff for Crown Prince Frederick (later Frederick the Great); the design laboratory for Knobelsdorff's subsequent work at Sanssouci",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Palace interior open May to October only, Tuesday to Sunday. Grounds and exterior accessible year-round. Closed Mondays. The annual Rheinsberg Palace Music Days festival in August can affect normal visiting hours."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "booking_required": false,
+  "official_tickets_url": "https://www.spsg.de/schloesser-gaerten/objekt/schloss-rheinsberg/",
+  "visit_duration": "1–2 hours",
+  "best_season": "May to October (palace interior closed November–March; grounds accessible year-round)",
+  "accessibility": "The ground floor State Rooms are largely step-free; the garden paths are level gravel.",
+  "booking_advance_days": 0,
+  "tagline": "Frederick the Great's happiest years, and the design laboratory for Sanssouci",
+  "highlights": [
+    "Where Frederick the Great lived as Crown Prince from 1736 to 1740 — by his own account, the happiest years of his life",
+    "Designed by Georg Wenzeslaus von Knobelsdorff, the same architect who would later build Sanssouci, making Rheinsberg its direct architectural rehearsal",
+    "The Shell Hall and Frederick's library — among the finest rooms of early German Rococo",
+    "Inspired Kurt Tucholsky's 1912 novella Rheinsberg: Ein Bilderbuch für Verliebte, which made the palace's name a byword for romantic escape in Germany",
+    "A tranquil Baroque lakeside garden, far less visited than the parks of Potsdam, with an annual chamber music festival each August"
+  ],
+  "description": "Of all the palaces associated with Frederick the Great — Sanssouci, the Berlin Stadtschloss, Charlottenburg — Rheinsberg is the one he remembered most fondly. He lived here from 1736 to 1740, from age 24 to 28, as Crown Prince under his brutal father, Frederick William I. These four years, before the wars, before the responsibility, before the fame, were the happiest of his life. He spent them reading, writing poetry, playing the flute, arguing philosophy with Voltaire in correspondence, and transforming a modest Brandenburg manor into something that anticipated the Rococo lightness he would deploy so brilliantly at Sanssouci four years later.\n\nTo understand Rheinsberg's significance, it helps to understand the relationship between Frederick and his father. Frederick William I was a militarist king who despised art, music and culture, and viewed his son's love of philosophy and flute-playing as evidence of weakness, or worse. In 1730, the 18-year-old Frederick attempted to flee to England with his friend Hans Hermann von Katte; the two were caught, and Frederick was forced to watch Katte beheaded as punishment. Frederick spent the following years in a kind of internal exile — first at Küstrin, then at Rheinsberg — under supervised house arrest that gradually relaxed as he proved his administrative usefulness to the crown. At Rheinsberg, for the first time, he finally had space to think, create and simply be himself.\n\nIn 1737, Frederick was given permission to renovate the existing Renaissance manor at Rheinsberg, which dated to 1566. He commissioned Georg Wenzeslaus von Knobelsdorff — the same architect he would later employ at Sanssouci — to extend and refine the building. Knobelsdorff wrapped the old manor in two curved wings framing an entrance court on the landward side, and created a garden facade facing the lake. The interior — light, refined, finished in pastel colours with Rococo ornament — was Frederick's first experiment in the aesthetic language he would perfect at Potsdam a decade later. The Shell Hall, with its nautical decoration, and the library Frederick assembled here are among the finest rooms of early German Rococo, and walking through them makes Rheinsberg legible as a direct architectural rehearsal for Sanssouci.\n\nDuring his years at Rheinsberg, Frederick wrote The Anti-Machiavel, a critique of reason-of-state politics, composed flute sonatas, corresponded extensively with Voltaire, and assembled a small court of artists and intellectuals around him. His wife, Elisabeth Christine, lived in a separate wing and was largely ignored; Frederick's emotional life centred instead on his male companions and intellectual friendships. When Frederick William I died in 1740 and Frederick acceded to the throne, he left Rheinsberg almost immediately and never lived there again, giving the palace to his younger brother, Prince Henry.\n\nIn 1912, the young journalist Kurt Tucholsky published Rheinsberg: Ein Bilderbuch für Verliebte (Rheinsberg: A Picture-Book for Lovers), a short, ironic, tender novella about a young couple spending a summer weekend at the palace. The book became a sensation, and for a generation of middle-class German readers, 'Rheinsberg' became shorthand for romantic escape — a place apart from the city, where love was possible. The novella is still widely read today, and the palace now houses a Tucholsky memorial museum as part of the visit, creating an unusual juxtaposition: a palace associated with Prussia's most warlike king, also associated with the Weimar Republic's most humane satirist.\n\nRheinsberg is operated today by the Prussian Palaces and Gardens Foundation (SPSG), which also manages Sanssouci, Charlottenburg and the wider network of Hohenzollern palaces. The State Rooms contain period furnishings and rotating exhibitions drawn from the SPSG collection, while the Tucholsky Museum occupies a separate section of the building. The garden, a formal Baroque parterre opening onto the lake, is among the most tranquil of the SPSG's gardens and far less visited than Potsdam's parks — the lake views, the weeping willows and the reflections in the still water capture a particular quality of north German landscape that Tucholsky's novella rendered so memorably.",
+  "history": "A Renaissance manor was built at Rheinsberg in 1566, the structure that would eventually become the core of the present palace. In 1737, Crown Prince Frederick — then living at Rheinsberg under a form of supervised exile imposed by his father, Frederick William I, following Frederick's failed attempt to flee to England in 1730 — was given permission to renovate the building, and commissioned the architect Georg Wenzeslaus von Knobelsdorff to extend and refine it into a Rococo residence.\n\nFrederick lived at Rheinsberg from 1736 to 1740, a period he later described as the happiest of his life, during which he wrote The Anti-Machiavel, composed music, and corresponded with Voltaire. When his father died in 1740 and Frederick became king, he left Rheinsberg immediately, never to return as a resident, and granted the palace to his younger brother, Prince Henry. The building gained renewed cultural significance in the 20th century when Kurt Tucholsky's 1912 novella Rheinsberg: Ein Bilderbuch für Verliebte made the palace's name synonymous with romantic escape for a generation of German readers. Rheinsberg is now managed by the Prussian Palaces and Gardens Foundation (SPSG) and houses both period State Rooms and a Tucholsky memorial museum.",
+  "how_to_visit": "**Getting there:** Rheinsberg is 90km north of Berlin, about 1 hour 30 minutes by car or regional train to Rheinsberg station, followed by a 10-minute walk to the palace.\n\n**Tickets:** GYG tour t560751 is the standard admission ticket, sold through the official SPSG partner network.\n\n**Timing:** The palace interior is open for visits only from May to October; the grounds and exterior remain accessible year-round. An annual chamber music festival, the Rheinsberg Palace Music Days, takes place each August and is one of the finest small classical music festivals in Brandenburg, though it can affect normal visiting hours during the event.",
+  "faqs": [
+    {
+      "question": "Why is Rheinsberg Palace important to Frederick the Great's biography?",
+      "answer": "Frederick lived at Rheinsberg as Crown Prince from 1736 to 1740, a period he later described as the happiest of his life, spent reading, writing, playing the flute and corresponding with Voltaire away from the harsh rule of his father, Frederick William I. He commissioned the architect Georg Wenzeslaus von Knobelsdorff to remodel the palace into an early Rococo residence — the same architect Frederick would later employ at Sanssouci, making Rheinsberg effectively a design rehearsal for his more famous later palace."
+    },
+    {
+      "question": "What is the connection between Rheinsberg Palace and Kurt Tucholsky?",
+      "answer": "In 1912, the journalist and satirist Kurt Tucholsky published a short novella, Rheinsberg: Ein Bilderbuch für Verliebte, about a young couple spending a romantic weekend at the palace. The book became a cultural sensation, and 'Rheinsberg' entered German usage as shorthand for romantic escape. The palace now houses a small museum dedicated to Tucholsky as part of the visitor experience, alongside the historic State Rooms."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rheinsberg-palace.webp",
+    "alt": "Rheinsberg Palace's Baroque facade reflected in the lake in Brandenburg, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rheinsberg-palace.webp",
+  "instagram_tag": "#schlossrheinsberg",
+  "meta_title": "Rheinsberg Palace: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Rheinsberg Palace in Brandenburg — Frederick the Great's happiest residence and the design rehearsal for Sanssouci. Tickets and visitor guide for 2026.",
+  "tags": ["rococo", "frederick-the-great", "brandenburg", "lake-view", "tucholsky", "day-trip-from-berlin"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["sanssouci-palace", "schwerin-castle"],
+  "gyg_location_id": "17",
+  "gyg_search_query": "Rheinsberg Palace Brandenburg tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "560751",
+      "title": "Berlin: Rheinsberg Palace Entrance Ticket",
+      "type": "entrance_ticket",
+      "duration": "2 hours",
+      "price_from": 16,
+      "rating": 4.7,
+      "reviews": 20,
+      "is_top_pick": true,
+      "covers_castles": ["rheinsberg-palace"]
+    }
+  ]
+}

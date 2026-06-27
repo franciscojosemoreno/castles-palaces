@@ -1,0 +1,91 @@
+{
+  "id": "hoensbroek-castle",
+  "name": "Hoensbroek Castle",
+  "local_name": "Kasteel Hoensbroek",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 69,
+  "annual_visitors": 60000,
+  "country": "netherlands",
+  "region": "South Limburg",
+  "nearest_city": "Heerlen",
+  "address": "Klinkertstraat 1, 6431 NS Hoensbroek, Netherlands",
+  "lat": 50.9218,
+  "lng": 5.9397,
+  "unesco": false,
+  "year_built": 1000,
+  "architectural_style": "Medieval moated castle built in three phases (13th, 16th, and 17th centuries); double water moat; largely 17th-century Baroque residential character overlaid on medieval defensive core; largest medieval castle in the Netherlands",
+  "opening_hours": {
+    "monday": "11:00–17:00",
+    "tuesday": "11:00–17:00",
+    "wednesday": "11:00–17:00",
+    "thursday": "11:00–17:00",
+    "friday": "11:00–17:00",
+    "saturday": "11:00–17:00",
+    "sunday": "11:00–17:00",
+    "seasonal_note": "Open daily 11:00–17:00, April to October. Reduced winter hours and some weekday closures November to March — check the official site before visiting outside peak season."
+  },
+  "price_adult": 15,
+  "price_child": 8,
+  "booking_required": false,
+  "official_tickets_url": "https://www.kasteelhoensbroek.nl/en/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "April to October",
+  "accessibility": "Ground floor and courtyard accessible; tower and upper-floor rooms involve stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The largest medieval castle in the Netherlands, doubled in a still water moat",
+  "highlights": [
+    "The largest medieval castle in the Netherlands, built in three distinct phases across the 13th, 16th and 17th centuries",
+    "A double water moat — outer and inner — that perfectly reflects the towers and white-rendered walls",
+    "A genuine aristocratic island within what was, for a century, the heart of the Dutch coalfield",
+    "A modest but high-quality collection of 17th-century Dutch and Flemish paintings acquired by the resident Limburg nobility",
+    "Set in South Limburg, the hilly, Catholic, dialect-speaking corner of the Netherlands that feels least like the rest of the country"
+  ],
+  "description": "In the south of Limburg — the narrow finger of Dutch territory squeezed between Belgium and Germany — Hoensbroek Castle rises from a double water moat that perfectly mirrors its towers and white-rendered walls. It is the largest medieval castle in the Netherlands, and one of the most visually complete: the water, the towers, the drawbridge, the courtyard. What you see from the bridge is exactly what you expect a castle to look like. That rarity — the thing actually matching the image in your head — is part of what makes Hoensbroek distinctive.\n\nThe castle's origins lie in a medieval fortified house built around 1000 AD on a low rise above marshy ground. The marshy terrain that made the site defensible also made it buildable only in stages: each phase of expansion required draining, consolidating and rebuilding on unstable subsoil. The outer moat and the first stone towers were built in the 13th century by the Lords of Hoensbroek. A second construction phase in the 16th century added the inner courtyard range. The final and most visible phase — the Baroque residential wing and the gate complex — was built in the 17th century, when the castle was converted from a military fortress into an aristocratic residence. Each phase remains legible in the building to anyone who looks carefully at the stonework.\n\nHoensbroek sits in the heart of what was, from the late 19th century to the 1970s, the Dutch coalfield. The Oranje-Nassau mine operated immediately adjacent to the castle for decades, and the surrounding landscape was scarred by slag heaps, pit buildings and mining villages. The castle was, quite literally, an aristocratic island in an industrial sea — the Lords of Hoensbroek looking out from their towers onto headframes and coal dust rather than open countryside. The mines closed in the 1970s as the Dutch government phased out domestic coal production, and the industrial landscape has since been largely reclaimed; only the castle remains as a visible reminder of the region's much older past.\n\nThe castle's rooms are furnished to period, largely 17th to 19th century, and house collections of paintings, ceramics, furniture and armour acquired over its long occupation. The kitchen and domestic offices occupy the ground floor, while the great hall contains the most significant collection. Particularly notable is a modest but strong collection of 17th-century Dutch and Flemish paintings, reflecting the collecting habits of minor Limburg nobility who participated in the same art market as their grander Amsterdam counterparts, on a correspondingly smaller scale.\n\nThe outer moat, crossed by the main bridge, and the inner moat, which encircles the older medieval core, are both kept filled and have hosted nesting waterfowl — swans, ducks, herons — for generations. The reflection of the towers in the still water is the castle's signature image, best photographed in early morning light before tour groups arrive.\n\nSouth Limburg itself is the most un-Dutch part of the Netherlands: hilly rather than flat, forested rather than polder, Catholic rather than Protestant, with a local dialect that sounds closer to German or Flemish than to standard Dutch. The Vaalserberg, 20km south of Hoensbroek, is the highest point in the Netherlands at 322.5 metres. This regional culture of border zones, coal-mining heritage and Burgundian food traditions — Limburg is known for its vlaai fruit tarts and its carnival celebrations — gives Hoensbroek a context that rewards a longer visit to the wider region rather than a single quick stop.",
+  "history": "A medieval fortified house was built on a low rise above marshy ground near Hoensbroek around 1000 AD, the earliest structure on the site. The Lords of Hoensbroek built the outer moat and the first stone towers in the 13th century, establishing the castle's defensive core. A second major construction phase in the 16th century added the inner courtyard range, and the final phase, in the 17th century, added a Baroque residential wing and gate complex as the castle's function shifted from military stronghold to aristocratic residence.\n\nFrom the late 19th century, the surrounding region became the centre of the Dutch coal-mining industry, with the Oranje-Nassau mine operating directly adjacent to the castle for several decades and transforming the once-rural landscape into an industrial one. The mines closed in the 1970s as the Netherlands phased out domestic coal production, and the industrial landscape has been substantially reclaimed since, leaving the castle as one of the most visible surviving connections to the region's much older medieval history.",
+  "how_to_visit": "**Getting there:** Hoensbroek is 5km from Heerlen, which is connected by train to Maastricht (20 minutes) and the main Dutch rail network. The castle is not directly accessible by public transport; a taxi or bicycle from Heerlen station is the practical approach.\n\n**Where to base yourself:** Maastricht — a beautiful Baroque city with one of the finest squares in the Netherlands — makes an excellent base for a Hoensbroek visit.\n\n**Combine with:** Valkenburg Castle, a ruined medieval castle set in limestone caves 15km away, pairs naturally with Hoensbroek for a full South Limburg castle day.",
+  "faqs": [
+    {
+      "question": "Why is Hoensbroek Castle considered the largest in the Netherlands?",
+      "answer": "Hoensbroek grew across three distinct construction phases — the 13th, 16th and 17th centuries — each adding substantial new ranges around the original medieval core, including an outer moat, an inner courtyard range, and a Baroque residential wing with gatehouse. The cumulative scale of these additions, combined with the double moat system, makes it the largest medieval castle complex surviving in the Netherlands."
+    },
+    {
+      "question": "What is the connection between Hoensbroek Castle and coal mining?",
+      "answer": "From the late 19th century until the 1970s, the area around Hoensbroek was the centre of the Dutch coalfield, with the Oranje-Nassau mine operating immediately adjacent to the castle. For decades the castle stood as an aristocratic island surrounded by mining infrastructure — slag heaps, pit buildings and mining villages — before the mines closed in the 1970s and the industrial landscape was gradually reclaimed."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hoensbroek-castle.webp",
+    "alt": "Hoensbroek Castle reflected in its double water moat in South Limburg, Netherlands",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hoensbroek-castle.webp",
+  "instagram_tag": "#kasteelhoensbroek",
+  "meta_title": "Hoensbroek Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Hoensbroek Castle in South Limburg — the largest medieval castle in the Netherlands, ringed by a double water moat. Tickets and visitor guide for 2026.",
+  "tags": ["medieval", "moated-castle", "south-limburg", "coal-mining-heritage", "netherlands"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["muiderslot", "de-haar-castle"],
+  "gyg_location_id": "151321",
+  "gyg_search_query": "Hoensbroek Castle Limburg tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "431971",
+      "title": "Hoensbroek: Entry Ticket to Hoensbroek Castle",
+      "type": "entrance_ticket",
+      "duration": "Valid 1 day",
+      "price_from": 17,
+      "rating": 4.5,
+      "reviews": 37,
+      "is_top_pick": true,
+      "covers_castles": ["hoensbroek-castle"]
+    }
+  ]
+}
