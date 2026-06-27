@@ -1,0 +1,113 @@
+{
+  "id": "buckingham-palace",
+  "name": "Buckingham Palace",
+  "local_name": "Buckingham Palace",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 95,
+  "annual_visitors": 500000,
+  "country": "england",
+  "region": "London",
+  "nearest_city": "London",
+  "address": "Buckingham Palace, London SW1A 1AA, United Kingdom",
+  "lat": 51.5014,
+  "lng": -0.1419,
+  "unesco": false,
+  "year_built": 1703,
+  "architectural_style": "Neoclassical; original Buckingham House 1703 for Duke of Buckingham; major transformation by John Nash 1826–1830 for George IV; Marble Arch removed to current location 1851; East Wing facade refaced by Aston Webb 1913",
+  "opening_hours": {
+    "monday": "09:30–19:30",
+    "tuesday": "09:30–19:30",
+    "wednesday": "09:30–19:30",
+    "thursday": "09:30–19:30",
+    "friday": "09:30–19:30",
+    "saturday": "09:30–19:30",
+    "sunday": "09:30–19:30",
+    "seasonal_note": "State Rooms open only for a roughly 8-week summer season, typically late July to late September, while the Royal Family is at Balmoral. Last entry 90 minutes before closing. Closed entirely outside this window except for occasional Christmas openings — always confirm current dates before booking."
+  },
+  "price_adult": 32,
+  "price_child": 17,
+  "booking_required": true,
+  "official_tickets_url": "https://www.rct.uk/visit/the-state-rooms-buckingham-palace",
+  "visit_duration": "1.5–2 hours (State Rooms self-guided with audio guide)",
+  "best_season": "Late July to late September (State Rooms open approximately 8 weeks per year; gardens open in summer too)",
+  "accessibility": "The State Rooms route is step-free; wheelchairs available on request. The Garden route is mostly level grass and gravel paths.",
+  "booking_advance_days": 21,
+  "tagline": "The most watched address in the world — open to visitors for just eight weeks a year",
+  "highlights": [
+    "Nineteen State Rooms opened to the public for roughly eight weeks each summer, while the Royal Family is in residence at Balmoral",
+    "The Picture Gallery — 47 metres long, holding one of the finest private art collections on earth: Rembrandt, Rubens, Van Dyck, Vermeer, Canaletto",
+    "The Throne Room, with its twin thrones beneath a gilded canopy, used for investitures and state ceremonies",
+    "The 39-acre garden, the largest private garden in London, with its own lake and 325 recorded plant species",
+    "The daily Changing of the Guard ceremony at the palace railings, free to watch and one of the most photographed rituals in the world"
+  ],
+  "description": "Buckingham Palace is the most watched building in the world — not because of what happens inside, which only a fraction of visitors ever see, but because of the ritual theatre performed at its gates. The Changing of the Guard, the balcony appearances, the crowds gathered to watch the lights come on or off — these performances have made the palace's exterior one of the most recognisable images in global culture. The interior, open just eight weeks a year, reveals something entirely different: a working palace of extraordinary refinement, filled with objects accumulated across two centuries of British monarchy.\n\nIn 1703, John Sheffield, Duke of Buckingham, built a substantial London mansion on land acquired from the Crown. George III purchased it in 1761 as a private retreat for Queen Charlotte and the royal family, while Parliament House — now the Palace of Westminster — remained the country's ceremonial centre. Renamed the Queen's House, the building grew steadily more important as a private royal residence over the following decades, even as it remained, by royal standards, comparatively modest.\n\nThat changed under George IV, who commissioned the architect John Nash — fresh from transforming Regent Street and St. James's Park — to convert the Queen's House into a full palace between 1826 and 1830. Nash demolished most of the original structure and built three ranges around a central courtyard, faced in Bath stone in a restrained Neoclassical style, with the Marble Arch designed as the palace's ceremonial entrance gate. George IV died before the work was finished, and Nash was dismissed amid suspicion of overspending; Edward Blore completed the project. The Marble Arch itself was relocated in 1851 to its current site at the northeast corner of Hyde Park, once the courtyard was enclosed by a new East Wing.\n\nQueen Victoria was the first monarch to make Buckingham Palace her principal London residence, moving in at her accession in 1837. She found it inadequate — too small, poorly ventilated, lacking proper nurseries — and pressed for the East Wing addition that finally closed the courtyard. The East Wing facade familiar today, however, is not Victoria's: it was refaced in Portland stone by Aston Webb in 1913 for George V, replacing Blore's original stonework, which had deteriorated badly within a few decades of London's polluted air. The palace's most photographed front is therefore barely older than a century, despite the building behind it being two hundred years old.\n\nNineteen State Rooms open to the public each summer, while the Royal Family decamps to Balmoral. The Picture Gallery — running 47 metres along the length of the first floor — holds one of the finest private art collections in the world, including works by Rembrandt, Rubens, Van Dyck, Vermeer and Canaletto. The Throne Room, with its twin thrones set beneath a gilded canopy in vivid scarlet, is the most theatrically staged room in the palace, designed specifically for investitures and state ceremonies where visual impact mattered as much as function. The Ballroom, 37 metres long and the largest room in the palace, was Queen Victoria's addition and still hosts state banquets for visiting heads of state today. The State Dining Room, the Blue Drawing Room and the Music Room complete a sequence of rooms whose cumulative effect — of wealth, continuity and careful theatrical staging — is considerable even to visitors who have seen other European palaces.\n\nThe 39-acre garden behind the palace, the largest private garden in London, is accessible separately during the summer season. It contains a lake, 325 recorded species of wild plant, and a tennis court still used by the Royal Family. Walking the garden also reveals the palace's rear, or garden, facade — quite different in character from the formal East Wing front that faces the crowds on The Mall.\n\nThe daily Changing of the Guard ceremony, performed in summer and on alternate days through the rest of the year, is free to watch from the palace railings. The Old Guard marches from Buckingham Palace Road, the New Guard from Wellington Barracks on Birdcage Walk, and the full ceremony runs about 45 minutes. Arriving by 10:30 secures a clear viewing position before the crowds build.",
+  "history": "John Sheffield, Duke of Buckingham, built the original Buckingham House on the site in 1703, on land leased from the Crown. George III bought the property in 1761 as a private family retreat for Queen Charlotte, while the formal business of monarchy remained centred on Westminster. Over the following decades the house, renamed the Queen's House, became an increasingly important royal residence even as it remained architecturally modest by royal standards.\n\nGeorge IV commissioned John Nash to transform the building into a full palace beginning in 1826, demolishing most of the existing structure and building three ranges in Bath stone around a central courtyard in a restrained Neoclassical style. Nash was dismissed before completion amid concerns over cost, and Edward Blore finished the project after George IV's death. Queen Victoria became the first monarch to use the palace as her principal London residence from her accession in 1837, and pushed for the East Wing that enclosed the courtyard, relocating the ceremonial Marble Arch entrance to Hyde Park in 1851 in the process. The East Wing's familiar Portland stone facade was refaced by Aston Webb in 1913 for George V, replacing Blore's deteriorated original stonework — meaning the palace's most iconic front dates from barely over a century ago.",
+  "how_to_visit": "**Getting there:** The nearest Underground stations are St James's Park, Victoria and Green Park, each about 10 minutes' walk from the palace.\n\n**Critical timing note:** The State Rooms are open to visitors for only around eight weeks each year, typically late July through late September, while the Royal Family is at Balmoral. Outside this window the interior is closed to the public entirely except for occasional special Christmas openings. Always verify current opening dates on the official Royal Collection Trust site before booking travel around a visit.\n\n**Tours:** Tour t77161 combines a guided walk of The Mall, St James's Park and Clarence House with skip-the-line palace entry — useful for visitors who want historical context before going inside. Tour t649975 offers a small-group premium guided experience (capped at 12 people) through the royal parks alongside palace entry.\n\n**The garden and Changing of the Guard:** The garden is ticketed separately during the summer season. The Changing of the Guard is free and viewable daily in summer (alternate days the rest of the year) from the palace railings — arrive by 10:30 for a clear view.",
+  "faqs": [
+    {
+      "question": "When is Buckingham Palace open to visitors?",
+      "answer": "The State Rooms open to the public for only about eight weeks each year, typically from late July to late September, while the Royal Family is in residence at Balmoral in Scotland. Outside this window the interior is closed entirely, with the rare exception of special Christmas openings in some years. Always check the official Royal Collection Trust site for confirmed dates before planning a trip around a State Rooms visit."
+    },
+    {
+      "question": "How do I see the Changing of the Guard at Buckingham Palace?",
+      "answer": "The ceremony is free to watch from the palace railings, performed daily in summer and on alternate days during the rest of the year. The Old Guard marches from Buckingham Palace Road and the New Guard from Wellington Barracks on Birdcage Walk; the full ceremony lasts about 45 minutes. Arrive by around 10:30 to secure a clear viewing position before the crowds build."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/buckingham-palace.webp",
+    "alt": "Buckingham Palace's East Wing facade facing The Mall, London",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/buckingham-palace.webp",
+  "instagram_tag": "#buckinghampalace",
+  "meta_title": "Buckingham Palace: Tickets, State Rooms & Visitor Guide 2026",
+  "meta_description": "Visit Buckingham Palace's State Rooms — open only eight weeks each summer. Tickets, the Changing of the Guard, and a full visitor guide for 2026.",
+  "tags": ["royal-residence", "neoclassical", "london", "seasonal-opening", "ceremonial"],
+  "last_updated": "2026-06-27",
+  "routes": ["english-royal-castles"],
+  "nearby_castles": ["tower-of-london", "windsor-castle"],
+  "gyg_location_id": "57",
+  "gyg_search_query": "Buckingham Palace tour tickets",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "53844",
+      "title": "London: Buckingham Palace State Rooms Timed Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "1.5–2 hours",
+      "price_from": 44,
+      "rating": 4.6,
+      "reviews": 7403,
+      "is_top_pick": true,
+      "covers_castles": ["buckingham-palace"]
+    },
+    {
+      "tour_id": "77161",
+      "title": "Buckingham Palace Entry Ticket & Royal Walking Tour",
+      "type": "guided_tour",
+      "duration": "2.5 hours",
+      "price_from": 78,
+      "rating": 4.5,
+      "reviews": 1011,
+      "is_top_pick": false,
+      "covers_castles": ["buckingham-palace"]
+    },
+    {
+      "tour_id": "649975",
+      "title": "London: Royal Tour with Buckingham Palace Entry",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 180,
+      "rating": 4.9,
+      "reviews": 14,
+      "is_top_pick": false,
+      "covers_castles": ["buckingham-palace"]
+    }
+  ]
+}

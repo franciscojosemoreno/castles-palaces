@@ -106,7 +106,7 @@
       "type": "day_trip",
       "duration": "9 hours",
       "price_from": 464,
-      "rating": 0,
+      "rating": null,
       "reviews": 0,
       "covers_castles": ["cardona-castle"]
     }

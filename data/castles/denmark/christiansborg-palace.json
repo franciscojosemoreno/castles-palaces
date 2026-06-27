@@ -1,0 +1,91 @@
+{
+  "id": "christiansborg-palace",
+  "name": "Christiansborg Palace",
+  "local_name": "Christiansborg Slot",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 82,
+  "annual_visitors": 400000,
+  "country": "denmark",
+  "region": "Copenhagen",
+  "nearest_city": "Copenhagen",
+  "address": "Prins Jørgens Gård 1, 1218 Copenhagen K, Denmark",
+  "lat": 55.6765,
+  "lng": 12.5797,
+  "unesco": false,
+  "year_built": 1167,
+  "architectural_style": "Neo-Baroque; Thorvald Jørgensen 1907–1928; third royal palace on Slotsholmen island; integrates ruins of two previous palaces in excavated cellars below; Denmark's only building housing all three branches of government",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "July–August: most sections open daily including Mondays. September–June: closed Mondays, and some sections (Royal Stables, Ruins) keep reduced hours — check the official calendar, especially around parliamentary sessions and state events."
+  },
+  "price_adult": 30,
+  "price_child": 15,
+  "booking_required": false,
+  "official_tickets_url": "https://www.christiansborg.dk/en/visit/",
+  "visit_duration": "2–3 hours (multiple sections require separate tickets: Royal Staterooms, Ruins, Royal Stables, Royal Kitchens)",
+  "best_season": "Year-round; most sections open daily July–August",
+  "accessibility": "The Royal Staterooms and Ruins have step-free access via lift; the Tower and some Stable areas involve stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The only building on earth housing a nation's executive, legislative and judicial branches under one roof",
+  "highlights": [
+    "The only building in the world where a country's parliament, supreme court and head of state ceremonial functions all operate under the same roof",
+    "Bjørn Nørgaard's 17 modernist tapestries in the Great Hall, depicting Danish history from the Vikings to the late 20th century, commissioned for Queen Margrethe II's 60th birthday",
+    "Excavated cellars beneath the current palace preserving the ruins of Bishop Absalon's 1167 castle — the founding structure of Copenhagen itself",
+    "A 106-metre Neo-Baroque tower in grey Bornholm granite, the tallest in central Copenhagen when completed in 1928",
+    "The Folketing's parliamentary chamber, occupied since 1849 as a direct consequence of the fire that destroyed the previous palace in 1884"
+  ],
+  "description": "Christiansborg Palace sits on Slotsholmen, the island at the heart of Copenhagen where the city itself was founded in 1167. It is the only building in the world where a nation's executive, legislative and judicial branches all reside under one roof: the Folketing, Denmark's parliament, meets here; the Supreme Court delivers its verdicts here; the Prime Minister receives foreign dignitaries here; and the Royal Family uses the State Apartments for the most formal ceremonies of the Danish state. This is not a museum preserved in amber. It is the active administrative centre of a functioning democracy, and the tension between its royal origins and its parliamentary present gives the palace its unusual, layered character.\n\nThe first structure on Slotsholmen was a castle built by Bishop Absalon of Roskilde in 1167 — the founding moment of Copenhagen as a city. The ruins of Absalon's tower and the medieval castle that succeeded it across the 13th to 16th centuries are preserved today in excavated cellars directly beneath the current palace floor. The first purpose-built Christiansborg Palace was completed in 1745 for Christian VI; it burned down in 1794. A second palace, completed in 1828, burned again in 1884. The current, third palace was finished only in 1928, making it one of the newest royal palaces in Europe despite standing on foundations nearly nine centuries old.\n\nArchitect Thorvald Jørgensen designed this third Christiansborg in Danish National Romantic style, crowned by a Neo-Baroque tower 106 metres high that dominates the Copenhagen skyline alongside the spires of the city's own churches. The building is faced in grey Bornholm granite, giving it a heavier, more distinctly Nordic character than the Baroque and Neoclassical palaces it replaced. The tower houses no functional rooms at all — it was built purely as a symbolic assertion, the tallest structure in the city centre at the time of its completion.\n\nThe Royal Staterooms are used by the monarch — Queen Margrethe II until her 2024 abdication, now King Frederik X — for the most important ceremonies of the Danish state: New Year receptions, state banquets for visiting heads of state, and audiences with the incoming prime minister after national elections. The Great Hall holds the single most extraordinary interior element in the entire palace: Bjørn Nørgaard's 17 tapestries depicting Danish history from the Viking age to the late 20th century. Commissioned for Queen Margrethe II's 60th birthday in 2000, the tapestries are deliberately modernist in execution — bold colour, distorted perspective, figures from Norse mythology placed alongside 20th-century politicians — and they remain controversial and magnificent in roughly equal measure, a startling contrast to the conservative grandeur of the rooms around them.\n\nThe Folketing has sat in Christiansborg since 1849, when the absolute monarchy was replaced by a constitutional monarchy under pressure from the liberal movements then sweeping Europe. The parliamentary chamber is open to visitors on guided tours when parliament is not in session. The Supreme Court occupies the building's south wing. The proximity of all three branches of power within a single building is, in fact, a historical accident: when the second palace burned in 1884, the parliament was forced to relocate to the only structure in Copenhagen large enough to accommodate it — and it never left.\n\nIn the 1960s, excavations beneath the palace revealed the foundations of Bishop Absalon's 1167 castle and the medieval structure that followed it: cobblestone floors, the bases of round towers, fragments of the original city walls. These ruins now form a basement museum accessible on a separate ticket, and walking through the stone foundations while aware that the modern parliamentary chamber sits directly overhead produces an unusually compressed sense of time. The Royal Stables, in a wing facing the Christiansborg Ridebane, house the Danish Royal Family's horses and state coaches, including the golden coach used for coronations and royal weddings — a section with its own ticket that is often overlooked by visitors focused on the main palace.",
+  "history": "Bishop Absalon of Roskilde built the first castle on Slotsholmen in 1167, an event generally taken as the founding moment of Copenhagen itself. That castle and its medieval successor, in use from the 13th to the 16th centuries, were eventually demolished, and their foundations now survive as excavated ruins beneath the current palace. The first purpose-built Christiansborg Palace, completed in 1745 for Christian VI, burned down in 1794; a second palace, completed in 1828, burned again in 1884.\n\nThe fire of 1884 forced the Folketing, Denmark's parliament, to relocate to Christiansborg as the only building in Copenhagen large enough to house it — an arrangement that became permanent. The third and current palace was designed by Thorvald Jørgensen in Danish National Romantic style and completed in 1928, faced in grey Bornholm granite and crowned by a 106-metre tower built purely as a symbolic landmark. Since completion, the palace has functioned simultaneously as the seat of the Folketing, the Supreme Court, and the ceremonial home of the Danish monarchy — an arrangement unique among the world's national capitals.",
+  "how_to_visit": "**Getting there:** Christiansborg is in the city centre on Slotsholmen, connected to the rest of Copenhagen by bridges over the surrounding canal. Walk from City Hall Square (5 minutes) or Copenhagen Central Station (12 minutes).\n\n**Tickets:** The standard entrance ticket covers the Royal Staterooms only. A combination ticket adding the Ruins, the Royal Stables and the Royal Kitchens is worth the upgrade for visitors with two or more hours to spend, since each section requires its own separate admission otherwise.\n\n**Parliament visits:** The Folketing's chamber can be seen on guided tours when parliament is not in session — check the official site for current tour schedules, since sitting days take precedence.\n\nGYG tour t741740 is the standard entry ticket with multilingual audio guide covering the Royal Staterooms.",
+  "faqs": [
+    {
+      "question": "Why does Denmark's parliament meet in a royal palace?",
+      "answer": "It is the result of a historical accident. When the second Christiansborg Palace burned down in 1884, the Folketing — Denmark's parliament, which had already been sitting in the building since the constitutional reforms of 1849 — needed a new home immediately, and Christiansborg was the only building in Copenhagen large enough to accommodate it. The arrangement was never undone, and the rebuilt third palace, completed in 1928, was designed from the outset to house parliament permanently alongside the monarchy and the Supreme Court."
+    },
+    {
+      "question": "What are the tapestries in the Great Hall at Christiansborg?",
+      "answer": "They are 17 modernist tapestries by the artist Bjørn Nørgaard, commissioned for Queen Margrethe II's 60th birthday in 2000 and depicting the sweep of Danish history from the Viking age to the late 20th century. Their bold colours and deliberately distorted perspectives, mixing Norse mythological figures with modern political ones, make them one of the most discussed and visually startling elements of the palace, set against the otherwise formal grandeur of the Great Hall."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/christiansborg-palace.webp",
+    "alt": "Christiansborg Palace's Neo-Baroque tower rising above Slotsholmen island in Copenhagen",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/christiansborg-palace.webp",
+  "instagram_tag": "#christiansborg",
+  "meta_title": "Christiansborg Palace: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Christiansborg Palace in Copenhagen — the only building housing a nation's parliament, supreme court and royal ceremonies under one roof. 2026 visitor guide.",
+  "tags": ["neo-baroque", "royal-residence", "copenhagen", "parliament", "ruins"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["rosenborg-castle", "frederiksborg-palace"],
+  "gyg_location_id": "12",
+  "gyg_search_query": "Christiansborg Palace Copenhagen tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "741740",
+      "title": "Copenhagen: Christiansborg Palace Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "Valid 1 day",
+      "price_from": 34,
+      "rating": 4.6,
+      "reviews": 871,
+      "is_top_pick": true,
+      "covers_castles": ["christiansborg-palace"]
+    }
+  ]
+}

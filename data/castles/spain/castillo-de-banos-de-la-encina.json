@@ -82,7 +82,7 @@
       "type": "guided_tour",
       "duration": "2.5 hours",
       "price_from": 16,
-      "rating": 0,
+      "rating": null,
       "reviews": 0,
       "is_top_pick": true,
       "covers_castles": ["castillo-de-banos-de-la-encina"]

@@ -1,0 +1,113 @@
+{
+  "id": "palace-of-holyroodhouse",
+  "name": "Palace of Holyroodhouse",
+  "local_name": "Palace of Holyroodhouse",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 87,
+  "annual_visitors": 350000,
+  "country": "scotland",
+  "region": "Edinburgh",
+  "nearest_city": "Edinburgh",
+  "address": "Canongate, Edinburgh EH8 8DX, United Kingdom",
+  "lat": 55.9524,
+  "lng": -3.1722,
+  "unesco": false,
+  "year_built": 1128,
+  "architectural_style": "Scottish Baroque; Sir William Bruce 1671–1678, commissioned by Charles II; present north-west range is Bruce's masterwork; ruined 12th-century Augustinian abbey nave integrated into the palace forecourt as picturesque backdrop",
+  "opening_hours": {
+    "monday": "09:30–18:00",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "Nov–Mar closes at 16:30, with Tuesday and Wednesday closures outside peak season. Closed entirely for around a week each summer (typically late June to early July) during Holyrood Week, when the Royal Family is in residence — check the official calendar before visiting."
+  },
+  "price_adult": 18,
+  "price_child": 11,
+  "booking_required": false,
+  "official_tickets_url": "https://www.rct.uk/visit/palace-of-holyroodhouse",
+  "visit_duration": "1.5–2 hours (audio guide included)",
+  "best_season": "April to October (closed Tuesday–Wednesday outside peak season; closed for royal residency in late June–early July)",
+  "accessibility": "The State Apartments are largely step-free with a lift; the abbey ruins have uneven ground underfoot.",
+  "booking_advance_days": 0,
+  "tagline": "Scotland's royal palace at the foot of the Royal Mile — Mary, Queen of Scots, Bonnie Prince Charlie, and a murder marked on the floor",
+  "highlights": [
+    "Mary, Queen of Scots' private apartments, where her secretary David Rizzio was murdered by conspirators in 1566, the exact site still marked in the floor",
+    "The Great Gallery, lined with 89 portraits of Scottish monarchs — most invented — painted by Jacob de Wet for Charles II's restored court",
+    "Sir William Bruce's Scottish Baroque rebuilding of 1671–1678, the finest example of the style anywhere in Scotland",
+    "The ruined nave of Holyrood Abbey, founded by David I in 1128, standing roofless in the palace forecourt",
+    "Bonnie Prince Charlie's five-week occupation of the palace in 1745, hosting balls in the Great Gallery while raising his Jacobite army"
+  ],
+  "description": "At the foot of the Royal Mile — Edinburgh's spine, running from Edinburgh Castle at its summit down to Holyroodhouse at its base — stands Scotland's official royal palace. It sits in the shadow of Arthur's Seat, the ancient volcanic plug rising 251 metres above the city, and beside the ruins of a medieval abbey whose roofless nave still stands as an accidental masterpiece of atmospheric decay. Holyroodhouse is not the most visually dramatic of the British royal palaces — that distinction belongs to Windsor, or to Edinburgh Castle on its rock above — but it is the one with the most turbulent history.\n\nKing David I of Scotland founded Holyrood Abbey in 1128 for a community of Augustinian canons. 'Holyrood' means 'Holy Cross' in Scots, a reference to the Black Rood, a fragment of the True Cross reputedly brought to Scotland by Saint Margaret. The abbey grew powerful and became a site of royal burials and ceremonies; James II was born here, and James IV built the first recognisable palace alongside the abbey in 1498. For the following century and a half, Scottish monarchs chose to live at Holyrood rather than at the more defensible but less comfortable Edinburgh Castle on its rock above the city.\n\nThe most dramatically charged event in the palace's history occurred in March 1566. Mary, Queen of Scots was dining in her private apartments with her secretary David Rizzio when her husband, Lord Darnley, led a group of armed noblemen into the room. Rizzio — suspected of excessive influence over the queen, and possibly of fathering her unborn child — was dragged from the chamber and stabbed 56 times. The site of the killing is marked in the floor today. Mary was pregnant at the time with the future James VI. The rooms where this occurred — the outer chamber, the supper room, the private staircase — remain among the most visited parts of the palace precisely because the events are so exactly located within the surviving fabric of the building.\n\nAfter the Restoration, Charles II commissioned the architect Sir William Bruce to rebuild Holyroodhouse entirely, a project carried out between 1671 and 1678. Bruce's design — two ranges arranged around a central quadrangle, with a matching pair of corner towers — is considered the finest example of Scottish Baroque architecture anywhere in the country. Charles II never actually visited the finished palace, but his brother James VII, later James II of England, held court here during his time as Commissioner for Scotland between 1679 and 1682. The Great Gallery, running the full length of the north range, was hung with 89 portraits of Scottish monarchs by the Dutch artist Jacob de Wet — most of them entirely imaginary, since no genuine portraits existed of the earlier kings being depicted.\n\nIn 1745, Charles Edward Stuart — Bonnie Prince Charlie — marched into Edinburgh and held court at Holyroodhouse for five weeks while raising his Jacobite army. Contemporary accounts describe balls held in the Great Gallery, with the young prince at the centre of a briefly resurgent Jacobite Edinburgh society. The rising failed at Culloden in April 1746, and the palace reverted fully to the Crown. This brief, charged occupation remains the last time Holyroodhouse was held by anyone other than the reigning British monarch.\n\nToday Holyroodhouse functions as the monarch's official Scottish residence. The King and the Royal Family stay here for around a week each summer, typically late June into early July, during which the palace closes to the public for the official engagements of Holyrood Week. The State Apartments — the throne room, the dining room, the morning drawing room — are presented to visitors on an included audio guide tour, and the ruined nave of the abbey, freely accessible from the forecourt, remains one of the most atmospheric architectural ruins in Edinburgh.",
+  "history": "David I of Scotland founded Holyrood Abbey in 1128 for Augustinian canons, taking its name from the Black Rood, a fragment of the True Cross associated with Saint Margaret. The abbey became an important royal site, hosting royal births and ceremonies, and James IV built the first identifiable palace adjacent to it in 1498, after which Scottish monarchs increasingly favoured Holyrood over Edinburgh Castle as a residence.\n\nThe palace's most notorious episode occurred in 1566, when Mary, Queen of Scots' secretary David Rizzio was murdered in her private apartments by conspirators led by her husband, Lord Darnley. After the Restoration, Charles II commissioned Sir William Bruce to rebuild the palace between 1671 and 1678 into the Scottish Baroque structure that survives today, though Charles himself never visited it; his brother James VII held court there as Commissioner for Scotland shortly after completion.\n\nIn 1745, Charles Edward Stuart occupied the palace for five weeks while raising his Jacobite army, the last occasion the building was held by anyone other than the reigning monarch. Following the failure of the rising at Culloden in 1746, the palace reverted permanently to the Crown and has served as the monarch's official Scottish residence ever since, used for roughly a week of official engagements each summer known as Holyrood Week.",
+  "how_to_visit": "**Getting there:** The palace stands at the foot of the Royal Mile, about 15 minutes' walk from Edinburgh Waverley station.\n\n**Tours:** Tour t708012 combines a guided walk of Edinburgh's Harry Potter filming and inspiration locations — the Royal Mile, Greyfriars Kirkyard, Victoria Street — with palace entry. Tour t1039489 covers both Edinburgh Castle and Holyroodhouse on a single booking, taking in the full length of the Royal Mile from top to bottom.\n\n**The Queen's Gallery:** Adjacent to the main palace, the Queen's Gallery, opened in 2002, hosts rotating exhibitions drawn from the Royal Collection on a separate ticket — the exhibition programme changes annually and is worth checking before a visit.\n\n**Holyrood Week:** The palace closes to the public for around a week each summer, typically late June to early July, while the Royal Family is in residence — confirm current closure dates on the official site before planning a visit during this period.",
+  "faqs": [
+    {
+      "question": "What happened to David Rizzio at the Palace of Holyroodhouse?",
+      "answer": "In March 1566, David Rizzio, secretary to Mary, Queen of Scots, was murdered in her private apartments by a group of conspirators led by her husband, Lord Darnley, who suspected Rizzio of undue influence over the queen. He was dragged from the supper room and stabbed 56 times; the site of the killing is still marked in the floor today, making the rooms among the most visited parts of the palace."
+    },
+    {
+      "question": "Can I visit the Palace of Holyroodhouse year-round?",
+      "answer": "Most of the year, yes, though hours are reduced and Tuesday and Wednesday closures apply outside peak season (April to October). The palace closes entirely for around a week each summer, typically late June into early July, during Holyrood Week, when the Royal Family is in official residence. Always check the current calendar on the official Royal Collection Trust site before planning a visit."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/palace-of-holyroodhouse.webp",
+    "alt": "The Palace of Holyroodhouse with the ruined Holyrood Abbey nave in its forecourt, Edinburgh",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/palace-of-holyroodhouse.webp",
+  "instagram_tag": "#holyroodhouse",
+  "meta_title": "Palace of Holyroodhouse: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit the Palace of Holyroodhouse at the foot of Edinburgh's Royal Mile — Mary Queen of Scots' apartments, the ruined abbey, and Bonnie Prince Charlie's court. 2026 guide.",
+  "tags": ["royal-residence", "scottish-baroque", "edinburgh", "mary-queen-of-scots", "jacobite"],
+  "last_updated": "2026-06-27",
+  "routes": ["scottish-highlands-castles"],
+  "nearby_castles": ["edinburgh-castle", "tantallon-castle"],
+  "gyg_location_id": "44",
+  "gyg_search_query": "Palace of Holyroodhouse Edinburgh tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "53863",
+      "title": "Edinburgh: Palace of Holyroodhouse Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "1.5–2 hours",
+      "price_from": 29,
+      "rating": 4.8,
+      "reviews": 5813,
+      "is_top_pick": true,
+      "covers_castles": ["palace-of-holyroodhouse"]
+    },
+    {
+      "tour_id": "708012",
+      "title": "Edinburgh: Harry Potter Tour & Palace of Holyrood Entry",
+      "type": "walking_tour",
+      "duration": "3.5 hours",
+      "price_from": 76,
+      "rating": 4.6,
+      "reviews": 31,
+      "is_top_pick": false,
+      "covers_castles": ["palace-of-holyroodhouse"]
+    },
+    {
+      "tour_id": "1039489",
+      "title": "Edinburgh: Castle Guided Tour & Holyrood Palace Ticket",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 112,
+      "rating": 4.3,
+      "reviews": 8,
+      "is_top_pick": false,
+      "covers_castles": ["palace-of-holyroodhouse", "edinburgh-castle"]
+    }
+  ]
+}
