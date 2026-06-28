@@ -25,7 +25,7 @@ export default function GYGFeaturedTour({ tour }: Props) {
         {tour.title}
       </h3>
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-stone-600 mb-3">
-        {tour.rating != null && tour.reviews != null && (
+        {tour.rating != null && tour.reviews != null && tour.reviews > 1 && (
           <>
             <span>⭐ {tour.rating} ({tour.reviews.toLocaleString()})</span>
             <span className="text-stone-300">·</span>

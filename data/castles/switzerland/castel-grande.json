@@ -1,0 +1,91 @@
+{
+  "id": "castel-grande",
+  "name": "Castel Grande",
+  "local_name": "Castel Grande",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 84,
+  "annual_visitors": 150000,
+  "country": "switzerland",
+  "region": "Ticino",
+  "nearest_city": "Bellinzona",
+  "address": "Salita al Castel Grande, 6500 Bellinzona, Switzerland",
+  "lat": 46.1971,
+  "lng": 9.0225,
+  "unesco": true,
+  "year_built": 590,
+  "architectural_style": "Romano-Lombard origin (the earliest fortification on the rock dates to late antiquity); current medieval castle primarily 13th–15th century; two massive towers (Torre Bianca and Torre Nera); UNESCO World Heritage Site (2000) as part of the Three Castles of Bellinzona",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily, with reduced hours in winter. The underground lift connecting the city centre to the castle operates during opening hours. Check the official site for exact seasonal times."
+  },
+  "price_adult": 6,
+  "price_child": 3,
+  "booking_required": false,
+  "official_tickets_url": "https://www.bellinzonaunesco.ch/en/",
+  "visit_duration": "1–1.5 hours",
+  "best_season": "Year-round (Bellinzona has a mild Ticino climate; best April–October)",
+  "accessibility": "An underground lift carved through the rock provides step-free access from the city centre to the castle base; the towers themselves involve narrow medieval stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The largest of the Three Castles of Bellinzona — a UNESCO gateway to the Alps",
+  "highlights": [
+    "Fortified since at least the late Roman period, with a documented military inscription confirming occupation in the 4th or 5th century AD",
+    "The Torre Bianca and Torre Nera — the White and Black Towers — the dominant 13th–14th-century structures, the White Tower rising 27 metres",
+    "Part of a UNESCO World Heritage Site (2000) recognising all three Bellinzona castles and their connecting walls as a unified ensemble of medieval military architecture",
+    "A 1988 underground passage and lift, designed by architect Aurelio Galfetti, carved through the living rock to connect the city centre directly to the castle",
+    "Captured definitively by the Swiss Confederation in 1503, marking Bellinzona's transition from a Milanese frontier post to the southernmost stronghold of Switzerland"
+  ],
+  "description": "Bellinzona is the gateway to the Alps, the point at which the flat, Italian-speaking Ticino opens into the mountain passes that controlled access to Switzerland from the south for 2,000 years. Three medieval castles guard this gateway, placed on rocky spurs above the town with overlapping fields of fire, connected by walls that once ran from hillside to hillside and blocked the valley entirely. The Roman legions fortified this site; the medieval bishops of Milan fortified it again; the Swiss Confederation captured it in 1503 and have held it ever since. In 2000, UNESCO designated all three castles a World Heritage Site. Castel Grande is the largest, the oldest continuously occupied, and the most dramatically positioned.\n\nThe rock on which Castel Grande stands has been fortified since at least the late Roman period, the 4th or 5th century AD. A Roman-era inscription found on the site records military occupation. The medieval castle was built over and around earlier structures: the two towers, Torre Bianca and Torre Nera, the White Tower and the Black Tower, date from the 13th and 14th centuries, when the Visconti lords of Milan were competing with the Uri confederation for control of the Alpine passes. The walls connecting the castle to the town below, known as the murata, or great wall, were built in the 14th and 15th centuries by the Visconti and their successors to block the valley floor completely.\n\nFrom the 14th century to 1503, Bellinzona and its castles changed hands repeatedly between the Milanese Duchy, ruled first by the Visconti and then the Sforza, and the Swiss Confederation. The Swiss cantons, principally Uri, Schwyz and Unterwalden, repeatedly attempted to capture the passes; the Milanese repeatedly recaptured them. In 1503, the Swiss Confederation captured Bellinzona definitively, and it has been Swiss territory ever since, the southernmost point of the Confederation, where German-speaking Switzerland meets the Italian-speaking Ticino. The transition from Milanese military engineering to Swiss governance produced no architectural upheaval: the castles simply continued in use as administrative and military centres.\n\nTorre Bianca and Torre Nera are the dominant architectural features of Castel Grande. The White Tower is the taller, at 27 metres; the Black Tower is the older. The distinction between them, based originally on the colour of their stone facing though both appear similarly grey today, was already conventional by the 14th century. Both are accessible by stairs, and the view from the top of Torre Bianca looks directly down onto the rooftops of Bellinzona, across the Ticino river valley, and up toward the Gotthard pass.\n\nA remarkable feature of the current visitor access to Castel Grande is the underground passage carved through the rock in 1988 by the cantonal government, connecting the Bellinzona city centre to the castle via a lift that rises through the living rock. The passage was designed by architect Aurelio Galfetti and is itself considered an architectural achievement: a contemporary intervention in a medieval site that neither imitates the medieval fabric nor ignores it. The castle museum at the base of the towers contains archaeological material from the site's long occupation and contextualises all three Bellinzona castles.\n\nThe UNESCO World Heritage designation of 2000 covers all three castles and the connecting walls as 'an outstanding example of late medieval military architecture.' The designation recognised the completeness of the ensemble, three castles, the walls between them, and the town below, as a unified historical monument rather than three separate sites. The management plan requires that all three castles be maintained in their current condition, funded by the Ticino cantonal government. A combined ticket is available for all three castles and is the recommended approach.",
+  "history": "The rock at Bellinzona was fortified from at least the late Roman period, with archaeological evidence and a military inscription confirming occupation in the 4th or 5th century AD. The medieval castle developed over and around these earlier structures, with the surviving Torre Bianca and Torre Nera dating from the 13th and 14th centuries, a period when the Visconti lords of Milan contested control of the Alpine passes with the Swiss confederation of Uri, Schwyz and Unterwalden. The Visconti and their Sforza successors built the murata, the great connecting wall, in the 14th and 15th centuries to block the valley floor entirely.\n\nControl of Bellinzona changed hands repeatedly between Milan and the Swiss cantons over nearly two centuries before the Swiss Confederation captured the town definitively in 1503, establishing it as Swiss territory ever since. Castel Grande continued in administrative and military use under Swiss governance without major architectural disruption. In 2000, UNESCO designated Castel Grande, together with Castello di Montebello and Castello di Sasso Corbaro and the connecting walls, a World Heritage Site recognising the ensemble as an outstanding example of late medieval military architecture. The castle's modern visitor infrastructure, including the 1988 underground lift designed by architect Aurelio Galfetti, has since made it one of the most accessible UNESCO sites in Switzerland.",
+  "how_to_visit": "**Getting there:** Bellinzona is served by direct trains from Zürich (1 hour 45 minutes), Lugano (30 minutes) and Milan (1 hour 20 minutes), making it an easy day trip from any of these cities. The castle is a 10-minute walk from Bellinzona station, and the underground lift from Piazza del Sole saves the uphill walk.\n\n**Tickets:** GYG tour t1128427 is the entry ticket. Despite an unreliable single-review rating on the listing, the castle itself is an outstanding UNESCO World Heritage Site.\n\n**Combine with:** A combined ticket for all three Bellinzona castles, available at the ticket office, is the most economical and recommended approach for visitors planning to see Montebello and Sasso Corbaro as well.",
+  "faqs": [
+    {
+      "question": "Why is Castel Grande part of a UNESCO World Heritage Site?",
+      "answer": "Castel Grande was inscribed by UNESCO in 2000 together with Castello di Montebello and Castello di Sasso Corbaro, and the walls connecting them, as 'an outstanding example of late medieval military architecture.' The designation recognises all three castles and the fortified town below as a single unified defensive ensemble rather than three separate monuments, reflecting how comprehensively the site once controlled the strategic Alpine gateway at Bellinzona."
+    },
+    {
+      "question": "How do I get up to Castel Grande?",
+      "answer": "The castle is a 10-minute walk uphill from Bellinzona's town centre and railway station. Visitors can also use an underground lift, carved through the rock in 1988 by architect Aurelio Galfetti, which rises directly from Piazza del Sole in the city centre to the castle base — a notable piece of contemporary architecture in its own right that avoids the steepest part of the climb."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castel-grande.webp",
+    "alt": "Castel Grande's Torre Bianca and Torre Nera above Bellinzona, Ticino, Switzerland",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castel-grande.webp",
+  "instagram_tag": "#castelgrande",
+  "meta_title": "Castel Grande, Bellinzona: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Castel Grande in Bellinzona — the largest of the UNESCO-listed Three Castles, with Roman origins and an underground lift carved through the rock. Guide for 2026.",
+  "tags": ["unesco", "medieval", "ticino", "bellinzona", "swiss-confederation", "roman-origins"],
+  "last_updated": "2026-06-27",
+  "routes": ["swiss-alpine-castles"],
+  "nearby_castles": ["castello-di-montebello", "castello-sasso-corbaro", "chateau-de-chillon"],
+  "gyg_location_id": "99510",
+  "gyg_search_query": "Castel Grande Bellinzona tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1128427",
+      "title": "Bellinzona: Castel Grande Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "Valid 1 day",
+      "price_from": 19,
+      "rating": 1.0,
+      "reviews": 1,
+      "is_top_pick": true,
+      "covers_castles": ["castel-grande"]
+    }
+  ]
+}
