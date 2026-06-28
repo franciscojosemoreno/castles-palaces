@@ -1,0 +1,91 @@
+{
+  "id": "kenilworth-castle",
+  "name": "Kenilworth Castle",
+  "local_name": "Kenilworth Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 78,
+  "annual_visitors": 180000,
+  "country": "england",
+  "region": "Warwickshire",
+  "nearest_city": "Coventry",
+  "address": "Castle Green, Kenilworth CV8 1NE, United Kingdom",
+  "lat": 52.3419,
+  "lng": -1.5876,
+  "unesco": false,
+  "year_built": 1120,
+  "architectural_style": "Norman keep (1120s); expanded into one of the largest castle complexes in England under John of Gaunt (1370s) and Robert Dudley (1560s); ruined by Parliamentary slighting 1649; the surviving sandstone ruins are among the most atmospheric in England",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open year-round; closes earlier in winter (typically 16:00) — check the English Heritage site for exact seasonal hours. The Elizabethan garden is at its best June to July."
+  },
+  "price_adult": 18,
+  "price_child": 11,
+  "booking_required": false,
+  "official_tickets_url": "https://www.english-heritage.org.uk/visit/places/kenilworth-castle-and-elizabethan-garden/",
+  "visit_duration": "2–3 hours",
+  "best_season": "April to October (open year-round but best in summer; Elizabethan garden at its best June–July)",
+  "accessibility": "Grounds and garden are largely level; the ruined keep and Leicester buildings involve uneven stone surfaces and missing floors in places.",
+  "booking_advance_days": 0,
+  "tagline": "Five centuries of ambition and ruin — the castle Elizabeth I's favourite built to win her hand",
+  "highlights": [
+    "The largest and most palatially furnished castle complex in medieval England at its 14th-century peak",
+    "Site of the longest siege in English history — nine months in 1266, ending only when the besieged garrison ran out of food",
+    "John of Gaunt's 1370s great hall, the largest great hall in any private residence in medieval England, its ruined walls still flooding the interior with light",
+    "Robert Dudley's 1575 Princely Pleasures, an 18-day festival staged to persuade Elizabeth I to marry him — she was entertained but not persuaded",
+    "A meticulous 2009 reconstruction of the 1575 Elizabethan garden, based on a contemporary eyewitness description, the only reconstruction of its kind in England"
+  ],
+  "description": "Kenilworth Castle is one of the great ruins of England — not the neat, consolidated ruins of a single period, but the accumulated wreckage of five centuries of ambition, failure and deliberate destruction. The red sandstone walls rise from a shallow valley in Warwickshire with an authority that seems disproportionate to their current roofless state. This was, at its peak, the largest and most palatially furnished castle complex in England. It is now an English Heritage property where the silence of the ruins is a better guide to history than any information board.\n\nThe first castle at Kenilworth was built around 1120 by Geoffrey de Clinton, treasurer to Henry I. By the mid-12th century it had passed to the Crown, and Henry II enclosed it with a massive outer bank and ditch, one of the most ambitious water-defence systems in medieval England. Henry III used Kenilworth as a royal residence and added extensively, and by the mid-13th century it was a major castle complex with a keep, a great hall, and the outer works that would become famous in 1266.\n\nAfter the Battle of Evesham in 1265 and the defeat of Simon de Montfort's rebellion, de Montfort's supporters held Kenilworth against Henry III for nine months, the longest castle siege in English history. The castle was never taken by force; the garrison surrendered on terms only after exhausting all food supplies. The siege illustrated both the strength of the castle's water defences and the broader medieval principle that no castle, however formidable, could hold indefinitely against a determined and patient besieger. Henry III's subsequent grant of Kenilworth to his son Edmund established it as a major Lancastrian stronghold.\n\nJohn of Gaunt, Duke of Lancaster, transformed Kenilworth in the 1370s with one of the most significant architectural interventions in medieval English castle history. His great hall — three storeys, with enormous window openings flooding the interior with light — was the largest great hall in any private residence in medieval England. Gaunt's Kenilworth rivalled royal palaces in scale and sophistication. The hall's two surviving sandstone walls, their windows now open to the sky, still give the best sense of the original building's ambition.\n\nIn 1563, Queen Elizabeth I gave Kenilworth to Robert Dudley, Earl of Leicester, her favourite and possibly her lover. Dudley spent lavishly transforming the castle into a showcase worthy of entertaining the Queen. In 1575 he staged the most spectacular entertainment in Elizabethan England: the Princely Pleasures of Kenilworth, an 18-day festival of pageants, fireworks, bear-baiting, music and theatrical performance designed to persuade Elizabeth to marry him. She was entertained but not persuaded. Dudley added the Leicester buildings, a range of apartments along the tiltyard, the gatehouse, which still stands, and the Elizabethan garden — reconstructed and replanted, it is now one of the key features of the English Heritage visit.\n\nAfter the Civil War, Parliament ordered Kenilworth 'slighted' — deliberately demolished to prevent future military use. The north wall of the keep was blown up, and the dam that maintained the Great Mere, the large lake that had surrounded the castle on three sides, was breached. The lake drained, the water defences disappeared, and the castle entered its long ruin. The slighting paradoxically preserved what remained by removing any incentive for further demolition or rebuilding in later centuries.\n\nIn 2009, English Heritage completed a reconstruction of the Elizabethan garden as it appeared in 1575, based on a contemporary description by Robert Laneham that gives exact dimensions, plant species and features. The reconstruction includes marble fountains, an aviary, trained fruit trees and the ornamental beds Dudley planted for Elizabeth's visit. It is the only reconstruction of its kind in England, and it gives modern visitors the rare experience of standing in a garden built specifically, four and a half centuries ago, to impress a single guest.",
+  "history": "Geoffrey de Clinton, treasurer to Henry I, built the first castle at Kenilworth around 1120. The Crown acquired it by the mid-12th century, and Henry II added an extensive water-defence system of banks and ditches. The castle withstood the longest siege in English history in 1266, when supporters of the defeated rebel Simon de Montfort held it against Henry III for nine months before surrendering on terms.\n\nJohn of Gaunt, Duke of Lancaster, rebuilt much of the castle in the 1370s, adding a great hall that was, at the time, the largest in any private residence in medieval England. Queen Elizabeth I granted the castle to her favourite, Robert Dudley, Earl of Leicester, in 1563, and Dudley expanded it further before staging an 18-day festival of entertainments for the Queen in 1575 in an unsuccessful bid to win her hand in marriage. After the English Civil War, Parliament ordered the castle deliberately demolished, or 'slighted', in 1649 to prevent its future military use, breaching the dam that had maintained the surrounding lake and beginning the castle's long decline into the picturesque ruin managed today by English Heritage.",
+  "how_to_visit": "**Getting there:** Kenilworth is 8km from Coventry, about 15 minutes by car or 30 minutes by bus. Warwick Castle is 8km south, and the two can be combined in a single day.\n\n**Tickets:** The castle is managed by English Heritage; members enter free. GYG tour t397551 (4.8★, 101 reviews) is the standard admission ticket.",
+  "faqs": [
+    {
+      "question": "Why did Robert Dudley hold a festival at Kenilworth in 1575?",
+      "answer": "Robert Dudley, Earl of Leicester, staged the 18-day 'Princely Pleasures of Kenilworth' in 1575 — featuring pageants, fireworks, bear-baiting, music and theatrical performances — in an effort to persuade Queen Elizabeth I to marry him. The Queen, who had received the castle as a gift and granted it to Dudley in 1563, was thoroughly entertained but ultimately did not agree to the marriage. The festival remains one of the most spectacular entertainments staged in Elizabethan England."
+    },
+    {
+      "question": "Why is Kenilworth Castle a ruin?",
+      "answer": "After the English Civil War, Parliament ordered Kenilworth deliberately demolished, or 'slighted', in 1649 to prevent it being used militarily again. The north wall of the keep was blown up, and the dam maintaining the castle's defensive lake was breached, draining the water defences permanently. This deliberate destruction, rather than gradual neglect, is why the castle survives today as a dramatic ruin rather than a restored or rebuilt structure."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/kenilworth-castle.webp",
+    "alt": "Kenilworth Castle's ruined sandstone great hall and keep in Warwickshire",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/kenilworth-castle.webp",
+  "instagram_tag": "#kenilworthcastle",
+  "meta_title": "Kenilworth Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Kenilworth Castle in Warwickshire — once the largest castle complex in England, with the reconstructed Elizabethan garden of Robert Dudley. Guide for 2026.",
+  "tags": ["medieval", "ruins", "warwickshire", "elizabethan", "english-heritage", "siege"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["warwick-castle", "belvoir-castle"],
+  "gyg_location_id": "152227",
+  "gyg_search_query": "Kenilworth Castle Warwickshire tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "397551",
+      "title": "Kenilworth Castle & Elizabethan Garden: Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "2 hours",
+      "price_from": 18,
+      "rating": 4.8,
+      "reviews": 101,
+      "is_top_pick": true,
+      "covers_castles": ["kenilworth-castle"]
+    }
+  ]
+}

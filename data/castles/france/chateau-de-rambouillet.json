@@ -1,0 +1,91 @@
+{
+  "id": "chateau-de-rambouillet",
+  "name": "Château de Rambouillet",
+  "local_name": "Château de Rambouillet",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 72,
+  "annual_visitors": 120000,
+  "country": "france",
+  "region": "Île-de-France",
+  "nearest_city": "Rambouillet",
+  "address": "Place de la Libération, 78120 Rambouillet, France",
+  "lat": 48.6465,
+  "lng": -1.8189,
+  "unesco": false,
+  "year_built": 1375,
+  "architectural_style": "Medieval origin (14th century); transformed by Louis XVI; the François I Tower (1530) is the only Renaissance survival; current château primarily 18th century with round towers; official French presidential summer residence since 1896",
+  "opening_hours": {
+    "monday": "10:00–17:30",
+    "tuesday": "Closed",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "10:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Open April to October; closed Tuesdays year-round. Grounds and forest accessible year-round. Occasional closures occur when the President is in residence, announced in advance."
+  },
+  "price_adult": 13,
+  "price_child": 7,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateauderambouillet.fr",
+  "visit_duration": "1.5–2 hours (château and grounds)",
+  "best_season": "April to October (closed Tuesday; grounds accessible year-round)",
+  "accessibility": "Ground-floor rooms are largely accessible; the dairy and Shell Cottage have level access. Some upper château rooms involve stairs.",
+  "booking_advance_days": 0,
+  "tagline": "The Republic's quiet château — a presidential retreat with Marie Antoinette's theatrical dairy",
+  "highlights": [
+    "The official French presidential summer residence since 1896, including the site of the first G7 summit in 1975",
+    "The François I Tower (1530), the only surviving Renaissance element — and the room where François I died in 1547",
+    "The Laiterie de la Reine, Marie Antoinette's 1785–1787 neoclassical dairy, built as a theatrical setting for pastoral role-play two years before the Revolution",
+    "The Chaumière des Coquillages, an early 18th-century shell-encrusted rocaille cottage built for the Comtesse de Toulouse",
+    "Surrounded by the 20,000-hectare Forêt de Rambouillet, one of the largest forests in the Paris region and still used for presidential hunting"
+  ],
+  "description": "Forty-five kilometres southwest of Paris, in the Forêt de Rambouillet where French kings have hunted since the 14th century, stands one of the Republic's most quietly distinguished official residences. The Château de Rambouillet has been the French presidential summer residence since 1896, which means it is both a functioning state building and one of the oldest surviving château complexes in the Île-de-France. It is open to the public when the President is not in residence, which is most of the time.\n\nThe first fortified structure at Rambouillet was built around 1375 by the d'Angennes family. François I, the great Renaissance king who built Fontainebleau and Chambord, acquired it in 1538 and added the François I Tower, the only surviving Renaissance element of the current complex. The king died in the tower in 1547, one of the more precisely located royal deaths in French history. Louis XIV used Rambouillet occasionally; Louis XVI, who loved the forest for hunting, transformed the château and installed the remarkable Laiterie de la Reine, the Queen's Dairy, for Marie Antoinette, who preferred to play at pastoral life in dairy buildings rather than face the revolutionary pressures gathering in Paris.\n\nThe Laiterie de la Reine is the most surprising element of the Rambouillet complex and one of the strangest surviving structures in French royal history. Built in 1785–1787 by the architect Thévenin, the dairy is a neoclassical rotunda decorated with marble bas-reliefs of mythological scenes. It was designed not as a working dairy but as a theatrical setting in which the Queen could pretend to be a shepherdess, collecting milk in Sèvres porcelain vessels, surrounded by the visual vocabulary of Arcadian pastoral, while the French state lurched toward its dissolution. The dairy was completed two years before the Revolution. It is extraordinarily well preserved and is among the most poignant documents of the late Ancien Régime's escapism.\n\nAdjacent to the dairy is the Chaumière des Coquillages, the Shell Cottage, built for the Comtesse de Toulouse in the early 18th century: a small building with walls entirely encrusted in shells, coral, mother-of-pearl and semi-precious stones. It is a masterpiece of the rocaille decorative tradition. Both the dairy and the Shell Cottage are included in the château visit and are the primary draws for visitors who have already seen the grand Loire Valley châteaux.\n\nRambouillet became the official presidential summer residence under President Félix Faure in 1896. It has hosted significant international meetings: the G7 summit of 1975, the first ever held, attended by Giscard d'Estaing, Ford, Kissinger, Schmidt, Heath, Moro and Trudeau, took place here. The château closes when the President is in residence, but these closures are infrequent and announced in advance.\n\nThe Forêt de Rambouillet, 20,000 hectares of mixed oak and pine forest, surrounds the town on three sides. It is one of the largest forests in the Paris region and is actively managed for timber, hunting, still a presidential prerogative, and public recreation. The étangs, or ponds, within the forest are popular with cyclists, walkers and anglers. The forest makes Rambouillet one of the more pleasant day trips from Paris: the château is the destination, the forest is the experience around it.",
+  "history": "The d'Angennes family built the first fortified structure at Rambouillet around 1375. François I acquired the property in 1538 and added the François I Tower, the only Renaissance element to survive into the current complex, and died there in 1547. Louis XVI transformed the château in the 1780s, drawn to the surrounding forest for hunting, and commissioned the Laiterie de la Reine for Marie Antoinette between 1785 and 1787, a neoclassical dairy built purely as a theatrical pastoral retreat rather than a working farm building, completed just two years before the French Revolution.\n\nRambouillet became the official summer residence of the French presidency under Félix Faure in 1896, a role it has retained ever since, hosting state functions and international diplomacy including the first G7 summit in 1975. The château remains a working state building, closing to the public only on the infrequent occasions when the President is in official residence, and otherwise operates as a public heritage site managed alongside its surrounding 20,000-hectare forest.",
+  "how_to_visit": "**Getting there:** Rambouillet is 45 minutes by direct train from Paris Montparnasse, with frequent service. The château is a 10-minute walk from the station.\n\n**Tickets:** GYG tour t662549 (4.4★, 33 reviews) includes entry to the château and all outbuildings, including the dairy and Shell Cottage. The château is closed on Tuesdays.\n\n**The town:** The town centre, with its market and cafés, is worth a 30-minute stop before or after the château visit.",
+  "faqs": [
+    {
+      "question": "Why does the French President use Rambouillet as a residence?",
+      "answer": "Rambouillet became the official summer residence of the French presidency in 1896 under President Félix Faure, continuing a tradition of royal use of the surrounding forest for hunting that dates back to the 14th century. The château remains an active state building today, hosting diplomatic functions including the first G7 summit in 1975, and closes to the public only on the infrequent occasions when the President is in official residence."
+    },
+    {
+      "question": "What is the Laiterie de la Reine at Château de Rambouillet?",
+      "answer": "The Laiterie de la Reine, or Queen's Dairy, is a neoclassical rotunda built between 1785 and 1787 for Marie Antoinette, decorated with marble bas-reliefs of mythological scenes. It was designed not as a functioning dairy but as a theatrical setting where the Queen could play at pastoral simplicity, collecting milk in Sèvres porcelain vessels, just two years before the French Revolution swept away the world it represented. It remains one of the most evocative surviving structures of the late Ancien Régime."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-rambouillet.webp",
+    "alt": "Château de Rambouillet's 18th-century facade and round towers in the Île-de-France forest",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-rambouillet.webp",
+  "instagram_tag": "#chateauderambouillet",
+  "meta_title": "Château de Rambouillet: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Château de Rambouillet near Paris — the French presidential summer residence with Marie Antoinette's theatrical dairy and Shell Cottage. Guide for 2026.",
+  "tags": ["presidential-residence", "ile-de-france", "marie-antoinette", "day-trip-from-paris", "forest"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau"],
+  "gyg_location_id": "102978",
+  "gyg_search_query": "Chateau de Rambouillet tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "662549",
+      "title": "Rambouillet: Entry Ticket to the Château de Rambouillet",
+      "type": "entrance_ticket",
+      "duration": "Valid 1 day",
+      "price_from": 13,
+      "rating": 4.4,
+      "reviews": 33,
+      "is_top_pick": true,
+      "covers_castles": ["chateau-de-rambouillet"]
+    }
+  ]
+}
