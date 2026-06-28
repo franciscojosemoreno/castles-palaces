@@ -16,7 +16,8 @@ interface Props {
 
 export default function GYGFeaturedTour({ tour }: Props) {
   const partnerId = process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? '';
-  const href = `https://www.getyourguide.com/activity/${tour.tour_id}/?partner_id=${partnerId}`;
+  const base = tour.url ?? `https://www.getyourguide.com/activity/${tour.tour_id}/`;
+  const href = `${base}${base.includes('?') ? '&' : '?'}partner_id=${partnerId}`;
 
   return (
     <div className="bg-white border border-stone-200 rounded-lg p-5">

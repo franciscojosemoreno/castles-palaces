@@ -6,7 +6,12 @@ interface CastleQuickFactsProps {
 
 function getGYGUrl(castle: Castle): string | null {
   const partnerId = process.env.NEXT_PUBLIC_GYG_PARTNER_ID || '';
-  // Prioritise location page (precise destination) over generic search
+  // Prioritise the top-pick tour's own URL over the generic city-wide location page
+  const topPick = castle.gyg_featured_tours?.find((t) => t.is_top_pick) ?? castle.gyg_featured_tours?.[0];
+  if (topPick) {
+    const base = topPick.url ?? `https://www.getyourguide.com/activity/${topPick.tour_id}/`;
+    return `${base}${base.includes('?') ? '&' : '?'}partner_id=${partnerId}`;
+  }
   if (castle.gyg_location_id) {
     return `https://www.getyourguide.com/-l${castle.gyg_location_id}/?partner_id=${partnerId}`;
   }

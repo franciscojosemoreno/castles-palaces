@@ -82,12 +82,14 @@ export interface Castle {
   gyg_num_results?: number;
   gyg_featured_tours?: {
     tour_id: string;
+    url?: string; // Full GYG activity URL (city-slug + location id + tour slug); partner_id appended at render time. Falls back to /activity/{tour_id}/ when absent.
     title: string;
     type: 'day_trip' | 'guided_tour' | 'skip_the_line' | 'multi_day' | 'entry_ticket';
     duration: string;
     price_from: number;
-    rating: number;
+    rating: number | null;
     reviews: number;
+    is_top_pick?: boolean;
     covers_castles?: string[];
   }[];
 }
