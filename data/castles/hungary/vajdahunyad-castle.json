@@ -1,0 +1,91 @@
+{
+  "id": "vajdahunyad-castle",
+  "name": "Vajdahunyad Castle",
+  "local_name": "Vajdahunyad vára",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 78,
+  "annual_visitors": 500000,
+  "country": "hungary",
+  "region": "Budapest",
+  "nearest_city": "Budapest",
+  "address": "Városliget, 1146 Budapest, Hungary",
+  "lat": 47.5148,
+  "lng": 19.0826,
+  "unesco": false,
+  "year_built": 1896,
+  "architectural_style": "Eclectic historicism; designed by Ignác Alpár for Hungary's Millennium Exhibition 1896; incorporates architectural elements copied from 14 famous Hungarian buildings spanning Romanesque, Gothic, Renaissance, and Baroque styles; originally built in wood and cardboard 1896, rebuilt in permanent stone 1904–1908; houses the Hungarian Agricultural Museum",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Exterior and courtyard are open and free year-round. Agricultural Museum interior hours vary seasonally; closed Mondays in winter. Check the museum's website before visiting."
+  },
+  "price_adult": 5,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.mezgazdasagimuzeum.hu/en/",
+  "visit_duration": "1–1.5 hours (exterior and courtyard free; museum interior requires paid ticket)",
+  "best_season": "Year-round (famous for ice rink in winter; City Park green space in summer)",
+  "accessibility": "The courtyard and exterior paths are flat and accessible. The museum interior has lift access to most floors.",
+  "booking_advance_days": 0,
+  "tagline": "A century of Hungarian architecture condensed into one fairy-tale castle, built from cardboard and rebuilt in stone",
+  "highlights": [
+    "Built for Hungary's 1896 Millennium Exhibition by architect Ignác Alpár, combining copied elements from 14 of the most famous buildings in the historic Kingdom of Hungary",
+    "Originally constructed from wood and cardboard as a temporary exhibition piece, then rebuilt in permanent stone from 1904 to 1908 because the public refused to let it be demolished",
+    "Named after and partly modelled on the genuine 14th-century Hunyad Castle (Vajdahunyad) in Transylvania, now called Corvin Castle and located in Hunedoara, Romania",
+    "Home to the Hungarian Agricultural Museum, the largest agricultural museum in Europe, covering livestock, machinery, viticulture and forestry",
+    "The hooded bronze statue of Anonymous, the unnamed 12th-century chronicler of Hungarian history, in the castle courtyard — its writing hand polished smooth by visitors seeking luck"
+  ],
+  "description": "In the City Park of Budapest — the green lung of Pest, where families skate in winter and row boats in summer — an entire castle rises from an artificial island in a pond. It has towers, turrets, battlements, a Romanesque chapel, a Gothic wing, a Baroque palace and a Transylvanian Renaissance loggia. It was built in 1896 from wood and cardboard, then rebuilt in permanent stone eight years later because Budapest loved it too much to let it disappear. Vajdahunyad Castle is one of the strangest buildings in Hungary: a deliberate architectural fiction that became a genuine monument.\n\n1896 was Hungary's millennium year, a thousand years since the Magyar tribes under Árpád crossed the Carpathian Mountains and settled the Pannonian Plain. The Austro-Hungarian government commissioned a vast Millennium Exhibition in City Park to mark the occasion, and the architect Ignác Alpár designed a temporary castle complex that condensed eight centuries of Hungarian architecture into a single theatrical ensemble. Rather than copying one building, Alpár took elements from 14 of the most celebrated structures in the historic Kingdom of Hungary and combined them into a coherent, if deliberately eclectic, whole — Romanesque doorways beside Gothic towers beside Renaissance loggias beside Baroque gables.\n\nAmong the buildings Alpár referenced were the Romanesque chapel of Ják in Vas County, the Hunyad Castle of Transylvania, the Segesvár town hall, and Bánffy Castle at Bonțida. The Transylvanian emphasis was deliberate: Transylvania's medieval Hungarian heritage was central to Hungarian national identity in 1896, and the Millennium Exhibition was, in part, a statement about that heritage. The irony is sharp. Twenty-two years later, after the First World War, Transylvania became part of Romania under the Treaty of Trianon. The buildings Alpár reproduced in miniature at Budapest now stand across an international border, in a country whose relationship with Hungary over that lost territory remains politically sensitive a century later.\n\nWhen the Millennium Exhibition closed in 1896, the wooden castle was scheduled for demolition like the rest of the temporary exhibition structures. Budapest's citizens petitioned to keep it, and the city agreed. Alpár was commissioned to rebuild the entire complex in permanent stone and brick, a project that took from 1904 to 1908. The result is a building that reads as medieval from across the pond but is, in every structural sense, an early 20th-century construction — designed from the outset to house a museum rather than a court, with rooms proportioned for exhibition cases rather than royal ceremony.\n\nA common point of confusion is worth addressing directly. 'Vajdahunyad Castle' is also the historical Hungarian name for what is today called Corvin Castle: a genuine 14th- to 15th-century Gothic fortress in Hunedoara, Romania, seat of János Hunyadi (Iancu de Hunedoara), regent of the Kingdom of Hungary and father of King Matthias Corvinus. The Budapest building is named after, and partly modelled on, that Transylvanian original, but the two are entirely separate structures six centuries apart in age. The Budapest Vajdahunyad is a tribute; the Hunedoara Corvin Castle is the real thing.\n\nThe castle today houses the Hungarian Agricultural Museum, the largest agricultural museum in Europe. Its collections — historic livestock breeds, farm machinery, viticulture, hunting, fishing and forestry — trace the transformation of Hungarian rural life from the medieval period through industrialisation. The exterior and courtyard are free to explore; the museum itself requires a ticket. In the courtyard stands one of Budapest's most distinctive monuments: a hooded bronze figure of Anonymous, the unnamed 12th-century chronicler who wrote the Gesta Hungarorum, the oldest surviving narrative of early Hungarian history. The 1903 statue, by sculptor Miklós Ligeti, has its writing hand rubbed bright by generations of visitors who believe touching it brings good fortune to writers.",
+  "history": "Vajdahunyad Castle was built for Hungary's Millennium Exhibition of 1896, commemorating a thousand years since the Magyar settlement of the Carpathian Basin. Architect Ignác Alpár designed it as a composite structure, combining architectural elements drawn from 14 historically significant buildings across the Kingdom of Hungary, with particular emphasis on Transylvanian medieval architecture, to create a single walkable timeline of Hungarian building styles from Romanesque to Baroque.\n\nThe original structure was temporary, built quickly from wood and cardboard for the exhibition's duration. Its popularity with the Budapest public led to a permanent reconstruction in stone and brick, carried out under Alpár's direction from 1904 to 1908. The castle has housed the Hungarian Agricultural Museum since the early 20th century, and its courtyard has hosted the bronze statue of the chronicler Anonymous since 1903. Today it stands as one of the most recognisable landmarks of Budapest's City Park, distinct from — though named for and inspired by — the genuine medieval Hunyad Castle in Transylvania, now known as Corvin Castle.",
+  "how_to_visit": "**Getting there:** Vajdahunyad Castle is in Városliget (City Park), a 10-minute walk from Heroes' Square and reachable via the Millennium Underground (M1), the oldest metro line on the European continent, to Hősök tere station.\n\n**Tickets:** GYG tour t976883 is a City Park walking tour that includes Vajdahunyad Castle as a key stop; price and review figures are provisional pending live verification.\n\n**Combine with:** City Park also contains the Széchenyi Thermal Baths, Budapest Zoo, and — in winter — the largest outdoor ice rink in Central Europe, set directly in front of the castle.",
+  "faqs": [
+    {
+      "question": "Is Vajdahunyad Castle in Budapest the same as the Vajdahunyad Castle in Transylvania?",
+      "answer": "No. The Budapest building is a 1896–1908 composite structure built for Hungary's Millennium Exhibition, combining architectural elements from 14 historic Hungarian buildings, including features modelled on the genuine Hunyad Castle in Transylvania. That original castle, now known as Corvin Castle, is a real 14th–15th century Gothic fortress in Hunedoara, Romania, and was the seat of the Hunyadi family. The Budapest version is a tribute and architectural showcase, not a relocation or replica of a single building."
+    },
+    {
+      "question": "Why was Vajdahunyad Castle rebuilt in stone?",
+      "answer": "The original 1896 structure was built from wood and cardboard as a temporary pavilion for Hungary's Millennium Exhibition and was meant to be demolished afterward. It proved so popular with the public that the city of Budapest decided to preserve it permanently, commissioning architect Ignác Alpár to rebuild the entire complex in stone and brick between 1904 and 1908."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/vajdahunyad-castle.webp",
+    "alt": "Vajdahunyad Castle's eclectic towers reflected in the pond of City Park, Budapest",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/vajdahunyad-castle.webp",
+  "instagram_tag": "#vajdahunyadcastle",
+  "meta_title": "Vajdahunyad Castle, Budapest: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Vajdahunyad Castle in Budapest's City Park — a composite 1896 showcase of Hungarian architecture, home to the Agricultural Museum. Guide for 2026.",
+  "tags": ["historicism", "budapest", "city-park", "museum", "millennium-exhibition"],
+  "last_updated": "2026-06-28",
+  "routes": [],
+  "nearby_castles": ["buda-castle", "visegrad-royal-palace"],
+  "gyg_location_id": "29",
+  "gyg_search_query": "Vajdahunyad Castle Budapest tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "976883",
+      "title": "Budapest City Park: Real Crimes of Hungary Walking Tour",
+      "type": "walking_tour",
+      "duration": "2 hours",
+      "price_from": 15,
+      "rating": 4.5,
+      "reviews": 50,
+      "is_top_pick": true,
+      "covers_castles": ["vajdahunyad-castle"]
+    }
+  ]
+}
