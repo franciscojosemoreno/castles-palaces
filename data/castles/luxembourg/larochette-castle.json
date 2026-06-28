@@ -1,0 +1,79 @@
+{
+  "id": "larochette-castle",
+  "name": "Larochette Castle",
+  "local_name": "Château de Larochette",
+  "type": "ruins",
+  "status": "published",
+  "featured": false,
+  "priority_score": 68,
+  "annual_visitors": 30000,
+  "country": "luxembourg",
+  "region": "Mullerthal",
+  "nearest_city": "Larochette",
+  "address": "9, Montée du Château, 7626 Larochette, Luxembourg",
+  "lat": 49.7825,
+  "lng": 6.224,
+  "unesco": false,
+  "year_built": 1100,
+  "architectural_style": "Two distinct medieval castles on one sandstone rock — the 12th-century Fels Castle and the 14th-century Créhange Castle — left as a romantic, largely unrestored ruin",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open April to October only; closed in winter. Check the Larochette tourist office for exact seasonal dates."
+  },
+  "price_adult": 4,
+  "price_child": 2,
+  "booking_required": false,
+  "official_tickets_url": "https://www.larochette.lu/",
+  "visit_duration": "1 hour",
+  "best_season": "May to September, and during the Mullerthal Trail hiking season",
+  "accessibility": "Uphill approach on uneven paths; the ruins themselves have no railings in many areas and require sturdy footwear.",
+  "booking_advance_days": 0,
+  "tagline": "Two castles on one sandstone rock, left to the romantic decay of eight centuries above the Mullerthal",
+  "highlights": [
+    "Two entirely separate castles, Fels (12th century) and Créhange (14th century), built side by side on the same dramatic sandstone outcrop",
+    "Part of the medieval Duchy of Luxembourg's network of fortifications under the Holy Roman Empire, controlling the routes through the Mullerthal valley",
+    "A deliberately unrestored, romantic ruin — unlike many consolidated European castles, Larochette retains the atmosphere of genuine centuries-long abandonment",
+    "Sweeping views over the town of Larochette and the surrounding sandstone cliffs of the Mullerthal, Luxembourg's 'Little Switzerland'",
+    "Directly connected to the Mullerthal Trail, one of Europe's best-regarded long-distance hiking routes through sandstone gorges and forest"
+  ],
+  "description": "Above the small town of Larochette, in the sandstone hill country that Luxembourg markets as its 'Little Switzerland,' a single rocky outcrop carries not one castle but two. Fels Castle, the older of the pair, dates from around 1100 and occupies the higher ground; Créhange Castle, built in the 14th century by a related noble family, sits alongside it on the same rock. The two structures were never merged into a single coherent building — they remain visibly separate, a rare arrangement that reflects centuries of divided ownership among different branches of the same regional aristocracy.\n\nThe Mullerthal region, characterised by deeply eroded sandstone formations, dense forest and narrow gorges, gave Larochette's builders a naturally defensible position controlling routes through the valley. The castle was part of the network of fortifications maintained by the medieval Counts, later Dukes, of Luxembourg, themselves vassals of the Holy Roman Empire and, in the case of several Luxembourg counts, Holy Roman Emperors in their own right. Larochette's strategic value lay less in any single dramatic siege than in its steady, centuries-long role policing a minor but persistent trade and military corridor through the sandstone hills.\n\nWhat distinguishes Larochette today from many of Europe's restored medieval castles is precisely its lack of restoration. Where sites like Vianden Castle nearby have been substantially rebuilt to convey their medieval grandeur, Larochette has been deliberately conserved rather than reconstructed: walls stand as ruins, towers are roofless, and the overall impression is of a place genuinely abandoned to time rather than a careful museum reconstruction. This gives the site a different, more melancholic atmosphere than its better-known Luxembourg neighbour, and it appeals particularly to visitors who prefer authentic ruin to polished restoration.\n\nThe surrounding Mullerthal Trail, a network of long-distance hiking routes through the sandstone gorges, moss-covered rock formations and beech forest of the region, passes close to Larochette and makes the castle a natural waypoint for hikers. The trail has built a strong reputation among European hiking enthusiasts for its unusual rock formations, including narrow slot canyons and natural rock bridges, and combining a Larochette castle visit with even a short section of the Mullerthal Trail is the standard way to experience the area.\n\nFrom the castle's highest surviving points, the view extends over the red-tiled roofs of Larochette town in the valley below and across the forested sandstone ridges of the Mullerthal, a landscape distinctly different from the rolling vineyard country more commonly associated with Luxembourg's better-known south.",
+  "history": "Fels Castle, the older of the two structures on the Larochette rock, was built around 1100 by a noble family that took its name from the site itself (Fels being the German word for rock). In the 14th century, a related branch of the regional aristocracy built the separate Créhange Castle alongside it on the same outcrop, creating the unusual double-castle arrangement that survives today. Both castles formed part of the defensive network maintained across the medieval County, later Duchy, of Luxembourg, itself a constituent territory of the Holy Roman Empire.\n\nUnlike Vianden Castle, which was substantially restored in the 20th century, Larochette was largely left in its ruined state following centuries of gradual decline, fire damage and partial collapse. This conservation-rather-than-reconstruction approach has preserved the site's character as an authentic, weathered medieval ruin. Today the castle is maintained by local heritage authorities as an open-air historic site and is closely associated with the surrounding Mullerthal hiking region, which has become one of Luxembourg's principal outdoor tourism draws.",
+  "how_to_visit": "**Getting there:** Larochette is about 25km northeast of Luxembourg City. Regular buses run from Luxembourg City's main bus station to Larochette (around 40 minutes). By car, the drive takes about 30 minutes. The castle is a short uphill walk from the town centre.\n\n**Tickets:** As of June 2026, no GetYourGuide listing for Larochette Castle could be verified as currently active — a previously listed tour was found to redirect to the GetYourGuide homepage rather than an active booking page. Tickets are available directly at the site or through the Larochette tourist office; check official channels for current admission arrangements.\n\n**Combine with:** A section of the Mullerthal Trail, Luxembourg's best-regarded long-distance hiking route through sandstone gorges and forest, passes near the castle and is the natural pairing for a half-day visit. Vianden Castle, roughly 30km north, makes a contrasting comparison between a fully restored castle and Larochette's deliberately preserved ruin state.",
+  "faqs": [
+    {
+      "question": "Why are there two separate castles at Larochette?",
+      "answer": "Fels Castle, built around 1100, and Créhange Castle, added in the 14th century, were constructed by related but distinct branches of the regional aristocracy on the same sandstone outcrop. Rather than merging the two structures into a single unified building, each family maintained its own separate castle side by side on the rock, an arrangement that reflects the divided inheritance and rivalry common among medieval noble families in the Holy Roman Empire's smaller territories. The two castles remain visibly distinct today."
+    },
+    {
+      "question": "Why hasn't Larochette Castle been restored like Vianden Castle?",
+      "answer": "Heritage authorities deliberately chose a conservation approach for Larochette rather than the extensive reconstruction undertaken at Vianden Castle in the 20th century. The result is a site that preserves the genuine atmosphere of a centuries-old ruin — roofless towers, weathered walls, no attempt to recreate a 'complete' medieval appearance — which is considered by many visitors and heritage specialists to offer an authenticity that fully restored castles cannot replicate."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/larochette-castle.webp",
+    "alt": "The ruins of Larochette Castle's twin medieval fortresses above the Mullerthal, Luxembourg",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/larochette-castle.webp",
+  "instagram_tag": "#larochettecastle",
+  "meta_title": "Larochette Castle, Luxembourg: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Larochette Castle in Luxembourg's Mullerthal region — two medieval castles on one sandstone rock, left as a romantic, unrestored ruin. Guide for 2026.",
+  "tags": ["ruins", "medieval", "mullerthal", "luxembourg", "hiking", "little-switzerland"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["vianden-castle", "beaufort-castle"],
+  "gyg_location_id": "158270",
+  "gyg_search_query": "Larochette Castle Luxembourg tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 0,
+  "gyg_featured_tours": []
+}
