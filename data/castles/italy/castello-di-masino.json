@@ -1,0 +1,91 @@
+{
+  "id": "castello-di-masino",
+  "name": "Castello di Masino",
+  "local_name": "Castello di Masino",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 71,
+  "annual_visitors": 50000,
+  "country": "italy",
+  "region": "Piedmont",
+  "nearest_city": "Turin",
+  "address": "Via al Castello 1, 10010 Caravino TO, Italy",
+  "lat": 45.4586,
+  "lng": 7.8747,
+  "unesco": false,
+  "year_built": 1070,
+  "architectural_style": "Medieval Canavese castle; fortified core dating to 11th century under the Valperga family; expanded and refined through the 17th and 18th centuries; formal Italian garden of the Baroque period; FAI (Fondo Ambiente Italiano) property since 1988",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "Closed",
+    "wednesday": "Closed",
+    "thursday": "Closed",
+    "friday": "Closed",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open Saturdays, Sundays and public holidays, March to November. Check the FAI calendar for occasional special weekday openings."
+  },
+  "price_adult": 18,
+  "price_child": 9,
+  "booking_required": false,
+  "official_tickets_url": "https://fondoambiente.it/luoghi/castello-di-masino/",
+  "visit_duration": "1.5–2 hours (castle and gardens)",
+  "best_season": "March to November (check FAI opening calendar)",
+  "accessibility": "Ground-floor State Rooms are largely accessible; the towers and some upper rooms involve stairs. The garden terraces have gravel paths.",
+  "booking_advance_days": 0,
+  "tagline": "Nine centuries in one family — a fortress refined into a Baroque residence above the Canavese plain",
+  "highlights": [
+    "Held by the Valperga family for nine centuries, from a 1070 grant by the House of Savoy until donation to FAI in 1988 — one of the longest single-family tenures of any European castle",
+    "A medieval defensive core of walls, round towers and keep, built on a naturally defensible rock spur with steep drops on three sides",
+    "A 15,000-volume private library accumulated across three centuries of Valperga bibliophilia, maintained in situ by FAI",
+    "17th- and 18th-century Baroque state apartments with coffered ceilings, gilded ornament and a picture gallery of family portraits",
+    "A formal Italian terrace garden, later softened in the English landscape style, restored by FAI to its 18th-century appearance"
+  ],
+  "description": "In the Canavese plain northeast of Turin, where the foothills of the Alps begin their slow rise toward the Gran Paradiso massif, Castello di Masino occupies a natural spur above the town of Caravino. It is one of the oldest continuously inhabited castle complexes in Piedmont, and its transformation from a medieval military fortress into a refined Baroque residence follows the trajectory of the entire Italian aristocracy: less war, more art, more garden. The Valperga family held it for nine centuries, longer than almost any other noble family retained a single property in Italian history.\n\nThe Valperga family received Masino as a fief from the House of Savoy in 1070, following the Battle of Pavia. For nine centuries, through the Renaissance, the Savoyard expansion, the French and Napoleonic occupations, the Risorgimento and the World Wars, the family held the property. The castle passed through male-line succession, female-line inheritance and cousin inheritance, but never left Valperga hands until 1988, when the last Count donated it to the Fondo Ambiente Italiano. Nine centuries of family occupation is exceptionally rare for any European castle; for a Piedmontese castle, it is unique.\n\nThe earliest surviving fabric dates to the 12th and 13th centuries. The defensive circuit of walls, the round towers and the keep form the core of the complex. The castle's position on a spur of rock with steep drops on three sides made it naturally defensible; the walls reinforced the natural obstacle rather than overcoming it. The Savoyard alliance that gave the Valperga family their original grant also defined their subsequent history: loyal Savoyard vassals, the family rose and fell with Savoyard fortunes and never committed to the independent adventures that destroyed most of Piedmont's other noble houses.\n\nIn the 17th and 18th centuries, successive Valperga counts converted the fortress into a residence: state apartments with coffered ceilings, a library of 15,000 volumes, a picture gallery with portraits of the family and works by minor Piedmontese masters. The Baroque renovation followed the conventions of the period — high ceilings, gilded ornament, theatrical perspectives — while preserving the medieval defensive structure as its armature. The result is a castle that was a fortress before it was a palace, and looks like both simultaneously.\n\nThe Masino library, accumulated across three centuries of Valperga bibliophilia, contains 15,000 volumes and is one of the most significant private libraries to survive intact in Piedmont. FAI has maintained it in situ. For visitors interested in the material culture of Italian aristocratic intellectual life — the annotated editions, the correspondence volumes, the runs of ephemera that the major state libraries rarely preserve — this library is unusually accessible and well-labelled.\n\nThe terrace garden below the castle walls was laid out in the formal Italian style in the 17th century: geometric compartments, clipped hedges, an orangery. The garden was later modified in the English landscape style that became fashionable in the late 18th century, producing a hybrid common in Italian villas of this period. FAI has restored the garden to its 18th-century appearance, and the views from the garden terraces across the Canavese plain to the Alps are exceptional.",
+  "history": "The House of Savoy granted Masino to the Valperga family as a fief in 1070, following the Battle of Pavia, and the family's fortified core dates from the 12th and 13th centuries, built on a naturally defensible rock spur. The Valperga remained loyal Savoyard vassals throughout the medieval and early modern periods, a strategic alignment that protected the family from the political upheavals that destroyed many other Piedmontese noble houses during the same centuries.\n\nFrom the 17th century onward, successive Valperga counts converted the medieval fortress into a Baroque residence, adding state apartments, a substantial library and a formal garden while retaining the original defensive walls and towers as the underlying structure. The family's tenure continued unbroken through the Napoleonic period and the Italian Risorgimento, finally ending in 1988 when the last Count donated the castle to the Fondo Ambiente Italiano, Italy's leading heritage conservation charity, which has managed and opened it to the public ever since.",
+  "how_to_visit": "**Getting there:** Masino is 40km northeast of Turin by road, about 45 minutes by car. There is no public transport directly to the castle; a car or taxi from the nearest station, Ivrea, 15km away, is the practical approach.\n\n**Opening days:** The FAI site is open Saturdays, Sundays and public holidays from March through November; check the FAI calendar for occasional special weekday openings.\n\n**Tickets:** GYG tour t433957 (4.3★, 31 reviews) is the official FAI admission ticket.",
+  "faqs": [
+    {
+      "question": "How long did the Valperga family own Castello di Masino?",
+      "answer": "The Valperga family held Masino for nine centuries, from a 1070 grant by the House of Savoy until 1988, when the last Count donated the castle to the Fondo Ambiente Italiano. This makes it one of the longest single-family tenures of any castle in Europe, and an exceptional case even within Piedmont's long history of noble family estates."
+    },
+    {
+      "question": "What is the Fondo Ambiente Italiano (FAI)?",
+      "answer": "FAI is Italy's leading independent heritage conservation charity, comparable to England's National Trust, which acquires and manages historic buildings, gardens and landscapes for public benefit. Masino, donated to FAI in 1988, is one of several FAI-managed castles in Piedmont, alongside Castello di Manta, and the foundation's stewardship has restored both the building's Baroque interiors and its formal garden to their historic appearance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castello-di-masino.webp",
+    "alt": "Castello di Masino's medieval towers and Baroque facade above the Canavese plain, Piedmont",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castello-di-masino.webp",
+  "instagram_tag": "#castellodimasino",
+  "meta_title": "Castello di Masino: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Castello di Masino in Piedmont — nine centuries of Valperga family history, a 15,000-volume library and a restored Baroque garden. FAI guide for 2026.",
+  "tags": ["medieval", "baroque", "piedmont", "fai", "valperga", "library", "garden"],
+  "last_updated": "2026-06-27",
+  "routes": [],
+  "nearby_castles": ["castello-sforzesco", "castello-di-vezio"],
+  "gyg_location_id": "390",
+  "gyg_search_query": "Castello di Masino Piedmont tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "433957",
+      "title": "Caravino: Castello di Masino Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "1 hour",
+      "price_from": 18,
+      "rating": 4.3,
+      "reviews": 31,
+      "is_top_pick": true,
+      "covers_castles": ["castello-di-masino"]
+    }
+  ]
+}
