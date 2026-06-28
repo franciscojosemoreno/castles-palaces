@@ -11,6 +11,7 @@ import CastleCard from '@/components/castle/CastleCard';
 import GYGWidget from '@/components/affiliate/GYGWidget';
 import GYGFeaturedTour from '@/components/affiliate/GYGFeaturedTour';
 import StructuredData from '@/components/seo/StructuredData';
+import { getGYGSearchUrl } from '@/lib/gyg';
 
 interface PageProps {
   params: Promise<{ country: string; castle: string }>;
@@ -154,7 +155,7 @@ export default async function CastlePage({ params }: PageProps) {
                 <p className="text-white/70 text-xs mt-0.5">Skip-the-line tickets & expert guides</p>
               </div>
               <a
-                href={`https://www.getyourguide.com/s/?q=${encodeURIComponent(castle.gyg_search_query ?? castle.name)}&partner_id=${process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? ''}`}
+                href={getGYGSearchUrl(castle.name)}
                 target="_blank"
                 rel="noopener noreferrer sponsored"
                 className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-xs px-4 py-2.5 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
@@ -237,7 +238,7 @@ export default async function CastlePage({ params }: PageProps) {
             <CastleQuickFacts castle={castle} />
 
             {castle.gyg_featured_tours && castle.gyg_featured_tours.length > 0 && (
-              <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} />
+              <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
             )}
 
             <GYGWidget
@@ -267,7 +268,7 @@ export default async function CastlePage({ params }: PageProps) {
         {/* Featured tour + GYG Widget — mobile (after main content) */}
         {castle.gyg_featured_tours && castle.gyg_featured_tours.length > 0 && (
           <div className="lg:hidden mt-6">
-            <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} />
+            <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
           </div>
         )}
         <div className="lg:hidden mt-6">
@@ -299,7 +300,7 @@ export default async function CastlePage({ params }: PageProps) {
           )}
         </div>
         <a
-          href={`https://www.getyourguide.com/-l${castle.gyg_location_id}/?partner_id=${process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? ''}`}
+          href={getGYGSearchUrl(castle.name)}
           target="_blank"
           rel="noopener noreferrer sponsored"
           className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"

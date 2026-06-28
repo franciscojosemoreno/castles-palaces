@@ -1,4 +1,5 @@
 import type { Castle } from '@/types';
+import { getGYGSearchUrl } from '@/lib/gyg';
 
 type FeaturedTour = NonNullable<Castle['gyg_featured_tours']>[number];
 
@@ -12,12 +13,11 @@ const typeLabels: Record<FeaturedTour['type'], string> = {
 
 interface Props {
   tour: FeaturedTour;
+  castleName: string;
 }
 
-export default function GYGFeaturedTour({ tour }: Props) {
-  const partnerId = process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? '';
-  const base = tour.url ?? `https://www.getyourguide.com/activity/${tour.tour_id}/`;
-  const href = `${base}${base.includes('?') ? '&' : '?'}partner_id=${partnerId}`;
+export default function GYGFeaturedTour({ tour, castleName }: Props) {
+  const href = getGYGSearchUrl(castleName);
 
   return (
     <div className="bg-white border border-stone-200 rounded-lg p-5">
