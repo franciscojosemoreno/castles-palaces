@@ -29,6 +29,11 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
         {tour.rating != null && tour.reviews != null && tour.reviews > 1 && (
           <>
             <span>⭐ {tour.rating} ({tour.reviews.toLocaleString()})</span>
+            {tour.rating >= 4.8 && (
+              <span className="bg-[#c9a84c] text-[#1a1a1a] text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded">
+                Top Rated
+              </span>
+            )}
             <span className="text-stone-300">·</span>
           </>
         )}
