@@ -14,7 +14,7 @@ interface TourStructuredDataProps {
 }
 
 export default function TourStructuredData({ tour, url }: TourStructuredDataProps) {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://castlespalaces.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
   const fullUrl = `${baseUrl}${url}`;
   const currencyCode = tour.currency ?? 'EUR';
 

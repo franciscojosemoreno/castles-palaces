@@ -48,7 +48,7 @@ const COUNTRY_CODES: Record<string, string> = {
 };
 
 export default function StructuredData({ castle, url }: StructuredDataProps) {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://castlespalaces.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
   const fullUrl = `${baseUrl}${url}`;
   const absoluteImage = castle.hero_image.url.startsWith('http')
     ? castle.hero_image.url

@@ -3,7 +3,7 @@ import { getAllCastleParams, getPublishedCastles, getAllCountrySlugs } from '@/l
 import { getAllRoutes } from '@/lib/routes';
 import { getAllTourParams, getAllTourCountrySlugs } from '@/lib/tours';
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://castlespalaces.com';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const castleParams = getAllCastleParams();
