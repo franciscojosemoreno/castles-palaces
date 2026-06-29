@@ -1,0 +1,91 @@
+{
+  "id": "charlottenburg-palace",
+  "name": "Charlottenburg Palace",
+  "local_name": "Schloss Charlottenburg",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 90,
+  "annual_visitors": 500000,
+  "country": "germany",
+  "region": "Berlin",
+  "nearest_city": "Berlin",
+  "address": "Spandauer Damm 10-22, 14059 Berlin, Germany",
+  "lat": 52.5208,
+  "lng": 13.2956,
+  "unesco": false,
+  "year_built": 1695,
+  "architectural_style": "Baroque and Rococo; built 1695–1699 by architect Johann Arnold Nering for Electress Sophie Charlotte; enlarged after her death 1705–1713 by Eosander von Göthe who added the tower and dome; New Wing (Neuer Flügel) added 1740–1747 under Frederick the Great by Georg Wenzeslaus von Knobelsdorff; severely damaged in WWII (1943), reconstructed 1950s–1990s",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:30",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "10:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Closed Mondays. Shorter hours in winter (often 10:00–16:30). The New Pavilion is open Sundays only, April–October."
+  },
+  "price_adult": 22,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.spsg.de/en/palaces-gardens/object/charlottenburg-palace/",
+  "visit_duration": "2–3 hours (palace); full day with gardens",
+  "best_season": "April to October (gardens); year-round (palace interiors)",
+  "accessibility": "The Old Palace ground floor and New Wing are largely accessible; some upper apartments and the tower involve stairs.",
+  "booking_advance_days": 0,
+  "tagline": "Berlin's largest palace — a queen's memorial that grew into the finest Baroque and Rococo complex in northern Germany",
+  "highlights": [
+    "A 505-metre symmetrical Baroque façade, the longest palace front in Berlin, crowned by a copper dome and a gilded weather-vane figure of Fortune",
+    "Commissioned in 1695 for Electress Sophie Charlotte, a philosopher-queen who corresponded with Leibniz, and renamed in her memory after her death in 1705",
+    "The Golden Gallery in the New Wing, added by Frederick the Great in the 1740s, one of the finest Rococo interiors anywhere in Germany",
+    "A porcelain cabinet holding 2,700 pieces of Chinese and Japanese blue-and-white porcelain arranged floor to ceiling, among Europe's most spectacular 18th-century porcelain displays",
+    "Reduced to a burnt shell over two days in November 1943 and rebuilt across four decades using pre-war photographs, inventories and surviving fragments"
+  ],
+  "description": "On the western edge of central Berlin, where the city begins to loosen into residential streets and parkland, stands the largest palace in Berlin — a long, symmetrical Baroque façade running 505 metres, crowned by a copper dome topped with a golden figure of Fortune turning in the wind. Charlottenburg Palace was built for a queen who died before it was finished, named after her in grief, and then expanded by three successive Prussian rulers until it became the most complete Baroque and Rococo palace complex in northern Germany. It was almost entirely destroyed in a single night in November 1943. What stands today is a reconstruction — meticulous, decades-long, and in places still ongoing — that has restored the palace to something very close to what it once was.\n\nFrederick III, Elector of Brandenburg, commissioned a summer palace for his wife Sophie Charlotte in 1695. The architect Johann Arnold Nering designed a modest rectangular building on the banks of the Spree — a country retreat, nothing more. Sophie Charlotte was an unusually cultivated woman for her position: a trained musician and a philosopher who maintained a correspondence with Gottfried Leibniz, and whose intellectual circle at the palace became one of the most distinguished in Europe. She died unexpectedly in 1705, aged 36, while visiting Hanover. Frederick, who had by then crowned himself King Frederick I of Prussia, renamed the palace Charlottenburg in her memory and immediately commissioned a substantial expansion, as if scale could compensate for loss.\n\nThe architect Eosander von Göthe enlarged the palace between 1705 and 1713, adding the long flanking wings that give Charlottenburg its present breadth, and the central tower crowned with its copper dome and gilded weather-vane figure of Fortune — an emblem that has come to represent the palace as a whole. The orangery wing at the western end followed shortly after. By the time Frederick I died in 1713, Charlottenburg had been transformed from a modest summer house into a palace complex befitting a kingdom rather than an electorate.\n\nFrederick II — Frederick the Great — added the New Wing (Neuer Flügel) between 1740 and 1747, designed by Georg Wenzeslaus von Knobelsdorff, the same architect Frederick employed at Sanssouci. The New Wing contains the Golden Gallery, one of the finest Rococo interiors anywhere in Germany: a long enfilade room finished in white and gold, with carved palm fronds, gilded stucco ornament, and mirrored panels that compress and multiply the available light into something close to theatrical effect. Frederick used Charlottenburg primarily as a winter residence, reserving Sanssouci, his more famous retreat outside Potsdam, for summer.\n\nThe palace's collections are distributed across several buildings on the site. The Old Palace (Altes Schloss) holds the porcelain cabinet, 2,700 pieces of blue-and-white Chinese and Japanese porcelain arranged floor to ceiling in a room purpose-built for their display — one of the most spectacular surviving 18th-century porcelain installations in Europe. The New Wing houses a substantial collection of 18th-century paintings alongside the Prussian royal apartments. In the gardens, the Belvedere teahouse holds pieces from the Royal Porcelain Manufactory, KPM, while the New Pavilion, a neoclassical jewel box designed in 1824 by Karl Friedrich Schinkel, contains Schinkel's own watercolours and architectural designs.\n\nOn the night of 22–23 November 1943, Allied bombing raids struck the Charlottenburg district, and the palace burned for two days. Its outer walls largely survived; the interiors were almost entirely destroyed, the accumulated decoration of two and a half centuries reduced to ash and scorched stone. Reconstruction began in the 1950s and continued for four decades, drawing on pre-war photographs, room-by-room inventories, and salvaged fragments wherever they could be found. The process was not substantially complete until the 1990s, and some rooms remain under active restoration today. The palace visitors walk through now is, for the most part, a postwar reconstruction — though one carried out to an exceptionally high standard of historical fidelity.\n\nThe gardens were originally laid out in the strict French formal style favoured by Frederick I — parterres, clipped hedges, fountains, a long central canal — before being substantially redesigned in the more naturalistic English landscape style during the 19th century by the influential garden designer Peter Joseph Lenné. The resulting combination of formal terraces close to the palace and looser, wooded parkland beyond is characteristic of 19th-century German garden design more broadly. At the western edge of the gardens stands the Mausoleum, containing the tombs of Queen Luise, who died in 1810 and whose death devastated Prussia, and her husband King Frederick William III.",
+  "history": "King Frederick I of Prussia, then Elector Frederick III of Brandenburg, commissioned a summer palace on the Spree for his wife Sophie Charlotte in 1695, with the architect Johann Arnold Nering producing a modest rectangular design. Following Sophie Charlotte's unexpected death in 1705, Frederick renamed the palace in her honour and commissioned the architect Eosander von Göthe to substantially enlarge it between 1705 and 1713, adding the long flanking wings and the central tower with its copper dome and gilded weather-vane figure of Fortune that remain the palace's defining silhouette.\n\nFrederick the Great further expanded the complex between 1740 and 1747, commissioning Georg Wenzeslaus von Knobelsdorff to design the New Wing, including the celebrated Golden Gallery, one of the finest Rococo interiors in Germany. The palace was almost entirely gutted during an Allied bombing raid on the night of 22–23 November 1943, and its reconstruction, drawing on pre-war photographs, inventories and salvaged fragments, proceeded across four decades from the 1950s into the 1990s. Today Charlottenburg is administered by the Prussian Palaces and Gardens Foundation Berlin-Brandenburg and remains the largest palace complex in Berlin.",
+  "how_to_visit": "**Getting there:** Take U-Bahn line U7 to Richard-Wagner-Platz, or bus 109 or M45 to Schloss Charlottenburg.\n\n**Tickets:** GYG tour t560843 ($22) covers the Old Palace and New Wing and includes a digital app guide. Note that this ticket is non-refundable, unlike most tours on this site — check your dates carefully before booking.\n\n**Don't miss:** The New Pavilion, Schinkel's 1824 neoclassical addition, is open Sundays only between April and October — plan accordingly if it's a priority.\n\n**Combine with:** The gardens are free and open year-round, and a half-day pairing with Sanssouci Palace in nearby Potsdam is a natural extension for visitors interested in Prussian royal architecture.",
+  "faqs": [
+    {
+      "question": "Why is Charlottenburg Palace named after a queen who barely lived to see it?",
+      "answer": "King Frederick I of Prussia commissioned the original, much smaller palace in 1695 as a summer residence for his wife, Electress Sophie Charlotte. She died unexpectedly in 1705 at the age of 36, only a decade after construction began, before the palace had grown into the complex visible today. Frederick renamed it Charlottenburg in her memory and used her death as the occasion to commission a major expansion, transforming what had been a modest country retreat into a palace scaled to a kingdom."
+    },
+    {
+      "question": "How much of Charlottenburg Palace is original versus reconstructed?",
+      "answer": "The palace's exterior walls largely survived the Allied bombing raid of November 1943, but the interiors were almost completely destroyed by the resulting fire. Reconstruction proceeded from the 1950s through the 1990s using pre-war photographs, detailed inventories and salvaged decorative fragments, and some restoration work continues today. While the structure and decoration visitors see is therefore predominantly a 20th-century reconstruction, it was carried out to a very high standard of historical accuracy, closely following the palace's pre-war appearance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/charlottenburg-palace.webp",
+    "alt": "The Baroque façade and domed tower of Charlottenburg Palace in Berlin",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/charlottenburg-palace.webp",
+  "instagram_tag": "#schlosscharlottenburg",
+  "meta_title": "Charlottenburg Palace, Berlin: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Charlottenburg Palace in Berlin — the city's largest palace, with a porcelain cabinet, the Rococo Golden Gallery and four centuries of Prussian history. Guide for 2026.",
+  "tags": ["baroque", "rococo", "berlin", "prussian-history", "porcelain", "reconstruction"],
+  "last_updated": "2026-06-29",
+  "routes": [],
+  "nearby_castles": ["palace-of-kopenick", "sanssouci-palace"],
+  "gyg_location_id": "17",
+  "gyg_search_query": "Charlottenburg Palace Berlin tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "560843",
+      "title": "Berlin: Charlottenburg Palace Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "2 hours",
+      "price_from": 22,
+      "rating": 4.5,
+      "reviews": 2447,
+      "is_top_pick": true,
+      "covers_castles": ["charlottenburg-palace"]
+    }
+  ]
+}
