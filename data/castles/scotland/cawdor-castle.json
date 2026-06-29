@@ -1,0 +1,91 @@
+{
+  "id": "cawdor-castle",
+  "name": "Cawdor Castle",
+  "local_name": "Cawdor Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 84,
+  "annual_visitors": 120000,
+  "country": "scotland",
+  "region": "Highlands",
+  "nearest_city": "Inverness",
+  "address": "Cawdor, Nairn IV12 5RD, Scotland",
+  "lat": 57.5114,
+  "lng": -3.9256,
+  "unesco": false,
+  "year_built": 1454,
+  "architectural_style": "Tower house origins 1454; the central tower built around a living holly tree whose radiocarbon date confirms it was already mature in 1372; legend holds the tower was built on the spot where a donkey sat down; extended with a tachwood house 1640 and further additions in the 17th–18th centuries; Shakespeare set Macbeth's encounter with witches on 'the blasted heath' near Cawdor, though the historical Macbeth predates the castle by 400 years; still owned by the Cawdor family",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open May to October only; closed in winter."
+  },
+  "price_adult": 14,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.cawdorcastle.com/",
+  "visit_duration": "2 hours",
+  "best_season": "May to October",
+  "accessibility": "The gardens are largely level and accessible; the tower house interior involves narrow medieval stairs.",
+  "booking_advance_days": 0,
+  "tagline": "Shakespeare's Macbeth borrowed its name; the holly tree legend at its core turned out to be true",
+  "highlights": [
+    "A central tower legendarily built around the spot where a donkey carrying a chest of gold lay down to sleep beneath a holly tree — radiocarbon dating confirms the tree's stump predates the 1454 tower",
+    "The namesake of Shakespeare's Thane of Cawdor, though the historical Macbeth died four centuries before the castle was built — a connection the family openly describes as fictional",
+    "Interiors furnished by the 6th Earl of Cawdor with a personal, unusually coherent mix of 17th-century tapestries, 20th-century paintings and fine furniture across periods",
+    "24 acres of gardens across three distinct areas — the Flower Garden, the Wild Garden and the Walled Garden — planted with sensitivity to the surrounding woodland",
+    "Still owned and lived in by the Cawdor family after roughly 600 years, giving the interior a personality rarely found in more institutionally managed stately homes"
+  ],
+  "description": "Between Inverness and the North Sea coast of the Moray Firth, in a landscape of birch woods and barley fields where Scotland's lowland character gives way abruptly to something older and more uncertain, stands a castle whose name most people know before they visit it. Cawdor is the castle of Macbeth, or rather, it is the castle that Shakespeare placed in the vicinity of Macbeth's encounter with the witches, in a play that has been performed continuously for four hundred years. The historical Macbeth died in 1057; Cawdor Castle was not built until 1454. The connection is entirely fictional. It hardly matters. Cawdor is one of the most beautiful small castles in Scotland, its grounds are exceptional, and the family that has owned it for six hundred years has filled it with a collection of objects, paintings and furniture that reflects a specific, idiosyncratic intelligence that is rare in any stately home.\n\nThe origin story of Cawdor is one of the most persistent legends in Scottish castle history. In the 14th century, the Thane of Cawdor is said to have been instructed in a dream to load a chest of gold onto a donkey, let the donkey wander freely, and build his castle on the spot where it lay down to sleep. The donkey chose the shade of a holly tree. The castle was built around that holly tree, which stood inside the central tower for centuries. In the late 20th century, dendrochronological analysis confirmed the dead stump of the holly, still present inside the basement vault, to be approximately six hundred years old, consistent with a tree already mature when the tower was built in 1454. The legend, implausibly, appears to be substantially true.\n\nShakespeare's Macbeth, written around 1606, uses Cawdor as a title: the witches hail Macbeth as 'Thane of Cawdor,' and the play sets the murder of King Duncan at a castle in this vicinity. The historical figure of Macbeth, who died in 1057, predates the castle by four centuries, and the historical Duncan was killed in battle rather than in his bed. The Cawdor family have always been aware of the discrepancy; the current guidebook to the castle is refreshingly direct about Shakespeare's invention, noting with dry Highland wit that the Lords of Cawdor had nothing to do with the murder of King Duncan. The Macbeth association nonetheless still draws visitors from around the world, undeterred by the four-hundred-year gap in the timeline.\n\nWhat distinguishes Cawdor from many stately homes is the quality of taste reflected in the accumulation of its contents. The 6th Earl of Cawdor, who died in 1993, was a man of extraordinary aesthetic discernment, and the rooms he furnished, with a mixture of 17th-century tapestries, 20th-century paintings, good furniture from multiple periods, and an absolute refusal of the reverential archival approach taken by many heritage bodies, have a coherence and personality that is unusual among comparable houses. The drawing room's combination of Flemish tapestries and a Whistler painting of Venice feels accidental but clearly isn't. The library holds a collection assembled across centuries by successive family members rather than a single curatorial hand. Several serious architectural writers have described Cawdor as the most liveable stately home in Scotland, a description that feels earned rather than promotional.\n\nThe three gardens at Cawdor, the Flower Garden, the Wild Garden and the Walled Garden, cover 24 acres and are planted with a sensitivity to the woodland setting that avoids the formal showpiece approach common at larger estates. The Wild Garden, threading through native woodland above the Cawdor Burn, is the most impressive of the three: a walk through ancient oak and birch that is at its best in late spring when the bluebells are out in full force. The Walled Garden, originally a kitchen garden supplying the castle's table, has been replanted as a more ornamental space while retaining its working historical structure.",
+  "history": "According to long-standing local legend, the Thane of Cawdor founded the castle in the 14th century on the site chosen by a wandering donkey carrying a chest of gold, which lay down to rest beneath a holly tree. The present tower house dates from 1454, and modern dendrochronological analysis of the holly stump preserved inside the building's basement has confirmed the tree was already mature by 1372, lending unexpected credibility to the traditional story. The castle was extended with a tachwood house in 1640 and further additions through the 17th and 18th centuries, all while remaining in continuous ownership by the Cawdor family.\n\nWilliam Shakespeare's Macbeth, written around 1606, permanently associated the Cawdor name with the murder of King Duncan, despite the historical Macbeth having died in 1057, four centuries before the castle's construction. The Cawdor family has long acknowledged this connection as a literary fiction rather than a historical record. In the 20th century, the 6th Earl of Cawdor furnished the castle's interiors with a personally curated collection of tapestries, paintings and furniture that remains largely intact today, and the surrounding 24 acres of gardens continue to be maintained by the family, which still occupies the castle.",
+  "how_to_visit": "**Getting there:** Cawdor is 14 miles east of Inverness. There is no direct public transport to the castle; the practical options are car, taxi from Inverness, or an organised day trip.\n\n**Tickets:** GYG tour t850543 is rated 4.9★ from 44 reviews — among the highest-rated tours on this site — and is an 8-hour day trip departing from Inverness, combining Cawdor Castle entry with Clava Cairns and Cairngorms National Park, with guided commentary throughout, currently discounted to $60 from $76. This is a guided day excursion rather than direct castle admission, and tends to sell out, so early booking is recommended. Direct castle admission alone is available at the gate for approximately £12.\n\n**Seasonal note:** Open May to October only.\n\n**Don't miss:** The castle's own whisky blend, sold in the small on-site shop.",
+  "faqs": [
+    {
+      "question": "Is Cawdor Castle really connected to Shakespeare's Macbeth?",
+      "answer": "Only in name and atmosphere, not in historical fact. Shakespeare's Macbeth, written around 1606, makes Macbeth 'Thane of Cawdor' and sets King Duncan's murder in the general vicinity, but the historical Macbeth died in 1057, some four hundred years before Cawdor Castle was built in 1454. The Cawdor family has always been candid about this discrepancy, and the castle's own guidebook explicitly states that the Lords of Cawdor had no connection to Duncan's murder. The association remains a powerful draw for visitors regardless of its historical inaccuracy."
+    },
+    {
+      "question": "Is the holly tree legend at Cawdor Castle actually true?",
+      "answer": "Remarkably, the core of the legend appears to hold up under scientific scrutiny. Tradition holds that the castle's builders followed a dream instruction to construct the tower wherever a donkey carrying gold chose to lie down, which turned out to be beneath a holly tree. Dendrochronological analysis of the holly's preserved stump, still present in the castle's basement vault, dates the tree to around 1372, confirming it was already a mature tree before the tower was built in 1454 — consistent with, though not definitive proof of, the traditional story."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/cawdor-castle.webp",
+    "alt": "Cawdor Castle's tower house and gardens in the Scottish Highlands",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/cawdor-castle.webp",
+  "instagram_tag": "#cawdorcastle",
+  "meta_title": "Cawdor Castle, Highlands: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Cawdor Castle near Inverness — the Macbeth-linked tower house with a true holly tree legend, idiosyncratic interiors, and 24 acres of gardens. Guide for 2026.",
+  "tags": ["tower-house", "highlands", "macbeth", "gardens", "still-occupied"],
+  "last_updated": "2026-06-30",
+  "routes": [],
+  "nearby_castles": ["urquhart-castle", "eilean-donan-castle"],
+  "gyg_location_id": "1935",
+  "gyg_search_query": "Cawdor Castle Inverness tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "850543",
+      "title": "From Inverness: Cawdor Castle and Cairngorms National Park",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 60,
+      "rating": 4.9,
+      "reviews": 44,
+      "is_top_pick": true,
+      "covers_castles": ["cawdor-castle"]
+    }
+  ]
+}
