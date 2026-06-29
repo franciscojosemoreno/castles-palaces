@@ -1,0 +1,91 @@
+{
+  "id": "kensington-palace",
+  "name": "Kensington Palace",
+  "local_name": "Kensington Palace",
+  "type": "palace",
+  "status": "published",
+  "featured": true,
+  "priority_score": 94,
+  "annual_visitors": 800000,
+  "country": "england",
+  "region": "London",
+  "nearest_city": "London",
+  "address": "Kensington Gardens, London W8 4PX, United Kingdom",
+  "lat": 51.5051,
+  "lng": -0.1877,
+  "unesco": false,
+  "year_built": 1605,
+  "architectural_style": "Originally a Jacobean manor house (1605); purchased by William III in 1689 and redesigned by Christopher Wren; further expanded by Nicholas Hawksmoor and Colen Campbell; interior decoration by William Kent 1722–1727; home of Queen Victoria (born here 1819, lived until 1837); home of Diana, Princess of Wales 1981–1997; current residence of the Prince and Princess of Wales",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Shorter hours in winter (often 10:00–16:00). Open year-round except Christmas Day. Last entry 1 hour before closing."
+  },
+  "price_adult": 25,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hrp.org.uk/kensington-palace/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "Year-round",
+  "accessibility": "The King's and Queen's State Apartments have step-free routes; some original staircases remain stairs-only, with lift alternatives signposted.",
+  "booking_advance_days": 0,
+  "tagline": "A private house that became a palace by accident — home to overlooked monarchs, a young Victoria, and Diana, Princess of Wales",
+  "highlights": [
+    "William Kent's painted state apartments (1722–1727), including the Cupola Room, the grandest room in the palace, with trompe-l'oeil architecture and gilded Ionic columns",
+    "Queen Victoria's birthplace and childhood home, where the future queen lived under the rigid 'Kensington System' until her accession in 1837",
+    "The London home of Diana, Princess of Wales from 1981 until her death in 1997, commemorated today in the palace's Sunken Garden",
+    "Queen Anne's Orangery (1704), one of the finest early 18th-century interiors in England, now the palace café",
+    "A genuinely working royal residence — home to the Prince and Princess of Wales and their children, alongside the public state apartments"
+  ],
+  "description": "Of all the royal palaces in London, Kensington is the most intimate and the most layered. It began as a private house, became a royal residence by accident, sheltered a series of monarchs who felt overlooked or excluded from mainstream court life, and then, in the 20th century, became the London home of the most photographed woman in the world. Today it houses the Prince and Princess of Wales and their children, and it remains a working royal residence, its state apartments open to visitors between the roped-off sections where the family actually lives. The combination of three centuries of royal history and Diana's more recent presence gives Kensington a kind of double exposure that no other palace in England quite possesses.\n\nWilliam III, who had just deposed his father-in-law James II, purchased Nottingham House, a modest Jacobean manor, in 1689, immediately after his accession. His reason was medical: the king suffered from severe asthma, and the Thames air around the official royal residences at Whitehall and Greenwich was thought to aggravate it. Kensington, two miles west of London, had cleaner air. He commissioned Christopher Wren to convert the manor into a palace, adding the four corner pavilions that gave it its characteristic compact profile. The work was done quickly, since William wanted to move in before winter, and the resulting palace still shows faint signs of that hurry in its slightly improvised overall plan.\n\nQueen Anne, who succeeded William after his death following a riding accident at Hampton Court, commissioned the Orangery in 1704, a long, classically elegant structure by Nicholas Hawksmoor and John Vanbrugh, designed for the winter cultivation of orange and lemon trees. It remains one of the finest early 18th-century interiors in England and now serves as the palace café, a use that feels entirely in keeping with the room's original genteel purpose. Anne herself died at Kensington, from gout and general overindulgence, in 1714.\n\nThe interior most visitors experience today was largely created by William Kent, the painter and architect who became the favourite of George I and George II. Between 1722 and 1727, Kent repainted and redesigned the King's Grand Staircase, the Cupola Room, the grandest room in the palace, with its trompe-l'oeil architecture and gilded Ionic columns, and the King's Drawing Room. Kent's Kensington interiors rank among the most complete and coherent surviving examples of English Baroque decorative painting, and they reward slow looking rather than a quick pass-through.\n\nVictoria was born at Kensington Palace on 24 May 1819, the daughter of the Duke of Kent, and spent her entire childhood here under the rigid supervision of her mother's comptroller, Sir John Conroy, a regime that became known as the Kensington System. It was designed to keep the heir to the throne isolated from any independent influence: Victoria was confined to a small circle of approved companions, was not permitted to sleep alone until she became queen, and was never allowed to be alone with any visitor without her mother present. When she became queen in June 1837, at the age of 18, on learning of William IV's death from an emissary who had arrived at Kensington at six in the morning, her first recorded act was to demand an hour entirely alone. She never lived at Kensington again.\n\nKensington Palace was the London home of Diana, Princess of Wales, from her marriage to Prince Charles in 1981 until her death in Paris in August 1997. Apartments 8 and 9, her private quarters, are not open to visitors, but the palace has permanently incorporated Diana into its public narrative rather than treating her as a separate, awkward footnote. The Sunken Garden, replanted in her memory in 2017, is one of the most visited spots on the grounds, and the palace's approach to presenting her life, through dress choices, private photographs and the context of her public work, is notably restrained rather than hagiographic. Balancing its centuries-old historic mission with Diana's far more recent and emotionally charged legacy is something the palace manages with real skill.\n\nThe current permanent displays cover the King's State Apartments, with Kent's painted interiors and the Cupola Room; the Queen's State Apartments, telling the story of the Stuart queens Mary II and Anne; Victoria Revealed, a permanent exhibition on Victoria's life and childhood at Kensington; and, running March to November 2026, The Last Princesses of Punjab, covering Sophia Duleep Singh and the Punjabi princesses who became British suffragettes, one of the more unexpected and historically important stories the palace currently tells.",
+  "history": "William III purchased Nottingham House, a Jacobean manor at Kensington, in 1689 shortly after his accession to the English throne, seeking cleaner air than the Thames-side royal residences could offer for his severe asthma. He commissioned Christopher Wren to convert the building into a palace, and successive monarchs, including Queen Anne, who added the Orangery in 1704, and George I and George II, who employed William Kent to create the palace's celebrated painted state apartments between 1722 and 1727, continued its development through the 18th century.\n\nQueen Victoria was born at Kensington in 1819 and spent her childhood there before her 1837 accession, after which the palace's role shifted toward housing other members of the royal family rather than the reigning monarch. In the 20th century, Kensington became closely associated with Diana, Princess of Wales, who lived there from her 1981 marriage until her death in 1997. The palace today combines public state apartments and museum displays with the private residence of the Prince and Princess of Wales, continuing its long pattern of serving senior royals just outside the direct line of reigning monarchs.",
+  "how_to_visit": "**Getting there:** Kensington Palace sits within Kensington Gardens, a 5–10 minute walk from High Street Kensington or Queensway Underground stations.\n\n**Tickets:** GYG tour t21251 (4.5★, 4,555 reviews, $25) is the official Historic Royal Palaces ticket, including skip-the-line access and an audio guide. Children under 5 go free.\n\n**Don't miss:** Queen Anne's Orangery, now the palace café, is worth a stop for lunch or afternoon tea — advance reservation is recommended.\n\n**Hours:** Open year-round except Christmas Day, with shorter hours in winter.",
+  "faqs": [
+    {
+      "question": "Does the royal family still live at Kensington Palace?",
+      "answer": "Yes. Kensington Palace is a genuinely working royal residence, currently home to the Prince and Princess of Wales and their children, alongside other apartments occupied by senior royals. Visitors can tour the King's and Queen's State Apartments and the palace's museum displays, but the private residential apartments, including those formerly used by Diana, Princess of Wales, are not open to the public."
+    },
+    {
+      "question": "What was the 'Kensington System' that Queen Victoria grew up under?",
+      "answer": "The Kensington System was the strict childhood regime imposed on the young Princess Victoria by her mother and her mother's comptroller, Sir John Conroy, at Kensington Palace. It kept Victoria largely isolated from other children and independent adult influence, denied her the ability to sleep alone or meet visitors unsupervised, and was designed to make her dependent on Conroy's circle as she approached the throne. Victoria resented the system deeply, and her first act on becoming queen in 1837 was reportedly to insist on an hour completely alone."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/kensington-palace.webp",
+    "alt": "Kensington Palace and its gardens in London, England",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/kensington-palace.webp",
+  "instagram_tag": "#kensingtonpalace",
+  "meta_title": "Kensington Palace, London: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Kensington Palace in London — William Kent's painted state apartments, Queen Victoria's childhood home, and the legacy of Diana, Princess of Wales. Guide for 2026.",
+  "tags": ["royal-residence", "london", "baroque", "queen-victoria", "diana", "working-palace"],
+  "last_updated": "2026-06-30",
+  "routes": [],
+  "nearby_castles": ["buckingham-palace", "tower-of-london", "hampton-court-palace"],
+  "gyg_location_id": "57",
+  "gyg_search_query": "Kensington Palace London tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "21251",
+      "title": "London: Kensington Palace Sightseeing Entrance Tickets",
+      "type": "entrance_ticket",
+      "duration": "1.5 hours",
+      "price_from": 25,
+      "rating": 4.5,
+      "reviews": 4555,
+      "is_top_pick": true,
+      "covers_castles": ["kensington-palace"]
+    }
+  ]
+}

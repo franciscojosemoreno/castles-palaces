@@ -1,0 +1,91 @@
+{
+  "id": "chateau-de-vincennes",
+  "name": "Château de Vincennes",
+  "local_name": "Château de Vincennes",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 88,
+  "annual_visitors": 400000,
+  "country": "france",
+  "region": "Île-de-France",
+  "nearest_city": "Paris",
+  "address": "Avenue de Paris, 94300 Vincennes, France",
+  "lat": 48.844,
+  "lng": 2.4357,
+  "unesco": false,
+  "year_built": 1337,
+  "architectural_style": "Gothic military architecture; the keep (donjon) built 1337–1370 under Charles V — at 52 metres the tallest medieval keep in France; the Sainte-Chapelle begun 1379; royal apartments and defensive towers expanded under successive Valois and Bourbon kings; served as prison 16th–19th centuries; used as arsenal and military barracks under Napoleon; now houses the historical services of the French armed forces",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Shorter hours in winter (often 10:00–17:00). Closed 1 January, 1 May and 25 December. Last entry 45 minutes before closing."
+  },
+  "price_adult": 15,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateau-vincennes.fr/en/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "Year-round",
+  "accessibility": "The ground floor of the keep and the Sainte-Chapelle are accessible; upper floors of the keep involve spiral stone stairs.",
+  "booking_advance_days": 0,
+  "tagline": "France's tallest medieval keep, the primary royal residence before Versailles existed",
+  "highlights": [
+    "A 52-metre, nine-storey keep built between 1337 and 1370 under Charles V — the tallest surviving medieval fortified keep in France",
+    "The primary residence of the French monarchy for more than three centuries before Louis XIV moved the court to Versailles",
+    "A Sainte-Chapelle begun in 1379, modelled on the royal chapel on the Île de la Cité, with magnificent 16th-century Renaissance stained glass",
+    "A state prison from the 16th to 19th centuries that held the Marquis de Sade, Nicolas Fouquet, Diderot and Mirabeau in furnished, not dungeon-style, cells",
+    "Converted into a military arsenal under Napoleon in 1808, a role that shaped much of its 19th- and 20th-century use and still defines part of the site today"
+  ],
+  "description": "Twelve minutes from the centre of Paris by Metro line 1, at the eastern edge of the city where the Bois de Vincennes begins, stands a royal castle that most Paris visitors never find. The Château de Vincennes was the primary royal residence of the French monarchy for more than three centuries, before Versailles existed. It contains the tallest medieval keep in France, a 52-metre fortified tower that rises above the suburb of Vincennes like a misplaced rook on an oversized chessboard. Five French kings were born here, one died here, and the site has served successively as a palace, a political prison, an arsenal, and a military archive. It is, by almost any measure, one of the most important medieval buildings in France, and it stands largely empty of visitors on most mornings of the year.\n\nThe site had been a royal hunting ground since the 12th century, with modest royal buildings scattered across it. Its transformation into a serious royal fortress began under Charles V, who reigned from 1364 to 1380 and constructed the great keep between 1337 and 1370, beginning the work before his own accession. The keep, the donjon, rises 52 metres across nine storeys, with walls 3.25 metres thick at their base, surrounded by its own moat and a defensive tower at each corner. Charles V used Vincennes as his primary residence, preferring its defensive security to the Louvre, which he considered too exposed for comfort. He died at Vincennes in 1380.\n\nCharles V also began construction of the Sainte-Chapelle in 1379, conceived as a copy of the Sainte-Chapelle on the Île de la Cité, sharing the same flamboyant Gothic tracery and the same ambition to provide a royal chapel of exceptional quality. The Sainte-Chapelle at Vincennes was not completed until 1552, under Henry II, who added the magnificent Renaissance stained glass windows that remain the building's artistic high point. The royal apartments along the south wall of the enclosure, the Pavillon du Roi and Pavillon de la Reine, were added in the 17th century by Louis Le Vau, the same architect who would later design Versailles, for Louis XIV and Anne of Austria.\n\nFrom the 16th to the 19th century, Vincennes served as a state prison, a role it shared with the Bastille, which stood three kilometres to the west. Unlike the Bastille, Vincennes housed prisoners of distinctly high social standing: the Marquis de Sade, imprisoned under royal lettres de cachet in the 1770s; Nicolas Fouquet, Louis XIV's disgraced finance minister; and the philosophers Diderot and Mirabeau. The cells in the keep were not dungeons in the conventional sense — prisoners were housed in furnished rooms, permitted books, correspondence, and visits from family. Political imprisonment at Vincennes was uncomfortable primarily because of its duration and uncertainty, rather than its physical conditions.\n\nIn 1808, Napoleon converted the castle into a military arsenal and barracks, a use it retained for much of the 19th and 20th centuries. The execution of the Duc d'Enghien in the castle moat in 1804, ordered by Napoleon on charges of royalist conspiracy, remains one of the more controversial episodes of the Napoleonic period, and is commemorated with a discreet marker on the site today. The castle suffered serious damage during the Second World War, when retreating German forces demolished several of the defensive towers before withdrawing. Restoration began in the 1950s and continues in stages to the present day.\n\nThe keep itself is the primary visitor experience: nine storeys of genuine medieval military architecture, with the upper-floor rooms, including Charles V's private chamber and the former royal treasury, presented today with considerable archaeological rigour rather than romanticised reconstruction. The Sainte-Chapelle provides the artistic counterpoint, its 16th-century apse windows exceptional in quality, and the combination of Gothic structure with Renaissance glazing producing an unusual visual richness rarely found in a single building. Free guided tours in French run daily at set times, and self-guided visits using augmented-reality tablets are available in multiple languages for visitors who prefer to explore independently.",
+  "history": "Charles V transformed the existing royal hunting estate at Vincennes into a major fortress between 1337 and 1370, constructing what remains the tallest medieval keep in France and establishing the site as his primary residence in preference to the Louvre. He began the castle's Sainte-Chapelle in 1379, modelled on the royal chapel in central Paris, though the building was not completed until 1552 under Henry II, who added its celebrated Renaissance stained glass. Successive Valois and Bourbon kings expanded the surrounding royal apartments, with Louis Le Vau adding the Pavillon du Roi and Pavillon de la Reine in the 17th century for Louis XIV.\n\nFrom the 16th to the 19th century, the keep served as a state prison housing high-status political and intellectual prisoners, including the Marquis de Sade and the philosopher Diderot. Napoleon converted the site into a military arsenal in 1808, a function that persisted through much of the following two centuries, during which the castle also became the site of the controversial 1804 execution of the Duc d'Enghien. Following significant damage in the Second World War, the château has undergone phased restoration since the 1950s and today combines public visitor access with the continued presence of the historical services of the French armed forces.",
+  "how_to_visit": "**Getting there:** Take Metro line 1 to Château de Vincennes, the eastern terminus, then walk 5 minutes.\n\n**Tickets:** GYG tour t224196 (4.4★, 377 reviews, $15) is non-refundable — check the cancellation terms carefully before booking, since this differs from most tours on this site. Free entry is available for EU citizens under 26 with valid ID, presented directly at the ticket office.\n\n**Hours:** Closed 1 January, 1 May and 25 December. Last entry is 45 minutes before closing.\n\n**Combine with:** The Bois de Vincennes begins immediately behind the castle, making a walk in the park a natural extension of the visit.",
+  "faqs": [
+    {
+      "question": "Why did French kings live at Vincennes before Versailles existed?",
+      "answer": "Vincennes offered a combination of proximity to Paris and genuine defensive security that appealed to medieval French monarchs, particularly Charles V, who considered the Louvre too exposed and built Vincennes's 52-metre keep, the tallest medieval keep in France, as a more secure royal residence. The castle remained the primary seat of the French monarchy for more than three centuries, predating Louis XIV's decision to relocate the court to Versailles in the later 17th century, after which Vincennes gradually shifted toward other roles, including its long period as a state prison."
+    },
+    {
+      "question": "Who was imprisoned at the Château de Vincennes?",
+      "answer": "Vincennes served as a state prison from the 16th to the 19th century, housing a notably high-status roster of prisoners, including the Marquis de Sade, imprisoned under royal lettres de cachet in the 1770s, Nicolas Fouquet, Louis XIV's disgraced finance minister, and the philosophers Diderot and Mirabeau. Unlike the popular image of a medieval dungeon, prisoners at Vincennes were typically housed in furnished rooms within the keep and permitted books, correspondence and family visits, making the experience uncomfortable mainly through its uncertain duration rather than harsh physical conditions."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-vincennes.webp",
+    "alt": "The medieval keep of the Château de Vincennes rising above the Bois de Vincennes, Paris, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-vincennes.webp",
+  "instagram_tag": "#chateaudevincennes",
+  "meta_title": "Château de Vincennes, Paris: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit the Château de Vincennes near Paris — France's tallest medieval keep, the royal residence before Versailles, with a Renaissance-glazed Sainte-Chapelle. Guide for 2026.",
+  "tags": ["gothic", "medieval", "ile-de-france", "royal-residence", "prison-history", "day-trip-from-paris"],
+  "last_updated": "2026-06-30",
+  "routes": [],
+  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau"],
+  "gyg_location_id": "103425",
+  "gyg_search_query": "Chateau de Vincennes Paris tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "224196",
+      "title": "Paris: Château de Vincennes Entry Ticket",
+      "type": "entrance_ticket",
+      "duration": "1.5 hours",
+      "price_from": 15,
+      "rating": 4.4,
+      "reviews": 377,
+      "is_top_pick": true,
+      "covers_castles": ["chateau-de-vincennes"]
+    }
+  ]
+}
