@@ -1,0 +1,91 @@
+{
+  "id": "sparrenburg-castle",
+  "name": "Sparrenburg Castle",
+  "local_name": "Sparrenburg",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 55,
+  "annual_visitors": 150000,
+  "country": "germany",
+  "region": "North Rhine-Westphalia",
+  "nearest_city": "Bielefeld",
+  "address": "Am Sparrenberg 38a, 33602 Bielefeld, Germany",
+  "lat": 52.0149,
+  "lng": 8.5268,
+  "unesco": false,
+  "year_built": 1250,
+  "architectural_style": "Medieval hilltop castle above Bielefeld with roughly 750 years of continuous history, built by the Counts of Ravensberg as the fortification around which the city of Bielefeld grew; famous for its 300-metre underground casemate corridor system with thick stone walls and narrow light shafts, built for the castle's defence; the surviving tower offers panoramic views over Bielefeld and is the city's most recognisable landmark, closely tied to the long-running German internet in-joke that 'Bielefeld doesn't exist'",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open daily. Winter hours may be reduced. The GYG casemate tour is limited to 2 participants — book well in advance. Check bielefeld-marketing.de for current hours and tour schedules."
+  },
+  "price_adult": 13,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.bielefeld-marketing.de/en/sparrenburg",
+  "visit_duration": "45 minutes",
+  "best_season": "Year-round",
+  "accessibility": "The castle tower involves stairs. The casemate tour requires navigating narrow underground corridors and low headroom. Not recommended for visitors with claustrophobia or mobility limitations.",
+  "booking_advance_days": 0,
+  "tagline": "300 metres of underground casemates beneath the castle that built Bielefeld — and the city that, according to a persistent German internet conspiracy, doesn't exist",
+  "highlights": [
+    "A 300-metre network of underground stone casemate corridors built beneath the castle for its defence — one of the most complete surviving medieval underground military systems in Westphalia, accessible on a 45-minute guided tour",
+    "Built by the Counts of Ravensberg in the mid-13th century as the fortified seat around which the city of Bielefeld developed — the castle's protective market rights drew the settlement that eventually became one of Westphalia's principal cities",
+    "The surviving tower offers a panoramic view over Bielefeld and the surrounding Westphalian countryside — the clearest way to understand the castle's original strategic position commanding the town and routes below",
+    "Bielefeld's most recognisable landmark, closely linked to the city's long-running internet 'conspiracy theory' that the city doesn't exist — a joke so persistent the city itself has leaned into it for tourism marketing",
+    "The GYG casemate tour (t1101381, from $13, 45 minutes) is currently capped at 2 participants per booking — book well ahead as this small capacity affects availability"
+  ],
+  "description": "Above the city of Bielefeld, a medieval tower marks the site around which the entire city grew nearly 800 years ago — and beneath it runs a 300-metre network of underground stone corridors that, for centuries, formed one of the castle's principal defensive systems. Sparrenburg is Bielefeld's most recognisable landmark, and its casemates offer one of the more atmospheric underground castle experiences in this part of Germany: narrow light shafts, thick fortification walls, and dungeon spaces that make tangible what medieval castle warfare involved at the level of the soldiers who occupied and defended these structures.\n\nSparrenburg was built by the Counts of Ravensberg in the mid-13th century as the fortified seat around which the town of Bielefeld developed — a pattern that recurs across medieval northern Europe, where a castle's protective presence, its markets, and the commercial opportunities clustered around its demand for supplies and services drew settlement that eventually outgrew the castle itself and became an independent urban community. Over roughly 750 years the castle has been rebuilt, expanded, partially dismantled, and systematically restored multiple times, reflecting the shifting military, political, and civic priorities of the Westphalian region across the medieval, early modern, and modern periods. What visitors experience today is not a medieval original but a thoughtfully maintained composite — the tower substantially medieval in its fabric, the casemates a combination of original construction and careful restoration, the walls and outer circuit representing several centuries of addition and modification.\n\nThe castle's defining feature for contemporary visitors is its underground casemate system — a 300-metre network of stone corridors and chambers built into the hill beneath the castle, designed to allow defenders to move, supply, and mount defensive operations largely out of sight and out of range of besiegers. Casemates — covered passages within or beneath fortification walls, providing protected firing positions and communication routes — became increasingly important in European military architecture from the 15th century onward as siege artillery improved and exposed positions became untenable. The Sparrenburg system, substantial by regional standards, gives visitors direct physical access to a type of medieval military architecture that is usually invisible from the surface of a castle visit: most visits show walls, towers, and courtyards; Sparrenburg shows what lay underneath.\n\nThe 45-minute guided tour focuses specifically on this underground system. The corridors are narrow, lit by shafts cut through the rock above, and in places require stooping — the scale communicates the reality of medieval underground military life more effectively than any interpretive panel. Above ground, the surviving tower can be climbed for a panoramic view over Bielefeld and the Westphalian countryside — the payoff after the constriction of the casemates, and the clearest way to understand why this particular hill was worth fortifying in the first place.\n\nNo editorial treatment of Sparrenburg is complete without acknowledging Bielefeld's peculiar internet notoriety. Since the early 1990s, a sardonic conspiracy theory has circulated in German-speaking internet culture asserting that Bielefeld does not exist — that the city is a fabrication, its supposed residents unaware they are part of an elaborate fiction. The joke has proven unusually durable, propagating through German social media for three decades; in 2019, the city officially offered a €1 million reward to anyone who could prove Bielefeld doesn't exist (the reward has not been claimed). Sparrenburg, as Bielefeld's most photographed and historically concrete landmark, sits at the centre of the joke's visual vocabulary. It is worth a brief, knowing mention; it should not dominate the visit.",
+  "history": "The castle was built by the Counts of Ravensberg in the mid-13th century on a hill above the Teutoburg Forest, serving as the central fortification around which the town of Bielefeld developed. The Ravensberg counts controlled the castle and the surrounding territory through the medieval period; the castle subsequently passed through the Duchy of Cleves and the Duchy of Prussia following the extinction of the Ravensberg line.\n\nThe underground casemate system was developed across multiple phases of construction and modification, reflecting changing military requirements over several centuries. The castle was damaged and partially dismantled during various conflicts, then substantially restored in the 19th and 20th centuries. Today it functions as Bielefeld's principal heritage site, with the casemates and tower the primary visitor attractions.",
+  "how_to_visit": "**Getting there:** Sparrenburg sits above central Bielefeld, reachable on foot from the city centre (approximately 15–20 minutes uphill) or by local bus. From Bielefeld Hauptbahnhof, buses serve the Sparrenburg area or the walk through the old town is straightforward and well signed.\n\n**The casemate tour (GYG t1101381, from $13):** Runs 45 minutes, includes both the underground casemate corridor tour and the tower climb. **Currently limited to 2 participants per booking** — this unusually small capacity means available slots fill quickly; book in advance. Free cancellation up to 24 hours before.\n\n**Practical notes:** The casemates involve narrow corridors, low headroom in places, and stairs. Not suitable for visitors with claustrophobia, mobility limitations, or those who are strongly uncomfortable in enclosed underground spaces. Wear comfortable, closed shoes.\n\n**Combine with:** Bielefeld's old town (the Altstädter Nicolaikirche and Sparrenburgviertel) and the nearby Kunsthalle Bielefeld (contemporary art museum with a notable collection including Picasso and Ernst) for a full city day.",
+  "faqs": [
+    {
+      "question": "What are the Sparrenburg casemates?",
+      "answer": "The casemates are a 300-metre network of underground stone corridors and chambers built beneath Sparrenburg Castle, designed to allow defenders to move, store supplies, and mount defensive operations largely out of sight of besiegers. Built in phases across the castle's history, they represent one of the more complete surviving examples of this type of underground military architecture in Westphalia. The 45-minute guided tour gives visitors direct access to the corridors and chambers — narrow, stone-walled, lit by shafts from above — followed by the tower climb for the panoramic view."
+    },
+    {
+      "question": "What is the 'Bielefeld conspiracy' and how does it relate to Sparrenburg?",
+      "answer": "Since the early 1990s, a tongue-in-cheek conspiracy theory has circulated in German internet culture asserting that Bielefeld doesn't exist — that the city is an elaborate fabrication. The joke became remarkably persistent, cited so often that in 2019 the city officially offered a €1 million reward to anyone who could prove the city isn't real (unclaimed). Sparrenburg, as Bielefeld's most recognisable landmark and its most photographed building, is frequently used as the joke's visual reference. The city has embraced the joke for marketing purposes, selling 'Bielefeld doesn't exist' merchandise at the castle shop."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/sparrenburg-castle.webp",
+    "alt": "Sparrenburg Castle tower above Bielefeld, Westphalia — the medieval hilltop fortress whose 300-metre underground casemates are the city's most atmospheric heritage experience",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/sparrenburg-castle.webp",
+  "instagram_tag": "#sparrenburg",
+  "meta_title": "Sparrenburg Castle, Bielefeld: Casemate Tour & Guide 2026",
+  "meta_description": "Visit Sparrenburg Castle in Bielefeld — 300 metres of underground medieval casemates and a tower view over Westphalia. Home of the city that 'doesn't exist'.",
+  "tags": ["medieval", "casemates", "underground", "westphalia", "germany", "bielefeld", "tower"],
+  "last_updated": "2026-07-06",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "182156",
+  "gyg_search_query": "Sparrenburg Castle Bielefeld casemate tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1101381",
+      "title": "Bielefeld: Sparrenburg Casemate Tour and Tower Climb",
+      "type": "guided_tour",
+      "duration": "45 minutes",
+      "price_from": 13,
+      "rating": 4.1,
+      "reviews": 4,
+      "is_top_pick": true,
+      "covers_castles": ["sparrenburg-castle"]
+    }
+  ]
+}

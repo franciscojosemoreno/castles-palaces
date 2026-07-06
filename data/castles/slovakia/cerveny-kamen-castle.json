@@ -1,0 +1,91 @@
+{
+  "id": "cerveny-kamen-castle",
+  "name": "Červený Kameň Castle",
+  "local_name": "Hrad Červený Kameň",
+  "type": "castle",
+  "status": "published",
+  "featured": true,
+  "priority_score": 62,
+  "annual_visitors": 100000,
+  "country": "slovakia",
+  "region": "Bratislava Region",
+  "nearest_city": "Bratislava",
+  "address": "Časta, 900 89, Slovakia",
+  "lat": 48.4275,
+  "lng": 17.5325,
+  "unesco": false,
+  "year_built": 1230,
+  "architectural_style": "Renaissance castle in the foothills of the Little Carpathians, originally a 13th-century Gothic fortress substantially rebuilt in the 16th century by the Fugger and Pálffy families into one of the largest and most sophisticated bastion fortification systems in Central Europe, designed to withstand contemporary artillery; the Pálffy family held the castle for over three centuries and used it partly as a residence and partly to store the family's extensive wine production, taking advantage of the castle's large vaulted cellars; today combines castle architecture with wine culture and falconry demonstrations in the surrounding Little Carpathian wine region",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Closed Mondays. Seasonal hours vary — confirm current times at hradcervenykamen.sk, particularly outside the April–October peak season. Last entry 1 hour before closing."
+  },
+  "price_adult": 8,
+  "price_child": 0,
+  "booking_required": false,
+  "official_tickets_url": "https://www.hradcervenykamen.sk/",
+  "visit_duration": "1.5 hours",
+  "best_season": "April to October",
+  "accessibility": "The castle involves stairs and uneven cobblestone surfaces throughout. Contact the castle in advance for accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "The Fugger banking dynasty's artillery-proof bastion fortress — now at the centre of Slovakia's Little Carpathian wine country, with falconry and exceptional Renaissance military engineering",
+  "highlights": [
+    "One of the largest and best-preserved Renaissance bastion fortification systems in Central Europe — the massive angled ramparts were engineered specifically to absorb cannon fire, making the castle artillery-proof in its 16th-century configuration",
+    "Built for the Fugger family of Augsburg, the most powerful banking dynasty in the Holy Roman Empire, whose financial reach extended from mining to the spice trade; later held for over three centuries by the Pálffy family, Hungarian nobility",
+    "Extensive vaulted wine cellars — among the largest historic wine cellars in Slovakia — used by the Pálffy family to store their wine production, giving the castle a dual identity as both military fortress and working estate",
+    "Located within the Malokarpatská (Little Carpathian) wine region, one of Slovakia's most established wine-producing areas, with falconry demonstrations and wine tastings available through guided tours",
+    "40 km from Bratislava, accessible by car through the Little Carpathian foothills past historic wine villages including Svätý Jur and Modra"
+  ],
+  "description": "In the wine-growing foothills of the Little Carpathians, a short drive from Bratislava, stands one of Central Europe's most sophisticated surviving examples of Renaissance military engineering — a castle whose builders anticipated the age of artillery and reshaped a medieval Gothic fortress into a defensive system built to withstand cannon fire. Červený Kameň ('Red Stone') Castle takes its name from the reddish iron-oxide tint of the local stone, but its real significance lies in its bastions: massive angled ramparts, among the largest and best-preserved of their kind in the region, engineered specifically to eliminate the blind spots that doomed older vertical castle walls once gunpowder artillery became decisive in siege warfare.\n\nThe site's fortified origins reach back to the 13th century, but the castle's defining transformation came in the 16th century. The Fugger family — the Augsburg banking dynasty whose financial reach extended across the entire Holy Roman Empire, financing Habsburg campaigns, controlling copper and silver mining from Hungary to the Tyrol, and maintaining commercial networks from Antwerp to Lisbon — acquired the property and rebuilt it as a purpose-designed bastion fortress. The rebuilding responded directly to the military revolution of the era: as siege artillery made traditional high, thin medieval castle walls obsolete, engineers across Europe redesigned fortifications with thick, low, angled bastions capable of absorbing and deflecting cannon shot, while allowing defenders to cover each other's positions with interlocking fields of fire. This is the same architectural logic that produced star forts across the continent — at Červený Kameň, applied on a scale that makes it one of the more dramatic surviving examples in Central Europe.\n\nThe Fuggers sold the castle to the Pálffy family — Hungarian nobility with deep roots in the Kingdom of Hungary — in 1583, and the Pálffy held Červený Kameň for over three centuries. Under their ownership the castle acquired its second, less martial identity: a major centre of wine production and storage. The castle's extensive vaulted cellars, among the largest historic wine cellars surviving in Slovakia, were used by the Pálffy to store and mature the wines produced on their Little Carpathian estates. This dual character — Renaissance military engineering wrapped around a working wine business — gives Červený Kameň a specificity that distinguishes it from castles built purely for defensive display or purely for aristocratic residence.\n\nThe Little Carpathian wine region that surrounds the castle is one of Slovakia's most established viticultural areas, a compact landscape of vine terraces, small producers, and historic wine towns running northeast from Bratislava into the Carpathian foothills. The town of Svätý Jur, 20 kilometres south of the castle, is one of the region's historic wine centres and the site of the wine tasting included in the GYG small-group tour. The region's wines — principally Welschriesling, Müller-Thurgau, and several local varieties — reflect a Central European wine tradition distinct from the better-known wine cultures of Austria and Hungary on the region's borders.\n\nFalconry demonstrations, offered through guided tours of the castle, draw on a tradition of hunting-bird culture that runs deep through Central European aristocratic history: in the Carpathian Basin, falconry was both a practical hunting technique and a highly codified social performance, a demonstration of noble status whose birds were valued individually and given personal names. The pairing of a falconry display with a tour of Renaissance bastions and a wine tasting in a cellar deep inside the castle walls makes for a rounded half-day that addresses three distinct aspects of the region's culture — military, natural, and gastronomic — without feeling artificially assembled.",
+  "history": "The site of Červený Kameň has been fortified since the 13th century, with a Gothic castle first documented in that period. The decisive transformation came in the 16th century when the Fugger family of Augsburg — the dominant banking and commercial dynasty of the Holy Roman Empire — acquired the property and rebuilt it as one of the most sophisticated bastion fortification systems in Central Europe, responding directly to the military revolution brought by gunpowder artillery.\n\nThe Fuggers sold the castle to the Pálffy family in 1583; under Pálffy ownership, which lasted for over three centuries, Červený Kameň functioned as both a family residence and a major wine production and storage centre. The castle's vaulted cellars, among the largest historic wine cellars in Slovakia, were integral to the Pálffy family's commercial wine operation in the Little Carpathian region. The castle passed to state ownership and has been managed as a heritage site and museum since the 20th century.",
+  "how_to_visit": "**Getting there:** Červený Kameň is approximately 40 km northeast of Bratislava. By car, follow the D2 motorway north from Bratislava toward Brno, exit at Pezinok, and follow signs toward Časta; journey time approximately 45–55 minutes. Independent visitors can also reach the area by regional bus to Pezinok or Modra, with a taxi to the castle.\n\n**The GYG small-group tour (t1319045, from $192)** departs from the Slovak National Theatre in central Bratislava. It is limited to 10 participants, includes transport by air-conditioned minivan, a 1.5-hour guided castle tour, a falconry demonstration, and a wine tasting in Svätý Jur. Minimum 2 participants; minimum drinking age 18 for the wine tasting. This is a combined 6-hour countryside excursion, not a standalone castle ticket — confirm availability and book in advance. As a new activity with no customer reviews yet, flexibility with visit plans is advisable.\n\n**Direct admission:** The castle is open Tuesday–Sunday; direct admission is approximately €8. A guided tour of the castle's main rooms (in Slovak and German, with English language materials) is available at set times — check hradcervenykamen.sk for the current schedule.\n\n**The wine cellars:** The historic Pálffy wine cellars are included in the main guided tour of the castle. The depth and scale of the vaulted underground storage rooms are consistently noted by visitors as one of the more memorable elements of the interior visit.",
+  "faqs": [
+    {
+      "question": "Why did the Fugger banking family build a bastion castle in Slovakia?",
+      "answer": "The Fugger family of Augsburg — the most powerful banking dynasty in the 16th-century Holy Roman Empire, financing Habsburg military campaigns and controlling major mining operations — owned significant commercial interests in the Kingdom of Hungary, including copper and silver mining. Their acquisition and rebuilding of Červený Kameň reflected both their need for a defensible property in the region and the military architecture of the era: the angled bastions they commissioned were specifically designed to resist gunpowder artillery, making the castle effectively impregnable to contemporary siege technology. They sold the property to the Pálffy family in 1583."
+    },
+    {
+      "question": "What does the GYG castle and wine tasting tour include?",
+      "answer": "The GYG small-group tour (t1319045, from $192) departs from central Bratislava and runs approximately 6 hours. It includes transport by minivan, a 1.5-hour guided tour of the castle (including the historic wine cellars), a falconry demonstration with live birds of prey, and a wine tasting in Svätý Jur in the Little Carpathian wine region. The group is limited to 10 participants; minimum 2 to book. Minimum drinking age for the wine tasting is 18. The tour is a new activity without customer reviews yet."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/cerveny-kamen-castle.webp",
+    "alt": "Červený Kameň Castle's massive Renaissance bastions rising above the Little Carpathian foothills near Bratislava, Slovakia",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/cerveny-kamen-castle.webp",
+  "instagram_tag": "#cervenykamen",
+  "meta_title": "Červený Kameň Castle, Slovakia: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Červený Kameň Castle near Bratislava — the Fugger family's Renaissance bastion fortress in Slovakia's Little Carpathian wine country, with falconry and historic wine cellars.",
+  "tags": ["renaissance", "fugger", "palffy", "slovakia", "wine", "bastion", "little-carpathians"],
+  "last_updated": "2026-07-06",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "126958",
+  "gyg_search_query": "Červený Kameň Castle Bratislava wine tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1319045",
+      "title": "Bratislava: Cerveny Kamen Castle and Wine Tasting Tour",
+      "type": "guided_tour",
+      "duration": "6 hours",
+      "price_from": 192,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "covers_castles": ["cerveny-kamen-castle"]
+    }
+  ]
+}
