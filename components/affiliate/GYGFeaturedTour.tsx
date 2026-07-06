@@ -3,12 +3,14 @@ import { getGYGSearchUrl } from '@/lib/gyg';
 
 type FeaturedTour = NonNullable<Castle['gyg_featured_tours']>[number];
 
-const typeLabels: Record<FeaturedTour['type'], string> = {
+const typeLabels: Partial<Record<FeaturedTour['type'], string>> = {
   day_trip: 'Day trip',
   guided_tour: 'Guided tour',
   skip_the_line: 'Skip the line',
   multi_day: 'Multi-day',
   entry_ticket: 'Entry ticket',
+  entrance_ticket: 'Entry ticket',
+  boat_tour: 'Boat tour',
 };
 
 interface Props {
@@ -17,7 +19,7 @@ interface Props {
 }
 
 export default function GYGFeaturedTour({ tour, castleName }: Props) {
-  const href = getGYGSearchUrl(castleName);
+  const href = tour.booking_url_override ?? getGYGSearchUrl(castleName);
 
   return (
     <div className="bg-white border border-stone-200 rounded-lg p-5">

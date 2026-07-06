@@ -6,7 +6,7 @@ interface CastleQuickFactsProps {
 }
 
 function getGYGUrl(castle: Castle): string {
-  return getGYGSearchUrl(castle.name);
+  return castle.gyg_featured_tours?.[0]?.booking_url_override ?? getGYGSearchUrl(castle.name);
 }
 
 export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {

@@ -80,11 +80,13 @@ export interface Castle {
   gyg_search_query?: string;
   gyg_widget_type?: 'activities' | 'tours' | 'all';
   gyg_num_results?: number;
+  gyg_direct_link_override?: boolean;
   gyg_featured_tours?: {
     tour_id: string;
-    url?: string; // Full GYG activity URL (city-slug + location id + tour slug); partner_id appended at render time. Falls back to /activity/{tour_id}/ when absent.
+    url?: string;
+    booking_url_override?: string; // When present, used as the booking button href instead of the search-URL generator. Per-castle exception only.
     title: string;
-    type: 'day_trip' | 'guided_tour' | 'skip_the_line' | 'multi_day' | 'entry_ticket';
+    type: 'day_trip' | 'guided_tour' | 'skip_the_line' | 'multi_day' | 'entry_ticket' | 'boat_tour' | 'entrance_ticket';
     duration: string;
     price_from: number;
     rating: number | null;
