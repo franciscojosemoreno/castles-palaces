@@ -79,7 +79,9 @@
   ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "turin-royal-palace"
+  ],
   "gyg_location_id": "390",
   "gyg_search_query": "Villa della Regina Turin Baroque gardens royal tour",
   "gyg_widget_type": "activities",

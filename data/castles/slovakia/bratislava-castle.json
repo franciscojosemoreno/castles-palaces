@@ -11,7 +11,7 @@
   "region": "Bratislava",
   "nearest_city": "Bratislava",
   "address": "Hrad - nádvorie, 811 06 Bratislava, Slovakia",
-  "lat": 48.1420,
+  "lat": 48.142,
   "lng": 17.0997,
   "unesco": false,
   "year_built": 1430,
@@ -67,10 +67,21 @@
   "instagram_tag": "#bratislavahrad",
   "meta_title": "Bratislava Castle: Guided Tours & Visitor Guide 2026",
   "meta_description": "Visit Bratislava Castle — the four-towered hilltop fortress above the Danube, rebuilt after a 140-year ruin, housing the Slovak National Museum and commanding views across three countries.",
-  "tags": ["slovakia", "bratislava", "danube", "habsburg", "maria-theresa", "great-moravia", "national-museum", "guided-tour"],
+  "tags": [
+    "slovakia",
+    "bratislava",
+    "danube",
+    "habsburg",
+    "maria-theresa",
+    "great-moravia",
+    "national-museum",
+    "guided-tour"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "devin-castle"
+  ],
   "gyg_location_id": "765",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Bratislava Castle guided walking tour entry ticket",
@@ -86,7 +97,9 @@
       "rating": 4.6,
       "reviews": 53,
       "is_top_pick": true,
-      "covers_castles": ["bratislava-castle"],
+      "covers_castles": [
+        "bratislava-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/bratislava-l765/bratislava-guided-walking-tour-with-castle-entry-ticket-t347541/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]
