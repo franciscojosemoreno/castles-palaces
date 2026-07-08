@@ -71,34 +71,35 @@
   "instagram_tag": "#durnsteincastle",
   "meta_title": "Dürnstein Castle, Austria — Richard the Lionheart's Prison in the UNESCO Wachau",
   "meta_description": "Visit Dürnstein Castle in the Wachau — the medieval Austrian prison of Richard the Lionheart, with panoramic views over UNESCO Danube vineyards.",
-  "tags": ["medieval", "austrian-castle", "wachau", "unesco-world-heritage", "danube"],
+  "tags": [
+    "medieval",
+    "austrian-castle",
+    "wachau",
+    "unesco-world-heritage",
+    "danube"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "174218",
+  "gyg_location_id": "7",
   "gyg_search_query": "Dürnstein castle Wachau tour from Vienna",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "1805",
-      "title": "Vienna: Wachau Valley, Melk Abbey & Danube Boat Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 85,
+      "title": "Vienna: Wachau Valley, Melk Abbey Tour with Danube Boat Trip",
+      "type": "boat_tour",
+      "duration": "8.5 hours",
+      "price_from": 136,
       "rating": 4.6,
-      "reviews": 1185,
-      "covers_castles": ["durnstein-castle"]
-    },
-    {
-      "tour_id": "212391",
-      "title": "From Vienna: Dürnstein and Wachau Valley Cruise",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 95,
-      "rating": 4.6,
-      "reviews": 418,
-      "covers_castles": ["durnstein-castle"]
+      "reviews": 1529,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/vienna-l7/wachaudanube-valley-by-bus-and-boat-from-vienna-t1805/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "durnstein-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

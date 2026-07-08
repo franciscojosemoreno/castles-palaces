@@ -11,7 +11,7 @@
   "region": "Harju County / Tallinn",
   "nearest_city": "Tallinn",
   "address": "Lossi plats 1a, 15165 Tallinn, Estonia",
-  "lat": 59.4360,
+  "lat": 59.436,
   "lng": 24.7378,
   "unesco": true,
   "year_built": 1227,
@@ -71,44 +71,42 @@
   "instagram_tag": "#toompeaCastle",
   "meta_title": "Toompea Castle Tallinn: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Toompea Castle in Tallinn — Estonia's medieval hilltop fortress with the iconic Tall Hermann tower. Explore the UNESCO Old Town and plan your visit to the Baltic's finest medieval city.",
-  "tags": ["castle", "medieval", "danish-crusader", "teutonic-knights", "tallinn", "estonia", "unesco-world-heritage", "baltic", "tall-hermann"],
+  "tags": [
+    "castle",
+    "medieval",
+    "danish-crusader",
+    "teutonic-knights",
+    "tallinn",
+    "estonia",
+    "unesco-world-heritage",
+    "baltic",
+    "tall-hermann"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["narva-castle", "trakai-island-castle"],
-  "gyg_location_id": "175244",
+  "nearby_castles": [
+    "narva-castle",
+    "trakai-island-castle"
+  ],
+  "gyg_location_id": "394",
   "gyg_search_query": "Toompea Castle Tallinn Old Town tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "806305",
-      "title": "Tallinn: Audio Tour of Toompea Hill (Cathedral Hill)",
+      "title": "Audio Tour of the Toompea Hill (Cathedral Hill) in Tallinn",
       "type": "guided_tour",
       "duration": "2 hours",
       "price_from": 8,
-      "rating": 4.5,
-      "reviews": 295,
-      "covers_castles": ["toompea-castle"]
-    },
-    {
-      "tour_id": "869371",
-      "title": "Tallinn: Lower and Upper Town Guided Walking Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 25,
-      "rating": 4.6,
-      "reviews": 455,
-      "covers_castles": ["toompea-castle"]
-    },
-    {
-      "tour_id": "851663",
-      "title": "Tallinn: Shore Excursion with Toompea Castle Visit",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 55,
-      "rating": 4.6,
-      "reviews": 282,
-      "covers_castles": ["toompea-castle"]
+      "rating": 4.2,
+      "reviews": 5,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tallinn-l394/audio-tour-of-the-toompea-hill-cathedral-hill-in-tallinn-t806305/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "toompea-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

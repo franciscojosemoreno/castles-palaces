@@ -75,35 +75,42 @@
   "instagram_tag": "#palazzopitti",
   "meta_title": "Palazzo Pitti Florence: Tickets, Gardens & Visitor Guide 2026",
   "meta_description": "Visit Palazzo Pitti in Florence — the Medici's private palace with the Palatine Gallery, Royal Apartments and Boboli Gardens. Tickets and visitor tips for 2026.",
-  "tags": ["renaissance", "baroque", "medici", "art-museum", "gardens", "florence", "instagram-worthy", "raphael"],
+  "tags": [
+    "renaissance",
+    "baroque",
+    "medici",
+    "art-museum",
+    "gardens",
+    "florence",
+    "instagram-worthy",
+    "raphael"
+  ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["castel-santangelo", "doges-palace", "castello-sforzesco"],
-  "gyg_location_id": "3957",
+  "nearby_castles": [
+    "castel-santangelo",
+    "doges-palace",
+    "castello-sforzesco"
+  ],
+  "gyg_location_id": "32",
   "gyg_search_query": "Palazzo Pitti Florence tour tickets Boboli Gardens",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "69858",
-      "title": "Florence: Pitti Palace, Boboli Garden and Palatine Gallery Tour",
+      "title": "Florence: Pitti Palace, Boboli Garden, Palatine Gallery Tour",
       "type": "guided_tour",
       "duration": "3 hours",
-      "price_from": 95,
+      "price_from": 112,
       "rating": 4.8,
-      "reviews": 622,
+      "reviews": 626,
       "is_top_pick": true,
-      "covers_castles": ["palazzo-pitti"]
-    },
-    {
-      "tour_id": "51000",
-      "title": "Florence: Pitti Palace and Palatina Gallery Ticket and Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 66,
-      "rating": 4.9,
-      "reviews": 275,
-      "covers_castles": ["palazzo-pitti"]
+      "booking_url_override": "https://www.getyourguide.com/florence-l32/florence-pitti-palace-boboli-garden-palatine-gallery-tour-t69858/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palazzo-pitti"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

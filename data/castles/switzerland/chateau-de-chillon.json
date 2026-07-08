@@ -82,40 +82,25 @@
     "castello-sasso-corbaro",
     "chateau-de-prangins"
   ],
-  "gyg_location_id": "139246",
+  "gyg_location_id": "135077",
   "gyg_search_query": "Chateau de Chillon Montreux tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "322818",
-      "title": "Montreux: Château de Chillon Entrance Ticket",
+      "tour_id": "1296867",
+      "title": "Gruyères & Chillon Castles Day Tour | From Bern",
       "type": "entry_ticket",
-      "duration": "Self-guided",
-      "price_from": 14,
-      "rating": 4.4,
-      "reviews": 620,
-      "covers_castles": ["chateau-de-chillon"]
-    },
-    {
-      "tour_id": "164778",
-      "title": "Geneva: Swiss Riviera — Lausanne, Montreux & Château Chillon Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 480,
-      "covers_castles": ["chateau-de-chillon"]
-    },
-    {
-      "tour_id": "4851",
-      "title": "Geneva: Montreux, Chaplin's World, Chillon Castle & Apéritif",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 85,
-      "rating": 4.5,
-      "reviews": 320,
-      "covers_castles": ["chateau-de-chillon"]
+      "duration": "8 hours",
+      "price_from": 336,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/gruyeres-l135077/gruyeres-chillon-castles-day-tour-from-bern-t1296867/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-chillon"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

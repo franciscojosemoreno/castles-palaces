@@ -71,44 +71,38 @@
   "instagram_tag": "#chateaudebeaufort",
   "meta_title": "Beaufort Castle, Luxembourg — Medieval Ruins in Little Switzerland",
   "meta_description": "Visit Beaufort Castle in Luxembourg's Müllerthal — romantic medieval ruins and a Renaissance château in the forested gorges of Little Switzerland.",
-  "tags": ["medieval", "luxembourg", "renaissance", "ruins", "mullerthal"],
+  "tags": [
+    "medieval",
+    "luxembourg",
+    "renaissance",
+    "ruins",
+    "mullerthal"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["vianden-castle", "larochette-castle"],
-  "gyg_location_id": "158269",
+  "nearby_castles": [
+    "vianden-castle",
+    "larochette-castle"
+  ],
+  "gyg_location_id": "207297",
   "gyg_search_query": "Beaufort Castle Luxembourg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "389003",
-      "title": "Luxembourg: Nature, History and Castles Full-Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 133,
-      "rating": 4.5,
-      "reviews": 587,
-      "covers_castles": ["beaufort-castle"]
-    },
-    {
       "tour_id": "1295754",
       "title": "Entry Ticket: Beaufort Castle",
       "type": "entry_ticket",
-      "duration": "1 day",
+      "duration": "8 hours",
       "price_from": 9,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["beaufort-castle"]
-    },
-    {
-      "tour_id": "1247963",
-      "title": "Luxembourg: Haunted Castles and Ghost Legends Private Tour",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 796,
       "rating": null,
-      "reviews": 0,
-      "covers_castles": ["beaufort-castle"]
+      "reviews": 1,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/beaufort-luxembourg-l207297/entry-ticket-beaufort-castle-and-17th-century-residence-t1295754/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "beaufort-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

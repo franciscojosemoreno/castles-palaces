@@ -12,7 +12,7 @@
   "nearest_city": "Lisbon",
   "address": "Ilha do Almourol, 2200-000 Praia do Ribatejo, Portugal",
   "lat": 39.4645,
-  "lng": -8.1910,
+  "lng": -8.191,
   "unesco": false,
   "year_built": 1171,
   "architectural_style": "Templar Medieval",
@@ -71,11 +71,26 @@
   "instagram_tag": "#castelodeAlmourol",
   "meta_title": "Almourol Castle Portugal: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Almourol Castle — a Knights Templar island fortress in the Tagus River. Plan your day trip from Lisbon and discover Portugal's most dramatically positioned medieval castle.",
-  "tags": ["castle", "templar", "island-castle", "medieval", "tagus-river", "ribatejo", "day-trip-from-lisbon", "knights-templar"],
+  "tags": [
+    "castle",
+    "templar",
+    "island-castle",
+    "medieval",
+    "tagus-river",
+    "ribatejo",
+    "day-trip-from-lisbon",
+    "knights-templar"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["pena-palace", "convent-of-christ-tomar", "obidos-castle", "castle-of-the-moors", "castelo-sao-jorge"],
-  "gyg_location_id": "1913",
+  "nearby_castles": [
+    "pena-palace",
+    "convent-of-christ-tomar",
+    "obidos-castle",
+    "castle-of-the-moors",
+    "castelo-sao-jorge"
+  ],
+  "gyg_location_id": "42",
   "gyg_search_query": "Almourol Castle Tomar Lisbon tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -84,11 +99,17 @@
       "tour_id": "18912",
       "title": "From Lisbon: Tomar, Convent of Christ & Almourol Castle",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 340,
-      "covers_castles": ["almourol-castle", "convent-of-christ-tomar"]
+      "duration": "9 hours",
+      "price_from": 76,
+      "rating": 4.8,
+      "reviews": 696,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/lisbon-l42/from-lisbon-tomar-convent-of-christ-almourol-castle-t18912/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "almourol-castle",
+        "convent-of-christ-tomar"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,10 +67,20 @@
   "instagram_tag": "#sigmaringenschloss",
   "meta_title": "Sigmaringen Castle: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Sigmaringen Castle above the Danube — the Hohenzollern-Sigmaringen seat, birthplace of Romania's Carol I, and home to 3,000+ historic weapons. Not to be confused with Burg Hohenzollern.",
-  "tags": ["hohenzollern", "danube", "weapons-collection", "renaissance-revival", "germany", "baden-wuerttemberg", "dynasty"],
+  "tags": [
+    "hohenzollern",
+    "danube",
+    "weapons-collection",
+    "renaissance-revival",
+    "germany",
+    "baden-wuerttemberg",
+    "dynasty"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": ["hohenzollern-castle"],
+  "nearby_castles": [
+    "hohenzollern-castle"
+  ],
   "gyg_location_id": "100350",
   "gyg_search_query": "Sigmaringen Castle Danube tour",
   "gyg_widget_type": "activities",
@@ -78,14 +88,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "849245",
-      "title": "Sigmaringen Castle: Entry Fee & Audio Guide",
+      "title": "Sigmaringen: Hohenzollern Castle Entry Fee & Audio Guide",
       "type": "entrance_ticket",
       "duration": "1.5 hours",
       "price_from": 17,
       "rating": 4.5,
       "reviews": 53,
       "is_top_pick": true,
-      "covers_castles": ["sigmaringen-castle"]
+      "booking_url_override": "https://www.getyourguide.com/sigmaringen-l100350/sigmaringen-hohenzollern-castle-entry-fee-audio-guide-t849245/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "sigmaringen-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

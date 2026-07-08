@@ -11,7 +11,7 @@
   "region": "Prague",
   "nearest_city": "Prague",
   "address": "Vyšehrad, V Pevnosti 159/5b, 128 00 Prague 2, Czech Republic",
-  "lat": 50.0630,
+  "lat": 50.063,
   "lng": 14.4185,
   "unesco": false,
   "year_built": 870,
@@ -71,10 +71,23 @@
   "instagram_tag": "#vysehrad",
   "meta_title": "Vyšehrad, Prague: Free Fortress & Cemetery Visitor Guide 2026",
   "meta_description": "Visit Vyšehrad in Prague — the Přemyslid fortress, Baroque ramparts and the National Cemetery where Dvořák and Smetana are buried. Free entry, guide for 2026.",
-  "tags": ["fortress", "baroque", "romanesque", "prague", "cemetery", "czech-history", "free-entry", "instagram-worthy"],
+  "tags": [
+    "fortress",
+    "baroque",
+    "romanesque",
+    "prague",
+    "cemetery",
+    "czech-history",
+    "free-entry",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["prague-castle", "karlstejn-castle", "konopiste-castle"],
+  "nearby_castles": [
+    "prague-castle",
+    "karlstejn-castle",
+    "konopiste-castle"
+  ],
   "gyg_location_id": "10",
   "gyg_search_query": "Vysehrad Prague hidden gem fortress tour",
   "gyg_widget_type": "activities",
@@ -82,14 +95,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1011583",
-      "title": "Prague's Best Hidden Gem: Vysehrad Castle & Historic Fort",
+      "title": "Prague’s Best Hidden Gem: Vysehrad Castle & Historic Fort",
       "type": "guided_tour",
       "duration": "2.5 hours",
       "price_from": 41,
       "rating": 4.9,
       "reviews": 27,
       "is_top_pick": true,
-      "covers_castles": ["vysehrad"]
+      "booking_url_override": "https://www.getyourguide.com/prague-l10/prague-s-best-hidden-gem-vysehrad-castle-historic-fort-t1011583/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "vysehrad"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

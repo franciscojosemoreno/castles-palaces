@@ -90,8 +90,13 @@
   ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["tower-of-london", "windsor-castle", "blenheim-palace", "hever-castle"],
-  "gyg_location_id": "4673",
+  "nearby_castles": [
+    "tower-of-london",
+    "windsor-castle",
+    "blenheim-palace",
+    "hever-castle"
+  ],
+  "gyg_location_id": "57",
   "gyg_search_query": "Hampton Court Palace tour London",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -101,21 +106,15 @@
       "title": "Hampton Court Palace Half-Day Trip from London with Tickets",
       "type": "day_trip",
       "duration": "5.5 hours",
-      "price_from": 106,
-      "rating": 4.1,
-      "reviews": 30,
+      "price_from": 107,
+      "rating": 4.2,
+      "reviews": 33,
       "is_top_pick": true,
-      "covers_castles": ["hampton-court-palace"]
-    },
-    {
-      "tour_id": "443122",
-      "title": "Royal Hampton Court Guided Tour with Afternoon Tea",
-      "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 202,
-      "rating": 4.9,
-      "reviews": 80,
-      "covers_castles": ["hampton-court-palace"]
+      "booking_url_override": "https://www.getyourguide.com/london-l57/hampton-court-palace-half-day-trip-from-london-with-tickets-t70032/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hampton-court-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

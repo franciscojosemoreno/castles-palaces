@@ -67,10 +67,19 @@
   "instagram_tag": "#russboroughhouse",
   "meta_title": "Russborough House: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Russborough House in County Wicklow — Ireland's longest Palladian facade, the Beit art collection, and a history of remarkable art heists. 2026 guide.",
-  "tags": ["palladian", "county-wicklow", "stately-home", "art-collection", "day-trip-from-dublin"],
+  "tags": [
+    "palladian",
+    "county-wicklow",
+    "stately-home",
+    "art-collection",
+    "day-trip-from-dublin"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["malahide-castle", "trim-castle"],
+  "nearby_castles": [
+    "malahide-castle",
+    "trim-castle"
+  ],
   "gyg_location_id": "31",
   "gyg_search_query": "Russborough House Wicklow tour",
   "gyg_widget_type": "activities",
@@ -85,7 +94,11 @@
       "rating": 4.3,
       "reviews": 3,
       "is_top_pick": true,
-      "covers_castles": ["russborough-house"]
+      "booking_url_override": "https://www.getyourguide.com/dublin-l31/wicklow-russborough-house-guided-tour-ticket-t1230866/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "russborough-house"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

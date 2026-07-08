@@ -67,7 +67,15 @@
   "instagram_tag": "#chlemoutsicastle",
   "meta_title": "Chlemoutsi Castle, Greece: Archaeologist Tour & Guide 2026",
   "meta_description": "Visit Chlemoutsi Castle — Greece's best-preserved Frankish castle and home to the only Frankish-period museum in the country. Archaeologist-led private tours available.",
-  "tags": ["frankish", "crusader", "principality-of-achaea", "villehardouin", "western-greece", "peloponnese", "museum"],
+  "tags": [
+    "frankish",
+    "crusader",
+    "principality-of-achaea",
+    "villehardouin",
+    "western-greece",
+    "peloponnese",
+    "museum"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -79,15 +87,17 @@
   "gyg_featured_tours": [
     {
       "tour_id": "945076",
-      "title": "Chlemoutsi Castle: A Knight's Legacy – Archaeologist-Led Tour (per group, up to 10 people)",
+      "title": "Chlemoutsi Castle: A Knight’s Legacy– Archaeologist-Led Tour",
       "type": "guided_tour",
       "duration": "1.5 hours",
       "price_from": 183,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["chlemoutsi-castle"],
-      "booking_url_override": "https://www.getyourguide.com/western-greece-l164101/chlemoutsi-castle-a-knight-s-legacy-archaeologist-led-tour-t945076/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/western-greece-l164101/chlemoutsi-castle-a-knight-s-legacy-archaeologist-led-tour-t945076/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chlemoutsi-castle"
+      ]
     }
   ]
 }

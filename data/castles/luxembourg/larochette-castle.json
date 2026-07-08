@@ -67,26 +67,39 @@
   "instagram_tag": "#larochettecastle",
   "meta_title": "Larochette Castle, Luxembourg: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Larochette Castle in Luxembourg's Mullerthal region — two medieval castles on one sandstone rock, left as a romantic, unrestored ruin. Guide for 2026.",
-  "tags": ["ruins", "medieval", "mullerthal", "luxembourg", "hiking", "little-switzerland"],
+  "tags": [
+    "ruins",
+    "medieval",
+    "mullerthal",
+    "luxembourg",
+    "hiking",
+    "little-switzerland"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["vianden-castle", "beaufort-castle"],
-  "gyg_location_id": "158270",
+  "nearby_castles": [
+    "vianden-castle",
+    "beaufort-castle"
+  ],
+  "gyg_location_id": "430",
   "gyg_search_query": "Larochette Castle Luxembourg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
   "gyg_featured_tours": [
     {
       "tour_id": "1296914",
-      "url": "https://www.getyourguide.com/luxembourg-l430/entry-ticket-larochette-castle-in-luxembourg-t1296914/",
       "title": "Entry Ticket: Larochette Castle in Luxembourg",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 8,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["larochette-castle"]
+      "booking_url_override": "https://www.getyourguide.com/luxembourg-l430/entry-ticket-larochette-castle-in-luxembourg-t1296914/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "larochette-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

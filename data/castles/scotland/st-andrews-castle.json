@@ -12,7 +12,7 @@
   "nearest_city": "Dundee",
   "address": "The Scores, St Andrews, KY16 9AR, Scotland",
   "lat": 56.3408,
-  "lng": -2.7960,
+  "lng": -2.796,
   "unesco": false,
   "year_built": 1200,
   "architectural_style": "Scottish medieval",
@@ -71,44 +71,37 @@
   "instagram_tag": "#standrewscastle",
   "meta_title": "St Andrews Castle, Scotland — Cliffside Ruin with Siege Tunnels & Bottle Dungeon",
   "meta_description": "Explore St Andrews Castle in Fife — a medieval bishop's fortress on the North Sea cliffs with underground siege tunnels, a bottle dungeon, and Reformation history.",
-  "tags": ["medieval", "scottish-castle", "fife", "reformation", "ruins"],
+  "tags": [
+    "medieval",
+    "scottish-castle",
+    "fife",
+    "reformation",
+    "ruins"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["dunnottar-castle"],
-  "gyg_location_id": "123750",
+  "nearby_castles": [
+    "dunnottar-castle"
+  ],
+  "gyg_location_id": "44",
   "gyg_search_query": "St Andrews Castle tour Scotland Fife",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "12658",
-      "title": "From Edinburgh: St Andrews & Fishing Villages of Fife Tour",
+      "title": "From Edinburgh: St Andrews and Fishing Villages of Fife Tour",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 55,
-      "rating": 4.6,
-      "reviews": 852,
-      "covers_castles": ["st-andrews-castle"]
-    },
-    {
-      "tour_id": "259837",
-      "title": "Edinburgh: St Andrews, Dunnottar Castle & Falkland Tour",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 87,
+      "price_from": 76,
       "rating": 4.7,
-      "reviews": 522,
-      "covers_castles": ["st-andrews-castle", "dunnottar-castle"]
-    },
-    {
-      "tour_id": "385583",
-      "title": "From Edinburgh: St Andrews, Dundee, Perth & Stirling Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 324,
-      "covers_castles": ["st-andrews-castle"]
+      "reviews": 1216,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/st-andrews-and-fishing-villages-of-fife-day-tour-t12658/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "st-andrews-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,10 +67,19 @@
   "instagram_tag": "#castlehoward",
   "meta_title": "Castle Howard: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castle Howard near York — Vanbrugh and Hawksmoor's Baroque masterpiece and the setting for Brideshead Revisited. Tickets and visitor guide for 2026.",
-  "tags": ["baroque", "stately-home", "north-yorkshire", "brideshead-revisited", "day-trip-from-york"],
+  "tags": [
+    "baroque",
+    "stately-home",
+    "north-yorkshire",
+    "brideshead-revisited",
+    "day-trip-from-york"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["bolton-castle", "alnwick-castle"],
+  "nearby_castles": [
+    "bolton-castle",
+    "alnwick-castle"
+  ],
   "gyg_location_id": "436",
   "gyg_search_query": "Castle Howard York tour tickets",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "64183",
-      "title": "York: Castle Howard Self-Guided Entry Ticket",
+      "title": "York: Castle Howard House and Gardens - Self-Guided",
       "type": "entrance_ticket",
       "duration": "2–3 hours",
-      "price_from": 22,
+      "price_from": 23,
       "rating": 4.9,
-      "reviews": 146,
+      "reviews": 150,
       "is_top_pick": true,
-      "covers_castles": ["castle-howard"]
+      "booking_url_override": "https://www.getyourguide.com/york-l436/york-castle-howard-house-and-gardens-self-guided-t64183/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castle-howard"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

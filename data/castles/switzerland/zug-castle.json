@@ -67,7 +67,13 @@
   "instagram_tag": "#burgzug",
   "meta_title": "Zug Castle, Switzerland: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Burg Zug in central Switzerland — a medieval castle with the leaning Zytturm clocktower, in one of the world's wealthiest small cantons. Guide for 2026.",
-  "tags": ["medieval", "switzerland", "leaning-tower", "museum", "old-town"],
+  "tags": [
+    "medieval",
+    "switzerland",
+    "leaning-tower",
+    "museum",
+    "old-town"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
   "nearby_castles": [],
@@ -78,14 +84,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1273356",
-      "title": "Zug: Museum Burg Zug Entry Ticket",
+      "title": "Zug: Admission to the Zug Castle Museum",
       "type": "entrance_ticket",
       "duration": "1 hour",
       "price_from": 15,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["zug-castle"]
+      "booking_url_override": "https://www.getyourguide.com/zug-l95858/zug-admission-to-the-zug-castle-museum-t1273356/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "zug-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

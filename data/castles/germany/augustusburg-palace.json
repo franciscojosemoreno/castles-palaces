@@ -67,10 +67,19 @@
   "instagram_tag": "#schlossaugustusburg",
   "meta_title": "Augustusburg Palace, Brühl: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Augustusburg Palace near Cologne — Balthasar Neumann's UNESCO-listed Baroque staircase and Clemens August's Rococo state rooms. Guide for 2026.",
-  "tags": ["baroque", "rococo", "unesco", "north-rhine-westphalia", "day-trip-from-cologne"],
+  "tags": [
+    "baroque",
+    "rococo",
+    "unesco",
+    "north-rhine-westphalia",
+    "day-trip-from-cologne"
+  ],
   "last_updated": "2026-06-28",
   "routes": [],
-  "nearby_castles": ["marksburg-castle", "eltz-castle"],
+  "nearby_castles": [
+    "marksburg-castle",
+    "eltz-castle"
+  ],
   "gyg_location_id": "176941",
   "gyg_search_query": "Augustusburg Palace Bruhl tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "645548",
-      "title": "Augustusburg: Entry Ticket to Schloss Augustusburg",
-      "type": "entrance_ticket",
+      "title": "Augustusburg Castle: Entrance Ticket to Schloss Augustusburg",
+      "type": "entry_ticket",
       "duration": "1 hour",
-      "price_from": 9,
-      "rating": 4.5,
-      "reviews": 20,
+      "price_from": 23,
+      "rating": 4.7,
+      "reviews": 2,
       "is_top_pick": true,
-      "covers_castles": ["augustusburg-palace"]
+      "booking_url_override": "https://www.getyourguide.com/augustusburg-l176941/augustusburg-entrance-ticket-to-schloss-augustusburg-t645548/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "augustusburg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

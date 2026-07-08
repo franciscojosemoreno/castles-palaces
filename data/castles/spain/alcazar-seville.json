@@ -90,50 +90,25 @@
     "almodovar-castle",
     "alcazar-de-los-reyes-cristianos"
   ],
-  "gyg_location_id": "4542",
+  "gyg_location_id": "48",
   "gyg_search_query": "Alcazar Seville tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "162078",
-      "title": "Seville: Alcázar Skip-the-Line Tickets and Guided Tour",
+      "tour_id": "131232",
+      "title": "Seville: Royal Alcázar Entry Ticket",
       "type": "skip_the_line",
       "duration": "1.5 hours",
-      "price_from": 30,
-      "rating": 4.7,
-      "reviews": 2400,
-      "covers_castles": ["alcazar-seville"]
-    },
-    {
-      "tour_id": "491580",
-      "title": "Seville: Small-Group Alcázar Guided Tour & Entry Ticket",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 45,
-      "rating": 4.8,
-      "reviews": 680,
-      "covers_castles": ["alcazar-seville"]
-    },
-    {
-      "tour_id": "455108",
-      "title": "Seville: Real Alcázar of Seville Guided Tour and Ticket",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 28,
+      "price_from": 23,
       "rating": 4.6,
-      "reviews": 890,
-      "covers_castles": ["alcazar-seville"]
-    },
-    {
-      "tour_id": "443676",
-      "title": "Seville: Royal Alcázar Skip-the-Line Tour by Local Experts",
-      "type": "skip_the_line",
-      "duration": "2 hours",
-      "price_from": 38,
-      "rating": 4.7,
-      "reviews": 420,
-      "covers_castles": ["alcazar-seville"]
+      "reviews": 33470,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/seville-l48/skip-the-line-ticket-royal-alcazar-of-seville-t131232/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alcazar-seville"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

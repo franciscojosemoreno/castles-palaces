@@ -11,7 +11,7 @@
   "nearest_city": "Nottingham",
   "address": "Lenton Road, Nottingham NG1 6EL, England",
   "lat": 52.9499,
-  "lng": -1.1510,
+  "lng": -1.151,
   "unesco": false,
   "year_built": 1068,
   "architectural_style": "Norman motte, rebuilt as Baroque ducal mansion 1674, restored as museum",
@@ -65,34 +65,43 @@
   "instagram_tag": "#nottinghamcastle",
   "meta_title": "Nottingham Castle: Robin Hood, Tickets & Visitor Guide 2026",
   "meta_description": "Visit Nottingham Castle — explore Robin Hood's legendary stronghold with caves, museum and panoramic city views. Book tickets online for 2026.",
-  "tags": ["medieval", "robin-hood", "museum", "city-centre", "english-castle", "norman", "history", "family-friendly"],
+  "tags": [
+    "medieval",
+    "robin-hood",
+    "museum",
+    "city-centre",
+    "english-castle",
+    "norman",
+    "history",
+    "family-friendly"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["warwick-castle", "windsor-castle", "alnwick-castle", "belvoir-castle"],
-  "gyg_location_id": "168515",
+  "nearby_castles": [
+    "warwick-castle",
+    "windsor-castle",
+    "alnwick-castle",
+    "belvoir-castle"
+  ],
+  "gyg_location_id": "145813",
   "gyg_search_query": "Nottingham Castle Robin Hood tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "411146",
-      "title": "Nottingham Castle Admission Ticket",
+      "tour_id": "607089",
+      "title": "Nottingham Walking Tour with a Local Guide",
       "type": "entry_ticket",
-      "duration": "3 hours",
-      "price_from": 18,
-      "rating": 4.5,
-      "reviews": 252,
-      "covers_castles": ["nottingham-castle"]
-    },
-    {
-      "tour_id": "496489",
-      "title": "Nottingham: Robin Hood Town Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 30,
+      "duration": "1.5 hours",
+      "price_from": 20,
       "rating": 4.9,
-      "reviews": 11,
-      "covers_castles": ["nottingham-castle"]
+      "reviews": 95,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/nottingham-l145813/nottingham-walking-tour-with-a-local-guide-t607089/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "nottingham-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

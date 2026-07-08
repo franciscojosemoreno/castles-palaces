@@ -71,54 +71,43 @@
   "instagram_tag": "#bodrumCastle",
   "meta_title": "Bodrum Castle Turkey: Tickets, Underwater Museum & Visitor Guide 2026",
   "meta_description": "Visit Bodrum Castle — the Crusader fortress built by the Knights of St. John, now housing the world's finest underwater archaeology museum. Plan your visit to Turkey's Aegean coast.",
-  "tags": ["castle", "crusader", "knights-hospitaller", "underwater-archaeology", "aegean", "turkey", "bodrum", "bronze-age", "museum"],
+  "tags": [
+    "castle",
+    "crusader",
+    "knights-hospitaller",
+    "underwater-archaeology",
+    "aegean",
+    "turkey",
+    "bodrum",
+    "bronze-age",
+    "museum"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["ortahisar-castle", "palace-of-the-grand-master", "alanya-castle"],
-  "gyg_location_id": "168013",
+  "nearby_castles": [
+    "ortahisar-castle",
+    "palace-of-the-grand-master",
+    "alanya-castle"
+  ],
+  "gyg_location_id": "986",
   "gyg_search_query": "Bodrum Castle Museum Turkey tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "533744",
-      "title": "Bodrum: Walking Tour of Halicarnassos & St Peter's Castle",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 25,
-      "rating": 4.6,
-      "reviews": 285,
-      "covers_castles": ["bodrum-castle"]
-    },
-    {
-      "tour_id": "797301",
-      "title": "Bodrum: St Peter's Castle & Underwater Archaeology Museum Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 35,
-      "rating": 4.6,
-      "reviews": 182,
-      "covers_castles": ["bodrum-castle"]
-    },
-    {
-      "tour_id": "38951",
-      "title": "Bodrum City Tour: Castle, Mausoleum, Lunch & Entry Fees",
-      "type": "guided_tour",
+      "tour_id": "1349861",
+      "title": "Bodrum Half-Day City Tour with Castle, Windmills & Guide",
+      "type": "day_trip",
       "duration": "6 hours",
-      "price_from": 45,
-      "rating": 4.5,
-      "reviews": 352,
-      "covers_castles": ["bodrum-castle"]
-    },
-    {
-      "tour_id": "1107997",
-      "title": "Bodrum Port: Guided City Tour with Castle & Mausoleum",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 35,
-      "rating": 4.5,
-      "reviews": 125,
-      "covers_castles": ["bodrum-castle"]
+      "price_from": 46,
+      "rating": 4.7,
+      "reviews": 3,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/kusadasi-l986/bodrum-half-day-city-tour-with-castle-windmills-guide-t1349861/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bodrum-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

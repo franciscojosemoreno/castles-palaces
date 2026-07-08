@@ -12,7 +12,7 @@
   "nearest_city": "Faro",
   "address": "Rua do Castelo, 8300-144 Silves, Portugal",
   "lat": 37.1896,
-  "lng": -8.4390,
+  "lng": -8.439,
   "unesco": false,
   "year_built": 755,
   "architectural_style": "Moorish / Medieval Portuguese",
@@ -71,54 +71,37 @@
   "instagram_tag": "#silvestcastle",
   "meta_title": "Silves Castle, Algarve — Portugal's Finest Moorish Fortress",
   "meta_description": "Visit Silves Castle in the Algarve — Portugal's best-preserved Moorish castle with red sandstone walls, river views, and 1,000 years of history.",
-  "tags": ["moorish", "portuguese-castle", "algarve", "reconquista", "medieval"],
+  "tags": [
+    "moorish",
+    "portuguese-castle",
+    "algarve",
+    "reconquista",
+    "medieval"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["obidos-castle"],
-  "gyg_location_id": "88429",
+  "nearby_castles": [
+    "obidos-castle"
+  ],
+  "gyg_location_id": "91370",
   "gyg_search_query": "Silves castle Algarve tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "374104",
-      "title": "Albufeira: Silves Castle, Chapel of Bones & Benagil Tour",
+      "tour_id": "497277",
+      "title": "Guided visit to Silves the islamic capital of the Algarve",
       "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 58,
-      "rating": 4.5,
-      "reviews": 482,
-      "covers_castles": ["silves-castle"]
-    },
-    {
-      "tour_id": "441181",
-      "title": "From Albufeira: Half-Day Silves & Monchique Highlights Tour",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 45,
-      "rating": 4.5,
-      "reviews": 288,
-      "covers_castles": ["silves-castle"]
-    },
-    {
-      "tour_id": "415254",
-      "title": "Albufeira: Silves Castle, Lagos & Ponta da Piedade Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 348,
-      "covers_castles": ["silves-castle"]
-    },
-    {
-      "tour_id": "500707",
-      "title": "Albufeira: Benagil Caves & Silves Castle Sightseeing Tour",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 55,
-      "rating": 4.5,
-      "reviews": 224,
-      "covers_castles": ["silves-castle"]
+      "duration": "3 hours",
+      "price_from": 51,
+      "rating": 5.0,
+      "reviews": 9,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/silves-l91370/guided-visit-to-silves-the-islamic-capital-of-the-algarve-t497277/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "silves-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

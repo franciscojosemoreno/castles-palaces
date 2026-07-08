@@ -67,10 +67,19 @@
   "instagram_tag": "#castellodiavio",
   "meta_title": "Castello di Avio: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castello di Avio in Trentino — FAI's first heritage property, with rare 14th-century secular battle frescoes above the Adige valley. Guide for 2026.",
-  "tags": ["medieval", "frescoes", "trentino", "fai", "adige-valley", "alpine"],
+  "tags": [
+    "medieval",
+    "frescoes",
+    "trentino",
+    "fai",
+    "adige-valley",
+    "alpine"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["castello-di-masino"],
+  "nearby_castles": [
+    "castello-di-masino"
+  ],
   "gyg_location_id": "2506",
   "gyg_search_query": "Avio Castle Trentino tour",
   "gyg_widget_type": "activities",
@@ -78,15 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "433954",
-      "url": "https://www.getyourguide.com/trento-l2506/avio-sabbionara-castle-entry-ticket-t433954/",
-      "title": "Avio: Sabbionara Castle Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Avio: Avio Castle Entry Ticket",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
-      "price_from": 10,
-      "rating": null,
-      "reviews": 0,
+      "price_from": 14,
+      "rating": 4.6,
+      "reviews": 27,
       "is_top_pick": true,
-      "covers_castles": ["castello-di-avio"]
+      "booking_url_override": "https://www.getyourguide.com/trento-l2506/avio-avio-castle-entry-ticket-t433954/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-di-avio"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

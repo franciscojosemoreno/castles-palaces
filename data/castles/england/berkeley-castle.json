@@ -67,10 +67,20 @@
   "instagram_tag": "#berkeleycastle",
   "meta_title": "Berkeley Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Berkeley Castle in Gloucestershire — held by one family for nearly 900 years and the site of Edward II's mysterious death in 1327. Guide for 2026.",
-  "tags": ["medieval", "norman", "gloucestershire", "edward-ii", "english-castle", "stately-home"],
+  "tags": [
+    "medieval",
+    "norman",
+    "gloucestershire",
+    "edward-ii",
+    "english-castle",
+    "stately-home"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["warwick-castle", "blenheim-palace"],
+  "nearby_castles": [
+    "warwick-castle",
+    "blenheim-palace"
+  ],
   "gyg_location_id": "189525",
   "gyg_search_query": "Berkeley Castle Gloucestershire tour",
   "gyg_widget_type": "activities",
@@ -81,11 +91,15 @@
       "title": "Berkeley Castle: Admission Ticket",
       "type": "entrance_ticket",
       "duration": "Valid 1 day",
-      "price_from": 22,
+      "price_from": 23,
       "rating": 4.9,
       "reviews": 4,
       "is_top_pick": true,
-      "covers_castles": ["berkeley-castle"]
+      "booking_url_override": "https://www.getyourguide.com/berkeley-united-kingdom-l189525/berkeley-castle-admission-ticket-t617533/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "berkeley-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,10 +67,20 @@
   "instagram_tag": "#christiansborg",
   "meta_title": "Christiansborg Palace: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Christiansborg Palace in Copenhagen — the only building housing a nation's parliament, supreme court and royal ceremonies under one roof. 2026 visitor guide.",
-  "tags": ["neo-baroque", "royal-residence", "copenhagen", "parliament", "ruins"],
+  "tags": [
+    "neo-baroque",
+    "royal-residence",
+    "copenhagen",
+    "parliament",
+    "ruins"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["rosenborg-castle", "frederiksborg-palace", "amalienborg-palace"],
+  "nearby_castles": [
+    "rosenborg-castle",
+    "frederiksborg-palace",
+    "amalienborg-palace"
+  ],
   "gyg_location_id": "12",
   "gyg_search_query": "Christiansborg Palace Copenhagen tour",
   "gyg_widget_type": "activities",
@@ -79,13 +89,17 @@
     {
       "tour_id": "741740",
       "title": "Copenhagen: Christiansborg Palace Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 34,
       "rating": 4.6,
-      "reviews": 871,
+      "reviews": 884,
       "is_top_pick": true,
-      "covers_castles": ["christiansborg-palace"]
+      "booking_url_override": "https://www.getyourguide.com/copenhagen-l12/copenhagen-christiansborg-palace-entry-ticket-t741740/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "christiansborg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

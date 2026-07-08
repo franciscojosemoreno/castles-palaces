@@ -75,11 +75,26 @@
   "instagram_tag": "#chateaudangers",
   "meta_title": "Château d'Angers: Apocalypse Tapestry Tickets & Guide 2026",
   "meta_description": "Visit Château d'Angers — the 17-tower medieval fortress home to the Apocalypse Tapestry, the largest surviving medieval tapestry in the world. Tickets for 2026.",
-  "tags": ["medieval", "fortress", "unesco-world-heritage", "loire-valley", "tapestry", "angevin", "day-trip-from-paris"],
+  "tags": [
+    "medieval",
+    "fortress",
+    "unesco-world-heritage",
+    "loire-valley",
+    "tapestry",
+    "angevin",
+    "day-trip-from-paris"
+  ],
   "last_updated": "2026-06-25",
-  "routes": ["loire-valley-castles"],
-  "nearby_castles": ["chateau-de-azay-le-rideau", "chateau-de-villandry", "chateau-damboise", "chateau-de-blois"],
-  "gyg_location_id": "56807",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-azay-le-rideau",
+    "chateau-de-villandry",
+    "chateau-damboise",
+    "chateau-de-blois"
+  ],
+  "gyg_location_id": "481",
   "gyg_search_query": "Château d'Angers Loire Valley tickets tours",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -91,19 +106,13 @@
       "duration": "1–3 hours",
       "price_from": 13,
       "rating": 4.5,
-      "reviews": 215,
+      "reviews": 216,
       "is_top_pick": true,
-      "covers_castles": ["chateau-d-angers"]
-    },
-    {
-      "tour_id": "229210",
-      "title": "From Paris: Mont Saint-Michel and Loire Valley 2-Day Tour",
-      "type": "multi_day_tour",
-      "duration": "2 days",
-      "price_from": 541,
-      "rating": 4.3,
-      "reviews": 34,
-      "covers_castles": ["chateau-d-angers"]
+      "booking_url_override": "https://www.getyourguide.com/angers-l481/angers-chateau-d-angers-entrance-ticket-t176019/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-d-angers"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

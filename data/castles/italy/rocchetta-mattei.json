@@ -71,10 +71,21 @@
   "instagram_tag": "#rocchettamattei",
   "meta_title": "Rocchetta Mattei: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Rocchetta Mattei near Bologna — an eccentric Moorish, Gothic and Romanesque castle built by a 19th-century healer. Book the limited guided tour for 2026.",
-  "tags": ["eclectic-revival", "moorish", "19th-century", "emilia-romagna", "day-trip-from-bologna", "restoration", "book-in-advance"],
+  "tags": [
+    "eclectic-revival",
+    "moorish",
+    "19th-century",
+    "emilia-romagna",
+    "day-trip-from-bologna",
+    "restoration",
+    "book-in-advance"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["castello-estense", "castello-di-torrechiara"],
+  "nearby_castles": [
+    "castello-estense",
+    "castello-di-torrechiara"
+  ],
   "gyg_location_id": "1431",
   "gyg_search_query": "Rocchetta Mattei Bologna guided tour",
   "gyg_widget_type": "activities",
@@ -83,13 +94,17 @@
     {
       "tour_id": "1304853",
       "title": "Bologna: Rocchetta Mattei Entry Ticket and Guided Tour",
-      "type": "guided_tour",
+      "type": "entry_ticket",
       "duration": "1 hour",
       "price_from": 13,
-      "rating": 4.3,
-      "reviews": 17,
+      "rating": 4.4,
+      "reviews": 21,
       "is_top_pick": true,
-      "covers_castles": ["rocchetta-mattei"]
+      "booking_url_override": "https://www.getyourguide.com/bologna-l1431/rocchetta-mattei-entry-ticket-and-guided-tour-t1304853/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "rocchetta-mattei"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,44 +71,42 @@
   "instagram_tag": "#casteloDeMarvao",
   "meta_title": "Marvão Castle Portugal: Free Entry, Tours & Visitor Guide 2026",
   "meta_description": "Visit Marvão Castle — a free medieval clifftop fortress at 900 metres with views across Portugal and Spain. Plan your visit from Lisbon or Évora and discover Alentejo's hidden gem.",
-  "tags": ["castle", "medieval", "free-entry", "clifftop", "alentejo", "border-castle", "viewpoint", "village-castle"],
+  "tags": [
+    "castle",
+    "medieval",
+    "free-entry",
+    "clifftop",
+    "alentejo",
+    "border-castle",
+    "viewpoint",
+    "village-castle"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["obidos-castle", "castle-of-the-moors", "silves-castle"],
-  "gyg_location_id": "236130",
+  "nearby_castles": [
+    "obidos-castle",
+    "castle-of-the-moors",
+    "silves-castle"
+  ],
+  "gyg_location_id": "170227",
   "gyg_search_query": "Marvão Castle Alentejo Portugal tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "1306465",
-      "title": "Guided Visit of Marvão",
+      "title": "Guided visit of Marvão",
       "type": "guided_tour",
       "duration": "1.5 hours",
       "price_from": 23,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["marvao-castle"]
-    },
-    {
-      "tour_id": "1066790",
-      "title": "Lisbon: Small-Group Tour of Castelo de Vide and Marvão",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 110,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["marvao-castle"]
-    },
-    {
-      "tour_id": "472869",
-      "title": "Castelo de Vide & Marvão Private Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 695,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["marvao-castle"]
+      "rating": 3.7,
+      "reviews": 3,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/marvao-l170227/guided-visit-of-marvao-t1306465/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "marvao-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

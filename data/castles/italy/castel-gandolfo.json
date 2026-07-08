@@ -67,10 +67,21 @@
   "instagram_tag": "#castelgandolfo",
   "meta_title": "Castel Gandolfo Apostolic Palace: Tickets & Guide 2026",
   "meta_description": "Visit Castel Gandolfo's Apostolic Palace and Secret Garden near Rome — the papal summer residence opened by Pope Francis in 2016. Limited slots, book ahead.",
-  "tags": ["papal", "baroque", "UNESCO", "secret-garden", "lake-albano", "castelli-romani", "pope-francis", "italy"],
+  "tags": [
+    "papal",
+    "baroque",
+    "UNESCO",
+    "secret-garden",
+    "lake-albano",
+    "castelli-romani",
+    "pope-francis",
+    "italy"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": ["chigi-palace"],
+  "nearby_castles": [
+    "chigi-palace"
+  ],
   "gyg_location_id": "7914",
   "gyg_search_query": "Castel Gandolfo Apostolic Palace garden tour",
   "gyg_widget_type": "activities",
@@ -85,7 +96,11 @@
       "rating": 4.1,
       "reviews": 15,
       "is_top_pick": true,
-      "covers_castles": ["castel-gandolfo"]
+      "booking_url_override": "https://www.getyourguide.com/castel-gandolfo-l7914/castel-gandolfo-apostolic-palace-and-secret-garden-with-digital-guide-t1177064/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castel-gandolfo"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

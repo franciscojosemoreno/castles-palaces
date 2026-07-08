@@ -12,7 +12,7 @@
   "nearest_city": "Kyrenia (Girne)",
   "address": "St. Hilarion, Kyrenia District, Northern Cyprus",
   "lat": 35.3222,
-  "lng": 33.2750,
+  "lng": 33.275,
   "unesco": false,
   "year_built": 1100,
   "architectural_style": "Byzantine / Crusader",
@@ -71,11 +71,24 @@
   "instagram_tag": "#stHilarionCastle",
   "meta_title": "St. Hilarion Castle Cyprus: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit St. Hilarion Castle in northern Cyprus — a dramatic Crusader ruin at 732m said to inspire Disney's Snow White, with views to Turkey. Plan your Kyrenia day trip.",
-  "tags": ["castle", "crusader", "byzantine", "lusignan", "northern-cyprus", "kyrenia", "mountain-castle", "disney-inspiration", "ruins"],
+  "tags": [
+    "castle",
+    "crusader",
+    "byzantine",
+    "lusignan",
+    "northern-cyprus",
+    "kyrenia",
+    "mountain-castle",
+    "disney-inspiration",
+    "ruins"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["kolossi-castle", "limassol-castle"],
-  "gyg_location_id": "181770",
+  "nearby_castles": [
+    "kolossi-castle",
+    "limassol-castle"
+  ],
+  "gyg_location_id": "924",
   "gyg_search_query": "St. Hilarion Castle Kyrenia Cyprus tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +98,15 @@
       "title": "From North Cyprus: Kyrenia, St Hilarion Castle, Bellapais",
       "type": "guided_tour",
       "duration": "6 hours",
-      "price_from": 404,
+      "price_from": 398,
       "rating": 4.8,
       "reviews": 4,
-      "covers_castles": ["st-hilarion-castle"]
-    },
-    {
-      "tour_id": "457782",
-      "title": "Kyrenia, St. Hilarion Castle & Bellapais Abbey Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 92,
-      "rating": 4.6,
-      "reviews": 29,
-      "covers_castles": ["st-hilarion-castle"]
-    },
-    {
-      "tour_id": "523216",
-      "title": "St. Hilarion Castle and Bellapais Ruins — Private Guide",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 231,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["st-hilarion-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/kyrenia-l924/from-famagusta-kyrenia-with-st-hilarion-castle-bellapais-t635474/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "st-hilarion-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

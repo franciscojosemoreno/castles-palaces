@@ -99,20 +99,22 @@
     "herrenchiemsee-palace",
     "munich-residenz"
   ],
-  "gyg_location_id": "528",
+  "gyg_location_id": "2236",
   "gyg_search_query": "Neuschwanstein Castle tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "1753",
-      "title": "From Munich: Neuschwanstein & Linderhof Castles Day Trip",
-      "type": "day_trip",
-      "duration": "10.5 hours",
-      "price_from": 88,
-      "rating": 4.6,
-      "reviews": 15379,
-      "covers_castles": []
+      "tour_id": "720041",
+      "title": "Neuschwanstein Castle Skip-the-Line Ticket with Audio Guide",
+      "type": "skip_the_line",
+      "duration": "1 hour",
+      "price_from": 51,
+      "rating": 4.4,
+      "reviews": 1649,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/fussen-l2236/neuschwanstein-castle-skip-the-line-ticket-with-audio-guide-t720041/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

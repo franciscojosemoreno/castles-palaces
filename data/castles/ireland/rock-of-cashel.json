@@ -84,13 +84,15 @@
   "gyg_featured_tours": [
     {
       "tour_id": "951621",
-      "title": "Rock of Cashel, Folk Museum & City Tour",
+      "title": "Cashel: Rock of Cashel, Folklore Museum, and Town Tour",
       "type": "guided_tour",
-      "duration": "2–3 hours",
-      "price_from": null,
-      "rating": null,
-      "reviews": null,
-      "covers_castles": []
+      "duration": "2.5 hours",
+      "price_from": 79,
+      "rating": 4.8,
+      "reviews": 6,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cashel-l182131/cashel-rock-of-cashel-folklore-museum-and-town-tour-t951621/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

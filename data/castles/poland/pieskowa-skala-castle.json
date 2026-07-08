@@ -71,54 +71,38 @@
   "instagram_tag": "#pieskowa_skala",
   "meta_title": "Pieskowa Skała Castle, Poland — Renaissance Pearl of the Eagles' Nests Trail",
   "meta_description": "Visit Pieskowa Skała Castle near Kraków — a stunning Renaissance palace above a limestone gorge, part of Poland's Trail of the Eagles' Nests.",
-  "tags": ["renaissance", "polish-castle", "eagles-nests", "ojców", "lesser-poland"],
+  "tags": [
+    "renaissance",
+    "polish-castle",
+    "eagles-nests",
+    "ojców",
+    "lesser-poland"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["ogrodzieniec-castle", "malbork-castle"],
-  "gyg_location_id": "91884",
+  "nearby_castles": [
+    "ogrodzieniec-castle",
+    "malbork-castle"
+  ],
+  "gyg_location_id": "40",
   "gyg_search_query": "Pieskowa Skała castle Kraków Eagles Nests tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "162327",
-      "title": "From Kraków: Ojców National Park & Pieskowa Skała Castle",
+      "title": "From Kraków: Ojców National Park and Pieskowa Skała Castle",
       "type": "guided_tour",
       "duration": "4 hours",
-      "price_from": 38,
-      "rating": 4.7,
-      "reviews": 582,
-      "covers_castles": ["pieskowa-skala-castle"]
-    },
-    {
-      "tour_id": "194336",
-      "title": "From Kraków: Ojców National Park and Pieskowa Skała Castle Tour",
-      "type": "guided_tour",
-      "duration": "5 hours",
-      "price_from": 42,
-      "rating": 4.6,
-      "reviews": 384,
-      "covers_castles": ["pieskowa-skala-castle"]
-    },
-    {
-      "tour_id": "63776",
-      "title": "From Krakow: Ojców National Park Full-Day Trip",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 55,
-      "rating": 4.5,
-      "reviews": 244,
-      "covers_castles": ["pieskowa-skala-castle"]
-    },
-    {
-      "tour_id": "147414",
-      "title": "From Krakow: Ojców National Park & Eagle's Nest Trail Tour",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 50,
-      "rating": 4.6,
-      "reviews": 322,
-      "covers_castles": ["pieskowa-skala-castle"]
+      "price_from": 159,
+      "rating": 2.6,
+      "reviews": 11,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/krakow-l40/from-krakow-ojcow-national-park-and-pieskowa-skala-castle-t162327/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "pieskowa-skala-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -12,7 +12,7 @@
   "nearest_city": "Stockholm",
   "address": "Vaxholms fästning, 185 94 Vaxholm, Sweden",
   "lat": 59.4025,
-  "lng": 18.3530,
+  "lng": 18.353,
   "unesco": false,
   "year_built": 1548,
   "architectural_style": "Swedish Renaissance / Vauban",
@@ -24,7 +24,7 @@
     "friday": "11:00–17:00",
     "saturday": "11:00–17:00",
     "sunday": "11:00–17:00",
-    "seasonal_note": "Open daily mid-May to mid-September only. Reached by boat from Vaxholm town or direct from Stockholm."
+    "seasonal_note": "Note on featured tour: The GYG featured tour is a guided day excursion departing from Stockholm (not from Vaxholm itself). It combines Vaxholm and the Stockholm Archipelago — ideal for visitors based in Stockholm who want to reach Vaxholm without organising transport independently. Open daily mid-May to mid-September only. Reached by boat from Vaxholm town or direct from Stockholm."
   },
   "price_adult": 100,
   "price_child": 50,
@@ -71,44 +71,37 @@
   "instagram_tag": "#vaxholmsfastning",
   "meta_title": "Vaxholm Fortress, Sweden — Renaissance Sea Castle in the Stockholm Archipelago",
   "meta_description": "Visit Vaxholm Fortress near Stockholm — a Renaissance island sea fortress accessible only by boat, with the National Coastal Defence Museum and archipelago views.",
-  "tags": ["renaissance", "swedish-castle", "stockholm-archipelago", "coastal", "island-fortress"],
+  "tags": [
+    "renaissance",
+    "swedish-castle",
+    "stockholm-archipelago",
+    "coastal",
+    "island-fortress"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["drottningholm-palace"],
-  "gyg_location_id": "181684",
+  "nearby_castles": [
+    "drottningholm-palace"
+  ],
+  "gyg_location_id": "50",
   "gyg_search_query": "Vaxholm fortress Stockholm archipelago tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "719216",
-      "title": "Stockholm Archipelago Guided Tour on Historic Ship with Fika",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 37,
-      "rating": 4.4,
-      "reviews": 428,
-      "covers_castles": ["vaxholm-fortress"]
-    },
-    {
       "tour_id": "635141",
       "title": "Vaxholm & Stockholm Archipelago: Guided Small-Group Day Trip",
-      "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 231,
-      "rating": 4.8,
-      "reviews": 41,
-      "covers_castles": ["vaxholm-fortress"]
-    },
-    {
-      "tour_id": "1132981",
-      "title": "Stockholm: Archipelago Shrimp Cruise",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 55,
-      "rating": 4.6,
-      "reviews": 28,
-      "covers_castles": ["vaxholm-fortress"]
+      "type": "day_trip",
+      "duration": "1 hour",
+      "price_from": 169,
+      "rating": 4.5,
+      "reviews": 43,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/stockholm-l50/vaxholm-stockholm-archipelago-guided-excursion-day-trip-t635141/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "vaxholm-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

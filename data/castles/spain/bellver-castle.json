@@ -24,7 +24,7 @@
     "friday": "09:00–19:00",
     "saturday": "09:00–19:00",
     "sunday": "09:00–15:00",
-    "seasonal_note": "Open Tuesday to Sunday. Summer hours (April–September): Tuesday–Saturday 09:00–20:00, Sunday 09:00–15:00. Winter hours (October–March): Tuesday–Saturday 09:00–18:00, Sunday 09:00–15:00. Closed Mondays. The rooftop terrace offers spectacular sunset views."
+    "seasonal_note": "Note on featured tour: The GYG featured tour is a full-day e-bike experience departing from Palma city centre (not an entry ticket to the castle alone). Tour includes Palma forest, old town, and a hike to Bellver Castle — book via GYG; castle entry is included in the tour price. Open Tuesday to Sunday. Summer hours (April–September): Tuesday–Saturday 09:00–20:00, Sunday 09:00–15:00. Winter hours (October–March): Tuesday–Saturday 09:00–18:00, Sunday 09:00–15:00. Closed Mondays. The rooftop terrace offers spectacular sunset views."
   },
   "price_adult": 4,
   "price_child": 2,
@@ -66,44 +66,41 @@
   "instagram_tag": "#bellvercastle",
   "meta_title": "Bellver Castle Mallorca: Tickets, Views & Visitor Guide 2026",
   "meta_description": "Visit Bellver Castle in Palma de Mallorca — one of Europe's only circular Gothic castles with panoramic bay views. Book tickets for 2026.",
-  "tags": ["gothic", "medieval", "circular", "instagram-worthy", "views", "museum", "hilltop", "unique"],
+  "tags": [
+    "gothic",
+    "medieval",
+    "circular",
+    "instagram-worthy",
+    "views",
+    "museum",
+    "hilltop",
+    "unique"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["alhambra-granada", "alcazar-of-segovia"],
-  "gyg_location_id": "4482",
+  "nearby_castles": [
+    "alhambra-granada",
+    "alcazar-of-segovia"
+  ],
+  "gyg_location_id": "47",
   "gyg_search_query": "Bellver Castle Palma Mallorca tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "158651",
-      "title": "Palma de Mallorca: Castillo de Bellver Admission Ticket",
+      "tour_id": "1193786",
+      "title": "Palma Forest & Old Town: E-Bike Tour & Bellver Castle Hike",
       "type": "entry_ticket",
-      "duration": "2 hours",
-      "price_from": 8,
-      "rating": 4.4,
-      "reviews": 320,
-      "covers_castles": ["bellver-castle"]
-    },
-    {
-      "tour_id": "399491",
-      "title": "Palma: City Tour by Cabrio Bus with Bellver Castle Entry",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 35,
-      "rating": 4.6,
-      "reviews": 480,
-      "covers_castles": ["bellver-castle"]
-    },
-    {
-      "tour_id": "3455",
-      "title": "Palma de Mallorca: Hop-On Hop-Off Bus Tour 24 Hours",
-      "type": "guided_tour",
-      "duration": "1 day",
-      "price_from": 25,
-      "rating": 4.4,
-      "reviews": 850,
-      "covers_castles": ["bellver-castle"]
+      "duration": "2.5 hours",
+      "price_from": 86,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/mallorca-l47/palma-forest-old-town-e-bike-tour-bellver-castle-hike-t1193786/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bellver-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

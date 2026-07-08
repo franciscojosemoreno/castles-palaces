@@ -71,7 +71,15 @@
   "instagram_tag": "#roccodigradara",
   "meta_title": "Rocca of Gradara: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Rocca di Gradara in the Marche — the Malatesta fortress linked to Dante's Paolo and Francesca, set in one of Italy's best-preserved medieval walled villages.",
-  "tags": ["medieval", "malatesta", "dante", "marche", "italy", "walled-village", "literary"],
+  "tags": [
+    "medieval",
+    "malatesta",
+    "dante",
+    "marche",
+    "italy",
+    "walled-village",
+    "literary"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
   "nearby_castles": [],
@@ -83,13 +91,17 @@
     {
       "tour_id": "851519",
       "title": "Gradara: Entry Ticket to Rocca with Audio Guide App",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 17,
       "rating": 2.4,
       "reviews": 26,
       "is_top_pick": true,
-      "covers_castles": ["gradara-castle"]
+      "booking_url_override": "https://www.getyourguide.com/gradara-l169755/gradara-entry-ticket-to-rocca-with-audio-guide-app-t851519/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "gradara-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

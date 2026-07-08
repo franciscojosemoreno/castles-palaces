@@ -67,10 +67,19 @@
   "instagram_tag": "#castellotorrechiara",
   "meta_title": "Castle of Torrechiara: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit the Castle of Torrechiara near Parma — Pier Maria Rossi's 15th-century love-letter castle with the frescoed Camera d'Oro. Tickets and visitor guide for 2026.",
-  "tags": ["quattrocento", "medieval", "emilia-romagna", "frescoes", "day-trip-from-parma"],
+  "tags": [
+    "quattrocento",
+    "medieval",
+    "emilia-romagna",
+    "frescoes",
+    "day-trip-from-parma"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["castello-estense", "rocchetta-mattei"],
+  "nearby_castles": [
+    "castello-estense",
+    "rocchetta-mattei"
+  ],
   "gyg_location_id": "2480",
   "gyg_search_query": "Castello di Torrechiara Parma tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1231317",
-      "title": "From Parma: Castle of Torrechiara and City Guided Tour",
+      "title": "Guided visit of Parma and Torrechiara Castle",
       "type": "guided_tour",
       "duration": "7 hours",
       "price_from": 33,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["castello-di-torrechiara"]
+      "booking_url_override": "https://www.getyourguide.com/parma-l2480/guided-visit-of-parma-and-torrechiara-castle-t1231317/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-di-torrechiara"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

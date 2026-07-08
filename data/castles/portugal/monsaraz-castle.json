@@ -71,11 +71,20 @@
   "instagram_tag": "#monsaraz",
   "meta_title": "Monsaraz Castle, Alentejo — Medieval Village Above the Alqueva Reservoir",
   "meta_description": "Visit Monsaraz in the Alentejo — a medieval hilltop castle and walled village with views over the Alqueva reservoir and Portugal's finest dark skies.",
-  "tags": ["medieval", "portuguese-castle", "alentejo", "walled-village", "dark-sky"],
+  "tags": [
+    "medieval",
+    "portuguese-castle",
+    "alentejo",
+    "walled-village",
+    "dark-sky"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["silves-castle", "obidos-castle"],
-  "gyg_location_id": "149425",
+  "nearby_castles": [
+    "silves-castle",
+    "obidos-castle"
+  ],
+  "gyg_location_id": "42",
   "gyg_search_query": "Monsaraz castle Alentejo tour Évora",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +94,15 @@
       "title": "From Lisbon: ÉVORA + Chapel of Bones + MONSARAZ + Alentejo Wines",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 78,
+      "price_from": 77,
       "rating": 4.9,
-      "reviews": 173,
-      "covers_castles": ["monsaraz-castle"]
-    },
-    {
-      "tour_id": "428439",
-      "title": "From Lisbon: Évora and Monsaraz Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 110,
-      "rating": 4.9,
-      "reviews": 23,
-      "covers_castles": ["monsaraz-castle"]
-    },
-    {
-      "tour_id": "369701",
-      "title": "Monsaraz and Wine guided tour from Évora",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 81,
-      "rating": 4.7,
-      "reviews": 48,
-      "covers_castles": ["monsaraz-castle"]
+      "reviews": 199,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/lisbon-l42/from-lisbon-evora-chapel-of-bones-monsaraz-alentejo-wines-t913459/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "monsaraz-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

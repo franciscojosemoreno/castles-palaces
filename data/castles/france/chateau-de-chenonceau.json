@@ -97,19 +97,21 @@
     "chateau-de-villandry",
     "chateau-de-azay-le-rideau"
   ],
-  "gyg_location_id": "504",
+  "gyg_location_id": "7956",
   "gyg_search_query": "Chenonceau Loire Valley tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "10751",
-      "title": "From Paris: Loire Valley Castles Day Trip",
+      "tour_id": "176736",
+      "title": "Chenonceau Castle Admission Ticket",
       "type": "day_trip",
-      "duration": "12–12.5 hours",
-      "price_from": 110,
-      "rating": 4.5,
-      "reviews": 1353,
+      "duration": "1 day",
+      "price_from": 22,
+      "rating": 4.7,
+      "reviews": 1654,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/loire-valley-chateaux-l7956/chenonceau-castle-admission-ticket-t176736/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chateau-de-chambord",
         "chateau-de-chenonceau",
@@ -117,5 +119,6 @@
         "chateau-de-cheverny"
       ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

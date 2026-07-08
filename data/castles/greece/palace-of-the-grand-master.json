@@ -67,54 +67,39 @@
   "instagram_tag": "#rhodescastle",
   "meta_title": "Palace of the Grand Master Rhodes: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Palace of the Grand Master in Rhodes — the UNESCO Gothic Crusader fortress at the heart of the best-preserved medieval city in the Mediterranean. Complete visitor guide.",
-  "tags": ["gothic", "crusader", "unesco-world-heritage", "knights-hospitaller", "greece", "mediterranean"],
+  "tags": [
+    "gothic",
+    "crusader",
+    "unesco-world-heritage",
+    "knights-hospitaller",
+    "greece",
+    "mediterranean"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["palamidi-fortress", "lindos-castle"],
-  "gyg_location_id": "132568",
+  "nearby_castles": [
+    "palamidi-fortress",
+    "lindos-castle"
+  ],
+  "gyg_location_id": "121405",
   "gyg_search_query": "Rhodes Palace Grand Master tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "427363",
-      "title": "Rhodes: Palace of the Grand Master Ticket & Audio Tour",
-      "type": "entry_ticket",
-      "duration": "Self-guided",
-      "price_from": 30,
-      "rating": 4.0,
-      "reviews": 325,
-      "covers_castles": ["palace-of-the-grand-master"]
-    },
-    {
       "tour_id": "427057",
-      "title": "Rhodes: Palace of the Grand Master E-Ticket & Audio Guide",
+      "title": "Rhodes: Palace of the Grand Master E-Ticket & Audio Tour",
       "type": "entry_ticket",
       "duration": "Self-guided",
       "price_from": 30,
       "rating": 4.1,
-      "reviews": 236,
-      "covers_castles": ["palace-of-the-grand-master"]
-    },
-    {
-      "tour_id": "393376",
-      "title": "Rhodes: Palace of the Grand Master Ticket and Private Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 110,
-      "covers_castles": ["palace-of-the-grand-master"]
-    },
-    {
-      "tour_id": "155328",
-      "title": "Rhodes: Private Tour of Jewish Quarter & Grand Master's Palace",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 40,
-      "rating": 4.6,
-      "reviews": 180,
-      "covers_castles": ["palace-of-the-grand-master"]
+      "reviews": 255,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/rhodes-town-l121405/rhodes-palace-of-the-grand-master-ticket-and-audio-guide-t427057/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palace-of-the-grand-master"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

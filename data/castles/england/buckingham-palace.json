@@ -67,10 +67,22 @@
   "instagram_tag": "#buckinghampalace",
   "meta_title": "Buckingham Palace: Tickets, State Rooms & Visitor Guide 2026",
   "meta_description": "Visit Buckingham Palace's State Rooms — open only eight weeks each summer. Tickets, the Changing of the Guard, and a full visitor guide for 2026.",
-  "tags": ["royal-residence", "neoclassical", "london", "seasonal-opening", "ceremonial"],
+  "tags": [
+    "royal-residence",
+    "neoclassical",
+    "london",
+    "seasonal-opening",
+    "ceremonial"
+  ],
   "last_updated": "2026-06-27",
-  "routes": ["english-royal-castles"],
-  "nearby_castles": ["tower-of-london", "windsor-castle", "kensington-palace"],
+  "routes": [
+    "english-royal-castles"
+  ],
+  "nearby_castles": [
+    "tower-of-london",
+    "windsor-castle",
+    "kensington-palace"
+  ],
   "gyg_location_id": "57",
   "gyg_search_query": "Buckingham Palace tour tickets",
   "gyg_widget_type": "activities",
@@ -78,37 +90,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "53844",
-      "url": "https://www.getyourguide.com/london-l57/entrance-ticket-the-state-rooms-buckingham-palace-t53844/",
-      "title": "London: Buckingham Palace State Rooms Timed Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Buckingham Palace: The State Rooms Entrance Ticket",
+      "type": "entry_ticket",
       "duration": "1.5–2 hours",
       "price_from": 44,
       "rating": 4.6,
-      "reviews": 7403,
+      "reviews": 7404,
       "is_top_pick": true,
-      "covers_castles": ["buckingham-palace"]
-    },
-    {
-      "tour_id": "77161",
-      "title": "Buckingham Palace Entry Ticket & Royal Walking Tour",
-      "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 78,
-      "rating": 4.5,
-      "reviews": 1011,
-      "is_top_pick": false,
-      "covers_castles": ["buckingham-palace"]
-    },
-    {
-      "tour_id": "649975",
-      "title": "London: Royal Tour with Buckingham Palace Entry",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 180,
-      "rating": 4.9,
-      "reviews": 14,
-      "is_top_pick": false,
-      "covers_castles": ["buckingham-palace"]
+      "booking_url_override": "https://www.getyourguide.com/london-l57/entrance-ticket-the-state-rooms-buckingham-palace-t53844/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "buckingham-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

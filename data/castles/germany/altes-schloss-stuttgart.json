@@ -67,10 +67,19 @@
   "instagram_tag": "#altesschlossstuttgart",
   "meta_title": "Altes Schloss Stuttgart: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Altes Schloss in Stuttgart — a Renaissance palace housing the Württemberg State Museum, with the Württemberg Crown Jewels and Celtic gold. Guide for 2026.",
-  "tags": ["renaissance", "baden-wurttemberg", "museum", "stuttgart", "crown-jewels"],
+  "tags": [
+    "renaissance",
+    "baden-wurttemberg",
+    "museum",
+    "stuttgart",
+    "crown-jewels"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["heidelberg-castle", "hohenzollern-castle"],
+  "nearby_castles": [
+    "heidelberg-castle",
+    "hohenzollern-castle"
+  ],
   "gyg_location_id": "27",
   "gyg_search_query": "Altes Schloss Stuttgart tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "640080",
-      "title": "Stuttgart: Altes Schloss Museum Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Stuttgart: Landesmuseum Württemberg Old Castle Entry Ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 9,
       "rating": 4.5,
       "reviews": 29,
       "is_top_pick": true,
-      "covers_castles": ["altes-schloss-stuttgart"]
+      "booking_url_override": "https://www.getyourguide.com/stuttgart-l27/stuttgart-landesmuseum-wurttemberg-old-castle-entry-ticket-t640080/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "altes-schloss-stuttgart"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

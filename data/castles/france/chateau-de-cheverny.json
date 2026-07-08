@@ -84,19 +84,21 @@
     "chateau-de-chenonceau",
     "chateau-damboise"
   ],
-  "gyg_location_id": "504",
+  "gyg_location_id": "16",
   "gyg_search_query": "Cheverny Loire Valley tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "10751",
-      "title": "From Paris: Loire Valley Castles Day Trip",
+      "title": "From Paris: Full-Day Loire Valley Chateaux Tour",
       "type": "day_trip",
-      "duration": "12–12.5 hours",
-      "price_from": 110,
-      "rating": 4.5,
-      "reviews": 1353,
+      "duration": "13 hours",
+      "price_from": 123,
+      "rating": 4.4,
+      "reviews": 1409,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/paris-l16/a-day-in-chateaux-country-from-paris-t10751/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chateau-de-chambord",
         "chateau-de-chenonceau",
@@ -104,5 +106,6 @@
         "chateau-de-cheverny"
       ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

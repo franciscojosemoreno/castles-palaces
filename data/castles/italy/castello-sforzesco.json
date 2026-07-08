@@ -70,11 +70,25 @@
   "instagram_tag": "#castelloSforzesco",
   "meta_title": "Sforza Castle Milan: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castello Sforzesco in Milan — Renaissance fortress with Leonardo da Vinci's ceiling and Michelangelo's last sculpture. Book tickets and tours for 2026.",
-  "tags": ["castle", "renaissance", "milan", "leonardo-da-vinci", "michelangelo", "city-centre", "free-entry-courtyard"],
+  "tags": [
+    "castle",
+    "renaissance",
+    "milan",
+    "leonardo-da-vinci",
+    "michelangelo",
+    "city-centre",
+    "free-entry-courtyard"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["scaligero-castle-sirmione", "miramare-castle", "palazzo-pitti", "castello-di-vezio", "castello-di-masino"],
-  "gyg_location_id": "3582",
+  "nearby_castles": [
+    "scaligero-castle-sirmione",
+    "miramare-castle",
+    "palazzo-pitti",
+    "castello-di-vezio",
+    "castello-di-masino"
+  ],
+  "gyg_location_id": "139",
   "gyg_search_query": "Sforza Castle Milan tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -84,10 +98,15 @@
       "title": "Milan: Sforza Castle Entry Ticket with Digital Audio Guide",
       "type": "entry_ticket",
       "duration": "2 hours",
-      "price_from": 15,
-      "rating": 4.5,
-      "reviews": 320,
-      "covers_castles": ["castello-sforzesco"]
+      "price_from": 23,
+      "rating": 4.0,
+      "reviews": 2981,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/milan-l139/milan-sforza-castle-entry-ticket-with-digital-audio-guide-t414400/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-sforzesco"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

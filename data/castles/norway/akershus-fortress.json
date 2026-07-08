@@ -76,30 +76,25 @@
     "kronborg-castle",
     "edinburgh-castle"
   ],
-  "gyg_location_id": "4243",
+  "gyg_location_id": "112477",
   "gyg_search_query": "Akershus Fortress Oslo tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "388792",
-      "title": "Oslo: Self-Guided Mystery Tour at Akershus Fortress",
+      "tour_id": "165248",
+      "title": "From Belfast: Giant’s Causeway and Game of Thrones Day Tour",
       "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 20,
-      "rating": 4.8,
-      "reviews": 454,
-      "covers_castles": ["akershus-fortress"]
-    },
-    {
-      "tour_id": "963511",
-      "title": "Oslo: Old Town Highlights Private Walking Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 55,
+      "duration": "8.5 hours",
+      "price_from": 47,
       "rating": 4.7,
-      "reviews": 90,
-      "covers_castles": ["akershus-fortress"]
+      "reviews": 1545,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/carrickfergus-l112477/giants-causeway-game-of-thrones-location-tour-from-belfast-t165248/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "akershus-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

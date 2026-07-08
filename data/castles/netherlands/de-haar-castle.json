@@ -12,7 +12,7 @@
   "nearest_city": "Utrecht",
   "address": "Kasteellaan 1, 3455 RR Haarzuilens, Netherlands",
   "lat": 52.1167,
-  "lng": 4.8050,
+  "lng": 4.805,
   "unesco": false,
   "year_built": 1892,
   "architectural_style": "Neo-Gothic / Romantic",
@@ -71,54 +71,42 @@
   "instagram_tag": "#kasteelDeHaar",
   "meta_title": "De Haar Castle Netherlands: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit De Haar Castle near Utrecht — the largest castle in the Netherlands, with 200 rooms, 12 towers, and magnificent gardens. Book tickets in advance and plan your day trip from Amsterdam.",
-  "tags": ["castle", "neo-gothic", "moated-castle", "netherlands", "utrecht", "day-trip-from-amsterdam", "gardens", "rothschild"],
+  "tags": [
+    "castle",
+    "neo-gothic",
+    "moated-castle",
+    "netherlands",
+    "utrecht",
+    "day-trip-from-amsterdam",
+    "gardens",
+    "rothschild"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["muiderslot", "royal-palace-amsterdam", "hoensbroek-castle"],
-  "gyg_location_id": "124793",
+  "nearby_castles": [
+    "muiderslot",
+    "royal-palace-amsterdam",
+    "hoensbroek-castle"
+  ],
+  "gyg_location_id": "32279",
   "gyg_search_query": "De Haar Castle Utrecht Netherlands tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "406690",
-      "title": "Utrecht: De Haar Castle & Park Entry Ticket",
+      "title": "Utrecht: De Haar Castle + Gardens Entry Ticket",
       "type": "entry_ticket",
       "duration": "3 hours",
       "price_from": 25,
       "rating": 4.7,
-      "reviews": 2085,
-      "covers_castles": ["de-haar-castle"]
-    },
-    {
-      "tour_id": "406696",
-      "title": "Utrecht: De Haar Castle Park-Only Entry Ticket",
-      "type": "entry_ticket",
-      "duration": "2 hours",
-      "price_from": 9,
-      "rating": 4.5,
-      "reviews": 248,
-      "covers_castles": ["de-haar-castle"]
-    },
-    {
-      "tour_id": "421600",
-      "title": "From Amsterdam: Castle De Haar Half-Day Guided Tour",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 55,
-      "rating": 4.6,
-      "reviews": 318,
-      "covers_castles": ["de-haar-castle"]
-    },
-    {
-      "tour_id": "619388",
-      "title": "From Amsterdam: Muiderslot and De Haar Castle Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 85,
-      "rating": 4.6,
-      "reviews": 168,
-      "covers_castles": ["muiderslot", "de-haar-castle"]
+      "reviews": 2134,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/utrecht-l32279/utrecht-de-haar-castle-park-entry-ticket-t406690/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "de-haar-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

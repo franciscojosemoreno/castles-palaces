@@ -12,7 +12,7 @@
   "nearest_city": "Veliko Tarnovo",
   "address": "Tsarevets Hill, 5000 Veliko Tarnovo, Bulgaria",
   "lat": 43.0839,
-  "lng": 25.6500,
+  "lng": 25.65,
   "unesco": false,
   "year_built": 1185,
   "architectural_style": "Medieval Bulgarian fortification",
@@ -67,11 +67,19 @@
   "instagram_tag": "#tsarevets",
   "meta_title": "Tsarevets Fortress Veliko Tarnovo: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Tsarevets Fortress — capital citadel of the Second Bulgarian Empire, dramatically positioned above a river gorge in Veliko Tarnovo. Sound and Light Show. Complete guide.",
-  "tags": ["medieval", "bulgarian", "dramatic", "sound-and-light", "hilltop"],
+  "tags": [
+    "medieval",
+    "bulgarian",
+    "dramatic",
+    "sound-and-light",
+    "hilltop"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["belogradchik-fortress"],
-  "gyg_location_id": "141231",
+  "nearby_castles": [
+    "belogradchik-fortress"
+  ],
+  "gyg_location_id": "117365",
   "gyg_search_query": "Tsarevets Fortress Veliko Tarnovo tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -80,31 +88,16 @@
       "tour_id": "972756",
       "title": "Veliko Tarnovo: City Monuments Guided Walking Tour",
       "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 20,
+      "duration": "2.5 hours",
+      "price_from": 17,
       "rating": 4.7,
-      "reviews": 180,
-      "covers_castles": ["tsarevets-fortress"]
-    },
-    {
-      "tour_id": "64621",
-      "title": "From Sofia: Veliko Tarnovo & Arbanasi Full Day Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 5,
-      "rating": 4.6,
-      "reviews": 320,
-      "covers_castles": ["tsarevets-fortress"]
-    },
-    {
-      "tour_id": "483049",
-      "title": "From Bucharest: Day Trip to Bulgaria & Veliko Tarnovo",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 5,
-      "rating": 4.5,
-      "reviews": 150,
-      "covers_castles": ["tsarevets-fortress"]
+      "reviews": 7,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/veliko-tarnovo-l117365/veliko-tarnovo-city-monuments-guided-walking-tour-t972756/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "tsarevets-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

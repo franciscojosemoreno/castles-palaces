@@ -71,7 +71,15 @@
   "instagram_tag": "#slotloevestein",
   "meta_title": "Loevestein Castle: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Loevestein Castle in Gelderland — where Hugo Grotius escaped in a chest of books in 1621. Accessible only by ferry. Tickets and visitor guide for 2026.",
-  "tags": ["medieval", "prison", "grotius", "netherlands", "gelderland", "river", "ferry-access"],
+  "tags": [
+    "medieval",
+    "prison",
+    "grotius",
+    "netherlands",
+    "gelderland",
+    "river",
+    "ferry-access"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
   "nearby_castles": [],
@@ -83,13 +91,17 @@
     {
       "tour_id": "437315",
       "title": "Loevestein Castle Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 19,
-      "rating": 4.3,
-      "reviews": 21,
+      "rating": 4.4,
+      "reviews": 22,
       "is_top_pick": true,
-      "covers_castles": ["loevestein-castle"]
+      "booking_url_override": "https://www.getyourguide.com/-s-hertogenbosch-l144968/loevestein-castle-entry-ticket-t437315/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "loevestein-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

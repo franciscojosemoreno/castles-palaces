@@ -67,25 +67,42 @@
   "instagram_tag": "#banosdelaencina",
   "meta_title": "Baños de la Encina Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Baños de la Encina Castle in Jaén — Spain's best-preserved Moorish military fortress, dated by its own 968 AD inscription. Tickets and visitor guide for 2026.",
-  "tags": ["umayyad", "moorish", "andalusia", "jaen", "underrated", "fortress"],
+  "tags": [
+    "umayyad",
+    "moorish",
+    "andalusia",
+    "jaen",
+    "underrated",
+    "fortress"
+  ],
   "last_updated": "2026-06-26",
-  "routes": ["andalucia-palaces"],
-  "nearby_castles": ["alhambra-granada", "alcazaba-de-almeria", "almodovar-castle"],
+  "routes": [
+    "andalucia-palaces"
+  ],
+  "nearby_castles": [
+    "alhambra-granada",
+    "alcazaba-de-almeria",
+    "almodovar-castle"
+  ],
   "gyg_location_id": "178816",
   "gyg_search_query": "Banos de la Encina castle Jaen tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
   "gyg_featured_tours": [
     {
-      "tour_id": "1039248",
-      "title": "Baños de la Encina: Three Monuments Guided Tour",
+      "tour_id": "348236",
+      "title": "Baños de la Encina: Bury al-Hamma Castle Guided Tour",
       "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 16,
-      "rating": null,
-      "reviews": 0,
+      "duration": "45 minutes",
+      "price_from": 7,
+      "rating": 4.8,
+      "reviews": 18,
       "is_top_pick": true,
-      "covers_castles": ["castillo-de-banos-de-la-encina"]
+      "booking_url_override": "https://www.getyourguide.com/banos-de-la-encina-l178816/banos-de-la-encina-bury-al-hamma-castle-guided-tour-t348236/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castillo-de-banos-de-la-encina"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

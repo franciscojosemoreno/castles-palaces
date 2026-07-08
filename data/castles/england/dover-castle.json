@@ -65,11 +65,24 @@
   "instagram_tag": "#dovercastle",
   "meta_title": "Dover Castle: Tickets, Wartime Tunnels & Visitor Guide 2026",
   "meta_description": "Visit Dover Castle — England's greatest fortress with a Norman keep, WWII tunnels & Channel views. Book English Heritage tickets in advance.",
-  "tags": ["medieval", "norman", "fortress", "coastal", "english-castle", "museum", "dramatic", "english-heritage"],
+  "tags": [
+    "medieval",
+    "norman",
+    "fortress",
+    "coastal",
+    "english-castle",
+    "museum",
+    "dramatic",
+    "english-heritage"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["leeds-castle", "tower-of-london", "hever-castle"],
-  "gyg_location_id": "36402",
+  "nearby_castles": [
+    "leeds-castle",
+    "tower-of-london",
+    "hever-castle"
+  ],
+  "gyg_location_id": "34741",
   "gyg_search_query": "Dover Castle tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -79,10 +92,12 @@
       "title": "Dover Castle Admission Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 22,
+      "price_from": 32,
       "rating": 4.7,
-      "reviews": 755,
-      "covers_castles": []
+      "reviews": 789,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/dover-l34741/dover-castle-admission-ticket-t193694/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

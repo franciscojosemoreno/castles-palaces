@@ -83,7 +83,7 @@
     "hohensalzburg-fortress",
     "vajdahunyad-castle"
   ],
-  "gyg_location_id": "3691",
+  "gyg_location_id": "29",
   "gyg_search_query": "Buda Castle Budapest tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -93,40 +93,15 @@
       "title": "Budapest: Buda Castle Walk with Saint Stephen's Hall",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 31,
+      "price_from": 30,
       "rating": 4.6,
-      "reviews": 340,
-      "covers_castles": ["buda-castle"]
-    },
-    {
-      "tour_id": "157275",
-      "title": "Budapest: Buda Castle District Walking Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 22,
-      "rating": 4.5,
-      "reviews": 580,
-      "covers_castles": ["buda-castle"]
-    },
-    {
-      "tour_id": "160547",
-      "title": "Budapest: Historic Buda Castle Walking Tour with Historian",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 25,
-      "rating": 4.7,
-      "reviews": 290,
-      "covers_castles": ["buda-castle"]
-    },
-    {
-      "tour_id": "430961",
-      "title": "Budapest: Guided Walking Tour of the Buda Castle District",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 20,
-      "rating": 4.5,
-      "reviews": 420,
-      "covers_castles": ["buda-castle"]
+      "reviews": 3827,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/budapest-l29/buda-castle-highlights-including-st-stephen-s-hall-t522680/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "buda-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

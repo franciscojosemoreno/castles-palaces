@@ -71,24 +71,37 @@
   "instagram_tag": "#gediminastower",
   "meta_title": "Gediminas Tower, Vilnius — Symbol of Lithuania & Panoramic Old Town Views",
   "meta_description": "Visit Gediminas Tower in Vilnius — Lithuania's national symbol, a medieval hilltop tower with panoramic views over the UNESCO Baroque old town.",
-  "tags": ["medieval", "lithuanian-castle", "vilnius", "gothic", "national-symbol"],
+  "tags": [
+    "medieval",
+    "lithuanian-castle",
+    "vilnius",
+    "gothic",
+    "national-symbol"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["trakai-island-castle"],
-  "gyg_location_id": "86988",
+  "nearby_castles": [
+    "trakai-island-castle"
+  ],
+  "gyg_location_id": "245",
   "gyg_search_query": "Gediminas Tower Vilnius tour Lithuania",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "23778",
-      "title": "Vilnius: City Highlights Walking Tour with Gediminas Castle",
+      "title": "Vilnius: City Highlights Private Walking Tour",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 22,
-      "rating": 4.6,
-      "reviews": 490,
-      "covers_castles": ["gediminas-tower"]
+      "price_from": 464,
+      "rating": 3.7,
+      "reviews": 12,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/vilnius-l245/vilnius-city-highlights-private-walking-tour-t23778/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "gediminas-tower"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

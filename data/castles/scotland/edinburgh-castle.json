@@ -104,44 +104,19 @@
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "156135",
-      "title": "Edinburgh Castle: Guided History Tour with Fast-Track Entry",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 390,
-      "covers_castles": ["edinburgh-castle"]
-    },
-    {
-      "tour_id": "453045",
-      "title": "Edinburgh Castle: A Thousand Years of Majesty Tour with Tickets",
-      "type": "guided_tour",
+      "tour_id": "407882",
+      "title": "Edinburgh Castle: Guided Walking Tour with Entry Ticket",
+      "type": "skip_the_line",
       "duration": "1.5 hours",
       "price_from": 52,
-      "rating": 4.6,
-      "reviews": 250,
-      "covers_castles": ["edinburgh-castle"]
-    },
-    {
-      "tour_id": "1003028",
-      "title": "Edinburgh Castle: Tickets & Tour with Kilted Scottish Guide",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 58,
-      "rating": 4.8,
-      "reviews": 160,
-      "covers_castles": ["edinburgh-castle"]
-    },
-    {
-      "tour_id": "451961",
-      "title": "Edinburgh Castle: 120-Minute In-Depth Guided Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 69,
       "rating": 4.7,
-      "reviews": 210,
-      "covers_castles": ["edinburgh-castle"]
+      "reviews": 13236,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/edinburgh-castle-skip-the-line-guided-walking-tour-t407882/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "edinburgh-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

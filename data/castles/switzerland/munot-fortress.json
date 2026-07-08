@@ -71,44 +71,37 @@
   "instagram_tag": "#munot",
   "meta_title": "Munot Fortress, Schaffhausen — Switzerland's Free Renaissance Circular Bastion",
   "meta_description": "Visit the Munot in Schaffhausen — a unique circular Renaissance fortress with free entry, a spiral ramp, a nightly bell tradition, and views over the Rhine.",
-  "tags": ["renaissance", "swiss-castle", "schaffhausen", "rhine", "circular-bastion"],
+  "tags": [
+    "renaissance",
+    "swiss-castle",
+    "schaffhausen",
+    "rhine",
+    "circular-bastion"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["chateau-de-chillon"],
-  "gyg_location_id": "174149",
+  "nearby_castles": [
+    "chateau-de-chillon"
+  ],
+  "gyg_location_id": "2839",
   "gyg_search_query": "Munot fortress Schaffhausen Rhine Falls Switzerland tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "980715",
-      "title": "Zurich: Half-Day Trip to Rhine Falls & Historic Schaffhausen",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 250,
-      "rating": 5.0,
-      "reviews": 4,
-      "covers_castles": ["munot-fortress"]
-    },
-    {
       "tour_id": "844130",
       "title": "Schaffhausen: Private Express Walk with a Local in 2 hours",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 206,
-      "rating": 4.4,
+      "price_from": 203,
+      "rating": null,
       "reviews": 0,
-      "covers_castles": ["munot-fortress"]
-    },
-    {
-      "tour_id": "1049034",
-      "title": "Private Tour Zurich: Rhine Falls and Stein am Rhein Tour",
-      "type": "guided_tour",
-      "duration": "9 hours",
-      "price_from": 598,
-      "rating": 5.0,
-      "reviews": 0,
-      "covers_castles": ["munot-fortress"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/schaffhausen-l2839/schaffhausen-express-walk-with-a-local-in-60-minutes-t844130/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "munot-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

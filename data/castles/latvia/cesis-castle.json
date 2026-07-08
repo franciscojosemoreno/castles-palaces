@@ -71,11 +71,20 @@
   "instagram_tag": "#cesiscastle",
   "meta_title": "Cēsis Castle, Latvia — Medieval Livonian Fortress with Candlelit Tours",
   "meta_description": "Explore Cēsis Castle in Latvia — a 13th-century Livonian Order fortress with atmospheric ruins, candlelit tours, and a castle history museum.",
-  "tags": ["medieval", "livonian", "latvian-castle", "ruins", "baltic"],
+  "tags": [
+    "medieval",
+    "livonian",
+    "latvian-castle",
+    "ruins",
+    "baltic"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["turaida-castle", "sigulda-castle"],
-  "gyg_location_id": "168419",
+  "nearby_castles": [
+    "turaida-castle",
+    "sigulda-castle"
+  ],
+  "gyg_location_id": "213",
   "gyg_search_query": "Cesis castle Latvia tour from Riga",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +94,15 @@
       "title": "From Riga: Cēsis, Sigulda & Turaida Castle Tour",
       "type": "day_trip",
       "duration": "10 hours",
-      "price_from": 254,
+      "price_from": 251,
       "rating": 5.0,
       "reviews": 42,
-      "covers_castles": ["cesis-castle"]
-    },
-    {
-      "tour_id": "1292644",
-      "title": "From Riga: Sigulda, Cēsis & Turaida Castle, Food Tasting",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 136,
-      "rating": 5.0,
-      "reviews": 18,
-      "covers_castles": ["cesis-castle"]
-    },
-    {
-      "tour_id": "542152",
-      "title": "From Riga: Cesis and Sigulda Day Trip with Hotel Transfers",
-      "type": "day_trip",
-      "duration": "7-8 hours",
-      "price_from": 162,
-      "rating": 4.9,
-      "reviews": 14,
-      "covers_castles": ["cesis-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/riga-l213/daytrip-to-cesis-and-latvian-switzerland-sigulda-city-t20482/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "cesis-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

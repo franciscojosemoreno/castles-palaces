@@ -88,19 +88,21 @@
     "chateau-de-villandry",
     "chateau-d-angers"
   ],
-  "gyg_location_id": "504",
+  "gyg_location_id": "99999",
   "gyg_search_query": "Amboise Loire Valley Leonardo tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "10751",
-      "title": "From Paris: Loire Valley Castles Day Trip",
-      "type": "day_trip",
-      "duration": "12–12.5 hours",
-      "price_from": 110,
-      "rating": 4.5,
-      "reviews": 1353,
+      "tour_id": "441161",
+      "title": "Amboise: Private Guided Tour of the Castle with Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 251,
+      "rating": 5.0,
+      "reviews": 3,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/amboise-l99999/amboise-private-guided-tour-of-the-castle-with-entry-ticket-t441161/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chateau-de-chambord",
         "chateau-de-chenonceau",
@@ -108,5 +110,6 @@
         "chateau-de-cheverny"
       ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

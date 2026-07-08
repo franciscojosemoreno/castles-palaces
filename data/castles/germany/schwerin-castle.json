@@ -66,34 +66,42 @@
   "instagram_tag": "#schwerinerSchloss",
   "meta_title": "Schwerin Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Schwerin Castle, Germany's fairy-tale island palace on Lake Schwerin. Plan your day trip from Hamburg and discover the Versailles of the North.",
-  "tags": ["palace", "island-castle", "19th-century", "historicism", "day-trip-from-hamburg", "lake-view", "north-germany"],
+  "tags": [
+    "palace",
+    "island-castle",
+    "19th-century",
+    "historicism",
+    "day-trip-from-hamburg",
+    "lake-view",
+    "north-germany"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["wartburg-castle", "moritzburg-castle", "rheinsberg-palace", "wesenberg-castle"],
-  "gyg_location_id": "150311",
+  "nearby_castles": [
+    "wartburg-castle",
+    "moritzburg-castle",
+    "rheinsberg-palace",
+    "wesenberg-castle"
+  ],
+  "gyg_location_id": "1558",
   "gyg_search_query": "Schwerin Castle tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "389581",
-      "title": "From Rostock: Day Trip to Schwerin Castle with Guided Tour",
+      "tour_id": "914953",
+      "title": "Schwerin: Express Walk with a Local",
       "type": "day_trip",
-      "duration": "5 hours",
-      "price_from": 295,
+      "duration": "1 - 2 hours",
+      "price_from": 90,
       "rating": 4.5,
-      "reviews": 120,
-      "covers_castles": ["schwerin-castle"]
-    },
-    {
-      "tour_id": "389582",
-      "title": "From Lübeck: Trip to Schwerin Castle and Guided Tour",
-      "type": "day_trip",
-      "duration": "4 hours",
-      "price_from": 150,
-      "rating": 4.5,
-      "reviews": 85,
-      "covers_castles": ["schwerin-castle"]
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/schwerin-l1558/schwerin-express-walk-with-a-local-t914953/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "schwerin-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

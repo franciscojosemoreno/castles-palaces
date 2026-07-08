@@ -66,44 +66,44 @@
   "instagram_tag": "#montjuiccastle",
   "meta_title": "Montjuïc Castle Barcelona: Tickets, Views & Visitor Guide 2026",
   "meta_description": "Visit Montjuïc Castle in Barcelona — a 17th-century star fortress with panoramic city views and a moving history. Tickets and travel guide for 2026.",
-  "tags": ["baroque", "fortress", "city-centre", "instagram-worthy", "views", "barcelona", "panoramic", "military", "hilltop", "family-friendly"],
+  "tags": [
+    "baroque",
+    "fortress",
+    "city-centre",
+    "instagram-worthy",
+    "views",
+    "barcelona",
+    "panoramic",
+    "military",
+    "hilltop",
+    "family-friendly"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["alhambra-granada", "alcazar-seville", "alcazar-of-segovia"],
-  "gyg_location_id": "3057",
+  "nearby_castles": [
+    "alhambra-granada",
+    "alcazar-seville",
+    "alcazar-of-segovia"
+  ],
+  "gyg_location_id": "45",
   "gyg_search_query": "Montjuic Castle Barcelona tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "519684",
-      "title": "Barcelona: Skip-the-Line Montjuïc Castle Tour with Cable Car",
-      "type": "skip_the_line",
-      "duration": "2.5 hours",
-      "price_from": 38,
-      "rating": 4.6,
-      "reviews": 420,
-      "covers_castles": ["montjuic-castle"]
-    },
-    {
       "tour_id": "254712",
-      "title": "Barcelona: Walking Tour with Montjuïc Castle & Cable Car",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 25,
-      "rating": 4.5,
-      "reviews": 280,
-      "covers_castles": ["montjuic-castle"]
-    },
-    {
-      "tour_id": "23477",
-      "title": "Barcelona: Montjuïc Cable Car Roundtrip Ticket",
-      "type": "entry_ticket",
-      "duration": "Self-guided",
-      "price_from": 15,
-      "rating": 4.3,
-      "reviews": 1100,
-      "covers_castles": ["montjuic-castle"]
+      "title": "Barcelona: Walking tour with Montjuic Castle & Cable Car",
+      "type": "skip_the_line",
+      "duration": "3.5 hours",
+      "price_from": 62,
+      "rating": 4.7,
+      "reviews": 1012,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/barcelona-l45/barcelona-walking-tour-with-montjuic-castle-cable-car-t254712/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "montjuic-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

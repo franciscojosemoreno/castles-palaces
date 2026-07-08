@@ -71,11 +71,25 @@
   "instagram_tag": "#velikTabor",
   "meta_title": "Veliki Tabor Castle Croatia: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Veliki Tabor Castle — Croatia's best-preserved medieval fortress in the Zagorje hills, with the legend of Veronika of Desinić. Plan your day trip from Zagreb.",
-  "tags": ["castle", "gothic", "renaissance", "zagorje", "croatia", "day-trip-from-zagreb", "medieval", "legend", "hilltop-castle"],
+  "tags": [
+    "castle",
+    "gothic",
+    "renaissance",
+    "zagorje",
+    "croatia",
+    "day-trip-from-zagreb",
+    "medieval",
+    "legend",
+    "hilltop-castle"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["trakoscan-castle", "klis-fortress", "lovrijenac"],
-  "gyg_location_id": "179056",
+  "nearby_castles": [
+    "trakoscan-castle",
+    "klis-fortress",
+    "lovrijenac"
+  ],
+  "gyg_location_id": "166339",
   "gyg_search_query": "Veliki Tabor Castle Zagreb Croatia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +99,15 @@
       "title": "Veliki Tabor Castle, Kumrovec Museum with Wine Tasting",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 203,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["veliki-tabor"]
-    },
-    {
-      "tour_id": "176385",
-      "title": "Zagorje: Full-Day Custom Tour from Zagreb",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 214,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["veliki-tabor", "trakoscan-castle"]
-    },
-    {
-      "tour_id": "1270954",
-      "title": "Zagorje Heritage & Castle Tour",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 128,
+      "price_from": 200,
       "rating": null,
-      "reviews": 0,
-      "covers_castles": ["veliki-tabor"]
+      "reviews": 1,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/krapina-zagorje-county-l166339/veliki-tabor-castle-kumrovec-museum-with-wine-tasting-t522426/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "veliki-tabor"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -77,7 +77,7 @@
     "caernarfon-castle",
     "edinburgh-castle"
   ],
-  "gyg_location_id": "128623",
+  "gyg_location_id": "110317",
   "gyg_search_query": "Conwy Castle tour North Wales",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -88,29 +88,14 @@
       "type": "guided_tour",
       "duration": "1 hour",
       "price_from": 48,
-      "rating": 4.7,
-      "reviews": 180,
-      "covers_castles": ["conwy-castle"]
-    },
-    {
-      "tour_id": "273092",
-      "title": "From Chester: Full-Day Guided North Wales Sightseeing Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 65,
-      "rating": 4.6,
-      "reviews": 310,
-      "covers_castles": ["conwy-castle"]
-    },
-    {
-      "tour_id": "342726",
-      "title": "From Liverpool: North Wales Sightseeing Shore Excursion",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 55,
-      "rating": 4.5,
-      "reviews": 245,
-      "covers_castles": ["conwy-castle"]
+      "rating": 4.9,
+      "reviews": 8,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/conwy-l110317/conwy-conwy-castle-guided-tour-t1186945/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "conwy-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

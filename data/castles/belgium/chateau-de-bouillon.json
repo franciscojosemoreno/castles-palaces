@@ -71,24 +71,38 @@
   "instagram_tag": "#chateaudebouillon",
   "meta_title": "Bouillon Castle, Belgium — Home of the First Crusade's Leader in the Ardennes",
   "meta_description": "Visit Château de Bouillon in the Belgian Ardennes — the medieval castle of Godfrey of Bouillon, leader of the First Crusade, wrapped around a Semois river loop.",
-  "tags": ["medieval", "belgian-castle", "ardennes", "crusades", "godfrey-of-bouillon"],
+  "tags": [
+    "medieval",
+    "belgian-castle",
+    "ardennes",
+    "crusades",
+    "godfrey-of-bouillon"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["namur-citadel"],
-  "gyg_location_id": "224826",
+  "nearby_castles": [
+    "namur-citadel"
+  ],
+  "gyg_location_id": "157376",
   "gyg_search_query": "Bouillon Castle Belgium Ardennes tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "881951",
-      "title": "From Brussels: Namur, Huy, Bouillon & Dinant Day Trip",
+      "title": "From Brussels: Dinant and Namur Private Day Trip",
       "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 75,
-      "rating": 4.5,
-      "reviews": 87,
-      "covers_castles": ["chateau-de-bouillon", "namur-citadel"]
+      "duration": "10 hours",
+      "price_from": 1027,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/huy-l157376/from-brussels-namur-huy-bouillon-and-dinant-day-trip-t881951/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-bouillon",
+        "namur-citadel"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

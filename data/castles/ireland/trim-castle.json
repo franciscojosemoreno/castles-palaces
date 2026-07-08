@@ -11,8 +11,8 @@
   "region": "County Meath",
   "nearest_city": "Dublin",
   "address": "Castle Street, Trim, Co. Meath, Ireland",
-  "lat": 53.5540,
-  "lng": -6.7900,
+  "lat": 53.554,
+  "lng": -6.79,
   "unesco": false,
   "year_built": 1173,
   "architectural_style": "Norman Medieval",
@@ -71,11 +71,24 @@
   "instagram_tag": "#trimCastle",
   "meta_title": "Trim Castle Ireland: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Trim Castle — Ireland's largest Norman fortress on the River Boyne. Book tickets, plan your day trip from Dublin, and discover the Braveheart filming location.",
-  "tags": ["castle", "norman", "medieval", "braveheart", "county-meath", "day-trip-from-dublin", "boyne-valley"],
+  "tags": [
+    "castle",
+    "norman",
+    "medieval",
+    "braveheart",
+    "county-meath",
+    "day-trip-from-dublin",
+    "boyne-valley"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["kilkenny-castle", "blarney-castle", "rock-of-cashel", "russborough-house"],
-  "gyg_location_id": "89964",
+  "nearby_castles": [
+    "kilkenny-castle",
+    "blarney-castle",
+    "rock-of-cashel",
+    "russborough-house"
+  ],
+  "gyg_location_id": "31",
   "gyg_search_query": "Trim Castle Ireland tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,10 +98,15 @@
       "title": "Dublin: Private Boyne Valley and Trim Castle Day Tour",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 85,
-      "rating": 4.8,
-      "reviews": 120,
-      "covers_castles": ["trim-castle"]
+      "price_from": 787,
+      "rating": 5.0,
+      "reviews": 8,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/dublin-l31/dublin-private-boyne-valley-and-trim-castle-day-tour-t178556/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "trim-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

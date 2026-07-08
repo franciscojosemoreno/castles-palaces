@@ -70,54 +70,41 @@
   "instagram_tag": "#vauxLeVicomte",
   "meta_title": "Château de Vaux-le-Vicomte: Tickets, Candlelit Visits & Guide 2026",
   "meta_description": "Visit Vaux-le-Vicomte near Paris — the baroque château that inspired Versailles, with Saturday evening candlelit visits and Le Nôtre's formal gardens.",
-  "tags": ["palace", "baroque", "17th-century", "day-trip-from-paris", "ile-de-france", "candlelit-visits", "le-notre"],
+  "tags": [
+    "palace",
+    "baroque",
+    "17th-century",
+    "day-trip-from-paris",
+    "ile-de-france",
+    "candlelit-visits",
+    "le-notre"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau", "chateau-de-chantilly"],
-  "gyg_location_id": "5061",
+  "nearby_castles": [
+    "palace-of-versailles",
+    "chateau-de-fontainebleau",
+    "chateau-de-chantilly"
+  ],
+  "gyg_location_id": "16",
   "gyg_search_query": "Vaux-le-Vicomte château tour Paris",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "153429",
-      "title": "Vaux-le-Vicomte: Chateau Entry Ticket with Chateaubus Transfer",
-      "type": "entry_ticket",
-      "duration": "5 hours",
-      "price_from": 38,
-      "rating": 4.5,
-      "reviews": 380,
-      "covers_castles": ["chateau-de-vaux-le-vicomte"]
-    },
-    {
       "tour_id": "53754",
-      "title": "From Paris: Fontainebleau & Vaux-le-Vicomte Day Tour",
+      "title": "Fontainebleau & Vaux-le-Vicomte Châteaux Day Tour from Paris",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 115,
-      "rating": 4.6,
-      "reviews": 420,
-      "covers_castles": ["chateau-de-vaux-le-vicomte"]
-    },
-    {
-      "tour_id": "131949",
-      "title": "From Paris: Chateau de Fontainebleau & Vaux-Le-Vicomte Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 95,
+      "price_from": 96,
       "rating": 4.5,
-      "reviews": 280,
-      "covers_castles": ["chateau-de-vaux-le-vicomte"]
-    },
-    {
-      "tour_id": "874720",
-      "title": "Paris: Vaux-le-Vicomte Private Guided Tour",
-      "type": "guided_tour",
-      "duration": "5 hours",
-      "price_from": 120,
-      "rating": 4.7,
-      "reviews": 95,
-      "covers_castles": ["chateau-de-vaux-le-vicomte"]
+      "reviews": 530,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/paris-l16/fontainebleau-and-vaux-le-vicomte-chateaux-day-trip-t53754/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-vaux-le-vicomte"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

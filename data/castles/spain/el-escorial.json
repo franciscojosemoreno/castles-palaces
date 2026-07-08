@@ -91,31 +91,30 @@
   ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["palacio-real-madrid", "alcazar-of-segovia", "manzanares-el-real-castle"],
-  "gyg_location_id": "1709",
+  "nearby_castles": [
+    "palacio-real-madrid",
+    "alcazar-of-segovia",
+    "manzanares-el-real-castle"
+  ],
+  "gyg_location_id": "144202",
   "gyg_search_query": "El Escorial monastery tour from Madrid",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "409590",
-      "title": "From Madrid: Escorial Monastery and the Valley of the Fallen",
-      "type": "day_trip",
-      "duration": "5.5 hours",
-      "price_from": 71,
-      "rating": 4.6,
-      "reviews": 1614,
-      "covers_castles": ["el-escorial"]
-    },
-    {
-      "tour_id": "44414",
-      "title": "From Madrid: El Escorial and Valley's Basilica Half Day Tour",
-      "type": "day_trip",
-      "duration": "5 hours",
-      "price_from": 76,
-      "rating": 4.4,
-      "reviews": 658,
-      "covers_castles": ["el-escorial"]
+      "tour_id": "413124",
+      "title": "Royal Site of San Lorenzo de El Escorial Entrance Ticket",
+      "type": "entry_ticket",
+      "duration": "1 day",
+      "price_from": 21,
+      "rating": 4.5,
+      "reviews": 288,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/san-lorenzo-de-el-escorial-l144202/royal-site-of-san-lorenzo-de-el-escorial-entrance-ticket-t413124/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "el-escorial"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -98,50 +98,25 @@
     "alcazaba-de-almeria",
     "castillo-de-banos-de-la-encina"
   ],
-  "gyg_location_id": "2772",
+  "gyg_location_id": "207",
   "gyg_search_query": "Alhambra Granada tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "54011",
-      "title": "Granada: Alhambra & Nasrid Palaces Guided Tour with Tickets",
+      "tour_id": "75398",
+      "title": "Granada: Alhambra and Nasrid Palaces Entry Ticket",
       "type": "skip_the_line",
       "duration": "3 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 3200,
-      "covers_castles": ["alhambra-granada"]
-    },
-    {
-      "tour_id": "48872",
-      "title": "Granada: Alhambra & Generalife Fast-Track Guided Tour",
-      "type": "skip_the_line",
-      "duration": "3 hours",
-      "price_from": 45,
+      "price_from": 32,
       "rating": 4.6,
-      "reviews": 2800,
-      "covers_castles": ["alhambra-granada"]
-    },
-    {
-      "tour_id": "171748",
-      "title": "Granada: Alhambra Gardens and Generalife Entry Ticket",
-      "type": "entry_ticket",
-      "duration": "Self-guided",
-      "price_from": 22,
-      "rating": 4.3,
-      "reviews": 850,
-      "covers_castles": ["alhambra-granada"]
-    },
-    {
-      "tour_id": "51201",
-      "title": "Granada: Alhambra Fast-Track Ticket and Guided Tour by Night",
-      "type": "skip_the_line",
-      "duration": "2 hours",
-      "price_from": 38,
-      "rating": 4.6,
-      "reviews": 420,
-      "covers_castles": ["alhambra-granada"]
+      "reviews": 16632,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/granada-l207/alhambra-general-with-nasrid-palaces-ticket-t75398/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alhambra-granada"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

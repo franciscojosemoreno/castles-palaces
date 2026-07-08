@@ -12,7 +12,7 @@
   "nearest_city": "Ayr",
   "address": "Maybole, South Ayrshire, KA19 8LE, Scotland",
   "lat": 55.3508,
-  "lng": -4.7950,
+  "lng": -4.795,
   "unesco": false,
   "year_built": 1777,
   "architectural_style": "Neoclassical and Gothic Revival by Robert Adam — round towers, dramatic cliff-top profile, and refined Georgian interiors",
@@ -75,24 +75,42 @@
   "instagram_tag": "culzeancastle",
   "meta_title": "Culzean Castle: Tickets, Tours & Visitor Guide (2026)",
   "meta_description": "Visit Culzean Castle in South Ayrshire — Robert Adam's clifftop masterpiece with sweeping Firth of Clyde views, elegant interiors, and 560 acres of country park.",
-  "tags": ["scotland", "ayrshire", "robert-adam", "neoclassical", "coastal", "nts", "country-park", "eisenhower"],
+  "tags": [
+    "scotland",
+    "ayrshire",
+    "robert-adam",
+    "neoclassical",
+    "coastal",
+    "nts",
+    "country-park",
+    "eisenhower"
+  ],
   "last_updated": "2026-06-23",
   "routes": [],
-  "nearby_castles": ["inveraray-castle", "stirling-castle", "doune-castle"],
-  "gyg_location_id": "91609",
+  "nearby_castles": [
+    "inveraray-castle",
+    "stirling-castle",
+    "doune-castle"
+  ],
+  "gyg_location_id": "438",
   "gyg_search_query": "Culzean Castle tour Ayrshire Scotland",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [
     {
       "tour_id": "12623",
-      "title": "Glasgow: Culzean Castle, Robert Burns Country & the Ayrshire Coast",
+      "title": "Culzean Castle, Robert Burns Country & the Ayrshire Coast",
       "type": "day_trip",
       "duration": "1 day",
-      "price_from": 126,
-      "rating": 4.7,
+      "price_from": 127,
+      "rating": 4.8,
       "reviews": 72,
-      "covers_castles": ["culzean-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/glasgow-l438/culzean-castle-burns-country-and-the-ayrshire-coast-t12623/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "culzean-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

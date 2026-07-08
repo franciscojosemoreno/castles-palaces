@@ -67,7 +67,15 @@
   "instagram_tag": "#kasteelhelmond",
   "meta_title": "Castle Helmond: Museum & Visitor Guide 2026",
   "meta_description": "Visit Castle Helmond — one of the Netherlands' best-preserved moated castles, housing Museum Helmond with Lucas Gassel works. Fully accessible. Open Tue–Sun.",
-  "tags": ["moated-castle", "museum", "lucas-gassel", "north-brabant", "netherlands", "medieval", "accessible"],
+  "tags": [
+    "moated-castle",
+    "museum",
+    "lucas-gassel",
+    "north-brabant",
+    "netherlands",
+    "medieval",
+    "accessible"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -79,13 +87,17 @@
     {
       "tour_id": "1055182",
       "title": "Helmond: Castle Helmond Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1–2 hours",
       "price_from": 14,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["castle-helmond"]
+      "booking_url_override": "https://www.getyourguide.com/helmond-l156071/helmond-castle-helmond-entry-ticket-t1055182/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castle-helmond"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

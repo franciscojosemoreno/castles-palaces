@@ -11,7 +11,7 @@
   "region": "Northumberland",
   "nearest_city": "Newcastle upon Tyne",
   "address": "Bamburgh, Northumberland, NE69 7DF, England",
-  "lat": 55.6090,
+  "lat": 55.609,
   "lng": -1.7099,
   "unesco": false,
   "year_built": 547,
@@ -71,11 +71,19 @@
   "instagram_tag": "#bamburghcastle",
   "meta_title": "Bamburgh Castle, Northumberland — England's Most Dramatic Coastal Fortress",
   "meta_description": "Visit Bamburgh Castle on the Northumberland coast — an iconic Norman fortress rising from the sea with armour collections, coast views, and Farne Island trips nearby.",
-  "tags": ["norman", "english-castle", "northumberland", "coastal", "medieval"],
+  "tags": [
+    "norman",
+    "english-castle",
+    "northumberland",
+    "coastal",
+    "medieval"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["alnwick-castle"],
-  "gyg_location_id": "141926",
+  "nearby_castles": [
+    "alnwick-castle"
+  ],
+  "gyg_location_id": "44",
   "gyg_search_query": "Bamburgh Castle Northumberland tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -87,38 +95,14 @@
       "duration": "8.5 hours",
       "price_from": 73,
       "rating": 4.7,
-      "reviews": 264,
-      "covers_castles": ["bamburgh-castle", "alnwick-castle"]
-    },
-    {
-      "tour_id": "682092",
-      "title": "Edinburgh: Bamburgh Castle, Northumberland & Alnwick Trip",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 85,
-      "rating": 4.5,
-      "reviews": 180,
-      "covers_castles": ["bamburgh-castle", "alnwick-castle"]
-    },
-    {
-      "tour_id": "426634",
-      "title": "From Newcastle: Bamburgh Castle & Anglo-Saxon Kings Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 65,
-      "rating": 4.6,
-      "reviews": 145,
-      "covers_castles": ["bamburgh-castle"]
-    },
-    {
-      "tour_id": "409234",
-      "title": "Northumberland: Private Bamburgh and Lindisfarne Guided Tour",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 120,
-      "rating": 4.8,
-      "reviews": 85,
-      "covers_castles": ["bamburgh-castle"]
+      "reviews": 279,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/from-edinburgh-castles-and-broomsticks-tour-t435550/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bamburgh-castle",
+        "alnwick-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

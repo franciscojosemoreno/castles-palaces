@@ -67,10 +67,20 @@
   "instagram_tag": "#schlossrheinsberg",
   "meta_title": "Rheinsberg Palace: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Rheinsberg Palace in Brandenburg — Frederick the Great's happiest residence and the design rehearsal for Sanssouci. Tickets and visitor guide for 2026.",
-  "tags": ["rococo", "frederick-the-great", "brandenburg", "lake-view", "tucholsky", "day-trip-from-berlin"],
+  "tags": [
+    "rococo",
+    "frederick-the-great",
+    "brandenburg",
+    "lake-view",
+    "tucholsky",
+    "day-trip-from-berlin"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["sanssouci-palace", "schwerin-castle"],
+  "nearby_castles": [
+    "sanssouci-palace",
+    "schwerin-castle"
+  ],
   "gyg_location_id": "17",
   "gyg_search_query": "Rheinsberg Palace Brandenburg tour",
   "gyg_widget_type": "activities",
@@ -79,13 +89,17 @@
     {
       "tour_id": "560751",
       "title": "Berlin: Rheinsberg Palace Entrance Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 16,
       "rating": 4.7,
-      "reviews": 20,
+      "reviews": 22,
       "is_top_pick": true,
-      "covers_castles": ["rheinsberg-palace"]
+      "booking_url_override": "https://www.getyourguide.com/berlin-l17/berlin-rheinsberg-palace-entrance-ticket-t560751/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "rheinsberg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

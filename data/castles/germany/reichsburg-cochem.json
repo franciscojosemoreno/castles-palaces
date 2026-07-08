@@ -66,34 +66,41 @@
   "instagram_tag": "#reichsburgCochem",
   "meta_title": "Cochem Castle (Reichsburg): Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Reichsburg Cochem above the Moselle River. Book guided tours and plan your day trip from Koblenz or Trier — one of Germany's most beautiful wine-country castles.",
-  "tags": ["medieval", "rhineland", "river-castle", "wine-country", "guided-tour-only", "moselle", "day-trip"],
+  "tags": [
+    "medieval",
+    "rhineland",
+    "river-castle",
+    "wine-country",
+    "guided-tour-only",
+    "moselle",
+    "day-trip"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["eltz-castle", "stahleck-castle", "marksburg-castle"],
-  "gyg_location_id": "174056",
+  "nearby_castles": [
+    "eltz-castle",
+    "stahleck-castle",
+    "marksburg-castle"
+  ],
+  "gyg_location_id": "173333",
   "gyg_search_query": "Cochem Castle Reichsburg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "808785",
-      "title": "Cochem: Castle, Moselle Boat Cruise and Wine Tour",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 87,
-      "rating": 4.7,
-      "reviews": 310,
-      "covers_castles": ["reichsburg-cochem"]
-    },
-    {
-      "tour_id": "426641",
-      "title": "Cochem: KD Panoramic Evening Cruise on the Moselle River",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 16,
-      "rating": 4.5,
-      "reviews": 190,
-      "covers_castles": ["reichsburg-cochem"]
+      "title": "Cochem, Moselle: Castle, Boat, and Wine Tour",
+      "type": "boat_tour",
+      "duration": "6 hours",
+      "price_from": 86,
+      "rating": 3.7,
+      "reviews": 117,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cochem-l173333/cochem-moselle-castle-boat-and-wine-tour-t808785/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "reichsburg-cochem"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

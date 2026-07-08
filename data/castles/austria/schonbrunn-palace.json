@@ -94,20 +94,22 @@
     "belvedere-palace",
     "hofburg-palace"
   ],
-  "gyg_location_id": "97",
+  "gyg_location_id": "7",
   "gyg_search_query": "Schönbrunn Palace Vienna tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "471518",
-      "title": "Vienna: Schönbrunn Palace Skip-the-Line Tour",
+      "title": "Vienna: Skip-the-Line Schönbrunn Palace & Gardens Tour",
       "type": "skip_the_line",
-      "duration": "1–2.5 hours",
+      "duration": "1 - 2.5 hours",
       "price_from": 18,
       "rating": 4.8,
-      "reviews": 6310,
-      "covers_castles": []
+      "reviews": 6945,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/vienna-l7/vienna-skip-the-line-schonbrunn-palace-and-gardens-tour-t471518/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

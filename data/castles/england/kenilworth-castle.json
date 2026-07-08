@@ -67,10 +67,20 @@
   "instagram_tag": "#kenilworthcastle",
   "meta_title": "Kenilworth Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Kenilworth Castle in Warwickshire — once the largest castle complex in England, with the reconstructed Elizabethan garden of Robert Dudley. Guide for 2026.",
-  "tags": ["medieval", "ruins", "warwickshire", "elizabethan", "english-heritage", "siege"],
+  "tags": [
+    "medieval",
+    "ruins",
+    "warwickshire",
+    "elizabethan",
+    "english-heritage",
+    "siege"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["warwick-castle", "belvoir-castle"],
+  "nearby_castles": [
+    "warwick-castle",
+    "belvoir-castle"
+  ],
   "gyg_location_id": "152227",
   "gyg_search_query": "Kenilworth Castle Warwickshire tour",
   "gyg_widget_type": "activities",
@@ -78,14 +88,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "397551",
-      "title": "Kenilworth Castle & Elizabethan Garden: Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Kenilworth Castle and Elizabethan Garden Entry Ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 18,
       "rating": 4.8,
       "reviews": 101,
       "is_top_pick": true,
-      "covers_castles": ["kenilworth-castle"]
+      "booking_url_override": "https://www.getyourguide.com/kenilworth-l152227/kenilworth-castle-and-elizabethan-garden-entry-ticket-t397551/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "kenilworth-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -70,24 +70,42 @@
   "instagram_tag": "#castelloAragonese",
   "meta_title": "Aragonese Castle Ischia: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castello Aragonese d'Ischia — a 2,500-year-old volcanic island fortress in the Bay of Naples with extraordinary ossuary and panoramic views.",
-  "tags": ["medieval", "island-castle", "bay-of-naples", "campania", "ossuary", "volcanic", "sea-view", "instagram-worthy"],
+  "tags": [
+    "medieval",
+    "island-castle",
+    "bay-of-naples",
+    "campania",
+    "ossuary",
+    "volcanic",
+    "sea-view",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["castel-santangelo", "royal-palace-of-caserta", "castel-santelmo"],
-  "gyg_location_id": "161516",
+  "nearby_castles": [
+    "castel-santangelo",
+    "royal-palace-of-caserta",
+    "castel-santelmo"
+  ],
+  "gyg_location_id": "114892",
   "gyg_search_query": "Aragonese Castle Ischia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "498634",
-      "title": "Aragonese Castle on the Island of Ischia",
+      "tour_id": "942455",
+      "title": "Ischia/Forio: Visit the Aragonese Castle + Borgo di Celsa",
       "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 59,
-      "rating": 4.4,
-      "reviews": 9,
-      "covers_castles": ["aragonese-castle-ischia"]
+      "duration": "3 hours",
+      "price_from": 46,
+      "rating": 4.7,
+      "reviews": 23,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/ischia-l114892/ischiaforio-visit-the-aragonese-castle-borgo-di-celsa-t942455/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "aragonese-castle-ischia"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

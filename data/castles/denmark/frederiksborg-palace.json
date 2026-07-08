@@ -12,7 +12,7 @@
   "nearest_city": "Copenhagen",
   "address": "Frederiksborg Slot, 3400 Hillerød, Denmark",
   "lat": 55.9349,
-  "lng": 12.2990,
+  "lng": 12.299,
   "unesco": false,
   "year_built": 1620,
   "architectural_style": "Dutch Renaissance",
@@ -67,11 +67,22 @@
   "instagram_tag": "#frederiksborg",
   "meta_title": "Frederiksborg Palace: Tickets, Museum & Visitor Guide 2026",
   "meta_description": "Visit Frederiksborg Palace in Hillerød — Denmark's grandest Renaissance royal palace, home of the Museum of National History. Day trip from Copenhagen. Complete visitor guide.",
-  "tags": ["renaissance", "palace", "baroque-garden", "museum", "denmark"],
+  "tags": [
+    "renaissance",
+    "palace",
+    "baroque-garden",
+    "museum",
+    "denmark"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["kronborg-castle", "rosenborg-castle", "christiansborg-palace", "amalienborg-palace"],
-  "gyg_location_id": "1956",
+  "nearby_castles": [
+    "kronborg-castle",
+    "rosenborg-castle",
+    "christiansborg-palace",
+    "amalienborg-palace"
+  ],
+  "gyg_location_id": "1957",
   "gyg_search_query": "Frederiksborg Palace Hillerød tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -82,39 +93,14 @@
       "type": "entry_ticket",
       "duration": "Full day",
       "price_from": 19,
-      "rating": 4.8,
-      "reviews": 228,
-      "covers_castles": ["frederiksborg-palace"]
-    },
-    {
-      "tour_id": "38371",
-      "title": "Copenhagen: Kronborg, Frederiksborg Castle and Roskilde Tour",
-      "type": "day_trip",
-      "duration": "8.5 hours",
-      "price_from": 214,
-      "rating": 4.9,
-      "reviews": 1967,
-      "covers_castles": ["kronborg-castle", "frederiksborg-palace"]
-    },
-    {
-      "tour_id": "132540",
-      "title": "From Copenhagen: Private Frederiksborg Castle Tour",
-      "type": "guided_tour",
-      "duration": "5 hours",
-      "price_from": 85,
       "rating": 4.7,
-      "reviews": 150,
-      "covers_castles": ["frederiksborg-palace"]
-    },
-    {
-      "tour_id": "685174",
-      "title": "Easy Pace Tour: Kronborg Castle and Frederiksborg Palace",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 185,
-      "covers_castles": ["kronborg-castle", "frederiksborg-palace"]
+      "reviews": 237,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/hillerod-l1957/hillerod-frederiksborg-castle-entry-ticket-t791446/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "frederiksborg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

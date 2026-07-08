@@ -71,10 +71,22 @@
   "instagram_tag": "#alcazarcordoba",
   "meta_title": "Alcázar of the Christian Monarchs, Córdoba: Tickets & Guide 2026",
   "meta_description": "Visit the Alcázar de los Reyes Cristianos in Córdoba — where Columbus first proposed his voyage, Ferdinand and Isabella directed the Reconquista, and the Inquisition held court.",
-  "tags": ["reconquista", "umayyad", "columbus", "inquisition", "unesco", "gardens", "andalusia"],
+  "tags": [
+    "reconquista",
+    "umayyad",
+    "columbus",
+    "inquisition",
+    "unesco",
+    "gardens",
+    "andalusia"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": ["alcazar-of-segovia", "alcazar-de-toledo", "alcazar-seville"],
+  "nearby_castles": [
+    "alcazar-of-segovia",
+    "alcazar-de-toledo",
+    "alcazar-seville"
+  ],
   "gyg_location_id": "1689",
   "gyg_search_query": "Alcázar Córdoba Catholic Monarchs guided tour",
   "gyg_widget_type": "activities",
@@ -84,12 +96,16 @@
       "tour_id": "52706",
       "title": "Cordóba: Gardens & Fortress of Catholic Monarchs Guided Tour",
       "type": "guided_tour",
-      "duration": "1-1.5 hours",
+      "duration": "1 hour",
       "price_from": 29,
       "rating": 4.3,
       "reviews": 336,
       "is_top_pick": true,
-      "covers_castles": ["alcazar-de-los-reyes-cristianos"]
+      "booking_url_override": "https://www.getyourguide.com/cordoba-l1689/fortress-of-catholic-monarchs-15-hour-history-tour-t52706/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alcazar-de-los-reyes-cristianos"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

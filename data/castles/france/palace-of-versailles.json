@@ -100,50 +100,25 @@
     "chateau-de-rambouillet",
     "chateau-de-vincennes"
   ],
-  "gyg_location_id": "317",
+  "gyg_location_id": "16",
   "gyg_search_query": "Palace of Versailles tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "59565",
-      "title": "Versailles: Palace and Gardens Full Access Ticket",
+      "title": "Paris: Versailles Palace and Gardens Full Access Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 25,
-      "rating": 4.4,
-      "reviews": 2480,
-      "covers_castles": ["palace-of-versailles"]
-    },
-    {
-      "tour_id": "406592",
-      "title": "Versailles: Palace Guided Tour with Skip-the-Line Ticket",
-      "type": "skip_the_line",
-      "duration": "2 hours",
-      "price_from": 79,
+      "price_from": 29,
       "rating": 4.6,
-      "reviews": 580,
-      "covers_castles": ["palace-of-versailles"]
-    },
-    {
-      "tour_id": "819095",
-      "title": "Versailles: Palace & Gardens Guided Tour with Entry Tickets",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 85,
-      "rating": 4.7,
-      "reviews": 430,
-      "covers_castles": ["palace-of-versailles"]
-    },
-    {
-      "tour_id": "398194",
-      "title": "Versailles: Skip-the-Line Palace and Gardens Access Tour",
-      "type": "skip_the_line",
-      "duration": "2.5 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 380,
-      "covers_castles": ["palace-of-versailles"]
+      "reviews": 45422,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/paris-l16/palace-of-versailles-full-access-passport-ticket-t59565/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palace-of-versailles"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

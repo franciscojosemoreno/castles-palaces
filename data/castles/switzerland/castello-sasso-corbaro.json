@@ -67,10 +67,23 @@
   "instagram_tag": "#sassocorbaro",
   "meta_title": "Castello di Sasso Corbaro, Bellinzona: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Castello di Sasso Corbaro above Bellinzona — built in six months by Ludovico il Moro, the highest of the UNESCO-listed Three Castles. Guide for 2026.",
-  "tags": ["unesco", "medieval", "ticino", "bellinzona", "sforza", "panoramic-view"],
+  "tags": [
+    "unesco",
+    "medieval",
+    "ticino",
+    "bellinzona",
+    "sforza",
+    "panoramic-view"
+  ],
   "last_updated": "2026-06-27",
-  "routes": ["swiss-alpine-castles"],
-  "nearby_castles": ["castel-grande", "castello-di-montebello", "chateau-de-chillon"],
+  "routes": [
+    "swiss-alpine-castles"
+  ],
+  "nearby_castles": [
+    "castel-grande",
+    "castello-di-montebello",
+    "chateau-de-chillon"
+  ],
   "gyg_location_id": "99510",
   "gyg_search_query": "Castello di Sasso Corbaro Bellinzona tour",
   "gyg_widget_type": "activities",
@@ -78,14 +91,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1265575",
-      "title": "Bellinzona: Castello di Sasso Corbaro Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Entrance ticket to Sasso Corbaro Castle",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 19,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["castello-sasso-corbaro"]
+      "booking_url_override": "https://www.getyourguide.com/bellinzona-l99510/entrance-ticket-to-sasso-corbaro-castle-t1265575/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-sasso-corbaro"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

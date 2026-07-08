@@ -75,35 +75,45 @@
   "instagram_tag": "#chateaudevillandry",
   "meta_title": "Château de Villandry: Gardens, Tickets & Visitor Guide 2026",
   "meta_description": "Visit Château de Villandry in the Loire Valley — the Renaissance gardens of the Potager and the Garden of Love. Tickets, opening hours and visitor tips for 2026.",
-  "tags": ["renaissance", "16th-century", "gardens", "unesco-world-heritage", "loire-valley", "instagram-worthy", "day-trip-from-tours"],
+  "tags": [
+    "renaissance",
+    "16th-century",
+    "gardens",
+    "unesco-world-heritage",
+    "loire-valley",
+    "instagram-worthy",
+    "day-trip-from-tours"
+  ],
   "last_updated": "2026-06-25",
-  "routes": ["loire-valley-castles"],
-  "nearby_castles": ["chateau-de-chenonceau", "chateau-de-chambord", "chateau-de-blois", "chateau-de-azay-le-rideau", "chateau-d-angers"],
-  "gyg_location_id": "35277",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-chenonceau",
+    "chateau-de-chambord",
+    "chateau-de-blois",
+    "chateau-de-azay-le-rideau",
+    "chateau-d-angers"
+  ],
+  "gyg_location_id": "1320",
   "gyg_search_query": "Villandry Loire Valley chateau tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "116431",
-      "title": "Chateaux Azay-le-Rideau and Villandry Morning Tour from Tours",
-      "type": "small_group_tour",
-      "duration": "8.5 hours",
-      "price_from": 227,
+      "title": "Tours: Chateaux Azay-le-Rideau and Villandry Morning Tour",
+      "type": "guided_tour",
+      "duration": "4 hours",
+      "price_from": 131,
       "rating": 4.9,
-      "reviews": 18,
+      "reviews": 88,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-villandry"]
-    },
-    {
-      "tour_id": "152859",
-      "title": "From Tours: Villandry, Azay-le-Rideau & Local Wineries",
-      "type": "small_group_tour",
-      "duration": "8.5 hours",
-      "price_from": 227,
-      "rating": 4.9,
-      "reviews": 12,
-      "covers_castles": ["chateau-de-villandry"]
+      "booking_url_override": "https://www.getyourguide.com/tours-france-l1320/afternoon-tour-to-villandry-azay-and-family-chateaux-t116431/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-villandry"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

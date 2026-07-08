@@ -67,10 +67,19 @@
   "instagram_tag": "#castellosvevobari",
   "meta_title": "Norman-Swabian Castle, Bari: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Norman-Swabian Castle in Bari — Frederick II's crusade headquarters, with Norman towers, Spanish bastions, and a museum of Puglia's medieval sculpture. Guide for 2026.",
-  "tags": ["norman", "medieval", "puglia", "frederick-ii", "crusades", "museum"],
+  "tags": [
+    "norman",
+    "medieval",
+    "puglia",
+    "frederick-ii",
+    "crusades",
+    "museum"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["castel-del-monte"],
+  "nearby_castles": [
+    "castel-del-monte"
+  ],
   "gyg_location_id": "721",
   "gyg_search_query": "Norman Swabian Castle Bari tour",
   "gyg_widget_type": "activities",
@@ -79,13 +88,17 @@
     {
       "tour_id": "1063460",
       "title": "Bari: Norman-Swabian Castle Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1.5 hours",
-      "price_from": 12,
-      "rating": null,
+      "price_from": 14,
+      "rating": 4.1,
       "reviews": 14,
       "is_top_pick": true,
-      "covers_castles": ["norman-swabian-castle-bari"]
+      "booking_url_override": "https://www.getyourguide.com/bari-l721/bari-norman-swabian-castle-entry-ticket-t1063460/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "norman-swabian-castle-bari"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -75,34 +75,44 @@
   "instagram_tag": "castelloestense",
   "meta_title": "Castello Estense, Ferrara: Tickets, Hours & Visitor Guide (2026)",
   "meta_description": "Visit the Castello Estense in Ferrara — a perfectly preserved Renaissance moated castle and UNESCO World Heritage Site in the heart of Emilia-Romagna.",
-  "tags": ["italy", "ferrara", "emilia-romagna", "renaissance", "este-dynasty", "moated-castle", "unesco", "medieval", "museum"],
+  "tags": [
+    "italy",
+    "ferrara",
+    "emilia-romagna",
+    "renaissance",
+    "este-dynasty",
+    "moated-castle",
+    "unesco",
+    "medieval",
+    "museum"
+  ],
   "last_updated": "2026-06-23",
   "routes": [],
-  "nearby_castles": ["castel-santangelo", "palazzo-dei-normanni", "rocchetta-mattei", "castello-di-torrechiara"],
-  "gyg_location_id": "173357",
+  "nearby_castles": [
+    "castel-santangelo",
+    "palazzo-dei-normanni",
+    "rocchetta-mattei",
+    "castello-di-torrechiara"
+  ],
+  "gyg_location_id": "1139",
   "gyg_search_query": "Castello Estense Ferrara tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [
     {
-      "tour_id": "566379",
-      "title": "Ferrara: Estense Castle Guided Tour",
+      "tour_id": "462386",
+      "title": "Ferrara: Private Walking Tour with Local Guide",
       "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 15,
-      "rating": 4.4,
-      "reviews": 119,
-      "covers_castles": ["castello-estense"]
-    },
-    {
-      "tour_id": "441693",
-      "title": "Ferrara: City Highlights Walking Tour with Local Guide",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 17,
-      "rating": 4.6,
-      "reviews": 257,
-      "covers_castles": ["castello-estense"]
+      "duration": "3 hours",
+      "price_from": 233,
+      "rating": 5.0,
+      "reviews": 5,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/ferrara-l1139/ferrara-private-guided-walking-tour-with-local-guide-t462386/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-estense"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

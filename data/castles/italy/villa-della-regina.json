@@ -11,7 +11,7 @@
   "region": "Piedmont",
   "nearest_city": "Turin",
   "address": "Strada Comunale S. Margherita, 79, 10131 Torino TO, Italy",
-  "lat": 45.0710,
+  "lat": 45.071,
   "lng": 7.6876,
   "unesco": true,
   "year_built": 1615,
@@ -67,7 +67,16 @@
   "instagram_tag": "#villadellaregina",
   "meta_title": "Villa della Regina, Turin: Guided Tour & Visitor Guide 2026",
   "meta_description": "Visit Villa della Regina above Turin — a UNESCO Savoy residence with Baroque gardens, a historic urban vineyard, and an Alps panorama. Guided minibus excursion with Merenda Reale.",
-  "tags": ["UNESCO", "savoy", "baroque", "gardens", "vineyard", "piedmont", "turin", "italy"],
+  "tags": [
+    "UNESCO",
+    "savoy",
+    "baroque",
+    "gardens",
+    "vineyard",
+    "piedmont",
+    "turin",
+    "italy"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -85,7 +94,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["villa-della-regina"]
+      "booking_url_override": "https://www.getyourguide.com/turin-l390/turin-villa-della-regina-baroque-gardens-royal-tales-tour-t1381736/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "villa-della-regina"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

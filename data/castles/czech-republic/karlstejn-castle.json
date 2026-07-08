@@ -83,50 +83,25 @@
     "konopiste-castle",
     "vysehrad"
   ],
-  "gyg_location_id": "120330",
+  "gyg_location_id": "10",
   "gyg_search_query": "Karlstejn Castle day trip Prague",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "851",
-      "title": "From Prague: Karlštejn Castle Skip-the-Line Ticket and Tour",
+      "tour_id": "53265",
+      "title": "Prague: Karlštejn Castle Guided Tour with Entry Ticket",
       "type": "skip_the_line",
-      "duration": "4 hours",
-      "price_from": 60,
-      "rating": 4.7,
-      "reviews": 850,
-      "covers_castles": ["karlstejn-castle"]
-    },
-    {
-      "tour_id": "76031",
-      "title": "From Prague: Half-Day Karlštejn Castle Tour",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 48,
-      "rating": 4.6,
-      "reviews": 520,
-      "covers_castles": ["karlstejn-castle"]
-    },
-    {
-      "tour_id": "68648",
-      "title": "Prague: Half-Day Trip to Karlštejn Castle",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 45,
-      "rating": 4.5,
-      "reviews": 390,
-      "covers_castles": ["karlstejn-castle"]
-    },
-    {
-      "tour_id": "170017",
-      "title": "From Prague: Karlštejn Castle & Koněprusy Caves Tour",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 79,
-      "rating": 4.7,
-      "reviews": 280,
-      "covers_castles": ["karlstejn-castle"]
+      "duration": "5 hours",
+      "price_from": 78,
+      "rating": 4.4,
+      "reviews": 166,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/prague-l10/konopiste-and-karlstejn-castles-with-lunch-from-prague-t53265/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "karlstejn-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

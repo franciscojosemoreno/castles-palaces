@@ -88,20 +88,22 @@
     "karlstejn-castle",
     "hluboka-castle"
   ],
-  "gyg_location_id": "540",
+  "gyg_location_id": "10",
   "gyg_search_query": "Cesky Krumlov day trip",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "1087",
-      "title": "From Prague: Český Krumlov & České Budějovice Day Trip",
+      "title": "From Prague: Český Krumlov and České Budějovice Day Trip",
       "type": "day_trip",
       "duration": "10 hours",
-      "price_from": 88,
+      "price_from": 78,
       "rating": 4.1,
-      "reviews": 941,
-      "covers_castles": []
+      "reviews": 1042,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/prague-l10/cesky-krumlov-ceske-budejovice-tour-from-prague-t1087/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

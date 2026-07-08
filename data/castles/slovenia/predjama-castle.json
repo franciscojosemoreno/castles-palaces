@@ -75,50 +75,25 @@
     "slovenian-karst-route"
   ],
   "nearby_castles": [],
-  "gyg_location_id": "83823",
+  "gyg_location_id": "318",
   "gyg_search_query": "Predjama Castle Postojna Cave tour Slovenia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "80547",
-      "title": "From Ljubljana: Postojna Cave & Predjama Castle Half-Day",
-      "type": "guided_tour",
-      "duration": "5.5 hours",
-      "price_from": 85,
-      "rating": 4.7,
-      "reviews": 648,
-      "covers_castles": ["predjama-castle"]
-    },
-    {
-      "tour_id": "198883",
-      "title": "Ljubljana: Postojna Cave & Predjama Castle Small Group Tour",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 95,
-      "rating": 4.8,
-      "reviews": 482,
-      "covers_castles": ["predjama-castle"]
-    },
-    {
       "tour_id": "628578",
       "title": "Ljubljana: Postojna Cave and Predjama Castle Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 388,
-      "covers_castles": ["predjama-castle"]
-    },
-    {
-      "tour_id": "412312",
-      "title": "From Ljubljana: Postojna Cave & Predjama Castle Guided Trip",
       "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 80,
-      "rating": 4.7,
-      "reviews": 324,
-      "covers_castles": ["predjama-castle"]
+      "duration": "5.5 hours",
+      "price_from": 79,
+      "rating": 4.9,
+      "reviews": 380,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/ljubljana-l318/ljubljana-postojna-cave-and-predjama-castle-tour-t628578/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "predjama-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

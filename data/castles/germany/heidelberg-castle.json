@@ -93,40 +93,25 @@
     "hohenzollern-castle",
     "altes-schloss-stuttgart"
   ],
-  "gyg_location_id": "367",
+  "gyg_location_id": "24",
   "gyg_search_query": "Heidelberg Castle tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "34832",
-      "title": "Heidelberg Castle Tour: Residence of the Electors",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 24,
-      "rating": 4.5,
-      "reviews": 330,
-      "covers_castles": ["heidelberg-castle"]
-    },
-    {
-      "tour_id": "396692",
-      "title": "Heidelberg: Sightseeing Bus and Castle Tour",
+      "tour_id": "987310",
+      "title": "Heidelberg: Discover Heidelberg Castle – Experience history up close",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 29,
-      "rating": 4.4,
-      "reviews": 290,
-      "covers_castles": ["heidelberg-castle"]
-    },
-    {
-      "tour_id": "7371",
-      "title": "From Frankfurt: Heidelberg Castle and Old City Guided Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 49,
+      "price_from": 45,
       "rating": 4.6,
-      "reviews": 480,
-      "covers_castles": ["heidelberg-castle"]
+      "reviews": 230,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/heidelberg-l24/heidelberg-discover-heidelberg-castle-experience-history-up-close-t987310/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "heidelberg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

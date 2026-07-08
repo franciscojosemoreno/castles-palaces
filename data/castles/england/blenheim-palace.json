@@ -65,54 +65,46 @@
   "instagram_tag": "#blenheimpalace",
   "meta_title": "Blenheim Palace: Tickets, Churchill & Visitor Guide 2026",
   "meta_description": "Visit Blenheim Palace — UNESCO World Heritage Site, birthplace of Winston Churchill and England's greatest Baroque palace. Book tickets online for 2026.",
-  "tags": ["baroque", "palace", "unesco-world-heritage", "gardens", "royal-residence", "winston-churchill", "english-castle", "instagram-worthy", "family-friendly", "18th-century"],
+  "tags": [
+    "baroque",
+    "palace",
+    "unesco-world-heritage",
+    "gardens",
+    "royal-residence",
+    "winston-churchill",
+    "english-castle",
+    "instagram-worthy",
+    "family-friendly",
+    "18th-century"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["windsor-castle", "tower-of-london", "warwick-castle", "hampton-court-palace", "berkeley-castle"],
-  "gyg_location_id": "4658",
+  "nearby_castles": [
+    "windsor-castle",
+    "tower-of-london",
+    "warwick-castle",
+    "hampton-court-palace",
+    "berkeley-castle"
+  ],
+  "gyg_location_id": "441",
   "gyg_search_query": "Blenheim Palace Churchill tour Oxfordshire",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "161670",
-      "title": "Blenheim Palace: Admission Ticket",
+      "title": "Blenheim Palace Admission Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 38,
-      "rating": 4.6,
-      "reviews": 520,
-      "covers_castles": ["blenheim-palace"]
-    },
-    {
-      "tour_id": "117669",
-      "title": "From Oxford: Blenheim Palace Guided Tour with Transport",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 310,
-      "covers_castles": ["blenheim-palace"]
-    },
-    {
-      "tour_id": "440872",
-      "title": "From London: Skip-the-Line Blenheim Palace Full-Day Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 95,
-      "rating": 4.6,
-      "reviews": 280,
-      "covers_castles": ["blenheim-palace"]
-    },
-    {
-      "tour_id": "2259",
-      "title": "From London: Cotswolds, Blenheim Palace & Downton Abbey Day Trip",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 120,
+      "price_from": 36,
       "rating": 4.5,
-      "reviews": 1100,
-      "covers_castles": ["blenheim-palace"]
+      "reviews": 673,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/oxford-l441/blenheim-palace-admission-ticket-t161670/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "blenheim-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

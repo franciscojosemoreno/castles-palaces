@@ -67,10 +67,21 @@
   "instagram_tag": "#palazzochigiariccia",
   "meta_title": "Chigi Palace, Ariccia: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Chigi Palace in Ariccia — Bernini's Baroque masterpiece for the Chigi popes, one of Italy's best-preserved 17th-century palace interiors. Near Castel Gandolfo.",
-  "tags": ["baroque", "bernini", "chigi", "castelli-romani", "lazio", "italy", "alexander-VII", "time-capsule"],
+  "tags": [
+    "baroque",
+    "bernini",
+    "chigi",
+    "castelli-romani",
+    "lazio",
+    "italy",
+    "alexander-VII",
+    "time-capsule"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": ["castel-gandolfo"],
+  "nearby_castles": [
+    "castel-gandolfo"
+  ],
   "gyg_location_id": "87935",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Chigi Palace Ariccia entry ticket",
@@ -80,14 +91,16 @@
     {
       "tour_id": "1364335",
       "title": "Ariccia: Entry ticket to Chigi Palace",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1–1.5 hours",
       "price_from": 21,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["chigi-palace"],
-      "booking_url_override": "https://www.getyourguide.com/ariccia-l87935/ariccia-entry-ticket-to-chigi-t1364335/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/ariccia-l87935/ariccia-entry-ticket-to-chigi-t1364335/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chigi-palace"
+      ]
     }
   ]
 }

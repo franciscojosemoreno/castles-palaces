@@ -90,40 +90,27 @@
     "chateau-d-angers",
     "chateau-de-meung-sur-loire"
   ],
-  "gyg_location_id": "35246",
+  "gyg_location_id": "134357",
   "gyg_search_query": "Blois Castle Loire Valley guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "13987",
-      "title": "From Paris: Loire Valley Castles Day Trip With Wine Tasting",
-      "type": "day_trip",
-      "duration": "13 hours",
-      "price_from": 125,
-      "rating": 4.6,
-      "reviews": 1972,
-      "covers_castles": ["chateau-de-blois", "chateau-de-chambord", "chateau-de-chenonceau"]
-    },
-    {
       "tour_id": "1149747",
-      "title": "Guided Visit of the Royal Castle of Blois",
-      "type": "guided_tour",
+      "title": "Guided visit of the Royal Castle of Blois",
+      "type": "day_trip",
       "duration": "1.5 hours",
       "price_from": 51,
-      "rating": 4.8,
-      "reviews": 5,
-      "covers_castles": ["chateau-de-blois"]
-    },
-    {
-      "tour_id": "442609",
-      "title": "Blois: Private Tour of the Castle with Entry Tickets",
-      "type": "skip_the_line",
-      "duration": "2 hours",
-      "price_from": 255,
-      "rating": 4.7,
-      "reviews": 6,
-      "covers_castles": ["chateau-de-blois"]
+      "rating": 4.3,
+      "reviews": 8,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/blois-l134357/guided-visit-of-the-royal-castle-of-blois-t1149747/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-blois",
+        "chateau-de-chambord",
+        "chateau-de-chenonceau"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

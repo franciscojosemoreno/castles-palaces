@@ -71,10 +71,20 @@
   "instagram_tag": "#chateaudeprangins",
   "meta_title": "Château de Prangins: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Château de Prangins on Lake Geneva — Napoleon's brother's Swiss refuge, now the Swiss National Museum for French-speaking Switzerland, with a restored 18th-century kitchen garden.",
-  "tags": ["18th-century", "baroque", "napoleon", "museum", "switzerland", "lake-geneva", "garden"],
+  "tags": [
+    "18th-century",
+    "baroque",
+    "napoleon",
+    "museum",
+    "switzerland",
+    "lake-geneva",
+    "garden"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
-  "nearby_castles": ["chateau-de-chillon"],
+  "nearby_castles": [
+    "chateau-de-chillon"
+  ],
   "gyg_location_id": "155233",
   "gyg_search_query": "Château de Prangins Lake Geneva entry ticket",
   "gyg_widget_type": "activities",
@@ -83,13 +93,17 @@
     {
       "tour_id": "721910",
       "title": "Prangins, Lake Geneva: Château de Prangins Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 16,
-      "rating": 4.8,
-      "reviews": 13,
+      "rating": 4.7,
+      "reviews": 14,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-prangins"]
+      "booking_url_override": "https://www.getyourguide.com/prangins-l155233/prangins-lake-geneva-chateau-de-prangins-entry-ticket-t721910/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-prangins"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

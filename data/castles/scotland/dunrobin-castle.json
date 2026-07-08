@@ -75,10 +75,22 @@
   "instagram_tag": "dunrobincastle",
   "meta_title": "Dunrobin Castle: Tickets, Train Access & Visitor Guide (2026)",
   "meta_description": "Visit Dunrobin Castle in Sutherland — Scotland's most northerly great house, with fairy-tale towers, formal gardens, and falconry displays above the Moray Firth.",
-  "tags": ["scotland", "sutherland", "highlands", "victorian", "scottish-baronial", "falconry", "far-north-line", "gardens"],
+  "tags": [
+    "scotland",
+    "sutherland",
+    "highlands",
+    "victorian",
+    "scottish-baronial",
+    "falconry",
+    "far-north-line",
+    "gardens"
+  ],
   "last_updated": "2026-06-23",
   "routes": [],
-  "nearby_castles": ["edinburgh-castle", "urquhart-castle"],
+  "nearby_castles": [
+    "edinburgh-castle",
+    "urquhart-castle"
+  ],
   "gyg_search_query": "Dunrobin Castle tour Scotland",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
@@ -88,30 +100,16 @@
       "title": "From Inverness: Dunrobin Castle and Easter Ross Day Trip",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 73,
-      "rating": 4.7,
-      "reviews": 35,
-      "covers_castles": ["dunrobin-castle"]
-    },
-    {
-      "tour_id": "861843",
-      "title": "North Highland Tour: Dunrobin Castle, Dornoch, & Much More",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 662,
-      "rating": 5.0,
-      "reviews": 3,
-      "covers_castles": ["dunrobin-castle"]
-    },
-    {
-      "tour_id": "571395",
-      "title": "North Highland Tour: Dunrobin Castle & More from Invergordon",
-      "type": "day_trip",
-      "duration": "7.5 hours",
-      "price_from": 183,
-      "rating": 5.0,
-      "reviews": 10,
-      "covers_castles": ["dunrobin-castle"]
+      "price_from": 72,
+      "rating": 4.8,
+      "reviews": 41,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/inverness-l1935/from-inverness-dunrobin-castle-easter-ross-t622234/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "dunrobin-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true,
+  "gyg_location_id": "1935"
 }

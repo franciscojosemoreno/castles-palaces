@@ -65,34 +65,44 @@
   "instagram_tag": "#hevercastle",
   "meta_title": "Hever Castle: Anne Boleyn, Tickets & Visitor Guide 2026",
   "meta_description": "Visit Hever Castle in Kent — Anne Boleyn's childhood home with Tudor rooms, Italian gardens and a double moat. Book tickets online for 2026.",
-  "tags": ["medieval", "tudor", "moat", "anne-boleyn", "romantic", "gardens", "instagram-worthy", "english-castle"],
+  "tags": [
+    "medieval",
+    "tudor",
+    "moat",
+    "anne-boleyn",
+    "romantic",
+    "gardens",
+    "instagram-worthy",
+    "english-castle"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["leeds-castle", "dover-castle", "bodiam-castle", "hampton-court-palace"],
-  "gyg_location_id": "36374",
+  "nearby_castles": [
+    "leeds-castle",
+    "dover-castle",
+    "bodiam-castle",
+    "hampton-court-palace"
+  ],
+  "gyg_location_id": "57",
   "gyg_search_query": "Hever Castle Anne Boleyn tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "1128430",
-      "title": "London: Leeds Castle and Hever Castle Day Trip with Tickets",
-      "type": "day_trip",
+      "tour_id": "1375509",
+      "title": "London: Hever Castle with Entry Ticket",
+      "type": "entry_ticket",
       "duration": "10 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 520,
-      "covers_castles": ["hever-castle", "leeds-castle"]
-    },
-    {
-      "tour_id": "1085288",
-      "title": "London: Hever Castle & Chartwell House Private Day Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 150,
-      "rating": 4.7,
-      "reviews": 85,
-      "covers_castles": ["hever-castle"]
+      "price_from": 47,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/london-l57/london-hever-castle-with-entry-ticket-t1375509/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hever-castle",
+        "leeds-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

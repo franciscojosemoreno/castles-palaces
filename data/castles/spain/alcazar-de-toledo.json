@@ -92,7 +92,7 @@
     "palacio-real-madrid",
     "alcazar-de-los-reyes-cristianos"
   ],
-  "gyg_location_id": "82187",
+  "gyg_location_id": "663",
   "gyg_search_query": "Alcázar Toledo Army Museum guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -101,31 +101,16 @@
       "tour_id": "197164",
       "title": "Toledo Alcázar and Army Museum: Guided Tour",
       "type": "guided_tour",
-      "duration": "1.5–3 hours",
+      "duration": "1.5 - 3 hours",
       "price_from": 23,
       "rating": 4.4,
-      "reviews": 157,
-      "covers_castles": ["alcazar-de-toledo"]
-    },
-    {
-      "tour_id": "117462",
-      "title": "Madrid: Segovia and Toledo Tour, Alcazar, and Cathedral",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 47,
-      "rating": 4.7,
-      "reviews": 9290,
-      "covers_castles": ["alcazar-de-toledo", "alcazar-de-segovia"]
-    },
-    {
-      "tour_id": "379304",
-      "title": "Toledo & Segovia Tour with Cathedral, Alcazar & Lunch",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 45,
-      "rating": 4.6,
-      "reviews": 6619,
-      "covers_castles": ["alcazar-de-toledo", "alcazar-de-segovia"]
+      "reviews": 159,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/toledo-l663/toledo-alcazar-and-army-museum-guided-tour-t197164/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alcazar-de-toledo"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

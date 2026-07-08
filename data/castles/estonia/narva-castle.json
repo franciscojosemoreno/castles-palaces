@@ -67,44 +67,38 @@
   "instagram_tag": "#narvacastle",
   "meta_title": "Narva Castle Estonia: Tickets, Hermann Tower & Visitor Guide 2026",
   "meta_description": "Visit Narva Castle — the Teutonic medieval fortress on the NATO-Russia border facing the Russian Ivangorod Fortress across the river. One of Europe's most dramatic border sites.",
-  "tags": ["medieval", "teutonic", "border", "dramatic", "estonia"],
+  "tags": [
+    "medieval",
+    "teutonic",
+    "border",
+    "dramatic",
+    "estonia"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["cesis-castle", "turaida-castle"],
-  "gyg_location_id": "245245",
+  "nearby_castles": [
+    "cesis-castle",
+    "turaida-castle"
+  ],
+  "gyg_location_id": "394",
   "gyg_search_query": "Narva Castle Estonia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "996873",
-      "title": "From Tallinn: Narva and 'A View of Russia' Day Trip",
+      "title": "From Tallinn: Narva and \"A View of Russia\" Day Trip",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 92,
-      "rating": 3.7,
-      "reviews": 4,
-      "covers_castles": ["narva-castle"]
-    },
-    {
-      "tour_id": "1003183",
-      "title": "From Tallinn: Narva and Narva-Jõesuu Day Trip with Guide",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 92,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["narva-castle"]
-    },
-    {
-      "tour_id": "996841",
-      "title": "From Tallinn: Narva and Narva-Jõesuu Day Trip with Guide",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 116,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["narva-castle"]
+      "price_from": 57,
+      "rating": 4.0,
+      "reviews": 5,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tallinn-l394/from-tallinn-narva-and-a-view-of-russia-day-trip-t996873/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "narva-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

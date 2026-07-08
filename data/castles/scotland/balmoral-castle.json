@@ -75,11 +75,24 @@
   "instagram_tag": "balmoralcastle",
   "meta_title": "Balmoral Castle: Tickets, Tours & Visitor Guide (2026)",
   "meta_description": "Visit Balmoral Castle on Royal Deeside — the Royal Family's Scottish retreat since Queen Victoria. Open April to late July. Tours from Aberdeen and Edinburgh.",
-  "tags": ["scotland", "aberdeenshire", "royal-deeside", "royal-family", "victorian", "scottish-baronial", "cairngorms", "queen-victoria"],
+  "tags": [
+    "scotland",
+    "aberdeenshire",
+    "royal-deeside",
+    "royal-family",
+    "victorian",
+    "scottish-baronial",
+    "cairngorms",
+    "queen-victoria"
+  ],
   "last_updated": "2026-06-23",
   "routes": [],
-  "nearby_castles": ["dunnottar-castle", "glamis-castle", "stirling-castle"],
-  "gyg_location_id": "144525",
+  "nearby_castles": [
+    "dunnottar-castle",
+    "glamis-castle",
+    "stirling-castle"
+  ],
+  "gyg_location_id": "93615",
   "gyg_search_query": "Balmoral Castle Royal Deeside tour Scotland",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
@@ -89,30 +102,15 @@
       "title": "From Aberdeen: Balmoral Estate & Royal Deeside Tour",
       "type": "day_trip",
       "duration": "7.5 hours",
-      "price_from": 131,
+      "price_from": 132,
       "rating": 4.9,
-      "reviews": 276,
-      "covers_castles": ["balmoral-castle"]
-    },
-    {
-      "tour_id": "739357",
-      "title": "Edinburgh: Aberdeenshire, Balmoral Castle & Northeast Coast",
-      "type": "day_trip",
-      "duration": "2 days",
-      "price_from": 213,
-      "rating": 4.8,
-      "reviews": 19,
-      "covers_castles": ["balmoral-castle", "dunnottar-castle"]
-    },
-    {
-      "tour_id": "915643",
-      "title": "Edinburgh: Balmoral Castle and Scone Palace Royal Tour",
-      "type": "guided_tour",
-      "duration": "10 hours",
-      "price_from": 875,
-      "rating": 5.0,
-      "reviews": 18,
-      "covers_castles": ["balmoral-castle"]
+      "reviews": 284,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/aberdeen-l93615/from-aberdeen-balmoral-castle-and-royal-deeside-tour-t343186/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "balmoral-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

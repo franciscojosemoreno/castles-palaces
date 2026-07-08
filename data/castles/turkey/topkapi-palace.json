@@ -82,8 +82,12 @@
   ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["yedikule-fortress", "bodrum-castle", "ortahisar-castle"],
-  "gyg_location_id": "3534",
+  "nearby_castles": [
+    "yedikule-fortress",
+    "bodrum-castle",
+    "ortahisar-castle"
+  ],
+  "gyg_location_id": "56",
   "gyg_search_query": "Topkapi Palace Istanbul tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -94,29 +98,14 @@
       "type": "skip_the_line",
       "duration": "30 minutes–3 hours",
       "price_from": 78,
-      "rating": 4.3,
-      "reviews": 3433,
-      "covers_castles": ["topkapi-palace"]
-    },
-    {
-      "tour_id": "554735",
-      "title": "Istanbul: Topkapi Palace Skip-the-Line Ticket & Guided Tour",
-      "type": "guided_tour",
-      "duration": "1 hour",
-      "price_from": 77,
       "rating": 4.2,
-      "reviews": 184,
-      "covers_castles": ["topkapi-palace"]
-    },
-    {
-      "tour_id": "804558",
-      "title": "Topkapi Palace and Harem Full Tour Skip-the-Ticket Lines",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 84,
-      "rating": 4.4,
-      "reviews": 56,
-      "covers_castles": ["topkapi-palace"]
+      "reviews": 3541,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/istanbul-l56/istanbul-topkapi-palace-and-harem-ticket-with-audio-guide-t192789/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "topkapi-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

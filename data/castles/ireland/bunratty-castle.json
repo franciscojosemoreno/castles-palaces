@@ -71,54 +71,38 @@
   "instagram_tag": "#bunrattycastle",
   "meta_title": "Bunratty Castle, Ireland — Medieval Fortress, Folk Park & Banquets",
   "meta_description": "Visit Bunratty Castle in County Clare — Ireland's most complete medieval castle with a folk park, period furnishings, and nightly banquets.",
-  "tags": ["medieval", "irish-castle", "tower-house", "folk-park", "banquet"],
+  "tags": [
+    "medieval",
+    "irish-castle",
+    "tower-house",
+    "folk-park",
+    "banquet"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["blarney-castle", "cahir-castle"],
-  "gyg_location_id": "115972",
+  "nearby_castles": [
+    "blarney-castle",
+    "cahir-castle"
+  ],
+  "gyg_location_id": "31",
   "gyg_search_query": "Bunratty Castle tour Clare",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "94794",
-      "title": "Limerick: Bunratty Castle and Folk Park Day Visit",
-      "type": "entry_ticket",
-      "duration": "Full day",
-      "price_from": 20,
-      "rating": 4.5,
-      "reviews": 300,
-      "covers_castles": ["bunratty-castle"]
-    },
-    {
-      "tour_id": "590491",
-      "title": "Dublin: Cliffs of Moher, Ennis & Bunratty Castle Day Tour",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 20,
-      "rating": 4.6,
-      "reviews": 450,
-      "covers_castles": ["bunratty-castle"]
-    },
-    {
       "tour_id": "846",
-      "title": "Rail Tour: Cliffs of Moher & Bunratty Castle from Dublin",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 20,
-      "rating": 4.4,
-      "reviews": 200,
-      "covers_castles": ["bunratty-castle"]
-    },
-    {
-      "tour_id": "427062",
-      "title": "Dublin: Cliffs of Moher, Burren, Bunratty Castle & Ennis",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 20,
-      "rating": 4.5,
-      "reviews": 280,
-      "covers_castles": ["bunratty-castle"]
+      "title": "Rail Tour: The Cliffs of Moher & Bunratty Castle Tour",
+      "type": "entry_ticket",
+      "duration": "1 day",
+      "price_from": 170,
+      "rating": 4.7,
+      "reviews": 145,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/dublin-l31/the-cliffs-of-moher-and-bunratty-castle-tour-t846/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bunratty-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

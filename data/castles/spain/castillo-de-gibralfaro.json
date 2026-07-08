@@ -67,10 +67,19 @@
   "instagram_tag": "#castillogibralfaro",
   "meta_title": "Castillo de Gibralfaro, Málaga: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Castillo de Gibralfaro above Málaga — a Nasrid fortress connected to the Alcazaba, with panoramic Costa del Sol views and a three-month 1487 siege history. Guide for 2026.",
-  "tags": ["nasrid", "andalusia", "malaga", "reconquista", "panoramic-view", "moorish"],
+  "tags": [
+    "nasrid",
+    "andalusia",
+    "malaga",
+    "reconquista",
+    "panoramic-view",
+    "moorish"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["alcazaba-de-almeria"],
+  "nearby_castles": [
+    "alcazaba-de-almeria"
+  ],
   "gyg_location_id": "402",
   "gyg_search_query": "Castillo de Gibralfaro Malaga tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1377224",
-      "title": "Málaga: Entrance Ticket to Castillo de Gibralfaro",
-      "type": "entrance_ticket",
+      "title": "Malaga: Entrance ticket to Castillo de Gibralfaro",
+      "type": "entry_ticket",
       "duration": "1.5 hours",
-      "price_from": 19,
+      "price_from": 14,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["castillo-de-gibralfaro"]
+      "booking_url_override": "https://www.getyourguide.com/malaga-l402/malaga-entrance-ticket-to-castillo-de-gibralfaro-t1377224/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castillo-de-gibralfaro"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

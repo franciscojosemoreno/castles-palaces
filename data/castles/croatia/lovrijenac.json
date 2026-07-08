@@ -75,11 +75,24 @@
   "instagram_tag": "#lovrijenac",
   "meta_title": "Lovrijenac Fortress: Game of Thrones Red Keep Guide 2026",
   "meta_description": "Visit Lovrijenac Fortress in Dubrovnik, the Game of Thrones Red Keep on a dramatic sea cliff. Tickets, City Walls combo, and visitor tips for 2026.",
-  "tags": ["medieval", "fortress", "game-of-thrones", "sea-views", "unesco", "instagram-worthy", "dramatic", "filming-location"],
+  "tags": [
+    "medieval",
+    "fortress",
+    "game-of-thrones",
+    "sea-views",
+    "unesco",
+    "instagram-worthy",
+    "dramatic",
+    "filming-location"
+  ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["klis-fortress", "trakoscan-castle", "veliki-tabor"],
-  "gyg_location_id": "4466",
+  "nearby_castles": [
+    "klis-fortress",
+    "trakoscan-castle",
+    "veliki-tabor"
+  ],
+  "gyg_location_id": "513",
   "gyg_search_query": "Lovrijenac Dubrovnik Game of Thrones fortress tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -88,31 +101,16 @@
       "tour_id": "246047",
       "title": "Dubrovnik: The Original Game of Thrones Tour & Lokrum Option",
       "type": "guided_tour",
-      "duration": "2–3 hours",
-      "price_from": 26,
+      "duration": "2 - 3 hours",
+      "price_from": 25,
       "rating": 4.9,
-      "reviews": 5566,
-      "covers_castles": ["lovrijenac"]
-    },
-    {
-      "tour_id": "217212",
-      "title": "Dubrovnik: No.1 Game of Thrones Tour + Lokrum & Saver Option",
-      "type": "guided_tour",
-      "duration": "1.5–3 hours",
-      "price_from": 23,
-      "rating": 4.9,
-      "reviews": 6532,
-      "covers_castles": ["lovrijenac"]
-    },
-    {
-      "tour_id": "443857",
-      "title": "Dubrovnik: Game of Thrones and City Walls Walking Tour",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 120,
-      "rating": 4.8,
-      "reviews": 20,
-      "covers_castles": ["lovrijenac"]
+      "reviews": 5756,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/dubrovnik-l513/dubrovnik-the-ultimate-game-of-thrones-city-walking-tour-t246047/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "lovrijenac"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

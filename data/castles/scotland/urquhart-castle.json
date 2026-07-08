@@ -66,24 +66,43 @@
   "instagram_tag": "#urquhartCastle",
   "meta_title": "Urquhart Castle Loch Ness: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Urquhart Castle on the shores of Loch Ness — the most dramatic ruined castle in Scotland. Book tickets and plan your day trip from Inverness.",
-  "tags": ["castle", "medieval", "ruined", "loch-ness", "highlands", "scotland", "day-trip-from-inverness", "loch-views"],
+  "tags": [
+    "castle",
+    "medieval",
+    "ruined",
+    "loch-ness",
+    "highlands",
+    "scotland",
+    "day-trip-from-inverness",
+    "loch-views"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["edinburgh-castle", "stirling-castle", "eilean-donan-castle", "cawdor-castle"],
-  "gyg_location_id": "89324",
+  "nearby_castles": [
+    "edinburgh-castle",
+    "stirling-castle",
+    "eilean-donan-castle",
+    "cawdor-castle"
+  ],
+  "gyg_location_id": "1935",
   "gyg_search_query": "Urquhart Castle Loch Ness tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "190035",
-      "title": "From Inverness: Loch Ness and The Highlands Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 40,
-      "rating": 4.7,
-      "reviews": 850,
-      "covers_castles": ["urquhart-castle"]
+      "tour_id": "45775",
+      "title": "Loch Ness: Urquhart Castle Round-Trip Cruise",
+      "type": "boat_tour",
+      "duration": "50 minutes",
+      "price_from": 33,
+      "rating": 4.4,
+      "reviews": 3301,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/inverness-l1935/loch-ness-inspiration-cruise-t45775/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "urquhart-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

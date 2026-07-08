@@ -11,7 +11,7 @@
   "region": "Pest County",
   "nearest_city": "Budapest",
   "address": "Szabadság tér 1, 2100 Gödöllő, Hungary",
-  "lat": 47.5950,
+  "lat": 47.595,
   "lng": 19.3578,
   "unesco": false,
   "year_built": 1733,
@@ -71,10 +71,20 @@
   "instagram_tag": "#godollo",
   "meta_title": "Royal Palace of Gödöllő: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Royal Palace of Gödöllő near Budapest — Hungary's largest Baroque palace and Empress Sisi's favourite residence. Easy by HÉV train from Keleti. Guide for 2026.",
-  "tags": ["baroque", "habsburg", "empress-sisi", "hungary", "budapest-day-trip", "palace", "restoration"],
+  "tags": [
+    "baroque",
+    "habsburg",
+    "empress-sisi",
+    "hungary",
+    "budapest-day-trip",
+    "palace",
+    "restoration"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
-  "nearby_castles": ["vajdahunyad-castle"],
+  "nearby_castles": [
+    "vajdahunyad-castle"
+  ],
   "gyg_location_id": "29",
   "gyg_search_query": "Royal Palace Gödöllő Budapest day trip",
   "gyg_widget_type": "activities",
@@ -89,7 +99,11 @@
       "rating": 4.4,
       "reviews": 567,
       "is_top_pick": true,
-      "covers_castles": ["godollo-palace"]
+      "booking_url_override": "https://www.getyourguide.com/budapest-l29/godollo-the-royal-palace-of-godollo-ticket-t241467/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "godollo-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

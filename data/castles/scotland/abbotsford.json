@@ -67,10 +67,21 @@
   "instagram_tag": "#abbotsford",
   "meta_title": "Abbotsford: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Abbotsford in the Scottish Borders — Sir Walter Scott's Baronial Revival home and the house that shaped how Scotland sees itself. Tickets and guide for 2026.",
-  "tags": ["scottish-baronial", "walter-scott", "scottish-borders", "literary-history", "day-trip-from-edinburgh"],
+  "tags": [
+    "scottish-baronial",
+    "walter-scott",
+    "scottish-borders",
+    "literary-history",
+    "day-trip-from-edinburgh"
+  ],
   "last_updated": "2026-06-27",
-  "routes": ["scottish-highlands-castles"],
-  "nearby_castles": ["edinburgh-castle", "tantallon-castle"],
+  "routes": [
+    "scottish-highlands-castles"
+  ],
+  "nearby_castles": [
+    "edinburgh-castle",
+    "tantallon-castle"
+  ],
   "gyg_location_id": "4770",
   "gyg_search_query": "Abbotsford House Walter Scott tour",
   "gyg_widget_type": "activities",
@@ -79,13 +90,17 @@
     {
       "tour_id": "66080",
       "title": "Abbotsford: House, Chapel and Garden Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
-      "price_from": 21,
+      "price_from": 22,
       "rating": 5.0,
       "reviews": 11,
       "is_top_pick": true,
-      "covers_castles": ["abbotsford"]
+      "booking_url_override": "https://www.getyourguide.com/selkirk-l4770/abbotsford-the-home-of-sir-walter-scott-entrance-ticket-t66080/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "abbotsford"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -86,13 +86,15 @@
   "gyg_featured_tours": [
     {
       "tour_id": "75012",
-      "title": "Carcassonne: Castle and Ramparts Skip-the-Line Ticket",
+      "title": "Carcassonne: Castle and Ramparts Entry Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 10,
+      "price_from": 15,
       "rating": 4.6,
-      "reviews": 890,
-      "covers_castles": []
+      "reviews": 3086,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/carcassonne-l1319/carcassonne-castle-and-ramparts-entry-ticket-t75012/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

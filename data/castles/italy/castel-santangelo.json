@@ -76,21 +76,30 @@
   ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["aragonese-castle-ischia", "monteriggioni", "royal-palace-of-caserta", "castel-dell-ovo", "palazzo-pitti", "castello-orsini-odescalchi"],
+  "nearby_castles": [
+    "aragonese-castle-ischia",
+    "monteriggioni",
+    "royal-palace-of-caserta",
+    "castel-dell-ovo",
+    "palazzo-pitti",
+    "castello-orsini-odescalchi"
+  ],
   "gyg_location_id": "33",
   "gyg_search_query": "Castel Sant Angelo Rome tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "863365",
-      "title": "Official Castel Sant'Angelo Entry Ticket",
+      "tour_id": "476598",
+      "title": "Rome: Castel Sant'Angelo Entry Ticket & Digital Audioguide",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 16,
-      "rating": 4.7,
-      "reviews": 1240,
-      "covers_castles": []
+      "price_from": 21,
+      "rating": 4.6,
+      "reviews": 7897,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/rome-l33/rome-castel-sant-angelo-entry-ticket-digital-audioguide-t476598/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

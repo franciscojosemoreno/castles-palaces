@@ -65,54 +65,41 @@
   "instagram_tag": "#highclerecastle",
   "meta_title": "Highclere Castle: Downton Abbey, Tickets & Visitor Guide 2026",
   "meta_description": "Visit Highclere Castle — the real Downton Abbey estate in Hampshire with State Rooms, Egyptian Exhibition and Carnarvon family history. Book early.",
-  "tags": ["victorian", "neo-gothic", "downton-abbey", "television", "inhabited", "english-castle", "aristocratic", "instagram-worthy"],
+  "tags": [
+    "victorian",
+    "neo-gothic",
+    "downton-abbey",
+    "television",
+    "inhabited",
+    "english-castle",
+    "aristocratic",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["windsor-castle", "blenheim-palace"],
-  "gyg_location_id": "34761",
+  "nearby_castles": [
+    "windsor-castle",
+    "blenheim-palace"
+  ],
+  "gyg_location_id": "57",
   "gyg_search_query": "Highclere Castle Downton Abbey tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "123059",
-      "title": "London: Downton Abbey, Cotswolds & Highclere Castle Tour",
+      "title": "London: Downton Abbey, Cotswolds, and Highclere Castle Tour",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 115,
-      "rating": 4.5,
-      "reviews": 350,
-      "covers_castles": ["highclere-castle"]
-    },
-    {
-      "tour_id": "61489",
-      "title": "London: Downton Abbey Filming Locations & Highclere Castle",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 95,
-      "rating": 4.4,
-      "reviews": 210,
-      "covers_castles": ["highclere-castle"]
-    },
-    {
-      "tour_id": "76972",
-      "title": "London: Downton Abbey Tour with Highclere, Bampton & Oxford",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 105,
-      "rating": 4.5,
-      "reviews": 245,
-      "covers_castles": ["highclere-castle"]
-    },
-    {
-      "tour_id": "95367",
-      "title": "London: Downton Abbey Tour with Castle Entry & Lunch",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 145,
-      "rating": 4.6,
-      "reviews": 155,
-      "covers_castles": ["highclere-castle"]
+      "duration": "11 hours",
+      "price_from": 266,
+      "rating": 4.8,
+      "reviews": 463,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/london-l57/from-london-downton-abbey-cotswolds-highclere-castle-t123059/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "highclere-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

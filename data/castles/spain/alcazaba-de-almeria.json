@@ -26,7 +26,7 @@
     "sunday": "09:00–15:30",
     "seasonal_note": "Hours vary seasonally between roughly 09:00–18:30 (Oct–Apr) and 09:00–20:30 (May–Sep), with Sunday and holiday closing earlier. Last entry 30 minutes before closing. Closed some public holidays — check the Junta de Andalucía site before visiting."
   },
-  "price_adult": 1.50,
+  "price_adult": 1.5,
   "price_child": 0,
   "booking_required": false,
   "official_tickets_url": "https://www.juntadeandalucia.es/cultura/patph/inmueble/alcazaba-de-almeria",
@@ -71,11 +71,26 @@
   "instagram_tag": "#alcazabadealmeria",
   "meta_title": "Alcazaba of Almería: Tickets, Hours & Visitor Guide 2026",
   "meta_description": "Visit the Alcazaba of Almería — a vast Umayyad fortress larger than the Alhambra, with Moorish gardens and a Christian keep. Tickets and visitor tips for 2026.",
-  "tags": ["umayyad", "moorish", "andalusia", "fortress", "taifa", "reconquista", "underrated"],
+  "tags": [
+    "umayyad",
+    "moorish",
+    "andalusia",
+    "fortress",
+    "taifa",
+    "reconquista",
+    "underrated"
+  ],
   "last_updated": "2026-06-26",
-  "routes": ["andalucia-palaces"],
-  "nearby_castles": ["alhambra-granada", "almodovar-castle", "castillo-de-banos-de-la-encina", "castillo-de-gibralfaro"],
-  "gyg_location_id": "147037",
+  "routes": [
+    "andalucia-palaces"
+  ],
+  "nearby_castles": [
+    "alhambra-granada",
+    "almodovar-castle",
+    "castillo-de-banos-de-la-encina",
+    "castillo-de-gibralfaro"
+  ],
+  "gyg_location_id": "1076",
   "gyg_search_query": "Alcazaba Almeria guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
@@ -87,9 +102,13 @@
       "duration": "2 hours",
       "price_from": 32,
       "rating": 5.0,
-      "reviews": 9,
+      "reviews": 11,
       "is_top_pick": true,
-      "covers_castles": ["alcazaba-de-almeria"]
+      "booking_url_override": "https://www.getyourguide.com/almeria-l1076/almeria-alcazaba-guided-tour-t1193491/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alcazaba-de-almeria"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

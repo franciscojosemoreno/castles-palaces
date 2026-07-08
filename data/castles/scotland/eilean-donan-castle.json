@@ -90,20 +90,22 @@
     "doune-castle",
     "cawdor-castle"
   ],
-  "gyg_location_id": "44",
+  "gyg_location_id": "115852",
   "gyg_search_query": "Eilean Donan Highland tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "385687",
-      "title": "Edinburgh: Loch Ness, Glencoe & Scottish Highlands",
+      "tour_id": "190023",
+      "title": "Inverness: Isle of Skye and Eilean Donan Castle Day Trip",
       "type": "day_trip",
-      "duration": "12.5 hours",
-      "price_from": 90,
-      "rating": 4.6,
-      "reviews": 18856,
-      "covers_castles": []
+      "duration": "12 hours",
+      "price_from": 92,
+      "rating": 4.8,
+      "reviews": 4517,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/kyle-of-lochalsh-l115852/isle-of-skye-and-eilean-donan-castle-tour-from-inverness-t190023/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,11 +71,25 @@
   "instagram_tag": "#hradLoket",
   "meta_title": "Loket Castle Czech Republic: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Loket Castle — the James Bond Casino Royale location in a perfect river loop near Karlovy Vary. Plan your day trip from Prague or Karlovy Vary.",
-  "tags": ["castle", "romanesque", "gothic", "czech-republic", "casino-royale", "james-bond", "karlovyvary", "goethe", "bohemia"],
+  "tags": [
+    "castle",
+    "romanesque",
+    "gothic",
+    "czech-republic",
+    "casino-royale",
+    "james-bond",
+    "karlovyvary",
+    "goethe",
+    "bohemia"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["karlstejn-castle", "cesky-krumlov-castle", "prague-castle"],
-  "gyg_location_id": "147318",
+  "nearby_castles": [
+    "karlstejn-castle",
+    "cesky-krumlov-castle",
+    "prague-castle"
+  ],
+  "gyg_location_id": "5024",
   "gyg_search_query": "Loket Castle Karlovy Vary Czech Republic tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +99,15 @@
       "title": "Prague: Karlovy Vary & Loket Tour with Hot Springs & Castle",
       "type": "day_trip",
       "duration": "12 hours",
-      "price_from": 173,
+      "price_from": 170,
       "rating": 5.0,
-      "reviews": 28,
-      "covers_castles": ["loket-castle"]
-    },
-    {
-      "tour_id": "1292358",
-      "title": "From Prague: Karlovy Vary and Loket Castle Day Trip",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 0,
-      "covers_castles": ["loket-castle"]
-    },
-    {
-      "tour_id": "645227",
-      "title": "Famous Spa Town Karlovy Vary & Castle Loket from Prague",
-      "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 158,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["loket-castle"]
+      "reviews": 36,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/karlovy-vary-l5024/prague-karlovy-vary-loket-tour-with-hot-springs-castle-t1083682/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "loket-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

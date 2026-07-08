@@ -67,10 +67,23 @@
   "instagram_tag": "#castellodimontebello",
   "meta_title": "Castello di Montebello, Bellinzona: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Castello di Montebello in Bellinzona — the most complete of the UNESCO-listed Three Castles, with round Venetian towers and the Civic Museum. Guide for 2026.",
-  "tags": ["unesco", "medieval", "ticino", "bellinzona", "swiss-confederation", "museum"],
+  "tags": [
+    "unesco",
+    "medieval",
+    "ticino",
+    "bellinzona",
+    "swiss-confederation",
+    "museum"
+  ],
   "last_updated": "2026-06-27",
-  "routes": ["swiss-alpine-castles"],
-  "nearby_castles": ["castel-grande", "castello-sasso-corbaro", "chateau-de-chillon"],
+  "routes": [
+    "swiss-alpine-castles"
+  ],
+  "nearby_castles": [
+    "castel-grande",
+    "castello-sasso-corbaro",
+    "chateau-de-chillon"
+  ],
   "gyg_location_id": "99510",
   "gyg_search_query": "Castello di Montebello Bellinzona tour",
   "gyg_widget_type": "activities",
@@ -78,14 +91,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1273588",
-      "title": "Bellinzona: Castello di Montebello Entry Ticket",
+      "title": "Admission ticket to Montebello Castle",
       "type": "entrance_ticket",
       "duration": "Valid 1 day",
       "price_from": 12,
-      "rating": 2.0,
-      "reviews": 1,
+      "rating": null,
+      "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["castello-di-montebello"]
+      "booking_url_override": "https://www.getyourguide.com/bellinzona-l99510/admission-ticket-to-montebello-castle-t1273588/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-di-montebello"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

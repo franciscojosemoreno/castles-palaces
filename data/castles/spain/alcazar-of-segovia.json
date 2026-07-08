@@ -81,20 +81,22 @@
     "el-escorial",
     "alcazar-de-los-reyes-cristianos"
   ],
-  "gyg_location_id": "504",
+  "gyg_location_id": "46",
   "gyg_search_query": "Alcazar Segovia castle tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "117462",
-      "title": "Madrid: Segovia, Toledo, Alcázar & Cathedral Day Trip",
+      "title": "Madrid: Segovia and Toledo Tour, Alcazar, and Cathedral",
       "type": "day_trip",
       "duration": "12 hours",
-      "price_from": 47,
+      "price_from": 46,
       "rating": 4.7,
-      "reviews": 8988,
-      "covers_castles": []
+      "reviews": 9480,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/madrid-l46/from-madrid-full-day-segovia-toledo-tour-t117462/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

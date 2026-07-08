@@ -71,11 +71,26 @@
   "instagram_tag": "#almodovarcastle",
   "meta_title": "Almodóvar Castle, Spain: Tickets, Hours & Visitor Guide 2026",
   "meta_description": "Visit Almodóvar Castle near Córdoba — nine towers above the Guadalquivir, a romantic 20th-century rebuild on Moorish foundations, and Casterly Rock from Game of Thrones.",
-  "tags": ["moorish", "medieval", "andalusia", "romantic-restoration", "film-location", "private-castle", "day-trip-from-cordoba"],
+  "tags": [
+    "moorish",
+    "medieval",
+    "andalusia",
+    "romantic-restoration",
+    "film-location",
+    "private-castle",
+    "day-trip-from-cordoba"
+  ],
   "last_updated": "2026-06-26",
-  "routes": ["andalucia-palaces"],
-  "nearby_castles": ["alcazar-seville", "alhambra-granada", "alcazaba-de-almeria", "castillo-de-banos-de-la-encina"],
-  "gyg_location_id": "147721",
+  "routes": [
+    "andalucia-palaces"
+  ],
+  "nearby_castles": [
+    "alcazar-seville",
+    "alhambra-granada",
+    "alcazaba-de-almeria",
+    "castillo-de-banos-de-la-encina"
+  ],
+  "gyg_location_id": "1689",
   "gyg_search_query": "Almodovar Castle Cordoba tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 2,
@@ -83,24 +98,17 @@
     {
       "tour_id": "384541",
       "title": "Córdoba: Almódovar Castle Entrance Ticket",
-      "type": "entrance_ticket",
+      "type": "skip_the_line",
       "duration": "1 hour",
       "price_from": 13,
       "rating": 4.7,
-      "reviews": 551,
+      "reviews": 552,
       "is_top_pick": true,
-      "covers_castles": ["almodovar-castle"]
-    },
-    {
-      "tour_id": "923816",
-      "title": "Guided Tour of Almodovar Castle with Admission Included",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 30,
-      "rating": 4.5,
-      "reviews": 6,
-      "is_top_pick": false,
-      "covers_castles": ["almodovar-castle"]
+      "booking_url_override": "https://www.getyourguide.com/cordoba-l1689/cordoba-almodovar-castle-skip-the-line-ticket-t384541/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "almodovar-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

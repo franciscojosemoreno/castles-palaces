@@ -71,11 +71,21 @@
   "instagram_tag": "#golubacfortress",
   "meta_title": "Golubac Fortress, Serbia — Medieval Towers on the Iron Gates Danube",
   "meta_description": "Visit Golubac Fortress in Serbia — nine medieval towers rising from the Danube at the Iron Gates gorge, one of Europe's most spectacular fortress sites.",
-  "tags": ["medieval", "serbian-castle", "danube", "iron-gates", "fortress"],
+  "tags": [
+    "medieval",
+    "serbian-castle",
+    "danube",
+    "iron-gates",
+    "fortress"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["smederevo-fortress", "ram-fortress", "belgrade-fortress"],
-  "gyg_location_id": "110782",
+  "nearby_castles": [
+    "smederevo-fortress",
+    "ram-fortress",
+    "belgrade-fortress"
+  ],
+  "gyg_location_id": "1688",
   "gyg_search_query": "Golubac Fortress Iron Gates Serbia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -83,42 +93,17 @@
     {
       "tour_id": "157074",
       "title": "Belgrade: Golubac Fortress with Iron Gate Speed Boat Ride",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 95,
-      "rating": 4.7,
-      "reviews": 582,
-      "covers_castles": ["golubac-fortress"]
-    },
-    {
-      "tour_id": "202822",
-      "title": "From Belgrade: Golubac Fortress & Iron Gate Gorge Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 424,
-      "covers_castles": ["golubac-fortress"]
-    },
-    {
-      "tour_id": "511738",
-      "title": "Iron Gate Tour: Golubac Fortress, Lepenski Vir & National Park",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 85,
-      "rating": 4.6,
-      "reviews": 282,
-      "covers_castles": ["golubac-fortress"]
-    },
-    {
-      "tour_id": "116044",
-      "title": "From Belgrade: Golubac Fortress & Iron Gate Danube Gorge",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 70,
-      "rating": 4.6,
-      "reviews": 342,
-      "covers_castles": ["golubac-fortress"]
+      "type": "boat_tour",
+      "duration": "8 - 10 hours",
+      "price_from": 67,
+      "rating": 4.9,
+      "reviews": 106,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/belgrade-l1688/golubac-fortress-wiron-gate-speed-boat-rakija-distillery-t157074/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "golubac-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,44 +71,35 @@
   "instagram_tag": "#samuelsfortress",
   "meta_title": "Samuel's Fortress, Ohrid — Byzantine Citadel Above UNESCO Lake Ohrid",
   "meta_description": "Visit Samuel's Fortress in Ohrid, North Macedonia — the medieval citadel of Tsar Samuel above a UNESCO old town and one of Europe's oldest lakes.",
-  "tags": ["byzantine", "medieval", "north-macedonia", "unesco-world-heritage", "lake-ohrid"],
+  "tags": [
+    "byzantine",
+    "medieval",
+    "north-macedonia",
+    "unesco-world-heritage",
+    "lake-ohrid"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "143609",
+  "gyg_location_id": "2468",
   "gyg_search_query": "Samuel Fortress Ohrid tour North Macedonia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "639000",
-      "title": "North Macedonia: Ohrid & St Naum Day Tour from Tirana",
+      "tour_id": "1126238",
+      "title": "Tirana/Durres: Lake Ohrid & North Macedonia UNESCO Old Town",
       "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 51,
-      "rating": 4.8,
-      "reviews": 1240,
-      "covers_castles": ["samuels-fortress"]
-    },
-    {
-      "tour_id": "677292",
-      "title": "Tirana/Durrës: Day Trip to Ohrid, St Naum, North Macedonia",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 51,
-      "rating": 4.8,
-      "reviews": 253,
-      "covers_castles": ["samuels-fortress"]
-    },
-    {
-      "tour_id": "200767",
-      "title": "From Skopje: Private Full-Day Tour of Ohrid and Saint Naum",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 266,
-      "rating": 5.0,
-      "reviews": 8,
-      "covers_castles": ["samuels-fortress"]
+      "duration": "9 - 11 hours",
+      "price_from": 48,
+      "rating": 4.9,
+      "reviews": 112,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tirana-l2468/from-tiaranadurres-north-macedoniaohrid-day-trip-t1126238/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "samuels-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

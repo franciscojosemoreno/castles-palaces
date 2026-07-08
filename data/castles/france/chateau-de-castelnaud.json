@@ -71,10 +71,18 @@
   "instagram_tag": "#castelnaud",
   "meta_title": "Château de Castelnaud, France — Medieval Fortress & Museum of Warfare",
   "meta_description": "Explore Château de Castelnaud in the Dordogne — medieval siege engines, panoramic valley views, and one of France's finest castle museums.",
-  "tags": ["medieval", "french-castle", "dordogne", "hundred-years-war", "museum"],
+  "tags": [
+    "medieval",
+    "french-castle",
+    "dordogne",
+    "hundred-years-war",
+    "museum"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["chateau-de-beynac"],
+  "nearby_castles": [
+    "chateau-de-beynac"
+  ],
   "gyg_location_id": "139351",
   "gyg_search_query": "Castelnaud castle Dordogne tour",
   "gyg_widget_type": "activities",
@@ -82,13 +90,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1079053",
-      "title": "Castelnaud Castle: Medieval Warfare Museum Admission Ticket",
+      "title": "Castelnaud Castle - Medieval Warfare Museum: Admission ticket",
       "type": "entry_ticket",
       "duration": "2 hours",
-      "price_from": 20,
-      "rating": 4.5,
-      "reviews": 250,
-      "covers_castles": ["chateau-de-castelnaud"]
+      "price_from": 19,
+      "rating": 4.7,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/castelnaud-la-chapelle-l139351/castelnaud-castle-medieval-warfare-museum-admission-ticket-t1079053/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-castelnaud"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

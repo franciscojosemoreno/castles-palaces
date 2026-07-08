@@ -88,40 +88,25 @@
     "augustusburg-palace",
     "drachenburg-castle"
   ],
-  "gyg_location_id": "174139",
+  "gyg_location_id": "529",
   "gyg_search_query": "Marksburg Castle Rhine Valley Koblenz tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "597159",
-      "title": "Koblenz: Rhine Valley Castles and Palaces Boat Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 22,
-      "rating": 4.4,
-      "reviews": 2037,
-      "covers_castles": ["marksburg-castle"]
-    },
-    {
       "tour_id": "420323",
-      "title": "Koblenz: Rhine Valley Boat Tour along the Castles and Palaces",
-      "type": "guided_tour",
+      "title": "Koblenz:Rhine Valley boat tour along the castles and palaces",
+      "type": "boat_tour",
       "duration": "2 hours",
       "price_from": 22,
       "rating": 4.6,
-      "reviews": 1161,
-      "covers_castles": ["marksburg-castle"]
-    },
-    {
-      "tour_id": "755835",
-      "title": "Private Day Trip from Frankfurt to Rhine Valley & Back",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 430,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["marksburg-castle"]
+      "reviews": 1187,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/koblenz-l529/koblenzrhine-valley-boat-tour-along-the-castles-and-palaces-t420323/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "marksburg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

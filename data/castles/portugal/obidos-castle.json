@@ -71,44 +71,41 @@
   "instagram_tag": "#obidosportugal",
   "meta_title": "Óbidos Castle, Portugal — Medieval Walled Town & Royal Pousada",
   "meta_description": "Visit Óbidos in Portugal — a perfectly preserved medieval walled town with walkable ramparts, a castle pousada, and the famous ginja liqueur.",
-  "tags": ["medieval", "portuguese-castle", "walled-town", "pousada", "centro"],
+  "tags": [
+    "medieval",
+    "portuguese-castle",
+    "walled-town",
+    "pousada",
+    "centro"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["pena-palace", "silves-castle", "convent-of-christ-tomar", "queluz-palace", "mafra-palace"],
-  "gyg_location_id": "143149",
+  "nearby_castles": [
+    "pena-palace",
+    "silves-castle",
+    "convent-of-christ-tomar",
+    "queluz-palace",
+    "mafra-palace"
+  ],
+  "gyg_location_id": "675",
   "gyg_search_query": "Óbidos castle walled town tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "446420",
-      "title": "Óbidos: Medieval Tales & Secret Spots Guided Walking Tour",
+      "title": "Óbidos: Medieval Tales & Secrets Spots Guided Walking Tour",
       "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 22,
-      "rating": 4.7,
-      "reviews": 190,
-      "covers_castles": ["obidos-castle"]
-    },
-    {
-      "tour_id": "418712",
-      "title": "From Lisbon: Budha Eden, Óbidos & Nazaré Private Day Trip",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 65,
-      "rating": 4.6,
-      "reviews": 280,
-      "covers_castles": ["obidos-castle"]
-    },
-    {
-      "tour_id": "485639",
-      "title": "Óbidos Castle and Buddha Eden Private Tour",
-      "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 80,
-      "rating": 4.7,
-      "reviews": 95,
-      "covers_castles": ["obidos-castle"]
+      "duration": "2 hours",
+      "price_from": 40,
+      "rating": 4.9,
+      "reviews": 193,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/obidos-l675/obidos-medieval-tales-secrets-spots-guided-walking-tour-t446420/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "obidos-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

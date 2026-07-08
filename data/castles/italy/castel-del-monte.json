@@ -79,7 +79,7 @@
     "rocca-calascio",
     "norman-swabian-castle-bari"
   ],
-  "gyg_location_id": "119100",
+  "gyg_location_id": "1234",
   "gyg_search_query": "Castel del Monte Puglia tour Italy",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -89,40 +89,15 @@
       "title": "Andria: Castel del Monte Skip-the-Line Entry Ticket",
       "type": "skip_the_line",
       "duration": "1.5 hours",
-      "price_from": 12,
-      "rating": 4.5,
-      "reviews": 1248,
-      "covers_castles": ["castel-del-monte"]
-    },
-    {
-      "tour_id": "37549",
-      "title": "Andria: Castel del Monte 1.5-Hour Guided Tour",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 23,
-      "rating": 4.7,
-      "reviews": 582,
-      "covers_castles": ["castel-del-monte"]
-    },
-    {
-      "tour_id": "529378",
-      "title": "From Bari: Organized Tour to Trani & Castel del Monte",
-      "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 65,
-      "rating": 4.6,
-      "reviews": 348,
-      "covers_castles": ["castel-del-monte"]
-    },
-    {
-      "tour_id": "42944",
-      "title": "Castel del Monte: Private Guided Tour — The Crown of Italy",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 65,
-      "rating": 4.8,
-      "reviews": 284,
-      "covers_castles": ["castel-del-monte"]
+      "price_from": 14,
+      "rating": 4.2,
+      "reviews": 147,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/andria-l1234/andria-castel-del-monte-skip-the-line-entry-ticket-t720651/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castel-del-monte"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

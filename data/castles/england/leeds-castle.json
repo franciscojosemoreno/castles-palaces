@@ -65,44 +65,42 @@
   "instagram_tag": "#leedscastle",
   "meta_title": "Leeds Castle: Tickets, Gardens & Visitor Guide 2026",
   "meta_description": "Visit Leeds Castle in Kent — one of the world's most beautiful castles, rising from a lake with 500 acres of gardens, a maze and rich royal history.",
-  "tags": ["medieval", "moat", "gardens", "english-castle", "family-friendly", "romantic", "instagram-worthy", "tudor"],
+  "tags": [
+    "medieval",
+    "moat",
+    "gardens",
+    "english-castle",
+    "family-friendly",
+    "romantic",
+    "instagram-worthy",
+    "tudor"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["dover-castle", "hever-castle", "tower-of-london"],
-  "gyg_location_id": "5022",
+  "nearby_castles": [
+    "dover-castle",
+    "hever-castle",
+    "tower-of-london"
+  ],
+  "gyg_location_id": "57",
   "gyg_search_query": "Leeds Castle tour tickets Kent",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "415401",
-      "title": "Kent: Leeds Castle Admission Ticket",
-      "type": "entry_ticket",
-      "duration": "Self-guided",
-      "price_from": 38,
-      "rating": 4.5,
-      "reviews": 480,
-      "covers_castles": ["leeds-castle"]
-    },
-    {
       "tour_id": "2257",
-      "title": "From London: Leeds Castle, Canterbury Cathedral & Dover Tour",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 82,
-      "rating": 4.5,
-      "reviews": 650,
-      "covers_castles": ["leeds-castle"]
-    },
-    {
-      "tour_id": "1128430",
-      "title": "London: Leeds Castle and Hever Castle Day Trip with Tickets",
-      "type": "day_trip",
+      "title": "From London: Leeds Castle, Canterbury Cathedral & Dover",
+      "type": "entry_ticket",
       "duration": "10 hours",
-      "price_from": 99,
-      "rating": 4.6,
-      "reviews": 210,
-      "covers_castles": ["leeds-castle", "hever-castle"]
+      "price_from": 140,
+      "rating": 4.4,
+      "reviews": 783,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/london-l57/leeds-castle-private-viewing-canterbury-cathedral-dover-t2257/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "leeds-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

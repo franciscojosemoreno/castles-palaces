@@ -67,10 +67,19 @@
   "instagram_tag": "#palaciorealdeolite",
   "meta_title": "Royal Palace of Olite: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit the Royal Palace of Olite — Navarre's extravagant 23-towered Gothic palace built by Charles III the Noble. Tickets, history and visitor tips for 2026.",
-  "tags": ["gothic", "medieval", "navarre", "royal-residence", "instagram-worthy", "day-trip-from-pamplona"],
+  "tags": [
+    "gothic",
+    "medieval",
+    "navarre",
+    "royal-residence",
+    "instagram-worthy",
+    "day-trip-from-pamplona"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["cardona-castle"],
+  "nearby_castles": [
+    "cardona-castle"
+  ],
   "gyg_location_id": "143982",
   "gyg_search_query": "Olite Royal Palace Navarre tour",
   "gyg_widget_type": "activities",
@@ -78,25 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1004381",
-      "title": "Medieval Route in Navarre: Olite, Ujué, Castillo de Javier, and Monasterio de Leyre",
+      "title": "Medieval Route in Navarre: Olite, Ujué, Castillo de Javier, and Mª de Leire",
       "type": "day_trip",
       "duration": "11 hours",
-      "price_from": 125,
+      "price_from": 126,
       "rating": 4.9,
-      "reviews": 10,
+      "reviews": 12,
       "is_top_pick": true,
-      "covers_castles": ["palacio-real-de-olite"]
-    },
-    {
-      "tour_id": "1034935",
-      "title": "Olite Royal Palace and Ujué Abbey from Pamplona",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 97,
-      "rating": 4.7,
-      "reviews": 0,
-      "is_top_pick": false,
-      "covers_castles": ["palacio-real-de-olite"]
+      "booking_url_override": "https://www.getyourguide.com/olite-l143982/medieval-route-in-navarre-olite-ujue-castillo-de-javier-and-ma-de-leire-t1004381/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palacio-real-de-olite"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

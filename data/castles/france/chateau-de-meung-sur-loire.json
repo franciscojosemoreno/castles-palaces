@@ -67,25 +67,41 @@
   "instagram_tag": "#meungsurloire",
   "meta_title": "Château de Meung-sur-Loire: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Château de Meung-sur-Loire near Orléans — the Bishops of Orléans' fortress, François Villon's dungeon, and the real-world setting that inspired The Three Musketeers. Guide for 2026.",
-  "tags": ["medieval", "loire-valley", "dungeon", "literary", "episcopal", "day-trip-from-orleans"],
+  "tags": [
+    "medieval",
+    "loire-valley",
+    "dungeon",
+    "literary",
+    "episcopal",
+    "day-trip-from-orleans"
+  ],
   "last_updated": "2026-06-27",
-  "routes": ["loire-valley-castles"],
-  "nearby_castles": ["chateau-de-blois", "chateau-de-chambord"],
-  "gyg_location_id": "35246",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-blois",
+    "chateau-de-chambord"
+  ],
+  "gyg_location_id": "220",
   "gyg_search_query": "Chateau de Meung-sur-Loire tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
   "gyg_featured_tours": [
     {
       "tour_id": "1284742",
-      "title": "Meung-sur-Loire: Château Entry Ticket",
+      "title": "Château-parc de Meung-sur-Loire: Castle and park access",
       "type": "entry_ticket",
       "duration": "Valid 1 day",
-      "price_from": 11.5,
+      "price_from": 15,
       "rating": 5.0,
       "reviews": 2,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-meung-sur-loire"]
+      "booking_url_override": "https://www.getyourguide.com/orleans-l220/chateau-parc-de-meung-sur-loire-castle-and-park-access-t1284742/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-meung-sur-loire"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

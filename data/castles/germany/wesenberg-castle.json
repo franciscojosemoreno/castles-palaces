@@ -67,10 +67,18 @@
   "instagram_tag": "#burgwesenberg",
   "meta_title": "Wesenberg Castle, Mecklenburg: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Burg Wesenberg in Germany's Mecklenburg lake district — a 13th-century tower between two lakes, with one of the most affordable castle tickets in the country. Guide for 2026.",
-  "tags": ["medieval", "mecklenburg-vorpommern", "lake-district", "underrated", "affordable"],
+  "tags": [
+    "medieval",
+    "mecklenburg-vorpommern",
+    "lake-district",
+    "underrated",
+    "affordable"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["schwerin-castle"],
+  "nearby_castles": [
+    "schwerin-castle"
+  ],
   "gyg_location_id": "270091",
   "gyg_search_query": "Wesenberg Castle Mecklenburg tour",
   "gyg_widget_type": "activities",
@@ -78,14 +86,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1258457",
-      "title": "Wesenberg: Burg Wesenberg Entry Ticket",
+      "title": "Admission to the exhibitions at Wesenberg Castle",
       "type": "entrance_ticket",
       "duration": "1 hour",
-      "price_from": 2.28,
+      "price_from": 2,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["wesenberg-castle"]
+      "booking_url_override": "https://www.getyourguide.com/wesenberg-l270091/admission-to-the-exhibitions-at-wesenberg-castle-t1258457/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "wesenberg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

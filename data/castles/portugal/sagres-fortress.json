@@ -67,7 +67,15 @@
   "instagram_tag": "#fortalezadesagres",
   "meta_title": "Sagres Fortress, Algarve: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Sagres Fortress — the clifftop promontory associated with Henry the Navigator at the edge of Europe. Includes the mysterious rosa dos ventos wind rose. Open year-round.",
-  "tags": ["henry-the-navigator", "age-of-discoveries", "algarve", "portugal", "coastal", "rosa-dos-ventos", "cape"],
+  "tags": [
+    "henry-the-navigator",
+    "age-of-discoveries",
+    "algarve",
+    "portugal",
+    "coastal",
+    "rosa-dos-ventos",
+    "cape"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -79,13 +87,17 @@
     {
       "tour_id": "694995",
       "title": "Sagres: Sagres Fortress Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1.5–2 hours",
       "price_from": 11,
-      "rating": 4.0,
-      "reviews": 4,
+      "rating": 4.2,
+      "reviews": 5,
       "is_top_pick": true,
-      "covers_castles": ["sagres-fortress"]
+      "booking_url_override": "https://www.getyourguide.com/sagres-l1731/sagres-sagres-fortress-entry-ticket-t694995/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "sagres-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

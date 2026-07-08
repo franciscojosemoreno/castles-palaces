@@ -67,10 +67,21 @@
   "instagram_tag": "#kensingtonpalace",
   "meta_title": "Kensington Palace, London: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Kensington Palace in London — William Kent's painted state apartments, Queen Victoria's childhood home, and the legacy of Diana, Princess of Wales. Guide for 2026.",
-  "tags": ["royal-residence", "london", "baroque", "queen-victoria", "diana", "working-palace"],
+  "tags": [
+    "royal-residence",
+    "london",
+    "baroque",
+    "queen-victoria",
+    "diana",
+    "working-palace"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["buckingham-palace", "tower-of-london", "hampton-court-palace"],
+  "nearby_castles": [
+    "buckingham-palace",
+    "tower-of-london",
+    "hampton-court-palace"
+  ],
   "gyg_location_id": "57",
   "gyg_search_query": "Kensington Palace London tour",
   "gyg_widget_type": "activities",
@@ -83,9 +94,13 @@
       "duration": "1.5 hours",
       "price_from": 25,
       "rating": 4.5,
-      "reviews": 4555,
+      "reviews": 4586,
       "is_top_pick": true,
-      "covers_castles": ["kensington-palace"]
+      "booking_url_override": "https://www.getyourguide.com/london-l57/kensington-palace-90-minute-sightseeing-tour-t21251/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "kensington-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

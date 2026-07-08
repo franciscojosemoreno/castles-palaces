@@ -71,11 +71,19 @@
   "instagram_tag": "#monteriggioni",
   "meta_title": "Monteriggioni, Tuscany — Dante's Perfect Medieval Ring Fortress",
   "meta_description": "Visit Monteriggioni in Tuscany — a perfectly intact 13th-century walled village immortalised by Dante, with 14 towers rising above the Chianti hills near Siena.",
-  "tags": ["medieval", "italian-castle", "tuscany", "walled-village", "via-francigena"],
+  "tags": [
+    "medieval",
+    "italian-castle",
+    "tuscany",
+    "walled-village",
+    "via-francigena"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["san-giusto-castle"],
-  "gyg_location_id": "115917",
+  "nearby_castles": [
+    "san-giusto-castle"
+  ],
+  "gyg_location_id": "32",
   "gyg_search_query": "Monteriggioni walled village tour from Siena",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,40 +93,15 @@
       "title": "Florence: Siena, San Gimignano & Monteriggioni with Tasting",
       "type": "day_trip",
       "duration": "11 hours",
-      "price_from": 72,
+      "price_from": 67,
       "rating": 4.6,
-      "reviews": 3569,
-      "covers_castles": ["monteriggioni"]
-    },
-    {
-      "tour_id": "8413",
-      "title": "From Siena: Chianti and Castles Tour with Wine Tastings",
-      "type": "guided_tour",
-      "duration": "5 hours",
-      "price_from": 99,
-      "rating": 4.6,
-      "reviews": 686,
-      "covers_castles": ["monteriggioni"]
-    },
-    {
-      "tour_id": "6927",
-      "title": "Chianti Wine Region, Monteriggioni & San Gimignano Tour",
-      "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 85,
-      "rating": 4.5,
-      "reviews": 452,
-      "covers_castles": ["monteriggioni"]
-    },
-    {
-      "tour_id": "519683",
-      "title": "Florence: Monteriggioni & Val d'Orcia Medieval Experience",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 95,
-      "rating": 4.6,
-      "reviews": 312,
-      "covers_castles": ["monteriggioni"]
+      "reviews": 3668,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/florence-l32/tuscan-1-day-siena-san-gimignano-monteriggioni-chianti-t17166/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "monteriggioni"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

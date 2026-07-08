@@ -70,11 +70,25 @@
   "instagram_tag": "#sanssouci",
   "meta_title": "Sanssouci Palace Potsdam: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Sanssouci Palace in Potsdam — Frederick the Great's intimate Rococo retreat. Book timed entry, plan your Berlin day trip and explore the UNESCO-listed park.",
-  "tags": ["palace", "rococo", "18th-century", "unesco-world-heritage", "day-trip-from-berlin", "frederick-the-great", "book-in-advance"],
+  "tags": [
+    "palace",
+    "rococo",
+    "18th-century",
+    "unesco-world-heritage",
+    "day-trip-from-berlin",
+    "frederick-the-great",
+    "book-in-advance"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["heidelberg-castle", "hohenzollern-castle", "rheinsberg-palace", "charlottenburg-palace", "palace-of-kopenick"],
-  "gyg_location_id": "4527",
+  "nearby_castles": [
+    "heidelberg-castle",
+    "hohenzollern-castle",
+    "rheinsberg-palace",
+    "charlottenburg-palace",
+    "palace-of-kopenick"
+  ],
+  "gyg_location_id": "17",
   "gyg_search_query": "Sanssouci Palace Potsdam tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -84,10 +98,15 @@
       "title": "From Berlin: Potsdam and Sanssouci Palace Tour with Entry",
       "type": "day_trip",
       "duration": "4 hours",
-      "price_from": 65,
-      "rating": 4.6,
-      "reviews": 2100,
-      "covers_castles": ["sanssouci-palace"]
+      "price_from": 73,
+      "rating": 4.7,
+      "reviews": 1291,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/berlin-l17/from-berlin-potsdam-and-sanssouci-palace-tour-with-entry-t26520/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "sanssouci-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

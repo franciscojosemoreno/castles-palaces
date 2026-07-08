@@ -12,7 +12,7 @@
   "nearest_city": "Brescia",
   "address": "Piazza Castello, 25019 Sirmione BS, Italy",
   "lat": 45.4956,
-  "lng": 10.6050,
+  "lng": 10.605,
   "unesco": false,
   "year_built": 1259,
   "architectural_style": "Scaligero Gothic",
@@ -71,11 +71,20 @@
   "instagram_tag": "#castelloscaligero",
   "meta_title": "Scaligero Castle Sirmione, Lake Garda — Medieval Fortress on the Water",
   "meta_description": "Visit Scaligero Castle in Sirmione on Lake Garda — a 13th-century Scaligero fortress with lake views, a harbour, and medieval towers.",
-  "tags": ["medieval", "italian-castle", "lake-garda", "scaligero", "lombardy"],
+  "tags": [
+    "medieval",
+    "italian-castle",
+    "lake-garda",
+    "scaligero",
+    "lombardy"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["miramare-castle", "doges-palace"],
-  "gyg_location_id": "191244",
+  "nearby_castles": [
+    "miramare-castle",
+    "doges-palace"
+  ],
+  "gyg_location_id": "108547",
   "gyg_search_query": "Sirmione castle Lake Garda tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -86,19 +95,14 @@
       "type": "entry_ticket",
       "duration": "45 minutes",
       "price_from": 34,
-      "rating": 4.1,
-      "reviews": 85,
-      "covers_castles": ["scaligero-castle-sirmione"]
-    },
-    {
-      "tour_id": "421668",
-      "title": "Sirmione: Private Guided Walking Tour on Lake Garda",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 35,
-      "rating": 4.8,
-      "reviews": 120,
-      "covers_castles": ["scaligero-castle-sirmione"]
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/sirmione-l108547/sirmione-scaligero-castle-ticket-and-guided-tour-t1330635/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "scaligero-castle-sirmione"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

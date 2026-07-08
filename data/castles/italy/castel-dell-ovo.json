@@ -75,11 +75,25 @@
   "instagram_tag": "casteldellovo",
   "meta_title": "Castel dell'Ovo, Naples: Free Entry, Hours & Visitor Guide (2026)",
   "meta_description": "Visit Castel dell'Ovo in Naples — the city's oldest castle, free to enter, with spectacular views of the Bay of Naples and Vesuvius. Opening hours and tips.",
-  "tags": ["italy", "naples", "campania", "norman", "free-entry", "sea-castle", "bay-of-naples", "vesuvius", "family-friendly"],
+  "tags": [
+    "italy",
+    "naples",
+    "campania",
+    "norman",
+    "free-entry",
+    "sea-castle",
+    "bay-of-naples",
+    "vesuvius",
+    "family-friendly"
+  ],
   "last_updated": "2026-06-23",
   "routes": [],
-  "nearby_castles": ["castel-santangelo", "aragonese-castle-ischia", "castel-santelmo"],
-  "gyg_location_id": "140221",
+  "nearby_castles": [
+    "castel-santangelo",
+    "aragonese-castle-ischia",
+    "castel-santelmo"
+  ],
+  "gyg_location_id": "162",
   "gyg_search_query": "Castel dell'Ovo Naples tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
@@ -89,20 +103,15 @@
       "title": "Naples: Refined Chiaia District Walking Tour",
       "type": "guided_tour",
       "duration": "3 hours",
-      "price_from": 149,
+      "price_from": 148,
       "rating": null,
       "reviews": 0,
-      "covers_castles": ["castel-dell-ovo"]
-    },
-    {
-      "tour_id": "37170",
-      "title": "Naples: Guided Walking Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 103,
-      "rating": 4.8,
-      "reviews": 65,
-      "covers_castles": ["castel-dell-ovo"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/naples-l162/the-refined-side-of-naples-walking-tour-of-chiaia-district-t1107197/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castel-dell-ovo"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

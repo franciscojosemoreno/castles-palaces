@@ -71,11 +71,26 @@
   "instagram_tag": "#acrocorinth",
   "meta_title": "Acrocorinth Greece: Free Entry, Tours & Visitor Guide 2026",
   "meta_description": "Visit Acrocorinth — 2,500 years of Greek, Roman, Byzantine, Frankish and Ottoman history on a 575m summit above Corinth. Free entry and panoramic views to Athens.",
-  "tags": ["castle", "ancient-greek", "byzantine", "frankish", "venetian", "ottoman", "free-entry", "corinth", "peloponnese", "greece"],
+  "tags": [
+    "castle",
+    "ancient-greek",
+    "byzantine",
+    "frankish",
+    "venetian",
+    "ottoman",
+    "free-entry",
+    "corinth",
+    "peloponnese",
+    "greece"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["palamidi-fortress", "methoni-castle", "palace-of-the-grand-master"],
-  "gyg_location_id": "148658",
+  "nearby_castles": [
+    "palamidi-fortress",
+    "methoni-castle",
+    "palace-of-the-grand-master"
+  ],
+  "gyg_location_id": "759",
   "gyg_search_query": "Acrocorinth Corinth Greece day trip Athens",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -83,32 +98,17 @@
     {
       "tour_id": "659485",
       "title": "Paul's Biblical and Ancient Corinth Half-Day Tour",
-      "type": "guided_tour",
+      "type": "day_trip",
       "duration": "6 hours",
-      "price_from": 148,
+      "price_from": 146,
       "rating": 4.9,
-      "reviews": 164,
-      "covers_castles": ["acrocorinth"]
-    },
-    {
-      "tour_id": "689081",
-      "title": "The Apostle Paul's Missionary Journey in Athens and Corinth",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 78,
-      "rating": 5.0,
-      "reviews": 92,
-      "covers_castles": ["acrocorinth"]
-    },
-    {
-      "tour_id": "1167771",
-      "title": "Athens: Ancient Corinth Tour with Ticket Beach Stop & Pickup",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 81,
-      "rating": 4.9,
-      "reviews": 49,
-      "covers_castles": ["acrocorinth"]
+      "reviews": 174,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/piraeus-l759/paul-s-biblical-and-ancient-corinth-half-day-tour-t659485/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "acrocorinth"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

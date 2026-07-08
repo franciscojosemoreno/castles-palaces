@@ -67,7 +67,13 @@
   "instagram_tag": "#fabercastellcastle",
   "meta_title": "Faber-Castell Castle, Stein: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Schloss Faber-Castell near Nuremberg — the neo-Gothic ancestral seat of the world's oldest pencil maker, with a top-rated guided tour. Guide for 2026.",
-  "tags": ["neo-gothic", "bavaria", "nuremberg", "family-business", "industrial-heritage"],
+  "tags": [
+    "neo-gothic",
+    "bavaria",
+    "nuremberg",
+    "family-business",
+    "industrial-heritage"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
   "nearby_castles": [],
@@ -78,14 +84,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "922369",
-      "title": "Stein near Nuremberg: Faber-Castell Castle Guided Tour",
+      "title": "Stein: Guided Tour of Graf von Faber-Castell's Castle",
       "type": "guided_tour",
       "duration": "1.5 hours",
       "price_from": 14,
       "rating": 4.9,
       "reviews": 32,
       "is_top_pick": true,
-      "covers_castles": ["faber-castell-castle"]
+      "booking_url_override": "https://www.getyourguide.com/stein-germany-l103254/stein-guided-tour-of-graf-von-faber-castell-s-castle-t922369/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "faber-castell-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

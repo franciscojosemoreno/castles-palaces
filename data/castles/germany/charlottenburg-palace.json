@@ -67,10 +67,20 @@
   "instagram_tag": "#schlosscharlottenburg",
   "meta_title": "Charlottenburg Palace, Berlin: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Charlottenburg Palace in Berlin — the city's largest palace, with a porcelain cabinet, the Rococo Golden Gallery and four centuries of Prussian history. Guide for 2026.",
-  "tags": ["baroque", "rococo", "berlin", "prussian-history", "porcelain", "reconstruction"],
+  "tags": [
+    "baroque",
+    "rococo",
+    "berlin",
+    "prussian-history",
+    "porcelain",
+    "reconstruction"
+  ],
   "last_updated": "2026-06-29",
   "routes": [],
-  "nearby_castles": ["palace-of-kopenick", "sanssouci-palace"],
+  "nearby_castles": [
+    "palace-of-kopenick",
+    "sanssouci-palace"
+  ],
   "gyg_location_id": "17",
   "gyg_search_query": "Charlottenburg Palace Berlin tour",
   "gyg_widget_type": "activities",
@@ -79,13 +89,17 @@
     {
       "tour_id": "560843",
       "title": "Berlin: Charlottenburg Palace Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 22,
       "rating": 4.5,
-      "reviews": 2447,
+      "reviews": 2468,
       "is_top_pick": true,
-      "covers_castles": ["charlottenburg-palace"]
+      "booking_url_override": "https://www.getyourguide.com/berlin-l17/berlin-charlottenburg-palace-entry-ticket-t560843/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "charlottenburg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

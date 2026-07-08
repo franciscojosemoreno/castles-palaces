@@ -67,11 +67,23 @@
   "instagram_tag": "#bashtova",
   "meta_title": "Fortress of Bashtova, Albania: Visitor Guide 2026",
   "meta_description": "Visit the Fortress of Bashtova on Albania's Adriatic coast — a 15th-century Venetian-Ottoman stronghold on the ancient Via Egnatia, one of Albania's most overlooked monuments.",
-  "tags": ["venetian", "ottoman", "medieval", "albania", "coastal", "via-egnatia", "off-the-beaten-path"],
+  "tags": [
+    "venetian",
+    "ottoman",
+    "medieval",
+    "albania",
+    "coastal",
+    "via-egnatia",
+    "off-the-beaten-path"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": ["rozafa-castle", "kruje-castle", "berat-castle"],
-  "gyg_location_id": "169053",
+  "nearby_castles": [
+    "rozafa-castle",
+    "kruje-castle",
+    "berat-castle"
+  ],
+  "gyg_location_id": "207848",
   "gyg_search_query": "Fortress Bashtova Albania guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
@@ -85,7 +97,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["fortress-of-bashtova"]
+      "booking_url_override": "https://www.getyourguide.com/europe-l207848/fortress-of-bashtova-and-ethnographic-museum-tour-t1250400/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "fortress-of-bashtova"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

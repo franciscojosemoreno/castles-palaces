@@ -67,7 +67,14 @@
   "instagram_tag": "#ananuri",
   "meta_title": "Ananuri Fortress Georgia: Tickets, History & Visitor Guide 2026",
   "meta_description": "Visit Ananuri Fortress — a medieval Georgian castle complex reflected in a turquoise mountain reservoir, 72km from Tbilisi on the road to the Caucasus. Complete visitor guide.",
-  "tags": ["medieval", "georgian", "caucasus", "dramatic", "mountain", "reservoir"],
+  "tags": [
+    "medieval",
+    "georgian",
+    "caucasus",
+    "dramatic",
+    "mountain",
+    "reservoir"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [],
@@ -77,44 +84,19 @@
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "466188",
-      "title": "From Tbilisi: Guided Day Trip to Ananuri, Gudauri & Kazbegi",
+      "tour_id": "891215",
+      "title": "From Tbilisi: Kazbegi, Gudauri & Gergeti Group Day Tour",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 28,
-      "rating": 4.7,
-      "reviews": 620,
-      "covers_castles": ["ananuri-fortress"]
-    },
-    {
-      "tour_id": "196553",
-      "title": "Tbilisi: Day Trip to Kazbegi, Gudauri, Gergeti & Ananuri",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 30,
-      "rating": 4.6,
-      "reviews": 480,
-      "covers_castles": ["ananuri-fortress"]
-    },
-    {
-      "tour_id": "818222",
-      "title": "From Tbilisi: Kazbegi Mountain and Ananuri Fortress Day Trip",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 35,
-      "rating": 4.7,
-      "reviews": 390,
-      "covers_castles": ["ananuri-fortress"]
-    },
-    {
-      "tour_id": "187575",
-      "title": "From Tbilisi: Ananuri, Gudauri & Kazbegi Private Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 95,
+      "duration": "11 hours",
+      "price_from": 20,
       "rating": 4.8,
-      "reviews": 215,
-      "covers_castles": ["ananuri-fortress"]
+      "reviews": 1552,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tbilisi-l1379/from-tbilisi-kazbegi-gudauri-gergeti-group-day-tour-t891215/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "ananuri-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

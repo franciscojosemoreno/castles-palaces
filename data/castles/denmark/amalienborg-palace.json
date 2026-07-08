@@ -67,10 +67,20 @@
   "instagram_tag": "#amalienborg",
   "meta_title": "Amalienborg Palace, Copenhagen: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Amalienborg Palace in Copenhagen — four Rococo palaces, the Danish royal family's home since 1794, and the daily changing of the guard. Guide for 2026.",
-  "tags": ["rococo", "royal-residence", "copenhagen", "danish-monarchy", "changing-of-the-guard"],
+  "tags": [
+    "rococo",
+    "royal-residence",
+    "copenhagen",
+    "danish-monarchy",
+    "changing-of-the-guard"
+  ],
   "last_updated": "2026-06-29",
   "routes": [],
-  "nearby_castles": ["rosenborg-castle", "christiansborg-palace", "frederiksborg-palace"],
+  "nearby_castles": [
+    "rosenborg-castle",
+    "christiansborg-palace",
+    "frederiksborg-palace"
+  ],
   "gyg_location_id": "12",
   "gyg_search_query": "Amalienborg Palace Copenhagen tour",
   "gyg_widget_type": "activities",
@@ -79,13 +89,17 @@
     {
       "tour_id": "743612",
       "title": "Copenhagen: Amalienborg Palace Museum Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1 hour",
       "price_from": 21,
       "rating": 4.3,
       "reviews": 762,
       "is_top_pick": true,
-      "covers_castles": ["amalienborg-palace"]
+      "booking_url_override": "https://www.getyourguide.com/copenhagen-l12/copenhagen-amalienborg-palace-museum-entry-ticket-t743612/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "amalienborg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

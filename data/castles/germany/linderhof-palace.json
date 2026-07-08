@@ -89,32 +89,32 @@
   ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["neuschwanstein-castle", "hohenschwangau-castle", "nymphenburg-palace", "herrenchiemsee-palace"],
-  "gyg_location_id": "33984",
+  "nearby_castles": [
+    "neuschwanstein-castle",
+    "hohenschwangau-castle",
+    "nymphenburg-palace",
+    "herrenchiemsee-palace"
+  ],
+  "gyg_location_id": "26",
   "gyg_search_query": "Linderhof Palace tour from Munich Bavaria",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "1753",
-      "title": "From Munich: Neuschwanstein & Linderhof Castle Full-Day Trip",
+      "tour_id": "23221",
+      "title": "From Munich: Royale Palace of Linderhof with Oberammergau",
       "type": "day_trip",
-      "duration": "10–10.5 hours",
-      "price_from": 87,
-      "rating": 4.6,
-      "reviews": 15730,
+      "duration": "8.5 hours",
+      "price_from": 143,
+      "rating": 5.0,
+      "reviews": 5,
       "is_top_pick": true,
-      "covers_castles": ["linderhof-palace", "neuschwanstein-castle"]
-    },
-    {
-      "tour_id": "91965",
-      "title": "From Munich: Premium Neuschwanstein Castle & Linderhof Tour",
-      "type": "guided_tour",
-      "duration": "Full day",
-      "price_from": 223,
-      "rating": 4.8,
-      "reviews": 1589,
-      "covers_castles": ["linderhof-palace", "neuschwanstein-castle"]
+      "booking_url_override": "https://www.getyourguide.com/munich-l26/from-munich-royale-palace-of-linderhof-with-oberammergau-t23221/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "linderhof-palace",
+        "neuschwanstein-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

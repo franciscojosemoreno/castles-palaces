@@ -83,20 +83,25 @@
     "altes-schloss-stuttgart",
     "sigmaringen-castle"
   ],
-  "gyg_location_id": "87290",
+  "gyg_location_id": "21",
   "gyg_search_query": "Hohenzollern Castle tour Stuttgart",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "213642",
-      "title": "From Frankfurt: Hohenzollern Castle Full-Day Tour",
+      "title": "Hohenzollern Castle: Full-Day Tour from Frankfurt",
       "type": "day_trip",
       "duration": "10.5 hours",
-      "price_from": 26,
+      "price_from": 451,
       "rating": 4.4,
-      "reviews": 95,
-      "covers_castles": ["hohenzollern-castle"]
+      "reviews": 11,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/frankfurt-l21/hohenzollern-castle-full-day-tour-from-frankfurt-t213642/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hohenzollern-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

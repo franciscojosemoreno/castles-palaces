@@ -71,11 +71,21 @@
   "instagram_tag": "#smederevskatvrd",
   "meta_title": "Smederevo Fortress, Serbia — The Balkans' Largest Medieval Citadel on the Danube",
   "meta_description": "Visit Smederevo Fortress in Serbia — the largest medieval fortress in the Balkans, last capital of medieval Serbia, with 25 towers on the Danube riverfront.",
-  "tags": ["medieval", "serbian-castle", "danube", "balkans", "despotate"],
+  "tags": [
+    "medieval",
+    "serbian-castle",
+    "danube",
+    "balkans",
+    "despotate"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["golubac-fortress", "ram-fortress", "belgrade-fortress"],
-  "gyg_location_id": "226089",
+  "nearby_castles": [
+    "golubac-fortress",
+    "ram-fortress",
+    "belgrade-fortress"
+  ],
+  "gyg_location_id": "1688",
   "gyg_search_query": "Smederevo Fortress Belgrade tour Serbia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +95,17 @@
       "title": "From Belgrade: 3 Danube Fortresses Guided Day Trip",
       "type": "day_trip",
       "duration": "1 day",
-      "price_from": 111,
-      "rating": 4.9,
-      "reviews": 44,
-      "covers_castles": ["smederevo-fortress", "ram-fortress", "golubac-fortress"]
-    },
-    {
-      "tour_id": "218871",
-      "title": "Danube fortresses and Roman archeological park",
-      "type": "guided_tour",
-      "duration": "9 hours",
-      "price_from": 221,
+      "price_from": 137,
       "rating": 5.0,
-      "reviews": 2,
-      "covers_castles": ["smederevo-fortress", "golubac-fortress"]
-    },
-    {
-      "tour_id": "1276562",
-      "title": "Day Trip: Along Danube, Rome & Europe's Oldest Settlement",
-      "type": "guided_tour",
-      "duration": "10 hours",
-      "price_from": 192,
-      "rating": 4.9,
-      "reviews": 0,
-      "covers_castles": ["smederevo-fortress", "golubac-fortress"]
+      "reviews": 45,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/belgrade-l1688/from-belgrade-3-danube-fortresses-guided-day-trip-t629757/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "smederevo-fortress",
+        "ram-fortress",
+        "golubac-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -79,7 +79,7 @@
     "royal-palace-amsterdam",
     "hoensbroek-castle"
   ],
-  "gyg_location_id": "124803",
+  "gyg_location_id": "124798",
   "gyg_search_query": "Muiderslot castle Amsterdam day trip",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -88,41 +88,16 @@
       "tour_id": "390462",
       "title": "Muiden: Entry Ticket to Muiderslot Castle",
       "type": "entry_ticket",
-      "duration": "3 hours",
-      "price_from": 20,
-      "rating": 4.7,
-      "reviews": 645,
-      "covers_castles": ["muiderslot"]
-    },
-    {
-      "tour_id": "264032",
-      "title": "Amsterdam: 3-Hour Guided Muiderslot Castle Tour",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 38,
-      "rating": 4.7,
-      "reviews": 312,
-      "covers_castles": ["muiderslot"]
-    },
-    {
-      "tour_id": "619388",
-      "title": "From Amsterdam: Muiderslot and De Haar Castle Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 85,
-      "rating": 4.6,
-      "reviews": 168,
-      "covers_castles": ["muiderslot"]
-    },
-    {
-      "tour_id": "377624",
-      "title": "From Amsterdam: Muiderslot Castle Private Tour",
-      "type": "day_trip",
-      "duration": "4 hours",
-      "price_from": 239,
-      "rating": 4.5,
-      "reviews": 48,
-      "covers_castles": ["muiderslot"]
+      "duration": "2 hours",
+      "price_from": 22,
+      "rating": 4.8,
+      "reviews": 184,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/muiden-l124798/muiden-entry-ticket-to-muiderslot-castle-t390462/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "muiderslot"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

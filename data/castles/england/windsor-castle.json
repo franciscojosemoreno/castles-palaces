@@ -83,20 +83,22 @@
     "hampton-court-palace",
     "buckingham-palace"
   ],
-  "gyg_location_id": "59",
+  "gyg_location_id": "57",
   "gyg_search_query": "Windsor Castle tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "945",
-      "title": "London: Windsor Castle, Stonehenge & Bath Day Trip",
-      "type": "day_trip",
+      "tour_id": "53858",
+      "title": "Windsor Castle Admission Ticket",
+      "type": "entry_ticket",
       "duration": "11–12 hours",
-      "price_from": 111,
-      "rating": 4.5,
-      "reviews": 5368,
-      "covers_castles": []
+      "price_from": 43,
+      "rating": 4.7,
+      "reviews": 7640,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/london-l57/windsor-castle-entrance-ticket-t53858/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

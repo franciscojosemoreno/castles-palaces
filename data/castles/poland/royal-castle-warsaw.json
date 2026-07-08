@@ -49,7 +49,7 @@
     {
       "question": "Is the Royal Castle of Warsaw a real historic building or a reconstruction?",
       "answer": "Both, in a sense that makes it historically significant rather than diminished. The castle stood on this site from the 14th century and was developed into a major royal palace from 1596 onward, but the entire structure was deliberately destroyed by German forces in 1944. What stands today is a meticulous reconstruction built between 1971 and 1984, using salvaged original materials, museum inventories, historical photographs and Bernardo Bellotto's topographically precise 18th-century paintings of Warsaw as primary source documents. The reconstruction's documentation is itself listed on the UNESCO Memory of the World register."
-      },
+    },
     {
       "question": "Why did the Polish government refuse to fund the castle's reconstruction at first?",
       "answer": "After the Second World War, Poland's Communist government viewed the Royal Castle as a symbol of the 'bourgeois' and monarchist past it sought to distance itself from, and declined to authorise its reconstruction for over two decades. The decision to rebuild was made only in 1971 following sustained public pressure, and the government deliberately withheld state funds even then, leaving the entire 13-year, privately funded project to be financed through donations from Polish citizens and the Polish diaspora worldwide."
@@ -67,36 +67,39 @@
   "instagram_tag": "#zamekkrolewski",
   "meta_title": "Royal Castle of Warsaw: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Royal Castle of Warsaw — destroyed in 1944 and rebuilt from rubble by 1984, with Bellotto's Canaletto Room and Poland's royal apartments. Guide for 2026.",
-  "tags": ["baroque", "unesco", "reconstruction", "warsaw", "old-town", "royal-residence"],
+  "tags": [
+    "baroque",
+    "unesco",
+    "reconstruction",
+    "warsaw",
+    "old-town",
+    "royal-residence"
+  ],
   "last_updated": "2026-06-28",
   "routes": [],
-  "nearby_castles": ["malbork-castle", "wawel-castle"],
-  "gyg_location_id": "4431",
+  "nearby_castles": [
+    "malbork-castle",
+    "wawel-castle"
+  ],
+  "gyg_location_id": "41",
   "gyg_search_query": "Royal Castle Warsaw tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 2,
   "gyg_featured_tours": [
     {
       "tour_id": "211323",
-      "title": "Warsaw: Royal Castle Skip-the-Line Guided Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 124,
+      "title": "Warsaw: Skip-the-Line Royal Castle Guided Tour",
+      "type": "skip_the_line",
+      "duration": "2 - 3 hours",
+      "price_from": 122,
       "rating": 4.8,
-      "reviews": 90,
+      "reviews": 92,
       "is_top_pick": true,
-      "covers_castles": ["royal-castle-warsaw"]
-    },
-    {
-      "tour_id": "411892",
-      "title": "Warsaw: Old Town Highlights Walking Tour in English",
-      "type": "walking_tour",
-      "duration": "2 hours",
-      "price_from": 26,
-      "rating": 4.7,
-      "reviews": 1678,
-      "is_top_pick": false,
-      "covers_castles": ["royal-castle-warsaw"]
+      "booking_url_override": "https://www.getyourguide.com/warsaw-l41/warsaw-skip-the-line-royal-castle-guided-tour-t211323/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "royal-castle-warsaw"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

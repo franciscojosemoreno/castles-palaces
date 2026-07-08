@@ -67,10 +67,20 @@
   "instagram_tag": "#castellodivezio",
   "meta_title": "Castello di Vezio: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castello di Vezio above Varenna — a medieval tower with the finest panoramic view of Lake Como, plus falconry demonstrations. Guide for 2026.",
-  "tags": ["medieval-tower", "lake-como", "lombardy", "varenna", "falconry", "panoramic-view"],
+  "tags": [
+    "medieval-tower",
+    "lake-como",
+    "lombardy",
+    "varenna",
+    "falconry",
+    "panoramic-view"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["castello-di-masino", "castello-sforzesco"],
+  "nearby_castles": [
+    "castello-di-masino",
+    "castello-sforzesco"
+  ],
   "gyg_location_id": "106152",
   "gyg_search_query": "Castello di Vezio Varenna Lake Como tour",
   "gyg_widget_type": "activities",
@@ -79,13 +89,17 @@
     {
       "tour_id": "689234",
       "title": "Varenna: Castello di Vezio Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 8,
       "rating": 4.5,
-      "reviews": 180,
+      "reviews": 181,
       "is_top_pick": true,
-      "covers_castles": ["castello-di-vezio"]
+      "booking_url_override": "https://www.getyourguide.com/varenna-l106152/entrance-ticket-for-castello-di-vezio-t689234/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-di-vezio"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

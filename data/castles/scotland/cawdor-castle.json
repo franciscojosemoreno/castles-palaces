@@ -67,10 +67,19 @@
   "instagram_tag": "#cawdorcastle",
   "meta_title": "Cawdor Castle, Highlands: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Cawdor Castle near Inverness — the Macbeth-linked tower house with a true holly tree legend, idiosyncratic interiors, and 24 acres of gardens. Guide for 2026.",
-  "tags": ["tower-house", "highlands", "macbeth", "gardens", "still-occupied"],
+  "tags": [
+    "tower-house",
+    "highlands",
+    "macbeth",
+    "gardens",
+    "still-occupied"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["urquhart-castle", "eilean-donan-castle"],
+  "nearby_castles": [
+    "urquhart-castle",
+    "eilean-donan-castle"
+  ],
   "gyg_location_id": "1935",
   "gyg_search_query": "Cawdor Castle Inverness tour",
   "gyg_widget_type": "activities",
@@ -81,11 +90,15 @@
       "title": "From Inverness: Cawdor Castle and Cairngorms National Park",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 60,
-      "rating": 4.9,
-      "reviews": 44,
+      "price_from": 61,
+      "rating": 4.8,
+      "reviews": 45,
       "is_top_pick": true,
-      "covers_castles": ["cawdor-castle"]
+      "booking_url_override": "https://www.getyourguide.com/inverness-l1935/from-inverness-cawdor-castle-and-cairngorms-national-park-t850543/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "cawdor-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

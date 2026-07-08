@@ -90,13 +90,15 @@
   "gyg_featured_tours": [
     {
       "tour_id": "94182",
-      "title": "Edinburgh: Stirling Castle, Kelpies & Loch Lomond",
+      "title": "From Edinburgh: Stirling Castle, Kelpies and Loch Lomond",
       "type": "day_trip",
       "duration": "10 hours",
-      "price_from": 70,
+      "price_from": 69,
       "rating": 4.7,
-      "reviews": 1108,
-      "covers_castles": []
+      "reviews": 1140,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/from-edinburgh-stirling-castle-kelpies-and-loch-lomond-t94182/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

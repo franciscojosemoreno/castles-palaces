@@ -89,32 +89,32 @@
   ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["neuschwanstein-castle", "hohenschwangau-castle", "linderhof-palace", "herrenchiemsee-palace", "munich-residenz"],
-  "gyg_location_id": "3575",
+  "nearby_castles": [
+    "neuschwanstein-castle",
+    "hohenschwangau-castle",
+    "linderhof-palace",
+    "herrenchiemsee-palace",
+    "munich-residenz"
+  ],
+  "gyg_location_id": "26",
   "gyg_search_query": "Nymphenburg Palace Munich tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "571037",
-      "title": "Munich Nymphenburg Palace & Carriage Museum Fast-Track Tour",
-      "type": "guided_tour",
-      "duration": "2–3 hours",
-      "price_from": 63,
-      "rating": 4.9,
-      "reviews": 64,
-      "is_top_pick": true,
-      "covers_castles": ["nymphenburg-palace"]
-    },
-    {
       "tour_id": "701906",
       "title": "Munich: Nymphenburg Palace Entry Ticket",
-      "type": "entry_ticket",
-      "duration": "Self-guided",
+      "type": "guided_tour",
+      "duration": "2–3 hours",
       "price_from": 25,
       "rating": 3.9,
-      "reviews": 385,
-      "covers_castles": ["nymphenburg-palace"]
+      "reviews": 393,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/munich-l26/munich-nymphenburg-palace-admission-ticket-t701906/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "nymphenburg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

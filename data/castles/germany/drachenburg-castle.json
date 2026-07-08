@@ -67,10 +67,19 @@
   "instagram_tag": "#schlossdrachenburg",
   "meta_title": "Drachenburg Castle, Königswinter: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Schloss Drachenburg above the Rhine — a neo-Gothic 19th-century fantasy castle on the Drachenfels ridge, with painted mythology and historicist stained glass. Guide for 2026.",
-  "tags": ["neo-gothic", "historicism", "rhine", "north-rhine-westphalia", "19th-century"],
+  "tags": [
+    "neo-gothic",
+    "historicism",
+    "rhine",
+    "north-rhine-westphalia",
+    "19th-century"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["marksburg-castle", "eltz-castle"],
+  "nearby_castles": [
+    "marksburg-castle",
+    "eltz-castle"
+  ],
   "gyg_location_id": "132",
   "gyg_search_query": "Drachenburg Castle Konigswinter tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1120997",
-      "title": "From Cologne: Drachenburg and Drachenfels Day Trip",
+      "title": "Cologne: Drachenburg Castle & Bonn Tour with Tickets",
       "type": "day_trip",
       "duration": "8 hours",
       "price_from": 114,
-      "rating": null,
-      "reviews": 3,
+      "rating": 4.7,
+      "reviews": 5,
       "is_top_pick": true,
-      "covers_castles": ["drachenburg-castle"]
+      "booking_url_override": "https://www.getyourguide.com/bonn-l132/cologne-drachenburg-castle-bonn-tour-with-tickets-t1120997/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "drachenburg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

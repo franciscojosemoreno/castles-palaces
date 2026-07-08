@@ -75,11 +75,25 @@
   "instagram_tag": "#munichresidenz",
   "meta_title": "Munich Residenz: Treasury Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Munich Residenz — the Wittelsbach dynasty's 130-room palace with the Treasury, the Antiquarium and the Cuvilliés Theatre. Tickets and tours for 2026.",
-  "tags": ["renaissance", "baroque", "rococo", "wittelsbach", "royal-residence", "munich", "bavaria", "treasury", "city-centre"],
+  "tags": [
+    "renaissance",
+    "baroque",
+    "rococo",
+    "wittelsbach",
+    "royal-residence",
+    "munich",
+    "bavaria",
+    "treasury",
+    "city-centre"
+  ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["nymphenburg-palace", "neuschwanstein-castle", "herrenchiemsee-palace"],
-  "gyg_location_id": "3578",
+  "nearby_castles": [
+    "nymphenburg-palace",
+    "neuschwanstein-castle",
+    "herrenchiemsee-palace"
+  ],
+  "gyg_location_id": "26",
   "gyg_search_query": "Munich Residenz Palace guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -87,23 +101,17 @@
     {
       "tour_id": "571941",
       "title": "Munich: Residenz Palace and Hofgarten Skip-the-Line Tour",
-      "type": "guided_tour",
+      "type": "skip_the_line",
       "duration": "2.5 hours",
-      "price_from": 67,
-      "rating": 4.8,
-      "reviews": 159,
-      "is_top_pick": true,
-      "covers_castles": ["munich-residenz"]
-    },
-    {
-      "tour_id": "406057",
-      "title": "Munich: Residenz Palace, Museum and Treasury Private Tour",
-      "type": "private_tour",
-      "duration": "2 hours",
-      "price_from": 136,
+      "price_from": 63,
       "rating": 4.9,
-      "reviews": 16,
-      "covers_castles": ["munich-residenz"]
+      "reviews": 172,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/munich-l26/munich-residenz-palace-and-hofgarten-skip-the-line-25h-tour-t571941/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "munich-residenz"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

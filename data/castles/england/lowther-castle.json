@@ -67,7 +67,14 @@
   "instagram_tag": "#lowthercastle",
   "meta_title": "Lowther Castle, Cumbria: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Lowther Castle near Penrith — a deliberately unroofed Gothic Revival ruin with 130 acres of gardens restored by Dan Pearson, in the Lake District. Guide for 2026.",
-  "tags": ["gothic-revival", "ruins", "lake-district", "gardens", "cumbria", "unesco-world-heritage"],
+  "tags": [
+    "gothic-revival",
+    "ruins",
+    "lake-district",
+    "gardens",
+    "cumbria",
+    "unesco-world-heritage"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
   "nearby_castles": [],
@@ -79,13 +86,17 @@
     {
       "tour_id": "387154",
       "title": "Penrith: Lowther Castle & Gardens Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "3 hours",
       "price_from": 21,
       "rating": 4.8,
       "reviews": 27,
       "is_top_pick": true,
-      "covers_castles": ["lowther-castle"]
+      "booking_url_override": "https://www.getyourguide.com/askham-l213663/penrith-lowther-castle-gardens-entry-ticket-t387154/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "lowther-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

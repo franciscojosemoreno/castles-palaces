@@ -88,40 +88,25 @@
   "last_updated": "2026-06-21",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "66053",
+  "gyg_location_id": "292",
   "gyg_search_query": "Château d'If Marseille ferry tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "1316140",
-      "title": "Château d'If Entry Ticket & Marseille Audio Tour",
+      "title": "Château d’If Entry Ticket & Marseille Audio Tour",
       "type": "entry_ticket",
       "duration": "1 day",
       "price_from": 10,
       "rating": null,
       "reviews": 0,
-      "covers_castles": ["chateau-d-if"]
-    },
-    {
-      "tour_id": "1243290",
-      "title": "Marseille: Skip the Line Boat Trip to Île d'If with Castle",
-      "type": "skip_the_line",
-      "duration": "4 hours",
-      "price_from": 53,
-      "rating": 3.0,
-      "reviews": 4,
-      "covers_castles": ["chateau-d-if"]
-    },
-    {
-      "tour_id": "943114",
-      "title": "Marseille: Set Sail for Château d'If and the Frioul Islands",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 68,
-      "rating": 4.9,
-      "reviews": 150,
-      "covers_castles": ["chateau-d-if"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/marseille-l292/chateau-d-if-entry-ticket-marseille-audio-tour-t1316140/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-d-if"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

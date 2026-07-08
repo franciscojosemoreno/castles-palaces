@@ -75,11 +75,25 @@
   "instagram_tag": "#rosenborg",
   "meta_title": "Rosenborg Castle Copenhagen: Crown Jewels Tickets 2026",
   "meta_description": "Visit Rosenborg Castle in Copenhagen to see the Danish Crown Jewels, Christian IV's royal apartments, and the free King's Garden. Tickets and visitor guide for 2026.",
-  "tags": ["renaissance", "dutch-renaissance", "royal-residence", "crown-jewels", "17th-century", "instagram-worthy", "family-friendly"],
+  "tags": [
+    "renaissance",
+    "dutch-renaissance",
+    "royal-residence",
+    "crown-jewels",
+    "17th-century",
+    "instagram-worthy",
+    "family-friendly"
+  ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["kronborg-castle", "frederiksborg-palace", "egeskov-castle", "christiansborg-palace", "amalienborg-palace"],
-  "gyg_location_id": "3822",
+  "nearby_castles": [
+    "kronborg-castle",
+    "frederiksborg-palace",
+    "egeskov-castle",
+    "christiansborg-palace",
+    "amalienborg-palace"
+  ],
+  "gyg_location_id": "12",
   "gyg_search_query": "Rosenborg Castle Copenhagen tickets tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -89,20 +103,15 @@
       "title": "Copenhagen: Rosenborg Castle Entry Ticket",
       "type": "entry_ticket",
       "duration": "1–2 hours",
-      "price_from": 38,
-      "rating": 4.5,
-      "reviews": 63,
-      "covers_castles": ["rosenborg-castle"]
-    },
-    {
-      "tour_id": "534195",
-      "title": "Copenhagen: Rosenborg Castle Tour with Skip-the-Line Ticket",
-      "type": "guided_tour",
-      "duration": "2–5 hours",
-      "price_from": 255,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["rosenborg-castle"]
+      "price_from": 23,
+      "rating": 4.6,
+      "reviews": 574,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/copenhagen-l12/copenhagen-rosenborg-castle-entry-ticket-t851143/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "rosenborg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

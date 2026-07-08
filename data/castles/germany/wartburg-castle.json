@@ -79,30 +79,25 @@
     "hohenzollern-castle",
     "eltz-castle"
   ],
-  "gyg_location_id": "174194",
+  "gyg_location_id": "100017",
   "gyg_search_query": "Wartburg Castle Eisenach tour Germany",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "457404",
-      "title": "Eisenach: Wartburg Castle Private Guided Walking Tour",
+      "title": "Eisenach: Private Guided Walking Tour",
       "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 48,
-      "rating": 4.8,
-      "reviews": 95,
-      "covers_castles": ["wartburg-castle"]
-    },
-    {
-      "tour_id": "1118566",
-      "title": "Eisenach: Outdoor Puzzle Adventure at Drachenschlucht & Wartburg Castle",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 18,
-      "rating": 4.7,
-      "reviews": 60,
-      "covers_castles": ["wartburg-castle"]
+      "duration": "1.5 hours",
+      "price_from": 285,
+      "rating": 5.0,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/eisenach-l100017/eisenach-private-guided-walking-tour-t457404/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "wartburg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

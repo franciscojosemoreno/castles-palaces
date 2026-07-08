@@ -71,44 +71,38 @@
   "instagram_tag": "#burgharburg",
   "meta_title": "Harburg Castle, Bavaria — Medieval Fortress on Germany's Romantic Road",
   "meta_description": "Visit Harburg Castle on the Romantic Road — one of Germany's largest medieval fortresses, perfectly preserved above the Wörnitz River in Bavaria.",
-  "tags": ["medieval", "german-castle", "bavaria", "romantic-road", "romanesque"],
+  "tags": [
+    "medieval",
+    "german-castle",
+    "bavaria",
+    "romantic-road",
+    "romanesque"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["albrechtsburg-castle", "moritzburg-castle"],
-  "gyg_location_id": "145407",
+  "nearby_castles": [
+    "albrechtsburg-castle",
+    "moritzburg-castle"
+  ],
+  "gyg_location_id": "145406",
   "gyg_search_query": "Harburg Castle Romantic Road Bavaria tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "1781",
-      "title": "From Munich: Rothenburg and Romantic Road Day Trip by Bus",
-      "type": "day_trip",
-      "duration": "10.5 hours",
-      "price_from": 95,
-      "rating": 4.4,
-      "reviews": 2319,
-      "covers_castles": ["harburg-castle"]
-    },
-    {
-      "tour_id": "758554",
-      "title": "Private Trip from Munich to Rothenburg & Harburg and Back",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 472,
-      "rating": 4.8,
-      "reviews": 4,
-      "covers_castles": ["harburg-castle"]
-    },
-    {
       "tour_id": "603038",
       "title": "Harburg Private Guided Walking Tour",
-      "type": "guided_tour",
+      "type": "day_trip",
       "duration": "1.5 hours",
-      "price_from": 275,
+      "price_from": 299,
       "rating": null,
       "reviews": 0,
-      "covers_castles": ["harburg-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/harburg-bavaria-l145406/harburg-private-guided-walking-tour-t603038/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "harburg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -11,8 +11,8 @@
   "region": "Peloponnese",
   "nearest_city": "Nafplio",
   "address": "Nafplio 211 00, Greece",
-  "lat": 37.5740,
-  "lng": 22.8030,
+  "lat": 37.574,
+  "lng": 22.803,
   "unesco": false,
   "year_built": 1714,
   "architectural_style": "Venetian Baroque military",
@@ -71,11 +71,19 @@
   "instagram_tag": "#palamidifortress",
   "meta_title": "Palamidi Fortress Nafplio: Tickets, 999 Steps & Visitor Guide 2026",
   "meta_description": "Visit Palamidi Fortress in Nafplio, Greece — a Venetian fortress at 216m reached by 999 steps, with panoramic views over the Argolic Gulf and the Peloponnese. Complete guide.",
-  "tags": ["venetian", "baroque", "coastal", "dramatic", "greece"],
+  "tags": [
+    "venetian",
+    "baroque",
+    "coastal",
+    "dramatic",
+    "greece"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["palace-of-the-grand-master"],
-  "gyg_location_id": "56602",
+  "nearby_castles": [
+    "palace-of-the-grand-master"
+  ],
+  "gyg_location_id": "7909",
   "gyg_search_query": "Palamidi Fortress Nafplio tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -83,42 +91,17 @@
     {
       "tour_id": "1218699",
       "title": "Nafplio: Half-Day Palamidi Fortress & Karathona Beach",
-      "type": "skip_the_line",
+      "type": "day_trip",
       "duration": "5 hours",
-      "price_from": 95,
-      "rating": 4.5,
-      "reviews": 42,
-      "covers_castles": ["palamidi-fortress"]
-    },
-    {
-      "tour_id": "442288",
-      "title": "Athens: Nafplio Full-Day Tour",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 75,
-      "rating": 4.5,
-      "reviews": 510,
-      "covers_castles": ["palamidi-fortress"]
-    },
-    {
-      "tour_id": "654933",
-      "title": "Athens: Private Tour of Corinth, Mycenae & Nafplio",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 120,
-      "rating": 4.6,
-      "reviews": 185,
-      "covers_castles": ["palamidi-fortress"]
-    },
-    {
-      "tour_id": "821714",
-      "title": "Athens: Nafplio Private Tour with Palamidi Fortress",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 145,
-      "rating": 4.7,
-      "reviews": 88,
-      "covers_castles": ["palamidi-fortress"]
+      "price_from": 478,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/nafplio-l7909/nafplio-half-day-palamidi-fortress-karathona-beach-t1218699/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palamidi-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

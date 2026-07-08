@@ -71,11 +71,24 @@
   "instagram_tag": "#malahideCastle",
   "meta_title": "Malahide Castle Dublin: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Malahide Castle near Dublin — the same family lived here for 791 years. Book tickets, take the DART from Dublin city centre, and explore Ireland's most atmospheric lived-in castle.",
-  "tags": ["castle", "medieval", "haunted", "county-dublin", "day-trip-from-dublin", "dart-accessible", "georgian-portraits"],
+  "tags": [
+    "castle",
+    "medieval",
+    "haunted",
+    "county-dublin",
+    "day-trip-from-dublin",
+    "dart-accessible",
+    "georgian-portraits"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["trim-castle", "kilkenny-castle", "blarney-castle", "russborough-house"],
-  "gyg_location_id": "34328",
+  "nearby_castles": [
+    "trim-castle",
+    "kilkenny-castle",
+    "blarney-castle",
+    "russborough-house"
+  ],
+  "gyg_location_id": "31",
   "gyg_search_query": "Malahide Castle Dublin tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -84,11 +97,16 @@
       "tour_id": "510330",
       "title": "Dublin to Malahide Castle & Gardens Half-Day Trip by Car",
       "type": "day_trip",
-      "duration": "4 hours",
-      "price_from": 45,
-      "rating": 4.6,
-      "reviews": 85,
-      "covers_castles": ["malahide-castle"]
+      "duration": "4 - 4.5 hours",
+      "price_from": 382,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/dublin-l31/dublin-to-malahide-castle-gardens-half-day-trip-by-car-t510330/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "malahide-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,11 +71,20 @@
   "instagram_tag": "#beratcastle",
   "meta_title": "Berat Castle, Albania — Living Byzantine Citadel, UNESCO World Heritage",
   "meta_description": "Visit Berat Castle in Albania — a UNESCO-listed living Byzantine citadel with Byzantine churches, an icon museum, and views over the City of a Thousand Windows.",
-  "tags": ["byzantine", "ottoman", "albanian-castle", "unesco-world-heritage", "living-castle"],
+  "tags": [
+    "byzantine",
+    "ottoman",
+    "albanian-castle",
+    "unesco-world-heritage",
+    "living-castle"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["kruje-castle", "fortress-of-bashtova"],
-  "gyg_location_id": "123175",
+  "nearby_castles": [
+    "kruje-castle",
+    "fortress-of-bashtova"
+  ],
+  "gyg_location_id": "2468",
   "gyg_search_query": "Berat castle Albania tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -84,21 +93,16 @@
       "tour_id": "62896",
       "title": "From Tirana: Berat Full-Day Tour",
       "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 35,
-      "rating": 4.5,
-      "reviews": 215,
-      "covers_castles": ["berat-castle"]
-    },
-    {
-      "tour_id": "458374",
-      "title": "From Tirana: Private UNESCO Berat City & Castle Guided Tour",
-      "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 55,
+      "duration": "9 hours",
+      "price_from": 68,
       "rating": 4.8,
-      "reviews": 127,
-      "covers_castles": ["berat-castle"]
+      "reviews": 210,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tirana-l2468/from-tirana-berat-full-day-tour-t62896/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "berat-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

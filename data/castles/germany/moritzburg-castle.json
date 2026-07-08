@@ -12,7 +12,7 @@
   "nearest_city": "Dresden",
   "address": "Schloßallee 1, 01468 Moritzburg, Germany",
   "lat": 51.1588,
-  "lng": 13.6800,
+  "lng": 13.68,
   "unesco": false,
   "year_built": 1542,
   "architectural_style": "Baroque",
@@ -71,34 +71,37 @@
   "instagram_tag": "#schlossmoritzburg",
   "meta_title": "Moritzburg Castle, Saxony — Baroque Palace on a Lake near Dresden",
   "meta_description": "Visit Moritzburg Palace near Dresden — a Baroque hunting palace rising from a lake, with ornate interiors and a famous Cinderella Christmas exhibition.",
-  "tags": ["baroque", "german-castle", "saxony", "palace", "hunting-lodge"],
+  "tags": [
+    "baroque",
+    "german-castle",
+    "saxony",
+    "palace",
+    "hunting-lodge"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["albrechtsburg-castle"],
-  "gyg_location_id": "4629",
+  "nearby_castles": [
+    "albrechtsburg-castle"
+  ],
+  "gyg_location_id": "10",
   "gyg_search_query": "Moritzburg Palace tour from Dresden",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "378959",
-      "title": "Moritzburg: Castle Interactive Hunting Tour",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 17,
-      "rating": 4.5,
-      "reviews": 140,
-      "covers_castles": ["moritzburg-castle"]
-    },
-    {
-      "tour_id": "932849",
-      "title": "From Prague: Dresden, Moritzburg Castle & Meissen Day Tour",
+      "tour_id": "1110172",
+      "title": "Prague:Dresden 2h and Moritzburg 2h Private DayTrip + ticket",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 82,
-      "rating": 4.6,
-      "reviews": 230,
-      "covers_castles": ["moritzburg-castle"]
+      "duration": "8.5 hours",
+      "price_from": 451,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/prague-l10/praguedresden-2h-and-moritzburg-2h-private-daytrip-ticket-t1110172/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "moritzburg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,10 +67,19 @@
   "instagram_tag": "#mogosoaiapalace",
   "meta_title": "Mogoșoaia Palace: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Mogoșoaia Palace near Bucharest — the finest surviving example of Brâncovenesc architecture, Constantin Brâncoveanu's lakeside summer residence. Guide for 2026.",
-  "tags": ["brancovenesc", "romania", "bucharest", "lakeside", "day-trip-from-bucharest"],
+  "tags": [
+    "brancovenesc",
+    "romania",
+    "bucharest",
+    "lakeside",
+    "day-trip-from-bucharest"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["bran-castle", "peles-castle"],
+  "nearby_castles": [
+    "bran-castle",
+    "peles-castle"
+  ],
   "gyg_location_id": "212563",
   "gyg_search_query": "Mogosoaia Palace Bucharest tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1014906",
-      "title": "Bucharest: Mogoșoaia Palace Official Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Bucharest: Mogosoaia Palace Official Entry Ticket",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
-      "price_from": 5,
-      "rating": 3.4,
-      "reviews": 10,
+      "price_from": 4,
+      "rating": 3.6,
+      "reviews": 11,
       "is_top_pick": true,
-      "covers_castles": ["mogosoaia-palace"]
+      "booking_url_override": "https://www.getyourguide.com/mogosoaia-l212563/bucharest-mogosoaia-palace-official-entry-ticket-t1014906/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "mogosoaia-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

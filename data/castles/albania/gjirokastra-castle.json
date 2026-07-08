@@ -67,7 +67,15 @@
   "instagram_tag": "#gjirokastracastle",
   "meta_title": "Gjirokastra Castle, Albania: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Gjirokastra Castle — an Ottoman hilltop fortress above UNESCO-listed Gjirokastër, home of the Museum of Armaments, Albania's Folklore Festival, and a Cold War-era US aircraft.",
-  "tags": ["UNESCO", "ottoman", "ali-pasha", "communist-prison", "albania", "gjirokaster", "museum-of-armaments"],
+  "tags": [
+    "UNESCO",
+    "ottoman",
+    "ali-pasha",
+    "communist-prison",
+    "albania",
+    "gjirokaster",
+    "museum-of-armaments"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -79,13 +87,17 @@
     {
       "tour_id": "1187095",
       "title": "Gjirokastra Castle Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1.5–2 hours",
       "price_from": 16,
       "rating": null,
       "reviews": 1,
       "is_top_pick": true,
-      "covers_castles": ["gjirokastra-castle"]
+      "booking_url_override": "https://www.getyourguide.com/gjirokaster-l2802/gjirokastra-castle-entry-ticket-t1187095/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "gjirokastra-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

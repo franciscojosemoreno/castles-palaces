@@ -70,44 +70,41 @@
   "instagram_tag": "#dunveganCastle",
   "meta_title": "Dunvegan Castle Isle of Skye: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Dunvegan Castle on the Isle of Skye — Scotland's oldest continuously inhabited castle, home to the legendary Fairy Flag. Book tickets and plan your Skye visit.",
-  "tags": ["castle", "medieval", "isle-of-skye", "clan-macleod", "fairy-flag", "seal-trips", "continuously-inhabited"],
+  "tags": [
+    "castle",
+    "medieval",
+    "isle-of-skye",
+    "clan-macleod",
+    "fairy-flag",
+    "seal-trips",
+    "continuously-inhabited"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["edinburgh-castle", "eilean-donan-castle", "stirling-castle"],
-  "gyg_location_id": "97240",
+  "nearby_castles": [
+    "edinburgh-castle",
+    "eilean-donan-castle",
+    "stirling-castle"
+  ],
+  "gyg_location_id": "1935",
   "gyg_search_query": "Dunvegan Castle Isle of Skye tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "433330",
-      "title": "Inverness: 2-Day Isle of Skye, Fairy Pools & Dunvegan Castle",
+      "title": "Inverness: 2-day Isle of Skye, Fairy Pools & Castles Tour",
       "type": "day_trip",
       "duration": "2 days",
-      "price_from": 250,
-      "rating": 4.7,
-      "reviews": 648,
-      "covers_castles": ["dunvegan-castle"]
-    },
-    {
-      "tour_id": "42441",
-      "title": "Edinburgh: Isle of Skye & Scottish Highlands 5-Day Tour",
-      "type": "day_trip",
-      "duration": "5 days",
-      "price_from": 485,
-      "rating": 4.8,
-      "reviews": 1240,
-      "covers_castles": ["dunvegan-castle"]
-    },
-    {
-      "tour_id": "11256",
-      "title": "From Edinburgh: Isle of Skye 3-Day Small Group Tour",
-      "type": "day_trip",
-      "duration": "3 days",
-      "price_from": 325,
-      "rating": 4.8,
-      "reviews": 2185,
-      "covers_castles": ["dunvegan-castle"]
+      "price_from": 226,
+      "rating": 4.9,
+      "reviews": 450,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/inverness-l1935/inverness-isle-of-skye-the-fairy-pools-highland-castles-t433330/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "dunvegan-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

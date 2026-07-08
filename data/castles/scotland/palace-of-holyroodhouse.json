@@ -67,10 +67,21 @@
   "instagram_tag": "#holyroodhouse",
   "meta_title": "Palace of Holyroodhouse: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit the Palace of Holyroodhouse at the foot of Edinburgh's Royal Mile — Mary Queen of Scots' apartments, the ruined abbey, and Bonnie Prince Charlie's court. 2026 guide.",
-  "tags": ["royal-residence", "scottish-baroque", "edinburgh", "mary-queen-of-scots", "jacobite"],
+  "tags": [
+    "royal-residence",
+    "scottish-baroque",
+    "edinburgh",
+    "mary-queen-of-scots",
+    "jacobite"
+  ],
   "last_updated": "2026-06-27",
-  "routes": ["scottish-highlands-castles"],
-  "nearby_castles": ["edinburgh-castle", "tantallon-castle"],
+  "routes": [
+    "scottish-highlands-castles"
+  ],
+  "nearby_castles": [
+    "edinburgh-castle",
+    "tantallon-castle"
+  ],
   "gyg_location_id": "44",
   "gyg_search_query": "Palace of Holyroodhouse Edinburgh tour",
   "gyg_widget_type": "activities",
@@ -79,35 +90,17 @@
     {
       "tour_id": "53863",
       "title": "Edinburgh: Palace of Holyroodhouse Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1.5–2 hours",
       "price_from": 29,
       "rating": 4.8,
-      "reviews": 5813,
+      "reviews": 5848,
       "is_top_pick": true,
-      "covers_castles": ["palace-of-holyroodhouse"]
-    },
-    {
-      "tour_id": "708012",
-      "title": "Edinburgh: Harry Potter Tour & Palace of Holyrood Entry",
-      "type": "walking_tour",
-      "duration": "3.5 hours",
-      "price_from": 76,
-      "rating": 4.6,
-      "reviews": 31,
-      "is_top_pick": false,
-      "covers_castles": ["palace-of-holyroodhouse"]
-    },
-    {
-      "tour_id": "1039489",
-      "title": "Edinburgh: Castle Guided Tour & Holyrood Palace Ticket",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 112,
-      "rating": 4.3,
-      "reviews": 8,
-      "is_top_pick": false,
-      "covers_castles": ["palace-of-holyroodhouse", "edinburgh-castle"]
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/palace-of-holyroodhouse-edinburgh-entrance-ticket-t53863/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palace-of-holyroodhouse"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

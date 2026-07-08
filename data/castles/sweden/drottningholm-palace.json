@@ -71,34 +71,39 @@
   "instagram_tag": "#drottningholm",
   "meta_title": "Drottningholm Palace: Tickets, Theatre & Visitor Guide 2026",
   "meta_description": "Visit Drottningholm Palace near Stockholm — Sweden's UNESCO Baroque royal residence, home of the best-preserved 18th-century theatre in the world and the enchanting Chinese Pavilion.",
-  "tags": ["baroque", "palace", "unesco-world-heritage", "royal", "sweden", "lake"],
+  "tags": [
+    "baroque",
+    "palace",
+    "unesco-world-heritage",
+    "royal",
+    "sweden",
+    "lake"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["vaxholm-fortress", "skokloster-castle"],
-  "gyg_location_id": "3728",
+  "nearby_castles": [
+    "vaxholm-fortress",
+    "skokloster-castle"
+  ],
+  "gyg_location_id": "50",
   "gyg_search_query": "Drottningholm Palace tour Stockholm",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "611058",
-      "title": "Stockholm: Skip-the-Line Drottningholm Palace Tour by Ferry",
+      "tour_id": "33347",
+      "title": "Drottningholm Palace Return Cruise from Stockholm",
       "type": "guided_tour",
       "duration": "4 hours",
-      "price_from": 75,
-      "rating": 4.7,
-      "reviews": 380,
-      "covers_castles": ["drottningholm-palace"]
-    },
-    {
-      "tour_id": "161571",
-      "title": "Stockholm: 1-Day Royal Palace and Castle Tour",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 95,
-      "rating": 4.5,
-      "reviews": 190,
-      "covers_castles": ["drottningholm-palace"]
+      "price_from": 36,
+      "rating": 4.0,
+      "reviews": 63,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/stockholm-l50/drottningholm-sightseeing-combo-t33347/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "drottningholm-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

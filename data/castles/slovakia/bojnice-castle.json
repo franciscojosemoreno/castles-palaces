@@ -67,54 +67,37 @@
   "instagram_tag": "#bojnicecastle",
   "meta_title": "Bojnice Castle Slovakia: Tickets, Ghost Festival & Visitor Guide 2026",
   "meta_description": "Visit Bojnice Castle — Slovakia's most visited and most romantic medieval fortress, famous for its Ghost Festival, Neo-Gothic towers, and the mysterious burial chapel of Count Pálffy.",
-  "tags": ["neo-gothic", "romantic", "medieval", "slovakia", "fairytale"],
+  "tags": [
+    "neo-gothic",
+    "romantic",
+    "medieval",
+    "slovakia",
+    "fairytale"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["trencin-castle"],
-  "gyg_location_id": "150488",
+  "nearby_castles": [
+    "trencin-castle"
+  ],
+  "gyg_location_id": "765",
   "gyg_search_query": "Bojnice Castle tour Slovakia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "949581",
-      "title": "From Bratislava: Bojnice Castle & Čičmany Day Trip",
+      "title": "From Bratislava: Bojnice Castle & Čičmany (DayTrip)",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 120,
-      "covers_castles": ["bojnice-castle"]
-    },
-    {
-      "tour_id": "41672",
-      "title": "From Bratislava: Slovakia's Castles Private Full-Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 85,
-      "rating": 4.6,
-      "reviews": 89,
-      "covers_castles": ["bojnice-castle"]
-    },
-    {
-      "tour_id": "841948",
-      "title": "From Bratislava: Bojnice Castle, Čičmany & Aphrodite Spa",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 75,
-      "rating": 4.4,
-      "reviews": 65,
-      "covers_castles": ["bojnice-castle"]
-    },
-    {
-      "tour_id": "704131",
-      "title": "From Bratislava: Bojnice, Banská Štiavnica & Čičmany Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 70,
-      "rating": 4.5,
-      "reviews": 48,
-      "covers_castles": ["bojnice-castle"]
+      "duration": "10.5 hours",
+      "price_from": 211,
+      "rating": 5.0,
+      "reviews": 5,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/bratislava-l765/from-bratislava-bojnice-castle-cicmany-daytrip-t949581/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bojnice-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

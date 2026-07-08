@@ -71,44 +71,37 @@
   "instagram_tag": "#castellosangiusto",
   "meta_title": "Castle of San Giusto, Trieste — Venetian Fortress with Adriatic Views",
   "meta_description": "Visit the Castle of San Giusto in Trieste — a Venetian Renaissance fortress with panoramic Adriatic views and a museum of arms and armour.",
-  "tags": ["venetian", "italian-castle", "trieste", "adriatic", "friuli"],
+  "tags": [
+    "venetian",
+    "italian-castle",
+    "trieste",
+    "adriatic",
+    "friuli"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["miramare-castle"],
-  "gyg_location_id": "236516",
+  "nearby_castles": [
+    "miramare-castle"
+  ],
+  "gyg_location_id": "1131",
   "gyg_search_query": "Castello San Giusto Trieste tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "161685",
-      "title": "Trieste: Bus Tour with Audio Guide",
+      "title": "Trieste Bus Tour with Audio Guide",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 20,
+      "price_from": 19,
       "rating": 4.4,
-      "reviews": 2390,
-      "covers_castles": ["san-giusto-castle"]
-    },
-    {
-      "tour_id": "1039467",
-      "title": "Trieste E-Bike Tour: Old Town, Miramare Castle and Gelato",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 176,
-      "rating": 4.8,
-      "reviews": 0,
-      "covers_castles": ["san-giusto-castle"]
-    },
-    {
-      "tour_id": "1010717",
-      "title": "Trieste: City That Will Definitely Surprise You",
-      "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 70,
-      "rating": 5.0,
-      "reviews": 93,
-      "covers_castles": ["san-giusto-castle"]
+      "reviews": 2452,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/trieste-l1131/trieste-bus-tour-with-audio-guide-t161685/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "san-giusto-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

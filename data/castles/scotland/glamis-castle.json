@@ -70,24 +70,43 @@
   "instagram_tag": "#glamisCastle",
   "meta_title": "Glamis Castle Scotland: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Glamis Castle in Angus — Shakespeare's Macbeth setting and the Queen Mother's childhood home. Book tickets and plan your day trip from Dundee or Edinburgh.",
-  "tags": ["castle", "scottish-baronial", "macbeth", "royal", "angus", "scotland", "haunted", "day-trip-from-edinburgh"],
+  "tags": [
+    "castle",
+    "scottish-baronial",
+    "macbeth",
+    "royal",
+    "angus",
+    "scotland",
+    "haunted",
+    "day-trip-from-edinburgh"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["edinburgh-castle", "dunnottar-castle", "stirling-castle"],
-  "gyg_location_id": "125123",
+  "nearby_castles": [
+    "edinburgh-castle",
+    "dunnottar-castle",
+    "stirling-castle"
+  ],
+  "gyg_location_id": "132423",
   "gyg_search_query": "Glamis Castle Angus Scotland tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "134733",
-      "title": "From Edinburgh: Glamis and Dunnottar Castles Day Tour",
+      "tour_id": "1351367",
+      "title": "Edinburgh: 1-Day Small-Group Glamis Castle & Cairngorms",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 68,
-      "rating": 4.6,
-      "reviews": 199,
-      "covers_castles": ["glamis-castle", "dunnottar-castle"]
+      "duration": "12 hours",
+      "price_from": 274,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/braemar-scotland-l132423/edinburgh-1-day-small-group-glamis-castle-cairngorms-t1351367/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "glamis-castle",
+        "dunnottar-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

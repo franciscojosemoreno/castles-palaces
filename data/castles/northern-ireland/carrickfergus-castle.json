@@ -71,44 +71,37 @@
   "instagram_tag": "#carrickferguscastle",
   "meta_title": "Carrickfergus Castle, Northern Ireland — Best-Preserved Norman Castle in Ireland",
   "meta_description": "Visit Carrickfergus Castle on Belfast Lough — Ireland's finest Norman fortress with 850 years of history from King John to John Paul Jones.",
-  "tags": ["norman", "northern-ireland", "belfast", "medieval", "coastal"],
+  "tags": [
+    "norman",
+    "northern-ireland",
+    "belfast",
+    "medieval",
+    "coastal"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["dunluce-castle"],
-  "gyg_location_id": "91134",
+  "nearby_castles": [
+    "dunluce-castle"
+  ],
+  "gyg_location_id": "442",
   "gyg_search_query": "Carrickfergus Castle Belfast tour Northern Ireland",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "165248",
-      "title": "Belfast: Giant's Causeway & Game of Thrones Locations Tour",
+      "tour_id": "43263",
+      "title": "From Belfast: Giant's Causeway Full-Day Guided Trip",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 845,
-      "covers_castles": ["carrickfergus-castle"]
-    },
-    {
-      "tour_id": "91899",
-      "title": "Belfast: Giant's Causeway Guided Tour Including Castles",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 45,
-      "rating": 4.6,
-      "reviews": 778,
-      "covers_castles": ["carrickfergus-castle"]
-    },
-    {
-      "tour_id": "165257",
-      "title": "From Belfast: Giant's Causeway Guided Day Tour with Castles",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 602,
-      "covers_castles": ["carrickfergus-castle"]
+      "duration": "9.5 hours",
+      "price_from": 33,
+      "rating": 4.8,
+      "reviews": 7032,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/belfast-l442/giant-s-causeway-day-tour-by-luxury-coach-t43263/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "carrickfergus-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

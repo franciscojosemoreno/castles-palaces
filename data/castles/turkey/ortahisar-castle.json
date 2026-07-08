@@ -71,11 +71,19 @@
   "instagram_tag": "#ortahisar",
   "meta_title": "Ortahisar Castle, Cappadocia — Volcanic Rock Fortress Above the Rose Valley",
   "meta_description": "Visit Ortahisar Castle in Cappadocia — an 86-metre carved rock fortress above a quiet village, with views over the Rose Valley and fairy chimneys.",
-  "tags": ["byzantine", "rock-carved", "cappadocia", "turkey", "volcanic"],
+  "tags": [
+    "byzantine",
+    "rock-carved",
+    "cappadocia",
+    "turkey",
+    "volcanic"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["uchisar-castle"],
-  "gyg_location_id": "180157",
+  "nearby_castles": [
+    "uchisar-castle"
+  ],
+  "gyg_location_id": "1400",
   "gyg_search_query": "Ortahisar Castle Cappadocia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -84,41 +92,16 @@
       "tour_id": "81327",
       "title": "Cappadocia: Best Seller Red Tour with Lunch",
       "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 45,
-      "rating": 4.7,
-      "reviews": 3248,
-      "covers_castles": ["ortahisar-castle"]
-    },
-    {
-      "tour_id": "479864",
-      "title": "Cappadocia: Guided Red Tour with Lunch and Ticket",
-      "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 45,
-      "rating": 4.6,
-      "reviews": 1188,
-      "covers_castles": ["ortahisar-castle"]
-    },
-    {
-      "tour_id": "503081",
-      "title": "Cappadocia: Red Tour with Göreme Open Air Museum & Paşabağ",
-      "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 40,
+      "duration": "7 hours",
+      "price_from": 68,
       "rating": 4.5,
-      "reviews": 824,
-      "covers_castles": ["ortahisar-castle"]
-    },
-    {
-      "tour_id": "446799",
-      "title": "Cappadocia: Private Red & Green Tour with Air-Conditioned Car",
-      "type": "guided_tour",
-      "duration": "8 hours",
-      "price_from": 185,
-      "rating": 4.8,
-      "reviews": 342,
-      "covers_castles": ["ortahisar-castle"]
+      "reviews": 5,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cappadocia-l1400/cappadocia-red-tour-with-lunch-pottery-demonstration-t81327/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "ortahisar-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

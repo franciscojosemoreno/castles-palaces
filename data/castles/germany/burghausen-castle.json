@@ -11,8 +11,8 @@
   "region": "Bavaria",
   "nearest_city": "Burghausen",
   "address": "Burg 48, 84489 Burghausen, Germany",
-  "lat": 48.1680,
-  "lng": 12.8270,
+  "lat": 48.168,
+  "lng": 12.827,
   "unesco": false,
   "year_built": 1255,
   "architectural_style": "Gothic",
@@ -90,40 +90,25 @@
   "nearby_castles": [
     "neuschwanstein-castle"
   ],
-  "gyg_location_id": "180789",
+  "gyg_location_id": "100299",
   "gyg_search_query": "Burghausen Castle Bavaria guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "430622",
-      "title": "Burghausen Castle Private Tour with Entry Ticket",
-      "type": "guided_tour",
+      "title": "Burghausen: Burghausen Castle Private Tour",
+      "type": "entry_ticket",
       "duration": "1.5 hours",
-      "price_from": 255,
+      "price_from": 253,
       "rating": null,
       "reviews": 0,
-      "covers_castles": ["burghausen-castle"]
-    },
-    {
-      "tour_id": "1058996",
-      "title": "Burghausen Castle Walk Tour with a Professional Guide",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 265,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["burghausen-castle"]
-    },
-    {
-      "tour_id": "1341870",
-      "title": "Munich: Burghausen Castle & Altötting Private Day Trip",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 186,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["burghausen-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/burghausen-l100299/burghausen-burghausen-castle-private-tour-with-entry-ticket-t430622/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "burghausen-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

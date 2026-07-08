@@ -67,7 +67,15 @@
   "instagram_tag": "#koldinghus",
   "meta_title": "Koldinghus Palace, Kolding: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Koldinghus Palace in Kolding, Denmark — a medieval royal fortress destroyed in 1808 by Spanish troops and rebuilt in an internationally acclaimed architectural restoration.",
-  "tags": ["danish-royal", "medieval", "fire-1808", "exner-restoration", "napoleon", "jutland", "denmark"],
+  "tags": [
+    "danish-royal",
+    "medieval",
+    "fire-1808",
+    "exner-restoration",
+    "napoleon",
+    "jutland",
+    "denmark"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -78,14 +86,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "743635",
-      "title": "Kolding: Koldinghus Palace Entry Ticket with Guided Tour",
-      "type": "entrance_ticket",
+      "title": "Kolding: Koldinghus Palace Entry Ticket",
+      "type": "entry_ticket",
       "duration": "1.5–2 hours",
       "price_from": 21,
       "rating": 4.5,
       "reviews": 28,
       "is_top_pick": true,
-      "covers_castles": ["koldinghus-palace"]
+      "booking_url_override": "https://www.getyourguide.com/kolding-l154665/kolding-koldinghus-palace-entry-ticket-t743635/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "koldinghus-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

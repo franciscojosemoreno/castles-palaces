@@ -71,54 +71,38 @@
   "instagram_tag": "#trakaicastle",
   "meta_title": "Trakai Island Castle: Tickets, History & Visitor Guide 2026",
   "meta_description": "Visit Trakai Island Castle — one of the most beautiful medieval fortresses in Europe, a red Gothic castle on an island in a lake near Vilnius, Lithuania. Complete visitor guide.",
-  "tags": ["gothic", "medieval", "island", "iconic", "lake", "lithuania"],
+  "tags": [
+    "gothic",
+    "medieval",
+    "island",
+    "iconic",
+    "lake",
+    "lithuania"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["gediminas-tower"],
-  "gyg_location_id": "57734",
+  "nearby_castles": [
+    "gediminas-tower"
+  ],
+  "gyg_location_id": "245",
   "gyg_search_query": "Trakai Castle tour from Vilnius",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "818241",
-      "title": "Vilnius: Trakai Castle Half-Day Tour by Minivan",
+      "tour_id": "125942",
+      "title": "Vilnius: Trakai Tour with Audio Guide and Minibus Transfers",
       "type": "guided_tour",
       "duration": "4 hours",
-      "price_from": 97,
-      "rating": 4.6,
-      "reviews": 280,
-      "covers_castles": ["trakai-island-castle"]
-    },
-    {
-      "tour_id": "39202",
-      "title": "Vilnius: Half-Day Sightseeing Tour to Trakai",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 35,
-      "rating": 4.6,
-      "reviews": 350,
-      "covers_castles": ["trakai-island-castle"]
-    },
-    {
-      "tour_id": "65144",
-      "title": "From Vilnius: Trakai Castle and Paneriai Memorial Tour",
-      "type": "day_trip",
-      "duration": "5.5 hours",
-      "price_from": 55,
-      "rating": 4.5,
-      "reviews": 190,
-      "covers_castles": ["trakai-island-castle"]
-    },
-    {
-      "tour_id": "139334",
-      "title": "Vilnius: Private Paneriai Park, Trakai Castle & Kernavė Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 95,
-      "covers_castles": ["trakai-island-castle"]
+      "price_from": 34,
+      "rating": 4.3,
+      "reviews": 1284,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/vilnius-l245/vilnius-trakai-tour-with-audio-guide-and-minibus-transfers-t125942/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "trakai-island-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

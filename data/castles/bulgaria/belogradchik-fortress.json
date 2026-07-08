@@ -71,44 +71,37 @@
   "instagram_tag": "#belogradchik",
   "meta_title": "Belogradchik Fortress, Bulgaria — Roman Fortress Among Giant Rock Sculptures",
   "meta_description": "Visit Belogradchik Fortress in Bulgaria — a Roman fortress woven between extraordinary red sandstone rock formations, one of Europe's most spectacular hidden gems.",
-  "tags": ["roman", "bulgarian-castle", "rock-formations", "ottoman", "nature"],
+  "tags": [
+    "roman",
+    "bulgarian-castle",
+    "rock-formations",
+    "ottoman",
+    "nature"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["tsarevets-fortress"],
-  "gyg_location_id": "160848",
+  "nearby_castles": [
+    "tsarevets-fortress"
+  ],
+  "gyg_location_id": "186654",
   "gyg_search_query": "Belogradchik Fortress rocks Bulgaria tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "820283",
-      "title": "From Sofia: Belogradchik Fortress & Venetsa Cave 12-Hour Tour",
+      "title": "From Sofia: Belogradchik Fortress & Venetsa Cave 12 hrs Tour",
       "type": "day_trip",
       "duration": "12 hours",
-      "price_from": 57,
-      "rating": 4.8,
-      "reviews": 85,
-      "covers_castles": ["belogradchik-fortress"]
-    },
-    {
-      "tour_id": "408650",
-      "title": "From Sofia: Day Trip to Belogradchik Rocks and Fortress",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 65,
+      "price_from": 56,
       "rating": 4.7,
-      "reviews": 124,
-      "covers_castles": ["belogradchik-fortress"]
-    },
-    {
-      "tour_id": "28975",
-      "title": "From Sofia: Belogradchik Rocks & Venetsa Cave Full-Day Tour",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 182,
-      "covers_castles": ["belogradchik-fortress"]
+      "reviews": 93,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/belogradchik-l186654/from-sofia-belogradchik-fortress-venetsa-cave-12-hrs-tour-t820283/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "belogradchik-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

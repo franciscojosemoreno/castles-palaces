@@ -75,36 +75,47 @@
   "instagram_tag": "#queluzpalace",
   "meta_title": "Queluz Palace: Tickets, Gardens & Visitor Guide 2026",
   "meta_description": "Visit Queluz Palace near Lisbon — Portugal's pink Rococo palace with the Throne Room, the azulejo Neptune Canal and the historic Cozinha Velha. Tickets for 2026.",
-  "tags": ["baroque", "rococo", "18th-century", "royal-residence", "bragança", "azulejo", "gardens", "instagram-worthy", "day-trip-from-lisbon"],
+  "tags": [
+    "baroque",
+    "rococo",
+    "18th-century",
+    "royal-residence",
+    "bragança",
+    "azulejo",
+    "gardens",
+    "instagram-worthy",
+    "day-trip-from-lisbon"
+  ],
   "last_updated": "2026-06-25",
-  "routes": ["sintra-palaces-route"],
-  "nearby_castles": ["pena-palace", "castle-of-the-moors", "obidos-castle", "mafra-palace", "castelo-sao-jorge"],
-  "gyg_location_id": "5064",
+  "routes": [
+    "sintra-palaces-route"
+  ],
+  "nearby_castles": [
+    "pena-palace",
+    "castle-of-the-moors",
+    "obidos-castle",
+    "mafra-palace",
+    "castelo-sao-jorge"
+  ],
+  "gyg_location_id": "156006",
   "gyg_search_query": "Queluz Palace Lisbon National Palace tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "156735",
-      "title": "Queluz National Palace & Gardens Ticket",
-      "type": "entry_ticket",
-      "duration": "1–3 hours",
-      "price_from": 7,
-      "rating": 4.6,
-      "reviews": 510,
-      "is_top_pick": true,
-      "certified_by_gyg": true,
-      "covers_castles": ["queluz-palace"]
-    },
-    {
       "tour_id": "465888",
       "title": "Queluz: National Palace and Gardens E-Ticket & Audio Guide",
-      "type": "audio_guide",
-      "duration": "1–2.5 hours",
+      "type": "entry_ticket",
+      "duration": "1–3 hours",
       "price_from": 16,
       "rating": 4.5,
       "reviews": 50,
-      "covers_castles": ["queluz-palace"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/queluz-l156006/queluz-national-palace-and-gardens-e-ticket-audio-guide-t465888/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "queluz-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

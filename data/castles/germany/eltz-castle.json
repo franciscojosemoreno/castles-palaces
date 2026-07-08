@@ -82,20 +82,25 @@
     "augustusburg-palace",
     "drachenburg-castle"
   ],
-  "gyg_location_id": "93128",
+  "gyg_location_id": "21",
   "gyg_search_query": "Burg Eltz castle tour Moselle Germany",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "40707",
-      "title": "Frankfurt: Day Trip to Eltz Castle on the Moselle",
+      "title": "Frankfurt: Day Trip to Eltz Castle",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 165,
+      "price_from": 325,
       "rating": 4.8,
       "reviews": 28,
-      "covers_castles": ["eltz-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/frankfurt-l21/frankfurt-day-trip-to-eltz-castle-on-the-moselle-t40707/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "eltz-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

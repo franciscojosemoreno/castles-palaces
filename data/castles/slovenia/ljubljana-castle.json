@@ -76,7 +76,7 @@
   "nearby_castles": [
     "predjama-castle"
   ],
-  "gyg_location_id": "3218",
+  "gyg_location_id": "318",
   "gyg_search_query": "Ljubljana Castle tour Slovenia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -88,8 +88,13 @@
       "duration": "Self-guided",
       "price_from": 17,
       "rating": 4.3,
-      "reviews": 791,
-      "covers_castles": ["ljubljana-castle"]
+      "reviews": 845,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/ljubljana-l318/ljubljana-ljubljana-castle-entrance-funicular-ticket-t488908/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "ljubljana-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

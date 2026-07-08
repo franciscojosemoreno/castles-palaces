@@ -93,8 +93,13 @@
   ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["scaligero-castle-sirmione", "miramare-castle", "castello-sforzesco", "palazzo-pitti"],
-  "gyg_location_id": "3935",
+  "nearby_castles": [
+    "scaligero-castle-sirmione",
+    "miramare-castle",
+    "castello-sforzesco",
+    "palazzo-pitti"
+  ],
+  "gyg_location_id": "35",
   "gyg_search_query": "Doge's Palace Venice skip the line tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -106,18 +111,13 @@
       "duration": "Self-guided",
       "price_from": 40,
       "rating": 4.6,
-      "reviews": 44533,
-      "covers_castles": ["doges-palace"]
-    },
-    {
-      "tour_id": "59154",
-      "title": "Venice: Doge's Palace Skip-the-Line Guided Tour",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 79,
-      "rating": 4.4,
-      "reviews": 901,
-      "covers_castles": ["doges-palace"]
+      "reviews": 44807,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/venice-l35/venice-doge-s-palace-reserved-entry-admission-ticket-t451265/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "doges-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

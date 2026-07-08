@@ -81,41 +81,33 @@
   ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["neuschwanstein-castle", "burghausen-castle", "hohenzollern-castle", "nymphenburg-palace", "linderhof-palace"],
-  "gyg_location_id": "35349",
+  "nearby_castles": [
+    "neuschwanstein-castle",
+    "burghausen-castle",
+    "hohenzollern-castle",
+    "nymphenburg-palace",
+    "linderhof-palace"
+  ],
+  "gyg_location_id": "2236",
   "gyg_search_query": "Hohenschwangau Castle Bavaria tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "188619",
-      "title": "Neuschwanstein Castle: Guided Tour with Tickets & Carriage",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 69,
-      "rating": 4.8,
-      "reviews": 784,
-      "covers_castles": ["hohenschwangau-castle", "neuschwanstein-castle"]
-    },
-    {
-      "tour_id": "795986",
-      "title": "Kombi Ticket Neuschwanstein and Hohenschwangau Castle",
-      "type": "skip_the_line",
-      "duration": "4 hours",
-      "price_from": 89,
-      "rating": 4.4,
-      "reviews": 44,
-      "covers_castles": ["hohenschwangau-castle", "neuschwanstein-castle"]
-    },
-    {
       "tour_id": "1017191",
       "title": "Neuschwanstein & Hohenschwangau Castle Ticket & Audio Guide",
-      "type": "skip_the_line",
+      "type": "entry_ticket",
       "duration": "4 hours",
-      "price_from": 91,
+      "price_from": 90,
       "rating": 4.6,
-      "reviews": 233,
-      "covers_castles": ["hohenschwangau-castle", "neuschwanstein-castle"]
+      "reviews": 251,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/fussen-l2236/neuschwanstein-hohenschwangau-castle-entry-ticket-t1017191/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hohenschwangau-castle",
+        "neuschwanstein-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

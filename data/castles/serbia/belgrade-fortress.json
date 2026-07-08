@@ -85,7 +85,7 @@
     "smederevo-fortress",
     "ram-fortress"
   ],
-  "gyg_location_id": "110162",
+  "gyg_location_id": "1688",
   "gyg_search_query": "Belgrade Fortress Kalemegdan guided tour underground",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -94,31 +94,16 @@
       "tour_id": "465369",
       "title": "Belgrade: Guided City Tour and Kalemegdan Fortress Visit",
       "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 44,
+      "duration": "1.5 - 4 hours",
+      "price_from": 43,
       "rating": 4.9,
-      "reviews": 86,
-      "covers_castles": ["belgrade-fortress"]
-    },
-    {
-      "tour_id": "141141",
-      "title": "Belgrade: Underground Tour with Riverside Sparkling Wine",
-      "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 35,
-      "rating": 4.8,
-      "reviews": 452,
-      "covers_castles": ["belgrade-fortress"]
-    },
-    {
-      "tour_id": "855378",
-      "title": "Belgrade Fortress: Private Tour to See Big Picture",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 55,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["belgrade-fortress"]
+      "reviews": 89,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/belgrade-l1688/belgrade-must-see-introduction-city-tour-t465369/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "belgrade-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

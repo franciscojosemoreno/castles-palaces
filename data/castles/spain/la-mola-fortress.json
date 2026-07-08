@@ -68,7 +68,16 @@
   "instagram_tag": "#lamolafortaleza",
   "meta_title": "La Mola Fortress, Menorca: Tickets & Visitor Guide 2026",
   "meta_description": "Visit La Mola Fortress (Isabel II) in Menorca — a 27-year military construction project defending Port Mahón, with 48 riflemen's casemates, underground tunnels, and 35km-range guns.",
-  "tags": ["military-fortress", "menorca", "balearic-islands", "spain", "19th-century", "port-mahon", "vickers-battery", "accessible"],
+  "tags": [
+    "military-fortress",
+    "menorca",
+    "balearic-islands",
+    "spain",
+    "19th-century",
+    "port-mahon",
+    "vickers-battery",
+    "accessible"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -87,8 +96,10 @@
       "rating": 4.9,
       "reviews": 8,
       "is_top_pick": true,
-      "covers_castles": ["la-mola-fortress"],
-      "booking_url_override": "https://www.getyourguide.com/menorca-l465/menorca-la-mola-isabel-ii-fortress-t1265900/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/menorca-l465/menorca-la-mola-isabel-ii-fortress-t1265900/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "la-mola-fortress"
+      ]
     }
   ]
 }

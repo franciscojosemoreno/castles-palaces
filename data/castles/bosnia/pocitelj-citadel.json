@@ -24,7 +24,7 @@
     "friday": "08:00–20:00",
     "saturday": "08:00–20:00",
     "sunday": "08:00–20:00",
-    "seasonal_note": "Open daily. The village and tower are freely accessible at all times."
+    "seasonal_note": "Note on featured tour: The GYG featured tour is a multi-stop day trip from Mostar visiting Blagaj Tekke, Počitelj Citadel, and Kravice Waterfalls — Počitelj is one stop among three, not a dedicated castle-only experience. Allow roughly 1 hour at the citadel itself. Open daily. The village and tower are freely accessible at all times."
   },
   "price_adult": 2,
   "price_child": 0,
@@ -71,11 +71,17 @@
   "instagram_tag": "#pocitelj",
   "meta_title": "Počitelj Citadel, Bosnia — Ottoman Clifftop Village Above the Neretva",
   "meta_description": "Visit Počitelj in Bosnia — a perfectly preserved Ottoman fortified village on a Neretva cliff face, with a medieval tower, mosque, and stunning valley views near Mostar.",
-  "tags": ["ottoman", "bosnian-castle", "neretva", "herzegovina", "fortified-village"],
+  "tags": [
+    "ottoman",
+    "bosnian-castle",
+    "neretva",
+    "herzegovina",
+    "fortified-village"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "2220",
+  "gyg_location_id": "1334",
   "gyg_search_query": "Počitelj citadel Mostar Bosnia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +91,15 @@
       "title": "From Mostar: Blagaj, Počitelj & Kravice Waterfalls Day Tour",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 50,
+      "price_from": 49,
       "rating": 5.0,
-      "reviews": 1691,
-      "covers_castles": ["pocitelj-citadel"]
-    },
-    {
-      "tour_id": "402063",
-      "title": "From Dubrovnik: Kravica Waterfalls, Mostar and Pocitelj Day Trip",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 35,
-      "rating": 4.5,
-      "reviews": 3730,
-      "covers_castles": ["pocitelj-citadel"]
-    },
-    {
-      "tour_id": "139253",
-      "title": "Sarajevo: Mostar, Konjic, Blagaj, Pocitelj & Kravica Falls",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 102,
-      "rating": 4.9,
-      "reviews": 2190,
-      "covers_castles": ["pocitelj-citadel"]
+      "reviews": 1872,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/mostar-l1334/from-mostar-blagaj-pocitelj-kravice-waterfalls-day-tour-t441472/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "pocitelj-citadel"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

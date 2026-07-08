@@ -12,7 +12,7 @@
   "nearest_city": "Dundonald",
   "address": "Dundonald, South Ayrshire KA2 9HD, Scotland, UK",
   "lat": 55.5768,
-  "lng": -4.5970,
+  "lng": -4.597,
   "unesco": false,
   "year_built": 1371,
   "architectural_style": "Scottish tower house and medieval keep built in the 1370s on a hilltop site occupied since the Iron Age, constructed or substantially enlarged by Robert II — the first king of the Stewart dynasty — as his principal residence at the moment of his coronation and the Stewarts' ascension to the Scottish throne; the tower house remains a substantial ruin whose walls and vaulted basement survive to considerable height above the surrounding Ayrshire countryside",
@@ -67,7 +67,15 @@
   "instagram_tag": "#dundonaldcastle",
   "meta_title": "Dundonald Castle, Ayrshire: Guided Tour & Visitor Guide 2026",
   "meta_description": "Visit Dundonald Castle in South Ayrshire — ancestral seat of the Stewart dynasty, where Robert II held court in 1371. Small-group guided tours, light lunch included.",
-  "tags": ["stewart-dynasty", "robert-ii", "ayrshire", "scotland", "tower-house", "medieval", "small-group"],
+  "tags": [
+    "stewart-dynasty",
+    "robert-ii",
+    "ayrshire",
+    "scotland",
+    "tower-house",
+    "medieval",
+    "small-group"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -79,13 +87,17 @@
     {
       "tour_id": "946872",
       "title": "Dundonald Castle: Entry Ticket, Guided Tour & Light Lunch",
-      "type": "guided_tour",
+      "type": "entry_ticket",
       "duration": "2–3 hours",
       "price_from": 33,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["dundonald-castle"]
+      "booking_url_override": "https://www.getyourguide.com/dundonald-l232798/dundonald-castle-entry-ticket-guided-tour-light-lunch-t946872/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "dundonald-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

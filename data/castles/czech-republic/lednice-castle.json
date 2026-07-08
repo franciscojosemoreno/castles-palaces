@@ -71,44 +71,42 @@
   "instagram_tag": "#zameklednice",
   "meta_title": "Lednice Castle: Tickets, UNESCO Landscape & Visitor Guide 2026",
   "meta_description": "Visit Lednice Castle in South Moravia — a UNESCO Neo-Gothic palace in the world's largest designed landscape. Day trips from Brno, Vienna, and Bratislava.",
-  "tags": ["czech-republic", "south-moravia", "unesco", "neo-gothic", "liechtenstein", "landscape", "day-trip-from-brno", "day-trip-from-vienna"],
+  "tags": [
+    "czech-republic",
+    "south-moravia",
+    "unesco",
+    "neo-gothic",
+    "liechtenstein",
+    "landscape",
+    "day-trip-from-brno",
+    "day-trip-from-vienna"
+  ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["cesky-krumlov-castle", "hluboka-castle", "konopiste-castle"],
-  "gyg_location_id": "161058",
+  "nearby_castles": [
+    "cesky-krumlov-castle",
+    "hluboka-castle",
+    "konopiste-castle"
+  ],
+  "gyg_location_id": "210740",
   "gyg_search_query": "Lednice Castle Moravia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [
     {
       "tour_id": "738273",
-      "title": "From Bratislava: Moravia — Lednice Castle and Park",
+      "title": "From Bratislava: Moravia: Lednice Castle and park",
       "type": "day_trip",
       "duration": "12 hours",
-      "price_from": 194,
+      "price_from": 193,
       "rating": 5.0,
       "reviews": 2,
-      "covers_castles": ["lednice-castle"]
-    },
-    {
-      "tour_id": "750464",
-      "title": "4 Castles Private Day Trip from Vienna to South Moravia",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 316,
-      "rating": 5.0,
-      "reviews": 1,
-      "covers_castles": ["lednice-castle"]
-    },
-    {
-      "tour_id": "1317372",
-      "title": "Half Day Tour to the Romantic Chateau of Lednice",
-      "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 231,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["lednice-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/valtice-l210740/from-vienna-and-bratislava-moravia-lednice-castle-and-park-t738273/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "lednice-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

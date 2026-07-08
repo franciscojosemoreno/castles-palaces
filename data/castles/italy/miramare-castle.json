@@ -12,7 +12,7 @@
   "nearest_city": "Trieste",
   "address": "Viale Miramare, 34151 Trieste TS, Italy",
   "lat": 45.7069,
-  "lng": 13.7070,
+  "lng": 13.707,
   "unesco": false,
   "year_built": 1856,
   "architectural_style": "Neo-Gothic / Eclectic",
@@ -71,11 +71,20 @@
   "instagram_tag": "#miramare",
   "meta_title": "Miramare Castle, Trieste — Romantic Adriatic Palace of Archduke Maximilian",
   "meta_description": "Visit Miramare Castle near Trieste — a stunning 19th-century palace on the Adriatic with original rooms, a coastal park, and a tragic royal story.",
-  "tags": ["palace", "neo-gothic", "adriatic", "habsburg", "trieste"],
+  "tags": [
+    "palace",
+    "neo-gothic",
+    "adriatic",
+    "habsburg",
+    "trieste"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["san-giusto-castle", "doges-palace"],
-  "gyg_location_id": "63561",
+  "nearby_castles": [
+    "san-giusto-castle",
+    "doges-palace"
+  ],
+  "gyg_location_id": "1131",
   "gyg_search_query": "Miramare Castle Trieste tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -86,39 +95,14 @@
       "type": "entry_ticket",
       "duration": "Full day",
       "price_from": 21,
-      "rating": 4.3,
-      "reviews": 613,
-      "covers_castles": ["miramare-castle"]
-    },
-    {
-      "tour_id": "397858",
-      "title": "Trieste: Miramare Castle Skip-the-Line Entrance Ticket",
-      "type": "skip_the_line",
-      "duration": "Full day",
-      "price_from": 25,
       "rating": 4.4,
-      "reviews": 180,
-      "covers_castles": ["miramare-castle"]
-    },
-    {
-      "tour_id": "189528",
-      "title": "Trieste: Panoramic City and Miramare Castle Tour",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 40,
-      "rating": 4.6,
-      "reviews": 140,
-      "covers_castles": ["miramare-castle"]
-    },
-    {
-      "tour_id": "635056",
-      "title": "Trieste: Miramare Castle Private Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 45,
-      "rating": 4.7,
-      "reviews": 95,
-      "covers_castles": ["miramare-castle"]
+      "reviews": 666,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/trieste-l1131/trieste-miramare-castle-museum-entry-ticket-audio-app-t663361/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "miramare-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

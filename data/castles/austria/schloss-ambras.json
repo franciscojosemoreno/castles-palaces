@@ -67,10 +67,20 @@
   "instagram_tag": "#schlossambras",
   "meta_title": "Schloss Ambras, Innsbruck: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Schloss Ambras near Innsbruck — Archduke Ferdinand II's Renaissance castle of wonders, with the Spanish Hall and the world's oldest public museum collection. Guide for 2026.",
-  "tags": ["renaissance", "tyrol", "innsbruck", "museum", "habsburg", "wunderkammer"],
+  "tags": [
+    "renaissance",
+    "tyrol",
+    "innsbruck",
+    "museum",
+    "habsburg",
+    "wunderkammer"
+  ],
   "last_updated": "2026-06-29",
   "routes": [],
-  "nearby_castles": ["hohensalzburg-fortress", "hohenwerfen-castle"],
+  "nearby_castles": [
+    "hohensalzburg-fortress",
+    "hohenwerfen-castle"
+  ],
   "gyg_location_id": "164",
   "gyg_search_query": "Schloss Ambras Innsbruck tour",
   "gyg_widget_type": "activities",
@@ -78,14 +88,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "19605",
-      "title": "Innsbruck: Ambras Castle Entry Ticket",
+      "title": "Innsbruck: Tickets for Schloss Ambras",
       "type": "entrance_ticket",
       "duration": "2 hours",
       "price_from": 18,
       "rating": 4.6,
-      "reviews": 220,
+      "reviews": 223,
       "is_top_pick": true,
-      "covers_castles": ["schloss-ambras"]
+      "booking_url_override": "https://www.getyourguide.com/innsbruck-l164/innsbruck-tickets-for-schloss-ambras-t19605/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "schloss-ambras"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,11 +67,19 @@
   "instagram_tag": "#schlossbeichlingen",
   "meta_title": "Beichlingen Palace, Thuringia: Escape-Room Castle Visit 2026",
   "meta_description": "Visit Beichlingen Palace near Erfurt — a real medieval palace in Thuringia where you solve 10 puzzles through normally inaccessible rooms and passages. Book as a group.",
-  "tags": ["medieval", "escape-room", "thuringia", "germany", "adventure", "family", "group"],
+  "tags": [
+    "medieval",
+    "escape-room",
+    "thuringia",
+    "germany",
+    "adventure",
+    "family",
+    "group"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "181390",
+  "gyg_location_id": "262573",
   "gyg_search_query": "Beichlingen Palace Thuringia escape room tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
@@ -85,7 +93,11 @@
       "rating": 4.4,
       "reviews": 2,
       "is_top_pick": true,
-      "covers_castles": ["beichlingen-palace"]
+      "booking_url_override": "https://www.getyourguide.com/schillingstedt-l262573/beichlingen-palace-exclusive-tour-with-escape-room-style-puzzles-t1170327/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "beichlingen-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

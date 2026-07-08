@@ -11,7 +11,7 @@
   "region": "Vidzeme, Gauja National Park",
   "nearest_city": "Riga",
   "address": "Pils iela 18, Sigulda, LV-2150, Latvia",
-  "lat": 57.1530,
+  "lat": 57.153,
   "lng": 24.8618,
   "unesco": false,
   "year_built": 1207,
@@ -71,44 +71,38 @@
   "instagram_tag": "#siguldacastle",
   "meta_title": "Sigulda Medieval Castle, Latvia — Latvia's Oldest Livonian Fortress",
   "meta_description": "Visit Sigulda Castle in Latvia — the oldest Livonian Order fortress in the country, set above the Gauja gorge with trails to Turaida and Krimulda.",
-  "tags": ["medieval", "livonian", "latvian-castle", "gauja", "ruins"],
+  "tags": [
+    "medieval",
+    "livonian",
+    "latvian-castle",
+    "gauja",
+    "ruins"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["turaida-castle", "cesis-castle"],
-  "gyg_location_id": "192091",
+  "nearby_castles": [
+    "turaida-castle",
+    "cesis-castle"
+  ],
+  "gyg_location_id": "213",
   "gyg_search_query": "Sigulda castle Gauja valley tour Latvia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "22689",
-      "title": "From Riga: Sigulda Day Tour — Castle Ruins & Gūtmaņala Grotto",
+      "tour_id": "608853",
+      "title": "From Riga: Sigulda & Turaida Day Tour, Castles & Nature",
       "type": "day_trip",
       "duration": "6 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 182,
-      "covers_castles": ["sigulda-castle"]
-    },
-    {
-      "tour_id": "20482",
-      "title": "From Riga: Cēsis, Sigulda & Turaida Castle Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 125,
-      "rating": 4.7,
-      "reviews": 248,
-      "covers_castles": ["sigulda-castle", "turaida-castle"]
-    },
-    {
-      "tour_id": "1292644",
-      "title": "From Riga: Sigulda, Cēsis & Turaida Castle with Food Tasting",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 95,
-      "rating": 4.7,
-      "reviews": 88,
-      "covers_castles": ["sigulda-castle", "turaida-castle"]
+      "price_from": 113,
+      "rating": 4.9,
+      "reviews": 118,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/riga-l213/from-riga-sigulda-turaida-legends-tour-t608853/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "sigulda-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

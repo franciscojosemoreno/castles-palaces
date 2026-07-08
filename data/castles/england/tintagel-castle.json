@@ -65,11 +65,25 @@
   "instagram_tag": "#tintagelcastle",
   "meta_title": "Tintagel Castle: King Arthur, Tickets & Visitor Guide 2026",
   "meta_description": "Visit Tintagel Castle in Cornwall — legendary birthplace of King Arthur, with dramatic clifftop ruins and Atlantic views. Book English Heritage tickets.",
-  "tags": ["medieval", "ruins", "coastal", "dramatic", "king-arthur", "legendary", "english-castle", "english-heritage", "instagram-worthy", "sea-view"],
+  "tags": [
+    "medieval",
+    "ruins",
+    "coastal",
+    "dramatic",
+    "king-arthur",
+    "legendary",
+    "english-castle",
+    "english-heritage",
+    "instagram-worthy",
+    "sea-view"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["alnwick-castle", "bamburgh-castle"],
-  "gyg_location_id": "128693",
+  "nearby_castles": [
+    "alnwick-castle",
+    "bamburgh-castle"
+  ],
+  "gyg_location_id": "101607",
   "gyg_search_query": "Tintagel Castle King Arthur Cornwall tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -79,30 +93,15 @@
       "title": "Cornwall: Tintagel Castle Entry Ticket",
       "type": "entry_ticket",
       "duration": "2 hours",
-      "price_from": 18,
-      "rating": 4.7,
-      "reviews": 340,
-      "covers_castles": ["tintagel-castle"]
-    },
-    {
-      "tour_id": "39217",
-      "title": "Cornwall: 2-Day King Arthur, Tintagel and Boscastle Tour",
-      "type": "day_trip",
-      "duration": "2 days",
-      "price_from": 220,
-      "rating": 4.6,
-      "reviews": 120,
-      "covers_castles": ["tintagel-castle"]
-    },
-    {
-      "tour_id": "660368",
-      "title": "From Glastonbury: 2-Day Tintagel, Boscastle & Dartmoor Tour",
-      "type": "day_trip",
-      "duration": "2 days",
-      "price_from": 185,
+      "price_from": 21,
       "rating": 4.5,
-      "reviews": 95,
-      "covers_castles": ["tintagel-castle"]
+      "reviews": 191,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tintagel-l101607/cornwall-tintagel-castle-entry-and-exploration-t714294/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "tintagel-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

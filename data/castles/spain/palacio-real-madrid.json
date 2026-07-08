@@ -90,41 +90,31 @@
   ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["alcazar-of-segovia", "manzanares-el-real-castle", "alcazar-de-toledo", "el-escorial"],
-  "gyg_location_id": "3611",
+  "nearby_castles": [
+    "alcazar-of-segovia",
+    "manzanares-el-real-castle",
+    "alcazar-de-toledo",
+    "el-escorial"
+  ],
+  "gyg_location_id": "46",
   "gyg_search_query": "Royal Palace Madrid skip the line tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "393230",
-      "title": "Royal Palace of Madrid: Fast-Access Admission Ticket",
+      "title": "Madrid: Royal Palace Fast-Access Admission Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
       "price_from": 25,
       "rating": 4.6,
-      "reviews": 15249,
-      "covers_castles": ["palacio-real-madrid"]
-    },
-    {
-      "tour_id": "591591",
-      "title": "Royal Palace of Madrid: Skip-the-Line Guided Tour",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 39,
-      "rating": 4.8,
-      "reviews": 4545,
-      "covers_castles": ["palacio-real-madrid"]
-    },
-    {
-      "tour_id": "66505",
-      "title": "Royal Palace of Madrid: Guided Tour with Skip-the-Line Entry",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 44,
-      "rating": 4.5,
-      "reviews": 786,
-      "covers_castles": ["palacio-real-madrid"]
+      "reviews": 15421,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/madrid-l46/madrid-royal-palace-fast-access-admission-ticket-t393230/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palacio-real-madrid"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

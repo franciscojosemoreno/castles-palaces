@@ -75,11 +75,27 @@
   "instagram_tag": "#azaylerideau",
   "meta_title": "Château d'Azay-le-Rideau: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Château d'Azay-le-Rideau — the Renaissance château reflected in the Indre river, with its revolutionary open loggia staircase. Tickets and tours for 2026.",
-  "tags": ["renaissance", "16th-century", "unesco-world-heritage", "river-castle", "loire-valley", "instagram-worthy", "day-trip-from-tours"],
+  "tags": [
+    "renaissance",
+    "16th-century",
+    "unesco-world-heritage",
+    "river-castle",
+    "loire-valley",
+    "instagram-worthy",
+    "day-trip-from-tours"
+  ],
   "last_updated": "2026-06-25",
-  "routes": ["loire-valley-castles"],
-  "nearby_castles": ["chateau-de-chenonceau", "chateau-de-chambord", "chateau-de-blois", "chateau-de-villandry", "chateau-d-angers"],
-  "gyg_location_id": "7957",
+  "routes": [
+    "loire-valley-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-chenonceau",
+    "chateau-de-chambord",
+    "chateau-de-blois",
+    "chateau-de-villandry",
+    "chateau-d-angers"
+  ],
+  "gyg_location_id": "206033",
   "gyg_search_query": "Azay-le-Rideau Loire Valley château tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -91,19 +107,13 @@
       "duration": "1–3 hours",
       "price_from": 15,
       "rating": 4.7,
-      "reviews": 252,
+      "reviews": 258,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-azay-le-rideau"]
-    },
-    {
-      "tour_id": "116431",
-      "title": "Chateaux Azay-le-Rideau and Villandry Morning Tour from Tours",
-      "type": "small_group_tour",
-      "duration": "4 hours",
-      "price_from": 131,
-      "rating": 4.9,
-      "reviews": 85,
-      "covers_castles": ["chateau-de-azay-le-rideau", "chateau-de-villandry"]
+      "booking_url_override": "https://www.getyourguide.com/azay-le-rideau-l206033/chateau-of-azay-le-rideau-entrance-ticket-t75032/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-azay-le-rideau"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,10 +67,20 @@
   "instagram_tag": "#hohenwerfen",
   "meta_title": "Hohenwerfen Castle, Salzburg: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Hohenwerfen Castle near Salzburg — a medieval fortress 155m above the Salzach valley, with falconry shows and Sound of Music views. Guide for 2026.",
-  "tags": ["medieval", "salzburg", "falconry", "sound-of-music", "alpine", "panoramic-view"],
+  "tags": [
+    "medieval",
+    "salzburg",
+    "falconry",
+    "sound-of-music",
+    "alpine",
+    "panoramic-view"
+  ],
   "last_updated": "2026-06-29",
   "routes": [],
-  "nearby_castles": ["hohensalzburg-fortress", "schloss-ambras"],
+  "nearby_castles": [
+    "hohensalzburg-fortress",
+    "schloss-ambras"
+  ],
   "gyg_location_id": "4776",
   "gyg_search_query": "Hohenwerfen Castle tour",
   "gyg_widget_type": "activities",
@@ -78,14 +88,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "329441",
-      "title": "Hohenwerfen Castle Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Werfen: Hohenwerfen Castle Entrance Ticket BASIC",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 16,
       "rating": 4.3,
       "reviews": 132,
       "is_top_pick": true,
-      "covers_castles": ["hohenwerfen-castle"]
+      "booking_url_override": "https://www.getyourguide.com/werfen-l4776/werfen-hohenwerfen-castle-entrance-ticket-t329441/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hohenwerfen-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

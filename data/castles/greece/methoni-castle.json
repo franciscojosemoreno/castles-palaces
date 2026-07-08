@@ -71,11 +71,25 @@
   "instagram_tag": "#methoniCastle",
   "meta_title": "Methoni Castle Greece: Free Entry, Tours & Visitor Guide 2026",
   "meta_description": "Visit Methoni Castle — one of the largest Venetian sea fortresses in the Mediterranean, with the iconic Bourtzi tower and free entry. Plan your Peloponnese trip.",
-  "tags": ["castle", "venetian", "sea-fortress", "peloponnese", "free-entry", "greece", "messenia", "bourtzi", "mediterranean"],
+  "tags": [
+    "castle",
+    "venetian",
+    "sea-fortress",
+    "peloponnese",
+    "free-entry",
+    "greece",
+    "messenia",
+    "bourtzi",
+    "mediterranean"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["palamidi-fortress", "palace-of-the-grand-master", "lindos-castle"],
-  "gyg_location_id": "182797",
+  "nearby_castles": [
+    "palamidi-fortress",
+    "palace-of-the-grand-master",
+    "lindos-castle"
+  ],
+  "gyg_location_id": "89381",
   "gyg_search_query": "Methoni Castle Peloponnese Greece tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,10 +99,15 @@
       "title": "Mystical Messinia: Voidokilia, Pylos & Methoni Wonders",
       "type": "guided_tour",
       "duration": "8 hours",
-      "price_from": 110,
-      "rating": 4.5,
-      "reviews": 2,
-      "covers_castles": ["methoni-castle"]
+      "price_from": 122,
+      "rating": 4.8,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/pylos-l89381/mystical-messinia-voidokilia-pylos-methoni-wonders-t1015664/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "methoni-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

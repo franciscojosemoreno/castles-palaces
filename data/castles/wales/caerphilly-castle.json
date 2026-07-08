@@ -11,7 +11,7 @@
   "region": "South Wales",
   "nearest_city": "Cardiff",
   "address": "Castle Street, Caerphilly CF83 1JD, Wales",
-  "lat": 51.5760,
+  "lat": 51.576,
   "lng": -3.2188,
   "unesco": false,
   "year_built": 1268,
@@ -71,54 +71,38 @@
   "instagram_tag": "#caerphillycastle",
   "meta_title": "Caerphilly Castle: Tickets, Leaning Tower & Visitor Guide 2026",
   "meta_description": "Visit Caerphilly Castle — the largest castle in Wales and second largest in Britain, with its famous leaning tower and 13th-century water defences. Guide to tickets, getting there from Cardiff.",
-  "tags": ["medieval", "concentric", "water-defences", "wales", "dramatic"],
+  "tags": [
+    "medieval",
+    "concentric",
+    "water-defences",
+    "wales",
+    "dramatic"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["conwy-castle", "caernarfon-castle"],
-  "gyg_location_id": "91698",
+  "nearby_castles": [
+    "conwy-castle",
+    "caernarfon-castle"
+  ],
+  "gyg_location_id": "445",
   "gyg_search_query": "Caerphilly Castle tour Cardiff",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "67689",
-      "title": "From London: Cardiff & Caerphilly Castle Day Tour",
+      "tour_id": "1149707",
+      "title": "From Bristol: Mountains & Castles of Wales Day Tour",
       "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 95,
-      "rating": 4.5,
-      "reviews": 248,
-      "covers_castles": ["caerphilly-castle"]
-    },
-    {
-      "tour_id": "486798",
-      "title": "From Cardiff: Three Castles & Welsh Mountains Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 182,
-      "covers_castles": ["caerphilly-castle"]
-    },
-    {
-      "tour_id": "1137827",
-      "title": "Cardiff & South Wales Private Day Tour: Three Welsh Castles",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 145,
+      "duration": "9.5 hours",
+      "price_from": 114,
       "rating": 4.6,
-      "reviews": 118,
-      "covers_castles": ["caerphilly-castle"]
-    },
-    {
-      "tour_id": "559581",
-      "title": "From Cardiff: Caerleon, Tintern Abbey & Three Castles Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 148,
-      "covers_castles": ["caerphilly-castle"]
+      "reviews": 11,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/bristol-l445/from-bristol-mountains-castles-of-wales-day-tour-t1149707/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "caerphilly-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

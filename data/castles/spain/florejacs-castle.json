@@ -67,10 +67,20 @@
   "instagram_tag": "#castellodeflorejacs",
   "meta_title": "Florejacs Castle, Catalonia: Visitor Guide 2026",
   "meta_description": "Visit Florejacs Castle in Lleida — a private Catalan castle held by the same family for nearly 1,000 years. Medieval tower, dungeon, secret passage. Limited availability.",
-  "tags": ["medieval", "private-residence", "catalonia", "reconquista", "spain", "family-owned", "segarra"],
+  "tags": [
+    "medieval",
+    "private-residence",
+    "catalonia",
+    "reconquista",
+    "spain",
+    "family-owned",
+    "segarra"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": ["cardona-castle"],
+  "nearby_castles": [
+    "cardona-castle"
+  ],
   "gyg_location_id": "641",
   "gyg_search_query": "Florejacs Castle Lleida Catalonia visit",
   "gyg_widget_type": "activities",
@@ -85,7 +95,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["florejacs-castle"]
+      "booking_url_override": "https://www.getyourguide.com/catalonia-l641/visit-florejacs-castle-t1332186/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "florejacs-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

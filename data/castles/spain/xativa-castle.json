@@ -12,7 +12,7 @@
   "nearest_city": "Valencia",
   "address": "Subida al Castillo, 46800 Xàtiva, Valencia, Spain",
   "lat": 38.9862,
-  "lng": -0.5150,
+  "lng": -0.515,
   "unesco": false,
   "year_built": 1100,
   "architectural_style": "Twin-castle complex (Castell Menor and Castell Major) on a limestone ridge above Xàtiva, 60 km south of Valencia; Iberian origins extended by Romans, Moors (Taifa period), and Christian reconquest; one of the largest medieval fortress complexes in the Valencia region; devastated and the town deliberately burned by Philip V in 1707 during the War of the Spanish Succession as punishment for supporting the Habsburg claimant; the castle museum still displays a portrait of Philip V hung upside down — a protest maintained for over 300 years",
@@ -71,7 +71,15 @@
   "instagram_tag": "#castillodexativa",
   "meta_title": "Xàtiva Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Xàtiva Castle near Valencia — the twin medieval fortress where a portrait of Philip V still hangs upside down after 300 years. Guide, tickets, and day trip options.",
-  "tags": ["medieval", "moorish", "reconquista", "spain", "valencia", "twin-castle", "borgia"],
+  "tags": [
+    "medieval",
+    "moorish",
+    "reconquista",
+    "spain",
+    "valencia",
+    "twin-castle",
+    "borgia"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
   "nearby_castles": [],
@@ -86,10 +94,14 @@
       "type": "day_trip",
       "duration": "8 hours",
       "price_from": 81,
-      "rating": 5.0,
+      "rating": null,
       "reviews": 1,
       "is_top_pick": true,
-      "covers_castles": ["xativa-castle"]
+      "booking_url_override": "https://www.getyourguide.com/valencia-l49/valencia-xativa-castle-and-bocairent-day-trip-t1348016/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "xativa-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

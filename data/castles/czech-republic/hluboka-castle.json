@@ -71,44 +71,43 @@
   "instagram_tag": "#zamekhluboka",
   "meta_title": "Hluboká Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Hluboká Castle in South Bohemia — Czech Republic's Windsor. Explore 99 white towers, a Dutch Masters art gallery, and pair with Český Krumlov on one day trip.",
-  "tags": ["czech-republic", "south-bohemia", "neo-gothic", "tudor-revival", "schwarzenberg", "windsor", "day-trip-from-prague", "cesky-krumlov"],
+  "tags": [
+    "czech-republic",
+    "south-bohemia",
+    "neo-gothic",
+    "tudor-revival",
+    "schwarzenberg",
+    "windsor",
+    "day-trip-from-prague",
+    "cesky-krumlov"
+  ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["cesky-krumlov-castle", "konopiste-castle", "prague-castle"],
-  "gyg_location_id": "148522",
+  "nearby_castles": [
+    "cesky-krumlov-castle",
+    "konopiste-castle",
+    "prague-castle"
+  ],
+  "gyg_location_id": "147327",
   "gyg_search_query": "Hluboká Castle Cesky Krumlov tour Prague",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [
     {
-      "tour_id": "848066",
-      "title": "Prague: Cesky Krumlov Private Day Trip with Hluboka & Holasovice",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 259,
-      "rating": 5.0,
-      "reviews": 6,
-      "covers_castles": ["hluboka-castle", "cesky-krumlov-castle"]
-    },
-    {
-      "tour_id": "1239946",
-      "title": "Private Tour to Český Krumlov and Hluboká Castle from Prague",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 189,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["hluboka-castle", "cesky-krumlov-castle"]
-    },
-    {
       "tour_id": "1348218",
-      "title": "Hluboká Castle Self-Guided Tour by Coach from Prague",
+      "title": "Prague: Hluboká Castle Self-Guided Tour by Coach",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 61,
+      "price_from": 67,
       "rating": null,
       "reviews": 0,
-      "covers_castles": ["hluboka-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/hluboka-nad-vltavou-l147327/prague-hluboka-castle-self-guided-tour-by-coach-t1348218/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hluboka-castle",
+        "cesky-krumlov-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

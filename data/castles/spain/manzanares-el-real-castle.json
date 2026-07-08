@@ -66,24 +66,44 @@
   "instagram_tag": "#manzanarescastillo",
   "meta_title": "Manzanares el Real Castle: Madrid Day Trip & Visitor Guide 2026",
   "meta_description": "Visit Manzanares el Real Castle near Madrid — Spain's finest Late Gothic fortress with Sierra de Guadarrama backdrop. Tickets and travel guide 2026.",
-  "tags": ["gothic", "medieval", "mountains", "near-madrid", "instagram-worthy", "day-trip-from-madrid", "spanish-castle", "dramatic"],
+  "tags": [
+    "gothic",
+    "medieval",
+    "mountains",
+    "near-madrid",
+    "instagram-worthy",
+    "day-trip-from-madrid",
+    "spanish-castle",
+    "dramatic"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["alcazar-of-segovia", "alhambra-granada", "alcazar-seville", "palacio-real-madrid", "el-escorial"],
-  "gyg_location_id": "147204",
+  "nearby_castles": [
+    "alcazar-of-segovia",
+    "alhambra-granada",
+    "alcazar-seville",
+    "palacio-real-madrid",
+    "el-escorial"
+  ],
+  "gyg_location_id": "46",
   "gyg_search_query": "Manzanares el Real Castle Madrid day trip",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "372990",
-      "title": "From Madrid: Day Trip to Guadarrama National Park & Castle",
+      "title": "From Madrid: Day Trip to Guadarrama National Park",
       "type": "day_trip",
       "duration": "10 hours",
-      "price_from": 103,
+      "price_from": 102,
       "rating": 4.6,
-      "reviews": 69,
-      "covers_castles": ["manzanares-el-real-castle"]
+      "reviews": 71,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/madrid-l46/from-madrid-day-trip-to-guadarrama-national-park-t372990/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "manzanares-el-real-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

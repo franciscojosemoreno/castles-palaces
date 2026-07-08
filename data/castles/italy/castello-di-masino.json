@@ -67,10 +67,21 @@
   "instagram_tag": "#castellodimasino",
   "meta_title": "Castello di Masino: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castello di Masino in Piedmont — nine centuries of Valperga family history, a 15,000-volume library and a restored Baroque garden. FAI guide for 2026.",
-  "tags": ["medieval", "baroque", "piedmont", "fai", "valperga", "library", "garden"],
+  "tags": [
+    "medieval",
+    "baroque",
+    "piedmont",
+    "fai",
+    "valperga",
+    "library",
+    "garden"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["castello-sforzesco", "castello-di-vezio"],
+  "nearby_castles": [
+    "castello-sforzesco",
+    "castello-di-vezio"
+  ],
   "gyg_location_id": "390",
   "gyg_search_query": "Castello di Masino Piedmont tour",
   "gyg_widget_type": "activities",
@@ -78,14 +89,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "433957",
-      "title": "Caravino: Castello di Masino Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Caravino: Masino Castle Entry Ticket",
+      "type": "entry_ticket",
       "duration": "1 hour",
       "price_from": 18,
       "rating": 4.3,
-      "reviews": 31,
+      "reviews": 32,
       "is_top_pick": true,
-      "covers_castles": ["castello-di-masino"]
+      "booking_url_override": "https://www.getyourguide.com/turin-l390/caravino-masino-castle-entry-ticket-t433957/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-di-masino"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

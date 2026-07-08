@@ -67,10 +67,20 @@
   "instagram_tag": "#skoklostersslott",
   "meta_title": "Skokloster Castle, Sweden: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Skokloster Castle on Lake Mälaren — a Baroque palace abandoned mid-construction in 1676, with an untouched 17th-century unfinished hall and 50,000 original objects. Guide for 2026.",
-  "tags": ["baroque", "sweden", "lake-malaren", "unfinished", "armoury", "17th-century"],
+  "tags": [
+    "baroque",
+    "sweden",
+    "lake-malaren",
+    "unfinished",
+    "armoury",
+    "17th-century"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["gripsholm-castle", "drottningholm-palace"],
+  "nearby_castles": [
+    "gripsholm-castle",
+    "drottningholm-palace"
+  ],
   "gyg_location_id": "168831",
   "gyg_search_query": "Skokloster Castle Sweden tour",
   "gyg_widget_type": "activities",
@@ -78,14 +88,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1126543",
-      "title": "Skokloster: Castle Guided Tour",
-      "type": "entrance_ticket",
+      "title": "Stockholm: Skokloster Castle Entry Ticket",
+      "type": "entry_ticket",
       "duration": "1.5 hours",
       "price_from": 14,
-      "rating": null,
+      "rating": 3.7,
       "reviews": 3,
       "is_top_pick": true,
-      "covers_castles": ["skokloster-castle"]
+      "booking_url_override": "https://www.getyourguide.com/skokloster-l168831/stockholm-skokloster-castle-entry-ticket-t1126543/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "skokloster-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

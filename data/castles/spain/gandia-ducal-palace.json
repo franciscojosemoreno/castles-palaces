@@ -67,7 +67,16 @@
   "instagram_tag": "#palauducalgandia",
   "meta_title": "Gandia Ducal Palace: Borgia Palace Tickets & Guide 2026",
   "meta_description": "Visit the Gandia Ducal Palace — ancestral seat of the Borgia family, birthplace of Saint Francis Borgia, and home to the Baroque Golden Gallery. €9 with audio guide.",
-  "tags": ["borgia", "borja", "saint-francis-borgia", "baroque", "golden-gallery", "jesuit", "accessible", "valencia"],
+  "tags": [
+    "borgia",
+    "borja",
+    "saint-francis-borgia",
+    "baroque",
+    "golden-gallery",
+    "jesuit",
+    "accessible",
+    "valencia"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -79,13 +88,17 @@
     {
       "tour_id": "418010",
       "title": "Gandia: Ducal Palace Entry Ticket with Audio Guide",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "45 minutes",
       "price_from": 9,
       "rating": 4.6,
       "reviews": 104,
       "is_top_pick": true,
-      "covers_castles": ["gandia-ducal-palace"]
+      "booking_url_override": "https://www.getyourguide.com/gandia-l150817/gandia-ducal-palace-entry-ticket-with-audio-guide-t418010/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "gandia-ducal-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

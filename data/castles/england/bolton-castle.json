@@ -71,11 +71,21 @@
   "instagram_tag": "#boltoncastle",
   "meta_title": "Bolton Castle, Yorkshire Dales — Mary Queen of Scots' Prison in Wensleydale",
   "meta_description": "Visit Bolton Castle in the Yorkshire Dales — a 14th-century quadrangular fortress and prison of Mary Queen of Scots, set above beautiful Wensleydale.",
-  "tags": ["medieval", "english-castle", "yorkshire", "mary-queen-of-scots", "yorkshire-dales"],
+  "tags": [
+    "medieval",
+    "english-castle",
+    "yorkshire",
+    "mary-queen-of-scots",
+    "yorkshire-dales"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["bamburgh-castle", "alnwick-castle", "castle-howard"],
-  "gyg_location_id": "182587",
+  "nearby_castles": [
+    "bamburgh-castle",
+    "alnwick-castle",
+    "castle-howard"
+  ],
+  "gyg_location_id": "436",
   "gyg_search_query": "Bolton Castle Yorkshire Dales tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +95,15 @@
       "title": "The Yorkshire Dales Tour from York",
       "type": "day_trip",
       "duration": "8.5 hours",
-      "price_from": 109,
+      "price_from": 108,
       "rating": 4.8,
-      "reviews": 535,
-      "covers_castles": ["bolton-castle"]
-    },
-    {
-      "tour_id": "644377",
-      "title": "York: \"All Creatures Great and Small\" Yorkshire Dales Tour",
-      "type": "day_trip",
-      "duration": "8.5 hours",
-      "price_from": 109,
-      "rating": 4.9,
-      "reviews": 191,
-      "covers_castles": ["bolton-castle"]
-    },
-    {
-      "tour_id": "189936",
-      "title": "From York: Full-Day Yorkshire Dales Tour",
-      "type": "day_trip",
-      "duration": "8.5 hours",
-      "price_from": 79,
-      "rating": 4.9,
-      "reviews": 140,
-      "covers_castles": ["bolton-castle"]
+      "reviews": 540,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/york-l436/the-yorkshire-dales-tour-from-york-t51228/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bolton-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

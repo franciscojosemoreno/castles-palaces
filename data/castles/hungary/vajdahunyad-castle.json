@@ -67,10 +67,20 @@
   "instagram_tag": "#vajdahunyadcastle",
   "meta_title": "Vajdahunyad Castle, Budapest: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Vajdahunyad Castle in Budapest's City Park — a composite 1896 showcase of Hungarian architecture, home to the Agricultural Museum. Guide for 2026.",
-  "tags": ["historicism", "budapest", "city-park", "museum", "millennium-exhibition"],
+  "tags": [
+    "historicism",
+    "budapest",
+    "city-park",
+    "museum",
+    "millennium-exhibition"
+  ],
   "last_updated": "2026-06-28",
   "routes": [],
-  "nearby_castles": ["buda-castle", "visegrad-royal-palace", "godollo-palace"],
+  "nearby_castles": [
+    "buda-castle",
+    "visegrad-royal-palace",
+    "godollo-palace"
+  ],
   "gyg_location_id": "29",
   "gyg_search_query": "Vajdahunyad Castle Budapest tour",
   "gyg_widget_type": "activities",
@@ -78,14 +88,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "976883",
-      "title": "Budapest City Park: Real Crimes of Hungary Walking Tour",
-      "type": "walking_tour",
-      "duration": "2 hours",
-      "price_from": 15,
-      "rating": 4.5,
-      "reviews": 50,
+      "title": "Budapest: City Park- True Crime of Hungary- Walking Tour",
+      "type": "guided_tour",
+      "duration": "105 minutes",
+      "price_from": 19,
+      "rating": 4.9,
+      "reviews": 63,
       "is_top_pick": true,
-      "covers_castles": ["vajdahunyad-castle"]
+      "booking_url_override": "https://www.getyourguide.com/budapest-l29/budapest-city-park-true-crime-of-hungary-walking-tour-t976883/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "vajdahunyad-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

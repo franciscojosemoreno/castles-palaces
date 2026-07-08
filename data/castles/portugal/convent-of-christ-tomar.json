@@ -71,11 +71,20 @@
   "instagram_tag": "#conventodecristo",
   "meta_title": "Convent of Christ Tomar, Portugal — Knights Templar UNESCO Fortress",
   "meta_description": "Visit the Convent of Christ in Tomar — UNESCO-listed Knights Templar headquarters with the Templar Rotunda and Portugal's finest Manueline window.",
-  "tags": ["knights-templar", "unesco-world-heritage", "portuguese-castle", "manueline", "order-of-christ"],
+  "tags": [
+    "knights-templar",
+    "unesco-world-heritage",
+    "portuguese-castle",
+    "manueline",
+    "order-of-christ"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["obidos-castle", "monsaraz-castle"],
-  "gyg_location_id": "88432",
+  "nearby_castles": [
+    "obidos-castle",
+    "monsaraz-castle"
+  ],
+  "gyg_location_id": "1912",
   "gyg_search_query": "Convent of Christ Tomar tour Portugal",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,40 +94,15 @@
       "title": "Tomar: Convent of Christ and Templar Castle Tour Ticket",
       "type": "entry_ticket",
       "duration": "2 hours",
-      "price_from": 15,
-      "rating": 4.6,
-      "reviews": 420,
-      "covers_castles": ["convent-of-christ-tomar"]
-    },
-    {
-      "tour_id": "1142037",
-      "title": "Tomar: Walking Tour to Convent of Christ with Templar Costume",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 25,
-      "rating": 4.7,
-      "reviews": 180,
-      "covers_castles": ["convent-of-christ-tomar"]
-    },
-    {
-      "tour_id": "830337",
-      "title": "From Lisbon: Knight's Templar Castle and Convent of Christ Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 340,
-      "covers_castles": ["convent-of-christ-tomar"]
-    },
-    {
-      "tour_id": "18912",
-      "title": "From Lisbon: Tomar, Convent of Christ & Almourol Castle",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 290,
-      "covers_castles": ["convent-of-christ-tomar"]
+      "price_from": 17,
+      "rating": 4.2,
+      "reviews": 139,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tomar-l1912/tomar-convent-of-christ-and-templar-castle-tour-ticket-t844952/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "convent-of-christ-tomar"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

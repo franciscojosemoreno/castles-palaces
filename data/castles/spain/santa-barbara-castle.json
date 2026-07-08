@@ -66,44 +66,43 @@
   "instagram_tag": "#castillosantabarbara",
   "meta_title": "Santa Bárbara Castle Alicante: Free Entry & Visitor Guide 2026",
   "meta_description": "Visit Santa Bárbara Castle in Alicante — a free Mediterranean fortress with 360° sea views and 1,200 years of history on the Costa Blanca.",
-  "tags": ["moorish", "renaissance", "hilltop", "free-entry", "sea-view", "coastal", "instagram-worthy", "dramatic", "mediterranean"],
+  "tags": [
+    "moorish",
+    "renaissance",
+    "hilltop",
+    "free-entry",
+    "sea-view",
+    "coastal",
+    "instagram-worthy",
+    "dramatic",
+    "mediterranean"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["alhambra-granada", "alcazar-seville", "peniscola-castle"],
-  "gyg_location_id": "145632",
+  "nearby_castles": [
+    "alhambra-granada",
+    "alcazar-seville",
+    "peniscola-castle"
+  ],
+  "gyg_location_id": "414",
   "gyg_search_query": "Santa Barbara Castle Alicante tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "487547",
-      "title": "Alicante: Santa Bárbara Castle Wine Tasting with Cold Cuts",
+      "title": "Alicante: Santa Bárbara Castle Wine Tasting & Tapas",
       "type": "guided_tour",
       "duration": "45 minutes",
       "price_from": 30,
-      "rating": 4.7,
-      "reviews": 280,
-      "covers_castles": ["santa-barbara-castle"]
-    },
-    {
-      "tour_id": "1070794",
-      "title": "Alicante & Elche Day Trip with Santa Bárbara Castle Visit",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 195,
-      "covers_castles": ["santa-barbara-castle"]
-    },
-    {
-      "tour_id": "923928",
-      "title": "Alicante: Santa Bárbara Castle Visit & Flamenco Show",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 55,
-      "rating": 4.6,
-      "reviews": 140,
-      "covers_castles": ["santa-barbara-castle"]
+      "rating": 4.4,
+      "reviews": 565,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/alicante-l414/alicante-santa-barbara-castle-wine-tasting-t487547/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "santa-barbara-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -89,22 +89,25 @@
     "corvin-castle",
     "mogosoaia-palace"
   ],
-  "gyg_location_id": "977",
+  "gyg_location_id": "258787",
   "gyg_search_query": "Peles Castle Sinaia Romania tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "135264",
-      "title": "From Bucharest: Dracula's Castle, Peleș & Brașov Old Town",
+      "tour_id": "1369347",
+      "title": "Dracula's Castle, Peles Castle, Wednesday Castle - Day Trip",
       "type": "day_trip",
-      "duration": "6–12 hours",
-      "price_from": 11,
-      "rating": 4.4,
-      "reviews": 20410,
+      "duration": "9 hours",
+      "price_from": 22,
+      "rating": 4.7,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/zabala-l258787/dracula-s-castle-peles-castle-wednesday-castle-day-trip-t1369347/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "bran-castle"
       ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

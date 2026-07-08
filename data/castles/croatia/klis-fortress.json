@@ -67,54 +67,39 @@
   "instagram_tag": "#klisfortress",
   "meta_title": "Klis Fortress Split: Tickets, Game of Thrones & Visitor Guide 2026",
   "meta_description": "Visit Klis Fortress above Split — the Game of Thrones filming location for Meereen, a Croatian medieval clifftop fortress with panoramic views of the Adriatic. Complete guide.",
-  "tags": ["medieval", "ottoman", "game-of-thrones", "clifftop", "croatia", "coastal"],
+  "tags": [
+    "medieval",
+    "ottoman",
+    "game-of-thrones",
+    "clifftop",
+    "croatia",
+    "coastal"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["dubrovnik-walls", "lovrijenac"],
-  "gyg_location_id": "4881",
+  "nearby_castles": [
+    "dubrovnik-walls",
+    "lovrijenac"
+  ],
+  "gyg_location_id": "268",
   "gyg_search_query": "Klis Fortress Split Game of Thrones tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "402230",
-      "title": "Split: Klis Fortress Game of Thrones & Olive Museum Tickets",
+      "title": "Klis Fortress, Game of Thrones & Olive Museum Experience",
       "type": "entry_ticket",
-      "duration": "2 hours",
-      "price_from": 25,
-      "rating": 4.5,
-      "reviews": 422,
-      "covers_castles": ["klis-fortress"]
-    },
-    {
-      "tour_id": "442240",
-      "title": "Split: Bus Tour of Klis Fortress & Diocletian Palace",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 35,
-      "rating": 4.5,
-      "reviews": 582,
-      "covers_castles": ["klis-fortress"]
-    },
-    {
-      "tour_id": "631230",
-      "title": "From Dubrovnik: Split and Klis Fortress Day Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 75,
+      "duration": "3 hours",
+      "price_from": 14,
       "rating": 4.6,
-      "reviews": 348,
-      "covers_castles": ["klis-fortress"]
-    },
-    {
-      "tour_id": "228505",
-      "title": "From Zadar: Klis Fortress, Split & Trogir Day Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 282,
-      "covers_castles": ["klis-fortress"]
+      "reviews": 300,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/split-l268/klis-fortress-and-olive-museum-entry-tickets-t402230/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "klis-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -12,7 +12,7 @@
   "nearest_city": "Halle (Saale)",
   "address": "Schlossberg, 06114 Halle (Saale), Germany",
   "lat": 51.5125,
-  "lng": 11.9600,
+  "lng": 11.96,
   "unesco": false,
   "year_built": 961,
   "architectural_style": "Twin castle complex on a porphyry cliff above the Saale River in Halle, divided into the ruined Oberburg (upper castle), dating from the 10th century and long a residence of the Archbishops of Magdeburg, and the Unterburg (lower castle), rebuilt in the Renaissance style and still standing intact; the Oberburg ruins are associated in German and Nordic legend with the imprisonment of the poet-hero motif found in medieval sagas; the site's romantic ruined silhouette above the river made it a favoured subject for German Romantic painters; the Unterburg now houses the Burg Giebichenstein University of Art and Design, one of Germany's leading art schools",
@@ -67,7 +67,15 @@
   "instagram_tag": "#burggiebichenstein",
   "meta_title": "Giebichenstein Castle, Halle: Visitor Guide 2026",
   "meta_description": "Visit Burg Giebichenstein in Halle (Saale) — a twin medieval castle on a porphyry cliff, one half ruined and free, the other housing Germany's celebrated Burg art school.",
-  "tags": ["medieval", "ruins", "saxony-anhalt", "germany", "art-school", "romantic", "saale-river"],
+  "tags": [
+    "medieval",
+    "ruins",
+    "saxony-anhalt",
+    "germany",
+    "art-school",
+    "romantic",
+    "saale-river"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -85,7 +93,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["giebichenstein-castle"]
+      "booking_url_override": "https://www.getyourguide.com/halle-germany-l3458/halle-saale-the-castle-tour-t941533/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "giebichenstein-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

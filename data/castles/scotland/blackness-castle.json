@@ -67,7 +67,15 @@
   "instagram_tag": "#blacknesscastle",
   "meta_title": "Blackness Castle, Scotland: Cruise & Visitor Guide 2026",
   "meta_description": "Visit Blackness Castle on the Firth of Forth — the ship-shaped medieval fortress and state prison. Firth of Forth cruise or on-site Historic Environment Scotland entry.",
-  "tags": ["firth-of-forth", "state-prison", "west-lothian", "scotland", "outlander", "ship-shaped", "covenanter"],
+  "tags": [
+    "firth-of-forth",
+    "state-prison",
+    "west-lothian",
+    "scotland",
+    "outlander",
+    "ship-shaped",
+    "covenanter"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -81,13 +89,15 @@
       "tour_id": "624994",
       "title": "Queensferry: Firth of Forth Blackness Castle Cruise",
       "type": "boat_tour",
-      "duration": "1 hour",
+      "duration": "1.5 hours",
       "price_from": 27,
       "rating": 4.5,
       "reviews": 14,
       "is_top_pick": true,
-      "covers_castles": ["blackness-castle"],
-      "booking_url_override": "https://www.getyourguide.com/queensferry-l115822/blackness-castle-cruise-t624994/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/queensferry-l115822/blackness-castle-cruise-t624994/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "blackness-castle"
+      ]
     }
   ]
 }

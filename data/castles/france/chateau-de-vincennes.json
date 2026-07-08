@@ -67,10 +67,20 @@
   "instagram_tag": "#chateaudevincennes",
   "meta_title": "Château de Vincennes, Paris: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Château de Vincennes near Paris — France's tallest medieval keep, the royal residence before Versailles, with a Renaissance-glazed Sainte-Chapelle. Guide for 2026.",
-  "tags": ["gothic", "medieval", "ile-de-france", "royal-residence", "prison-history", "day-trip-from-paris"],
+  "tags": [
+    "gothic",
+    "medieval",
+    "ile-de-france",
+    "royal-residence",
+    "prison-history",
+    "day-trip-from-paris"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau"],
+  "nearby_castles": [
+    "palace-of-versailles",
+    "chateau-de-fontainebleau"
+  ],
   "gyg_location_id": "103425",
   "gyg_search_query": "Chateau de Vincennes Paris tour",
   "gyg_widget_type": "activities",
@@ -79,13 +89,17 @@
     {
       "tour_id": "224196",
       "title": "Paris: Château de Vincennes Entry Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "1.5 hours",
       "price_from": 15,
       "rating": 4.4,
-      "reviews": 377,
+      "reviews": 378,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-vincennes"]
+      "booking_url_override": "https://www.getyourguide.com/vincennes-france-l103425/paris-chateau-de-vincennes-entry-ticket-t224196/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-vincennes"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

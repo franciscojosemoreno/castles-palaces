@@ -71,11 +71,26 @@
   "instagram_tag": "#harlech",
   "meta_title": "Harlech Castle Wales: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Harlech Castle — Edward I's UNESCO Iron Ring fortress on a Gwynedd cliff with views across Cardigan Bay. Book Cadw tickets and plan your Snowdonia trip.",
-  "tags": ["castle", "medieval", "edward-i", "iron-ring", "unesco-world-heritage", "wales", "snowdonia", "cadw", "gwynedd"],
+  "tags": [
+    "castle",
+    "medieval",
+    "edward-i",
+    "iron-ring",
+    "unesco-world-heritage",
+    "wales",
+    "snowdonia",
+    "cadw",
+    "gwynedd"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["caernarfon-castle", "conwy-castle", "caerphilly-castle", "beaumaris-castle"],
-  "gyg_location_id": "128653",
+  "nearby_castles": [
+    "caernarfon-castle",
+    "conwy-castle",
+    "caerphilly-castle",
+    "beaumaris-castle"
+  ],
+  "gyg_location_id": "32381",
   "gyg_search_query": "Harlech Castle North Wales tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,10 +100,15 @@
       "title": "From London: Wales 5-Day Group Tour",
       "type": "guided_tour",
       "duration": "5 days",
-      "price_from": 1071,
-      "rating": 4.6,
-      "reviews": 47,
-      "covers_castles": ["harlech-castle"]
+      "price_from": 1065,
+      "rating": 4.7,
+      "reviews": 48,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tenby-l32381/wales-and-the-south-west-5-day-small-group-tour-t173934/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "harlech-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

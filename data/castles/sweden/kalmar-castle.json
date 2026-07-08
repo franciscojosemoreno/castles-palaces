@@ -71,12 +71,38 @@
   "instagram_tag": "#kalmarCastle",
   "meta_title": "Kalmar Castle Sweden: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Kalmar Castle — Scandinavia's finest Renaissance castle where the Kalmar Union was signed in 1397. Plan your visit from Stockholm and explore original 16th-century royal interiors.",
-  "tags": ["castle", "renaissance", "medieval", "kalmar-union", "scandinavia", "royal-castle", "sweden", "baltic"],
+  "tags": [
+    "castle",
+    "renaissance",
+    "medieval",
+    "kalmar-union",
+    "scandinavia",
+    "royal-castle",
+    "sweden",
+    "baltic"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["gripsholm-castle", "drottningholm-palace"],
+  "nearby_castles": [
+    "gripsholm-castle",
+    "drottningholm-palace"
+  ],
   "gyg_search_query": "Kalmar Castle Sweden tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1364593",
+      "title": "Kalmar Castle: Priority Entry Ticket with Guided Castle Tour",
+      "type": "entry_ticket",
+      "duration": "",
+      "price_from": 22,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/kalmar-l101649/kalmar-castle-priority-entry-ticket-with-guided-castle-tour-t1364593/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    }
+  ],
+  "gyg_direct_link_override": true,
+  "gyg_location_id": "101649"
 }

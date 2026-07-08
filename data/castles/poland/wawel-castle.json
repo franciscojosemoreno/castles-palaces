@@ -78,7 +78,7 @@
     "malbork-castle",
     "royal-castle-warsaw"
   ],
-  "gyg_location_id": "4142",
+  "gyg_location_id": "40",
   "gyg_search_query": "Wawel Castle Krakow guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -86,42 +86,17 @@
     {
       "tour_id": "414337",
       "title": "Krakow: Wawel Castle Guided Tour with Entry Tickets",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 35,
-      "rating": 4.7,
-      "reviews": 590,
-      "covers_castles": ["wawel-castle"]
-    },
-    {
-      "tour_id": "508499",
-      "title": "Krakow: Wawel Castle & Cathedral Skip-the-Line Small Group Tour",
       "type": "skip_the_line",
-      "duration": "2 hours",
-      "price_from": 42,
-      "rating": 4.6,
-      "reviews": 380,
-      "covers_castles": ["wawel-castle"]
-    },
-    {
-      "tour_id": "368896",
-      "title": "Krakow: Skip the Line Wawel Castle & Cathedral Private Tour",
-      "type": "skip_the_line",
-      "duration": "2 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 240,
-      "covers_castles": ["wawel-castle"]
-    },
-    {
-      "tour_id": "539441",
-      "title": "Krakow: Fast Track Wawel Castle and Old Town Tour",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 38,
-      "rating": 4.5,
-      "reviews": 180,
-      "covers_castles": ["wawel-castle"]
+      "duration": "1 - 2 hours",
+      "price_from": 34,
+      "rating": 4.4,
+      "reviews": 395,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/krakow-l40/krakow-wawel-castle-skip-the-line-guided-tour-t414337/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "wawel-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

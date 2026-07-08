@@ -67,11 +67,19 @@
   "instagram_tag": "#cervenykamen",
   "meta_title": "Červený Kameň Castle, Slovakia: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Červený Kameň Castle near Bratislava — the Fugger family's Renaissance bastion fortress in Slovakia's Little Carpathian wine country, with falconry and historic wine cellars.",
-  "tags": ["renaissance", "fugger", "palffy", "slovakia", "wine", "bastion", "little-carpathians"],
+  "tags": [
+    "renaissance",
+    "fugger",
+    "palffy",
+    "slovakia",
+    "wine",
+    "bastion",
+    "little-carpathians"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "126958",
+  "gyg_location_id": "155009",
   "gyg_search_query": "Červený Kameň Castle Bratislava wine tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
@@ -85,7 +93,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["cerveny-kamen-castle"]
+      "booking_url_override": "https://www.getyourguide.com/svaty-jur-l155009/bratislava-cerveny-kamen-castle-and-wine-tasting-tour-t1319045/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "cerveny-kamen-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

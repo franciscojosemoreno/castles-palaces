@@ -88,50 +88,25 @@
     "bran-castle",
     "royal-castle-warsaw"
   ],
-  "gyg_location_id": "4143",
+  "gyg_location_id": "153896",
   "gyg_search_query": "Malbork Castle tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "457716",
-      "title": "From Gdansk: Malbork Castle Trip with Ticket and Audio Guide",
-      "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 45,
-      "rating": 4.6,
-      "reviews": 320,
-      "covers_castles": ["malbork-castle"]
-    },
-    {
-      "tour_id": "218583",
-      "title": "Gdansk: Malbork Castle Regular Group Tour",
-      "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 35,
-      "rating": 4.5,
-      "reviews": 280,
-      "covers_castles": ["malbork-castle"]
-    },
-    {
-      "tour_id": "33756",
-      "title": "Malbork Castle Half-Day Private Tour from Gdansk",
+      "tour_id": "388248",
+      "title": "From Gdansk: Half-Day Malbork Castle Tour with Audioguide",
       "type": "day_trip",
       "duration": "5 hours",
-      "price_from": 72,
+      "price_from": 103,
       "rating": 4.7,
-      "reviews": 190,
-      "covers_castles": ["malbork-castle"]
-    },
-    {
-      "tour_id": "214512",
-      "title": "From Warsaw: Malbork Castle of the Teutonic Order Full-Day Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 99,
-      "rating": 4.5,
-      "reviews": 140,
-      "covers_castles": ["malbork-castle"]
+      "reviews": 225,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/malbork-l153896/from-gdansk-malbork-castle-tour-with-audioguide-t388248/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "malbork-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

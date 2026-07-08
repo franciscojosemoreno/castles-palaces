@@ -67,10 +67,19 @@
   "instagram_tag": "#paleisamsterdam",
   "meta_title": "Royal Palace of Amsterdam: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit the Royal Palace of Amsterdam on Dam Square — Jacob van Campen's Dutch Golden Age city hall turned royal palace, with its monumental Burgerzaal. Tickets for 2026.",
-  "tags": ["dutch-golden-age", "classicism", "royal-residence", "amsterdam", "city-centre"],
+  "tags": [
+    "dutch-golden-age",
+    "classicism",
+    "royal-residence",
+    "amsterdam",
+    "city-centre"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["muiderslot", "de-haar-castle"],
+  "nearby_castles": [
+    "muiderslot",
+    "de-haar-castle"
+  ],
   "gyg_location_id": "36",
   "gyg_search_query": "Royal Palace Amsterdam tour tickets",
   "gyg_widget_type": "activities",
@@ -78,25 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "131313",
-      "title": "Amsterdam: Royal Palace Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Amsterdam: Royal Palace Entry Ticket + Audio guide",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 15,
       "rating": 4.6,
-      "reviews": 8657,
+      "reviews": 8701,
       "is_top_pick": true,
-      "covers_castles": ["royal-palace-amsterdam"]
-    },
-    {
-      "tour_id": "523321",
-      "title": "Amsterdam: Skip-the-Line Royal Palace Private Guided Tour",
-      "type": "private_tour",
-      "duration": "2–5 hours",
-      "price_from": 252,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "covers_castles": ["royal-palace-amsterdam"]
+      "booking_url_override": "https://www.getyourguide.com/amsterdam-l36/amsterdam-royal-palace-entry-ticket-audio-guide-t131313/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "royal-palace-amsterdam"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

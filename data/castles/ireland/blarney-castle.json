@@ -71,44 +71,38 @@
   "instagram_tag": "#blarneycastle",
   "meta_title": "Blarney Castle: Tickets, Blarney Stone & Visitor Guide 2026",
   "meta_description": "Visit Blarney Castle in Cork, Ireland — kiss the Blarney Stone and explore Ireland's most visited medieval tower house. Complete guide to tickets, opening hours, and the Rock Close gardens.",
-  "tags": ["medieval", "tower-house", "iconic", "gardens", "ireland"],
+  "tags": [
+    "medieval",
+    "tower-house",
+    "iconic",
+    "gardens",
+    "ireland"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["rock-of-cashel", "kilkenny-castle"],
-  "gyg_location_id": "4648",
+  "nearby_castles": [
+    "rock-of-cashel",
+    "kilkenny-castle"
+  ],
+  "gyg_location_id": "1605",
   "gyg_search_query": "Blarney Castle tour Cork",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "558984",
-      "title": "Cork: Blarney Stone & Castle Gardens Guided Tour",
+      "title": "Easy Access - The Blarney Stone & Castle Gardens Tour",
       "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 28,
-      "rating": 4.5,
-      "reviews": 130,
-      "covers_castles": ["blarney-castle"]
-    },
-    {
-      "tour_id": "445224",
-      "title": "From Cork: County Cork Highlights Tour with Entrance Tickets",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 45,
-      "rating": 4.6,
-      "reviews": 360,
-      "covers_castles": ["blarney-castle"]
-    },
-    {
-      "tour_id": "18764",
-      "title": "Dublin: Blarney Castle, Rock of Cashel & Cahir Castle Day Trip",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 79,
-      "rating": 4.5,
-      "reviews": 870,
-      "covers_castles": ["blarney-castle"]
+      "duration": "2.5 hours",
+      "price_from": 67,
+      "rating": 4.8,
+      "reviews": 86,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cork-l1605/easy-access-the-blarney-stone-castle-gardens-tour-t558984/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "blarney-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

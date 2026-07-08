@@ -12,7 +12,7 @@
   "nearest_city": "Porto",
   "address": "Terreiro da Sé, 4050-573 Porto, Portugal",
   "lat": 41.1436,
-  "lng": -8.6110,
+  "lng": -8.611,
   "unesco": false,
   "year_built": 1653,
   "architectural_style": "Baroque episcopal residence adjoining Porto Cathedral (Sé do Porto) in the historic centre of the city, built from the mid-17th century on the site of an earlier medieval bishop's residence and substantially remodelled in the 18th century; for centuries the seat of the Bishops of Porto and a centre of the city's religious, political and economic authority; interiors hold collections of paintings, sculpture, and decorative arts reflecting the wealth and influence of the diocese at the height of its power",
@@ -67,7 +67,15 @@
   "instagram_tag": "#pacoepiscopalporto",
   "meta_title": "Bishop's Palace of Porto: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Bishop's Palace of Porto beside the Sé Cathedral — a Baroque episcopal residence and overlooked Porto gem with city views, guided tours, and centuries of history.",
-  "tags": ["baroque", "episcopal", "porto", "portugal", "museum", "viewpoint", "religious"],
+  "tags": [
+    "baroque",
+    "episcopal",
+    "porto",
+    "portugal",
+    "museum",
+    "viewpoint",
+    "religious"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -81,11 +89,15 @@
       "title": "Porto Bishop's Palace Guided Tour",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 18,
+      "price_from": 17,
       "rating": 4.2,
       "reviews": 16,
       "is_top_pick": true,
-      "covers_castles": ["bishops-palace-porto"]
+      "booking_url_override": "https://www.getyourguide.com/porto-l151/porto-bishop-s-palace-guided-tour-t906514/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bishops-palace-porto"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

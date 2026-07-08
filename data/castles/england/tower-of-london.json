@@ -90,7 +90,7 @@
     "buckingham-palace",
     "kensington-palace"
   ],
-  "gyg_location_id": "2708",
+  "gyg_location_id": "57",
   "gyg_search_query": "Tower of London tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -100,40 +100,15 @@
       "title": "London: Tower of London and Crown Jewels Exhibition Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 50,
+      "price_from": 49,
       "rating": 4.6,
-      "reviews": 30721,
-      "covers_castles": ["tower-of-london"]
-    },
-    {
-      "tour_id": "164745",
-      "title": "Tower of London: Early Access with Beefeater and Crown Jewels",
-      "type": "skip_the_line",
-      "duration": "2 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 590,
-      "covers_castles": ["tower-of-london"]
-    },
-    {
-      "tour_id": "459935",
-      "title": "London: Tower of London Tour with Crown Jewels & Beefeaters",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 55,
-      "rating": 4.6,
-      "reviews": 430,
-      "covers_castles": ["tower-of-london"]
-    },
-    {
-      "tour_id": "52949",
-      "title": "London: VIP Tower of London & Tower Bridge Early-Access Tour",
-      "type": "skip_the_line",
-      "duration": "3 hours",
-      "price_from": 95,
-      "rating": 4.8,
-      "reviews": 290,
-      "covers_castles": ["tower-of-london"]
+      "reviews": 31088,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/london-l57/london-tower-of-london-and-crown-jewels-exhibition-ticket-t21253/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "tower-of-london"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

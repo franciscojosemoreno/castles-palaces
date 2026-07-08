@@ -71,54 +71,39 @@
   "instagram_tag": "#viandencastle",
   "meta_title": "Vianden Castle Luxembourg: Tickets, History & Visitor Guide 2026",
   "meta_description": "Visit Vianden Castle — Luxembourg's most spectacular medieval fortress, Victor Hugo's refuge in 1871, and a perfectly restored Romanesque-Gothic palace above the Our River valley.",
-  "tags": ["romanesque", "gothic", "medieval", "restored", "luxembourg", "valley"],
+  "tags": [
+    "romanesque",
+    "gothic",
+    "medieval",
+    "restored",
+    "luxembourg",
+    "valley"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["beaufort-castle", "larochette-castle"],
-  "gyg_location_id": "158268",
+  "nearby_castles": [
+    "beaufort-castle",
+    "larochette-castle"
+  ],
+  "gyg_location_id": "164337",
   "gyg_search_query": "Vianden Castle tour Luxembourg",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "401918",
-      "title": "Luxembourg: Vianden Castle Entry Ticket",
-      "type": "entry_ticket",
-      "duration": "3 hours",
-      "price_from": 12,
-      "rating": 4.6,
-      "reviews": 380,
-      "covers_castles": ["vianden-castle"]
-    },
-    {
       "tour_id": "1072703",
-      "title": "Vianden Castle Guided Tour with Transfer",
-      "type": "guided_tour",
-      "duration": "5 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 190,
-      "covers_castles": ["vianden-castle"]
-    },
-    {
-      "tour_id": "409671",
-      "title": "From Luxembourg City: Vianden Guided Day Trip by Bus and Train",
-      "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 240,
-      "covers_castles": ["vianden-castle"]
-    },
-    {
-      "tour_id": "389003",
-      "title": "Luxembourg: Nature, History and Castles Full-Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 75,
-      "rating": 4.5,
-      "reviews": 180,
-      "covers_castles": ["vianden-castle"]
+      "title": "Luxembourg Vianden Castle Tour with Transfer + surprise stop",
+      "type": "entry_ticket",
+      "duration": "4 hours",
+      "price_from": 765,
+      "rating": 5.0,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/vianden-l164337/luxembourg-vianden-castle-tour-with-transfer-surprise-stop-t1072703/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "vianden-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

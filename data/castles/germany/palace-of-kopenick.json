@@ -67,10 +67,19 @@
   "instagram_tag": "#schlosskoepenick",
   "meta_title": "Palace of Köpenick, Berlin: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Palace of Köpenick in Berlin — a Dutch Baroque island palace, home to the Kunstgewerbemuseum and the true story behind the 'Captain of Köpenick'. Guide for 2026.",
-  "tags": ["baroque", "berlin", "decorative-arts", "island", "underrated"],
+  "tags": [
+    "baroque",
+    "berlin",
+    "decorative-arts",
+    "island",
+    "underrated"
+  ],
   "last_updated": "2026-06-29",
   "routes": [],
-  "nearby_castles": ["charlottenburg-palace", "sanssouci-palace"],
+  "nearby_castles": [
+    "charlottenburg-palace",
+    "sanssouci-palace"
+  ],
   "gyg_location_id": "17",
   "gyg_search_query": "Palace of Kopenick Berlin tour",
   "gyg_widget_type": "activities",
@@ -79,13 +88,17 @@
     {
       "tour_id": "388583",
       "title": "Berlin: Palace of Köpenick Entrance Ticket",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 9,
       "rating": 4.3,
       "reviews": 21,
       "is_top_pick": true,
-      "covers_castles": ["palace-of-kopenick"]
+      "booking_url_override": "https://www.getyourguide.com/berlin-l17/berlin-palace-of-kopenick-entrance-ticket-t388583/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palace-of-kopenick"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

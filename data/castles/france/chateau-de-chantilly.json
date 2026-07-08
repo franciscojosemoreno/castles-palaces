@@ -75,35 +75,42 @@
   "instagram_tag": "#chateaudechantilly",
   "meta_title": "Château de Chantilly: Condé Museum Tickets & Guide 2026",
   "meta_description": "Visit Château de Chantilly near Paris — the Condé Museum's old masters, the Grandes Écuries and Le Nôtre's formal gardens. Tickets and visitor tips for 2026.",
-  "tags": ["renaissance", "neo-renaissance", "art-museum", "gardens", "ile-de-france", "day-trip-from-paris", "instagram-worthy"],
+  "tags": [
+    "renaissance",
+    "neo-renaissance",
+    "art-museum",
+    "gardens",
+    "ile-de-france",
+    "day-trip-from-paris",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau", "chateau-de-pierrefonds", "chateau-de-vaux-le-vicomte"],
-  "gyg_location_id": "34703",
+  "nearby_castles": [
+    "palace-of-versailles",
+    "chateau-de-fontainebleau",
+    "chateau-de-pierrefonds",
+    "chateau-de-vaux-le-vicomte"
+  ],
+  "gyg_location_id": "2361",
   "gyg_search_query": "Château de Chantilly Paris day trip tickets tours",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "766754",
-      "title": "Chantilly: Château de Chantilly Skip-the-Line Entry Ticket",
-      "type": "entry_ticket",
+      "title": "Chantilly: Chateau of Chantilly Skip-the-Line Entry Ticket",
+      "type": "skip_the_line",
       "duration": "4 hours",
-      "price_from": 20,
+      "price_from": 17,
       "rating": 4.6,
-      "reviews": 479,
+      "reviews": 766,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-chantilly"]
-    },
-    {
-      "tour_id": "393950",
-      "title": "Chateau of Chantilly: Skip-the-Line Ticket",
-      "type": "entry_ticket",
-      "duration": "3 hours",
-      "price_from": 20,
-      "rating": 4.5,
-      "reviews": 195,
-      "covers_castles": ["chateau-de-chantilly"]
+      "booking_url_override": "https://www.getyourguide.com/chantilly-l2361/paris-chateau-of-chantilly-skip-the-line-entry-ticket-t766754/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-chantilly"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,54 +71,38 @@
   "instagram_tag": "#visegradpalace",
   "meta_title": "Visegrád Royal Palace, Hungary — Renaissance Court on the Danube Bend",
   "meta_description": "Visit Visegrád Royal Palace in Hungary — the excavated Renaissance palace of Matthias Corvinus, once Europe's most splendid court north of the Alps.",
-  "tags": ["renaissance", "hungarian-castle", "danube-bend", "matthias-corvinus", "palace"],
+  "tags": [
+    "renaissance",
+    "hungarian-castle",
+    "danube-bend",
+    "matthias-corvinus",
+    "palace"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["esztergom-castle", "vajdahunyad-castle"],
-  "gyg_location_id": "176548",
+  "nearby_castles": [
+    "esztergom-castle",
+    "vajdahunyad-castle"
+  ],
+  "gyg_location_id": "29",
   "gyg_search_query": "Visegrad palace Danube Bend tour Budapest",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "55698",
-      "title": "From Budapest: Full-Day Danube Bend Tour with Lunch",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 752,
-      "covers_castles": ["visegrad-royal-palace"]
-    },
-    {
       "tour_id": "69891",
-      "title": "From Budapest: Full-Day Visegrád Cruise on the Danube",
+      "title": "Full-Day Visegrád Cruise From Budapest",
       "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 65,
-      "rating": 4.7,
-      "reviews": 382,
-      "covers_castles": ["visegrad-royal-palace"]
-    },
-    {
-      "tour_id": "36386",
-      "title": "Budapest: The Fabulous Danube Bend Full-Day Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 72,
-      "rating": 4.6,
-      "reviews": 484,
-      "covers_castles": ["visegrad-royal-palace"]
-    },
-    {
-      "tour_id": "759",
-      "title": "From Budapest: Danube Bend Day Trip to Visegrád",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 55,
-      "rating": 4.6,
-      "reviews": 620,
-      "covers_castles": ["visegrad-royal-palace"]
+      "duration": "10.5 hours",
+      "price_from": 29,
+      "rating": 4.1,
+      "reviews": 199,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/budapest-l29/full-day-visegrad-cruise-from-budapest-t69891/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "visegrad-royal-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,44 +71,38 @@
   "instagram_tag": "#castelldecardona",
   "meta_title": "Cardona Castle, Catalonia — Carolingian Fortress & Romanesque Church",
   "meta_description": "Explore Cardona Castle in Catalonia — a Carolingian hilltop fortress with a Romanesque church, Parador hotel, and views over the salt mountain.",
-  "tags": ["medieval", "romanesque", "carolingian", "catalonia", "parador"],
+  "tags": [
+    "medieval",
+    "romanesque",
+    "carolingian",
+    "catalonia",
+    "parador"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["palacio-real-de-olite", "florejacs-castle"],
-  "gyg_location_id": "136918",
+  "nearby_castles": [
+    "palacio-real-de-olite",
+    "florejacs-castle"
+  ],
+  "gyg_location_id": "45",
   "gyg_search_query": "Cardona castle Barcelona tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "61452",
-      "title": "From Barcelona: Montserrat, Cardona & Salt Mountain Day Trip",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 331,
-      "rating": 5.0,
-      "reviews": 2,
-      "covers_castles": ["cardona-castle"]
-    },
-    {
       "tour_id": "872776",
       "title": "Barcelona: Private Tour of Montserrat, Cardona Castle, and Salt Mine",
       "type": "day_trip",
       "duration": "7 hours",
-      "price_from": 522,
-      "rating": 4.7,
+      "price_from": 514,
+      "rating": 4.8,
       "reviews": 3,
-      "covers_castles": ["cardona-castle"]
-    },
-    {
-      "tour_id": "1227032",
-      "title": "Cardona Salt Mountain, Castle, & Wine Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 464,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["cardona-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/barcelona-l45/barcelona-private-tour-of-montserrat-cardona-castle-and-salt-mine-t872776/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "cardona-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

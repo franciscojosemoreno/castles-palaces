@@ -79,8 +79,12 @@
   ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["orava-castle", "bojnice-castle", "trencin-castle"],
-  "gyg_location_id": "115032",
+  "nearby_castles": [
+    "orava-castle",
+    "bojnice-castle",
+    "trencin-castle"
+  ],
+  "gyg_location_id": "148934",
   "gyg_search_query": "Spiš Castle Slovakia tour from Košice",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -89,31 +93,16 @@
       "tour_id": "1210726",
       "title": "From Kosice: Presov, Spis Castle, Levoca, Strbske Pleso Tour",
       "type": "day_trip",
-      "duration": "6–8 hours",
+      "duration": "6 - 8 hours",
       "price_from": 113,
       "rating": 5.0,
       "reviews": 11,
-      "covers_castles": ["spis-castle"]
-    },
-    {
-      "tour_id": "1282616",
-      "title": "From Kosice: Presov, Spis Castle, Levoca and Bachledka Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 147,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["spis-castle"]
-    },
-    {
-      "tour_id": "1286458",
-      "title": "Spis Castle & High Tatras (Private Tour from Košice)",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 307,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["spis-castle"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/kosice-l148934/from-kosice-presov-spissky-hrad-and-strbske-pleso-tour-t1210726/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "spis-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

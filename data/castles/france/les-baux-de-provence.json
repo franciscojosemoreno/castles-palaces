@@ -71,44 +71,37 @@
   "instagram_tag": "#lesbauxdeprovence",
   "meta_title": "Les Baux-de-Provence Castle, France — Medieval Citadel in the Alpilles",
   "meta_description": "Visit Les Baux-de-Provence — a ruined medieval citadel on a Provençal limestone ridge with siege engine demos and views over the Alpilles mountains.",
-  "tags": ["medieval", "french-castle", "provence", "alpilles", "ruins"],
+  "tags": [
+    "medieval",
+    "french-castle",
+    "provence",
+    "alpilles",
+    "ruins"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["chateau-de-beynac"],
-  "gyg_location_id": "197705",
+  "nearby_castles": [
+    "chateau-de-beynac"
+  ],
+  "gyg_location_id": "691",
   "gyg_search_query": "Les Baux de Provence castle tour Arles",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "1162474",
-      "title": "Les Baux-de-Provence: Carrières des Lumières Immersive Art Ticket",
+      "tour_id": "1006510",
+      "title": "Les Baux-de-Provence and Saint-Rémy-de-Provence by electric-assisted bicycle",
       "type": "entry_ticket",
-      "duration": "1 hour",
-      "price_from": 19,
-      "rating": 4.6,
-      "reviews": 580,
-      "covers_castles": ["les-baux-de-provence"]
-    },
-    {
-      "tour_id": "489673",
-      "title": "From Avignon: Arles, Les Baux-de-Provence & Saint-Rémy Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 60,
-      "rating": 4.5,
-      "reviews": 340,
-      "covers_castles": ["les-baux-de-provence"]
-    },
-    {
-      "tour_id": "199444",
-      "title": "From Marseille: Full-Day Les Baux-de-Provence Wine Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 88,
-      "rating": 4.5,
-      "reviews": 210,
-      "covers_castles": ["les-baux-de-provence"]
+      "duration": "4 - 8 hours",
+      "price_from": 79,
+      "rating": 5.0,
+      "reviews": 2,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/les-baux-de-provence-l691/les-baux-de-provence-and-saint-remy-de-provence-by-electric-assisted-bicycle-t1006510/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "les-baux-de-provence"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

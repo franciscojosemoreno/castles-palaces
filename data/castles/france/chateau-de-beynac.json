@@ -12,7 +12,7 @@
   "nearest_city": "Sarlat-la-Canéda",
   "address": "Le Bourg, 24220 Beynac-et-Cazenac, France",
   "lat": 44.8333,
-  "lng": 1.1500,
+  "lng": 1.15,
   "unesco": false,
   "year_built": 1115,
   "architectural_style": "Medieval Périgord",
@@ -71,44 +71,37 @@
   "instagram_tag": "#chateaudebeynac",
   "meta_title": "Château de Beynac, France — Medieval Castle Above the Dordogne",
   "meta_description": "Visit Château de Beynac, a 12th-century fortress rising above the Dordogne River in Périgord. Opening hours, tickets, and tours.",
-  "tags": ["medieval", "french-castle", "dordogne", "hundred-years-war", "périgord"],
+  "tags": [
+    "medieval",
+    "french-castle",
+    "dordogne",
+    "hundred-years-war",
+    "périgord"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["chateau-de-castelnaud"],
-  "gyg_location_id": "139341",
+  "nearby_castles": [
+    "chateau-de-castelnaud"
+  ],
+  "gyg_location_id": "208481",
   "gyg_search_query": "Dordogne castle tour Beynac",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "1198774",
-      "title": "Château de Beynac: Discover the Most Authentic Castle in Périgord",
+      "title": "Château de Beynac: Discover the most authentic castle in Périgord",
       "type": "skip_the_line",
       "duration": "2 hours",
-      "price_from": 20,
-      "rating": 4.6,
-      "reviews": 195,
-      "covers_castles": ["chateau-de-beynac"]
-    },
-    {
-      "tour_id": "3327",
-      "title": "From Sarlat: Beynac & Domme Villages and Dordogne Boat Ride",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 127,
-      "rating": 4.6,
-      "reviews": 310,
-      "covers_castles": ["chateau-de-beynac"]
-    },
-    {
-      "tour_id": "453041",
-      "title": "Dordogne: Canoe/Kayak Through the Castles of the Dordogne",
-      "type": "day_trip",
-      "duration": "3 hours",
-      "price_from": 38,
-      "rating": 4.5,
-      "reviews": 140,
-      "covers_castles": ["chateau-de-beynac", "chateau-de-castelnaud"]
+      "price_from": 19,
+      "rating": 4.8,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/beynac-et-cazenac-l208481/chateau-de-beynac-discover-the-most-authentic-castle-in-perigord-t1198774/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-beynac"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

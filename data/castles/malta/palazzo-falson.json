@@ -11,7 +11,7 @@
   "region": "Mdina",
   "nearest_city": "Mdina",
   "address": "Villegaignon Street, Mdina MDN 1150, Malta",
-  "lat": 35.8870,
+  "lat": 35.887,
   "lng": 14.4031,
   "unesco": false,
   "year_built": 1233,
@@ -67,7 +67,15 @@
   "instagram_tag": "#palazzofalson",
   "meta_title": "Palazzo Falson, Mdina: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Palazzo Falson in Mdina — Malta's medieval 'Historic House Museum' with 3,500 objects across 17 rooms, assembled by collector Captain Gollcher. Audio guide included.",
-  "tags": ["medieval", "museum", "malta", "mdina", "knights-of-malta", "collection", "baroque"],
+  "tags": [
+    "medieval",
+    "museum",
+    "malta",
+    "mdina",
+    "knights-of-malta",
+    "collection",
+    "baroque"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
@@ -85,7 +93,11 @@
       "rating": 4.7,
       "reviews": 23,
       "is_top_pick": true,
-      "covers_castles": ["palazzo-falson"]
+      "booking_url_override": "https://www.getyourguide.com/mdina-l2070/palazzo-falson-historic-house-museum-entrance-ticket-t601572/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palazzo-falson"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

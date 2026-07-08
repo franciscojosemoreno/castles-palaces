@@ -71,34 +71,42 @@
   "instagram_tag": "#gripsholmCastle",
   "meta_title": "Gripsholm Castle Sweden: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Gripsholm Castle near Stockholm — Sweden's most famous royal castle on Lake Mälaren, reached by vintage steamboat. Book tickets and plan your day trip from Stockholm.",
-  "tags": ["castle", "renaissance", "royal-castle", "lake-malaren", "day-trip-from-stockholm", "mariefred", "swedish-royal-family", "portrait-collection"],
+  "tags": [
+    "castle",
+    "renaissance",
+    "royal-castle",
+    "lake-malaren",
+    "day-trip-from-stockholm",
+    "mariefred",
+    "swedish-royal-family",
+    "portrait-collection"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["drottningholm-palace", "vaxholm-fortress", "skokloster-castle"],
-  "gyg_location_id": "187815",
+  "nearby_castles": [
+    "drottningholm-palace",
+    "vaxholm-fortress",
+    "skokloster-castle"
+  ],
+  "gyg_location_id": "50",
   "gyg_search_query": "Gripsholm Castle Stockholm day trip",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "1140374",
-      "title": "From Stockholm: Mariefred & Gripsholm Castle Private Day Trip",
+      "title": "Mariefred and Gripsholm Castle Private Trip from Stockholm",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 285,
-      "rating": 4.9,
-      "reviews": 48,
-      "covers_castles": ["gripsholm-castle"]
-    },
-    {
-      "tour_id": "1007543",
-      "title": "Stockholm: Drottningholm & Gripsholm Castles VIP Private Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 345,
-      "rating": 4.8,
-      "reviews": 32,
-      "covers_castles": ["gripsholm-castle"]
+      "price_from": 1027,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/stockholm-l50/mariefred-and-gripsholm-castle-private-trip-from-stockholm-t1140374/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "gripsholm-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

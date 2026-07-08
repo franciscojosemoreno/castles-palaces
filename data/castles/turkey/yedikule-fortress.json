@@ -71,34 +71,37 @@
   "instagram_tag": "#yedikule",
   "meta_title": "Yedikule Fortress, Istanbul — Byzantine Golden Gate & Ottoman Prison",
   "meta_description": "Visit Yedikule Fortress in Istanbul — the Seven Towers fortress enclosing Byzantine Constantinople's Golden Gate, part of the UNESCO Theodosian Walls.",
-  "tags": ["byzantine", "ottoman", "istanbul", "unesco-world-heritage", "walls"],
+  "tags": [
+    "byzantine",
+    "ottoman",
+    "istanbul",
+    "unesco-world-heritage",
+    "walls"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["uchisar-castle"],
-  "gyg_location_id": "229381",
+  "nearby_castles": [
+    "uchisar-castle"
+  ],
+  "gyg_location_id": "56",
   "gyg_search_query": "Yedikule Fortress Istanbul tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "598851",
-      "title": "Tour of Byzantine and Constantinople, in Istanbul",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 180,
-      "rating": 4.5,
-      "reviews": 13,
-      "covers_castles": ["yedikule-fortress"]
-    },
-    {
       "tour_id": "918209",
       "title": "Istanbul: Theodosian Walls and Yedikule Fortress Guided Tour",
       "type": "guided_tour",
       "duration": "3 hours",
-      "price_from": 212,
+      "price_from": 208,
       "rating": null,
       "reviews": 0,
-      "covers_castles": ["yedikule-fortress"]
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/istanbul-l56/istanbul-theodosian-walls-and-yedikule-fortress-guided-tour-t918209/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "yedikule-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

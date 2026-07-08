@@ -75,11 +75,26 @@
   "instagram_tag": "#herrenchiemsee",
   "meta_title": "Herrenchiemsee Palace: Tickets, Boat & Visitor Guide 2026",
   "meta_description": "Visit Herrenchiemsee Palace on Lake Chiemsee — Ludwig II's copy of Versailles, with the 98-metre Hall of Mirrors. Boat directions, tickets and tours for 2026.",
-  "tags": ["baroque", "19th-century", "royal-residence", "ludwig-ii", "bavaria", "island", "gardens", "instagram-worthy", "day-trip-from-munich"],
+  "tags": [
+    "baroque",
+    "19th-century",
+    "royal-residence",
+    "ludwig-ii",
+    "bavaria",
+    "island",
+    "gardens",
+    "instagram-worthy",
+    "day-trip-from-munich"
+  ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": ["neuschwanstein-castle", "nymphenburg-palace", "linderhof-palace", "munich-residenz"],
-  "gyg_location_id": "91872",
+  "nearby_castles": [
+    "neuschwanstein-castle",
+    "nymphenburg-palace",
+    "linderhof-palace",
+    "munich-residenz"
+  ],
+  "gyg_location_id": "26",
   "gyg_search_query": "Herrenchiemsee Palace tour Munich Bavaria",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -91,20 +106,13 @@
       "duration": "9.5 hours",
       "price_from": 67,
       "rating": 4.8,
-      "reviews": 135,
+      "reviews": 136,
       "is_top_pick": true,
-      "covers_castles": ["herrenchiemsee-palace"]
-    },
-    {
-      "tour_id": "624642",
-      "title": "Herrenchiemsee Palace Private Walking Tour",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 470,
-      "price_note": "per group up to 15 people",
-      "rating": 4.6,
-      "reviews": 4,
-      "covers_castles": ["herrenchiemsee-palace"]
+      "booking_url_override": "https://www.getyourguide.com/munich-l26/herrenchiemsee-day-trip-from-munich-by-train-and-boat-t24234/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "herrenchiemsee-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

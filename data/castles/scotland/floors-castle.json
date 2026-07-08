@@ -67,10 +67,18 @@
   "instagram_tag": "#floorscastle",
   "meta_title": "Floors Castle, Scottish Borders: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Floors Castle near Kelso — Scotland's largest inhabited house, a Georgian mansion remodelled into Scottish Baronial grandeur above the River Tweed. Guide for 2026.",
-  "tags": ["scottish-baronial", "georgian", "scottish-borders", "tapestries", "walled-garden"],
+  "tags": [
+    "scottish-baronial",
+    "georgian",
+    "scottish-borders",
+    "tapestries",
+    "walled-garden"
+  ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": ["edinburgh-castle"],
+  "nearby_castles": [
+    "edinburgh-castle"
+  ],
   "gyg_location_id": "125908",
   "gyg_search_query": "Floors Castle Kelso tour",
   "gyg_widget_type": "activities",
@@ -85,7 +93,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["floors-castle"]
+      "booking_url_override": "https://www.getyourguide.com/kelso-l125908/floors-castle-gardens-grounds-ticket-t16397/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "floors-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

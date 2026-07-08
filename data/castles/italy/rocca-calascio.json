@@ -71,10 +71,20 @@
   "instagram_tag": "#roccacalascio",
   "meta_title": "Rocca Calascio, Abruzzo: Italy's Highest Castle Guide 2026",
   "meta_description": "Visit Rocca Calascio in the Abruzzo Apennines — Italy's highest fortress, filming location for Ladyhawke and The Name of the Rose. Hike, hours and tips for 2026.",
-  "tags": ["medieval", "apennines", "abruzzo", "mountain-castle", "film-location", "hiking", "instagram-worthy"],
+  "tags": [
+    "medieval",
+    "apennines",
+    "abruzzo",
+    "mountain-castle",
+    "film-location",
+    "hiking",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["castel-del-monte"],
+  "nearby_castles": [
+    "castel-del-monte"
+  ],
   "gyg_location_id": "208497",
   "gyg_search_query": "Rocca Calascio Abruzzo trekking tour",
   "gyg_widget_type": "activities",
@@ -82,14 +92,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1052680",
-      "title": "Rocca Calascio: Private Guided Trekking Tour",
-      "type": "private_tour",
+      "title": "Calascio & the Rock of Calascio",
+      "type": "guided_tour",
       "duration": "4 hours",
       "price_from": 68,
       "rating": 4.9,
       "reviews": 6,
       "is_top_pick": true,
-      "covers_castles": ["rocca-calascio"]
+      "booking_url_override": "https://www.getyourguide.com/calascio-l208497/rocca-calascio-nature-history-and-cinema-t1052680/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "rocca-calascio"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

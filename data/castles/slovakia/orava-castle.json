@@ -71,44 +71,41 @@
   "instagram_tag": "#oravskyhrad",
   "meta_title": "Orava Castle Slovakia: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Orava Castle — Slovakia's most dramatic fortress on a 112m river rock, filming location for Nosferatu. Plan your day trip from Žilina or Bratislava.",
-  "tags": ["castle", "gothic", "renaissance", "slovakia", "nosferatu", "orava-river", "film-location", "central-europe"],
+  "tags": [
+    "castle",
+    "gothic",
+    "renaissance",
+    "slovakia",
+    "nosferatu",
+    "orava-river",
+    "film-location",
+    "central-europe"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["bojnice-castle", "trencin-castle"],
-  "gyg_location_id": "115037",
+  "nearby_castles": [
+    "bojnice-castle",
+    "trencin-castle"
+  ],
+  "gyg_location_id": "1554",
   "gyg_search_query": "Orava Castle Slovakia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "925027",
-      "title": "From Bratislava: Dracula & Nosferatu — Orava Castle Day Tour",
-      "type": "day_trip",
-      "duration": "14 hours",
-      "price_from": 65,
-      "rating": 4.6,
-      "reviews": 182,
-      "covers_castles": ["orava-castle"]
-    },
-    {
-      "tour_id": "605413",
-      "title": "From Zakopane: Orava Castle & Orava Village Tour",
-      "type": "day_trip",
+      "tour_id": "1301033",
+      "title": "from Zakopane: Orava Castle & a Boat Trip on Orava Lake Trip",
+      "type": "boat_tour",
       "duration": "8 hours",
-      "price_from": 55,
-      "rating": 4.5,
-      "reviews": 148,
-      "covers_castles": ["orava-castle"]
-    },
-    {
-      "tour_id": "1127602",
-      "title": "From Zakopane: Orava Castle & Outer Bailey Tour",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 50,
-      "rating": 4.5,
-      "reviews": 96,
-      "covers_castles": ["orava-castle"]
+      "price_from": 114,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/zakopane-l1554/from-zakopane-orava-castle-a-boat-trip-on-orava-lake-trip-t1301033/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "orava-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

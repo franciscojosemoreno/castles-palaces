@@ -12,7 +12,7 @@
   "nearest_city": "Alanya",
   "address": "İç Kale, 07400 Alanya, Antalya, Turkey",
   "lat": 36.5442,
-  "lng": 31.9960,
+  "lng": 31.996,
   "unesco": false,
   "year_built": 1226,
   "architectural_style": "Seljuk military architecture; constructed by Sultan Alaeddin Kayqubad I on earlier Byzantine and Roman foundations; Red Tower (Kızıl Kule) designed by Syrian architect Abu Ali al-Kettani",
@@ -71,10 +71,20 @@
   "instagram_tag": "#alanyacastle",
   "meta_title": "Alanya Castle, Turkey: Red Tower, Tickets & Visitor Guide 2026",
   "meta_description": "Visit Alanya Castle on the Turkish Riviera — the Seljuk winter capital with the Red Tower, an ancient shipyard, and Damlataş Cave. Cable car and visitor tips for 2026.",
-  "tags": ["seljuk", "medieval", "turkish-riviera", "mediterranean", "fortress", "cable-car", "instagram-worthy"],
+  "tags": [
+    "seljuk",
+    "medieval",
+    "turkish-riviera",
+    "mediterranean",
+    "fortress",
+    "cable-car",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["bodrum-castle"],
+  "nearby_castles": [
+    "bodrum-castle"
+  ],
   "gyg_location_id": "918",
   "gyg_search_query": "Alanya Castle Turkey tour cable car",
   "gyg_widget_type": "activities",
@@ -82,36 +92,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "656884",
-      "title": "Alanya: Castle Sunset Tour, Damlataş Cave & Cable Car Options",
+      "title": "Alanya: Castle Sunset Tour, Damlatas Cave&Cable Car Options",
       "type": "guided_tour",
-      "duration": "3–3.5 hours",
-      "price_from": 8,
-      "rating": 4.0,
-      "reviews": 542,
-      "is_top_pick": true,
-      "covers_castles": ["alanya-castle"]
-    },
-    {
-      "tour_id": "851242",
-      "title": "Alanya: City Tour with Cable Car and Damlataş Cave 3 in 1",
-      "type": "guided_tour",
-      "duration": "3 hours",
+      "duration": "3 - 3.5 hours",
       "price_from": 18,
-      "rating": 4.1,
-      "reviews": 278,
-      "is_top_pick": false,
-      "covers_castles": ["alanya-castle"]
-    },
-    {
-      "tour_id": "947936",
-      "title": "From Alanya: Sightseeing Half Day City Tour with Cable Car",
-      "type": "guided_tour",
-      "duration": "2–3.5 hours",
-      "price_from": 5,
-      "rating": 4.4,
-      "reviews": 176,
-      "is_top_pick": false,
-      "covers_castles": ["alanya-castle"]
+      "rating": 4.0,
+      "reviews": 550,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/alanya-l918/alanya-castle-sunset-tour-damlatas-cavecable-car-options-t656884/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alanya-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

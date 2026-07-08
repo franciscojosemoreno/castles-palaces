@@ -71,11 +71,21 @@
   "instagram_tag": "#prizrenfortress",
   "meta_title": "Prizren Fortress, Kosovo: Visitor Guide & History 2026",
   "meta_description": "Visit Prizren Fortress in Kosovo — Byzantine foundations, an Ottoman rebuild, and the birthplace of the Albanian national movement. Plan your visit for 2026.",
-  "tags": ["byzantine", "ottoman", "fortress", "kosovo", "albanian-history", "balkans", "day-trip"],
+  "tags": [
+    "byzantine",
+    "ottoman",
+    "fortress",
+    "kosovo",
+    "albanian-history",
+    "balkans",
+    "day-trip"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["kruje-castle"],
-  "gyg_location_id": "139001",
+  "nearby_castles": [
+    "kruje-castle"
+  ],
+  "gyg_location_id": "2468",
   "gyg_search_query": "Prizren Kosovo day trip tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
@@ -87,31 +97,13 @@
       "duration": "13 hours",
       "price_from": 50,
       "rating": 4.8,
-      "reviews": 960,
+      "reviews": 1010,
       "is_top_pick": true,
-      "covers_castles": ["prizren-fortress"]
-    },
-    {
-      "tour_id": "603712",
-      "title": "Kosovo: Pristina, Monastery & Bears (or Prizren) from Skopje",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 68,
-      "rating": 4.7,
-      "reviews": 883,
-      "is_top_pick": false,
-      "covers_castles": ["prizren-fortress"]
-    },
-    {
-      "tour_id": "611930",
-      "title": "Kosovo Tour: Pristina & Prizren Day Tour From Tirana/Durres",
-      "type": "day_trip",
-      "duration": "13 hours",
-      "price_from": 50,
-      "rating": 4.7,
-      "reviews": 406,
-      "is_top_pick": false,
-      "covers_castles": ["prizren-fortress"]
+      "booking_url_override": "https://www.getyourguide.com/tirana-l2468/from-tiranadurresgolem-prizren-prishtina-full-day-tour-t592834/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "prizren-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

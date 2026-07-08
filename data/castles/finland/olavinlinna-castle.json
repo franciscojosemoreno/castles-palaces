@@ -71,44 +71,40 @@
   "instagram_tag": "#olavinlinna",
   "meta_title": "Olavinlinna Castle Finland: Tickets, Opera Festival & Visitor Guide 2026",
   "meta_description": "Visit Olavinlinna Castle in Savonlinna — Finland's most famous medieval fortress on a lake island, home to the world-renowned Savonlinna Opera Festival each July.",
-  "tags": ["castle", "medieval", "lake-island", "finland", "opera-festival", "savonlinna", "nordic", "lake-saimaa"],
+  "tags": [
+    "castle",
+    "medieval",
+    "lake-island",
+    "finland",
+    "opera-festival",
+    "savonlinna",
+    "nordic",
+    "lake-saimaa"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["turku-castle"],
-  "gyg_location_id": "208879",
+  "nearby_castles": [
+    "turku-castle"
+  ],
+  "gyg_location_id": "204836",
   "gyg_search_query": "Olavinlinna Savonlinna castle cruise",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "742554",
-      "title": "Savonlinna: Cruise Around the Archipelago",
-      "type": "guided_tour",
+      "title": "Cruise around Savonlinna archipelago",
+      "type": "boat_tour",
       "duration": "1 hour",
       "price_from": 32,
       "rating": 4.4,
-      "reviews": 9,
-      "covers_castles": ["olavinlinna-castle"]
-    },
-    {
-      "tour_id": "1070068",
-      "title": "Savonlinna: S/S Saaristo Steamship Cruise",
-      "type": "skip_the_line",
-      "duration": "1.5 hours",
-      "price_from": 41,
-      "rating": 4.4,
-      "reviews": 0,
-      "covers_castles": ["olavinlinna-castle"]
-    },
-    {
-      "tour_id": "743548",
-      "title": "Savonlinna: Cruise to Opera on m/s ELVIIRA",
-      "type": "guided_tour",
-      "duration": "1 hour",
-      "price_from": 32,
-      "rating": 4.4,
-      "reviews": 0,
-      "covers_castles": ["olavinlinna-castle"]
+      "reviews": 17,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/savonlinna-l204836/cruise-around-savonlinna-archipelago-t742554/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "olavinlinna-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

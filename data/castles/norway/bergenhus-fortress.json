@@ -12,7 +12,7 @@
   "nearest_city": "Bergen",
   "address": "Bergenhus, 5003 Bergen, Norway",
   "lat": 60.3983,
-  "lng": 5.3130,
+  "lng": 5.313,
   "unesco": false,
   "year_built": 1261,
   "architectural_style": "Medieval Norse and Gothic",
@@ -67,11 +67,19 @@
   "instagram_tag": "#bergenhus",
   "meta_title": "Bergenhus Fortress Bergen: Tickets, Håkon's Hall & Visitor Guide 2026",
   "meta_description": "Visit Bergenhus Fortress in Bergen — Norway's oldest medieval fortress with Håkon's Hall (1261) and Rosenkrantz Tower. Free grounds, spectacular harbour views. Complete guide.",
-  "tags": ["medieval", "norse", "harbour", "norway", "viking-age"],
+  "tags": [
+    "medieval",
+    "norse",
+    "harbour",
+    "norway",
+    "viking-age"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["akershus-fortress"],
-  "gyg_location_id": "109212",
+  "nearby_castles": [
+    "akershus-fortress"
+  ],
+  "gyg_location_id": "1132",
   "gyg_search_query": "Bergenhus Fortress Bergen tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -81,30 +89,15 @@
       "title": "Bergen: Past & Present Small Group Guided Walking Tour",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 28,
-      "rating": 4.6,
-      "reviews": 420,
-      "covers_castles": ["bergenhus-fortress"]
-    },
-    {
-      "tour_id": "516319",
-      "title": "Bergen: Private Walking Tour with Bergenhus Fortress",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 142,
-      "covers_castles": ["bergenhus-fortress"]
-    },
-    {
-      "tour_id": "435189",
-      "title": "Bergen: Sightseeing Cruise of Bergen's Historic Landmarks",
-      "type": "guided_tour",
-      "duration": "1 hour",
-      "price_from": 38,
-      "rating": 4.5,
-      "reviews": 285,
-      "covers_castles": ["bergenhus-fortress"]
+      "price_from": 36,
+      "rating": 4.9,
+      "reviews": 2032,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/bergen-l1132/bergen-bergen-past-present-guided-walking-tour-t401189/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bergenhus-fortress"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

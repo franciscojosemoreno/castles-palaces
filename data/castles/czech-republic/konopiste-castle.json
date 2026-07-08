@@ -71,11 +71,25 @@
   "instagram_tag": "#konopistezamek",
   "meta_title": "Konopiště Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Konopiště Castle in Bohemia — the last home of Archduke Franz Ferdinand before WWI. Explore the armory, rose garden, and haunting state rooms 50km from Prague.",
-  "tags": ["czech-republic", "central-bohemia", "neo-gothic", "habsburg", "franz-ferdinand", "wwi", "armory", "day-trip-from-prague"],
+  "tags": [
+    "czech-republic",
+    "central-bohemia",
+    "neo-gothic",
+    "habsburg",
+    "franz-ferdinand",
+    "wwi",
+    "armory",
+    "day-trip-from-prague"
+  ],
   "last_updated": "2026-06-24",
   "routes": [],
-  "nearby_castles": ["prague-castle", "karlstejn-castle", "cesky-krumlov-castle", "vysehrad"],
-  "gyg_location_id": "34750",
+  "nearby_castles": [
+    "prague-castle",
+    "karlstejn-castle",
+    "cesky-krumlov-castle",
+    "vysehrad"
+  ],
+  "gyg_location_id": "10",
   "gyg_search_query": "Konopiště Castle Prague tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
@@ -85,30 +99,15 @@
       "title": "Konopiště: Chateau Tour from Prague",
       "type": "guided_tour",
       "duration": "4 hours",
-      "price_from": 75,
-      "rating": 4.0,
-      "reviews": 32,
-      "covers_castles": ["konopiste-castle"]
-    },
-    {
-      "tour_id": "53265",
-      "title": "Prague: Karlštejn Castle Guided Tour with Entry Ticket",
-      "type": "day_trip",
-      "duration": "5 hours",
-      "price_from": 78,
-      "rating": 4.3,
-      "reviews": 164,
-      "covers_castles": ["konopiste-castle", "karlstejn-castle"]
-    },
-    {
-      "tour_id": "1189167",
-      "title": "Karlštejn & Konopiště Castles Private Day Trip",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 664,
-      "rating": null,
-      "reviews": 0,
-      "covers_castles": ["konopiste-castle", "karlstejn-castle"]
+      "price_from": 74,
+      "rating": 3.4,
+      "reviews": 33,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/prague-l10/konopiste-chateau-tour-from-prague-t852/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "konopiste-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

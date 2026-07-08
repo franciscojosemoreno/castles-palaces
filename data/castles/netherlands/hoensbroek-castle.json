@@ -67,10 +67,19 @@
   "instagram_tag": "#kasteelhoensbroek",
   "meta_title": "Hoensbroek Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Hoensbroek Castle in South Limburg — the largest medieval castle in the Netherlands, ringed by a double water moat. Tickets and visitor guide for 2026.",
-  "tags": ["medieval", "moated-castle", "south-limburg", "coal-mining-heritage", "netherlands"],
+  "tags": [
+    "medieval",
+    "moated-castle",
+    "south-limburg",
+    "coal-mining-heritage",
+    "netherlands"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["muiderslot", "de-haar-castle"],
+  "nearby_castles": [
+    "muiderslot",
+    "de-haar-castle"
+  ],
   "gyg_location_id": "151321",
   "gyg_search_query": "Hoensbroek Castle Limburg tour",
   "gyg_widget_type": "activities",
@@ -79,13 +88,17 @@
     {
       "tour_id": "431971",
       "title": "Hoensbroek: Entry Ticket to Hoensbroek Castle",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 17,
       "rating": 4.5,
       "reviews": 37,
       "is_top_pick": true,
-      "covers_castles": ["hoensbroek-castle"]
+      "booking_url_override": "https://www.getyourguide.com/hoensbroek-l151321/hoensbroek-entry-ticket-to-hoensbroek-castle-t431971/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hoensbroek-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

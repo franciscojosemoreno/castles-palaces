@@ -66,24 +66,40 @@
   "instagram_tag": "#schlossLichtenstein",
   "meta_title": "Lichtenstein Castle Germany: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Lichtenstein Castle in Baden-Württemberg — a private Neo-Gothic clifftop fortress above the Swabian Alps. Guided tours and day trip guide from Stuttgart.",
-  "tags": ["castle", "neo-gothic", "19th-century", "clifftop", "swabian-alps", "private-castle", "day-trip-from-stuttgart"],
+  "tags": [
+    "castle",
+    "neo-gothic",
+    "19th-century",
+    "clifftop",
+    "swabian-alps",
+    "private-castle",
+    "day-trip-from-stuttgart"
+  ],
   "last_updated": "2026-06-13",
   "routes": [],
-  "nearby_castles": ["hohenzollern-castle", "heidelberg-castle"],
-  "gyg_location_id": "174126",
+  "nearby_castles": [
+    "hohenzollern-castle",
+    "heidelberg-castle"
+  ],
+  "gyg_location_id": "27",
   "gyg_search_query": "Lichtenstein Castle Baden-Württemberg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "1055779",
-      "title": "From Stuttgart: Mindful Hike to Lichtenstein Castle",
+      "title": "Stuttgart: Mindful Hike to Lichtenstein Castle with Transfer",
       "type": "day_trip",
       "duration": "6 hours",
-      "price_from": 71,
-      "rating": 4.6,
-      "reviews": 182,
-      "covers_castles": ["lichtenstein-castle"]
+      "price_from": 68,
+      "rating": 5.0,
+      "reviews": 16,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/stuttgart-l27/stuttgart-mindful-hike-to-lichtenstein-castle-with-transfer-t1055779/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "lichtenstein-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

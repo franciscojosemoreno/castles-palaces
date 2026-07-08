@@ -83,20 +83,22 @@
     "chateau-de-cheverny",
     "chateau-de-chantilly"
   ],
-  "gyg_location_id": "35289",
+  "gyg_location_id": "132088",
   "gyg_search_query": "Pierrefonds Castle day trip Paris",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "411928",
-      "title": "Château de Pierrefonds Entry Ticket",
+      "title": "Pierrefonds: Château de Pierrefonds Entry Ticket",
       "type": "entry_ticket",
       "duration": "1–2 hours",
-      "price_from": 11,
+      "price_from": 10,
       "rating": 4.7,
-      "reviews": 162,
-      "covers_castles": []
+      "reviews": 181,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/hauts-de-france-l132088/pierrefonds-chateau-de-pierrefonds-entrance-ticket-t411928/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

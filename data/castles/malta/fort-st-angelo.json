@@ -75,7 +75,15 @@
   "instagram_tag": "#fortstangelo",
   "meta_title": "Fort St. Angelo Malta: Tickets, Great Siege & Guide 2026",
   "meta_description": "Visit Fort St. Angelo in Birgu — the harbour fortress that held against the Great Siege of 1565 and earned Malta the George Cross. Tickets and tours for 2026.",
-  "tags": ["fortress", "medieval", "knights-of-st-john", "great-siege", "world-war-ii", "grand-harbour", "malta"],
+  "tags": [
+    "fortress",
+    "medieval",
+    "knights-of-st-john",
+    "great-siege",
+    "world-war-ii",
+    "grand-harbour",
+    "malta"
+  ],
   "last_updated": "2026-06-25",
   "routes": [],
   "nearby_castles": [],
@@ -89,21 +97,15 @@
       "title": "Birgu: Fort St. Angelo E-ticket with Audio Tour",
       "type": "entry_ticket",
       "duration": "1.5 hours",
-      "price_from": 12,
+      "price_from": 23,
       "rating": 4.8,
-      "reviews": 45,
+      "reviews": 3,
       "is_top_pick": true,
-      "covers_castles": ["fort-st-angelo"]
-    },
-    {
-      "tour_id": "425402",
-      "title": "Malta: The Three Fortified Cities Tour including Boat Trip",
-      "type": "guided_tour",
-      "duration": "4.5 hours",
-      "price_from": 46,
-      "rating": 4.5,
-      "reviews": 2547,
-      "covers_castles": ["fort-st-angelo"]
+      "booking_url_override": "https://www.getyourguide.com/birgu-l2069/birgu-fort-st-angelo-e-ticket-with-audio-tour-t600109/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "fort-st-angelo"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

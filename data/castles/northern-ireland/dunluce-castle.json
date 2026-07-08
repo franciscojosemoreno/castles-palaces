@@ -71,44 +71,37 @@
   "instagram_tag": "#dunlucecastle",
   "meta_title": "Dunluce Castle, Northern Ireland — Dramatic Atlantic Ruin on the Causeway Coast",
   "meta_description": "Visit Dunluce Castle on Northern Ireland's Causeway Coast — a Game of Thrones filming location perched on Atlantic sea cliffs, near the Giant's Causeway.",
-  "tags": ["medieval", "northern-ireland", "coastal", "game-of-thrones", "ruins"],
+  "tags": [
+    "medieval",
+    "northern-ireland",
+    "coastal",
+    "game-of-thrones",
+    "ruins"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["carrickfergus-castle"],
-  "gyg_location_id": "34353",
+  "nearby_castles": [
+    "carrickfergus-castle"
+  ],
+  "gyg_location_id": "442",
   "gyg_search_query": "Dunluce Castle Causeway Coast tour Belfast",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "163671",
-      "title": "Belfast: Giant's Causeway, Dark Hedges & Dunluce Castle",
+      "tour_id": "43263",
+      "title": "From Belfast: Giant's Causeway Full-Day Guided Trip",
       "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 47,
-      "rating": 4.6,
-      "reviews": 321,
-      "covers_castles": ["dunluce-castle"]
-    },
-    {
-      "tour_id": "67953",
-      "title": "Dublin: Giant's Causeway, Dark Hedges, Dunluce & Belfast Tour",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 92,
-      "rating": 4.5,
-      "reviews": 1985,
-      "covers_castles": ["dunluce-castle"]
-    },
-    {
-      "tour_id": "38160",
-      "title": "Dublin: Belfast, Dunluce Castle & Giant's Causeway Trip",
-      "type": "day_trip",
-      "duration": "13 hours",
-      "price_from": 75,
-      "rating": 4.5,
-      "reviews": 420,
-      "covers_castles": ["dunluce-castle"]
+      "duration": "9.5 hours",
+      "price_from": 33,
+      "rating": 4.8,
+      "reviews": 7032,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/belfast-l442/giant-s-causeway-day-tour-by-luxury-coach-t43263/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "dunluce-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

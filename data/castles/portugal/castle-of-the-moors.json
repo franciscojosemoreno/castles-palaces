@@ -71,24 +71,45 @@
   "instagram_tag": "#casteloDosRouros",
   "meta_title": "Castle of the Moors Sintra: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit the Castle of the Moors in Sintra — 1,200-year-old Moorish ramparts with panoramic views to the Atlantic. Book skip-the-line tickets and plan your Sintra day trip from Lisbon.",
-  "tags": ["castle", "moorish", "medieval", "sintra", "unesco-world-heritage", "day-trip-from-lisbon", "ramparts", "atlantic-views"],
+  "tags": [
+    "castle",
+    "moorish",
+    "medieval",
+    "sintra",
+    "unesco-world-heritage",
+    "day-trip-from-lisbon",
+    "ramparts",
+    "atlantic-views"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["pena-palace", "obidos-castle", "almourol-castle", "queluz-palace", "mafra-palace", "castelo-sao-jorge"],
-  "gyg_location_id": "4798",
+  "nearby_castles": [
+    "pena-palace",
+    "obidos-castle",
+    "almourol-castle",
+    "queluz-palace",
+    "mafra-palace",
+    "castelo-sao-jorge"
+  ],
+  "gyg_location_id": "99",
   "gyg_search_query": "Castle of the Moors Sintra tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "602947",
-      "title": "Sintra: Castle of the Moors Skip-the-Line Ticket + Audio Guide",
+      "tour_id": "156891",
+      "title": "Sintra: Castle of the Moors Skip-the-Line Ticket",
       "type": "skip_the_line",
       "duration": "2 hours",
-      "price_from": 12,
-      "rating": 4.5,
-      "reviews": 280,
-      "covers_castles": ["castle-of-the-moors"]
+      "price_from": 14,
+      "rating": 4.6,
+      "reviews": 3259,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/sintra-l99/sintra-castle-of-the-moors-skip-the-line-ticket-t156891/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castle-of-the-moors"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

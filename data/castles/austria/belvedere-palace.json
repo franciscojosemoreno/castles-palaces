@@ -89,8 +89,13 @@
   "routes": [
     "central-europe-palaces"
   ],
-  "nearby_castles": ["schonbrunn-palace", "hohensalzburg-fortress", "hochosterwitz-castle", "hofburg-palace"],
-  "gyg_location_id": "6596",
+  "nearby_castles": [
+    "schonbrunn-palace",
+    "hohensalzburg-fortress",
+    "hochosterwitz-castle",
+    "hofburg-palace"
+  ],
+  "gyg_location_id": "7",
   "gyg_search_query": "Belvedere Palace Vienna tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -102,28 +107,13 @@
       "duration": "Self-guided",
       "price_from": 26,
       "rating": 4.6,
-      "reviews": 16295,
-      "covers_castles": ["belvedere-palace"]
-    },
-    {
-      "tour_id": "504451",
-      "title": "Vienna Belvedere Palace Skip-the-line Tour & Official Guide",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 49,
-      "rating": 4.8,
-      "reviews": 464,
-      "covers_castles": ["belvedere-palace"]
-    },
-    {
-      "tour_id": "743368",
-      "title": "Belvedere Palace Skip-the-Line Tour",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 60,
-      "rating": 4.8,
-      "reviews": 260,
-      "covers_castles": ["belvedere-palace"]
+      "reviews": 16498,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/vienna-l7/vienna-art-and-architecture-in-the-belvedere-t47912/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "belvedere-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

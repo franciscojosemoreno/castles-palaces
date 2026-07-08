@@ -71,44 +71,37 @@
   "instagram_tag": "#hautkoenigsbourg",
   "meta_title": "Haut-Kœnigsbourg Castle, Alsace — France's Most Visited Medieval Fortress",
   "meta_description": "Discover Haut-Kœnigsbourg in Alsace — a perfectly restored medieval castle with sweeping Rhine valley views. Tickets, hours, and tours.",
-  "tags": ["medieval", "french-castle", "alsace", "rhineland", "wine-route"],
+  "tags": [
+    "medieval",
+    "french-castle",
+    "alsace",
+    "rhineland",
+    "wine-route"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["mont-saint-michel"],
-  "gyg_location_id": "132238",
+  "nearby_castles": [
+    "mont-saint-michel"
+  ],
+  "gyg_location_id": "214070",
   "gyg_search_query": "Haut-Koenigsbourg castle Alsace tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "992465",
-      "title": "Alsace: Haut-Kœnigsbourg Castle Entry Ticket",
+      "title": "Alsace: Haut-Koenigsbourg Castle Entry Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
       "price_from": 14,
       "rating": 4.7,
-      "reviews": 153,
-      "covers_castles": ["haut-koenigsbourg"]
-    },
-    {
-      "tour_id": "130551",
-      "title": "From Colmar: Haut-Kœnigsbourg Castle and Alsace Villages Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 320,
-      "covers_castles": ["haut-koenigsbourg"]
-    },
-    {
-      "tour_id": "34849",
-      "title": "From Strasbourg: Full-Day Highlights of Alsace Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 65,
-      "rating": 4.5,
-      "reviews": 480,
-      "covers_castles": ["haut-koenigsbourg"]
+      "reviews": 172,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/orschwiller-l214070/alsace-haut-koenigsbourg-castle-entry-ticket-t992465/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "haut-koenigsbourg"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,11 +67,19 @@
   "instagram_tag": "#sparrenburg",
   "meta_title": "Sparrenburg Castle, Bielefeld: Casemate Tour & Guide 2026",
   "meta_description": "Visit Sparrenburg Castle in Bielefeld — 300 metres of underground medieval casemates and a tower view over Westphalia. Home of the city that 'doesn't exist'.",
-  "tags": ["medieval", "casemates", "underground", "westphalia", "germany", "bielefeld", "tower"],
+  "tags": [
+    "medieval",
+    "casemates",
+    "underground",
+    "westphalia",
+    "germany",
+    "bielefeld",
+    "tower"
+  ],
   "last_updated": "2026-07-06",
   "routes": [],
   "nearby_castles": [],
-  "gyg_location_id": "182156",
+  "gyg_location_id": "95762",
   "gyg_search_query": "Sparrenburg Castle Bielefeld casemate tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
@@ -82,10 +90,14 @@
       "type": "guided_tour",
       "duration": "45 minutes",
       "price_from": 13,
-      "rating": 4.1,
-      "reviews": 4,
+      "rating": 4.5,
+      "reviews": 7,
       "is_top_pick": true,
-      "covers_castles": ["sparrenburg-castle"]
+      "booking_url_override": "https://www.getyourguide.com/bielefeld-l95762/bielefeld-sparrenburg-casemate-tour-t1101381/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "sparrenburg-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

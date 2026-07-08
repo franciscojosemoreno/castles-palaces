@@ -71,47 +71,40 @@
   "instagram_tag": "#kotorcitywalls",
   "meta_title": "Kotor City Walls: Tickets, the Climb & Visitor Guide 2026",
   "meta_description": "Climb the Kotor City Walls to Fort St. John — 1,350 steps above the UNESCO-listed Bay of Kotor. Tickets, the best time to climb, and visitor tips for 2026.",
-  "tags": ["venetian", "byzantine", "unesco-world-heritage", "fortress", "adriatic", "montenegro", "hiking", "instagram-worthy"],
+  "tags": [
+    "venetian",
+    "byzantine",
+    "unesco-world-heritage",
+    "fortress",
+    "adriatic",
+    "montenegro",
+    "hiking",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["budva-citadel"],
+  "nearby_castles": [
+    "budva-citadel"
+  ],
   "gyg_location_id": "32202",
   "gyg_search_query": "Kotor city walls old town tour Montenegro",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [
     {
-      "tour_id": "861396",
-      "title": "Kotor Old Town Walking Tour",
-      "type": "walking_tour",
+      "tour_id": "1252787",
+      "title": "Kotor: City Walls Entry Ticket",
+      "type": "entry_ticket",
       "duration": "1.5 hours",
-      "price_from": 25,
-      "rating": 5.0,
-      "reviews": 50,
+      "price_from": 17,
+      "rating": 3.3,
+      "reviews": 3,
       "is_top_pick": true,
-      "covers_castles": ["kotor-city-walls"]
-    },
-    {
-      "tour_id": "17929",
-      "title": "Montenegro Day Trip from Dubrovnik",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 57,
-      "rating": 4.4,
-      "reviews": 5226,
-      "is_top_pick": false,
-      "covers_castles": ["kotor-city-walls"]
-    },
-    {
-      "tour_id": "131646",
-      "title": "From Dubrovnik: Montenegro Boat Tour from Perast to Kotor",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 61,
-      "rating": 4.6,
-      "reviews": 4730,
-      "is_top_pick": false,
-      "covers_castles": ["kotor-city-walls"]
+      "booking_url_override": "https://www.getyourguide.com/kotor-l32202/kotor-city-walls-entry-ticket-t1252787/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "kotor-city-walls"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -67,7 +67,14 @@
   "instagram_tag": "#castellodicarini",
   "meta_title": "Carini Castle, Sicily: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Carini Castle near Palermo — the Norman fortress where Sicily's most celebrated ballad was born. The story of the Baronessa di Carini, murdered here in 1563.",
-  "tags": ["norman", "medieval", "sicily", "italy", "literary", "off-the-beaten-path"],
+  "tags": [
+    "norman",
+    "medieval",
+    "sicily",
+    "italy",
+    "literary",
+    "off-the-beaten-path"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
   "nearby_castles": [],
@@ -85,7 +92,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["carini-castle"]
+      "booking_url_override": "https://www.getyourguide.com/carini-l160743/guided-tour-of-the-la-grua-talamanca-castle-in-carini-t957093/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "carini-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -75,34 +75,45 @@
   "instagram_tag": "tantalloncastle",
   "meta_title": "Tantallon Castle: Tickets, Tours & Visitor Guide (2026)",
   "meta_description": "Visit Tantallon Castle near North Berwick — dramatic 14th-century ruins on North Sea cliffs with views of Bass Rock. Day trips from Edinburgh from $59.",
-  "tags": ["scotland", "east-lothian", "north-berwick", "douglas-clan", "medieval", "bass-rock", "coastal", "ruins", "puffins"],
+  "tags": [
+    "scotland",
+    "east-lothian",
+    "north-berwick",
+    "douglas-clan",
+    "medieval",
+    "bass-rock",
+    "coastal",
+    "ruins",
+    "puffins"
+  ],
   "last_updated": "2026-06-23",
   "routes": [],
-  "nearby_castles": ["edinburgh-castle", "st-andrews-castle", "dunnottar-castle", "palace-of-holyroodhouse", "abbotsford"],
-  "gyg_location_id": "145954",
+  "nearby_castles": [
+    "edinburgh-castle",
+    "st-andrews-castle",
+    "dunnottar-castle",
+    "palace-of-holyroodhouse",
+    "abbotsford"
+  ],
+  "gyg_location_id": "44",
   "gyg_search_query": "Tantallon Castle East Lothian tour Edinburgh",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [
     {
       "tour_id": "620240",
-      "title": "Edinburgh: East Lothian Highlights Day Trip",
+      "title": "Edinburgh: East Lothian Highlights",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 59,
+      "price_from": 60,
       "rating": 4.9,
-      "reviews": 68,
-      "covers_castles": ["tantallon-castle"]
-    },
-    {
-      "tour_id": "902348",
-      "title": "From Edinburgh: Puffin Boat Trip & Tantallon Castle",
-      "type": "day_trip",
-      "duration": "7 hours",
-      "price_from": 211,
-      "rating": 4.4,
-      "reviews": 32,
-      "covers_castles": ["tantallon-castle"]
+      "reviews": 71,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/from-edinburgh-east-lothian-sands-castles-day-trip-t620240/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "tantallon-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

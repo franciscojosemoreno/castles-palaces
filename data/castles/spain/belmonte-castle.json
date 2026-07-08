@@ -66,11 +66,22 @@
   "instagram_tag": "#belmontecastle",
   "meta_title": "Belmonte Castle: Don Quixote Country, Tickets & Guide 2026",
   "meta_description": "Visit Belmonte Castle in Castilla-La Mancha — a stunning Late Gothic hexagonal fortress in Don Quixote country. Tickets and visitor information 2026.",
-  "tags": ["gothic", "medieval", "off-the-beaten-path", "don-quixote", "castle-of-la-mancha", "dramatic", "spanish-castle"],
+  "tags": [
+    "gothic",
+    "medieval",
+    "off-the-beaten-path",
+    "don-quixote",
+    "castle-of-la-mancha",
+    "dramatic",
+    "spanish-castle"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["alcazar-of-segovia", "alhambra-granada"],
-  "gyg_location_id": "162662",
+  "nearby_castles": [
+    "alcazar-of-segovia",
+    "alhambra-granada"
+  ],
+  "gyg_location_id": "188271",
   "gyg_search_query": "Belmonte Castle Cuenca tour Spain",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -80,10 +91,15 @@
       "title": "Belmonte Castle Entry Ticket with Audio Guide",
       "type": "entry_ticket",
       "duration": "1-2 hours",
-      "price_from": 12,
-      "rating": 4.8,
-      "reviews": 9,
-      "covers_castles": ["belmonte-castle"]
+      "price_from": 11,
+      "rating": 4.6,
+      "reviews": 10,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/belmonte-spain-l188271/belmonte-castle-entry-ticket-with-audio-guide-t516765/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "belmonte-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -12,7 +12,7 @@
   "nearest_city": "Peñíscola",
   "address": "Castillo de Peñíscola, 12598 Peñíscola, Castellón, Spain",
   "lat": 40.3603,
-  "lng": 0.4140,
+  "lng": 0.414,
   "unesco": false,
   "year_built": 1294,
   "architectural_style": "Gothic, built by the Knights Templar",
@@ -66,54 +66,41 @@
   "instagram_tag": "#peniscolacastle",
   "meta_title": "Peñíscola Castle: Knights Templar, Game of Thrones & Guide 2026",
   "meta_description": "Visit Peñíscola Castle in Valencia — a Knights Templar fortress on a Mediterranean peninsula, famous as a Game of Thrones filming location.",
-  "tags": ["gothic", "medieval", "coastal", "knights-templar", "game-of-thrones", "instagram-worthy", "sea-view", "hilltop"],
+  "tags": [
+    "gothic",
+    "medieval",
+    "coastal",
+    "knights-templar",
+    "game-of-thrones",
+    "instagram-worthy",
+    "sea-view",
+    "hilltop"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["alhambra-granada", "alcazar-seville"],
-  "gyg_location_id": "168050",
+  "nearby_castles": [
+    "alhambra-granada",
+    "alcazar-seville"
+  ],
+  "gyg_location_id": "4555",
   "gyg_search_query": "Peniscola Castle Game of Thrones tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "407854",
-      "title": "Peñíscola: Castle & Walled City Spanish Guided Tour",
+      "title": "Peñiscola: Castle & Walled City Spanish Guided Tour",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 20,
-      "rating": 4.6,
-      "reviews": 380,
-      "covers_castles": ["peniscola-castle"]
-    },
-    {
-      "tour_id": "567655",
-      "title": "From Valencia: Day Trip to Peñíscola with Castle Visit",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 55,
-      "rating": 4.5,
-      "reviews": 490,
-      "covers_castles": ["peniscola-castle"]
-    },
-    {
-      "tour_id": "901009",
-      "title": "Peñíscola: Game of Thrones Day Tour with Castle Lunch & Beach",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 240,
-      "covers_castles": ["peniscola-castle"]
-    },
-    {
-      "tour_id": "617939",
-      "title": "From Valencia: Peñíscola Day Trip & Game of Thrones",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 60,
-      "rating": 4.5,
-      "reviews": 310,
-      "covers_castles": ["peniscola-castle"]
+      "price_from": 22,
+      "rating": 4.8,
+      "reviews": 124,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/peniscola-l4555/peniscola-castle-walled-city-spanish-guided-tour-t407854/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "peniscola-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

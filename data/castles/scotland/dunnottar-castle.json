@@ -71,11 +71,21 @@
   "instagram_tag": "#dunnottarcastle",
   "meta_title": "Dunnottar Castle: Tickets, History & Visitor Guide 2026",
   "meta_description": "Visit Dunnottar Castle in Aberdeenshire — the most dramatic clifftop ruin in Scotland, where the Scottish Crown Jewels were hidden from Cromwell. Guide to tickets, the walk, and history.",
-  "tags": ["medieval", "ruins", "coastal", "dramatic", "scotland"],
+  "tags": [
+    "medieval",
+    "ruins",
+    "coastal",
+    "dramatic",
+    "scotland"
+  ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": ["edinburgh-castle", "stirling-castle", "eilean-donan-castle"],
-  "gyg_location_id": "124993",
+  "nearby_castles": [
+    "edinburgh-castle",
+    "stirling-castle",
+    "eilean-donan-castle"
+  ],
+  "gyg_location_id": "44",
   "gyg_search_query": "Dunnottar Castle tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -87,38 +97,13 @@
       "duration": "11 hours",
       "price_from": 87,
       "rating": 4.7,
-      "reviews": 522,
-      "covers_castles": ["dunnottar-castle"]
-    },
-    {
-      "tour_id": "134733",
-      "title": "From Edinburgh: Glamis and Dunnottar Castles Day Trip",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 85,
-      "rating": 4.6,
-      "reviews": 382,
-      "covers_castles": ["dunnottar-castle"]
-    },
-    {
-      "tour_id": "204358",
-      "title": "From Aberdeen: Dunnottar Castle & Cairngorms Day Trip",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 75,
-      "rating": 4.6,
-      "reviews": 248,
-      "covers_castles": ["dunnottar-castle"]
-    },
-    {
-      "tour_id": "436026",
-      "title": "From Aberdeen: Guided Coast & Dunnottar Castle Visit",
-      "type": "guided_tour",
-      "duration": "4 hours",
-      "price_from": 133,
-      "rating": 4.7,
-      "reviews": 182,
-      "covers_castles": ["dunnottar-castle"]
+      "reviews": 237,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/saint-andrews-acantilados-y-castillo-dunnottar-t259837/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "dunnottar-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

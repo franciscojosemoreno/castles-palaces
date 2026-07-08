@@ -75,35 +75,46 @@
   "instagram_tag": "#castelosaojorge",
   "meta_title": "Castelo de São Jorge Lisbon: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Castelo de São Jorge — the medieval Moorish fortress crowning Lisbon, with panoramic views, archaeological ruins and resident peacocks. Tickets for 2026.",
-  "tags": ["medieval", "moorish", "unesco-world-heritage", "lisbon", "fortress", "archaeology", "panoramic-views", "instagram-worthy"],
+  "tags": [
+    "medieval",
+    "moorish",
+    "unesco-world-heritage",
+    "lisbon",
+    "fortress",
+    "archaeology",
+    "panoramic-views",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-25",
-  "routes": ["sintra-palaces-route"],
-  "nearby_castles": ["pena-palace", "castle-of-the-moors", "queluz-palace", "mafra-palace", "almourol-castle"],
-  "gyg_location_id": "3592",
+  "routes": [
+    "sintra-palaces-route"
+  ],
+  "nearby_castles": [
+    "pena-palace",
+    "castle-of-the-moors",
+    "queluz-palace",
+    "mafra-palace",
+    "almourol-castle"
+  ],
+  "gyg_location_id": "42",
   "gyg_search_query": "Castelo de São Jorge Lisbon tickets tours",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "653254",
-      "title": "Lisbon: São Jorge Castle Skip-the-Line Entry Ticket",
+      "tour_id": "1375944",
+      "title": "São Jorge Castle Skip the Ticket Line Entry & Audio",
       "type": "entry_ticket",
       "duration": "2 hours",
-      "price_from": 18,
-      "rating": 4.4,
-      "reviews": 2240,
+      "price_from": 28,
+      "rating": 4.0,
+      "reviews": 4,
       "is_top_pick": true,
-      "covers_castles": ["castelo-sao-jorge"]
-    },
-    {
-      "tour_id": "816088",
-      "title": "Lisbon: São Jorge Castle Guided Tour with Entry Ticket",
-      "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 44,
-      "rating": 4.7,
-      "reviews": 180,
-      "covers_castles": ["castelo-sao-jorge"]
+      "booking_url_override": "https://www.getyourguide.com/lisbon-l42/sao-jorge-castle-skip-the-ticket-line-entry-audio-t1375944/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castelo-sao-jorge"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

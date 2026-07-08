@@ -92,22 +92,25 @@
     "corvin-castle",
     "mogosoaia-palace"
   ],
-  "gyg_location_id": "977",
+  "gyg_location_id": "188057",
   "gyg_search_query": "Bran Castle Dracula Transylvania",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "135264",
-      "title": "From Bucharest: Dracula's Castle, Peleș & Brașov Old Town",
-      "type": "day_trip",
+      "tour_id": "1380614",
+      "title": "Bran Castle (Dracula's Castle) Entry Ticket with Audio Guide",
+      "type": "entry_ticket",
       "duration": "6–12 hours",
-      "price_from": 11,
-      "rating": 4.4,
-      "reviews": 20410,
+      "price_from": 28,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/bran-l188057/bran-castle-dracula-s-castle-entry-ticket-with-audio-guide-t1380614/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "peles-castle"
       ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

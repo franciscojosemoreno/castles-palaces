@@ -67,10 +67,23 @@
   "instagram_tag": "#castelgrande",
   "meta_title": "Castel Grande, Bellinzona: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castel Grande in Bellinzona — the largest of the UNESCO-listed Three Castles, with Roman origins and an underground lift carved through the rock. Guide for 2026.",
-  "tags": ["unesco", "medieval", "ticino", "bellinzona", "swiss-confederation", "roman-origins"],
+  "tags": [
+    "unesco",
+    "medieval",
+    "ticino",
+    "bellinzona",
+    "swiss-confederation",
+    "roman-origins"
+  ],
   "last_updated": "2026-06-27",
-  "routes": ["swiss-alpine-castles"],
-  "nearby_castles": ["castello-di-montebello", "castello-sasso-corbaro", "chateau-de-chillon"],
+  "routes": [
+    "swiss-alpine-castles"
+  ],
+  "nearby_castles": [
+    "castello-di-montebello",
+    "castello-sasso-corbaro",
+    "chateau-de-chillon"
+  ],
   "gyg_location_id": "99510",
   "gyg_search_query": "Castel Grande Bellinzona tour",
   "gyg_widget_type": "activities",
@@ -78,14 +91,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1128427",
-      "title": "Bellinzona: Castel Grande Entry Ticket",
+      "title": "Castel Grande admission ticket",
       "type": "entrance_ticket",
       "duration": "Valid 1 day",
       "price_from": 19,
-      "rating": 1.0,
-      "reviews": 1,
+      "rating": null,
+      "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["castel-grande"]
+      "booking_url_override": "https://www.getyourguide.com/bellinzona-l99510/castel-grande-admission-ticket-t1128427/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castel-grande"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

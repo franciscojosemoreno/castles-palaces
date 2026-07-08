@@ -71,54 +71,37 @@
   "instagram_tag": "#palazzonormanni",
   "meta_title": "Palazzo dei Normanni, Palermo — Europe's Oldest Royal Palace & Golden Chapel",
   "meta_description": "Visit the Palazzo dei Normanni in Palermo — Europe's oldest royal palace and home to the Cappella Palatina, the world's most magnificent mosaic interior. UNESCO World Heritage.",
-  "tags": ["arab-norman", "unesco-world-heritage", "palace", "sicily", "byzantine-mosaics"],
+  "tags": [
+    "arab-norman",
+    "unesco-world-heritage",
+    "palace",
+    "sicily",
+    "byzantine-mosaics"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["royal-palace-of-caserta"],
-  "gyg_location_id": "168238",
+  "nearby_castles": [
+    "royal-palace-of-caserta"
+  ],
+  "gyg_location_id": "387",
   "gyg_search_query": "Palazzo dei Normanni Palermo tour Sicily",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "561724",
-      "title": "Palermo: Cappella Palatina and Palazzo dei Normanni Tour",
+      "tour_id": "1165575",
+      "title": "Palermo: Norman Palace Ticket & Audio App Downloadable",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 45,
-      "rating": 4.8,
-      "reviews": 340,
-      "covers_castles": ["palazzo-dei-normanni"]
-    },
-    {
-      "tour_id": "437860",
-      "title": "Palermo: Norman Palace and Palatine Chapel Tour with Tickets",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 35,
-      "rating": 4.6,
-      "reviews": 280,
-      "covers_castles": ["palazzo-dei-normanni"]
-    },
-    {
-      "tour_id": "467884",
-      "title": "Palermo: Norman Palace Ticket and Rooftop Tour of Palermo",
-      "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 40,
-      "rating": 4.7,
-      "reviews": 195,
-      "covers_castles": ["palazzo-dei-normanni"]
-    },
-    {
-      "tour_id": "658678",
-      "title": "Palermo: City & Palazzo dei Normanni Guided Walking Tour",
-      "type": "guided_tour",
-      "duration": "5.5 hours",
-      "price_from": 55,
-      "rating": 4.5,
-      "reviews": 120,
-      "covers_castles": ["palazzo-dei-normanni"]
+      "price_from": 27,
+      "rating": 4.1,
+      "reviews": 180,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/palermo-l387/palermo-norman-palace-ticket-audio-app-for-download-t1165575/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palazzo-dei-normanni"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

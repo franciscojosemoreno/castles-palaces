@@ -71,7 +71,15 @@
   "instagram_tag": "#fortedibard",
   "meta_title": "Fortress of Bard, Valle d'Aosta: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Fortress of Bard — the Alpine stronghold Napoleon ordered demolished, rebuilt by the Kingdom of Sardinia, now three museums in the Dora Baltea gorge. Guide 2026.",
-  "tags": ["napoleon", "alpine", "19th-century", "military", "museum", "valle-daosta", "italy"],
+  "tags": [
+    "napoleon",
+    "alpine",
+    "19th-century",
+    "military",
+    "museum",
+    "valle-daosta",
+    "italy"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
   "nearby_castles": [],
@@ -89,7 +97,11 @@
       "rating": 4.5,
       "reviews": 129,
       "is_top_pick": true,
-      "covers_castles": ["fortress-of-bard"]
+      "booking_url_override": "https://www.getyourguide.com/bard-italy-l189912/copy-of-bard-fort-fortress-prisons-and-museum-of-fortifications-t573865/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "fortress-of-bard"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,54 +71,38 @@
   "instagram_tag": "#alnwickcastle",
   "meta_title": "Alnwick Castle, Northumberland — Harry Potter's Hogwarts & Percy Family Seat",
   "meta_description": "Visit Alnwick Castle in Northumberland — Harry Potter's Hogwarts filming location with state rooms, Old Masters, and the world-class Alnwick Garden.",
-  "tags": ["norman", "english-castle", "northumberland", "harry-potter", "inhabited"],
+  "tags": [
+    "norman",
+    "english-castle",
+    "northumberland",
+    "harry-potter",
+    "inhabited"
+  ],
   "last_updated": "2026-06-15",
   "routes": [],
-  "nearby_castles": ["bamburgh-castle", "castle-howard"],
-  "gyg_location_id": "33794",
+  "nearby_castles": [
+    "bamburgh-castle",
+    "castle-howard"
+  ],
+  "gyg_location_id": "93380",
   "gyg_search_query": "Alnwick Castle Harry Potter tour Northumberland",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
       "tour_id": "199831",
-      "title": "Alnwick: Alnwick Castle Entry Ticket",
+      "title": "Alnwick: Alnwick Castle Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 30,
+      "price_from": 29,
       "rating": 4.6,
-      "reviews": 390,
-      "covers_castles": ["alnwick-castle"]
-    },
-    {
-      "tour_id": "77860",
-      "title": "From Edinburgh: Holy Island, Alnwick Castle & Northumbria Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 85,
-      "rating": 4.7,
-      "reviews": 1396,
-      "covers_castles": ["alnwick-castle"]
-    },
-    {
-      "tour_id": "25836",
-      "title": "From Edinburgh: Viking Coast & Alnwick Castle Day Tour",
-      "type": "day_trip",
-      "duration": "8.5 hours",
-      "price_from": 85,
-      "rating": 4.6,
-      "reviews": 247,
-      "covers_castles": ["alnwick-castle"]
-    },
-    {
-      "tour_id": "303523",
-      "title": "Alnwick Castle, Northumberland & Scottish Borders 1-Day Tour",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 79,
-      "rating": 4.5,
-      "reviews": 95,
-      "covers_castles": ["alnwick-castle"]
+      "reviews": 441,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/alnwick-l93380/alnwick-castle-ticket-t199831/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alnwick-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

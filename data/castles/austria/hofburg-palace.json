@@ -75,11 +75,26 @@
   "instagram_tag": "#hofburgpalace",
   "meta_title": "Hofburg Palace Vienna: Sisi Museum Tickets & Guide 2026",
   "meta_description": "Visit the Hofburg Palace in Vienna — the Sisi Museum, Imperial Apartments, Silver Collection and Spanish Riding School. Book tickets and plan your visit for 2026.",
-  "tags": ["baroque", "gothic", "habsburg", "royal-residence", "sisi", "vienna", "instagram-worthy", "city-centre"],
+  "tags": [
+    "baroque",
+    "gothic",
+    "habsburg",
+    "royal-residence",
+    "sisi",
+    "vienna",
+    "instagram-worthy",
+    "city-centre"
+  ],
   "last_updated": "2026-06-25",
-  "routes": ["central-europe-palaces"],
-  "nearby_castles": ["schonbrunn-palace", "belvedere-palace", "hohensalzburg-fortress"],
-  "gyg_location_id": "3943",
+  "routes": [
+    "central-europe-palaces"
+  ],
+  "nearby_castles": [
+    "schonbrunn-palace",
+    "belvedere-palace",
+    "hohensalzburg-fortress"
+  ],
+  "gyg_location_id": "7",
   "gyg_search_query": "Hofburg Palace Vienna tour Sisi Museum",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -87,23 +102,17 @@
     {
       "tour_id": "471440",
       "title": "Vienna: Skip-the-Line Sisi Museum, Hofburg and Gardens Tour",
-      "type": "guided_tour",
-      "duration": "2–3 hours",
+      "type": "skip_the_line",
+      "duration": "2.5 hours",
       "price_from": 60,
       "rating": 4.8,
-      "reviews": 7102,
+      "reviews": 7259,
       "is_top_pick": true,
-      "covers_castles": ["hofburg-palace"]
-    },
-    {
-      "tour_id": "377306",
-      "title": "Vienna: Hofburg and Empress Sisi Museum Guided Tour",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 55,
-      "rating": 4.7,
-      "reviews": 1582,
-      "covers_castles": ["hofburg-palace"]
+      "booking_url_override": "https://www.getyourguide.com/vienna-l7/skip-the-line-sisi-museum-hofburg-and-gardens-tour-vienna-t471440/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "hofburg-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

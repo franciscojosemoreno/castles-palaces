@@ -71,10 +71,20 @@
   "instagram_tag": "#rozafacastle",
   "meta_title": "Rozafa Castle, Shkodër: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Rozafa Castle above Shkodër — Albania's most significant fortress, built on 2,400 years of Illyrian, Roman, Venetian and Ottoman history. Guide for 2026.",
-  "tags": ["illyrian", "venetian", "ottoman", "medieval", "albania", "balkans", "river-views"],
+  "tags": [
+    "illyrian",
+    "venetian",
+    "ottoman",
+    "medieval",
+    "albania",
+    "balkans",
+    "river-views"
+  ],
   "last_updated": "2026-07-03",
   "routes": [],
-  "nearby_castles": ["fortress-of-bashtova"],
+  "nearby_castles": [
+    "fortress-of-bashtova"
+  ],
   "gyg_location_id": "2828",
   "gyg_search_query": "Rozafa Castle Shkodër Albania",
   "gyg_widget_type": "activities",
@@ -83,13 +93,17 @@
     {
       "tour_id": "1187107",
       "title": "Rozafa Castle and Marubi Museum Entry Tickets",
-      "type": "entrance_ticket",
+      "type": "entry_ticket",
       "duration": "2 hours",
       "price_from": 16,
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["rozafa-castle"]
+      "booking_url_override": "https://www.getyourguide.com/shkoder-l2828/rozafa-castle-and-marubi-museum-entry-tickets-t1187107/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "rozafa-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

@@ -71,10 +71,22 @@
   "instagram_tag": "#krujecastle",
   "meta_title": "Krujë Castle, Albania: Skanderbeg Museum & Visitor Guide 2026",
   "meta_description": "Visit Krujë Castle near Tirana — the fortress of Albanian hero Skanderbeg, with the Skanderbeg Museum and the historic Old Bazaar. Plan your visit for 2026.",
-  "tags": ["illyrian", "medieval", "skanderbeg", "albanian-castle", "ottoman-resistance", "old-bazaar", "day-trip-from-tirana"],
+  "tags": [
+    "illyrian",
+    "medieval",
+    "skanderbeg",
+    "albanian-castle",
+    "ottoman-resistance",
+    "old-bazaar",
+    "day-trip-from-tirana"
+  ],
   "last_updated": "2026-06-26",
   "routes": [],
-  "nearby_castles": ["berat-castle", "prizren-fortress", "fortress-of-bashtova"],
+  "nearby_castles": [
+    "berat-castle",
+    "prizren-fortress",
+    "fortress-of-bashtova"
+  ],
   "gyg_location_id": "120770",
   "gyg_search_query": "Kruje castle Albania Skanderbeg tour",
   "gyg_widget_type": "activities",
@@ -87,31 +99,13 @@
       "duration": "8 hours",
       "price_from": 26,
       "rating": 4.8,
-      "reviews": 3085,
+      "reviews": 3238,
       "is_top_pick": true,
-      "covers_castles": ["kruje-castle"]
-    },
-    {
-      "tour_id": "873343",
-      "title": "Durres/Golem: Kruja Castle and Bazaar & Traditional Lunch",
-      "type": "guided_tour",
-      "duration": "5 hours",
-      "price_from": 26,
-      "rating": 5.0,
-      "reviews": 1656,
-      "is_top_pick": false,
-      "covers_castles": ["kruje-castle"]
-    },
-    {
-      "tour_id": "867166",
-      "title": "Durres/Golem: Kruja Castle Day Tour and Traditional Lunch",
-      "type": "guided_tour",
-      "duration": "6 hours",
-      "price_from": 26,
-      "rating": 4.9,
-      "reviews": 1673,
-      "is_top_pick": false,
-      "covers_castles": ["kruje-castle"]
+      "booking_url_override": "https://www.getyourguide.com/kruje-l120770/from-tirana-kruja-castle-old-bazaar-sari-salltik-view-t396228/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "kruje-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

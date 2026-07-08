@@ -67,10 +67,20 @@
   "instagram_tag": "#belvoircastle",
   "meta_title": "Belvoir Castle: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Belvoir Castle in Leicestershire — the Gothic Revival seat of the Dukes of Rutland with State Rooms, art collections and sweeping views. Guide for 2026.",
-  "tags": ["gothic-revival", "leicestershire", "stately-home", "duke-of-rutland", "filming-location"],
+  "tags": [
+    "gothic-revival",
+    "leicestershire",
+    "stately-home",
+    "duke-of-rutland",
+    "filming-location"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["nottingham-castle", "warwick-castle", "kenilworth-castle"],
+  "nearby_castles": [
+    "nottingham-castle",
+    "warwick-castle",
+    "kenilworth-castle"
+  ],
   "gyg_location_id": "154403",
   "gyg_search_query": "Belvoir Castle Leicestershire tour",
   "gyg_widget_type": "activities",
@@ -85,7 +95,11 @@
       "rating": 4.2,
       "reviews": 10,
       "is_top_pick": true,
-      "covers_castles": ["belvoir-castle"]
+      "booking_url_override": "https://www.getyourguide.com/grantham-l154403/belvoir-castle-castle-gardens-and-ground-entry-t1077196/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "belvoir-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

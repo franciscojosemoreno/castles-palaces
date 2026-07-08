@@ -80,7 +80,7 @@
     "berkeley-castle",
     "kenilworth-castle"
   ],
-  "gyg_location_id": "4660",
+  "gyg_location_id": "32251",
   "gyg_search_query": "Warwick Castle tour tickets",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -88,42 +88,17 @@
     {
       "tour_id": "113143",
       "title": "Warwick: Entry Ticket for Warwick Castle",
-      "type": "entry_ticket",
-      "duration": "Self-guided",
+      "type": "day_trip",
+      "duration": "2 hours - 1 day",
       "price_from": 35,
-      "rating": 4.5,
-      "reviews": 650,
-      "covers_castles": ["warwick-castle"]
-    },
-    {
-      "tour_id": "437",
-      "title": "From London: Warwick Castle, Stratford & Oxford Day Tour",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 120,
-      "rating": 4.4,
-      "reviews": 789,
-      "covers_castles": ["warwick-castle"]
-    },
-    {
-      "tour_id": "409148",
-      "title": "From London: Warwick Castle Day Trip by Rail",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 55,
-      "rating": 4.4,
-      "reviews": 180,
-      "covers_castles": ["warwick-castle"]
-    },
-    {
-      "tour_id": "965",
-      "title": "London: Oxford, Stratford, Cotswolds and Warwick Day Trip",
-      "type": "day_trip",
-      "duration": "11 hours",
-      "price_from": 110,
-      "rating": 4.3,
-      "reviews": 920,
-      "covers_castles": ["warwick-castle"]
+      "rating": 4.8,
+      "reviews": 236,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/warwick-l32251/warwick-full-day-warwick-castle-meal-deal-t113143/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "warwick-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

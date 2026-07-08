@@ -75,11 +75,27 @@
   "instagram_tag": "#mafrapalace",
   "meta_title": "Mafra Palace: Library, Basilica & Visitor Guide 2026",
   "meta_description": "Visit Mafra Palace near Lisbon — João V's colossal Baroque convent-palace with its bat-guarded library and the largest basilica in Portugal. Tickets for 2026.",
-  "tags": ["baroque", "18th-century", "unesco-world-heritage", "royal-residence", "basilica", "library", "day-trip-from-lisbon"],
+  "tags": [
+    "baroque",
+    "18th-century",
+    "unesco-world-heritage",
+    "royal-residence",
+    "basilica",
+    "library",
+    "day-trip-from-lisbon"
+  ],
   "last_updated": "2026-06-25",
-  "routes": ["sintra-palaces-route"],
-  "nearby_castles": ["pena-palace", "queluz-palace", "castle-of-the-moors", "obidos-castle", "castelo-sao-jorge"],
-  "gyg_location_id": "2074",
+  "routes": [
+    "sintra-palaces-route"
+  ],
+  "nearby_castles": [
+    "pena-palace",
+    "queluz-palace",
+    "castle-of-the-moors",
+    "obidos-castle",
+    "castelo-sao-jorge"
+  ],
+  "gyg_location_id": "2073",
   "gyg_search_query": "Mafra Palace Lisbon day trip tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -93,17 +109,11 @@
       "rating": 4.5,
       "reviews": 201,
       "is_top_pick": true,
-      "covers_castles": ["mafra-palace"]
-    },
-    {
-      "tour_id": "428443",
-      "title": "From Lisbon: Mafra, Ericeira & Queluz Palace Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 92,
-      "rating": 5.0,
-      "reviews": 16,
-      "covers_castles": ["mafra-palace", "queluz-palace"]
+      "booking_url_override": "https://www.getyourguide.com/mafra-l2073/mafra-national-palace-of-mafra-entry-ticket-t434082/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "mafra-palace"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

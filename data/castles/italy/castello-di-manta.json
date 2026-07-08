@@ -67,10 +67,19 @@
   "instagram_tag": "#castellodimanta",
   "meta_title": "Castello di Manta: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Castello di Manta near Saluzzo — the Baron's Hall's International Gothic frescoes, among the finest medieval secular paintings in Italy. FAI guide for 2026.",
-  "tags": ["international-gothic", "frescoes", "piedmont", "fai", "saluzzo", "medieval-art"],
+  "tags": [
+    "international-gothic",
+    "frescoes",
+    "piedmont",
+    "fai",
+    "saluzzo",
+    "medieval-art"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["castello-di-masino"],
+  "nearby_castles": [
+    "castello-di-masino"
+  ],
   "gyg_location_id": "183542",
   "gyg_search_query": "Castello di Manta Saluzzo tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "433961",
-      "title": "Manta: Castello di Manta Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Manta: Manta Castle Entry Ticket",
+      "type": "entry_ticket",
       "duration": "1 hour",
       "price_from": 15,
       "rating": 4.6,
       "reviews": 28,
       "is_top_pick": true,
-      "covers_castles": ["castello-di-manta"]
+      "booking_url_override": "https://www.getyourguide.com/manta-italy-l183542/manta-manta-castle-entry-ticket-t433961/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-di-manta"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

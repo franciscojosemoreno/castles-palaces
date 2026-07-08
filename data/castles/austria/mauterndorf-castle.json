@@ -67,10 +67,20 @@
   "instagram_tag": "#burgmauterndorf",
   "meta_title": "Mauterndorf Castle, Lungau: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Burg Mauterndorf in Austria's Lungau valley — a 13th-century toll castle, once a gift from Kaiser Franz Joseph to Kaiser Wilhelm II. Guide for 2026.",
-  "tags": ["medieval", "salzburg", "lungau", "unesco-biosphere", "hohenzollern", "underrated"],
+  "tags": [
+    "medieval",
+    "salzburg",
+    "lungau",
+    "unesco-biosphere",
+    "hohenzollern",
+    "underrated"
+  ],
   "last_updated": "2026-06-29",
   "routes": [],
-  "nearby_castles": ["hohenwerfen-castle", "hohensalzburg-fortress"],
+  "nearby_castles": [
+    "hohenwerfen-castle",
+    "hohensalzburg-fortress"
+  ],
   "gyg_location_id": "4848",
   "gyg_search_query": "Mauterndorf Castle tour",
   "gyg_widget_type": "activities",
@@ -78,14 +88,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "370041",
-      "title": "Mauterndorf: Burg Mauterndorf Entry Ticket",
-      "type": "entrance_ticket",
+      "title": "Mauterndorf: Castle Entrance Ticket",
+      "type": "entry_ticket",
       "duration": "1.5 hours",
       "price_from": 16,
-      "rating": null,
+      "rating": 4.7,
       "reviews": 8,
       "is_top_pick": true,
-      "covers_castles": ["mauterndorf-castle"]
+      "booking_url_override": "https://www.getyourguide.com/mauterndorf-l4848/mauterndorf-castle-entrance-ticket-t370041/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "mauterndorf-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

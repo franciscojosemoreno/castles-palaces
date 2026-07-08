@@ -67,10 +67,19 @@
   "instagram_tag": "#chateauderambouillet",
   "meta_title": "Château de Rambouillet: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Château de Rambouillet near Paris — the French presidential summer residence with Marie Antoinette's theatrical dairy and Shell Cottage. Guide for 2026.",
-  "tags": ["presidential-residence", "ile-de-france", "marie-antoinette", "day-trip-from-paris", "forest"],
+  "tags": [
+    "presidential-residence",
+    "ile-de-france",
+    "marie-antoinette",
+    "day-trip-from-paris",
+    "forest"
+  ],
   "last_updated": "2026-06-27",
   "routes": [],
-  "nearby_castles": ["palace-of-versailles", "chateau-de-fontainebleau"],
+  "nearby_castles": [
+    "palace-of-versailles",
+    "chateau-de-fontainebleau"
+  ],
   "gyg_location_id": "102978",
   "gyg_search_query": "Chateau de Rambouillet tour",
   "gyg_widget_type": "activities",
@@ -78,14 +87,18 @@
   "gyg_featured_tours": [
     {
       "tour_id": "662549",
-      "title": "Rambouillet: Entry Ticket to the Château de Rambouillet",
-      "type": "entrance_ticket",
+      "title": "Chateau of Rambouillet Entrance Ticket",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 13,
       "rating": 4.4,
       "reviews": 33,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-rambouillet"]
+      "booking_url_override": "https://www.getyourguide.com/rambouillet-l102978/chateau-of-rambouillet-entrance-ticket-t662549/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-rambouillet"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }

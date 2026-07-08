@@ -71,11 +71,19 @@
   "instagram_tag": "#limassolcastle",
   "meta_title": "Limassol Castle, Cyprus — Where Richard the Lionheart Married on the Crusades",
   "meta_description": "Visit Limassol Medieval Castle in Cyprus — where Richard the Lionheart married in 1191, now home to the Cyprus Medieval Museum in the heart of the old town.",
-  "tags": ["byzantine", "lusignan", "cypriot-castle", "crusades", "richard-lionheart"],
+  "tags": [
+    "byzantine",
+    "lusignan",
+    "cypriot-castle",
+    "crusades",
+    "richard-lionheart"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["kolossi-castle"],
-  "gyg_location_id": "229078",
+  "nearby_castles": [
+    "kolossi-castle"
+  ],
+  "gyg_location_id": "426",
   "gyg_search_query": "Limassol castle medieval museum Cyprus tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
@@ -85,30 +93,15 @@
       "title": "From Paphos: Trip to Limassol with Kourion & Kolossi Castle",
       "type": "guided_tour",
       "duration": "7 hours",
-      "price_from": 58,
+      "price_from": 57,
       "rating": 4.6,
-      "reviews": 169,
-      "covers_castles": ["limassol-castle"]
-    },
-    {
-      "tour_id": "416054",
-      "title": "From Paphos: Guided Tour of Limassol with Aphrodite's Rock",
-      "type": "guided_tour",
-      "duration": "7 hours",
-      "price_from": 64,
-      "rating": 4.5,
-      "reviews": 385,
-      "covers_castles": ["limassol-castle"]
-    },
-    {
-      "tour_id": "973059",
-      "title": "From Paphos: Limassol City & Rock of Aphrodite",
-      "type": "guided_tour",
-      "duration": "7 hours",
-      "price_from": 49,
-      "rating": 4.5,
-      "reviews": 4,
-      "covers_castles": ["limassol-castle"]
+      "reviews": 173,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/paphos-l426/from-paphosguided-tour-of-limassol-with-kourion-and-kolossi-t647865/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "limassol-castle"
+      ]
     }
-  ]
+  ],
+  "gyg_direct_link_override": true
 }
