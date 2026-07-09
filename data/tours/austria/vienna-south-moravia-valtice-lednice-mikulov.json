@@ -1,0 +1,112 @@
+{
+  "id": "vienna-south-moravia-valtice-lednice-mikulov",
+  "slug": "vienna-south-moravia-valtice-lednice-mikulov",
+  "name": "Valtice, Lednice & Mikulov: South Moravia Day Trip from Vienna",
+  "tagline": "The Liechtenstein UNESCO palaces, the wine-country town of Mikulov, and Kreuzenstein Castle — four stops across the Austrian-Czech border, with a private driver from Vienna",
+  "departure_country": "austria",
+  "departure_city": "Vienna",
+  "visited_countries": [
+    "austria",
+    "czech-republic"
+  ],
+  "duration_days": 1,
+  "duration_label": "10 hours",
+  "gyg_tour_id": "750464",
+  "gyg_url": "https://www.getyourguide.com/vienna-l17/south-moravia-valtice-lednice-mikulov-private-day-trip-t750464/",
+  "price_from": 314,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 1,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 7,
+  "overview": "South Moravia is 60 kilometres from Vienna and almost entirely unknown to most visitors who come to the Austrian capital. The region produces some of Central Europe's most serious wine (Moravian Riesling, Welschriesling, Grüner Veltliner), contains a UNESCO World Cultural Landscape in the Lednice-Valtice area, and preserves a collection of Liechtenstein family palaces built when that dynasty's estates straddled the present-day Czech-Austrian border. Mikulov, 50 kilometres north of Vienna, has a population under 8,000 and a castle silhouette over its medieval wine-country streetscape that looks like it belongs in Burgundy.\n\nThis 10-hour private day trip from Vienna visits all four sites by private vehicle with a driver. **This is a transport and logistics service, not a guided tour.** The driver is not a licensed guide and does not provide structured historical commentary at the sites; you explore each site independently using the palace audio guides and your own research. What the service provides is flexible private transport, a maximum-7-person vehicle, and the convenience of a single booking for a cross-border itinerary that would be difficult to piece together by public transport.\n\nThe Kreuzenstein Castle stop (fourth on the route, on the return to Vienna) overlaps with the [Vienna: Kreuzenstein, Liechtenstein Palace & Seegrotte](/tours/austria/vienna-kreuzenstein-liechtenstein-seegrotte) tour, which combines Kreuzenstein with Austrian-side Liechtenstein sites. If Kreuzenstein is your primary interest and you prefer to stay in Austria, that tour is a more direct option. This tour is the right choice if South Moravia and the Czech Liechtenstein palaces are your primary destination.\n\n**Note:** 1 review as of July 2026 — rating data is insufficient for a reliable average.",
+  "highlights": [
+    "Lednice Castle — a neo-Gothic Liechtenstein palace in the UNESCO Lednice-Valtice Cultural Landscape, with one of the largest English-style parks in Central Europe (200 km²) and a 19th-century minaret in the grounds",
+    "Valtice Castle — the Liechtenstein dynasty's primary Moravian seat, a late Baroque palace in the Valtice wine town, with underground wine cellars of the National Wine Salon of the Czech Republic",
+    "Mikulov — a small South Moravian wine-country town with a Renaissance castle on a limestone ridge above the town square; the town retains a pre-war streetscape of unusual completeness",
+    "Kreuzenstein Castle (Austria) — a 19th-century neo-medieval castle north of Vienna, reconstructed by Count Wilczek in 1879–1906 with authentic Gothic artefacts collected across Europe (entry not included; see transport-only note)",
+    "Private vehicle for up to 7 guests — hotel pickup from Vienna, cross-border routing into the Czech Republic and back",
+    "Access to the Moravian wine region — South Moravia produces wine at the same latitude as Burgundy; Valtice's National Wine Salon has the most comprehensive Czech wine tasting collection in the country"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from Vienna",
+      "duration": "Morning — hotel pickup",
+      "description": "Hotel pickup in Vienna; private vehicle drives north across the Austrian-Czech border (approximately 60km) into South Moravia. The crossing from Austria into the Czech Republic is seamless (both EU Schengen zone); no border formalities required. South Moravia is the Czech Republic's southernmost wine region — the same continental climate and limestone-clay soils as Lower Austria's Weinviertel, but with a distinct Czech winemaking tradition."
+    },
+    {
+      "order": 2,
+      "castle_name": "Lednice Castle",
+      "duration": "~2 hours (self-guided)",
+      "description": "Visit Lednice Castle — the largest palace in the Liechtenstein dynasty's Moravian estate system, rebuilt in its current neo-Gothic form between 1846 and 1858 by Prince Alois II of Liechtenstein. The palace and its 200 km² of surrounding English-style parkland form the Lednice-Valtice Cultural Landscape, a UNESCO World Heritage Site since 1996. Notable features include the Moorish-style Winter Garden attached to the south wing, the 19th-century minaret (60 metres high, the tallest minaret in Central Europe outside Turkey, built as a romantic folly in the palace park in 1802), and the extensive formal gardens connecting Lednice to Valtice through 7 kilometres of allée. Palace visit is self-guided with the palace audio guide (available on-site); palace entry tickets are paid separately at the gate."
+    },
+    {
+      "order": 3,
+      "castle_name": "Valtice Castle",
+      "duration": "~2 hours (self-guided + optional wine salon)",
+      "description": "Visit Valtice Castle — the Liechtenstein dynasty's primary Moravian seat from the 13th century onward, rebuilt in late Baroque style in the early 18th century by Johann Bernhard Fischer von Erlach (the same architect who designed the Karlskirche in Vienna and Schönbrunn Palace's initial design). The palace interior is open to visitors; the most distinctive stop is the National Wine Salon of the Czech Republic in the palace's vaulted underground cellars — a permanent exhibition of the 100 best Czech wines selected annually by national blind tasting, available for purchase. Palace and wine salon entry paid separately; allow time for the cellar if Czech wine is of interest."
+    },
+    {
+      "order": 4,
+      "castle_name": "Mikulov Castle",
+      "duration": "~1.5 hours (self-guided)",
+      "description": "Visit Mikulov — a small South Moravian wine town (population under 8,000) on the Thaya River 7 kilometres from the Austrian border. Mikulov Castle sits on a limestone ridge above the medieval town square; the castle was rebuilt after being burned by the retreating German army in 1945 and now houses the regional museum. The town itself retains an unusually complete pre-war streetscape — synagogue (the most important Jewish heritage site in Moravia), Piarist monastery, baroque plague column, wine cellars built into the limestone hill under the town. Mikulov is the architectural centre of South Moravia's wine country; the surrounding villages (Pavlov, Perná, Dolní Věstonice) produce most of the region's high-quality Riesling and Welschriesling."
+    },
+    {
+      "order": 5,
+      "castle_name": "Kreuzenstein Castle",
+      "duration": "~1 hour (exterior; optional entry own expense)",
+      "description": "Return stop at Kreuzenstein Castle (Austria) north of Leobendorf, 25 kilometres north of Vienna. Kreuzenstein is a 19th-century neo-medieval castle reconstructed by Count Johann Nepomuk Wilczek between 1879 and 1906 using authentic Gothic architectural elements collected from demolished buildings across Europe — carved portals, tombstones, room interiors, and ecclesiastical fittings assembled into a convincing medieval whole. Entry tickets are purchased at the gate separately (see the [Vienna: Kreuzenstein, Liechtenstein Palace & Seegrotte](/tours/austria/vienna-kreuzenstein-liechtenstein-seegrotte) tour for the full Kreuzenstein circuit). Return to Vienna hotel."
+    }
+  ],
+  "included": [
+    "Private vehicle transport from Vienna hotel and return (maximum 7 guests)",
+    "English-speaking driver for 10 hours",
+    "Cross-border routing into the Czech Republic and back"
+  ],
+  "excluded": [
+    "Lednice Castle entry ticket (paid at gate)",
+    "Valtice Castle entry ticket (paid at gate)",
+    "National Wine Salon tasting (paid separately)",
+    "Mikulov Castle entry ticket (paid at gate)",
+    "Kreuzenstein Castle entry ticket if entering (paid at gate)",
+    "Meals and drinks",
+    "Gratuities"
+  ],
+  "meeting_point": "Vienna hotel pickup — confirm your hotel address with the operator at booking.",
+  "tips": [
+    "This is a transport service, not a guided tour — the driver handles logistics and routing but does not provide historical commentary; bring your own research on the Liechtenstein dynasty and South Moravian wine history, or rely on the palace audio guides available at Lednice and Valtice",
+    "The National Wine Salon at Valtice is the best structured introduction to Czech wine in the country — worth the extra time and separate ticket; Moravian Riesling and Welschriesling are excellent by any European standard and largely unknown outside the Czech Republic",
+    "Mikulov's Jewish heritage is substantial — before WWII, Mikulov had a Jewish population of several thousand and was the seat of the regional rabbi for Moravia and Silesia; the old Jewish quarter and renovated synagogue (now a museum) are the most historically significant Jewish heritage sites in the Czech Republic outside Prague",
+    "1 review as of July 2026 — this is an extremely thin review history; book with appropriate expectations for an unproven listing; the sites (Lednice, Valtice, Mikulov) are individually well-visited Czech heritage sites independent of this tour operator's review count"
+  ],
+  "faqs": [
+    {
+      "question": "Is this a guided tour?",
+      "answer": "No — this is a private vehicle and driver service. The driver handles transport, routing, and logistics but is not a licensed guide and does not provide structured historical commentary at the castle sites. Site visits are self-guided using the palace audio guides available on-site at Lednice and Valtice."
+    },
+    {
+      "question": "How does this relate to the Kreuzenstein tour on this site?",
+      "answer": "The [Vienna: Kreuzenstein, Liechtenstein Palace & Seegrotte](/tours/austria/vienna-kreuzenstein-liechtenstein-seegrotte) tour is a separate Austrian-side circuit that focuses on Kreuzenstein Castle as a primary destination, combined with the Liechtenstein Palace in Weidlingau and the Seegrotte underground lake. This South Moravia tour uses Kreuzenstein as a return-trip stop, with the Czech Liechtenstein palaces (Lednice and Valtice) and Mikulov as the primary destinations. Choose this tour if South Moravia is your main interest; choose the Kreuzenstein tour if the Austrian Liechtenstein sites are your priority."
+    },
+    {
+      "question": "Do I need a Czech visa?",
+      "answer": "No — both Austria and the Czech Republic are Schengen zone members. EU citizens, and citizens of countries with Schengen visa-free access (including the UK, US, Canada, Australia, and most of Latin America), can cross the border freely for tourism. Carry your passport or national ID in case of a routine check."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/vienna-south-moravia-valtice-lednice-mikulov.webp",
+    "alt": "Lednice Castle in South Moravia, Czech Republic — the neo-Gothic Liechtenstein palace set in the UNESCO Lednice-Valtice Cultural Landscape with its 200 km² English-style park",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Valtice, Lednice & Mikulov: South Moravia Day Trip from Vienna",
+    "description": "10-hour private day trip from Vienna to South Moravia — Lednice Castle (UNESCO), Valtice Palace (Czech wine salon), Mikulov wine-country castle town, and Kreuzenstein Castle. Private vehicle, max 7 guests. From $314."
+  }
+}

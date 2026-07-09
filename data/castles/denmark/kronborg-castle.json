@@ -97,6 +97,21 @@
       "covers_castles": [
         "kronborg-castle"
       ]
+    },
+    {
+      "tour_id": "1216902",
+      "title": "Kronborg & Frederiksborg: Private Chauffeur Tour of North Zealand from Copenhagen",
+      "type": "day_trip",
+      "duration": "5 hours",
+      "price_from": 1022,
+      "rating": 5.0,
+      "reviews": 3,
+      "is_top_pick": false,
+      "covers_castles": [
+        "kronborg-castle",
+        "frederiksborg-palace"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/copenhagen-l12/copenhagen-north-zealand-castles-private-tour-t1216902/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

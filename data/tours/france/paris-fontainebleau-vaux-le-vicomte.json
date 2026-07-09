@@ -1,0 +1,114 @@
+{
+  "id": "paris-fontainebleau-vaux-le-vicomte",
+  "slug": "paris-fontainebleau-vaux-le-vicomte",
+  "name": "Château de Fontainebleau & Vaux-le-Vicomte: Day Trip from Paris",
+  "tagline": "Napoleon's abdication throne and Louis XIV's most envied château — two of the greatest royal palaces in France, 60 kilometres south of Paris in a single day",
+  "departure_country": "france",
+  "departure_city": "Paris",
+  "visited_countries": [
+    "france"
+  ],
+  "duration_days": 1,
+  "duration_label": "9 hours",
+  "gyg_tour_id": "53754",
+  "gyg_url": "https://www.getyourguide.com/paris-l16/fontainebleau-and-vaux-le-vicomte-chateaux-day-trip-t53754/",
+  "price_from": 120,
+  "currency": "USD",
+  "rating": 4.5,
+  "review_count": 530,
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Chinese",
+    "Japanese",
+    "Russian",
+    "Dutch",
+    "Polish"
+  ],
+  "max_group_size": 25,
+  "overview": "Vaux-le-Vicomte was the château that destroyed its own creator. In 1661 Nicolas Fouquet, France's superintendent of finances, hosted a housewarming banquet for 6,000 guests at the most magnificent private château in France — and Louis XIV, who attended, was so provoked by the display that he had Fouquet arrested three weeks later. Fouquet spent the rest of his life in prison; Louis XIV took his architect (Le Vau), his landscape designer (Le Nôtre), and his painter (Le Brun) — and used all three to build Versailles. The irony is preserved in the château's décor: Fouquet's squirrel motto appears everywhere, beneath the unfinished royal crown he never received.\n\nFontainebleau is Vaux-le-Vicomte's opposite number — not built to impress but accumulated over five centuries of actual royal use. Every major French monarch from Louis VII to Napoleon III added to it. Napoleon signed his first abdication in the Salon Rouge here in 1814, then returned from Elba, reviewed his troops in the courtyard for the final time in 1815, and said goodbye to the Imperial Guard from the great horseshoe staircase. The room where he signed is unchanged.\n\nThis ParisCityVision day trip combines both châteaux with coach transport from Paris (departing 9:15am) and audio guides in 11 languages. The audio guide is delivered via the operator's app — **download it before departure.** Note this is an audio-guided experience with a driver, not a live-narrated tour; guide scores in reviews reflect this format (4.0★ vs. 4.6★ for transport).",
+  "highlights": [
+    "Vaux-le-Vicomte — the private château that provoked Louis XIV into building Versailles; visit the private apartments, state rooms, kitchens, wine cellars, and the immersive Fouquet Affair 3D experience",
+    "Château de Fontainebleau — eight centuries of French royal history in one building; Napoleon's abdication salon, the horseshoe staircase where he said farewell to the Imperial Guard, and the private apartments",
+    "Formal gardens at both châteaux: Le Nôtre's original French formal garden layout at Vaux-le-Vicomte, and the three separate gardens at Fontainebleau (parterre, English garden, canal)",
+    "Audio guide in 11 languages including English; period costume rentals available for children at Vaux-le-Vicomte",
+    "Skip-the-line access at both sites; round-trip coach transport from central Paris",
+    "The Fouquet Affair 3D experience at Vaux-le-Vicomte — an immersive telling of the tale of the superintendent who built the most magnificent château in France and paid for it with his freedom"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from Paris",
+      "duration": "Depart 09:15 from Pullman Paris Centre Bercy",
+      "description": "Depart Paris at 09:15 from Pullman Paris Centre Bercy (near Gare de Lyon). Coach drives approximately 55km south to Maincy. The audio guide (via the ParisCityVision app — download before departure) introduces both châteaux's histories on the drive south."
+    },
+    {
+      "order": 2,
+      "castle_id": "chateau-de-vaux-le-vicomte",
+      "castle_name": "Château de Vaux-le-Vicomte",
+      "duration": "~4 hours (9:15am to 1:30pm departure)",
+      "description": "Visit Vaux-le-Vicomte — the 1661 château that Nicolas Fouquet built as the most magnificent private residence in France, only to lose it (and his liberty) to the envy of Louis XIV within three weeks of the housewarming banquet. The visit covers the private apartments and state rooms (including the Grand Salon with its unfinished painted ceiling — abandoned when Fouquet was arrested), the original kitchens and wine cellars below, the formal gardens laid out by André Le Nôtre (his first major commission, the design that led directly to Versailles), and the Fouquet Affair 3D immersive experience narrating the banquet, the arrest, and Fouquet's final years in the fortress at Pignerol. Period costumes are available for children to rent in the courtyard."
+    },
+    {
+      "order": 3,
+      "castle_id": "chateau-de-fontainebleau",
+      "castle_name": "Château de Fontainebleau",
+      "duration": "~3.5 hours (2:15pm to 5pm departure)",
+      "description": "Visit Château de Fontainebleau — a royal palace on the site of a medieval hunting lodge in the Forest of Fontainebleau, extended and elaborated by every major French monarch from Francis I (who began the Renaissance rebuilding in the 1530s) to Napoleon III (who made the last significant additions in the 1860s). The Napoleon rooms are the most historically weighted: the Red Salon (Salon Rouge) where he signed the first abdication document on April 11, 1814; the Salon de Abdications (also called the Salon Rouge); and the horseshoe staircase in the central courtyard (Cour du Cheval Blanc) where he gave his farewell address to the Imperial Guard on April 20, 1814. The audio guide covers all rooms including the King's Apartments, the Ballroom (Salle de Bal), and the private apartments of successive queens."
+    },
+    {
+      "order": 4,
+      "castle_name": "Return to Paris",
+      "duration": "Depart 5pm, arrive ~6:15pm",
+      "description": "Return coach to Paris arriving approximately 6:15pm at Pullman Paris Centre Bercy. The audio guide covers final historical context on the return journey."
+    }
+  ],
+  "included": [
+    "Round-trip coach transport from Pullman Paris Centre Bercy",
+    "Skip-the-line entry at both Vaux-le-Vicomte and Château de Fontainebleau",
+    "Audio guide via ParisCityVision app (11 languages — download app before departure)",
+    "Fouquet Affair 3D immersive experience at Vaux-le-Vicomte"
+  ],
+  "excluded": [
+    "Lunch (free time between the two châteaux)",
+    "Period costume rentals at Vaux-le-Vicomte (optional, own cost)",
+    "Personal expenses"
+  ],
+  "meeting_point": "Pullman Paris Centre Bercy — 1 Rue de Libourne, 75012 Paris (near Gare de Lyon). Depart 09:15. **Download the ParisCityVision app before the day** — the audio guide is delivered via the app.",
+  "tips": [
+    "Download the ParisCityVision app before the day of the tour — the audio guide is app-based and you need it downloaded and ready before departure; the app requires phone storage and a working connection to download",
+    "This is an audio-guided experience, not a live-narrated tour — the coach driver handles transport while the app provides the commentary; set expectations accordingly if you prefer a live guide",
+    "The Vaux-le-Vicomte kitchens and cellars are often skipped by rushed visitors — they are worth going below for the 17th-century scale of catering infrastructure required for a 6,000-person banquet",
+    "At Fontainebleau: the horseshoe staircase in the Cour du Cheval Blanc (the farewell courtyard) is the single most emotionally weighted spot — Napoleon stood on the landing above and embraced his marshals one by one before going into exile"
+  ],
+  "faqs": [
+    {
+      "question": "Which château should I prioritise if I run short on time?",
+      "answer": "Vaux-le-Vicomte for the story — the Fouquet narrative is one of the most dramatically complete in French history and the 3D experience makes it unusually vivid. Fontainebleau for the history — eight centuries of royal accumulation including the Napoleon abdication rooms. The schedule gives roughly equal time to both; the audio guide paces the visits."
+    },
+    {
+      "question": "Is the tour conducted in English?",
+      "answer": "The audio guide is available in 11 languages including English. The coach driver speaks French primarily; the tour is app-guided rather than live-narrated. If you need a live English-speaking guide rather than an audio guide, this tour may not be the right fit."
+    },
+    {
+      "question": "Why did Louis XIV have Fouquet arrested after the party?",
+      "answer": "The short answer: Fouquet's display of wealth made Louis XIV feel outclassed in his own kingdom. The longer answer: Fouquet had been using state funds for personal enrichment; Louis XIV (who had just taken personal control of the French government after Mazarin's death) used the banquet as political grounds to move against him. Fouquet was tried and convicted; his sentence was commuted from death to life imprisonment. He died at Pignerol fortress in 1680, after 19 years imprisoned. The château passed through various owners and was eventually restored in the late 19th century by the Sommier family, who found the gardens completely overgrown."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/paris-fontainebleau-vaux-le-vicomte.webp",
+    "alt": "Château de Vaux-le-Vicomte viewed across its formal parterre garden at sunset — the 17th-century private château that inspired Versailles",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Château de Fontainebleau & Vaux-le-Vicomte: Day Trip from Paris",
+    "description": "9-hour day trip from Paris to two royal châteaux — Vaux-le-Vicomte (the château that provoked Versailles) and Fontainebleau (Napoleon's abdication palace). Skip-the-line, audio guide in 11 languages. From $120."
+  }
+}

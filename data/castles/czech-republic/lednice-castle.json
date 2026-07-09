@@ -106,6 +106,22 @@
       "covers_castles": [
         "lednice-castle"
       ]
+    },
+    {
+      "tour_id": "750464",
+      "title": "Valtice, Lednice & Mikulov: South Moravia Day Trip from Vienna",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 314,
+      "rating": null,
+      "reviews": 1,
+      "is_top_pick": false,
+      "covers_castles": [
+        "lednice-castle",
+        "valtice-castle",
+        "kreuzenstein-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/vienna-l17/south-moravia-valtice-lednice-mikulov-private-day-trip-t750464/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

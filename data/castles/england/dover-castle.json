@@ -97,6 +97,21 @@
       "reviews": 789,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/dover-l34741/dover-castle-admission-ticket-t193694/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    },
+    {
+      "tour_id": "725290",
+      "title": "Dover Castle, White Cliffs & Leeds Castle: Private Day Tour from London",
+      "type": "day_trip",
+      "duration": "Full day",
+      "price_from": 1339,
+      "rating": null,
+      "reviews": 1,
+      "is_top_pick": false,
+      "covers_castles": [
+        "dover-castle",
+        "leeds-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/london-l55/london-dover-castle-white-cliffs-leeds-castle-private-tour-t725290/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

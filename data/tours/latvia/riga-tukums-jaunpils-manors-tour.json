@@ -1,0 +1,97 @@
+{
+  "id": "riga-tukums-jaunpils-manors-tour",
+  "slug": "riga-tukums-jaunpils-manors-tour",
+  "name": "Jaunpils Castle & the Manors of Tukums from Riga",
+  "tagline": "A 14th-century Livonian Order castle and the German-Baltic manor estates of Tukums — Latvia's western corridor, west of Riga toward Kurzeme",
+  "departure_country": "latvia",
+  "departure_city": "Riga",
+  "visited_countries": [
+    "latvia"
+  ],
+  "duration_days": 1,
+  "duration_label": "5 hours",
+  "gyg_tour_id": "151364",
+  "gyg_url": "https://www.getyourguide.com/riga-l64/from-riga-jaunpils-castle-tukums-manors-private-tour-t151364/",
+  "price_from": 103,
+  "currency": "USD",
+  "rating": 4.5,
+  "review_count": 5,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 4,
+  "overview": "The Tukums region west of Riga is the beginning of Kurzeme — the historical province (Courland in German) that was a separate Duchy from 1561 to 1795, ruled by German-Baltic nobility under nominal Polish-Lithuanian sovereignty, and one of the most prosperous corners of the Baltic in the 17th century. The corridor between Riga and Tukums preserves the most distinctive visible product of German-Baltic ruling culture in Latvia: the manor house (muiža), a dense pattern of estate architecture from the 17th–19th centuries that concentrated Baltic agricultural wealth and artistic ambition in rural domestic buildings.\n\nJaunpils Castle anchors the route — a 14th-century Livonian Order castle on the Jaunpils stream, built by the Order's Tukums-region commandery around 1301, and one of the few Latvian medieval castles to survive into the 20th century substantially intact (unlike the more ruinous sites along the Daugava). Tukums town and the surrounding manors add the later German-Baltic estate layer.\n\nThis is a different direction and a different architectural period from the site's other Latvia circuits. The [Lielvārde & Koknese: Medieval Castle Ruins & Legends from Riga](/tours/latvia/riga-lielvarde-koknese-legends-tour) tour heads southeast along the Daugava for earlier, more ruinous Livonian Crusade sites. The [From Riga: Cēsis Castle, Sigulda & Turaida — Latvia's Medieval Triangle](/tours/latvia/riga-cesis-sigulda-turaida-castles) heads northeast into the Gauja valley for the Livonian Order's most elaborate fortifications. This western Tukums route is for visitors interested in the later Baltic estate culture alongside the medieval castle.\n\n**Maximum 4 guests** — this is a small private-vehicle tour, not a shared minibus.",
+  "highlights": [
+    "Jaunpils Castle — a 14th-century Livonian Order castle on the Jaunpils stream, built around 1301; one of the best-preserved medieval castles in Latvia, with a square tower and curtain walls largely intact",
+    "Tukums — the regional centre of western Latvia's manor belt, with the Durbe Manor estate and a historic market town atmosphere typical of the Baltic German-administered Courland duchy",
+    "German-Baltic manor architecture — the manors of the Tukums corridor represent the 17th–19th-century Baltic estate culture: classicist manor houses, park landscapes, and outbuilding complexes unique to the former Duchy of Courland",
+    "Western Latvia / Kurzeme introduction — the first stop on the road to the Curonian heritage region, a culturally distinct historical province from Vidzeme (the Gauja valley) or Latgale (the southeast)",
+    "Maximum 4 guests — exclusively small vehicle, private circuit",
+    "Round trip from Riga in 5 hours — no full-day commitment required"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from Riga",
+      "duration": "Departure context",
+      "description": "Depart Riga westward through Jūrmala (the coastal resort city on the Lielupe estuary) and into the Tukums corridor. The guide introduces the Duchy of Courland — the German-Baltic successor state that governed this territory from 1561 to 1795, a period when Courland briefly had colonial territories in Tobago and the Gambia River, reflecting the extraordinary extent of Baltic German mercantile ambition in the 17th century."
+    },
+    {
+      "order": 2,
+      "castle_name": "Tukums — Town and Manor Context",
+      "duration": "~30 minutes",
+      "description": "Brief stop in Tukums town — the administrative centre of the region and the gateway to Courland's manor landscape. Tukums has the character of a Baltic German market town adapted over centuries of Latvian rural culture: a central market square, a Lutheran church (the dominant church of the German-Baltic ruling class), and the Durbe Manor park on the western edge of town. Durbe Manor (originally 17th century, rebuilt in classicist style in the 19th century) is representative of the hundreds of Baltic German estate houses that once dotted the Tukums corridor; many are now derelict, converted to schools, or partially restored. The guide provides context on the German-Baltic nobility's relationship to Latvian peasant culture and the land reforms of the 1920 Latvian Republic that ended the estate system."
+    },
+    {
+      "order": 3,
+      "castle_id": "jaunpils-castle",
+      "castle_name": "Jaunpils Castle",
+      "duration": "1.5 hours (guided visit)",
+      "description": "Visit Jaunpils Castle — built around 1301 by the Livonian Order's local commandery on the Jaunpils stream in the Tukums district. Jaunpils is one of Latvia's most completely preserved medieval castles: the square tower (keep) and curtain walls survive largely intact, in contrast with the ruinous state of most other Latvian medieval castle sites. The castle passed from the Livonian Order to a succession of Baltic German noble families after the Order's dissolution in 1561; it was the private property of the von der Osten-Sacken family for most of the 17th–20th centuries and survived the Soviet period as a cultural heritage site. The castle now operates as a museum and occasional guesthouse. The guided visit covers the medieval construction history, the Livonian Order's organisation of the Tukums commandery, the transition to Baltic German private ownership, and the survival story of the building through the 20th century."
+    },
+    {
+      "order": 4,
+      "castle_name": "Return via the Tukums Manor Belt",
+      "duration": "Return drive",
+      "description": "Return to Riga via the manor belt roads east of Tukums — the network of rural lanes that connects surviving manor parks, estate churches, and occasional ruins of manor houses that once formed the administrative fabric of Courland. The guide identifies notable surviving buildings and discusses the post-1920 fate of the estates — many were subdivided among Latvian farmers, some burned, others converted to collective farm headquarters during the Soviet period, and a small number now being restored as private cultural projects."
+    }
+  ],
+  "included": [
+    "Private vehicle transport from Riga and back (maximum 4 guests)",
+    "English-speaking guide for 5 hours",
+    "Jaunpils Castle entry ticket"
+  ],
+  "excluded": [
+    "Meals and drinks",
+    "Gratuities"
+  ],
+  "meeting_point": "Riga — confirm exact pickup point with the operator at booking.",
+  "tips": [
+    "Jaunpils Castle also operates as a guesthouse — if you're interested in staying overnight in a medieval Latvian castle (which is a genuinely rare option in the Baltic states), it is worth checking room availability separately from the tour booking",
+    "The Duchy of Courland's colonial episode (Tobago 1654–1689 and the Gambia River trading posts 1651–1661) is one of the most unexpected facts in Baltic history — Duke Jacob Kettler was one of the most commercially ambitious Baltic German rulers, and the colonies, though short-lived, are documented and genuinely occurred; the guide will cover this on the drive",
+    "The manor houses along the return route vary from fully restored to derelict — the contrast is stark and says something direct about which Baltic German estates found post-Soviet investment and which did not; it is worth asking the guide about specific sites you pass",
+    "This is a maximum-4-guest tour — the small vehicle and private format mean you can request route adjustments or additional stops not listed here; discuss with the operator at booking"
+  ],
+  "faqs": [
+    {
+      "question": "How does this compare to the other Latvia tours on this site?",
+      "answer": "The three Latvia circuits cover different directions and different periods. This Tukums/Jaunpils tour heads west from Riga toward Kurzeme (Courland), combining the best-preserved medieval castle in western Latvia with the German-Baltic manor estate culture of the Duchy of Courland period (17th–19th century). The [Lielvārde & Koknese: Medieval Castle Ruins & Legends](/tours/latvia/riga-lielvarde-koknese-legends-tour) heads southeast along the Daugava for earlier Crusade-era ruins and folk legend sites. The [Cēsis Castle, Sigulda & Turaida](/tours/latvia/riga-cesis-sigulda-turaida-castles) tour heads northeast into the Gauja valley for the Livonian Order's most elaborate surviving fortifications."
+    },
+    {
+      "question": "What is the Duchy of Courland?",
+      "answer": "The Duchy of Courland (Curlandia) existed from 1561 to 1795 — a vassal state of the Polish-Lithuanian Commonwealth governed by German-Baltic nobility after the dissolution of the Livonian Order. At its peak under Duke Jacob Kettler (1642–1682), Courland was prosperous enough to maintain brief overseas colonies in Tobago (1654–1689) and on the Gambia River in West Africa. The duchy's territory covered most of modern western Latvia (Kurzeme province); its legacy is visible in the dense network of manor houses, Lutheran churches, and estate landscapes that still punctuate the Tukums and Saldus regions."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/riga-tukums-jaunpils-manors-tour.webp",
+    "alt": "Jaunpils Castle in the Tukums region of Latvia — a 14th-century Livonian Order castle with its square tower and curtain walls intact",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Jaunpils Castle & the Manors of Tukums from Riga",
+    "description": "5-hour private tour from Riga to Jaunpils Castle (14th century, one of Latvia's best-preserved medieval castles) and the German-Baltic manor estates of the Tukums/Courland region. Max 4 guests. From $103."
+  }
+}

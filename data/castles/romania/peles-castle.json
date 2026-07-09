@@ -107,6 +107,21 @@
       "covers_castles": [
         "bran-castle"
       ]
+    },
+    {
+      "tour_id": "510079",
+      "title": "Cantacuzino Palace, Peleș & Bran Castle from Brașov",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 92,
+      "rating": 4.9,
+      "reviews": 24,
+      "is_top_pick": false,
+      "covers_castles": [
+        "peles-castle",
+        "bran-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/brasov-l6631/from-brasov-cantacuzino-peles-bran-castle-private-tour-t510079/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

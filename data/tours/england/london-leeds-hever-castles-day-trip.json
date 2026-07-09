@@ -1,0 +1,103 @@
+{
+  "id": "london-leeds-hever-castles-day-trip",
+  "slug": "london-leeds-hever-castles-day-trip",
+  "name": "Leeds Castle & Hever Castle: Tudor Kent Day Trip from London",
+  "tagline": "Anne Boleyn's childhood home and Henry VIII's favourite castle — both Tudor landmarks in Kent, both entry tickets included, one day from London",
+  "departure_country": "england",
+  "departure_city": "London",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "11 hours",
+  "gyg_tour_id": "1128430",
+  "gyg_url": "https://www.getyourguide.com/london-l55/london-leeds-castle-hever-castle-day-trip-t1128430/",
+  "price_from": 167,
+  "currency": "USD",
+  "rating": 4.2,
+  "review_count": 14,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 50,
+  "overview": "Kent is Henry VIII's county. Within 30 miles of each other, two of the most significant Tudor buildings in England preserve the two sides of his most consequential relationship: Hever Castle, the moated fortified manor house where Anne Boleyn grew up and where Henry VIII first came to court her; and Leeds Castle, the island fortress he used as a royal residence and where Catherine of Aragon stayed before the annulment that ended the marriage Henry VIII ended his marriage to get Anne Boleyn.\n\nThis coach day trip from London covers both sites in a single 11-hour day, with entry tickets to both included in the $167 tour price — making it the most straightforward way to see both from London without a hire car. The coach is a standard shared vehicle (not a private transfer), and the visit at each castle is self-guided once the coach parks; there is no live guide commentary at the sites. The included entry at both castles represents strong value: Leeds Castle adult entry alone is typically £30–35, Hever Castle £22–26.\n\nFor a private vehicle with a guide and a smaller group — and a different castle combination covering Dover Castle and the White Cliffs alongside Leeds Castle — the [London: Dover Castle, White Cliffs & Leeds Private Tour](/tours/england/london-dover-white-cliffs-leeds-private-tour) covers similar Kent ground with exclusive transport, guide, and three sites instead of two at a higher price point.",
+  "highlights": [
+    "Hever Castle — the 13th-century moated manor where Anne Boleyn grew up and Henry VIII courted her in the 1520s; later restored by William Waldorf Astor (1903–1908) with the addition of the mock Tudor village and Italian gardens",
+    "Leeds Castle — the medieval island castle on the River Len near Maidstone; used by Henry VIII and Catherine of Aragon as a royal residence; set in 500 acres of parkland; privately owned and managed as an events/hotel destination",
+    "Both entry tickets included in the tour price — Leeds Castle adult entry (c.£30–35) and Hever Castle adult entry (c.£22–26) together represent the majority of the combined cost",
+    "Standard coach transport from central London — no hire car required for a Kent castle circuit",
+    "11 hours from London — full day, returning to the city in the evening",
+    "Tudor history framing — two sites that together tell the story of Henry VIII's marriage to Anne Boleyn from both sides"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from London",
+      "duration": "Morning — confirm departure point at booking",
+      "description": "Depart central London by shared coach. The drive to Kent (via the M25 and A20/M20) takes approximately 1–1.5 hours. Confirm the departure point and time with the operator — coaches typically depart from a Victoria or central London pickup, timed to reach Hever when it opens."
+    },
+    {
+      "order": 2,
+      "castle_id": "hever-castle",
+      "castle_name": "Hever Castle",
+      "duration": "~2.5–3 hours (self-guided)",
+      "description": "Visit Hever Castle in the village of Hever, Kent — a 13th-century fortified manor house that was the Boleyn family home from 1462. Henry VIII began visiting in the early 1520s to court Anne Boleyn; their relationship developed here over several years before Anne's eventual return to court and the events that led to her marriage to Henry in 1533 and her execution in 1536. The castle was sold by the Crown after the Boleyn family's fall; it passed through several owners before being bought by the American media magnate William Waldorf Astor in 1903. Astor's subsequent restoration was one of the most ambitious private restoration projects in English architectural history — he added the mock Tudor village adjacent to the castle to house staff and guests (without disturbing the castle's medieval scale), drained and reconstructed the 38-acre lake, and commissioned the Italian Garden, a walled garden of statuary and water features in a Tuscan style. The result is a convincingly medieval-looking building that is, in its current form, substantially Edwardian. The interior covers the Boleyn family rooms, Anne Boleyn's bedroom, and the Astor-era state rooms. Entry included."
+    },
+    {
+      "order": 3,
+      "castle_id": "leeds-castle",
+      "castle_name": "Leeds Castle",
+      "duration": "~3 hours (self-guided)",
+      "description": "Visit Leeds Castle near Maidstone, Kent — a medieval castle built on two islands in the River Len, first constructed in 1119 and used as a royal residence by a succession of English queens, most notably as a property of Henry VIII who used it as a palace and hunting retreat. Catherine of Aragon stayed at Leeds Castle; it was one of the residences associated with the court before the annulment proceedings. The castle passed through several phases of domestic rebuilding and was substantially remodelled in the 19th and early 20th centuries; the exterior lake and island setting are the dominant visual feature. Lady Olive Baillie, the Anglo-American heiress who owned the castle from 1926 to 1974, carried out the most significant 20th-century restoration and used Leeds as a society house for Noel Coward, Charlie Chaplin, and European royalty. The castle is now managed as a hotel, conference, and events venue; visitor access covers the castle rooms, the 500-acre grounds, and the permanent exhibitions. Entry included."
+    },
+    {
+      "order": 4,
+      "castle_name": "Return to London",
+      "duration": "Evening — arrival confirmed at booking",
+      "description": "Return coach to London arriving in the early evening. Total travel and visit time approximately 11 hours from departure."
+    }
+  ],
+  "included": [
+    "Round-trip shared coach transport from central London",
+    "Hever Castle entry ticket",
+    "Leeds Castle entry ticket"
+  ],
+  "excluded": [
+    "Meals and drinks at the castle cafés and restaurants (both sites have on-site catering)",
+    "Live guide at either castle — visits are self-guided once the coach arrives",
+    "Gratuities"
+  ],
+  "meeting_point": "Central London — confirm exact pickup location and time with the operator at booking. Standard departure points are in the Victoria area.",
+  "tips": [
+    "Leeds Castle's 500-acre grounds take time — budget at least 45 minutes for the castle exterior, grounds walk, and lake before entering the castle building itself; the interior visit is self-paced but the grounds are what distinguish Leeds from other castle visits",
+    "Hever's Italian Garden is worth the walk — the Astor-era statuary garden is separate from the main castle courtyard and takes 20–30 minutes; first-time visitors often miss it by heading straight into the castle from the entrance",
+    "Both castles have on-site restaurants at the higher price point; the Hever Castle café and Leeds Castle's Martin's Catering operation are decent but not cheap — bring snacks or a packed lunch if budget matters",
+    "The shared coach format means the schedule at each site is set by the tour operator; you will have approximately 2.5–3 hours at each castle — sufficient for a thorough visit but not for a leisurely pace; the [private Dover/Leeds tour](/tours/england/london-dover-white-cliffs-leeds-private-tour) offers more flexibility if pace matters more than price"
+  ],
+  "faqs": [
+    {
+      "question": "Is there a guide at the castles?",
+      "answer": "No — the coach has a driver but there is no live guide at either Hever or Leeds Castle. Both sites provide their own audio guides, guidebooks, and information panels inside. This tour's value is the transport and the included entry tickets; the commentary at the sites is provided by the castles' own material."
+    },
+    {
+      "question": "What is the connection between Anne Boleyn and Hever Castle?",
+      "answer": "Hever Castle was the Boleyn family home from 1462. Anne Boleyn (c.1501–1536) grew up here; Henry VIII began visiting regularly in the early 1520s to court her. Their extended courtship at Hever — during which Henry wrote Anne a series of love letters preserved in the Vatican Library — eventually led to his decision to seek an annulment from Catherine of Aragon, the break with Rome, and the establishment of the Church of England. Anne was queen for three years (1533–1536) before being executed on charges of adultery and treason. The castle room associated with Anne is preserved in the tour."
+    },
+    {
+      "question": "How does this compare to the private Dover/Leeds tour?",
+      "answer": "The [London: Dover Castle, White Cliffs & Leeds Private Tour](/tours/england/london-dover-white-cliffs-leeds-private-tour) ($1,339 per group of up to 7) provides a private vehicle, live guide, and three sites — Dover Castle, the White Cliffs of Dover, and Leeds Castle. This tour ($167 per person) provides a shared coach and two sites — Hever and Leeds — with both entry tickets included and no live guide. This tour is the budget-accessible option for Hever + Leeds; the private tour is the right choice for groups who want Dover included and prefer a private vehicle with a guide."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/london-leeds-hever-castles-day-trip.webp",
+    "alt": "Hever Castle in Kent reflected in its moat — the 13th-century fortified manor where Anne Boleyn grew up, later restored by William Waldorf Astor",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Leeds Castle & Hever Castle: Tudor Kent Day Trip from London",
+    "description": "11-hour day trip from London to Hever Castle (Anne Boleyn's childhood home) and Leeds Castle. Both entry tickets included. Standard shared coach. Tudor history focus. From $167 per person."
+  }
+}

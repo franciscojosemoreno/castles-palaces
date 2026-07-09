@@ -1,0 +1,102 @@
+{
+  "id": "edinburgh-holyroodhouse-royal-mile-tour",
+  "slug": "edinburgh-holyroodhouse-royal-mile-tour",
+  "name": "Palace of Holyroodhouse & the Royal Mile: Royal Edinburgh Walking Tour",
+  "tagline": "The Palace of Holyroodhouse, a guided Royal Mile walk from Victoria Street to White Horse Close, and Edinburgh Castle — all in a 5-hour guided circuit of the Old Town's royal axis",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "5 hours",
+  "gyg_tour_id": "1189554",
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/royal-tour-edinburgh-castle-holyrood-palace-and-royal-mile-t1189554/",
+  "price_from": 133,
+  "currency": "USD",
+  "rating": 4.4,
+  "review_count": 5,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 20,
+  "overview": "The Palace of Holyroodhouse is Edinburgh's most undervisited royal site. While Edinburgh Castle draws 2 million visitors annually, Holyroodhouse — the official Scottish residence of the British monarch, where Queen Mary of Scots witnessed the murder of her secretary David Rizzio, and where Prince Charles held investitures as King during the Edinburgh weeks — receives a fraction of that traffic. This tour gives it proper attention.\n\nThe 5-hour circuit walks the full Royal Mile from Castlehill to Holyrood, with a live guide narrating the closes, wynds, and courtyards that most visitors walk past without entering: Victoria Street (the curved street built over the Cowgate in the 1830s), St Giles' Cathedral (burial place of Scottish reformers and the seat of the Church of Scotland), Mercat Cross (where Scottish monarchs were proclaimed), White Horse Close (a 17th-century coaching inn courtyard), and Canongate (the separate burgh that ran from the Netherbow Port to the abbey gates). Edinburgh Castle is included with a guided visit to the Honours of Scotland, St Margaret's Chapel, and the Great Hall. The Palace of Holyroodhouse is self-guided with the official audio guide (approximately 1.5 hours).\n\nIf your priority is Edinburgh Castle in depth — with the highest-rated dedicated tour (4.8★, 10,000+ reviews) and the smallest specialist groups — the [Edinburgh Castle: Guided History Tour with Entry Ticket](/tours/scotland/edinburgh-castle-guided-tour) is the better choice. This tour is the right option for visitors who want Holyroodhouse and the Royal Mile walk included alongside the Castle in one outing.\n\n**Note:** minimum group size of 4 to run — if fewer than 4 book, the tour may not operate. Confirm with the provider at booking.",
+  "highlights": [
+    "Palace of Holyroodhouse — the official Scottish residence of the British monarch; Mary Queen of Scots' apartments where David Rizzio was stabbed in 1566; the ruined nave of Holyrood Abbey in the palace grounds",
+    "Guided Royal Mile walk — Victoria Street, St Giles' Cathedral, Mercat Cross, the closes and courtyards of the Old Town, World's End Close, Canongate kirkyard, White Horse Close",
+    "Edinburgh Castle guided visit — Honours of Scotland (the Scottish Crown Jewels, the oldest in Britain), St Margaret's Chapel (the oldest surviving building in Edinburgh, c.1130), and the Great Hall",
+    "A single guided outing covering the full royal axis of Edinburgh's Old Town — from the castle rock at the top to the abbey gates at the foot",
+    "Live English-speaking guide from Clan Pascual Tours throughout; Holyroodhouse audio guide included",
+    "No transport needed — the entire tour is walkable within the Old Town"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Meeting Point — Outside the Scotch Whisky Experience",
+      "duration": "Start",
+      "description": "Meet the guide outside The Scotch Whisky Experience on the Royal Mile (beside the castle esplanade). The guide introduces the Royal Mile's physical logic — a volcanic ridge with the castle on one end and the abbey at the other, and 1km of medieval burgh between them — and the distinction between the Castlehill/Lawnmarket section (always inside Edinburgh's walls) and Canongate (always a separate royal burgh outside the walls, technically independent of Edinburgh until 1856)."
+    },
+    {
+      "order": 2,
+      "castle_name": "Edinburgh Castle",
+      "duration": "~50 minutes (guided)",
+      "description": "Guided visit to Edinburgh Castle — the volcanic rock fortress that has been the seat of Scottish royal power since the 12th century. The guided portion covers: St Margaret's Chapel (c.1130, the oldest surviving building in Edinburgh, built by David I for his mother, who died in the castle in 1093); the Great Hall (the main feasting hall of the medieval Scottish court, built by James IV around 1510); and the Honours of Scotland — the Scottish Crown Jewels, comprising the crown, sceptre, and sword of state, the oldest surviving royal regalia in Britain, and the Stone of Destiny (returned from Westminster Abbey in 1996 after 700 years)."
+    },
+    {
+      "order": 3,
+      "castle_name": "Royal Mile Walk",
+      "duration": "~1 hour (guided walk)",
+      "description": "Walk the Royal Mile from Castle Esplanade to Holyrood with the guide narrating the closes, wynds, and key buildings. Stops include: Victoria Street (the Victorian curved street built over the Cowgate ravine, supposedly the model for Diagon Alley); Greyfriars Kirkyard (optional brief stop — Greyfriars Bobby, the Covenanters' Prison, and the section that inspired Harry Potter names); St Giles' Cathedral (the High Kirk of Edinburgh, burial place of John Knox, with the Thistle Chapel — the most ornate small space in Scotland); Mercat Cross (where Scottish monarchs were proclaimed, royal proclamations still read today); John Knox House and the World's End Close (the original edge of the burgh); and White Horse Close (a 1623 coaching inn courtyard from which the Edinburgh-to-London coaches departed)."
+    },
+    {
+      "order": 4,
+      "castle_id": "palace-of-holyroodhouse",
+      "castle_name": "Palace of Holyroodhouse",
+      "duration": "~1.5 hours (self-guided with official audio guide)",
+      "description": "Self-guided visit to the Palace of Holyroodhouse — the official Scottish residence of the British monarch, built adjacent to the ruins of Holyrood Abbey (founded 1128 by David I). The palace visit (using the palace's own official audio guide, included) covers: the State Apartments used by the monarch during Edinburgh weeks; the Great Gallery (89 portraits of Scottish monarchs from Fergus I to James VI, painted by Jacob de Wet II in the 1680s, many of them invented since no contemporary portraits existed for pre-medieval monarchs); the historic apartments of Mary Queen of Scots, including the supper room where David Rizzio — her Italian secretary and likely father of James VI — was stabbed 56 times by a group of Protestant nobles including her husband Lord Darnley in 1566; and the ruined nave of Holyrood Abbey in the palace grounds, roofless since the 18th century."
+    }
+  ],
+  "included": [
+    "Live English-speaking guide for 5 hours",
+    "Edinburgh Castle entry ticket",
+    "Palace of Holyroodhouse entry ticket and official audio guide"
+  ],
+  "excluded": [
+    "Meals and drinks",
+    "Gratuities",
+    "Personal expenses"
+  ],
+  "meeting_point": "Outside The Scotch Whisky Experience, 354 Castlehill, Edinburgh EH1 2NE (top of the Royal Mile, immediately below the castle esplanade). **Minimum 4 guests required for this tour to run** — confirm with Clan Pascual Tours at booking if your group is smaller.",
+  "tips": [
+    "The Palace of Holyroodhouse is open year-round except during royal visits (typically late June to early July for the Royal Week and Holyrood Week) — check palace opening dates before booking",
+    "David Rizzio's murder site (Mary's supper room) is one of Edinburgh's most historically weighted spaces — the audio guide is detailed on the political context of 1566 and why Darnley conspired in the killing of someone the queen trusted",
+    "The Holyrood Abbey ruins in the palace grounds are included in the palace ticket — the roofless nave and the royal mausoleum where several Scottish monarchs are buried are easily missed if you follow the standard palace route without checking the grounds map",
+    "Minimum 4 guests are required for this tour to operate — if you are 1–3 people, confirm with the provider that sufficient bookings exist for your date"
+  ],
+  "faqs": [
+    {
+      "question": "Should I book this or the dedicated Edinburgh Castle tour?",
+      "answer": "Choose the [Edinburgh Castle: Guided History Tour with Entry Ticket](/tours/scotland/edinburgh-castle-guided-tour) (£42, 4.8★, 10,000+ reviews) if Edinburgh Castle is your primary goal — it gives more time at the castle in a smaller group with a higher-rated specialist guide. Choose this tour if you want the Palace of Holyroodhouse and a guided Royal Mile walk included alongside the castle in a single 5-hour outing."
+    },
+    {
+      "question": "What happened to David Rizzio at Holyroodhouse?",
+      "answer": "David Rizzio was Mary Queen of Scots' Italian private secretary and court musician — and, many historians believe, the biological father of James VI (later James I of England). On the night of March 9, 1566, a group of Protestant Scottish nobles burst into Mary's supper room while she was at dinner with Rizzio and dragged him into the adjacent chamber, where he was stabbed 56 times. The conspirators included Mary's own husband Henry Stuart, Lord Darnley, who believed (probably correctly) that Rizzio had fathered the child Mary was then carrying. The room in the palace where the murder occurred is part of the Mary Queen of Scots' apartments visited on the tour."
+    },
+    {
+      "question": "Is the Palace of Holyroodhouse open year-round?",
+      "answer": "The palace is open to visitors year-round except during royal visits — typically late June to early July (Holyrood Week / Royal Week) when the King is in residence. Exact closure dates vary; check the Royal Collection Trust website before booking to confirm the palace is accessible on your planned date."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-holyroodhouse-royal-mile-tour.webp",
+    "alt": "Palace of Holyroodhouse at the foot of the Royal Mile in Edinburgh, with the ruined Holyrood Abbey nave visible to the right and Arthur's Seat behind",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Palace of Holyroodhouse & the Royal Mile: Royal Edinburgh Walking Tour",
+    "description": "5-hour Edinburgh walking tour: Palace of Holyroodhouse (Mary Queen of Scots' apartments), guided Royal Mile walk, and Edinburgh Castle. Live guide, both entry tickets included. From $133 per person."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "vienna-kreuzenstein-liechtenstein-seegrotte",
+  "slug": "vienna-kreuzenstein-liechtenstein-seegrotte",
+  "name": "Kreuzenstein, Liechtenstein Castle & the Seegrotte Underground Lake: Day Trip from Vienna",
+  "tagline": "Four of Vienna's lesser-known castle and cave sites — a romantic neo-medieval keep, an underground lake, a Vienna Woods fortress, and a Baroque island palace — all in a flexible private day from Vienna",
+  "departure_country": "austria",
+  "departure_city": "Vienna",
+  "visited_countries": [
+    "austria"
+  ],
+  "duration_days": 1,
+  "duration_label": "10.5–12 hours",
+  "gyg_tour_id": "860342",
+  "gyg_url": "https://www.getyourguide.com/vienna-l7/vienna-day-trip-castles-around-vienna-underground-lake-t860342/",
+  "price_from": 216,
+  "currency": "USD",
+  "rating": 4.8,
+  "review_count": 42,
+  "languages": [
+    "English",
+    "Slovak",
+    "Czech"
+  ],
+  "max_group_size": 8,
+  "overview": "Vienna is surrounded by castle sites that most visitors never reach — because they lie in four different directions from the city and require a car. This private day trip from Vienna collects the most distinctive cluster: Kreuzenstein Castle (a neo-medieval keep north of Vienna, rebuilt from ruins for a Habsburg collector), the Seegrotte in Hinterbrühl (the world's largest underground lake, accessible by boat), Liechtenstein Castle in the Vienna Woods (an original medieval fortress above the Mödling gorge, distinct from the more famous Liechtenstein palace in Vienna itself), and Franzensburg in Laxenburg Park (a romantic island castle built by Emperor Franz I in 1798, now accessible by boat in summer and on foot in winter).\n\n**Critical note on what's included:** The $216 price covers **transport and driver only** — no entrance fees, no dinner. You choose which sites to enter on the day and pay those fees separately at each site. The driver/guide will advise which 2 of the 4 sites to prioritise based on season and your interests. The Marchfelderhof dinner stop is optional and at your own expense.\n\n**Seasonal access:**\n- Kreuzenstein Castle: exterior accessible year-round; interior tours generally closed November 1–April 1\n- Franzensburg: castle closed November 1–Easter (park walk and exterior free year-round; Illumina light festival November 15–January 12)\n- Liechtenstein Castle (Mödling): interior open Friday–Sunday October–March, more days April–September; closed Wednesdays\n- Seegrotte Hinterbrühl: open year-round (confirm hours at booking)\n\nFor a deeper, guided visit specifically to Kreuzenstein, see our [Vienna: Valtice, Lednice & Mikulov tour](/tours/austria/vienna-south-moravia-valtice-lednice-mikulov), which includes Kreuzenstein as its final stop on a South Moravia wine-region circuit.",
+  "highlights": [
+    "Kreuzenstein Castle — a 19th-century neo-medieval castle north of Vienna, rebuilt from ruins by Count Wilczek to house his collection of Gothic art and armour; used as a filming location including for 2009's Sherlock Holmes",
+    "Seegrotte Hinterbrühl — the world's largest underground lake, 6,000 square metres of water beneath the karst hillside, accessible by a 30-minute boat tour through flooded tunnels; used as a Nazi aircraft factory in WWII",
+    "Liechtenstein Castle in the Vienna Woods — a genuine medieval fortress (distinct from the Liechtenstein Palace in Vienna) above the Mödling gorge, with views over the Wienerwald; still owned by the House of Liechtenstein",
+    "Franzensburg in Laxenburg — a romantic island castle built in 1798 by Emperor Franz I on an artificial island in Laxenburg Park, accessible by rowboat in summer; the Illumina light festival runs November 15–January 12",
+    "Optional dinner at Marchfelderhof Restaurant — one of Austria's most celebrated traditional restaurants, reachable on the return route",
+    "Pickup from 10 hotel options across Vienna and Bratislava; private or small group"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Pickup in Vienna or Bratislava",
+      "duration": "Morning",
+      "description": "Pickup from one of 10 hotel options across Vienna and Bratislava. The guide introduces the day's route and helps you select which 2–3 sites to enter based on season and your preferences."
+    },
+    {
+      "order": 2,
+      "castle_name": "Kreuzenstein Castle",
+      "duration": "75 minutes (optional interior entry)",
+      "description": "Visit Kreuzenstein Castle north of Vienna — a 19th-century neo-medieval reconstruction by Count Johann Nepomuk Wilczek, who purchased the ruins of the original medieval castle in 1879 and spent decades rebuilding it as a home for his collection of Gothic art, armour, and medieval objects. The result is one of the finest examples of the Romantic medievalist revival in Austria: a towered castle on a hill above the Leiser Berge with period-furnished rooms and a genuine medieval atmosphere. Exterior access is free; interior guided tours are seasonal. **Interior tours generally closed November 1–April 1.** Entrance fee extra."
+    },
+    {
+      "order": 3,
+      "castle_name": "Seegrotte Hinterbrühl — Underground Lake",
+      "duration": "1 hour (optional entry)",
+      "description": "Visit the Seegrotte in Hinterbrühl — the world's largest underground lake, a former gypsum mine that flooded in 1912 and was subsequently developed as a visitor attraction. During the Second World War, the Nazis used the caverns (above the waterline) as a factory for the Heinkel He 162 jet aircraft, exploiting the site's concealment from Allied aerial reconnaissance. Today the 30-minute boat tour through 6,000 square metres of underground water is one of the most unusual visitor experiences in the Vienna region. Open year-round; entrance fee extra."
+    },
+    {
+      "order": 4,
+      "castle_name": "Liechtenstein Castle (Mödling / Vienna Woods)",
+      "duration": "75 minutes (optional interior entry)",
+      "description": "Visit Liechtenstein Castle in the Vienna Woods above Mödling — a genuine medieval fortress (12th-century origins, distinct from the Liechtenstein Palace in Vienna's 9th district), still owned by the House of Liechtenstein and perched above the Mödling gorge on the eastern edge of the Wienerwald. Beethoven walked the gorge paths when staying in Mödling; the views over the Vienna Basin are exceptional. Interior open Friday–Sunday October–March, more days April–September; closed Wednesdays. Entrance fee extra."
+    },
+    {
+      "order": 5,
+      "castle_name": "Franzensburg in Laxenburg Park",
+      "duration": "2 hours (optional entry)",
+      "description": "Visit Franzensburg — a romantic island castle built by Emperor Franz I of Austria in 1798 on an artificial island in the landscaped park at Laxenburg, south of Vienna. The castle is accessible by rowboat in summer or on foot when the water level permits in winter. In November–January, the Illumina light festival transforms the park with illuminated castle projections and light installations (November 15–January 12). The castle interior is closed November–Easter; the park and exterior are accessible year-round. Entrance fee extra."
+    },
+    {
+      "order": 6,
+      "castle_name": "Optional: Marchfelderhof Restaurant Dinner",
+      "duration": "2 hours (optional, own expense)",
+      "description": "Optional dinner stop at the Marchfelderhof Restaurant on the return route — one of Austria's most celebrated traditional restaurants, known for its elaborate seasonal Austrian cuisine and its collection of antiques and curiosities that line the interior. This stop is entirely voluntary and at your own expense."
+    }
+  ],
+  "included": [
+    "Private transport with driver/guide (English, Slovak, Czech) for 10.5–12 hours",
+    "Pickup from 10 Vienna/Bratislava hotel options",
+    "Driver assistance at each site"
+  ],
+  "excluded": [
+    "All entrance fees — Kreuzenstein, Seegrotte, Liechtenstein Castle (Mödling), and Franzensburg are all optional/extra; choose which 2–3 to enter on the day",
+    "Marchfelderhof dinner (optional, entirely own expense)",
+    "Meals and drinks",
+    "Gratuities"
+  ],
+  "meeting_point": "Hotel pickup from Vienna or Bratislava — confirm your hotel address from the 10 available pickup options at booking.",
+  "tips": [
+    "The $216 is transport-only — budget separately for the sites you want to enter; typical entrance fees range from €5–€18 per site",
+    "Ask the driver which 2 sites to prioritise based on your season: in winter (November–April) Kreuzenstein's interior is closed, the Franzensburg is closed, and Liechtenstein is Friday–Sunday only — the Seegrotte is the most reliably open year-round",
+    "Kreuzenstein Castle is also a stop on our [Vienna: South Moravia wine-region tour](/tours/austria/vienna-south-moravia-valtice-lednice-mikulov) — if you want a more focused self-guided Kreuzenstein visit as part of a Czech border crossing, see that tour",
+    "The Illumina light festival at Franzensburg (November 15–January 12) is one of the Vienna region's most atmospheric winter events — this tour is an efficient way to reach it without a car"
+  ],
+  "faqs": [
+    {
+      "question": "Are the castle entrance fees included?",
+      "answer": "No. The $216 price covers private transport and the driver/guide service for 10.5–12 hours. All entrance fees at Kreuzenstein, Seegrotte, Liechtenstein Castle (Mödling), and Franzensburg are paid separately on the day. The driver will advise which 2–3 sites to enter based on your interests and the season."
+    },
+    {
+      "question": "Which sites are open in winter?",
+      "answer": "Seegrotte Hinterbrühl is open year-round. Franzensburg Park is accessible year-round (castle interior closed November–Easter; Illumina light festival November 15–January 12 in the park). Kreuzenstein Castle interior tours are generally closed November 1–April 1 (exterior walkable). Liechtenstein Castle Mödling: Friday–Sunday October–March, more days April–September, closed Wednesdays. The driver will advise the best combination for your visit date."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/vienna-kreuzenstein-liechtenstein-seegrotte.webp",
+    "alt": "Kreuzenstein Castle perched on its forested hill north of Vienna, a neo-medieval 19th-century reconstruction rising above the Leiser Berge",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Kreuzenstein, Liechtenstein Castle & Seegrotte: Day Trip from Vienna",
+    "description": "Private day trip from Vienna to four castle and cave sites: Kreuzenstein Castle, Seegrotte underground lake, Liechtenstein Castle in the Vienna Woods, and Franzensburg. Transport only — choose your own entries on the day. From $216."
+  }
+}

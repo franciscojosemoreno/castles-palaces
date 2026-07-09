@@ -102,6 +102,21 @@
         "hever-castle",
         "leeds-castle"
       ]
+    },
+    {
+      "tour_id": "1128430",
+      "title": "Leeds Castle & Hever Castle: Tudor Kent Day Trip from London",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 167,
+      "rating": 4.2,
+      "reviews": 14,
+      "is_top_pick": false,
+      "covers_castles": [
+        "hever-castle",
+        "leeds-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/london-l55/london-leeds-castle-hever-castle-day-trip-t1128430/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

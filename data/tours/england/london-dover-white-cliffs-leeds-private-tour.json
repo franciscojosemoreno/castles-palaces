@@ -1,0 +1,104 @@
+{
+  "id": "london-dover-white-cliffs-leeds-private-tour",
+  "slug": "london-dover-white-cliffs-leeds-private-tour",
+  "name": "Dover Castle, White Cliffs & Leeds Castle: Private Day Tour from London",
+  "tagline": "England's most strategically important castle, the White Cliffs, and a bonus stop at Leeds — three Kent landmarks in a private vehicle, one day from London",
+  "departure_country": "england",
+  "departure_city": "London",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day",
+  "gyg_tour_id": "725290",
+  "gyg_url": "https://www.getyourguide.com/london-l55/london-dover-castle-white-cliffs-leeds-castle-private-tour-t725290/",
+  "price_from": 1339,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 1,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 7,
+  "overview": "**Price: $1,339 per private group of up to 7 people — not per person.** For a family or group of 5–7, this is $191–$268 per person. The price covers the private vehicle, guide, and all entry tickets.\n\nDover Castle is the most strategically significant military site in England — the point at which Britain is 33km from France, the site that has been fortified continuously for 2,000 years (Iron Age earthworks, Roman pharos, Norman keep, Napoleonic tunnels, WWII Secret Wartime Tunnels), and the hilltop whose underground tunnels coordinated Operation Dynamo — the Dunkirk evacuation of 338,000 Allied troops in May–June 1940. The castle's interior and underground WWII tunnels are the primary destination on this tour.\n\nThe White Cliffs of Dover are the coastal viewpoint adjacent to the castle — the 110-metre chalk cliffs above the Strait of Dover, managed by the National Trust, that are the first and last sight of England from the Channel crossing. The cliffs walk from the National Trust visitor centre provides the coastal views that the castle ramparts see from above.\n\nLeeds Castle (near Maidstone, 30 minutes west of Dover) is a bonus third stop on the return to London — the medieval island castle in the River Len that Henry VIII used as a royal residence. If your primary interest is Dover and the White Cliffs, Leeds is an enhancement for the return journey rather than a reason to book the tour independently.\n\nFor a tour focused on Hever Castle and Leeds Castle (Anne Boleyn + Tudor history) at a lower price in a standard shared coach, the [Leeds Castle & Hever Castle: Tudor Kent Day Trip from London](/tours/england/london-leeds-hever-castles-day-trip) covers those two sites with both entry tickets included at $167 per person.\n\n**Note:** 1 review as of July 2026 — insufficient for a reliable rating average.",
+  "highlights": [
+    "Dover Castle — 2,000 years of fortification history on a single hilltop: Iron Age earthworks, a Roman lighthouse, a Norman great tower (Great Tower of Dover, 1180s), Napoleonic tunnel networks, and the WWII Secret Wartime Tunnels used during Operation Dynamo",
+    "Secret Wartime Tunnels — the underground command centre beneath Dover Castle that coordinated the Dunkirk evacuation (Operation Dynamo, May–June 1940); now an English Heritage site with guided tunnel access",
+    "White Cliffs of Dover — the 110-metre chalk coastal cliffs above the Strait of Dover, managed by the National Trust; 2km clifftop walk with views to France on a clear day",
+    "Leeds Castle — the medieval island castle on the River Len near Maidstone; bonus third stop on the return to London",
+    "All entry tickets included — Dover Castle, White Cliffs (National Trust car park), and Leeds Castle",
+    "$1,339 per private group of up to 7 — exclusive vehicle and guide for the full day"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from London",
+      "duration": "Morning hotel pickup",
+      "description": "Hotel pickup in private vehicle (up to 7 guests). Drive from London to Dover via the M20/A20 motorway — approximately 1.5 hours to the Kent coast. The guide introduces Dover's strategic geography: the Strait of Dover is the Channel's narrowest point (33km), and control of the strait has defined British military and trade policy from the Roman conquest to the 20th century."
+    },
+    {
+      "order": 2,
+      "castle_id": "dover-castle",
+      "castle_name": "Dover Castle & White Cliffs",
+      "duration": "~4 hours (guided)",
+      "description": "Visit Dover Castle — the hilltop fortress above the Strait of Dover that has been fortified and refortified across 2,000 years of continuous military use. The visit covers: the Roman pharos (lighthouse) in the castle grounds, one of the tallest surviving Roman structures in Britain; the Norman Great Tower (built by Henry II in the 1180s, one of the finest surviving Norman keeps in England, with an interior restored to its 12th-century state); the Napoleonic tunnel network enlarged from a medieval system in the 1790s; and the WWII Secret Wartime Tunnels — the underground complex beneath the cliffs that served as Vice-Admiral Bertram Ramsay's headquarters during Operation Dynamo, the May–June 1940 evacuation of 338,226 Allied troops from Dunkirk beaches. The tunnel experience includes reconstructed wartime rooms and recorded sound environments. After the castle, walk the White Cliffs — the National Trust clifftop path (approximately 2km each way) along the chalk cliffs above the strait, with views to Cap Gris-Nez in France on clear days. All entry included."
+    },
+    {
+      "order": 3,
+      "castle_id": "leeds-castle",
+      "castle_name": "Leeds Castle",
+      "duration": "~2 hours (self-guided with guide available)",
+      "description": "Return stop at Leeds Castle near Maidstone — the medieval island castle on the River Len, approximately 30 minutes west of Dover on the A20 route back to London. Leeds Castle was used as a royal residence by a succession of English queens, including Catherine of Aragon during Henry VIII's reign. The castle was substantially restored by Lady Olive Baillie in the 20th century and is now managed as a hotel, conference, and events venue; visitor access covers the castle interior and 500-acre grounds. Entry included. (For a dedicated Leeds Castle visit combined with Hever Castle, see the [Leeds Castle & Hever Castle day trip from London](/tours/england/london-leeds-hever-castles-day-trip).)"
+    },
+    {
+      "order": 4,
+      "castle_name": "Return to London",
+      "duration": "Evening drop-off at hotel",
+      "description": "Return to London hotel. Drive via the M20 and M25, approximately 1–1.5 hours depending on traffic."
+    }
+  ],
+  "included": [
+    "Private vehicle transport from London hotel and return (maximum 7 guests)",
+    "English-speaking guide for the full day",
+    "Dover Castle entry ticket (including Secret Wartime Tunnels)",
+    "National Trust White Cliffs car park and access",
+    "Leeds Castle entry ticket"
+  ],
+  "excluded": [
+    "Meals and drinks",
+    "Gratuities"
+  ],
+  "meeting_point": "London hotel pickup — confirm your hotel address with the operator at booking.",
+  "tips": [
+    "The $1,339 is per private group of up to 7 people — for 7 guests this is $191 per person, competitive with shared tours that don't include entry tickets; for 1–3 people it is expensive and the shared Leeds/Hever coach tour is likely better value",
+    "The Secret Wartime Tunnels at Dover Castle are the most distinctive element of the visit — allow the full time allocated; the underground corridors, the reconstructed command rooms, and the sound environment give Operation Dynamo a spatial immediacy that no museum display replicates",
+    "The White Cliffs walk is 2km each way from the National Trust visitor centre — wear shoes suitable for a chalk clifftop path; the drop is sheer and unfenced in places; the clifftop path is the standard route, not the beach",
+    "1 review as of July 2026 — an extremely thin review history; the sites (Dover Castle, White Cliffs, Leeds Castle) are individually well-visited English Heritage and National Trust properties; the thin review count reflects the listing's age, not the quality of the destinations"
+  ],
+  "faqs": [
+    {
+      "question": "Is the price per person or per group?",
+      "answer": "Per private group of up to 7 people. The $1,339 is the total for the private vehicle, guide, and all entry tickets for up to 7 guests. For a group of 7, this is approximately $191 per person; for 5, approximately $268 per person."
+    },
+    {
+      "question": "What is Operation Dynamo?",
+      "answer": "Operation Dynamo was the Allied evacuation of the Dunkirk beachhead in northern France between May 26 and June 4, 1940 — the largest seaborne evacuation in military history. Vice-Admiral Bertram Ramsay coordinated the evacuation from the underground tunnels beneath Dover Castle, using a combination of Royal Navy destroyers and civilian 'little ships' to rescue 338,226 Allied troops from the beaches under German air and artillery fire. The operation saved the British Expeditionary Force and most of the French First Army from capture. The tunnels beneath Dover Castle where Ramsay planned the evacuation are now open to visitors as the Secret Wartime Tunnels experience."
+    },
+    {
+      "question": "How does this compare to the Leeds/Hever Castle day trip?",
+      "answer": "The [Leeds Castle & Hever Castle day trip](/tours/england/london-leeds-hever-castles-day-trip) ($167 per person) covers Hever Castle (Anne Boleyn's childhood home) and Leeds Castle in a standard shared coach with both entry tickets included — a Tudor history circuit at a lower price point. This private Dover tour ($1,339 per group) provides a private vehicle, guide, and three sites with Dover Castle and the White Cliffs as the primary destination; Leeds Castle is a bonus return stop rather than a primary focus. Choose this tour if Dover Castle is your priority; choose the Leeds/Hever tour if Tudor history and shared-tour pricing are the right fit."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/london-dover-white-cliffs-leeds-private-tour.webp",
+    "alt": "Dover Castle on the chalk cliffs above the Strait of Dover — England's most strategically important fortress, with the White Cliffs visible along the coastline",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Dover Castle, White Cliffs & Leeds Castle: Private Day Tour from London",
+    "description": "Private full-day tour from London to Dover Castle (WWII tunnels), the White Cliffs of Dover, and Leeds Castle. All entry tickets included. $1,339 per private group of up to 7. Live guide."
+  }
+}

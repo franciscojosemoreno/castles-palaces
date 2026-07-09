@@ -1,0 +1,108 @@
+{
+  "id": "brasov-cantacuzino-peles-bran-castles",
+  "slug": "brasov-cantacuzino-peles-bran-castles",
+  "name": "Cantacuzino Palace, Peleș & Bran Castle from Brașov",
+  "tagline": "The Netflix Wednesday filming location, Romania's most spectacular royal palace, and Dracula's Castle — three of Transylvania's most iconic sites in a single 8-hour circuit from Brașov",
+  "departure_country": "romania",
+  "departure_city": "Brașov",
+  "visited_countries": [
+    "romania"
+  ],
+  "duration_days": 1,
+  "duration_label": "8 hours",
+  "gyg_tour_id": "510079",
+  "gyg_url": "https://www.getyourguide.com/brasov-l6631/from-brasov-cantacuzino-peles-bran-castle-private-tour-t510079/",
+  "price_from": 92,
+  "currency": "USD",
+  "rating": 4.9,
+  "review_count": 24,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 8,
+  "overview": "Cantacuzino Palace in Bușteni is the building most people recognise from Netflix's Wednesday (2022) — the Nevermore Academy exterior used throughout Season 1, the dark neo-Romanian palace on the slope of the Bucegi Mountains that the production team chose over better-known Transylvanian sites because its silhouette and terrace architecture photographed more distinctly than Peleș or Bran. Built in 1911 for Prince Gheorghe Grigore Cantacuzino (Romania's wealthiest man at the time, known as \"Nababul\"), it is less visited than Peleș despite being 15 minutes down the Prahova valley, and worth the detour on architectural merit alone.\n\nThe circuit then continues to Peleș Castle in Sinaia — the 19th-century royal palace that is the most extravagant building in Romania and one of the finest examples of Neo-Renaissance architecture in Eastern Europe — and to Bran Castle, the fortified border fortress on the Transylvanian pass famously (if loosely) associated with Vlad the Impaler.\n\n**Important practical notes:**\n- **None of the three entry tickets are included** in the tour price; you pay separately at each site\n- **Peleș Castle tickets must be booked online in advance** — the palace does not sell walk-up tickets reliably; late bookings risk not getting in\n- **Peleș is closed Monday, Tuesday, and throughout all of November** — book on dates that avoid these closures\n\nThis tour departs from **Brașov** (not Bucharest). Visitors based in Bucharest should look at the [Bucharest: Peleș, Bran & Sinaia Day Trip](/tours/romania/bucharest-transylvania-castles), which covers the same Peleș/Bran combination from the capital. For a different Transylvanian route covering Corvin Castle, Sibiu, and Sighișoara, see the [Sibiu to Brașov: Dracula's Castle, Corvin & Bran](/tours/romania/sibiu-brasov-bran-dracula-castle) tour.",
+  "highlights": [
+    "Cantacuzino Palace (Bușteni) — the 1911 neo-Romanian palace used as Nevermore Academy in Netflix's Wednesday (2022); 'Nababul's' most extravagant private commission, less visited than Peleș despite being 15 minutes away in the Prahova valley",
+    "Peleș Castle (Sinaia) — King Carol I's royal summer palace (1883–1914), considered the finest Neo-Renaissance palace in Eastern Europe; 160 rooms, hand-carved wood ceilings, Murano glass, and Flemish tapestries; tickets must be booked online in advance",
+    "Bran Castle — the 14th-century border fortress on the Transylvanian pass associated by legend with Vlad the Impaler (Dracula), more accurately the mountain residence of Queen Marie of Romania in the 20th century",
+    "Local Brașov departure — no pre-dawn Bucharest start required; the circuit is accessible from Brașov, Sinaia, and Azuga as well as Brașov",
+    "Small group of maximum 8 guests; 8 hours with live English-speaking guide",
+    "Three of Romania's most photographed castle and palace sites in a single day"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from Brașov",
+      "duration": "Morning pickup",
+      "description": "Depart Brașov by minibus (maximum 8 guests) heading south down the Prahova Valley through the Bucegi Mountains. The valley road (DN1) passes through the resort towns of Predeal and Sinaia before reaching Bușteni — a 45-minute drive in light traffic."
+    },
+    {
+      "order": 2,
+      "castle_name": "Cantacuzino Palace, Bușteni",
+      "duration": "~1.5 hours",
+      "description": "Visit Cantacuzino Palace (also called Cantacuzino Castle) in Bușteni — built in 1911 for Prince Gheorghe Grigore Cantacuzino, president of the Conservative Party and Romania's wealthiest man at the turn of the 20th century. The palace was designed in the neo-Romanian style (a Romanian national romantic movement contemporary with Czech neo-Gothic and Austrian Jugendstil), combining Byzantine and Romanian vernacular motifs with a Beaux-Arts plan and an Austro-Hungarian sense of engineering. In 2022, the Netflix production team chose the palace as the exterior for Nevermore Academy in the Wednesday series — its dark stone façade, the steep Bucegi backdrop, and the theatrical entrance terrace read more distinctly on camera than either Peleș (too elegant) or Bran (too small). Entry ticket paid separately."
+    },
+    {
+      "order": 3,
+      "castle_id": "peles-castle",
+      "castle_name": "Peleș Castle, Sinaia",
+      "duration": "~2 hours",
+      "description": "Visit Peleș Castle — the summer palace of King Carol I of Romania, built between 1883 and 1914 in the resort town of Sinaia in the Prahova Valley. Peleș is the most elaborately decorated building in Romania and one of the finest Neo-Renaissance royal palaces built in the latter half of the 19th century anywhere in Europe. The interior of the main palace (160 rooms open to visitors on guided tours) contains: a weapons hall with an armory collection of extraordinary breadth; a Moorish reception room; a Florentine Renaissance dining room; a Turkish salon; Murano glass ceilings; hand-carved lime wood panelling covering entire rooms; and Flemish tapestries throughout the state apartments. The adjacent Pelișor Castle (the smaller palace built for Crown Prince Ferdinand and Princess Marie, 1899–1903) is a separate visit, also optional. **Peleș tickets must be booked online in advance — not reliably available at the gate. Peleș is closed Monday and Tuesday, and entirely throughout November.**"
+    },
+    {
+      "order": 4,
+      "castle_id": "bran-castle",
+      "castle_name": "Bran Castle",
+      "duration": "~1.5 hours",
+      "description": "Visit Bran Castle — the 14th-century Teutonic Knight and later Hungarian royal border fortress on the Bran Pass between Wallachia and Transylvania. The castle's association with Vlad the Impaler (Vlad III, Voivode of Wallachia, 1431–1476 — the historical basis for Bram Stoker's Dracula character) is tenuous: Vlad is documented to have been briefly imprisoned here in 1462, but the castle was never his residence or stronghold; he ruled from Târgoviște and Poenari. The castle's more solidly documented 20th-century history is as the mountain residence of Queen Marie of Romania, who renovated it extensively in the 1920s and is buried at the adjacent church. Entry ticket paid separately."
+    }
+  ],
+  "included": [
+    "Private minibus transport from Brașov and return (maximum 8 guests)",
+    "English-speaking guide for 8 hours"
+  ],
+  "excluded": [
+    "Cantacuzino Palace entry ticket (paid at gate)",
+    "Peleș Castle entry ticket — **must be booked online in advance; not reliably available at gate**",
+    "Bran Castle entry ticket (paid at gate)",
+    "Meals and drinks",
+    "Gratuities"
+  ],
+  "meeting_point": "Brașov — confirm exact pickup point with the operator at booking.",
+  "tips": [
+    "Book Peleș Castle tickets online before the tour date — the palace has shifted to a timed-ticket system and walk-up availability is unreliable especially in summer and weekends; your guide cannot get you in if the tickets are sold out on the day",
+    "Peleș is closed Monday, Tuesday, and for the entire month of November — plan your visit date specifically around these closures",
+    "Cantacuzino Palace in Bușteni is the Wednesday filming site — if you want specific shooting locations, the palace's exterior terrace and main entrance are the most recognisable; the Netflix production did not use the interior (sets were built in Bucharest and Romania's Buftea studios)",
+    "Bran Castle's Dracula connection is primarily a marketing asset — Vlad the Impaler was imprisoned here briefly in 1462 but never lived at Bran; his actual castles were Poenari (ruined, more remote) and Giurgiu. Bran is worth visiting for Queen Marie's apartments and the castle's mountain setting, not specifically for the Dracula legend"
+  ],
+  "faqs": [
+    {
+      "question": "Is this the same tour as the Bucharest Peleș/Bran day trip?",
+      "answer": "No — the [Bucharest: Peleș, Bran & Sinaia Day Trip](/tours/romania/bucharest-transylvania-castles) departs from Bucharest (about 120km south) and covers Peleș and Bran without Cantacuzino Palace. This tour departs from Brașov (45km north of Sinaia), adds Cantacuzino Palace as the first stop, and suits visitors already based in the Transylvanian region."
+    },
+    {
+      "question": "Was Cantacuzino Palace really used in Wednesday?",
+      "answer": "Yes — the exterior of Cantacuzino Palace in Bușteni was the primary filming location for the exterior of Nevermore Academy in the Netflix series Wednesday (2022). Interior scenes were filmed on sets built at Buftea studios near Bucharest. The production used several Romanian locations; Cantacuzino was chosen over Peleș and Bran because its darker neo-Romanian facade suited the show's visual tone more directly."
+    },
+    {
+      "question": "Why do I need to book Peleș tickets in advance?",
+      "answer": "Peleș Castle switched to a timed-ticket online booking system; walk-up tickets are available in limited numbers and sell out, particularly on weekends and in July-August. Your guide cannot override the booking system. Book Peleș tickets at the Peleș Castle official website (muzeulpeles.ro) for the specific date and time before your tour departs. Peleș is also closed Monday, Tuesday, and throughout November — check the schedule when booking the tour."
+    },
+    {
+      "question": "Was Vlad the Impaler actually at Bran Castle?",
+      "answer": "Briefly — Vlad III was imprisoned at Bran for a short period in 1462, documented in historical records. He was never based at Bran, never ruled from it, and the castle was not associated with his name until the 20th-century Dracula tourism industry linked Stoker's fictional character to Vlad's historical reputation. Vlad's actual fortresses were Poenari Castle (now ruined ruins on a cliff above the Argeș River) and his Wallachian capitals at Târgoviște and Bucharest. Bran Castle is historically more significant as the restored mountain residence of Queen Marie of Romania (1920s)."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/brasov-cantacuzino-peles-bran-castles.webp",
+    "alt": "Cantacuzino Palace in Bușteni, Romania — the 1911 neo-Romanian palace used as Nevermore Academy in Netflix's Wednesday, set against the Bucegi Mountains",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Cantacuzino Palace, Peleș & Bran Castle from Brașov",
+    "description": "8-hour day trip from Brașov to Cantacuzino Palace (Netflix Wednesday filming location), Peleș Castle, and Bran Castle. Live guide, max 8. Entry tickets not included — book Peleș online in advance. From $92."
+  }
+}

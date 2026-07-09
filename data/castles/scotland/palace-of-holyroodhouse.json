@@ -100,6 +100,21 @@
       "covers_castles": [
         "palace-of-holyroodhouse"
       ]
+    },
+    {
+      "tour_id": "1189554",
+      "title": "Palace of Holyroodhouse & the Royal Mile: Royal Edinburgh Walking Tour",
+      "type": "guided_tour",
+      "duration": "5 hours",
+      "price_from": 133,
+      "rating": 4.4,
+      "reviews": 5,
+      "is_top_pick": false,
+      "covers_castles": [
+        "palace-of-holyroodhouse",
+        "edinburgh-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/royal-tour-edinburgh-castle-holyrood-palace-and-royal-mile-t1189554/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true
