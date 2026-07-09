@@ -1,0 +1,104 @@
+{
+  "id": "osborne",
+  "name": "Osborne",
+  "local_name": "Osborne House",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 74,
+  "annual_visitors": 220000,
+  "country": "england",
+  "region": "Isle of Wight",
+  "nearest_city": "East Cowes, Isle of Wight",
+  "address": "Osborne, East Cowes, Isle of Wight PO32 6JX, United Kingdom",
+  "lat": 50.7585,
+  "lng": -1.2855,
+  "unesco": false,
+  "year_built": 1845,
+  "architectural_style": "Italianate seaside palace built 1845–1851 as the private retreat of Queen Victoria and Prince Albert; designed by Albert in close collaboration with architect and builder Thomas Cubitt, drawing on the Italianate villa tradition of the north Italian lakes and Genoa, with two principal campanile towers, arcaded terraces, and an Italianate garden descending toward the Solent; the house includes the Durbar Room, added in 1890–1891 to house Victoria's Indian collection in the Mughal decorative style designed by Lockwood Kipling (father of Rudyard) and Bhai Ram Singh; the Swiss Cottage, a full-scale Norwegian log structure in the grounds built 1853–1854 as a domestic education facility for the royal children, is a separate visitor attraction; managed by English Heritage",
+  "opening_hours": {
+    "monday": "10:00–18:00",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Open April–September daily. October reduced hours; closed November–March except Swiss Cottage."
+  },
+  "price_adult": 26,
+  "price_child": 16,
+  "booking_required": false,
+  "official_tickets_url": "https://www.english-heritage.org.uk/visit/places/osborne/",
+  "visit_duration": "3–4 hours",
+  "best_season": "May to September; summer light on the Italianate gardens is exceptional",
+  "accessibility": "The walled garden and Swiss Cottage area are largely level and accessible. The main house state rooms are reached by steps; a lift is available for most upper-floor rooms. The Durbar Room is fully accessible. Electric buggies available for those unable to walk long distances around the estate. Contact English Heritage before visiting for detailed access planning.",
+  "booking_advance_days": 0,
+  "tagline": "Where Queen Victoria died — Osborne House on the Isle of Wight was the private seaside retreat that Victoria and Albert built for themselves in 1845, and the place where she spent her final hours in January 1901, with the Durbar Room, the Swiss Cottage, and Albert's rooms left largely as he left them",
+  "highlights": [
+    "Queen Victoria died at Osborne House on 22 January 1901, surrounded by her family — the end of a reign of 63 years was not at Windsor or Buckingham Palace but at the Solent-facing seaside house she had shared with Prince Albert, making it the most significant site in the story of Victorian Britain's end as much as its middle",
+    "The Swiss Cottage is a full-scale Norwegian log building in the grounds, built 1853–1854 as a domestic education facility where the royal children were taught cooking, gardening, and housekeeping — each child had a garden plot, and Victoria and Albert inspected their produce and domestic progress on visits; it is one of the most unusual features of any English royal estate",
+    "The Durbar Room, added in 1890–1891, was designed by Lockwood Kipling (father of Rudyard) and Bhai Ram Singh in an elaborately decorative Mughal style to house Victoria's Indian collection as Empress of India — a room whose design, a few hundred yards from the Solent, represents the full reach of the Victorian imperial imagination",
+    "Prince Albert was directly involved in designing the house with Thomas Cubitt — the Italianate style, the campanile towers, the terrace gardens, and the interior planning all reflect Albert's aesthetic convictions, making Osborne one of the most personal architectural statements of any British royal consort",
+    "Albert's rooms at Osborne were kept by Victoria after his death in 1861 largely as he left them — his writing desk, personal items, and the physical organisation of his private spaces were preserved for the remaining 40 years of her reign as a form of sustained mourning that shaped everything about how she ruled"
+  ],
+  "description": "Prince Albert designed Osborne House. That statement overstates the technical precision a little — Thomas Cubitt, the master builder whose firm was transforming mid-Victorian London, supplied the professional architectural expertise — but Albert's involvement was direct and sustained enough that the house reads as his vision. The Italianate style he chose was deliberate: he and Victoria had taken their Italian journey in the mid-1840s, and the campanile towers, the arcaded terraces, the logical geometry of the garden descending toward the Solent, all reflect a specific decision to make their private retreat feel like something transplanted from the northern Italian lake district to the English coast. The result is simultaneously improbable and completely convincing — a villa on the Isle of Wight that reads as exactly what it is: a wealthy couple's personal house, not a state palace.\n\nVictoria and Albert purchased the Osborne estate in 1845 from Lady Isabella Blatchford. The existing house was too small; Cubitt demolished it and built the current structure in two phases, completing the main block by 1848 and the wing containing the nurseries and servants' quarters by 1851. The total cost was approximately £200,000 — paid by Victoria and Albert from their private funds, not from public money — a fact that reflects both their considerable personal wealth and their commitment to the idea that Osborne was theirs specifically, not the state's. This distinction mattered to them. The formal palaces — Buckingham Palace, Windsor Castle — came with ceremonial obligations and constant public and political presence. Osborne was where they could be a family.\n\nThe house's most unusual feature, by common consensus, is not in the main building at all. The Swiss Cottage, a full-scale Norwegian log structure built in the grounds in 1853–1854, was commissioned specifically as a domestic education facility for the royal children. Each of the nine children was assigned a garden plot on the estate; they were expected to grow vegetables, tend them, and have their produce inspected during their parents' visits. Inside the Swiss Cottage, the children were taught cooking in a fully equipped kitchen, and the house contains a small museum of natural history specimens — shells, minerals, insects — that the children collected and catalogued. The pedagogical philosophy was specific: Victoria and Albert wanted their children to understand practical domestic work, not merely to observe it. For an institution used to hereditary privilege managing every domestic task through servants, the Swiss Cottage represents a genuine educational vision about how royal children should understand the material basis of their comfortable lives.\n\nAlbert died at Windsor Castle on 14 December 1861, at the age of 42. The cause was typhoid fever, or possibly stomach cancer — the diagnosis was unclear at the time and remains disputed. Victoria's grief was extreme and lifelong: she wore black for the remaining 40 years of her life, kept Albert's rooms at all her residences largely as he had left them, and had a cast of his hand placed beside her in bed each night. At Osborne specifically, the arrangement of Albert's private rooms — his writing desk, the photographs on the walls, the position of his furniture — was preserved across the four decades of her widowhood as a sustained act of mourning so thorough it verges on the clinical. Visiting these rooms today, with the household objects and the clear evidence of deliberate preservation, is one of the more genuinely affecting experiences available in any English historic house.\n\nThe Durbar Room is the other unmissable space. Added in 1890–1891, when Victoria had been Empress of India since 1876, it was designed by Lockwood Kipling — father of Rudyard, director of the Lahore Museum, and a man with deep professional knowledge of Mughal and Rajput decorative traditions — working with the craftsman Bhai Ram Singh. The room is an extraordinary statement of imperial self-presentation: elaborate plasterwork in Mughal patterns, exotic hardwoods, a specific vocabulary of Indian decorative reference deployed in a reception room on the Isle of Wight. It was built to display Victoria's Indian collection and to function as a banqueting room for formal occasions. That a queen who never visited India had the Durbar Room designed for her private house by an expert in Lahore decorative arts tells you a great deal about the confident reach of the late Victorian imperial imagination.\n\nVictoria died at Osborne on 22 January 1901, in the room where she had spent her last illness, surrounded by her children and grandchildren including Kaiser Wilhelm II of Germany. The end of the longest reign in British history at that point was not at Windsor or Buckingham Palace but at the private seaside house she and Albert had built together 56 years earlier. After her death, the new king Edward VII — who had not shared his mother's attachment to Osborne — gave the house and most of the estate to the nation. The state rooms were opened to the public; the walled garden, Swiss Cottage, and private beach were added to the visitor circuit over the following decades.\n\nThe GYG admission ticket (t193712, from €26) covers the main house state rooms including the Durbar Room and the private apartments, the Swiss Cottage, the Victorian walled garden, and the wider estate grounds including the path to the private royal beach. English Heritage manages the site. The Isle of Wight is reached by ferry from Portsmouth, Southampton, or Lymington; crossing times range from 10 to 45 minutes depending on the route and operator. East Cowes, the closest terminal to Osborne, is served by Red Funnel fast catamaran from Southampton Town Quay (approximately 25 minutes). The house is approximately 1.5 kilometres from the East Cowes ferry terminal.",
+  "history": "Osborne House was built 1845–1851 for Queen Victoria and Prince Albert on the Isle of Wight, designed by Albert in collaboration with builder Thomas Cubitt in an Italianate style. The Swiss Cottage in the grounds was added 1853–1854 as a domestic education facility for the royal children. The Durbar Room was added in 1890–1891, designed by Lockwood Kipling and Bhai Ram Singh for Victoria's Indian collection in an elaborate Mughal decorative style. Prince Albert died in 1861; Victoria preserved his rooms at Osborne largely untouched for the remaining 40 years of her reign. Victoria died at Osborne on 22 January 1901. Edward VII gave the house to the nation after her death; English Heritage now manages it as a visitor attraction.",
+  "how_to_visit": "**Getting there:** By ferry from Southampton to East Cowes (Red Funnel fast catamaran, approximately 25 minutes), then approximately 1.5 km walk or taxi to Osborne. From Portsmouth Harbour to Fishbourne (Wightlink, approximately 45 minutes), then approximately 15 km by road to Osborne. By ferry from Lymington to Yarmouth (approximately 40 minutes), then approximately 25 km east to Osborne.\n\n**Tickets:** GYG admission ticket (t193712, from €26) covers house, Swiss Cottage, walled garden, and grounds. English Heritage members enter free.\n\n**Visit length:** 3–4 hours for a thorough visit including Swiss Cottage and gardens. Allow more time in summer when the gardens are at their best.\n\n**Combine with:** Osborne is geographically isolated on the Isle of Wight — no other castle on this site is a same-day complement. Carisbrooke Castle (Isle of Wight, not currently published on this site) is the most logical island addition.",
+  "faqs": [
+    {
+      "question": "Why did Victoria and Albert build a private house rather than use an existing royal palace?",
+      "answer": "Victoria and Albert wanted a private family retreat away from the ceremonial obligations and constant public presence that attached to Buckingham Palace and Windsor Castle. Osborne was funded entirely from their personal resources (approximately £200,000, not public money), and was conceived as a house where they could be a family rather than a court. Albert designed it specifically in an Italianate style he found aesthetically and emotionally resonant, making it a personal architectural statement rather than a state commission."
+    },
+    {
+      "question": "What is the Durbar Room and why is it at Osborne?",
+      "answer": "The Durbar Room was added to Osborne in 1890–1891, designed by Lockwood Kipling (father of Rudyard Kipling) and craftsman Bhai Ram Singh in an elaborate Mughal decorative style. Victoria commissioned it to display her Indian collection and to function as a formal reception room reflecting her role as Empress of India (declared 1876). It represents the Victorian imperial imagination at its most confident: an expert-designed Mughal interior on the Isle of Wight for a queen who never visited India."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/osborne.webp",
+    "alt": "Osborne House on the Isle of Wight — Queen Victoria and Prince Albert's Italianate seaside retreat, where Victoria died in 1901, with campanile towers and terraced gardens facing the Solent",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/osborne.webp",
+  "instagram_tag": "#osbornehouse",
+  "meta_title": "Osborne House, Isle of Wight: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Osborne House on the Isle of Wight — Queen Victoria and Prince Albert's Italianate private seaside retreat, where Victoria died in 1901; highlights include the Durbar Room, Swiss Cottage, and Albert's preserved private rooms.",
+  "tags": [
+    "england",
+    "isle-of-wight",
+    "victoria",
+    "albert",
+    "royal",
+    "english-heritage",
+    "italianate",
+    "victorian"
+  ],
+  "last_updated": "2026-07-08",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "213567",
+  "gyg_direct_link_override": true,
+  "gyg_search_query": "Osborne House Isle of Wight admission ticket",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "193712",
+      "title": "Osborne: Admission Ticket",
+      "type": "entry_ticket",
+      "duration": "3–4 hours",
+      "price_from": 26,
+      "rating": 4.6,
+      "reviews": 1200,
+      "is_top_pick": true,
+      "covers_castles": [
+        "osborne"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/east-cowes-l213567/isle-of-wight-osborne-admission-ticket-t193712/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    }
+  ]
+}

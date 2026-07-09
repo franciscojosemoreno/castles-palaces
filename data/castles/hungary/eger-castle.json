@@ -73,7 +73,9 @@
   "routes": [
     "danube-palaces-route"
   ],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "holloko-castle"
+  ],
   "gyg_location_id": "1391",
   "gyg_search_query": "Eger Castle Hungary tour wine tasting",
   "gyg_widget_type": "activities",

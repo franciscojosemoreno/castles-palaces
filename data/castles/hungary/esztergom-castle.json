@@ -71,10 +71,19 @@
   "instagram_tag": "#esztergomcastle",
   "meta_title": "Esztergom Castle, Hungary — Birthplace of King Stephen & First Royal Capital",
   "meta_description": "Visit Esztergom Castle on the Danube Bend — Hungary's first royal capital, birthplace of King Stephen I, with Romanesque palace remains and stunning basilica views.",
-  "tags": ["romanesque", "hungarian-castle", "danube-bend", "medieval", "royal-capital"],
+  "tags": [
+    "romanesque",
+    "hungarian-castle",
+    "danube-bend",
+    "medieval",
+    "royal-capital"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["visegrad-royal-palace"],
+  "nearby_castles": [
+    "visegrad-royal-palace",
+    "visegrad-castle"
+  ],
   "gyg_location_id": "1567",
   "gyg_search_query": "Esztergom castle Danube Bend tour Budapest",
   "gyg_widget_type": "activities",
@@ -88,7 +97,9 @@
       "price_from": 85,
       "rating": 4.7,
       "reviews": 195,
-      "covers_castles": ["esztergom-castle"]
+      "covers_castles": [
+        "esztergom-castle"
+      ]
     },
     {
       "tour_id": "817658",
@@ -98,7 +109,9 @@
       "price_from": 120,
       "rating": 4.8,
       "reviews": 310,
-      "covers_castles": ["esztergom-castle"]
+      "covers_castles": [
+        "esztergom-castle"
+      ]
     },
     {
       "tour_id": "759",
@@ -108,7 +121,9 @@
       "price_from": 55,
       "rating": 4.6,
       "reviews": 480,
-      "covers_castles": ["esztergom-castle"]
+      "covers_castles": [
+        "esztergom-castle"
+      ]
     }
   ]
 }
