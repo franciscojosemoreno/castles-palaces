@@ -24,7 +24,7 @@
     "friday": "11:00–17:00",
     "saturday": "11:00–17:00",
     "sunday": "11:00–17:00",
-    "seasonal_note": "Open approximately mid-May to mid-September only (closed the rest of the year). The GYG ticket (t1364955) covers garden entry only — the palace interior is not open to the public as it is a working royal summer residence. Note: GYG shows a 5.0 provider rating with no verified customer review count, so no star rating is displayed on this listing. Confirm exact seasonal opening dates at sollidensslott.se before visiting."
+    "seasonal_note": "Open approximately mid-May to mid-September only (closed the rest of the year). Confirm exact seasonal opening dates at sollidensslott.se before visiting."
   },
   "price_adult": 15,
   "price_child": 7,
@@ -67,10 +67,21 @@
   "instagram_tag": "#sollidenpalace",
   "meta_title": "Solliden Royal Palace, Öland: Garden Tickets & Guide 2026",
   "meta_description": "Visit Solliden Royal Palace on Öland — the Swedish royal family's Italian-style summer residence, with English, Dutch, and terraced Italian gardens open seasonally. Garden tickets from $18.",
-  "tags": ["royal-palace", "sweden", "oland", "gardens", "italian-style", "scandinavian-royalty", "borgholm", "baltic"],
+  "tags": [
+    "royal-palace",
+    "sweden",
+    "oland",
+    "gardens",
+    "italian-style",
+    "scandinavian-royalty",
+    "borgholm",
+    "baltic"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["kalmar-castle"],
+  "nearby_castles": [
+    "kalmar-castle"
+  ],
   "gyg_location_id": "150948",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Solliden Royal Palace Borgholm Öland garden entry ticket",
@@ -86,7 +97,9 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["solliden-royal-palace"],
+      "covers_castles": [
+        "solliden-royal-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/borgholm-l150948/solliden-royal-palace-gardens-entry-ticket-t1364955/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

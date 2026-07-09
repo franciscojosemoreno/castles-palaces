@@ -24,7 +24,7 @@
     "friday": "09:30–16:30",
     "saturday": "09:30–16:30",
     "sunday": "11:00–16:30",
-    "seasonal_note": "The GYG ticket (t820082) covers entry to the museum and castle. Rating of 4.9 across 9 reviews — Top Rated. Closed on some Scottish public holidays; confirm at theblackwatch.co.uk. The museum contains material of significant military and historical interest; allow at least 1.5–2 hours for a thorough visit."
+    "seasonal_note": "Rating of 4.9 across 9 reviews — Top Rated."
   },
   "price_adult": 10,
   "price_child": 5,
@@ -67,10 +67,23 @@
   "instagram_tag": "#blackwatchcastle",
   "meta_title": "Black Watch Castle & Museum, Perth: Tickets & Guide 2026",
   "meta_description": "Visit the Black Watch Castle and Museum in Perth — the regimental museum of Scotland's oldest Highland regiment, with Victoria Crosses, battle honours from 1739 to Afghanistan, and a 4.9-star Top Rated GYG rating.",
-  "tags": ["military-museum", "highland-regiment", "scotland", "perth", "black-watch", "regimental-history", "victorian", "jacobite"],
+  "tags": [
+    "military-museum",
+    "highland-regiment",
+    "scotland",
+    "perth",
+    "black-watch",
+    "regimental-history",
+    "victorian",
+    "jacobite"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["stirling-castle", "doune-castle", "glamis-castle"],
+  "nearby_castles": [
+    "stirling-castle",
+    "doune-castle",
+    "glamis-castle"
+  ],
   "gyg_location_id": "101355",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Black Watch Castle Museum Perth entry ticket",
@@ -86,7 +99,9 @@
       "rating": 4.9,
       "reviews": 9,
       "is_top_pick": true,
-      "covers_castles": ["black-watch-castle"],
+      "covers_castles": [
+        "black-watch-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/perth-scotland-l101355/perth-the-black-watch-castle-and-museum-entry-ticket-t820082/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

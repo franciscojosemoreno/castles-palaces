@@ -24,7 +24,7 @@
     "friday": "09:00–18:00",
     "saturday": "10:00–18:00",
     "sunday": "10:00–18:00",
-    "seasonal_note": "Closed Mondays. The GYG entry ticket (t880913) covers access to the castle. Hours may vary seasonally; confirm at slezskoostravskyhrad.cz. The castle is a short distance from Ostrava city centre and can be combined with a visit to Lower Vítkovice (the decommissioned ironworks complex, one of the best-preserved examples of 19th-century industrial heritage in Central Europe)."
+    "seasonal_note": "Closed Mondays."
   },
   "price_adult": 6,
   "price_child": 3,
@@ -67,7 +67,16 @@
   "instagram_tag": "#ostravahrad",
   "meta_title": "Silesian Ostrava Castle: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Silesian Ostrava Castle — the medieval border fortress at the Silesia-Moravia boundary, restored from industrial-era ruin, best combined with Ostrava's Lower Vítkovice industrial heritage complex.",
-  "tags": ["silesia", "moravia", "czech-republic", "ostrava", "medieval", "border-castle", "industrial-heritage", "restoration"],
+  "tags": [
+    "silesia",
+    "moravia",
+    "czech-republic",
+    "ostrava",
+    "medieval",
+    "border-castle",
+    "industrial-heritage",
+    "restoration"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
   "nearby_castles": [],
@@ -86,7 +95,9 @@
       "rating": 4.4,
       "reviews": 6,
       "is_top_pick": true,
-      "covers_castles": ["silesian-ostrava-castle"],
+      "covers_castles": [
+        "silesian-ostrava-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/ostrava-l87642/ostrava-entrance-to-silesian-ostrava-castle-t880913/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

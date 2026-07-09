@@ -24,7 +24,7 @@
     "friday": "By appointment",
     "saturday": "By appointment",
     "sunday": "By appointment",
-    "seasonal_note": "Visits are by appointment and led by the Marquis. The GYG tour (t1275799, from $68) covers the castle visit and wine tasting on a 2-hour guided experience. This is a working private estate — advance booking is essential. Confirm availability through the GYG listing. The castle is in Tagliolo Monferrato, in the Monferrato hills of Piedmont (Alessandria province), best reached by car."
+    "seasonal_note": "Visits are by appointment and led by the Marquis. This is a working private estate — advance booking is essential."
   },
   "price_adult": 68,
   "price_child": 35,
@@ -67,7 +67,17 @@
   "instagram_tag": "#casteltagliolomonferrato",
   "meta_title": "Tagliolo Monferrato Castle: Castle Visit & Wine Tasting 2026",
   "meta_description": "Visit Tagliolo Monferrato Castle in Piedmont — a Marquis-led tour of a medieval fortress in the UNESCO Monferrato wine landscape, with cellar visit and tasting inside one of Italy's most personal castle-estate experiences.",
-  "tags": ["UNESCO", "piedmont", "monferrato", "italy", "wine-estate", "marquis-led", "medieval", "dolcetto-di-ovada", "noble-estate"],
+  "tags": [
+    "UNESCO",
+    "piedmont",
+    "monferrato",
+    "italy",
+    "wine-estate",
+    "marquis-led",
+    "medieval",
+    "dolcetto-di-ovada",
+    "noble-estate"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
   "nearby_castles": [],
@@ -86,7 +96,9 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["monferrato-castle"],
+      "covers_castles": [
+        "monferrato-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/italy-l169011/visit-and-tasting-at-tagliolo-monferrato-castle-t1275799/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

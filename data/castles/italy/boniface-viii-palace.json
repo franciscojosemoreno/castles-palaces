@@ -24,7 +24,7 @@
     "friday": "09:00–13:00 / 15:00–18:00",
     "saturday": "09:00–13:00 / 15:00–18:00",
     "sunday": "09:00–13:00 / 15:00–18:00",
-    "seasonal_note": "Hours may vary seasonally; confirm at comune.anagni.fr.it or local tourist offices before visiting. The GYG entry ticket (t537015, from $8) provides access to the palace interior. Anagni is approximately 65 km southeast of Rome; the most direct access is by regional train from Roma Termini to Anagni station (approximately 1 hour), then a 15-minute walk or bus into the historic centre. The Palazzo Bonifacio VIII and Anagni's cathedral (with its frescoed crypt) are both in the hilltop historic centre and can be combined in a single morning."
+    "seasonal_note": ""
   },
   "price_adult": 8,
   "price_child": 4,
@@ -67,10 +67,21 @@
   "instagram_tag": "#anagni",
   "meta_title": "Boniface VIII Palace, Anagni: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Boniface VIII Palace in Anagni — the Gothic Lazio palace where Pope Boniface VIII was seized in 1303 by French agents, triggering the Avignon papacy and one of the great medieval church crises.",
-  "tags": ["italy", "lazio", "papal", "gothic", "medieval", "anagni", "boniface-viii", "avignon-papacy"],
+  "tags": [
+    "italy",
+    "lazio",
+    "papal",
+    "gothic",
+    "medieval",
+    "anagni",
+    "boniface-viii",
+    "avignon-papacy"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["castel-gandolfo"],
+  "nearby_castles": [
+    "castel-gandolfo"
+  ],
   "gyg_location_id": "153518",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Anagni Boniface VIII Palace entry ticket",
@@ -86,7 +97,9 @@
       "rating": 3.4,
       "reviews": 3,
       "is_top_pick": true,
-      "covers_castles": ["boniface-viii-palace"],
+      "covers_castles": [
+        "boniface-viii-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/anagni-l153518/anagni-palazzo-bonifacio-viii-entry-ticket-t537015/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

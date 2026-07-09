@@ -11,7 +11,7 @@
   "region": "Lisbon",
   "nearest_city": "Sintra",
   "address": "Largo Rainha Dona Amélia, 2710-616 Sintra, Portugal",
-  "lat": 38.7970,
+  "lat": 38.797,
   "lng": -9.3897,
   "unesco": true,
   "year_built": 1415,
@@ -24,7 +24,7 @@
     "friday": "09:00–18:30",
     "saturday": "09:00–18:30",
     "sunday": "09:00–18:30",
-    "seasonal_note": "Closed Mondays. Last entry at 18:00. The GYG skip-the-line ticket (t124859) avoids the queues at the entrance, which can be substantial in peak season — the palace is in the centre of Sintra town and receives high visitor numbers from April to October. Certified by GetYourGuide. Optional audio guide available. The palace is within walking distance of Pena Palace and Castle of the Moors, though those hill sites require a tuk-tuk or bus to reach."
+    "seasonal_note": "Closed Mondays. Last entry at 18:00."
   },
   "price_adult": 15,
   "price_child": 7,
@@ -67,10 +67,22 @@
   "instagram_tag": "#sintranationalpalace",
   "meta_title": "Sintra National Palace: Skip-the-Line Tickets & Guide 2026",
   "meta_description": "Visit the Sintra National Palace — the best-preserved medieval royal palace in Portugal, with twin conical chimneys, Mudéjar tiles, and five centuries of continuous royal history in Sintra's UNESCO historic centre.",
-  "tags": ["UNESCO", "portugal", "sintra", "medieval", "royal-palace", "manueline", "mudejar", "skip-the-line"],
+  "tags": [
+    "UNESCO",
+    "portugal",
+    "sintra",
+    "medieval",
+    "royal-palace",
+    "manueline",
+    "mudejar",
+    "skip-the-line"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["pena-palace", "castle-of-the-moors"],
+  "nearby_castles": [
+    "pena-palace",
+    "castle-of-the-moors"
+  ],
   "gyg_location_id": "99",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Sintra National Palace skip the line ticket",
@@ -86,7 +98,9 @@
       "rating": 4.3,
       "reviews": 1251,
       "is_top_pick": true,
-      "covers_castles": ["sintra-national-palace"],
+      "covers_castles": [
+        "sintra-national-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/sintra-l99/sintra-national-palace-and-gardens-skip-the-line-ticket-t124859/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

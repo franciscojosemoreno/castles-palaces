@@ -24,7 +24,7 @@
     "friday": "10:00–18:00",
     "saturday": "10:00–18:00",
     "sunday": "10:00–18:00",
-    "seasonal_note": "Closed Mondays. Last entry at 17:30. The GYG e-ticket (t513694, from $24) is valid for 365 days from purchase and includes an optional city audio guide. The palace is in the Ajuda quarter of western Lisbon, a 20-minute tram ride or short taxi from the city centre. Confirm current hours at palacioajuda.gov.pt."
+    "seasonal_note": "Closed Mondays. Last entry at 17:30."
   },
   "price_adult": 8,
   "price_child": 4,
@@ -67,10 +67,22 @@
   "instagram_tag": "#palacioajuda",
   "meta_title": "National Palace of Ajuda, Lisbon: Tickets & Visitor Guide 2026",
   "meta_description": "Visit the National Palace of Ajuda in Lisbon — the unfinished Neoclassical royal palace begun after the 1755 earthquake, interrupted by the Brazilian exile, housing the National Treasury and still used for Portuguese state ceremonies.",
-  "tags": ["portugal", "lisbon", "royal-palace", "braganza", "neoclassical", "national-treasury", "unfinished", "state-ceremonies"],
+  "tags": [
+    "portugal",
+    "lisbon",
+    "royal-palace",
+    "braganza",
+    "neoclassical",
+    "national-treasury",
+    "unfinished",
+    "state-ceremonies"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["castelo-sao-jorge", "queluz-palace"],
+  "nearby_castles": [
+    "castelo-sao-jorge",
+    "queluz-palace"
+  ],
   "gyg_location_id": "42",
   "gyg_direct_link_override": true,
   "gyg_search_query": "National Palace of Ajuda Lisbon e-ticket entry",
@@ -86,7 +98,9 @@
       "rating": 4.2,
       "reviews": 92,
       "is_top_pick": true,
-      "covers_castles": ["national-palace-of-ajuda"],
+      "covers_castles": [
+        "national-palace-of-ajuda"
+      ],
       "booking_url_override": "https://www.getyourguide.com/lisbon-l42/lisbon-e-ticket-to-national-palace-of-ajuda-t513694/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

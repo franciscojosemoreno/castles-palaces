@@ -24,7 +24,7 @@
     "friday": "09:30–17:00",
     "saturday": "09:30–17:00",
     "sunday": "09:30–17:00",
-    "seasonal_note": "Closed Mondays. Hours extend in summer (May–September: 10:00–19:00). The GYG boat tour (t696601, from $35) is a Danube river cruise from Bratislava to Devín Castle and back — a 4-hour round trip including time at the castle. The castle can also be reached by bus (route 29 from Nový Most, Bratislava) or by car. Confirm current hours at muzeumbratislavy.sk."
+    "seasonal_note": "Closed Mondays. Hours extend in summer (May–September: 10:00–19:00)."
   },
   "price_adult": 8,
   "price_child": 4,
@@ -67,10 +67,22 @@
   "instagram_tag": "#devinhrad",
   "meta_title": "Devín Castle, Bratislava: Boat Tour Tickets & Visitor Guide 2026",
   "meta_description": "Visit Devín Castle near Bratislava by Danube river cruise — the Great Moravian frontier fortress at the Danube-Morava confluence, destroyed by Napoleon, a symbol of Slovak national identity and the Cold War's Iron Curtain border.",
-  "tags": ["slovakia", "bratislava", "danube", "iron-curtain", "great-moravia", "ruins", "napoleon", "boat-tour", "national-symbol"],
+  "tags": [
+    "slovakia",
+    "bratislava",
+    "danube",
+    "iron-curtain",
+    "great-moravia",
+    "ruins",
+    "napoleon",
+    "boat-tour",
+    "national-symbol"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["bratislava-castle"],
+  "nearby_castles": [
+    "bratislava-castle"
+  ],
   "gyg_location_id": "765",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Devin Castle Bratislava Danube cruise boat tour",
@@ -86,7 +98,9 @@
       "rating": 4.4,
       "reviews": 1134,
       "is_top_pick": true,
-      "covers_castles": ["devin-castle"],
+      "covers_castles": [
+        "devin-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/bratislava-l765/bratislava-cruise-devin-castle-round-trip-t696601/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

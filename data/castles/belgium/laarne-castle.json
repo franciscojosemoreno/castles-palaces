@@ -12,7 +12,7 @@
   "nearest_city": "Ghent",
   "address": "Eekhoekstraat 7, 9270 Laarne, Belgium",
   "lat": 51.0167,
-  "lng": 3.8500,
+  "lng": 3.85,
   "unesco": false,
   "year_built": 1150,
   "architectural_style": "Medieval Flemish / Moated",
@@ -24,7 +24,7 @@
     "friday": "Closed",
     "saturday": "14:00–17:30",
     "sunday": "14:00–17:30",
-    "seasonal_note": "Open Wed, Sat, Sun afternoons from Easter to October. Closed Nov–Mar. Group visits by appointment year-round. Check website before visiting as hours vary seasonally."
+    "seasonal_note": "Open Wed, Sat, Sun afternoons from Easter to October. Closed Nov–Mar."
   },
   "price_adult": 8,
   "price_child": 4,
@@ -71,10 +71,22 @@
   "instagram_tag": "#kasteelLaarne",
   "meta_title": "Laarne Castle Belgium: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Laarne Castle near Ghent — one of the best-preserved moated medieval castles in Flanders with a remarkable silverware collection. Plan your half-day trip from Ghent.",
-  "tags": ["castle", "medieval", "moated-castle", "east-flanders", "day-trip-from-ghent", "flemish", "silverware-collection"],
+  "tags": [
+    "castle",
+    "medieval",
+    "moated-castle",
+    "east-flanders",
+    "day-trip-from-ghent",
+    "flemish",
+    "silverware-collection"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["gravensteen", "beersel-castle", "bouillon-castle"],
+  "nearby_castles": [
+    "gravensteen",
+    "beersel-castle",
+    "bouillon-castle"
+  ],
   "gyg_search_query": "Laarne Castle Ghent Belgium tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,

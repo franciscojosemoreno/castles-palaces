@@ -11,8 +11,8 @@
   "region": "Burgundy (Châtillonnais)",
   "nearest_city": "Châtillon-sur-Seine",
   "address": "Châtillonnais, Côte-d'Or, Burgundy, France",
-  "lat": 47.8300,
-  "lng": 4.7100,
+  "lat": 47.83,
+  "lng": 4.71,
   "unesco": false,
   "year_built": 1735,
   "architectural_style": "18th-century classical château built 1735–1744 for Charles de Saulx, Viscount of Tavannes; incorporates a 15th–16th-century staircase turret predating the main construction, creating a visible junction between the earlier medieval element and the classical 18th-century body; listed as a Historic Monument of France since 1988; the estate includes a working vineyard in the Burgundy-stone cellar tradition of the Châtillonnais, with owner-led visits covering the grounds, octroi pavilions, and the Burgundy-stone cellar",
@@ -24,7 +24,7 @@
     "friday": "By appointment",
     "saturday": "By appointment",
     "sunday": "By appointment",
-    "seasonal_note": "Visits are led by the current owner and are conducted outdoors and in the cellar — **the interior of the château is not open to visitors**. The GYG tour (t1125558, from $9) is wheelchair accessible and runs approximately 35 minutes. This is a working wine estate; booking in advance is essential. Confirm availability through the GYG listing or by contacting the estate directly."
+    "seasonal_note": "Visits are led by the current owner and are conducted outdoors and in the cellar — **the interior of the château is not open to visitors**."
   },
   "price_adult": 9,
   "price_child": 5,
@@ -67,7 +67,16 @@
   "instagram_tag": "#chateaudetavannes",
   "meta_title": "Château de Tavannes, Burgundy: Tours & Visitor Guide 2026",
   "meta_description": "Visit Château de Tavannes in the Châtillonnais, northern Burgundy — an owner-led tour of the 18th-century estate grounds and Burgundy-stone cellar, exteriors only, at one of Burgundy's lesser-known Historic Monuments.",
-  "tags": ["burgundy", "chatillonnais", "france", "historic-monument", "wine-estate", "owner-led", "cellar", "18th-century"],
+  "tags": [
+    "burgundy",
+    "chatillonnais",
+    "france",
+    "historic-monument",
+    "wine-estate",
+    "owner-led",
+    "cellar",
+    "18th-century"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
   "nearby_castles": [],
@@ -86,7 +95,9 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["chateau-de-tavannes"],
+      "covers_castles": [
+        "chateau-de-tavannes"
+      ],
       "booking_url_override": "https://www.getyourguide.com/bourgogne-franche-comte-l132098/chateau-de-tavannes-a-guided-tour-of-the-outdoor-estate-and-the-basements-t1125558/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

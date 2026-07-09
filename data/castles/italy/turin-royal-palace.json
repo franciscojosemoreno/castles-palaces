@@ -24,7 +24,7 @@
     "friday": "09:00–19:00",
     "saturday": "09:00–19:00",
     "sunday": "09:00–19:00",
-    "seasonal_note": "Closed Mondays. Last entry 1 hour before closing. The GYG guided tour (t1359476, from $32) covers the Royal Palace and Royal Museums complex in English and runs approximately 2 hours. The palace is in central Turin on Piazzetta Reale, adjacent to the Turin Cathedral (which houses the Shroud of Turin) and a short walk from Piazza Castello. Confirm current hours and tour availability at museireali.beniculturali.it."
+    "seasonal_note": "Closed Mondays. Last entry 1 hour before closing."
   },
   "price_adult": 18,
   "price_child": 2,
@@ -67,10 +67,23 @@
   "instagram_tag": "#palazzorealetorino",
   "meta_title": "Turin Royal Palace: Tickets, Royal Armoury & Visitor Guide 2026",
   "meta_description": "Visit the Turin Royal Palace — the Savoy seat where Italian unification was proclaimed in 1861, with state apartments, the Royal Armoury, Leonardo drawings, and UNESCO World Heritage status as part of the Savoy Residences network.",
-  "tags": ["UNESCO", "savoy", "italy", "turin", "risorgimento", "royal-palace", "royal-armoury", "piedmont"],
+  "tags": [
+    "UNESCO",
+    "savoy",
+    "italy",
+    "turin",
+    "risorgimento",
+    "royal-palace",
+    "royal-armoury",
+    "piedmont"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["villa-della-regina", "castello-di-masino", "castello-di-manta"],
+  "nearby_castles": [
+    "villa-della-regina",
+    "castello-di-masino",
+    "castello-di-manta"
+  ],
   "gyg_location_id": "390",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Turin Royal Palace guided tour Royal Museums",
@@ -86,7 +99,9 @@
       "rating": 4.3,
       "reviews": 15,
       "is_top_pick": true,
-      "covers_castles": ["turin-royal-palace"],
+      "covers_castles": [
+        "turin-royal-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/turin-l390/turin-royal-palace-royal-museums-guided-tour-in-english-t1359476/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

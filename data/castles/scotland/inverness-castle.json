@@ -24,7 +24,7 @@
     "friday": "09:30–17:30",
     "saturday": "09:30–17:30",
     "sunday": "09:30–17:30",
-    "seasonal_note": "The GYG ticket (t1272242) includes the full Inverness Castle Experience plus a city audio tour covering key Inverness landmarks. Book in advance during peak summer season (July–August); capacity fills quickly. Last admission approximately 1 hour before closing. The Great Glen Roof Terrace may close in high winds."
+    "seasonal_note": "Book in advance during peak summer season (July–August); capacity fills quickly. Last admission approximately 1 hour before closing."
   },
   "price_adult": 27,
   "price_child": 15,
@@ -67,10 +67,23 @@
   "instagram_tag": "#invernescastle",
   "meta_title": "Inverness Castle: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Inverness Castle — The Inverness Castle Experience brings Highland history to life across two towers, with panoramic views from the Great Glen Roof Terrace. Entry tickets from $35.",
-  "tags": ["highland", "scotland", "inverness", "victorian", "jacobite", "highland-history", "visitor-experience", "riverside"],
+  "tags": [
+    "highland",
+    "scotland",
+    "inverness",
+    "victorian",
+    "jacobite",
+    "highland-history",
+    "visitor-experience",
+    "riverside"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["cawdor-castle", "urquhart-castle", "dunrobin-castle"],
+  "nearby_castles": [
+    "cawdor-castle",
+    "urquhart-castle",
+    "dunrobin-castle"
+  ],
   "gyg_location_id": "1935",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Inverness Castle experience entry ticket",
@@ -86,7 +99,9 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["inverness-castle"],
+      "covers_castles": [
+        "inverness-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/inverness-l1935/inverness-castle-entry-ticket-and-city-audio-tour-t1272242/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

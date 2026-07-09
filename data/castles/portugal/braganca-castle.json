@@ -24,7 +24,7 @@
     "friday": "09:00–17:00",
     "saturday": "09:00–17:00",
     "sunday": "09:00–17:00",
-    "seasonal_note": "Open Tue–Sun 09:00–17:00 (Oct–Apr); 09:00–18:00 (May–Sep). Closed Mondays and national holidays. The castle is within a larger historic citadel (cidadela) that is always accessible."
+    "seasonal_note": "Open Tue–Sun 09:00–17:00 (Oct–Apr); 09:00–18:00 (May–Sep). Closed Mondays and national holidays."
   },
   "price_adult": 3,
   "price_child": 0,
@@ -71,10 +71,23 @@
   "instagram_tag": "#casteloDeBraganca",
   "meta_title": "Bragança Castle Portugal: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Bragança Castle — a living medieval citadel in remote northern Portugal, ancestral seat of the royal House of Bragança. Plan your visit from Porto.",
-  "tags": ["castle", "medieval", "citadel", "tras-os-montes", "house-of-braganca", "off-the-beaten-path", "northern-portugal"],
+  "tags": [
+    "castle",
+    "medieval",
+    "citadel",
+    "tras-os-montes",
+    "house-of-braganca",
+    "off-the-beaten-path",
+    "northern-portugal"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["guimaraes-castle", "obidos-castle", "convent-of-christ-tomar", "palace-of-the-dukes-of-braganza"],
+  "nearby_castles": [
+    "guimaraes-castle",
+    "obidos-castle",
+    "convent-of-christ-tomar",
+    "palace-of-the-dukes-of-braganza"
+  ],
   "gyg_location_id": "200393",
   "gyg_search_query": "Bragança castle Portugal tour",
   "gyg_widget_type": "activities",

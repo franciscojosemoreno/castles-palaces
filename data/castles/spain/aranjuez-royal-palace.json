@@ -24,7 +24,7 @@
     "friday": "10:00–18:00",
     "saturday": "10:00–18:00",
     "sunday": "10:00–18:00",
-    "seasonal_note": "Closed Mondays. Last entry 30 minutes before closing. The GYG fast-track ticket (t533876, from $14) bypasses the general admission queue. Hours extend in summer (until 20:00 June–September); confirm current times at patrimonionacional.es. The palace is a 45-minute train journey from Madrid-Atocha on the Cercanías C-3 line."
+    "seasonal_note": "Closed Mondays. Last entry 30 minutes before closing."
   },
   "price_adult": 12,
   "price_child": 6,
@@ -67,10 +67,24 @@
   "instagram_tag": "#palaciorealaranjuez",
   "meta_title": "Aranjuez Royal Palace: Fast-Track Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Aranjuez Royal Palace — Spain's UNESCO-inscribed Bourbon spring residence with the Porcelain Room, formal Baroque gardens, and the site of the 1808 mutiny that triggered the Peninsular War. 45 min from Madrid.",
-  "tags": ["UNESCO", "bourbon", "spain", "madrid-day-trip", "royal-palace", "porcelain-room", "baroque", "peninsular-war", "philip-ii"],
+  "tags": [
+    "UNESCO",
+    "bourbon",
+    "spain",
+    "madrid-day-trip",
+    "royal-palace",
+    "porcelain-room",
+    "baroque",
+    "peninsular-war",
+    "philip-ii"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["palacio-real-madrid", "alcazar-de-toledo", "el-escorial"],
+  "nearby_castles": [
+    "palacio-real-madrid",
+    "alcazar-de-toledo",
+    "el-escorial"
+  ],
   "gyg_location_id": "2646",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Aranjuez Royal Palace fast track entry ticket",
@@ -86,7 +100,9 @@
       "rating": 4.2,
       "reviews": 38,
       "is_top_pick": true,
-      "covers_castles": ["aranjuez-royal-palace"],
+      "covers_castles": [
+        "aranjuez-royal-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/aranjuez-l2646/aranjuez-fast-track-entry-to-the-royal-palace-t533876/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

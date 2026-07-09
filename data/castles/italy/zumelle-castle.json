@@ -24,7 +24,7 @@
     "friday": "By appointment",
     "saturday": "10:00–18:00",
     "sunday": "10:00–18:00",
-    "seasonal_note": "Open primarily weekends; weekday visits by appointment. The GYG tour (t1064574, from $68) covers the castle tour and Medieval Tavern tasting on a 1.5-hour guided experience. The castle is in Mel, Valbelluna, approximately 20 km south of Belluno. Nearby independent attractions mentioned in the tour listing include the Grotta Azzurra (Blue Grotto) and local nature trails. Confirm availability through GYG — advance booking essential."
+    "seasonal_note": "Open primarily weekends; weekday visits by appointment."
   },
   "price_adult": 68,
   "price_child": 35,
@@ -67,7 +67,16 @@
   "instagram_tag": "#castellodizumelle",
   "meta_title": "Zumelle Castle, Belluno: Medieval Tour & Tasting Guide 2026",
   "meta_description": "Visit Zumelle Castle in the Valbelluna near Belluno — a medieval fortress with Dolomites backdrop, restored interior rooms, and a Medieval Tavern tasting, one of Italy's most distinctive castle heritage experiences.",
-  "tags": ["veneto", "dolomites", "belluno", "italy", "medieval", "valbelluna", "medieval-tavern", "mountain-castle"],
+  "tags": [
+    "veneto",
+    "dolomites",
+    "belluno",
+    "italy",
+    "medieval",
+    "valbelluna",
+    "medieval-tavern",
+    "mountain-castle"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
   "nearby_castles": [],
@@ -86,7 +95,9 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["zumelle-castle"],
+      "covers_castles": [
+        "zumelle-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/castello-di-zumelle-l261079/belluno-and-valbelluna-tour-of-zumelle-castle-and-medieval-tasting-t1064574/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

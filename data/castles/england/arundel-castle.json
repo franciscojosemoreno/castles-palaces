@@ -23,7 +23,7 @@
     "friday": "10:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "Closed",
-    "seasonal_note": "Open Tuesday to Saturday, April to October, typically 10:00–17:00 (last entry 16:00). Closed Sundays, Mondays and from November to March. Fitzalan Chapel may have separate access on Sundays via the adjacent Catholic church. Check the website for specific opening dates."
+    "seasonal_note": "Open Tuesday to Saturday, April to October, typically 10:00–17:00 (last entry 16:00). Closed Sundays, Mondays and from November to March."
   },
   "price_adult": 24,
   "price_child": 14,
@@ -65,10 +65,23 @@
   "instagram_tag": "#arundelcastle",
   "meta_title": "Arundel Castle: Tickets, State Rooms & Visitor Guide 2026",
   "meta_description": "Visit Arundel Castle in West Sussex — ancestral seat of the Dukes of Norfolk with Norman keep, Victorian State Rooms and Tudor gardens. Book tickets 2026.",
-  "tags": ["norman", "gothic-revival", "inhabited", "gardens", "english-castle", "victorian", "aristocratic", "instagram-worthy"],
+  "tags": [
+    "norman",
+    "gothic-revival",
+    "inhabited",
+    "gardens",
+    "english-castle",
+    "victorian",
+    "aristocratic",
+    "instagram-worthy"
+  ],
   "last_updated": "2026-06-09",
   "routes": [],
-  "nearby_castles": ["hever-castle", "bodiam-castle", "leeds-castle"],
+  "nearby_castles": [
+    "hever-castle",
+    "bodiam-castle",
+    "leeds-castle"
+  ],
   "gyg_location_id": "168154",
   "gyg_search_query": "Arundel Castle Sussex tour",
   "gyg_widget_type": "activities",
@@ -82,7 +95,9 @@
       "price_from": 125,
       "rating": 4.5,
       "reviews": 122,
-      "covers_castles": ["arundel-castle"]
+      "covers_castles": [
+        "arundel-castle"
+      ]
     },
     {
       "tour_id": "1130195",
@@ -92,7 +107,9 @@
       "price_from": 20,
       "rating": 4.6,
       "reviews": 88,
-      "covers_castles": ["arundel-castle"]
+      "covers_castles": [
+        "arundel-castle"
+      ]
     }
   ]
 }

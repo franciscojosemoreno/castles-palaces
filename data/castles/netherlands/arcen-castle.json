@@ -24,7 +24,7 @@
     "friday": "10:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "10:00–17:00",
-    "seasonal_note": "Open April–October. Hours may extend to 18:00 in summer; closed November–March. The GYG entry ticket (t792477, from $16) covers access to all garden areas including tropical greenhouses. The castle interior is not open to visitors — the 1944 bombardment destroyed the interior and it has not been restored; the gardens are the principal attraction. Arcen is approximately 10 km north of Venlo on the Maas river. By car from Venlo: 15 minutes north on the N271. By bus from Venlo: regional bus connections to Arcen village. Confirm current opening at kasteeltuinen.nl."
+    "seasonal_note": "Open April–October. Hours may extend to 18:00 in summer; closed November–March."
   },
   "price_adult": 16,
   "price_child": 8,
@@ -67,10 +67,22 @@
   "instagram_tag": "#kasteeltuinenarcen",
   "meta_title": "Arcen Castle & Gardens: Entry Tickets & Visitor Guide 2026",
   "meta_description": "Visit Kasteeltuinen Arcen in Limburg — the baroque castle shell whose interior was destroyed in WWII, now surrounded by 19 hectares of themed gardens including Japanese garden, rose garden, and Mediterranean terraces.",
-  "tags": ["netherlands", "limburg", "gardens", "baroque", "wwii", "maas", "japanese-garden", "rose-garden", "castle-gardens"],
+  "tags": [
+    "netherlands",
+    "limburg",
+    "gardens",
+    "baroque",
+    "wwii",
+    "maas",
+    "japanese-garden",
+    "rose-garden",
+    "castle-gardens"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["hoensbroek-castle"],
+  "nearby_castles": [
+    "hoensbroek-castle"
+  ],
   "gyg_location_id": "212955",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Arcen Castle Gardens Kasteeltuinen entry ticket",
@@ -86,7 +98,9 @@
       "rating": 4.9,
       "reviews": 9,
       "is_top_pick": true,
-      "covers_castles": ["arcen-castle"],
+      "covers_castles": [
+        "arcen-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/arcen-l212955/arcen-kasteeltuinen-arcen-entry-ticket-t792477/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

@@ -24,7 +24,7 @@
     "friday": "09:00–18:00",
     "saturday": "09:00–18:00",
     "sunday": "09:00–18:00",
-    "seasonal_note": "Open daily Apr–Oct 09:00–18:00. Closed November–March. A cable car operates May–Oct (additional fee). The path through all 14 gates can be walked year-round when the castle is open."
+    "seasonal_note": "Open daily Apr–Oct 09:00–18:00. Closed November–March."
   },
   "price_adult": 17,
   "price_child": 9,
@@ -71,10 +71,24 @@
   "instagram_tag": "#hochosterwitz",
   "meta_title": "Hochosterwitz Castle Austria: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Hochosterwitz Castle in Carinthia — Austria's most dramatic fortress with 14 successive gates on a 175m rock. Plan your day trip from Klagenfurt.",
-  "tags": ["castle", "medieval", "renaissance", "carinthia", "austria", "14-gates", "khevenhüller", "ottoman-era", "klagenfurt"],
+  "tags": [
+    "castle",
+    "medieval",
+    "renaissance",
+    "carinthia",
+    "austria",
+    "14-gates",
+    "khevenhüller",
+    "ottoman-era",
+    "klagenfurt"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["durnstein-castle", "hohensalzburg-fortress", "belvedere-palace"],
+  "nearby_castles": [
+    "durnstein-castle",
+    "hohensalzburg-fortress",
+    "belvedere-palace"
+  ],
   "gyg_search_query": "Hochosterwitz Castle Carinthia Austria tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,

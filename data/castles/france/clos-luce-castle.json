@@ -24,7 +24,7 @@
     "friday": "09:00–19:00",
     "saturday": "09:00–19:00",
     "sunday": "09:00–19:00",
-    "seasonal_note": "Hours vary by season: January–February 09:00–17:00; March–June and September–October 09:00–19:00; July–August 09:00–20:00; November–December 09:00–17:00. Check at vinci-closluce.com for current hours. The GYG ticket (t194510, from $23) covers entry to the manor house, period rooms, chapel, underground passage, and the Leonardo da Vinci Park. Rated 4.7 with 846 reviews."
+    "seasonal_note": "Hours vary by season: January–February 09:00–17:00; March–June and September–October 09:00–19:00; July–August 09:00–20:00; November–December 09:00–17:00."
   },
   "price_adult": 19,
   "price_child": 13,
@@ -67,10 +67,25 @@
   "instagram_tag": "#closlucecastle",
   "meta_title": "Clos Lucé Castle, Amboise: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Château du Clos Lucé in Amboise — Leonardo da Vinci's final home, with the underground passage to Château d'Amboise, period rooms, and a park of 40 working invention models.",
-  "tags": ["leonardo-da-vinci", "francis-i", "loire-valley", "france", "renaissance", "amboise", "museum", "invention-park"],
+  "tags": [
+    "leonardo-da-vinci",
+    "francis-i",
+    "loire-valley",
+    "france",
+    "renaissance",
+    "amboise",
+    "museum",
+    "invention-park"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["chateau-damboise", "chateau-de-chenonceau", "chateau-de-chambord", "chateau-de-blois", "chateau-de-cheverny"],
+  "nearby_castles": [
+    "chateau-damboise",
+    "chateau-de-chenonceau",
+    "chateau-de-chambord",
+    "chateau-de-blois",
+    "chateau-de-cheverny"
+  ],
   "gyg_location_id": "99999",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Clos Luce Castle Amboise Leonardo da Vinci museum ticket",
@@ -86,7 +101,9 @@
       "rating": 4.7,
       "reviews": 846,
       "is_top_pick": true,
-      "covers_castles": ["clos-luce-castle"],
+      "covers_castles": [
+        "clos-luce-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/amboise-l99999/amboise-da-vinci-home-and-science-museum-ticket-t194510/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

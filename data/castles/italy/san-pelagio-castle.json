@@ -24,7 +24,7 @@
     "friday": "09:00–18:00",
     "saturday": "09:00–18:00",
     "sunday": "09:00–18:00",
-    "seasonal_note": "Closed Mondays. The GYG entry ticket (t1052570) covers access to the castle and the Museo del Volo. The museum is the primary draw; allow 1.5–2 hours. The castle is most easily reached by car from Padua (20 minutes south). Confirm current hours at museodelvolosanpelagio.it as these may vary seasonally."
+    "seasonal_note": "Closed Mondays. The museum is the primary draw; allow 1.5–2 hours."
   },
   "price_adult": 12,
   "price_child": 7,
@@ -67,7 +67,17 @@
   "instagram_tag": "#sanpelagiocastle",
   "meta_title": "San Pelagio Castle & Museum of Flight, Padua: Guide 2026",
   "meta_description": "Visit San Pelagio Castle near Padua — D'Annunzio's 1918 base for the Flight over Vienna, now housing the Museo del Volo aviation museum in a medieval moated Venetian-Gothic castle.",
-  "tags": ["wwi", "aviation", "d-annunzio", "veneto", "italy", "padua", "museum", "moated-castle", "medieval"],
+  "tags": [
+    "wwi",
+    "aviation",
+    "d-annunzio",
+    "veneto",
+    "italy",
+    "padua",
+    "museum",
+    "moated-castle",
+    "medieval"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
   "nearby_castles": [],
@@ -86,7 +96,9 @@
       "rating": 4.6,
       "reviews": 6,
       "is_top_pick": true,
-      "covers_castles": ["san-pelagio-castle"],
+      "covers_castles": [
+        "san-pelagio-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/due-carrare-l244344/due-carrare-san-pelagio-castle-entry-ticket-t1052570/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

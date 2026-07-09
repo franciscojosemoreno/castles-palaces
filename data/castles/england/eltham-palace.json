@@ -24,7 +24,7 @@
     "friday": "10:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "10:00–17:00",
-    "seasonal_note": "Hours may vary seasonally and the site closes on some winter days — confirm at english-heritage.org.uk/eltham before visiting. The GYG entry ticket (t488091, from $20) covers the Art Deco mansion, the medieval Great Hall, and the gardens. The palace is in Eltham, southeast London: from Charing Cross or London Bridge, take a train to Eltham station (20–25 minutes), then a 10-minute walk. English Heritage members enter free."
+    "seasonal_note": "English Heritage members enter free."
   },
   "price_adult": 17,
   "price_child": 10,
@@ -67,10 +67,24 @@
   "instagram_tag": "#elthampalace",
   "meta_title": "Eltham Palace, London: Entry Tickets & Art Deco Visitor Guide 2026",
   "meta_description": "Visit Eltham Palace in southeast London — a medieval royal Great Hall with England's third-largest hammerbeam roof, directly alongside a 1930s Art Deco mansion with a lemur's suite, managed by English Heritage.",
-  "tags": ["art-deco", "medieval", "england", "london", "english-heritage", "hammerbeam", "courtauld", "royal-palace", "tudor"],
+  "tags": [
+    "art-deco",
+    "medieval",
+    "england",
+    "london",
+    "english-heritage",
+    "hammerbeam",
+    "courtauld",
+    "royal-palace",
+    "tudor"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["tower-of-london", "kensington-palace", "buckingham-palace"],
+  "nearby_castles": [
+    "tower-of-london",
+    "kensington-palace",
+    "buckingham-palace"
+  ],
   "gyg_location_id": "57",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Eltham Palace London entry ticket Art Deco",
@@ -86,7 +100,9 @@
       "rating": 4.7,
       "reviews": 45,
       "is_top_pick": true,
-      "covers_castles": ["eltham-palace"],
+      "covers_castles": [
+        "eltham-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/london-l57/london-eltham-palace-and-gardens-t488091/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

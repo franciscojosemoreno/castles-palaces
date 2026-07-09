@@ -12,7 +12,7 @@
   "nearest_city": "Jerez de la Frontera",
   "address": "Calle San Ildefonso, 3, 11403 Jerez de la Frontera, Cádiz, Spain",
   "lat": 36.6898,
-  "lng": -6.1380,
+  "lng": -6.138,
   "unesco": false,
   "year_built": 1762,
   "architectural_style": "18th-century Baroque palace built for the Domecq family, one of the founding dynasties of the Jerez sherry trade; the principal facade and interior courtyard combine Spanish Baroque ornament with Neoclassical restraint, the courtyard decorated with elaborate stucco work and iron grilles in a style that reflects Jerez's layered Andalusian, Flemish, and Irish wine-trade influences; the building subsequently received Regency-era modifications to the interior decoration; compact in scale relative to royal palace comparisons — the 45-minute visit format reflects its size as an aristocratic urban townhouse rather than a ceremonial seat of power",
@@ -24,7 +24,7 @@
     "friday": "10:00–14:00",
     "saturday": "10:00–14:00",
     "sunday": "Closed",
-    "seasonal_note": "Hours may vary — confirm current times before visiting. The GYG entry ticket (t427058, from $17) includes an optional audio guide and covers the palace interior and courtyard on a self-guided 45-minute visit. The palace is in the historic centre of Jerez de la Frontera, walkable from the Alcázar and the González Byass bodega. Confirm at palaciodomeq.com."
+    "seasonal_note": ""
   },
   "price_adult": 12,
   "price_child": 6,
@@ -67,10 +67,21 @@
   "instagram_tag": "#palaciodomeq",
   "meta_title": "Palacio Domecq, Jerez: Entry Tickets & Visitor Guide 2026",
   "meta_description": "Visit Palacio Domecq in Jerez de la Frontera — the 18th-century Baroque palace of the Domecq sherry family, with ornate courtyard and 45-minute guided visit at the heart of Spain's sherry capital.",
-  "tags": ["andalusia", "spain", "jerez", "sherry", "baroque", "domecq", "wine-heritage", "aristocratic-palace"],
+  "tags": [
+    "andalusia",
+    "spain",
+    "jerez",
+    "sherry",
+    "baroque",
+    "domecq",
+    "wine-heritage",
+    "aristocratic-palace"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["alcazar-seville"],
+  "nearby_castles": [
+    "alcazar-seville"
+  ],
   "gyg_location_id": "413",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Palacio Domecq Jerez entrance ticket",
@@ -86,7 +97,9 @@
       "rating": 4.3,
       "reviews": 133,
       "is_top_pick": true,
-      "covers_castles": ["palacio-domecq"],
+      "covers_castles": [
+        "palacio-domecq"
+      ],
       "booking_url_override": "https://www.getyourguide.com/jerez-de-la-frontera-l413/jerez-de-la-frontera-palacio-domecq-entrance-ticket-t427058/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

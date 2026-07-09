@@ -24,7 +24,7 @@
     "friday": "10:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "10:00–17:00",
-    "seasonal_note": "Open daily May–Oct, 10:00–17:00 (extended to 20:00 in July for evening events). Closed November–April. Last entry 1 hour before closing. The ticket price includes castle, gardens, and all museums on site."
+    "seasonal_note": "Open daily May–Oct, 10:00–17:00 (extended to 20:00 in July for evening events). Closed November–April."
   },
   "price_adult": 36,
   "price_child": 19,
@@ -71,10 +71,24 @@
   "instagram_tag": "#egeskovSlot",
   "meta_title": "Egeskov Castle Denmark: Tickets, Gardens & Visitor Guide 2026",
   "meta_description": "Visit Egeskov Castle on the island of Funen — northern Europe's best Renaissance water castle, with world-class gardens and vintage car museums. Plan your day trip from Odense or Copenhagen.",
-  "tags": ["castle", "renaissance", "water-castle", "funen", "denmark", "gardens", "day-trip-from-odense", "day-trip-from-copenhagen", "private-castle"],
+  "tags": [
+    "castle",
+    "renaissance",
+    "water-castle",
+    "funen",
+    "denmark",
+    "gardens",
+    "day-trip-from-odense",
+    "day-trip-from-copenhagen",
+    "private-castle"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["kronborg-castle", "frederiksborg-palace", "rosenborg-castle"],
+  "nearby_castles": [
+    "kronborg-castle",
+    "frederiksborg-palace",
+    "rosenborg-castle"
+  ],
   "gyg_search_query": "Egeskov Castle Funen Denmark tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,

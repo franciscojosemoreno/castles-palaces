@@ -24,7 +24,7 @@
     "friday": "09:00–20:00",
     "saturday": "09:00–20:00",
     "sunday": "09:00–20:00",
-    "seasonal_note": "Closed Tuesdays. Last entry 1 hour before closing. The GYG entry ticket with digital audio guide (t630337, from $21) is valid for the state apartment circuit and includes a downloadable audio guide for self-guided exploration. The palace fronts onto Piazza del Plebiscito in central Naples, directly adjacent to the Teatro di San Carlo and a short walk from Castel Nuovo. Confirm current hours at palazzorealenapoli.it."
+    "seasonal_note": "Closed Tuesdays. Last entry 1 hour before closing."
   },
   "price_adult": 10,
   "price_child": 2,
@@ -67,10 +67,23 @@
   "instagram_tag": "#palazzorealenapoli",
   "meta_title": "Naples Royal Palace: Entry Tickets & Visitor Guide 2026",
   "meta_description": "Visit the Naples Royal Palace on Piazza del Plebiscito — four centuries of royal history from Spanish viceroys to Bourbon kings of the Two Sicilies, with Baroque state apartments and a facade recording every dynasty that ruled Naples.",
-  "tags": ["bourbon", "naples", "italy", "royal-palace", "two-sicilies", "baroque", "state-apartments", "campania"],
+  "tags": [
+    "bourbon",
+    "naples",
+    "italy",
+    "royal-palace",
+    "two-sicilies",
+    "baroque",
+    "state-apartments",
+    "campania"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["royal-palace-of-caserta", "castel-santelmo", "castel-dell-ovo"],
+  "nearby_castles": [
+    "royal-palace-of-caserta",
+    "castel-santelmo",
+    "castel-dell-ovo"
+  ],
   "gyg_location_id": "162",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Naples Royal Palace entry ticket audio guide",
@@ -86,7 +99,9 @@
       "rating": 4.1,
       "reviews": 197,
       "is_top_pick": true,
-      "covers_castles": ["naples-royal-palace"],
+      "covers_castles": [
+        "naples-royal-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/naples-l162/naples-royal-palace-entry-ticket-with-digital-audio-guide-t630337/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

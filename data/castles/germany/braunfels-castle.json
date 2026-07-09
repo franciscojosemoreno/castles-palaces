@@ -24,7 +24,7 @@
     "friday": "11:00–17:00",
     "saturday": "11:00–17:00",
     "sunday": "11:00–17:00",
-    "seasonal_note": "Guided tours only — no independent entry. Tours depart on a fixed schedule; confirm current tour times at schloss-braunfels.de before visiting. The GYG guided tour (t657616, 50 minutes) runs in German with English options available on request. The castle is partly inhabited by the Solms-Braunfels family, so some areas are private. Visit the half-timbered old town below the castle before or after the tour."
+    "seasonal_note": "Guided tours only — no independent entry. Visit the half-timbered old town below the castle before or after the tour."
   },
   "price_adult": 9,
   "price_child": 5,
@@ -67,7 +67,16 @@
   "instagram_tag": "#schlossbraunfels",
   "meta_title": "Braunfels Castle, Hesse: Guided Tour Tickets & Guide 2026",
   "meta_description": "Visit Braunfels Castle in Hesse — still owned by the Solms-Braunfels family since 1246, guided tours only, with a fairy-tale Romantic silhouette above one of Hesse's best-preserved half-timbered towns.",
-  "tags": ["hesse", "germany", "private-castle", "solms-braunfels", "guided-tour", "half-timbered", "romantic-era", "rhineland"],
+  "tags": [
+    "hesse",
+    "germany",
+    "private-castle",
+    "solms-braunfels",
+    "guided-tour",
+    "half-timbered",
+    "romantic-era",
+    "rhineland"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
   "nearby_castles": [],
@@ -86,7 +95,9 @@
       "rating": 4.4,
       "reviews": 94,
       "is_top_pick": true,
-      "covers_castles": ["braunfels-castle"],
+      "covers_castles": [
+        "braunfels-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/braunfels-l177096/braunfels-guided-tour-of-the-fairytale-castle-braunfels-t657616/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

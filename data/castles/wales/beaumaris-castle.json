@@ -24,7 +24,7 @@
     "friday": "09:30–17:00",
     "saturday": "09:30–17:00",
     "sunday": "09:30–17:00",
-    "seasonal_note": "Open daily Mar–Oct 09:30–17:00; Nov–Feb 10:00–16:00. Managed by Cadw. Last entry 30 minutes before closing."
+    "seasonal_note": "Open daily Mar–Oct 09:30–17:00; Nov–Feb 10:00–16:00. Managed by Cadw."
   },
   "price_adult": 13,
   "price_child": 8,
@@ -71,10 +71,24 @@
   "instagram_tag": "#beaumariscastle",
   "meta_title": "Beaumaris Castle Wales: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit Beaumaris Castle — the most technically perfect medieval castle ever designed, UNESCO-listed on the Isle of Anglesey. Book Cadw tickets and plan your North Wales Iron Ring trip.",
-  "tags": ["castle", "medieval", "edward-i", "iron-ring", "unesco-world-heritage", "wales", "anglesey", "cadw", "concentric-castle"],
+  "tags": [
+    "castle",
+    "medieval",
+    "edward-i",
+    "iron-ring",
+    "unesco-world-heritage",
+    "wales",
+    "anglesey",
+    "cadw",
+    "concentric-castle"
+  ],
   "last_updated": "2026-06-14",
   "routes": [],
-  "nearby_castles": ["caernarfon-castle", "conwy-castle", "harlech-castle"],
+  "nearby_castles": [
+    "caernarfon-castle",
+    "conwy-castle",
+    "harlech-castle"
+  ],
   "gyg_location_id": "262764",
   "gyg_search_query": "Beaumaris Castle Anglesey Wales tour",
   "gyg_widget_type": "activities",
@@ -88,7 +102,9 @@
       "price_from": 79,
       "rating": 5.0,
       "reviews": 10,
-      "covers_castles": ["beaumaris-castle"]
+      "covers_castles": [
+        "beaumaris-castle"
+      ]
     },
     {
       "tour_id": "895501",
@@ -98,7 +114,9 @@
       "price_from": 79,
       "rating": 5.0,
       "reviews": 16,
-      "covers_castles": ["beaumaris-castle"]
+      "covers_castles": [
+        "beaumaris-castle"
+      ]
     },
     {
       "tour_id": "1196218",
@@ -108,7 +126,9 @@
       "price_from": 87,
       "rating": 5.0,
       "reviews": 3,
-      "covers_castles": ["beaumaris-castle"]
+      "covers_castles": [
+        "beaumaris-castle"
+      ]
     }
   ]
 }

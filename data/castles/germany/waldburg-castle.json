@@ -11,7 +11,7 @@
   "region": "Upper Swabia, Baden-Württemberg",
   "nearest_city": "Waldburg, near Ravensburg",
   "address": "Waldburg 1, 88289 Waldburg, Germany",
-  "lat": 47.7200,
+  "lat": 47.72,
   "lng": 9.7505,
   "unesco": false,
   "year_built": 1525,
@@ -24,7 +24,7 @@
     "friday": "10:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "10:00–17:00",
-    "seasonal_note": "Hours may vary seasonally and by attraction format — confirm current opening times before visiting. The GYG Adventure Day ticket (t1355602, from $17) covers the full-day castle access and activity programme. The castle is most easily reached by car from Ravensburg (~20 km) or from the Lake Constance area. Confirm at schloss-waldburg.de."
+    "seasonal_note": ""
   },
   "price_adult": 12,
   "price_child": 7,
@@ -67,10 +67,21 @@
   "instagram_tag": "#schlosswaldburg",
   "meta_title": "Waldburg Castle, Upper Swabia: Adventure Day Tickets & Guide 2026",
   "meta_description": "Visit Waldburg Castle in Upper Swabia — the seat of the Hereditary Marshals of the Holy Roman Empire, with views toward Lake Constance and the Alps, now offering Adventure Day family activities alongside its historic buildings.",
-  "tags": ["holy-roman-empire", "germany", "upper-swabia", "castle", "waldburg-family", "hereditary-marshal", "adventure-day", "lake-constance"],
+  "tags": [
+    "holy-roman-empire",
+    "germany",
+    "upper-swabia",
+    "castle",
+    "waldburg-family",
+    "hereditary-marshal",
+    "adventure-day",
+    "lake-constance"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["sigmaringen-castle"],
+  "nearby_castles": [
+    "sigmaringen-castle"
+  ],
   "gyg_location_id": "219499",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Waldburg Castle adventure day Upper Swabia",
@@ -86,7 +97,9 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["waldburg-castle"],
+      "covers_castles": [
+        "waldburg-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/waldburg-l219499/waldburg-adventure-day-at-waldburg-castle-t1355602/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

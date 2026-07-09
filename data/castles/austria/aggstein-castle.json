@@ -12,7 +12,7 @@
   "nearest_city": "Aggstein, near Krems",
   "address": "Aggstein 8, 3642 Aggstein, Austria",
   "lat": 48.2978,
-  "lng": 15.4250,
+  "lng": 15.425,
   "unesco": true,
   "year_built": 1150,
   "architectural_style": "Medieval castle ruins on a narrow rocky spur above a bend in the Danube in the Wachau Valley; the original construction dates to the 12th century, with the castle rebuilt and extended across multiple periods; the ruins include the remains of the main keep, perimeter walls, towers, and the inner courtyard, set on a spur of rock approximately 300 metres above the river; the Wachau Valley was inscribed as a UNESCO World Heritage cultural landscape in 2000, and Aggstein is among the most dramatically sited castles in the inscribed area; self-guided access with no time limit",
@@ -24,7 +24,7 @@
     "friday": "10:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "10:00–17:00",
-    "seasonal_note": "Open April–October; closed November–March. Hours may vary. The GYG entry ticket (t1173670, from $12) is self-guided with no time limit — visitors can spend as long as they wish exploring the ruins. The castle is accessible by car (parking at the base), by boat along the Danube (Wachau cruise stops), or on foot from the Aggstein village. The Wachau Valley cycling path passes below the castle. Confirm current opening details at ruine-aggstein.at."
+    "seasonal_note": "Open April–October; closed November–March. Hours may vary."
   },
   "price_adult": 8,
   "price_child": 4,
@@ -67,10 +67,22 @@
   "instagram_tag": "#aggsteincastle",
   "meta_title": "Aggstein Castle Ruins, Wachau: Entry Tickets & Visitor Guide 2026",
   "meta_description": "Visit Aggstein Castle ruins in Austria's Wachau UNESCO Valley — the most dramatic castle above the Danube, associated with 15th-century robber baron Schreckenwald and his legendary 'rose garden' prisoner cliff, self-guided with no time limit.",
-  "tags": ["UNESCO", "austria", "wachau", "danube", "ruins", "robber-baron", "lower-austria", "medieval", "self-guided"],
+  "tags": [
+    "UNESCO",
+    "austria",
+    "wachau",
+    "danube",
+    "ruins",
+    "robber-baron",
+    "lower-austria",
+    "medieval",
+    "self-guided"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["durnstein-castle"],
+  "nearby_castles": [
+    "durnstein-castle"
+  ],
   "gyg_location_id": "216578",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Aggstein Castle ruins Wachau entry ticket",
@@ -86,7 +98,9 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": true,
-      "covers_castles": ["aggstein-castle"],
+      "covers_castles": [
+        "aggstein-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/krems-land-district-l216578/aggstein-castle-ruins-admission-to-the-medieval-castle-complex-t1173670/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

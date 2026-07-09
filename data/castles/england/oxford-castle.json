@@ -11,7 +11,7 @@
   "region": "Oxfordshire",
   "nearest_city": "Oxford",
   "address": "44-46 Oxford Castle, Oxford OX1 1AY, England",
-  "lat": 51.7520,
+  "lat": 51.752,
   "lng": -1.2617,
   "unesco": false,
   "year_built": 1071,
@@ -24,7 +24,7 @@
     "friday": "10:00–16:30",
     "saturday": "10:00–16:30",
     "sunday": "10:00–16:30",
-    "seasonal_note": "Open daily. Guided tours run at regular intervals throughout the day (approximately every 20 minutes); each tour is approximately 1 hour. The GYG guided tour ticket (t160806, from $28) covers the full experience including crypt, motte climb, and prison cells. Last tour approximately 1 hour before closing. The castle is in central Oxford, a short walk from the city centre. Confirm at oxfordcastleandprison.co.uk."
+    "seasonal_note": "Open daily. Guided tours run at regular intervals throughout the day (approximately every 20 minutes); each tour is approximately 1 hour."
   },
   "price_adult": 20,
   "price_child": 12,
@@ -67,10 +67,21 @@
   "instagram_tag": "#oxfordcastle",
   "meta_title": "Oxford Castle & Prison: Guided Tour Tickets & Guide 2026",
   "meta_description": "Visit Oxford Castle — a Norman fortress of 1071 with St George's Tower among the oldest Norman structures in England, converted to a working prison until 1996, now offering costumed guided tours through 900 years of incarceration history.",
-  "tags": ["norman", "england", "oxford", "prison", "1071", "medieval", "costumed-tour", "st-georges-tower"],
+  "tags": [
+    "norman",
+    "england",
+    "oxford",
+    "prison",
+    "1071",
+    "medieval",
+    "costumed-tour",
+    "st-georges-tower"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["blenheim-palace"],
+  "nearby_castles": [
+    "blenheim-palace"
+  ],
   "gyg_location_id": "441",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Oxford Castle Prison guided tour ticket",
@@ -86,7 +97,9 @@
       "rating": 4.7,
       "reviews": 265,
       "is_top_pick": true,
-      "covers_castles": ["oxford-castle"],
+      "covers_castles": [
+        "oxford-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/oxford-l441/oxford-castle-prison-admission-ticket-and-guided-tour-t160806/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

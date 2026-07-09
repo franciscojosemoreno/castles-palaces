@@ -24,7 +24,7 @@
     "friday": "10:00–18:30",
     "saturday": "10:00–14:00",
     "sunday": "Closed",
-    "seasonal_note": "Closed Sundays. Hours may vary seasonally; confirm at fundacionbartolomemarch.es before visiting. The GYG entry ticket (t491633, from $9) covers the outdoor sculpture terrace and public areas. The palace is in the historic centre of Palma, a 5-minute walk from the Cathedral of Mallorca (La Seu) and the Almudaina Royal Palace. Saturday hours are reduced; the outdoor sculpture terrace may have different access to interior exhibition areas."
+    "seasonal_note": "Closed Sundays. Saturday hours are reduced; the outdoor sculpture terrace may have different access to interior exhibition areas."
   },
   "price_adult": 9,
   "price_child": 5,
@@ -67,10 +67,23 @@
   "instagram_tag": "#palaumarch",
   "meta_title": "March Palace (Palau March), Palma: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Palau March in Palma de Mallorca — the March family's private palace with an outdoor terrace of sculpture by Rodin, Moore, Hepworth, and Chillida, overlooking the bay of Palma in the city's historic centre.",
-  "tags": ["spain", "mallorca", "palma", "sculpture", "20th-century", "fundacion", "rodin", "moore", "chillida", "balearic-islands"],
+  "tags": [
+    "spain",
+    "mallorca",
+    "palma",
+    "sculpture",
+    "20th-century",
+    "fundacion",
+    "rodin",
+    "moore",
+    "chillida",
+    "balearic-islands"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["bellver-castle"],
+  "nearby_castles": [
+    "bellver-castle"
+  ],
   "gyg_location_id": "47",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Palma Palau March sculpture garden entry ticket",
@@ -86,7 +99,9 @@
       "rating": 4.5,
       "reviews": 17,
       "is_top_pick": true,
-      "covers_castles": ["march-palace"],
+      "covers_castles": [
+        "march-palace"
+      ],
       "booking_url_override": "https://www.getyourguide.com/palma-de-mallorca-l47/palma-palau-march-entry-ticket-t491633/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]

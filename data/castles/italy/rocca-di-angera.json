@@ -24,7 +24,7 @@
     "friday": "09:00–17:30",
     "saturday": "09:00–17:30",
     "sunday": "09:00–17:30",
-    "seasonal_note": "Open March–October only (closed November–February). Closed Mondays. The GYG ticket (t1282144) is self-guided; allow 1.5–2 hours. The castle is on the eastern shore of Lake Maggiore at Angera; most easily reached from Milan by car (1 hour) or from Arona by ferry. Check borromeoturismo.it for current seasonal hours and boat schedules from the Borromean Islands."
+    "seasonal_note": "Open March–October only (closed November–February). Closed Mondays."
   },
   "price_adult": 18,
   "price_child": 10,
@@ -67,10 +67,21 @@
   "instagram_tag": "#roccadiangera",
   "meta_title": "Rocca di Angera, Lake Maggiore: Tickets & Visitor Guide 2026",
   "meta_description": "Visit Rocca di Angera on Lake Maggiore — the Borromeo family's medieval fortress with 14th-century battle frescoes, panoramic lake views, and the Doll and Toy Museum. Open March–October.",
-  "tags": ["borromeo", "lake-maggiore", "lombardy", "italy", "medieval", "frescoes", "doll-museum", "visconti"],
+  "tags": [
+    "borromeo",
+    "lake-maggiore",
+    "lombardy",
+    "italy",
+    "medieval",
+    "frescoes",
+    "doll-museum",
+    "visconti"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["castello-di-vezio"],
+  "nearby_castles": [
+    "castello-di-vezio"
+  ],
   "gyg_location_id": "169011",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Rocca di Angera Lake Maggiore entry ticket",
@@ -86,7 +97,9 @@
       "rating": 3.9,
       "reviews": 4,
       "is_top_pick": true,
-      "covers_castles": ["rocca-di-angera"],
+      "covers_castles": [
+        "rocca-di-angera"
+      ],
       "booking_url_override": "https://www.getyourguide.com/italy-l169011/lake-maggiore-rocca-di-angera-entry-ticket-t1282144/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]
