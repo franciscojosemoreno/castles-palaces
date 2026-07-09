@@ -1,0 +1,133 @@
+{
+  "id": "bratislava-smolenice-cerveny-kamen-folk-tour",
+  "slug": "bratislava-smolenice-cerveny-kamen-folk-tour",
+  "name": "Smolenice, Červený Kameň & Trenčín: Slovak Castles & Folk Traditions from Bratislava",
+  "tagline": "Two castle interiors, two living folk-culture stops, and a 14-hour circuit through the Small Carpathians and Váh valley — the most culturally complete Slovakia day trip from Bratislava",
+  "departure_country": "slovakia",
+  "departure_city": "Bratislava",
+  "visited_countries": [
+    "slovakia"
+  ],
+  "duration_days": 1,
+  "duration_label": "14 hours",
+  "gyg_tour_id": "1091450",
+  "gyg_url": "https://www.getyourguide.com/trencin-l150506/historic-castles-and-folk-treasures-from-bratislava-t1091450/",
+  "price_from": 157,
+  "currency": "USD",
+  "rating": 5.0,
+  "review_count": 2,
+  "languages": [
+    "English",
+    "Slovak"
+  ],
+  "max_group_size": 7,
+  "overview": "The genuine Slovak folk-culture sites — the painted wooden houses of Čičmany, the moving wooden nativity scene at Rajecká Lesná — are almost entirely absent from international tourism and from every other Slovakia day trip currently on GYG. This tour pairs them with two castle interiors that offer a strong architectural contrast: Smolenice Castle (a neo-Gothic château rebuilt in the 1880s for a Hungarian aristocratic family, with an English park and optional wine tasting), and Červený Kameň (a Renaissance-era castle with underground vaults, intact armoury, and one of the finest defensive architectural ensembles in the Small Carpathians). Trenčín, further north along the Váh, is included as a bonus stop with views from the Matúš Tower — but this is not the tour's main focus.\n\n**A note on Trenčín:** Trenčín Castle appears in two separate tours on this site. The existing [From Bratislava: Slovakia's Most Beautiful Castles — Bojnice & Trenčín](/tours/slovakia/bratislava-slovakia-castles-private-tour) tour dedicates 2 hours to Trenčín with a full guided visit covering the Roman inscription and the Ctibor/Omaija legend — ideal for visitors for whom Trenčín is a primary goal. This tour's stop at Trenčín is more brief (views from Matúš Tower, free time in the town) — Smolenice, Červený Kameň, and the folk-culture stops are this day's distinctive content.\n\n**Restrictions:** Not suitable for children under 4, visitors with significant mobility limitations, those afraid of heights (castle towers involved), or guests over 140 kg/309 lbs. Please review before booking.",
+  "highlights": [
+    "Smolenice Castle — a neo-Gothic romantic château rebuilt in the 1880s for Count Pálffy in the Small Carpathians, with an English landscape park and an optional wine tasting in the castle cellars",
+    "Červený Kameň Castle — a 13th-century fortress rebuilt as a Renaissance castle by the Fugger banking family in the 16th century, with underground vaults, the original armoury, and the most complete defensive circuit accessible in the Small Carpathians",
+    "Čičmany village — Slovakia's most distinctive folk-architecture village, where traditional wooden houses are decorated with white painted geometric patterns derived from embroidery motifs; an ethnographic anomaly with no parallel elsewhere in Central Europe",
+    "Rajecká Lesná — the location of Slovakia's famous moving wooden nativity scene (pohyblivý betlehem), a mechanical diorama of over 300 carved wooden figures depicting Slovak folk life across the seasons",
+    "Trenčín region views from Matúš Tower — the Váh valley panorama with the Roman inscription on the castle rock (the northernmost Roman legionary camp inscription in Central Europe)",
+    "Bratislava sunset viewpoint as the final stop — the Danube, the castle, and the bridge in the golden hour light"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Pickup — Bratislava or Vienna",
+      "duration": "Early morning",
+      "description": "Pickup from Bratislava or Vienna (both options available — confirm at booking). The early departure for a 14-hour day allows enough time to reach Čičmany, the furthest point on the circuit, in the morning."
+    },
+    {
+      "order": 2,
+      "castle_name": "Čičmany Village",
+      "duration": "1 hour",
+      "description": "Visit Čičmany — a village in the Rajčanka valley east of the Small Carpathians, unique in Central Europe for its tradition of painting wooden house facades with white geometric patterns derived from folk embroidery motifs. The patterns — spirals, crosses, and zigzag bands — cover entire building exteriors in a tradition maintained continuously since at least the 18th century. Čičmany was declared a Slovak historic monument in 1977. The guide covers the embroidery tradition, the folk costume heritage, and why the village's isolation in its mountain valley allowed the tradition to survive when it disappeared elsewhere."
+    },
+    {
+      "order": 3,
+      "castle_name": "Rajecká Lesná — Moving Nativity",
+      "duration": "Stop (optional)",
+      "description": "Optional stop at Rajecká Lesná to view the pohyblivý betlehem — a large-scale moving wooden nativity scene featuring over 300 hand-carved figures set in a diorama of Slovak folk life across the four seasons. The nativity is housed in a purpose-built building adjacent to the basilica and is one of Slovakia's most distinctive folk-art objects, almost entirely unknown outside the country."
+    },
+    {
+      "order": 4,
+      "castle_name": "Trenčín Region",
+      "duration": "2.5 hours including free time",
+      "description": "Visit the Trenčín region — including views from Matúš Tower over the Váh valley and the Roman inscription (Laugaricio) on the castle rock below, the northernmost evidence of a Roman legionary presence in Central Europe. Free time in the town for lunch (local restaurant available, optional/extra cost). Note: for a full 2-hour guided interior visit to Trenčín Castle with in-depth coverage of its Roman inscription and medieval history, the [From Bratislava: Bojnice Castle & Trenčín](/tours/slovakia/bratislava-slovakia-castles-private-tour) tour is the better choice."
+    },
+    {
+      "order": 5,
+      "castle_id": "trencin-castle",
+      "castle_name": "Trenčín Castle Overview",
+      "duration": "Views and town walk",
+      "description": "The castle towers above the town on its limestone cliff — visible from the hotel courtyard directly below (where a Roman inscription records the 179 AD winter camp of the Legio II Adiutrix). The view of the castle from the courtyard is one of Slovakia's most dramatic castle silhouettes. This tour's stop focuses on this overview and the town; for a full guided interior visit covering the castle in depth, see the Bojnice & Trenčín tour."
+    },
+    {
+      "order": 6,
+      "castle_name": "Smolenice Castle",
+      "duration": "1 hour (guided + optional wine tasting)",
+      "description": "Guided visit to Smolenice Castle — a neo-Gothic romantic château rebuilt in the 1880s for Count Pálffy on the ruins of a 15th-century medieval castle in the Small Carpathians. The castle's English landscape park, its Gothic revival towers, and the optional wine tasting in the castle cellars give a very different experience from the day's earlier military fortress sites. Smolenice is currently used as a conference centre by the Slovak Academy of Sciences, which has maintained the building in excellent condition."
+    },
+    {
+      "order": 7,
+      "castle_id": "cerveny-kamen-castle",
+      "castle_name": "Červený Kameň Castle",
+      "duration": "1 hour (guided)",
+      "description": "Guided visit to Červený Kameň (Red Stone Castle) — a 13th-century fortress rebuilt as a Renaissance stronghold by the Fugger banking family in the 1530s–1540s. The Fuggers, who financed Habsburg expansion from their Augsburg base, used Červený Kameň to store the family's wealth; the underground vaults, intact armoury, and castle museum document both the Fugger period and the subsequent Pálffy family ownership (the same family that commissioned Smolenice's 19th-century rebuild). Entry included."
+    },
+    {
+      "order": 8,
+      "castle_name": "Bratislava Sunset Viewpoint",
+      "duration": "Final stop",
+      "description": "Stop at a Bratislava viewpoint for the sunset view over the Danube, the castle, and the SNP Bridge before drop-off at Bratislava or Vienna."
+    }
+  ],
+  "included": [
+    "Pickup and drop-off (Bratislava or Vienna)",
+    "Air-conditioned vehicle, English/Slovak-speaking guide",
+    "Červený Kameň Castle entry ticket",
+    "Smolenice Castle entry and optional wine tasting",
+    "Čičmany village guided visit",
+    "Bratislava sunset viewpoint access",
+    "Water throughout"
+  ],
+  "excluded": [
+    "Lunch (optional, at local restaurant, own cost)",
+    "Rajecká Lesná nativity admission (optional, own cost)",
+    "Gratuities",
+    "Personal expenses"
+  ],
+  "meeting_point": "Pickup from Bratislava or Vienna — confirm exact pickup point with DRL Business at booking.",
+  "tips": [
+    "This tour has only 2 reviews as of July 2026 — a brand-new GYG listing with a thin review history; the 5.0★ average is credible but based on minimal data; the castle sites and folk-culture stops are well-established heritage venues, not experimental tours",
+    "The Bratislava sunset stop at the end of a 14-hour day is one of Slovakia's best golden-hour viewpoints — don't skip it for the sake of getting home slightly earlier",
+    "The optional wine tasting at Smolenice uses Small Carpathians wines — the region produces some of Slovakia's most distinctive whites (Welschriesling, Müller-Thurgau) in a style closer to Austrian than Moravian wine culture",
+    "Čičmany village is the most unusual stop of the day and the one that generates the most questions from international visitors — the embroidery-pattern house decoration is genuinely unlike anything else in Europe"
+  ],
+  "faqs": [
+    {
+      "question": "What are the restrictions on who can participate?",
+      "answer": "The tour is not suitable for children under 4 years old, visitors with significant mobility limitations (castle towers and uneven historic surfaces throughout), those with a fear of heights (tower viewpoints are part of the itinerary), or guests over 140 kg/309 lbs. Please review these restrictions before booking."
+    },
+    {
+      "question": "How is this different from the Bojnice Castle & Trenčín tour?",
+      "answer": "The existing [From Bratislava: Bojnice Castle & Trenčín](/tours/slovakia/bratislava-slovakia-castles-private-tour) tour focuses on Bojnice (Slovakia's most fairy-tale neo-Gothic castle) and a full 2-hour guided interior of Trenčín Castle — ideal if Trenčín is a primary interest, and a deeper dive on both those sites. This tour pairs Smolenice and Červený Kameň with the folk-culture stops at Čičmany and Rajecká Lesná; Trenčín appears as a bonus stop with views from Matúš Tower rather than a full guided interior visit. Choose based on whether your priority is Bojnice + Trenčín in depth, or Smolenice + Červený Kameň + authentic folk culture."
+    },
+    {
+      "question": "What is Čičmany and why is it significant?",
+      "answer": "Čičmany is a village in the Rajčanka valley where wooden houses are painted with white geometric patterns derived from Slovak folk embroidery — a tradition that has continued without interruption since at least the 18th century. The village is unique: this exact tradition of applying embroidery motifs to building exteriors exists nowhere else in Central Europe. It was declared a Slovak historic monument in 1977. Most international visitors have never encountered it because Čičmany is not on any standard tourist route — it requires a deliberate detour into a mountain valley east of the Small Carpathians."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/bratislava-smolenice-cerveny-kamen-folk-tour.webp",
+    "alt": "Červený Kameň Castle (Red Stone Castle) in the Small Carpathians, Slovakia, a 16th-century Renaissance fortress above the Záhorie lowland",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Smolenice, Červený Kameň & Trenčín: Slovak Castles & Folk Traditions from Bratislava",
+    "description": "14-hour Slovakia castle and folk-culture day trip from Bratislava — Smolenice neo-Gothic château, Červený Kameň Renaissance castle, Čičmany painted village, Rajecká Lesná nativity, and Trenčín. From $157 per person."
+  }
+}

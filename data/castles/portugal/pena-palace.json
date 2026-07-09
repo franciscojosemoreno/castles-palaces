@@ -105,6 +105,20 @@
       "covers_castles": [
         "pena-palace"
       ]
+    },
+    {
+      "tour_id": "469053",
+      "title": "Pena Palace, Quinta da Regaleira & Cascais Coast: Extended Day Trip from Lisbon",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 114,
+      "rating": 4.7,
+      "reviews": 86,
+      "is_top_pick": false,
+      "covers_castles": [
+        "pena-palace"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/lisbon-l42/sintra-cascais-tour-2-palaces-in-sintra-10hours-tour-t469053/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

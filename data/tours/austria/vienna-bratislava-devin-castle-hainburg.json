@@ -1,0 +1,125 @@
+{
+  "id": "vienna-bratislava-devin-castle-hainburg",
+  "slug": "vienna-bratislava-devin-castle-hainburg",
+  "name": "Bratislava Castle & Devín Castle: Cross-Border Day Trip from Vienna",
+  "tagline": "Two countries, three fortresses, and one of the Danube's most dramatic castle confluences — all in a day from Vienna",
+  "departure_country": "austria",
+  "departure_city": "Vienna",
+  "visited_countries": [
+    "austria",
+    "slovakia"
+  ],
+  "duration_days": 1,
+  "duration_label": "8 hours",
+  "gyg_tour_id": "1126313",
+  "gyg_url": "https://www.getyourguide.com/vienna-l7/vienna-guided-bratislava-devin-castle-tour-via-hainburg-t1126313/",
+  "price_from": 111,
+  "currency": "USD",
+  "rating": 4.6,
+  "review_count": 230,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 8,
+  "overview": "This cross-border day trip from Vienna visits three fortresses across two countries — a routing that no other Vienna-area tour currently offers. The day begins at Hainburg an der Donau, an Austrian border town with 13 surviving medieval towers and a hilltop castle that has monitored this stretch of the Danube since the 11th century. The road then crosses into Slovakia for a guided walk through Bratislava's historic core before ascending to Bratislava Castle, the city's landmark hilltop fortress. The afternoon is spent at Devín Castle, at the confluence of the Danube and Morava rivers — a site of layered history from Celtic hill fort to Roman fort to medieval fortress, and for 40 years a closed Communist-era border zone that few people ever saw. A small wine and spirit tasting closes the day before the drive back to Vienna. Pickup in Vienna is included.\n\nFor visitors who want to explore Slovakia's northern medieval castles — Bojnice and Trenčín — rather than the Bratislava city circuit, see our [From Bratislava: Bojnice Castle & Trenčín](/tours/slovakia/bratislava-slovakia-castles-private-tour) tour, which covers a completely different region of Slovakia.",
+  "highlights": [
+    "Devín Castle at the confluence of the Danube and Morava — a genuinely remote and dramatic site closed to the public as a Communist-era border zone until 1989",
+    "Bratislava Castle on its hilltop above the Danube — the city's founding fortress, rebuilt as a Renaissance palace under the Habsburgs, destroyed in an 1811 fire, and restored in the 20th century",
+    "Hainburg an der Donau — an Austrian border town with 13 intact medieval towers and a hilltop castle above the Danube valley, almost entirely unknown to international visitors",
+    "Bratislava Old Town guided walk: Michael's Gate (the only surviving town gate), St Martin's Cathedral (coronation church of Hungarian kings), and the Main Square",
+    "Cross-border experience — one day, two EU countries, three medieval fortresses, from Vienna pickup to Vienna drop-off",
+    "Small group, live English guide, water and snacks included; optional wine and spirit tasting at the end of the day"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Pickup in Vienna",
+      "duration": "Morning",
+      "description": "Hotel or central Vienna pickup included. The guide introduces the day's route along the ancient Danube corridor — one of the great migration and invasion pathways into Central Europe, where the border between the Roman Empire and the Germanic/Celtic north once ran exactly where today's Austrian-Slovak border stands."
+    },
+    {
+      "order": 2,
+      "castle_name": "Hainburg Castle & Medieval Town",
+      "duration": "1 hour",
+      "description": "Stop at Hainburg an der Donau — the Austrian border town with one of the best-preserved medieval defensive circuits in Central Europe, with 13 surviving towers and town gates encircling a hilltop castle. The fortress dates to the 11th century and served as a Habsburg-era frontier fortification monitoring the Danube approach from the east. Panoramic views from the castle reach into Slovakia. The town is almost entirely unknown to international visitors despite being 45 minutes east of Vienna."
+    },
+    {
+      "order": 3,
+      "castle_name": "Bratislava Old Town",
+      "duration": "45 minutes (guided walk)",
+      "description": "Cross into Slovakia and walk Bratislava's historic core with your guide. The route covers Michael's Gate (the sole surviving city gate of Bratislava's medieval walls), St Martin's Cathedral (where eleven Habsburg rulers were crowned King of Hungary between 1563 and 1830, when Bratislava/Pressburg served as the de facto capital of the Hungarian kingdom), the Main Square, and the Primate's Palace."
+    },
+    {
+      "order": 4,
+      "castle_id": "bratislava-castle",
+      "castle_name": "Bratislava Castle",
+      "duration": "35 minutes (guided)",
+      "description": "Ascend to Bratislava Castle — the large, white, four-towered fortress that defines Bratislava's skyline above the Danube. Originally built in the 9th century and developed as a Great Moravian, then Hungarian royal, stronghold, it was reconstructed as a Habsburg Renaissance palace in the 16th–17th centuries. The 1811 fire that destroyed the interior left the shell standing for over a century before 20th-century restoration. The castle terrace gives panoramic views over the Danube, Slovakia, and Austria simultaneously — the Austrian border is visible on the far bank."
+    },
+    {
+      "order": 5,
+      "castle_name": "Free Time in Bratislava",
+      "duration": "3 hours",
+      "description": "Free time in Bratislava for lunch, cafés, and independent exploration. The Old Town is compact and walkable; the Danube promenade and the UFO Bridge observation deck are nearby options. Recommended lunch areas are in the historic centre within walking distance of the castle."
+    },
+    {
+      "order": 6,
+      "castle_id": "devin-castle",
+      "castle_name": "Devín Castle",
+      "duration": "1.5 hours (guided)",
+      "description": "Visit Devín Castle at the confluence of the Danube and Morava rivers — one of the most layered archaeological and historical sites in Central Europe. The site was a Celtic oppidum, then a Roman fort (Gerulata), then a Great Moravian stronghold, then a medieval fortress, before being blown up by Napoleon in 1809. For 40 years under Communism (1948–1989), the Danube-Morava confluence here formed the Iron Curtain frontier — Devín was in a closed border zone, and the fortified river bank was where escape attempts across the Danube to Austria were made at mortal risk. The ruins are now a museum; the Maiden Tower ruin overhangs the cliff directly above the confluence. The guide covers the full archaeological and Cold War history."
+    },
+    {
+      "order": 7,
+      "castle_name": "Wine & Spirit Tasting",
+      "duration": "30 minutes",
+      "description": "A small tasting of Slovak wine and spirit (included) before the return drive to Vienna. Slovak wine production — concentrated in the Small Carpathians between Bratislava and Trenčín — is almost entirely unknown internationally, despite a tradition of winemaking older than the country itself."
+    }
+  ],
+  "included": [
+    "Pickup and drop-off in Vienna",
+    "Air-conditioned transport throughout",
+    "Expert English-speaking local guide",
+    "Water and snacks",
+    "Small wine and spirit tasting"
+  ],
+  "excluded": [
+    "Bratislava Castle museum entry (payable on the day)",
+    "Devín Castle entry (payable on the day, approximately €4)",
+    "Lunch and meals (3 hours free time in Bratislava)",
+    "Personal expenses"
+  ],
+  "meeting_point": "Vienna hotel pickup included — confirm exact pickup location and time at booking. Central Vienna pickup points available.",
+  "tips": [
+    "Devín Castle is a 20-minute drive from Bratislava city centre along the Danube — it cannot easily be combined with a self-guided Bratislava visit; the guided day trip is the most practical way to see both sites",
+    "The 3-hour free time in Bratislava is generous — use it for lunch in the Old Town and exploration at your own pace rather than organised follow-up activities",
+    "The Danube-Morava confluence at Devín marks where three countries meet: Slovakia, Austria, and the Czech Republic — on a clear day all three national territories are visible from the castle ramparts",
+    "Slovak wine from the Small Carpathians region is worth picking up at Bratislava Old Town wine shops before the return journey — particularly Welschriesling and Grüner Veltliner in the Austrian style"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a passport or visa to cross into Slovakia?",
+      "answer": "Slovakia is an EU/Schengen member — EU and EEA passport holders pass freely without checks. Non-EU visitors should carry their passport as a precaution, though border controls between Austria and Slovakia are generally not conducted within the Schengen zone. Check your own country's requirements before travel."
+    },
+    {
+      "question": "What is Devín Castle and why is it significant?",
+      "answer": "Devín Castle sits at the confluence of the Danube and Morava rivers — a site occupied continuously from the Celtic period through the Roman, Great Moravian, medieval, and modern eras. Napoleon destroyed the fortress in 1809. From 1948 to 1989, Devín was inside a closed Communist-era border zone where the Iron Curtain ran along the Danube; the ruins were off-limits to the public and the riverbank was a lethal frontier. The museum now covers the full history from Celtic oppidum to Cold War crossing point."
+    },
+    {
+      "question": "Is this the same as the Bratislava castle tours that depart from Bratislava?",
+      "answer": "No — this tour departs from Vienna with hotel pickup included, making it the natural option for Vienna-based visitors who want to see both Bratislava Castle and the harder-to-reach Devín Castle in a single guided day. Tours departing from Bratislava itself skip the Hainburg stop and don't typically include the cross-border routing."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/vienna-bratislava-devin-castle-hainburg.webp",
+    "alt": "Devín Castle ruins at the confluence of the Danube and Morava rivers, Slovakia, with the Austrian bank visible across the water",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Bratislava Castle & Devín Castle: Cross-Border Day Trip from Vienna",
+    "description": "Cross-border day trip from Vienna — Hainburg Castle, Bratislava Old Town, Bratislava Castle, and Devín Castle at the Danube-Morava confluence. Live English guide, pickup included. From $111 per person."
+  }
+}

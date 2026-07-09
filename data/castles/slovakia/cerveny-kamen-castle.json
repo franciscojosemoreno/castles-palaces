@@ -97,6 +97,21 @@
       "covers_castles": [
         "cerveny-kamen-castle"
       ]
+    },
+    {
+      "tour_id": "1091450",
+      "title": "Smolenice, Červený Kameň & Trenčín: Slovak Castles & Folk Traditions from Bratislava",
+      "type": "day_trip",
+      "duration": "14 hours",
+      "price_from": 157,
+      "rating": 5.0,
+      "reviews": 2,
+      "is_top_pick": true,
+      "covers_castles": [
+        "cerveny-kamen-castle",
+        "trencin-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/trencin-l150506/historic-castles-and-folk-treasures-from-bratislava-t1091450/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

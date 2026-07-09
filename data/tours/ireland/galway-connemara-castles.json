@@ -1,0 +1,128 @@
+{
+  "id": "galway-connemara-castles",
+  "slug": "galway-connemara-castles",
+  "name": "Aughnanure, Kylemore & Ballynahinch: Castles of Connemara from Galway",
+  "tagline": "Three medieval and Victorian castles across Connemara's lakelands, bogs, and Atlantic coastline — the most castle-focused day trip available from Galway",
+  "departure_country": "ireland",
+  "departure_city": "Galway",
+  "visited_countries": [
+    "ireland"
+  ],
+  "duration_days": 1,
+  "duration_label": "9 hours",
+  "gyg_tour_id": "388567",
+  "gyg_url": "https://www.getyourguide.com/galway-l804/from-galway-castles-of-connemara-full-day-tour-t388567/",
+  "price_from": 185,
+  "currency": "USD",
+  "rating": 4.5,
+  "review_count": 51,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 10,
+  "overview": "Connemara — the rugged Atlantic-facing region of County Galway west of Lough Corrib — has more medieval tower houses per square kilometre than almost any other Irish landscape, and its Victorian-era history produced two of Ireland's most photographed castle-abbey combinations. This is the site's first Galway-departure tour, opening a genuinely distinct region of Irish castle heritage.\n\nThe day's centrepiece is Aughnanure Castle — an unusually complete and accessible 15th-century O'Flaherty clan tower house on the shore of Lough Corrib, with a double bawn (defensive enclosure), a river running through the castle's lower courtyard, and an original banqueting hall and watchtower. The guided visit at Aughnanure is the most structured castle-interior stop on the day; the other castle stops are viewing, photo, and grounds visits rather than guided interior tours.\n\nKylemore Abbey — a Victorian neo-Gothic castle-and-chapel complex on the shore of Kylemore Lough, built in 1868 by a Manchester merchant for his wife — is included as a free-time stop; the abbey's own entrance fee is not included in the tour price and is paid separately. Ballynahinch Castle, now a country house hotel on its island lake, is viewed from the shore rather than entered.",
+  "highlights": [
+    "Aughnanure Castle — a rare intact 15th-century O'Flaherty clan tower house on Lough Corrib, with a double bawn, river moat, surviving banqueting hall, and original watchtower; the most complete guided castle visit in Connemara",
+    "Kylemore Abbey — a Victorian neo-Gothic castle built by a Victorian Manchester industrialist as a romantic gesture for his wife on the shore of a mountain loch in the Connemara wilderness",
+    "Ballynahinch Castle — a medieval castle site developed into a country house hotel on a river island, with the best views from the lake shore approach road",
+    "The Quiet Man Bridge at Leenane — one of Ireland's most recognisable film landscapes, from the 1952 John Ford/John Wayne/Maureen O'Hara film shot entirely in Connemara",
+    "Sky Road above Clifden — the coastal road above Clifden Bay with views of Clifden Castle ruins and the outer Connemara Atlantic islands",
+    "Small group (maximum 10) with a live guide — genuinely intimate scale for a Connemara day trip"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from Galway",
+      "duration": "Morning",
+      "description": "Depart Galway city west on the N59 toward Oughterard and the Connemara lakelands. The guide introduces Connemara's geography — the line of Twelve Bens mountain peaks, the bogs, and the distinction between the Irish-speaking Gaeltacht and the English-speaking Galway hinterland — as the route leaves the city and enters the Atlantic-facing landscape."
+    },
+    {
+      "order": 2,
+      "castle_name": "Aughnanure Castle",
+      "duration": "Guided visit",
+      "description": "Guided visit to Aughnanure Castle — a six-storey 15th-century O'Flaherty clan tower house on the east shore of Lough Corrib, under the management of the Office of Public Works. The O'Flaherty clan controlled western Connacht for centuries; the Galway city gates reportedly bore the inscription 'From the ferocious O'Flaherties, Good Lord deliver us.' The castle has an unusual feature: the Abhainn Drimneen river runs through its lower courtyard, providing a natural water defence in addition to the outer bawn walls. The guided visit covers the banqueting hall, the spiral staircase to the watchtower, the double bawn, and the grotto garden on the riverbank."
+    },
+    {
+      "order": 3,
+      "castle_name": "Oughterard Coffee Break",
+      "duration": "Brief stop",
+      "description": "Coffee and refreshments stop in Oughterard, the main service town for inland Connemara on the Lough Corrib shore. The guide covers the history of the lake — the largest lake in the Republic of Ireland, 176 square kilometres, and the traditional barrier between Connacht's western Irish landscape and the English Pale."
+    },
+    {
+      "order": 4,
+      "castle_name": "Quiet Man Bridge, Connemara Giant & Inagh Valley",
+      "duration": "Photo stops",
+      "description": "Stop at the Quiet Man Bridge at Leenane — the arched stone bridge where scenes from John Ford's 1952 film The Quiet Man (shot on location in Connemara with John Wayne and Maureen O'Hara) were filmed. Continue into the Inagh Valley — a narrow valley between the Twelve Bens and the Maumturk mountains — with a photo stop at the Connemara Giant, a granite rock formation of debated natural/folkloric origin."
+    },
+    {
+      "order": 5,
+      "castle_name": "Sky Road & Clifden Castle",
+      "duration": "Photo stop",
+      "description": "Drive the Sky Road above Clifden Bay — a coastal loop road 12 kilometres above Clifden that gives panoramic views of the outer Connemara coast, the offshore islands, and the ruins of Clifden Castle below. Clifden Castle (the former estate of John D'Arcy, who founded Clifden town in 1812) is visible from the road; the ruins are accessible on foot from a nearby car park, but the tour's stop is a road-level viewing stop rather than a walk-up visit."
+    },
+    {
+      "order": 6,
+      "castle_name": "Kylemore Abbey",
+      "duration": "Free time (entry fee not included)",
+      "description": "Free time at Kylemore Abbey — the neo-Gothic Victorian castle and Gothic church built in 1868 by Manchester industrialist Mitchell Henry as a wedding gift to his wife Margaret. Henry spent £1.5 million (approximately £150 million today) on the estate; both he and Margaret are buried in the lakeside mausoleum on the grounds. After a series of subsequent owners, the estate was acquired in 1920 by a community of Benedictine nuns from Belgium, who established an abbey and boarding school here. The abbey is still a working Benedictine community. Kylemore's own entrance fee is paid separately at the gate — it is not included in the tour price."
+    },
+    {
+      "order": 7,
+      "castle_name": "Ballynahinch Castle",
+      "duration": "Viewing stop",
+      "description": "View Ballynahinch Castle from the lake shore — a medieval tower-house site developed into a country house hotel on a river island below the Twelve Bens, currently operating as one of Connemara's most celebrated hotels. The castle interior is not entered; the approach road through the estate and the lake-shore view of the castle-on-island setting are the draw."
+    },
+    {
+      "order": 8,
+      "castle_name": "Return to Galway",
+      "duration": "Evening",
+      "description": "Return to Galway via the main Connemara route, arriving in the early evening. The guide covers the history of the Land League and the Connemara evictions of the 1880s on the return drive."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Galway (small-group vehicle, max 10)",
+    "Live English-speaking guide",
+    "Guided entry to Aughnanure Castle",
+    "Lunch (included — confirm format at booking)"
+  ],
+  "excluded": [
+    "Kylemore Abbey entrance fee (paid separately at the gate)",
+    "Clifden Castle interior visit (viewing from Sky Road only)",
+    "Ballynahinch Castle interior (viewing from lake shore only)",
+    "Personal drinks and additional purchases",
+    "Gratuities"
+  ],
+  "meeting_point": "Galway city centre — confirm exact departure point at booking with Ireland Wild Escapes.",
+  "tips": [
+    "Kylemore Abbey's entrance fee is not included — budget for this separately (check current price on the Kylemore Abbey website before the tour day); the Victorian Gothic church on the grounds is the most photographed single building in Connemara and worth the extra admission",
+    "Connemara weather is famously changeable — carry waterproofs regardless of the Galway morning forecast; the coastal Sky Road is exposed and the Inagh Valley can be much colder and wetter than the city",
+    "The small group size (max 10) and the full-day rural itinerary make this tour feel significantly more personal than larger-bus Galway day trips; the guide's local knowledge is the primary differentiator",
+    "Aughnanure Castle is run by the Office of Public Works and is one of the best-maintained medieval tower houses open to the public in the west of Ireland — the guided visit is thorough; allow the full allotted time rather than rushing to the next stop"
+  ],
+  "faqs": [
+    {
+      "question": "Does the tour include entry to Kylemore Abbey?",
+      "answer": "No — Kylemore Abbey charges its own entrance fee, which is not included in the $185 tour price. The tour includes transport to Kylemore and free time to enter at your own cost. Check Kylemore Abbey's current admission prices on their website before the tour day."
+    },
+    {
+      "question": "Can I visit inside Clifden Castle or Ballynahinch Castle?",
+      "answer": "Clifden Castle ruins are accessible by foot from a car park near the Sky Road (not a guided entry on this tour — the stop is a road-level photo view). Ballynahinch Castle is a privately operated hotel — the grounds and lake approach are accessible to view, but the castle is not toured or entered on this day trip."
+    },
+    {
+      "question": "Is this tour suitable for first-time visitors to Ireland?",
+      "answer": "Yes — Connemara is one of Ireland's most distinctive and least-visited regions for international visitors, and this is the only castle-focused guided day trip currently operating from Galway. The landscape, the Irish language, and the bog/mountain/Atlantic scenery are genuinely different from anything in Dublin or the Ring of Kerry. It pairs well with a Galway city night and a Burren/Cliffs of Moher day to cover the full County Galway region."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/galway-connemara-castles.webp",
+    "alt": "Kylemore Abbey reflected in the still waters of Kylemore Lough, Connemara, with the Twelve Bens mountains behind the neo-Gothic Victorian castle",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Aughnanure, Kylemore & Ballynahinch: Castles of Connemara from Galway",
+    "description": "Full-day small-group castle tour of Connemara from Galway — guided Aughnanure Castle, Kylemore Abbey, Sky Road/Clifden, and Ballynahinch. 9 hours, max 10 guests. From $185 per person."
+  }
+}

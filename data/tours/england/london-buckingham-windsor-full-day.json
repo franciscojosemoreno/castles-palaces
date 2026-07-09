@@ -1,0 +1,112 @@
+{
+  "id": "london-buckingham-windsor-full-day",
+  "slug": "london-buckingham-windsor-full-day",
+  "name": "Buckingham Palace & Windsor Castle: Full-Day Royal Tour from London",
+  "tagline": "The two defining royal residences of the British Crown — State Rooms and St George's Chapel — in a single 10-hour day from London",
+  "departure_country": "england",
+  "departure_city": "London",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "10 hours",
+  "gyg_tour_id": "125441",
+  "gyg_url": "https://www.getyourguide.com/london-l57/buckingham-palace-windsor-castle-full-day-tour-t125441/",
+  "price_from": 167,
+  "currency": "USD",
+  "rating": 4.1,
+  "review_count": 166,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 55,
+  "overview": "This is the only single-day tour from London that combines Buckingham Palace State Rooms and Windsor Castle with round-trip transport — covering the two most symbolically important royal residences in Britain without requiring two separate days and two separate visits.\n\n**Critical booking notice — Buckingham Palace summer-only access:** The Buckingham Palace State Rooms are open to the public for approximately 8 weeks per year, typically late July to late September, when the Royal Family is at Balmoral. This tour is only bookable and valid during that summer opening window. If you are visiting London outside late July–late September, this specific tour is not available — Windsor Castle and its State Apartments are open year-round (except during certain ceremonial events), but the Buckingham Palace component requires the summer season. Verify dates carefully at booking.\n\nProvider is Evan Evans Tours. Reviews note that guide and value scores are lower (3.7–3.8★) than transportation scores (4.4★); some reviewers mention tight timing at Windsor and meeting-point navigation complexity. The tour is a logistically involved day — plan for early meeting and manage expectations around how long you will have at each site.\n\n**Not suitable for wheelchair users or visitors with significant mobility limitations.** The operator states this explicitly.",
+  "highlights": [
+    "Buckingham Palace State Rooms — the 19 rooms open to the public during the summer season, including the Throne Room, the Ballroom (the largest in any British royal residence), the White Drawing Room, and the Picture Gallery with Rembrandt, Rubens, and Vermeer from the Royal Collection",
+    "Windsor Castle — the oldest and largest continuously occupied castle in the world, the weekend residence of the British monarch, with skip-the-line access to the State Apartments and St George's Chapel",
+    "St George's Chapel at Windsor — the late Gothic chapel where ten monarchs are buried, including Henry VIII and Jane Seymour, and the site of recent royal weddings (Prince Harry and Meghan Markle, 2018)",
+    "Round-trip coach transport from central London to Windsor — 40 minutes each way, with Wi-Fi and USB charging onboard",
+    "The combination of both residences in a single day — a circuit that requires two separate visits and multiple tickets without this tour",
+    "Guest service assistant on the coach; audio guide for Windsor Castle's multimedia self-guided tour included"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "buckingham-palace",
+      "castle_name": "Buckingham Palace — State Rooms",
+      "duration": "Morning",
+      "description": "Visit the Buckingham Palace State Rooms during the summer opening season (late July to late September only). The 19 rooms open to visitors include the Throne Room (where official investitures take place and the Royal Family photographs were taken after The Coronation in 2023), the Ballroom (the largest room in any British royal residence, used for state banquets), the White Drawing Room, the Music Room, and the Picture Gallery — 55 metres long, hung with Old Master paintings from the Royal Collection including works by Rembrandt, Rubens, Canaletto, and Vermeer. Entry is via the Ambassadors' Entrance; the route is step-free."
+    },
+    {
+      "order": 2,
+      "castle_name": "Coach to Windsor",
+      "duration": "~15-minute walk + coach journey (~40 minutes)",
+      "description": "A 15-minute walk from Buckingham Palace to the afternoon coach departure point, then approximately 40 minutes by coach to Windsor. The route passes through west London and the Windsor Great Park approach road, one of the great formal approaches to a royal residence in England — a 4.8 km straight avenue of lime trees planted from the castle gates."
+    },
+    {
+      "order": 3,
+      "castle_id": "windsor-castle",
+      "castle_name": "Windsor Castle — State Apartments & St George's Chapel",
+      "duration": "Afternoon (self-guided multimedia tour)",
+      "description": "Skip-the-line entry to Windsor Castle — the oldest and largest continuously occupied castle in the world, a royal residence for 39 successive monarchs over 900 years. The State Apartments display armour, porcelain, and paintings from the Royal Collection on a scale that surpasses Buckingham Palace. St George's Chapel — built between 1475 and 1528 in the Perpendicular Gothic style — is the burial church of ten British monarchs including Henry VIII and Jane Seymour, Charles I, and more recently George VI and Elizabeth II (buried in the King George VI Memorial Chapel adjacent to the main chapel). The multimedia audio guide covers both sites at self-guided pace."
+    },
+    {
+      "order": 4,
+      "castle_name": "Lunch Break",
+      "duration": "30–45 minutes (not included)",
+      "description": "Free time in Windsor town for lunch (not included). Windsor's High Street and the area near the castle gates have multiple café and restaurant options within a few minutes' walk of the castle entrance."
+    },
+    {
+      "order": 5,
+      "castle_name": "Return to London",
+      "duration": "Evening",
+      "description": "Coach return to central London. Arrival time in London depends on Windsor timing and traffic; allow for a late-afternoon return."
+    }
+  ],
+  "included": [
+    "Buckingham Palace State Rooms entry ticket (summer season only)",
+    "Windsor Castle entry ticket (State Apartments + St George's Chapel)",
+    "Round-trip coach transport London–Windsor (Wi-Fi and USB onboard)",
+    "Windsor Castle multimedia audio guide",
+    "Guest service assistant on coach"
+  ],
+  "excluded": [
+    "Lunch (30–45 minute free time at Windsor, cost not included)",
+    "Gratuities",
+    "Personal expenses"
+  ],
+  "meeting_point": "Central London — exact meeting point confirmed at booking by Evan Evans Tours. Note the 15-minute walk from Buckingham Palace to the afternoon Windsor coach pickup; the guide provides directions. Plan to arrive at the morning meeting point with time to spare.",
+  "tips": [
+    "This tour is only valid during the Buckingham Palace summer opening season — typically late July to late September; do not book for any other period of the year as the Buckingham Palace component will not be accessible",
+    "Meeting-point navigation has generated some confusion in reviews — read Evan Evans' confirmation email carefully and allow extra time to locate the afternoon Windsor coach pickup, which is a different point from the Buckingham Palace entry",
+    "Windsor Castle is a large site and the State Apartments + St George's Chapel require 2+ hours to cover properly; some reviews note the afternoon at Windsor felt rushed — prioritise your interests and move efficiently",
+    "St George's Chapel has restricted visitor access on Sunday mornings (when it is used for worship) and during ceremonies — check the castle website for closures before your visit date",
+    "This tour is not suitable for wheelchair users or visitors with significant mobility limitations — the operator states this explicitly"
+  ],
+  "faqs": [
+    {
+      "question": "When are the Buckingham Palace State Rooms open?",
+      "answer": "Buckingham Palace opens its State Rooms to the public for approximately 8 weeks per year, typically from late July to late September, when the Royal Family is in residence at Balmoral. Outside this window, the State Rooms are not accessible to the public. This tour is only available during the summer opening season — if you are visiting London in any other month, Windsor Castle is available separately year-round, but the Buckingham Palace element of this tour does not apply."
+    },
+    {
+      "question": "Is Windsor Castle accessible year-round independently?",
+      "answer": "Yes — Windsor Castle is open year-round (with some closure days for state functions and ceremonies; check the Royal Collection Trust website). The Buckingham Palace State Rooms are the seasonal component. If you only want Windsor Castle, a direct train from London Waterloo to Windsor & Eton Riverside (approximately 55 minutes, no changes) is cheaper and more flexible than a coach tour."
+    },
+    {
+      "question": "Is this tour wheelchair accessible?",
+      "answer": "No. The operator explicitly states this tour is not suitable for wheelchair users or visitors with significant mobility limitations. The Buckingham Palace State Rooms route is step-free per the palace itself, but the day's logistics — including the 15-minute walk between Buckingham Palace and the Windsor coach pickup — are not accessible for visitors requiring wheelchair assistance."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/london-buckingham-windsor-full-day.webp",
+    "alt": "Windsor Castle's Round Tower rising above the castle walls in Berkshire, England, the oldest continuously occupied royal castle in the world",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Buckingham Palace & Windsor Castle: Full-Day Royal Tour from London",
+    "description": "Full-day London royal tour combining Buckingham Palace State Rooms (summer season only) and Windsor Castle with skip-the-line access — the two defining royal residences in a single day. From $167 per person."
+  }
+}

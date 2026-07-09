@@ -1,0 +1,136 @@
+{
+  "id": "lisbon-sintra-cascais-coast-palaces",
+  "slug": "lisbon-sintra-cascais-coast-palaces",
+  "name": "Pena Palace, Quinta da Regaleira & the Cascais Coast: Extended Day Trip from Lisbon",
+  "tagline": "Sintra's two great palaces plus Cabo da Roca, Azenhas do Mar, and the Atlantic coast — 10 hours from Lisbon",
+  "departure_country": "portugal",
+  "departure_city": "Lisbon",
+  "visited_countries": [
+    "portugal"
+  ],
+  "duration_days": 1,
+  "duration_label": "10 hours",
+  "gyg_tour_id": "469053",
+  "gyg_url": "https://www.getyourguide.com/lisbon-l42/sintra-cascais-tour-2-palaces-in-sintra-10hours-tour-t469053/",
+  "price_from": 114,
+  "currency": "USD",
+  "rating": 4.7,
+  "review_count": 86,
+  "languages": [
+    "Portuguese",
+    "English",
+    "Spanish",
+    "French"
+  ],
+  "max_group_size": 20,
+  "overview": "The route south from Sintra to the Atlantic coast is one of Portugal's most dramatically varied single-day circuits — and it is almost entirely absent from standard Lisbon day trips, which stop in Sintra and turn back. This extended 10-hour tour continues past the palaces to Azenhas do Mar (a fishing village built directly into the cliffs above the Atlantic), Cabo da Roca (the westernmost point of continental Europe, where the Serra de Sintra drops into the ocean), Boca do Inferno (the Devil's Gorge, a sea cave carved by the Atlantic into the Cascais cliffs), and the Estoril/Cascais coastal strip before returning to Lisbon along the sea road. Pena Palace and Quinta da Regaleira are covered in the morning with skip-the-line access and a live guide — but they are the beginning of the day, not the whole of it.\n\n**Important note on palace entry tickets:** Pena Palace (€20) and Quinta da Regaleira (€12) entry is not included in the tour price. The operator pre-purchases tickets on your behalf to guarantee entry, but you pay for them on the day in cash. Factor this into your budget.\n\nIf your interest is specifically the two Sintra palaces without the coastal extension, the [Sintra, Pena Palace & Quinta da Regaleira Day Trip](/tours/portugal/lisbon-sintra-pena-palace-regaleira) covers the same sites in 8–9 hours at €39 — a better fit if you don't need the Atlantic coast leg.",
+  "highlights": [
+    "Cabo da Roca — the westernmost point of continental Europe, where Luís de Camões wrote 'here the land ends and the sea begins'; dramatic Atlantic cliff scenery that few Lisbon day tours include",
+    "Azenhas do Mar — a whitewashed fishing village embedded in the cliffs above the Atlantic north of Sintra, one of Portugal's most photogenic coastal villages",
+    "Boca do Inferno (Devil's Gorge) — a sea cave carved by the Atlantic into the Cascais cliffs, one of the Estoril coast's best-known natural landmarks",
+    "Pena Palace with skip-the-line access — the 19th-century Romantic palace that crowns the highest point of Sintra, built by King Ferdinand II as a fantastical royal retreat above the clouds",
+    "Quinta da Regaleira — the eccentric 1900s estate of the wealthy Brazilian-Portuguese millionaire António Carvalho Monteiro, famous for its underground Initiation Well and Masonic garden symbolism",
+    "Cascais and Estoril — the aristocratic Atlantic coast towns where European royalty in exile and WWII spies intersected on the 'coast of kings'"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Pickup at Hard Rock Café Lisbon",
+      "duration": "07:15 departure",
+      "description": "Meet at the Hard Rock Café Lisbon for a 07:15 departure west toward Sintra. The early start allows skip-the-line access to Pena Palace before the mid-morning crowds arrive. The guide introduces Sintra's history as the summer seat of the Portuguese royal family and its UNESCO World Heritage classification as a cultural landscape."
+    },
+    {
+      "order": 2,
+      "castle_name": "Sintra Historic Centre",
+      "duration": "Brief stop",
+      "description": "Drive through Sintra's historic centre — the former royal retreat in the Serra de Sintra, 28 km northwest of Lisbon, where Portuguese kings maintained their summer court for centuries. The Palácio Nacional de Sintra (the royal palace in the town itself, recognisable by its twin conical chimneys) is visible from the road."
+    },
+    {
+      "order": 3,
+      "castle_id": "pena-palace",
+      "castle_name": "Pena Palace — Skip-the-Line Entry",
+      "duration": "Guided visit",
+      "description": "Skip-the-line entry to Pena Palace — the 1840s Romantic palace commissioned by King Ferdinand II of Portugal (Prince Ferdinand of Saxe-Coburg and Gotha, cousin of Prince Albert and husband of Queen Maria II) as a fantastical royal summer retreat above the Serra de Sintra. The palace combines neo-Gothic, neo-Manueline, neo-Islamic, and neo-Renaissance elements in a deliberately eclectic Romantic statement, painted in yellow and red and visible from Lisbon on a clear day. The guided visit covers the royal apartments, the Manueline arch, the Triton gateway, and the palace terraces above the clouds. Palace entry ticket (€20) is paid on the day in cash."
+    },
+    {
+      "order": 4,
+      "castle_name": "Quinta da Regaleira",
+      "duration": "Guided visit",
+      "description": "Walk to Quinta da Regaleira — the eccentric early 1900s estate of António Augusto Carvalho Monteiro, a wealthy Portuguese-Brazilian collector and Rosicrucian who commissioned the palace and gardens as a symbolic landscape of esoteric imagery. The Initiation Well (Poço Iniciático) — a 27-metre spiral staircase descending into the earth, accessible via underground tunnels — is the estate's signature element; the guide covers the Masonic and Templar symbolism built into the garden's layout. Entry ticket (€12) paid on the day in cash."
+    },
+    {
+      "order": 5,
+      "castle_name": "Lunch Break",
+      "duration": "Free time",
+      "description": "Lunch break (not included in the tour price). The guide recommends nearby options in Sintra or the coastal towns; the itinerary allows time for a proper sit-down meal before the coastal leg begins."
+    },
+    {
+      "order": 6,
+      "castle_name": "Azenhas do Mar",
+      "duration": "Photo stop",
+      "description": "Drive to Azenhas do Mar — a whitewashed fishing village built directly into the Atlantic cliff face north of Sintra. The village and its cliff-side saltwater pool, visible from the road above, are among the most photographed coastal scenes in Portugal. The guide covers the geology of the Sintra massif's Atlantic edge and the traditional fishing communities that settled here."
+    },
+    {
+      "order": 7,
+      "castle_name": "Cabo da Roca — Westernmost Point of Europe",
+      "duration": "Photo stop",
+      "description": "Stop at Cabo da Roca — at 9°30′W, the westernmost point of the European continent, where the Serra de Sintra drops vertically into the Atlantic. The lighthouse at the cape was first built in 1772. The stone marker quotes Luís de Camões: 'Aqui… onde a terra se acaba e o mar começa' — here the land ends and the sea begins. The Atlantic views on a clear day extend to the horizon with nothing between Portugal and the Americas."
+    },
+    {
+      "order": 8,
+      "castle_name": "Boca do Inferno & Cascais",
+      "duration": "Stop",
+      "description": "Stop at Boca do Inferno (Devil's Gorge) — a sea arch and cave carved by Atlantic wave action into the Cascais limestone cliffs — before continuing into Cascais town. Cascais was a 19th-century royal fishing village that became the aristocratic resort of European royalty in exile during and after the Second World War. The 'coast of kings' between Cascais and Estoril hosted exiled monarchs from Spain, Italy, Romania, and Austria simultaneously."
+    },
+    {
+      "order": 9,
+      "castle_name": "Estoril & Return to Lisbon",
+      "duration": "Evening",
+      "description": "Drive through Estoril — the casino town whose wartime role as a gathering point for Allied and Axis intelligence agents, exiled royals, and international spies inspired Ian Fleming's Casino Royale (Fleming worked in Naval Intelligence in Lisbon in 1941) — before returning to Lisbon along the A5/IC15 coastal highway."
+    }
+  ],
+  "included": [
+    "Round-trip transport from Lisbon",
+    "Live guide (Portuguese, English, Spanish, French)",
+    "Skip-the-line entry booking at Pena Palace and Quinta da Regaleira (tickets pre-purchased by operator)"
+  ],
+  "excluded": [
+    "Pena Palace entry ticket — €20, paid in cash on the day",
+    "Quinta da Regaleira entry ticket — €12, paid in cash on the day",
+    "Lunch and all meals",
+    "Personal expenses"
+  ],
+  "meeting_point": "Hard Rock Café Lisbon — departure at 07:15. Confirm exact address and location at booking.",
+  "tips": [
+    "Budget €32 extra for the two palace entry tickets (Pena €20 + Regaleira €12) — these are NOT included in the $114 tour price and must be paid in cash on the day",
+    "The early 07:15 start is deliberate — Pena Palace is one of Europe's most visited sites and becomes very crowded by late morning; the guide times the visit to maximise palace access before the queues build",
+    "Cabo da Roca is exposed and windy even in summer — bring a layer regardless of the Lisbon temperature",
+    "The 10-hour day (vs. 8–9 hours for the shorter Sintra-only tour) is the key trade-off: more coastal scenery, a longer day, more cost; if you only want Pena Palace and Quinta da Regaleira, the shorter tour is the better value"
+  ],
+  "faqs": [
+    {
+      "question": "How is this different from the shorter Sintra, Pena Palace & Quinta da Regaleira tour?",
+      "answer": "The [shorter Sintra tour](/tours/portugal/lisbon-sintra-pena-palace-regaleira) covers the same two palaces (Pena Palace + Quinta da Regaleira) in 8–9 hours from €39 — it is better value if the two palaces are your primary goal. This extended 10-hour tour costs more ($114 plus €32 in entry tickets) because it continues south from Sintra to the Atlantic coast: Azenhas do Mar, Cabo da Roca (the westernmost point of Europe), Boca do Inferno, and Cascais. If you want the coastal scenery and a longer day, this is the tour; if you want just the palaces, the shorter tour is the right choice."
+    },
+    {
+      "question": "Why do I pay for the palace tickets separately?",
+      "answer": "The tour operator pre-purchases timed entry tickets at Pena Palace and Quinta da Regaleira to guarantee your access (both sites have limited timed-entry slots that sell out). However, the ticket cost is passed to you directly: €20 for Pena Palace and €12 for Quinta da Regaleira, paid in cash on the day. The total cost of the day is therefore $114 tour fee + approximately €32 in entry tickets."
+    },
+    {
+      "question": "What is Cabo da Roca?",
+      "answer": "Cabo da Roca is at 9°30′W — the westernmost point of the European continent. The cape is where the Serra de Sintra meets the Atlantic Ocean, marked by a lighthouse (built 1772) and a stone marker with a quote from Luís de Camões: 'Here the land ends and the sea begins.' It is a 35-minute drive from Sintra through the Sintra-Cascais Natural Park. Standard Lisbon day trips do not include it; reaching it independently from Sintra requires a taxi or the limited Sintra–Cascais bus."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/lisbon-sintra-cascais-coast-palaces.webp",
+    "alt": "Cabo da Roca lighthouse at the westernmost point of continental Europe, with Atlantic cliffs falling into the ocean below",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Pena Palace, Quinta da Regaleira & Cascais Coast: Extended Lisbon Day Trip",
+    "description": "10-hour Lisbon day trip: Pena Palace skip-the-line, Quinta da Regaleira, Azenhas do Mar, Cabo da Roca (westernmost point of Europe), Boca do Inferno, and Cascais. From $114 per person (palace tickets extra)."
+  }
+}

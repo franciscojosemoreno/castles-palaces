@@ -98,6 +98,21 @@
       "reviews": 7640,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/london-l57/windsor-castle-entrance-ticket-t53858/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    },
+    {
+      "tour_id": "125441",
+      "title": "Buckingham Palace & Windsor Castle: Full-Day Royal Tour from London",
+      "type": "day_trip",
+      "duration": "10 hours",
+      "price_from": 167,
+      "rating": 4.1,
+      "reviews": 166,
+      "is_top_pick": false,
+      "covers_castles": [
+        "buckingham-palace",
+        "windsor-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/london-l57/buckingham-palace-windsor-castle-full-day-tour-t125441/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

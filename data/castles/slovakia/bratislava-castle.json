@@ -101,6 +101,20 @@
         "bratislava-castle"
       ],
       "booking_url_override": "https://www.getyourguide.com/bratislava-l765/bratislava-guided-walking-tour-with-castle-entry-ticket-t347541/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    },
+    {
+      "tour_id": "1126313",
+      "title": "From Vienna: Bratislava Castle & Devín Castle Cross-Border Day Trip via Hainburg",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 111,
+      "rating": 4.6,
+      "reviews": 230,
+      "is_top_pick": true,
+      "covers_castles": [
+        "bratislava-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/vienna-l7/vienna-guided-bratislava-devin-castle-tour-via-hainburg-t1126313/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]
 }
