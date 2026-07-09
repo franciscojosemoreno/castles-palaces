@@ -106,6 +106,20 @@
       "covers_castles": [
         "marksburg-castle"
       ]
+    },
+    {
+      "tour_id": "597159",
+      "title": "From Koblenz: 2-Hour Rhine Valley Castles Boat Tour",
+      "type": "boat_tour",
+      "duration": "2 hours",
+      "price_from": 22,
+      "rating": 4.4,
+      "reviews": 2098,
+      "is_top_pick": false,
+      "covers_castles": [
+        "marksburg-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/koblenz-l529/from-koblenz-2h-castles-and-palaces-boat-tour-t597159/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

@@ -1,0 +1,114 @@
+{
+  "id": "potsdam-sanssouci-cecilienhof-new-palace",
+  "slug": "potsdam-sanssouci-cecilienhof-new-palace",
+  "name": "Sanssouci, Cecilienhof & New Palace: Potsdam Castles Tour",
+  "tagline": "Three royal residences and the Cold War's most consequential conference room — all within a morning in Potsdam",
+  "departure_country": "germany",
+  "departure_city": "Potsdam",
+  "visited_countries": [
+    "germany"
+  ],
+  "duration_days": 1,
+  "duration_label": "3 hours",
+  "gyg_tour_id": "70776",
+  "gyg_url": "https://www.getyourguide.com/potsdam-l467/potsdam-city-and-castles-tour-t70776/",
+  "price_from": 29,
+  "currency": "USD",
+  "rating": 4.7,
+  "review_count": 3998,
+  "languages": [
+    "English",
+    "German",
+    "Italian",
+    "Russian",
+    "Spanish",
+    "French"
+  ],
+  "max_group_size": 50,
+  "overview": "Potsdam's palace park is one of the densest concentrations of royal architecture in Europe — a UNESCO World Heritage landscape built by successive Prussian kings who used the Brandenburg countryside as a canvas for dynastic ambition. This 3-hour bus and walking tour connects the highlights without requiring a full day: Cecilienhof (the 1945 conference room where Truman, Churchill, and Stalin reordered post-war Europe), the Russian wooden-house colony of Alexandrowka, and the famous vine-covered terraces of Sanssouci leading to the colossal Neues Palais. An audio guide in six languages — including English — carries the narrative during the bus segments, while the guide leads the walking portions. Note: this is a sightseeing and orientation tour, not a dedicated skip-the-line interior ticket for Sanssouci Palace. Sanssouci interior access is purchasable on the day at the palace ticket office, but is not included or guaranteed.",
+  "highlights": [
+    "Sanssouci — Frederick the Great's terraced summer palace and the defining landmark of Potsdam, with the king's graveside along the famous vine terraces",
+    "Neues Palais (New Palace) — the largest and most ceremonially lavish of the Potsdam palaces, built to demonstrate Prussian power after the Seven Years' War",
+    "Cecilienhof Palace — the Tudor-revival 1917 mansion chosen in 1945 as the venue for the Potsdam Conference, where the post-war European order was negotiated",
+    "Alexandrowka — a colony of 13 Russian log houses built in 1827 by Frederick William III for Russian singers who remained in Prussia; one of the most unexpected UNESCO sites in Germany",
+    "Glienicker Bridge — the Cold War spy-exchange crossing where Francis Gary Powers was swapped for Rudolf Abel in 1962",
+    "Audio guide available in English, German, Italian, Russian, Spanish, and French"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure — Potsdam City & Dutch Quarter",
+      "duration": "15 minutes (bus)",
+      "description": "Depart Potsdam Hauptbahnhof through the inner city and the Dutch Quarter — a neighbourhood of 18th-century brick townhouses commissioned by Frederick William I to attract Dutch craftsmen. The guide introduces the Hohenzollern family's three-century relationship with Potsdam as an escape from the formality of Berlin, and the scale of the palace-building programme that made the town a UNESCO World Heritage site."
+    },
+    {
+      "order": 2,
+      "castle_name": "Glienicker Bridge",
+      "duration": "Photo stop",
+      "description": "Pass the Glienicker Bridge over the Havel — the crossing between East Germany and West Berlin where the CIA and KGB conducted spy exchanges during the Cold War. Francis Gary Powers (the U-2 pilot shot down over the Soviet Union) was exchanged here for Rudolf Abel in 1962. The bridge featured in the 2015 Steven Spielberg film Bridge of Spies."
+    },
+    {
+      "order": 3,
+      "castle_name": "Cecilienhof Palace",
+      "duration": "Walking stop",
+      "description": "Walk around Cecilienhof — the last palace built by the Hohenzollerns, completed in 1917 in neo-Tudor style for Crown Prince Wilhelm and his wife Cecilie. In July–August 1945, it was chosen as the conference venue where Truman (who had just learned of the successful Trinity nuclear test on the first day), Clement Attlee (who replaced Churchill mid-conference following the British election result), and Stalin negotiated Germany's post-war partition and the terms of continued Soviet involvement against Japan. The conference table and room are accessible during the stop."
+    },
+    {
+      "order": 4,
+      "castle_name": "Alexandrowka Russian Colony",
+      "duration": "Walking stop",
+      "description": "Visit Alexandrowka — 13 Russian wooden log houses arranged in a cross pattern, built in 1827 by Frederick William III for the surviving members of a Russian choral ensemble that had remained in Prussia after the Napoleonic Wars. The colony is a UNESCO World Heritage Site and remains occupied today by descendants of the original settlers. It is one of the most architecturally surprising ensembles in Germany, sitting incongruously among the Prussian royal architecture."
+    },
+    {
+      "order": 5,
+      "castle_id": "sanssouci-palace",
+      "castle_name": "Sanssouci — Terraces, Frederick's Tomb & Neues Palais",
+      "duration": "1 hour (walking)",
+      "description": "Walk the iconic terraced gardens of Sanssouci — six vine-planted terraces rising to Frederick the Great's summer palace (1745–1747), designed by the king himself in collaboration with Georg Wenzeslaus von Knobelsdorff. Frederick's grave is at the top of the terraces, beside the palace he loved above any other; he was buried elsewhere at his death in 1786 and returned here only in 1991, when German reunification allowed his wish to be honoured. The tour continues to the western end of the 290-hectare park and the Neues Palais — the 300-room palace Frederick built immediately after the Seven Years' War to signal that Prussia had not been impoverished by the conflict."
+    }
+  ],
+  "included": [
+    "Bus and walking tour (3 hours)",
+    "Audio guide (English, German, Italian, Russian, Spanish, French)",
+    "Printed information booklet"
+  ],
+  "excluded": [
+    "Sanssouci Palace interior entry — purchasable on the day at the palace ticket office (NOT skip-the-line; timed slots only, and they sell out fast in summer)",
+    "Other palace interior entries",
+    "Meals and drinks",
+    "Gratuities"
+  ],
+  "meeting_point": "Potsdam Hauptbahnhof (Potsdam central station). Potsdam is 20–25 minutes from central Berlin by S-Bahn S7 (Zone ABC ticket or Berlin day pass including Zone C). Exact departure point confirmed at booking.",
+  "tips": [
+    "Sanssouci Palace interior is not included and cannot be pre-booked for this tour — if you want to go inside, buy a timed-entry ticket at the palace ticket office on the day; arrive as early as possible in the tour since slots sell out by mid-morning in peak season",
+    "Non-German speakers: the bus commentary is conducted in German — use the audio guide and printed booklet for the bus segments; walking segments typically have English-capable guides",
+    "Bring water and a snack — there is no formal refreshment break during the 3-hour tour, and the Sanssouci park walking can be warm in summer",
+    "The tour departs from Potsdam Hauptbahnhof, not Berlin — allow travel time from Berlin on the S7 S-Bahn and plan to arrive at the station 10–15 minutes before departure"
+  ],
+  "faqs": [
+    {
+      "question": "Does this tour include Sanssouci Palace interior access?",
+      "answer": "No. Entry to the Sanssouci Palace interior is not included, and this is not a skip-the-line ticket. If you want to go inside, purchase a timed-entry ticket at the palace ticket office on the tour day — slots sell out quickly in summer, so buy as early in the visit as possible. The tour covers the terraced gardens exterior, Frederick's tomb, and the Neues Palais exterior."
+    },
+    {
+      "question": "Is the commentary in English?",
+      "answer": "The bus driver/guide commentary is in German; an audio guide in six languages (English, German, Italian, Russian, Spanish, French) and a printed booklet are provided to supplement. Walking segments typically have English support. Reviews confirm non-German speakers follow the tour well with the audio guide — but set the expectation that this is not a fully bilingual live tour."
+    },
+    {
+      "question": "How do I get to Potsdam from Berlin?",
+      "answer": "Potsdam Hauptbahnhof is 20–25 minutes from Berlin Hauptbahnhof or Ostbahnhof by S-Bahn S7. A Berlin ABC zone day ticket covers the journey. Potsdam is the closest major royal palace destination to Berlin — no car required."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/potsdam-sanssouci-cecilienhof-new-palace.webp",
+    "alt": "Sanssouci Palace terraces with vine-covered steps rising to the palace facade above the formal Potsdam park, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Sanssouci, Cecilienhof & New Palace: Potsdam Castles Tour",
+    "description": "3-hour Potsdam bus and walking tour: Sanssouci terraces and New Palace, Cecilienhof (1945 conference site), Alexandrowka Russian colony. Audio guide in 6 languages. From $29 per person."
+  }
+}

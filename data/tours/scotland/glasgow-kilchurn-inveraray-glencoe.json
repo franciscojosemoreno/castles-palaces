@@ -1,0 +1,129 @@
+{
+  "id": "glasgow-kilchurn-inveraray-glencoe",
+  "slug": "glasgow-kilchurn-inveraray-glencoe",
+  "name": "Kilchurn Castle, Inveraray & Glencoe: Highlands Day Trip from Glasgow",
+  "tagline": "Loch Awe ruins, a harbour town lunch in Oban, and the most dramatic valley in Scotland — all in one small-group day from Glasgow",
+  "departure_country": "scotland",
+  "departure_city": "Glasgow",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full Day · 10.5 hours",
+  "gyg_tour_id": "11208",
+  "gyg_url": "https://www.getyourguide.com/glasgow-l438/from-glasgow-west-highland-lochs-castles-small-group-tour-t11208/",
+  "price_from": 79,
+  "currency": "USD",
+  "rating": 4.9,
+  "review_count": 2442,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "The route northwest from Glasgow to Oban is one of the great Scottish drives — Loch Lomond gives way to the dramatic Rest and Be Thankful viewpoint, then the road descends to the Argyll coast and the working harbour of Oban, with the ruined finger of Kilchurn Castle reflected in Loch Awe along the way. Rabbie's Small Group Tours runs this route with a maximum of 16 passengers on a mini coach, with a live English-speaking guide throughout. Lunch is in Oban — a seafood and fishing town with a proper harbour front — before the return through Glencoe, where the valley walls close in on either side and the landscape becomes something darker and more elemental. This is a Glencoe-and-Oban day with two castle stops built in; framing it otherwise would undersell the journey.",
+  "highlights": [
+    "Oban — the 'seafood capital of Scotland', a working harbour town on the Firth of Lorn with time for lunch and free exploration",
+    "Glencoe — the glacially carved valley where the 1692 massacre of the MacDonalds took place; one of the most affecting landscapes in Scotland",
+    "Kilchurn Castle on Loch Awe — a 15th-century Campbell clan fortress on a headland that becomes an island at high water, photogenic from the lochside road",
+    "Inveraray — the planned 18th-century Argyll town with Inveraray Castle (the still-occupied seat of the Duke of Argyll) as a scenic and photo stop",
+    "Loch Lomond — a morning stop on the bonnie banks with the Highland Boundary Fault visible from the water's edge",
+    "Small group of maximum 16 passengers — typically feels like a private tour; Likely to Sell Out badge on GYG"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure — Glasgow Buchanan Bus Station",
+      "duration": "Depart ~07:30",
+      "description": "Depart Buchanan Bus Station (Killermont Street, G2 3NW, stances 23–32) northwest toward the Highlands. The guide introduces the day's route and the geology of the Highland Boundary Fault — the geological line that separates the Scottish Lowlands from the Highlands, which the road crosses shortly after leaving Glasgow."
+    },
+    {
+      "order": 2,
+      "castle_name": "Loch Lomond",
+      "duration": "Photo/break stop",
+      "description": "Stop on the banks of Loch Lomond — the largest freshwater loch in Britain. The southern shore is flat and accessible; the northern end narrows into the Highlands. The famous song (The Bonnie Banks o' Loch Lomond) tells the story of a Jacobite prisoner who will take the 'low road' home — meaning he will die. The guide covers the loch's geology and the Highland Boundary Fault line visible here."
+    },
+    {
+      "order": 3,
+      "castle_name": "Rest and Be Thankful",
+      "duration": "Photo stop",
+      "description": "Stop at the Rest and Be Thankful viewpoint at the summit of the A83 — named from the inscription on a stone placed by soldiers who built the military road here in 1750. The pass gives one of the most dramatic Highland panoramas accessible by road, with Glen Croe falling away to the south and the Argyll glens opening to the north."
+    },
+    {
+      "order": 4,
+      "castle_id": "inveraray-castle",
+      "castle_name": "Inveraray — Town & Castle",
+      "duration": "Free time / photo stop",
+      "description": "Stop in Inveraray, the 18th-century planned town on Loch Fyne built by the 3rd Duke of Argyll to complement his rebuilt castle. Inveraray Castle — the neo-Gothic seat of the Dukes of Argyll and the hereditary chief of Clan Campbell — is visible from the town and the loch approach. The tour stop provides time to walk the town and photograph the castle from the grounds; this is a free-time stop rather than a guided interior visit."
+    },
+    {
+      "order": 5,
+      "castle_name": "Kilchurn Castle on Loch Awe",
+      "duration": "Photo stop",
+      "description": "View Kilchurn Castle from the Loch Awe shore — a 15th-century tower house built by Sir Colin Campbell of Glenorchy, expanded into a five-towered garrison castle in the 17th century, and abandoned after a 1760 lightning strike damaged the keep. At high water the headland becomes an island, giving the castle one of the most photographed silhouettes in Scotland. Access to the ruins requires walking; the itinerary frames this as a scenic stop."
+    },
+    {
+      "order": 6,
+      "castle_name": "Oban — Harbour Lunch & Free Time",
+      "duration": "1.5–2 hours",
+      "description": "Arrive in Oban — a working fishing and ferry port on the Firth of Lorn, often called the seafood capital of Scotland. Lunch is included (at a venue confirmed at booking). Free time after lunch to explore the town, walk the harbour front, or climb to McCaig's Tower for views over the bay to the Isle of Mull and the Hebrides."
+    },
+    {
+      "order": 7,
+      "castle_name": "Glencoe Valley",
+      "duration": "Photo/walk stop",
+      "description": "Return through Glencoe — the deep glacially carved valley where the 1692 Glencoe Massacre took place, when soldiers billeted in MacDonald homes turned on their hosts in a pre-dawn attack ordered by the government in Edinburgh. The valley's scale — steep ridges closing in on both sides, waterfalls on the slopes, and the road running through the floor — makes it one of the most affecting landscapes in Scotland. The guide covers both the geological formation and the historical event."
+    },
+    {
+      "order": 8,
+      "castle_name": "Return — Glasgow Buchanan Bus Station",
+      "duration": "Arrive ~19:00",
+      "description": "Return to Buchanan Bus Station by approximately 19:00. The return route passes through Rannoch Moor and Loch Lomond, with the guide covering Highland ecology and the history of the Clearances that depopulated much of the route you drive through."
+    }
+  ],
+  "included": [
+    "Return transport from Glasgow Buchanan Bus Station (16-seat mini coach)",
+    "English-speaking driver/guide throughout",
+    "Lunch (confirmed at booking)",
+    "Admission fees for included attractions",
+    "Gratuities (optional)"
+  ],
+  "excluded": [
+    "Inveraray Castle interior entry (seasonal: castle open Easter–mid-October; tour stop is exterior/grounds only)",
+    "Kilchurn Castle interior access (ruins, free open access, walk required)",
+    "Additional food and drinks",
+    "Personal travel insurance"
+  ],
+  "meeting_point": "Glasgow Buchanan Bus Station, Killermont Street, G2 3NW — stances 23–32. Not suitable for children under 5.",
+  "tips": [
+    "Book early — this tour sells out regularly and carries a 'Likely to Sell Out' badge on GYG; Rabbie's caps bookings at 8 per booking, with a maximum 16 passengers per departure",
+    "Dress in layers regardless of the Glasgow forecast — Glencoe and the high pass at Rest and Be Thankful are typically 5–8°C colder than the city, and weather in the Argyll glens changes fast",
+    "Oban's harbour restaurants are genuinely excellent for seafood — the lunch stop is one of the day's highlights; if you have shellfish preferences, mention them when booking",
+    "Inveraray Castle interior (the seat of the Duke of Argyll) is open Easter through mid-October — if you want to go inside, build in a separate visit; the tour stop is a photo and grounds visit only"
+  ],
+  "faqs": [
+    {
+      "question": "Is this tour suitable for children?",
+      "answer": "The tour is not recommended for children under 5. Older children generally find the landscape stops and castle ruins engaging; the long drive (10.5 hours) is manageable in a small mini coach but is a full day."
+    },
+    {
+      "question": "Does the tour go inside Inveraray Castle or Kilchurn Castle?",
+      "answer": "Inveraray Castle is a photo and grounds stop — the tour does not include guided interior access. Kilchurn Castle is a scenic viewpoint stop from the Loch Awe shore; reaching the ruins requires a walk. Neither is a skip-the-line interior tour stop. The tour's value is the full-day Highland route — Oban lunch, Glencoe valley, and the drive through Argyll — with both castles as scenic waypoints."
+    },
+    {
+      "question": "What makes this different from Edinburgh-based Highlands tours?",
+      "answer": "This tour departs Glasgow and takes the western Argyll route — Loch Lomond, the Rest and Be Thankful pass, Inveraray, Kilchurn, and Oban — which gives a different slice of the Highlands than the central/eastern routes from Edinburgh. The Oban harbour lunch and the Glencoe return are the day's centrepieces; tours from Edinburgh rarely include Oban."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/glasgow-kilchurn-inveraray-glencoe.webp",
+    "alt": "Kilchurn Castle ruins reflected in the still waters of Loch Awe in the Scottish Highlands, with misty mountains behind",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Kilchurn Castle, Inveraray & Glencoe: Highlands Day Trip from Glasgow",
+    "description": "Small-group Highlands day trip from Glasgow with Rabbie's — Loch Lomond, Inveraray, Kilchurn Castle on Loch Awe, Oban harbour lunch, and Glencoe valley. Max 16 people. From $79 per person."
+  }
+}

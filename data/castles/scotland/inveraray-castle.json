@@ -105,6 +105,20 @@
       "covers_castles": [
         "inveraray-castle"
       ]
+    },
+    {
+      "tour_id": "11208",
+      "title": "From Glasgow: Kilchurn Castle, Inveraray & Glencoe Small-Group Day Trip",
+      "type": "day_trip",
+      "duration": "10.5 hours",
+      "price_from": 79,
+      "rating": 4.9,
+      "reviews": 2442,
+      "is_top_pick": true,
+      "covers_castles": [
+        "inveraray-castle"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/glasgow-l438/from-glasgow-west-highland-lochs-castles-small-group-tour-t11208/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

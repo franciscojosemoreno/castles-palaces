@@ -106,6 +106,20 @@
       "covers_castles": [
         "sanssouci-palace"
       ]
+    },
+    {
+      "tour_id": "70776",
+      "title": "Potsdam: Sanssouci Terraces, Cecilienhof & New Palace Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 29,
+      "rating": 4.7,
+      "reviews": 3998,
+      "is_top_pick": true,
+      "covers_castles": [
+        "sanssouci-palace"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/potsdam-l467/potsdam-city-and-castles-tour-t70776/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true
