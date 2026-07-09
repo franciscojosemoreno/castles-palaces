@@ -77,7 +77,9 @@
   ],
   "last_updated": "2026-05-01",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "azeula-fortress"
+  ],
   "gyg_location_id": "1379",
   "gyg_search_query": "Ananuri Fortress Georgia tour",
   "gyg_widget_type": "activities",

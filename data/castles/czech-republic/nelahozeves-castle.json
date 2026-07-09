@@ -67,10 +67,23 @@
   "instagram_tag": "#nelahozevecastle",
   "meta_title": "Nelahozeves Castle: Lobkowicz Collection Tickets & Guide 2026",
   "meta_description": "Visit Nelahozeves Castle near Prague — the Lobkowicz family's Renaissance castle with Bruegel paintings, Beethoven manuscripts, and Dvořák's birthplace in the same village, 40 minutes from Prague by train.",
-  "tags": ["czech-republic", "renaissance", "lobkowicz", "beethoven", "dvorak", "bohemia", "art-collection", "music-manuscripts", "sgraffito"],
+  "tags": [
+    "czech-republic",
+    "renaissance",
+    "lobkowicz",
+    "beethoven",
+    "dvorak",
+    "bohemia",
+    "art-collection",
+    "music-manuscripts",
+    "sgraffito"
+  ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["prague-castle"],
+  "nearby_castles": [
+    "prague-castle",
+    "kokorin-castle"
+  ],
   "gyg_location_id": "1411",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Nelahozeves Castle guided tour Lobkowicz",
@@ -86,7 +99,9 @@
       "rating": null,
       "reviews": 1,
       "is_top_pick": true,
-      "covers_castles": ["nelahozeves-castle"],
+      "covers_castles": [
+        "nelahozeves-castle"
+      ],
       "booking_url_override": "https://www.getyourguide.com/central-bohemian-region-l1411/nelahozeves-tour-of-nelahozeves-castle-t390244/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ]
