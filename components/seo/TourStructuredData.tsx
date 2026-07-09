@@ -2,6 +2,7 @@ interface TourStructuredDataProps {
   tour: {
     name: string;
     description?: string;
+    meta?: { description?: string };
     hero_image?: { url: string; alt: string };
     price?: number;
     currency?: string;
@@ -28,7 +29,7 @@ export default function TourStructuredData({ tour, url }: TourStructuredDataProp
     '@context': 'https://schema.org',
     '@type': 'TouristTrip',
     name: tour.name,
-    description: tour.description ?? '',
+    description: tour.meta?.description ?? tour.description ?? '',
     url: fullUrl,
     ...(absoluteImage && { image: absoluteImage }),
     ...(tour.price && {
