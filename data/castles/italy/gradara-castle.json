@@ -82,7 +82,9 @@
   ],
   "last_updated": "2026-07-03",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "san-leo-fortress"
+  ],
   "gyg_location_id": "169755",
   "gyg_search_query": "Gradara Castle Marche Italy entry ticket",
   "gyg_widget_type": "activities",
