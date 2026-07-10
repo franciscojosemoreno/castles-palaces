@@ -1,0 +1,105 @@
+{
+  "id": "northumberland-bamburgh-chillingham-alnwick",
+  "slug": "northumberland-bamburgh-chillingham-alnwick",
+  "name": "Chillingham, Bamburgh & Alnwick Castles: Private Tour of Northumberland",
+  "tagline": "Northumberland's most haunted castle, its most dramatic coastal fortress, and its grandest ducal seat — a private full-day tour from your door, no coach, no fixed group",
+  "departure_country": "england",
+  "departure_city": "Northumberland or County Durham area",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (8 hours)",
+  "gyg_tour_id": "1223023",
+  "gyg_url": "https://www.getyourguide.com/northumberland-l2939/northumberland-castles-tour-with-private-transport-t1223023/",
+  "price_from": 455,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 1,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": null,
+  "overview": "Chillingham Castle is the most haunted castle in Northumberland. That designation is not PR copy — it is the considered verdict of a building with genuine medieval torture chambers, a dungeon that was sealed with prisoners inside to die during the Scottish wars, and a documented history of death and confinement that has attracted paranormal investigators from across the world for decades. It is also the tour's point of difference: the large group day trips from Edinburgh that cover Bamburgh and Alnwick do not include Chillingham, and for most visitors based in Northumberland or County Durham, the Edinburgh departure adds 90 minutes of driving in each direction for sites they could reach more efficiently from where they are.\n\nThis private day tour departs from your accommodation in the Northumberland or Durham area — no coach station, no fixed meeting time, no maximum group to constrain the itinerary. The route covers three of the great castles of the English northeast: Bamburgh, the ancient capital of the Northumbrian kingdom on its basalt crag above the North Sea; Chillingham, the medieval fortress with its history of torture and imprisonment and its reputation as the most supernaturally active castle in the county; and Alnwick, the 700-year seat of the Percy Dukes of Northumberland and the Hogwarts of the first two Harry Potter films. Private guide, private vehicle, door-to-door. From $455 for the group.",
+  "highlights": [
+    "Chillingham Castle — reputedly the most haunted castle in Northumberland; a working medieval fortress with original dungeons, torture chambers, and a documented history of imprisonment that extends from the Scottish wars through the English Civil War; not on the Edinburgh day trip route",
+    "Bamburgh Castle — the ancient capital of the kingdom of Northumbria on its basalt crag above the North Sea, one of England's most dramatically situated fortresses; last English castle taken by artillery in the Wars of the Roses (1464)",
+    "Alnwick Castle — 700-year seat of the Percy Dukes of Northumberland; Harry Potter's Hogwarts (exterior and broomstick courtyard); houses Titian, Canaletto, and Van Dyck alongside medieval weapons collections",
+    "Private vehicle and guide — door-to-door pickup, no fixed departure time, no 14-person coach group; the tour schedule adapts to your pace at each castle",
+    "For Northumberland and Durham visitors — three castles accessible from your base in under 2 hours of combined driving, without the need to travel to Edinburgh for a departure"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Pickup from accommodation",
+      "duration": "Flexible departure",
+      "description": "Private pickup from your hotel or accommodation in the Northumberland or County Durham area. The guide covers Northumberland's historical context on the drive — the kingdom of Bernicia and later Northumbria, the most powerful Anglo-Saxon polity in 7th-century Britain; the Border wars between England and Scotland that shaped the county's defensive landscape; and the Percy family's 700-year dominance of the region."
+    },
+    {
+      "order": 2,
+      "castle_name": "Bamburgh Castle",
+      "castle_id": "bamburgh-castle",
+      "duration": "Approx. 2 hours",
+      "description": "Bamburgh Castle sits on a basalt outcrop 46 metres above the North Sea and has been fortified since approximately 547 AD, when it served as the capital of the Anglian kingdom of Bernicia. The Norman keep was built by Henry II in the 12th century; in 1464, during the Wars of the Roses, Bamburgh became the first English castle to be taken by cannon fire — a milestone in the history of military technology. Victorian industrialist William Armstrong purchased the deteriorating castle in 1894 and spent thirty years restoring it; his descendants live there today. The eleven-floor great tower houses collections of arms, armour, porcelain, and furniture against a backdrop of Northumberland coast and the Farne Islands offshore."
+    },
+    {
+      "order": 3,
+      "castle_name": "Chillingham Castle",
+      "duration": "Approx. 2 hours",
+      "description": "Chillingham Castle, in the village of Chillingham near Wooler, is a medieval fortified manor that has stood in various forms since the 12th century. Unlike Bamburgh's Victorian-restoration grandeur or Alnwick's ducal magnificence, Chillingham presents something closer to its medieval state: a working castle of genuine antiquity with a documented history that includes imprisonment, torture, and death. The castle's dungeons — accessible on guided tour — preserve the conditions in which Scottish prisoners were held during the Border wars; the sealed oubliette, where prisoners were reportedly left to die, has been a focus of paranormal investigation for decades. The castle has been investigated by numerous researchers and ranks among the most supernaturally active sites in England according to the paranormal-investigation community. The current owner, Sir Humphry Wakefield, has restored the castle since 1982 and opens it to visitors. Entry to Chillingham is not guaranteed to be included in the GYG tour price — confirm the current inclusions at booking."
+    },
+    {
+      "order": 4,
+      "castle_name": "Alnwick Castle",
+      "castle_id": "alnwick-castle",
+      "duration": "Approx. 2 hours",
+      "description": "Alnwick Castle has been the seat of the Percy family — now the Dukes of Northumberland — since Henry Percy purchased it in 1309. It is the second largest inhabited castle in England after Windsor, and its exterior is recognised worldwide as the Hogwarts School of Witchcraft and Wizardry from the first two Harry Potter films (Philosopher's Stone, 2001; Chamber of Secrets, 2002), including the broomstick flying lessons filmed in the outer bailey. The interior houses spectacular state rooms with Old Master paintings by Titian, Canaletto, and Van Dyck, Meissen porcelain collections, and medieval weapons. The Percy family's history — including Henry 'Hotspur' Percy, who fought at the Battle of Shrewsbury in 1403 and inspired Shakespeare's character — threads through the rooms. The Duke and Duchess of Northumberland still reside in the castle."
+    }
+  ],
+  "included": [
+    "Private door-to-door pickup from your accommodation in the Northumberland or County Durham area",
+    "Private guide (English)",
+    "Private vehicle for the group",
+    "Entry to Bamburgh Castle",
+    "Entry to Alnwick Castle"
+  ],
+  "excluded": [
+    "Chillingham Castle entry — confirm current inclusions at booking",
+    "Lunch (opportunity at Alnwick town or on route)",
+    "Alnwick Garden (separate ticketed attraction adjacent to the castle)"
+  ],
+  "meeting_point": "Private pickup from your accommodation — confirm address and preferred departure time at booking with Walkabout Durham",
+  "tips": [
+    "Rating is based on 1 review at the time of writing. Walkabout Durham is a small specialist operator — check recent reviews directly on GYG for updated feedback before booking.",
+    "The price ($455) is per group, not per person — for couples or small families, this represents better value than it first appears against the per-person pricing of group coach tours from Edinburgh.",
+    "Chillingham is not included on most Northumberland day trips from Edinburgh; if this is a specific interest, it is the clearest reason to choose this tour over the larger Edinburgh-departing alternatives.",
+    "Bamburgh village has a café and pub directly adjacent to the castle entrance — useful if the group wants a break between sites.",
+    "Alnwick Garden (separately ticketed, a 10-minute walk from the castle) is one of Britain's most visited contemporary gardens and worth adding if time and schedule allow — discuss with your guide at booking."
+  ],
+  "faqs": [
+    {
+      "question": "How is this different from the Edinburgh day trip to Holy Island, Bamburgh & Alnwick?",
+      "answer": "The day trip from Edinburgh (/tours/scotland/edinburgh-holy-island-bamburgh-alnwick) is better if you're based in Edinburgh and want Holy Island (Lindisfarne) included — the tidal causeway crossing and Lindisfarne Priory are genuinely special, and the Edinburgh departure makes geographical sense for visitors staying there. That tour is also lower cost per person (~$45–55 per person in a shared group of up to 16). This Northumberland private tour is better if you're already based in Northumberland or County Durham, want Chillingham Castle's haunted-history angle (not on the Edinburgh itinerary), and prefer a private vehicle over a fixed-departure shared coach. The per-group price makes it competitive for couples and small families."
+    },
+    {
+      "question": "Is Chillingham Castle really haunted?",
+      "answer": "Chillingham has a documented history of imprisonment and death — prisoners from the Scottish wars were held in its dungeons, and the castle's records include accounts of torture and executions during the Border conflicts. Whether this constitutes 'haunting' in the supernatural sense depends on your priors. The paranormal-investigation community ranks it consistently as one of the most active sites in England; multiple organised ghost-hunting events take place there each year. The castle itself takes the reputation seriously and presents it as part of the visitor experience. The historic record of what occurred within its walls is not in dispute."
+    },
+    {
+      "question": "What is the Northumberland or Durham collection area for pickup?",
+      "answer": "Confirm exact pickup boundaries with Walkabout Durham (the operator) at booking. The tour is described as departing from the Northumberland or Durham area; specific accommodation addresses outside these areas may not be covered. If you're based in Newcastle upon Tyne, enquire — it is likely within range."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/northumberland-bamburgh-chillingham-alnwick.webp",
+    "alt": "Chillingham Castle in Northumberland — the medieval fortress with original dungeons and a centuries-long reputation as the most haunted castle in the county",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Northumberland: Chillingham, Bamburgh & Alnwick Private Castle Tour",
+    "description": "Private day tour of Northumberland's three great castles — haunted Chillingham, coastal Bamburgh, and Harry Potter's Alnwick. Door-to-door pickup from Northumberland or Durham. From $455 per group."
+  }
+}

@@ -102,6 +102,21 @@
         "bamburgh-castle",
         "alnwick-castle"
       ]
+    },
+    {
+      "tour_id": "1223023",
+      "title": "Chillingham, Bamburgh & Alnwick: Private Tour from Northumberland",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 455,
+      "rating": null,
+      "reviews": 1,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/northumberland-l2939/northumberland-castles-tour-with-private-transport-t1223023/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bamburgh-castle",
+        "alnwick-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -102,6 +102,20 @@
       "covers_castles": [
         "caerphilly-castle"
       ]
+    },
+    {
+      "tour_id": "1137827",
+      "title": "Cardiff: Cardiff Castle, Caerphilly & Castell Coch Private Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 1079,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/cardiff-l449/day-tour-of-south-wales-t1137827/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "caerphilly-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

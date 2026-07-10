@@ -1,0 +1,108 @@
+{
+  "id": "cardiff-castle-caerphilly-castell-coch",
+  "slug": "cardiff-castle-caerphilly-castell-coch",
+  "name": "Cardiff Castle & Castell Coch: The Butes' Gothic Revival Fantasy, with Caerphilly Castle",
+  "tagline": "The Marquess of Bute's two great Victorian Gothic creations, plus the largest castle in Wales — Cardiff Castle's wartime tunnels, Castell Coch's fairy-tale turrets, and a city walk through the National Museum Cardiff",
+  "departure_country": "wales",
+  "departure_city": "Cardiff",
+  "visited_countries": [
+    "wales"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "1137827",
+  "gyg_url": "https://www.getyourguide.com/cardiff-l449/day-tour-of-south-wales-t1137827/",
+  "price_from": 1079,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 0,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": null,
+  "overview": "John Crichton-Stuart, the 3rd Marquess of Bute, was the wealthiest man in the world in 1868 — his fortune derived from the Cardiff docks at the peak of the South Wales coal export trade. He spent it on two castles. Cardiff Castle, in the city centre, was transformed from a Roman fort and Norman shell keep into a suite of fairy-tale Gothic Revival apartments: the Clock Tower, the Arab Room, the Chaucer Room, and the Banqueting Hall, all designed by the Marquess's architect William Burges in a polychrome riot that combined medieval European, Islamic, and Italianate elements. Nine kilometres north, in the wooded Taff gorge above Cardiff, stands Castell Coch — the Red Castle — a second Burges creation built on the ruins of a medieval fortress from 1876. Castell Coch has towers with conical roofs, a working drawbridge and portcullis, and interiors of extraordinary elaboration: gilded vaults, painted frescoes of Aesop's Fables, a domed ceiling covered in painted birds. Both were designed for an aristocrat with unlimited funds and a consuming passion for the medieval past.\n\nThis private day tour — door-to-door pickup, private guide, private vehicle — covers Cardiff Castle and Castell Coch as its primary destinations, alongside a Cardiff city walk (National Museum, historic market halls and Victorian arcades, St John the Baptist church) and Caerphilly Castle, the largest castle in Wales. Caerphilly is also featured on the separate Cardiff three-castles day trip (with Raglan and Tretower — a different tour focusing on medieval and countryside sites); here it appears as the third stop of a day built primarily around Cardiff city and the Bute Gothic legacy.",
+  "highlights": [
+    "Cardiff Castle — a Roman fort, Norman keep, and Victorian Gothic Revival palace combined; the Bute/Burges apartments (Clock Tower, Arab Room, Banqueting Hall) are among the most elaborate interiors in Wales",
+    "Castell Coch — William Burges's 1876 Neo-Gothic masterpiece above the Taff gorge: conical towers, a working drawbridge and portcullis, and interiors of extraordinary elaboration including a domed ceiling painted with birds of paradise",
+    "The 3rd Marquess of Bute — the wealthiest man in the world in 1868, whose Cardiff docks fortune funded the transformation of both castles; the partnership between Bute and architect William Burges produced the most concentrated example of High Victorian Gothic in Britain",
+    "Cardiff city walking tour — the National Museum Cardiff (Monet, Cézanne, Renoir, Rodin — one of the finest art collections in the UK), the Victorian Market and Edwardian arcades, and St John the Baptist church (15th-century tower still standing in the city centre)",
+    "Welsh House lunch — a traditional Welsh lunch at The Welsh House restaurant, including cawl, rarebit, and other regional dishes",
+    "Caerphilly Castle — the second largest castle in Britain (after Windsor), 13 kilometres north of Cardiff, with its vast 13th-century water defences and famous leaning tower"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Cardiff Castle",
+      "duration": "Approx. 1.5 hours",
+      "description": "Cardiff Castle occupies the site of a Roman fort founded in the 1st century AD, whose perimeter walls were incorporated into the Norman shell keep built in the 12th century and are still visible in the castle grounds. The outer walls, gatehouse, and Black Tower date from various medieval phases. The castle's defining character, however, is the transformation carried out by the 3rd Marquess of Bute and his architect William Burges between 1866 and 1927: a suite of state apartments fitted out in an extraordinary polychrome Gothic Revival style that took medieval European, Islamic, and Italianate decoration and merged them into something wholly Bute. The Clock Tower's Lady Bute Bedroom (with a domed ceiling inlaid with astrological symbols), the Arab Room (gilded Moorish stalactite vault and marble walls), the Chaucer Room (panels depicting Canterbury Tales scenes), and the Banqueting Hall form the core of the tour. During the Second World War, the tunnels beneath the castle walls were converted into air raid shelters — the Firing Line Museum covers the military history of the Cardiff garrison alongside the wartime shelters."
+    },
+    {
+      "order": 2,
+      "castle_name": "Cardiff City Walk",
+      "duration": "Approx. 1.5 hours (including lunch)",
+      "description": "From Cardiff Castle, the guide leads a walking tour of the civic core of Cardiff: Cathays Park and its Edwardian civic buildings (City Hall, the National Museum Cardiff), the Victorian Market (a covered iron-and-glass market hall established 1891), the Edwardian shopping arcades (Cardiff has more Victorian and Edwardian arcades than any other city in Britain), and St John the Baptist church (the 15th-century Perpendicular Gothic tower visible from the Hayes is one of the few medieval structures in the city centre). Lunch at The Welsh House — a restaurant serving traditional Welsh dishes including cawl (lamb broth), Welsh rarebit, and laverbread — is included in the tour."
+    },
+    {
+      "order": 3,
+      "castle_name": "Caerphilly Castle",
+      "castle_id": "caerphilly-castle",
+      "duration": "Approx. 1.5 hours",
+      "description": "Caerphilly Castle, 13 kilometres north of Cardiff, is the second largest castle complex in Britain after Windsor — at 30 acres, its size achieved not by height but by water. Gilbert de Clare built it between 1268 and 1271 in direct response to the growing power of Llywelyn ap Gruffudd, creating a concentric castle surrounded by three artificial lakes and two moats that made direct assault effectively impossible. The famous leaning southeast tower — tilted approximately 10 degrees from vertical, more than the Leaning Tower of Pisa — was deliberately undermined during the English Civil War. Caerphilly is also featured on a separate Cardiff day trip (with Raglan and Tretower) focused on medieval and rural South Wales sites; here it appears as a complementary stop on a day built around the Cardiff Bute legacy."
+    },
+    {
+      "order": 4,
+      "castle_name": "Castell Coch",
+      "duration": "Approx. 1.5 hours",
+      "description": "Castell Coch — the Red Castle — stands in the Taff gorge nine kilometres north of Cardiff, on the site of a medieval fortress of the Clare and Despenser families that had been ruinous since the 15th century. William Burges, the same architect as Cardiff Castle's apartments, designed the new building for the 3rd Marquess of Bute from 1875 — not as a restoration of the medieval ruins but as a new castle inspired by them, incorporating the original foundations and towers while completely replacing the fabric above ground. The result is the most complete example of Victorian Neo-Gothic castle building in Wales: three circular towers with tall conical roofs, a working drawbridge and portcullis (original and functional), a central courtyard, and interiors of extraordinary elaboration. The Lady Bute bedroom ceiling is painted with astrological medallions; the drawing room vault is covered in hand-painted frescoes of Aesop's Fables; the banqueting hall ceiling is painted with 700 birds of paradise from William Burges's personal aviary records. Burges died in 1881 before the interiors were complete; his team finished the programme under his detailed drawings. Castell Coch was never a primary residence — the Marquess used it occasionally as a Gothic summer retreat — but it was built and decorated to Burges's obsessive specification throughout."
+    }
+  ],
+  "included": [
+    "Private door-to-door pickup from your Cardiff accommodation",
+    "Private guide (English)",
+    "Private vehicle for the group",
+    "Cardiff Castle entry (apartments and grounds)",
+    "Cardiff city walking tour",
+    "Traditional Welsh lunch at The Welsh House",
+    "Caerphilly Castle entry",
+    "Castell Coch entry"
+  ],
+  "excluded": [
+    "National Museum Cardiff entry (free admission — self-directed visit during city walk)",
+    "Additional drinks or items beyond the included lunch"
+  ],
+  "meeting_point": "Private pickup from your Cardiff accommodation — confirm address at booking with Tours of the UK",
+  "tips": [
+    "Rating is based on 0 verified GYG reviews at the time of writing (the listing shows a provider rating of 4.6 based on the operator's wider portfolio). Approach this as an established private-tour operator with unverified reviews for this specific product.",
+    "The price ($1,079) is per group, not per person — for parties of 4 or more, the per-person cost is lower than many shared small-group alternatives.",
+    "Cardiff Castle's Bute apartments are the centrepiece of the morning — allow at least an hour. The clock tower rooms in particular reward attention; the Arab Room ceiling is one of the most photographed interiors in Wales.",
+    "Castell Coch's drawbridge and portcullis are the real article — functional original mechanisms, not Victorian decorations. Ask the guide to demonstrate.",
+    "The Caerphilly leaning tower is best photographed from the outer ward looking south — include a vertical reference in the shot (a tower edge works well) to make the lean visible.",
+    "Caerphilly also features on a separate day trip from Cardiff covering three medieval castles (Caerphilly, Raglan, and Tretower) in the South Wales countryside — a different tour for visitors focused on medieval castle architecture rather than the city and the Bute Gothic legacy."
+  ],
+  "faqs": [
+    {
+      "question": "How is this different from the Cardiff three-castles day trip with Caerphilly, Raglan & Tretower?",
+      "answer": "The Cardiff three-castles trip (/tours/wales/cardiff-three-castles-caerphilly-raglan) is focused on medieval castle architecture in the South Wales countryside — Caerphilly, Raglan Civil War ruins, and Tretower Court, all outside Cardiff, with no city component. This tour is built around the Victorian Gothic legacy of the Marquess of Bute in Cardiff itself: Cardiff Castle's extraordinary Bute apartments (a city-centre experience), the Cardiff city walk, and Castell Coch's Neo-Gothic towers above the Taff gorge, with Caerphilly as a complementary final stop. They share only Caerphilly."
+    },
+    {
+      "question": "What makes Castell Coch special compared to other Victorian castle restorations?",
+      "answer": "Most Victorian castle 'restorations' involve grafting historical-style decoration onto surviving medieval fabric. Castell Coch is something different: Burges found three crumbling tower bases and a scatter of rubble, studied the medieval fortress's proportions, and designed a completely new building on the foundations — functional as a building, obsessively detailed in its interior decoration, and built for an owner who could afford to execute every design to specification. The result is not a pastiche medieval castle but an original work of Victorian Gothic imagination, as coherent in its way as the medieval originals that inspired it."
+    },
+    {
+      "question": "What is the National Museum Cardiff, and is it worth visiting?",
+      "answer": "The National Museum Cardiff in Cathays Park holds one of the finest art collections in the United Kingdom — donated largely by the Davies sisters (Gwendoline and Margaret) from their family's Welsh coal fortune. The collection includes Monet's waterlilies, Cézanne, Renoir, Rodin (the museum holds more Rodin bronzes than any collection outside France), and a significant collection of Impressionist and Post-Impressionist work. Admission is free. The tour walk passes through Cathays Park; the guide can allow time inside the museum on request."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/cardiff-castle-caerphilly-castell-coch.webp",
+    "alt": "Castell Coch rising from the wooded Taff gorge above Cardiff — William Burges's 1876 Neo-Gothic dream castle with its conical towers and working drawbridge",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Cardiff: Cardiff Castle, Castell Coch & Caerphilly Private Day Tour",
+    "description": "Private day tour of Cardiff's Bute Gothic legacy — Cardiff Castle's Victorian apartments, Castell Coch's fairy-tale towers above the Taff gorge, and Caerphilly (the largest castle in Wales). From $1,079 per group."
+  }
+}
