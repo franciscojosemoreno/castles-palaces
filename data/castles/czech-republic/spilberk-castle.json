@@ -1,0 +1,103 @@
+{
+  "id": "spilberk-castle",
+  "name": "Špilberk Castle",
+  "local_name": "Hrad Špilberk",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 150000,
+  "country": "czech-republic",
+  "region": "South Moravia",
+  "nearest_city": "Brno",
+  "address": "Špilberk 210/1, 662 24 Brno, Czech Republic",
+  "lat": 49.1946,
+  "lng": 16.5987,
+  "unesco": false,
+  "year_built": 1270,
+  "architectural_style": "Originally Gothic — evolved through Renaissance rebuilding into a Baroque fortress system; bastioned defensive earthworks around a central late medieval palace complex; the city museum occupies the interior",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Nov–Mar: 09:00–17:00. May–Sep: open until 18:00. Casemates (dungeons) on separate schedule; closed for maintenance periods — check spilberk.cz."
+  },
+  "price_adult": 130,
+  "price_child": 70,
+  "price_currency": "CZK",
+  "booking_required": false,
+  "official_tickets_url": "https://www.spilberk.cz",
+  "visit_duration": "1.5–2 hours (castle hill and panoramic views); 2.5–3 hours with museum access and casemates",
+  "best_season": "April to October — Špilberk Park blooms in spring, the panoramic city views are clearest, and the casemates are less cold",
+  "accessibility": "The main castle entrance via Špilberk Park involves an uphill walk. The castle and museum are accessible on the upper level. The casemates (underground) involve significant stairs — not accessible for visitors with mobility limitations.",
+  "booking_advance_days": 0,
+  "tagline": "Brno's hilltop castle and prison — the former seat of the Moravian margraves, later the most feared Habsburg military prison in Central Europe, now the city museum with panoramic views across Moravia",
+  "highlights": [
+    "Panoramic views from the castle hill — Špilberk stands 288m above sea level on a hill directly above Brno city centre, with views across southern Moravia, the Dyje valley to the south, and the Carpathian foothills to the northeast",
+    "The casemates (underground dungeons) — the barrel-vaulted stone corridors beneath the castle that served as Habsburg military prison cells from 1783 to 1855, incarcerating Italian carbonari, Polish revolutionaries, Hungarian patriots, and Czech nationalist intellectuals",
+    "City Museum permanent exhibitions — the history of Brno and Moravia from prehistoric times through the 20th century, housed in the castle's former palace and administrative buildings",
+    "The bastioned defensive system — the earthwork bastions added around the castle perimeter in the 17th–18th centuries, which give the hilltop its distinctive star-shaped plan visible from the air",
+    "Špilberk Park — the woodland park on the castle slopes, one of Brno's most popular green spaces, with marked paths ascending through the city's oldest public park to the castle terrace",
+    "Brno city walking tour access — the GYG-listed tour covers Brno's historic centre before ascending to Špilberk, providing the full Old Town context (St Thomas Church, Zelný trh market square, Capuchin Monastery, Cathedral) alongside the castle"
+  ],
+  "description": "Špilberk Castle occupies the highest point above Brno, the capital of Moravia and the second city of the Czech Republic, on a limestone hill 288 metres above sea level. From its position the castle commands views across the flat southern Moravian plain toward Austria, across the vine-covered hills of the Pálava region, and back across the medieval city centre directly below. It is both the city's defining skyline landmark and a building whose history encodes most of Moravia's major turning points from the 13th century to the mid-19th.\n\nThe castle was founded around 1270 by the Přemyslid margrave Ottokar II of Bohemia as a royal seat for the Margraviate of Moravia — the administrative division through which the Bohemian crown governed the Moravian lands. Ottokar's original castle was a Gothic palace complex on the hilltop; subsequent Moravian margraves made Špilberk their principal seat, and the castle's role as a royal and administrative residence continued through the Luxembourg dynasty (Charles IV, Holy Roman Emperor, spent significant time at Špilberk in the 14th century) and into the early Jagiellon period.\n\nThe castle's character changed profoundly under Habsburg rule. The Habsburgs, who acquired Bohemia and Moravia in 1526, rebuilt Špilberk as a military fortress: the Gothic palace complex was reinforced, the outer perimeter was extended with Baroque-era earthwork bastions, and the casemate system — the barrel-vaulted underground corridors cut into the castle hill — was expanded for military storage. In 1783 the military conversion was completed when Emperor Joseph II converted Špilberk into a military prison for the Habsburg Empire's most dangerous political prisoners. It served in this capacity until 1855.\n\nThe Špilberk casemates became one of the most notorious prisons in Central Europe during the late 18th and early 19th centuries — a deliberate destination for political prisoners whose imprisonment the Habsburg authorities wanted to make exemplary. Italian carbonari and revolutionary patriots caught in the Napoleonic aftermath; Polish insurrectionists from the 1830 uprising; Hungarian political figures from the revolutionary movements of the 1840s; Czech intellectual nationalists — all passed through the Špilberk cells. The Italian poet Silvio Pellico, imprisoned here from 1822 to 1830, wrote the memoir Le mie prigioni (My Prisons, 1832), which made Špilberk internationally notorious and directly damaged Habsburg prestige across Europe. The book went through dozens of editions in multiple languages in its first decade.\n\nAfter the prison's closure in 1855, the castle was gradually converted to civilian use. The Brno City Museum moved in during the early 20th century and remains the primary occupant of the castle's interiors. The permanent exhibitions cover Brno and Moravia's history across multiple periods; the casemate dungeons are open to visitors on a separate schedule with a distinct ticket.\n\nThe GYG-listed Brno city walking tour that includes Špilberk ($20, 3 hours, live English guide) approaches the castle from the city centre rather than directly. The tour covers Brno's historic centre first — St. Thomas Church (housing the remains of three Moravian margraves), the Zelný trh vegetable market square (Brno's oldest market, operating since the 13th century), the Marian Plague Column, the elaborate Astronomical Clock on the main square (which chimes at 11am rather than noon, commemorating a Swede-tricked-clock story from the Thirty Years' War siege), the Capuchin Monastery with its mummified monks in the crypt, the Old Town Hall with its crocodile legend, and the Cathedral of St. Peter and Paul — before concluding at Špilberk Castle. The GYG itinerary marks the Špilberk portion as optional, making clear that the tour is city-walk-led with the castle as its endpoint and viewpoint rather than the interior experience of a dedicated museum tour. Visitors wanting a fuller Špilberk interior experience should plan additional time beyond the walking tour's end for the museum and casemates.",
+  "history": "Founded c.1270 by Přemyslid margrave Ottokar II as the Moravian margraves' seat. Expanded under the Luxembourg dynasty in the 14th century. Converted to a Baroque military fortress by the Habsburgs in the 16th–17th centuries, with earthwork bastions added around the perimeter. Converted to military prison in 1783 under Emperor Joseph II; used until 1855. Brno City Museum established in the castle from the early 20th century. Casemates open to visitors as a separate exhibit.",
+  "how_to_visit": "**Getting there:** Špilberk Park entrances are a 10-minute walk from Brno's main square (náměstí Svobody) or 5 minutes from Brno's Petrov cathedral hill. The castle terrace is a 15-minute walk from the city centre. No direct public transport — the park is walkable from anywhere in the Old Town.\n\n**Brno walking tour:** The GYG city tour ($20, 3 hours, live English guide) covers the historic centre and ends at Špilberk. **The Špilberk portion is marked as optional** on the GYG itinerary — the tour is primarily a city walk, not a guided castle interior experience.\n\n**Self-guided castle visit:** Entry to the castle courtyard and museum is available independently from the walking tour (~130 CZK adult). The casemates have a separate entry and schedule.\n\n**Combine with Lednice Castle:** Lednice Castle (UNESCO Liechtenstein palace) is approximately 70km south — a viable day trip from Brno by car or by tour bus.",
+  "faqs": [
+    {
+      "question": "Is the Brno walking tour mainly about Špilberk Castle?",
+      "answer": "No — the GYG Brno tour ($20, 3 hours) is primarily a historic city centre walking tour covering St. Thomas Church, Zelný trh market, the Capuchin Monastery, Astronomical Clock, Old Town Hall, and the Cathedral. Špilberk Castle is the final stop, listed as optional. Visitors wanting a comprehensive guided tour of the castle museum and casemates should plan additional time after the walking tour."
+    },
+    {
+      "question": "Who was Silvio Pellico and why is he associated with Špilberk?",
+      "answer": "Silvio Pellico (1789–1854) was an Italian Romantic poet and playwright imprisoned at Špilberk by the Habsburg authorities from 1822 to 1830 as a carbonaro — a member of the secret patriotic societies working for Italian independence from Austrian control. His memoir Le mie prigioni (My Prisons, 1832), written after his release, described conditions in the Špilberk casemates and became an international bestseller. The book was translated into dozens of languages within its first decade and made Špilberk notorious across Europe as a symbol of Habsburg political repression."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/spilberk-castle.webp",
+    "alt": "Špilberk Castle above Brno on its limestone hill, the bastioned fortress and city museum with panoramic views across southern Moravia",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/spilberk-castle.webp",
+  "instagram_tag": "#spilberkcastle",
+  "meta_title": "Špilberk Castle Brno: Habsburg Prison & City Museum Guide 2026",
+  "meta_description": "Visit Špilberk Castle in Brno — the former seat of Moravian margraves, later the most feared Habsburg military prison in Central Europe. City walking tour + castle. From $20.",
+  "tags": [
+    "medieval",
+    "czech-republic",
+    "moravia",
+    "fortress",
+    "prison"
+  ],
+  "last_updated": "2026-07-09",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "1424",
+  "gyg_search_query": "Brno Spilberk Castle tour Czech Republic",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1228393",
+      "title": "Brno: Guided Walking Tour with Špilberk Castle",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 20,
+      "rating": 4.7,
+      "reviews": 7,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/brno-l1424/brno-guided-walking-tour-with-spilberk-castle-t1228393/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "spilberk-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
