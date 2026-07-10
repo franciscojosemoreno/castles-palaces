@@ -1,0 +1,109 @@
+{
+  "id": "palazzo-vecchio",
+  "name": "Palazzo Vecchio",
+  "local_name": "Palazzo della Signoria",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 750000,
+  "country": "italy",
+  "region": "Tuscany",
+  "nearest_city": "Florence",
+  "address": "Piazza della Signoria, 50122 Firenze FI, Italy",
+  "lat": 43.7697,
+  "lng": 11.2558,
+  "unesco": false,
+  "year_built": 1299,
+  "architectural_style": "Gothic civic architecture — built 1299–1314 as the centre of Florence's republican government, designed to embody the city's political independence from the Guelph bishops and the Ghibelline nobility; the facade is deliberately asymmetric (the Torre di Arnolfo is off-centre, built to avoid standing over the land of a condemned traitor); 19th-century neo-Gothic rusticated stonework additions complement the medieval original; later 16th-century interior transformation into a Medici ducal palace by Giorgio Vasari under Cosimo I de' Medici",
+  "opening_hours": {
+    "monday": "09:00–19:00",
+    "tuesday": "09:00–19:00",
+    "wednesday": "09:00–19:00",
+    "thursday": "09:00–19:00",
+    "friday": "09:00–23:00",
+    "saturday": "09:00–23:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Thu–Sat: extended to 23:00. Closed: 25 Dec, 1 Jan. Torre di Arnolfo (tower climb) has limited capacity and separate tickets. Book online for guaranteed morning entry."
+  },
+  "price_adult": 12,
+  "price_child": 5,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://museicivicifiorentini.comune.fi.it/palazzovecchio/",
+  "visit_duration": "1.5–2 hours (main palace); 30 minutes additional for the Torre di Arnolfo tower climb (separate ticket, limited access)",
+  "best_season": "October to March — summer crowds at Piazza della Signoria and the Uffizi can make the area very congested; the Thursday/Friday/Saturday evening openings until 23:00 offer a quieter experience year-round",
+  "accessibility": "The main palace rooms (ground and first floors, including the Salone dei Cinquecento) are accessible. Upper floors and the Torre di Arnolfo tower climb involve stairs only. Lift access for some sections — contact museicivicifiorentini.comune.fi.it for current accessibility details.",
+  "booking_advance_days": 3,
+  "tagline": "The heart of the Florentine Republic — a 13th-century civic fortress that became a Medici ducal palace, centre of Piazza della Signoria, with the 94-metre tower that has defined Florence's skyline since 1310",
+  "highlights": [
+    "The Salone dei Cinquecento (Hall of the Five Hundred) — the largest room in the palace, commissioned by Savonarola in 1494 for the newly restored republic's Great Council; Vasari's painted ceiling (begun 1563, 39 panels depicting Florentine military and civic history) and the vast wall frescoes overwhelm the room's 54×23m interior; this is where Cosimo I held court as Duke of Tuscany",
+    "The Torre di Arnolfo — the 94-metre tower (optional, separate ticket, limited capacity) offers panoramic views over Florence and the Arno valley; the tower's deliberate off-centre positioning on the palace facade — one of the most visible examples of medieval urban political symbolism — relates to a building code stipulating that public structures could not stand over the condemned family's razed house",
+    "The Studiolo of Francesco I — a tiny private study of Francesco I de' Medici (1570s), decorated floor-to-ceiling by Vasari and Bronzino with allegories of earth, air, fire, and water over 34 panels; one of the most complete surviving examples of Mannerist interior decoration, hidden away on the first floor as Francesco intended — a cabinet of curiosities that only privileged visitors could enter",
+    "Michelangelo's David (copy) and the Judith — the piazza outside the main entrance features a copy of Michelangelo's David (the original is in the Accademia); inside the palace, Donatello's original bronze Judith and Holofernes (1460s) stands in the Sala dei Gigli — one of the defining works of Florentine Renaissance sculpture",
+    "The Hall of Maps (Sala delle Carte Geografiche) — Cosimo I's studiolo of the world, with 53 painted wardrobe panels depicting maps of the known world as of the 1560s, plus a terrestrial globe 2.5 metres in diameter; a monument to the Medici vision of cosmopolitan power",
+    "First Florence/Tuscany entry on this site — the Palazzo Vecchio is the civic and artistic heart of the Florentine Republic and later the Medici Duchy; it is the single most historically concentrated building in Florence after the Cathedral complex"
+  ],
+  "description": "The Palazzo Vecchio is the building around which Florentine public life has revolved for more than 700 years. It is still the seat of Florence's city government — the mayor's office is inside — while simultaneously housing one of the most significant museum collections in the city and dominating the Piazza della Signoria, which is itself essentially an outdoor gallery of copies of major Florentine Renaissance sculpture. The building manages to be, simultaneously, a working municipal building, a major Renaissance and Gothic monument, a museum of extraordinary importance, and the backdrop for the piazza where the most violent moments of Florentine political history played out: the burning of Savonarola, the execution of the Pazzi conspirators, the proclamation of various short-lived republics and restorations.\n\nThe palace was commissioned in 1299 by the Priors of Florence (the governing council of the Florentine Republic) as a secure seat of government — literally a fortress in which the priors could deliberate without being subject to the violent pressure of factional politics. The design, attributed to Arnolfo di Cambio, is a massive, crenellated rectangle of rustic ashlar with an imposing vertical emphasis created by the 94-metre Torre di Arnolfo projecting from one corner. The tower's deliberate off-centre positioning on the facade — which gives the building its characteristically asymmetric appearance — is explained by a medieval building code that forbade erecting public structures over the razed site of a condemned traitor's house: the land under the tower's natural geometric centre had belonged to a family whose treason required that nothing be built there. The asymmetry that 21st-century visitors admire as dramatically medieval was, at the time, a legal constraint.\n\nThe building's character shifted radically in the 1560s, when Cosimo I de' Medici, having consolidated his position as Duke of Tuscany, commissioned Giorgio Vasari (the artist, architect, and first art historian) to transform the medieval republican palace into a ducal residence and display space. Vasari's programme was thorough and astonishing in scale: the Salone dei Cinquecento, the vast room originally built by Savonarola for the Great Council of the restored republic, was raised by several metres and its ceiling covered with 39 painted panels depicting the history of Florentine military and civic glory. The walls were frescoed with battle scenes. The room, 54 metres long and 23 metres wide, became the largest and most overtly propagandistic room in Renaissance Florence — a statement of Medici power framed in the vocabulary of republican history.\n\nThe Studiolo of Francesco I, hidden on the first floor, is the intimate counterpoint to the Salone's theatrical bombast. This tiny windowless room — essentially a private cabinet of curiosities — was designed by Vasari and decorated by Bronzino, Alessandro Allori, and dozens of other artists in the 1570s, its every surface covered with allegories of earth, air, fire, and water, painted over storage niches that once held Francesco's collection of precious natural specimens, tools, and curiosities. It is one of the most completely preserved examples of Mannerist interior design in existence, and one of the most quietly extraordinary rooms in a city full of extraordinary rooms.\n\nThe GYG-listed experience (t68021, 4.4★, 5,022 reviews, from $37, approximately 2 hours) covers the main palace with audioguide. The Torre di Arnolfo tower climb (separate ticket, limited daily capacity) is bookable independently through the city museums website. The palace is a 2-minute walk from the Uffizi Gallery and 5 minutes from the Duomo — allow a full day if combining all three.",
+  "history": "Built 1299–1314 by Arnolfo di Cambio as the seat of Florence's republican government. The tower's asymmetric position reflects a medieval building code regarding condemned traitors' land. Used continuously as Florence's civic centre; Savonarola burned at the stake in the piazza in 1498. Cosimo I de' Medici transformed the interior from 1540 with Vasari's comprehensive decorative programme. Palazzo Vecchio ('Old Palace') became its popular name after the Medici moved to the Pitti Palace (1549) across the Arno. Still Florence's city hall; museum sections managed by Musei Civici Fiorentini.",
+  "how_to_visit": "**GYG ticket/tour (from $37):** Tour t68021 (4.4★, 5,022 reviews) covers the main palace with audioguide, approximately 2 hours. The Torre di Arnolfo (tower climb) is a separate ticket and has limited daily capacity — book the tower through the city museums website (museicivicifiorentini.comune.fi.it) if you want to climb.\n\n**Getting there:** The palace is on Piazza della Signoria in Florence's historic centre — a 5-minute walk from the Duomo and 2 minutes from the Uffizi Gallery. Florence's historic centre is ZTL (restricted traffic zone) for cars. Nearest tram stops on the T1 line; taxis drop off at Piazza della Repubblica.\n\n**Combination:** The Uffizi Gallery (world's greatest collection of Italian Renaissance painting) is immediately adjacent. A full Florentine cultural day naturally covers the Cathedral complex, Palazzo Vecchio, and the Uffizi — book all three in advance in peak season.\n\n**Evening openings:** The palace stays open until 23:00 on Thursdays, Fridays, and Saturdays — the best time to see the Piazza della Signoria and the palace without summer crowd pressure.",
+  "faqs": [
+    {
+      "question": "Why is it called 'Palazzo Vecchio' (Old Palace)?",
+      "answer": "The 'Vecchio' (old) name came into use after 1549, when Cosimo I de' Medici moved the ducal residence from this palace to the newly acquired Pitti Palace across the Arno. The government palace in Piazza della Signoria became the 'old palace' relative to the Medici's new Pitti residence — an informal label that stuck. It had previously been called the Palazzo della Signoria (after the governing body of the republic) or simply Palazzo dei Priori."
+    },
+    {
+      "question": "Is the copy of Michelangelo's David outside worth seeing if I'm not going to the Accademia?",
+      "answer": "The Piazza della Signoria copy of the David (an 1873 marble replica) is in the same location where the original stood from 1504 until 1873, when it was moved inside the Accademia for conservation. For context and scale — understanding why the statue was positioned at this specific point on the piazza and what it communicated about Florentine republican identity — the copy in its original context is genuinely informative. For the sculpture itself, the Accademia original is the destination."
+    },
+    {
+      "question": "What is the Hall of Maps and why is Cosimo I's globe significant?",
+      "answer": "The Sala delle Carte Geografiche (Hall of Maps) was Cosimo I's private geographic study — 53 painted wardrobe doors depicting maps of the known world as of the 1560s, covering Europe, Asia, Africa, and the Americas (with the Americas in their early post-Columbus form), plus a terrestrial globe 2.5 metres in diameter by Egnazio Danti. At the time it was made, this was one of the most comprehensive cartographic programmes in private possession — a statement that the Duke of Tuscany's intellectual horizon extended to the whole known world."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/palazzo-vecchio.webp",
+    "alt": "Palazzo Vecchio on Piazza della Signoria in Florence — the 1299 Gothic civic fortress with its asymmetric 94-metre Torre di Arnolfo, seat of the Florentine Republic and later the Medici Duchy, still Florence's city hall",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/palazzo-vecchio.webp",
+  "instagram_tag": "#palazzovecchio",
+  "meta_title": "Palazzo Vecchio Florence: History, Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Palazzo Vecchio on Piazza della Signoria — Florence's 1299 Gothic civic palace with the Salone dei Cinquecento, Studiolo of Francesco I, and Hall of Maps. Torre di Arnolfo tower views. From €12.",
+  "tags": [
+    "italy",
+    "florence",
+    "tuscany",
+    "gothic",
+    "medici",
+    "renaissance",
+    "civic"
+  ],
+  "last_updated": "2026-07-10",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "32",
+  "gyg_search_query": "Palazzo Vecchio Florence guided tour audioguide entry",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "68021",
+      "title": "Florence: Palazzo Vecchio Entry Ticket with Audioguide",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 37,
+      "rating": 4.4,
+      "reviews": 5022,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/florence-l32/florence-palazzo-vecchio-entry-ticket-with-audioguide-t68021/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palazzo-vecchio"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
