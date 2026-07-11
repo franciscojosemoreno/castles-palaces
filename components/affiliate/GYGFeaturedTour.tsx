@@ -43,7 +43,7 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
       </div>
       <div className="flex items-center gap-2 mb-4">
         <span className="font-bold text-[#1a1a1a] text-sm">
-          {tour.price_from != null ? `From $${tour.price_from}` : 'Check availability'}
+          {tour.price_from != null ? `From €${tour.price_from}` : 'Check availability'}
         </span>
         <span className="bg-stone-100 text-stone-600 text-xs font-medium px-2 py-0.5 rounded-full">
           {typeLabels[tour.type]}

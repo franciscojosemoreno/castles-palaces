@@ -117,9 +117,12 @@ export default async function CastlePage({ params }: PageProps) {
               )}
             </div>
 
-            {/* Quick facts — mobile only */}
-            <div className="lg:hidden mb-6">
+            {/* Quick facts + featured tour — mobile only */}
+            <div className="lg:hidden mb-6 space-y-4">
               <CastleQuickFacts castle={castle} />
+              {castle.gyg_featured_tours && castle.gyg_featured_tours.length > 0 && (
+                <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
+              )}
             </div>
 
             {/* Highlights */}
@@ -254,12 +257,7 @@ export default async function CastlePage({ params }: PageProps) {
           </aside>
         </div>
 
-        {/* Featured tour + GYG Widget — mobile (after main content) */}
-        {castle.gyg_featured_tours && castle.gyg_featured_tours.length > 0 && (
-          <div className="lg:hidden mt-6">
-            <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
-          </div>
-        )}
+        {/* GYG Widget — mobile (after main content) */}
         <div className="lg:hidden mt-6">
           <GYGWidget
             locationId={castle.gyg_location_id}
