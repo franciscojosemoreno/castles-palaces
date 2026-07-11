@@ -117,22 +117,8 @@ export default async function CastlePage({ params }: PageProps) {
               )}
             </div>
 
-            {/* Price anchor + Quick facts — mobile only */}
+            {/* Quick facts — mobile only */}
             <div className="lg:hidden mb-6">
-              {castle.price_adult !== undefined && (
-                <div className="flex items-center gap-3 mb-3 px-4 py-2.5 bg-[#f5f0e8] rounded-lg border border-stone-200">
-                  <span className="text-[#c9a84c] text-lg">🎟</span>
-                  <span className="text-sm text-stone-600">
-                    {castle.price_adult === 0
-                      ? <strong className="text-[#1761a0]">Free entry</strong>
-                      : <>Entry from <strong className="text-[#1761a0]">€{castle.price_adult}</strong> per adult</>
-                    }
-                  </span>
-                  {castle.best_season && (
-                    <span className="ml-auto text-xs text-stone-400 hidden xs:block">Best: {castle.best_season}</span>
-                  )}
-                </div>
-              )}
               <CastleQuickFacts castle={castle} />
             </div>
 
