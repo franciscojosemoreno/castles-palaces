@@ -24,6 +24,14 @@ export default function AboutPage() {
         <p>
           This site uses affiliate links with GetYourGuide. When you book a tour through our links, we earn a small commission at no additional cost to you. This is what keeps the site free and independent.
         </p>
+
+        <div className="mt-10 pt-8 border-t border-stone-200">
+          <h2 className="font-serif font-semibold text-[#1761a0] text-xl mb-3">Legal Notice</h2>
+          <p className="text-stone-600">
+            Castles &amp; Palaces is operated by Castles Palaces (Francisco José Moreno), Migueletes, Buenos Aires, Argentina.
+            Contact: <a href="mailto:castlespalacesfm@gmail.com" className="text-[#1761a0] underline hover:text-[#c9a84c] transition-colors">castlespalacesfm@gmail.com</a>.
+          </p>
+        </div>
       </div>
     </div>
   );

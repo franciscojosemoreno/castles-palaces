@@ -72,24 +72,6 @@ export default async function CastlePage({ params }: PageProps) {
         <div className="mt-6 lg:grid lg:grid-cols-[1fr_340px] lg:gap-10">
           {/* ── Main content ─────────────────────────────────── */}
           <div className="min-w-0">
-            {/* Hero image */}
-            <div className="relative aspect-[16/12] -mx-4 sm:mx-0 rounded-none sm:rounded-xl overflow-hidden mb-6">
-              <Image
-                src={castle.hero_image.url}
-                alt={castle.hero_image.alt}
-                fill
-                priority
-                quality={90}
-                className="object-cover object-center"
-                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, calc(100vw - 380px)"
-              />
-              {castle.hero_image.credit && (
-                <p className="absolute bottom-2 right-3 text-white/60 text-xs">
-                  © {castle.hero_image.credit}
-                </p>
-              )}
-            </div>
-
             {/* Title block */}
             {castle.unesco && (
               <div className="flex flex-wrap gap-2 mb-3">
@@ -109,10 +91,31 @@ export default async function CastlePage({ params }: PageProps) {
               {castle.nearest_city ? ` · Near ${castle.nearest_city}` : ''}
             </p>
             {castle.year_built && castle.architectural_style && (
-              <p className="text-stone-500 text-sm mb-4">
+              <p className="text-stone-500 text-sm mb-3">
                 Built {castle.year_built} · {castle.architectural_style}
               </p>
             )}
+            <p className="text-stone-500 text-sm mb-5">
+              This page is part of an independent travel guide and is not affiliated with, endorsed by, or operated by {castle.name}.
+            </p>
+
+            {/* Hero image */}
+            <div className="relative aspect-[16/9] rounded-xl overflow-hidden mb-6">
+              <Image
+                src={castle.hero_image.url}
+                alt={castle.hero_image.alt}
+                fill
+                priority
+                quality={90}
+                className="object-cover object-center"
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, calc(100vw - 380px)"
+              />
+              {castle.hero_image.credit && (
+                <p className="absolute bottom-2 right-3 text-white/60 text-xs">
+                  © {castle.hero_image.credit}
+                </p>
+              )}
+            </div>
 
             {/* Price anchor + Quick facts — mobile only */}
             <div className="lg:hidden mb-6">

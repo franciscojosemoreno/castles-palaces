@@ -66,8 +66,17 @@ export default async function TourPage({ params }: Props) {
         {/* Left column */}
         <div className="min-w-0">
 
+          {/* Title block */}
+          <p className="text-[#c9a84c] text-xs font-medium uppercase tracking-wider mb-2">
+            Departing from {tour.departure_city}
+          </p>
+          <h1 className="font-serif text-3xl sm:text-4xl font-bold text-[#1761a0] leading-tight mb-2">
+            {tour.name}
+          </h1>
+          <p className="text-stone-500 text-base mb-5">{tour.tagline}</p>
+
           {/* Hero image */}
-          <div className="relative aspect-[16/12] -mx-4 sm:mx-0 rounded-none sm:rounded-xl overflow-hidden mb-6">
+          <div className="relative aspect-[16/9] rounded-xl overflow-hidden mb-6">
             <Image
               src={tour.hero_image.url}
               alt={tour.hero_image.alt}
@@ -78,15 +87,6 @@ export default async function TourPage({ params }: Props) {
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, calc(100vw - 380px)"
             />
           </div>
-
-          {/* Title block */}
-          <p className="text-[#c9a84c] text-xs font-medium uppercase tracking-wider mb-2">
-            Departing from {tour.departure_city}
-          </p>
-          <h1 className="font-serif text-3xl sm:text-4xl font-bold text-[#1761a0] leading-tight mb-2">
-            {tour.name}
-          </h1>
-          <p className="text-stone-500 text-base mb-4">{tour.tagline}</p>
 
           {/* Price + rating — visible on mobile only (desktop has sidebar) */}
           <div className="lg:hidden flex items-center gap-4 mb-6 py-3 px-4 bg-[#f5f0e8] rounded-lg">
