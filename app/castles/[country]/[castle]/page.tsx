@@ -272,7 +272,15 @@ export default async function CastlePage({ params }: PageProps) {
       {/* ── Sticky mobile booking bar ── */}
       <div className="lg:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-stone-200 shadow-[0_-4px_12px_rgba(0,0,0,0.08)] px-4 py-3 flex items-center gap-3">
         <div className="flex-1 min-w-0">
-          {castle.price_adult !== undefined && castle.price_adult > 0 ? (
+          {castle.gyg_featured_tours?.[0]?.price_from != null ? (
+            <>
+              <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
+              <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
+                €{castle.gyg_featured_tours[0].price_from}
+                <span className="text-stone-400 font-normal text-xs ml-1">/ person</span>
+              </p>
+            </>
+          ) : castle.price_adult !== undefined && castle.price_adult > 0 ? (
             <>
               <p className="text-xs text-stone-500 leading-none mb-0.5">Entry from</p>
               <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
@@ -287,12 +295,12 @@ export default async function CastlePage({ params }: PageProps) {
           )}
         </div>
         <a
-          href={getGYGSearchUrl(castle.name)}
+          href={castle.gyg_featured_tours?.[0]?.booking_url_override ?? getGYGSearchUrl(castle.name)}
           target="_blank"
           rel="noopener noreferrer sponsored"
           className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
         >
-          See Tours →
+          {castle.gyg_featured_tours?.[0] ? 'Top Tour →' : 'See Tours →'}
         </a>
       </div>
     </>
