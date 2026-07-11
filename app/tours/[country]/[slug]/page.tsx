@@ -76,14 +76,14 @@ export default async function TourPage({ params }: Props) {
           <p className="text-stone-500 text-base mb-5">{tour.tagline}</p>
 
           {/* Hero image */}
-          <div className="relative aspect-[16/9] rounded-xl overflow-hidden mb-6">
+          <div className="relative aspect-[16/12] rounded-xl overflow-hidden mb-6">
             <Image
               src={tour.hero_image.url}
               alt={tour.hero_image.alt}
               fill
               priority
               quality={90}
-              className="object-cover object-center"
+              className="object-cover object-top"
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, calc(100vw - 380px)"
             />
           </div>
