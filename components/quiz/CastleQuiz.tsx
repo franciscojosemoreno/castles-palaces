@@ -117,6 +117,37 @@ const CASTLE_POOL = [
   { id: 'frederiksborg-palace', name: 'Frederiksborg Palace', country: 'denmark', slug: 'frederiksborg-palace', tags: ['renaissance', 'palace', 'baroque-garden', 'museum', 'lake', '17th-century', 'instagram-worthy'] },
   { id: 'gravensteen', name: 'Gravensteen', country: 'belgium', slug: 'gravensteen', tags: ['medieval', 'crusader', 'city-centre', 'instagram-worthy', 'norman', 'fortress', 'family-friendly'] },
   { id: 'klis-fortress', name: 'Klis Fortress', country: 'croatia', slug: 'klis-fortress', tags: ['medieval', 'game-of-thrones', 'clifftop', 'dramatic', 'coastal', 'fortress', 'instagram-worthy'] },
+  // Batch AK
+  { id: 'inverness-castle', name: 'Inverness Castle', country: 'scotland', slug: 'inverness-castle', tags: ['scottish-castle', '19th-century', 'city-centre', 'dramatic', 'off-the-beaten-path', 'instagram-worthy', 'iconic'] },
+  { id: 'sintra-national-palace', name: 'Sintra National Palace', country: 'portugal', slug: 'sintra-national-palace', tags: ['medieval', 'royal-residence', 'manueline', 'instagram-worthy', 'fairy-tale', 'colorful', 'unique', 'museum'] },
+  { id: 'solliden-royal-palace', name: 'Solliden Royal Palace', country: 'sweden', slug: 'solliden-royal-palace', tags: ['royal-residence', 'palace', 'coastal', 'sea-view', '19th-century', 'romantic', 'family-friendly', 'gardens'] },
+  { id: 'clos-luce-castle', name: 'Clos Lucé Castle', country: 'france', slug: 'clos-luce-castle', tags: ['renaissance', '16th-century', 'museum', 'french-castle', 'forest', 'royal-residence', 'unique'] },
+  // Batch AL
+  { id: 'rundale-palace', name: 'Rundāle Palace', country: 'latvia', slug: 'rundale-palace', tags: ['baroque', 'palace', 'gardens', 'off-the-beaten-path', 'museum', '18th-century', 'royal-residence', 'instagram-worthy'] },
+  { id: 'aranjuez-royal-palace', name: 'Aranjuez Royal Palace', country: 'spain', slug: 'aranjuez-royal-palace', tags: ['baroque', 'palace', 'royal-residence', 'gardens', 'instagram-worthy', 'iconic', 'unesco-world-heritage', '18th-century'] },
+  { id: 'bratislava-castle', name: 'Bratislava Castle', country: 'slovakia', slug: 'bratislava-castle', tags: ['habsburg', 'medieval', 'dramatic', 'hilltop', 'city-centre', 'museum', 'iconic', 'royal-residence'] },
+  // Batch AM
+  { id: 'civitella-del-tronto-fortress', name: 'Civitella del Tronto Fortress', country: 'italy', slug: 'civitella-del-tronto-fortress', tags: ['fortress', 'hilltop', 'dramatic', 'mountain', 'off-the-beaten-path', 'medieval', 'instagram-worthy', 'unique'] },
+  { id: 'devin-castle', name: 'Devín Castle', country: 'slovakia', slug: 'devin-castle', tags: ['medieval', 'ruins', 'dramatic', 'off-the-beaten-path', 'river', 'instagram-worthy', 'habsburg', 'gothic'] },
+  { id: 'eltham-palace', name: 'Eltham Palace', country: 'england', slug: 'eltham-palace', tags: ['english-castle', 'city-centre', 'museum', 'royal-residence', 'unique', 'off-the-beaten-path', 'medieval'] },
+  // Batch AN
+  { id: 'kokorin-castle', name: 'Kokořín Castle', country: 'czech-republic', slug: 'kokorin-castle', tags: ['gothic', 'medieval', 'forest', 'off-the-beaten-path', 'habsburg', 'dramatic', 'instagram-worthy'] },
+  { id: 'chateau-de-salignac', name: 'Château de Salignac', country: 'france', slug: 'chateau-de-salignac', tags: ['medieval', 'french-castle', 'off-the-beaten-path', 'dramatic', 'romantic', 'forest', 'unique'] },
+  // Batch AO
+  { id: 'maglic-fortress', name: 'Maglič Fortress', country: 'serbia', slug: 'maglic-fortress', tags: ['medieval', 'fortress', 'dramatic', 'byzantine', 'off-the-beaten-path', 'game-of-thrones', 'ruins', 'hilltop'] },
+  { id: 'skanderbeg-castle', name: 'Skanderbeg Castle', country: 'albania', slug: 'skanderbeg-castle', tags: ['medieval', 'fortress', 'dramatic', 'mountain', 'off-the-beaten-path', 'hilltop', 'ottoman', 'instagram-worthy'] },
+  // Batch AP
+  { id: 'ravadinovo-castle', name: 'Ravadinovo Castle', country: 'bulgaria', slug: 'ravadinovo-castle', tags: ['fairy-tale', 'romantic', 'colorful', 'instagram-worthy', 'bulgarian', 'disney-inspired', 'unique', 'off-the-beaten-path'] },
+  { id: 'castle-of-ponferrada', name: 'Castle of Ponferrada', country: 'spain', slug: 'castle-of-ponferrada', tags: ['medieval', 'crusader', 'fortress', 'dramatic', 'off-the-beaten-path', 'unique', 'museum'] },
+  { id: 'porto-palermo-castle', name: 'Porto Palermo Castle', country: 'albania', slug: 'porto-palermo-castle', tags: ['ottoman', 'coastal', 'dramatic', 'sea-view', 'off-the-beaten-path', 'hilltop', 'instagram-worthy'] },
+  // Batch AQ
+  { id: 'dublin-castle', name: 'Dublin Castle', country: 'ireland', slug: 'dublin-castle', tags: ['irish-castle', 'medieval', 'city-centre', 'museum', 'dramatic', 'iconic', 'royal-residence'] },
+  { id: 'palazzo-vecchio', name: 'Palazzo Vecchio', country: 'italy', slug: 'palazzo-vecchio', tags: ['renaissance', 'gothic', 'city-centre', 'museum', 'iconic', 'instagram-worthy', '16th-century'] },
+  { id: 'chatsworth-house', name: 'Chatsworth House', country: 'england', slug: 'chatsworth-house', tags: ['baroque', 'english-castle', 'royal-residence', 'gardens', 'family-friendly', 'iconic', '17th-century', 'palace'] },
+  { id: 'belem-tower', name: 'Belém Tower', country: 'portugal', slug: 'belem-tower', tags: ['manueline', 'renaissance', 'coastal', 'sea-view', 'instagram-worthy', 'iconic', 'unesco', '16th-century'] },
+  // Batch AR
+  { id: 'manasija-monastery', name: 'Manasija Monastery', country: 'serbia', slug: 'manasija-monastery', tags: ['medieval', 'byzantine', 'fortress', 'off-the-beaten-path', 'forest', 'dramatic', 'game-of-thrones', 'instagram-worthy'] },
+  { id: 'wisloujscie-fortress', name: 'Wisłoujście Fortress', country: 'poland', slug: 'wisloujscie-fortress', tags: ['medieval', 'fortress', 'coastal', 'sea-view', 'off-the-beaten-path', 'dramatic', 'museum', 'unique'] },
 ];
 
 function computeResult(answers: string[][]): typeof CASTLE_POOL[0] {
