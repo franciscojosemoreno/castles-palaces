@@ -624,6 +624,24 @@
     }
   },
   {
+    "slug": "san-marino",
+    "name": "San Marino",
+    "description": "The world's oldest republic, San Marino clings to three limestone peaks — the Three Towers of Mount Titano — and has maintained uninterrupted self-governance since the 13th century. Surrounded entirely by Italy, this UNESCO-listed microstate offers one of Europe's most unusual heritage experiences: a medieval fortress complex that is simultaneously a living national capital and the enduring symbol of seven centuries of democratic sovereignty.",
+    "hero_image": {
+      "url": "/images/countries/san-marino.webp",
+      "alt": "The Three Towers of Mount Titano rising above the Republic of San Marino",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "guaita-tower"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/san-marino-thumb.webp",
+      "alt": "Guaita Tower and Mount Titano, Republic of San Marino"
+    }
+  },
+  {
     "slug": "kosovo",
     "name": "Kosovo",
     "description": "Europe's newest country carries an outsized share of Balkan history in a small footprint. Prizren Fortress, rebuilt by Sultan Mehmed II on Byzantine foundations, watched the 1878 founding of the League of Prizren — the first organised Albanian national movement — directly below its walls. Kosovo's fortified hilltops trace a continuous line from Byzantine garrison to Ottoman provincial seat to the birthplace of modern Albanian and Kosovar identity.",

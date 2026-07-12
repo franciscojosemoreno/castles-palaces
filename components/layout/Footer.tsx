@@ -50,6 +50,7 @@ export default function Footer() {
               <li><Link href="/castles/austria" className="hover:text-[#c9a84c] transition-colors">Austria</Link></li>
               <li><Link href="/castles/czech-republic" className="hover:text-[#c9a84c] transition-colors">Czech Republic</Link></li>
               <li><Link href="/castles/romania" className="hover:text-[#c9a84c] transition-colors">Romania</Link></li>
+              <li><Link href="/castles/san-marino" className="hover:text-[#c9a84c] transition-colors">San Marino</Link></li>
             </ul>
           </div>
 
