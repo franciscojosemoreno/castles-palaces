@@ -78,7 +78,9 @@
   ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "linlithgow-palace"
+  ],
   "gyg_location_id": "115822",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Blackness Castle Firth of Forth cruise",

@@ -78,7 +78,9 @@
   ],
   "last_updated": "2026-07-06",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "mdina"
+  ],
   "gyg_location_id": "2070",
   "gyg_search_query": "Palazzo Falson Mdina Malta entry ticket",
   "gyg_widget_type": "activities",

@@ -80,7 +80,9 @@
   ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "kale-fortress"
+  ],
   "gyg_location_id": "2468",
   "gyg_search_query": "Samuel Fortress Ohrid tour North Macedonia",
   "gyg_widget_type": "activities",
