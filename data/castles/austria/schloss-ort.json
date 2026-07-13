@@ -72,7 +72,9 @@
   "tags": ["austria", "upper-austria", "gmunden", "castle", "lake", "island", "salzkammergut", "traunsee"],
   "last_updated": "2026-07-13",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "hellbrunn-palace"
+  ],
   "gyg_location_id": "7",
   "gyg_search_query": "Schloss Ort Gmunden Hallstatt day trip Vienna",
   "gyg_widget_type": "activities",

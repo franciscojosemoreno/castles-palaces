@@ -82,7 +82,9 @@
   ],
   "last_updated": "2026-07-03",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "sagunto-castle"
+  ],
   "gyg_location_id": "49",
   "gyg_search_query": "Xàtiva Castle Valencia day trip",
   "gyg_widget_type": "activities",

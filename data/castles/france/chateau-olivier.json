@@ -72,7 +72,9 @@
   "tags": ["france", "bordeaux", "nouvelle-aquitaine", "castle", "wine", "pessac-leognan", "cru-classe", "biodiversity"],
   "last_updated": "2026-07-13",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "chateau-picque-caillou"
+  ],
   "gyg_location_id": "209",
   "gyg_search_query": "Chateau Olivier Bordeaux winery tour tasting",
   "gyg_widget_type": "activities",
