@@ -1,0 +1,114 @@
+{
+  "id": "oban-dunstaffnage-kilchurn-coffin-trail",
+  "slug": "oban-dunstaffnage-kilchurn-coffin-trail",
+  "name": "Oban: Dunstaffnage Castle, Kilchurn Castle & the Coffin Trail",
+  "tagline": "A local Oban circuit past two Highland castles, ancient burial grounds, and Highland cattle — with an optional seafood lunch on the pier",
+  "departure_country": "scotland",
+  "departure_city": "Oban",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "Half Day · 3 hours",
+  "gyg_tour_id": "262492",
+  "gyg_url": "https://www.getyourguide.com/oban-l457/oban-historical-tour-and-seafood-lunch-t262492/",
+  "price_from": 120.12,
+  "currency": "USD",
+  "rating": 4.9,
+  "review_count": 27,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 8,
+  "overview": "Most Highland tours ask you to spend half a day travelling from Glasgow or Edinburgh before you see anything. This one starts in Oban — the working ferry port at the heart of Argyll — and covers two medieval castles, the historic Coffin Trail through Glen Lonan, and one of Scotland's stranger ecclesiastical monuments in three hours by small-group minibus. The guide is live and local, the group stays small, and the route is designed for visitors already based on the Argyll coast.\n\nThe itinerary runs northwest from Oban to Dunstaffnage Castle — a massive 13th-century royal fortification on a basalt rock above the Firth of Lorn, used by Robert the Bruce as a northern base and later as the site of Flora MacDonald's brief imprisonment after the 1745 Jacobite rising. From there, the tour turns inland through Glen Lonan on the old Coffin Trail: the funeral route that communities along the glen used for generations to carry their dead to consecrated ground at Ardchattan Priory, following the valley floor through birch and oak forest with Highland cattle grazing on either side.\n\nSt Conan's Kirk, a Victorian and Edwardian architectural composite on the south shore of Loch Awe, holds the tour's most unusual stop — a bone relic of Robert the Bruce, housed in the Bruce Chapel, making the church one of the very few buildings in Scotland with a physical connection to the king who defined Scottish independence. Kilchurn Castle closes the Loch Awe circuit: the 15th-century tower house that was the original seat of Clan Campbell before the family moved to Inveraray, positioned on a headland at the loch's head that becomes an island at high water.\n\nThe tour returns to Oban pier — a working fishing harbour and the embarkation point for ferries to the Hebrides — in time for an optional seafood lunch. Oban's harbour restaurants serve some of the freshest shellfish and smoked fish in Scotland, and the pier itself, with McCaig's Tower on the hill above and the island of Mull framing the bay, is as good a lunch setting as Argyll offers.\n\nFor visitors based in Glasgow who want to cover Kilchurn, Inveraray, Glencoe, and Oban in a single long day, the [Kilchurn Castle, Inveraray & Glencoe: Highlands Day Trip from Glasgow](/tours/scotland/glasgow-kilchurn-inveraray-glencoe) (4.9★, 2,442 reviews, from $79, 10.5h) is the complementary full-day option — a different itinerary, a different starting city, and a different scope, but with Kilchurn Castle and the Oban harbour as overlapping anchors.",
+  "highlights": [
+    "Dunstaffnage Castle — a 13th-century royal fortress on a basalt promontory above the Firth of Lorn, used by Robert the Bruce as a Highland base and later as the place where Flora MacDonald was held after the 1745 Jacobite rising; one of the oldest continuously occupied castle sites in Scotland",
+    "The Coffin Trail through Glen Lonan — the historic funeral route that communities along the glen used for generations to carry their dead to Ardchattan Priory; the trail runs through a quiet valley of birch and oak forest with Highland cattle grazing on the lower slopes, entirely removed from the tourist circuits of the main Argyll roads",
+    "St Conan's Kirk and the bone of Robert the Bruce — the extraordinary Victorian-Edwardian church on the south shore of Loch Awe, built over 40 years and completed in 1930, holds a bone relic of Robert the Bruce in the Bruce Chapel; it is one of the few places in Scotland where a physical remnant of the king is accessible to visitors",
+    "Kilchurn Castle on Loch Awe — the 15th-century tower house built by Sir Colin Campbell of Glenorchy, expanded into a five-towered garrison castle in the 17th century; on a headland that becomes an island at high water, giving one of the most photographed silhouettes in the Highlands; original seat of Clan Campbell before the family moved to Inveraray",
+    "Departs from Oban — for visitors already based in Oban or along the Argyll coast, this tour removes the 2-hour drive from Glasgow that most Kilchurn visits require; the small-group minibus departs from the town centre and returns to the pier in time for lunch",
+    "Optional seafood lunch on Oban pier — the tour returns to Oban's working fishing harbour in time for lunch; the pier restaurants specialise in fresh Scottish shellfish, smoked fish, and oysters, with McCaig's Tower on the hill above and the Isle of Mull across the bay"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure — Oban Town Centre",
+      "duration": "Depart from Oban",
+      "description": "The tour departs from central Oban — a working ferry port and the main gateway to the Hebrides, with McCaig's Tower (a Victorian colosseum-like folly) visible on the hill above the bay. The guide introduces the day's route, the geology of the Argyll coastline, and the history of the Firth of Lorn, the sea passage between the mainland and the island of Mull that the tour skirts on its way northwest."
+    },
+    {
+      "order": 2,
+      "castle_name": "Dunstaffnage Castle",
+      "duration": "Stop",
+      "description": "Dunstaffnage Castle stands on a raised basalt rock above the Firth of Lorn, approximately 3 kilometres north of Oban — one of the oldest continuously occupied castle sites in Scotland, with the current massive curtain walls dating from the late 12th to 13th centuries. The castle served as one of Robert the Bruce's northern strongholds during the Wars of Scottish Independence; it was at Dunstaffnage that Flora MacDonald was briefly imprisoned in 1746 after helping Bonnie Prince Charlie escape following Culloden. The castle is now a Historic Environment Scotland property; the guide covers the castle's royal and Jacobite history."
+    },
+    {
+      "order": 3,
+      "castle_name": "Glen Lonan — The Coffin Trail",
+      "duration": "Drive and stop",
+      "description": "The route passes through Glen Lonan on the old Coffin Trail — the funeral route that communities along the glen used for generations to carry their dead to consecrated ground at Ardchattan Priory on the north shore of Loch Etive. The trail follows the valley floor through birch and oak woodland, crossing burns and open moorland; Highland cattle graze on the lower slopes. Glen Lonan is one of the quieter glens of Argyll, bypassed by the main tourist routes, and the Coffin Trail gives it a historical weight that the landscape alone does not immediately suggest."
+    },
+    {
+      "order": 4,
+      "castle_name": "St Conan's Kirk",
+      "duration": "Stop",
+      "description": "St Conan's Kirk on the south shore of Loch Awe is one of the most architecturally unusual church buildings in Scotland — a composite of Romanesque, Gothic, and Norman styles built over 40 years (1881–1930) by Walter Douglas Campbell, who incorporated elements from multiple historic church styles into a single personal vision. The Bruce Chapel inside the church holds a bone relic of Robert the Bruce — a fragment brought from Dunfermline Abbey, where the king is buried — making it one of the very few places in Scotland where a physical remnant of the king is accessible. The church also contains medieval stonework sourced from various Scottish ecclesiastical sites."
+    },
+    {
+      "order": 5,
+      "castle_name": "Kilchurn Castle — Loch Awe",
+      "duration": "Stop",
+      "description": "Kilchurn Castle occupies a headland at the head of Loch Awe — Scotland's longest freshwater loch, stretching 35 kilometres to the southwest. Built in the mid-15th century by Sir Colin Campbell of Glenorchy as a tower house, it was expanded in the 17th century into a five-towered garrison castle before being abandoned after a 1760 lightning strike damaged the keep. The headland becomes an island at high water, giving the castle one of the most photographed silhouettes in Scotland. Kilchurn was the original seat of the Clan Campbell before the family moved their centre of power to Inveraray in the 18th century."
+    },
+    {
+      "order": 6,
+      "castle_name": "Return — Oban Pier (Optional Lunch)",
+      "duration": "Tour end / optional",
+      "description": "Return to Oban pier — the tour's end point and the embarkation point for CalMac ferries to Mull, Lismore, Colonsay, and the southern Hebrides. The pier's seafood restaurants serve fresh Scottish oysters, scallops, langoustines, and smoked haddock, with the harbour, the bay, and the Isle of Mull as the view. Seafood lunch is optional and not included in the tour price; the guide can recommend specific pier-front venues."
+    }
+  ],
+  "included": [
+    "Local minibus transport for the full 3-hour circuit",
+    "Live English-speaking guide throughout",
+    "Wheelchair-accessible vehicle (confirm at booking)",
+    "Private and small-group options available"
+  ],
+  "excluded": [
+    "Dunstaffnage Castle entry fee (Historic Environment Scotland; confirm current price at historicenvironment.scot)",
+    "Seafood lunch on Oban pier (optional, not included — a separate cost at pier restaurants)",
+    "Personal travel insurance"
+  ],
+  "meeting_point": "Central Oban — exact departure point confirmed at booking. Oban is served by ScotRail trains from Glasgow Queen Street (approximately 3 hours) and by Scottish Citylink coaches from Glasgow and Edinburgh. Caledonian MacBrayne ferries connect Oban to the Hebrides.",
+  "tips": [
+    "This tour departs from Oban itself — it is designed for visitors already staying in Oban or arriving on the day by train or ferry, not a long day trip from Glasgow or Edinburgh; if you are based in Glasgow and want a single-day Highland circuit that includes Kilchurn, check the [Kilchurn Castle, Inveraray & Glencoe day trip from Glasgow](/tours/scotland/glasgow-kilchurn-inveraray-glencoe) (4.9★, 2,442 reviews, 10.5 hours, from $79), which covers more territory but does not include Dunstaffnage or the Coffin Trail",
+    "The Coffin Trail section of the tour passes through Glen Lonan — a quiet valley that most visitors to Argyll skip entirely; it is the most distinctive part of the itinerary and the one that most sets this apart from standard Kilchurn viewpoint tours from the Loch Awe shore road",
+    "The bone relic of Robert the Bruce at St Conan's Kirk is held in the Bruce Chapel on the south side of the nave — ask the guide to point it out specifically; it is easy to miss in the architectural richness of the building's other features",
+    "Plan the optional pier lunch before the tour if you have dietary preferences: Oban's harbour-front restaurants (Eeusk, Cuan Mor, and the Oban Seafood Hut on the pier itself) can be busy in summer; the seafood hut (a blue hut on the pontoon) is the most casual and typically the freshest option"
+  ],
+  "faqs": [
+    {
+      "question": "Is this tour suitable if I'm not based in Oban?",
+      "answer": "The tour departs from Oban and is designed for visitors already in the town — whether staying overnight, arriving by train (3 hours from Glasgow Queen Street), or arriving by ferry. If you are based in Glasgow and want to see Kilchurn Castle plus Glencoe and Inveraray in a single day, the [Kilchurn Castle, Inveraray & Glencoe day trip from Glasgow](/tours/scotland/glasgow-kilchurn-inveraray-glencoe) is the more practical option. The two tours are complementary rather than competing: different starting points, different stops, different durations."
+    },
+    {
+      "question": "Does the tour go inside Kilchurn Castle?",
+      "answer": "Kilchurn Castle is a Historic Environment Scotland property and is open for free access at certain times of year; the ruins can be explored on foot. The tour stop gives time at the castle — confirm interior access on the day with the guide, as opening status can vary. The castle's headland position and loch views are the primary experience regardless of interior access."
+    },
+    {
+      "question": "What is the Coffin Trail and why is it historically significant?",
+      "answer": "The Coffin Trail through Glen Lonan was the route used by communities along the glen to carry their dead to Ardchattan Priory — one of the few consecrated burial grounds accessible to the area's population. Before roads and motorised transport, communities throughout the Highlands had designated funeral routes along which coffins were carried by hand, often for miles. Glen Lonan's trail is one of the better-preserved examples in Argyll; the glen's isolation from the main roads has kept it largely unchanged. Highland cattle, which are managed on the lower slopes, are a feature of the walk-through stop."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/oban-dunstaffnage-kilchurn-coffin-trail.webp",
+    "alt": "Kilchurn Castle ruins on its headland at the head of Loch Awe in Argyll, Scotland — viewed from the shore on the Oban circuit tour",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Oban: Dunstaffnage Castle, Kilchurn Castle & the Coffin Trail — Half-Day Tour Guide 2026",
+    "description": "Small-group half-day tour from Oban: Dunstaffnage Castle, the Coffin Trail through Glen Lonan, St Conan's Kirk (bones of Robert the Bruce), and Kilchurn Castle on Loch Awe. Top Rated 4.9★. From $120.12."
+  }
+}
