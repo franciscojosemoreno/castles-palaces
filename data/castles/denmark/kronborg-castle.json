@@ -92,7 +92,7 @@
       "price_from": 23,
       "rating": 4.6,
       "reviews": 246,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/helsingor-l104451/kronborg-castle-entry-ticket-t703001/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "kronborg-castle"
@@ -106,7 +106,7 @@
       "price_from": 1022,
       "rating": 5.0,
       "reviews": 3,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "covers_castles": [
         "kronborg-castle",
         "frederiksborg-palace"

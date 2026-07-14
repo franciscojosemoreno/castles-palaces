@@ -101,7 +101,7 @@
       "price_from": 23,
       "rating": 3.7,
       "reviews": 3,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/marvao-l170227/guided-visit-of-marvao-t1306465/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "marvao-castle"

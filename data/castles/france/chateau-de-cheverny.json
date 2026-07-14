@@ -98,7 +98,7 @@
       "price_from": 123,
       "rating": 4.4,
       "reviews": 1409,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/paris-l16/a-day-in-chateaux-country-from-paris-t10751/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chateau-de-chambord",

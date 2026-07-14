@@ -95,7 +95,7 @@
       "price_from": 19,
       "rating": 4.7,
       "reviews": 237,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/hillerod-l1957/hillerod-frederiksborg-castle-entry-ticket-t791446/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "frederiksborg-palace"
@@ -109,7 +109,7 @@
       "price_from": 1022,
       "rating": 5.0,
       "reviews": 3,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "covers_castles": [
         "kronborg-castle",
         "frederiksborg-palace"

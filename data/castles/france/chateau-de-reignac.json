@@ -12,7 +12,7 @@
   "nearest_city": "Bordeaux",
   "address": "Château de Reignac, 33450 Saint-Loubès, France",
   "lat": 44.921,
-  "lng": -0.490,
+  "lng": -0.49,
   "unesco": false,
   "year_built": 1560,
   "architectural_style": "16th-century fortified manor with a later 19th-century residential addition — the original structure includes a dovecote tower (colombier) from the estate's 16th-century foundation, which survives as a round stone tower and now functions as the estate's signature tasting room; the wider estate grounds include a 19th-century park with a greenhouse designed by Gustave Eiffel's workshop, providing a rare Eiffel connection outside of the Tower's primary fame; the contemporary winery production facility features concrete fermentation eggs and amphorae, creating a deliberate contrast between the estate's historic architecture and its technically experimental wine production approach",
@@ -69,7 +69,16 @@
   "instagram_tag": "#chateaudereignac",
   "meta_title": "Château de Reignac Bordeaux: Eiffel Greenhouse, Concrete Eggs & Dovecote Tasting — Guide 2026",
   "meta_description": "Visit Château de Reignac near Bordeaux — a 16th-century estate with an Eiffel-designed greenhouse, concrete fermentation eggs, and wine tasting in a 500-year-old dovecote tower. From $23.",
-  "tags": ["france", "bordeaux", "gironde", "castle", "wine", "eiffel", "dovecote", "right-bank"],
+  "tags": [
+    "france",
+    "bordeaux",
+    "gironde",
+    "castle",
+    "wine",
+    "eiffel",
+    "dovecote",
+    "right-bank"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -88,9 +97,11 @@
       "price_from": 23,
       "rating": 5.0,
       "reviews": 2,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/saint-loubes-l249485/bordeaux-visitedegustation-hedoniste-au-chateau-de-reignac-t1019177/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-de-reignac"]
+      "covers_castles": [
+        "chateau-de-reignac"
+      ]
     }
   ],
   "gyg_direct_link_override": true

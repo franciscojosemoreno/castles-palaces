@@ -69,7 +69,16 @@
   "instagram_tag": "#chateaudeburanlure",
   "meta_title": "Château de Buranlure Berry: Same Family 1769–Today, Owner-Led Tours — Guide 2026",
   "meta_description": "Visit Château de Buranlure near Sancerre — a 17th-century Berry manor in the same family since 1769, with guided tours personally led by the hereditary owner. Open July, August, and Heritage Days only.",
-  "tags": ["france", "centre-val-de-loire", "cher", "berry", "castle", "family-owned", "private", "sancerre"],
+  "tags": [
+    "france",
+    "centre-val-de-loire",
+    "cher",
+    "berry",
+    "castle",
+    "family-owned",
+    "private",
+    "sancerre"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [],
@@ -86,9 +95,11 @@
       "price_from": 10.26,
       "rating": 5.0,
       "reviews": 3,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/henrichemont-l287803/chateau-de-buranlure-visite-guide-des-caves-et-du-chateau-t690568/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["buranlure-castle"]
+      "covers_castles": [
+        "buranlure-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

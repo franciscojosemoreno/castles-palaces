@@ -69,7 +69,16 @@
   "instagram_tag": "#palazzodellepapesse",
   "meta_title": "Palazzo delle Papesse Siena: Wine Tasting in a Renaissance Papal Palace — Guide 2026",
   "meta_description": "Visit Palazzo delle Papesse in Siena — a 15th-century Piccolomini Renaissance palace with Tuscan wine tasting in the courtyard loggia and panoramic terrace views. From $28.50. 18+ only.",
-  "tags": ["italy", "tuscany", "siena", "palace", "renaissance", "piccolomini", "wine", "unesco"],
+  "tags": [
+    "italy",
+    "tuscany",
+    "siena",
+    "palace",
+    "renaissance",
+    "piccolomini",
+    "wine",
+    "unesco"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -88,9 +97,11 @@
       "price_from": 28.5,
       "rating": 5.0,
       "reviews": 2,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/siena-l435/palazzo-delle-papesse-in-siena-wine-tasting-in-the-courtyard-panorama-t1320397/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["palazzo-delle-papesse"]
+      "covers_castles": [
+        "palazzo-delle-papesse"
+      ]
     }
   ],
   "gyg_direct_link_override": true

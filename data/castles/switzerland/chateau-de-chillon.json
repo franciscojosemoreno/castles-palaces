@@ -83,21 +83,21 @@
     "chateau-de-prangins",
     "aigle-castle"
   ],
-  "gyg_location_id": "135077",
-  "gyg_search_query": "Chateau de Chillon Montreux tour",
+  "gyg_location_id": "32355",
+  "gyg_search_query": "Chateau de Chillon Montreux entry ticket",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "1296867",
-      "title": "Gruyères & Chillon Castles Day Tour | From Bern",
-      "type": "entry_ticket",
-      "duration": "8 hours",
-      "price_from": 336,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": true,
-      "booking_url_override": "https://www.getyourguide.com/gruyeres-l135077/gruyeres-chillon-castles-day-tour-from-bern-t1296867/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "tour_id": "532516",
+      "title": "Montreux: Entrance Ticket to Château de Chillon",
+      "type": "skip_the_line",
+      "duration": "Self-paced",
+      "price_from": 31,
+      "rating": 4.7,
+      "reviews": 26,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/montreux-l32355/montreux-entrance-ticket-to-fort-de-chillon-t532516/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chateau-de-chillon"
       ]

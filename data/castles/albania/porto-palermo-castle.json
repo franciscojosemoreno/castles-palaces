@@ -12,7 +12,7 @@
   "nearest_city": "Saranda",
   "address": "Porto Palermo, Himarë, Albania",
   "lat": 40.1922,
-  "lng": 19.8700,
+  "lng": 19.87,
   "unesco": false,
   "year_built": 1810,
   "architectural_style": "Early 19th-century Ottoman military architecture — a triangular bastion plan with three circular corner towers set on a rocky peninsula above the sea; integrated into the landscape with minimal masonry visible from the water",
@@ -94,7 +94,7 @@
       "price_from": 69,
       "rating": null,
       "reviews": 1,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/sarande-l122815/saranda-waterfall-castle-himare-beach-tour-t1267544/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "porto-palermo-castle"

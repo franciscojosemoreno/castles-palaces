@@ -79,7 +79,9 @@
   ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": ["chateau-de-saint-fargeau"],
+  "nearby_castles": [
+    "chateau-de-saint-fargeau"
+  ],
   "gyg_location_id": "132098",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Château de Tavannes guided tour Burgundy estate cellar",
@@ -94,7 +96,7 @@
       "price_from": 9,
       "rating": null,
       "reviews": 0,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "chateau-de-tavannes"
       ],

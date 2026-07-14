@@ -104,7 +104,8 @@
       "reviews": 10,
       "covers_castles": [
         "beaumaris-castle"
-      ]
+      ],
+      "is_top_pick": true
     },
     {
       "tour_id": "895501",
@@ -116,7 +117,8 @@
       "reviews": 16,
       "covers_castles": [
         "beaumaris-castle"
-      ]
+      ],
+      "is_top_pick": true
     },
     {
       "tour_id": "1196218",
@@ -128,7 +130,8 @@
       "reviews": 3,
       "covers_castles": [
         "beaumaris-castle"
-      ]
+      ],
+      "is_top_pick": true
     }
   ]
 }

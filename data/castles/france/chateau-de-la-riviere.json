@@ -69,7 +69,16 @@
   "instagram_tag": "#chateaudelariviere",
   "meta_title": "Château de La Rivière: 20km of Underground Cellars & Dordogne Views — Bordeaux Guide 2026",
   "meta_description": "Visit Château de La Rivière near Bordeaux — a 16th-century château above the Dordogne Valley with 20km of underground limestone cellar galleries. Guided tour + 3-wine tasting from $17.",
-  "tags": ["france", "bordeaux", "gironde", "fronsac", "castle", "wine", "underground-cellar", "dordogne"],
+  "tags": [
+    "france",
+    "bordeaux",
+    "gironde",
+    "fronsac",
+    "castle",
+    "wine",
+    "underground-cellar",
+    "dordogne"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -88,9 +97,11 @@
       "price_from": 17,
       "rating": 5.0,
       "reviews": 2,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/nouvelle-aquitaine-l96064/chateau-de-la-riviere-guided-visit-food-tasting-in-french-t1266997/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-de-la-riviere"]
+      "covers_castles": [
+        "chateau-de-la-riviere"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -12,7 +12,7 @@
   "nearest_city": "Bordeaux",
   "address": "Château Picque Caillou, 236 Avenue du Médoc, 33700 Mérignac, France",
   "lat": 44.843,
-  "lng": -0.670,
+  "lng": -0.67,
   "unesco": false,
   "year_built": 1750,
   "architectural_style": "18th-century Bordelais château-viticole in the Pessac-Léognan tradition — a compact residential manor in the warm-toned stone characteristic of the Bordeaux suburban wine estates, with the vat room, barrel cellar, and estate vineyard built into a working production property; the estate sits within the urban fabric of Mérignac, making it one of the last vineyards in the world's most famous wine region to maintain production within the city limits of a major metropolitan area",
@@ -69,7 +69,15 @@
   "instagram_tag": "#chateaupicquecaillou",
   "meta_title": "Château Picque Caillou Bordeaux: Urban Pessac-Léognan Estate Tour & Tasting — Guide 2026",
   "meta_description": "Visit Château Picque Caillou in Mérignac — one of the last vineyards in the Bordeaux urban area. Guided château, vat room, and cellar tour + 4-wine Pessac-Léognan tasting. From $21.",
-  "tags": ["france", "bordeaux", "pessac-leognan", "castle", "wine", "urban-vineyard", "gironde"],
+  "tags": [
+    "france",
+    "bordeaux",
+    "pessac-leognan",
+    "castle",
+    "wine",
+    "urban-vineyard",
+    "gironde"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -88,9 +96,11 @@
       "price_from": 21,
       "rating": 5.0,
       "reviews": 2,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/bordeaux-l287/bordeaux-chateau-picque-caillou-tour-and-wine-tasting-t1323427/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-picque-caillou"]
+      "covers_castles": [
+        "chateau-picque-caillou"
+      ]
     }
   ],
   "gyg_direct_link_override": true

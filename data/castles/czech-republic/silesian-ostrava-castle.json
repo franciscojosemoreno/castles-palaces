@@ -94,7 +94,7 @@
       "price_from": 6,
       "rating": 4.4,
       "reviews": 6,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "silesian-ostrava-castle"
       ],

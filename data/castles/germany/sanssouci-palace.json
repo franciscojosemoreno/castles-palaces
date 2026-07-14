@@ -101,7 +101,7 @@
       "price_from": 73,
       "rating": 4.7,
       "reviews": 1291,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/berlin-l17/from-berlin-potsdam-and-sanssouci-palace-tour-with-entry-t26520/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "sanssouci-palace"
@@ -115,7 +115,7 @@
       "price_from": 29,
       "rating": 4.7,
       "reviews": 3998,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "sanssouci-palace"
       ],

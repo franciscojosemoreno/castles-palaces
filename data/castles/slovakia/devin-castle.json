@@ -97,7 +97,7 @@
       "price_from": 35,
       "rating": 4.4,
       "reviews": 1134,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "devin-castle"
       ],
@@ -111,7 +111,7 @@
       "price_from": 111,
       "rating": 4.6,
       "reviews": 230,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "devin-castle"
       ],

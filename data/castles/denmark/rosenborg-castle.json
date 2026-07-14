@@ -106,7 +106,7 @@
       "price_from": 23,
       "rating": 4.6,
       "reviews": 574,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/copenhagen-l12/copenhagen-rosenborg-castle-entry-ticket-t851143/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "rosenborg-castle"

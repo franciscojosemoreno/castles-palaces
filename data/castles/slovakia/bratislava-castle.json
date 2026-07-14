@@ -96,7 +96,7 @@
       "price_from": 72,
       "rating": 4.6,
       "reviews": 53,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "bratislava-castle"
       ],
@@ -110,7 +110,7 @@
       "price_from": 111,
       "rating": 4.6,
       "reviews": 230,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "bratislava-castle"
       ],

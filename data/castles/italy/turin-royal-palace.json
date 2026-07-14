@@ -99,7 +99,7 @@
       "price_from": 32,
       "rating": 4.3,
       "reviews": 15,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "turin-royal-palace"
       ],

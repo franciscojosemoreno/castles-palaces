@@ -110,7 +110,7 @@
       "price_from": 157,
       "rating": 5.0,
       "reviews": 2,
-      "is_top_pick": false,
+      "is_top_pick": true,
       "covers_castles": [
         "trencin-castle",
         "cerveny-kamen-castle"

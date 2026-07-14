@@ -100,7 +100,7 @@
       "price_from": 23,
       "rating": 4.7,
       "reviews": 846,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "clos-luce-castle"
       ],

@@ -99,7 +99,7 @@
       "price_from": 20,
       "rating": 4.7,
       "reviews": 45,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "eltham-palace"
       ],

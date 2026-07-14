@@ -95,7 +95,7 @@
       "price_from": 3,
       "rating": 4.5,
       "reviews": 2,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "genoese-tower"
       ],

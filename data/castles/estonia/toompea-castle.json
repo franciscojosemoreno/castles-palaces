@@ -101,7 +101,7 @@
       "price_from": 8,
       "rating": 4.2,
       "reviews": 5,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/tallinn-l394/audio-tour-of-the-toompea-hill-cathedral-hill-in-tallinn-t806305/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "toompea-castle"
