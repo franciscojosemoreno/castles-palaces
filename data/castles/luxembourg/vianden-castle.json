@@ -26,7 +26,7 @@
     "sunday": "10:00–18:00",
     "seasonal_note": "Apr–Sep open until 18:00. Oct–Mar: 10:00–16:00 or 17:00 depending on month."
   },
-  "price_adult": 10,
+  "price_adult": 13,
   "price_child": 5,
   "booking_required": false,
   "official_tickets_url": "https://www.vianden-castle.lu",
@@ -93,7 +93,7 @@
     {
       "tour_id": "1072703",
       "title": "Luxembourg Vianden Castle Tour with Transfer + surprise stop",
-      "type": "entry_ticket",
+      "type": "guided_tour",
       "duration": "4 hours",
       "price_from": 765,
       "rating": 5.0,
