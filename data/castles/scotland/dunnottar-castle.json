@@ -83,7 +83,8 @@
   "nearby_castles": [
     "edinburgh-castle",
     "stirling-castle",
-    "eilean-donan-castle"
+    "eilean-donan-castle",
+    "falkland-palace"
   ],
   "gyg_location_id": "44",
   "gyg_search_query": "Dunnottar Castle tour",
@@ -101,7 +102,9 @@
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/saint-andrews-acantilados-y-castillo-dunnottar-t259837/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
-        "dunnottar-castle"
+        "dunnottar-castle",
+        "st-andrews-castle",
+        "falkland-palace"
       ]
     }
   ],

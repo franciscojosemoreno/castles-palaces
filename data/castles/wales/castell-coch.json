@@ -1,0 +1,109 @@
+{
+  "id": "castell-coch",
+  "name": "Castell Coch",
+  "local_name": "Castell Coch",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 72,
+  "annual_visitors": 150000,
+  "country": "wales",
+  "region": "Cardiff",
+  "nearest_city": "Cardiff",
+  "address": "Tongwynlais, Cardiff CF15 7JS, Wales",
+  "lat": 51.5303,
+  "lng": -3.2634,
+  "unesco": false,
+  "year_built": 1875,
+  "architectural_style": "High Victorian Gothic Revival reconstruction of a 13th-century de Clare castle; the original stone castle was built by Gilbert de Clare 1267–1277 on a Norman motte of c.1081, destroyed in the 1314 Welsh revolt of Llywelyn Bren and left as a ruin; in 1875, the 3rd Marquess of Bute commissioned architect William Burges to rebuild it as a summer retreat using the surviving foundations and lower courses; Burges designed the three conical-roofed round towers, the working drawbridge, and the elaborate decorative interiors, dying in 1881 before the work was complete; his assistants John Pullan and William Frame completed the interiors to his detailed drawings by 1891; the castle is now managed by Cadw as a Grade I listed building and Scheduled Ancient Monument; the name means 'Red Castle' in Welsh, referring to the local red Triassic sandstone",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Open daily except 24–26 December and 1 January. Hours may vary by season: typically 10:00–16:00 in winter (November–February) and 09:30–17:00 March–October. Last entry 30 minutes before closing. The GYG booking link on this page is shared with the South Wales day tour (t1137827) already used for [Caerphilly Castle](/castles/wales/caerphilly-castle) — the tour includes Castell Coch, Caerphilly Castle, and Cardiff Castle in a single day. For a standalone visit, buy Cadw tickets at the castle or at cadw.gov.wales."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "price_currency": "GBP",
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/visit/places-to-visit/castell-coch",
+  "visit_duration": "1–2 hours",
+  "best_season": "April to October",
+  "accessibility": "The castle grounds and courtyard are broadly accessible. The interior involves historic stairs and tight spaces typical of round tower construction. The drawbridge approach path is on a slight gradient. Contact Cadw for specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "William Burges's Gothic Revival fantasy in the Cardiff hills — a Victorian architect's vision of a 13th-century castle rebuilt on genuine medieval foundations, with a working drawbridge and the most elaborate painted interior in Wales",
+  "highlights": [
+    "Castell Coch ('Red Castle' in Welsh) was built by Victorian architect William Burges for the 3rd Marquess of Bute in 1875 on the genuine 13th-century foundations of a Gilbert de Clare castle — a reconstruction that used real medieval masonry but translated it into Burges's own highly individual Gothic Revival idiom, complete with conical towers that owe as much to his French architectural research as to Welsh precedent",
+    "Lady Bute's bedroom in the Lady's Tower is the decorative showpiece of the building: a circular room with a painted canopy bed of extraordinary elaboration, trompe l'oeil ceiling panels depicting classical mythology, grotesque medieval imagery on the fireplace, and the concentrated visual intensity that characterises Burges's interiors — a room that no one would mistake for a medieval original but that is far more interesting than most genuine medieval interiors",
+    "The drawbridge is still operational — one of the very few fully working drawbridge mechanisms in a Welsh castle, and a direct expression of Burges's determination to build functionally as well as decoratively; during some events it is still raised and lowered",
+    "The castle's origins go back to 1081, when a Norman earthwork motte was first established on this ridge above the Taff valley, and to Gilbert de Clare's stone reconstruction of 1267–1277 — the same lord who simultaneously built Caerphilly Castle eight miles north; the two de Clare castles together constitute the most concentrated 13th-century castle investment in a single Welsh lordship",
+    "The forest hillside setting is as important as the building: approaching on foot through the wooded path from Tongwynlais village, the castle emerges from the tree canopy with its conical red stone towers against the Welsh sky in a revelation that car-based approaches along the valley road do not prepare you for"
+  ],
+  "description": "Castell Coch stands on a wooded hillside at the edge of Tongwynlais, a village at the northern fringe of Cardiff where the M4 motorway now passes below and the Taff valley begins to narrow into the South Wales Valleys. The name is Welsh for 'Red Castle' — coch means red, referring to the local red Triassic sandstone from which both the Norman original and the Victorian rebuild were constructed. The castle that rises from the tree line today was designed by William Burges in the 1870s, but built on the foundations of a genuine medieval fortification destroyed five and a half centuries before Burges arrived. The relationship between those two layers — the medieval original and the Victorian fantasy built above its ruins — is what makes Castell Coch one of the most architecturally interesting buildings in Wales, and also one of the most misleading: it looks ancient, it is not ancient, but the reasons for its not-ancientness are as interesting as the original castle would have been.\n\nThe Norman original was begun after the Conquest of Glamorgan by Robert FitzHamon in 1081 — the same conquest that brought Cardiff Castle into existence two miles downstream. The first fortification on the Castell Coch ridge was a motte: an earthwork mound with a timber tower, the standard quick-and-cheap Norman fortification that established territorial control while waiting for resources to build in stone. The stone castle — three round towers and a gatehouse, largely the form that the Victorian rebuild follows — was constructed by Gilbert de Clare, Lord of Glamorgan, between 1267 and 1277. De Clare, building simultaneously at Caerphilly Castle eight miles to the north, was the dominant marcher lord of his generation, and his two south Welsh castles represent a concentrated investment in military architecture unusual even by the ambitious standards of 13th-century castle-building. Caerphilly was the larger project and the more innovative in military engineering; Castell Coch was smaller, more domestically refined, a possible hunting lodge-fortress in the Taff valley woodland above the larger manorial centre.\n\nThe castle was taken and apparently destroyed during the 1314 revolt of Llywelyn Bren — a Welsh lord who rose against English administration immediately after Edward II's defeat at Bannockburn removed English military prestige from the region. The ruins appear to have been left unoccupied thereafter; by the 18th century, when the estate passed to the Bute family, the surviving fabric consisted of the lower courses of three towers and stretches of the curtain wall.\n\nJohn Patrick Crichton-Stuart, 3rd Marquess of Bute — one of the wealthiest men in Victorian Britain, with income derived from the Cardiff coal trade through Cardiff Docks — commissioned the reconstruction in 1872. William Burges, his architect of choice for the parallel restoration of Cardiff Castle, had spent years studying medieval art and architecture across Europe and producing intricate measured drawings of Gothic buildings from France, Italy, and the Low Countries. He was the obvious choice for a client who wanted archaeologically grounded Gothic Revival rather than decorative approximation. Burges's designs for Castell Coch were as ambitious architecturally as decoratively — the conical roof towers, the working drawbridge, the elaborate water-powered gatehouse mechanisms — and construction began in 1875.\n\nBurges died in 1881 with the construction structurally complete but much of the interior decoration unrealised. His assistants John Pullan and William Frame completed the work to his specifications using detailed drawings and notes. The result embodies a single coherent vision rather than the compromised outcome of a committee, even though the vision was executed by others after the author's death. The drawbridge still operates; the great hall has Burges's painted ceiling of grotesques and animals; the round towers have the conical roofs that Victorian imagination — and Burges's French research — associated with medieval military architecture.\n\nThe most spectacular room is Lady Bute's bedroom in the Lady's Tower: the circular room contains a painted canopy bed of extraordinary elaboration, trompe l'oeil ceiling panels depicting classical mythology, a fireplace bearing the image of three monkeys (hear no evil, see no evil, speak no evil, rendered in Burges's characteristically knowing medieval idiom), and the visual density of ornament that characterises his interiors at their most concentrated. The castle was never seriously used as a residence — the Bute family visited rarely — and the intensity of the decoration may be one reason why sustained habitation would have been oppressive. The building passed to the Ministry of Works in 1950 and is now managed by Cadw.\n\nThe woodland setting is part of the experience: the castle sits on the hillside above Tongwynlais in a stand of mature oaks and beeches that give the approach walk — from the village car park, through the trees — a quality of gradual revelation. The full view of the castle, emerging from the trees with its conical towers and red stone walls, is understood better on foot than from a car.\n\nThe contrast with [Caerphilly Castle](/castles/wales/caerphilly-castle), eight miles north — the largest castle in Wales, moated, water-defended, and built by the same 13th-century lord — illustrates the range of de Clare military ambition. The comparison with Cardiff Castle is the other logical pairing: Bute and Burges applied the same Victorian Gothic Revival approach to Cardiff Castle's Clock Tower and interior suites in the same decade, producing interiors of similar decorative intensity within a Norman shell of far greater historical complexity. Cardiff Castle is in the city centre, Castell Coch on a wooded hillside; together they constitute the most concentrated expression of a Victorian noble's medieval fantasy in Wales. Cadw membership includes admission to both Castell Coch and Caerphilly Castle, making a combined visit to both de Clare-period sites the most efficient approach for visitors planning a day in the Cardiff region.",
+  "history": "1081: Norman earthwork motte established on the Castell Coch ridge following the Conquest of Glamorgan by Robert FitzHamon. 1267–1277: Gilbert de Clare, Lord of Glamorgan, rebuilds in stone with three round towers and a gatehouse. 1314: Castle captured and destroyed during the Welsh revolt of Llywelyn Bren, sparked partly by the political vacuum after Edward II's defeat at Bannockburn. 1760: Ruins acquired by the Bute family as part of the Cardiff estate. 1872: John Patrick Crichton-Stuart, 3rd Marquess of Bute, commissions William Burges to design a full reconstruction of the castle as a country retreat. 1875: Construction begins using the surviving medieval foundations and lower courses. 1881: Burges dies; assistants Pullan and Frame complete the interiors to his drawings. 1891: Castle completed. The Bute family visits rarely. 1950: Castle transferred to the Ministry of Works; subsequently managed by Cadw (Historic Wales). Present day: Grade I listed building and Scheduled Ancient Monument; one of the most visited Cadw properties in south Wales.",
+  "how_to_visit": "**Getting there:** Tongwynlais is about 5 miles north of Cardiff city centre. By bus: Stagecoach service from Cardiff centre (approximately 20–25 minutes); the castle is a 10-minute walk uphill from the bus stop in the village. By car: B4262 from the A470; parking available at the castle. Walk from the Taff Trail (long-distance cycling and walking route) along the riverbank.\n\n**Tickets:** Buy at the castle or in advance at cadw.gov.wales. Adult approximately £9, child approximately £5 (verify current Cadw pricing). Cadw members enter free. Open daily except 24–26 December and 1 January.\n\n**What to see:** The full interior tour takes 45–60 minutes — don't miss the Banqueting Hall ceiling (grotesques and animals) and Lady Bute's bedroom (painted canopy bed, trompe l'oeil panels). The drawbridge and the exterior courtyard are included in the entry fee.\n\n**Combine with:** [Caerphilly Castle](/castles/wales/caerphilly-castle) (8 miles north, same Cadw ticket tier) — the largest castle in Wales, built by the same de Clare lord. Cardiff Castle (4 miles south, separately ticketed) — the other Bute/Burges Gothic Revival commission.\n\n**GYG note:** The booking link on this page is shared with the South Wales day tour (t1137827) that also covers Caerphilly Castle. The tour is a private group tour with per-group pricing; individual visitors should purchase standalone Cadw tickets at the castle.",
+  "faqs": [
+    {
+      "question": "Is Castell Coch a real medieval castle or a Victorian replica?",
+      "answer": "Both, in a precise sense. The original medieval castle was real — built by Gilbert de Clare between 1267 and 1277 on a Norman motte of 1081, destroyed in 1314, and left as a ruin for five centuries. The building you visit today is a reconstruction built in 1875–1891 by architect William Burges on the genuine medieval foundations and lower courses of masonry, in Burges's own Gothic Revival style rather than a faithful recreation of the original. The materials are partly original (the lower walls and foundations), partly Victorian. The style is Burges's Victorian Gothic interpretation, not a medieval accurate restoration."
+    },
+    {
+      "question": "How is Castell Coch related to Cardiff Castle?",
+      "answer": "Both were Bute family properties in the Victorian period, and both were substantially redesigned by the same architect — William Burges — for the 3rd Marquess of Bute in the 1860s–1880s. Cardiff Castle is the grander project: a Norman shell in the city centre with elaborate Gothic Revival interior suites in a suite of themed rooms. Castell Coch is the smaller, more concentrated project: a full external reconstruction of a ruined 13th-century castle as a country retreat, with equally elaborate interiors. Together they represent the most focused expression of Victorian Gothic Revival in Wales."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castell-coch.webp",
+    "alt": "Castell Coch in Tongwynlais near Cardiff, Wales — the three conical-roofed round towers of William Burges's Victorian Gothic Revival reconstruction rising from the wooded hillside above the Taff valley",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castell-coch.webp",
+  "instagram_tag": "#castellcoch",
+  "meta_title": "Castell Coch, Cardiff: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Castell Coch near Cardiff, Wales — William Burges's Victorian Gothic Revival castle on 13th-century de Clare foundations, with a working drawbridge, conical towers, and the most elaborate painted interior in Wales. Cadw property.",
+  "tags": [
+    "wales",
+    "cardiff",
+    "castle",
+    "victorian",
+    "gothic-revival",
+    "burges",
+    "bute",
+    "cadw",
+    "de-clare"
+  ],
+  "last_updated": "2026-07-14",
+  "routes": [],
+  "nearby_castles": [
+    "caerphilly-castle"
+  ],
+  "gyg_location_id": "449",
+  "gyg_search_query": "Castell Coch Cardiff South Wales castle tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1137827",
+      "title": "From Cardiff: Caerphilly Castle & Castell Coch South Wales Day Tour",
+      "type": "day_trip",
+      "duration": "9 hours",
+      "price_from": 1079,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/cardiff-l449/day-tour-of-south-wales-t1137827/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "caerphilly-castle",
+        "castell-coch"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

@@ -85,7 +85,8 @@
   "nearby_castles": [
     "edinburgh-castle",
     "stirling-castle",
-    "dunnottar-castle"
+    "dunnottar-castle",
+    "kilchurn-castle"
   ],
   "gyg_location_id": "438",
   "gyg_search_query": "Inveraray Castle tour from Glasgow",
@@ -116,7 +117,8 @@
       "reviews": 2442,
       "is_top_pick": true,
       "covers_castles": [
-        "inveraray-castle"
+        "inveraray-castle",
+        "kilchurn-castle"
       ],
       "booking_url_override": "https://www.getyourguide.com/glasgow-l438/from-glasgow-west-highland-lochs-castles-small-group-tour-t11208/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
