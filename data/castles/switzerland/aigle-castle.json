@@ -1,0 +1,97 @@
+{
+  "id": "aigle-castle",
+  "name": "Aigle Castle",
+  "local_name": "Château d'Aigle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 40000,
+  "country": "switzerland",
+  "region": "Vaud — Aigle, Chablais, mouth of the Rhône Valley above Lake Geneva",
+  "nearest_city": "Aigle",
+  "address": "Place du Château, 1860 Aigle, Vaud, Switzerland",
+  "lat": 46.319,
+  "lng": 6.976,
+  "unesco": false,
+  "year_built": 1232,
+  "architectural_style": "Medieval castle rebuilt in Bernese Gothic style after the Bernese conquest of the Chablais in 1476 — the original 13th-century castle was built by the bishops of Sion (Sitten) to control the mouth of the Rhône Valley and the road connecting Lake Geneva to the Rhône corridor and the Alpine passes beyond; after the Bernese conquest, the castle was substantially rebuilt in the late 15th century as the seat of the Bernese bailiff (Landvogt) who administered the Chablais region; the current tower-and-curtain-wall composition with the distinctive round turrets reflects this Bernese Gothic reconstruction rather than the original episcopal structure; the castle is surrounded on three sides by active vineyards of the Aigle AOC appellation, making the setting of a medieval fortress embedded in working vines one of the most unusual in Switzerland and a natural fit for the Vine and Wine Museum (Musée de la Vigne et du Vin) housed within its walls",
+  "opening_hours": {
+    "monday": "10:00–13:00, 14:00–18:00",
+    "tuesday": "10:00–13:00, 14:00–18:00",
+    "wednesday": "10:00–13:00, 14:00–18:00",
+    "thursday": "10:00–13:00, 14:00–18:00",
+    "friday": "10:00–13:00, 14:00–18:00",
+    "saturday": "10:00–13:00, 14:00–18:00",
+    "sunday": "10:00–13:00, 14:00–18:00",
+    "seasonal_note": "Open April to October; closed November to March — confirm the current season opening date at chateauaigle.ch. The GYG private day trip from Lausanne (t852387, Option A, from $476.89 per person, 7 hours, New Activity — rating: null, no reviews) covers Vevey, Montreux, and Aigle Castle in a Swiss Riviera circuit. The castle and its wine museum are also reachable independently by train from Lausanne in approximately 40 minutes."
+  },
+  "price_adult": 10,
+  "price_child": 5,
+  "price_currency": "CHF",
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateauaigle.ch",
+  "visit_duration": "1–1.5 hours (Vine and Wine Museum + castle rooms + tower + vineyard surroundings)",
+  "best_season": "May to October — the surrounding Aigle AOC vineyards are most visually striking during flowering (May–June), veraison (August–September, when the grapes change colour), and harvest (late September–October); the Swiss Riviera and Lake Geneva context is at its best in clear summer weather. The wine harvest festival (Fête des Vendanges, October) is the most atmospheric time to combine the castle with the local wine culture.",
+  "accessibility": "The castle interior involves stairs; the tower climb involves a spiral staircase. The surrounding vineyard paths are on compacted soil and gravel and may be uneven. Contact chateauaigle.ch for current accessibility information.",
+  "booking_advance_days": 0,
+  "tagline": "A moated 13th-century fortress rising from the vineyards of the Chablais — home to the Vine and Wine Museum",
+  "highlights": [
+    "Vine and Wine Museum (Musée de la Vigne et du Vin) — the castle houses one of the most atmospheric wine museums in Switzerland, with permanent exhibitions covering the history of viticulture in the Vaud region from the Roman period through the medieval monastic cultivation of the Cistercians and Benedictines to the contemporary Aigle and Yvorne AOC appellations; the setting — medieval castle rooms and the tower — gives the viticultural history a physical context that a purpose-built museum building cannot replicate",
+    "Vineyard-embedded castle — the castle is surrounded on three sides by the vineyards of the Aigle AOC appellation (Chasselas grape, white wine, one of Switzerland's most celebrated wine zones); this is one of the very few medieval European castle complexes where the working agricultural landscape that the castle was historically built to control is still actively productive and physically present around the walls; the view from the castle tower over vines to Lake Geneva and the Alps is one of the most distinctive in Vaud",
+    "Aigle AOC and Chasselas — the Chablais wine zone around Aigle produces Chasselas — the principal white grape variety of the Swiss Vaud, producing a dry, lightly mineral, sometimes slightly sparkling white wine that is Switzerland's most widely planted and most distinctively local variety; Aigle and Yvorne are the Chablais appellations most consistently associated with the elegant, mineral-driven expression of Chasselas; the wine museum explains the appellation's character in the context where the vines grow",
+    "Bernese conquest of 1476 and the bailiff's seat — after the Bernese victory at the Battle of Grandson (1476) and the subsequent defeat of Charles the Bold of Burgundy, Bern took control of the Vaud Chablais from the Savoy rulers; Aigle Castle became the seat of the Bernese Landvogt (bailiff) who administered the region for the following three centuries until the French Revolution; this colonial administrative history is the political context of the castle's Bernese Gothic reconstruction in the late 15th century",
+    "Swiss Riviera circuit: Vevey, Montreux, and Aigle — the GYG private day trip from Lausanne (t852387, from $476.89/person) covers the Swiss Riviera in a geographically coherent Lake Geneva loop: Vevey (optional Chaplin's World museum), Montreux (Freddie Mercury statue, Jazz Festival venue), and Aigle Castle (~1.5 hours at the castle); this is the most efficient way to see the three principal Swiss Riviera cultural stops from a Lausanne or Geneva base",
+    "Château de Chillon regional pairing — [Château de Chillon](/castles/switzerland/chateau-de-chillon), approximately 15 kilometres north along the Lake Geneva shore, is the Swiss lake castle that most visitors associate with the Montreux Riviera; it inspired Lord Byron's 'The Prisoner of Chillon' (1816) and is the most-visited historic monument in Switzerland; the two castles together — Aigle for the wine estate and vineyard character, Chillon for the Byronic lake castle — make the most complete Lake Geneva castle day"
+  ],
+  "description": "Aigle Castle stands at the mouth of the Rhône Valley, at the point where the river exits the Alps and the landscape opens from the steep gorge of the Valais into the broad plain approaching Lake Geneva. The castle was built here because this was one of the most strategically significant geographical positions in the western Alpine system: controlling the Aigle gap meant controlling the most direct route between the Rhône corridor (and the Alpine passes beyond), Lake Geneva, and the road north toward the Swiss Plateau. Every power that mattered in the western Alps — the bishops of Sion, the Counts of Savoy, the Bernese — spent time fighting over Aigle, and the castle was the object of the contest.\n\nThe first castle on the site is documented from 1232, built by the bishops of Sion to establish episcopal control over the Chablais region at a time when the bishops and the Counts of Savoy were competing for dominance in the Rhône Valley. The castle changed hands between these powers repeatedly across the 13th–15th centuries. The most consequential transfer came in 1476, following the Battle of Grandson — the decisive Burgundian Wars engagement at which the Swiss Confederacy's forces defeated Charles the Bold of Burgundy — which gave the Bernese the military and political momentum to extend their control south into the Vaud and the Chablais. Aigle Castle became the seat of the Bernese Landvogt (bailiff), the appointed administrator who governed the Chablais on behalf of Bern for the following three centuries. The Bernese rebuilt the castle in the late 15th century to serve as an administrative headquarters rather than a purely military outpost; the current tower-and-curtain-wall composition with the distinctive round corner turrets reflects this Bernese Gothic reconstruction.\n\nThe castle houses the Vine and Wine Museum (Musée de la Vigne et du Vin), which is both the principal institutional tenant and the most distinctive content element of the visit. The museum's permanent exhibitions cover the full history of viticulture in the Vaud: the Roman period (archaeological evidence of vine cultivation in the Rhône Valley predates the 1st century BC), the medieval period when Cistercian and Benedictine monasteries were the primary cultivators and wine traders of the Lake Geneva basin, the development of the Vaud canton's wine identity through the 17th–19th centuries, and the contemporary appellation system. The Aigle AOC and Yvorne AOC — both Chasselas white wines from the Chablais — are the most immediate examples of the museum's subject matter; the vineyards surrounding the castle are the same vineyards the museum describes.\n\nChasselas is Switzerland's most widely planted grape variety and the foundation of the country's distinctive white wine identity. The grape produces a dry, lightly mineral, often slightly effervescent white wine that is virtually unknown in international export markets (Switzerland consumes almost all its own Chasselas) but which in quality expressions — Aigle and Yvorne, Féchy, Dezaley, Epesses from the Lavaux — achieves the subtlety and terroir-expression of the finest Burgundy whites. The wine museum explains the Chasselas paradox (excellent quality, nearly invisible internationally) in a setting where the vines grow around the walls.\n\nThe GYG private day trip from Lausanne (t852387, New Activity, no reviews — rating: null per site policy, from $476.89 per person, 7 hours) covers the Swiss Riviera in a Lake Geneva circuit: Vevey (Chaplin's World museum optional), Montreux (the Freddie Mercury statue, the site of the Jazz Festival), and Aigle Castle (~1.5 hours at the castle, including the wine museum). The Lausanne starting point is geographically rational — Lausanne is 35 kilometres from Aigle, in the same Vaud canton, connected by the Mont-Blanc Express railway in approximately 40 minutes. The alternative Option B tour from Interlaken ($797.84, 8 hours) would involve a 100-kilometre journey over mountain roads from a different canton; the Lausanne Option A is the coherent choice for Swiss Riviera coverage at approximately 40% less cost.\n\n[Château de Chillon](/castles/switzerland/chateau-de-chillon) — 15 kilometres north along the Lake Geneva shore, at the base of the cliffs below Montreux — is the nearest major castle in the same region and the most visited historic monument in Switzerland. Byron's 'The Prisoner of Chillon' (1816), written after his visit to the castle's dungeon, made Chillon the most romantically famous castle in the Alpine world; the prisoner François Bonivard, whose story Byron adapted, was held at Chillon at the order of the Duke of Savoy from 1530 to 1536. Chillon for the Byronic Gothic romance; Aigle for the vineyard-embedded wine castle — the two together make the most complete Lake Geneva castle experience available in a single day.",
+  "history": "1232: first documented castle at Aigle, built by the bishops of Sion to control the Rhône Valley mouth. 13th–15th century: castle contested between the bishops of Sion and the Counts of Savoy. 1476: Battle of Grandson; Bernese take control of the Chablais. Late 15th century: Bernese rebuild the castle as the seat of the Landvogt (bailiff) of the Chablais; current Gothic tower and curtain wall configuration established. 1476–1798: Bernese administration of the Chablais from Aigle Castle. 1798: French Revolutionary forces occupy the Vaud; Bernese administration ends. 19th century: castle various uses; vineyard surroundings maintained. 20th century: restoration; Musée de la Vigne et du Vin (Vine and Wine Museum) established in the castle. Current period: castle and museum open April–October.",
+  "how_to_visit": "**Entry ticket (~CHF 10 adult, ~CHF 5 child):** Includes the Vine and Wine Museum + castle rooms + tower. No advance booking required — walk in during open hours (April–October only).\n\n**GYG private day trip from Lausanne (~$476.89 per person, GYG t852387):** 7-hour Swiss Riviera circuit from Lausanne covering Vevey (Chaplin's World optional), Montreux (Freddie Mercury statue), and Aigle Castle (~1.5h). No reviews yet (New Activity). This is Option A (Lausanne-based; $476.89); Option B from Interlaken ($797.84) is a less geographically coherent and significantly more expensive alternative.\n\n**Getting there independently:** Train from Lausanne to Aigle: ~40 min by Mont-Blanc Express; the castle is a 10-minute walk from Aigle station. From Geneva: ~50 min by train. By car from Lausanne: ~35km via A9 (~30 min).\n\n**Combine with:** [Château de Chillon](/castles/switzerland/chateau-de-chillon) — 15km north at the base of the Montreux cliffs; the most visited Swiss monument and Byron's 'Prisoner of Chillon' castle. An Aigle morning + Chillon afternoon makes a complete Lake Geneva castle day.",
+  "faqs": [
+    {
+      "question": "What is Chasselas wine and why is it associated with Aigle?",
+      "answer": "Chasselas is Switzerland's most widely planted white grape variety — a thin-skinned, early-ripening variety that produces a dry, lightly mineral, sometimes slightly effervescent white wine. It is virtually unknown outside Switzerland (the country exports almost none of its Chasselas production) but is taken seriously within the country as the expression of Swiss terroir. The Aigle and Yvorne appellations in the Chablais are among the most celebrated Chasselas zones, producing wines with the mineral character of the Rhône Valley limestone soils. The wine museum inside the castle covers the full history of Chasselas in the Vaud."
+    },
+    {
+      "question": "Why is the GYG tour departing from Lausanne rather than Aigle or Montreux?",
+      "answer": "Lausanne is the Vaud cantonal capital and the largest city in the Swiss Riviera region; it is a natural base for a Swiss Riviera circuit covering Vevey (Chaplin's World), Montreux (Freddie Mercury, Jazz Festival), and Aigle Castle. The Lausanne–Vevey–Montreux–Aigle loop is geographically coherent, all within the Vaud canton, covering the principal cultural stops of the Swiss Riviera in a logical sequence. The alternative Option B tour departs from Interlaken (a different canton, 100km away over mountain roads) and costs 40% more for a less rational itinerary — the Lausanne departure is the better choice."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/aigle-castle.webp",
+    "alt": "Aigle Castle surrounded by the Chasselas vineyards of the Chablais — the 13th-century Bernese Gothic fortress at the mouth of the Rhône Valley, home to the Vine and Wine Museum",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/aigle-castle.webp",
+  "instagram_tag": "#chateauaigle",
+  "meta_title": "Aigle Castle: Vine & Wine Museum in a 13th-Century Fortress Above Lake Geneva — Switzerland Guide 2026",
+  "meta_description": "Visit Aigle Castle in Vaud — a Bernese Gothic fortress surrounded by Chasselas vineyards at the mouth of the Rhône Valley, housing the Vine and Wine Museum. From CHF 10.",
+  "tags": ["switzerland", "vaud", "castle", "wine", "chasselas", "chablais", "lake-geneva", "swiss-riviera"],
+  "last_updated": "2026-07-14",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-chillon"
+  ],
+  "gyg_location_id": "103713",
+  "gyg_search_query": "Aigle Castle Vaud wine museum Lake Geneva day trip",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "852387",
+      "title": "Lausanne: Private Day Trip to Vevey, Montreux & Aigle Castle — Swiss Riviera Circuit (~$476.89/person, 7 hours)",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 476.89,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/aigle-l103713/private-day-trip-lausanne-to-vevey-montreux-aigle-castle-t852387/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": ["aigle-castle"]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
