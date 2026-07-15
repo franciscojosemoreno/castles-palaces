@@ -13,7 +13,7 @@ export default function TourCard({ tour, variant = 'default' }: TourCardProps) {
 
   if (variant === 'compact') {
     return (
-      <Link href={href} className="group flex gap-4 items-start p-3 rounded-lg hover:bg-[#f5f0e8] transition-colors">
+      <Link href={href} prefetch={false} className="group flex gap-4 items-start p-3 rounded-lg hover:bg-[#f5f0e8] transition-colors">
         <div className="relative w-20 h-20 flex-shrink-0 rounded-md overflow-hidden">
           <Image src={tour.hero_image.url} alt={tour.hero_image.alt} fill className="object-cover" sizes="80px" />
         </div>
@@ -29,7 +29,7 @@ export default function TourCard({ tour, variant = 'default' }: TourCardProps) {
   }
 
   return (
-    <Link href={href} className="group block rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow bg-white">
+    <Link href={href} prefetch={false} className="group block rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow bg-white">
       <div className="relative aspect-[16/10] overflow-hidden">
         <Image
           src={tour.hero_image.url}

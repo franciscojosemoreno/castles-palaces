@@ -13,7 +13,7 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
 
   if (variant === 'compact') {
     return (
-      <Link href={href} className="group flex gap-3 items-center hover:bg-stone-50 rounded-lg p-2 -mx-2 transition-colors">
+      <Link href={href} prefetch={false} className="group flex gap-3 items-center hover:bg-stone-50 rounded-lg p-2 -mx-2 transition-colors">
         <div className="relative w-16 h-16 flex-shrink-0 rounded-md overflow-hidden">
           <Image
             src={castle.hero_image.url}
@@ -34,7 +34,7 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
   }
 
   return (
-    <Link href={href} className="group block bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-stone-100">
+    <Link href={href} prefetch={false} className="group block bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-stone-100">
       <div className="relative aspect-[4/3] overflow-hidden">
         <Image
           src={castle.hero_image.url}
