@@ -11,8 +11,8 @@
   "region": "Transylvania, Brasov County",
   "nearest_city": "Făgăraș",
   "address": "Str. Mihai Viteazu 1, Făgăraș 505200, Romania",
-  "lat": 45.8430,
-  "lng": 24.9730,
+  "lat": 45.843,
+  "lng": 24.973,
   "unesco": false,
   "year_built": 1310,
   "architectural_style": "Renaissance-era stone fortress with two defensive circuits, surrounded by a water-filled moat; founded as a wooden fortification in 1310 and rebuilt in stone across the 14th–16th centuries by the Voivodes of Wallachia and the princes of Transylvania; the defensive walls with corner bastions reflect Italian Renaissance fortification theory as applied to a Transylvanian context in the 16th century; a residential palace range was added within the inner circuit by Prince Gabriel Bethlen in the 17th century, combining military function with courtly residential use; the moat, fed by the Olt River, is a functioning water defence that remains filled; now houses the Valer Literat Museum of Făgăraș, with collections covering local Transylvanian history, peasant culture, and medieval arms",
@@ -84,7 +84,8 @@
     "bran-castle",
     "peles-castle",
     "poenari-castle",
-    "corvin-castle"
+    "corvin-castle",
+    "rupea-fortress"
   ],
   "gyg_location_id": "1785",
   "gyg_search_query": "Fagaras Fortress Transylvania Romania castle tour",

@@ -69,11 +69,22 @@
   "instagram_tag": "#chateauaigle",
   "meta_title": "Aigle Castle: Vine & Wine Museum in a 13th-Century Fortress Above Lake Geneva — Switzerland Guide 2026",
   "meta_description": "Visit Aigle Castle in Vaud — a Bernese Gothic fortress surrounded by Chasselas vineyards at the mouth of the Rhône Valley, housing the Vine and Wine Museum. From CHF 10.",
-  "tags": ["switzerland", "vaud", "castle", "wine", "chasselas", "chablais", "lake-geneva", "swiss-riviera"],
+  "tags": [
+    "switzerland",
+    "vaud",
+    "castle",
+    "wine",
+    "chasselas",
+    "chablais",
+    "lake-geneva",
+    "swiss-riviera"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
-    "chateau-de-chillon"
+    "chateau-de-chillon",
+    "oberhofen-castle",
+    "spiez-castle"
   ],
   "gyg_location_id": "103713",
   "gyg_search_query": "Aigle Castle Vaud wine museum Lake Geneva day trip",
@@ -90,7 +101,9 @@
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/aigle-l103713/private-day-trip-lausanne-to-vevey-montreux-aigle-castle-t852387/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["aigle-castle"]
+      "covers_castles": [
+        "aigle-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true
