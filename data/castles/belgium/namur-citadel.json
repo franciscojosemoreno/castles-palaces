@@ -81,7 +81,9 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
-    "chateau-de-bouillon"
+    "chateau-de-bouillon",
+    "huy-castle",
+    "citadel-of-dinant"
   ],
   "gyg_location_id": "236390",
   "gyg_search_query": "Namur Citadel Belgium tour",
@@ -97,7 +99,10 @@
       "rating": 4.5,
       "reviews": 87,
       "covers_castles": [
-        "namur-citadel"
+        "namur-citadel",
+        "huy-castle",
+        "citadel-of-dinant",
+        "chateau-de-bouillon"
       ]
     }
   ]

@@ -83,7 +83,8 @@
   "nearby_castles": [
     "conwy-castle",
     "caernarfon-castle",
-    "castell-coch"
+    "castell-coch",
+    "cardiff-castle"
   ],
   "gyg_location_id": "445",
   "gyg_search_query": "Caerphilly Castle tour Cardiff",
@@ -116,7 +117,8 @@
       "booking_url_override": "https://www.getyourguide.com/cardiff-l449/day-tour-of-south-wales-t1137827/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "caerphilly-castle",
-        "castell-coch"
+        "castell-coch",
+        "cardiff-castle"
       ]
     }
   ],

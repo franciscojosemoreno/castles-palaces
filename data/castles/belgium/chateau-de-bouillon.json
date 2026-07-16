@@ -81,7 +81,9 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
-    "namur-citadel"
+    "namur-citadel",
+    "huy-castle",
+    "citadel-of-dinant"
   ],
   "gyg_location_id": "157376",
   "gyg_search_query": "Bouillon Castle Belgium Ardennes tour",
@@ -100,7 +102,9 @@
       "booking_url_override": "https://www.getyourguide.com/huy-l157376/from-brussels-namur-huy-bouillon-and-dinant-day-trip-t881951/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chateau-de-bouillon",
-        "namur-citadel"
+        "namur-citadel",
+        "huy-castle",
+        "citadel-of-dinant"
       ]
     }
   ],

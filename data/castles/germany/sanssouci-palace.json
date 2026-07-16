@@ -86,7 +86,9 @@
     "hohenzollern-castle",
     "rheinsberg-palace",
     "charlottenburg-palace",
-    "palace-of-kopenick"
+    "palace-of-kopenick",
+    "cecilienhof-palace",
+    "neues-palais"
   ],
   "gyg_location_id": "17",
   "gyg_search_query": "Sanssouci Palace Potsdam tour",
@@ -117,7 +119,9 @@
       "reviews": 3998,
       "is_top_pick": false,
       "covers_castles": [
-        "sanssouci-palace"
+        "sanssouci-palace",
+        "cecilienhof-palace",
+        "neues-palais"
       ],
       "booking_url_override": "https://www.getyourguide.com/potsdam-l467/potsdam-city-and-castles-tour-t70776/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }

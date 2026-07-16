@@ -86,7 +86,9 @@
     "reichsburg-cochem",
     "eltz-castle",
     "augustusburg-palace",
-    "drachenburg-castle"
+    "drachenburg-castle",
+    "stolzenfels-castle",
+    "lahneck-castle"
   ],
   "gyg_location_id": "529",
   "gyg_search_query": "Marksburg Castle Rhine Valley Koblenz tour",
@@ -117,7 +119,9 @@
       "reviews": 2098,
       "is_top_pick": false,
       "covers_castles": [
-        "marksburg-castle"
+        "marksburg-castle",
+        "stolzenfels-castle",
+        "lahneck-castle"
       ],
       "booking_url_override": "https://www.getyourguide.com/koblenz-l529/from-koblenz-2h-castles-and-palaces-boat-tour-t597159/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
