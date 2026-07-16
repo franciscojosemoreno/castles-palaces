@@ -83,7 +83,9 @@
   "nearby_castles": [
     "mirow-castle",
     "pieskowa-skala-castle",
-    "ogrodzieniec-castle"
+    "ogrodzieniec-castle",
+    "korzkiew-castle",
+    "rabsztyn-castle"
   ],
   "gyg_location_id": "40",
   "gyg_search_query": "Bobolice Castle Eagles Nests trail Poland Kraków",
@@ -101,10 +103,12 @@
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/krakow-l40/from-krakow-trail-of-the-eagles-nests-day-tour-t64084/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
-        "bobolice-castle",
-        "mirow-castle",
+        "korzkiew-castle",
         "pieskowa-skala-castle",
-        "ogrodzieniec-castle"
+        "rabsztyn-castle",
+        "ogrodzieniec-castle",
+        "bobolice-castle",
+        "mirow-castle"
       ]
     }
   ],
