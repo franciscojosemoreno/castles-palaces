@@ -1,0 +1,107 @@
+{
+  "id": "pillnitz-castle",
+  "name": "Pillnitz Palace",
+  "local_name": "Schloss Pillnitz",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 70,
+  "annual_visitors": 250000,
+  "country": "germany",
+  "region": "Saxon Switzerland-Eastern Ore Mountains, Saxony",
+  "nearest_city": "Dresden",
+  "address": "August-Böckstiegel-Straße 2, 01326 Dresden-Pillnitz, Germany",
+  "lat": 51.0106,
+  "lng": 13.8688,
+  "unesco": false,
+  "year_built": 1720,
+  "architectural_style": "Baroque chinoiserie river palace in the Elbe valley east of Dresden — built by Augustus the Strong, Elector of Saxony and King of Poland, between 1720 and 1724; designed by Matthäus Daniel Pöppelmann, the same architect who designed the Zwinger in Dresden; the ensemble comprises three main buildings in a distinctive chinoiserie Baroque style — the Wasserpalais (Water Palace) facing the Elbe, the Bergpalais (Hill Palace) on the opposite side of the formal garden, and the Neues Palais (New Palace) connecting them; the chinoiserie detailing reflects the European fascination with East Asian design motifs in the early 18th century, when trade with China and Japan was beginning to make Asian decorative objects available to European courts, and Augustus the Strong's collection of East Asian porcelain was one of the largest in Europe; the formal garden between the two river and hill palaces contains the most famous single feature of the Pillnitz estate: a camellia tree (Camellia japonica) planted in 1801, now approximately 230 years old, which is housed in a purpose-built mobile greenhouse that slides back to expose the tree during its bloom period (February–April); the camellia is believed to be the oldest camellia in continuous cultivation in Europe; the palace is managed by the Staatliche Schlösser, Burgen und Gärten Sachsen (State Palaces, Castles and Gardens of Saxony)",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Museum open Tuesday to Sunday, May to October; closed in winter (November to April) except for special events. Park and garden accessible year-round. IMPORTANT: The GYG product linked on this page (t57948) is a 2-hour Elbe river cruise from Dresden that passes Pillnitz but does NOT include entry to the palace or garden. GYG's own product description states explicitly that there is no time to visit Pillnitz Castle on this cruise — the palace is seen from the river. Visitors who want to enter Pillnitz must travel there independently (bus 63 from Dresden Pirnaischer Platz, approximately 40 minutes). The cruise is included on this page as it serves visitors who want to see the palace's Elbe-side facade from the water; it is not a Pillnitz entry ticket and should not be booked in expectation of castle access."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://www.schlosspillnitz.de/",
+  "visit_duration": "2–3 hours (palace museums + garden + camellia)",
+  "best_season": "May to October (museums open); February to April (camellia bloom)",
+  "accessibility": "The palace park and garden are accessible on paved paths. The museum interiors involve stairs. The camellia greenhouse is accessible at ground level. Check with the palace for specific mobility guidance.",
+  "booking_advance_days": 0,
+  "tagline": "Augustus the Strong's chinoiserie Baroque on the Elbe, with a 230-year-old camellia in a mobile greenhouse — Pöppelmann's river palace east of Dresden, where the GYG Elbe cruise offers views from the water but no castle entry",
+  "highlights": [
+    "Augustus the Strong (Friedrich August I, Elector of Saxony and King of Poland) commissioned Pillnitz as a pleasure palace on the Elbe in 1720, assigning the design to Matthäus Daniel Pöppelmann — the same architect who was simultaneously designing the Zwinger in Dresden city centre; Pillnitz and the Zwinger are therefore companion works by the same architect for the same patron in the same decade, designed in complementary but stylistically distinct registers; the Zwinger is extravagant Baroque in stone and gilt; Pillnitz is chinoiserie fantasy in plaster and paint, expressing Augustus's fascination with East Asian art and his ambition to assemble one of Europe's largest porcelain collections; together they define the visual ambition of Dresden under Augustus, one of the most culturally productive reigns in German Baroque history",
+    "The 230-year-old camellia (Camellia japonica) in the Pillnitz garden is believed to be the oldest camellia in continuous cultivation in Europe. Planted in 1801 from stock brought to Saxony from Japan, it is now approximately 9 metres tall and blooms annually in late winter (typically February to April). The palace built a custom purpose-built greenhouse specifically for this tree: a large wooden-and-glass mobile structure that slides on rails to cover the camellia during the cold months and retract in spring to expose it; the fact that the architectural response to a single tree is a mobile building that moves on tracks is one of the most committed acts of horticultural devotion in European palace history; visitors during the February–April bloom period see the camellia in flower before the palace museums have reopened for the season",
+    "The chinoiserie style of Pillnitz — Baroque palace architecture decorated with motifs derived from East Asian design, including pagoda-like rooflines, painted Chinese figures, and lacquer-style surface treatments — reflects the European cultural moment of the early 18th century when Chinese and Japanese export goods were arriving in European markets in quantity for the first time and East Asian design was the fashionable shorthand for luxury, refinement, and novelty; Augustus the Strong's collection of East Asian porcelain was among the largest in Europe (he famously traded a regiment of cavalry to the Prussian king Friedrich Wilhelm I for 151 Chinese vases); Pillnitz palace is the architectural expression of this collecting impulse extended from the cabinet to the building itself",
+    "The Elbe valley landscape east of Dresden — the Elbe Sandstone Mountains (Elbsandsteingebirge) beginning just southeast of Pillnitz and extending into the Saxon Switzerland National Park — is part of what makes Pillnitz's setting distinctive: the palace sits at the point where the suburban Elbe riverscape east of Dresden begins to give way to the sandstone cliff landscape that characterises the upper Elbe; viewing Pillnitz from the river (from the cruise or from the opposite bank) gives the most complete picture of how the palace relates to its landscape, with the Wasserpalais facing the water and the sandstone hills rising behind",
+    "CRITICAL NOTE FOR VISITORS: The GYG product (t57948) on this page is a 2-hour Elbe river cruise that passes Pillnitz from the water — GYG's own listing states explicitly that there is no time to visit Pillnitz Castle during the cruise. The boat passes the Wasserpalais facade; the cruise does not stop and does not include palace entry or garden access. This is disclosed prominently because the cruise appears in searches for Pillnitz and could be booked by visitors expecting castle access. To visit the palace, take bus 63 from Dresden city centre (approximately 40 minutes) to the palace entrance independently of the cruise."
+  ],
+  "description": "Pillnitz Palace stands on the south bank of the Elbe river in the village of Pillnitz, approximately 10 kilometres upstream (east) of Dresden city centre. It is a Baroque pleasure palace in the chinoiserie style — decorated with East Asian-derived motifs, pagoda rooflines, and lacquer-style painted surfaces — built by Augustus the Strong, Elector of Saxony and King of Poland, between 1720 and 1724. The architect was Matthäus Daniel Pöppelmann, who was simultaneously designing the Zwinger in central Dresden: Pillnitz and the Zwinger are companion works by the same architect for the same patron in the same decade.\n\nThe palace ensemble comprises three main structures: the Wasserpalais (Water Palace), whose formal entrance faces the Elbe, the Bergpalais (Hill Palace) on the opposite side of the formal garden, and the Neues Palais (New Palace, completed later) connecting them. The chinoiserie style expressed Augustus's fascination with East Asian art and his pursuit of one of Europe's largest porcelain collections — he famously traded a regiment of 600 cavalry soldiers to the Prussian king Friedrich Wilhelm I in exchange for 151 Chinese vases. Pillnitz palace is the architectural manifestation of this collecting impulse scaled from the cabinet to the building.\n\nThe most remarkable single feature of the palace is not the architecture but a tree. The Pillnitz camellia (Camellia japonica), planted in 1801 from stock brought from Japan, is believed to be the oldest camellia in continuous cultivation in Europe. Now approximately 230 years old and 9 metres tall, it blooms each late winter (February–April). The palace's response to this tree has been to build a purpose-made mobile greenhouse — a large wooden-and-glass structure that slides on rails to cover the camellia during the cold months and retract in spring to expose the tree and allow it to bloom. The existence of a mobile building designed around a single plant's seasonal needs is one of the more committed pieces of horticultural architecture in European palace history. Visitors in February to April can see the camellia in bloom, in the weeks before the palace museums reopen for the season.\n\nThe palace museums in the Wasserpalais, Bergpalais, and Neues Palais cover the history of the estate and Saxon court art. The museum season is May to October; the palace is closed to visitors in winter except for special events, though the park remains accessible year-round.\n\n**Important: The GYG product linked on this page (t57948) is a 2-hour Elbe river cruise from Dresden that passes Pillnitz from the water. GYG's own product description states explicitly that there is no time to visit Pillnitz Castle on this cruise.** The boat passes the Wasserpalais facade; the cruise does not stop and does not include palace entry or garden access. The cruise is included on this page as a way to see the palace's Elbe elevation from the water — a genuinely different view of the building. To visit the palace, travel independently by bus 63 from Dresden (approximately 40 minutes), or combine car access with the independent museum entry.\n\nPillnitz pairs naturally with [Dresden Castle](/castles/germany/dresden-castle) — the Electoral and Royal Palace of Saxony in the city centre — and [Moritzburg Castle](/castles/germany/moritzburg-castle), Augustus the Strong's Baroque hunting lodge north of Dresden.",
+  "history": "1694–1733: Reign of Augustus the Strong (Friedrich August I), Elector of Saxony and King of Poland — the defining patron of Baroque Dresden. 1720–1724: Pillnitz Palace built by Pöppelmann in chinoiserie Baroque style; Wasserpalais and Bergpalais constructed. 1784: Fire damages the original Neues Palais connecting structure. Early 19th century: Neues Palais rebuilt in a neoclassical style. 1801: Camellia planted in the Pillnitz garden. 19th–20th centuries: Palace used as a summer residence by successive Saxon monarchs. 1918: Saxon monarchy abolished after World War I; palace passes to state management. 1945: Dresden bombing does not directly hit Pillnitz; palace survives World War II. Present day: Managed by Staatliche Schlösser, Burgen und Gärten Sachsen; museums open May–October; camellia and park accessible year-round.",
+  "how_to_visit": "**Getting there from Dresden:** Bus 63 from Pirnaischer Platz (city centre) approximately 40 minutes to Pillnitz; bus runs regularly. By ferry: seasonal Elbe ferry from the opposite bank. By bicycle: the Elbe cycle path from Dresden city passes Pillnitz directly. By car: 15–20 minutes from central Dresden on the B6.\n\n**Tickets:** Adult approximately €9, child approximately €5 for palace museums. Park and garden free. Museum season May–October; closed winter.\n\n**Camellia bloom:** February–April — the greenhouse slides back to expose the camellia; check schlosspillnitz.de for the bloom start date each year.\n\n**GYG note:** The cruise booking link (t57948) is a river cruise that passes Pillnitz from the water — it does NOT include palace entry. Book it to see the Wasserpalais facade from the Elbe; travel independently for palace access.\n\n**Combine with:** [Dresden Castle](/castles/germany/dresden-castle) (city centre; the Electoral Palace of Saxony). [Moritzburg Castle](/castles/germany/moritzburg-castle) (Baroque hunting lodge north of Dresden).",
+  "faqs": [
+    {
+      "question": "Does the GYG Elbe cruise include entry to Pillnitz Palace?",
+      "answer": "No. GYG's own product description for tour t57948 explicitly states that there is no time to visit Pillnitz Castle during the cruise. The boat passes the Wasserpalais facade from the river and continues without stopping. To visit the palace and garden, travel independently by bus 63 from Dresden city centre (approximately 40 minutes) and pay the museum entry fee on site."
+    },
+    {
+      "question": "What is the Pillnitz camellia and why does it have its own greenhouse?",
+      "answer": "The Pillnitz camellia (Camellia japonica) was planted in 1801 from stock brought from Japan and is believed to be the oldest camellia in continuous cultivation in Europe. Now approximately 230 years old and 9 metres tall, it blooms each late winter (February–April). Because camellias cannot survive Central European winters without protection, the palace built a purpose-designed mobile greenhouse that slides on rails to cover the tree during cold months and retract in spring. The greenhouse moves to accommodate the tree, not the other way around."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/pillnitz-castle.webp",
+    "alt": "Pillnitz Palace on the Elbe river east of Dresden — the chinoiserie Baroque Wasserpalais of Augustus the Strong, designed by Pöppelmann, with the Elbe embankment and formal garden",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 900
+  },
+  "gallery": [],
+  "og_image": "/images/castles/pillnitz-castle.webp",
+  "instagram_tag": "#schlosspillnitz",
+  "meta_title": "Pillnitz Palace, Dresden: Visitor Guide 2026 — Chinoiserie Baroque on the Elbe",
+  "meta_description": "Visit Pillnitz Palace on the Elbe east of Dresden — Augustus the Strong's chinoiserie Baroque palace by Pöppelmann, home to a 230-year-old camellia in a mobile greenhouse. Note: the GYG Elbe cruise does NOT include palace entry.",
+  "tags": [
+    "germany",
+    "saxony",
+    "palace",
+    "baroque",
+    "chinoiserie",
+    "augustus-the-strong",
+    "poppelmann",
+    "dresden",
+    "elbe"
+  ],
+  "last_updated": "2026-07-16",
+  "routes": [],
+  "nearby_castles": [
+    "dresden-castle",
+    "moritzburg-castle"
+  ],
+  "gyg_location_id": "20",
+  "gyg_search_query": "Pillnitz Palace Dresden Elbe river cruise Saxony",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "57948",
+      "title": "Dresden: 2-Hour Elbe River Cruise Passing Pillnitz",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 37,
+      "rating": 4.5,
+      "reviews": 2571,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/dresden-l20/dresden-2-hour-elbe-river-cruise-t57948/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": ["pillnitz-castle"]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

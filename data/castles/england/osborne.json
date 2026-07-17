@@ -79,7 +79,9 @@
   ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "carisbrooke-castle"
+  ],
   "gyg_location_id": "213567",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Osborne House Isle of Wight admission ticket",

@@ -84,7 +84,9 @@
   ],
   "last_updated": "2026-07-12",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "brolio-castle"
+  ],
   "gyg_location_id": "207723",
   "gyg_search_query": "medieval castle dinner Foligno Umbria experience",
   "gyg_widget_type": "activities",

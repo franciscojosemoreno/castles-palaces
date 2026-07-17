@@ -76,7 +76,9 @@
   ],
   "last_updated": "2026-06-30",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "rapperswil-castle"
+  ],
   "gyg_location_id": "95858",
   "gyg_search_query": "Zug Castle Switzerland tour",
   "gyg_widget_type": "activities",
