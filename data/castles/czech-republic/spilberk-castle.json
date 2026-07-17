@@ -97,6 +97,21 @@
       "covers_castles": [
         "spilberk-castle"
       ]
+    },
+    {
+      "tour_id": "1147432",
+      "title": "Grand Moravia Tour: Konopiště, Český Šternberk, Třebíč, Pernštejn & Brno",
+      "type": "guided_tour",
+      "duration": "Full day",
+      "price_from": 1407,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/prague-l10/grand-tour-konopiste-stenberk-trebic-pernstejn-brno-t1147432/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "konopiste-castle",
+        "spilberk-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -120,6 +120,20 @@
         "castell-coch",
         "cardiff-castle"
       ]
+    },
+    {
+      "tour_id": "566666",
+      "title": "From Cardiff: Wye Valley — Tintern Abbey, Chepstow Castle & Caerphilly",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 109,
+      "rating": 4.7,
+      "reviews": 116,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/cardiff-l449/from-cardiff-the-wandering-bard-s-valley-tour-t566666/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "caerphilly-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -1,0 +1,127 @@
+{
+  "id": "prague-grand-moravia-konopiste-sternberk-trebic-pernstejn",
+  "slug": "prague-grand-moravia-konopiste-sternberk-trebic-pernstejn",
+  "name": "Prague: Grand Moravia Tour — Konopiště, Český Šternberk, Třebíč & Pernštejn Castles",
+  "tagline": "A long private day from Prague across Bohemia into Moravia — Franz Ferdinand's castle, a 20-generation family seat, a UNESCO Jewish Quarter, and the marble of Moravia, ending in Brno",
+  "departure_country": "czech-republic",
+  "departure_city": "Prague",
+  "visited_countries": [
+    "czech-republic"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (approx. 12–14 hours including driving)",
+  "gyg_tour_id": "1147432",
+  "gyg_url": "https://www.getyourguide.com/prague-l10/grand-tour-konopiste-stenberk-trebic-pernstejn-brno-t1147432/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 1407,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 0,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 3,
+  "overview": "The Czech Republic's most visited sites — Prague Castle, Český Krumlov, Karlštejn — are exceptional, but they represent Bohemia. Moravia, the eastern part of the country, is historically distinct, architecturally significant, and considerably less visited by international tourists. This private grand tour from Prague crosses the Bohemian-Moravian Highlands to reach Brno, the Moravian capital, covering five major heritage sites along a route that functions as a compressed survey of Czech history from the medieval through the early modern period.\n\nThe itinerary is explicitly customisable — GYG marks each stop as Optional, meaning the group can agree with the driver-guide in advance to drop or abbreviate stops that interest them less and spend more time at those that matter most. This flexibility makes the tour work for visitors with existing knowledge of some sites and not others. The full itinerary as described covers: Konopiště Castle (Archduke Franz Ferdinand's residence, his bear trophies, his roses), Český Šternberk Castle (a 13th-century fortress still owned by the same family who built it, overlooking the Sázava river gorge), Třebíč (a UNESCO World Heritage site for its Jewish Quarter and the Basilica of St Procopius — a town heritage stop, not a castle), Pernštejn Castle (one of the best-preserved Gothic-Renaissance fortifications in Central Europe, nicknamed the marble of Moravia), and Špilberk Castle in Brno (the Habsburg prison-fortress turned city museum, plus Brno cathedral and old town).\n\nThe price ($1,407) is per group of up to 3 people, not per person — for a party of 3, this is approximately $469 per person. All entry tickets and lunch are included. The provider, Gentlemen Drivers, offers a private car or minivan with an English-speaking driver-guide.\n\n**Note on reviews:** GYG shows a provider-level rating for Gentlemen Drivers but no independently verified review count for this specific product. Treat this as an established private-tour operator; the per-product review count is unverified at time of writing.\n\nThis is the first tour on this site to reach Moravia from a Czech departure city, and the first to include Třebíč, Pernštejn, and Brno. It is positioned as the natural extension of the existing Prague castle tours for visitors with an extra day — the [Prague Castle guided tour](/tours/czech-republic/prague-castle-guided-tour), the [Karlštejn half-day](/tours/czech-republic/prague-karlstejn-castle-half-day), and the [Český Krumlov day trip](/tours/czech-republic/prague-cesky-krumlov-day-trip) cover Bohemia; this tour covers the crossing into Moravia.",
+  "highlights": [
+    "Konopiště Castle — Archduke Franz Ferdinand d'Este's private residence from 1887 until his 1914 assassination in Sarajevo; the castle contains his extraordinary hunting trophy collection (an estimated 300,000 specimens — the largest private hunting collection ever assembled, now partially displayed in the castle corridors and trophy rooms), his personal armoury, and the rose gardens he cultivated with obsessive care; the assassination that triggered the First World War began with a man who grew roses and shot animals in South Bohemia",
+    "Český Šternberk Castle — a 13th-century fortress on a rocky spur above the Sázava river gorge, built by Zdeslav of Šternberk in the 1240s and still owned by the Šternberk family today — a continuous family ownership of more than 20 generations spanning nearly 800 years; the castle was reclaimed from Communist confiscation by the family after 1989 and is now operated as a family-run heritage site; the Sázava river gorge visible from the castle walls is one of the finest natural settings of any castle in Bohemia",
+    "Třebíč — a UNESCO World Heritage Site (inscribed 2003) for its Jewish Quarter and the Romanesque-Gothic Basilica of St Procopius; the Jewish Quarter is one of the most complete surviving examples of Central European Jewish urban settlement, preserving the synagogue, the old Jewish cemetery, and the streetscape of the pre-war community; Třebíč is included on this tour as a town heritage stop rather than a castle — the only non-fortification on the itinerary, explicitly noted as such",
+    "Pernštejn Castle — nicknamed the marble of Moravia for the exceptional quality of its preservation; a Gothic-Renaissance fortress built by the Pernštejn family from the 13th century and expanded through the 16th, which survived without major damage through the Thirty Years War, the Habsburg period, and the 20th century; one of the best-preserved castles of its period in Central Europe, with original Gothic towers, Renaissance arcaded courtyards, and intact interior furnishings in some rooms",
+    "Špilberk Castle in Brno — a 13th-century royal fortress on a prominent hill above the Moravian capital, converted by the Habsburgs into one of Central Europe's most notorious political prisons (the Kasematten — the underground casemates — held Czech patriots, Italian Carbonari, and Croatian rebels in the 18th and 19th centuries); now a city museum; the hill gives panoramic views over Brno and the surrounding Moravian landscape",
+    "All entry tickets and lunch included — unlike most private tours at this price point, this itinerary explicitly covers all castle entry fees and one restaurant lunch, making the total cost straightforward without additional on-site expenditure"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure from Prague",
+      "duration": "Travel south (1 hour to Konopiště)",
+      "description": "Depart Prague with the private driver-guide heading south through central Bohemia. Konopiště is approximately 50 kilometres south of Prague in the Benešov district. The guide introduces the historical geography of the Bohemian-Moravian Highlands — the ridge of hills that separates Bohemia from Moravia and was for centuries the administrative boundary between two distinct regions of the Bohemian Crown. The day's route crosses this boundary, making the journey itself a survey of the landscape that defined Czech cultural geography."
+    },
+    {
+      "order": 2,
+      "castle_name": "Konopiště Castle",
+      "castle_id": "konopiste-castle",
+      "duration": "1.5 hours",
+      "description": "Konopiště Castle (Zámek Konopiště) was a medieval Gothic fortress converted into a neo-Gothic residence by Archduke Franz Ferdinand d'Este — heir presumptive to the Austro-Hungarian throne — from 1887. Franz Ferdinand purchased the estate and spent the following decades transforming the castle into his private home: modernising its infrastructure (Konopiště was one of the first private properties in Bohemia to have electricity and a lift), assembling what became the largest private hunting trophy collection ever compiled, and creating the elaborate rose gardens that survive today.\n\nThe trophy collection is the most discussed feature of the castle interior: an estimated 300,000 hunting specimens, ranging from antlers and tusked boar heads arranged in dense geometric patterns on the corridors to full-room trophy displays covering entire walls from floor to ceiling. Franz Ferdinand was among the most obsessive hunters in European aristocratic history; the collection reflects a lifetime of systematic acquisition. The armoury, separate from the trophy rooms, displays medieval and Renaissance weapons from his collection.\n\nFranz Ferdinand and his wife Sophie were assassinated in Sarajevo on 28 June 1914 by Gavrilo Princip — triggering the sequence of mobilisations and ultimatums that produced the First World War. He had visited Konopiště for the last time just weeks before the assassination to tend his rose gardens. The roses still bloom each June."
+    },
+    {
+      "order": 3,
+      "castle_name": "Český Šternberk Castle",
+      "duration": "1.5 hours",
+      "description": "Český Šternberk Castle (Hrad Český Šternberk) is one of the best-documented examples of continuous noble family ownership in Central Europe: built in the 1240s by Zdeslav of Šternberk, a Czech nobleman, on a rocky spur above the Sázava river gorge, it has been owned by the Šternberk family (with an interruption during Communist nationalisation from 1945 to 1989) for more than 780 years. The current owner, Zdeněk Šternberk, reclaimed the castle after the Velvet Revolution and continues to operate it as a family heritage site — one of a small number of Czech castles restored to their original noble families after 1989.\n\nThe castle's position above the Sázava gorge is dramatic: the river cuts deeply through forested hills below, and the castle occupies the spur on a narrow footprint, its towers arranged along the ridgeline. The interior preserves Baroque furnishings and family portraits spanning the Šternberk generations, alongside collections assembled during the family's centuries in residence. Unlike the major Bohemian state-managed castles, Český Šternberk retains the atmosphere of a working family estate rather than a curated museum — the Šternberk family still lives here."
+    },
+    {
+      "order": 4,
+      "castle_name": "Třebíč — UNESCO Jewish Quarter & Basilica of St Procopius",
+      "duration": "1 hour",
+      "description": "Třebíč is included on this tour as a town heritage stop — the only non-fortification on the itinerary. The UNESCO World Heritage Site designation (inscribed 2003) covers two distinct elements: the Jewish Quarter of Třebíč and the Romanesque-Gothic Basilica of St Procopius.\n\nThe Jewish Quarter is one of the most complete surviving examples of Central European Jewish urban settlement. Before the Second World War, Třebíč had a substantial Jewish community occupying a distinct quarter on the opposite bank of the river from the medieval town centre. The quarter's streets, the synagogue, the old Jewish cemetery, and the residential buildings together preserve a pre-war Central European Jewish urban environment that survived because the town was not heavily bombed and the buildings were not systematically demolished after the war. The cemetery is the most visited element, containing 11,000 graves spanning six centuries.\n\nThe Basilica of St Procopius, adjacent to the former Benedictine monastery, is an exceptional example of the transition between Romanesque and early Gothic architecture in 13th-century Moravia — its Romanesque crypt and portal survive alongside a Gothic nave added in the same construction phase. UNESCO inscribed Třebíč because of the exceptional coexistence of Christian and Jewish heritage in a single small Moravian town."
+    },
+    {
+      "order": 5,
+      "castle_name": "Pernštejn Castle",
+      "duration": "1.5 hours",
+      "description": "Pernštejn Castle (Hrad Pernštejn), 25 kilometres northwest of Brno, is called the marble of Moravia for the exceptional quality of its survival — not because it is made of marble, but because its preservation is as complete as a marble block left uncarved. The castle was built by the Pernštejn family beginning in the 13th century, expanded through the Gothic and Renaissance periods as the family's power in Moravia grew, and survived without major damage through the Thirty Years War, the Habsburg period, the 19th century, and the 20th. The result is one of the most architecturally complete Gothic-Renaissance fortifications in Central Europe.\n\nThe exterior presents an unaltered profile of towers, walls, and gates developed across four centuries of continuous building. The interior preserves original Gothic vaulting in the oldest sections, Renaissance arcaded courtyards from the 16th century, and intact furnishings in some rooms that reflect the castle's occupation through the early modern period. The Pernštejn family were at the peak of their Moravian power in the late 15th and early 16th centuries — at that point one of the most powerful noble dynasties in the Bohemian Crown — before declining through over-extension and debt in the later 16th century. The castle passed to the Liechtenstein family in the 17th century and eventually to state management."
+    },
+    {
+      "order": 6,
+      "castle_name": "Špilberk Castle & Brno",
+      "castle_id": "spilberk-castle",
+      "duration": "1.5 hours",
+      "description": "The final stop is Brno, the capital of Moravia and the second city of the Czech Republic. Špilberk Castle (Hrad Špilberk) occupies a prominent hill above the city centre — a 13th-century royal fortress converted by the Habsburgs into one of Central Europe's most notorious political prisons. The underground casemates (Kasematten) held political prisoners from across the Habsburg empire: Czech patriots, Italian Carbonari, Croatian nationalists, and prisoners from the Napoleonic wars. The French writer Silvio Pellico, imprisoned here in the 1820s, wrote the memoir Le mie prigioni ('My Prisons') that made Špilberk notorious across Europe. The castle now houses the Brno City Museum.\n\nAfter Špilberk, the guide leads a short walk through Brno's city centre: the Cathedral of Sts Peter and Paul on the Petrov hill (whose bells ring at 11am instead of noon, in memory of a 1645 ruse that ended a Swedish siege), the central Náměstí Svobody (Freedom Square), and the old town streetscape. Brno's Functionalist architectural heritage — the Tugendhat Villa by Mies van der Rohe (1930) is the most famous example, a UNESCO site — can be noted if time permits, though the tour's castle focus does not include interior visits. Return to Prague from Brno: approximately 2.5 hours by private car."
+    }
+  ],
+  "included": [
+    "Private English-speaking driver-guide for the full day",
+    "Private car or minivan (appropriate for up to 3 passengers)",
+    "All entry tickets for all castle sites",
+    "Lunch at a restaurant en route (included in price)",
+    "All transport (Prague → Konopiště → Český Šternberk → Třebíč → Pernštejn → Brno → Prague)"
+  ],
+  "excluded": [
+    "Hotel pickup/dropoff (confirm arrangement with Gentlemen Drivers at booking)",
+    "Drinks beyond included lunch",
+    "Tips for driver-guide"
+  ],
+  "meeting_point": "Prague city centre — confirmed by Gentlemen Drivers at booking",
+  "tips": [
+    "The price ($1,407) is per group of up to 3 people, not per person — for a party of 3, this is approximately $469 per person for a full day including all entry tickets, lunch, and private transport across approximately 500 km of driving. For 1–2 people the per-person cost is higher; assess accordingly.",
+    "GYG shows a provider rating for Gentlemen Drivers based on their wider portfolio, but no verified review count for this specific product. The operator runs other verified private tours; approach this as an established boutique provider with an unverified count for this exact itinerary.",
+    "The itinerary is explicitly customisable — all stops are listed as Optional on GYG, meaning you can agree with the driver-guide in advance to drop or abbreviate stops. If you have already visited Konopiště, it can be shortened or skipped to allow more time at Pernštejn or Třebíč.",
+    "Třebíč's Jewish Quarter is the most historically concentrated stop on the itinerary — the Jewish cemetery alone warrants 30–45 minutes. If this is a priority, confirm with the driver-guide that the Třebíč segment is allocated sufficient time rather than treated as a transit stop.",
+    "Pernštejn is the stop most likely to surprise visitors who have not previously encountered it — the preservation quality is genuinely exceptional and the castle is substantially less visited than the main Bohemian sites. If you can prioritise only one of the unfamiliar stops, Pernštejn is the one most castle visitors will not have seen.",
+    "This tour complements the existing Prague castle portfolio on this site rather than overlapping with it: the [Prague Castle guided tour](/tours/czech-republic/prague-castle-guided-tour), [Karlštejn half-day](/tours/czech-republic/prague-karlstejn-castle-half-day), and [Český Krumlov day trip](/tours/czech-republic/prague-cesky-krumlov-day-trip) all cover Bohemia; this tour is the natural extension for visitors with a further day who want to cross into Moravia."
+  ],
+  "faqs": [
+    {
+      "question": "What happened to Franz Ferdinand after he left Konopiště for the last time?",
+      "answer": "Archduke Franz Ferdinand d'Este — heir presumptive to the Austro-Hungarian throne — visited Konopiště for the last time in June 1914 to tend his rose gardens before travelling to Sarajevo for a military inspection. On 28 June 1914, he and his wife Sophie were assassinated in Sarajevo by Gavrilo Princip, a Bosnian Serb nationalist with connections to the Black Hand. The assassination triggered a sequence of ultimatums, mobilisations, and declarations of war that produced the First World War within six weeks. Franz Ferdinand's death set in motion a conflict that killed approximately 20 million people. The roses at Konopiště still bloom each June."
+    },
+    {
+      "question": "Is Třebíč a castle or a town?",
+      "answer": "Třebíč is a town — the only non-fortification on this tour's itinerary. It is included because it is a UNESCO World Heritage Site (inscribed 2003) for its Jewish Quarter and the Basilica of St Procopius. The Jewish Quarter is one of the most complete surviving examples of Central European Jewish urban settlement, preserving streets, a synagogue, and a cemetery spanning six centuries. It is distinct from the castle stops and is deliberately positioned in the itinerary as a heritage-town segment rather than a fortress visit."
+    },
+    {
+      "question": "Why is Pernštejn called the marble of Moravia?",
+      "answer": "Pernštejn's nickname (mramor Moravy — the marble of Moravia) refers to its exceptional preservation, not its materials. The castle was built from the 13th century and expanded through the Gothic and Renaissance periods, surviving without major damage through the Thirty Years War, the Habsburg era, and the 20th century. The result is one of the most architecturally complete fortifications of its period in Central Europe, with original Gothic vaulting, Renaissance arcaded courtyards, and intact interior elements. Its survival is compared to an uncut block of marble — complete and unaltered."
+    },
+    {
+      "question": "Why does Brno's cathedral ring at 11am instead of noon?",
+      "answer": "According to Brno tradition, on 15 August 1645, a Swedish army besieging the city was within hours of breaching the walls. The Swedish commander had agreed to withdraw if the city had not fallen by noon. The cathedral sexton, seeing the city on the verge of collapse, rang the noon bells an hour early at 11am, leading the Swedes to believe noon had passed without their target being reached. The Swedes withdrew. Whether the story is literally true is debated by historians; the Brno city administration formalized the tradition in 2012 by declaring that the cathedral bells ring at 11am and remain silent at noon as a commemorative practice."
+    },
+    {
+      "question": "How long is the total driving time on this tour?",
+      "answer": "The full itinerary involves approximately 6.5 hours of driving: Prague to Konopiště (1 hour), Konopiště to Český Šternberk (45 minutes), Šternberk to Třebíč (1.5 hours), Třebíč to Pernštejn (35 minutes), Pernštejn to Brno (30 minutes), Brno to Prague (2.5 hours return). The driving is distributed across the day alongside approximately 6 hours of site visits, making the total tour 12–14 hours depending on pace. This is a long day; all stops are optional and can be abbreviated if the group prefers a more relaxed pace."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/prague-grand-moravia-konopiste-sternberk-trebic-pernstejn.webp",
+    "alt": "Pernštejn Castle in Moravia — one of Central Europe's best-preserved Gothic-Renaissance fortifications, known as the marble of Moravia; a stop on the Grand Moravia private tour from Prague",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Prague: Grand Moravia Tour — Konopiště, Český Šternberk, Třebíč, Pernštejn & Brno",
+    "description": "Private day trip from Prague across Bohemia into Moravia: Franz Ferdinand's Konopiště, Šternberk family castle (20+ generations), UNESCO Třebíč, and Pernštejn (marble of Moravia). From $1,407 per group of up to 3."
+  }
+}
