@@ -73,12 +73,22 @@
   "instagram_tag": "#castellotricerchi",
   "meta_title": "Castello Tricerchi Montalcino: Brunello Wine Tasting & Tuscan Lunch in a Templar Castle — Guide 2026",
   "meta_description": "Visit Castello Tricerchi in Montalcino — a Templar-founded medieval castle with a guided Brunello di Montalcino tasting and 3-course Tuscan lunch in the Val d'Orcia UNESCO landscape. From $67.",
-  "tags": ["italy", "tuscany", "montalcino", "castle", "brunello", "wine", "templar", "val-dorcia"],
+  "tags": [
+    "italy",
+    "tuscany",
+    "montalcino",
+    "castle",
+    "brunello",
+    "wine",
+    "templar",
+    "val-dorcia"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
     "palazzo-delle-papesse",
-    "brolio-castle"
+    "brolio-castle",
+    "castello-ginori-di-querceto"
   ],
   "gyg_location_id": "5056",
   "gyg_search_query": "Castello Tricerchi Montalcino Brunello wine tasting lunch",
@@ -95,7 +105,9 @@
       "reviews": 433,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/montalcino-l5056/montalcino-brunello-wine-tasting-lunch-in-a-tuscan-castle-t388858/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["castello-tricerchi"]
+      "covers_castles": [
+        "castello-tricerchi"
+      ]
     }
   ],
   "gyg_direct_link_override": true

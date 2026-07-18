@@ -86,7 +86,8 @@
   "routes": [],
   "nearby_castles": [
     "monteriggioni",
-    "brolio-castle"
+    "brolio-castle",
+    "castello-ginori-di-querceto"
   ],
   "gyg_location_id": "250141",
   "gyg_search_query": "Poppiano castle Montespertoli Chianti wine tasting Florence",
@@ -103,7 +104,9 @@
       "reviews": 1,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/montespertoli-l250141/montespertoli-castello-di-poppiano-castle-tower-visit-and-wine-tasting-t1108327/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["castle-of-poppiano"]
+      "covers_castles": [
+        "castle-of-poppiano"
+      ]
     }
   ],
   "gyg_direct_link_override": true

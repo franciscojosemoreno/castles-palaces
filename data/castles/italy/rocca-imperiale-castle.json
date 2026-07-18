@@ -81,7 +81,8 @@
   "last_updated": "2026-07-16",
   "routes": [],
   "nearby_castles": [
-    "castel-del-monte"
+    "castel-del-monte",
+    "le-castella-fortress"
   ],
   "gyg_location_id": "203322",
   "gyg_search_query": "Rocca Imperiale Castle Calabria Frederick II Taranto day trip",
@@ -98,7 +99,9 @@
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/matera-l203322/from-taranto-rocca-imperiale-private-guided-tour-t1140586/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["rocca-imperiale-castle"]
+      "covers_castles": [
+        "rocca-imperiale-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

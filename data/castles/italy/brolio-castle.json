@@ -83,7 +83,8 @@
   "nearby_castles": [
     "cardaneto-castle",
     "castle-of-poppiano",
-    "castello-tricerchi"
+    "castello-tricerchi",
+    "castello-ginori-di-querceto"
   ],
   "gyg_location_id": "188091",
   "gyg_search_query": "Brolio Castle wine tasting Chianti Tuscany Italy",
@@ -100,7 +101,9 @@
       "reviews": 1,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/province-of-siena-l188091/brolio-castle-wine-tasting-in-limonaia-and-grounds-tour-t1072313/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["brolio-castle"]
+      "covers_castles": [
+        "brolio-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

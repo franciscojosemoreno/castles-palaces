@@ -11,7 +11,7 @@
   "region": "Corfu Town, Ionian Islands",
   "nearest_city": "Corfu Town",
   "address": "Palaio Frourio, Corfu Town 491 00, Greece",
-  "lat": 39.6210,
+  "lat": 39.621,
   "lng": 19.9244,
   "unesco": true,
   "year_built": 1200,
@@ -88,7 +88,8 @@
   "routes": [],
   "nearby_castles": [
     "palamidi-fortress",
-    "acrocorinth"
+    "acrocorinth",
+    "angelokastro-castle"
   ],
   "gyg_location_id": "2544",
   "gyg_search_query": "Corfu Old Fortress tour Corfu Town",
