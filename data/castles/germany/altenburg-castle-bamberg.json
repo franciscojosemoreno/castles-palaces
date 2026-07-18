@@ -69,10 +69,21 @@
   "instagram_tag": "#altenburgbamberg",
   "meta_title": "Altenburg Castle Bamberg: Fortress on the Highest Hill, E.T.A. Hoffmann & UNESCO Views — Guide 2026",
   "meta_description": "Visit Altenburg Castle in Bamberg — the 12th-century fortress on the highest of the city's seven hills, with panoramic views over the UNESCO old town and an E.T.A. Hoffmann connection. From €5.",
-  "tags": ["germany", "bavaria", "franconia", "bamberg", "castle", "medieval", "hoffmann", "upper-franconia"],
+  "tags": [
+    "germany",
+    "bavaria",
+    "franconia",
+    "bamberg",
+    "castle",
+    "medieval",
+    "hoffmann",
+    "upper-franconia"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "nuremberg-castle"
+  ],
   "gyg_location_id": "2537",
   "gyg_search_query": "Altenburg Castle Bamberg guided tour",
   "gyg_widget_type": "activities",
@@ -88,7 +99,9 @@
       "reviews": 11,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/bamberg-l2537/bamberg-altenburg-castle-tour-t263602/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["altenburg-castle-bamberg"]
+      "covers_castles": [
+        "altenburg-castle-bamberg"
+      ]
     }
   ],
   "gyg_direct_link_override": true
