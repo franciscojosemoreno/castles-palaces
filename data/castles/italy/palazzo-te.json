@@ -69,10 +69,22 @@
   "instagram_tag": "#palazzote",
   "meta_title": "Palazzo Te Mantua: Hall of the Giants, Cupid & Psyche — Renaissance Visitor Guide 2026",
   "meta_description": "Visit Palazzo Te in Mantua — Giulio Romano's Renaissance masterpiece for the Gonzaga, with the overwhelming Hall of the Giants and the Chamber of Cupid and Psyche. From €14.",
-  "tags": ["italy", "lombardy", "mantua", "palace", "renaissance", "mannerism", "gonzaga", "giulio-romano", "unesco"],
+  "tags": [
+    "italy",
+    "lombardy",
+    "mantua",
+    "palace",
+    "renaissance",
+    "mannerism",
+    "gonzaga",
+    "giulio-romano",
+    "unesco"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "ducal-palace-of-mantua"
+  ],
   "gyg_location_id": "32208",
   "gyg_search_query": "Palazzo Te Mantua guided tour giants psyche",
   "gyg_widget_type": "activities",
@@ -88,7 +100,9 @@
       "reviews": 5,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/mantua-l32208/mantova-palazzo-te-the-secret-theater-of-power-guided-tour-t1065978/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["palazzo-te"]
+      "covers_castles": [
+        "palazzo-te"
+      ]
     }
   ],
   "gyg_direct_link_override": true
