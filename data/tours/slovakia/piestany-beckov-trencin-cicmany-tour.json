@@ -1,0 +1,107 @@
+{
+  "id": "piestany-beckov-trencin-cicmany-tour",
+  "slug": "piestany-beckov-trencin-cicmany-tour",
+  "name": "Piešťany: Beckov and Trenčín Castles, Čičmany and Slovak Bethlehem Tour",
+  "tagline": "A dramatic cliff-top ruin, a lived-in medieval city castle, a painted folk village, and Slovakia's most unusual outdoor nativity — all from the Váh Valley spa town",
+  "departure_country": "slovakia",
+  "departure_city": "Piešťany",
+  "visited_countries": [
+    "slovakia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day",
+  "gyg_tour_id": "1131440",
+  "gyg_url": "https://www.getyourguide.com/trencin-l150506/piestany-beckov-and-trencin-castles-cicmany-tour-t1131440/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 137,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 0,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 7,
+  "overview": "The Váh River valley between Piešťany and Trenčín contains one of the highest concentrations of significant medieval fortifications in Slovakia, many of them positioned on the dramatic cliff-tops that the Váh has carved through the Carpathian limestone over millennia. This full-day tour from Piešťany covers the four key points of the valley — two ruined and intact medieval castles, a UNESCO-listed painted folk village, and an unusual open-air tableau that has become the largest nativity scene of its kind in the world.\n\nBeckov Castle is the centrepiece of the route for castle enthusiasts: a 13th-century fortress perched on a near-vertical volcanic rock plug above the village of Beckov, the walls rising directly from the cliff face so that the castle and the geology form a single vertical entity. The castle was one of the most strategically important fortifications in medieval Slovakia, controlling the narrow corridor of the Váh valley — then the main route between Moravia and central Hungary — and was expanded repeatedly from the 13th to the 16th century before an accidental fire in 1729 left the upper works as a ruin. The lower walls and towers survive to significant height and are in active conservation; the views from the cliff top over the Váh valley are among the best in the region.\n\nTrenčín Castle, by contrast, is one of the best-preserved and most extensively renovated medieval castles in Slovakia. It dominates the Trenčín cityscape from a 60-metre rock above the city, its great tower visible from the motorway 20 kilometres away. The castle is documented from the 11th century and was a royal seat of the Hungarian kings; it was extensively rebuilt in the 15th and 16th centuries by the powerful Zápoľský and later Illésházy families and today houses a well-organised museum covering the castle's military and political history. The city of Trenčín below — its old town square intact, with a substantial medieval and Baroque street fabric — is itself worth time.\n\nČičmany, in the hills above the Váh valley, is Slovakia's most famous folk architecture village and a UNESCO-listed monument zone. The timber houses of the village are decorated with elaborate white geometric patterns — painted directly onto the darkened log walls — that represent one of the most distinctive traditions of Central European folk art. The patterns encode stylised motifs from textile embroidery traditions, transferred from cloth to architecture in a practice documented from at least the 18th century; the entire village centre was painstakingly reconstructed after a major fire in 1921 and is now maintained as a living heritage monument.\n\nSlovak Bethlehem (Slovenský Betlehem) in Rajecká Lesná is a unique carved wooden nativity scene created over decades by the sculptor Jozef Pekara between 1995 and 2016, and added to by subsequent craftspeople. At its completion it depicted more than 300 carved figures in an architectural recreation of Bethlehem set within a wider landscape of 18th-century Slovak town and village scenes — making it the largest indoor mechanised nativity scene in the world. Some of the figures move; the scene is set in motion for visitors, turning a religious artwork into an extraordinary folk-craft display.\n\nThis is a genuinely different itinerary from the other tour in the Trenčín-Beckov cluster on this site. The [From Vienna or Bratislava: Beckov and Trenčín Castles tour](/tours/slovakia/vienna-bratislava-beckov-trencin-castles) departs from Vienna or Bratislava and focuses on the two castles without including Čičmany or Slovak Bethlehem. This Piešťany-based tour departs from the Váh Valley itself and adds the folk-culture dimension — Čičmany and Slovak Bethlehem — making it the better choice for visitors staying in Piešťany or interested in Slovak vernacular culture alongside the medieval fortifications.",
+  "highlights": [
+    "Beckov Castle — 13th-century cliff-top ruin on a near-vertical volcanic plug above the Váh River; walls rising directly from the cliff face; one of the most dramatically positioned castles in Slovakia; active conservation",
+    "Trenčín Castle — best-preserved major medieval castle in western Slovakia, on a 60m rock above the city; documented from the 11th century; rebuilt by the Zápoľský and Illésházy families; comprehensive castle museum inside",
+    "Čičmany — UNESCO-listed village of timber houses decorated with white geometric folk-art patterns, the most distinctive example of Slovak folk architecture tradition; painstakingly rebuilt after the 1921 fire",
+    "Slovak Bethlehem (Rajecká Lesná) — the world's largest indoor mechanised carved wooden nativity scene, created by Jozef Pekara 1995–2016; more than 300 carved figures in a moving folk-art tableau",
+    "Small group (max 7) — private guide, personal pacing, and direct access without larger-coach logistics",
+    "Departs from Piešťany — a natural choice for visitors staying in the Váh Valley spa town, with both castle clusters accessible as comfortable half-day legs"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Beckov Castle",
+      "castle_id": "beckov-castle",
+      "duration": "1.5 hours",
+      "description": "Beckov Castle rises from a sheer 60-metre volcanic rock plug above the village of Beckov, approximately 15 kilometres south of Trenčín. The castle's foundation is documented from the 13th century, when the site controlled the narrow Váh valley corridor — the principal route between the Moravian plateau and the Hungarian plain, making it one of the most strategically valuable points in medieval Slovakia. The castle was expanded significantly in the 14th and 15th centuries by the Stibor of Stiboricz family, who added the great hall and the residential tower, and again in the 16th century when the outer defensive walls were reinforced against Ottoman incursion. An accidental fire in 1729 destroyed the wooden floor and roof structures of the upper buildings and left the castle in its current ruined state; the lower curtain walls, towers, and gate structure survive to substantial height and are currently undergoing active conservation work by Slovak heritage authorities. The geology of the site is exceptional: the rock plug is a Miocene-era volcanic intrusion through the Váh valley limestone, eroded by the river to create the near-vertical cliff on which the castle walls sit. From the castle top, the Váh valley is visible for 20 kilometres in both directions."
+    },
+    {
+      "order": 2,
+      "castle_name": "Trenčín Castle",
+      "castle_id": "trencin-castle",
+      "duration": "2 hours",
+      "description": "Trenčín Castle is the most visited and best-preserved castle in western Slovakia, rising 60 metres above the city on a triangular rock that has been fortified since at least the 9th century. The site's strategic value — controlling the Váh valley crossing and the trade route south toward the Hungarian plain — made it a royal possession of the Hungarian crown throughout the medieval period; the Latin inscription on the castle rock records a Roman military presence in 179 CE (Legio II Adiutrix, during the Marcomannic Wars), the northernmost Roman inscription in Slovakia. The castle was expanded to its current maximum extent in the 15th and early 16th centuries by Štefan Zápoľský (the senior magnate of the Kingdom of Hungary), who added the large residential palace buildings, the second great tower (Zápoľský Tower), and the substantial outer fortifications. The castle passed to the Illésházy family in the late 16th century and remained in their possession until 1846; it is their renovations — particularly the ornate Renaissance interior detailing — that give the palace complex its current character. A major fire in 1790 damaged the residential buildings; the comprehensive restoration of the 20th century and the ongoing work by the Trenčín Museum have brought the castle to its current state of near-complete structural integrity. The museum inside covers the castle's full military, political, and cultural history from the Roman inscription through the 19th century."
+    },
+    {
+      "order": 3,
+      "castle_name": "Čičmany",
+      "duration": "1 hour",
+      "description": "Čičmany is a village of approximately 140 inhabitants in the Rajec valley, east of Trenčín in the foothills of the Súľov Rocks. Its traditional timber houses are decorated with elaborate white geometric patterns painted directly onto the darkened log walls — one of the most distinctive and immediately recognisable traditions in Central European folk architecture. The patterns are stylised derivations of motifs from the textile embroidery traditions of the region: geometric forms that appear on woven cloth and hand-embroidered costumes were transferred to the external walls of the houses, covering the entire facade in a white-on-dark decorative system that is unique to this part of Slovakia. The tradition is documented from at least the 18th century; the current village represents a meticulous post-1921 reconstruction following a major fire that destroyed most of the original buildings. The Slovak ethnographic authorities and local craftspeople rebuilt the village using the original construction techniques and the documented pattern vocabulary, and Čičmany is now classified as a national Cultural Monument with a UNESCO-associated status. The Radenov house museum preserves a complete traditional domestic interior."
+    },
+    {
+      "order": 4,
+      "castle_name": "Slovak Bethlehem (Slovenský Betlehem), Rajecká Lesná",
+      "duration": "1 hour",
+      "description": "Slovak Bethlehem, inside the Church of the Visitation of the Virgin Mary in Rajecká Lesná, is the largest mechanised carved-wood nativity scene in the world. The work was created by the local sculptor Jozef Pekara beginning in 1995 and completed in 2016, though craftspeople continue to add elements. The scene depicts more than 300 individually carved figures — shepherds, Magi, animals, angels, and the Holy Family — set within an architectural recreation of the town of Bethlehem surrounded by a wider panorama of 18th-century Slovak towns, villages, and landscapes. A significant portion of the figures are mechanised: the scene is set in motion for visitors, animating the figures in their daily-life and nativity activities. The combination of religious iconography with an accurate reconstruction of Slovak vernacular architecture and folk-dress from the 18th century makes Slovak Bethlehem simultaneously a devotional artwork and a document of regional folk culture — an unusual pairing that draws both religious pilgrims and ethnographic visitors."
+    }
+  ],
+  "included": [
+    "Private English-speaking guide for the full day",
+    "Return transport from Piešťany",
+    "Beckov Castle entry and guided visit",
+    "Trenčín Castle entry and guided visit",
+    "Čičmany village guided walk",
+    "Slovak Bethlehem entry at Rajecká Lesná",
+    "Small group (max 7)"
+  ],
+  "excluded": [
+    "Lunch and meals (time is allocated during the day)",
+    "Personal expenses"
+  ],
+  "meeting_point": "Piešťany — confirmed with operator at booking",
+  "tips": [
+    "This tour carries a provider rating (not a verified GYG customer rating), so the star display is suppressed — this is a relatively new product without the review history of older tours.",
+    "Max 7 participants makes this one of the smallest-group GYG products in Slovakia — a genuine private-guide experience rather than a coach tour.",
+    "For Beckov and Trenčín without the folk-culture stops: the [From Vienna or Bratislava: Beckov and Trenčín Castles day trip](/tours/slovakia/vienna-bratislava-beckov-trencin-castles) (t1363721 / t684271) covers the same two castles departing from Vienna or Bratislava, without Čičmany or Slovak Bethlehem — a different tour for visitors not based in the Váh Valley.",
+    "Beckov's cliff-top position means the ascent involves uneven terrain and steps. Wear appropriate footwear.",
+    "Slovak Bethlehem at Rajecká Lesná is primarily visited for the mechanised nativity scene, which is set in motion on request — ask the guide to ensure this happens during your visit."
+  ],
+  "faqs": [
+    {
+      "question": "How does this tour differ from the Vienna/Bratislava Beckov and Trenčín Castles tour?",
+      "answer": "Both tours visit Beckov Castle and Trenčín Castle. The key differences are: (1) this tour departs from Piešťany rather than Vienna or Bratislava, making it suited to visitors already in the Váh Valley; (2) this tour adds Čičmany (the folk-art painted village) and Slovak Bethlehem (the world's largest mechanised carved nativity) — folk-culture stops that the Vienna/Bratislava tour does not include; (3) this tour is limited to 7 participants vs. larger group sizes; (4) this tour is at $137. If you are based in Piešťany and interested in Slovak folk culture alongside the medieval castles, this is the better choice. If you are based in Vienna or Bratislava and focused purely on the castles, the Vienna/Bratislava departure is more practical."
+    },
+    {
+      "question": "Is the white pattern decoration on the Čičmany houses an original tradition or a tourist invention?",
+      "answer": "The decorative tradition at Čičmany is genuine and well-documented — 18th-century paintings and written records confirm the practice of applying white geometric motifs derived from textile embroidery patterns to the timber house facades. The current village is a reconstruction following the 1921 fire, but it was rebuilt using the documented traditional construction methods and pattern vocabulary by Slovak ethnographic authorities, not as a tourist attraction. The village remains inhabited — the approximately 140 residents maintain the traditional decoration as part of their cultural practice. Slovak Bethlehem in Rajecká Lesná, by contrast, is a 20th-century creation, though built on authentic folk-craft skills and regional devotional traditions."
+    },
+    {
+      "question": "What is the best season to visit Beckov Castle?",
+      "answer": "Late spring to early autumn (May–September) gives the best conditions for exploring Beckov's cliff-top ruins — the Váh valley views are clear, the access paths are dry, and the castle's ongoing conservation work is most visible. The castle is accessible year-round but the ascent involves uneven terrain; winter visits are possible but the path can be slippery. The village below Beckov is interesting in any season, with the local church and the castle towering above it."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/piestany-beckov-trencin-cicmany-tour.webp",
+    "alt": "Beckov Castle rising on its sheer volcanic cliff above the Váh River valley — the centrepiece of the Piešťany Beckov Trenčín Čičmany day tour",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Piešťany: Beckov & Trenčín Castles, Čičmany & Slovak Bethlehem Tour",
+    "description": "Full-day small-group tour from Piešťany covering Beckov Castle cliff ruins, Trenčín Castle, the folk-art village of Čičmany, and Slovak Bethlehem. Max 7. From $137."
+  }
+}

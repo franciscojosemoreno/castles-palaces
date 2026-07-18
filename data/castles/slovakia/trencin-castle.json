@@ -117,6 +117,21 @@
         "cerveny-kamen-castle"
       ],
       "booking_url_override": "https://www.getyourguide.com/trencin-l150506/historic-castles-and-folk-treasures-from-bratislava-t1091450/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    },
+    {
+      "tour_id": "1131440",
+      "title": "Piešťany: Beckov and Trenčín Castles, Čičmany and Slovak Bethlehem Tour",
+      "type": "day_trip",
+      "duration": "Full day",
+      "price_from": 137,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/trencin-l150506/piestany-beckov-and-trencin-castles-cicmany-tour-t1131440/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "beckov-castle",
+        "trencin-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

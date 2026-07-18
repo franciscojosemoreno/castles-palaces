@@ -1,112 +1,113 @@
 {
   "id": "stockholm-drottningholm-royal-castle-tour",
   "slug": "stockholm-drottningholm-royal-castle-tour",
-  "name": "Stockholm: Drottningholm Palace & Royal Castle Tour",
-  "tagline": "The Versailles of the North — a UNESCO royal palace still home to the Swedish royal family",
+  "name": "1-Day Royal Palace and Castle Tour from Stockholm",
+  "tagline": "Drottningholm, Skokloster, and two more Swedish royal estates in one full day — the complete Mälaren castle circuit from Stockholm",
   "departure_country": "sweden",
   "departure_city": "Stockholm",
   "visited_countries": [
     "sweden"
   ],
   "duration_days": 1,
-  "duration_label": "Full day (8 hours)",
+  "duration_label": "Full day",
   "gyg_tour_id": "161571",
-  "gyg_url": "https://www.getyourguide.com/stockholm-l50/1-day-royal-palace-and-castle-tour-from-stockholm-t161571/",
-  "price_from": 75,
-  "currency": "EUR",
-  "rating": 4.6,
-  "review_count": 920,
+  "gyg_url": "https://www.getyourguide.com/stockholm-l50/1-day-royal-palace-and-castle-tour-from-stockholm-t161571/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 394,
+  "currency": "USD",
+  "rating": 5.0,
+  "review_count": 7,
   "languages": [
-    "English",
-    "Swedish"
+    "English"
   ],
-  "max_group_size": 20,
-  "overview": "Drottningholm Palace on Lake Mälaren is the best-preserved royal Baroque ensemble in northern Europe — and the only UNESCO World Heritage Site in the world still used as a primary royal residence. Built in the 1660s by architect Nicodemus Tessin the Elder for the dowager queen Hedvig Eleonora, expanded by his son Tessin the Younger in deliberate homage to Versailles, it comprises the main palace, the extraordinary Chinese Pavilion, the Royal Court Theatre (the only 18th-century theatre in the world still using its original stage machinery), and the formal Baroque gardens. The Swedish royal family has lived here since 1981. This day tour from Stockholm combines a guided visit to Drottningholm — approached by royal canal boat across Lake Mälaren — with Stockholm's Royal Palace in the Gamla Stan, one of the largest working royal palaces in the world.",
+  "overview": "Lake Mälaren, the inland sea to the west of Stockholm, holds a higher concentration of significant royal and aristocratic castles than any other body of water in Scandinavia. This full-day tour from Stockholm circuits the lake's key estates, combining Drottningholm Palace — the UNESCO-inscribed royal residence still home to the Swedish royal family — with the medieval town of Sigtuna, Wenngarn Castle, and Skokloster Castle, one of the best-preserved 17th-century Baroque interiors in northern Europe.\n\nSkokloster, built between 1654 and 1668 by Field Marshal Carl Gustaf Wrangel on the commission of his Swedish military fortune, is the structural highlight of the tour. Its construction was never completed — the great hall was abandoned unfinished when the funds ran out and Wrangel died, leaving scaffolding, ladders, and building materials exactly as the workers left them in 1710. That accidental preservation has made Skokloster a unique document of 17th-century aristocratic ambition: the completed wings contain one of the finest arms and armour collections in Europe (including weapons looted from every major European battlefield of the Thirty Years War), Baroque furniture and tapestries accumulated by Wrangel from his military campaigns, and libraries with more than 20,000 volumes. Drottningholm, by contrast, is the tour's dynastic anchor — a still-living palace, UNESCO-listed in 1991, where the Swedish royal family occupies the private wing while the state apartments are open to visitors.\n\nSigtuna, Sweden's oldest existing town (founded c.980 CE), provides the historical breadth: the ruined towers of three medieval churches (St Lars, St Per, St Olof) that were never rebuilt after the Danish raids of the 13th century, the main street that preserves the original Viking-age urban layout, and the context for understanding the pre-Stockholm political geography of central Sweden. Wenngarn Castle, a Baroque estate of the 17th century rebuilt in its current form in the early 18th century, represents the Swedish aristocratic country-house tradition at a smaller scale than Skokloster or Drottningholm — a working estate rather than a palace, though with its own formal gardens and interiors of considerable quality.\n\nAn important seasonal note: Skokloster Castle is open to visitors from May through September only. From October to May the castle is closed to the public; during these months, the operator substitutes an alternative castle for the Skokloster stop. Confirm with the operator which castle is scheduled for your specific date if visiting in the off-season.\n\nThis tour sits at the premium end of the Stockholm day-tour market — $394 per person reflects the private or small-group format and the combination of four significant sites in a single day, all with guided interpretation. The comparable GYG Drottningholm tour from Stockholm (t33347, approaching Stockholm from the waterway by public ferry) covers only Drottningholm in depth, without Skokloster, Sigtuna, or Wenngarn. This tour is for visitors who want the full Mälaren circuit in one day with a guide throughout.",
   "highlights": [
-    "Drottningholm Palace — UNESCO World Heritage, the Swedish royal family's primary residence",
-    "The Royal Court Theatre at Drottningholm: 18th-century stage machinery still fully operational",
-    "Lake Mälaren canal boat approach to the palace — the most beautiful approach in Scandinavia",
-    "Chinese Pavilion: the finest Rococo chinoiserie building outside China",
-    "Stockholm's Royal Palace (Kungliga Slottet) — 609 rooms, still used for state functions",
-    "Gamla Stan (Old Town) — the medieval island city of Stockholm"
+    "Drottningholm Palace — UNESCO World Heritage Site inscribed 1991, still the primary residence of the Swedish royal family; state apartments, Court Theatre (18th-century stage machinery still operational), Chinese Pavilion, and Baroque gardens",
+    "Skokloster Castle — 17th-century Baroque castle built 1654–1668 by Field Marshal Carl Gustaf Wrangel; one of the finest arms and armour collections in Europe (looted from the Thirty Years War battlefields); never completed — the great hall was left unfinished in 1710 and preserved exactly as abandoned",
+    "Sigtuna — Sweden's oldest existing town (founded c.980 CE), with three ruined medieval church towers (St Lars, St Per, St Olof), the original Viking-age main street, and the lakeside setting on Mälaren",
+    "Wenngarn Castle — Baroque Swedish country-house estate with formal gardens; a contrast to the grander royal palaces on the circuit",
+    "Seasonal note: Skokloster is open May–September only; another castle is substituted in winter — confirm your specific date with the operator",
+    "The entire Lake Mälaren circuit in one guided day — a combination unavailable on any other single-day Stockholm tour"
   ],
   "itinerary": [
     {
       "order": 1,
-      "castle_name": "Stockholm Gamla Stan — Royal Palace",
-      "duration": "1.5 hours",
-      "description": "Begin in Gamla Stan, Stockholm's medieval island city, with a guided visit to the Royal Palace (Kungliga Slottet). Built in the Italian Baroque style after the original Tre Kronor castle burned down in 1697, it has 609 rooms and remains the official residence of the Swedish monarch (though the royal family lives at Drottningholm). The guide covers the Hall of State, the Royal Chapel, the Treasury housing the Swedish Crown Jewels, and the Changing of the Guard ceremony."
+      "castle_name": "Sigtuna",
+      "duration": "1 hour",
+      "description": "Sigtuna was founded around 980 CE by King Erik Segersäll — making it Sweden's oldest existing town by several centuries — and served as the country's de facto capital before Stockholm was established in 1252. The town retains its original Viking-age street plan: the main street (Stora Gatan) follows the same alignment as the original 10th-century market row. Three medieval church ruins dominate the townscape: St Lars (c.1060), St Per (c.1100), and St Olof (c.1100) — all three were burned and looted by Estonian raiders in 1187 and never rebuilt, leaving their stone towers as permanent monuments to the raid. The Sigtuna Museum holds the town's extraordinary runestone collection, and the lakeside position on Mälaren gave the town its commercial role as a trade point between Lake Mälaren and the Baltic coast routes."
     },
     {
       "order": 2,
-      "castle_name": "Canal Boat to Drottningholm",
-      "duration": "1 hour (boat journey)",
-      "description": "Board the royal canal boat at Stadshuskajen for the 1-hour journey across Lake Mälaren to Drottningholm. This is the traditional approach to the palace — the route taken by foreign ambassadors presenting their credentials and by the royal family on formal occasions. The lake archipelago is spectacular in any season."
+      "castle_name": "Wenngarn Castle",
+      "duration": "1 hour",
+      "description": "Wenngarn Castle, on the northern shore of Lake Mälaren in Sigtuna municipality, is a Swedish Baroque country-house estate with origins in the medieval period but its current form dating from the late 17th and early 18th centuries. The main building is a three-wing manor in the Swedish Baroque tradition, with formal gardens laid out in the French parterre style. The estate has passed through several significant Swedish noble families and has more recently been used as a conference and estate venue, preserving the interiors and grounds. Its inclusion on this tour provides a contrast to both the larger royal establishments at Drottningholm and Skokloster: a working aristocratic country house at the scale typical of the Swedish nobility below the royal and Field Marshal levels."
     },
     {
       "order": 3,
-      "castle_name": "Drottningholm Palace",
+      "castle_name": "Skokloster Castle",
+      "castle_id": "skokloster-castle",
       "duration": "1.5 hours",
-      "description": "Guided tour of the palace state apartments. The guide traces the building's development from Tessin the Elder's original design (influenced by French Baroque) through Tessin the Younger's Versailles-inspired expansion and the subsequent redecorations by different Swedish queens. Highlights include Queen Hedvig Eleonora's State Bedroom, the Karl XI Gallery (Sweden's answer to Versailles's Hall of Mirrors), and the ceiling paintings by Johan Sylvius. The guide explains how the Swedish royal family lives alongside visiting tourists in one wing of the palace."
+      "description": "Skokloster Castle, on a peninsula in Lake Mälaren, was built between 1654 and 1668 for Carl Gustaf Wrangel, the Swedish Empire's most successful military commander, to display the wealth accumulated from his service in the Thirty Years War. The building is structurally complete but was never finished internally: when Wrangel died in 1676 with the great hall undecorated, his heirs ceased construction and left the building as it was. This accident of history has made Skokloster uniquely valuable: the completed wings preserve one of the largest private arms and armour collections ever assembled — crossbows, firearms, cannon, swords, and armour from every European manufacturer and battlefield between 1550 and 1680 — alongside Baroque furniture, tapestries, and libraries with over 20,000 volumes, all accumulated by Wrangel during his campaigns across Germany, Poland, and Denmark. The abandoned great hall, still containing the construction scaffolding, tools, and materials left by the workers in 1710, is the most dramatic single interior in the Swedish castle circuit. Note: Skokloster is open to visitors from May to September only. In the October–May period, the operator substitutes another castle for this stop."
     },
     {
       "order": 4,
-      "castle_name": "Court Theatre & Chinese Pavilion",
-      "duration": "1 hour",
-      "description": "Visit the Drottningholm Court Theatre — the most extraordinary 18th-century theatre surviving anywhere in the world with its original stage machinery still intact and operational. Built in 1766, destroyed by fire and rebuilt in 1791, it still uses wooden wind machines, wave machines and cloud chariots from the original production. Then visit the Chinese Pavilion, a 1769 gift from King Adolf Fredrik to Queen Louisa Ulrika — Sweden's finest example of Rococo chinoiserie and an early example of European fascination with East Asian aesthetics."
-    },
-    {
-      "order": 5,
-      "castle_name": "Baroque Gardens & Return",
-      "duration": "45 min",
-      "description": "Walk the formal Baroque garden laid out by Tessin the Elder between the palace and the lake — geometrically planted parterres, clipped linden avenues, and bronze statues looted from Prague during the Thirty Years War. Return by boat to Stockholm city centre."
+      "castle_name": "Drottningholm Palace",
+      "castle_id": "drottningholm-palace",
+      "duration": "2 hours",
+      "description": "Drottningholm Palace closes the tour. Built from 1662 by architect Nicodemus Tessin the Elder for the dowager queen Hedvig Eleonora, and expanded by his son Nicodemus Tessin the Younger in the 1690s in deliberate homage to Versailles, it is the best-preserved royal Baroque ensemble in northern Europe and the only UNESCO World Heritage Site still used as a primary royal residence (inscribed 1991). The Swedish royal family has lived here since 1981; the private west wing is closed to visitors. The guided visit covers the state apartments — including Queen Hedvig Eleonora's State Bedroom, the Karl XI Gallery, and the ceiling paintings by Johan Sylvius — the Baroque garden laid out between the palace and the lake (with bronze statues looted from Prague during the Thirty Years War), the Chinese Pavilion (1769, a birthday gift to Queen Louisa Ulrika, one of the finest Rococo chinoiserie buildings outside Asia), and the Court Theatre. The Court Theatre, built in 1766 and rebuilt in 1791, is the only 18th-century theatre in the world with its original stage machinery intact and operational — wind machines, wave machines, cloud chariots, and counterweight flying systems from the original production are all preserved and still used for the summer opera and ballet programme."
     }
   ],
   "included": [
-    "Professional English/Swedish-speaking guide",
-    "Return canal boat to Drottningholm",
-    "Drottningholm Palace entry",
-    "Court Theatre guided visit",
-    "Chinese Pavilion entry",
-    "Royal Palace (Gamla Stan) entry",
-    "Small group (max 20)"
+    "Professional English-speaking guide for the full day",
+    "Private or small-group transport from Stockholm",
+    "Sigtuna guided walk",
+    "Wenngarn Castle visit",
+    "Skokloster Castle entry and guided visit (May–September; another castle substituted in winter — confirm with operator)",
+    "Drottningholm Palace entry and guided visit",
+    "Drottningholm Court Theatre visit",
+    "Drottningholm Chinese Pavilion entry",
+    "Drottningholm Baroque gardens walk"
   ],
   "excluded": [
-    "Lunch (free time in Gamla Stan or at Drottningholm)",
-    "Royal Armoury entry (optional, separate ticket)",
-    "Personal purchases"
+    "Lunch and personal meals",
+    "Personal expenses and souvenirs"
   ],
-  "meeting_point": "Stadshuskajen (City Hall quay), Stockholm — confirmed at booking",
+  "meeting_point": "Central Stockholm — confirmed with operator at booking",
   "tips": [
-    "The Court Theatre performances (summer only) are extraordinary — check the programme and book separately if visiting in June–August",
-    "The Chinese Pavilion is only open May–September — check before booking if visiting in winter",
-    "The canal boat journey is itself a highlight — sit on deck in summer for the lake views",
-    "Drottningholm's Baroque garden is at its best in June when the linden avenues are in leaf"
+    "5★ from 7 verified GYG reviews — a high-quality small-group product at premium pricing ($394).",
+    "Skokloster Castle is open May–September only. If visiting October–May, confirm which castle the operator substitutes before booking.",
+    "The Court Theatre at Drottningholm stages authentic period opera and ballet each summer (June–August) — book separately in advance if this interests you; performances are in period staging and the atmosphere is extraordinary.",
+    "The Chinese Pavilion at Drottningholm is also seasonal (May–September) — confirm access if visiting in winter.",
+    "For a Drottningholm-only experience with a different approach (public ferry from Stockholm city centre), the [Drottningholm Palace day tour from Stockholm](/tours/sweden/drottningholm-palace-stockholm-tour) (t33347) is an alternative that focuses entirely on the palace and its grounds.",
+    "Skokloster's abandoned great hall — with its original 17th-century construction scaffolding still in place — is the single most unusual interior in the Swedish castle circuit. Build in time to absorb it."
   ],
   "faqs": [
     {
+      "question": "What happens to the Skokloster stop in winter?",
+      "answer": "Skokloster Castle is open to the public from May to September. Between October and May the castle is closed; during this period, the operator substitutes a different castle for the Skokloster stop in the itinerary. Confirm directly with the operator which castle will be visited on your specific date if booking between October and April."
+    },
+    {
       "question": "Do the Swedish royal family still live at Drottningholm?",
-      "answer": "Yes — King Carl XVI Gustaf and Queen Silvia live in the private west wing of the palace, which is closed to visitors. The state apartments in the central and east wings are open for guided tours. UNESCO inscribed the palace in 1991 precisely because it remains a living royal residence in its original 17th-century setting."
+      "answer": "Yes — King Carl XVI Gustaf and Queen Silvia have lived at Drottningholm as their primary residence since 1981. The private west wing is closed to visitors; the central and east wings containing the state apartments are open for guided tours. The UNESCO inscription (1991) recognises the palace as a living royal residence in its original Baroque setting, which is what makes it unusual — most comparable palaces operate purely as museums."
     },
     {
-      "question": "What makes the Court Theatre unique?",
-      "answer": "The Drottningholm Court Theatre is the only 18th-century theatre in the world that still has its original stage machinery fully intact and operational — including counterweight flying systems, wave and wind machines, and painted drop scenes. The theatre was abandoned in 1792 after King Gustav III was assassinated at the Royal Opera in Stockholm, sealed, and rediscovered in 1921 exactly as it was left. It now stages authentic period opera and ballet performances each summer."
+      "question": "What makes Skokloster's abandoned great hall so significant?",
+      "answer": "When Field Marshal Wrangel died in 1676 and construction of the great hall ceased, the building was simply locked and left as it was. The scaffolding, ladders, hoisting equipment, plaster tools, and construction materials that had been mid-use in 1710 (when the last work was recorded) were never removed. When the Swedish state acquired the castle in the 20th century and began conservation, they found these materials exactly as left — making Skokloster a rare document of how 17th-century Baroque construction actually proceeded, from the inside."
     },
     {
-      "question": "How does Drottningholm compare to Versailles?",
-      "answer": "Drottningholm was explicitly designed to evoke Versailles — both in scale (much smaller) and in formal garden design. The key difference is that Drottningholm still functions as a primary royal residence, while Versailles is purely a museum. The Court Theatre and Chinese Pavilion have no equivalent at Versailles."
+      "question": "How does this tour differ from a standard Drottningholm day tour?",
+      "answer": "Standard Drottningholm day tours from Stockholm focus on the palace and its grounds — approaching by public ferry or guided coach and spending most of the day at Drottningholm. This tour adds Sigtuna (Sweden's oldest town), Wenngarn Castle, and Skokloster Castle to the Drottningholm visit, giving the full Mälaren castle circuit in a single day with a guide throughout. The $394 price reflects the extended itinerary and private/small-group format."
     }
   ],
   "featured": false,
   "hero_image": {
     "url": "/images/tours/stockholm-drottningholm-royal-castle-tour.webp",
-    "alt": "Drottningholm Palace reflected in Lake Mälaren, Sweden",
+    "alt": "Skokloster Castle on its Lake Mälaren peninsula — the 17th-century Baroque castle with one of Europe's finest arms collections, part of the Stockholm Royal Palace and Castle Tour",
     "credit": "Castles & Palaces",
     "width": 1600,
     "height": 1067
   },
   "meta": {
-    "title": "Stockholm: Drottningholm Palace & Royal Castle Tour | UNESCO Sweden",
-    "description": "Full day tour from Stockholm to Drottningholm UNESCO Palace — canal boat across Lake Mälaren, Court Theatre, Chinese Pavilion and Stockholm's Royal Palace."
+    "title": "Stockholm: 1-Day Royal Palace & Castle Tour — Drottningholm, Skokloster, Sigtuna",
+    "description": "Full-day guided tour from Stockholm covering Drottningholm Palace (UNESCO), Skokloster Castle, Wenngarn, and Sigtuna. 5★ / 7 reviews. From $394."
   }
 }

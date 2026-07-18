@@ -99,6 +99,21 @@
       "covers_castles": [
         "skokloster-castle"
       ]
+    },
+    {
+      "tour_id": "161571",
+      "title": "1-Day Royal Palace and Castle Tour from Stockholm",
+      "type": "day_trip",
+      "duration": "Full day",
+      "price_from": 394,
+      "rating": 5.0,
+      "reviews": 7,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/stockholm-l50/1-day-royal-palace-and-castle-tour-from-stockholm-t161571/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "drottningholm-palace",
+        "skokloster-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

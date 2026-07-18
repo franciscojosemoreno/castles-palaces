@@ -134,6 +134,21 @@
       "covers_castles": [
         "caerphilly-castle"
       ]
+    },
+    {
+      "tour_id": "559581",
+      "title": "From Cardiff: Caerleon, Tintern Abbey and Three Castles Tour",
+      "type": "day_trip",
+      "duration": "8 hours",
+      "price_from": 219,
+      "rating": 5.0,
+      "reviews": 33,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cardiff-l449/from-cardiff-caerleon-tintern-abbey-and-three-castles-tour-t559581/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "caerphilly-castle",
+        "castell-coch"
+      ]
     }
   ],
   "gyg_direct_link_override": true
