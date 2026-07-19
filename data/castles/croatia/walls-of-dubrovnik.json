@@ -109,6 +109,20 @@
       "covers_castles": [
         "walls-of-dubrovnik"
       ]
+    },
+    {
+      "tour_id": "443857",
+      "title": "Dubrovnik: City Walls & Game of Thrones Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 39,
+      "rating": 4.7,
+      "reviews": 4130,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/dubrovnik-l513/dubrovnik-3-hour-game-of-thrones-tour-city-walls-t443857/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "walls-of-dubrovnik"
+      ]
     }
   ],
   "gyg_direct_link_override": true

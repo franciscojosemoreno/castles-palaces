@@ -12,7 +12,7 @@
   "nearest_city": "Istanbul",
   "address": "Vişnezade Mah., Dolmabahçe Cd., 34357 Beşiktaş, İstanbul, Türkiye",
   "lat": 41.039,
-  "lng": 29.000,
+  "lng": 29.0,
   "unesco": false,
   "year_built": 1856,
   "architectural_style": "Ottoman Baroque and Beaux-Arts palace of the mid-19th century — built 1843–1856 by Sultan Abdulmecid I to replace Topkapi Palace as the primary Ottoman imperial residence; the principal architect was Nikogos Balyan of the Armenian-Ottoman Balyan dynasty, who designed the palace in a deliberately European style combining Ottoman decorative tradition with French Baroque and Neoclassical palace architecture; the building is the largest palace in Turkey (approximately 45,000 sqm on the footprint), with 285 rooms, 43 halls and salons, 68 toilets, 6,000 sqm of hand-woven Hereke silk carpets, a 4.5-tonne Bohemian crystal chandelier (the largest in the world at the time of installation) in the Ceremonial Hall, and an estimated 14 tonnes of gold used in gilding the interiors; the palace fronts directly on the Bosphorus with a 600-metre waterfront facade, creating one of the most dramatic palace-waterway relationships in European or Asian architectural history",
@@ -69,7 +69,16 @@
   "instagram_tag": "#dolmabahce",
   "meta_title": "Dolmabahçe Palace Istanbul: Clocks Stopped at 09:05, 4.5-Tonne Chandelier — Guide 2026",
   "meta_description": "Visit Dolmabahçe Palace in Istanbul — the 1856 Ottoman imperial palace with 285 rooms, the world's largest chandelier, and every clock stopped at 09:05 (Atatürk's time of death). From $52.91.",
-  "tags": ["turkey", "istanbul", "palace", "ottoman", "bosphorus", "ataturk", "harem", "19th-century"],
+  "tags": [
+    "turkey",
+    "istanbul",
+    "palace",
+    "ottoman",
+    "bosphorus",
+    "ataturk",
+    "harem",
+    "19th-century"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
@@ -90,7 +99,24 @@
       "reviews": 1185,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/istanbul-l56/dolmabahce-palace-harem-skip-the-line-entry-audio-guide-t697865/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["dolmabahce-palace"]
+      "covers_castles": [
+        "dolmabahce-palace"
+      ]
+    },
+    {
+      "tour_id": "946316",
+      "title": "Istanbul: Topkapi Palace & Dolmabahçe Palace Combo Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-paced (full day)",
+      "price_from": 123,
+      "rating": 4.8,
+      "reviews": 19,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/istanbul-l56/istanbul-topkapi-palace-dolmabahce-palace-combo-ticket-t946316/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "topkapi-palace",
+        "dolmabahce-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

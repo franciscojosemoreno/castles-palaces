@@ -107,6 +107,20 @@
       "covers_castles": [
         "methoni-castle"
       ]
+    },
+    {
+      "tour_id": "1377853",
+      "title": "Pylos: Methoni Castle & Koroni Castle Tour",
+      "type": "day_trip",
+      "duration": "5 hours",
+      "price_from": 88,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/kalamata-l42432/pylos-tour-with-cruise-port-pickup-t1377853/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "methoni-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

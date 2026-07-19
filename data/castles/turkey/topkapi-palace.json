@@ -107,6 +107,21 @@
       "covers_castles": [
         "topkapi-palace"
       ]
+    },
+    {
+      "tour_id": "946316",
+      "title": "Istanbul: Topkapi Palace & Dolmabahçe Palace Combo Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-paced (full day)",
+      "price_from": 123,
+      "rating": 4.8,
+      "reviews": 19,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/istanbul-l56/istanbul-topkapi-palace-dolmabahce-palace-combo-ticket-t946316/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "topkapi-palace",
+        "dolmabahce-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true
