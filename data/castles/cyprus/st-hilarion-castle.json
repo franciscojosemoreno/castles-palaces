@@ -86,7 +86,8 @@
   "routes": [],
   "nearby_castles": [
     "kolossi-castle",
-    "limassol-castle"
+    "limassol-castle",
+    "kyrenia-castle"
   ],
   "gyg_location_id": "924",
   "gyg_search_query": "St. Hilarion Castle Kyrenia Cyprus tour",
@@ -106,6 +107,22 @@
       "covers_castles": [
         "st-hilarion-castle"
       ]
+    },
+    {
+      "tour_id": "457782",
+      "title": "Kyrenia, St. Hilarion Castle & Bellapais Abbey — Day Tour from Paphos",
+      "type": "guided_tour",
+      "duration": "9 hours",
+      "price_from": 90,
+      "rating": 4.7,
+      "reviews": 32,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/kyrenia-l924/paphos-tour-kyrenia-st-hilarion-and-bellapais-abbey-t457782/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "kyrenia-castle",
+        "st-hilarion-castle"
+      ],
+      "note": "This is a 3-stop day tour covering Kyrenia Castle, St. Hilarion Castle (in the Kyrenia Mountains), and Bellapais Abbey — not a dedicated St. Hilarion-only ticket. No standalone St. Hilarion GYG product exists."
     }
   ],
   "gyg_direct_link_override": true
