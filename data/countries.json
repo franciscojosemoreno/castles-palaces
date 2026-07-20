@@ -658,5 +658,23 @@
       "url": "/images/countries/kosovo-thumb.webp",
       "alt": "Prizren Fortress above the city of Prizren, Kosovo"
     }
+  },
+  {
+    "slug": "monaco",
+    "name": "Monaco",
+    "description": "The world's most densely populated sovereign state, Monaco has been governed by the same family since a disguised monk opened the fortress gate in 1297. The Prince's Palace on Le Rocher — the limestone rock above the harbor — is the seat of the Grimaldi dynasty, Europe's oldest reigning house, and the most continuously inhabited royal residence in the world. Open to visitors from late March to mid-October.",
+    "hero_image": {
+      "url": "/images/countries/monaco.webp",
+      "alt": "Prince's Palace of Monaco on Le Rocher above the Monaco harbor, seat of the Grimaldi dynasty",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "princes-palace-of-monaco"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/monaco-thumb.webp",
+      "alt": "Prince's Palace of Monaco — the Grimaldi fortress on Le Rocher"
+    }
   }
 ]
