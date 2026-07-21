@@ -87,7 +87,8 @@
   "nearby_castles": [
     "palamidi-fortress",
     "palace-of-the-grand-master",
-    "lindos-castle"
+    "lindos-castle",
+    "koroni-castle"
   ],
   "gyg_location_id": "89381",
   "gyg_search_query": "Methoni Castle Peloponnese Greece tour",
@@ -111,7 +112,7 @@
     {
       "tour_id": "1377853",
       "title": "Pylos: Methoni Castle & Koroni Castle Tour",
-      "type": "day_trip",
+      "type": "guided_tour",
       "duration": "5 hours",
       "price_from": 88,
       "rating": null,
@@ -119,8 +120,10 @@
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/kalamata-l42432/pylos-tour-with-cruise-port-pickup-t1377853/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
-        "methoni-castle"
-      ]
+        "methoni-castle",
+        "koroni-castle"
+      ],
+      "note": "Private 5-hour tour covering both Methoni Castle and Koroni Castle on the same circuit. GYG itinerary text explicitly states 'Entrance fees included' for both castles separately — twice confirmed. Pickup available from Kalamata cruise port. The same product also appears on Koroni Castle's page."
     }
   ],
   "gyg_direct_link_override": true
