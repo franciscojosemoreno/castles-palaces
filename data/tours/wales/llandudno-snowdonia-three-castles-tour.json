@@ -1,0 +1,145 @@
+{
+  "id": "llandudno-snowdonia-three-castles-tour",
+  "slug": "llandudno-snowdonia-three-castles-tour",
+  "name": "From Llandudno: Snowdonia National Park & Three Castles Tour",
+  "tagline": "Three castles and a national park in nine hours — Conwy, Dolbadarn, and Caernarfon on a full-day circuit through Eryri from the North Wales coast",
+  "departure_country": "wales",
+  "departure_city": "Llandudno",
+  "visited_countries": [
+    "wales"
+  ],
+  "duration_days": 1,
+  "duration_label": "9 Hours",
+  "gyg_tour_id": "309778",
+  "gyg_url": "https://www.getyourguide.com/llandudno-l462/from-llandudno-full-day-snowdonia-the-three-castles-tour-t309778/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 87,
+  "currency": "USD",
+  "rating": 4.9,
+  "review_count": 233,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": null,
+  "overview": "Full-day guided tour from Llandudno operated by Adventure Tour Snowdonia, covering three Welsh castles — Conwy, Dolbadarn, and Caernarfon — alongside Snowdonia/Eryri National Park scenery in a nine-hour circuit of North Wales. Entry fees to Conwy Castle and Plas Mawr (the Elizabethan town house within Conwy's walls) and to Caernarfon Castle are confirmed included. Dolbadarn Castle at Llanberis is a free Cadw site. The tour also passes the Great Orme headland, the Nant Ffrancon Pass, Llyn Ogwen, and the Pen-y-Pass Snowdon viewpoint, with a lunch break at Penrhyn Quarry and its Slate Museum. Note: Conwy Castle is occasionally closed for private events — one verified GYG reviewer (May 2026) reported this on their visit day; checking ahead at cadw.gov.wales before the tour is advisable. Not suitable for wheelchair users.",
+  "highlights": [
+    "Conwy Castle — Edward I's great concentric castle (1283–1289), one of eight UNESCO-listed Edwardian castles in North Wales, with eight round towers, a complete circuit of walls still enclosing the medieval town, and included entry to Plas Mawr, the best-preserved Elizabethan town house in Wales",
+    "Caernarfon Castle — Edward I's most politically charged Welsh castle, the birthplace of the first English Prince of Wales in 1284 and the site of the investiture of Prince Charles in 1969; a UNESCO World Heritage Site with the characteristic banded masonry and polygonal towers that Caernarfon's architect modelled on the walls of Constantinople",
+    "Dolbadarn Castle, Llanberis — a rare Welsh-built castle rather than an Edwardian English conquest monument; the 13th-century round tower keep of the native Welsh princes of Gwynedd, likely founded by Llywelyn the Great, guarding the pass between Llanberis and the Nant Ffrancon valley at the foot of Snowdon",
+    "Eryri (Snowdonia) National Park — the tour crosses the park via the Nant Ffrancon Pass and Llyn Ogwen, one of the most dramatic high-mountain landscapes in Wales; the Pen-y-Pass car park provides a viewpoint toward the summit of Yr Wyddfa (Snowdon, 1,085m), the highest mountain in Wales and England",
+    "Great Orme headland and the North Wales coast — the 207-metre limestone promontory that juts into the Irish Sea at Llandudno, with Bronze Age copper mines and sweeping views over Conwy Bay; a scenic start to the day before the tour heads inland",
+    "4.9★ rating, 233 reviews — Adventure Tour Snowdonia, Llandudno departure; the site's first North Wales tour and the first Wales tour to cover the Eryri/Snowdonia interior"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "day": 1,
+      "castle_name": "Great Orme Headland",
+      "castle_id": null,
+      "duration": "Photo stop",
+      "description": "The day begins at the Great Orme — the 207-metre limestone headland that defines Llandudno's western horizon and juts into the Irish Sea between Conwy Bay and the open water toward Anglesey. A photo stop at the summit or lower viewpoints gives the group an overview of the North Wales coast before heading west and south into the Conwy valley. The Great Orme contains one of the most significant Bronze Age copper mines in the world, with 4,000-year-old tunnels accessible via a separate visitor attraction not included in the tour."
+    },
+    {
+      "order": 2,
+      "day": 1,
+      "castle_name": "Conwy Castle & Plas Mawr",
+      "castle_id": "conwy-castle",
+      "duration": "105 minutes",
+      "description": "First main castle stop: Conwy Castle and the medieval town walls. Entry to both Conwy Castle and Plas Mawr is confirmed included in the GYG Includes list. Conwy Castle was built by Edward I between 1283 and 1289, following his first Welsh campaign, as the anchor of a new English-planted town at the mouth of the Afon Conwy. The castle's eight massive round towers and the 1.3km circuit of town walls — all built simultaneously as a single integrated fortification — are among the most complete medieval urban defences anywhere in the British Isles and part of the UNESCO inscription of 'Castles and Town Walls of King Edward in Gwynedd' (1986). Plas Mawr, built in 1576–1585 for the Elizabethan merchant Robert Wynn, is one of the best-preserved Elizabethan town houses in Wales, its original plasterwork decorations largely intact. Note: Conwy Castle is occasionally closed for private events; checking current availability at cadw.gov.wales before the tour is advisable."
+    },
+    {
+      "order": 3,
+      "day": 1,
+      "castle_name": "Secret Stop",
+      "castle_id": null,
+      "duration": "20 minutes",
+      "description": "A 20-minute guided stop at a location described in the GYG listing as a 'secret stop' — the guide reveals the destination on the day. This is a confirmed guided stop with narration, not a simple photo break; its identity is withheld from the tour description by design. Past participants' reviews suggest it is a scenic or heritage location in the Conwy valley or on the road toward Bethesda."
+    },
+    {
+      "order": 4,
+      "day": 1,
+      "castle_name": "Penrhyn Quarry — Lunch",
+      "castle_id": null,
+      "duration": "Lunch break",
+      "description": "Lunch break at Penrhyn Quarry, near Bethesda in the Ogwen valley — a former slate quarry and one of the largest man-made holes in the world at its 19th-century peak. The Welsh Slate Museum at Llanberis (not at this stop) is a UNESCO-inscribed site representing the slate-quarrying industry that defined the economic and cultural landscape of North Wales for two centuries; Penrhyn itself, with the quarry terraces and associated Penrhyn Castle (a 19th-century Norman Revival castle not included in this tour), represents the same industry. Lunch is at own expense."
+    },
+    {
+      "order": 5,
+      "day": 1,
+      "castle_name": "Nant Ffrancon Pass & Llyn Ogwen",
+      "castle_id": null,
+      "duration": "Scenic drive-through",
+      "description": "The tour traverses the Nant Ffrancon Pass — the glacial valley between Bethesda and the Ogwen valley floor, flanked by the Carneddau range to the north and Tryfan to the east, one of the most dramatically steep U-shaped glacial valleys in Wales. Llyn Ogwen, the lake at the head of the pass, provides a foreground for the cwm and cliffs above Ogwen Cottage. The route continues through the heart of Eryri (Snowdonia) National Park toward Llanberis."
+    },
+    {
+      "order": 6,
+      "day": 1,
+      "castle_name": "Dolbadarn Castle, Llanberis",
+      "castle_id": null,
+      "duration": "45 minutes",
+      "description": "Second castle stop: Dolbadarn Castle at Llanberis, at the foot of Yr Wyddfa (Snowdon) between Llyn Peris and Llyn Padarn — the two largest natural lakes in Wales. Unlike Conwy and Caernarfon, which were built by Edward I as instruments of English conquest, Dolbadarn is a native Welsh castle built by the princes of Gwynedd, likely founded by Llywelyn the Great (Llywelyn Fawr) in the early 13th century. The round tower keep — the most distinctive feature of the castle and one of the finest examples of Welsh military architecture — follows a form more commonly associated with French castle design than with English practice, suggesting the Gwynedd princes' familiarity with continental military architecture. Dolbadarn is most famous as the place where Owain Goch ap Gruffudd, the brother of Llywelyn ap Gruffudd (the last native Prince of Wales), was imprisoned by his brother for over 20 years. Entry to Dolbadarn Castle is free (Cadw managed site). A future standalone castle page on the site is planned for Dolbadarn."
+    },
+    {
+      "order": 7,
+      "day": 1,
+      "castle_name": "Pen-y-Pass — Snowdon Viewpoint",
+      "castle_id": null,
+      "duration": "Photo stop",
+      "description": "A stop at or near Pen-y-Pass — the mountain pass at 359 metres that serves as the starting point for the two most popular routes to the summit of Yr Wyddfa (Snowdon, 1,085m): the Pyg Track and the Miners' Track. The viewpoint provides a frame for the summit and the ridgelines of the Snowdon massif. Yr Wyddfa is the highest mountain in Wales and England and the most-climbed mountain in the UK after Ben Nevis."
+    },
+    {
+      "order": 8,
+      "day": 1,
+      "castle_name": "Caernarfon Castle",
+      "castle_id": "caernarfon-castle",
+      "duration": "80 minutes",
+      "description": "Third and final castle stop: Caernarfon Castle, the most architecturally and politically ambitious of Edward I's Welsh castles, built from 1283 alongside the town of Caernarfon on the Menai Strait. Entry is confirmed included. Caernarfon was designed to serve as the seat of government for Wales as well as a military fortress; the distinctive banded masonry of alternate dark and light stone, and the polygonal rather than round towers, set it apart from the other Edwardian castles and reflect the architect's deliberate evocation of the walls of Constantinople. Edward I's son, the future Edward II, was born at Caernarfon in 1284 and presented to the Welsh people as the first English Prince of Wales. The castle was the site of the investiture of Charles, Prince of Wales in 1969. Part of the UNESCO inscription 'Castles and Town Walls of King Edward in Gwynedd' (1986). Return drive to Llandudno."
+    }
+  ],
+  "included": [
+    "Conwy Castle entry fee",
+    "Plas Mawr (Elizabethan town house, Conwy) entry fee",
+    "Caernarfon Castle entry fee",
+    "Dolbadarn Castle (free Cadw site — no entry fee applies)",
+    "Guided narration throughout the day",
+    "Transport from and to Llandudno"
+  ],
+  "excluded": [
+    "Lunch at Penrhyn Quarry (own expense)",
+    "Gratuities",
+    "Not suitable for wheelchair users"
+  ],
+  "meeting_point": "Llandudno — exact pickup point confirmed at booking with Adventure Tour Snowdonia",
+  "tips": [
+    "Conwy Castle is occasionally closed for private events — one verified GYG reviewer (May 2026) reported the castle was shut on their visit day; check current Conwy Castle availability at cadw.gov.wales or contact Adventure Tour Snowdonia before booking if this would significantly affect your interest in the tour",
+    "The tour is not suitable for wheelchair users — the terrain at several stops, particularly Dolbadarn Castle and the mountain viewpoints, involves uneven surfaces and gradients that preclude wheelchair access",
+    "The 'secret stop' (20 minutes, guided) is a deliberate mystery in the tour description — past reviews suggest it is a scenic or heritage location in the Conwy or Ogwen valley area; the guide reveals it on the day",
+    "Both Conwy and Caernarfon castles are part of the UNESCO 'Castles and Town Walls of King Edward in Gwynedd' inscription — visiting both in a single day gives an unusually complete view of Edward I's North Wales castle-building programme",
+    "Dolbadarn Castle distinguishes itself from the other two: it is a native Welsh castle, not an Edwardian conquest monument — built by the princes of Gwynedd to control their own territory before Edward I's campaigns, representing the pre-conquest Welsh military tradition"
+  ],
+  "faqs": [
+    {
+      "question": "Are all three castle entry fees included?",
+      "answer": "Conwy Castle and Caernarfon Castle entry fees are confirmed included in the GYG Includes list — the listing explicitly names 'Conwy Castle and Plas Mawr entry fees' and 'Caernarfon castle entry fees.' Dolbadarn Castle at Llanberis is a free Cadw site, so no entry fee applies regardless. Note that Conwy Castle is occasionally closed for private events — one GYG reviewer (May 2026) reported this on their visit day. Checking current Conwy Castle availability at cadw.gov.wales before the tour is advisable."
+    },
+    {
+      "question": "What is Plas Mawr and why is it included?",
+      "answer": "Plas Mawr is a large Elizabethan town house built in Conwy between 1576 and 1585 for the merchant Robert Wynn, one of the best-preserved examples of late-16th-century domestic architecture in Wales. Unlike most comparable town houses of the period, Plas Mawr retains much of its original plasterwork decoration — heraldic designs, floral patterns, and moulded ceilings that give a detailed picture of Elizabethan interior design. It is managed by Cadw (Historic Wales) and sits within Conwy's medieval town walls, near the castle. Entry to Plas Mawr is included in the tour alongside Conwy Castle entry."
+    },
+    {
+      "question": "What makes Dolbadarn Castle different from Conwy and Caernarfon?",
+      "answer": "Conwy and Caernarfon were built by Edward I of England from 1283 as instruments of English conquest and colonial administration — they are among the most architecturally sophisticated expressions of English military power in medieval Europe. Dolbadarn Castle was built by the Welsh princes of Gwynedd, probably in the early 13th century under Llywelyn the Great (Llywelyn Fawr), to guard the mountain pass at Llanberis between the two largest natural lakes in Wales. It represents the native Welsh military tradition before Edward I's conquest rather than the colonial architecture imposed afterward. The round tower keep at Dolbadarn is one of the finest surviving examples of Welsh-built military architecture from the independent Gwynedd period — making this tour unusual in presenting both sides of the same 13th-century story in a single day."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/llandudno-snowdonia-three-castles-tour.webp",
+    "alt": "Conwy Castle and the medieval town walls from the Afon Conwy — the UNESCO Edwardian fortress at the mouth of the river, first stop on the Llandudno Snowdonia Three Castles Tour, North Wales",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "From Llandudno: Snowdonia & Three Castles Tour | Adventure Tour Snowdonia",
+    "description": "9-hour guided tour from Llandudno: Conwy Castle, Dolbadarn Castle, Caernarfon Castle + Eryri/Snowdonia National Park. Castle entries included. From $87/person. 4.9★/233 reviews."
+  }
+}

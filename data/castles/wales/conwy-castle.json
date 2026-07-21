@@ -95,6 +95,22 @@
       "covers_castles": [
         "conwy-castle"
       ]
+    },
+    {
+      "tour_id": "309778",
+      "title": "From Llandudno: Snowdonia National Park & Three Castles Tour",
+      "type": "guided_tour",
+      "duration": "9 hours",
+      "price_from": 87,
+      "rating": 4.9,
+      "reviews": 233,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/llandudno-l462/from-llandudno-full-day-snowdonia-the-three-castles-tour-t309778/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "conwy-castle",
+        "caernarfon-castle"
+      ],
+      "note": "9-hour guided circuit from Llandudno (Adventure Tour Snowdonia) visiting Conwy Castle, Dolbadarn Castle (Llanberis), and Caernarfon Castle on the same day. GYG Includes list explicitly names 'Conwy Castle and Plas Mawr entry fees' — entry to both confirmed. Note: Conwy Castle is occasionally closed for private events (verified by a May 2026 GYG reviewer); check cadw.gov.wales before booking. Not suitable for wheelchair users."
     }
   ],
   "gyg_direct_link_override": true
