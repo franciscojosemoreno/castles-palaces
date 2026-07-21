@@ -11,7 +11,7 @@
   "region": "Cardaneto di Foligno, Umbria",
   "nearest_city": "Foligno",
   "address": "Cardaneto, 06034 Foligno PG, Umbria, Italy",
-  "lat": 42.960,
+  "lat": 42.96,
   "lng": 12.717,
   "unesco": false,
   "year_built": 1200,
@@ -85,7 +85,8 @@
   "last_updated": "2026-07-12",
   "routes": [],
   "nearby_castles": [
-    "brolio-castle"
+    "brolio-castle",
+    "rocca-paolina"
   ],
   "gyg_location_id": "207723",
   "gyg_search_query": "medieval castle dinner Foligno Umbria experience",
@@ -102,7 +103,9 @@
       "reviews": 2,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/foligno-l207723/foligno-medieval-dinner-at-cardaneto-castle-t762019/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["cardaneto-castle"]
+      "covers_castles": [
+        "cardaneto-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

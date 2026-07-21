@@ -11,8 +11,8 @@
   "region": "Jaén, Province of Jaén, Andalusia",
   "nearest_city": "Jaén",
   "address": "Castillo de Santa Catalina, 23009 Jaén, Andalusia, Spain",
-  "lat": 37.780,
-  "lng": -3.790,
+  "lat": 37.78,
+  "lng": -3.79,
   "unesco": false,
   "year_built": 1246,
   "architectural_style": "Castilian reconquest castle on a Roman-Islamic hilltop site — the current fortification was built by Fernando III of Castile following the Christian reconquest of Jaén in 1246 on the foundations of an Almohad Islamic castle; the medieval structure preserves its curtain walls, towers, and the keep (Torre del Homenaje), partially restored and partly ruined; the site additionally houses a Parador hotel (converted into the parador complex in 1965) that occupies the southern wing of the castle grounds; the hilltop position at 940 metres above sea level commands views over the entire Jaén olive oil landscape and the Sierra de Jabalcuz beyond",
@@ -26,7 +26,7 @@
     "sunday": "09:00–21:30",
     "seasonal_note": "Open daily 09:00–21:30. Wednesday afternoons (15:00–18:00) and Sundays (09:00–15:00) free with advance reservation via the Jaén City Council website (juntadeandalucia.es or turjaen.org). Standard entry €3.50. The parador restaurant and hotel occupy part of the castle site and have their own entrance and access."
   },
-  "price_adult": 3.50,
+  "price_adult": 3.5,
   "price_child": 0,
   "price_currency": "EUR",
   "booking_required": false,
@@ -84,7 +84,9 @@
   ],
   "last_updated": "2026-07-12",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "palacio-vela-de-los-cobos"
+  ],
   "gyg_location_id": "2875",
   "gyg_search_query": "Jaén castle Castillo Santa Catalina tours",
   "gyg_widget_type": "activities",

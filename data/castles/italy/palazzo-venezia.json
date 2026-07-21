@@ -12,7 +12,7 @@
   "nearest_city": "Rome",
   "address": "Via del Plebiscito 118, 00186 Roma RM, Italy",
   "lat": 41.8955,
-  "lng": 12.4820,
+  "lng": 12.482,
   "unesco": true,
   "year_built": 1455,
   "architectural_style": "Early Renaissance civic palace and one of the first major Renaissance buildings in Rome — built from 1455 for Cardinal Pietro Barbo (who became Pope Paul II in 1464); the building combines a medieval fortress-like mass with Renaissance decorative elements including the distinctive rusticated stone base, the refined biforate (two-light) windows, the crenellated parapet, and the interior courtyards; the architecture reflects the transitional moment between the Gothic-Romanesque tradition of Roman medieval civic building and the new classicising vocabulary of the 15th-century Renaissance; the palazzo's position on Piazza Venezia — the traffic hub at the foot of the Capitoline Hill, adjacent to the Vittoriano Monument (Altare della Patria) — gives it one of the most prominent addresses in Rome despite being physically overshadowed by the white marble mass of the Vittoriano; the Sala del Mappamondo, on the piano nobile, is the most historically charged room in the building: a large barrel-vaulted hall that served as Mussolini's personal office from 1929 to 1943, the room in which the Fascist dictator received state visitors and conducted government business",
@@ -69,12 +69,23 @@
   "instagram_tag": "#palazzovenezia",
   "meta_title": "Palazzo Venezia Rome: Mussolini's Balcony, Sala del Mappamondo & Visitor Guide 2026",
   "meta_description": "Visit Palazzo Venezia in Rome — a 15th-century papal palace that became Mussolini's seat of fascist government, with the Sala del Mappamondo and panoramic Vittoriano views. From ~€8.",
-  "tags": ["italy", "lazio", "rome", "palace", "renaissance", "mussolini", "fascism", "risorgimento", "vittoriano"],
+  "tags": [
+    "italy",
+    "lazio",
+    "rome",
+    "palace",
+    "renaissance",
+    "mussolini",
+    "fascism",
+    "risorgimento",
+    "vittoriano"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
     "castel-santangelo",
-    "palazzo-barberini"
+    "palazzo-barberini",
+    "palazzo-farnese-caprarola"
   ],
   "gyg_location_id": "33",
   "gyg_search_query": "Palazzo Venezia Rome museum Mussolini Vittoriano",
@@ -91,7 +102,9 @@
       "reviews": 53,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/rome-l33/rome-palazzo-venezia-reserved-entrance-with-museum-t406478/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["palazzo-venezia"]
+      "covers_castles": [
+        "palazzo-venezia"
+      ]
     }
   ],
   "gyg_direct_link_override": true

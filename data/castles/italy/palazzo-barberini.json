@@ -69,12 +69,24 @@
   "instagram_tag": "#palazzobarberini",
   "meta_title": "Palazzo Barberini Rome: Caravaggio, Raphael & Pietro da Cortona's Ceiling — Guide 2026",
   "meta_description": "Visit Palazzo Barberini in Rome — a Baroque palace by Bernini and Borromini with Caravaggio, Raphael, and the 'Triumph of Divine Providence' ceiling fresco. Audio guide entry from $19.35.",
-  "tags": ["italy", "lazio", "rome", "palace", "baroque", "caravaggio", "raphael", "bernini", "borromini", "galleria-nazionale"],
+  "tags": [
+    "italy",
+    "lazio",
+    "rome",
+    "palace",
+    "baroque",
+    "caravaggio",
+    "raphael",
+    "bernini",
+    "borromini",
+    "galleria-nazionale"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
     "castel-santangelo",
-    "palazzo-venezia"
+    "palazzo-venezia",
+    "palazzo-farnese-caprarola"
   ],
   "gyg_location_id": "33",
   "gyg_search_query": "Palazzo Barberini Rome entry ticket audio guide Caravaggio Raphael",
@@ -91,7 +103,9 @@
       "reviews": 2,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/rome-l33/rome-palazzo-barberini-galleria-corsini-entry-audioguide-t1363107/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["palazzo-barberini"]
+      "covers_castles": [
+        "palazzo-barberini"
+      ]
     }
   ],
   "gyg_direct_link_override": true

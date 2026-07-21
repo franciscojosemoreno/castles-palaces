@@ -86,7 +86,9 @@
   ],
   "last_updated": "2026-06-25",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "casa-rocca-piccola"
+  ],
   "gyg_location_id": "2069",
   "gyg_search_query": "Fort St Angelo Malta Birgu Grand Harbour ticket tour",
   "gyg_widget_type": "activities",
