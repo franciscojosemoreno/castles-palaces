@@ -1,0 +1,134 @@
+{
+  "id": "edinburgh-balmoral-scone-royal-tour",
+  "slug": "edinburgh-balmoral-scone-royal-tour",
+  "name": "Edinburgh: Balmoral Castle and Scone Palace Royal Tour",
+  "tagline": "Two royal landmarks in one private day from Edinburgh — the ancient coronation site of Scottish kings and the Royal Family's Highland retreat",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 1,
+  "duration_label": "10 Hours",
+  "gyg_tour_id": "915643",
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/edinburgh-balmoral-castle-and-scone-palace-royal-tour-t915643/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 874,
+  "currency": "USD",
+  "rating": 5.0,
+  "review_count": 22,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 6,
+  "overview": "Private 10-hour royal tour from Edinburgh operated by Tartan Thistle Tours, covering two of Scotland's most historically significant royal sites in a single day: Scone Palace in Perthshire (the ancient crowning site of all Monarchs of Scotland and original home of the Stone of Destiny) and Balmoral Castle in Royal Deeside (the Royal Family's private Highland retreat, where the gardens and Ballroom are open to the public during the spring and summer season). The $874 price is per private group of up to 6 people — approximately $146 per person at full capacity — and covers all transport and live guide narration from Edinburgh. Important: entrance fees to Scone Palace and Balmoral Castle are NOT included in the tour price; both are purchased separately on arrival and require no pre-booking. Seasonal access: Scone Palace is open 1 April–31 October; Balmoral Castle is open 1 April–approximately 10 August (the castle closes when the Royal Family arrives for their summer stay, with exact closing dates confirmed annually). The tour is not suitable for guests under 18 years old.",
+  "highlights": [
+    "Balmoral Castle — the Royal Family's private Scottish retreat in Royal Deeside; the gardens and Ballroom (the only room in the castle open to the public) are accessible between 1 April and approximately 10 August, when the Royal Family vacates before their summer stay",
+    "Scone Palace — the ancient crowning site of all Monarchs of Scotland, set in Perthshire; every Scottish king from Kenneth MacAlpin in the 9th century to Charles II in 1651 was crowned at Scone; the palace is the original home of the Stone of Destiny (Stone of Scone), the coronation stone returned to Scotland in 1996 and used at all British coronations",
+    "Loch Leven Castle en route (drive-by) — the island fortress on Loch Leven where Mary Queen of Scots was imprisoned from 1567 to her escape in 1568; visible from the road as the tour passes through Kinross",
+    "Private group, maximum 6 guests — the tour runs as a private charter from Edinburgh accommodation pickup to return drop-off, with a live English-speaking guide and a flexible itinerary adapted to the group's pace and interests",
+    "Optional Glenshee and Braemar — time and weather permitting, the itinerary may include a scenic stop at Glenshee (chairlift in good weather) and the Highland village of Braemar, home to the annual Braemar Gathering highland games and Braemar Castle",
+    "5.0★ rating, 22 reviews — Tartan Thistle Tours; pickup from Edinburgh accommodation included in the tour price"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "day": 1,
+      "castle_name": "Edinburgh Departure",
+      "castle_id": null,
+      "duration": "Morning departure",
+      "description": "Pickup from Edinburgh accommodation — the guide collects the group from their Edinburgh address, eliminating the need to reach a central meeting point. The route north crosses the Queensferry Crossing (the cable-stayed bridge opened 2017, alongside the original 1964 Forth Road Bridge and the 1890 Forth Rail Bridge — the latter a UNESCO World Heritage Site since 2015). The guide provides narration on the Forth bridges and the landscape of Fife and Perthshire en route."
+    },
+    {
+      "order": 2,
+      "day": 1,
+      "castle_name": "Loch Leven Castle — Scenic Drive-By",
+      "castle_id": null,
+      "duration": "Scenic mention en route",
+      "description": "Passing through Kinross, the route offers a view of Loch Leven Castle — the ruined island fortress on Loch Leven where Mary Queen of Scots was imprisoned from June 1567 following her defeat at the Battle of Carberry Hill. She escaped in May 1568 by charming the young boatman Willie Douglas, who stole the castle keys and rowed her to the shore. Loch Leven is also historically associated with Robert the Bruce, who took refuge here during the difficult years of his campaign. This is a scenic drive-by from the road — not a scheduled stop."
+    },
+    {
+      "order": 3,
+      "day": 1,
+      "castle_name": "Scone Palace",
+      "castle_id": null,
+      "duration": "2–3 hours",
+      "description": "First main stop: Scone Palace in Perthshire, the seat of the Murray family, Earls of Mansfield. The palace grounds and rooms are open to visitors between 1 April and 31 October; the visit is not possible outside this window. Scone is the site of the historic Moot Hill, where all Monarchs of Scotland from Kenneth MacAlpin (9th century) to Charles II (1651) were crowned. The Stone of Destiny — the coronation stone on which Scottish kings were crowned, taken to England by Edward I in 1296, used at every British coronation thereafter, returned to Scotland in 1996, and used at King Charles III's coronation in 2023 — was originally kept at Scone. The palace itself is a Gothic Revival building from the early 19th century, the current home of the Murray family; the interior showcases French furniture, porcelain, ivories, and portraits across the principal rooms. The grounds include a maze, a butterfly garden, and woodland walks. Entrance fee purchased on arrival (not included in the $874 group tour price)."
+    },
+    {
+      "order": 4,
+      "day": 1,
+      "castle_name": "Glenshee & Braemar — Optional Stop",
+      "castle_id": null,
+      "duration": "Optional, weather and schedule dependent",
+      "description": "Time and weather permitting, the itinerary may include a scenic break at Glenshee — Scotland's largest ski area, which operates a chairlift in summer on good-weather days for hill views — and the Highland village of Braemar, the highest village in Scotland's populated Highlands. Braemar is the home of the Braemar Gathering (the Highland Games attended annually by the Royal Family in September) and Braemar Castle, a 17th-century Hanoverian garrison stronghold. These are conditional stops based on the day's timing and conditions — the guide will advise the group on what is feasible."
+    },
+    {
+      "order": 5,
+      "day": 1,
+      "castle_name": "Balmoral Castle",
+      "castle_id": "balmoral-castle",
+      "duration": "2–3 hours",
+      "description": "The day's second main stop: Balmoral Castle, the Royal Family's private Highland estate in Royal Deeside. Balmoral is open to the public between 1 April and approximately 10 August each year — the castle closes when the Royal Family arrives for their annual summer stay, with the exact closing date confirmed annually by the estate. The visit includes the formal gardens and the Ballroom, which is the only room of the castle interior open to the public during the season; the Ballroom houses a collection of Balmoral-related paintings, sculptures, and royal memorabilia. The estate was purchased by Queen Victoria and Prince Albert in 1852 and rebuilt in the Scottish Baronial style by William Smith of Aberdeen — the castle Albert built replaced the original Balmoral house on the site. Entrance fee purchased on arrival (not included in the $874 group tour price)."
+    },
+    {
+      "order": 6,
+      "day": 1,
+      "castle_name": "Return to Edinburgh",
+      "castle_id": null,
+      "duration": "Evening return",
+      "description": "Drive back to Edinburgh via Royal Deeside and Perthshire, with the guide continuing narration on the landscapes and history en route. Drop-off at Edinburgh accommodation."
+    }
+  ],
+  "included": [
+    "Private transport from and to Edinburgh accommodation (door-to-door pickup and drop-off)",
+    "Live English-speaking guide for the full 10 hours",
+    "Bottled water",
+    "Flexible itinerary adapted to group pace and interests",
+    "Restroom and coffee breaks en route"
+  ],
+  "excluded": [
+    "Entrance fees to Scone Palace — purchased separately on arrival; no pre-booking required",
+    "Entrance fees to Balmoral Castle — purchased separately on arrival; no pre-booking required",
+    "Meals and refreshments beyond bottled water",
+    "Gratuities",
+    "Not suitable for guests under 18 years old"
+  ],
+  "meeting_point": "Edinburgh accommodation — the guide picks up the group directly from their Edinburgh address (hotel, apartment, or B&B); no central meeting point required",
+  "tips": [
+    "The $874 price is per private group of up to 6 people, NOT per person — at full capacity of 6 this works out to approximately $146 per person, which is competitive with guided group tours to either site individually",
+    "Seasonal access is critical: Scone Palace is open 1 April–31 October only; Balmoral Castle is open 1 April–approximately 10 August only (closes when the Royal Family arrives for their summer stay). The tour operates year-round per GYG, but the two headline stops are only accessible within these windows — confirm the current Balmoral closing date at balmoralcastle.com before booking",
+    "The tour is not suitable for guests under 18 years old — this is an unusual restriction for a castle tour; adult groups and couples are the primary audience",
+    "Book in advance for June and July, when both sites are open simultaneously and demand from Royal Deeside visitors is highest; Balmoral's August closing date means July is effectively the last full month for a combined visit",
+    "Entrance fees at Balmoral and Scone are affordable (approximately £15–18 adult for Balmoral, £14–17 for Scone Palace) — budget for both separately in addition to the group tour price"
+  ],
+  "faqs": [
+    {
+      "question": "Are entrance fees to Balmoral Castle and Scone Palace included in the $874 price?",
+      "answer": "No — entrance fees to both sites are purchased separately on arrival and are not included in the $874 group tour price. No pre-booking is required for either site; tickets are bought at the gate or entrance on the day. The $874 covers the private transport from Edinburgh, the live English-speaking guide for the full 10 hours, and all logistics including door-to-door pickup. Budget approximately £15–18 per adult for Balmoral Castle and £14–17 per adult for Scone Palace, in addition to the group tour cost."
+    },
+    {
+      "question": "When can I visit both Balmoral and Scone on the same tour?",
+      "answer": "The window when both sites are simultaneously open is approximately 1 April to 10 August — Scone Palace opens 1 April and stays open until 31 October, while Balmoral Castle opens 1 April but closes in early to mid-August when the Royal Family arrives for their annual summer stay (the exact date varies by year; check balmoralcastle.com for the current season's closing date). For a tour combining both sites, the April–July window is ideal. August visits risk Balmoral being closed. Outside the April–October window, Scone Palace is also closed. The GYG product runs year-round, so always confirm both sites' current opening status before booking."
+    },
+    {
+      "question": "Why is this tour not suitable for guests under 18?",
+      "answer": "Tartan Thistle Tours specifies that this private tour is not suitable for guests under 18. The exact reason is not detailed in the GYG listing — it may relate to the private adult-group format, the length and pace of the 10-hour day, or operator preference for adult clients. Families with children looking for a royal Scotland experience should consider the public group tours to Balmoral or Scone Palace individually, which are open to all ages."
+    },
+    {
+      "question": "How does this compare to the Aberdeen-departure Balmoral tour?",
+      "answer": "The 'From Aberdeen: Balmoral Estate & Royal Deeside Tour' (t343186, from £132 per person, 4.9★/284 reviews) is a separate product departing from Aberdeen rather than Edinburgh — it focuses on Balmoral and the Royal Deeside scenic route without visiting Scone Palace. If you are based in Aberdeen or the northeast, the Aberdeen tour is the more efficient option for Balmoral alone, and at a lower per-person price. If you are based in Edinburgh and want to combine Balmoral with Scone Palace — the ancient coronation site of Scottish kings — this Edinburgh-departure private tour is the appropriate choice."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-balmoral-scone-royal-tour.webp",
+    "alt": "Balmoral Castle in Royal Deeside — the Royal Family's Scottish Highland retreat, accessible to visitors from 1 April to approximately 10 August, featured on the Edinburgh Balmoral and Scone Palace Royal Tour",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Edinburgh: Balmoral Castle & Scone Palace Royal Tour | Tartan Thistle Tours",
+    "description": "Private 10-hour royal tour from Edinburgh covering Scone Palace (ancient coronation site of Scottish kings) and Balmoral Castle (Royal Family's Highland retreat). From $874/group up to 6."
+  }
+}
