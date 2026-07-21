@@ -12,7 +12,7 @@
   "nearest_city": "Cupar",
   "address": "High Street, Falkland, Fife KY15 7BU, Scotland",
   "lat": 56.2534,
-  "lng": -3.2030,
+  "lng": -3.203,
   "unesco": false,
   "year_built": 1450,
   "architectural_style": "French Renaissance palace on the site of a 12th-century hunting lodge; James IV and James V transformed the earlier castle into a showpiece of Franco-Scottish Renaissance architecture between c.1501 and 1541; the twin drum towers of the South Gatehouse — James V's signature addition, constructed by French master mason Nicolas Roy — are the most complete expression of French Renaissance influence on Scottish architecture of their period, directly paralleling Loire Valley château work of the same decades; the Great Hall and Chapel Royal formed the principal ceremonial spaces of the south range; the East Range was burned by Cromwell's forces in 1654 and never rebuilt, creating a preserved ruin standing adjacent to the restored south range; the 3rd Marquess of Bute undertook a historically sensitive restoration of the south range and gatehouse in the 1880s–1890s",
@@ -109,6 +109,22 @@
         "st-andrews-castle",
         "falkland-palace"
       ]
+    },
+    {
+      "tour_id": "189396",
+      "title": "Scottish Highlands 4-Day Castle Tour From Edinburgh",
+      "type": "guided_tour",
+      "duration": "4 days / 3 nights",
+      "price_from": 1001,
+      "rating": 4.7,
+      "reviews": 3,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/scottish-highlands-4-day-castle-tour-from-edinburgh-t189396/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "falkland-palace",
+        "dunnottar-castle"
+      ],
+      "note": "4-day multi-day castle circuit (Rabbie's Small Group Tours, max 16 guests); $1,001 per person is a full package price including 3 nights B&B accommodation, all castle admissions, guide, Cardhu Distillery tasting, and Day 4 lunch. This castle is visited on Day 1. The tour continues Days 2–4 into Royal Deeside (Castle Fraser, Crathes Castle), Aberdeenshire (Fyvie Castle), Speyside, Culloden, and Blair Castle. For a single-day version of Day 1 stops only, see the companion day trip (t259837)."
     }
   ],
   "gyg_direct_link_override": true

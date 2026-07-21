@@ -1,0 +1,198 @@
+{
+  "id": "edinburgh-highlands-4-day-castle-tour",
+  "slug": "edinburgh-highlands-4-day-castle-tour",
+  "name": "Scottish Highlands 4-Day Castle Tour From Edinburgh",
+  "tagline": "Five castles, three nights, and the full sweep of the Highlands — Edinburgh to Aberdeenshire and back on Scotland's classic multi-day castle circuit",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland"
+  ],
+  "duration_days": 4,
+  "duration_label": "4 Days · 3 Nights",
+  "gyg_tour_id": "189396",
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/scottish-highlands-4-day-castle-tour-from-edinburgh-t189396/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 1001,
+  "currency": "USD",
+  "rating": 4.7,
+  "review_count": 3,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 16,
+  "overview": "Scotland's classic multi-day castle circuit, operated by Rabbie's Small Group Tours in a maximum-16-seat luxury Mercedes mini-coach. Four days covering five castles — Falkland Palace, Dunnottar Castle, Castle Fraser, Crathes Castle, Fyvie Castle, and Blair Castle — plus Culloden Battlefield, a Cardhu Distillery tasting, and three nights' B&B accommodation in locally-owned guesthouses in Aberdeen and Nairn. The $1,001 per-person price is an all-inclusive package: accommodation (3 nights, en-suite rooms), all castle and site admissions listed below, a professional driver-guide for the full four days, and the distillery experience. This is the site's first multi-day tour — it covers genuinely different territory from any of the existing single-day Scotland tours, with Days 2–4 (Royal Deeside, Speyside, Culloden, Blair Castle) appearing nowhere else in the Scotland tour roster. Day 1's stops at Falkland Palace and Dunnottar Castle also feature in the separate one-day 'St Andrews, Dunnottar Castle & Falkland Palace Tour' (t259837) — see the FAQ below for how to choose between the two.",
+  "highlights": [
+    "Dunnottar Castle on its 160-foot sea cliff — the most dramatically situated castle in Scotland, where Scotland's Crown Jewels were hidden from Cromwell's army in 1651",
+    "Falkland Palace — Mary Queen of Scots' royal hunting lodge in the village that appeared in Outlander, with one of the oldest real tennis courts in the world still in use",
+    "Castle Fraser and Crathes Castle — two of the finest Z-plan and L-plan tower houses in Royal Deeside, both set in spectacular National Trust for Scotland gardens",
+    "Fyvie Castle — a 13th-century fortress with a collection of arms, armour, and 17th-century tapestries in Aberdeenshire",
+    "Culloden Battlefield Visitor Centre — the site of the last battle fought on British soil (April 16, 1746), with the NTS museum and the marked grave clans across the battlefield",
+    "Blair Castle — the seat of the Duke of Atholl, with 175 mounted antlers in the ballroom and 9 acres of formal garden; the Duke commands Europe's only private army",
+    "Cardhu Distillery Flavour Journey tasting — Speyside's most significant Scotch whisky distillery, founded in 1824 and the source malt for Johnnie Walker",
+    "3 nights B&B accommodation in locally-owned guesthouses (Aberdeen, Aberdeen, Nairn) — en-suite rooms, all included in the package price",
+    "Maximum 16 guests, Rabbie's Small Group Tours luxury Mercedes mini-coach and driver-guide for all 4 days"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "day": 1,
+      "castle_name": "Edinburgh Departure → Fife",
+      "castle_id": null,
+      "duration": "Morning travel + Falkland Palace",
+      "description": "Depart Edinburgh north across the Queensferry Crossing into the Kingdom of Fife. First stop: Falkland Palace, the Stuart royal hunting lodge in the village of Falkland — Mary Queen of Scots' favourite retreat, home to one of the oldest real tennis courts in continuous use (built 1539), and featured prominently in the Outlander TV series. The village of Falkland appeared as a Highland settlement in Season 2."
+    },
+    {
+      "order": 2,
+      "day": 1,
+      "castle_name": "Falkland Palace",
+      "castle_id": "falkland-palace",
+      "duration": "2 hours",
+      "description": "Entry to Falkland Palace is included. The palace was the preferred hunting retreat of the Stuart monarchs from James IV to Charles II; Mary Queen of Scots spent extended periods here before her imprisonment. The Royal Tennis Court (1539) is the oldest in Britain still in active play. The palace gardens, laid out in the 1940s to 16th-century designs, surround the partially-ruined palace."
+    },
+    {
+      "order": 3,
+      "day": 1,
+      "castle_name": "St Andrews — Lunch Stop",
+      "castle_id": null,
+      "duration": "Lunch break",
+      "description": "Free time for lunch in St Andrews — the town that gave golf to the world and home to Scotland's oldest university. The ruined Archbishop's Palace (St Andrews Castle) is adjacent to the cathedral ruins on the cliff above St Andrews Bay, visible from the harbour."
+    },
+    {
+      "order": 4,
+      "day": 1,
+      "castle_name": "Dunnottar Castle",
+      "castle_id": "dunnottar-castle",
+      "duration": "1.5 hours",
+      "description": "Afternoon at Dunnottar Castle — the cliff-top ruin on a 160-foot sea stack above the North Sea, reached via a clifftop walk from the car park. Entry included. Scotland's Crown Jewels were hidden here during Cromwell's siege (1651–52); a minister's wife smuggled them out in her clothing before the castle fell. Mel Gibson filmed the 1990 Hamlet here. Overnight in Aberdeen."
+    },
+    {
+      "order": 5,
+      "day": 2,
+      "castle_name": "Castle Fraser",
+      "castle_id": null,
+      "duration": "2 hours",
+      "description": "Day 2 opens in Royal Deeside. Castle Fraser is one of the grandest Z-plan tower houses in Scotland, built by the Fraser family from the late 15th century — a classic example of the Scottish baronial style with its characteristic round towers, corbelled turrets, and walled garden. Entry included. The 18th-century walled garden is one of the best-preserved of its type in Aberdeenshire."
+    },
+    {
+      "order": 6,
+      "day": 2,
+      "castle_name": "Ballater — Lunch Stop",
+      "castle_id": null,
+      "duration": "Lunch break",
+      "description": "Lunch in Ballater, the Royal Deeside village closest to Balmoral Castle — the Victorian-era royal retreat purchased by Queen Victoria in 1852 and still the British royal family's Scottish summer residence."
+    },
+    {
+      "order": 7,
+      "day": 2,
+      "castle_name": "Crathes Castle",
+      "castle_id": null,
+      "duration": "2 hours",
+      "description": "Afternoon at Crathes Castle — a 16th-century L-plan tower house built for the Burnett family and now in the care of the National Trust for Scotland. Entry included. The castle is notable for its original painted ceilings (some of the finest in Scotland), the legendary Horn of Leys (a medieval jewelled ivory horn said to have been gifted by Robert the Bruce), and a ghost story involving the Green Lady. Free wandering through the castle and the extensive gardens. Overnight in Aberdeen."
+    },
+    {
+      "order": 8,
+      "day": 3,
+      "castle_name": "Fyvie Castle",
+      "castle_id": null,
+      "duration": "2 hours",
+      "description": "Day 3: north into Aberdeenshire. Fyvie Castle has origins in the 13th century and was expanded across five successive periods by five different noble families — each added a tower, leaving a remarkably complete record of Scottish baronial architecture from medieval through 18th century. Entry included. The interior holds a collection of arms and armour, 17th-century tapestries, and portraits attributed to Raeburn and Romney."
+    },
+    {
+      "order": 9,
+      "day": 3,
+      "castle_name": "Elgin — Lunch & Cathedral",
+      "castle_id": null,
+      "duration": "Lunch break + cathedral ruins",
+      "description": "Lunch in Elgin with a stop at the ruins of Elgin Cathedral — once one of the finest Gothic cathedrals in Scotland, known as the 'Lantern of the North,' destroyed by Alexander Stewart, the Wolf of Badenoch, in 1390 during a revenge attack for his excommunication."
+    },
+    {
+      "order": 10,
+      "day": 3,
+      "castle_name": "Culloden Battlefield",
+      "castle_id": null,
+      "duration": "1.5 hours",
+      "description": "Culloden Battlefield and Visitor Centre — the site of the last pitched battle fought on British soil, April 16, 1746, where the Jacobite rising led by Prince Charles Edward Stuart ('Bonnie Prince Charlie') was decisively defeated by the Duke of Cumberland's government forces in under an hour. Entry to the NTS Visitor Centre and museum is included. The battlefield is marked with clan grave stones across the moorland. Overnight in Nairn."
+    },
+    {
+      "order": 11,
+      "day": 4,
+      "castle_name": "Cardhu Distillery",
+      "castle_id": null,
+      "duration": "1 hour",
+      "description": "Day 4: Speyside. The tour includes a Flavour Journey tasting at Cardhu Distillery — founded in 1824 by John and Helen Cumming in Knockando, Speyside; one of the key source malts for Johnnie Walker blended Scotch whisky. The Flavour Journey tour covers the distillery's production process and includes a guided tasting of Cardhu expressions."
+    },
+    {
+      "order": 12,
+      "day": 4,
+      "castle_name": "Ruthven Barracks — Drive-By",
+      "castle_id": null,
+      "duration": "Brief stop",
+      "description": "Pass by Ruthven Barracks — the Hanoverian barracks built in the Spey valley after the 1715 Jacobite rising and subsequently destroyed by Jacobite forces after Culloden in 1746 as a final act before dispersal. The ruins stand dramatically on a raised mound above the Spey valley."
+    },
+    {
+      "order": 13,
+      "day": 4,
+      "castle_name": "Blair Castle",
+      "castle_id": null,
+      "duration": "2 hours",
+      "description": "Lunch included at Blair Castle, the seat of the Duke of Atholl in Highland Perthshire — one of the most visited castles in Scotland. Entry included. The castle is best known for its Ballroom, whose ceiling is hung with 175 sets of mounted antlers, and the 9-acre Hercules Garden with its original 18th-century geometric layout. The Duke of Atholl holds the distinction of commanding the Atholl Highlanders, the only private army in Europe still permitted to bear arms. Return drive to Edinburgh, arriving in the evening."
+    }
+  ],
+  "included": [
+    "Tour transport in a luxury 16-seat Mercedes mini-coach for all 4 days",
+    "Driver-guide for the full tour",
+    "3 nights bed and breakfast accommodation (en-suite rooms in locally-owned guesthouses: Aberdeen × 2, Nairn × 1)",
+    "Admission to Falkland Palace",
+    "Admission to Dunnottar Castle",
+    "Admission to Castle Fraser",
+    "Admission to Crathes Castle",
+    "Admission to Fyvie Castle",
+    "Admission to Culloden Visitor Centre, Museum & Battlefield",
+    "Admission to Blair Castle and Garden",
+    "Cardhu Distillery Flavour Journey tour and tasting",
+    "Lunch on Day 4 (Blair Castle)"
+  ],
+  "excluded": [
+    "Additional meals beyond those specified (lunches in St Andrews, Ballater, Elgin are free time at own expense)",
+    "Alcoholic drinks beyond the included distillery tasting",
+    "Gratuities",
+    "Not suitable for children under 5"
+  ],
+  "meeting_point": "Edinburgh city centre — exact pickup point confirmed at booking (Rabbie's Tours Edinburgh departure point)",
+  "tips": [
+    "The $1,001 per-person price includes 3 nights accommodation, all 6 attraction admissions, transport, guide, distillery tasting, and Day 4 lunch — it is a package price, not a single-day ticket",
+    "Maximum 16 guests: book as early as possible, particularly for summer dates (May–September); GYG lists this tour as a 'Rare find' (usually unavailable), so availability windows close quickly",
+    "Pack for all weathers — Speyside and the Aberdeenshire coast in particular can produce rain, wind, and sunshine within the same afternoon; waterproofing is essential",
+    "Culloden is most powerful in still or overcast weather — bright summer days slightly undercut the atmosphere of the moorland battlefield; a grey Highland afternoon is ideal",
+    "Dunnottar on Day 1 is best visited in late afternoon light — the North Sea cliff setting is at its most dramatic with low western sun"
+  ],
+  "related_tours": [
+    "edinburgh-st-andrews-dunnottar-castle-tour"
+  ],
+  "faqs": [
+    {
+      "question": "What does the $1,001 per-person price actually include?",
+      "answer": "The $1,001 is an all-inclusive package price covering: 3 nights B&B accommodation in en-suite rooms at locally-owned Scottish guesthouses (2 nights in Aberdeen, 1 in Nairn); admission to all six attractions listed (Falkland Palace, Dunnottar Castle, Castle Fraser, Crathes Castle, Fyvie Castle, Culloden Visitor Centre, Blair Castle); full transport in a luxury 16-seat Mercedes mini-coach for all 4 days; a professional driver-guide throughout; the Cardhu Distillery Flavour Journey tasting; and lunch on Day 4. It is a fundamentally different product from a single-day tour — the comparable reference point is a 4-day self-drive Scotland package including the same accommodations, all admissions, and petrol, which would cost considerably more without the group rate and specialist guide."
+    },
+    {
+      "question": "Day 1 covers Falkland Palace and Dunnottar Castle — isn't there already a day trip for those?",
+      "answer": "Yes — the existing 'Edinburgh: St Andrews, Dunnottar Castle & Falkland Palace Tour' (t259837, from £49) covers the same two Day 1 stops as a single-day excursion, also departing from Edinburgh with a maximum of 16 guests. If Falkland Palace and Dunnottar Castle are your primary interest, the day trip is the more economical choice. The 4-day tour continues on Days 2–4 into Royal Deeside (Castle Fraser, Crathes Castle), Aberdeenshire (Fyvie Castle), Speyside (Cardhu Distillery), and Culloden and Blair Castle in Highland Perthshire — none of which feature on the day trip. Choose the day trip for a faster taste of Fife and Aberdeenshire; choose this 4-day tour for a complete Highland castle circuit with accommodation included."
+    },
+    {
+      "question": "What is GYG's 'Rare find' label and why does it appear on this product?",
+      "answer": "GYG marks a product as a 'Rare find' when its availability is usually limited — typically because it sells out quickly, runs infrequently, or has a small capacity. This tour's maximum group size is 16, it runs on scheduled departure dates rather than daily, and it is operated by Rabbie's Small Group Tours who run a curated calendar of departures rather than unlimited availability. Booking well in advance (6–8 weeks minimum for summer dates) is strongly recommended."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-highlands-4-day-castle-tour.webp",
+    "alt": "Dunnottar Castle on its sea cliff above the North Sea, Aberdeenshire, Scotland — Day 1 of the Scottish Highlands 4-Day Castle Tour From Edinburgh",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Scottish Highlands 4-Day Castle Tour From Edinburgh | Rabbie's Small Group",
+    "description": "4-day small-group castle circuit from Edinburgh: Falkland Palace, Dunnottar, Castle Fraser, Crathes, Fyvie, Culloden, Blair Castle + 3 nights B&B. From $1,001 per person."
+  }
+}
