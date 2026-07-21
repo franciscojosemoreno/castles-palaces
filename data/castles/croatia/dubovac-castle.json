@@ -82,7 +82,8 @@
   "routes": [],
   "nearby_castles": [
     "trakoscan-castle",
-    "veliki-tabor"
+    "veliki-tabor",
+    "frankopan-castle"
   ],
   "gyg_location_id": "803",
   "gyg_search_query": "Dubovac Castle Karlovac Croatia Zagreb day trip",
@@ -99,7 +100,9 @@
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/zagreb-l803/from-zagreb-to-karlovac-dubovac-castle-and-war-musseum-t1165130/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["dubovac-castle"]
+      "covers_castles": [
+        "dubovac-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true
