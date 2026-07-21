@@ -1,0 +1,112 @@
+{
+  "id": "wilanow-palace",
+  "name": "Wilanów Palace",
+  "local_name": "Pałac w Wilanowie",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 700000,
+  "country": "poland",
+  "region": "Wilanów district, southern Warsaw",
+  "nearest_city": "Warsaw",
+  "address": "ul. Stanisława Kostki Potockiego 10/16, 02-958 Warsaw, Poland",
+  "lat": 52.1657,
+  "lng": 21.0893,
+  "unesco": false,
+  "year_built": 1677,
+  "architectural_style": "Polish Baroque royal summer palace with later Neoclassical and Rococo interiors — designed primarily by Italian-born architect Agostino Locci for King John III Sobieski between 1677 and 1696; the two-storey main body is flanked by wings added in the early 18th century under Elżbieta Sieniawska; the facade carries an extraordinary sculptural program of Latin victory inscriptions, bas-reliefs of Roman-style military scenes, sundials, and allegorical figures that reads as an architectural autobiography of the warrior-king who commissioned it; the interior accumulates successive decorative layers — Baroque royal apartments, a Chinese-lacquer cabinet, Neoclassical rooms, and a private chapel — added by the sequence of aristocratic families who owned the palace after Sobieski's death; the garden ensemble combines a formal Italian Baroque parterre south of the palace with an English landscape park added in the late 18th century, a Baroque orangery, and a Chinese summerhouse",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "The palace museum is closed Mondays year-round. Hours vary by season; the park and gardens have extended hours and separate (or free) ticketing from the palace interior. Palace interior tickets are priced in Polish złoty (PLN); adult admission is approximately 30 PLN — confirm current prices and booking at wilanow.pl. The GYG 2-hour guided tour with entrance tickets included (t405959, 4.8★/8 reviews, from $92) is a guided interior visit with tickets bundled — the $92 covers the guide fee plus palace entry for a 2-hour circuit of the main apartments."
+  },
+  "price_adult": null,
+  "price_child": null,
+  "price_currency": "PLN",
+  "booking_required": false,
+  "official_tickets_url": "https://www.wilanow-palac.pl",
+  "visit_duration": "1.5–2 hours (palace interior self-guided); 2 hours (GYG guided tour); additional time for gardens",
+  "best_season": "May to September — the gardens are at their most impressive in full bloom and the extended opening hours allow afternoon visits; the palace is open year-round (except Mondays) but the garden-plus-palace combination is best in the warmer months",
+  "accessibility": "The palace grounds are largely accessible. The interior involves some period stairways; accessible routes exist for parts of the main floor. The formal gardens are flat and navigable. Confirm specific access requirements at wilanow.pl.",
+  "booking_advance_days": 0,
+  "tagline": "The 'Versailles of Warsaw' — the one Polish royal palace that survived both the Partitions and World War II intact, built by the hero-king who saved Vienna from the Ottomans",
+  "highlights": [
+    "The rarest thing in Warsaw: an intact original — Wilanów is the one surviving authentic royal palace in a city whose architecture was systematically destroyed in 1944–1945; while the Royal Castle and Old Town were rebuilt from rubble, Wilanów came through the war structurally intact, preserving original Baroque interiors, furnishings, and the collections accumulated across 200 years of aristocratic ownership",
+    "King John III Sobieski's victory monument in stone — the palace's exterior facade is covered in Latin inscriptions commemorating the king's military campaigns, bas-reliefs of Roman-style battle scenes, and allegorical figures of Fame and Victory; the entire building was designed as a declaration of Sobieski's identity as the defender of Christian Europe against the Ottoman Empire, the warrior-king in the classical Roman tradition",
+    "September 12, 1683: the Battle of Vienna — the event that made Sobieski famous throughout Europe; his cavalry charge down the Kahlenberg slopes broke the two-month Ottoman siege of Vienna, turned the strategic momentum of the Ottoman advance into Central Europe, and earned him the title 'Lion of Lechistan' (Poland) from the Ottoman sultan he had defeated",
+    "One of the first public art museums in Poland (opened 1805) — Stanisław Kostka Potocki opened the palace to the public in 1805, during the Partition era when Poland had lost its statehood entirely; the decision made Wilanów one of the earliest public art museums in Europe and established it as a cultural institution rather than a private aristocratic residence",
+    "Five generations of aristocratic collecting — after Sobieski's death in 1696 the palace passed through the Sieniawska, Czartoryski, Lubomirski, and Potocki families; each successive owner added wings, commissioned redecoration, and contributed to the collections that now make the museum's holdings one of the most significant assemblages of Polish Baroque and Neoclassical decorative arts in existence",
+    "GYG 2-hour guided interior tour with entrance tickets (t405959, 4.8★/8 reviews, from $92) — confirmed genuine guided visit through the Royal Library, queen's apartments, Chinese cabinet, and private chapel"
+  ],
+  "description": "Most of Warsaw's royal history is reconstruction. The Royal Castle was blown up by German forces in 1944 and rebuilt over the following decades from historical records and archival photographs; the Baroque palaces that once lined the Royal Route were burned and demolished in the systematic destruction that followed the Warsaw Uprising; the medieval and early modern city was reduced to rubble in three months of deliberate post-surrender obliteration, the German military command's decision to erase the capital of a nation they had decided should not exist. Against this documented history of near-total architectural loss, Wilanów Palace occupies a singular position: an original Baroque royal residence, substantially intact in both its interiors and gardens, that survived the Partitions of Poland and the Second World War and stands today as the one authentic primary material record of how Poland's kings actually lived.\n\nThe palace was created by King John III Sobieski (r. 1674–1696), whose place in Polish and European history rests most immediately on a single date: September 12, 1683, when his cavalry charge down the slopes of the Kahlenberg above Vienna broke the Ottoman siege of the city, saving the Habsburg capital and turning the strategic momentum of what had been 150 years of Ottoman advance into Central Europe. Sobieski commanded roughly 70,000 allied troops in what remains one of the largest cavalry charges in European military history. The Ottoman Grand Vizier Kara Mustafa Pasha retreated with the remnant of his forces; Vienna was relieved; the Ottoman army never again advanced this far into Central Europe. Pope Innocent XI wrote to Sobieski directly to thank him. He was 54 years old.\n\nIn 1677, six years before Vienna, Sobieski purchased a small manor at the village of Milanów south of Warsaw and engaged Italian-born architect Agostino Locci to transform it into a summer residence commensurate with royal ambition. The Latin Latinization — Villa Nova becoming Wilanów — was a standard aristocratic affectation of the period, but what Locci and Sobieski built was not standard. The exterior facade of the completed palace carries an extraordinary sculptural program: Latin inscriptions celebrating Sobieski's military victories, bas-reliefs depicting Roman-style battle scenes, allegorical figures of Fame and Victory flanking the upper cornice, sundials inscribed with royal mottoes. The palace was designed as a monument to a specific person's specific identity — an architectural autobiography of the warrior-king who commissioned it, with the Roman tradition of the triumphal monument adapted to a residential building. It is one of the most self-conscious pieces of royal self-representation in Central European Baroque architecture.\n\nSobieski died in 1696, the year the palace was completed in its first form. He had barely lived in it. The palace's history as an inhabited royal residence lasted less than two decades; its history as a vehicle for aristocratic collecting and cultural ambition lasted another century and a half. The sequence of owners — Elżbieta Helena Sieniawska, who added flanking wings in the early 18th century; the Czartoryski family; the Lubomirski; and finally the Potocki family, who held the palace from 1799 until the Second World War — each brought collections, commissioned redecoration, and contributed to the accumulation that makes the museum's holdings today one of the most significant assemblages of Polish Baroque and Neoclassical decorative arts in existence.\n\nThe most consequential act of the Potocki stewardship came in 1805, when Stanisław Kostka Potocki opened the palace to the public as a museum. The decision was made during the Partition era — Poland had not existed as an independent state since 1795, divided between Russia, Prussia, and Austria — and the gesture of making the palace's collections accessible to the public carried a specific cultural-political charge: in the absence of a Polish state, the historical collections of a Polish royal residence would function as a form of national cultural memory, publicly held. The opening preceded the wave of European national museum foundations by several decades and established Wilanów as a cultural institution rather than a private residence at a moment when that distinction carried meaning beyond the bureaucratic.\n\nThe palace's survival through the Second World War was not entirely accidental. German occupation authorities used Wilanów as a residence for high-ranking officials — a form of protection, however cynical, against the deliberate demolition that other Warsaw landmarks did not survive. The Royal Castle was dynamited in December 1944; the systematic destruction of the remaining city continued into 1945. Wilanów came through structurally intact, damaged but standing, and was transferred to the Polish state after the war, which undertook conservation and reopened it as a national museum.\n\nThe museum today encompasses the palace interiors — the Royal Library with its original fittings, the queen's apartments, the Chinese lacquer cabinet (one of the finest surviving examples of 18th-century chinoiserie in Poland), the private chapel, and a sequence of Neoclassical rooms added during the Lubomirski and Potocki periods — accessible via timed self-guided and guided tours. The garden ensemble includes the formal Italian Baroque parterre immediately south of the palace with clipped hedges, topiary, and fountains; an English landscape park section added in the late 18th century; a Baroque orangery that houses rotating exhibitions; and a Chinese summerhouse.\n\n[The Royal Castle in Warsaw](/castles/poland/royal-castle-warsaw), rebuilt after wartime destruction, is the formal ceremonial seat of the Piast and Jagiellon kings 5 kilometres north — a companion to Wilanów's more personal residential character and the natural pairing for a Warsaw castle day. [Wawel Castle in Kraków](/castles/poland/wawel-castle), 300 kilometres south, was the seat of Polish kings for 500 years before Warsaw replaced Kraków as capital in 1596. [Malbork Castle](/castles/poland/malbork-castle), 350 kilometres north in the Pomeranian lowlands, is the largest Gothic brick castle complex in the world — the former seat of the Teutonic Knights and a wholly different architectural tradition from Wilanów's Baroque self-expression.",
+  "history": "1677: King John III Sobieski purchases the manor of Milanów south of Warsaw and begins construction of his summer palace with architect Agostino Locci. 1683: Battle of Vienna — Sobieski's cavalry charge relieves the Ottoman siege; he becomes the most celebrated military figure in Catholic Europe. 1677–1696: Palace built in its original two-storey Baroque form with the sculptural facade program. 1696: Sobieski dies; palace passes to the Sieniawska family. Early 18th century: Elżbieta Sieniawska adds flanking wings; the palace takes its present external form. Mid-18th century: Czartoryski and Lubomirski families add Rococo and Neoclassical interior elements and extend the garden. 1799: Potocki family acquires the palace. 1805: Stanisław Kostka Potocki opens the palace to the public as one of the first art museums in Poland. 1944–1945: German forces destroy most of Warsaw; Wilanów Palace survives structurally intact, used as a residence by German officials. Post-1945: Polish state takes ownership; conservation and restoration; reopened as national museum. Present day: Administered by the Museum of King John III's Palace at Wilanów; open Tuesday–Sunday.",
+  "how_to_visit": "**From Warsaw city centre:** Approximately 20 minutes by car (8km south) or 40 minutes by public bus (lines 116, 180, 519 from city centre — check Warsaw ZTM for current schedules). The palace is not on the metro network.\n\n**GYG 2-hour guided tour with entrance tickets (~$92, t405959, 4.8★/8 reviews):** Guided interior tour of the main apartments with tickets included. Departs from Warsaw. The $92 covers guide service plus palace entry.\n\n**Combine with:** The Wilanów district itself has a pleasant village-centre atmosphere around the palace grounds. The garden admission is separate from the palace and often ticketed independently — check current pricing on arrival.",
+  "faqs": [
+    {
+      "question": "How did Wilanów survive World War II when most of Warsaw was destroyed?",
+      "answer": "Unlike the Royal Castle, the Old Town, and most of Warsaw's historic architecture — which were deliberately bombed, burned, and dynamited by German forces in 1944–1945 — Wilanów was used by German occupation authorities as a residence for senior officials, which provided a degree of protection against systematic destruction. This was not a principled act of preservation; it was incidental protection from administrative occupation. The palace survived damaged but structurally intact and was transferred to the Polish state after the war. The Royal Castle, by contrast, was dynamited in December 1944 on orders from the German high command; its current form is a postwar reconstruction."
+    },
+    {
+      "question": "What was the Battle of Vienna and why did it make Sobieski famous?",
+      "answer": "On September 12, 1683, a coalition force under King John III Sobieski relieved the two-month Ottoman siege of Vienna — the Habsburg capital — in a battle that represented the Ottoman Empire's furthest successful penetration into Central Europe. Sobieski commanded the largest cavalry charge of the era, sending roughly 20,000 Polish Winged Hussars and allied cavalry down the slopes of the Kahlenberg into the Ottoman rear, breaking the siege in a single afternoon. The Ottoman Grand Vizier Kara Mustafa Pasha fled; the Ottoman army never again reached this far west. Pope Innocent XI wrote directly to Sobieski to thank him; he received the Latin honorific 'defender of the faith' and was celebrated in portrait painting across Catholic Europe. Wilanów Palace was built during and immediately after the years of this fame — the sculptural program on its facade is partly a record of his self-understanding as the hero of Vienna."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wilanow-palace.webp",
+    "alt": "Wilanów Palace — the Baroque summer palace of King John III Sobieski, the 'Versailles of Warsaw', with its formal Italian garden and sculptural facade, southern Warsaw, Poland",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wilanow-palace.webp",
+  "instagram_tag": "#wilanowpalace",
+  "meta_title": "Wilanów Palace Warsaw: The 'Versailles of Poland' — Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Wilanów Palace — Warsaw's intact Baroque royal palace built by King John III Sobieski, hero of the 1683 Battle of Vienna. One of the first public art museums in Poland. Guided tours from $92.",
+  "tags": [
+    "poland",
+    "warsaw",
+    "palace",
+    "baroque",
+    "royal",
+    "sobieski",
+    "wilanow",
+    "museum",
+    "gardens"
+  ],
+  "last_updated": "2026-07-21",
+  "routes": [],
+  "nearby_castles": [
+    "royal-castle-warsaw",
+    "wawel-castle",
+    "malbork-castle"
+  ],
+  "gyg_location_id": "41",
+  "gyg_search_query": "Wilanów Palace guided tour Warsaw",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "405959",
+      "title": "Wilanów Palace: 2-Hour Guided Tour with Entrance Tickets",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 92,
+      "rating": 4.8,
+      "reviews": 8,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/warsaw-l41/wilanow-palace-2-hour-guided-tour-with-entrance-tickets-t405959/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "wilanow-palace"
+      ],
+      "note": "Confirmed genuine guided interior visit — palace entrance tickets included in the $92 price. GYG Includes line explicitly lists entrance fee plus professional guide for a 2-hour circuit of the main apartments."
+    }
+  ],
+  "gyg_direct_link_override": true
+}

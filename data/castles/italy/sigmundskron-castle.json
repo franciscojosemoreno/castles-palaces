@@ -84,7 +84,9 @@
   ],
   "last_updated": "2026-07-12",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "bruneck-castle"
+  ],
   "gyg_location_id": "2145",
   "gyg_search_query": "Sigmundskron Castle Bolzano Messner Mountain Museum",
   "gyg_widget_type": "activities",
@@ -100,7 +102,9 @@
       "reviews": 11,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/bolzano-l2145/bolzano-messner-mountain-museum-firmian-entry-ticket-t973917/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["sigmundskron-castle"]
+      "covers_castles": [
+        "sigmundskron-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true
