@@ -183,6 +183,7 @@ export default async function TourPage({ params }: Props) {
                         {stop.castle_id ? (
                           <Link
                             href={`/castles/${tour.visited_countries[0]}/${stop.castle_id}`}
+                            prefetch={false}
                             className="font-serif font-bold text-lg text-[#1761a0] hover:text-[#c9a84c] transition-colors"
                           >
                             {stop.castle_name}

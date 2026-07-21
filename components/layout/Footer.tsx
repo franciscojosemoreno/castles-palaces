@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="md:col-span-1">
-            <Link href="/" className="inline-block mb-4">
+            <Link href="/" prefetch={false} className="inline-block mb-4">
               <span className="font-serif text-xl font-bold text-white tracking-tight">
                 Castles <span className="text-[#c9a84c]">&amp;</span> Palaces
               </span>
@@ -30,36 +30,36 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold text-sm mb-4 uppercase tracking-wider">Explore</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/castles" className="hover:text-[#c9a84c] transition-colors">All Castles</Link></li>
-              <li><Link href="/tours" className="hover:text-[#c9a84c] transition-colors">Castle Tours</Link></li>
-              <li><Link href="/map" className="hover:text-[#c9a84c] transition-colors">Castle Map</Link></li>
-              <li><Link href="/quiz" className="hover:text-[#c9a84c] transition-colors">Castle Quiz</Link></li>
+              <li><Link href="/castles" prefetch={false} className="hover:text-[#c9a84c] transition-colors">All Castles</Link></li>
+              <li><Link href="/tours" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Tours</Link></li>
+              <li><Link href="/map" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Map</Link></li>
+              <li><Link href="/quiz" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Quiz</Link></li>
             </ul>
           </div>
 
           <div>
             <h3 className="text-white font-semibold text-sm mb-4 uppercase tracking-wider">By Country</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/castles/england" className="hover:text-[#c9a84c] transition-colors">England</Link></li>
-              <li><Link href="/castles/france" className="hover:text-[#c9a84c] transition-colors">France</Link></li>
-              <li><Link href="/castles/germany" className="hover:text-[#c9a84c] transition-colors">Germany</Link></li>
-              <li><Link href="/castles/scotland" className="hover:text-[#c9a84c] transition-colors">Scotland</Link></li>
-              <li><Link href="/castles/spain" className="hover:text-[#c9a84c] transition-colors">Spain</Link></li>
-              <li><Link href="/castles/italy" className="hover:text-[#c9a84c] transition-colors">Italy</Link></li>
-              <li><Link href="/castles/portugal" className="hover:text-[#c9a84c] transition-colors">Portugal</Link></li>
-              <li><Link href="/castles/austria" className="hover:text-[#c9a84c] transition-colors">Austria</Link></li>
-              <li><Link href="/castles/czech-republic" className="hover:text-[#c9a84c] transition-colors">Czech Republic</Link></li>
-              <li><Link href="/castles/romania" className="hover:text-[#c9a84c] transition-colors">Romania</Link></li>
-              <li><Link href="/castles/san-marino" className="hover:text-[#c9a84c] transition-colors">San Marino</Link></li>
-              <li><Link href="/castles/monaco" className="hover:text-[#c9a84c] transition-colors">Monaco</Link></li>
+              <li><Link href="/castles/england" prefetch={false} className="hover:text-[#c9a84c] transition-colors">England</Link></li>
+              <li><Link href="/castles/france" prefetch={false} className="hover:text-[#c9a84c] transition-colors">France</Link></li>
+              <li><Link href="/castles/germany" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Germany</Link></li>
+              <li><Link href="/castles/scotland" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Scotland</Link></li>
+              <li><Link href="/castles/spain" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Spain</Link></li>
+              <li><Link href="/castles/italy" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Italy</Link></li>
+              <li><Link href="/castles/portugal" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Portugal</Link></li>
+              <li><Link href="/castles/austria" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Austria</Link></li>
+              <li><Link href="/castles/czech-republic" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Czech Republic</Link></li>
+              <li><Link href="/castles/romania" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Romania</Link></li>
+              <li><Link href="/castles/san-marino" prefetch={false} className="hover:text-[#c9a84c] transition-colors">San Marino</Link></li>
+              <li><Link href="/castles/monaco" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Monaco</Link></li>
             </ul>
           </div>
 
           <div>
             <h3 className="text-white font-semibold text-sm mb-4 uppercase tracking-wider">Site</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/about" className="hover:text-[#c9a84c] transition-colors">About</Link></li>
-              <li><Link href="/contact" className="hover:text-[#c9a84c] transition-colors">Contact</Link></li>
+              <li><Link href="/about" prefetch={false} className="hover:text-[#c9a84c] transition-colors">About</Link></li>
+              <li><Link href="/contact" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Contact</Link></li>
             </ul>
           </div>
         </div>

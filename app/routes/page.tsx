@@ -26,6 +26,7 @@ export default function RoutesPage() {
           <Link
             key={route.id}
             href={`/routes/${route.id}`}
+            prefetch={false}
             className="group relative aspect-[4/3] rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow"
           >
             <Image

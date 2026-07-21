@@ -10,6 +10,7 @@ export default function TourCountryCard({ country }: TourCountryCardProps) {
   return (
     <Link
       href={`/tours/${country.slug}`}
+      prefetch={false}
       className="group relative aspect-square rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow"
     >
       <Image

@@ -30,7 +30,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
 
           {/* Logo */}
-          <Link href="/" className="flex items-center">
+          <Link href="/" prefetch={false} className="flex items-center">
             <Image
               src="/images/logo.png"
               alt="Castles & Palaces"
@@ -43,19 +43,19 @@ export default function Header() {
 
           {/* ── Desktop nav ── */}
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium">
-            <Link href="/castles" className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
+            <Link href="/castles" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
               Castles
             </Link>
-            <Link href="/tours" className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
+            <Link href="/tours" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
               Tours
             </Link>
-            <Link href="/map" className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
+            <Link href="/map" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
               Map
             </Link>
-            <Link href="/quiz" className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
+            <Link href="/quiz" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
               Quiz
             </Link>
-            <Link href="/about" className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
+            <Link href="/about" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
               About
             </Link>
 
@@ -127,11 +127,11 @@ export default function Header() {
         {/* Mobile menu drawer */}
         {menuOpen && (
           <div className="md:hidden border-t border-stone-100 py-4 flex flex-col gap-4 text-sm font-medium">
-            <Link href="/castles" onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Castles</Link>
-            <Link href="/tours" onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Tours</Link>
-            <Link href="/map" onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Map</Link>
-            <Link href="/quiz" onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Quiz</Link>
-            <Link href="/about" onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">About</Link>
+            <Link href="/castles" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Castles</Link>
+            <Link href="/tours" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Tours</Link>
+            <Link href="/map" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Map</Link>
+            <Link href="/quiz" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Quiz</Link>
+            <Link href="/about" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">About</Link>
           </div>
         )}
       </div>

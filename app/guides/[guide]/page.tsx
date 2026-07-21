@@ -186,6 +186,7 @@ export default async function GuidePage({ params }: PageProps) {
                     <li key={g.id}>
                       <Link
                         href={`/guides/${g.id}`}
+                        prefetch={false}
                         className="text-sm text-stone-700 hover:text-[#c9a84c] transition-colors leading-snug block"
                       >
                         {g.title} →

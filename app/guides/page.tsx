@@ -30,6 +30,7 @@ export default function GuidesPage() {
             <Link
               key={guide.id}
               href={`/guides/${guide.id}`}
+              prefetch={false}
               className="group block bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-stone-100"
             >
               <div className="relative aspect-[16/9] overflow-hidden">

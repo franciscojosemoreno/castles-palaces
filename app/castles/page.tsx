@@ -32,6 +32,7 @@ export default function CastlesIndexPage() {
           <Link
             key={country.slug}
             href={`/castles/${country.slug}`}
+            prefetch={false}
             className="inline-flex items-center px-3 py-1.5 rounded-full text-sm border border-stone-200 bg-white hover:border-[#c9a84c] hover:text-[#c9a84c] transition-colors"
           >
             {country.name}

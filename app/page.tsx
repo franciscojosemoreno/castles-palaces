@@ -61,6 +61,7 @@ export default function HomePage() {
           </p>
           <Link
             href="/castles"
+            prefetch={false}
             className="inline-block bg-[#c9a84c] text-[#1761a0] font-bold text-lg px-8 py-3 rounded-md hover:bg-[#b8973b] transition-colors shadow-lg"
           >
             Explore All Castles
@@ -76,7 +77,7 @@ export default function HomePage() {
               <p className="text-[#c9a84c] font-medium text-sm uppercase tracking-wider mb-1">Editor&apos;s Picks</p>
               <h2 className="font-serif text-3xl font-bold text-[#1761a0]">Featured Castles</h2>
             </div>
-            <Link href="/castles" className="text-sm font-medium text-[#1761a0] hover:text-[#c9a84c] transition-colors hidden sm:block">
+            <Link href="/castles" prefetch={false} className="text-sm font-medium text-[#1761a0] hover:text-[#c9a84c] transition-colors hidden sm:block">
               View all →
             </Link>
           </div>
@@ -86,7 +87,7 @@ export default function HomePage() {
             ))}
           </div>
           <div className="text-center mt-8 sm:hidden">
-            <Link href="/castles" className="text-sm font-medium text-[#1761a0] hover:text-[#c9a84c]">
+            <Link href="/castles" prefetch={false} className="text-sm font-medium text-[#1761a0] hover:text-[#c9a84c]">
               View all castles →
             </Link>
           </div>
@@ -105,6 +106,7 @@ export default function HomePage() {
               <Link
                 key={country.slug}
                 href={`/castles/${country.slug}`}
+                prefetch={false}
                 className="group relative aspect-square rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow"
               >
                 <Image
@@ -138,6 +140,7 @@ export default function HomePage() {
             </div>
             <Link
               href="/tours"
+              prefetch={false}
               className="text-sm font-medium text-[#1761a0] hover:text-[#c9a84c] transition-colors hidden sm:block"
             >
               All tours →
@@ -151,6 +154,7 @@ export default function HomePage() {
           <div className="text-center mt-8 sm:hidden">
             <Link
               href="/tours"
+              prefetch={false}
               className="inline-block text-sm font-medium text-[#1761a0] hover:text-[#c9a84c] transition-colors"
             >
               View all tours →
