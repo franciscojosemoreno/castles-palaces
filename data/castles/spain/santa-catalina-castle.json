@@ -82,7 +82,7 @@
     "olive-oil",
     "off-beaten"
   ],
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-30",
   "routes": [],
   "nearby_castles": [
     "palacio-vela-de-los-cobos"
@@ -91,6 +91,22 @@
   "gyg_search_query": "Jaén castle Castillo Santa Catalina tours",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [],
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1405873",
+      "title": "Santa Catalina Castle Entry Ticket with Audio Guide",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 11,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/jaen-spain-l2875/santa-catalina-castle-entry-ticket-with-audio-guide-t1405873/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "santa-catalina-castle"
+      ],
+      "note": "Direct entry ticket to Santa Catalina Castle with self-guided audio guide, including access to the castle and the Interpretation Centre. Listed at $11 current price (down from $13). New activity — 0 reviews, rating not displayed. Free cancellation; reserve now, pay later; wheelchair accessible."
+    }
+  ],
+  "gyg_direct_link_override": true
 }
