@@ -69,12 +69,21 @@
   "instagram_tag": "#hradkost",
   "meta_title": "Kost Castle: Gothic Fortress Never Conquered in Bohemian Paradise — Czech Republic Guide 2026",
   "meta_description": "Visit Kost Castle in the Bohemian Paradise — a 14th-century Gothic fortress hidden among three valleys, never conquered, with the 32m White Tower. Day trip from Prague. From €8.",
-  "tags": ["czech-republic", "bohemia", "bohemian-paradise", "castle", "gothic", "never-conquered", "geopark"],
+  "tags": [
+    "czech-republic",
+    "bohemia",
+    "bohemian-paradise",
+    "castle",
+    "gothic",
+    "never-conquered",
+    "geopark"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
     "prague-castle",
-    "kokorin-castle"
+    "kokorin-castle",
+    "hruba-skala-chateau"
   ],
   "gyg_location_id": "10",
   "gyg_search_query": "Kost Castle Bohemian Paradise day trip Prague",
@@ -91,7 +100,9 @@
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/prague-l10/prague-bohemian-paradise-and-kost-castle-day-trip-t976544/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["kost-castle"]
+      "covers_castles": [
+        "kost-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true
