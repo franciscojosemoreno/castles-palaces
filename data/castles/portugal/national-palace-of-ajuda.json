@@ -77,7 +77,7 @@
     "unfinished",
     "state-ceremonies"
   ],
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-31",
   "routes": [],
   "nearby_castles": [
     "castelo-sao-jorge",
@@ -103,6 +103,21 @@
         "national-palace-of-ajuda"
       ],
       "booking_url_override": "https://www.getyourguide.com/lisbon-l42/lisbon-e-ticket-to-national-palace-of-ajuda-t513694/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    },
+    {
+      "tour_id": "434276",
+      "title": "Lisbon: Ajuda National Palace Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "Self-paced",
+      "price_from": 17,
+      "rating": 4.5,
+      "reviews": 96,
+      "is_top_pick": false,
+      "covers_castles": [
+        "national-palace-of-ajuda"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/lisbon-l42/lisbon-ajuda-national-palace-entry-ticket-t434276/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "note": "Official GYG direct ticket (GetYourGuide Tours & Tickets GmbH). Valid on selected date, explore at own pace. 4.5★ / 96 reviews."
     }
   ]
 }

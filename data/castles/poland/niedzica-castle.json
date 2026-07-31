@@ -79,7 +79,9 @@
   ],
   "last_updated": "2026-07-08",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "czorsztyn-castle"
+  ],
   "gyg_location_id": "218093",
   "gyg_direct_link_override": true,
   "gyg_search_query": "Niedzica Castle Dunajec rafting Pieniny day trip",
