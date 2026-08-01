@@ -660,6 +660,24 @@
     }
   },
   {
+    "slug": "moldova",
+    "name": "Moldova",
+    "description": "One of Europe's least-visited countries, Moldova preserves a dramatic medieval heritage along the Dniester River — most famously the round stone fortress of Soroca, built by Stephen the Great in 1499 and rebuilt into its distinctive circular bastioned form in the 1540s under Petru Rareș. Between forested valleys and river bluffs, Moldova's fortifications tell the story of a small principality that stood between the Ottoman Empire, the Polish-Lithuanian Commonwealth, and the Crimean Khanate.",
+    "hero_image": {
+      "url": "/images/countries/moldova.webp",
+      "alt": "Soroca Fortress (Cetatea Soroca) on the Dniester River, northern Moldova — the round stone fortress of Stephen the Great",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "soroca-fortress"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/moldova-thumb.webp",
+      "alt": "Soroca Fortress on the Dniester River, northern Moldova"
+    }
+  },
+  {
     "slug": "monaco",
     "name": "Monaco",
     "description": "The world's most densely populated sovereign state, Monaco has been governed by the same family since a disguised monk opened the fortress gate in 1297. The Prince's Palace on Le Rocher — the limestone rock above the harbor — is the seat of the Grimaldi dynasty, Europe's oldest reigning house, and the most continuously inhabited royal residence in the world. Open to visitors from late March to mid-October.",
