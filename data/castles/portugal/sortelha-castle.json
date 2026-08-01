@@ -83,7 +83,8 @@
   "nearby_castles": [
     "marvao-castle",
     "monsaraz-castle",
-    "obidos-castle"
+    "obidos-castle",
+    "belmonte-castle"
   ],
   "gyg_location_id": "198884",
   "gyg_search_query": "Sortelha Castle Portugal historic village Beira Interior",
@@ -100,7 +101,9 @@
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/castelo-branco-l198884/from-covilha-private-tour-sortelha-belmonte-and-monsanto-t1230456/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["sortelha-castle"]
+      "covers_castles": [
+        "sortelha-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true
