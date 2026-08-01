@@ -1,5 +1,5 @@
 {
-  "id": "belmonte-castle",
+  "id": "belmonte-castle-portugal",
   "name": "Belmonte Castle",
   "local_name": "Castelo de Belmonte",
   "type": "castle",
@@ -61,14 +61,14 @@
     }
   ],
   "hero_image": {
-    "url": "/images/castles/belmonte-castle.webp",
+    "url": "/images/castles/belmonte-castle-portugal.webp",
     "alt": "Belmonte Castle (Castelo de Belmonte) above the Serra da Estrela foothills, Centro Portugal — the medieval castle of Dom Dinis and the Cabral family, birthplace of Pedro Álvares Cabral, discoverer of Brazil",
     "credit": "Castles & Palaces",
     "width": 1600,
     "height": 1067
   },
   "gallery": [],
-  "og_image": "/images/castles/belmonte-castle.webp",
+  "og_image": "/images/castles/belmonte-castle-portugal.webp",
   "instagram_tag": "#casteloDeBelmonte",
   "meta_title": "Belmonte Castle: Birthplace of Brazil's Discoverer & Portugal's Crypto-Jewish Heritage — Visitor Guide 2026",
   "meta_description": "Visit Belmonte Castle — birthplace of Pedro Álvares Cabral (discoverer of Brazil), home to Portugal's crypto-Jewish community, and a Dom Dinis medieval fortress below the Serra da Estrela. From $2.",
@@ -106,7 +106,7 @@
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/lisbon-l42/from-lisbon-serra-da-estrela-and-monsanto-t919880/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
-        "belmonte-castle"
+        "belmonte-castle-portugal"
       ],
       "note": "Full-day tour from Lisbon (12 hours) covering Serra da Estrela (weather-dependent mountain access — some reviewers report Serra da Estrela closed on their visit day), Manteigas, Belmonte (admission to Belmonte Castle included), and Monsanto. Optional regional lunch. Ambitious multi-stop itinerary — read reviews for current guide and itinerary experience. 4.4★ / 16 reviews."
     }
