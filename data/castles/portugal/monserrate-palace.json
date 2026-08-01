@@ -88,7 +88,8 @@
   "nearby_castles": [
     "pena-palace",
     "castle-of-the-moors",
-    "quinta-da-regaleira"
+    "quinta-da-regaleira",
+    "seteais-palace"
   ],
   "gyg_location_id": "99",
   "gyg_search_query": "Sintra Monserrate Palace park ticket",
@@ -105,7 +106,9 @@
       "reviews": 1349,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/sintra-l99/sintra-monserrate-palace-park-ticket-t156750/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["monserrate-palace"]
+      "covers_castles": [
+        "monserrate-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

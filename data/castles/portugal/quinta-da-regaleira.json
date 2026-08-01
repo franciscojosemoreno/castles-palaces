@@ -73,13 +73,23 @@
   "instagram_tag": "#quintadaregaleira",
   "meta_title": "Quinta da Regaleira Sintra: Initiation Well & Esoteric Palace Guide 2026",
   "meta_description": "Visit Quinta da Regaleira in Sintra — a Gothic-Revival palace with a 27-metre spiral Initiation Well and underground tunnels. UNESCO listed. Entry from €10. Skip-the-line from $34.",
-  "tags": ["portugal", "sintra", "palace", "gothic-revival", "esoteric", "unesco", "manueline", "initiation-well"],
+  "tags": [
+    "portugal",
+    "sintra",
+    "palace",
+    "gothic-revival",
+    "esoteric",
+    "unesco",
+    "manueline",
+    "initiation-well"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
     "pena-palace",
     "castle-of-the-moors",
-    "monserrate-palace"
+    "monserrate-palace",
+    "seteais-palace"
   ],
   "gyg_location_id": "99",
   "gyg_search_query": "Quinta da Regaleira Sintra skip-the-line ticket",
@@ -96,7 +106,9 @@
       "reviews": 2192,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/sintra-l99/sintraquinta-da-regaleira-skip-the-line-ticket-with-host-t464077/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["quinta-da-regaleira"]
+      "covers_castles": [
+        "quinta-da-regaleira"
+      ]
     }
   ],
   "gyg_direct_link_override": true

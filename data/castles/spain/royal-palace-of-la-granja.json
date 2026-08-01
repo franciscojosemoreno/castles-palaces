@@ -11,7 +11,7 @@
   "region": "Castile and León, Segovia — 11km south of Segovia city",
   "nearest_city": "Segovia",
   "address": "Plaza de España 15, 40100 La Granja de San Ildefonso, Segovia, Spain",
-  "lat": 40.900,
+  "lat": 40.9,
   "lng": -4.016,
   "unesco": false,
   "year_built": 1721,
@@ -69,11 +69,21 @@
   "instagram_tag": "#lagranjasanildefonso",
   "meta_title": "Royal Palace of La Granja de San Ildefonso: Spain's Versailles — Visitor Guide 2026",
   "meta_description": "Visit La Granja de San Ildefonso near Segovia — Philip V's French Baroque palace with 26 monumental fountains. Entry from €10. 11km from the Alcázar of Segovia.",
-  "tags": ["spain", "castile-leon", "segovia", "palace", "baroque", "bourbon", "versailles", "fountains"],
+  "tags": [
+    "spain",
+    "castile-leon",
+    "segovia",
+    "palace",
+    "baroque",
+    "bourbon",
+    "versailles",
+    "fountains"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
-    "alcazar-of-segovia"
+    "alcazar-of-segovia",
+    "monterrey-palace"
   ],
   "gyg_location_id": "50",
   "gyg_search_query": "La Granja San Ildefonso palace tour Segovia",
@@ -90,7 +100,9 @@
       "reviews": 49,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/segovia-l50/la-granja-de-san-ildefonso-t399085/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["royal-palace-of-la-granja"]
+      "covers_castles": [
+        "royal-palace-of-la-granja"
+      ]
     }
   ],
   "gyg_direct_link_override": true

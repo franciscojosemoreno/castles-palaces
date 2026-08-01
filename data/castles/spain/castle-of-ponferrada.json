@@ -82,7 +82,9 @@
   ],
   "last_updated": "2026-07-09",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "monterrey-palace"
+  ],
   "gyg_location_id": "98421",
   "gyg_search_query": "Ponferrada Castle Knights Templar tour Spain",
   "gyg_widget_type": "activities",
