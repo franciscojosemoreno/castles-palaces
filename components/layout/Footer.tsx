@@ -53,6 +53,7 @@ export default function Footer() {
               <li><Link href="/castles/san-marino" prefetch={false} className="hover:text-[#c9a84c] transition-colors">San Marino</Link></li>
               <li><Link href="/castles/moldova" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Moldova</Link></li>
               <li><Link href="/castles/monaco" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Monaco</Link></li>
+              <li><Link href="/castles/jersey" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Jersey</Link></li>
             </ul>
           </div>
 
