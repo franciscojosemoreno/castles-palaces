@@ -1,0 +1,114 @@
+{
+  "id": "clam-gallas-palace",
+  "name": "Clam-Gallas Palace",
+  "local_name": "Palác Clam-Gallasů",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 50000,
+  "country": "czech-republic",
+  "region": "Bohemia — Prague, Old Town (Staré Město), Husova Street",
+  "nearest_city": "Prague",
+  "address": "Palác Clam-Gallasů, Husova 20, 110 00 Praha 1, Czech Republic",
+  "lat": 50.0872,
+  "lng": 14.4202,
+  "unesco": false,
+  "year_built": 1713,
+  "architectural_style": "Viennese High Baroque palace, 1713–1719, designed by Johann Bernhard Fischer von Erlach — the Clam-Gallas Palace is the only secular residential building designed by Fischer von Erlach (1656–1723) in Bohemia; Fischer was the pre-eminent Baroque architect of the Habsburg sphere, responsible for the Schönbrunn Palace project, the Vienna Hofburg additions, and the Karlskirche; at Clam-Gallas he produced a monumental urban palazzo whose primary architectural statement is the ceremonial entrance portal (two competing pairs of Hercules atlas figures by Matyáš Bernard Braun) and the grand ceremonial staircase rising from the arcaded courtyard; the palace's four wings enclose an internal courtyard with a restored well; the principal floor (piano nobile) is distributed across a sequence of state rooms whose ceiling frescoes were painted by Carlo Carlone between 1727 and 1730; the rooms include the Golden Hall (Zlatý sál), the Turquoise Hall (Tyrkysový sál), the Marble Hall (Mramorový sál), the Chinese Lounge (Čínský salónek), and the later winter-garden rooms added in the 19th century; the palace facade on Husova Street presents the characteristic Viennese High Baroque idiom: giant pilasters, rusticated base, and the portal sculptures that are the single most photographed element of the building",
+  "opening_hours": {
+    "monday": "closed",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Open Tuesday–Sunday; closed Monday. The palace functions as the Prague City Archive (Archiv hlavního města Prahy); the historic interiors of the piano nobile are open for self-guided visits with optional audio guide. Temporary exhibitions may modify access to certain rooms; confirm current access at muzeumprahy.cz before visiting. The GYG entry ticket (t526046) includes admission and audio guide kit."
+  },
+  "price_adult": 200,
+  "price_child": 100,
+  "price_currency": "CZK",
+  "booking_required": false,
+  "official_tickets_url": "https://www.muzeumprahy.cz/clam-gallasuv-palac",
+  "visit_duration": "1–2 hours (the ceremonial staircase, all principal state rooms of the piano nobile including the Golden Hall, Turquoise Hall, Marble Hall, and Chinese Lounge, plus the courtyard)",
+  "best_season": "Year-round — the palace's interior is climate-controlled and unaffected by weather. Prague's Old Town is most pleasant in spring (April–May) and autumn (September–October); summer brings significant tourist volumes to the Old Town but the palace remains quieter than major attractions.",
+  "accessibility": "The palace entrance and ground floor courtyard are accessible. The piano nobile (main state rooms) is reached via the grand ceremonial staircase, which involves approximately 30 steps. The rooms themselves are at one level. Limited wheelchair accessibility; confirm specific requirements before visiting.",
+  "booking_advance_days": 0,
+  "tagline": "Prague's greatest Baroque palace — where Fischer von Erlach's ceremonial staircase rises beneath Carlone's ceiling frescoes and Braun's Hercules figures guard the portal on Husova Street, all for the price of a museum ticket",
+  "highlights": [
+    "Fischer von Erlach's only Bohemian palace — the Viennese Baroque master in Prague — Johann Bernhard Fischer von Erlach (1656–1723) was the defining architect of the Habsburg Baroque: responsible for the original Schönbrunn Palace project, the Vienna Hofburg additions, the Karlskirche, and the national library; the Clam-Gallas Palace is the only urban residential building he designed outside Vienna and the Habsburg court's immediate sphere; the commission came from Jan Václav Gallas, Count of Campo and Imperial Field Marshal, who wanted a palace in Prague's Old Town commensurate with his status and with the grandeur of the Viennese court palaces he frequented; Fischer produced a building that introduced the Viennese High Baroque vocabulary — the giant pilasters, the dramatically sculpted portal, the ceremonial staircase — into a Bohemian urban context where nothing quite like it had previously existed",
+    "Braun's Hercules portal sculptures — the most theatrical doorway in Prague — the primary approach to the Clam-Gallas Palace from Husova Street passes between two pairs of Hercules atlas figures sculpted by Matyáš Bernard Braun (1684–1738), the pre-eminent Baroque sculptor in Bohemia; the four figures strain under the weight of the portal entablature in attitudes of concentrated muscular effort — a Baroque convention for portal sculpture that presents the act of entering a noble palace as supported by semi-divine physical power; Braun was simultaneously working on the sculptural programmes for the Charles Bridge and the Garden of Kuks Hospital during this period; the Clam-Gallas portal figures are his most concentrated statement in an urban architectural context, visible at close range from the pavement and at a scale that confronts rather than elevates the pedestrian",
+    "Carlone's ceiling frescoes and the sequence of state rooms — Baroque painted decoration in its completeness — the principal state rooms of the piano nobile preserve their original ceiling fresco cycle painted by Carlo Carlone between 1727 and 1730: allegorical compositions in the trompe-l'oeil tradition of Viennese Baroque fresco painting, depicting mythological and heraldic subjects appropriate to the Gallas family's imperial military status; the rooms — Golden Hall, Turquoise Hall, Marble Hall, Chinese Lounge — form a processional sequence from the ceremonial staircase landing through the apartment rooms, each with its fresco programme, its period stucco work, and its wall treatment; the Chinese Lounge reflects the period fashion for chinoiserie that simultaneously produced similar rooms in Schönbrunn and Charlottenburg; the sequence as a whole represents a remarkably intact survival of High Baroque residential decoration in a Bohemian urban palace",
+    "Prague City Archive and the palace's later history — from aristocratic residence to civic institution — the Clam-Gallas Palace passed through the Clam family (through the marriage of the last Gallas heiress to Christian Philipp von Clam) in the 18th century and remained in noble residential use into the 20th century; Czechoslovak President Edvard Beneš used the palace as a residence in the interwar period; after World War II, the palace was nationalised and eventually came under the management of the Prague City Archive (Archiv hlavního města Prahy), which occupies the building's working spaces while maintaining the piano nobile interiors as a museum open to visitors; the result is an active archive housed in a palace of world architectural significance — one of the stranger institutional situations in Central European heritage"
+  ],
+  "description": "The portal on Husova Street in Prague's Old Town is guarded by four figures of Hercules. They are muscular, strained, and enormous — each figure carries part of the entablature of the doorway on his shoulders in the Baroque convention for atlas sculpture, their effort so theatrical and their scale so dominating that the pedestrian approaching from either direction on Husova encounters them as confrontation rather than ornament. They are the work of Matyáš Bernard Braun, the greatest Baroque sculptor in Bohemia, carved between 1713 and 1716 for a palace whose architectural ambition they perfectly announce.\n\nThe Clam-Gallas Palace was commissioned by Jan Václav Gallas, Count of Campo and Imperial Field Marshal — one of the most powerful military figures in the Habsburg Empire at the time — who wanted a residence in Prague's Old Town equal to the palatial architecture he knew from Vienna. To design it, he hired Johann Bernhard Fischer von Erlach, the pre-eminent Baroque architect of the Habsburg sphere. Fischer had designed the original Schönbrunn Palace project, the Karlskirche in Vienna, the Hofbibliothek, and the Vienna Hofburg's ceremonial additions. The Clam-Gallas Palace is the only secular residential building he designed in Bohemia — his single contribution to Prague's architectural history — and it introduced the Viennese High Baroque vocabulary into a city that had been working with its own distinct Bohemian Baroque tradition.\n\nThe building plan is organised around an arcaded courtyard, from which the grand ceremonial staircase rises to the piano nobile. The staircase is the architectural centrepiece of the interior: a single flight under a painted vault, wide enough to constitute a room in itself, designed to give the act of ascending to a noble's state apartments the processional character that Baroque court culture required. At the top of the staircase, a sequence of state rooms opens from the landing: the Golden Hall (Zlatý sál), the Turquoise Hall (Tyrkysový sál), the Marble Hall (Mramorový sál), and the Chinese Lounge (Čínský salónek), each with its ceiling fresco programme painted by Carlo Carlone between 1727 and 1730.\n\nCarlone's frescoes are the interior equivalent of Braun's portal sculptures: allegorical compositions in the trompe-l'oeil tradition of Viennese Baroque ceiling painting, depicting mythological and heraldic subjects appropriate to the Gallas family's imperial military identity. The sequence of rooms moves from the formal grandeur of the Golden Hall through the more intimate painted decoration of the Turquoise Hall to the chinoiserie of the Chinese Lounge — a room that reflects the pan-European fashion for 'Chinese' ornament that simultaneously produced the Chinese rooms at Schönbrunn and Charlottenburg in the 1720s. The rooms as a whole represent one of the most intact surviving High Baroque residential interiors in Central Europe, undisturbed by the systematic 19th-century renovation that altered comparable palaces elsewhere.\n\nThe palace passed to the Clam family through the marriage of the last Gallas heiress and has been known as the Clam-Gallas Palace ever since. In the interwar period, Czechoslovak President Edvard Beneš used it as a residence. After World War II and nationalization, it came under the management of the Prague City Archive, which occupies the building's working spaces while maintaining the piano nobile as a museum open to visitors.\n\nThis institutional arrangement produces one of the stranger experiences in Central European cultural tourism: a palace of genuine world architectural significance — designed by the greatest Baroque architect of the Habsburg sphere, with portal sculptures by its greatest Baroque sculptor, and ceiling frescoes by a master of Baroque decorative painting — accessible for approximately the price of a cinema ticket. The GYG entry ticket (t526046, from $9) includes admission and audio guide, making this arguably the most underpriced major Baroque interior in Europe.\n\n[Prague Castle](/castles/czech-republic/prague-castle) — the sprawling hilltop complex across the Vltava that defines Prague's skyline and contains the Cathedral of St Vitus — is the essential companion for understanding the scale of Prague's architectural heritage. [Karlštejn Castle](/castles/czech-republic/karlstejn-castle) — the iconic 14th-century Gothic fortress 30km southwest — and [Český Krumlov Castle](/castles/czech-republic/cesky-krumlov-castle) extend the Bohemian castle circuit beyond the capital.",
+  "history": "1713: Construction of the Clam-Gallas Palace begun for Jan Václav Gallas, Count of Campo, Imperial Field Marshal; designed by Johann Bernhard Fischer von Erlach. 1713–1716: Portal Hercules atlas figures sculpted by Matyáš Bernard Braun. 1719: Main structure of the palace completed. 1727–1730: Ceiling frescoes painted by Carlo Carlone in the principal state rooms. Late 18th century: palace passes to the Clam family through marriage of the last Gallas heiress; renamed Clam-Gallas Palace. 19th century: continued aristocratic residence; minor interior modifications; Chinese Lounge and winter-garden rooms added. 1938–1945: Second World War and German Occupation; palace survives without major damage. 1918–1938 (interwar period): Used by President Edvard Beneš as a Prague residence. Post-1945: palace nationalised; eventually placed under management of the Prague City Archive (Archiv hlavního města Prahy). Present day: piano nobile open to visitors with entry ticket and audio guide; Prague City Archive occupies working spaces.",
+  "how_to_visit": "**GYG entry ticket with audio guide (~$9/person, t526046, valid 1 day):** Official Muzeum Prahy admission ticket to the Clam-Gallas Palace including the audio guide kit rental. Self-guided visit to all accessible state rooms of the piano nobile. 4.5★ / 148 reviews.\n\n**Independent visit:** Admission approximately 200 CZK; open Tuesday–Sunday 09:00–18:00. The palace is on Husova Street in Prague's Old Town, a 5-minute walk from the Old Town Square and immediately adjacent to the Old Town Hall. No dedicated parking; access by Metro (line A or B to Staroměstská) or on foot from the historic centre.\n\n**Visiting in context:** Combine with Prague Castle (a 20-minute walk or tram ride across the river — the full castle complex includes St Vitus Cathedral, the Royal Palace, and the Golden Lane) and the Old Town Square with the Astronomical Clock. The Charles Bridge, with its own programme of Baroque sculptures including other works by Braun, is a 5-minute walk toward the river.",
+  "faqs": [
+    {
+      "question": "What is the significance of the Hercules figures on the portal?",
+      "answer": "The four Hercules atlas figures flanking the entrance portal of the Clam-Gallas Palace were sculpted by Matyáš Bernard Braun (1684–1738), the leading Baroque sculptor in Bohemia, between approximately 1713 and 1716. They represent the Baroque convention for portal sculpture in which semi-divine figures support the weight of the entablature — presenting the act of entering a noble palace as sustained by superhuman power. Braun was working simultaneously on the Charles Bridge statues and the sculptures for the Kuks Hospital garden during this period; the Clam-Gallas portal figures are his most intense work in an urban architectural context. They are among the most photographed elements of Prague's Baroque heritage."
+    },
+    {
+      "question": "Who designed the Clam-Gallas Palace and why is that significant?",
+      "answer": "The Clam-Gallas Palace was designed by Johann Bernhard Fischer von Erlach (1656–1723), the pre-eminent Baroque architect of the Habsburg sphere. Fischer's other major works include the original Schönbrunn Palace project, the Karlskirche in Vienna, and the Vienna Hofbibliothek. The Clam-Gallas Palace is the only secular residential building he designed in Bohemia — his single architectural statement in Prague. This makes it architecturally exceptional: a building by a major European master in a city where he otherwise left no trace, introducing the Viennese High Baroque vocabulary into a Bohemian urban context."
+    },
+    {
+      "question": "What is the palace used for today?",
+      "answer": "The Clam-Gallas Palace is today the seat of the Prague City Archive (Archiv hlavního města Prahy), which occupies the palace's working spaces. The piano nobile — the principal state rooms including the Golden Hall, Turquoise Hall, Marble Hall, and Chinese Lounge, all with their original ceiling frescoes by Carlo Carlone — is open to visitors with an entry ticket and audio guide, managed by Muzeum Prahy. The result is an unusual institutional arrangement: an active municipal archive housed in one of the finest High Baroque palaces in Central Europe, with the historic rooms accessible at museum admission prices."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/clam-gallas-palace.webp",
+    "alt": "Clam-Gallas Palace (Palác Clam-Gallasů) on Husova Street in Prague Old Town — Fischer von Erlach's Baroque palace with Braun's Hercules portal sculptures, Prague, Czech Republic",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/clam-gallas-palace.webp",
+  "instagram_tag": "#clamgallaspalace",
+  "meta_title": "Clam-Gallas Palace Prague: Fischer von Erlach's Baroque Masterpiece — Visitor Guide 2026",
+  "meta_description": "Visit Clam-Gallas Palace in Prague — Fischer von Erlach's only Bohemian palace, with Braun's Hercules portal sculptures and Carlone's ceiling frescoes. Entry ticket with audio guide from $9.",
+  "tags": [
+    "czech-republic",
+    "prague",
+    "baroque",
+    "palace",
+    "fischer-von-erlach",
+    "braun",
+    "old-town",
+    "archive",
+    "frescoes"
+  ],
+  "last_updated": "2026-08-01",
+  "routes": [],
+  "nearby_castles": [
+    "prague-castle",
+    "cesky-krumlov-castle",
+    "karlstejn-castle"
+  ],
+  "gyg_location_id": "10",
+  "gyg_search_query": "Clam-Gallas Palace Prague Baroque entry ticket audio guide",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "526046",
+      "title": "Prague: Clam-Gallas Palace Entry Ticket with Audio Guide",
+      "type": "entry_ticket",
+      "duration": "1 day",
+      "price_from": 9,
+      "rating": 4.5,
+      "reviews": 148,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/prague-l10/prague-clam-gallas-palace-entry-ticket-t526046/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "clam-gallas-palace"
+      ],
+      "note": "Official Muzeum Prahy admission ticket. GYG Includes: 'Clam-Gallas Palace entry ticket,' audio guide kit rental, live guide option. type: entry_ticket (dedicated official admission). 4.5★ / 148 reviews → is_top_pick: false (< 4.8 per REGLA #3)."
+    }
+  ],
+  "gyg_direct_link_override": true
+}

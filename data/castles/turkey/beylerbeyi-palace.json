@@ -1,0 +1,114 @@
+{
+  "id": "beylerbeyi-palace",
+  "name": "Beylerbeyi Palace",
+  "local_name": "Beylerbeyi Sarayı",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 400000,
+  "country": "turkey",
+  "region": "Istanbul — Asian shore, Bosphorus waterfront, Beylerbeyi neighbourhood, Üsküdar district",
+  "nearest_city": "Istanbul",
+  "address": "Beylerbeyi Sarayı, Abdullah Ağa Cad., 34676 Üsküdar/İstanbul, Turkey",
+  "lat": 41.0429,
+  "lng": 29.0453,
+  "unesco": false,
+  "year_built": 1865,
+  "architectural_style": "Ottoman-European fusion palace, 1863–1865, commissioned by Sultan Abdülaziz — Beylerbeyi Palace is the finest expression of the Ottoman-European Eclectic style that emerged in the mid-19th century as the Ottoman court sought architectural forms that could articulate modernity and parity with European imperial courts while retaining distinctly Ottoman spatial and decorative elements; the palace was designed by Nikoğos Balyan and completed in 1865; the plan follows a European palace model — a three-storey main block with symmetrical flanking wings, formal reception rooms on the piano nobile, and service facilities below — while integrating Ottoman architectural conventions including the harem apartments, the selamlık (men's quarters), the hamam (Turkish bath), and the wooden kiosks in the waterfront gardens; the exterior is limestone ashlar with European Baroque ornamental vocabulary — quoins, balustrades, acanthus capitals, and arched windows — combined with Ottoman decorative motifs in the carved stone panels and the tile work of the hamam and service areas; the interior of the main reception rooms is equally hybrid: European-style gilded plasterwork ceilings and parquet floors combined with Ottoman mother-of-pearl inlay, monumental crystal chandeliers (gifts from the French court and the Emperor Napoleon III), and the distinctive Ottoman practice of multilateral room planning that avoids the strict axis of European Baroque state apartments; the palace's Bosphorus waterfront elevation — approached by boat in the 19th century, as the Bosphorus Bridge did not exist — was designed to impress arriving diplomats and heads of state from the water",
+  "opening_hours": {
+    "monday": "closed",
+    "tuesday": "closed",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–17:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Open Wednesday–Sunday (closed Monday and Tuesday). Last entry approximately 1 hour before closing. Hours are subject to change on public holidays and during official state functions; confirm at millisarayi.gov.tr before visiting. The GYG entry ticket (t1413373) is a self-guided visit ticket. The palace interior is accessible only by guided group tour (guides assigned at the entrance); solo independent self-guided walkthroughs are not offered — a group forms and tours together with a palace guide."
+  },
+  "price_adult": 500,
+  "price_child": 250,
+  "price_currency": "TRY",
+  "booking_required": false,
+  "official_tickets_url": "https://www.millisarayi.gov.tr/beylerbeyi-sarayi",
+  "visit_duration": "1.5–2 hours (the main reception rooms of the selamlık — the grand staircase, the main hall, the reception rooms with their chandeliers and mother-of-pearl inlay, the waterfront terrace view — plus the marble pool pavilion and the hamam; the harem apartments are included in the guided circuit)",
+  "best_season": "Spring (April–June) and autumn (September–November) for the most pleasant Bosphorus ambient conditions and the clearest views of the strait from the waterfront terrace. Summer is hot on the Asian shore; winter is mild but the gardens are less vivid. Weekday mornings offer fewer tour groups.",
+  "accessibility": "The palace involves multiple floors and staircase access between levels; limited wheelchair accessibility. The waterfront garden paths are level. The entry ticket (GYG t1413373) is a self-guided entry approach but palace visits are conducted with palace guides in groups — confirm current accessibility arrangements at millisarayi.gov.tr.",
+  "booking_advance_days": 1,
+  "tagline": "The Ottoman Empire's summer palace on the Asian shore of the Bosphorus — where Sultan Abdülaziz received Empress Eugénie, where Napoleon III's crystal chandeliers meet mother-of-pearl inlay, and where the strait's traffic is visible from the waterfront terrace",
+  "highlights": [
+    "The Ottoman-European fusion interior — the most ambitious hybrid palace of the Tanzimat era — Beylerbeyi Palace was completed in 1865 during the Ottoman Tanzimat reform period, when the court sought architectural forms that could demonstrate both modernity and cultural parity with the European imperial powers: the palace receives European royal guests, they must arrive at something that matches their expectations of palatial grandeur; the interior of Beylerbeyi achieves this with remarkable sophistication — the main reception rooms of the selamlık combine gilded European Baroque plasterwork ceilings with Ottoman mother-of-pearl inlay panels, European-style parquet floors with Ottoman blue and white tile work in the bath complex, and crystal chandeliers received as gifts from the French imperial court alongside carved stone panels in distinctly Ottoman ornamental registers; the result is not compromise but synthesis: a palace that is simultaneously recognisable to a European diplomat as 'palatial' and to an Ottoman court official as 'properly Ottoman'; the main hall's grand staircase, its marble floor, and the monumental chandeliers overhead are the visual centre of this synthesis",
+    "Empress Eugénie's 1869 visit — the palace as diplomatic reception space — the most famous guest in Beylerbeyi Palace's history is Empress Eugénie, wife of Napoleon III, who visited Istanbul in 1869 en route to the opening of the Suez Canal; her stay at Beylerbeyi Palace is documented in Ottoman court records and in French imperial accounts; the Empress is said to have admired the palace so much that she requested a portable version of one of the window frames — a story repeated on every guided tour; the visit was part of a broader European diplomatic circuit that used the palace as a demonstration of Ottoman imperial sophistication; Sultan Abdülaziz's gifts to the French imperial court — and the French court's reciprocal gifts, including the crystal chandeliers that still hang in the reception rooms — were the material residue of this diplomatic relationship; Empress Eugénie's visit placed Beylerbeyi in the same category of imperial reception palaces as Versailles, Schönbrunn, and Windsor",
+    "The Bosphorus Asian shore position — the view that the palace was built to offer — Beylerbeyi Palace stands on the Asian shore of the Bosphorus, 300 metres from the water, in the position that the Bosphorus Bridge (completed 1973, visible from the palace gardens) now spans overhead; in 1865 there was no bridge — the palace was approached by boat from the European shore, and its waterfront elevation was designed to impress arriving guests from the water; the waterfront terrace today provides a view over the Bosphorus strait that is among the most scenic in Istanbul: the European shore with its Ottoman minarets and 19th-century Pera facades, the traffic of the Bosphorus with its shipping lanes and ferries, and the suspension bridge overhead; the palace's position on the Asian shore also meant it served as a summer retreat for the Ottoman court — cooler than the Topkapı Palace in the city proper, accessible by boat across the strait, and surrounded by the gardens and kiosks that give the Beylerbeyi estate its spatial generosity",
+    "Sultan Abdülhamid II's gilded captivity — the palace as prison — the last act in Beylerbeyi Palace's active Ottoman history is the most unexpected: Sultan Abdülhamid II (1842–1918), deposed in the 1909 Young Turk revolution, spent his final years as a captive in the palace he had visited as a court member but never ruled from; the deposed sultan was confined at Beylerbeyi from 1912 until his death in 1918, living in the rooms designed for imperial reception in circumstances of comfortable but surveilled confinement; the rooms he occupied are included in the guided palace circuit; the detail of a deposed sultan confined in an empire's most elaborate summer palace — surrounded by the crystal chandeliers and mother-of-pearl inlay of his family's ambition, looking out at the Bosphorus — is the kind of historical irony that makes palace histories interesting"
+  ],
+  "description": "The Bosphorus Bridge — completed in 1973, its deck visible from the Beylerbeyi Palace gardens — didn't exist when Sultan Abdülaziz built this palace on the Asian shore in 1865. To reach it from the European side, you crossed by boat. The palace's waterfront elevation was designed to be seen from the water, approaching by caïque: a limestone facade with Baroque ornamental vocabulary, its three storeys rising from the Bosphorus bank, designed to impress arriving European diplomats and royal guests at the moment of landing.\n\nBeylerbeyi Palace was the Ottoman Empire's answer to a specific problem: how do you receive Empress Eugénie, or the Austro-Hungarian court, or any European power's representative, in a setting that meets their expectations of imperial grandeur while remaining distinctly Ottoman? The answer, as the court's preferred architect Nikoğos Balyan resolved it in 1863–65, was architectural synthesis rather than imitation. The main reception rooms of the selamlık combine gilded European Baroque plasterwork ceilings with Ottoman mother-of-pearl inlay panels, European parquet floors with Ottoman tile work in the bath complex, and crystal chandeliers received as diplomatic gifts from Napoleon III's court alongside carved stone decorative panels in Ottoman ornamental registers.\n\nThe most famous guest the palace received was Empress Eugénie herself, who visited in 1869 en route to the opening of the Suez Canal. Her stay at Beylerbeyi is documented in Ottoman court records and French imperial accounts; she reportedly found the palace so beautiful that she requested to take one of its window frames back to France. The crystal chandeliers that still hang in the main reception hall — gifts from the French imperial court — are the material residue of this relationship. The diplomatic circuit that brought Eugénie to Beylerbeyi also brought the palace's interior its most celebrated objects.\n\nThe palace's position on the Bosphorus Asian shore gave it its function as an imperial summer retreat: cooler than the Topkapı Palace in the city proper, accessible across the strait by boat, surrounded by waterfront gardens and wooden kiosks that made the estate feel different from the enclosed urban character of the older palace complex. The gardens contain two marble pool pavilions and the hamam (Turkish bath) attached to the main building — the Ottoman residential programme integrated into the European palace plan.\n\nThe last chapter of the palace's Ottoman history is its least triumphant. Sultan Abdülhamid II, deposed in the 1909 Young Turk revolution, spent his final years confined at Beylerbeyi — a captive in the palace he had visited as a court member but never ruled from. He died there in 1918. His rooms are included in the guided palace circuit.\n\nToday the palace is managed by the Turkish National Palaces Administration (Milli Saraylar). Visits are conducted with palace guides in groups — visitors purchase the entry ticket and join a group that tours the selamlık rooms and harem apartments together. The GYG entry ticket (t1413373, from $18) is the most straightforward booking approach for independent travellers.\n\n[Dolmabahçe Palace](/castles/turkey/dolmabahce-palace) — the vast European-style palace on the European shore of the Bosphorus, the primary Ottoman imperial residence from 1856 — is the architectural cousin and historical companion to Beylerbeyi, built by the same Balyan family architects in the same period. [Topkapı Palace](/castles/turkey/topkapi-palace) represents the older Ottoman court architecture that both Dolmabahçe and Beylerbeyi were designed to replace or supplement. [Yedikule Fortress](/castles/turkey/yedikule-fortress) extends Istanbul's Byzantine and Ottoman military heritage circuit.",
+  "history": "1829: first wooden summer palace (Beylerbeyi Kasrı) built on this site for Sultan Mahmud II; destroyed by fire. 1863–1865: current palace commissioned by Sultan Abdülaziz; designed by Nikoğos Balyan; completed 1865. 1869: Empress Eugénie of France visits Beylerbeyi en route to the opening of the Suez Canal; diplomatic gifts including crystal chandeliers exchanged between Ottoman and French imperial courts. 1876–1909: Beylerbeyi serves as Ottoman imperial summer palace and guest reception palace under Sultan Abdülhamid II. 1909: Abdülhamid II deposed in the Young Turk (Committee of Union and Progress) revolution. 1912–1918: deposed Sultan Abdülhamid II confined at Beylerbeyi Palace; dies there in 1918. 1924: palace comes under Turkish Republic state administration following abolition of the Ottoman sultanate. 1973: Bosphorus Bridge completed; visible from the palace gardens. Present day: managed by the Turkish National Palaces Administration (Milli Saraylar); open to visitors Wednesday–Sunday.",
+  "how_to_visit": "**GYG entry ticket (~$18/person, t1413373):** Self-guided purchase entry to Beylerbeyi Palace. Note: palace visits are conducted with palace guides in groups (guides assigned at the entrance) — visitors join a group and tour together; fully solo self-guided walkthroughs are not available inside the building. 0 reviews → rating: null, reviews: 0, is_top_pick: false.\n\n**Getting there from Istanbul's European side:** The most atmospheric approach is by ferry from Kabataş or Beşiktaş on the European shore to Üsküdar, then a 10-minute taxi or bus to the palace. Alternatively, cross the Bosphorus Bridge by taxi from the European side (approximately 20–30 minutes depending on traffic). The palace is directly beneath the Bosphorus Bridge on the Asian shore.\n\n**Combining with other Ottoman palaces:** Beylerbeyi + Dolmabahçe Palace makes a natural pairing — both are mid-19th-century Ottoman-European fusion palaces by the Balyan family on opposite shores of the Bosphorus. The combined visit gives the clearest picture of the Tanzimat-era Ottoman architectural ambition. Dolmabahçe is on the European shore, 15 minutes by ferry from Beylerbeyi's area. Topkapı Palace is 30 minutes by transit from the European shore.",
+  "faqs": [
+    {
+      "question": "What is the difference between Beylerbeyi Palace and Dolmabahçe Palace?",
+      "answer": "Both Beylerbeyi and Dolmabahçe are mid-19th-century Ottoman-European fusion palaces built by the Balyan family of architects for the Ottoman court in the same period. Dolmabahçe (1856) is larger, on the European shore of the Bosphorus, and served as the primary imperial residence — the palace where Atatürk died in 1938. Beylerbeyi (1865), on the Asian shore, was the summer retreat and official guest reception palace — the palace that hosted Empress Eugénie in 1869. Beylerbeyi is more intimate in scale, generally less crowded, and offers the Bosphorus view from the opposite (Asian) side. Dolmabahçe is the more famous and more visited; Beylerbeyi is the better experience for visitors who prefer fewer crowds and the Asian shore perspective."
+    },
+    {
+      "question": "Why is Beylerbeyi Palace on the Asian side of the Bosphorus?",
+      "answer": "Beylerbeyi Palace was deliberately built on the Asian shore of the Bosphorus to serve as a summer retreat for the Ottoman court and as a reception palace for arriving foreign guests. The Asian shore was cooler in summer than the European side of Istanbul; the palace was approached by boat from the European shore, and its waterfront elevation was designed to impress arriving guests at the moment of landing by caïque. The position also gave the palace visual prominence from both shores of the strait. The Bosphorus Bridge, completed in 1973, now spans the strait directly above the palace gardens — a connection that didn't exist when the palace was built."
+    },
+    {
+      "question": "Is photography allowed inside Beylerbeyi Palace?",
+      "answer": "Photography policies at Turkish national palaces change periodically. At the time of writing, non-flash photography is generally permitted in the exterior gardens and at the palace facade; interior photography rules vary by room. Confirm current photography rules at millisarayi.gov.tr or when purchasing your entry ticket. The palace guide will advise on permitted photography at the start of the group tour. The Bosphorus waterfront view from the palace gardens is always freely photographable."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/beylerbeyi-palace.webp",
+    "alt": "Beylerbeyi Palace (Beylerbeyi Sarayı) on the Asian shore of the Bosphorus, Istanbul — Sultan Abdülaziz's Ottoman-European fusion summer palace with the Bosphorus and the Bosphorus Bridge visible in the background, Istanbul, Turkey",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/beylerbeyi-palace.webp",
+  "instagram_tag": "#beylerbeyisarayi",
+  "meta_title": "Beylerbeyi Palace Istanbul: The Ottoman Bosphorus Summer Palace — Visitor Guide 2026",
+  "meta_description": "Visit Beylerbeyi Palace on Istanbul's Asian Bosphorus shore — the Ottoman Empire's summer palace where Empress Eugénie stayed in 1869, with crystal chandeliers and mother-of-pearl inlay. From $18.",
+  "tags": [
+    "turkey",
+    "istanbul",
+    "ottoman",
+    "palace",
+    "bosphorus",
+    "asian-shore",
+    "abdulaziz",
+    "tanzimat",
+    "balyan"
+  ],
+  "last_updated": "2026-08-01",
+  "routes": [],
+  "nearby_castles": [
+    "dolmabahce-palace",
+    "topkapi-palace",
+    "yedikule-fortress"
+  ],
+  "gyg_location_id": "56",
+  "gyg_search_query": "Beylerbeyi Palace Istanbul Bosphorus Asian shore entry ticket Ottoman",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1413373",
+      "title": "Istanbul: Beylerbeyi Palace Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "1.5–2 hours",
+      "price_from": 18,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/istanbul-l56/istanbul-beylerbeyi-palace-entry-ticket-t1413373/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "beylerbeyi-palace"
+      ],
+      "note": "Official entry ticket. Note: inside the palace, visits are conducted with palace guides in groups — self-guided individual walkthroughs are not available; entry ticket purchases join a group tour. 0 reviews → rating: null, reviews: 0, is_top_pick: false (per REGLA #3)."
+    }
+  ],
+  "gyg_direct_link_override": true
+}

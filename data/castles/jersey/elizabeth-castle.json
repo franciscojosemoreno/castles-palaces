@@ -1,0 +1,115 @@
+{
+  "id": "elizabeth-castle",
+  "name": "Elizabeth Castle",
+  "local_name": "Château Élisabeth",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 60000,
+  "country": "jersey",
+  "region": "Jersey — Saint Helier Bay, tidal island (islet of L'Islet), Parish of Saint Helier",
+  "nearest_city": "Saint Helier",
+  "address": "Elizabeth Castle, Saint Helier Bay, JE2 3NU, Jersey",
+  "lat": 49.1764,
+  "lng": -2.1182,
+  "unesco": false,
+  "year_built": 1594,
+  "architectural_style": "Early modern artillery fortress, 16th–17th century, with WWII German Occupation additions — Elizabeth Castle is a flat-plan coastal artillery fortification built on a tidal islet in Saint Helier Bay, representing the transition from the vertical medieval castle (Mont Orgueil) to the low-profile gun platform designed to accommodate cannon and resist artillery bombardment; construction began in 1594 under Governor Sir Walter Raleigh on the islet of L'Islet, which is accessible on foot via a stone causeway at low tide and by boat at high tide; the castle's plan is determined by the requirements of gunpowder warfare: low, thick walls in irregular bastioned trace able to mount and absorb artillery; the Outer Ward, Inner Ward, and Upper Ward are arranged concentrically around the tidal islet's geography rather than on a strict geometric plan; the castle was named in honour of Queen Elizabeth I following the failure of the Jersey militia to defend the island against Spanish attack in 1594, when a fort at the harbour mouth was deemed inadequate; the 17th century brought the castle into active English Civil War operations — Prince Charles (future Charles II) sheltered here for three months in 1646 after the fall of Oxford; a further stay occurred in 1649 after his father's execution; the castle was additionally the first location from which Charles II was proclaimed king, in 1649; the WWII German Occupation of Jersey (1940–1945) added substantial concrete fortifications, gun emplacements, and the underground hospital-equivalent bunker to the castle's historic structure — these remain as the castle's most recent defensive layer",
+  "opening_hours": {
+    "monday": "10:00–17:30",
+    "tuesday": "10:00–17:30",
+    "wednesday": "10:00–17:30",
+    "thursday": "10:00–17:30",
+    "friday": "10:00–17:30",
+    "saturday": "10:00–17:30",
+    "sunday": "10:00–17:30",
+    "seasonal_note": "Open daily. Hours vary seasonally — confirm at jerseyheritage.org before visiting.\n\n**CRITICAL — tidal access logistics:**\n- **Low tide (causeway open):** A stone causeway connects Saint Helier's West Park beach/slipway to Elizabeth Castle; crossing takes approximately 15 minutes on foot; the causeway is accessible for a window of several hours around low tide; the exposed causeway surface can be slippery at edges.\n- **High tide (causeway flooded):** The causeway is completely submerged; access is by amphibious DUKW ferry (a WWII-era vehicle that travels on both road and water) from the Albert Quay slipway in Saint Helier Harbour; the ferry runs regularly when the causeway is impassable.\n- **ALWAYS CHECK TIDE TIMES before visiting.** Jersey's tidal range is among the largest in Europe (up to 12 metres at spring tides); the causeway transition from accessible to submerged can be rapid. Check tide times at jerseymet.je or at the Jersey Heritage ticket office before setting out; plan your crossing time to avoid being stranded on the islet. The castle's own visitor information will advise on current tidal conditions.\n- The GYG Heritage Pass (t1308839) does not include the DUKW ferry fare; the ferry is paid separately at the Albert Quay."
+  },
+  "price_adult": 14,
+  "price_child": 8,
+  "price_currency": "GBP",
+  "booking_required": false,
+  "official_tickets_url": "https://www.jerseyheritage.org/places-to-visit/elizabeth-castle",
+  "visit_duration": "2–3 hours (the Outer Ward and battery displays, the Inner Ward and the main keep, the Prince's Room where Charles II sheltered in 1646 and 1649, the WWII German Occupation fortifications and bunker, and the views across Saint Helier Bay to Mont Orgueil on the east coast; the tidal island setting adds ambient experience beyond the castle itself)",
+  "best_season": "May–September for the most reliable causeway access windows and the best ambient conditions for the tidal crossing. Year-round access is possible but tidal patterns and winter weather affect the causeway more frequently. Low-tide morning crossings in summer are the classic visit; the castle in late afternoon light with a high-tide ferry return is the most atmospheric.",
+  "accessibility": "Elizabeth Castle is on a tidal islet with uneven surfaces, cobbled paths, and step access to upper levels. Limited accessibility above the Outer Ward. The DUKW ferry is accessible for most mobility needs; confirm arrangements at jerseyheritage.org. The causeway on foot involves uneven stone surfaces. Visitors with limited mobility should confirm access expectations before visiting.",
+  "booking_advance_days": 1,
+  "tagline": "Jersey's tidal island fortress — accessible by stone causeway at low tide or amphibious DUKW ferry at high tide, where Charles II sheltered in 1646, and where WWII German Occupation concrete sits beside 17th-century artillery bastions",
+  "highlights": [
+    "The tidal island access — causeway or amphibious DUKW ferry, depending on the tide — Elizabeth Castle occupies the tidal islet of L'Islet in Saint Helier Bay; the islet is connected to the shore by a stone causeway that is exposed at low tide and completely submerged at high tide; the tidal approach is central to the experience: at low tide, visitors walk the 750 metres across the causeway from West Park beach, the same approach that was used for supply and access for 350 years; at high tide, visitors board the amphibious DUKW ferry from the Albert Quay slipway — the DUKW is a WWII-era vehicle that travels on both road and water, itself a piece of military history used for a heritage purpose; Jersey's tidal range is among the largest in Europe (up to 12 metres at spring tides), and the transition from causeway accessible to causeway submerged can be rapid; always check tide times at jerseymet.je before visiting, and plan crossing times with the castle's advice to avoid being caught on the islet by a rising tide",
+    "Prince Charles's sanctuary — the castle where Charles II was first proclaimed king — Elizabeth Castle was the shelter of the future Charles II during two critical periods of the English Civil War; in 1646, after the fall of Oxford to Parliamentary forces, Prince Charles (age 16) crossed to Jersey and sheltered at Elizabeth Castle for three months as the Parliamentary side consolidated control of mainland England; in 1649, following the execution of his father Charles I, the Prince returned to Jersey and at Elizabeth Castle was proclaimed King Charles II — the first proclamation of his kingship, before his restoration to the English throne in 1660; the Prince's Room in the castle, where Charles slept during both visits, is preserved and interpreted as the room in which the future king spent some of the most precarious months of his life; the detail of the English monarchy's survival being sheltered in a Jersey castle is one of those Channel Islands historical facts that most visitors find surprising",
+    "WWII German Occupation fortifications — the most complete Atlantic Wall addition to a Jersey heritage castle — the German military occupation of Jersey from 1940 to 1945 left substantial concrete fortifications at Elizabeth Castle: gun emplacements, observation posts, underground bunkers, and the additions to the artillery battery that converted the 17th-century fort into part of the Atlantic Wall coastal defence system; these WWII elements are interpreted at the castle as part of the site's 350-year defensive history rather than as separate from the 17th-century structure; Elizabeth Castle's WWII displays include the underground Occupation-era facilities that give a particularly visceral sense of what the German garrison addition to the castle meant in practice; Jersey was the only part of the British Isles occupied by German forces during World War II, and the castle's WWII layer is a significant part of its historical interest for visitors from mainland Britain",
+    "The bay view and the relationship to Mont Orgueil — the complementary half of Jersey's castle pairing — from the walls of Elizabeth Castle, Mont Orgueil is visible on the east coast of Jersey — the medieval castle on its granite headland 8km east across the island; the view connects the two sites that together define Jersey's 820-year defensive history: Mont Orgueil (built 1204, concentric medieval, eastern coast facing Normandy) and Elizabeth Castle (built 1594, artillery bastioned, bay entrance facing the Atlantic); Elizabeth Castle was built partly because Mont Orgueil's vertical medieval walls could no longer resist artillery bombardment; the two castles represent the same island's defensive programme across two different ages of warfare; the Heritage Pass covers both sites (7-day validity), and the view from Elizabeth Castle toward Mont Orgueil is the clearest visual statement of why both were needed"
+  ],
+  "description": "The causeway to Elizabeth Castle crosses Saint Helier Bay on the same stone that has connected the tidal islet of L'Islet to the shore for over 400 years. At low tide, the approach takes 15 minutes on foot — a walk across the exposed tidal flat with the castle growing larger as you approach, and Saint Helier's harbour behind you. At high tide, the causeway disappears under up to 12 metres of water, and the crossing is made by amphibious DUKW ferry from the Albert Quay slipway: a WWII-era vehicle, itself a piece of military history, carrying passengers across the same water that has made the castle strategically significant for four centuries.\n\nThe tidal access is not incidental to the experience. It is the castle's essential character. Elizabeth Castle was built on a tidal islet because the tidal islet was the position that commanded the entrance to Saint Helier Bay — the natural harbour that gave Jersey its principal anchorage. When Governor Sir Walter Raleigh began construction in 1594, he was solving the same problem that Mont Orgueil had solved on the east coast: a French or Spanish attack by sea required a coastal fortification at the water's edge. But where Mont Orgueil had been built for a world of vertical fortifications and siege warfare, Elizabeth Castle was designed for the world of cannon. Its walls are low and thick, its bastioned trace designed to absorb and deflect artillery, its gun platforms positioned to cover the bay approaches.\n\nThe castle was named in honour of Queen Elizabeth I. It served as Jersey's principal military fortification from the late 16th century through the 17th. During the English Civil War, it twice sheltered the future Charles II: in 1646, when the teenage Prince of Wales crossed to Jersey after the fall of Oxford to Parliamentary forces, he sheltered at Elizabeth Castle for three months. In 1649, following the execution of his father Charles I, the Prince returned, and at Elizabeth Castle was first proclaimed King Charles II — his first public proclamation as king, made from a Jersey castle before his restoration to the English throne in 1660. The Prince's Room, where Charles slept during both visits, is preserved and interpreted inside the castle.\n\nThe most recent military additions to Elizabeth Castle are from the 20th century's most recent war. In 1940, German forces occupied Jersey — the only part of the British Isles to fall under German occupation in World War II. The Wehrmacht incorporated Elizabeth Castle into the Atlantic Wall coastal defence system, adding gun emplacements, observation posts, and underground bunkers to the 17th-century structure. These WWII additions remain on site and are interpreted as part of the castle's 350-year defensive history.\n\nThe GYG Heritage Pass (t1308839, from $70, valid 7 days) covers both Elizabeth Castle and Mont Orgueil Castle — the two sites that together give the most complete picture of Jersey's defensive history from 1204 to 1945. The pass is the standard product for visiting both Jersey Heritage castles; the 7-day validity gives flexibility to visit each site on different days and in different tidal conditions.\n\n**Tidal access is the essential logistical consideration for Elizabeth Castle.** Always check tide times at jerseymet.je before visiting. The causeway transition from accessible to impassable can be rapid at spring tides. The castle's visitor information will advise on current tidal conditions and causeway timing. The DUKW ferry (paid separately from the Heritage Pass) runs from the Albert Quay when the causeway is flooded.\n\n[Mont Orgueil Castle](/castles/jersey/mont-orgueil-castle) — the 13th-century medieval concentric castle above Gorey Harbour on the east coast — is the Heritage Pass companion visit and the historical predecessor. [Corfe Castle](/castles/england/corfe-castle) and [Pendennis Castle](/castles/england/pendennis-castle) extend the broader English Channel coastal fortification circuit.",
+  "history": "1204: Jersey remains under English crown control following separation of Normandy; Mont Orgueil built on east coast. 1594: Governor Sir Walter Raleigh begins construction of Elizabeth Castle on the tidal islet of L'Islet in Saint Helier Bay; response to Spanish threat and inadequacy of existing harbour defences; construction continues intermittently into the 17th century. Queen Elizabeth I: castle named in her honour. 1646: Prince Charles (future Charles II) crosses to Jersey after fall of Oxford to Parliamentary forces; shelters at Elizabeth Castle for three months. 1649: Prince Charles returns to Jersey after execution of Charles I; proclaimed King Charles II at Elizabeth Castle — the first proclamation of his kingship. 1660: Charles II restored to English throne. 17th–18th century: Elizabeth Castle serves as Jersey's primary military fortification; further battery and bastion additions. 1781: Battle of Jersey — French forces land but are repulsed; Elizabeth Castle not directly besieged. 19th century: castle's military function diminishes with modernisation of coastal defence. 1940–1945: German Occupation of Jersey; Wehrmacht adds gun emplacements, observation posts, and underground bunkers to the castle structure as part of Atlantic Wall. 1945: liberation of Jersey. Present day: managed by Jersey Heritage; Heritage Pass valid for both Elizabeth Castle and Mont Orgueil.",
+  "how_to_visit": "**GYG Heritage Pass (~$70/person, t1308839, valid 7 days — shared ticket covering BOTH Elizabeth Castle and Mont Orgueil Castle):** This is a 7-day Heritage Pass covering both Jersey Heritage castles (Elizabeth Castle and Mont Orgueil Castle) as a single access product — not a ticket for one castle only. Both castles are included. Book through GYG or directly at jerseyheritage.org. 1 review → rating: null, reviews: 0, is_top_pick: false.\n\n**TIDAL ACCESS — READ BEFORE VISITING:**\n- **Low tide (causeway open):** Walk the 750-metre stone causeway from West Park beach/slipway to the castle; approximately 15 minutes on foot; accessible for a window of several hours around low tide. Causeway surface can be slippery.\n- **High tide (causeway submerged):** The causeway is completely underwater. Cross by amphibious DUKW ferry from the Albert Quay slipway, Saint Helier Harbour. The ferry fare is paid separately from the Heritage Pass.\n- **Check tide times at jerseymet.je before visiting.** Jersey's tidal range reaches 12 metres at spring tides — the transition from causeway-accessible to causeway-submerged can be rapid. The castle provides tidal access guidance; always confirm before setting out.\n\n**Getting to the causeway/Albert Quay from Saint Helier:** Both the West Park causeway start point and the Albert Quay DUKW ferry departure are within walking distance of Saint Helier town centre (5–10 minutes on foot). No dedicated bus route to the causeway; the Albert Quay is in the harbour area.\n\n**Combining with Mont Orgueil:** The Heritage Pass covers both castles. Mont Orgueil is in Gorey on the east coast — bus Routes 1/1A/3 from Saint Helier (25–30 minutes). Plan Elizabeth Castle and Mont Orgueil as two separate half-days; the Heritage Pass's 7-day validity gives full flexibility.",
+  "faqs": [
+    {
+      "question": "How do I reach Elizabeth Castle — do I walk or take the ferry?",
+      "answer": "Access to Elizabeth Castle depends entirely on the tide. At low tide, a stone causeway from West Park beach (Saint Helier) is exposed and can be walked in approximately 15 minutes — the same approach used for four centuries. At high tide, the causeway is completely submerged under up to 12 metres of water; crossing is then by amphibious DUKW ferry from the Albert Quay slipway in Saint Helier Harbour (the ferry fare is paid separately from the Heritage Pass). Always check tide times at jerseymet.je before visiting — Jersey's tidal range is among the largest in Europe and the causeway transition can be rapid. The castle provides tidal access guidance on their website and on-site; plan your crossing window before setting out to avoid being stranded on the islet."
+    },
+    {
+      "question": "What is the connection between Elizabeth Castle and King Charles II?",
+      "answer": "Elizabeth Castle sheltered the future Charles II on two occasions during the English Civil War. In 1646, after Parliamentary forces had captured Oxford, the 16-year-old Prince of Wales crossed to Jersey and sheltered at Elizabeth Castle for three months. In 1649, following the execution of his father King Charles I, the Prince returned to Jersey, and at Elizabeth Castle was proclaimed King Charles II — the first public proclamation of his kingship, before his restoration to the English throne in 1660. The Prince's Room where Charles slept during both visits is preserved inside the castle as one of its principal interpreted spaces."
+    },
+    {
+      "question": "What does the Heritage Pass cover and is it worth it for both castles?",
+      "answer": "The GYG Heritage Pass (t1308839) covers entry to both Elizabeth Castle (Saint Helier Bay tidal island) and Mont Orgueil Castle (Gorey Harbour headland) for 7 days. Both are managed by Jersey Heritage. Individual adult admission to each castle is £14; the Heritage Pass at approximately $70 represents good value for visiting both and makes the two-castle itinerary — the complete picture of Jersey's defensive history from 1204 to 1945 — the obvious approach. The 7-day validity gives flexibility to visit each site on different days and in different tidal/weather conditions. Most visitors to Jersey who have more than a day find the two-castle Heritage Pass the most sensible access product."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/elizabeth-castle.webp",
+    "alt": "Elizabeth Castle on the tidal islet of L'Islet in Saint Helier Bay, Jersey — the 16th-century artillery fortress accessible by stone causeway at low tide or DUKW amphibious ferry at high tide, Jersey, Channel Islands",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/elizabeth-castle.webp",
+  "instagram_tag": "#elizabethcastlejersey",
+  "meta_title": "Elizabeth Castle Jersey: The Tidal Island Fortress Where Charles II Sheltered — Guide 2026",
+  "meta_description": "Visit Elizabeth Castle in Saint Helier Bay — accessible by causeway at low tide or DUKW ferry at high tide. Where Charles II was first proclaimed king. WWII occupation fortifications. From $70.",
+  "tags": [
+    "jersey",
+    "channel-islands",
+    "castle",
+    "tidal-island",
+    "artillery-fortress",
+    "charles-ii",
+    "wwii",
+    "heritage-pass",
+    "dukw"
+  ],
+  "last_updated": "2026-08-01",
+  "routes": [],
+  "nearby_castles": [
+    "mont-orgueil-castle",
+    "corfe-castle",
+    "pendennis-castle"
+  ],
+  "gyg_location_id": "143292",
+  "gyg_search_query": "Elizabeth Castle Jersey Saint Helier Bay Heritage Pass tidal island",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1308839",
+      "title": "Jersey: Heritage Pass — Mont Orgueil & Elizabeth Castle (7-Day Access)",
+      "type": "guided_tour",
+      "duration": "7 days",
+      "price_from": 70,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/saint-helier-l143292/jersey-heritage-pass-mont-orgueil-elizabeth-castle-t1308839/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "mont-orgueil-castle",
+        "elizabeth-castle"
+      ],
+      "note": "Shared Heritage Pass covering BOTH Elizabeth Castle and Mont Orgueil Castle (7-day validity). GYG Includes: 'Entry to Elizabeth Castle,' 'Entry to Mont Orgueil Castle.' 1 review → rating: null, reviews: 0, is_top_pick: false (per REGLA #3). type: guided_tour (multi-site heritage pass). Jersey Heritage managed sites. DUKW ferry fare (when causeway submerged at high tide) is NOT included in the Heritage Pass and is paid separately at the Albert Quay."
+    }
+  ],
+  "gyg_direct_link_override": true
+}

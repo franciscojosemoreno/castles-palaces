@@ -84,7 +84,9 @@
   ],
   "last_updated": "2026-07-10",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "castel-di-poggio"
+  ],
   "gyg_location_id": "32",
   "gyg_search_query": "Palazzo Vecchio Florence guided tour audioguide entry",
   "gyg_widget_type": "activities",
