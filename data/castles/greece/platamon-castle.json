@@ -85,7 +85,9 @@
   ],
   "last_updated": "2026-07-17",
   "routes": [],
-  "nearby_castles": [],
+  "nearby_castles": [
+    "white-tower-thessaloniki"
+  ],
   "gyg_location_id": "149942",
   "gyg_search_query": "Platamon Castle tour Mount Olympus Pieria Greece",
   "gyg_widget_type": "activities",
@@ -101,7 +103,9 @@
       "reviews": 4,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/litochoro-l149942/olympus-sunset-tour-t397566/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["platamon-castle"]
+      "covers_castles": [
+        "platamon-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -12,7 +12,7 @@
   "nearest_city": "Nuremberg",
   "address": "Auf der Burg 13, 90403 Nürnberg, Germany",
   "lat": 49.4579,
-  "lng": 11.0780,
+  "lng": 11.078,
   "unesco": false,
   "year_built": 1000,
   "architectural_style": "Romanesque and medieval imperial castle, substantially reconstructed after 1945 WWII bombing — the castle occupies a sandstone ridge above Nuremberg's old town and comprises three main elements: the Imperial Castle (Kaiserburg, the Holy Roman Emperor's residence), the Burgraves' Castle (Burggrafenburg, an earlier fortification to the east belonging to the Hohenzollern burgrave family), and the Imperial Stables (Kaiserstallung, a 15th-century granary converted to stables, now a youth hostel); the most significant surviving medieval fabric is the Palas (imperial residence), the double chapel (Doppelkapelle, 11th–12th century, where the upper level was reserved for the emperor and the lower for lesser courtiers), and the Sinwell Tower (round keep, 13th century); these elements survived the 1944–45 Allied bombing raids that destroyed much of the Kaiserburg; postwar reconstruction restored the castle to its pre-bombing medieval appearance",
@@ -88,7 +88,8 @@
   "last_updated": "2026-07-18",
   "routes": [],
   "nearby_castles": [
-    "altenburg-castle-bamberg"
+    "altenburg-castle-bamberg",
+    "wurzburg-residence"
   ],
   "gyg_location_id": "127",
   "gyg_search_query": "Nuremberg Castle Kaiserburg guided tour old town",

@@ -1,0 +1,115 @@
+{
+  "id": "wurzburg-residence",
+  "name": "Würzburg Residence",
+  "local_name": "Würzburger Residenz",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 9,
+  "annual_visitors": 400000,
+  "country": "germany",
+  "region": "Bavaria — Lower Franconia (Unterfranken), Würzburg city",
+  "nearest_city": "Würzburg",
+  "address": "Würzburger Residenz, Residenzplatz 2, 97070 Würzburg, Germany",
+  "lat": 49.7953,
+  "lng": 9.9357,
+  "unesco": true,
+  "year_built": 1720,
+  "architectural_style": "South German Baroque palace, 1720–1744, designed principally by Balthasar Neumann with contributions from Johann Lucas von Hildebrandt and French and Italian masters — the Würzburg Residence was commissioned by Prince-Bishop Johann Philipp Franz von Schönborn as the new seat of the ecclesiastical rulers of the Prince-Bishopric of Würzburg, replacing the medieval Marienberg Fortress across the Main River; the building is widely regarded as one of the finest Baroque palaces in Europe and the supreme achievement of Balthasar Neumann (1687–1753), the German Baroque master; the palace's central feature is the Grand Staircase (Treppenhaus), a single vast room whose unsupported vaulted ceiling spans 18 by 30 metres without any intermediate supports — a structural feat that Neumann demonstrated by having a cannon fired inside the completed vault to prove it would not collapse; above this ceiling, Giovanni Battista Tiepolo painted the world's largest ceiling fresco (677 square metres) in 1752–53, depicting an allegorical representation of the four continents; the Imperial Hall (Kaisersaal) contains a second Tiepolo fresco cycle; the palace was severely damaged in the Allied bombing of Würzburg on 16 March 1945 but the main structural shell survived, allowing postwar restoration to restore the principal rooms",
+  "opening_hours": {
+    "monday": "closed",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Open Tuesday–Sunday; closed Monday. April–October: 09:00–18:00 (last entry 17:00). November–March: 10:00–16:30 (last entry 15:45). Some state rooms (including parts of the South and North Wings) are only accessible April–October; the Grand Staircase with Tiepolo ceiling fresco and the Kaisersaal are open year-round. The GYG winter guided tour (t1022746) operates in the winter season (December–February); confirm dates of operation before booking — admission to the Residence is included in the GYG tour price."
+  },
+  "price_adult": 9,
+  "price_child": 0,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://www.residenz-wuerzburg.de",
+  "visit_duration": "2–3 hours (Grand Staircase, Tiepolo ceiling fresco, Imperial Hall with second Tiepolo cycle, Court Garden, and principal state rooms)",
+  "best_season": "Year-round — the Tiepolo ceiling fresco and Grand Staircase are accessible throughout the year. The winter-themed GYG tour runs December–February and includes the Residence visit plus Würzburg's famous Christmas market season. Summer brings peak crowds but all rooms are open; spring and autumn offer better light in the staircase.",
+  "accessibility": "The Grand Staircase and main floor rooms are largely accessible; some upper floor areas may have limited wheelchair access. The Court Garden is accessible. Confirm specific requirements with the Residenz before visiting. The GYG guided tour involves a 3-hour walk.",
+  "booking_advance_days": 1,
+  "tagline": "Europe's greatest Baroque palace, built where the world's largest ceiling fresco stretches across a staircase that no engineer said could stand — Tiepolo's heaven above Neumann's structural miracle, in a Prince-Bishop's palace rebuilt from wartime ash",
+  "highlights": [
+    "The Grand Staircase and Tiepolo's ceiling fresco — 677 square metres of heaven, the world's largest — the central architectural and artistic experience of the Würzburg Residence is the Grand Staircase (Treppenhaus), a single enclosed room whose unsupported vaulted ceiling spans 18 by 30 metres without any intermediate columns or supporting piers; Balthasar Neumann solved the structural challenge through a sophisticated system of longitudinal and transverse arches that distribute the vault's weight to the peripheral walls, creating an unobstructed indoor space of unprecedented scale; Giovanni Battista Tiepolo — the greatest ceiling painter of the 18th century — arrived from Venice in 1750 and completed the fresco in 1752–53; the painting covers 677 square metres, the largest ceiling fresco on earth, depicting an allegorical representation of the four continents (Europe, America, Africa, Asia) surrounding a central celestial vision with the portrait of the Prince-Bishop's court painter and Tiepolo's own self-portrait incorporated among the figures; the experience of ascending the staircase under this ceiling — the fresco visible from the entire room as a continuous panoramic composition — is one of the defining art encounters in European architecture",
+    "The Imperial Hall — the second Tiepolo fresco cycle and the palace's ceremonial heart — the Kaisersaal (Imperial Hall) on the piano nobile above the staircase is the formal reception room of the Prince-Bishops: an oval hall with white stucco and gilded decoration whose ceiling carries a second Tiepolo fresco cycle, also completed 1751–52, depicting scenes from the history of the medieval Bishop of Würzburg's relationship with the Holy Roman Emperor; the combination of Tiepolo's narrative cycle on the ceiling and the room's architectural elaboration below — pilasters, mirrors, gilded festoons, coloured marble door surrounds — makes the Kaisersaal one of the most complete decorative programmes in European Baroque interiors, where every surface participates in a unified artistic system rather than simply coexisting",
+    "Balthasar Neumann and the structural achievement of the staircase vault — German Baroque engineering at its most ambitious — Balthasar Neumann (1687–1753) was the master of German Baroque architecture whose projects ranged from parish churches to fortifications to the Würzburg Residence; the staircase vault was his most celebrated structural demonstration; when French and Italian architectural advisers consulted on the design expressed scepticism about whether the unsupported vault could stand, Neumann reportedly offered to allow a cannon to be fired inside the completed vault — which it was, without any structural consequence; the staircase's importance in architectural history lies not only in its scale but in the way Neumann used the spatial challenge as an opportunity for theatrical effect, designing the staircase ascent as a processional experience that reveals the Tiepolo ceiling progressively as the visitor climbs",
+    "The March 1945 bombing and the survival of the frescoes — the palace's 20th-century chapter — on the night of 16 March 1945, RAF bombers devastated Würzburg in approximately 20 minutes, killing 5,000 people and destroying 90% of the city's historic centre; the Würzburg Residence was hit and burned; the roof of the main palace block collapsed, filling the Grand Staircase and the Kaisersaal with burning debris; but Tiepolo's ceiling frescoes — protected by the solid vaulted masonry that Neumann had built rather than conventional wooden ceilings — survived; the frescoes were found intact under the rubble when the ruins were cleared; postwar reconstruction restored the shell of the building and the principal interiors over several decades, with the Grand Staircase and Kaisersaal reopening to visitors in their restored state; the UNESCO World Heritage designation in 1981 recognised both the palace's architectural significance and its survival through the 20th century's most destructive event in German urban history"
+  ],
+  "description": "The first decision a visitor to the Würzburg Residence makes is where to look. The entrance foyer opens immediately into the Grand Staircase — a single room with an unsupported vaulted ceiling spanning 18 by 30 metres — and above it, covering every centimetre of that vault, is Tiepolo's fresco. All 677 square metres of it. The world's largest ceiling painting. It is visible in its entirety from the first step.\n\nThe palace was built for the Prince-Bishops of Würzburg — the ecclesiastical rulers of a powerful independent principality in the Holy Roman Empire — who wanted a new residence to replace the medieval Marienberg Fortress on the opposite bank of the Main. Prince-Bishop Johann Philipp Franz von Schönborn initiated the project in 1720 and commissioned the 33-year-old Balthasar Neumann to design it. Neumann had been working as a military engineer and artillery officer before turning his attention to architecture; he brought to the Residence's design both a technical mastery of structure and an architectural imagination capable of creating spaces of genuine theatrical power.\n\nThe Grand Staircase was the central structural challenge of the project. Neumann wanted a single vast room — no columns, no intermediate supports — whose vault would demonstrate the possibilities of masonry engineering. Consultants from Paris and Vienna expressed doubt. Neumann reportedly offered to stand under the vault while a cannon was fired inside it. The cannon was fired. The vault did not move. The staircase today is exactly the room Neumann designed: an unsupported vault of perfect structural confidence, which Giovanni Battista Tiepolo then covered with a painting that describes the entire known world.\n\nTiepolo arrived from Venice in 1750, aged 54, at the height of his powers. The commission for the Würzburg ceiling was the largest of his career. He completed it in approximately two years, working with his sons Giandomenico and Lorenzo. The result depicts an allegorical representation of the four continents — Europe, America, Africa, Asia — arranged around a central celestial vision in which the Prince-Bishop is shown being crowned by Apollo and accompanied by personifications of the arts. The court painter is depicted as a figure among the allegory. Tiepolo included his own portrait, looking down at the visitor from the composition. Every face in the painting is identifiable; the allegory is simultaneously universal and intensely personal.\n\nAbove the staircase, in the Imperial Hall (Kaisersaal), Tiepolo completed a second fresco cycle depicting scenes from the historical relationship between the medieval bishops of Würzburg and the Holy Roman Emperors. The room is an oval hall of exceptional decorative completeness: stucco by Johann Peter Wagner, gilded festoons, coloured marble door surrounds, mirrors, and the fresco overhead operating as a unified whole. The Kaisersaal is the formal reception room where the Prince-Bishop would have received the Emperor; Tiepolo's paintings make that ceremony present in perpetuity.\n\nOn 16 March 1945, RAF bombers devastated Würzburg in approximately 20 minutes. The fire that swept the Residence's main block burned for days. The roof collapsed. The rubble filled the staircase and the Kaisersaal. When it was cleared, Tiepolo's frescoes were found intact — protected by Neumann's solid masonry vault rather than the wooden ceilings that collapsed everywhere else. The frescoes had survived the destruction of almost everything built around them.\n\nPostwar reconstruction restored the shell and the principal rooms over several decades. UNESCO inscribed the Residence as a World Heritage Site in 1981, recognising it as one of the supreme achievements of European Baroque architecture and a monument to the survival of cultural heritage through 20th-century destruction.\n\nThe GYG winter guided tour (t1022746, from $79, 3 hours) covers the Würzburg Residence with admission included, followed by 30 minutes of free time at the Residence and a walk through Würzburg's Old Town finishing with a mulled wine stop at the Old Main Bridge. The mulled wine finale is the seasonal character of the tour — it operates in the winter period when Würzburg's Christmas market is running; the Residence visit itself is standard and available year-round. The tour runs with a 5.0★ / 2 reviews.\n\n[Leuchtenburg Castle](/castles/germany/leuchtenburg-castle) — the medieval hilltop fortress above the Saale valley in Thuringia — offers a contrast: a rough-edged medieval fortification with a completely different history from the Prince-Bishops' palace. [Heidelberg Castle](/castles/germany/heidelberg-castle) and [Nuremberg Castle](/castles/germany/nuremberg-castle) extend the Franconia and Rhine circuit for visitors with more time in Bavaria and Baden-Württemberg.",
+  "history": "1720: Prince-Bishop Johann Philipp Franz von Schönborn commissions Balthasar Neumann to design a new residence; construction begins. 1720s–1730s: construction of the main palace block; Neumann's Grand Staircase vault completed; consultants from Paris and Vienna advise on the design. 1737: Prince-Bishop Christoph Franz von Hutten moves into the partially completed palace. 1744: Exterior of the palace substantially complete. 1750: Giovanni Battista Tiepolo arrives from Venice with his sons Giandomenico and Lorenzo. 1752–53: Tiepolo completes the Grand Staircase ceiling fresco (677 m²) and the Kaisersaal fresco cycle. 1772: Court Garden (Hofgarten) and garden buildings completed. 1806: Würzburg becomes part of Napoleon's satellite Kingdom of Bavaria; the Residence becomes a royal palace of Bavaria. 1945 (16 March): RAF bombing raid devastates Würzburg; Residenz hit and burned; roof collapses; Tiepolo frescoes survive under the vaulted ceiling. 1945–1960s: postwar reconstruction of the palace shell and principal rooms. 1981: UNESCO World Heritage designation. Present day: one of Germany's most-visited historic sites; Grand Staircase, Kaisersaal, Court Garden, and state rooms open to visitors.",
+  "how_to_visit": "**GYG winter guided tour with admission included (~$79/person, t1022746, 3 hours):** Guided tour of the Würzburg Residence (admission explicitly included — 'Entrance fee to the Residence included in the price') plus 30 minutes free time, a walk through Würzburg's Old Town, and a mulled wine stop on the Old Main Bridge. 5.0★ / 2 reviews. The mulled wine stop is the winter-seasonal element of the tour; confirm dates of operation (typically December–February) before booking.\n\n**Independent visit:** Adult admission €9; children under 18 free. Open Tuesday–Sunday (closed Monday); Apr–Oct 09:00–18:00, Nov–Mar 10:00–16:30. Guided tours of the Grand Staircase and Kaisersaal available in English at scheduled times; confirm current schedule at residenz-wuerzburg.de. The Residence is a 10-minute walk from Würzburg Hauptbahnhof.\n\n**Visiting in context:** Combine with the Marienberg Fortress across the Main (the medieval predecessor palace to the Residence, with panoramic views over the city), the Old Main Bridge (statues of bishops and saints, city panorama), and the Würzburg Cathedral. Wine lovers: Würzburg is in Franconia's wine country; the Würzburg Residence's own Juliusspital and Bürgerspital wineries produce estate Silvaner and Riesling.",
+  "faqs": [
+    {
+      "question": "Why is the Tiepolo ceiling fresco called the world's largest?",
+      "answer": "The ceiling fresco painted by Giovanni Battista Tiepolo over the Würzburg Residence's Grand Staircase covers 677 square metres of vaulted ceiling without interruption — the single largest ceiling fresco surface ever painted. Tiepolo completed it between 1752 and 1753, working with his sons. The fresco depicts an allegorical representation of the four continents (Europe, America, Africa, Asia) arranged around a central celestial vision and is visible in its entirety from anywhere within the Grand Staircase — the spatial design ensures that the ascending visitor encounters the full composition as a single panoramic image rather than a series of sections."
+    },
+    {
+      "question": "How did the Tiepolo frescoes survive the 1945 bombing?",
+      "answer": "When RAF bombers devastated Würzburg on 16 March 1945, the Würzburg Residence was hit and burned. The roof of the main palace block collapsed, filling the Grand Staircase and the Kaisersaal with burning debris. But Balthasar Neumann had built the Grand Staircase with a solid masonry vault — not the wooden ceilings that were the standard construction technique for large interiors of the period. The masonry vault did not collapse when the roof burned, and Tiepolo's frescoes, painted directly onto the plaster of the vault's underside, were protected from the fire and debris above. When the rubble was cleared after the war, the frescoes were found intact. Neumann's 18th-century structural decision effectively fireproofed the 18th-century paintings for a 20th-century disaster."
+    },
+    {
+      "question": "Is the GYG winter tour the only way to visit the Würzburg Residence?",
+      "answer": "No — the Würzburg Residence is independently accessible year-round (Tuesday–Sunday) at €9 adult admission, with guided tours of the principal rooms available in English at scheduled times. The GYG winter tour (t1022746, from $79) combines the Residence visit (with admission included) with a 30-minute free period, an Old Town walk, and a mulled wine stop on the Old Main Bridge. The mulled wine and Christmas market context is the seasonal character of this particular GYG product; the Residence visit it includes is standard and not winter-exclusive. The GYG tour is most appealing for visitors who want a guided introduction to the Residence combined with Old Town context in the winter season."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wurzburg-residence.webp",
+    "alt": "Würzburg Residence (Würzburger Residenz) — the Baroque UNESCO palace with Tiepolo's Grand Staircase ceiling fresco, Residenzplatz, Würzburg, Bavaria, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wurzburg-residence.webp",
+  "instagram_tag": "#wurzburgresidence",
+  "meta_title": "Würzburg Residence: Tiepolo's World-Largest Ceiling Fresco & UNESCO Palace — Visitor Guide 2026",
+  "meta_description": "Visit the Würzburg Residence — UNESCO World Heritage Baroque palace with Tiepolo's 677m² ceiling fresco, the world's largest, above Balthasar Neumann's Grand Staircase. Guided tour from $79.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "baroque",
+    "palace",
+    "unesco",
+    "tiepolo",
+    "fresco",
+    "balthasar-neumann",
+    "prince-bishop",
+    "franconia"
+  ],
+  "last_updated": "2026-08-01",
+  "routes": [],
+  "nearby_castles": [
+    "leuchtenburg-castle",
+    "heidelberg-castle",
+    "nuremberg-castle"
+  ],
+  "gyg_location_id": "133",
+  "gyg_search_query": "Würzburg Residence Baroque palace Tiepolo fresco guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1022746",
+      "title": "Würzburg in Winter: Residence, Old Town, and Mulled Wine",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 79,
+      "rating": 5.0,
+      "reviews": 2,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/wurzburg-l133/wurzburg-in-winter-residence-old-town-and-mulled-wine-t1022746/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "wurzburg-residence"
+      ],
+      "note": "Seasonal winter guided tour (typically December–February) covering the Würzburg Residence with admission explicitly included ('Entrance fee to the Residence included in the price' confirmed in GYG description and Includes list), plus 30 min free time, Old Town walk, and mulled wine on the Old Main Bridge. 5.0★ / 2 reviews → is_top_pick: true (>1 review, rating ≥ 4.8 per REGLA #3)."
+    }
+  ],
+  "gyg_direct_link_override": true
+}
