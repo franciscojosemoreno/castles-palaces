@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import type { Metadata } from 'next';
-import { getFeaturedCastles } from '@/lib/castles';
+import { getFeaturedCastles, getAllCastles } from '@/lib/castles';
 import { getAllCountries } from '@/lib/countries';
 import { getFeaturedTours } from '@/lib/tours';
 import CastleCard from '@/components/castle/CastleCard';
@@ -17,6 +17,7 @@ export default function HomePage() {
   const featured = getFeaturedCastles(9);
   const countries = getAllCountries();
   const featuredTours = getFeaturedTours(9);
+  const castleCount = Math.floor(getAllCastles().length / 100) * 100;
 
   return (
     <div>
@@ -57,7 +58,7 @@ export default function HomePage() {
             <span className="text-[#c9a84c]">Castles &amp; Palaces</span>
           </h1>
           <p className="text-white/90 text-lg sm:text-xl mb-8 max-w-xl mx-auto leading-relaxed">
-            Visitor guides, tours and itineraries for 500+ historic sites across Europe.
+            Visitor guides, tours and itineraries for {castleCount}+ historic sites across Europe.
           </p>
           <Link
             href="/castles"
