@@ -89,6 +89,22 @@
   "gyg_search_query": "Cardiff Castle Wales day tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "946568",
+      "title": "Cardiff in a Day: Castle & National Museum Guided Tour",
+      "type": "guided_tour",
+      "duration": "Full day",
+      "price_from": 99,
+      "rating": 5.0,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cardiff-l449/cardiff-guided-day-tour-t946568/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "cardiff-castle"
+      ],
+      "note": "GYG Itinerary: Cardiff Castle tagged 'Visit, 1 hour' — firm stop, not Optional. Includes: guided tour of Cardiff Castle. Only National Museum tagged Optional. 5.0★/4 reviews → is_top_pick: true per REGLA #3. Replaces rejected private €940 tour (t1137827)."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

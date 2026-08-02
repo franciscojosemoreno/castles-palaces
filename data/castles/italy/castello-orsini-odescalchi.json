@@ -84,6 +84,22 @@
   "gyg_search_query": "Castello Orsini-Odescalchi Bracciano tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "178955",
+      "title": "Bracciano: Odescalchi-Orsini Castle & Town Tour with Lunch",
+      "type": "guided_tour",
+      "duration": "Half-day",
+      "price_from": 220,
+      "rating": 5.0,
+      "reviews": 7,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/civitavecchia-l863/bracciano-half-day-odescalchi-castle-town-tour-with-lunch-t178955/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castello-orsini-odescalchi"
+      ],
+      "note": "GYG Includes: 'Castle's ticket entrance fee.' Full interior: 20+ rooms on Piano Nobile, medieval kitchen/armory. 5.0★/7 reviews → is_top_pick: true per REGLA #3. Replaces dead t1356699."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

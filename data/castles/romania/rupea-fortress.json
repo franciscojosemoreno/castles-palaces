@@ -90,6 +90,22 @@
   "gyg_search_query": "Rupea Fortress Transylvania Saxon Villages tour Viscri",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1166986",
+      "title": "Brașov: Șinca Veche Cave Monastery & Rupea Fortress Guided Tour",
+      "type": "guided_tour",
+      "duration": "Full day",
+      "price_from": 105,
+      "rating": 5.0,
+      "reviews": 2,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/brasov-l2003/brasov-sinca-veche-cave-monastery-rupea-fortress-guided-t1166986/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "rupea-fortress"
+      ],
+      "note": "GYG Includes: 'All entrance tickets included – no queues, no hidden costs.' Replaces t1370922 (Saxon Villages, which explicitly excluded entrance fees). 5.0★/2 reviews → is_top_pick: true per REGLA #3."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

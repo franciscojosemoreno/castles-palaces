@@ -93,6 +93,22 @@
   "gyg_search_query": "Alcazaba Malaga combined entry ticket Gibralfaro",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "323238",
+      "title": "Málaga: Alcazaba and Roman Theatre Guided Tour With Entry",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 13,
+      "rating": 4.7,
+      "reviews": 6993,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/malaga-l402/malaga-alcazaba-guided-tour-t323238/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "alcazaba-de-malaga"
+      ],
+      "note": "GYG Includes: 'Entrance tickets.' 4.7★/6,993 reviews. is_top_pick: false (rating < 4.8 per REGLA #3). Replaces dead t1385299. Dedicated Alcazaba product."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

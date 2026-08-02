@@ -86,6 +86,22 @@
   "gyg_search_query": "Castillo de Gibralfaro Malaga tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1414415",
+      "title": "Málaga: Admission to the Alcazaba and Castillo de Gibralfaro",
+      "type": "entry_ticket",
+      "duration": "Self-paced",
+      "price_from": 24,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/malaga-l402/malaga-admission-to-the-alcazaba-and-castillo-de-gibralfaro-t1414415/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "castillo-de-gibralfaro"
+      ],
+      "note": "GYG Includes: 'Admission ticket to Gibralfaro Castle' (explicit line). Combo ticket also covers Alcazaba. New activity, 0 reviews → is_top_pick: false per REGLA #3. Replaces dead t1377224."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

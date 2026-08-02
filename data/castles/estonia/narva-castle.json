@@ -84,6 +84,22 @@
   "gyg_search_query": "Narva Castle Estonia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1369248",
+      "title": "Narva: The Eastern Bloc Day Tour",
+      "type": "guided_tour",
+      "duration": "Full day",
+      "price_from": 129,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/sillamae-l244404/narva-the-eastern-bloc-day-tour-t1369248/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "narva-castle"
+      ],
+      "note": "GYG Includes: 'Visit to Narva city and Narva castle courtyard.' Courtyard/exterior access — not full interior museum tour. 0 reviews → rating: null, is_top_pick: false per REGLA #3."
+    }
+  ],
+  "gyg_direct_link_override": true
 }
