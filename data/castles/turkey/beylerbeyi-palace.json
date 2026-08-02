@@ -26,7 +26,7 @@
     "sunday": "09:00–17:00",
     "seasonal_note": "Open Wednesday–Sunday (closed Monday and Tuesday). Last entry approximately 1 hour before closing. Hours are subject to change on public holidays and during official state functions; confirm at millisarayi.gov.tr before visiting. The GYG entry ticket (t1413373) is a self-guided visit ticket. The palace interior is accessible only by guided group tour (guides assigned at the entrance); solo independent self-guided walkthroughs are not offered — a group forms and tours together with a palace guide."
   },
-  "price_adult": 500,
+  "price_adult": 16,
   "price_child": 250,
   "price_currency": "TRY",
   "booking_required": false,
@@ -99,7 +99,7 @@
       "title": "Istanbul: Beylerbeyi Palace Entry Ticket",
       "type": "entry_ticket",
       "duration": "1.5–2 hours",
-      "price_from": 15.74,
+      "price_from": 16,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,

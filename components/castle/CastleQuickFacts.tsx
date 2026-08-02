@@ -61,18 +61,25 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
       label: 'Hours',
       value: formatHoursShort(castle.opening_hours),
     },
-    castle.price_adult !== undefined && {
+    (castle.price_adult !== undefined || castle.gyg_featured_tours?.[0]) && {
       icon: '🎟️',
       label: (() => {
         const tour = castle.gyg_featured_tours?.[0];
-        if (tour?.type === 'skip_the_line') return 'Skip-the-line from';
-        if (tour?.type === 'entry_ticket') return 'Entry via GYG';
-        return 'Entry from';
+        if (!tour) return 'Entry from';
+        const labels: Partial<Record<string, string>> = {
+          skip_the_line: 'Skip-the-line from',
+          entry_ticket: 'Entry via GYG',
+          entrance_ticket: 'Entry via GYG',
+          guided_tour: 'Guided tour from',
+          day_trip: 'Day trip from',
+          boat_tour: 'Boat tour from',
+          multi_day: 'Tour from',
+        };
+        return labels[tour.type] ?? 'Tour from';
       })(),
       value: (() => {
         const tour = castle.gyg_featured_tours?.[0];
-        const useGYGPrice = tour && (tour.type === 'skip_the_line' || tour.type === 'entry_ticket') && tour.price_from;
-        const price = useGYGPrice ? tour.price_from : castle.price_adult;
+        const price = (tour?.price_from != null) ? tour.price_from : castle.price_adult;
         return price === 0 ? 'Free' : `€${price}`;
       })(),
       href: getGYGUrl(castle) ?? undefined,

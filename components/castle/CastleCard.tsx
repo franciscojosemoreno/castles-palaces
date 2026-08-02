@@ -10,6 +10,10 @@ interface CastleCardProps {
 
 export default function CastleCard({ castle, variant = 'default' }: CastleCardProps) {
   const href = `/castles/${castle.country}/${castle.id}`;
+  const featuredTour = castle.gyg_featured_tours?.[0];
+  const displayPrice = (featuredTour?.price_from != null)
+    ? featuredTour.price_from
+    : castle.price_adult;
 
   if (variant === 'compact') {
     return (
@@ -62,10 +66,10 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
 
         <div className="mt-3 flex items-center justify-between">
           <span className="text-sm text-stone-600">
-            {castle.price_adult === 0 ? (
+            {displayPrice === 0 ? (
               <span className="text-green-700 font-medium">Free entry</span>
-            ) : castle.price_adult ? (
-              <span>From €{castle.price_adult}</span>
+            ) : displayPrice != null ? (
+              <span>From €{displayPrice}</span>
             ) : null}
           </span>
           <span className="text-sm font-medium text-[#c9a84c] group-hover:underline">
