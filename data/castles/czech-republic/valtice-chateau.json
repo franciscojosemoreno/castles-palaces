@@ -88,6 +88,23 @@
   "gyg_search_query": "Valtice Chateau South Moravia Lednice UNESCO tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "738273",
+      "title": "From Bratislava: Moravia: Lednice Castle and park",
+      "type": "day_trip",
+      "duration": "12 hours",
+      "price_from": 169,
+      "rating": 5.0,
+      "reviews": 2,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/valtice-l210740/from-vienna-and-bratislava-moravia-lednice-castle-and-park-t738273/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "lednice-castle",
+        "valtice-chateau"
+      ],
+      "note": "Valtice Palace tagged 'Optional, Extra fee' in GYG itinerary (wine/brunch break) — standard inclusion is Lednice Castle. Applied per Francisco's decision (2026-08-02) to replace GYG search default. Shared tour with lednice-castle. 5.0★/2 reviews → is_top_pick: true per REGLA #3."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

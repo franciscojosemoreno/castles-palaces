@@ -12,7 +12,7 @@
   "nearest_city": "Kraków",
   "address": "Ojców, 32-047 Ojców, Poland",
   "lat": 50.2122,
-  "lng": 19.7920,
+  "lng": 19.792,
   "unesco": false,
   "year_built": 1350,
   "architectural_style": "Royal castle ruin on a limestone outcrop in Ojców National Park; one of the original chain of 25 Eagles' Nests castles built by King Casimir III the Great (Casimir the Great) on the limestone outcrops of the Polish Jurassic Highland (Krakowsko-Częstochowska Upland) in the second half of the 14th century to guard the Kraków–Wrocław trade route; the castle occupied a high natural rock platform above the Prądnik river valley; surviving elements include the octagonal tower (Baszta Łokietka — 'Elbow-high Tower,' named for the legend that Władysław I hid here as a fugitive), the Gothic gatehouse, and fragments of the curtain wall; partially demolished in the 19th century during Austrian partition-era quarrying and clearance; situated inside Ojców National Park — Poland's smallest national park, declared 1956, protecting the limestone gorges, caves, and chalk grasslands of the Prądnik and Sąspówka river valleys; entry to the ruins is free, within a national park context",
@@ -89,6 +89,22 @@
   "gyg_search_query": "Ojców Castle Poland Kraków national park",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [],
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1240321",
+      "title": "Krakow: Ojcow National Park, Castles & Hidden Gems Tour",
+      "type": "day_trip",
+      "duration": "Full day",
+      "price_from": 64,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/krakow-l40/krakow-ojcow-national-park-castles-hidden-gems-tour-t1240321/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "ojcow-castle"
+      ],
+      "note": "Ojcow Castle stop tagged Optional, Extra fee in GYG itinerary. Tour also includes Pieskowa Skała (has own tour on site). Applied per Francisco's decision (2026-08-02) to replace GYG search default. Ratings/reviews to be verified from GYG."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

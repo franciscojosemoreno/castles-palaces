@@ -89,6 +89,22 @@
   "gyg_search_query": "Grand Ducal Palace Luxembourg City guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1351380",
+      "title": "Luxembourg: Power, Palaces & Royal Secrets Walking Tour",
+      "type": "guided_tour",
+      "duration": "Half-day",
+      "price_from": 139,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/luxembourg-l430/luxembourg-power-palaces-royal-secrets-walking-tour-t1351380/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "grand-ducal-palace"
+      ],
+      "note": "Palace is an Optional exterior walk-by stop per GYG itinerary; Excludes list confirms entry tickets not covered. No interior access. Applied per Francisco's decision (2026-08-02) overriding earlier rejection. Ratings/reviews to be verified from GYG."
+    }
+  ],
+  "gyg_direct_link_override": true
 }

@@ -95,6 +95,22 @@
   "gyg_search_query": "Seteais Palace Sintra tour UNESCO Cultural Landscape",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [],
-  "gyg_direct_link_override": false
+  "gyg_featured_tours": [
+    {
+      "tour_id": "856768",
+      "title": "From Lisbon: Private Sintra Tour with a Local Guide",
+      "type": "day_trip",
+      "duration": "Full day",
+      "price_from": 450,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/sintra-l99/from-lisbon-private-sintra-tour-with-a-local-guide-t856768/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "seteais-palace"
+      ],
+      "note": "GYG Itinerary: Seteais Palace tagged 'Visit, Sightseeing — 20 minutes', firm non-optional stop. Palace is now a luxury hotel (Tivoli Palácio de Seteais); exterior grounds visit is the realistic best GYG product. 7-site private Sintra day tour. 1 review → rating: null, is_top_pick: false per REGLA #3. €450 is per-group price (up to 3 people), not per-person — page copy must clarify."
+    }
+  ],
+  "gyg_direct_link_override": true
 }
