@@ -26,7 +26,7 @@ function withImageFallback(country: Country): Country {
 export function getAllCountries(): Country[] {
   const content = fs.readFileSync(COUNTRIES_FILE, 'utf-8');
   const countries = JSON.parse(content) as Country[];
-  return countries.map(withImageFallback);
+  return countries.map(withImageFallback).sort((a, b) => a.name.localeCompare(b.name));
 }
 
 export function getCountryBySlug(slug: string): Country | null {
