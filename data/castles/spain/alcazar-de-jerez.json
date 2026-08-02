@@ -69,7 +69,17 @@
   "instagram_tag": "#alcazardejerez",
   "meta_title": "Alcázar of Jerez: Almohad Mosque, Arab Baths & Camera Obscura — Andalusia Guide 2026",
   "meta_description": "Visit the Alcázar of Jerez de la Frontera — an 11th-century Almohad fortress with the best-preserved mosque in Cádiz, Arab baths, Islamic gardens, and a camera obscura. From €7.",
-  "tags": ["spain", "andalusia", "cadiz", "castle", "almohad", "mosque", "arab-baths", "jerez", "sherry"],
+  "tags": [
+    "spain",
+    "andalusia",
+    "cadiz",
+    "castle",
+    "almohad",
+    "mosque",
+    "arab-baths",
+    "jerez",
+    "sherry"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
@@ -85,12 +95,14 @@
       "title": "Jerez de la Frontera: Alcázar City Guided Tour (Mosque, Arab Baths, Gardens + Historic Centre Walk)",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 28.45,
+      "price_from": 25,
       "rating": 4.6,
       "reviews": 151,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/jerez-de-la-frontera-l413/jerez-city-guided-tour-and-the-alcazar-t883775/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["alcazar-de-jerez"]
+      "covers_castles": [
+        "alcazar-de-jerez"
+      ]
     }
   ],
   "gyg_direct_link_override": true

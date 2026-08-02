@@ -69,7 +69,17 @@
   "instagram_tag": "#castellulldecona",
   "meta_title": "Ulldecona Castle: Moorish Fortress, 2,000-Year Olive Trees & UNESCO Cave Paintings — Guide 2026",
   "meta_description": "Visit Ulldecona Castle in the Terres de l'Ebre — a 10th-century Moorish fortress with panoramic views, plus millenary olive trees and UNESCO Levantine rock art in one combined day. From €5.",
-  "tags": ["spain", "catalonia", "terres-de-l-ebre", "castle", "moorish", "templar", "olive-trees", "cave-paintings", "unesco"],
+  "tags": [
+    "spain",
+    "catalonia",
+    "terres-de-l-ebre",
+    "castle",
+    "moorish",
+    "templar",
+    "olive-trees",
+    "cave-paintings",
+    "unesco"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -85,12 +95,14 @@
       "title": "Ulldecona: Combined Day Tour — Castle, Millenary Olive Trees Museum & Levantine Cave Paintings",
       "type": "guided_tour",
       "duration": "6 hours",
-      "price_from": 17.12,
+      "price_from": 15,
       "rating": null,
       "reviews": 1,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/ulldecona-l79680/ulldecona-castle-millenial-olive-trees-and-cave-paintings-t813736/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["ulldecona-castle"]
+      "covers_castles": [
+        "ulldecona-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

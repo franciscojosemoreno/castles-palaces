@@ -26,7 +26,7 @@
     "sunday": "10:00–18:00",
     "seasonal_note": "The GYG tour (t783810) is valid for 1 day and can be used on any day during open hours. The estate operates as a working vineyard and winery; availability of guided vs. self-guided access to the winery may vary depending on winery operations on a given day. Not all parts of the estate are accessible as guided tours on every visit — some reviewers report viewing the winery through a window on certain dates. Confirm current access format with the estate before booking if specific winery access is the priority."
   },
-  "price_adult": 35,
+  "price_adult": 30,
   "price_child": 18,
   "price_currency": "EUR",
   "booking_required": true,
@@ -99,7 +99,7 @@
       "title": "Bioul (near Dinant): Château de Bioul Tour and Wine Tasting",
       "type": "entry_ticket",
       "duration": "Valid 1 day",
-      "price_from": 35,
+      "price_from": 30,
       "rating": 3.4,
       "reviews": 10,
       "is_top_pick": false,

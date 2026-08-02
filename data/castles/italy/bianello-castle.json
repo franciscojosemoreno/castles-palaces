@@ -26,7 +26,7 @@
     "sunday": "10:00–18:00",
     "seasonal_note": "Open Wednesday–Sunday (closed Monday–Tuesday). The GYG guided tour (t1296628) is a fixed-duration 1.5-hour guided visit in Italian — confirm current language availability before booking if Italian is not your language. Tour frequency and times may vary by season. Confirm current schedule at castelloditaneto.it or castellodicanosse.com before visiting."
   },
-  "price_adult": 28,
+  "price_adult": 24,
   "price_child": 14,
   "price_currency": "EUR",
   "booking_required": true,
@@ -97,7 +97,7 @@
       "title": "Guided Tour of Bianello Castle: History, Mystery and Ghosts",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 28,
+      "price_from": 24,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,

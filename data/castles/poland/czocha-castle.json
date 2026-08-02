@@ -69,7 +69,16 @@
   "instagram_tag": "#zamekzczocha",
   "meta_title": "Czocha Castle Lower Silesia: Hidden Passages, Lake Fortress & Ghost Legends — Poland Guide 2026",
   "meta_description": "Visit Czocha Castle in Lower Silesia — a Neo-Gothic fortress on Lake Leśniańskie with hidden passages, underground corridors, and ghost legends. Day trip from Wrocław. From €8.",
-  "tags": ["poland", "lower-silesia", "castle", "neo-gothic", "lake", "hidden-passages", "silesia", "wroclaw"],
+  "tags": [
+    "poland",
+    "lower-silesia",
+    "castle",
+    "neo-gothic",
+    "lake",
+    "hidden-passages",
+    "silesia",
+    "wroclaw"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
@@ -85,12 +94,14 @@
       "title": "Wrocław: Czocha Castle Private Day Trip (~$189.14 per person, 7 hours, hidden passages, audio guide)",
       "type": "day_trip",
       "duration": "7 hours",
-      "price_from": 189.14,
+      "price_from": 167.05,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/lower-silesia-province-l2035/wroclaw-czocha-castle-private-tour-t1385544/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["czocha-castle"]
+      "covers_castles": [
+        "czocha-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

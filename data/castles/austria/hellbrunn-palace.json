@@ -74,7 +74,15 @@
   "instagram_tag": "#hellbrunnpalace",
   "meta_title": "Hellbrunn Palace Salzburg: Trick Fountains, Grottoes & Baroque Theatre — Guide 2026",
   "meta_description": "Visit Hellbrunn Palace near Salzburg — the 1619 Archbishop's pleasure palace with the world-famous Trick Fountains, mythological grottoes, and the oldest mechanical baroque theatre. Entry from €16.50.",
-  "tags": ["austria", "salzburg", "palace", "baroque", "trick-fountains", "grottoes", "mechanical-theatre"],
+  "tags": [
+    "austria",
+    "salzburg",
+    "palace",
+    "baroque",
+    "trick-fountains",
+    "grottoes",
+    "mechanical-theatre"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -92,12 +100,14 @@
       "title": "Salzburg: Hellbrunn Palace Baroque & Mozart Evening Concert (45 min, optional add-on)",
       "type": "guided_tour",
       "duration": "45 minutes",
-      "price_from": 27.39,
+      "price_from": 24,
       "rating": 4.2,
       "reviews": 6,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/salzburg-l10/salzburg-concert-at-hellbrunn-palace-t1248872/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["hellbrunn-palace"]
+      "covers_castles": [
+        "hellbrunn-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

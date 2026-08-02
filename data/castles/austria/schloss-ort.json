@@ -69,7 +69,16 @@
   "instagram_tag": "#schlossort",
   "meta_title": "Schloss Ort (Ort Castle) Gmunden: Island Castle on Lake Traunsee — Visitor Guide 2026",
   "meta_description": "Visit Schloss Ort in Gmunden — an 11th-century island castle on Lake Traunsee, free to admire from the wooden footbridge. Courtyard entry from €5. Famous TV filming location.",
-  "tags": ["austria", "upper-austria", "gmunden", "castle", "lake", "island", "salzkammergut", "traunsee"],
+  "tags": [
+    "austria",
+    "upper-austria",
+    "gmunden",
+    "castle",
+    "lake",
+    "island",
+    "salzkammergut",
+    "traunsee"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -85,12 +94,14 @@
       "title": "From Vienna: Alpine Day Trip to Hallstatt & Ort Castle (Photo Stop)",
       "type": "day_trip",
       "duration": "13 hours",
-      "price_from": 82,
+      "price_from": 71.4,
       "rating": 4.5,
       "reviews": 296,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/vienna-l7/from-vienna-alpine-panoramic-tour-to-hallstatt-t66823/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["schloss-ort"]
+      "covers_castles": [
+        "schloss-ort"
+      ]
     }
   ],
   "gyg_direct_link_override": true

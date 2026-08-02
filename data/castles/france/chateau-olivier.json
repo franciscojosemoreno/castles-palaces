@@ -69,7 +69,16 @@
   "instagram_tag": "#chateauolivier",
   "meta_title": "Château Olivier Bordeaux: Medieval Castle & Cru Classé Wine Tasting — Guide 2026",
   "meta_description": "Visit Château Olivier near Bordeaux — a 14th-century fortified manor and Cru Classé de Graves estate with guided winery tour and tasting from €20. Top Rated (4.9★). 10km from central Bordeaux.",
-  "tags": ["france", "bordeaux", "nouvelle-aquitaine", "castle", "wine", "pessac-leognan", "cru-classe", "biodiversity"],
+  "tags": [
+    "france",
+    "bordeaux",
+    "nouvelle-aquitaine",
+    "castle",
+    "wine",
+    "pessac-leognan",
+    "cru-classe",
+    "biodiversity"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -86,12 +95,14 @@
       "title": "Château Olivier: 1-Hour Winery Tour & Bordeaux Wine Tasting",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 23,
+      "price_from": 20,
       "rating": 4.9,
       "reviews": 27,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/bordeaux-l209/chateau-olivier-t781503/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-olivier"]
+      "covers_castles": [
+        "chateau-olivier"
+      ]
     }
   ],
   "gyg_direct_link_override": true

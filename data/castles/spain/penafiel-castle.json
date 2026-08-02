@@ -26,7 +26,7 @@
     "sunday": "10:30–14:30",
     "seasonal_note": "Hours vary by season; reduced hours in winter (November–March). The castle operates guided visits only — no free-roam access. Castle-only guided visit: approximately €3.30. Combined castle + Provincial Wine Museum ticket: €6.60 (recommended). The museum component includes exhibits on the five Designations of Origin of Valladolid province and wine tastings at certain visit levels. Confirm current times and prices at turismopeñafiel.es. The GYG luxury winery tour from Madrid (t850579, from $858) covers the castle with 'privileged access' alongside Ribera del Duero wineries — the $858 price is for the full private day tour, not castle entry."
   },
-  "price_adult": 6.60,
+  "price_adult": 6.6,
   "price_child": null,
   "price_currency": "EUR",
   "booking_required": false,
@@ -95,7 +95,7 @@
       "title": "Madrid: Luxury Ribera del Duero Winery Tour",
       "type": "guided_tour",
       "duration": "Full day (private day tour from Madrid)",
-      "price_from": 858,
+      "price_from": 750,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,

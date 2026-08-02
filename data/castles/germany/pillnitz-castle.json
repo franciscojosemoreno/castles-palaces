@@ -95,12 +95,14 @@
       "title": "Dresden: 2-Hour Elbe River Cruise Passing Pillnitz",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 37,
+      "price_from": 32,
       "rating": 4.5,
       "reviews": 2571,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/dresden-l20/dresden-2-hour-elbe-river-cruise-t57948/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["pillnitz-castle"]
+      "covers_castles": [
+        "pillnitz-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

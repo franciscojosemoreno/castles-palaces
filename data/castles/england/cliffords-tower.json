@@ -93,12 +93,14 @@
       "title": "York: Clifford's Tower Entry Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 11,
+      "price_from": 9.56,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/york-l436/york-clifford-s-tower-entry-ticket-t1340418/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["cliffords-tower"]
+      "covers_castles": [
+        "cliffords-tower"
+      ]
     }
   ],
   "gyg_direct_link_override": true

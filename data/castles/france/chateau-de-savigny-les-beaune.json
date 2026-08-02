@@ -26,7 +26,7 @@
     "sunday": "09:00–18:30",
     "seasonal_note": "Winter hours (November–March): typically 09:00–17:00. Confirm current hours at chateau-savigny.com before visiting — hours can vary by season and for private events. The grounds are also used for special events and wine tastings."
   },
-  "price_adult": 16,
+  "price_adult": 14,
   "price_child": 8,
   "price_currency": "EUR",
   "booking_required": false,
@@ -69,7 +69,16 @@
   "instagram_tag": "#chateausavigny",
   "meta_title": "Château de Savigny-lès-Beaune: Medieval Castle + 100 Planes & Motorcycles — Guide 2026",
   "meta_description": "Visit Château de Savigny-lès-Beaune in Burgundy — a 14th-century castle containing 100+ military aircraft, 200 motorcycles, and an Abarth racing collection. Entry from €16, includes wine tasting.",
-  "tags": ["france", "burgundy", "cote-dor", "beaune", "castle", "aviation-museum", "motorcycles", "abarth"],
+  "tags": [
+    "france",
+    "burgundy",
+    "cote-dor",
+    "beaune",
+    "castle",
+    "aviation-museum",
+    "motorcycles",
+    "abarth"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [],
@@ -83,12 +92,14 @@
       "title": "Savigny-lès-Beaune: Château Entry Ticket with Wine Tasting",
       "type": "entry_ticket",
       "duration": "1.5–3 hours",
-      "price_from": 16,
+      "price_from": 14,
       "rating": 4.7,
       "reviews": 77,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/beaune-l3/savigny-les-beaune-chateau-entry-ticket-with-wine-tasting-t900092/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-de-savigny-les-beaune"]
+      "covers_castles": [
+        "chateau-de-savigny-les-beaune"
+      ]
     }
   ],
   "gyg_direct_link_override": true

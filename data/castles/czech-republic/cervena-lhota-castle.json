@@ -69,7 +69,14 @@
   "instagram_tag": "#cervenalhota",
   "meta_title": "Červená Lhota Castle: South Bohemia's Red Water Castle — Visitor Guide 2026",
   "meta_description": "Visit Červená Lhota Castle — the red Renaissance water castle on a rock island in South Bohemia. Guided interior tour + drawbridge walk. Open April–October. Day trip from Prague available.",
-  "tags": ["czech-republic", "south-bohemia", "castle", "water-castle", "renaissance", "island-castle"],
+  "tags": [
+    "czech-republic",
+    "south-bohemia",
+    "castle",
+    "water-castle",
+    "renaissance",
+    "island-castle"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -86,12 +93,14 @@
       "title": "Prague: Private Day Trip to Červená Lhota & Jindřichův Hradec Castle with Lunch (~$329/group, 8 hours)",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 329,
+      "price_from": 288.77,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/prague-l53/castle-of-cervenalhota-castle-day-trip-with-a-private-guide-t1366075/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["cervena-lhota-castle"]
+      "covers_castles": [
+        "cervena-lhota-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -97,12 +97,14 @@
       "title": "Walking in Skopje (Includes Kale Fortress Views & Old Bazaar)",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 21,
+      "price_from": 18,
       "rating": 5.0,
       "reviews": 309,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/skopje-l2398/walking-in-skopje-t562369/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["kale-fortress"]
+      "covers_castles": [
+        "kale-fortress"
+      ]
     }
   ],
   "gyg_direct_link_override": true

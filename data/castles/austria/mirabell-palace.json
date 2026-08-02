@@ -12,7 +12,7 @@
   "nearest_city": "Salzburg",
   "address": "Mirabellplatz 4, 5020 Salzburg, Austria",
   "lat": 47.804,
-  "lng": 13.040,
+  "lng": 13.04,
   "unesco": true,
   "year_built": 1606,
   "architectural_style": "Baroque palace and formal garden — the current building was designed by Johann Lukas von Hildebrandt (architect of the Belvedere in Vienna) and completed between 1721 and 1727 for Archbishop Franz Anton von Harrach, replacing the earlier 1606 structure commissioned by Archbishop Wolf Dietrich von Raitenau; the Marble Hall (Marmorsaal) on the piano nobile is the centrepiece — white marble walls, gilded stucco reliefs, and ceiling frescoes by Martino Altomonte depicting the four elements; the Mirabellgarten was redesigned in Baroque style at the same period, with a formal parterre, geometric hedge gardens, and the Dwarf Garden (Zwerglgarten)",
@@ -69,7 +69,16 @@
   "instagram_tag": "#mirabellpalace",
   "meta_title": "Mirabell Palace Salzburg: Free Baroque Gardens & Mozart Concert Guide 2026",
   "meta_description": "Visit Mirabell Palace in Salzburg — free Baroque gardens with the famous Sound of Music steps and optional Mozart Concert in the Marble Hall from $45. UNESCO listed.",
-  "tags": ["austria", "salzburg", "baroque", "palace", "free", "sound-of-music", "mozart", "unesco"],
+  "tags": [
+    "austria",
+    "salzburg",
+    "baroque",
+    "palace",
+    "free",
+    "sound-of-music",
+    "mozart",
+    "unesco"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -86,12 +95,14 @@
       "title": "Salzburg: Mozart Concert at Mirabell Palace (optional evening experience)",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 45,
+      "price_from": 39,
       "rating": 4.8,
       "reviews": 3842,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/salzburg-l4/salzburg-concert-at-mirabell-palace-t60319/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["mirabell-palace"]
+      "covers_castles": [
+        "mirabell-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

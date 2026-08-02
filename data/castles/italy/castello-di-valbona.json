@@ -94,12 +94,14 @@
       "title": "Valbona: Castello di Valbona Visit with Audio Guide and Wine",
       "type": "entry_ticket",
       "duration": "1.5–2 hours",
-      "price_from": 17,
+      "price_from": 15,
       "rating": 4.5,
       "reviews": 13,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/lozzo-atestino-l234692/valbona-castello-di-valbona-visit-t962843/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["castello-di-valbona"]
+      "covers_castles": [
+        "castello-di-valbona"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -97,12 +97,15 @@
       "title": "Malta: Mdina and Rabat Walking Tour with Catacombs",
       "type": "guided_tour",
       "duration": "2.5 hours",
-      "price_from": 29,
+      "price_from": 25,
       "rating": 4.8,
       "reviews": 1424,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/mdina-l2070/malta-mdina-and-rabat-walking-tour-with-catacombs-t130110/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["mdina", "palazzo-falson"]
+      "covers_castles": [
+        "mdina",
+        "palazzo-falson"
+      ]
     }
   ],
   "gyg_direct_link_override": true

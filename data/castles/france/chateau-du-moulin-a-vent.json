@@ -12,7 +12,7 @@
   "nearest_city": "Villefranche-sur-Saône",
   "address": "Château du Moulin-à-Vent, 71570 Romanèche-Thorins, France",
   "lat": 46.198,
-  "lng": 4.720,
+  "lng": 4.72,
   "unesco": false,
   "year_built": 1550,
   "architectural_style": "16th-century Beaujolais château-viticole — a compact residential manor in the local granite vernacular, with the vaulted underground cellars that define the estate's wine-production history; the architecture is domestic and agricultural rather than defensive, reflecting the Beaujolais tradition of château-building as an expression of wine estate identity rather than territorial power; the Clos de Londres vineyard plots immediately surrounding the main cellar building are defined by dry-stone granite walls in a pattern unchanged since the estate's 18th-century demarcation",
@@ -69,7 +69,16 @@
   "instagram_tag": "#chateaumoulinàvent",
   "meta_title": "Château du Moulin-à-Vent: Beaujolais Cellar Tour & Vertical Tasting — Guide 2026",
   "meta_description": "Visit Château du Moulin-à-Vent in Beaujolais — a 16th-century estate cellar tour and 7-wine vertical tasting of the Clos de Londres, the appellation's benchmark plot since 1732. From $90.",
-  "tags": ["france", "beaujolais", "rhone", "castle", "wine", "moulin-a-vent", "gamay", "vertical-tasting"],
+  "tags": [
+    "france",
+    "beaujolais",
+    "rhone",
+    "castle",
+    "wine",
+    "moulin-a-vent",
+    "gamay",
+    "vertical-tasting"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [],
@@ -83,12 +92,14 @@
       "title": "Château du Moulin-à-Vent: Private Guided Cellar Tour & 7-Vintage Vertical Tasting",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 90,
+      "price_from": 79,
       "rating": 4.1,
       "reviews": 7,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/villefranche-sur-saone-l152396/visit-chateau-du-moulin-a-vent-where-time-is-an-ally-t708999/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-du-moulin-a-vent"]
+      "covers_castles": [
+        "chateau-du-moulin-a-vent"
+      ]
     }
   ],
   "gyg_direct_link_override": true

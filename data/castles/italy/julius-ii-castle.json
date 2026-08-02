@@ -26,7 +26,7 @@
     "sunday": "09:00–18:30",
     "seasonal_note": "Open Tuesday–Sunday; closed Monday. Winter hours may be reduced (November–March). The GYG entry ticket and audio tour (t1416346) is valid as a self-guided visit; visitors proceed at their own pace through the castle and the suggested walking route through Borgo di Ostia Antica. Confirm current access and hours at polomuseale.lazio.beniculturali.it before visiting."
   },
-  "price_adult": 30,
+  "price_adult": 26.1,
   "price_child": 15,
   "price_currency": "EUR",
   "booking_required": false,
@@ -99,7 +99,7 @@
       "title": "Julius II Castle Entry Ticket & Self-Guided Audio Tour",
       "type": "entry_ticket",
       "duration": "2 hours",
-      "price_from": 30,
+      "price_from": 26.1,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,

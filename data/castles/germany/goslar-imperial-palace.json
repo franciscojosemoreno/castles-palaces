@@ -69,7 +69,16 @@
   "instagram_tag": "#kaiserpfalzgoslar",
   "meta_title": "Goslar Imperial Palace (Kaiserpfalz): 11th-Century Holy Roman Emperor's Seat — Guide 2026",
   "meta_description": "Visit the Kaiserpfalz in Goslar — Henry III's 11th-century Romanesque imperial palace where his heart is still entombed. UNESCO World Heritage. Entry from €8.",
-  "tags": ["germany", "lower-saxony", "goslar", "palace", "romanesque", "holy-roman-empire", "unesco", "medieval"],
+  "tags": [
+    "germany",
+    "lower-saxony",
+    "goslar",
+    "palace",
+    "romanesque",
+    "holy-roman-empire",
+    "unesco",
+    "medieval"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [],
@@ -83,12 +92,14 @@
       "title": "Goslar: Guided Tour of the Imperial Palace Kaiserpfalz (German language only)",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 16,
+      "price_from": 14,
       "rating": 4.5,
       "reviews": 58,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/goslar-l2699/goslar-guided-tour-of-the-imperial-palace-kaiserpfalz-t616780/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["goslar-imperial-palace"]
+      "covers_castles": [
+        "goslar-imperial-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

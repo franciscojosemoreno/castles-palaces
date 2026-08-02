@@ -69,7 +69,17 @@
   "instagram_tag": "#aljaferia",
   "meta_title": "Aljafería Palace Zaragoza: The Northernmost Muslim Palace in Europe — Aragon Guide 2026",
   "meta_description": "Visit the Aljafería Palace in Zaragoza — the 11th-century Taifa Muslim palace, later court of the Kingdom of Aragon and the Spanish Inquisition. The first Aragon entry on the site. From €5.",
-  "tags": ["spain", "aragon", "zaragoza", "palace", "taifa", "islamic", "mudéjar", "catholic-monarchs", "inquisition"],
+  "tags": [
+    "spain",
+    "aragon",
+    "zaragoza",
+    "palace",
+    "taifa",
+    "islamic",
+    "mudéjar",
+    "catholic-monarchs",
+    "inquisition"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [],
@@ -83,12 +93,14 @@
       "title": "Zaragoza: Aljafería Palace Official Guided Visit + Entry Ticket (2 hours, skip-the-line)",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 25.04,
+      "price_from": 22,
       "rating": 4.7,
       "reviews": 43,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/zaragoza-l1630/aljaferia-palace-ticket-and-guided-visit-t1202562/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["aljaferia-palace"]
+      "covers_castles": [
+        "aljaferia-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

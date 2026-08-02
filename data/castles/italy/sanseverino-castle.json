@@ -26,7 +26,7 @@
     "sunday": "09:00–13:00, 15:00–18:00",
     "seasonal_note": "Open Tuesday–Sunday; closed Monday. Summer hours (June–September) may extend afternoon opening to 19:00. The GYG guided tour (t1163479) runs at scheduled intervals — confirm tour times before booking. The park grounds may be accessible outside guided tour hours; confirm current access with the park office."
   },
-  "price_adult": 6,
+  "price_adult": 5,
   "price_child": 4,
   "price_currency": "EUR",
   "booking_required": false,
@@ -99,7 +99,7 @@
       "title": "Mercato S. Severino: Tour of the medieval Sanseverino Castle",
       "type": "guided_tour",
       "duration": "3 hours",
-      "price_from": 6,
+      "price_from": 5,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,

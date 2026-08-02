@@ -12,7 +12,7 @@
   "nearest_city": "Montpellier",
   "address": "Place Anatole France, 30220 Aigues-Mortes, France",
   "lat": 43.5664,
-  "lng": 4.1930,
+  "lng": 4.193,
   "unesco": false,
   "year_built": 1240,
   "architectural_style": "Purpose-built royal fortified town of the 13th century — structurally in the same category as the Italian walled town of Monteriggioni rather than a conventional castle; the entire town is enclosed within a rectangular perimeter of medieval walls approximately 1.6 kilometres in circuit (nearly a mile), with 20 towers and 10 gateways; founded by King Louis IX (Saint Louis) around 1240 as France's only Mediterranean port, constructed on entirely flat Camargue marshland without natural defensive advantages; the walls were largely completed under Philip III in the 1270s; the principal landmark within the circuit is the Tour de Constance (Tower of Constance), a massive cylindrical keep 22 metres in diameter, predating the enclosure walls and serving as the royal donjon and later as a prison; the walls, towers, and the Tour de Constance can be visited as a continuous rampart walk; the town within the walls is a complete medieval grid plan largely preserved from its 13th-century foundation, the streets still following the original orthogonal layout; the wetland and salt marsh landscape of the Camargue surrounding the walls on all sides preserves the geographic isolation that made Aigues-Mortes both strategically significant and commercially marginal",
@@ -93,12 +93,14 @@
       "title": "Aigues Mortes: Medieval Ramparts Entry Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 10,
+      "price_from": 9,
       "rating": 4.7,
       "reviews": 169,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/aigues-mortes-l40711/aigues-mortes-medieval-ramparts-entry-ticket-t283487/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["aigues-mortes"]
+      "covers_castles": [
+        "aigues-mortes"
+      ]
     }
   ],
   "gyg_direct_link_override": true

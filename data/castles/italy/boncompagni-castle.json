@@ -11,7 +11,7 @@
   "region": "Lazio — Isola del Liri, Frosinone Province, Ciociaria",
   "nearest_city": "Frosinone",
   "address": "Via Boncompagni, 03036 Isola del Liri FR, Italy",
-  "lat": 41.680,
+  "lat": 41.68,
   "lng": 13.594,
   "unesco": false,
   "year_built": 1400,
@@ -73,7 +73,16 @@
   "instagram_tag": "#castelloboncompagni",
   "meta_title": "Boncompagni Castle Isola del Liri: Castle on the Urban Waterfall — Lazio Guide 2026",
   "meta_description": "Visit Boncompagni Castle in Isola del Liri — the 15th-century castle on a travertine rock island above the 27-metre Cascata Grande, one of Europe's only urban waterfalls. Free exterior visit.",
-  "tags": ["italy", "lazio", "frosinone", "castle", "waterfall", "exterior-visit", "ciociaria", "boncompagni"],
+  "tags": [
+    "italy",
+    "lazio",
+    "frosinone",
+    "castle",
+    "waterfall",
+    "exterior-visit",
+    "ciociaria",
+    "boncompagni"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -89,12 +98,14 @@
       "title": "Isola del Liri: Private Guided Walking Tour — Boncompagni Castle & Cascata Grande (~$388.13 per group, up to 25 people, exterior only)",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 388.13,
+      "price_from": 340,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/frosinone-l140803/isola-del-liri-visit-the-castle-and-the-unique-waterfalls-t1356260/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["boncompagni-castle"]
+      "covers_castles": [
+        "boncompagni-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -12,7 +12,7 @@
   "nearest_city": "Shkodër",
   "address": "Kalaja e Lezhës, Lezhë, Albania",
   "lat": 41.7844,
-  "lng": 19.6450,
+  "lng": 19.645,
   "unesco": false,
   "year_built": 1440,
   "architectural_style": "Layered Illyrian, Byzantine, Venetian, and Ottoman construction; the Venetian phase (c. 1440) produced the surviving curtain walls and gatehouse; Ottoman domed structures added after 1506; the underlying Illyrian acropolis dates to the 4th–3rd century BC",
@@ -84,7 +84,10 @@
   ],
   "last_updated": "2026-07-17",
   "routes": [],
-  "nearby_castles": ["kruje-castle", "rozafa-castle"],
+  "nearby_castles": [
+    "kruje-castle",
+    "rozafa-castle"
+  ],
   "gyg_location_id": "2830",
   "gyg_search_query": "Lezhë Castle Skanderbeg Albania tour",
   "gyg_widget_type": "activities",
@@ -95,12 +98,14 @@
       "title": "Lezhë: Guided Nature Walk, Castle Visit, and City Tour",
       "type": "day_trip",
       "duration": "6.5 hours",
-      "price_from": 101,
+      "price_from": 88.11,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/lezhe-l2830/lezhe-guided-nature-walk-castle-visit-and-city-tour-t1396794/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["lezhe-castle"]
+      "covers_castles": [
+        "lezhe-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

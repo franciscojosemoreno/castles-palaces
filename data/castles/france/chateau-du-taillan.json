@@ -84,7 +84,12 @@
   ],
   "last_updated": "2026-07-17",
   "routes": [],
-  "nearby_castles": ["chateau-olivier", "chateau-picque-caillou", "chateau-de-la-riviere", "chateau-de-reignac"],
+  "nearby_castles": [
+    "chateau-olivier",
+    "chateau-picque-caillou",
+    "chateau-de-la-riviere",
+    "chateau-de-reignac"
+  ],
   "gyg_location_id": "287",
   "gyg_search_query": "Château du Taillan wine tasting Bordeaux Médoc",
   "gyg_widget_type": "activities",
@@ -95,12 +100,14 @@
       "title": "Taillan-Médoc: Château Visit and Wine Tasting in Bordeaux",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 38,
+      "price_from": 33,
       "rating": 4.9,
       "reviews": 12,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/bordeaux-l287/taillan-medoc-chateau-visit-and-wine-tasting-in-bordeaux-t408058/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-du-taillan"]
+      "covers_castles": [
+        "chateau-du-taillan"
+      ]
     }
   ],
   "gyg_direct_link_override": true

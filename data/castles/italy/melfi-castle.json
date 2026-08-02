@@ -69,7 +69,16 @@
   "instagram_tag": "#castellodimelfi",
   "meta_title": "Melfi Castle Basilicata: Norman Fortress, Frederick II's Legal Capital & Archaeological Museum — Guide 2026",
   "meta_description": "Visit Melfi Castle in Basilicata — the Norman fortress where Frederick II issued the Constitutions of Melfi (1231), now housing the National Archaeological Museum with the Rapolla sarcophagus. From €6.",
-  "tags": ["italy", "basilicata", "castle", "norman", "frederick-ii", "archaeology", "museum", "vulture"],
+  "tags": [
+    "italy",
+    "basilicata",
+    "castle",
+    "norman",
+    "frederick-ii",
+    "archaeology",
+    "museum",
+    "vulture"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [],
@@ -83,12 +92,14 @@
       "title": "Melfi: Private Guided Tour of Melfi Castle & National Archaeological Museum (~$387.66 per group, up to 25 people)",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 387.66,
+      "price_from": 340,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/melfi-l59867/melfi-castle-and-museum-guided-tour-with-entry-t1224026/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["melfi-castle"]
+      "covers_castles": [
+        "melfi-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

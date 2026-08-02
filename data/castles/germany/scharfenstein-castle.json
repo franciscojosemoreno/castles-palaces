@@ -26,7 +26,7 @@
     "sunday": "10:00–17:00",
     "seasonal_note": "Apr–Oct only. Closed Mondays. Nov–Mar: open weekends only 11:00–15:00."
   },
-  "price_adult": 9,
+  "price_adult": 8,
   "price_child": 5,
   "price_currency": "EUR",
   "booking_required": false,
@@ -92,7 +92,7 @@
       "title": "Scharfenstein Castle Guided Tour",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 9,
+      "price_from": 8,
       "rating": null,
       "reviews": 1,
       "is_top_pick": false,

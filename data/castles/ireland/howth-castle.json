@@ -11,7 +11,7 @@
   "region": "County Dublin, Howth Peninsula",
   "nearest_city": "Dublin",
   "address": "Howth Castle Estate, Howth, Co. Dublin, D13 W2P7, Ireland",
-  "lat": 53.3920,
+  "lat": 53.392,
   "lng": -6.0657,
   "unesco": false,
   "year_built": 1235,
@@ -94,12 +94,14 @@
       "title": "Explore Howth Castle Estate & Ancient Fishing Village Tour",
       "type": "guided_tour",
       "duration": "2.5 hours",
-      "price_from": 34,
+      "price_from": 30,
       "rating": 5.0,
       "reviews": 2,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/dublin-l31/explore-howth-castle-estate-ancient-fishing-village-tour-t1271962/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["howth-castle"]
+      "covers_castles": [
+        "howth-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

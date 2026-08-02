@@ -94,12 +94,14 @@
       "title": "Château de Pierry: Self-Guided Tour with Wine Galleries and Cellar",
       "type": "guided_tour",
       "duration": "Self-paced (1.5–2 hours)",
-      "price_from": 16,
+      "price_from": 14,
       "rating": 4.6,
       "reviews": 3,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/pierry-l256638/chateau-de-pierry-a-self-guided-tour-in-the-heart-of-the-18th-century-t968002/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-de-pierry"]
+      "covers_castles": [
+        "chateau-de-pierry"
+      ]
     }
   ],
   "gyg_direct_link_override": true

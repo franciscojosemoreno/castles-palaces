@@ -26,7 +26,7 @@
     "sunday": "11:00–14:00",
     "seasonal_note": "Audio-guided visits available at scheduled times; advance booking required via GetYourGuide or the palace booking system. Confirm current tour schedules before visiting — available days and hours change seasonally. Closed Monday."
   },
-  "price_adult": 8,
+  "price_adult": 7,
   "price_child": 5,
   "price_currency": "EUR",
   "booking_required": false,
@@ -99,7 +99,7 @@
       "title": "Palace Monterrey Salamanca: Audio Guided Visit",
       "type": "entry_ticket",
       "duration": "1 hour",
-      "price_from": 8,
+      "price_from": 7,
       "rating": 4.3,
       "reviews": 66,
       "is_top_pick": false,

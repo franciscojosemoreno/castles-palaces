@@ -84,7 +84,9 @@
   ],
   "last_updated": "2026-07-17",
   "routes": [],
-  "nearby_castles": ["castello-estense"],
+  "nearby_castles": [
+    "castello-estense"
+  ],
   "gyg_location_id": "1139",
   "gyg_search_query": "Palazzo Schifanoia guided tour Ferrara Italy",
   "gyg_widget_type": "activities",
@@ -95,12 +97,14 @@
       "title": "Ferrara: Guided Visit to Palazzo Schifanoia",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 16,
+      "price_from": 11.2,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/ferrara-l1139/ferrara-guided-visit-to-palazzo-schifanoia-t1393414/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["palazzo-schifanoia"]
+      "covers_castles": [
+        "palazzo-schifanoia"
+      ]
     }
   ],
   "gyg_direct_link_override": true

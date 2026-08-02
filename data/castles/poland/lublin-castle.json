@@ -84,7 +84,10 @@
   ],
   "last_updated": "2026-07-17",
   "routes": [],
-  "nearby_castles": ["wawel-castle", "malbork-castle"],
+  "nearby_castles": [
+    "wawel-castle",
+    "malbork-castle"
+  ],
   "gyg_location_id": "2339",
   "gyg_search_query": "Lublin Castle Old Town private tour Poland",
   "gyg_widget_type": "activities",
@@ -95,12 +98,14 @@
       "title": "Lublin: Old Town Highlights & Castle Private Tour",
       "type": "guided_tour",
       "duration": "4 hours",
-      "price_from": 175,
+      "price_from": 154.06,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/lublin-l2339/lublin-old-town-highlights-castle-tour-with-dinner-t1231906/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["lublin-castle"]
+      "covers_castles": [
+        "lublin-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -26,7 +26,7 @@
     "sunday": "Closed",
     "seasonal_note": "⚠️ CRITICAL — VERY LIMITED PUBLIC ACCESS: Château de Buranlure is open to walk-in public visitors ONLY during July and August and on Journées du Patrimoine (European Heritage Days, the third weekend of September). Outside these periods, the château is closed to the public except via GYG advance booking (t690568). If you wish to visit between September (Heritage Days) and the following July, GYG booking is the only option. The owner — a family descendant — personally conducts all guided tours, which makes scheduling inflexible and advance booking essential."
   },
-  "price_adult": 10,
+  "price_adult": 9,
   "price_child": 5,
   "price_currency": "EUR",
   "booking_required": true,
@@ -81,7 +81,9 @@
   ],
   "last_updated": "2026-07-13",
   "routes": [],
-  "nearby_castles": ["chateau-de-valencay"],
+  "nearby_castles": [
+    "chateau-de-valencay"
+  ],
   "gyg_location_id": "287803",
   "gyg_search_query": "Château Buranlure Berry Sancerre guided tour cellar",
   "gyg_widget_type": "activities",
@@ -92,7 +94,7 @@
       "title": "Château de Buranlure: Skip-the-Line Guided Tour (Château + Cellars, July–August + Heritage Days; advance booking rest of year)",
       "type": "skip_the_line",
       "duration": "45 minutes",
-      "price_from": 10.26,
+      "price_from": 9,
       "rating": 5.0,
       "reviews": 3,
       "is_top_pick": true,

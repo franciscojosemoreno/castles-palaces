@@ -11,7 +11,7 @@
   "region": "Andalusia (Granada province, Vega de Granada)",
   "nearest_city": "Granada",
   "address": "Calle Castillo, 18220 Láchar, Granada, Spain",
-  "lat": 37.2000,
+  "lat": 37.2,
   "lng": -3.8667,
   "unesco": false,
   "year_built": 1400,
@@ -26,7 +26,7 @@
     "sunday": "10:00–14:00",
     "seasonal_note": "Visit by guided tour only. Confirm current tour schedule and availability before visiting — schedule varies seasonally and some periods require prior booking. The GYG listing reflects the most current availability."
   },
-  "price_adult": 7,
+  "price_adult": 6,
   "price_child": 5,
   "price_currency": "EUR",
   "booking_required": true,
@@ -84,7 +84,9 @@
   ],
   "last_updated": "2026-07-17",
   "routes": [],
-  "nearby_castles": ["alhambra-granada"],
+  "nearby_castles": [
+    "alhambra-granada"
+  ],
   "gyg_location_id": "207",
   "gyg_search_query": "Láchar Castle guided tour Granada Spain",
   "gyg_widget_type": "activities",
@@ -95,12 +97,14 @@
       "title": "Guided Visit to the Castle of Láchar, Granada",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 7,
+      "price_from": 6,
       "rating": 5.0,
       "reviews": 3,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/granada-l207/guided-visit-to-the-castle-of-lachar-granada-t958316/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["lachar-castle"]
+      "covers_castles": [
+        "lachar-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

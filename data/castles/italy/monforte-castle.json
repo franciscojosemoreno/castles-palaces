@@ -69,7 +69,15 @@
   "instagram_tag": "#castellomonforte",
   "meta_title": "Monforte Castle Campobasso: The 'Redondone' Keep Above Molise — Visitor Guide 2026",
   "meta_description": "Visit Monforte Castle in Campobasso — the Lombard-era fortress with the famous 'Redondone' keep above Italy's least-visited regional capital, with panoramic Molise highland views. Exterior visit.",
-  "tags": ["italy", "molise", "campobasso", "castle", "lombard", "exterior-visit", "panoramic"],
+  "tags": [
+    "italy",
+    "molise",
+    "campobasso",
+    "castle",
+    "lombard",
+    "exterior-visit",
+    "panoramic"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [],
@@ -83,12 +91,14 @@
       "title": "Campobasso: Private Guided Walking Tour — Monforte Castle, Medieval Quarter & Panoramic Views (~$387.66 per group, up to 25 people, exterior only)",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 387.66,
+      "price_from": 340,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/campobasso-l68038/campobasso-walking-tour-discover-the-castle-monforte-t1364364/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["monforte-castle"]
+      "covers_castles": [
+        "monforte-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

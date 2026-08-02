@@ -69,7 +69,17 @@
   "instagram_tag": "#palazzoducaleurbino",
   "meta_title": "Ducal Palace of Urbino: Galleria Nazionale delle Marche, Studiolo & Visitor Guide 2026",
   "meta_description": "Visit the Ducal Palace of Urbino — Federico da Montefeltro's Renaissance masterpiece with the Galleria Nazionale delle Marche, the inlaid studiolo, and Piero della Francesca. From $27.32.",
-  "tags": ["italy", "marche", "urbino", "palace", "renaissance", "montefeltro", "piero-della-francesca", "raphael", "unesco"],
+  "tags": [
+    "italy",
+    "marche",
+    "urbino",
+    "palace",
+    "renaissance",
+    "montefeltro",
+    "piero-della-francesca",
+    "raphael",
+    "unesco"
+  ],
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [],
@@ -83,12 +93,14 @@
       "title": "Urbino: Galleria Nazionale delle Marche Entry Ticket — Ducal Palace (1 day, wheelchair accessible)",
       "type": "entry_ticket",
       "duration": "1.5–2.5 hours",
-      "price_from": 27.32,
+      "price_from": 24,
       "rating": 4.2,
       "reviews": 7,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/urbino-l102897/urbino-galleria-nazionale-delle-marche-ticket-t663205/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["ducal-palace-of-urbino"]
+      "covers_castles": [
+        "ducal-palace-of-urbino"
+      ]
     }
   ],
   "gyg_direct_link_override": true

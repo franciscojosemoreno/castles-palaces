@@ -86,7 +86,11 @@
   ],
   "last_updated": "2026-07-17",
   "routes": [],
-  "nearby_castles": ["chateau-de-chenonceau", "chateau-de-chambord", "buranlure-castle"],
+  "nearby_castles": [
+    "chateau-de-chenonceau",
+    "chateau-de-chambord",
+    "buranlure-castle"
+  ],
   "gyg_location_id": "279725",
   "gyg_search_query": "Château de Valençay tour Loire Valley France",
   "gyg_widget_type": "activities",
@@ -97,12 +101,14 @@
       "title": "Château de Valençay: Self-Guided Tour of the Castle and its Park",
       "type": "entry_ticket",
       "duration": "Self-guided (open all day)",
-      "price_from": 9,
+      "price_from": 7.5,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/valencay-l279725/chateau-de-valencay-self-guided-tour-of-the-castle-and-its-park-t944178/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-de-valencay"]
+      "covers_castles": [
+        "chateau-de-valencay"
+      ]
     }
   ],
   "gyg_direct_link_override": true

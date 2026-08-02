@@ -73,7 +73,17 @@
   "instagram_tag": "#castelldesagunt",
   "meta_title": "Sagunto Castle Valencia: 2,300 Years of History, Roman Theatre & Hannibal's Siege — Guide 2026",
   "meta_description": "Visit Sagunto Castle near Valencia — the 7-hectare multi-period fortress where Hannibal's 219 BC siege began the Second Punic War, plus the Roman Theatre and Historical Museum. From €5.",
-  "tags": ["spain", "valencian-community", "valencia", "castle", "iberian", "roman", "hannibal", "punic-wars", "roman-theatre"],
+  "tags": [
+    "spain",
+    "valencian-community",
+    "valencia",
+    "castle",
+    "iberian",
+    "roman",
+    "hannibal",
+    "punic-wars",
+    "roman-theatre"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -90,12 +100,14 @@
       "title": "Valencia: Sagunto Castle, Roman Theatre & Historical Museum Small-Group Day Tour (3.5–4h, skip-the-line)",
       "type": "day_trip",
       "duration": "3.5–4 hours",
-      "price_from": 34.24,
+      "price_from": 30,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/valencia-l248/sagunto-castle-roman-theatre-and-museum-guided-tour-t1282269/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["sagunto-castle"]
+      "covers_castles": [
+        "sagunto-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

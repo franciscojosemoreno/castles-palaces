@@ -26,7 +26,7 @@
     "sunday": "Closed",
     "seasonal_note": "Open exclusively for guided tours on designated dates (see moncalieri.it or GYG). The castle is an active Italian Army Carabinieri base — public access is by organized tour only, not on demand."
   },
-  "price_adult": 18,
+  "price_adult": 16,
   "price_child": 10,
   "price_currency": "EUR",
   "booking_required": true,
@@ -98,7 +98,7 @@
       "title": "Moncalieri Castle: Guided Visit to Royal Apartments with Tasting (Italian only)",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 18,
+      "price_from": 16,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,

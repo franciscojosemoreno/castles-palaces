@@ -26,7 +26,7 @@
     "sunday": "10:00–19:00",
     "seasonal_note": "The ticket via GYG (t392790, skip-the-line from $10) covers access to the 12 courtyards and gardens only. **The interior palace rooms require a SEPARATE on-site ticket (~€3–5 additional), purchased at the palace entrance.** This separation is the standard ticket arrangement at the Palacio de Viana — the GYG and official online ticket does not cover the palace interior. Confirm current ticket arrangements at palaciodecordoba.es. Hours may be adjusted during the Córdoba Patio Festival (typically early May). Closed for private events on occasion."
   },
-  "price_adult": 5.50,
+  "price_adult": 5.5,
   "price_child": 3,
   "price_currency": "EUR",
   "booking_required": false,
@@ -73,7 +73,17 @@
   "instagram_tag": "#palaciodeviana",
   "meta_title": "Palace of Viana Córdoba: 12 Andalusian Courtyards & Patio Festival Guide 2026",
   "meta_description": "Visit the Palace of Viana in Córdoba — 12 historic courtyards across five centuries, part of Córdoba's UNESCO Patio Festival tradition. Skip-the-line from $10. Note: interior rooms require a separate on-site ticket.",
-  "tags": ["spain", "andalusia", "cordoba", "palace", "patios", "unesco-ich", "patio-festival", "renaissance", "baroque"],
+  "tags": [
+    "spain",
+    "andalusia",
+    "cordoba",
+    "palace",
+    "patios",
+    "unesco-ich",
+    "patio-festival",
+    "renaissance",
+    "baroque"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -90,12 +100,14 @@
       "title": "Córdoba: Palacio de Viana Skip-the-Line Ticket (12 Courtyards & Gardens)",
       "type": "skip_the_line",
       "duration": "1.5–2 hours",
-      "price_from": 10,
+      "price_from": 8.5,
       "rating": 4.5,
       "reviews": 1020,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/cordoba-l191/cordoba-palacio-de-viana-skip-the-line-entry-t392790/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["viana-palace"]
+      "covers_castles": [
+        "viana-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

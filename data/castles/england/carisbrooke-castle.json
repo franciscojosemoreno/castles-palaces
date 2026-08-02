@@ -93,12 +93,14 @@
       "title": "Isle of Wight: Carisbrooke Castle Entry Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 18,
+      "price_from": 15.59,
       "rating": 4.5,
       "reviews": 86,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/newport-isle-of-wight-l254181/carisbrooke-castle-t394618/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["carisbrooke-castle"]
+      "covers_castles": [
+        "carisbrooke-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

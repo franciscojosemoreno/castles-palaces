@@ -26,7 +26,7 @@
     "sunday": "10:00–18:00",
     "seasonal_note": "Hours can vary seasonally. Confirm current hours at chateau-de-luc.com before visiting. The guided château visit with organic wine tasting (GYG t479105) should be booked in advance via GYG to guarantee a place — small group sizes."
   },
-  "price_adult": 15,
+  "price_adult": 13,
   "price_child": 8,
   "price_currency": "EUR",
   "booking_required": true,
@@ -69,7 +69,17 @@
   "instagram_tag": "#chateaudeluc",
   "meta_title": "Château de Luc: Medieval Castle & Organic Wine Tasting in the Minervois — Guide 2026",
   "meta_description": "Visit Château de Luc in Languedoc — a 14th-century fortified castle with a continuously used medieval wine cellar and organic Minervois wines. Guided visit + tasting from €15.",
-  "tags": ["france", "languedoc", "occitanie", "aude", "castle", "wine", "organic", "minervois", "corbières"],
+  "tags": [
+    "france",
+    "languedoc",
+    "occitanie",
+    "aude",
+    "castle",
+    "wine",
+    "organic",
+    "minervois",
+    "corbières"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -85,12 +95,14 @@
       "title": "Château de Luc: Guided Castle Visit & Organic Wine Tasting",
       "type": "guided_tour",
       "duration": "1.5–2 hours",
-      "price_from": 15,
+      "price_from": 13,
       "rating": 4.7,
       "reviews": 63,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/carcassonne-l2699/chateau-de-luc-t479105/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["chateau-de-luc"]
+      "covers_castles": [
+        "chateau-de-luc"
+      ]
     }
   ],
   "gyg_direct_link_override": true

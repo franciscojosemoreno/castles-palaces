@@ -96,12 +96,14 @@
       "title": "Gothenburg: Private Day Trip to Lake Vänern & Läckö Castle",
       "type": "day_trip",
       "duration": "10 hours",
-      "price_from": 519,
+      "price_from": 455.13,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/gothenburg-l479/gothenburg-private-day-trip-to-lake-vanern-lacko-castle-t1128033/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["lacko-castle"]
+      "covers_castles": [
+        "lacko-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

@@ -12,7 +12,7 @@
   "nearest_city": "Seville",
   "address": "Calle Dueñas 5, 41003 Seville, Spain",
   "lat": 37.393,
-  "lng": -5.990,
+  "lng": -5.99,
   "unesco": false,
   "year_built": 1496,
   "architectural_style": "Sevillian palace combining Gothic, Mudéjar, and Renaissance elements — the principal patio (courtyard) is a double-height arcaded square with slender Ionic columns, sculptural marble busts at the archway keystones, Mudéjar tile dados (azulejos) at lower register, and a central garden; the palace accumulated its current form through additions from the 15th to the 19th centuries, creating a layered domestic architecture typical of Seville's great urban noble palaces; the main facade on Calle Dueñas is relatively modest, preserving the Sevillian tradition of concealing interior splendour behind plain street walls",
@@ -69,7 +69,16 @@
   "instagram_tag": "#palaciodueñas",
   "meta_title": "Las Dueñas Palace Seville: Ducal Palace of the House of Alba — Visitor Guide 2026",
   "meta_description": "Visit Las Dueñas Palace in Seville — the private Renaissance palace of the Dukes of Alba, birthplace of poet Antonio Machado. Entry from €12. 5 minutes from the Alcázar.",
-  "tags": ["spain", "andalusia", "seville", "palace", "renaissance", "mudejar", "inhabited", "noble"],
+  "tags": [
+    "spain",
+    "andalusia",
+    "seville",
+    "palace",
+    "renaissance",
+    "mudejar",
+    "inhabited",
+    "noble"
+  ],
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
@@ -85,12 +94,14 @@
       "title": "Seville: Las Dueñas Palace Entry Ticket and Audio Guide",
       "type": "entry_ticket",
       "duration": "1–1.5 hours",
-      "price_from": 17,
+      "price_from": 15,
       "rating": 4.7,
       "reviews": 4242,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/seville-l48/las-duenas-palace-entry-ticket-and-audio-guide-t302548/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["las-duenas-palace"]
+      "covers_castles": [
+        "las-duenas-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true

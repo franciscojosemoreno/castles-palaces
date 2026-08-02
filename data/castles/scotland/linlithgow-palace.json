@@ -100,12 +100,14 @@
       "title": "Edinburgh: Half-Day Tour of Linlithgow with Palace Visit (Admission Included)",
       "type": "guided_tour",
       "duration": "5.5 hours (from Edinburgh, including train journey)",
-      "price_from": 25,
+      "price_from": 22.2,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/linlithgow-l176102/edinburgh-half-day-tour-of-linlithgow-with-palace-visit-t1023705/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["linlithgow-palace"]
+      "covers_castles": [
+        "linlithgow-palace"
+      ]
     }
   ],
   "gyg_direct_link_override": true
