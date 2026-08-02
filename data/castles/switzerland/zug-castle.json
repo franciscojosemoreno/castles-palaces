@@ -83,21 +83,6 @@
   "gyg_search_query": "Zug Castle Switzerland tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1273356",
-      "title": "Zug: Admission to the Zug Castle Museum",
-      "type": "entrance_ticket",
-      "duration": "1 hour",
-      "price_from": 15,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/zug-l95858/zug-admission-to-the-zug-castle-museum-t1273356/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "zug-castle"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

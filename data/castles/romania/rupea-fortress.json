@@ -90,21 +90,6 @@
   "gyg_search_query": "Rupea Fortress Transylvania Saxon Villages tour Viscri",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1370922",
-      "title": "Saxon Villages Tour: Viscri, Rupea Fortress, Crit & Saschiz",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 45,
-      "rating": 4.9,
-      "reviews": 5,
-      "is_top_pick": true,
-      "booking_url_override": "https://www.getyourguide.com/saschiz-l252802/saxon-villages-tour-viscri-rupea-fortress-crit-saschiz-t1370922/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "rupea-fortress"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

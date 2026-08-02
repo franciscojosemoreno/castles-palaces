@@ -11,7 +11,7 @@
   "region": "Leens, Groningen Province",
   "nearest_city": "Groningen",
   "address": "Wierde 40, 9965 TE Leens, Groningen, Netherlands",
-  "lat": 53.390,
+  "lat": 53.39,
   "lng": 6.299,
   "unesco": false,
   "year_built": 1830,
@@ -94,12 +94,14 @@
       "title": "Leens: Museum Borg Verhildersum Estate Admission",
       "type": "entry_ticket",
       "duration": "Self-paced (1.5–2.5 hours)",
-      "price_from": 11,
+      "price_from": 10,
       "rating": 4.7,
       "reviews": 3,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/groningen-netherlands-l32387/leens-museum-borg-verhildersum-t764259/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["castle-verhildersum"]
+      "covers_castles": [
+        "castle-verhildersum"
+      ]
     }
   ],
   "gyg_direct_link_override": true

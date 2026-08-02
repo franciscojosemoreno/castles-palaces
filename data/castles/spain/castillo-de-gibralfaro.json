@@ -86,21 +86,6 @@
   "gyg_search_query": "Castillo de Gibralfaro Malaga tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1377224",
-      "title": "Malaga: Entrance ticket to Castillo de Gibralfaro",
-      "type": "entry_ticket",
-      "duration": "1.5 hours",
-      "price_from": 14,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/malaga-l402/malaga-entrance-ticket-to-castillo-de-gibralfaro-t1377224/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "castillo-de-gibralfaro"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

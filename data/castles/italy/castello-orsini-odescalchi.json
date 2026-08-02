@@ -84,21 +84,6 @@
   "gyg_search_query": "Castello Orsini-Odescalchi Bracciano tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1356699",
-      "title": "Bracciano: Orsini-Odescalchi Castle ticket",
-      "type": "guided_tour",
-      "duration": "2 hours",
-      "price_from": 18,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/rome-l33/bracciano-orsini-odescalchi-castle-ticket-t1356699/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "castello-orsini-odescalchi"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

@@ -89,24 +89,6 @@
   "gyg_search_query": "Grand Ducal Palace Luxembourg City guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1351380",
-      "title": "From Luxembourg City: Vianden, Beaufort & Larochette Castles Day Tour",
-      "type": "guided_tour",
-      "duration": "Full day",
-      "price_from": 75,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/luxembourg-city-l2340/luxembourg-castles-grand-ducal-palace-vianden-day-trip-t1351380/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "vianden-castle",
-        "beaufort-castle",
-        "larochette-castle",
-        "grand-ducal-palace"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

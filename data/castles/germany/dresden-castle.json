@@ -100,12 +100,14 @@
       "title": "Dresden Castle: General Admission Ticket (Official SKD Ticket)",
       "type": "entry_ticket",
       "duration": "Self-paced (2–4 hours)",
-      "price_from": 21,
+      "price_from": 35,
       "rating": 4.6,
       "reviews": 1429,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/dresden-l20/dresden-castle-general-admission-ticket-t914579/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["dresden-castle"]
+      "covers_castles": [
+        "dresden-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

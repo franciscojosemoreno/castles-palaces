@@ -26,7 +26,7 @@
     "sunday": "09:00–20:00",
     "seasonal_note": "Summer hours (April–October): daily 09:00–20:00. Winter hours (November–March): daily 09:00–18:00. Last admission 30 minutes before closing. Entry is free every Sunday. Combined official ticket (Alcazaba + Gibralfaro): €5.50. Confirm current hours at alcazabaygibralfaro.malaga.eu — hours can change for public holidays and special events."
   },
-  "price_adult": 3.50,
+  "price_adult": 3.5,
   "price_child": 0,
   "price_currency": "EUR",
   "booking_required": false,
@@ -93,22 +93,6 @@
   "gyg_search_query": "Alcazaba Malaga combined entry ticket Gibralfaro",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1385299",
-      "title": "Málaga: Alcazaba Entry Ticket with Hotel Pickup (includes Gibralfaro Castle, skip-the-ticket-line)",
-      "type": "guided_tour",
-      "duration": "3 hours",
-      "price_from": 15.48,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/guejar-sierra-l207737/malaga-alcazaba-entry-ticket-t1385299/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "alcazaba-de-malaga",
-        "castillo-de-gibralfaro"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

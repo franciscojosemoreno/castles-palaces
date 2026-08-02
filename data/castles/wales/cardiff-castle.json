@@ -89,23 +89,6 @@
   "gyg_search_query": "Cardiff Castle Wales day tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1137827",
-      "title": "From Cardiff: South Wales Three Castles & Welsh Mountains Day Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 45,
-      "rating": 4.7,
-      "reviews": 620,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/cardiff-l449/day-tour-of-south-wales-t1137827/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "cardiff-castle",
-        "castell-coch",
-        "caerphilly-castle"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

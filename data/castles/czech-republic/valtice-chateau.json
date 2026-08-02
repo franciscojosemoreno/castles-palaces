@@ -88,22 +88,6 @@
   "gyg_search_query": "Valtice Chateau South Moravia Lednice UNESCO tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "808149",
-      "title": "South Moravia: Lednice-Valtice UNESCO Landscape & Mikulov Day Trip",
-      "type": "day_trip",
-      "duration": "10 hours",
-      "price_from": 75,
-      "rating": 5.0,
-      "reviews": 2,
-      "is_top_pick": true,
-      "booking_url_override": "https://www.getyourguide.com/lednice-l211053/south-moravia-lednice-valtice-area-mikulov-day-trip-t808149/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "valtice-chateau",
-        "lednice-castle"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

@@ -87,21 +87,6 @@
   "gyg_search_query": "Kreuzenstein Castle Vienna day trip Lower Austria",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "860342",
-      "title": "From Vienna: Kreuzenstein, Liechtenstein Castle & Seegrotte Underground Lake Day Trip",
-      "type": "day_trip",
-      "duration": "Full day",
-      "price_from": 65,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/vienna-l7/vienna-day-trip-castles-around-vienna-underground-lake-t860342/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "kreuzenstein-castle"
-      ]
-    }
-  ],
-  "gyg_direct_link_override": true
+  "gyg_featured_tours": null,
+  "gyg_direct_link_override": false
 }

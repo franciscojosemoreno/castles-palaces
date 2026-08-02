@@ -12,7 +12,7 @@
   "nearest_city": "Tartu",
   "address": "Lossipark, Viljandi 71001, Estonia",
   "lat": 58.3664,
-  "lng": 25.5930,
+  "lng": 25.593,
   "unesco": false,
   "year_built": 1224,
   "architectural_style": "Livonian Order castle ruins in a scenic lakeside hill park — originally built from 1224 by the Order of the Sword Brothers (Livonian Brothers of the Sword), which was absorbed into the Teutonic Order in 1237 to become the Livonian Order; the castle became the third largest Livonian Order castle in the region, after Riga and Cesis, with a complex multi-phase construction across the 13th to 15th centuries developing a main castle, two foreworks (outer defensive enclosures), and a lower bailey; the castle was damaged during the Livonian War (1558–1583) and finally destroyed during the Great Northern War (1700–1721) — the fortification was demolished by Russian forces to prevent its use by Swedish military; the ruins are now located within the Viljandi Castle Hill Park (Lossipark), a 19th-century romantic landscape garden laid out around the medieval ruins on a ridge above Lake Viljandi; a distinctive feature of the site is a suspension footbridge crossing a moat depression on the castle hill — one of the most photographed pieces of infrastructure in southern Estonia; Viljandi is associated with one of the largest folk music festivals in the world, the Viljandi Folk Music Festival, held annually in late July in and around the castle park since 1994",
@@ -93,12 +93,14 @@
       "title": "Viljandi: Castle Ruins and City Private Guided Tour",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 69,
+      "price_from": 75,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/viljandi-l164718/viljandi-castle-ruins-and-city-private-guided-tour-t1350374/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["viljandi-castle"]
+      "covers_castles": [
+        "viljandi-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true
