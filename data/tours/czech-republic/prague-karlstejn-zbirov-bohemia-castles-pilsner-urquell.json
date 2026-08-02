@@ -1,0 +1,106 @@
+{
+  "id": "prague-karlstejn-zbirov-bohemia-castles-pilsner-urquell",
+  "slug": "prague-karlstejn-zbirov-bohemia-castles-pilsner-urquell",
+  "name": "Karlštejn, Žebrák & Zbiroh Castles: Bohemia Day Trip with Pilsner Urquell",
+  "tagline": "Three Bohemian castles across two centuries of Holy Roman history — plus the brewery that invented pale lager in 1842",
+  "departure_country": "czech-republic",
+  "departure_city": "Prague",
+  "visited_countries": ["czech-republic"],
+  "duration_days": 1,
+  "duration_label": "Full day (private door-to-door)",
+  "gyg_tour_id": "1168897",
+  "gyg_url": "https://www.getyourguide.com/prague-l10/prague-karlstejn-zbiroh-pilsen-brewery-tour-t1168897/",
+  "price_from": 1275,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 0,
+  "languages": ["English"],
+  "max_group_size": 3,
+  "overview": "The limestone valleys of central Bohemia southwest of Prague contain a concentration of medieval castles unmatched in the Czech Republic — Gothic fortifications built in the 14th century by the Luxembourg dynasty when Bohemia was the most powerful kingdom in the Holy Roman Empire. This private door-to-door day trip from Prague visits three: Karlštejn, the most famous castle in Bohemia and the personal treasury of Holy Roman Emperor Charles IV; the ruined Gothic twins of Žebrák and Točník on adjacent hilltops above the Berounka River; and Zbiroh, a Renaissance château that served in the 20th century as both the painting studio where Alfons Mucha created his monumental Slav Epic canvas cycle and a secret Czechoslovak military base. The day concludes with a tour of the Pilsner Urquell brewery in Plzeň — the brewery where pale golden lager was invented in 1842, transforming global beer culture. There are no reviews at time of writing; the operator is newly listed on GetYourGuide and this appears to be a premium private product priced per group (maximum three passengers, $1,275 total).",
+  "highlights": [
+    "Karlštejn Castle — Emperor Charles IV's 14th-century treasury and personal retreat, built to hold the crown jewels of the Holy Roman Empire and sacred relics; the most visited castle in the Czech Republic",
+    "Koněprusy Caves — an extensive Devonian limestone cave system below the Bohemian karst plateau, with stalactite formations and a medieval coin-forging workshop discovered inside",
+    "Žebrák & Točník — two Gothic castles on adjacent hilltops, one a 14th-century royal hunting residence (Žebrák), the other the 15th-century replacement built when Wenceslaus IV abandoned the first; both now preserved ruins",
+    "Zbiroh Château — where Alfons Mucha painted his monumental Slav Epic (1910–1928), a cycle of 20 large-format canvases depicting the mythological and historical origins of the Slavic peoples",
+    "Pilsner Urquell Brewery, Plzeň — the birthplace of pale lager (first brewed 1842); includes the underground cellars where beer was lagered at near-freezing temperatures in oak barrels before refrigeration"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "karlstejn-castle",
+      "castle_name": "Karlštejn Castle",
+      "duration": "1 hour 30 minutes",
+      "description": "Karlštejn was built between 1348 and 1365 by Holy Roman Emperor Charles IV, King of Bohemia — the most powerful ruler in 14th-century Europe, who transformed Prague into an imperial capital and made Bohemia the political and cultural centre of the Holy Roman Empire. The castle was designed for a single purpose: to hold and protect the imperial crown jewels and sacred relics that Charles had accumulated throughout his reign — relics of the True Cross, the Crown of Thorns, and the imperial insignia. The architecture reflects this function: access to the holiest inner sanctum (the Chapel of the Holy Cross in the Great Tower) was restricted to the Emperor alone, or to those he specifically permitted. The Chapel of the Holy Cross is extraordinary — its walls are covered with 129 painted wooden panels depicting saints and angels by the Bohemian court painter Theodoric (1357–1367), a cycle that represents the most important surviving example of Gothic panel painting in central Europe. The interior can only be visited on a reserved guided tour (the Route 3 'Chapel of the Holy Cross' tour — book well in advance as numbers are strictly limited). The castle's exterior and the surrounding limestone valley are remarkable in their own right: Karlštejn sits on a limestone ridge above the Berounka River, accessible from Prague by local train to the village below."
+    },
+    {
+      "order": 2,
+      "castle_name": "Koněprusy Caves",
+      "duration": "45 minutes",
+      "description": "Below the Bohemian karst plateau, a few kilometres south of Karlštejn, the Koněprusy Caves form the largest known cave system in Bohemia — approximately 2 kilometres of mapped passages through Devonian limestone (c.410 million years old) at three levels. The caves were used by humans since the Palaeolithic period; a medieval coin-forging workshop discovered inside the upper level of the cave system revealed that counterfeit coins were being manufactured here in the 15th century, using the cave's remote access and existing mineral deposits. The guided tour covers the main cave chambers — notable for stalactite, stalagmite, and helictite formations, including the Goat-Stalactite Chamber and the Pantheon — and includes the coin-forging workshop display. The cave maintains a constant temperature of approximately 9°C throughout the year; a warm layer is advisable regardless of outside temperature."
+    },
+    {
+      "order": 3,
+      "castle_name": "Žebrák & Točník Castles",
+      "duration": "1 hour",
+      "description": "On two adjacent hilltops above the village of Točník, the ruined Gothic castles of Žebrák and Točník stand within sight of each other — a paired fortification site unique in the Czech Republic. Žebrák (whose name means 'beggar' — possibly ironic, given its royal associations) was built in the late 14th century as a hunting residence by Wenceslaus IV, King of Bohemia and Holy Roman Emperor. After Wenceslaus IV was deposed as Emperor in 1400 and held prisoner at Žebrák for a period, he found the castle sufficiently uncomfortable that he commissioned a new royal castle immediately opposite on the adjacent hill — Točník (begun 1395), which was completed in the early 15th century and became his preferred retreat. Both castles were abandoned after 1513 and passed into ruin; the Gothic fabric of Točník — the palace block, gateway, towers, and cistern — survives in substantially better condition than Žebrák. The ruins are accessible and the hilltop views over the Berounka River valley are among the finest in central Bohemia."
+    },
+    {
+      "order": 4,
+      "castle_name": "Zbiroh Château",
+      "duration": "45 minutes",
+      "description": "Zbiroh is a Renaissance château 20 kilometres south of Točník — a site that in the 20th century accumulated two entirely incompatible histories. Between 1910 and 1928, the Czech Art Nouveau painter Alfons Mucha rented a studio at Zbiroh and used it to paint his Slav Epic: a cycle of 20 enormous canvases (the largest exceeds 8 × 6 metres) depicting scenes from Slavic mythology and history, from the prehistoric Slavic settlement of central Europe to the introduction of Slavic literacy by Saints Cyril and Methodius to the abolition of serfdom in Russia. Mucha considered the Slav Epic the defining work of his life; it was completed in 1928 and donated to the city of Prague. The canvases are now displayed at the Veletržní Palace in Prague. After the Second World War, Zbiroh was repurposed as a military installation under the Czechoslovak communist government — a classified base whose precise function remains partially undisclosed. The château's exterior, formal gardens, and the studio spaces associated with Mucha are accessible to visitors."
+    },
+    {
+      "order": 5,
+      "castle_name": "Pilsner Urquell Brewery, Plzeň",
+      "duration": "1 hour 30 minutes",
+      "description": "The Pilsner Urquell brewery in Plzeň (Pilsen) is the site of one of the most consequential events in food and drink history: on 5 October 1842, brewmaster Josef Groll produced the first batch of a new style of beer — clear, golden, and effervescent — that would within decades become the most widely consumed beer style on earth. Before 1842, virtually all lager beer was dark; the combination of the local Bohemian Saaz hops, Pilsen's exceptionally soft water (among the softest of any major brewing city in Europe), and bottom-fermentation at near-freezing temperatures produced a beer so different from any existing style that it required a new name: Pilsner. The tour of the Pilsner Urquell brewery includes the underground limestone cellars — cold, dark passages where beer was lagered in oak barrels before refrigeration existed, at temperatures barely above freezing — and concludes with an unpasteurised beer tasting directly from the wooden barrel in the cellar. The unpasteurised Pilsner Urquell drawn directly from the barrel in the cellar is markedly different from the pasteurised product sold commercially worldwide: crisper, more complex, with a notable hop bitterness. It is available nowhere else."
+    }
+  ],
+  "included": [
+    "Private vehicle and door-to-door service from Prague accommodation",
+    "Expert English-speaking guide for the full day",
+    "Private group only (up to 3 passengers, $1,275 total)",
+    "Koněprusy Caves guided tour",
+    "Pilsner Urquell brewery tour and cellar tasting"
+  ],
+  "excluded": [
+    "Karlštejn Castle interior tour (reserve Route 3 — Chapel of the Holy Cross — separately and well in advance; exterior views included)",
+    "Žebrák/Točník castle entry (modest on-site admission)",
+    "Zbiroh Château interior tour (if available — confirm with guide)",
+    "Meals and drinks (lunch break in Plzeň — Bohemian cuisine recommended)",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Pickup from your accommodation in Prague — address confirmed at booking",
+  "tips": [
+    "Karlštejn's Chapel of the Holy Cross interior tour (Route 3) must be reserved separately at hrad-karlstejn.cz — this is not included in the standard castle ticket and spaces are strictly limited to a handful of visitors per day. If you want to see Theodoric's painted panels, book the chapel tour months in advance, then confirm the date with the GYG operator. The chapel is the single most important Gothic interior in Bohemia.",
+    "The Koněprusy Caves are cold year-round (9°C) — pack a warm layer regardless of the season. This is not an optional tip: the temperature difference between the Bohemian summer heat above ground and the cave temperature is significant enough to cause discomfort without preparation.",
+    "The Pilsner Urquell cellar tasting at the end of the day is genuinely excellent — the unpasteurised beer from the barrel is not a marketing gimmick, it is measurably different from the commercial product. This is one of the few places in the world where you can drink Pilsner Urquell as it was intended to taste before pasteurisation became standard in the 1960s.",
+    "Točník is in significantly better condition than Žebrák and is the castle worth spending more time in — the Gothic palace block and the views over the valley are the highlights. Žebrák is more ruinous but has good views of Točník from below.",
+    "Zbiroh's connection to Alfons Mucha is largely unknown outside the Czech Republic — the Slav Epic is now displayed in Prague (Veletržní Palace), but Zbiroh was where it was painted. For visitors already familiar with Mucha's Art Nouveau posters, the story of the Slav Epic is a completely different side of the same artist: monumental, political, and in some ways the opposite of his commercial work."
+  ],
+  "faqs": [
+    {
+      "question": "Is the $1,275 price per person or for the whole group?",
+      "answer": "$1,275 is the total price for the private group — not per person. The tour accommodates up to three passengers. For two people the per-person cost is approximately $637; for three, approximately $425. This is a full-day private tour with dedicated vehicle and guide covering significant distances (approximately 150 km total), which accounts for the price point relative to shared-coach alternatives."
+    },
+    {
+      "question": "Can I visit the Chapel of the Holy Cross at Karlštejn?",
+      "answer": "Yes, but only on the Route 3 tour, which must be reserved separately at hrad-karlstejn.cz and is not included in this GYG product. Access is limited to approximately 5–15 visitors per tour, with only a small number of tours per day. The chapel contains 129 Gothic panel paintings by court painter Theodoric (1357–1367) — the most important Gothic interior in the Czech Republic. If seeing the chapel interior is important to you, book the Route 3 tour first (months in advance in peak season), then inform your GYG operator of the time so they can plan the departure accordingly. The standard castle exterior and grounds are included in the castle ticket available on-site."
+    },
+    {
+      "question": "Why is the Pilsner Urquell brewery historically important?",
+      "answer": "Pilsner Urquell was the first pale golden lager ever brewed — produced on 5 October 1842 in Plzeň by Bavarian brewmaster Josef Groll, hired by the Bourgeois Brewery of Plzeň after the city's previous beers had become so consistently poor that 36 barrels were publicly poured into the street in 1838. The combination of local Saaz hops, Pilsen's exceptionally soft water, Moravian malt, and cold bottom-fermentation produced a style so different from the dark beers of the era that 'Pilsner' became the defining beer style of the modern era — accounting today for approximately 90% of beer consumed worldwide. The term 'pilsner' is now a generic style name; 'Pilsner Urquell' (meaning 'original source of Pilsner' in German) is the trademark of the original brewery."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/prague-karlstejn-zbirov-bohemia-castles-pilsner-urquell.webp",
+    "alt": "Karlštejn Castle rising above the limestone valley of the Berounka River in central Bohemia",
+    "credit": "Castles & Palaces"
+  },
+  "meta": {
+    "title": "Karlštejn, Žebrák & Zbiroh: Bohemia Castles Day Trip from Prague with Pilsner Urquell",
+    "description": "Private day trip from Prague visiting Karlštejn Castle, Koněprusy Caves, the Gothic ruins of Žebrák and Točník, Zbiroh Château, and the Pilsner Urquell brewery in Plzeň."
+  }
+}

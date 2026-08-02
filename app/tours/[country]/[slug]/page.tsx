@@ -97,14 +97,18 @@ export default async function TourPage({ params }: Props) {
                 <span className="text-stone-400 font-normal text-sm ml-1">/ person</span>
               </p>
             </div>
-            <div className="w-px h-8 bg-stone-300" />
-            <div>
-              <p className="text-xs text-stone-500 leading-none mb-0.5">Rating</p>
-              <p className="font-semibold text-[#1a1a1a] text-sm">
-                <span className="text-[#c9a84c]">★</span> {tour.rating}
-                <span className="text-stone-400 font-normal ml-1">({tour.review_count.toLocaleString()})</span>
-              </p>
-            </div>
+            {tour.review_count > 0 && (
+              <>
+                <div className="w-px h-8 bg-stone-300" />
+                <div>
+                  <p className="text-xs text-stone-500 leading-none mb-0.5">Rating</p>
+                  <p className="font-semibold text-[#1a1a1a] text-sm">
+                    <span className="text-[#c9a84c]">★</span> {tour.rating}
+                    <span className="text-stone-400 font-normal ml-1">({tour.review_count.toLocaleString()})</span>
+                  </p>
+                </div>
+              </>
+            )}
           </div>
 
           {/* Stats bar */}
@@ -115,7 +119,11 @@ export default async function TourPage({ params }: Props) {
             </div>
             <div>
               <p className="text-xs text-[#666] uppercase tracking-wider">Rating</p>
-              <p className="font-semibold text-[#1a1a1a]">{tour.rating} ★ ({tour.review_count.toLocaleString()} reviews)</p>
+              <p className="font-semibold text-[#1a1a1a]">
+                {tour.review_count > 0
+                  ? `${tour.rating} ★ (${tour.review_count.toLocaleString()} reviews)`
+                  : 'New activity'}
+              </p>
             </div>
             <div>
               <p className="text-xs text-[#666] uppercase tracking-wider">Languages</p>
@@ -281,11 +289,13 @@ export default async function TourPage({ params }: Props) {
               <p className="text-white/70 text-sm">From</p>
               <p className="font-serif text-3xl font-bold">{currencySymbol}{tour.price_from}</p>
               <p className="text-white/70 text-sm">per person</p>
-              <div className="flex items-center gap-1.5 mt-3">
-                <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
-                <span className="text-[#c9a84c]">★★★★★</span>
-                <span className="text-white/60 text-xs">({tour.review_count.toLocaleString()} reviews)</span>
-              </div>
+              {tour.review_count > 0 && (
+                <div className="flex items-center gap-1.5 mt-3">
+                  <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
+                  <span className="text-[#c9a84c]">★★★★★</span>
+                  <span className="text-white/60 text-xs">({tour.review_count.toLocaleString()} reviews)</span>
+                </div>
+              )}
             </div>
             <div className="p-6">
               <a

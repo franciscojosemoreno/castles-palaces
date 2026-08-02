@@ -1,0 +1,104 @@
+{
+  "id": "lisbon-alentejo-castles-electric-car-marvao-elvas-estremoz",
+  "slug": "lisbon-alentejo-castles-electric-car-marvao-elvas-estremoz",
+  "name": "Marvão, Elvas & the Castles of Alentejo: Electric Car Day Trip from Lisbon",
+  "tagline": "Five UNESCO heritage sites in a single day — from a mountaintop medieval fortress to the most formidable star fort in the world, in a zero-emission Mercedes EQS",
+  "departure_country": "portugal",
+  "departure_city": "Lisbon",
+  "visited_countries": ["portugal"],
+  "duration_days": 1,
+  "duration_label": "10 hours (private group)",
+  "gyg_tour_id": "1035072",
+  "gyg_url": "https://www.getyourguide.com/elvas-l127553/from-lisbon-castles-of-alentejo-ecologic-tour-t1035072/",
+  "price_from": 1269,
+  "currency": "USD",
+  "rating": null,
+  "review_count": 0,
+  "languages": ["English", "Portuguese"],
+  "max_group_size": 3,
+  "overview": "The upper Alentejo — the high, dry plain between Lisbon and the Spanish border — contains one of the most extraordinary concentrations of defensive architecture in Europe. This private ten-hour tour covers five sites that together span three thousand years of fortification history: prehistoric hilltop settlements that became Moorish alcáçovas, medieval castles rebuilt by the Portuguese military orders, and Elvas — the most comprehensively preserved example of Vauban-style star fort engineering anywhere in the world, protected by a UNESCO designation that recognises it as 'the largest and best-preserved example of a bulwark fortification system in the world.' The vehicle is an electric Mercedes EQS — a deliberate choice by the operator to demonstrate that long-distance touring in the Alentejo is possible without combustion. The tour is priced per group (maximum three passengers, $1,269 total), making it a premium private experience: the guide and vehicle are entirely at your disposal for ten hours. There are no reviews at time of writing, as this is a newly listed product; the historical content below reflects the sites themselves.",
+  "highlights": [
+    "Castelo de Marvão — a 13th-century castle on a granite crag at 862 metres, commanding views across the Serra de São Mamede and deep into Spain",
+    "Castelo de Vide — a medieval walled village below a 14th-century castle, with one of the oldest intact Jewish quarters in Portugal",
+    "Castelo de Portalegre — the main fortress of the historic city of Portalegre, capital of the upper Alentejo, with its Renaissance-era walls",
+    "Elvas — the most completely preserved Vauban star fort system in the world (UNESCO World Heritage 2012), with a circuit of seventeenth-century bastions, two aqueducts, and a city centre virtually unchanged since 1700",
+    "Estremoz — a royal castle complex in the 'marble town' of the central Alentejo, with a 13th-century keep, medieval town walls, and the finest marble quarrying landscape in Portugal",
+    "Electric Mercedes EQS — private door-to-door service in a zero-emission vehicle"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "marvao-castle",
+      "castle_name": "Castelo de Marvão",
+      "duration": "1 hour 30 minutes",
+      "description": "Marvão is the most dramatically sited medieval castle in Portugal — a granite fortress perched on a crag at 862 metres in the Serra de São Mamede Natural Park, with the Spanish border visible across the plain to the east and the Atlantic Alentejo plain stretching west towards Lisbon. The site was settled in prehistoric times and later became a Roman settlement (Hermínius); the Moors built an alcáçova here that the Portuguese forces of Afonso II captured in 1226. The castle was rebuilt and extended under Dinis I in the late 13th century — the keep, enceinte walls, cistern and water storage system from this period survive almost intact. The village within the walls is one of the most complete examples of a medieval fortified settlement in the Iberian Peninsula: whitewashed houses, a parish church, a small museum in the former garrison, and views from the keep's summit that on clear days extend nearly a hundred kilometres in every direction. The Serra de São Mamede surrounding the castle is a Natural Park of exceptional ecological value — the meeting point of Mediterranean and Atlantic climates, supporting golden eagles, Egyptian vultures, and Iberian wolves."
+    },
+    {
+      "order": 2,
+      "castle_name": "Castelo de Vide",
+      "duration": "45 minutes",
+      "description": "Thirteen kilometres from Marvão, at a lower altitude on the same granite ridge, Castelo de Vide is a medieval walled village centred on a 14th-century castle built by Afonso IV. The castle itself — a compact fortification with a cylindrical keep and Manueline-period entrance portal — overlooks one of the most historically significant Jewish quarters in Portugal. The Judaria de Castelo de Vide is one of the oldest intact Jewish neighbourhoods on the Iberian Peninsula; its narrow granite-paved streets, 13th-century synagogue (the oldest Jewish building in Portugal), and medieval water fountains survived the centuries largely unaltered. The Jewish community of Castelo de Vide was expelled in 1496 along with all Jews in Portugal under Manuel I's edict; the synagogue subsequently served as a private house, preserving it from demolition. Lunch in Castelo de Vide is possible during this stop (not included — extra cost). Traditional Alentejo dishes — migas with pork, black pork from the Iberian pig, and açorda — are available at the village restaurants."
+    },
+    {
+      "order": 3,
+      "castle_name": "Portalegre",
+      "duration": "30 minutes",
+      "description": "Portalegre is the capital of the upper Alentejo — a city of Renaissance and Baroque architecture, historic textile mills (it was the centre of the Portuguese tapestry and silk industry from the 17th century), and a medieval castle on the hill above the city centre. The Castelo de Portalegre dates to the late 13th century, reconstructed after the Portuguese reconquest of the Alentejo from the Moors in the 1240s; its twin towers and surviving walls offer views over the city and the Serra de São Mamede. The city itself is notable for its 16th-century cathedral, the Baroque façades of its convents and palaces, and the extraordinary collection of tapestries produced by the Real Fábrica de Tapeçarias de Portalegre — a manufactory that has operated continuously since 1772 and which produced tapestries from works by Miró, Léger, and other 20th-century artists. This is a briefer stop — primarily for the castle exterior and city views."
+    },
+    {
+      "order": 4,
+      "castle_name": "Elvas — Star Fort & City Walls (UNESCO)",
+      "duration": "1 hour 30 minutes",
+      "description": "Elvas is the most important stop on this tour — the most comprehensively preserved example of a Vauban-style star fort system in the world, recognised as a UNESCO World Heritage Site in 2012 with the citation that it represents 'the largest and best-preserved example of a bulwark fortification system in the world.' The city has been fortified since Roman times, but what visitors see today is almost entirely the work of the 17th century: a massive system of ravelins, bastions, counterguards, lunettes, moats, and glacis built after the Restoration of Portuguese Independence in 1640, when Portugal needed to defend its eastern frontier against Spain. The city walls enclose an entire historic centre that has changed almost nothing since 1700 — the Cathedral of Our Lady of the Assumption (built on the site of a mosque, with a remarkable Moorish-origin interior), the Amoreiras Aqueduct (begun 1537, completed 1622, one of the longest aqueducts built in Portugal), and the Forte de Santa Luzia and Forte da Graça on the hillsides outside the walls. Together they form a defensive landscape without parallel in Europe."
+    },
+    {
+      "order": 5,
+      "castle_name": "Estremoz — Royal Castle & Keep",
+      "duration": "45 minutes",
+      "description": "Estremoz is the 'marble town' of the central Alentejo — a city built almost entirely from the locally quarried white marble that has been extracted from this area since Roman times and used in monuments across Portugal and Brazil. The castle complex at the centre of the upper town dates to the reign of Afonso III (mid-13th century) and was substantially rebuilt by Dinis I and his wife, Queen Isabel of Aragon (Santa Isabel), who died at Estremoz in 1336 and was later canonised. The Torre das Três Coroas (Tower of the Three Crowns) — the principal medieval keep — is one of the tallest Gothic tower-keeps in Portugal at approximately 28 metres; the enceinte walls and the Sala dos Sentenciados (Judgement Hall) survive from the medieval royal palace. The lower town, separated from the castle complex by a circuit of 17th-century star-fort walls added during the Portuguese Restoration War, is centred on one of the finest market squares in Portugal — the Rossio Marquês de Pombal — still hosting a Saturday market that sells local marble, pottery, and Alentejo foodstuffs."
+    }
+  ],
+  "included": [
+    "Private electric Mercedes EQS (door-to-door from Lisbon accommodation)",
+    "Expert English and Portuguese-speaking guide for the full 10 hours",
+    "Private group only (up to 3 passengers, $1,269 total)"
+  ],
+  "excluded": [
+    "Castle and monument entry fees (Marvão Castle, Elvas walls — paid on-site, modest admission)",
+    "Lunch (free time in Castelo de Vide — local Alentejo cuisine available, extra cost)",
+    "Meals and drinks throughout the day",
+    "Tips for guide and driver"
+  ],
+  "meeting_point": "Pickup from your accommodation in Lisbon — address confirmed at booking",
+  "tips": [
+    "Elvas is the most important stop from a historical standpoint — the UNESCO designation is justified. Allow the full 90 minutes and walk the complete circuit of bastions if energy allows; the scale of the star fort system only becomes apparent from the walls. The Amoreiras Aqueduct visible from the approach road is 7.6 kilometres long.",
+    "Marvão at sunrise or in early morning light is extraordinary — if the operator offers an early departure, take it. The views from the castle keep on a clear day extend into Spain and across the Serra de São Mamede; in spring the plateau wildflowers (rock roses, cistus, lavender) are in bloom.",
+    "Castelo de Vide's Judaria — the medieval Jewish quarter below the castle — is one of the most intact and least-visited in Portugal. The synagogue building (Rua da Judiaria) is the oldest surviving Jewish building in Portugal; it was a private house for 500 years and only formally identified as a synagogue in the 20th century.",
+    "The electric Mercedes EQS covers this itinerary comfortably on a single charge — the route distance from Lisbon is approximately 280 km return, well within the vehicle's range. The cabin is notably quiet on country roads, which makes a significant difference on long transfers across the Alentejo plain.",
+    "Estremoz's Saturday market (Rossio Marquês de Pombal) is worth timing the visit around if possible — local marble objects, handmade pottery, Alentejo ham and cheese, and the distinctive clay figures (figurinhas de Estremoz) produced by the town's traditional potters."
+  ],
+  "faqs": [
+    {
+      "question": "Is the $1,269 price per person or for the whole group?",
+      "answer": "$1,269 is the total price for the private group — not per person. The tour accommodates up to three passengers. For two people the cost is approximately $635 each; for three, approximately $423 each. This is a premium private operator running a genuinely unusual vehicle (the Mercedes EQS is not a standard touring car) with a full-day dedicated guide, which accounts for the price point relative to shared-coach alternatives."
+    },
+    {
+      "question": "Why five castles in one day — is that too much?",
+      "answer": "This is an ambitious itinerary, but the stops are structured carefully: Marvão and Elvas receive the longest time allocations (90 minutes each, the two most important sites), while Castelo de Vide, Portalegre, and Estremoz are briefer stops. The total driving time is approximately 5 hours over the 10-hour day, which is significant — the Alentejo is a large region. The benefit of the private vehicle is that stops can be adjusted on the day; if Marvão absorbs more time than planned, Portalegre can be shortened or skipped. Confirm your priorities with the guide at departure."
+    },
+    {
+      "question": "Are any of these sites UNESCO World Heritage?",
+      "answer": "Yes — Elvas is a UNESCO World Heritage Site (inscribed 2012 as 'Garrison Border Town of Elvas and its Fortifications'). The historic centres of Évora (not on this itinerary) and the Prehistoric Rock Art of the Côa Valley are other UNESCO sites in the Alentejo region. Marvão, Castelo de Vide, and Estremoz are not themselves UNESCO-listed but are classified as Portuguese National Monuments. The Alentejo megalithic landscape — dolmens, menhirs, and cromlechs concentrated around the Évora–Monsaraz area — is currently under consideration for UNESCO inscription."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/lisbon-alentejo-castles-electric-car-marvao-elvas-estremoz.webp",
+    "alt": "Castelo de Marvão on its granite crag at 862 metres, with the Alentejo plain and Spain visible in the distance",
+    "credit": "Castles & Palaces"
+  },
+  "meta": {
+    "title": "Marvão, Elvas & Alentejo Castles: Electric Car Day Trip from Lisbon",
+    "description": "Private 10-hour day trip from Lisbon to five Alentejo fortifications — Marvão, Castelo de Vide, Portalegre, UNESCO Elvas, and Estremoz — in an electric Mercedes EQS."
+  }
+}
