@@ -18,7 +18,7 @@ export default function MapPage() {
     lng: c.lng,
     type: c.type,
     tagline: c.tagline,
-    price_adult: c.price_adult,
+    price_adult: c.gyg_featured_tours?.[0]?.price_from ?? c.price_adult,
     unesco: c.unesco ?? false,
     tags: c.tags ?? [],
     hero_image: c.hero_image.url,
