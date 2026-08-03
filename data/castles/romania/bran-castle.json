@@ -127,6 +127,21 @@
         "bran-castle"
       ],
       "booking_url_override": "https://www.getyourguide.com/brasov-l6631/from-brasov-cantacuzino-peles-bran-castle-private-tour-t510079/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    },
+    {
+      "tour_id": "1199638",
+      "title": "Brașov: Bran Castle, Bear Sanctuary & Râșnov Citadel Tour",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 55,
+      "rating": 4.8,
+      "reviews": 211,
+      "is_top_pick": true,
+      "covers_castles": [
+        "bran-castle",
+        "rasnov-fortress"
+      ],
+      "booking_url_override": "https://www.getyourguide.com/bran-l188057/brasov-bran-castle-bear-sanctuary-rasnov-citadel-tour-t1199638/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true

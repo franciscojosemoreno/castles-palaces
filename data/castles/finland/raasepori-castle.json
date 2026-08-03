@@ -1,0 +1,96 @@
+{
+  "id": "raasepori-castle",
+  "name": "Raasepori Castle",
+  "local_name": "Raaseporin linna / Raseborgs slott",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 62,
+  "annual_visitors": 18000,
+  "country": "finland",
+  "region": "Raseborg, Uusimaa",
+  "nearest_city": "Ekenäs (Tammisaari)",
+  "address": "Linna, 10600 Tammisaari, Finland",
+  "lat": 60.0042,
+  "lng": 23.4939,
+  "unesco": false,
+  "year_built": 1370,
+  "architectural_style": "Medieval Swedish-era castle ruin; constructed from the 1370s on a rocky outcrop above a lagoon; square keep with surrounding ring wall; the site originally commanded a sea approach that later silted up; the ruins are among the most extensive and best-preserved medieval fortifications in Finland",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "Raasepori Castle is open to visitors from late May to late August only — the site closes completely in autumn and winter. Hours above apply June–August; May and September may have reduced hours. Check raseborg.fi for current season dates and any guided tour schedule. In summer, Finnish theatrical performances (medieval drama and storytelling) are staged at the castle on designated evenings — booking in advance via local tourism offices."
+  },
+  "price_adult": 8,
+  "price_child": 4,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://www.raseborg.fi/sv/turism/sevardigheter/raseborgs-slott/",
+  "visit_duration": "1–2 hours",
+  "best_season": "June to August — the castle is only open in summer; wildflowers grow on the surrounding rocky terrain and the evening theatrical performances are staged during this period",
+  "accessibility": "The castle ruins are on a rocky outcrop with uneven terrain. Accessible paths reach the outer perimeter; interior ruins involve steps, loose stone, and narrow passages. Not suitable for visitors with significant mobility limitations.",
+  "booking_advance_days": 0,
+  "tagline": "Finland's most extensive medieval castle ruin — a 14th-century Swedish-era fortress rising from a rocky Baltic outcrop, open only in summer, with theatrical performances among the ruins",
+  "highlights": [
+    "The most complete medieval castle ruin in Finland — extensive curtain walls, towers, and a square keep, substantially intact above foundation level",
+    "Medieval theatrical performances staged on summer evenings among the ruins — one of Finland's most atmospheric open-air cultural events",
+    "Dramatic natural setting on a rocky outcrop that originally rose from a lagoon, before silting transformed the surrounding landscape",
+    "Private day trip from Helsinki (GetYourGuide, t1013112) — the only GYG tour offering a guided visit to the ruins with Ekenäs old town",
+    "Ekenäs (Tammisaari) — the small Swedish-language coastal town adjacent to the castle, with a well-preserved 18th-century wooden old town centre"
+  ],
+  "description": "Raasepori Castle (Swedish: Raseborgs slott) is the most extensive medieval fortification in mainland Finland — a castle ruin on a rocky outcrop near the Swedish-speaking coastal town of Ekenäs, approximately 85 km west of Helsinki. The castle was built from around 1370 by the Swedish Crown as an administrative and military centre for the western coast of Finland, positioned on a rock that then projected into a sheltered sea inlet. The gradual silting of that inlet over the subsequent centuries changed the landscape around the castle entirely: what was once a sea approach is now a meadow, and the castle's formerly commanding position over the water is only apparent from maps and historical records.\n\nThe ruins are genuinely extensive for a Finnish medieval site: the curtain walls, round towers, square keep, and gateway structures survive substantially above foundation level, giving a clearer sense of the original castle than most Finnish ruins allow. Guided visits in summer cover the defensive logic of the structure, the castle's political history under Swedish rule, and the remarkable story of its abandonment: around 1550, the castle was superseded by the better-positioned Svartholm fortress and the seat of regional administration moved, leaving Raasepori to decay without the demolition or stripping that destroyed many other castles.\n\n**Note on the GetYourGuide tour:** The private day trip from Helsinki (t1013112, €390 per person) is priced for individual booking — this is not a per-group price. The €390 reflects private transport from Helsinki plus a guided visit to both Raasepori Castle ruins and Ekenäs old town for a single traveller or couple. For groups of 2–3 people the per-person cost reduces proportionally; the operator accommodates multiple passengers at the same price point — confirm at booking. The castle entry fee is explicitly included.",
+  "history": "Raasepori was constructed as part of the Swedish Crown's defensive network along the Finnish coast — a system of castles and fortified harbours designed to protect Sweden's eastern possessions from Danish and Russian threats. The castle's construction date of around 1370 places it in the reign of King Albert of Mecklenburg, who commissioned several coastal fortifications in the Baltic region.\n\nThe castle served as the seat of the bailiff administering the Raseborg district — a jurisdiction covering much of the southwestern Finnish coast. Through the 14th and 15th centuries it was periodically under threat: Danish raids along the Baltic coast reached this far east on several occasions, and the castle was besieged and damaged in 1365 and again in the later 15th century. Despite these episodes it was never taken by assault.\n\nThe castle's end came not through conquest but through obsolescence. The gradual silting of the sea inlet that had given Raasepori its strategic value removed the castle's reason for existence; by the mid-16th century the Swedish administration had relocated to better-positioned bases. The ruins were left to decay through the 17th, 18th, and 19th centuries. Systematic archaeological investigation began in the 1890s, and the site was opened to visitors in the early 20th century.",
+  "how_to_visit": "**From Helsinki (day trip):** The private day trip via GetYourGuide (t1013112, €390 per person) is the most convenient option from the capital. The tour includes private transport from Helsinki, a guided 1-hour visit to the castle ruins, and time in Ekenäs old town. Note: the €390 is priced per person, not per group — for two travellers the total is €780, for three, €1,170. Confirm the group policy with the operator at booking.\n\n**By train (independent):** The Helsinki–Ekenäs train takes approximately 1.5 hours (change at Karjaa/Karis). The castle is 3 km from Ekenäs town centre — taxi or bicycle from the station. In summer, local bus connections may run.\n\n**By car from Helsinki:** Approximately 90 minutes via Road 25 (E18) west. Parking is available at the castle site. The road passes through the scenic Raseborg archipelago landscape.\n\n**Combined visit:** The Ekenäs (Tammisaari) old town — a compact grid of 18th-century wooden houses — is 3 km from the castle and worth a 1–2 hour visit. The town is one of Finland's best-preserved wooden coastal settlements.",
+  "faqs": [
+    {
+      "question": "When is Raasepori Castle open?",
+      "answer": "Raasepori Castle is only open in summer — typically late May to late August, with some years extending into September. The site closes completely in autumn and winter (there is no off-season access to the ruins, which are on private/municipal land). Check raseborg.fi for exact dates each season before planning a visit."
+    },
+    {
+      "question": "Is the €390 tour price per person or per group?",
+      "answer": "Per person. The GetYourGuide private day trip from Helsinki (t1013112) is priced at €390 per person — this is not a per-group or per-vehicle price. For one or two travellers it is a premium product; for a group of three or four, the per-person cost reduces and the private transport becomes more cost-effective. Confirm the group policy and maximum passenger number with the operator at booking."
+    },
+    {
+      "question": "What language is spoken in Ekenäs?",
+      "answer": "Ekenäs (Finnish: Tammisaari) is in a predominantly Swedish-speaking part of Finland — the coastal region of Raseborg municipality has a Swedish-speaking majority, and the town's historic character reflects the Swedish-language culture of coastal Finland. Finnish and Swedish are both official languages; English is widely spoken in tourism contexts. The castle's name in Swedish (Raseborgs slott) and Finnish (Raaseporin linna) appear interchangeably in signage."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/raasepori-castle.webp",
+    "alt": "Raasepori Castle ruins on their rocky outcrop in the Finnish coastal landscape near Ekenäs, summer evening light on the medieval stone walls",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/raasepori-castle.webp",
+  "instagram_tag": "#raasepori",
+  "meta_title": "Raasepori Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Raasepori Castle (Raseborgs slott) — Finland's most extensive medieval castle ruin near Ekenäs, open summer only. Private day trip from Helsinki available on GetYourGuide.",
+  "tags": ["medieval", "ruins", "finland", "summer-only", "swedish-era", "coastal"],
+  "last_updated": "2026-08-02",
+  "nearby_castles": ["turku-castle"],
+  "gyg_location_id": "13",
+  "gyg_search_query": "Raasepori castle ruins Helsinki day trip",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1013112",
+      "title": "From Helsinki: Private Raasepori Castle Ruins & Ekenäs Old Town",
+      "type": "day_trip",
+      "duration": "Full day",
+      "price_from": 390,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/helsinki-l13/from-helsinki-raasepori-castle-ruins-ekenas-old-town-t1013112/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    }
+  ],
+  "gyg_direct_link_override": true
+}

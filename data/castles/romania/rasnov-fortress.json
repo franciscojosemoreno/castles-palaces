@@ -1,0 +1,97 @@
+{
+  "id": "rasnov-fortress",
+  "name": "Râșnov Fortress",
+  "local_name": "Cetatea Râșnov",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 36,
+  "annual_visitors": 100000,
+  "country": "romania",
+  "region": "Brașov County, Transylvania",
+  "nearest_city": "Brașov",
+  "address": "Str. Cetății, Râșnov 505600, Romania",
+  "lat": 45.5921,
+  "lng": 25.4610,
+  "unesco": false,
+  "year_built": 1215,
+  "architectural_style": "Saxon peasant fortress (Bauernburg); medieval fortification built on a rocky hilltop above the Bârsa plain; the inner enclosure contains a village-within-a-fortress — domestic buildings, a church, wells, and storage — constructed by the Transylvanian Saxon community of Râșnov as a collective refuge during Ottoman and Tartar raids; the fortification was never captured by assault",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Open daily year-round. Summer hours (May–September) may extend to 20:00. The fortress is accessible by foot from the town below (approximately 20–30 minutes uphill) or by gondola lift from the car park (paid, operates seasonally). The interior village buildings, church, and well are accessible within the fortress walls."
+  },
+  "price_adult": 20,
+  "price_child": 10,
+  "price_currency": "RON",
+  "booking_required": false,
+  "official_tickets_url": "https://www.cetatearasnov.ro/",
+  "visit_duration": "1.5–2 hours",
+  "best_season": "May to September — the fortress is spectacular in summer with clear views of the Bucegi Mountains; winter visits are possible but the hilltop access is more challenging in snow",
+  "accessibility": "The fortress hilltop is accessible by gondola lift from the car park (seasonal). The interior of the fortress involves uneven cobblestone and some steps. The route on foot from the town involves a steep uphill climb.",
+  "booking_advance_days": 0,
+  "tagline": "A Saxon peasant fortress that was never captured — a medieval village inside fortified walls on a hilltop above the Bârsa plain, with views to Bran Castle and the Bucegi Mountains",
+  "highlights": [
+    "A village inside a fortress — within the walls of Râșnov are domestic buildings, a church, and storage facilities used by the entire Saxon peasant community of the town as a collective refuge during raids",
+    "Never conquered — unlike many Transylvanian fortifications, Râșnov's hilltop location and construction quality meant it was never taken by assault; even prolonged sieges failed to breach its walls",
+    "Spectacular panoramic views — from the fortress battlements, the Bârsa plain spreads south, with Bran Castle visible in the valley gap and the Bucegi Mountains as a backdrop",
+    "The legendary well — allegedly dug by Ottoman prisoners for 17 years in exchange for their freedom; the well descends 60 metres to the water table; similar well legends appear at Corvin Castle, suggesting a recurring Transylvanian tradition",
+    "Combined day trip with Bran Castle and the Libearty Bear Sanctuary — the most popular day-trip itinerary from Brașov, covering three distinct Transylvanian attractions"
+  ],
+  "description": "Râșnov Fortress (Cetatea Râșnov) is one of the best-preserved examples of a Bauernburg — a 'peasant fortress' — in Transylvania. Unlike the noble or royal castles of the region, which served as aristocratic residences and military bases, Râșnov was built by and for the entire Saxon community of the town: a collective refuge where the townspeople could withdraw during the Ottoman and Tartar raids that swept through the Bârsa plain with terrifying regularity from the 14th through the 17th centuries.\n\nThe fortress occupies the summit of a rocky hill rising above the modern town of Râșnov. Within its walls — reached today by gondola from the car park, or on foot via a steep 20-minute path — stands a small village: houses that the peasant families used during sieges, a 13th-century church, wells, granaries, and storage cellars. The community could retreat here and sustain itself for months if necessary. The system worked: Râșnov was never taken by assault.\n\n**Entrance fee note:** The GetYourGuide day trip from Brașov (t1199638, €55) covers transport and guiding but does not include fortress admission fees. Entry to Râșnov Fortress is paid separately on-site — approximately €3–5 per person (RON 20 adult at time of writing). Similarly, Bran Castle and the Libearty Bear Sanctuary on the same tour both charge separate admission fees on-site. The €55 tour price covers logistics and guide only.",
+  "history": "The first fortification at Râșnov was constructed in the early 13th century, probably shortly after the Teutonic Knights established their presence in the Bârsa Land in 1211. The Knights were expelled from Transylvania in 1225, but the fortification they began — or that the Saxon settlers built following their patterns — became the community fortress of the newly established Saxon town of Râșnov.\n\nThe fortress was substantially expanded through the 14th and 15th centuries as Ottoman raiding pressure increased. The strategic situation of the Bârsa Land — a broad plain opening southward through the Carpathian passes toward the Danube — made it exceptionally vulnerable to cavalry raids from the Wallachian and Ottoman sides. Râșnov, Bran, and the neighbouring fortifications of the Brașov region together formed a defensive network protecting the most economically productive Saxon towns in Transylvania.\n\nThe fortress endured multiple sieges across its history and was never taken. Its practical value as a refuge declined after the 18th century, when the Ottoman threat receded and the fortress walls were no longer maintained. The buildings within the walls gradually fell into disrepair through the 19th century. Restoration began in the 20th century and continues today — the fortress is a working archaeological and heritage site, with ongoing conservation work visible on parts of the structure.",
+  "how_to_visit": "**Day trip from Brașov (recommended):** The most popular approach is the combined day trip via GetYourGuide (t1199638, €55 per person) covering Bran Castle, the Libearty Bear Sanctuary, and Râșnov Fortress. Note that entrance fees for all three sites are paid separately on-site — the €55 covers transport and guide only. Brașov is the departure point.\n\n**Independent visit:** Râșnov is 15 km west of Brașov by road — 20 minutes by car, or accessible by local bus (lines to Râșnov town run regularly from Brașov central). From Râșnov town centre the fortress is reached by gondola (paid, seasonal) or on foot in approximately 20 minutes uphill.\n\n**Combining with Bran Castle:** Bran is 8 km further west from Râșnov — a natural addition to any Râșnov visit. The 'Dracula's Castle' marketing at Bran is commercially motivated (the Vlad the Impaler connection is disputed); the castle itself is a genuine and attractive 14th-century fortification with a well-presented interior museum.",
+  "faqs": [
+    {
+      "question": "Are entry fees to Râșnov Fortress included in the GetYourGuide day trip?",
+      "answer": "No. The Brașov day trip (t1199638, €55) covers transport and an English-speaking guide only — entrance fees for Râșnov Fortress, Bran Castle, and the Libearty Bear Sanctuary are all paid separately on-site. Râșnov Fortress admission is approximately RON 20 (around €4) per adult at time of writing. Budget for combined site entry fees of approximately €15–20 per person on top of the tour price."
+    },
+    {
+      "question": "Was the Râșnov well really dug by Ottoman prisoners?",
+      "answer": "The well at Râșnov is traditionally said to have been dug by Ottoman prisoners who were promised their freedom in exchange — a story that closely parallels the identical legend at Corvin Castle in Hunedoara, suggesting it may be a recurring Transylvanian folk tradition rather than specific recorded history. The Râșnov well is real and descends approximately 60 metres to the water table. Whether it was dug by prisoners, and whether any freedom was granted, is not documented in historical records. The story is part of the guided tour and is worth hearing regardless of its strict accuracy."
+    },
+    {
+      "question": "What is a Bauernburg and how is it different from a noble castle?",
+      "answer": "A Bauernburg (literally 'peasant castle' in German) is a type of fortification specific to the Transylvanian Saxon communities — a collective refuge built and maintained by the entire peasant community of a town, rather than by noble or royal authority. Where a noble castle was a residence-fortress for an aristocrat and his garrison, a Bauernburg was designed to shelter hundreds of ordinary townspeople during raids, with sufficient storage for extended occupation. Râșnov, Biertan, Viscri, and Saschiz are all Bauernburg-type fortifications; the Saxon villages of Transylvania — several of which are UNESCO-listed — represent the highest concentration of this building type in Europe."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rasnov-fortress.webp",
+    "alt": "Râșnov Fortress on its hilltop above the Bârsa plain in Transylvania, with the Bucegi Mountains in the distance",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rasnov-fortress.webp",
+  "instagram_tag": "#cetateararasnov",
+  "meta_title": "Râșnov Fortress: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Râșnov Fortress — the unconquered Saxon peasant fortress near Brașov, with panoramic views of Transylvania and Bran Castle. Day trip available from Brașov from €55 (entrance fees separate).",
+  "tags": ["fortress", "medieval", "saxon", "transylvania", "romania", "hilltop", "bauernburg"],
+  "last_updated": "2026-08-02",
+  "nearby_castles": ["bran-castle", "peles-castle"],
+  "gyg_location_id": "188057",
+  "gyg_search_query": "Rasnov Fortress Brasov day trip Romania",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1199638",
+      "title": "Brașov: Bran Castle, Bear Sanctuary & Râșnov Citadel Tour",
+      "type": "day_trip",
+      "duration": "7 hours",
+      "price_from": 55,
+      "rating": 4.8,
+      "reviews": 211,
+      "is_top_pick": true,
+      "covers_castles": ["bran-castle", "rasnov-fortress"],
+      "booking_url_override": "https://www.getyourguide.com/bran-l188057/brasov-bran-castle-bear-sanctuary-rasnov-citadel-tour-t1199638/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    }
+  ],
+  "gyg_direct_link_override": true
+}
