@@ -1,0 +1,141 @@
+{
+  "id": "reggia-di-venaria",
+  "name": "Reggia di Venaria",
+  "local_name": "Reggia di Venaria Reale",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "annual_visitors": 750000,
+  "country": "italy",
+  "region": "Piedmont, Metropolitan City of Turin",
+  "nearest_city": "Turin",
+  "address": "Piazza della Repubblica 4, 10078 Venaria Reale TO, Italy",
+  "lat": 45.1232,
+  "lng": 7.6316,
+  "unesco": true,
+  "year_built": 1658,
+  "architectural_style": "Royal Baroque palace-complex; commissioned 1658 by Charles Emmanuel II of Savoy as a hunting residence and royal court; designed by Amedeo di Castellamonte, who laid out the initial palace and formal gardens; substantially expanded in the early 18th century by Michelangelo Garove and then by Filippo Juvarra, who added the monumental Church of Sant'Uberto and the Grande Galleria di Diana; the complex covers approximately 80,000 square metres of built structure set within 80 hectares of formal garden — one of the largest royal residential ensembles in Europe; UNESCO World Heritage Site since 1997 as part of the 'Residences of the Royal House of Savoy' inscription; fell into disuse after the Risorgimento, used as military barracks through the 20th century; extensively restored 2000–2007 in what became one of the largest heritage restoration projects in Italian history",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–17:00",
+    "wednesday": "09:00–17:00",
+    "thursday": "09:00–17:00",
+    "friday": "09:00–17:00",
+    "saturday": "09:00–19:00",
+    "sunday": "09:00–19:00",
+    "seasonal_note": "Hours vary seasonally; extended hours in summer (June–August, Saturday and Sunday until 19:00 or later). Closed on Mondays year-round. The gardens have different hours from the palace interior. Check lavenaria.it for current schedules, as hours change between high and low season."
+  },
+  "price_adult": 15,
+  "price_child": 10,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://www.lavenaria.it/",
+  "visit_duration": "3–4 hours (palace); 1–2 hours additional for gardens",
+  "best_season": "May to September — the formal gardens are at their best in late spring and summer; the fountain displays require the gardens to be in season",
+  "accessibility": "The main ceremonial rooms on the ground floor are accessible. Upper floor galleries involve historic stairways. The formal garden paths are level and accessible. Contact the palace in advance for specific requirements.",
+  "booking_advance_days": 0,
+  "tagline": "The Savoy court's answer to Versailles — one of the largest royal palace-complexes in Europe, UNESCO-listed and fully restored, just outside Turin",
+  "highlights": [
+    "One of Europe's largest royal palace-complexes — 80,000 sq metres of historic buildings set within 80 hectares of formal Baroque garden, UNESCO-listed since 1997 as part of the Residences of the Royal House of Savoy",
+    "The Grande Galleria di Diana (Hall of Diana) — Filippo Juvarra's spectacular ceremonial gallery, 75 metres long with frescoed vaults, originally designed to display the Savoy hunting trophies and crown collection",
+    "The Church of Sant'Uberto — Juvarra's domed royal chapel of 1716, considered one of the finest examples of Piedmontese Baroque religious architecture, with a painted interior and a prominent position at the head of the main courtyard",
+    "The formal gardens — 80 hectares of Baroque garden design with parterres, fountains and water features, restored as part of the 2000–2007 project; the Fontana del Cervo (Fountain of the Stag) is the centrepiece",
+    "The 2000–2007 restoration — arguably the largest heritage restoration in Italian post-war history, which transformed a derelict military barracks back into a functioning royal palace; the methodology and scale of the project are documented in the palace's museum rooms"
+  ],
+  "description": "The Reggia di Venaria is Italy's most direct equivalent to Versailles — a royal palace-complex built at the same historical moment (construction began in 1658, the same decade Louis XIV began transforming Versailles), serving the same dynastic purpose (a residence that expressed absolute monarchical power through architectural scale), and competing for the same aesthetic vocabulary. The comparison is not mere boosterism: Venaria and Versailles are genuinely parallel projects, created by two of 17th-century Europe's most ambitious royal courts.\n\nCharles Emmanuel II of Savoy commissioned the initial complex from architect Amedeo di Castellamonte in 1658 as a hunting lodge and ceremonial residence for the court. The site was chosen for its proximity to the Mandria forest (still a royal hunting reserve today) and its position on the main road north from Turin. The programme expanded continuously under successive Savoy rulers through the 17th and early 18th centuries, reaching its greatest phase under Victor Amadeus II, who brought Filippo Juvarra to the project.\n\nJuvarra's additions — the Church of Sant'Uberto (1716) and the Grande Galleria di Diana (Hall of Diana), 75 metres of frescoed ceremonial space — transformed Venaria from a large hunting residence into an unambiguous statement of royal magnificence. The complete complex as Juvarra conceived it was never built: the grandest elements of his master plan were abandoned when Turin's political priorities shifted. What survives, at approximately 80,000 square metres of built structure within 80 hectares of formal garden, is nonetheless one of the largest royal residential ensembles in Europe.\n\nThe palace's 19th-century history was less glorious. After the unification of Italy in 1861 ended the House of Savoy's role as autonomous rulers of Piedmont, Venaria lost its court function. Military authorities converted it into barracks — a use that preserved the structures while stripping them of their contents and decorative finishes. By the 1990s, when the restoration project was conceived, the palace was an extraordinary shell: the walls intact, the proportions preserved, the gardens reverted to agricultural use, and almost everything else gone.\n\nThe restoration programme of 2000–2007, co-funded by the Italian government, the Piedmont region and European funds, reversed this. Over seven years and at a cost exceeding €200 million, the palace was systematically restored to a state that could receive the public — missing frescoes reconstructed from archival documentation, gardens re-laid from Juvarra's original plans, and new museum installations created to give the rooms purpose without the original contents. The result opened in 2007 and draws more than 700,000 visitors annually.",
+  "history": "1658: Charles Emmanuel II of Savoy commissions the initial palace from Amedeo di Castellamonte as a hunting residence for the Savoy court, adjacent to the royal hunting forest of La Mandria. 1660–1680s: First phase of construction completed; palace becomes a regular Savoy court venue. 1693–1713: Expansion programme under Victor Amadeus II; Michelangelo Garove leads new construction phase. 1716–1728: Filippo Juvarra appointed as court architect; designs and builds the Church of Sant'Uberto (1716) and the Grande Galleria di Diana; his grandiose master plan for an even larger complex is partially executed. 1706: French forces sack and partially destroy the complex during the War of Spanish Succession — major works are lost. 1730s: Restoration and further expansion under Charles Emmanuel III. 1849: Piedmontese government, following constitutional reforms, cedes Venaria to the military; the palace is converted to barracks and military use. 20th century: Military occupation continues; palace fabric deteriorates while structures remain intact. 1997: UNESCO World Heritage listing as part of 'Residences of the Royal House of Savoy'. 2000–2007: Major restoration programme; palace reopened to the public in 2007. Present: Cultural Foundation La Venaria Reale manages the site as museum and events venue.",
+  "how_to_visit": "**Getting there:** Venaria Reale is 11 km north of Turin. By public transport: GTT bus 11 from Piazza Repubblica in central Turin to Venaria (approximately 30–40 minutes). By car: approximately 20 minutes from central Turin via the Corso Francia and ring road. Organised tours from Turin are also widely available — the GYG guided experience (t393402) includes the guided tour and entry ticket for €145 per person; a cheaper option is the Turin Torino+Piemonte 5-Day City Card (t17051, €53) which includes Venaria entry alongside 20+ Turin attractions.\n\n**What to see:** The visit follows a set circuit through the restored ceremonial rooms — the Hall of Diana is the centrepiece. Allow 3–4 hours for the interior. The gardens are a separate visit requiring additional time; the formal parterres and fountain displays are at their best on weekday mornings in summer when the fountains are running.\n\n**Combine with:** [Palazzina di Caccia di Stupinigi](/castles/italy/palazzina-di-caccia-di-stupinigi) (10 km southwest of Turin — Juvarra's star-shaped hunting lodge, same UNESCO inscription). [Castello di Rivoli](/castles/italy/castello-di-rivoli) (13 km west of Turin — the Savoy castle turned contemporary art museum). Both are included in the Turin Royal Pass (t65698, €30, valid 4 days) and the Torino+Piemonte City Card (t17051, €53, 5 days).",
+  "faqs": [
+    {
+      "question": "How does Venaria compare to Versailles?",
+      "answer": "The parallel is genuine rather than promotional. Both were built in the same decade (Versailles from 1661, Venaria from 1658) by ambitious royal courts seeking to express power through architectural scale. Both were designed around a hunting tradition — the grounds of each palace were originally hunting forests. The main differences: Versailles was larger and more completely executed (Louis XIV's court was more powerful and lasted longer in its full form), while Venaria suffered from military conversion and the end of the Savoy kingdom in 1861. Venaria's restoration has been more recently completed and its spaces are less crowded than Versailles."
+    },
+    {
+      "question": "Is the guided tour worth the higher price?",
+      "answer": "The GYG guided experience (t393402, €145) is a small-group 3-hour expert-led visit covering the Hall of Diana, the Great Gallery, the Church of Sant'Uberto, and the Fountain of the Stag — substantially more than the standard self-guided entry. The palace's interpretive signage is limited and the spaces are large; the guided context makes a significant difference to understanding what you're seeing. The Turin Torino+Piemonte 5-Day City Card (t17051, €53) offers self-guided entry at much lower cost if you prefer to explore independently."
+    },
+    {
+      "question": "What is the Royal Pass?",
+      "answer": "The Turin Royal Pass (t65698, €30 per person, valid 4 days) gives entry to the main network of Savoy royal residences in and around Turin, including the Reggia di Venaria, Palazzina di Caccia di Stupinigi, Palazzo Madama, Racconigi Castle, Govone Castle, Turin Royal Palace, Moncalieri Castle, and Villa della Regina. It does not include guided tours — entry only. Useful if you plan to visit multiple residences over several days."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/reggia-di-venaria.webp",
+    "alt": "The Reggia di Venaria's Grand Gallery seen from the formal Baroque gardens, Venaria Reale, Piedmont",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/reggia-di-venaria.webp",
+  "instagram_tag": "#reggiadivenaria",
+  "meta_title": "Reggia di Venaria: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit the Reggia di Venaria — Italy's Versailles, one of Europe's largest UNESCO royal palaces outside Turin. Guided tours from €145. Royal Pass from €30.",
+  "tags": ["palace", "baroque", "garden", "UNESCO", "piedmont", "savoy", "royal-residence", "museum"],
+  "last_updated": "2026-08-03",
+  "nearby_castles": [
+    "palazzina-di-caccia-di-stupinigi",
+    "castello-di-rivoli",
+    "turin-royal-palace",
+    "moncalieri-castle",
+    "villa-della-regina",
+    "palazzo-madama"
+  ],
+  "gyg_location_id": "1927",
+  "gyg_search_query": "Reggia di Venaria guided tour Turin",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "393402",
+      "title": "Turin: Palace of Venaria Guided Tour",
+      "type": "guided_tour",
+      "duration": "3 hours",
+      "price_from": 145,
+      "rating": 4.7,
+      "reviews": 266,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/venaria-reale-l1927/turin-reggia-of-venaria-guided-experience-t393402/?partner_id=XDLEZT9&utm_medium=online_publisher"
+    },
+    {
+      "tour_id": "65698",
+      "title": "Turin: Royal Pass — 4-Day Entry to Savoy Royal Residences",
+      "type": "entry_ticket",
+      "duration": "Valid 4 days",
+      "price_from": 30,
+      "rating": 4.5,
+      "reviews": 23,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/turin-l390/royal-card-t65698/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palazzo-madama",
+        "racconigi-castle",
+        "govone-castle",
+        "turin-royal-palace",
+        "moncalieri-castle",
+        "villa-della-regina",
+        "reggia-di-venaria",
+        "palazzina-di-caccia-di-stupinigi",
+        "castello-di-rivoli"
+      ]
+    },
+    {
+      "tour_id": "17051",
+      "title": "Turin: Torino and Piemonte 5-Day City Card",
+      "type": "entry_ticket",
+      "duration": "Valid 5 days",
+      "price_from": 53,
+      "rating": 4.8,
+      "reviews": 470,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/turin-l390/torinopiemonte-card-5-days-t17051/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "reggia-di-venaria",
+        "palazzina-di-caccia-di-stupinigi",
+        "castello-di-rivoli"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
