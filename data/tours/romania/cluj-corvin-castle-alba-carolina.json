@@ -1,8 +1,8 @@
 {
   "id": "cluj-corvin-castle-alba-carolina",
   "slug": "cluj-corvin-castle-alba-carolina",
-  "name": "Corvin Castle & Alba Carolina Citadel Day Trip from Cluj",
-  "tagline": "Transylvania's most dramatic Gothic fortress — the castle that inspired Bram Stoker's imagination",
+  "name": "Cluj: Turda Salt Mine, Corvin Castle & Alba Carolina Day Trip",
+  "tagline": "An ancient salt mine carved 120 metres underground, Transylvania's greatest Gothic fortress, and Romania's largest Baroque citadel — all in a single 11-hour day",
   "departure_country": "romania",
   "departure_city": "Cluj-Napoca",
   "visited_countries": [
@@ -11,65 +11,85 @@
   "duration_days": 1,
   "duration_label": "Full Day · 11 hours",
   "gyg_tour_id": "236927",
-  "price_from": 45,
+  "gyg_url": "https://www.getyourguide.com/cluj-napoca-l2393/from-cluj-day-trip-to-corvin-castle-and-alba-carolina-t236927/",
+  "price_from": 111,
   "currency": "EUR",
-  "rating": 4.7,
-  "review_count": 580,
+  "rating": 4.8,
+  "review_count": 221,
   "languages": [
     "English",
     "Romanian"
   ],
   "max_group_size": 8,
-  "overview": "Corvin Castle — Hunedoara Castle — is the most spectacular Gothic castle in Romania and one of the most extraordinary in Europe: a towering complex of battlements, turrets, and drawbridges rising from a rocky outcrop above the Zlasti river. Built and rebuilt by the Hunyadi dynasty in the 14th and 15th centuries, it served as a prison for none other than Vlad the Impaler — the historical Dracula — who was held here for seven years. The Alba Carolina star-shaped citadel, the largest baroque military fortification in Romania, makes a natural second stop.",
+  "overview": "This 11-hour small-group day trip from Cluj-Napoca covers three of the most extraordinary sites in Transylvania and connects them into a single coherent day. The first stop is the Turda Salt Mine — not the kind of salt mine you're picturing. Salina Turda is a former Roman salt extraction site that extends 120 metres below the surface, now converted into one of the strangest and most dramatic underground spaces in Europe: enormous domed chambers carved directly from salt, with a subterranean lake, a Ferris wheel, and a rowing boat rental operating at the bottom. The second stop is Corvin Castle in Hunedoara — Romania's finest Gothic fortress, a 15th-century complex of towers, battlements, and drawbridges rising from a rocky outcrop above the Zlasti River, built by the Hunyadi dynasty and used briefly as a prison for Vlad the Impaler. The third stop is the Alba Carolina Citadel — the largest Baroque star fort in Romania, built by the Habsburgs between 1714 and 1738, enclosing an 11th-century cathedral where John Hunyadi is buried. The tour is operated by Rolandia, rated 4.8 stars across 221 verified reviews and awarded Top Rated status on GetYourGuide. Entry to Turda Salt Mine and Corvin Castle, lunch, water, and English-speaking guide are all included.",
   "highlights": [
-    "Tour Corvin Castle — Romania's finest Gothic fortress",
-    "Visit the dungeon where Vlad the Impaler (Dracula) was imprisoned",
-    "Explore the Knights' Hall and the baroque Chapel of the White Knight",
-    "See the star-shaped Alba Carolina Citadel",
-    "Small group of max 8 for a personal experience"
+    "Turda Salt Mine (Salina Turda) — a former Roman salt mine 120 metres underground, with vast domed chambers, a subterranean lake, and a Ferris wheel built inside the cavern",
+    "Corvin Castle (Hunedoara Castle) — Romania's greatest Gothic fortress, built by the Hunyadi dynasty in the 15th century; prison of Vlad the Impaler for seven years",
+    "Alba Carolina Citadel — Romania's largest Baroque star fort, with six bastions and the 11th-century cathedral containing the tomb of John Hunyadi",
+    "All three sites with guided visits of 1.5 hours each — not a drive-by tour",
+    "Operated by Rolandia: 4.8 stars, 221 verified reviews, Top Rated on GetYourGuide",
+    "Small group of max 8 — entry to Turda Salt Mine and Corvin Castle, lunch, and water included"
   ],
   "itinerary": [
     {
       "order": 1,
-      "castle_id": "corvin-castle",
-      "castle_name": "Corvin Castle (Hunedoara)",
-      "duration": "2.5 hours",
-      "description": "Tour the extraordinary Gothic castle rising above the Zlasti river. Highlights include the Council Tower with its panoramic views, the Knight's Hall — one of the finest Gothic interiors in Transylvania — the Chapel of the White Knight, and the drawbridge over the moat. In the lower courtyard, see the well allegedly dug by Turkish prisoners over 15 years who were promised freedom if they found water. They found it; they were not freed."
+      "castle_name": "Turda Salt Mine (Salina Turda)",
+      "duration": "1 hour 30 minutes",
+      "description": "Salina Turda is one of the most unexpected attractions in Central Europe — a former Roman and medieval salt mine that was actively extracted until 1932, now transformed into an underground recreational and visitor complex that descends 120 metres below the Transylvanian plateau. The Romans extracted salt here in the 1st and 2nd centuries AD; commercial extraction continued through the Habsburg period until the mine was closed. The preserved extraction chambers are on an extraordinary scale: the Rudolf Mine shaft descends into a vast elliptical void carved entirely from halite (rock salt), its walls glistening white and amber, with a central island containing a rowing lake, a Ferris wheel, an amphitheatre, a mini-golf course, and a billiards hall — all operating 120 metres underground. The air at this depth has a constant humidity and temperature (10–12°C) that has made the mine a therapeutic destination for respiratory conditions since the 19th century. The guided visit covers the main descent to the Rudolf Mine chamber, the subterranean lake, and the panoramic lift back to the surface. Entry is included."
     },
     {
       "order": 2,
-      "castle_id": "",
-      "castle_name": "Alba Carolina Citadel",
-      "duration": "1.5 hours",
-      "description": "The largest baroque military fortification in Romania — a star-shaped citadel with six bastions built by the Habsburgs between 1714 and 1738. Inside the walls, the 11th-century cathedral contains the tomb of John Hunyadi (Corvin's father) and the coronation church of the reunification of Romania."
+      "castle_id": "corvin-castle",
+      "castle_name": "Corvin Castle (Hunedoara)",
+      "duration": "1 hour 30 minutes",
+      "description": "Corvin Castle — Castelul Corvinilor — is the most spectacular Gothic fortress in Romania and one of the most extraordinary in Eastern Europe: a towering complex of battlements, turrets, and drawbridges rising from a rocky outcrop above the Zlasti River, built and repeatedly expanded by the Hunyadi family across the 14th and 15th centuries. John Hunyadi, Regent of Hungary and military commander of the Christian defence against the Ottoman advance, made Hunedoara his primary residence and transformed the existing fortification into a palace-fortress of international ambition — comparable in scale and quality of detail to the contemporary Gothic castles of France and Burgundy. The castle's highlights include the Knights' Hall (one of the finest Gothic interiors in Transylvania, with vaulted ceilings and enormous Gothic windows), the Chapel of the White Knight, the Council Tower with panoramic views over the river gorge, and the castle well — allegedly dug by Turkish prisoners over 15 years, who were promised freedom upon finding water. They found it; they were not freed. In the dungeon: Vlad III (Vlad the Impaler, the historical basis for Dracula) was held here by John Hunyadi's son Matthias Corvinus between 1462 and 1476. Entry is included; the guided visit covers all main interiors."
+    },
+    {
+      "order": 3,
+      "castle_name": "Lunch break in Hunedoara",
+      "duration": "45 minutes",
+      "description": "Lunch is included in the tour price. A restaurant stop in Hunedoara for a traditional Romanian meal before the afternoon drive to Alba Iulia. Typical Transylvanian dishes: ciorbă de burtă (tripe soup), sarmale (stuffed cabbage rolls with pork mince, rice, and dill, served with sour cream), mămăligă (polenta), and grilled pork. Note: the GYG itinerary lists the lunch stop as 'Optional, Extra fee' — this refers to an upgraded or à la carte restaurant option. The standard included lunch is confirmed as part of the tour package."
+    },
+    {
+      "order": 4,
+      "castle_name": "Alba Carolina Citadel (Alba Iulia)",
+      "duration": "1 hour 30 minutes",
+      "description": "Alba Carolina is the largest Baroque military fortification in Romania — a star-shaped citadel with six polygonal bastions built by the Habsburgs between 1714 and 1738 on the site of a Roman castrum (Apulum, a major legionary fortress in the province of Dacia). The citadel walls stretch for four kilometres; the seven fortified gates include the monumental Gate III — a Baroque triumphal arch decorated with military trophies and allegorical figures, built in 1716 to celebrate Habsburg power in Transylvania. Within the walls, the Cathedral of the Coronation (built 1921–1922) is where Ferdinand I and Queen Maria were crowned King and Queen of Greater Romania in 1922 — the first coronation of the unified Romanian state after the 1918 union of Transylvania, Wallachia, and Moldavia. The older 11th-century Romanesque cathedral beside it contains the tomb of John Hunyadi — the same commander whose castle you visited at Hunedoara — and funerary monuments of John Zápolya and Isabella Jagiellon. The guided visit covers the citadel walls and gates, both cathedrals, and the Roman archaeological layers visible within the fortification. Access to the citadel is free; guided tour is included."
     }
   ],
   "included": [
     "Round-trip transport from Cluj-Napoca",
-    "Expert guide",
+    "Expert English-speaking guide (operator: Rolandia)",
+    "Turda Salt Mine (Salina Turda) entry",
     "Corvin Castle entry",
-    "Alba Carolina Citadel access"
+    "Lunch in Hunedoara",
+    "Water"
   ],
   "excluded": [
-    "Lunch",
-    "Turda Salt Mine entry (optional on some departures)",
-    "Gratuities"
+    "Alba Carolina Citadel interior cathedral entry (optional, modest fee on-site)",
+    "Additional food and drinks beyond included lunch",
+    "Gratuities for guide and driver"
   ],
-  "meeting_point": "Cluj-Napoca city centre — confirmed at booking",
+  "meeting_point": "Cluj-Napoca city centre — exact pickup point confirmed at booking",
   "tips": [
-    "The small group size (max 8) makes this feel like a private tour — book early",
-    "Corvin Castle is best photographed from the bridge looking back toward the entrance facade — allow time for this",
-    "The castle interior is dark and atmospheric — bring a light jacket",
-    "Cluj itself is worth a night or two: a vibrant university city with excellent restaurants"
+    "Dress in layers for Turda Salt Mine — the temperature at 120 metres is a constant 10–12°C year-round, regardless of the season above ground. A light jacket is essential; a warm layer is recommended in winter.",
+    "Corvin Castle is best photographed from the wooden bridge looking back at the entrance façade — the reflection in the moat and the layered Gothic towers make this the definitive shot of the castle. Allow 10 minutes here before entering.",
+    "The castle well at Corvin is one of the most historically charged objects in the building — the story of the Turkish prisoners who dug it for 15 years is told by the guide, but it is worth pausing at the well itself. The well descends 28 metres to water level.",
+    "Alba Carolina's Gate III is the architectural highlight of the citadel — a Baroque triumphal arch on a scale comparable to the great city gates of Vienna. The sculptural programme on the gate (allegorical figures of Fame, Victory, and Military Virtue) is among the finest Baroque public sculpture in Romania.",
+    "The tour covers approximately 250 km of driving over 11 hours. The Transylvanian landscape between Cluj and Hunedoara — forested hills, river valleys, and scattered Saxon villages — is part of the experience. The drive through the Apuseni foothills in the morning is particularly scenic."
   ],
   "faqs": [
     {
-      "question": "Was Vlad the Impaler really imprisoned here?",
-      "answer": "Historical records confirm that Vlad III — Vlad the Impaler — was held at Hunedoara Castle by John Hunyadi between 1462 and 1476, though the exact location of his imprisonment within the castle is debated. The association with the Dracula legend (though Bram Stoker likely never visited Romania) adds an undeniable atmosphere."
+      "question": "Is Turda Salt Mine suitable for people with claustrophobia?",
+      "answer": "The main chambers of Salina Turda are exceptionally large — the Rudolf Mine chamber is approximately 50 metres wide and 50 metres tall, carved from solid salt. The space feels vast rather than confined. The descent is by lift (elevator). Most visitors with mild claustrophobia find the mine entirely comfortable; those with severe claustrophobia should assess based on the descent by enclosed lift rather than the chamber itself."
     },
     {
-      "question": "How far is Corvin Castle from Cluj?",
-      "answer": "Approximately 130km southwest — about 2 hours by road through the Transylvanian highlands. The drive through the landscape is part of the experience."
+      "question": "Was Vlad the Impaler really imprisoned at Corvin Castle?",
+      "answer": "Historical records confirm that Vlad III — Vlad the Impaler, the historical model for Bram Stoker's Dracula — was held captive by Matthias Corvinus (son of John Hunyadi) between 1462 and 1476, during a period when Vlad had sought refuge in Hungary after losing the Wallachian throne. The exact location of his imprisonment within the castle is debated; the dungeon shown to visitors is associated with this period by tradition rather than confirmed historical record. The Hunyadi–Dracula connection is real; the specific dungeon is atmospheric tradition."
+    },
+    {
+      "question": "What is the connection between Corvin Castle and Alba Carolina?",
+      "answer": "Both sites are connected through the Hunyadi family. John Hunyadi built Corvin Castle as his primary residence and seat of power. He is buried in the 11th-century cathedral inside the Alba Carolina Citadel — which was the religious and political capital of Transylvania in the medieval period. Visiting both in sequence traces the Hunyadi legacy across two sites: the military and residential centre of their power at Hunedoara, and their dynastic burial place at Alba Iulia."
     }
   ],
   "featured": true,
@@ -81,8 +101,7 @@
     "height": 1067
   },
   "meta": {
-    "title": "Corvin Castle Day Trip from Cluj",
-    "description": "Visit Corvin Castle — Romania's most dramatic Gothic fortress and Vlad the Impaler's prison — on a small-group day trip from Cluj. From €45."
-  },
-  "gyg_url": "https://www.getyourguide.com/cluj-napoca-l2393/from-cluj-day-trip-to-corvin-castle-and-alba-carolina-t236927/"
+    "title": "Turda Salt Mine, Corvin Castle & Alba Carolina: Day Trip from Cluj",
+    "description": "11-hour day trip from Cluj-Napoca visiting Turda Salt Mine, Corvin Castle (entry included), and Alba Carolina Citadel. Operated by Rolandia, 4.8★ / 221 reviews. From €111."
+  }
 }
