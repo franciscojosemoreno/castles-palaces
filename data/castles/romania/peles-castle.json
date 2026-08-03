@@ -97,19 +97,15 @@
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
-      "tour_id": "510079",
-      "title": "Cantacuzino Palace, Peleș & Bran Castle from Brașov",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 80,
-      "rating": 4.9,
-      "reviews": 24,
+      "tour_id": "299335",
+      "title": "Sinaia: Peleș Castle Tour with An Expert Guide",
+      "type": "guided_tour",
+      "duration": "2–3 hours",
+      "price_from": 55.90,
+      "rating": 4.8,
+      "reviews": 40,
       "is_top_pick": true,
-      "covers_castles": [
-        "peles-castle",
-        "bran-castle"
-      ],
-      "booking_url_override": "https://www.getyourguide.com/brasov-l6631/from-brasov-cantacuzino-peles-bran-castle-private-tour-t510079/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/sinaia-l124688/sinaia-peles-castle-tour-with-an-expert-guide-t299335/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
   "gyg_direct_link_override": true
