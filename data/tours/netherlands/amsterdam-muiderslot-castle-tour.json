@@ -1,84 +1,78 @@
 {
   "id": "amsterdam-muiderslot-castle-tour",
   "slug": "amsterdam-muiderslot-castle-tour",
-  "name": "Amsterdam to Muiderslot: Medieval Water Castle Day Trip",
-  "tagline": "One of Europe's best-preserved medieval castles, just 30 minutes from Amsterdam",
+  "name": "Muiden: Entry Ticket to Muiderslot Castle",
+  "tagline": "One of Europe's best-preserved medieval castles, just 30 minutes from Amsterdam — official skip-the-line entry to the castle and gardens",
   "departure_country": "netherlands",
   "departure_city": "Amsterdam",
   "visited_countries": [
     "netherlands"
   ],
   "duration_days": 1,
-  "duration_label": "Half day (5 hours)",
-  "gyg_tour_id": "44283",
-  "price_from": 39,
+  "duration_label": "Self-paced (2–3 hours in castle)",
+  "gyg_tour_id": "390462",
+  "gyg_url": "https://www.getyourguide.com/muiden-l124798/muiden-entry-ticket-to-muiderslot-castle-t390462/",
+  "price_from": 20,
   "currency": "EUR",
-  "rating": 4.5,
-  "review_count": 680,
+  "rating": 4.8,
+  "review_count": 189,
+  "is_top_pick": true,
   "languages": [
     "English",
     "Dutch"
   ],
-  "max_group_size": 15,
-  "overview": "Rising from the waters of the Vecht river just 30 minutes east of Amsterdam, Muiderslot is the Netherlands' most beautiful and best-preserved medieval castle. Built in 1285 by Count Floris V of Holland, this circular moated fortress looks exactly as a storybook castle should — complete with round towers, battlements, a drawbridge and a perfectly intact great hall. This small-group half-day tour from Amsterdam brings you inside its walls for a guided exploration of the knight's hall, dungeon, and weapons room, followed by free time to walk the ramparts and explore the surrounding Dutch polders.",
+  "overview": "Rising from the waters of the Vecht river just 30 minutes east of Amsterdam, Muiderslot is the Netherlands' most beautiful and best-preserved medieval castle. Built in 1285 by Count Floris V of Holland, this circular moated fortress looks exactly as a storybook castle should — complete with round towers, battlements, a drawbridge and a perfectly intact great hall. This official Rijksmuseum Muiderslot entry ticket gives you access to the full castle interior — knight's hall, dungeon, weapons room, historic kitchens — plus the castle gardens, at your own pace. Transport to Muiden from Amsterdam is not included but is straightforward: bus 320 from Amsterdam Centraal runs directly to Muiderslot in 35 minutes.",
   "highlights": [
-    "Guided tour of Muiderslot — the Netherlands' best-preserved medieval castle",
-    "Knight's hall, dungeon, weapons room and castle kitchens",
-    "Walk the full circuit of battlements above the moat",
-    "Dutch polder landscape along the Vecht river",
-    "Small-group format with maximum 15 guests"
+    "Full castle entry — knight's hall, dungeon, weapons room and historic kitchens",
+    "Access to the castle gardens and the full battlement circuit above the moat",
+    "Official Rijksmuseum Muiderslot product — no third-party markup, direct entry",
+    "Self-paced visit: stay as long as you like within opening hours",
+    "Easy to reach from Amsterdam by direct bus (35 min) — no car required"
   ],
   "itinerary": [
     {
       "order": 1,
-      "castle_name": "Amsterdam Departure",
-      "duration": "Travel east (30–40 min)",
-      "description": "Depart Amsterdam through the flat Dutch polders. The guide introduces Count Floris V, the castle's founder and one of medieval Holland's most colourful figures — he was eventually murdered here by his own knights in 1296."
+      "castle_name": "Getting There from Amsterdam",
+      "duration": "35 min from Amsterdam Centraal",
+      "description": "Take bus 320 from Amsterdam Centraal Station directly to Muiderslot — it stops at the castle entrance. Alternatively, the EBS bus from Weesp (reachable by train from Amsterdam in 25 min) runs to Muiden village. By bicycle from Amsterdam, the route along the Gein and Vecht rivers takes approximately 1.5 hours each way and is extremely scenic. The castle car park is also accessible for drivers. Bus 320 departs roughly every 30 minutes; check 9292.nl for current schedules."
     },
     {
       "order": 2,
       "castle_id": "muiderslot",
       "castle_name": "Muiderslot Castle",
-      "duration": "2.5 hours",
-      "description": "Cross the drawbridge into Muiderslot's circular courtyard. The guided tour covers the knight's hall (where banquets were held), the original castle kitchen, the dungeon, the weapons and armour room, and the private chambers. Then climb to the battlements for panoramic views over the Vecht river and the surrounding green polders stretching to the horizon."
-    },
-    {
-      "order": 3,
-      "castle_name": "Muiden Village",
-      "duration": "45 min",
-      "description": "Stroll the small harbour village of Muiden, where the castle's reflection shimmers in the marina. Optional castle café visit before the return to Amsterdam."
+      "duration": "2–3 hours (self-paced)",
+      "description": "Cross the drawbridge into Muiderslot's circular courtyard — a round fortress built in 1285 by Count Floris V of Holland, who was murdered here by his own knights in 1296 in a conspiracy involving the English crown. The castle was rebuilt in its current form shortly after and has remained in near-original condition ever since. Explore the knight's hall where medieval banquets were held, the original castle kitchen, the dungeon, the weapons and armour room, and the private chambers. Then climb to the battlements for panoramic views over the Vecht river and the flat Dutch polder landscape stretching to the horizon. The castle gardens are included in the ticket."
     }
   ],
   "included": [
-    "Return transport from Amsterdam",
-    "Professional English/Dutch-speaking guide",
-    "Muiderslot Castle entry ticket",
-    "Guided castle interior tour",
-    "Headsets for outdoor commentary"
+    "Entry ticket to Muiderslot Castle",
+    "Entry to the castle gardens",
+    "Access to all public castle rooms at your own pace"
   ],
   "excluded": [
+    "Transport to Muiden from Amsterdam (bus 320 from Centraal, approx. €4 return)",
     "Food and drinks",
-    "Personal purchases"
+    "Audio guide (available for hire at the castle)"
   ],
-  "meeting_point": "Amsterdam Centraal area — confirmed at booking",
+  "meeting_point": "Muiderslot Castle entrance, Muiden — accessible by bus 320 from Amsterdam Centraal (35 min)",
   "tips": [
-    "Muiderslot is especially photogenic in early morning or golden hour light",
-    "The castle has active falconry displays on weekend afternoons — ask your guide",
-    "Dress warmly in spring and autumn — the moat creates a wind chill",
-    "Combine with a Vecht river boat trip if you want a full day out"
+    "Bus 320 from Amsterdam Centraal is the simplest option — it stops directly at the castle. Check 9292.nl for departure times",
+    "Muiderslot is especially photogenic in morning light — early arrivals get the moat reflections before the tour groups arrive",
+    "The castle has active falconry displays on weekend afternoons — check the castle website for the current schedule",
+    "Dress warmly in spring and autumn — the moat creates a wind chill on the battlements"
   ],
   "faqs": [
     {
+      "question": "Is transport from Amsterdam included?",
+      "answer": "No — this ticket covers castle entry and the gardens only. Getting to Muiden is easy: bus 320 from Amsterdam Centraal goes directly to Muiderslot in 35 minutes (check 9292.nl for schedules, approximately €4 return). By bicycle from Amsterdam is also popular — the Vecht river route takes about 1.5 hours and is very scenic."
+    },
+    {
       "question": "Is Muiderslot suitable for children?",
-      "answer": "Very much so — the drawbridge, dungeon and knight demonstrations make it one of the most child-friendly castles in Europe."
+      "answer": "Very much so — the drawbridge, dungeon and battlement circuit make it one of the most child-friendly medieval castles in Europe. The self-paced entry ticket lets families move at their own speed."
     },
     {
-      "question": "Can I visit Muiderslot independently?",
-      "answer": "Yes, but the guided tour provides context that transforms the visit. The castle's interior stories are poorly explained by signage alone."
-    },
-    {
-      "question": "How long is the total trip?",
-      "answer": "Approximately 5 hours including travel time — ideal as a morning or afternoon excursion from Amsterdam."
+      "question": "Who was Count Floris V?",
+      "answer": "Count Floris V of Holland (1254–1296) built the original Muiderslot in 1285 as a toll and control point on the Vecht river. He was one of medieval Holland's most capable rulers — known as 'der keerlen god' (the peasants' friend) for defending the rights of common people against the nobility. He was lured to Muiderslot and murdered by a group of Dutch and English knights in 1296 who opposed his policies and his alliance with France. The castle was rebuilt after his death and named after him."
     }
   ],
   "featured": false,
@@ -90,8 +84,7 @@
     "height": 1067
   },
   "meta": {
-    "title": "Amsterdam to Muiderslot Castle Tour | Medieval Day Trip Netherlands",
-    "description": "Small-group guided tour from Amsterdam to Muiderslot, the Netherlands' finest medieval castle. Cross the drawbridge, explore the dungeon and walk the battlements above the moat."
-  },
-  "gyg_url": "https://www.getyourguide.com/amsterdam-l36/muiderslot-castle-and-naarden-fortress-t44283/"
+    "title": "Muiderslot Castle Entry Ticket — Official Skip-the-Line Admission",
+    "description": "Official entry ticket to Muiderslot, the Netherlands' finest medieval castle. Includes full castle interior access and gardens. 35 minutes from Amsterdam by direct bus. From €20."
+  }
 }

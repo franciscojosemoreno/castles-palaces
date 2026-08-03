@@ -1,85 +1,93 @@
 {
   "id": "bratislava-slovakia-castles-private-tour",
   "slug": "bratislava-slovakia-castles-private-tour",
-  "name": "From Bratislava: Slovakia's Most Beautiful Castles – Bojnice & Trencin",
-  "tagline": "A fairy-tale neo-Gothic castle and a hilltop fortress built over a Roman legionary camp — Slovakia's two greatest castles in one day",
+  "name": "From Bratislava: Beckov, Trenčín & Bojnice Castles Day Trip",
+  "tagline": "Three castles on the Váh — a clifftop ruin above the river, a fortress over a Roman legionary camp, and Slovakia's most photographed fairy-tale palace",
   "departure_country": "slovakia",
   "departure_city": "Bratislava",
   "visited_countries": [
     "slovakia"
   ],
   "duration_days": 1,
-  "duration_label": "Full day (10 hours)",
-  "gyg_tour_id": "41672",
-  "gyg_url": "https://www.getyourguide.com/bratislava-region-l1753/the-most-beautiful-castles-in-slovakia-t41672/",
-  "price_from": 80,
+  "duration_label": "Full day (10–11 hours)",
+  "gyg_tour_id": "1363721",
+  "gyg_url": "https://www.getyourguide.com/bojnice-l164858/from-bratislava-beckov-trencin-bojnice-castles-day-trip-t1363721/",
+  "price_from": 97,
   "currency": "EUR",
-  "rating": 4.6,
-  "review_count": 185,
+  "rating": 4.8,
+  "review_count": 17,
+  "is_top_pick": true,
   "languages": [
     "English"
   ],
   "max_group_size": 8,
-  "overview": "Slovakia has more castle sites per square kilometre than almost any country in Europe — the result of centuries of invasion pressure from Mongols, Ottomans and rival feudal lords that forced every strategic hilltop to be fortified. This tour visits the two most spectacular: Bojnice Castle, whose neo-Gothic towers and moat make it the most photographed castle in Slovakia, and Trencin Castle, a hilltop fortress built over a Roman legionary camp, with a 2nd-century Latin inscription carved by legionaries still visible in the cliff below. Bojnice's history spans 900 years — from a wooden Slavic fort to a medieval stronghold to its extraordinary transformation in the 1890s by Count Ján Pálffy, who spent 20 years and a fortune making it look like a Loire Valley château. Trencin occupies the site of a Roman outpost called Laugaricio, where in AD 179 the 2nd and 4th legions of Marcus Aurelius carved an inscription recording their victory over the Germanic Quadi tribe — the northernmost Roman inscription ever found.",
+  "overview": "Slovakia has more castle sites per square kilometre than almost any country in Europe — the result of centuries of invasion pressure from Mongols, Ottomans and rival feudal lords that forced every strategic hilltop to be fortified. This tour follows the Váh River valley northeast from Bratislava to visit three of the most dramatic: the clifftop ruins of Beckov above the river gorge, the walled hilltop city of Trenčín built over a 2nd-century Roman legionary camp, and Bojnice Castle, whose neo-Gothic towers and moat make it the most photographed castle in Slovakia. The day runs as a scenic circuit of the Váh corridor — one of the most castle-dense river valleys in Central Europe — combining guided walks through the grounds and historic centres of each site.",
   "highlights": [
-    "Bojnice Castle — Slovakia's most photographed castle, a neo-Gothic masterpiece on a limestone cliff above a moat",
-    "Trencin Castle — a hilltop fortress over a 2,000-year Roman camp, with a genuine Roman legionary inscription in the cliff below",
-    "The AD 179 Roman inscription at Trencin — the northernmost piece of Latin writing ever found, carved by the 2nd Legion",
-    "The legend of Ctibor and Omaija at Trencin — a medieval love story involving a magical well and a Turkish concubine",
-    "Bojnice's extraordinary interior — Hungarian Renaissance halls, a Gothic chapel built over a natural cave, and Pálffy family portraits",
-    "The Bojnice International Ghost Festival — held every April, the castle claims to be one of the most haunted in Europe"
+    "Beckov Castle — dramatic clifftop ruins on a sheer limestone crag above the Váh, one of the most photogenic castle ruins in Slovakia",
+    "Trenčín Castle — a hilltop fortress over a 2,000-year Roman camp, with a genuine 2nd-century legionary inscription in the cliff below",
+    "Bojnice Castle — Slovakia's most photographed castle, a neo-Gothic masterpiece above a moat, with grounds and gardens open for exploration",
+    "The AD 179 Roman inscription at Trenčín — the northernmost piece of Latin writing ever found, carved by soldiers of Marcus Aurelius",
+    "The Váh River valley — Central Europe's most castle-dense river corridor, explained by your guide from Bratislava to Bojnice"
   ],
   "itinerary": [
     {
       "order": 1,
       "castle_name": "Bratislava Departure",
-      "duration": "Travel northeast (1.5 hours)",
-      "description": "Head northeast from Bratislava through the Small Carpathian mountains and across the Váh River valley. The guide introduces Slovakia's extraordinary castle density — over 180 castle sites for a country of 5 million people — and explains the political geography that created them: centuries of Mongol invasion (1241), Ottoman expansion (the Ottomans occupied southern Slovakia for 150 years), and competition between Hungarian noble families for control of the Váh corridor, the main route into the kingdom."
+      "duration": "Travel northeast (~1 hour)",
+      "description": "Head northeast from Bratislava through the Small Carpathian foothills and into the Váh River valley. Your guide introduces Slovakia's extraordinary castle density — over 180 castle sites for a country of 5 million people — and explains the political geography that created them: Mongol invasion (1241), Ottoman expansion (the Ottomans held southern Slovakia for 150 years), and the competition between Hungarian noble families for control of the Váh corridor, the main military and trade route into the kingdom."
     },
     {
       "order": 2,
-      "castle_name": "Trencin Castle",
-      "duration": "2 hours",
-      "description": "Trencin Castle occupies a limestone cliff above the Váh River that has been continuously fortified for at least 2,000 years. Below the castle wall, in the rock face, an inscription carved in AD 179 by soldiers of the 2nd and 4th Legions of Marcus Aurelius records a military victory over the Germanic Quadi tribe — the most northerly Roman inscription ever found, proof that the Romans temporarily pushed beyond the Danube at this point. The guide covers the castle's extraordinary history: Trencin was the seat of Máté Csák, the 'king of the Váh', who controlled northern Hungary almost independently in the 14th century; and the famous love story of Ctibor and Omaija — a Turkish concubine kept prisoner in the castle, whose lover was promised she would be freed when he dug a well through solid rock, a task that took years and which he completed."
+      "castle_name": "Beckov Castle",
+      "duration": "1.5 hours",
+      "description": "Beckov Castle stands on a sheer limestone crag directly above the village of Beckov and the Váh River — a dramatic ruin that needs no imagination to make impressive. The castle dates from the 13th century and was one of the most powerful strongholds on the Váh until it was destroyed by fire in 1729. Its most famous owner was Stibor of Stiboricz, a Polish nobleman who rose to become the most powerful magnate in Slovakia under the Hungarian crown in the early 15th century. Walk the grounds and exterior — the clifftop views over the Váh valley and the scale of the ruined walls give a vivid sense of the strategic logic that governed medieval fortress placement in this valley."
     },
     {
       "order": 3,
+      "castle_name": "Trenčín Castle & Historic Centre",
+      "duration": "2 hours",
+      "description": "Trenčín Castle occupies a limestone cliff above the Váh that has been continuously fortified for at least 2,000 years. Below the castle wall, in the rock face, an inscription carved in AD 179 by soldiers of the 2nd and 4th Legions of Marcus Aurelius records a military victory over the Germanic Quadi tribe — the most northerly Roman inscription ever found, proof that the Romans temporarily pushed beyond the Danube at this point. Your guide covers the castle's medieval history — Trenčín was the seat of Máté Csák, the 'king of the Váh', who controlled northern Hungary almost independently in the 14th century — and the famous legend of Ctibor and Omaija, a Turkish concubine held prisoner in the tower. Walk the historic centre of Trenčín beneath the castle walls, one of the finest medieval townscapes in Slovakia."
+    },
+    {
+      "order": 4,
       "castle_name": "Bojnice Castle",
       "duration": "2.5 hours",
-      "description": "Bojnice Castle is the most visited and most photographed castle in Slovakia — and one of the most romantic in Central Europe. There has been a castle on this limestone cliff above the Nitra Valley since at least the 12th century, but Bojnice's extraordinary appearance is entirely the creation of Count Ján Pálffy, who inherited the estate in 1882 and spent 20 years and his entire fortune transforming it into a Loire Valley château. He studied French castles personally and brought in French craftsmen. He died in 1908, the year before work was completed, and never saw it finished. The interior is remarkable: Hungarian Renaissance halls, a Gothic chapel built directly over a natural cave (whose spring feeds the moat), and a collection of European art including works attributed to Raphael's school. The cave beneath the chapel was a place of pre-Christian worship — Bojnice's layers run from pagan cave sanctuary to medieval castle to neo-Gothic fantasy."
+      "description": "Bojnice Castle is the most visited and most photographed castle in Slovakia — one of the most romantic in Central Europe. There has been a castle on this limestone cliff above the Nitra Valley since the 12th century, but Bojnice's extraordinary appearance is entirely the creation of Count Ján Pálffy, who inherited the estate in 1882 and spent 20 years and his entire fortune transforming it into a Loire Valley château. He studied French castles personally and brought in French craftsmen. He died in 1908, the year before the work was completed, and never saw it finished. The grounds and gardens are the focus of this visit — walk the castle exterior, the moated surroundings, and the landscaped park with views up to the towers. The castle grounds give you the full scale and romance of Bojnice's silhouette from every angle."
     }
   ],
   "included": [
     "Hotel pickup and drop-off in Bratislava",
     "Private vehicle with driver",
     "Professional English-speaking guide throughout",
-    "Trencin Castle entry",
-    "Bojnice Castle guided interior tour",
+    "Guided walk of Beckov Castle grounds and ruins",
+    "Guided walk of Trenčín historic centre and castle exterior",
+    "Guided walk of Bojnice Castle grounds and gardens",
     "Small group (max 8)"
   ],
   "excluded": [
-    "Lunch (free time in Trencin or Bojnice town)",
+    "Castle interior admission tickets (payable on site if desired)",
+    "Lunch (free time in Trenčín or Bojnice town)",
     "Tips for guide and driver"
   ],
   "meeting_point": "Hotel pickup in Bratislava — address confirmed at booking",
   "tips": [
-    "Bojnice holds an International Ghost Festival every April — theatrical ghost tours, a medieval market and performances. Book well ahead.",
-    "The Roman inscription at Trencin is set into the cliff below the castle wall — ask your guide to point it out specifically, it is easy to miss",
-    "Trencin's medieval old town beneath the castle hill is one of Slovakia's finest — worth 30 minutes extra to walk the main square",
-    "Slovakia is excellent value compared to Austria or Czech Republic next door — the same quality of medieval experience at a fraction of the price"
+    "The Roman inscription at Trenčín is set into the cliff below the castle wall — ask your guide to point it out specifically, it is easy to miss",
+    "Bojnice holds an International Ghost Festival every April — theatrical ghost tours and a medieval market. Book well ahead if visiting then",
+    "Beckov is the least touristy of the three — its clifftop position above the Váh makes it the most dramatically sited ruin in the valley",
+    "Slovakia is excellent value compared to Austria or Czech Republic — the same quality of medieval landscape at significantly lower prices"
   ],
   "faqs": [
     {
-      "question": "What is the Roman inscription at Trencin?",
+      "question": "What is the Roman inscription at Trenčín?",
       "answer": "The inscription, carved in AD 179, records: '855 soldiers of the 2nd Legion and the 4th Legion, wintering at Laugaricio, under the command of Marcus Valerius Maximianus.' It was carved into the cliff face directly below where the medieval castle would later be built, recording a Roman military camp on the north bank of the Danube — the frontline of the Roman Empire at its greatest extent. It is the northernmost Roman inscription ever discovered."
+    },
+    {
+      "question": "Are castle interiors accessible on this tour?",
+      "answer": "This tour focuses on guided walks through the grounds, exteriors and historic centres of all three castles. Interior admission to the castle museums is not included but can be purchased on site at each location if you wish to extend your visit. Your guide can advise on which interiors are open on the day and recommend priorities."
     },
     {
       "question": "Who was Count Pálffy and why did he build such an extraordinary castle?",
       "answer": "Count Ján Pálffy (1829–1908) was a Hungarian aristocrat who inherited the Bojnice estate in 1882. An art collector and Francophile, he decided to transform the existing medieval castle into something resembling the great châteaux of the Loire Valley. He spent 20 years and his entire personal fortune on the project, designing many details himself and bringing in French craftsmen. He died in 1908, the year before the reconstruction was completed, having never seen it finished."
-    },
-    {
-      "question": "Is Bratislava a good base for Slovak castle tourism?",
-      "answer": "Yes — Bratislava sits at the convergence of three countries (Austria, Hungary, Slovakia) and within 2 hours of some of Central Europe's finest castles. Bojnice and Trencin are both reachable in a day trip; Spiš Castle (the largest castle ruin in Central Europe, UNESCO) is 4 hours away; and the Small Carpathians immediately north of Bratislava contain a dozen more medieval fortresses including Červený Kameň and the ruins of Devín, where the Danube meets the Morava."
     }
   ],
   "featured": false,
@@ -91,7 +99,7 @@
     "height": 1067
   },
   "meta": {
-    "title": "From Bratislava: Bojnice Castle & Trencin – Slovakia's Most Beautiful Castles Day Tour",
-    "description": "Private full-day tour from Bratislava to Bojnice Castle (Slovakia's neo-Gothic fairy-tale fortress) and Trencin Castle (built over a 2,000-year Roman camp). Two thousand years of history, two extraordinary castles."
+    "title": "From Bratislava: Beckov, Trenčín & Bojnice Castles Day Trip",
+    "description": "Day trip from Bratislava to three Slovak castles on the Váh River — dramatic Beckov ruins, Roman-foundation Trenčín, and fairy-tale Bojnice. Guided exterior and grounds tour from €97."
   }
 }

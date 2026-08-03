@@ -1,84 +1,92 @@
 {
   "id": "bucharest-transylvania-castles",
   "slug": "bucharest-transylvania-castles",
-  "name": "Bran Castle, Peleș Castle & Brașov Day Trip from Bucharest",
-  "tagline": "Dracula's castle, Romania's grandest palace, and a medieval Saxon city — all in one day",
+  "name": "Bucharest: Dracula's Castle, Peleș Castle & Brașov Tour",
+  "tagline": "Dracula's castle, Romania's grandest palace, and a medieval Saxon city — three of Transylvania's greatest sites in one day from Bucharest",
   "departure_country": "romania",
   "departure_city": "Bucharest",
   "visited_countries": [
     "romania"
   ],
   "duration_days": 1,
-  "duration_label": "Full Day · 13–14 hours",
-  "gyg_tour_id": "135264",
-  "price_from": 11,
-  "currency": "USD",
-  "rating": 4.6,
-  "review_count": 20410,
+  "duration_label": "Full day (13–14 hours)",
+  "gyg_tour_id": "1363967",
+  "gyg_url": "https://www.getyourguide.com/sinaia-l124688/bucharest-dracula-s-castle-peles-castle-brasov-tour-t1363967/",
+  "price_from": 29,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 221,
+  "is_top_pick": false,
   "languages": [
-    "English",
-    "Spanish",
-    "French",
-    "Italian",
-    "German"
+    "English"
   ],
-  "max_group_size": 50,
-  "overview": "Romania's most iconic tour packs three world-class destinations into a single extraordinary day. Begin at Bran Castle — the fortress linked to the Dracula legend — then visit the neo-Renaissance masterpiece of Peleș Castle before exploring the cobblestone streets of medieval Brașov. With over 20,000 reviews, this is one of GetYourGuide's highest-rated European castle tours.",
+  "overview": "Romania's most iconic day trip from Bucharest covers three world-class destinations in a single extraordinary day: Bran Castle — the Gothic fortress perched on a rock in Transylvania, linked to the Dracula legend — the neo-Renaissance masterpiece of Peleș Castle in Sinaia, and the cobblestone streets of medieval Brașov. All three sites are included in the route; entrance tickets to Bran Castle and Peleș Castle are available as an add-on at booking and are strongly recommended — GYG notes that on-site ticket availability cannot be guaranteed and they advise booking with tickets included. Note that Peleș Castle is closed on Mondays and Tuesdays; on those days it may be viewable from the exterior only.",
   "highlights": [
-    "Visit Bran Castle, Transylvania's most famous fortress",
-    "Tour the lavish interiors of Peleș Castle",
-    "Free time in the medieval city of Brașov",
-    "Round-trip transport from Bucharest included",
-    "Available in 5 languages with licensed guides"
+    "Bran Castle — Transylvania's most dramatic Gothic fortress on a 60-metre rock above the mountain pass, linked to Bram Stoker's Dracula legend",
+    "Peleș Castle — Romania's most opulent royal palace, built for King Carol I, with 160 gilded rooms and a famous armoury (closed Mon/Tue)",
+    "Brașov Old Town — one of the finest medieval Saxon cities in Eastern Europe, with the Black Church and Strada Republicii",
+    "Round-trip transport from Bucharest with a licensed local guide",
+    "Entrance ticket add-on available at booking — strongly recommended as on-site availability is not guaranteed"
   ],
   "itinerary": [
     {
       "order": 1,
-      "castle_id": "bran-castle",
-      "castle_name": "Bran Castle",
-      "duration": "1.5 hours",
-      "description": "Explore the medieval fortress perched dramatically above Transylvania. Associated with Bram Stoker's Dracula, the castle houses a fascinating museum of royal artefacts and medieval weapons."
+      "castle_name": "Bucharest Departure",
+      "duration": "Travel northwest (~2.5 hours)",
+      "description": "Early morning departure from Bucharest heading northwest through the foothills of the Carpathians toward Transylvania. Your guide introduces the history of Transylvania — the former Principality that sat between the Ottoman and Habsburg empires for three centuries — and the Dracula connection: Bram Stoker's 1897 novel was researched from library books in London and Whitby, never from a visit to Romania, yet his description of the fictional count's castle closely matched Bran's profile."
     },
     {
       "order": 2,
-      "castle_id": "peles-castle",
-      "castle_name": "Peleș Castle",
+      "castle_id": "bran-castle",
+      "castle_name": "Bran Castle",
       "duration": "1.5 hours",
-      "description": "Tour one of Europe's most opulent royal residences, built for King Carol I of Romania. 160 rooms of gilded interiors, Flemish tapestries, and an armoury await inside this neo-Renaissance masterpiece."
+      "description": "Bran Castle rises on a 60-metre limestone rock at the Bran Pass between Transylvania and Wallachia — a series of levels connected by narrow staircases, wooden galleries, hidden passages and a shaft through the rock to an underground well. The rooms are furnished with Central European antiques from the 14th to 19th centuries. The castle's most poignant resident was Queen Marie of Romania, granddaughter of Queen Victoria, who fell in love with Bran in 1920 and restored it as her summer residence. Her golden heart casket is displayed in the castle chapel. Entrance ticket: included as add-on at booking, or payable on site (subject to availability)."
     },
     {
       "order": 3,
-      "castle_id": "brasov-old-town",
+      "castle_id": "peles-castle",
+      "castle_name": "Peleș Castle",
+      "duration": "1.5 hours",
+      "description": "Peleș Castle in Sinaia is Romania's most extraordinary palace — a neo-Renaissance mountain residence built for King Carol I between 1873 and 1914, with 160 rooms decorated in a fusion of European styles: Flemish tapestries, gilded ceilings, Moorish halls, and an armoury housing the royal weapon collection. The grounds alone are magnificent. Note: Peleș is closed on Mondays and Tuesdays; on those days visits are limited to the exterior and grounds. Entrance ticket: included as add-on at booking, or payable on site (subject to availability).",
+      "extra_fee": "Entrance tickets NOT included by default — add at booking. GYG strongly advises booking with tickets: on-site ticket availability for Bran Castle and Peleș Castle is limited and cannot be guaranteed."
+    },
+    {
+      "order": 4,
       "castle_name": "Brașov Old Town",
       "duration": "1 hour",
-      "description": "Free exploration of the best-preserved medieval Saxon city in Transylvania. Walk the cobbled Strada Republicii, see the Black Church, and take in views from the city walls."
+      "description": "Free exploration of Brașov, one of the best-preserved medieval Saxon cities in Eastern Europe. Walk the cobbled Strada Republicii to Council Square (Piața Sfatului), visit the Black Church — the largest Gothic church in Eastern Europe — and take in views over the red-roofed old town from the city walls. The city was founded by Teutonic Knights in the 13th century and retains its medieval street plan largely intact."
     }
   ],
   "included": [
     "Round-trip transport from Bucharest",
     "Licensed local guide",
-    "Bran Castle entrance",
-    "Peleș Castle entrance"
+    "Bran Castle and Peleș Castle entrance tickets (optional add-on at booking — strongly recommended)"
   ],
   "excluded": [
+    "Bran Castle and Peleș Castle entrance tickets if not added at booking (payable on site — subject to availability)",
     "Lunch",
     "Personal expenses",
     "Gratuities"
   ],
   "meeting_point": "Bucharest city centre — confirmed at booking",
   "tips": [
-    "Start time is early (around 7–8am) — this is a long day but worth every minute",
-    "At €11/person this is exceptional value for three major sites",
-    "Book well in advance — with 20,000+ reviews this sells out daily in peak season"
+    "Add the entrance ticket option at booking — GYG's own listing warns that on-site ticket availability for both Bran and Peleș cannot be guaranteed, and they strongly recommend booking with tickets included",
+    "Peleș Castle is closed on Mondays and Tuesdays — on those days it is viewable from outside only. Check the day of the week before booking if interior access to Peleș is a priority",
+    "Start time is early (around 7–8am) — this is a long day but Transylvania is worth every minute",
+    "Brașov's medieval fortified towers along the old city walls are worth seeking out — the Black Tower and White Tower both have city views"
   ],
   "faqs": [
     {
-      "question": "Why is this tour so affordable?",
-      "answer": "Romania has a lower cost of living than Western Europe. The price reflects local market rates while the quality of the experience is world-class."
+      "question": "Are castle entrance tickets included in the price?",
+      "answer": "Not by default. Entrance tickets to Bran Castle and Peleș Castle are available as an add-on when booking through GYG. The operator strongly recommends adding them at booking — they note that on-site ticket availability is limited and cannot be guaranteed, particularly in peak season. Book with tickets included to avoid disappointment."
     },
     {
       "question": "Is Bran Castle really Dracula's castle?",
-      "answer": "Bram Stoker's description of Castle Dracula closely matches Bran, though there is no definitive historical link to Vlad the Impaler. The legend and the castle atmosphere are equally compelling."
+      "answer": "The connection is based on resemblance, not fact. Bram Stoker researched his 1897 novel from library books in London and Whitby and never visited Romania. His description of the fictional count's castle matches Bran's profile closely enough — a castle on a rocky crag at a mountain pass in Transylvania — that the association was adopted by Romanian tourism. The real Vlad the Impaler may have passed through or been briefly imprisoned at Bran in 1462, but never lived there. The castle's real human story — centred on Queen Marie of Romania — is arguably more interesting."
+    },
+    {
+      "question": "Why is Peleș Castle closed on certain days?",
+      "answer": "Peleș Castle is closed on Mondays and Tuesdays year-round for maintenance and administrative purposes. On closed days, visitors can walk the grounds and view the exterior. If interior access to Peleș is your priority, check the day of the week before booking — midweek and weekend tours (Wednesday through Sunday) are guaranteed to include the interior visit."
     }
   ],
   "featured": true,
@@ -90,8 +98,7 @@
     "height": 1067
   },
   "meta": {
-    "title": "Bran Castle & Peleș Castle Day Trip from Bucharest",
-    "description": "Book the best Transylvania castle day trip from Bucharest. Visit Bran Castle, Peleș Castle and Brașov with a licensed guide. From $11 per person — one of Europe's best-value tours."
-  },
-  "gyg_url": "https://www.getyourguide.com/bucharest-l111/from-bucharest-peles-bran-castle-old-town-brasov-t135264/"
+    "title": "Bucharest: Dracula's Castle, Peleș & Brașov Day Tour",
+    "description": "Day trip from Bucharest to Bran Castle (Dracula's castle), Peleș Castle and medieval Brașov with a licensed guide. From €29 per person. Add entrance tickets at booking."
+  }
 }
