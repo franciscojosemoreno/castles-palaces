@@ -106,6 +106,25 @@
       "covers_castles": [
         "moncalieri-castle"
       ]
+    },
+    {
+      "tour_id": "65698",
+      "title": "Turin: Royal Pass — 4-Day Entry to Savoy Royal Residences",
+      "type": "entry_ticket",
+      "duration": "Valid 4 days",
+      "price_from": 30,
+      "rating": 4.5,
+      "reviews": 23,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/turin-l390/royal-card-t65698/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palazzo-madama",
+        "racconigi-castle",
+        "govone-castle",
+        "turin-royal-palace",
+        "moncalieri-castle",
+        "villa-della-regina"
+      ]
     }
   ],
   "gyg_direct_link_override": true
