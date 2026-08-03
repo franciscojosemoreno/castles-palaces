@@ -198,7 +198,8 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
               </div>
               <span className="text-sm text-stone-700">UNESCO only</span>
             </label>
-            <label className="flex items-center gap-3 cursor-pointer">
+            {/* Free entry toggle hidden pending free_entry field audit — re-enable once verified */}
+            {/* <label className="flex items-center gap-3 cursor-pointer">
               <div
                 onClick={() => setFilterFreeOnly(!filterFreeOnly)}
                 className={`w-10 h-5 rounded-full transition-colors flex-shrink-0 relative ${filterFreeOnly ? 'bg-[#c9a84c]' : 'bg-stone-200'}`}
@@ -206,7 +207,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                 <div className={`absolute top-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform ${filterFreeOnly ? 'translate-x-5' : 'translate-x-0.5'}`} />
               </div>
               <span className="text-sm text-stone-700">Free entry only</span>
-            </label>
+            </label> */}
           </div>
 
           {/* Reset */}
