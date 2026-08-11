@@ -53,6 +53,39 @@ Multi-paragraph narrative, 300–600 words. This is the main editorial piece —
 
 Practical getting-there and on-site guidance. Supports markdown bold (`**text**`) and line breaks. Should be specific — specific bus numbers, specific journey times, specific combinations with nearby castles. Minimum ~80 words; longer for sites that are genuinely hard to reach or have complex logistics.
 
+### Fixed 4-part structure — required on every castle
+
+Every `how_to_visit` field must use exactly these four bold subheadings, in this order:
+
+```
+**Getting there:** …
+
+**Tickets:** …
+
+**Practical tips:** …
+
+**Combine with:** …
+```
+
+#### Rules per section
+
+**Getting there** — directions and transit from the nearest city. Specific: route numbers, journey times, whether car is needed. Mention the public-transport option first if one exists; note where car is the only practical option.
+
+**Tickets** — walk-up admission price, what's included, advance-booking requirements. If a GYG featured tour exists: mention the tour name, tour_id, price, and star rating in the body prose here. Do not put the tour name or tour_id in the subheading itself — tour products are unstable (prices change, tours get delisted) and the subheading should survive a tour change without needing a header rewrite.
+
+> ✅ `**Tickets:** Walk-up entry is €10. The GYG guided hike (t412336, from €75, 5★/25 reviews) includes the entrance fee and is timed to arrive at sunset…`
+> ❌ `**GYG guided hike + sunset (~€75, t412336):** …` ← tour name as subheading
+
+**Practical tips** — one or two genuinely useful things that visitors commonly miss, get wrong, or that make the difference between a good and a bad visit. Best time to arrive, what to prioritise, what's overrated, crowd or seasonal notes, what to wear. Don't invent generic filler — only write what's specifically true about this castle and you can back from context.
+
+**Combine with** — name one or two specific nearby castles already published on the site, and link to them with internal markdown links: `[Castle Name](/castles/country/castle-id)`. Pick pairings that are genuinely practical (within a day-trip range from the same city or along the same route). Skip this section only if there is no reasonable on-site pairing — but actively look for one in `nearby_castles` before skipping. Do not force a weak pairing just to fill the section.
+
+#### What not to do
+
+- **No tour name or tour_id as a subheading.** This was the "GYG-first" format used in some July–August 2026 batches and has been deprecated. All tour information belongs in the Tickets body text.
+- **No extra subheadings.** Some May 2026 castles had 5+ subheadings (Getting there, Tickets, The Gloriette, Zoo, Christmas Market…). Consolidate contextual/practical content into the Practical tips block.
+- **No plain prose without structure.** Every published castle must have the four bold subheadings — unstructured paragraphs are not acceptable regardless of content quality.
+
 ## `highlights` field (array)
 
 Five bullet points, each 20–40 words. Should be genuinely distinctive claims — the architectural feature, historical event, or collection element that makes this castle worth a trip. Avoid generic superlatives ("most beautiful castle in...") without specific supporting content.
