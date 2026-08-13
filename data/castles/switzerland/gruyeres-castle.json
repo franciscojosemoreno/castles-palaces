@@ -1,0 +1,114 @@
+{
+  "id": "gruyeres-castle",
+  "name": "Gruyères Castle",
+  "local_name": "Château de Gruyères",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 150000,
+  "country": "switzerland",
+  "region": "Canton of Fribourg — Gruyère district, medieval hilltop town of Gruyères",
+  "nearest_city": "Fribourg",
+  "address": "Rue du Château 8, 1663 Gruyères, Switzerland",
+  "lat": 46.5844,
+  "lng": 7.0812,
+  "unesco": false,
+  "year_built": 1270,
+  "architectural_style": "Medieval — 13th-century keep of the Counts of Gruyère, expanded through the 15th century with Gothic great halls; Renaissance salon and neogothic chapel added in later centuries; cantonal restoration 19th–20th century",
+  "opening_hours": {
+    "monday": "09:00–18:00",
+    "tuesday": "09:00–18:00",
+    "wednesday": "09:00–18:00",
+    "thursday": "09:00–18:00",
+    "friday": "09:00–18:00",
+    "saturday": "09:00–18:00",
+    "sunday": "09:00–18:00",
+    "seasonal_note": "Apr–Oct: 09:00–18:00. Nov–Mar: 10:00–17:00. Open daily year-round; last entry 30 minutes before closing."
+  },
+  "price_adult": 12,
+  "price_child": 6,
+  "price_currency": "CHF",
+  "booking_required": false,
+  "official_tickets_url": "https://www.chateau-gruyeres.ch",
+  "visit_duration": "1.5–2 hours (castle museum + village walking)",
+  "best_season": "Year-round — the medieval village is beautiful in all seasons; summer brings the most visitors; spring and autumn are ideal for the Prealpine views; the village is accessible in winter but check road conditions toward Fribourg",
+  "accessibility": "The castle interior involves multiple flights of stairs and uneven stone floors throughout. The hilltop village is reached via a sloped pedestrian street from the lower car park. Some rooms have low doorways. No lift access within the castle building. Visitors with limited mobility may find access to the upper floors restricted.",
+  "booking_advance_days": 0,
+  "tagline": "A medieval hilltop castle in Switzerland's cheese country — with an H. R. Giger museum next door",
+  "highlights": [
+    "The castle museum — eight centuries of Gruyère county history across a sequence of Gothic, Renaissance, and later rooms, from knights' hall to neogothic chapel, inside one of Switzerland's best-preserved hilltop castles",
+    "The H. R. Giger Museum — housed in a separate castle building in the medieval village, dedicated to the Swiss surrealist artist who designed the creature in Alien; a permanent biomechanical collection entirely unlike any other museum in Switzerland",
+    "The car-free medieval village — Gruyères' single main street is closed to traffic, lined with fondue restaurants, and frames the castle at its upper end as one of the most photographed medieval streetscapes in the Swiss Prealps",
+    "The Prealpine panorama — the castle terrace and upper windows command wide views across the Jaun valley toward the snow-capped peaks of the Fribourg Prealps, visible from the exterior walkways and the great hall windows",
+    "La Maison du Gruyère — the working AOP cheese factory at the base of the hill where the production of Gruyère cheese from local alpine milk is visible through observation platforms; a natural companion to the castle in a single half-day visit"
+  ],
+  "description": "Gruyères Castle sits at the top of a medieval hilltop village in the Swiss Prealps, and few small castles in Switzerland pack as much into a single afternoon. The castle itself is a cantonal museum covering eight centuries of history; the village at its feet is a pedestrianised medieval street lined with fondue restaurants; at the base of the hill is La Maison du Gruyère, the working factory producing one of Switzerland's most celebrated cheeses; and in a second, smaller castle building in the village there is, improbably, the H. R. Giger Museum — dedicated to the Swiss surrealist artist behind the Alien creature design, a permanent collection of biomechanical sculpture, paintings, and film design work that generates consistent astonishment among visitors who encounter it without forewarning.\n\nThe castle was built in the 13th century by the Counts of Gruyère, who ruled the Alpine valleys between Fribourg and Vaud for over four centuries. Their name had already travelled further than their political territory — the cheese produced on their alpine pastures was traded across Europe well before the county's end. Financial pressures proved insuperable: in 1554, the last Count of Gruyère declared bankruptcy, and the county was partitioned between its two principal creditors, Fribourg and Bern. The castle passed to the Canton of Fribourg, served as a residence for Fribourg bailiffs, and eventually became a cantonal museum. The interior is unusually well furnished for a Swiss castle of this size — the sequence of rooms, from the Gothic hall to the Renaissance salon to the 19th-century neogothic chapel added by later private owners, gives a layered picture of how the building was inhabited and adapted across several centuries.\n\nThe village of Gruyères is one of those rare Swiss medieval towns that has survived essentially intact. The single main street is closed to cars, and on a clear afternoon the combination of Alpine light, the Prealpine peaks visible on three sides, and the castle at the top of the street makes it one of the most photographed medieval scenes in Switzerland. Fondue here is not a tourist performance but a local daily reality; the village restaurants serve some of the most reliable cheese fondue in the country, made from milk produced on the surrounding Prealpine farms.\n\nThe easiest approach by public transport is from Fribourg — a direct train to Bulle (30 minutes) followed by the regional GFM train to Gruyères station (15 minutes) — depositing you at the base of the hill, a ten-minute walk below the village gate. From Geneva or Lausanne the journey is under two hours.",
+  "history": "The County of Gruyère was among the most significant alpine lordships of medieval Switzerland, controlling the high passes and valleys between Fribourg and Vaud for over four centuries. The Counts of Gruyère built their principal castle on the commanding hilltop site in the second half of the 13th century, taking advantage of a topographic position that dominated the surrounding valley and could be read from a great distance.\n\nThe county flourished through the late medieval period, accumulating territory and influence while the alpine pastures produced a cheese that was already being traded across Europe. But the financial demands of maintaining an independent county in an era of consolidating Swiss cantonal power eventually proved insuperable, and in 1554 Michael of Gruyère declared bankruptcy. The county was divided between Fribourg and Bern; the castle passed to Fribourg, serving subsequently as the residence of Fribourg bailiffs and later as a cantonal administrative centre.\n\nIn the 19th century, the castle was acquired and sympathetically restored by private owners — the Bovy and Balland families — who added the neogothic chapel that now forms one of the more unexpected rooms in the interior sequence. The canton of Fribourg eventually took full ownership, and sustained restoration through the 20th century transformed the building into one of the most complete and well-presented small castle museums in Switzerland. The opening of the H. R. Giger Museum in a second village building — the Swiss artist had strong personal connections to Gruyères and chose it for his permanent collection — gave the medieval hilltop an additional and entirely unexpected cultural dimension.",
+  "how_to_visit": "**Getting there:** From Fribourg (35 km), take a direct regional train to Bulle (30 minutes), then the GFM connecting train to Gruyères station (15 minutes) — total journey under 1 hour. From Lausanne, travel via Bulle for a journey of approximately 1 hour. From Geneva, allow around 2 hours via Bulle. By car, take the A12 motorway toward Bulle, then follow signs to Gruyères; parking is available at the base of the hill. The village is pedestrianised — cars are not permitted on the main street.\n\n**Tickets:** Walk-up entry to the castle museum: approximately CHF 12 adult, CHF 6 child (payable at the castle). The GYG private day tour (t474858, 5.0★/7 reviews, from €293) — a 9-hour small-group guided excursion (max 7) from the Montreux area with hotel pickup, covering Gruyères Castle, a walking tour of the medieval village, La Maison du Gruyère cheese factory, and Maison Cailler chocolate factory; castle entry included — is a premium option combining the castle with the region's two most famous food experiences; the €293 covers the full guided day programme, not the castle entry alone. Book well in advance — listed as 'Rare find' on GYG.\n\n**Practical tips:** Arrive before 10:00 in summer to have the village street largely to yourself — by mid-morning, tour groups from Montreux and Geneva fill the main street. The H. R. Giger Museum requires a separate ticket and is worth treating as a distinct visit; allow at least 45 minutes and expect something entirely unlike the medieval castle next door. Village restaurants serve excellent fondue and raclette — booking a table for lunch is advisable in high season.\n\n**Combine with:** [Château de Chillon](/castles/switzerland/chateau-de-chillon) (45 km southwest on Lake Geneva — the most visited historic monument in Switzerland and the most dramatic lakeside castle in the Alps; together with Gruyères they form a comprehensive Swiss castle day across the Fribourg-Vaud lake district).",
+  "faqs": [
+    {
+      "question": "What is the H. R. Giger Museum and is it worth visiting?",
+      "answer": "The H. R. Giger Museum occupies a second smaller castle building in the medieval village of Gruyères, separate from the main castle and requiring a separate ticket. It is dedicated to Hans Rudolf Giger (1940–2014), the Swiss surrealist artist who designed the creature, sets, and visual world of Ridley Scott's Alien (1979) and won the Academy Award for Best Visual Effects. The permanent collection includes large-scale biomechanical sculptures, paintings, furniture, and film design work. Giger had strong personal connections to Gruyères and chose the village for his permanent collection. Visitors who enter not knowing what to expect typically find it as memorable as the medieval castle itself."
+    },
+    {
+      "question": "How do I reach Gruyères by public transport?",
+      "answer": "Gruyères is well connected by rail from Fribourg, Lausanne, and Geneva. From Fribourg, take a direct regional train to Bulle (30 minutes), then change to the GFM train for Gruyères station (15 minutes) — total journey under an hour. From Lausanne, travel via Bulle for a journey of approximately 1 hour. From Geneva, allow around 2 hours via Bulle. Gruyères station is at the base of the hill; the village and castle are a 10-minute walk up a moderate slope. Signposting from the station is clear, and the route is well walked."
+    },
+    {
+      "question": "Can I visit the cheese factory and the castle on the same day?",
+      "answer": "Yes — the combination is the standard visit and fits comfortably into a half-day. La Maison du Gruyère, the working AOP cheese factory, is located near the station and car park at the base of the hill; self-guided visits take 30–45 minutes (entry approximately CHF 7 adult). The castle museum is a 10-minute walk uphill and takes around 1–1.5 hours. The H. R. Giger Museum in the village adds another 30–45 minutes. Most visitors cover all three in a morning and stay for lunch at one of the village's fondue restaurants — booking a table in advance is advisable in high season."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gruyeres-castle.webp",
+    "alt": "Gruyères Castle on its hilltop above the medieval village with the Fribourg Prealps in the background",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gruyeres-castle.webp",
+  "instagram_tag": "#chateaudegruyeres",
+  "meta_title": "Gruyères Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Gruyères Castle in the Swiss Prealps — medieval hilltop fortress, cantonal museum, and gateway to cheese country. Combine with La Maison du Gruyère and the H. R. Giger Museum.",
+  "tags": [
+    "switzerland",
+    "fribourg",
+    "medieval",
+    "gruyere",
+    "cheese",
+    "alpine",
+    "cantonal-museum",
+    "hilltop",
+    "h-r-giger"
+  ],
+  "last_updated": "2026-08-13",
+  "routes": [
+    "swiss-alpine-castles"
+  ],
+  "nearby_castles": [
+    "chateau-de-chillon"
+  ],
+  "gyg_location_id": "32355",
+  "gyg_search_query": "Gruyères Castle tour Switzerland cheese Montreux day trip",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "474858",
+      "title": "From Montreux: Gruyères, City of Cheese and Chocolate Day Tour",
+      "type": "guided_tour",
+      "duration": "9 hours",
+      "price_from": 293,
+      "rating": 5.0,
+      "reviews": 7,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/montreux-l32355/from-montreux-gruyeres-city-of-cheese-and-chocolate-day-tour-t474858/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "gruyeres-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
