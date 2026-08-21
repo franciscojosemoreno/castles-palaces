@@ -1,0 +1,102 @@
+{
+  "id": "eastern-slovenia-private-castle-tour-with-wine-tastings",
+  "slug": "eastern-slovenia-private-castle-tour-with-wine-tastings",
+  "name": "Eastern Slovenia: Private Castle Tour with Wine Tastings",
+  "tagline": "Three medieval castles of the Drava valley in a single private day — armour and archaeology at Ptuj, Arthurian legend at Borl, Classicist splendour at Ormož — with regional wine and Haloze pastries throughout",
+  "departure_country": "slovenia",
+  "departure_city": "Ptuj",
+  "visited_countries": [
+    "slovenia"
+  ],
+  "duration_days": 1,
+  "duration_label": "Private Day · 5 hours",
+  "gyg_tour_id": "1427550",
+  "price_from": 430,
+  "currency": "EUR",
+  "rating": null,
+  "review_count": 0,
+  "languages": [
+    "English",
+    "Slovenian"
+  ],
+  "max_group_size": 2,
+  "overview": "A private guided circuit through three of eastern Slovenia's most distinctive castles — Ptuj, Borl, and Ormož — with entrance fees to all three included, regional wine tastings at each stop, and a traditional Haloze pastry (haloška gibanica or ocvirkovka) at Borl. Licensed guide Gregor Valentan leads a 5-hour itinerary that can begin at any of the three castles depending on the group's starting point. Private transport between stops is available at extra cost, or guests can self-drive following the guide. This is a boutique, private product — not a mass-market day tour — suited to travellers who want unhurried time at each site with local context rather than a group coach experience. A New activity with no reviews yet.",
+  "highlights": [
+    "Three medieval castles in five hours — Ptuj (Slovenia's oldest town, outstanding Regional Museum), Borl (cliff-top fortress above the Drava, Arthurian Grail legend heraldry), Ormož (13th-century Lords of Ptuj foundation, reopened November 2025 after restoration)",
+    "Regional wine tastings at each castle stop, featuring wines from the Haloze and Ormož wine regions — including Šipon/Furmint and local whites characteristic of eastern Slovenian viticulture",
+    "A traditional Haloze pastry (haloška gibanica or ocvirkovka) with wine at Borl — included in the tour as part of the local food programme",
+    "Access to the underground tunnel beneath Ptuj Castle — not on the standard museum ticket — with a regional wine tasting inside the passage",
+    "Private product for up to 2 people with a licensed local guide throughout: flexible start point, small-group pace, and a price that covers the full group rather than individual per-person admission"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "ptuj-castle",
+      "castle_name": "Ptuj Castle",
+      "duration": "1 hour",
+      "description": "The starting castle (if departing from Ptuj). The Regional Museum inside the castle holds one of the most complete armory collections in Slovenia, a gallery of Gothic and Baroque painting, and the largest historical musical instrument collection in the country. The guide covers the castle's history from Romanesque origins through Baroque refurbishment, and from the Lords of Ptuj's medieval dominance to the UNESCO-recognised Kurentovanje carnival preserved in the mask collection. The visit ends with a descent into the underground tunnel beneath the castle, which is not on the standard museum ticket, with a regional wine tasting inside."
+    },
+    {
+      "order": 2,
+      "castle_id": "borl-castle",
+      "castle_name": "Borl Castle",
+      "duration": "70 minutes",
+      "description": "The tour's most unusual stop: a cliff-top castle above the Drava river with a connection to the Arthurian Grail legend via the inverted anchor heraldry of Wolfram von Eschenbach's Parzival. The guide explains both the castle's medieval history and its extraordinary 20th-century sequence — WWII internment camp, postwar convalescent home, 1956 refugee centre for Hungarians, resort hotel (1952–1979), closure, and restoration. Wine tasting and a traditional Haloze pastry are included here."
+    },
+    {
+      "order": 3,
+      "castle_id": "ormoz-castle",
+      "castle_name": "Ormož Castle",
+      "duration": "1.5 hours",
+      "description": "The third castle of the circuit: founded by the same Lords of Ptuj family as Ptuj Castle in the final decades of the 13th century, and substantially remodelled in Classicist style in the early 19th century by Jože Pauer. The saloon's 1810 painting cycle by Alois Gleichenperger — depicting the four continents — is considered among the finest Classicist paintings surviving in Slovenia. The castle park, planted with exotic species including a tulip tree and ginkgo, is a highlight in its own right. Wine tasting included. The castle reopened in November 2025 following its first phase of renovation."
+    },
+    {
+      "order": 4,
+      "castle_id": "ptuj-castle",
+      "castle_name": "Ptuj Castle Tunnel Wine Tasting (return)",
+      "duration": "1 hour",
+      "description": "If the tour starts at Borl or Ormož rather than Ptuj, the underground tunnel visit and wine tasting at Ptuj Castle serve as the final stop. The tunnel is accessed through the licensed guide and is not available on the standard museum ticket."
+    }
+  ],
+  "included": [
+    "Licensed local guide (Gregor Valentan) throughout",
+    "Entrance fees to all three castles",
+    "Regional wine tasting at each stop",
+    "Traditional Haloze pastry at Borl Castle"
+  ],
+  "excluded": [
+    "Private transport between castles (available at extra cost — request at booking)",
+    "Meals",
+    "Gratuities"
+  ],
+  "meeting_point": "Flexible — the guide can meet at Ptuj Castle, Borl Castle, or Ormož Castle; confirm start point at booking",
+  "tips": [
+    "The tour price (€430) covers the group of up to 2 people, not individual per-person admission — it is a private product, not a per-seat group tour",
+    "Start point is flexible based on your accommodation: groups staying in Ptuj typically start at Ptuj Castle; groups staying near the Croatian border may prefer to start at Ormož",
+    "Allow time after the tour to walk Ptuj's old town — one of the best-preserved medieval town centres in Slovenia, with the town tower, Dominican monastery, and the 2nd-century Orpheus Monument",
+    "This is a New activity with no GYG reviews yet — book directly for the most current availability and communicate start point preference clearly at time of booking"
+  ],
+  "faqs": [
+    {
+      "question": "Who is the guide and is the tour genuinely private?",
+      "answer": "The tour is led by Gregor Valentan, a licensed local guide based in eastern Slovenia. It is a fully private product — no other guests share the tour. The group size is up to 2 people and the €430 price covers the group."
+    },
+    {
+      "question": "Do I need to drive between the three castles?",
+      "answer": "Private transport between castles is available at extra cost — request this at booking. Alternatively, guests can self-drive following the guide between the three stops. The castles are 15–20 km apart along the Drava valley, with straightforward local roads between them."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/eastern-slovenia-private-castle-tour-with-wine-tastings.webp",
+    "alt": "Ptuj Castle above the rooftops of Slovenia's oldest town, seen from across the Drava river",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Eastern Slovenia: Private Castle Tour with Wine Tastings",
+    "description": "A private 5-hour guided circuit of three castles in the Ptuj/Drava region — Ptuj, Borl, and Ormož — with regional wine tastings and traditional Haloze pastry included. From €430 per group (up to 2 people)."
+  },
+  "gyg_url": "https://www.getyourguide.com/ptuj-l190601/eastern-slovenia-private-castle-tour-with-wine-tastings-t1427550/?partner_id=XDLEZT9&utm_medium=online_publisher"
+}

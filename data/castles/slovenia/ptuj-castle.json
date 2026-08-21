@@ -1,0 +1,123 @@
+{
+  "id": "ptuj-castle",
+  "name": "Ptuj Castle",
+  "local_name": "Ptujski Grad",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 7,
+  "annual_visitors": 80000,
+  "country": "slovenia",
+  "region": "Štajerska (Lower Styria) — Ptuj, on the castle hill above the Drava valley and the old town",
+  "nearest_city": "Ptuj",
+  "address": "Muzejski trg 1, 2250 Ptuj, Slovenia",
+  "lat": 46.4169,
+  "lng": 15.871,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "Romanesque origins developed through Gothic, Renaissance, and Baroque phases across the 12th–18th centuries; the current exterior presents a composite Renaissance-Baroque silhouette above the Drava valley",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "10:00–18:00",
+    "wednesday": "10:00–18:00",
+    "thursday": "10:00–18:00",
+    "friday": "10:00–18:00",
+    "saturday": "10:00–18:00",
+    "sunday": "10:00–18:00",
+    "seasonal_note": "May–Sep: Tue–Sun 10:00–18:00. Oct–Apr: Tue–Sun 10:00–16:00. Closed Mondays year-round. Verify current hours at pmpo.si before travelling."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://www.pmpo.si",
+  "visit_duration": "1–1.5 hours (museum collections); castle hill and courtyards accessible freely without a ticket",
+  "best_season": "April to October — the castle terrace commands panoramic views over the Drava valley; late February is the season of Kurentovanje, Slovenia's UNESCO-recognised Shrovetide carnival",
+  "accessibility": "The castle museum interior requires climbing stairs. Ground-floor areas are accessible but upper collection rooms require staircase access. The castle courtyard is accessible.",
+  "booking_advance_days": 0,
+  "tagline": "Slovenia's oldest town keeps its 12,000-year secret behind a castle whose museum holds armour, Gothic art, and the masks of an ancient carnival UNESCO would recognise",
+  "highlights": [
+    "The Ptuj–Ormož Regional Museum collections inside the castle are unusually rich for a town of Ptuj's scale: a well-preserved armory of medieval and early modern weapons, a gallery of Gothic and Baroque painting, and the largest collection of historical musical instruments in Slovenia",
+    "The castle's carnival mask collection preserves the costumes of the Kurent — the fur-clad, cowbell-swinging figures of Kurentovanje, Ptuj's Shrovetide carnival recognised by UNESCO as Intangible Cultural Heritage; the masks are most viscerally meaningful just after the festival in late February",
+    "Ptuj stands on the site of Poetovio, a major Roman legionary town on the ancient Amber Road; the castle hill itself has been occupied since the Bronze Age, making this one of the longest continuously inhabited sites in Central Europe",
+    "The Lords of Ptuj controlled the castle and surrounding lands for roughly three centuries, endowing the town with its Dominican and Minorite monasteries and funding the pilgrimage church at Ptujska Gora — one of Slovenia's most important Marian shrines",
+    "The private GYG tour (t1427550) adds access to the underground tunnel beneath the castle — a passage not on the standard museum ticket — with a regional wine tasting inside, making it a distinctively subterranean way to finish the Ptuj visit"
+  ],
+  "description": "Ptuj is Slovenia's oldest continuously inhabited town, and its castle — rising on the hill above the medieval streets and the Drava river valley — carries a depth of cultural history that far exceeds what its modest regional setting might suggest. The castle hill has been occupied since at least the Bronze Age, and the town below developed on the site of Poetovio, the largest Roman legionary base in what is now Slovenia and a major staging post on the ancient Amber Road linking the Baltic coast to the Adriatic. Standing on the castle terrace, looking out across the rooftops of the old town and down to the Drava valley, that layered history is still legible in the streets below: a medieval town with its Dominican and Minorite monasteries, a Roman grid partially traceable beneath the paving, and a river crossing that has mattered strategically for two thousand years.\n\nThe castle itself is a composite structure — Romanesque origins, Gothic additions, a Renaissance courtyard, and Baroque refinements — built up across the 12th to 18th centuries and presenting a pleasingly asymmetric silhouette above the town. Inside, the Ptuj–Ormož Regional Museum holds collections that are genuinely unusual for a town of Ptuj's scale. The armory is substantial, covering medieval and early modern weapons from across the Styrian region. The paintings span Gothic and Baroque work from the 15th through 18th centuries. And the historical musical instrument collection is arguably the most notable single element — the largest such collection in Slovenia and one of the more comprehensive in Central Europe, covering lutes, keyboard instruments, and regional folk instruments alongside courtly repertoire.\n\nThe cultural hook that most distinguishes Ptuj is Kurentovanje, the Shrovetide carnival held in late February. The Kurent — a fur-clad, cowbell-swinging figure in a horned mask and costume of sheepskin — is one of the most visually striking ritual figures in European folk tradition, and the carnival it anchors has been recognised by UNESCO as Intangible Cultural Heritage. The castle's mask collection preserves the full range of Kurent costumes and the accompanying figures of the Shrovetide procession; the masks are most resonant if visited in the days just after the carnival, when the strangeness of the figures is still fresh in the town's collective memory.\n\nVisitors on the GYG private tour gain access to the underground tunnel beneath the castle — a passage not included on the standard museum ticket — with a regional wine tasting inside the tunnel. It makes for a memorably subterranean way to conclude a Ptuj visit, adding a dimension to the castle that the public collections alone cannot provide.",
+  "history": "The castle hill above Ptuj was fortified by at least the 12th century, when the site lay within the sphere of the Archdiocese of Salzburg, whose authority extended across the Drava valley as a counterbalance to Hungarian pressure from the east. The Lords of Ptuj, the dominant noble family of the region, held the castle and surrounding lands for roughly three centuries, using that position to found both the Dominican monastery in 1230 and the Minorite monastery in the town below, and to fund the pilgrimage church at Ptujska Gora — one of the most important Marian shrines in Slovenia. When the Lords of Ptuj's line came to an end in 1438, the castle passed through a succession of noble families before the Counts Herberstein acquired it in 1873. The Herberstein family held the castle until 1945, when socialist Yugoslavia formalised the nationalisation of the estate. The Ptuj–Ormož Regional Museum, however, predates this political change: it was established in the castle in 1926 under the Kingdom of Serbs, Croats and Slovenes, and continued under new state management after 1945 — one of the more durable institutional continuities of a politically turbulent century in this part of Central Europe.",
+  "how_to_visit": "**Getting there:** Ptuj is approximately 140 km east of Ljubljana (about 1.5 hours by car via the A1 motorway to Maribor, then east on the A4) and 26 km southwest of Maribor. Regular trains connect Ljubljana and Maribor to Ptuj station (journey 2.5–3 hours from Ljubljana, 30–40 minutes from Maribor). The castle sits on the hill directly above Ptuj's old town — a 10–15 minute walk uphill from the main square, with the climb rewarded by panoramic views over the Drava valley.\n\n**Tickets:** Walk-up admission to the Regional Museum inside the castle is approximately €9 adult, €5 child; no advance booking required. The castle hill and courtyards are accessible freely without a ticket. The GYG private tour (t1427550, from €430 per group of up to 2 people — a New activity with no reviews yet) — a 5-hour private guided circuit covering Ptuj Castle (including the underground tunnel with a wine tasting), Borl Castle (guided visit + wine tasting + traditional Haloze pastry), and Ormož Castle (guided visit + wine tasting), with entrance fees to all three included — is the only GYG product covering this castle; book in advance through Gregor Valentan, a licensed local guide. The €430 covers the group, making it cost-effective for two people travelling together.\n\n**Practical tips:** Combine a castle visit with a walk through Ptuj's old town — one of the best-preserved medieval town centres in Slovenia, with the 12th-century town tower, the Dominican monastery, and the Orpheus Monument (a 2nd-century Roman marble tombstone, now used as the town pillory). If visiting in late February, check Kurentovanje festival dates — the carnival transforms the town but it is worth planning around; the castle's mask collection gains much more resonance during the festival week.\n\n**Combine with:** [Borl Castle](/castles/slovenia/borl-castle) (~20 km east along the Drava valley) and [Ormož Castle](/castles/slovenia/ormoz-castle) (~30 km southeast — both are covered on the same private GYG tour, forming the three-castle Ptuj/Drava regional circuit).",
+  "faqs": [
+    {
+      "question": "What is the Kurent and why does Ptuj Castle have a mask collection?",
+      "answer": "The Kurent is the central figure of Kurentovanje, Ptuj's Shrovetide carnival held in late February — one of the oldest and most visually distinctive folk traditions in Slovenia. The Kurent figures wear full-body sheepskin costumes, horned masks, and necklaces of cowbells, and process through the streets in groups to drive out winter. Kurentovanje has been recognised by UNESCO as Intangible Cultural Heritage. The castle's mask collection preserves the full range of traditional Kurent costumes and the accompanying carnival figures, providing historical and cultural context for a tradition that is still actively practiced in Ptuj every February."
+    },
+    {
+      "question": "Is Ptuj Castle free to visit?",
+      "answer": "The castle hill and courtyards are free to walk and offer panoramic views over the Drava valley at no cost. The Ptuj–Ormož Regional Museum collections inside the castle — covering armory, Gothic and Baroque painting, historical musical instruments, and the Kurent mask collection — require a ticket, approximately €9 for adults and €5 for children. No advance booking is needed for walk-up visits."
+    },
+    {
+      "question": "How do I get to Ptuj from Ljubljana or Maribor?",
+      "answer": "From Ljubljana, Ptuj is approximately 140 km east — about 1.5 hours by car via the A1 and A4 motorways. Regular trains also connect Ljubljana and Ptuj, with journey times of 2.5–3 hours (some with a change at Pragersko). From Maribor, Ptuj is just 26 km southwest — about 30–40 minutes by train or car. The castle sits on the hill directly above the old town, a 10–15 minute uphill walk from the main square."
+    },
+    {
+      "question": "What is the tunnel beneath Ptuj Castle?",
+      "answer": "The underground tunnel beneath Ptuj Castle is a passage that runs below the castle hill and is not accessible on the standard museum ticket. It is included as part of the GYG private tour (t1427550) led by licensed local guide Gregor Valentan, which incorporates a regional wine tasting inside the tunnel as part of the 5-hour circuit covering Ptuj, Borl, and Ormož Castles. Independent visitors to the museum do not have access to the tunnel."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ptuj-castle.webp",
+    "alt": "Ptuj Castle on the hill above the medieval rooftops and Drava river valley, Slovenia",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ptuj-castle.webp",
+  "instagram_tag": "#ptujcastle",
+  "meta_title": "Ptuj Castle: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Ptuj Castle in Slovenia — the castle above Slovenia's oldest town, with one of the finest regional museum collections in the country. Armory, musical instruments, Kurent masks, and the UNESCO-recognised Kurentovanje carnival.",
+  "tags": [
+    "slovenia",
+    "styria",
+    "medieval",
+    "ptuj",
+    "regional-museum",
+    "kurentovanje",
+    "kurent",
+    "roman",
+    "armory",
+    "musical-instruments",
+    "drava"
+  ],
+  "last_updated": "2026-08-21",
+  "routes": [],
+  "nearby_castles": [
+    "borl-castle",
+    "ormoz-castle"
+  ],
+  "gyg_location_id": "190601",
+  "gyg_search_query": "Ptuj Castle guided tour Slovenia wine",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 3,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1427550",
+      "title": "Eastern Slovenia: Private Castle Tour with Wine Tastings",
+      "type": "guided_tour",
+      "duration": "5 hours",
+      "price_from": 430,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/ptuj-l190601/eastern-slovenia-private-castle-tour-with-wine-tastings-t1427550/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "ptuj-castle",
+        "borl-castle",
+        "ormoz-castle"
+      ],
+      "gyg_direct_link_override": true,
+      "gyg_location_id": "190601"
+    }
+  ],
+  "gyg_direct_link_override": true
+}
