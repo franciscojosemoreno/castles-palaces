@@ -1,0 +1,121 @@
+{
+  "id": "cantacuzino-castle",
+  "name": "Cantacuzino Castle",
+  "local_name": "Castelul Cantacuzino",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 300000,
+  "country": "romania",
+  "region": "Wallachia — Prahova Valley, Bușteni, Prahova County, foot of the Bucegi Mountains",
+  "nearest_city": "Brașov",
+  "address": "Strada Zamorei 1, Bușteni 105500, Prahova County, Romania",
+  "lat": 45.4141,
+  "lng": 25.5426,
+  "unesco": false,
+  "year_built": 1911,
+  "architectural_style": "Neo-Romanian / Neo-Brâncovenesc; designed by Grigore Cerchez; Murano glass windows, stucco-marble, coffered painted ceilings, Paris-cast bronze fittings; set on a terraced plot directly below the Bucegi Mountains",
+  "opening_hours": {
+    "monday": "10:00–20:00",
+    "tuesday": "10:00–20:00",
+    "wednesday": "10:00–20:00",
+    "thursday": "10:00–20:00",
+    "friday": "10:00–20:00",
+    "saturday": "10:00–20:00",
+    "sunday": "10:00–20:00",
+    "seasonal_note": "Interior accessible by guided tour only, departing hourly. Grounds may be accessible separately. Verify current 2026 hours at build time — midday summer crowds are high."
+  },
+  "price_adult": 40,
+  "price_child": 20,
+  "price_currency": "RON",
+  "booking_required": false,
+  "official_tickets_url": "https://www.cantacuzino.ro",
+  "visit_duration": "1–2 hours",
+  "best_season": "May to October — arrive in the morning to avoid peak coach-tour traffic from Bucharest and Brașov; the Bucegi Mountain backdrop is most dramatic in clear weather",
+  "accessibility": "The castle grounds involve steps and uneven paths. Interior guided tours involve stairs. Verify current accessibility at the ticket office.",
+  "booking_advance_days": 0,
+  "tagline": "Built for Romania's \"Nabob\" — a Neo-Brâncovenesc palace in the Prahova Valley that survived nationalization and now houses a gallery allegedly including works by Dalí, Picasso, and Van Gogh",
+  "highlights": [
+    "Built 1901–1911 for Prince Gheorghe Grigore Cantacuzino — nicknamed \"Nababul\" (The Nabob) for being one of the richest men in Romania at the time — as a summer residence in Bușteni, directly below the Bucegi Mountains",
+    "Designed by Grigore Cerchez in the Neo-Romanian/Neo-Brâncovenesc style, combining Wallachian Brâncovenesc architectural tradition with Belle Époque European flourishes — including Murano glass windows, stucco-marble wall treatments, coffered painted ceilings, and bronze fittings cast in Paris",
+    "The third stop on the Prahova Valley \"castle corridor\" alongside Peleș and Bran — all three within a 45-minute drive of each other, and all three covered by several of the site's most popular Romania day tours",
+    "Confiscated in 1948 during Romania's nationalization period and repurposed as a sanatorium for the Ministry of Internal Affairs — a fate shared by many of Romania's aristocratic properties; restored and reopened to the public in the post-communist era",
+    "Today houses an art gallery featuring works attributed to Dalí, Picasso, and Van Gogh alongside restored period rooms — and has served as a filming location for Netflix productions (verify current relevance at build time)"
+  ],
+  "description": "The Cantacuzino family occupied a unique position among Romania's aristocratic dynasties. Their lineage traced to the Byzantine imperial house of Kantakouzenos — the dynasty that briefly held the throne of Constantinople in the 14th century — and in the Wallachian context this heritage translated into centuries of political office, church patronage, and land accumulation that survived the Ottoman period largely intact. By the late 19th century, Prince Gheorghe Grigore Cantacuzino had added modern industrial wealth to the ancient titles: oil interests and political influence in the new Romanian kingdom made him one of the richest men in the country and earned him the sobriquet \"Nababul\" — The Nabob. When he commissioned an architect to build a summer residence below the Bucegi Mountains in 1901, the commission matched the man.\n\nThe architect was Grigore Cerchez, a central figure in the movement to give Romania a distinctive national architectural idiom. He worked in the Neo-Brâncovenesc style — a deliberate revival of the Wallachian Baroque tradition codified under Prince Constantin Brâncoveanu in the early 18th century, which had synthesised Ottoman pointed-arch geometry with Venetian carved stone decoration and Byzantine iconographic detail into something wholly particular to the Danube principalities. Cerchez applied this regional vocabulary to a European country-house programme: the building completed in 1911 combines the massing of a Loire Valley château with the surface decoration of a Wallachian palatial church, punctuated throughout by Murano glass windows, stucco-marble wall treatments, coffered painted ceilings, and bronze fittings cast in Paris. Set on a terraced plot at the foot of the Bucegi Mountains, it reads simultaneously as emblematic of its region and entirely unexpected.\n\nThe castle's 20th-century history follows the arc common to Romania's aristocratic estates. It served as a summer residence through Cantacuzino's lifetime, passed to other owners after his death in 1930, and in 1948 was nationalized by the communist government and repurposed as a sanatorium for the Ministry of Internal Affairs — a fate that converted one of Romania's most decoratively ambitious private houses into a state institution for several decades, its architectural programme entirely at odds with its new function.\n\nRestoration work after 1989 has returned the building to something approaching its original character. Today the castle houses period rooms alongside an art gallery featuring works attributed to Dalí, Picasso, and Van Gogh — verify the extent and current state of the collection at build time. It has also served as a filming location for international productions including the Netflix series Wednesday, though this association should be confirmed for currency. For visitors to the Prahova Valley, Cantacuzino is typically the third stop on the standard day-tour circuit after Peleș in Sinaia and Bran west of Brașov — and often the one that generates the most genuine surprise.",
+  "history": "The Cantacuzino dynasty arrived in Wallachia with a claim few Romanian noble families could match: descent from the Byzantine imperial house of Kantakouzenos, the ruling dynasty of Constantinople in the mid-14th century. That lineage had translated across centuries into political office, church patronage, and the accumulated land and influence that survived the Ottoman period more or less intact. By the second half of the 19th century, the Romanian branch of the family had added industrial wealth to their old titles: oil concessions in the Prahova Valley and political prominence in the new Romanian kingdom made Prince Gheorghe Grigore Cantacuzino — \"Nababul\" (The Nabob) — one of the richest men in the country. He commissioned the Bușteni palace in 1901, engaging Grigore Cerchez to design in the Neo-Brâncovenesc idiom, and construction continued until 1911. Cantacuzino used it as a summer residence until his death in 1930. The property changed hands, and in 1948 the communist government nationalized it as a sanatorium for the Ministry of Internal Affairs — a fate shared by many of Romania's aristocratic estates. Post-communist restoration has returned it to public use as a museum and gallery.",
+  "how_to_visit": "**Getting there:** Bușteni is on the Prahova Valley main road (DN1) between Sinaia and Azuga, approximately 35 km from Brașov and 140 km from Bucharest. By car, it's a straightforward drive through the valley. By train, Bușteni has its own station on the Bucharest Nord–Brașov line (~2.5 hrs from Bucharest); the castle is a short walk or taxi ride from the station. Most visitors arrive as part of an organized Prahova Valley day tour from Bucharest or Brașov.\n\n**Tickets:** General admission is approximately 40 RON adult (~€8), 20 RON child (~€4) for the combined grounds + guided interior tour; a park-only ticket at a reduced rate is available if you only want the grounds and mountain backdrop. The interior is accessible by guided tour only, departing hourly — the combined ticket is recommended for the full architectural experience. The GYG Brașov + Three Castles day tour (t510079, from €85, 4.9★ / 24 reviews) — a full-day guided tour covering Bran Castle, Peleș Castle, and Cantacuzino Castle from Brașov or pickup points — is the most convenient booking option for visitors without a car; includes transport.\n\n**Practical tips:** Coach-tour traffic is very high at midday in summer, especially Saturdays when the Bucharest–Brașov tour circuit peaks — arrive at opening (10:00) or after 5 PM for a quieter visit. The Bucegi Mountains provide a dramatic backdrop; the castle's terraced position makes the exterior from the street as visually rewarding as the interior. Photography inside the gallery rooms may be restricted — check at the ticket desk.\n\n**Combine with:** [Peleș Castle](/castles/romania/peles-castle) (15 km northwest in Sinaia — the royal summer palace of Romania's Hohenzollern-Sigmaringen kings, arguably the most spectacular interior in the Prahova Valley and the first stop on the standard three-castle circuit) and [Bran Castle](/castles/romania/bran-castle) (~35 km west — Romania's most famous castle and the site most associated with the Dracula legend, a medieval fortress of genuine atmosphere and cultural weight).",
+  "faqs": [
+    {
+      "question": "Is Cantacuzino Castle the same as Peleș Castle?",
+      "answer": "No — they are separate castles approximately 15 km apart in the Prahova Valley. Peleș is the royal palace at Sinaia, built for King Carol I of Romania; Cantacuzino is the aristocratic summer palace at Bușteni, built for Prince Gheorghe Grigore Cantacuzino. Both are on the standard Prahova Valley day-tour circuit but serve entirely different architectural and historical stories."
+    },
+    {
+      "question": "Can you go inside Cantacuzino Castle?",
+      "answer": "Yes — the interior is accessible by guided tour departing hourly from the ticket desk. A park-only ticket exists for visitors who wish to see the grounds and the mountain backdrop without taking the interior tour, at a reduced rate."
+    },
+    {
+      "question": "What is the \"Nabob\" connection?",
+      "answer": "Prince Gheorghe Grigore Cantacuzino earned the nickname \"Nababul\" (The Nabob) for his extraordinary wealth, drawn from oil concessions and land interests in late 19th-century Romania. The sobriquet reflected the scale of his fortune relative to his peers and became the defining way the castle is known in Romanian cultural memory."
+    },
+    {
+      "question": "Is Cantacuzino Castle connected to Netflix's Wednesday?",
+      "answer": "It has been used as a filming location for the Netflix series Wednesday and other international productions. Verify current relevance at build time — this connection may date quickly as production information shifts, and other locations in Romania were also used for the same series."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/cantacuzino-castle.webp",
+    "alt": "Cantacuzino Castle in Bușteni — Neo-Brâncovenesc towers and terraced gardens below the Bucegi Mountains",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/cantacuzino-castle.webp",
+  "instagram_tag": "#cantacuzinocastle",
+  "meta_title": "Cantacuzino Castle, Romania: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Cantacuzino Castle in Bușteni — Romania's Neo-Brâncovenesc palace of \"The Nabob\", set below the Bucegi Mountains in the Prahova Valley. Tickets, tours, and how to visit.",
+  "tags": [
+    "romania",
+    "wallachia",
+    "prahova-valley",
+    "neo-romanian",
+    "brincovenesc",
+    "aristocratic",
+    "cantacuzino",
+    "busteni",
+    "carpathians",
+    "belle-epoque"
+  ],
+  "last_updated": "2026-08-22",
+  "routes": [],
+  "nearby_castles": [
+    "peles-castle",
+    "bran-castle",
+    "rasnov-fortress"
+  ],
+  "gyg_location_id": "124688",
+  "gyg_search_query": "Cantacuzino Castle Prahova Valley tour Bucharest Brasov",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "510079",
+      "title": "Brasov: Bran, Peles and Cantacuzino Castles Day Tour",
+      "type": "guided_tour",
+      "duration": "full day",
+      "price_from": 85,
+      "rating": 4.9,
+      "reviews": 24,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/sinaia-l124688/brasov-bran-peles-and-cantacuzino-castles-day-tour-t510079/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "cantacuzino-castle",
+        "bran-castle",
+        "peles-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

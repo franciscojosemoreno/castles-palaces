@@ -1,0 +1,119 @@
+{
+  "id": "tintern-abbey",
+  "name": "Tintern Abbey",
+  "local_name": "Abaty Tyndyrn",
+  "type": "abbey",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 200000,
+  "country": "wales",
+  "region": "Monmouthshire — Wye Valley, Tintern, on the River Wye near the English border",
+  "nearest_city": "Chepstow",
+  "address": "Tintern Abbey, Tintern, Monmouthshire NP16 6SE, Wales, UK",
+  "lat": 51.6969,
+  "lng": -2.6769,
+  "unesco": false,
+  "year_built": 1301,
+  "architectural_style": "Cistercian Gothic; the great church of 1220–1301 has a complete Gothic nave, choir, and transepts, intact window tracery — all roofless since the 1536 Dissolution; managed by Cadw (Welsh Government historic environment service)",
+  "opening_hours": {
+    "monday": "09:30–18:00",
+    "tuesday": "09:30–18:00",
+    "wednesday": "09:30–18:00",
+    "thursday": "09:30–18:00",
+    "friday": "09:30–18:00",
+    "saturday": "09:30–18:00",
+    "sunday": "09:30–18:00",
+    "seasonal_note": "Hours vary by season — verify current 2026 Cadw opening times before visiting. Winter hours (Nov–Feb) are approximately 10:00–16:00. Last admission is 30 minutes before closing. The site is largely open-air; dress for Welsh weather regardless of season."
+  },
+  "price_adult": 9,
+  "price_child": 5,
+  "price_currency": "GBP",
+  "booking_required": false,
+  "official_tickets_url": "https://cadw.gov.wales/visit/places-to-visit/tintern-abbey",
+  "visit_duration": "1–2 hours",
+  "best_season": "Late spring to early autumn — the wooded Wye Valley is most beautiful in May–June and October; summer mornings before coach tours arrive give the best experience of the roofless nave in peace; the site is atmospheric in autumn mist",
+  "accessibility": "The site has some level paved paths around the perimeter; the interior of the abbey involves uneven ground. Moderate accessibility. Verify current provisions at Cadw before visiting.",
+  "booking_advance_days": 0,
+  "tagline": "Founded in 1131, dissolved by Henry VIII in 1536, and left to decay until Wordsworth and Turner made it famous — the ruin that launched British picturesque tourism",
+  "highlights": [
+    "Founded 9 May 1131 by Walter de Clare, Lord of Chepstow — the first Cistercian abbey in Wales and only the second in Britain after Waverley Abbey in Surrey; Cistercian monks came from the French abbey of l'Aumône in Normandy for the founding",
+    "The great Gothic church rebuilt between 1220 and 1301 is considered one of the finest examples of British Gothic ecclesiastical architecture, despite — or precisely because of — the loss of its roof, which transforms the building into a masterpiece of light, sky, and stonework",
+    "In 1798, William Wordsworth wrote his poem \"Lines Written a Few Miles above Tintern Abbey\" here; J.M.W. Turner painted the ruins multiple times across his career; these works helped establish Tintern as one of the founding sites of British Romantic \"ruin tourism\"",
+    "Dissolved by Henry VIII in 1536 during the Dissolution of the Monasteries — stripped of its roof, lead, and valuable materials, then left entirely to nature for over 200 years, which produced the ivy-covered, roofless ruin that the Romantics found irresistible",
+    "Located in the wooded Wye Valley, the waterway that Wordsworth described as offering \"wild green landscape\" — the abbey is inseparable from its river valley setting, and the combination of Gothic ruins and forested hillsides makes it one of Britain's most photographed heritage landscapes"
+  ],
+  "description": "The Cistercian order chose its sites with deliberate care. The rule of the order, shaped by Bernard of Clairvaux in the early 12th century, demanded withdrawal from the world — and that meant river valleys, forest cover, distance from cities and courts. The bend in the River Wye at Tintern, enclosed on both sides by steep wooded hillsides and fed by a tributary stream, was close to ideal. Walter de Clare, Lord of Chepstow, brought monks from the Norman abbey of l'Aumône to establish the first Cistercian community in Wales here in May 1131, making Tintern not only the earliest Cistercian house in Wales but only the second in the whole of Britain. The community that took root in this fold of the Wye Valley would remain for four centuries.\n\nThe abbey grew steadily through wool trading and generous royal patronage. By the early 13th century it was wealthy enough to undertake an entirely new great church — and the result, built between 1220 and 1301, is one of the great achievements of British Gothic architecture. The nave, choir, transepts, and the great west window with its intricate stone tracery survive largely intact. What does not survive is the roof, stripped for its lead after Henry VIII's 1536 Dissolution of the Monasteries. The removal of the roof — and of the windows, furnishings, and any metal of value — was not destruction but asset stripping; the stone walls were left standing because stone was harder to move. The result was a complete Gothic shell, open to the Welsh sky, the tracery windows frames of air rather than glass.\n\nFor two centuries the ruins stood overgrown and largely forgotten. Then the 18th-century taste for the picturesque arrived, and with it a new kind of traveller who found exactly what they were looking for in the Wye Valley: sublime scenery, Gothic decay, the satisfying melancholy of a great institution brought to nothing by time and politics. William Wordsworth visited in 1798 and wrote \"Lines Written a Few Miles above Tintern Abbey,\" one of the founding poems of British Romanticism. J.M.W. Turner painted the ruins repeatedly across his career, and his images — moody, overgrown, romantically lit — shaped how generations of British people imagined medieval ruins. Tintern did not merely attract Romantic tourism; it helped invent the genre.\n\nWhat visitors see today is exactly what the Romantics saw, minus two centuries of additional ivy: the complete Gothic envelope of nave, choir, and transepts, the window tracery intact, the floor open to the grass and the Welsh sky becoming the ceiling. The Cadw-managed site is compact enough to walk in an hour, extraordinary enough to stay considerably longer.",
+  "history": "The Cistercian order reached Wales in the 1130s during its rapid expansion from the founding abbey of Cîteaux in Burgundy. Walter de Clare, Lord of Chepstow, brought monks from the Norman abbey of l'Aumône to establish the first Cistercian community in Wales at Tintern in May 1131, choosing a bend in the River Wye where forested valley walls provided the isolation the Cistercian rule required. The community grew through wool trading and royal patronage, and by the early 13th century it was prosperous enough to undertake an entirely new great church. Construction of the Gothic building visible today began around 1220 and continued to 1301, producing a complete nave, choir, and transepts of exceptional quality — the finest medieval ecclesiastical building in Wales. Henry VIII's dissolution of the monasteries in 1536 ended monastic life at Tintern: the buildings were stripped of lead, glass, and metals and left to nature for over two centuries. The 18th-century taste for the picturesque rediscovered the Wye Valley; Wordsworth's 1798 visit and poem, and Turner's repeated paintings of the site, established Tintern as one of the defining images of British Romanticism. The Crown acquired the ruins in 1900; Cadw manages them today.",
+  "how_to_visit": "**Getting there:** Tintern is on the A466 in the Wye Valley, 8 km north of Chepstow and 16 km south of Monmouth. There is no train station in Tintern — most visitors arrive by car (parking on-site) or as part of an organized tour from Cardiff, Chepstow, or Bristol. Bus services are limited and seasonal — check local transport options before travelling.\n\n**Tickets:** Buy tickets at the Cadw ticket desk on arrival or book online at cadw.gov.wales for a small saving. A Cadw Explorer Pass (covering multiple Welsh historic sites) may offer good value for visitors combining Tintern with Caerphilly, Raglan, or Caernarfon on the same trip. The GYG day tour from Cardiff (t559581, from €204, 5.0★ / 35 reviews) — a full-day tour from Cardiff covering Caerleon's Roman amphitheatre, Tintern Abbey, and three Welsh castles (Raglan, Skenfrith, White Castle) with transport and a guide — is the main structured option for visitors without a car.\n\n**Practical tips:** The roofless nave is the centrepiece and the best photographs. Morning visits (09:30–11:00) have the softest light on the west window tracery; late afternoon is best for the east end. The site is outdoors and on the western side of England/Wales — waterproofs are advisable in any season. The Wye Valley Walk passes directly through the village if you want to add a riverside walk before or after.\n\n**Combine with:** [Raglan Castle](/castles/wales/raglan-castle) (~20 km northwest — the magnificent late medieval fortress-palace of the Herbert family, one of Wales's most impressive castle ruins, covering the later medieval period that followed Tintern's founding era) and [Caerphilly Castle](/castles/wales/caerphilly-castle) (~50 km west near Cardiff — the largest castle in Wales, a concentric water fortress with remarkable leaning tower, ideal for a Wales multi-castle day).",
+  "faqs": [
+    {
+      "question": "Why doesn't Tintern Abbey have a roof?",
+      "answer": "The roof was stripped for its lead and other valuable materials after Henry VIII's 1536 Dissolution of the Monasteries. The stone walls were left standing because stone was harder to transport and less immediately valuable than lead or glass. The ruins were then left entirely to nature for over 200 years before being rediscovered by Romantic-era travellers in the 18th century."
+    },
+    {
+      "question": "Is Tintern Abbey in Ireland the same?",
+      "answer": "No — there is a separate Tintern Abbey in County Wexford, Ireland, founded by the same de Clare family but a completely distinct building on a different site. This page covers the original Welsh abbey in Monmouthshire, founded in 1131 and the older of the two buildings."
+    },
+    {
+      "question": "How long does a visit take?",
+      "answer": "Most visitors spend 1–2 hours at the abbey itself. The site pairs well with a walk along the Wye Valley Walk, which passes through the village, extending the visit to a comfortable half-day. The combination of abbey and river valley is the classic Tintern experience."
+    },
+    {
+      "question": "Is Tintern Abbey free to visit?",
+      "answer": "No — it is a paid Cadw site, approximately £8.70–£9 adult and £5 child (verify current prices at cadw.gov.wales before visiting). The village of Tintern and the riverside walk are free. Cadw members enter free, and a Cadw Explorer Pass may offer good value if you are visiting multiple Welsh historic sites on the same trip."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/tintern-abbey.webp",
+    "alt": "Tintern Abbey in the Wye Valley — the roofless Gothic nave and window tracery of the Cistercian ruin at dusk",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/tintern-abbey.webp",
+  "instagram_tag": "#tinternabbey",
+  "meta_title": "Tintern Abbey, Wales: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Tintern Abbey in the Wye Valley — the Gothic Cistercian ruin that inspired Wordsworth and Turner. Cadw tickets, day tours from Cardiff, and practical visitor tips.",
+  "tags": [
+    "wales",
+    "monmouthshire",
+    "wye-valley",
+    "cistercian",
+    "gothic",
+    "abbey",
+    "dissolution",
+    "romantic",
+    "wordsworth",
+    "cadw",
+    "ruins"
+  ],
+  "last_updated": "2026-08-22",
+  "routes": [],
+  "nearby_castles": [
+    "raglan-castle",
+    "caerphilly-castle"
+  ],
+  "gyg_location_id": "449",
+  "gyg_search_query": "Tintern Abbey Wye Valley Wales tour Cardiff",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "559581",
+      "title": "From Cardiff: Caerleon, Tintern Abbey and Three Castles Tour",
+      "type": "guided_tour",
+      "duration": "full day",
+      "price_from": 204,
+      "rating": 5.0,
+      "reviews": 35,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cardiff-l449/from-cardiff-caerleon-tintern-abbey-and-three-castles-tour-t559581/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "tintern-abbey"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
