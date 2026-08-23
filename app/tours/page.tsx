@@ -4,10 +4,13 @@ import { getAllTours, getAllTourCountrySlugs } from '@/lib/tours';
 import { getCountryBySlug } from '@/lib/countries';
 import TourCard from '@/components/tours/TourCard';
 
-export const metadata: Metadata = {
-  title: 'European Castle Tours 2026 — Skip-the-Line Tickets from $11',
-  description: '101 curated castle tours across 30+ European countries. Multi-castle day trips, guided experiences, and skip-the-line entry from $11. Free cancellation on all bookings.',
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const tourCount = getAllTours().length;
+  return {
+    title: 'European Castle Tours 2026 — Skip-the-Line Tickets from $11',
+    description: `${tourCount} curated castle tours across 30+ European countries. Multi-castle day trips, guided experiences, and skip-the-line entry from $11. Free cancellation on all bookings.`,
+  };
+}
 
 export default function ToursPage() {
   const tours = getAllTours();
