@@ -102,6 +102,7 @@
       "rating": 5.0,
       "reviews": 8,
       "is_top_pick": true,
+      "pricing_unit": "group",
       "booking_url_override": "https://www.getyourguide.com/dublin-l31/dublin-private-boyne-valley-and-trim-castle-day-tour-t178556/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "trim-castle"

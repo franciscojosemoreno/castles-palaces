@@ -104,6 +104,7 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
+      "pricing_unit": "group",
       "booking_url_override": "https://www.getyourguide.com/prague-l10/discover-hidden-bohemia-kacina-zleby-castles-private-tour-t1369909/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "kacina-castle",

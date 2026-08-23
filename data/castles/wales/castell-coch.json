@@ -99,6 +99,7 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
+      "pricing_unit": "group",
       "booking_url_override": "https://www.getyourguide.com/cardiff-l449/day-tour-of-south-wales-t1137827/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "caerphilly-castle",

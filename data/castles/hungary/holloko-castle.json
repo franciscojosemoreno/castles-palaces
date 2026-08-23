@@ -98,6 +98,7 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
+      "pricing_unit": "group",
       "covers_castles": [
         "holloko-castle"
       ],

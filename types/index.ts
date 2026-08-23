@@ -92,6 +92,7 @@ export interface Castle {
     rating: number | null;
     reviews: number;
     is_top_pick?: boolean;
+    pricing_unit?: 'person' | 'group';
     covers_castles?: string[];
   }[];
 }

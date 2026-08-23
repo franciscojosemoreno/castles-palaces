@@ -277,7 +277,9 @@ export default async function CastlePage({ params }: PageProps) {
               <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
               <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
                 €{castle.gyg_featured_tours[0].price_from}
-                <span className="text-stone-400 font-normal text-xs ml-1">/ person</span>
+                <span className="text-stone-400 font-normal text-xs ml-1">
+                  {castle.gyg_featured_tours[0].pricing_unit === 'group' ? '/ group' : '/ person'}
+                </span>
               </p>
             </>
           ) : castle.price_adult !== undefined && castle.price_adult > 0 ? (
