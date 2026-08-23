@@ -19,7 +19,7 @@
   "languages": [
     "English"
   ],
-  "max_group_size": null,
+  "max_group_size": 6,
   "overview": "Chillingham Castle is the most haunted castle in Northumberland. That designation is not PR copy — it is the considered verdict of a building with genuine medieval torture chambers, a dungeon that was sealed with prisoners inside to die during the Scottish wars, and a documented history of death and confinement that has attracted paranormal investigators from across the world for decades. It is also the tour's point of difference: the large group day trips from Edinburgh that cover Bamburgh and Alnwick do not include Chillingham, and for most visitors based in Northumberland or County Durham, the Edinburgh departure adds 90 minutes of driving in each direction for sites they could reach more efficiently from where they are.\n\nThis private day tour departs from your accommodation in the Northumberland or Durham area — no coach station, no fixed meeting time, no maximum group to constrain the itinerary. The route covers three of the great castles of the English northeast: Bamburgh, the ancient capital of the Northumbrian kingdom on its basalt crag above the North Sea; Chillingham, the medieval fortress with its history of torture and imprisonment and its reputation as the most supernaturally active castle in the county; and Alnwick, the 700-year seat of the Percy Dukes of Northumberland and the Hogwarts of the first two Harry Potter films. Private guide, private vehicle, door-to-door. From $455 for the group.",
   "highlights": [
     "Chillingham Castle — reputedly the most haunted castle in Northumberland; a working medieval fortress with original dungeons, torture chambers, and a documented history of imprisonment that extends from the Scottish wars through the English Civil War; not on the Edinburgh day trip route",
@@ -101,5 +101,6 @@
   "meta": {
     "title": "Northumberland: Chillingham, Bamburgh & Alnwick Private Castle Tour",
     "description": "Private day tour of Northumberland's three great castles — haunted Chillingham, coastal Bamburgh, and Harry Potter's Alnwick. Door-to-door pickup from Northumberland or Durham. From $455 per group."
-  }
+  },
+  "pricing_unit": "group"
 }

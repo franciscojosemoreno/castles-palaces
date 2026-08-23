@@ -135,10 +135,12 @@ export default async function TourPage({ params }: Props) {
               <p className="text-xs text-[#666] uppercase tracking-wider">Languages</p>
               <p className="font-semibold text-[#1a1a1a]">{tour.languages.join(', ')}</p>
             </div>
+            {tour.max_group_size && (
             <div>
               <p className="text-xs text-[#666] uppercase tracking-wider">Group size</p>
               <p className="font-semibold text-[#1a1a1a]">Max {tour.max_group_size} people</p>
             </div>
+            )}
           </div>
 
           <div className="space-y-12">

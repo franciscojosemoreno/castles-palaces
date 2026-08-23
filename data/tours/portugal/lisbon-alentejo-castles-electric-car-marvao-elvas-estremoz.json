@@ -5,7 +5,9 @@
   "tagline": "Five UNESCO heritage sites in a single day — from a mountaintop medieval fortress to the most formidable star fort in the world, in a zero-emission Mercedes EQS",
   "departure_country": "portugal",
   "departure_city": "Lisbon",
-  "visited_countries": ["portugal"],
+  "visited_countries": [
+    "portugal"
+  ],
   "duration_days": 1,
   "duration_label": "10 hours (private group)",
   "gyg_tour_id": "1035072",
@@ -14,7 +16,10 @@
   "currency": "USD",
   "rating": null,
   "review_count": 0,
-  "languages": ["English", "Portuguese"],
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
   "max_group_size": 3,
   "overview": "The upper Alentejo — the high, dry plain between Lisbon and the Spanish border — contains one of the most extraordinary concentrations of defensive architecture in Europe. This private ten-hour tour covers five sites that together span three thousand years of fortification history: prehistoric hilltop settlements that became Moorish alcáçovas, medieval castles rebuilt by the Portuguese military orders, and Elvas — the most comprehensively preserved example of Vauban-style star fort engineering anywhere in the world, protected by a UNESCO designation that recognises it as 'the largest and best-preserved example of a bulwark fortification system in the world.' The vehicle is an electric Mercedes EQS — a deliberate choice by the operator to demonstrate that long-distance touring in the Alentejo is possible without combustion. The tour is priced per group (maximum three passengers, $1,269 total), making it a premium private experience: the guide and vehicle are entirely at your disposal for ten hours. There are no reviews at time of writing, as this is a newly listed product; the historical content below reflects the sites themselves.",
   "highlights": [
@@ -100,5 +105,6 @@
   "meta": {
     "title": "Marvão, Elvas & Alentejo Castles: Electric Car Day Trip from Lisbon",
     "description": "Private 10-hour day trip from Lisbon to five Alentejo fortifications — Marvão, Castelo de Vide, Portalegre, UNESCO Elvas, and Estremoz — in an electric Mercedes EQS."
-  }
+  },
+  "pricing_unit": "group"
 }
