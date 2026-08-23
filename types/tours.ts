@@ -29,6 +29,7 @@ export interface Tour {
   review_count: number;
   languages: string[];
   max_group_size: number;
+  pricing_unit?: 'person' | 'group';
   overview: string;
   highlights: string[];
   itinerary: TourStop[];

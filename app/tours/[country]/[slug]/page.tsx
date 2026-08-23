@@ -45,6 +45,12 @@ export default async function TourPage({ params }: Props) {
   const countryData = getCountryBySlug(country);
   const countryName = countryData?.name ?? country.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   const currencySymbol = tour.currency === 'USD' ? '$' : tour.currency === 'GBP' ? '£' : '€';
+  const priceUnitShort = tour.pricing_unit === 'group'
+    ? `/ group (up to ${tour.max_group_size})`
+    : '/ person';
+  const priceUnitLong = tour.pricing_unit === 'group'
+    ? `per group (up to ${tour.max_group_size} people)`
+    : 'per person';
   const gygUrl = GYG_PARTNER_ID
     ? `${tour.gyg_url}${tour.gyg_url.includes('?') ? '&' : '?'}partner_id=${GYG_PARTNER_ID}`
     : tour.gyg_url;
@@ -94,7 +100,7 @@ export default async function TourPage({ params }: Props) {
               <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
               <p className="font-serif font-bold text-[#1761a0] text-2xl leading-none">
                 {currencySymbol}{tour.price_from}
-                <span className="text-stone-400 font-normal text-sm ml-1">/ person</span>
+                <span className="text-stone-400 font-normal text-sm ml-1">{priceUnitShort}</span>
               </p>
             </div>
             {tour.review_count > 0 && (
@@ -288,7 +294,7 @@ export default async function TourPage({ params }: Props) {
             <div className="bg-[#1761a0] p-6 text-white">
               <p className="text-white/70 text-sm">From</p>
               <p className="font-serif text-3xl font-bold">{currencySymbol}{tour.price_from}</p>
-              <p className="text-white/70 text-sm">per person</p>
+              <p className="text-white/70 text-sm">{priceUnitLong}</p>
               {tour.review_count > 0 && (
                 <div className="flex items-center gap-1.5 mt-3">
                   <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
@@ -325,7 +331,7 @@ export default async function TourPage({ params }: Props) {
           <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
           <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
             {currencySymbol}{tour.price_from}
-            <span className="text-stone-400 font-normal text-xs ml-1">/ person</span>
+            <span className="text-stone-400 font-normal text-xs ml-1">{priceUnitShort}</span>
           </p>
         </div>
         <a
