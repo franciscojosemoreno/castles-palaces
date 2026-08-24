@@ -1,0 +1,114 @@
+{
+  "id": "rolli-palaces-genoa",
+  "slug": "rolli-palaces-genoa",
+  "name": "Genoa: Guided Tour of the Rolli Palaces (UNESCO)",
+  "tagline": "The only way inside — four UNESCO palaces on Via Garibaldi with a bilingual guide, including three interiors closed to independent visitors",
+  "departure_country": "italy",
+  "departure_city": "Genoa",
+  "visited_countries": [
+    "italy"
+  ],
+  "duration_days": 1,
+  "duration_label": "2.5 hours",
+  "gyg_tour_id": "29705",
+  "gyg_url": "https://www.getyourguide.com/genoa-l1009/guided-tour-of-rolli-palaces-genoa-unesco-world-heritage-t29705/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 15,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 605,
+  "is_top_pick": false,
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "max_group_size": 15,
+  "overview": "Via Garibaldi is the most complete aristocratic street in Renaissance Europe — a single kilometre of palaces built in the 1550s by Genoa's Senate as a stage for the Republic's wealth and diplomatic ambition. Four of those palaces are on this tour. Three of them (Palazzo Imperiale, Palazzo Lomellino, and Palazzo Tobia Pallavicino) are accessible only through an organised guided visit — no walk-up ticket exists. The fourth, Palazzo Rosso, runs as a public museum and is the most celebrated, housing Genoese and Flemish masterworks including Van Dyck portraits and Dürer's Calvary.\n\nThe thread connecting all four is the Rolli system: a 1576 Senate decree that designated the city's grandest private palaces as official state guesthouses, to be assigned by lot to visiting foreign sovereigns and ambassadors. Since Genoa was a republic without a court, the rotating-host system let the city project royal-grade hospitality without a king. UNESCO listed the Palazzi dei Rolli as a World Heritage Site in 2006 — the only such inscription for a system of private urban palaces, rather than a single monument.\n\nThe bilingual guide (Italian, then English) covers all four palaces in 2.5 hours. This is the official Genova Tourism Board product, running from the Tourist Information Center at Via Garibaldi 12, in front of Palazzo Tursi.",
+  "highlights": [
+    "Four UNESCO-listed Rolli palaces on Via Garibaldi in a single 2.5-hour guided tour",
+    "Only way to access the interiors of Palazzo Imperiale, Palazzo Lomellino, and Palazzo Tobia Pallavicino — no walk-up admission exists",
+    "The 1576 Rolli system explained on-site: Genoa's Senate-run scheme for hosting foreign heads of state in private noble palaces, by lot",
+    "Three of the four palaces designed by Giovanni Battista Castello ('il Bergamasco') within a decade of each other — a rare chance to read one architect's evolution across commissions",
+    "Official Genova Tourism Board product — bilingual guide (Italian then English), 4.5★ from 605 verified reviews, small group"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Meeting point — Via Garibaldi 12",
+      "duration": "10 minutes",
+      "description": "The tour departs from the Tourist Information Center at Via Garibaldi 12 (red number), in front of Palazzo Tursi — the grandest palazzo on the street, now Genoa's city hall. The guide opens with the history of Strada Nuova (Via Garibaldi's original name), the Senate's 1576 Rolli decree, and how the system of rotating noble hosts worked in practice. UNESCO inscribed it in 2006 as the world's only heritage listing for a system of private urban palaces rather than a single monument."
+    },
+    {
+      "order": 2,
+      "castle_id": "palazzo-tobia-pallavicino",
+      "castle_name": "Palazzo Tobia Pallavicino",
+      "duration": "30 minutes",
+      "description": "Built 1558–61 by Giovanni Battista Castello ('il Bergamasco') for the Pallavicino family, this palace is now known as Palazzo Carrega-Cataldi after later owners. Its interior centrepiece is the Galleria Dorata — the Golden Gallery — a Rococo salon of extraordinary extravagance, added in the eighteenth century with gilded stucco, frescoed ceiling, and mirrored walls. The contrast between the austere Renaissance exterior and the eruptive Rococo interior is deliberate and startling. The palace is the seat of the Genoa Chamber of Commerce and has no public admission — access is exclusively through guided visits like this one."
+    },
+    {
+      "order": 3,
+      "castle_id": "palazzo-imperiale",
+      "castle_name": "Palazzo Imperiale",
+      "duration": "30 minutes",
+      "description": "Also designed by Castello around 1560, Palazzo Imperiale was commissioned by the Imperiale family and has remained in their ownership continuously for over 450 years — one of the few great Genoese palaces still held by the founding dynasty. Its most celebrated feature is the cycle of frescoes by Luca Cambiaso, Genoa's foremost sixteenth-century painter, covering the piano nobile reception rooms with mythological scenes of unusual formal invention. Cambiaso's characteristic cubic figures and experimental foreshortening are at their most concentrated here. There is no public ticket or walk-up access."
+    },
+    {
+      "order": 4,
+      "castle_id": "palazzo-rosso",
+      "castle_name": "Palazzo Rosso",
+      "duration": "40 minutes",
+      "description": "Built in 1677 for the Brignole Sale family — one of Genoa's most powerful banking dynasties — Palazzo Rosso is the youngest of the four palaces and the only one with independent public access (it operates as a Strada Nuova Museum with its own ticket). Its collection is the richest of the Rolli palaces: Anthony van Dyck's portraits of the Brignole Sale family (including the famous equestrian portrait of Giovanni Francesco), Dürer's Calvary, Veronese, Guercino, and a sequence of period-furnished apartments whose painted ceilings were designed for specific rooms. The building's distinctive red-ochre facade gives it its name."
+    },
+    {
+      "order": 5,
+      "castle_id": "palazzo-lomellino",
+      "castle_name": "Palazzo Lomellino",
+      "duration": "35 minutes",
+      "description": "The last of the three Castello commissions (1563–69), Palazzo Lomellino conceals its most remarkable feature behind its facade: a hanging garden and Nymphaeum — a grotto-like water feature with stucco decoration — built on the hillside behind the palazzo, one of a very few surviving examples of this Renaissance garden type in a Genoese urban palace. Inside, a fresco cycle by Bernardo Strozzi was hidden beneath later whitewash for centuries and only rediscovered during twentieth-century restoration work. The restoration won a Europa Nostra Award. Like Palazzo Imperiale and Palazzo Tobia Pallavicino, there is no public admission outside guided tours."
+    }
+  ],
+  "included": [
+    "Professional bilingual guide (Italian, then English — same guide, same session)",
+    "Entrance to Palazzo Imperiale",
+    "Entrance to Palazzo Rosso (Strada Nuova Museum)",
+    "Visit to Palazzo Lomellino",
+    "Visit to Palazzo Tobia Pallavicino (Palazzo Carrega-Cataldi)"
+  ],
+  "excluded": [
+    "Transport to/from the meeting point (Via Garibaldi is in the heart of the old city, walkable from De Ferrari metro and the main hotels)",
+    "Food and drinks"
+  ],
+  "meeting_point": "Tourist Information Center, Via Garibaldi 12 (red number), Genoa — in front of Palazzo Tursi. Nearest metro: De Ferrari (5 min walk).",
+  "tips": [
+    "Book ahead — this tour runs on a fixed schedule, sells out at weekends, and GYG may flag it as 'Rare find' when availability is temporarily tight. The product itself (4.5★ / 605 reviews, official Genova Tourism Board) is well-established",
+    "The guide delivers commentary in Italian first, then English. If you want the English run-through before Italian, request it when booking or contact the operator directly",
+    "Palazzo Rosso is the one palace you can return to independently — it operates as a public Strada Nuova Museum. The Strada Nuova Museums pass (also covering Palazzo Bianco and Palazzo Doria Tursi) gives the most complete access to the street",
+    "Flat-soled shoes are strongly recommended — the palaces have polished marble and stone floors with uneven thresholds between rooms",
+    "Via Garibaldi is a pedestrianised street; arrive from the east (Piazza Fontane Marose) for the full theatrical effect of the street opening in front of you"
+  ],
+  "faqs": [
+    {
+      "question": "Why can't I visit Palazzo Imperiale, Palazzo Lomellino, and Palazzo Tobia Pallavicino independently?",
+      "answer": "All three are either still in private ownership or managed without a public ticket office and fixed visitor hours. Palazzo Imperiale has been owned by the Imperiale family since it was built in 1560. Palazzo Lomellino and Palazzo Tobia Pallavicino are institutional premises (the latter houses the Genoa Chamber of Commerce). None operate as museums with walk-up access — an organised guided tour is the only way to see their interiors. Palazzo Rosso is the exception: it runs as a public museum with its own admission and is part of the Strada Nuova Museums group."
+    },
+    {
+      "question": "What is the Rolli system and why did UNESCO inscribe it?",
+      "answer": "In 1576, Genoa's Senate created an official register — the 'rolli' — listing the private noble palaces judged grand enough to host visiting foreign sovereigns and ambassadors. Because Genoa was a republic with no royal court, the Senate devised a rotating-host system: when a dignitary arrived, lots were drawn to assign host families from the register. The selected family bore the entire cost of hospitality — accommodation, banquets, entertainment — which could be ruinous but also conferred enormous prestige. The system operated from 1576 to 1636, covering visits by some of the most powerful figures in early modern Europe. UNESCO inscribed the Palazzi dei Rolli as a World Heritage Site in 2006: the only inscription ever awarded to a system of private urban palaces (rather than a single building or site), recognising the Rolli's unique role in European diplomatic and architectural history."
+    },
+    {
+      "question": "Who was Giovanni Battista Castello, and why does he matter here?",
+      "answer": "Giovanni Battista Castello (c.1509–1569), known as 'il Bergamasco' after his hometown of Bergamo, was the dominant architect of Via Garibaldi in its founding decade. He designed Palazzo Tobia Pallavicino (1558–61), Palazzo Imperiale (c.1560), and Palazzo Lomellino (1563–69) — three of the four palaces on this tour — in roughly a decade, making this street one of the most concentrated archives of a single Renaissance architect's working method anywhere in Europe. Castello later moved to Madrid, where he worked for Philip II at the Escorial. His buildings in Genoa were already a formative influence on Flemish and Dutch palace architecture through Rubens's 1622 book 'Palazzi di Genova', which published engraved plans of the Rolli palaces and distributed the Genoese model across northern Europe."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/rolli-palaces-genoa.webp",
+    "alt": "Via Garibaldi in Genoa with the Renaissance facades of the UNESCO-listed Rolli palaces — Palazzo Rosso on the right, Palazzo Bianco opposite",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Genoa Rolli Palaces Guided Tour — Four UNESCO Sites on Via Garibaldi",
+    "description": "Visit four UNESCO-listed Rolli palaces on Genoa's Via Garibaldi with a bilingual guide — Palazzo Rosso, Palazzo Imperiale, Palazzo Lomellino, and Palazzo Tobia Pallavicino. From €15, 2.5 hours."
+  }
+}
