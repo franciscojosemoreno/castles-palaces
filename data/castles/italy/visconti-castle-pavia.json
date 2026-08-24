@@ -73,9 +73,23 @@
   "instagram_tag": "#castellopavia",
   "meta_title": "Visconti Castle Pavia: Tickets, Tours & Visitor Guide 2026",
   "meta_description": "Visit the Castello Visconteo di Pavia — a 14th-century Visconti fortress housing the Civic Museums of Pavia, including the Malaspina Collection and a Leonardo da Vinci court connection. Entry from €8.",
-  "tags": ["italy", "lombardy", "pavia", "visconti", "medieval", "milan", "civic-museum", "tiepolo", "leonardo", "malaspina", "gothic"],
+  "tags": [
+    "italy",
+    "lombardy",
+    "pavia",
+    "visconti",
+    "medieval",
+    "milan",
+    "civic-museum",
+    "tiepolo",
+    "leonardo",
+    "malaspina",
+    "gothic"
+  ],
   "last_updated": "2026-08-18",
-  "nearby_castles": ["castello-sforzesco"],
+  "nearby_castles": [
+    "castello-sforzesco"
+  ],
   "gyg_location_id": "32384",
   "gyg_search_query": "Visconti Castle Pavia private tour Civic Museums",
   "gyg_widget_type": "activities",
@@ -90,8 +104,11 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
+      "pricing_unit": "group",
       "booking_url_override": "https://www.getyourguide.com/pavia-l32384/pavia-private-tour-discovering-the-visconti-castle-t411394/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": ["visconti-castle-pavia"]
+      "covers_castles": [
+        "visconti-castle-pavia"
+      ]
     }
   ],
   "gyg_direct_link_override": true

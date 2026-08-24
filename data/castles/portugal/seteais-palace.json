@@ -105,6 +105,7 @@
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
+      "pricing_unit": "group",
       "booking_url_override": "https://www.getyourguide.com/sintra-l99/from-lisbon-private-sintra-tour-with-a-local-guide-t856768/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "seteais-palace"
