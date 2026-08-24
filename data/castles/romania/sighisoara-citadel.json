@@ -1,0 +1,117 @@
+{
+  "id": "sighisoara-citadel",
+  "name": "Sighișoara Citadel",
+  "local_name": "Cetatea Sighișoara",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 88,
+  "annual_visitors": 400000,
+  "country": "romania",
+  "region": "Mureș County, Transylvania",
+  "nearest_city": "Sighișoara",
+  "address": "Piața Muzeului, 545400 Sighișoara, Mureș County, Romania",
+  "lat": 46.2197,
+  "lng": 24.7961,
+  "unesco": true,
+  "year_built": 1191,
+  "architectural_style": "Medieval Saxon fortified citadel; 14 craft-guild defensive towers built 13th–16th century (9 surviving); Romanesque-Gothic Clock Tower (14th century, 64m); Covered Staircase (1642); Gothic Church on the Hill (14th–15th century with medieval frescoes)",
+  "opening_hours": {
+    "monday": "Open (citadel streets, free)",
+    "tuesday": "Open (citadel streets, free)",
+    "wednesday": "Open (citadel streets, free)",
+    "thursday": "Open (citadel streets, free)",
+    "friday": "Open (citadel streets, free)",
+    "saturday": "Open (citadel streets, free)",
+    "sunday": "Open (citadel streets, free)",
+    "seasonal_note": "The citadel streets are free to walk at any hour. The Clock Tower Museum opens Tuesday–Sunday 09:00–18:30 (summer) and 09:00–15:30 (winter); closed Monday. The Church on the Hill and the German Cemetery have their own hours and a separate entry charge. The GYG walking tour (t135399) departs daily at 11:00 from Piața Muzeului 5."
+  },
+  "price_adult": 5,
+  "price_child": 2,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://www.sighisoara.org.ro",
+  "visit_duration": "2–3 hours (citadel streets + Clock Tower + Church on the Hill); 2 hours with the guided tour",
+  "best_season": "April to October",
+  "accessibility": "The cobbled streets of the citadel involve steep gradients and uneven surfaces; not easily navigated by wheelchair. The Covered Staircase (164 steps) is the main access route from the lower town to the Church on the Hill — steep but covered. The Clock Tower has stairs to the museum levels.",
+  "booking_advance_days": 0,
+  "tagline": "Birthplace of Vlad the Impaler — the best-preserved inhabited medieval citadel in Transylvania, lived in continuously since the 12th century",
+  "highlights": [
+    "UNESCO World Heritage Site — one of the few remaining inhabited medieval citadels in Europe, continuously occupied since the 12th century and still home to around 800 residents",
+    "Birthplace of Vlad III, Prince of Wallachia ('Vlad the Impaler', the historical Dracula) — born 1431 in what is now a restaurant on the Piața Muzeului, marked with a plaque",
+    "The 64-metre Clock Tower (Turnul cu Ceas, 14th century) — the citadel's main gatehouse and its most distinctive landmark, housing a museum of Saxon guild artefacts, medieval weapons, pharmacy exhibits, and a 17th-century mechanical clock with automata",
+    "The 164-step Covered Staircase (Scara Acoperită, 1642) — a roofed wooden stairway built so that Sighișoara's schoolchildren could reach the hilltop school without being exposed to winter weather; still the main access to the Church on the Hill",
+    "Nine surviving craft-guild towers — each originally built and maintained by a different trade guild (Butchers', Tailors', Furriers', Tin Moulders', Cobblers', Ropers', Tanners', Blacksmiths', Barbers') as part of the 14-tower medieval defensive ring"
+  ],
+  "description": "Sighișoara is one of those medieval towns that has survived not by becoming a museum of itself but by remaining a living place. The citadel — the fortified hilltop upper town that rises 90 metres above the Târnava Mare river — is still home to around 800 people, most of them in houses whose facades have changed little in two or three centuries. The streets are cobbled, the church still holds services, and the schoolchildren still climb the 164-step Covered Staircase to lessons on the hill, just as their predecessors did when it was built in 1642. UNESCO inscribed it in 1999 as one of the best-preserved medieval fortified towns in Central Europe.\n\nThe citadel was founded by Saxon settlers — German craftsmen and merchants invited to colonise Transylvania by the Hungarian king in the 12th century — and grew into a walled town with 14 defensive towers, each funded and maintained by a different craft guild. The towers were the guilds' responsibility in war and their identifying mark in peace: Butchers' Tower, Tailors' Tower, Furriers' Tower, Tin Moulders' Tower, and so on. Nine of the original fourteen survive. The dominant structure is the Clock Tower (Turnul cu Ceas), a 64-metre Romanesque-Gothic gatehouse built in the 14th century as the main entrance to the citadel, now housing the History Museum with its extraordinary 17th-century mechanical clock — six armoured automata marking the hours above the medieval roofline.\n\nSighișoara's most famous historical connection is to Vlad III, Prince of Wallachia, known to Romanians as Vlad Țepeș (Vlad the Impaler) and to the wider world as the historical inspiration for Bram Stoker's Dracula — though Stoker knew almost nothing of the real Vlad and borrowed only the name and the approximate geography. Vlad was born in 1431 in a house on the Piața Muzeului (the main square of the citadel), the son of Vlad II Dracul, a prince who had taken the name from the chivalric Order of the Dragon. That house is now a restaurant. Vlad III's reputation was built on his method of executing enemies — impalement on stakes — a deterrent employed by many rulers of the period but documented with particular vividness in the German pamphlets circulated after his death, which made him famous across Central Europe before he was forgotten for centuries.\n\nThe guided walking tour (t135399) covers the major sights of the citadel in two hours, departing at 11:00 from Piața Muzeului 5: the square, Dracula's birth house, the Clock Tower exterior and history, the Covered Staircase, the Church on the Hill (Gothic, 14th–15th century, with surviving medieval frescoes), the German Cemetery on the hill slope, and the guild towers along the defensive circuit.",
+  "history": "Saxon settlers arrived in the Târnava Mare valley in the late 12th century, establishing the trading settlement of Schässburg (the German name for Sighișoara) on the strategic hilltop above the river crossing. The fortified citadel developed through the 13th–15th centuries, with the 14 craft-guild towers forming a complete defensive ring by the 16th century. Sighișoara was one of the seven principal Saxon towns of medieval Transylvania (the 'Siebenbürgen'), the fortified-city network that made the Saxons a dominant force in Transylvanian urban life for seven centuries. Vlad Dracul (Vlad II), Prince of Wallachia, lived in Sighișoara during his years at the Hungarian court of John Hunyadi in the 1430s, and his son Vlad III — later Vlad Țepeș — was born here in 1431. The citadel survived the Ottoman and Tatar raids that destroyed many neighbouring towns, partly through its fortifications and partly through its strategic position. The Saxon population, which had maintained the citadel's character for centuries, emigrated in large numbers after Romanian Communism and then after 1989; today a small Saxon community remains, but the population is predominantly Romanian. UNESCO inscribed the Historic Centre of Sighișoara in 1999.",
+  "how_to_visit": "**Getting there:** Sighișoara is on the Brașov–Cluj-Napoca rail line, one of Transylvania's main train routes; direct trains run from both cities (1.5 hours from Brașov, 2.5 hours from Cluj). By car, the town is on the DN13A highway connecting Brașov and Târgu Mureș, approximately 120 km northwest of Brașov. Sighișoara has a central train station within walking distance of the lower town and the citadel.\n\n**Tickets:** The cobbled streets of the citadel are free to walk at all hours. The Clock Tower Museum charges approximately €5 per adult, €2 per child (Tuesday–Sunday). The Church on the Hill has a separate entry charge. The GYG guided walking tour (t135399, from €39 per person, 4.8★ / 99 reviews) departs daily at 11:00 from Piața Muzeului 5 and covers the main sights in 2 hours with a professional local guide — the most efficient way to understand the citadel's history and stories. A private upgrade (+€20/person) is available for groups who prefer sole-guide attention.\n\n**Practical tips:** Sighișoara is at its most atmospheric in the morning and evening, when day-trippers are fewer. The cobbled streets and steep gradients are tiring in summer heat — start with the Covered Staircase and Church on the Hill while you have energy, then descend through the guild towers. The weekly medieval festival (usually in late July) is worth planning around if you are in Transylvania then. Book accommodation in the citadel itself for the most atmospheric stay.\n\n**Combine with:** [Viscri Fortified Church](/castles/romania/viscri-fortified-church) (~50 km east — the oldest Saxon fortified church in Transylvania, in a village restored with support from King Charles III) and [Biertan Fortified Church](/castles/romania/biertan-fortified-church) (~50 km southwest — the largest fortified church in Transylvania, UNESCO listed, with its famous divorce chamber and 19-mechanism Gothic lock). The GYG day tour from Brașov (t440286) combines Viscri with Sighișoara in a single excursion.",
+  "faqs": [
+    {
+      "question": "Was the real Dracula born in Sighișoara?",
+      "answer": "Vlad III, Prince of Wallachia — known as Vlad Țepeș (Vlad the Impaler) and often called 'Dracula' after his father's membership in the Order of the Dragon — was born in Sighișoara in 1431, when his father Vlad II Dracul was living at the court of Hungarian governor John Hunyadi. The house where he was born still stands on the Piața Muzeului and is now a restaurant. The historical Vlad III was a ruthless but not uniquely cruel ruler by the standards of the period; his reputation was largely created by German-language political pamphlets printed after his death, which exaggerated his methods of execution (impalement on stakes). Bram Stoker borrowed the name 'Dracula' and a broad Transylvanian geography for his 1897 novel but knew almost nothing about the real historical figure."
+    },
+    {
+      "question": "What is the Clock Tower, and can you climb it?",
+      "answer": "The Clock Tower (Turnul cu Ceas) is the 14th-century main gatehouse of the citadel, 64 metres tall, and Sighișoara's most recognisable landmark. It houses the History Museum across several levels, with collections of medieval artefacts, Saxon guild items, pharmaceutical instruments, and a model of the citadel, as well as the original 17th-century clock mechanism with its painted wooden automata that appear above the clock face on the hour. You can climb through the museum to the tower's viewing gallery for panoramic views over the citadel rooflines and the Târnava Mare valley. The tower is open Tuesday–Sunday (hours vary seasonally)."
+    },
+    {
+      "question": "Is the GYG guided tour genuinely worth €39, or is the citadel manageable to self-guide?",
+      "answer": "Sighișoara's layout is compact enough to navigate without a guide — the main sights (Piața Muzeului, Clock Tower, Covered Staircase, Church on the Hill, guild towers) form a natural circuit you can follow in 2–3 hours with a map. The value of the GYG tour (t135399, 4.8★ / 99 reviews) is in the stories: the guide covers the Rolli system, the Vlad legends, the guild histories, and the folk traditions that pure architectural observation doesn't reveal. For first-time visitors with limited time in Transylvania, the guided format is efficient. Repeat visitors or those who enjoy self-guided exploration will find the citadel well-signed."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/sighisoara-citadel.webp",
+    "alt": "Sighișoara Citadel Clock Tower and medieval rooflines at golden hour, Transylvania, Romania — the UNESCO World Heritage Saxon fortified town with its distinctive 14th-century Clock Tower rising above the cobbled streets",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/sighisoara-citadel.webp",
+  "instagram_tag": "#sighisoara",
+  "meta_title": "Sighișoara Citadel — UNESCO Medieval Fortress & Vlad the Impaler's Birthplace",
+  "meta_description": "Visit Sighișoara Citadel in Transylvania — the best-preserved inhabited medieval citadel in Europe, birthplace of Vlad the Impaler, with the 14th-century Clock Tower, Covered Staircase, and nine surviving guild towers.",
+  "tags": [
+    "romania",
+    "transylvania",
+    "mures",
+    "unesco",
+    "medieval",
+    "saxon",
+    "fortress",
+    "dracula",
+    "vlad-the-impaler",
+    "clock-tower"
+  ],
+  "last_updated": "2026-08-23",
+  "routes": [],
+  "nearby_castles": [
+    "viscri-fortified-church",
+    "biertan-fortified-church",
+    "bran-castle",
+    "corvin-castle"
+  ],
+  "gyg_location_id": "2012",
+  "gyg_search_query": "Sighișoara Citadel guided walking tour Transylvania UNESCO Dracula",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "135399",
+      "title": "City Tour Sighisoara: Legends & Landmarks, A Walk Through Time",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 39,
+      "rating": 4.8,
+      "reviews": 99,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/sighisoara-l2012/city-tour-sighisoara-legends-landmarks-a-walk-through-time-t135399/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "sighisoara-citadel"
+      ],
+      "note": "Guided walking tour of the UNESCO citadel departing daily at 11:00 from Piața Muzeului 5. Covers Clock Tower, Church on the Hill, Covered Staircase, Dracula's birth house, and guild towers. Private upgrade (+€20/person) available. Rated 4.8★ from 99 reviews."
+    }
+  ],
+  "gyg_direct_link_override": true
+}
