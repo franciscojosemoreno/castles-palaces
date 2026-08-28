@@ -531,6 +531,24 @@
     }
   },
   {
+    "slug": "isle-of-man",
+    "name": "Isle of Man",
+    "description": "A self-governing Crown Dependency in the Irish Sea, the Isle of Man has been inhabited and fortified for over a thousand years. Castle Rushen in Castletown — the island's ancient capital — is one of the best-preserved medieval castles in Europe, built on Norse foundations from the 10th century and expanded by the Kings of Man and the Isles, the Lords of Mann, and the Stanley Earls of Derby. The island is also home to Tynwald, claimed to be the world's oldest continuously functioning parliament, which has met every year since at least the 10th century.",
+    "hero_image": {
+      "url": "/images/countries/isle-of-man.webp",
+      "alt": "Castle Rushen in Castletown, Isle of Man — the medieval limestone castle founded by the Norse Kings of Mann on the island's ancient capital",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "castle-rushen"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/isle-of-man-thumb.webp",
+      "alt": "Castle Rushen limestone keep in Castletown, Isle of Man"
+    }
+  },
+  {
     "slug": "finland",
     "name": "Finland",
     "description": "Finland's medieval heritage is concentrated at its maritime frontier — the sea fortress of Suomenlinna, spread across six islands in Helsinki harbour (UNESCO World Heritage), and Turku Castle, the country's largest medieval fortress, guarding the mouth of the Aura River since 1280. Both were built by Swedish rulers to defend the eastern edge of the Baltic world against Russian expansion.",
