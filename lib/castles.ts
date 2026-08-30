@@ -22,8 +22,9 @@ export function getAllCastles(): Castle[] {
   }
 
   return castles.sort((a, b) => {
-    if (b.priority_score !== a.priority_score) return b.priority_score - a.priority_score;
-    return (b.annual_visitors ?? 0) - (a.annual_visitors ?? 0);
+    const avDiff = (b.annual_visitors ?? 0) - (a.annual_visitors ?? 0);
+    if (avDiff !== 0) return avDiff;
+    return a.name.localeCompare(b.name);
   });
 }
 
@@ -39,7 +40,11 @@ export function getCastlesByCountry(country: string): Castle[] {
   return files
     .map((f) => JSON.parse(fs.readFileSync(path.join(countryPath, f), 'utf-8')) as Castle)
     .filter((c) => c.status === 'published')
-    .sort((a, b) => b.priority_score - a.priority_score);
+    .sort((a, b) => {
+      const avDiff = (b.annual_visitors ?? 0) - (a.annual_visitors ?? 0);
+      if (avDiff !== 0) return avDiff;
+      return a.name.localeCompare(b.name);
+    });
 }
 
 export function getCastleBySlug(country: string, slug: string): Castle | null {
