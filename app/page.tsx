@@ -28,13 +28,13 @@ export default function HomePage() {
             '@context': 'https://schema.org',
             '@type': 'WebSite',
             name: 'Castles & Palaces',
-            url: 'https://castlespalaces.com',
+            url: 'https://www.castles-palaces.com',
             description: 'Visitor guides, tours and itineraries for historic castles and palaces across Europe.',
             potentialAction: {
               '@type': 'SearchAction',
               target: {
                 '@type': 'EntryPoint',
-                urlTemplate: 'https://castlespalaces.com/castles?q={search_term_string}',
+                urlTemplate: 'https://www.castles-palaces.com/castles?q={search_term_string}',
               },
               'query-input': 'required name=search_term_string',
             },

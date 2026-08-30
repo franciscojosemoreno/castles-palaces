@@ -5,6 +5,7 @@ import { getCastlesByCountry, getAllCountrySlugs } from '@/lib/castles';
 import { getCountryBySlug } from '@/lib/countries';
 import CastleCard from '@/components/castle/CastleCard';
 import Breadcrumb from '@/components/ui/Breadcrumb';
+import CountryStructuredData from '@/components/seo/CountryStructuredData';
 
 interface PageProps {
   params: Promise<{ country: string }>;
@@ -36,6 +37,13 @@ export default async function CountryPage({ params }: PageProps) {
 
   return (
     <div>
+      <CountryStructuredData
+        countrySlug={country}
+        countryName={countryData.name}
+        countryDescription={countryData.description}
+        heroImageUrl={countryData.hero_image.url}
+        castles={castles}
+      />
       {/* Hero */}
       <div className="relative h-[400px] overflow-hidden">
         <Image
