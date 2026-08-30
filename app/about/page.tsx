@@ -17,7 +17,7 @@ export default function AboutPage() {
 
       <div className="prose-editorial space-y-4 text-stone-600">
         <p>
-          Castles &amp; Palaces is the world&apos;s most comprehensive independent guide to Europe&apos;s fortresses, royal palaces and medieval castles — over {castleCount} historic sites across {countryCount} countries, each one individually verified as genuinely visitable, with a real ticket, tour or entrance product behind it. It&apos;s the depth of coverage no other specialized guide in this niche has matched.
+          Castles &amp; Palaces is the world&apos;s most comprehensive independent guide to Europe&apos;s fortresses, royal palaces and medieval castles — over {castleCount} historic sites across {countryCount}{' '}countries, each one individually verified as genuinely visitable, with a real ticket, tour or entrance product behind it. It&apos;s the depth of coverage no other specialized guide in this niche has matched.
         </p>
         <p>
           The motivation for this project came from a real problem many travelers face. Search for castles, palaces or fortresses on any of the major travel platforms, and there&apos;s no real way to filter for them — not by attraction, not by country, not by anything. The landmarks worth visiting are buried inside generic city tours and day-trip listings, if you can find them at all. Castles &amp; Palaces is the catalogue that fixes that: real research and real verification for every single site, organized the way people who actually love this niche think about their trips. And it&apos;s not a one-time project — we&apos;re adding new castles, palaces and tours on an ongoing basis.
