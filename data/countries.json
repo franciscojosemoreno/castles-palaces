@@ -712,5 +712,23 @@
       "url": "/images/countries/monaco-thumb.webp",
       "alt": "Prince's Palace of Monaco — the Grimaldi fortress on Le Rocher"
     }
+  },
+  {
+    "slug": "gibraltar",
+    "name": "Gibraltar",
+    "description": "A British Overseas Territory on the southern tip of the Iberian Peninsula, Gibraltar's dramatic limestone Rock has been one of the most strategically contested sites in the western Mediterranean since 711 CE, when Umayyad commander Tariq ibn Ziyad's forces named it Jabal al-Tariq — giving the world the word 'Gibraltar'. The Moorish Castle's Tower of Homage, the Great Siege Tunnels carved through solid rock, and the Rock's resident Barbary macaques make Gibraltar one of Europe's most compact and historically charged heritage destinations.",
+    "hero_image": {
+      "url": "/images/countries/gibraltar.webp",
+      "alt": "The Rock of Gibraltar with the Moorish Castle tower above the town — the strategic limestone promontory at the entrance to the Mediterranean",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "moorish-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/gibraltar-thumb.webp",
+      "alt": "The Rock of Gibraltar — British Overseas Territory at the entrance to the Mediterranean"
+    }
   }
 ]
