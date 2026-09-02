@@ -1,0 +1,138 @@
+{
+  "id": "isle-of-man-peel-castle-rushen-private-tour",
+  "slug": "isle-of-man-peel-castle-rushen-private-tour",
+  "name": "Isle of Man: Peel Castle & Castle Rushen Full-Day Private Tour",
+  "tagline": "Both Manx castles in one day — Peel's Viking-era red sandstone fortress on St Patrick's Isle and Castle Rushen's medieval keep in Castletown, with both entry fees confirmed included on a private 8-hour island circuit",
+  "departure_country": "isle-of-man",
+  "departure_city": "Cregneash",
+  "visited_countries": [
+    "isle-of-man"
+  ],
+  "duration_days": 1,
+  "duration_label": "8 Hours",
+  "gyg_tour_id": "76085",
+  "gyg_url": "https://www.getyourguide.com/cregneash-isle-of-man-l266114/isle-of-man-a-taste-of-the-isle-of-man-with-peel-castle-t76085/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 466,
+  "currency": "EUR",
+  "rating": null,
+  "review_count": 0,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": null,
+  "overview": "Full-day private tour of the Isle of Man covering both principal Manx castles — Peel Castle on St Patrick's Isle and Castle Rushen in Castletown — with entry fees to both confirmed included. The 8-hour private circuit is the island's most comprehensive single-day heritage itinerary, also taking in Douglas Head, the Great Laxey Wheel (exterior), Laxey Woollen Mills, King Orry's Grave, Maughold Churchyard, Tynwald Hill, Cregneash village, and The Sound at the island's southern tip. Priced per group (not per person) — price covers the entire private vehicle and guide regardless of group size. Lunch and beverages are excluded.",
+  "highlights": [
+    "Peel Castle — the red sandstone curtain-wall fortress on St Patrick's Isle above Peel Harbour, with a Viking-age Round Tower and the ruined Cathedral of St German within its walls; built on a site occupied since the 6th century CE and fortified by the Norse Kings of Man and the Isles from around 800 CE; entry fee confirmed included (✓ 'Entry inside Peel Castle')",
+    "Castle Rushen — one of the best-preserved medieval castles in Europe, built on Norse foundations in Castletown, the Isle of Man's ancient capital; the limestone keep and curtain walls have been occupied continuously since the 10th century under the Norse Kings of Man, the Scottish and English Lords of Mann, and the Stanley Earls of Derby; entry fee confirmed included (✓ 'Entry inside Castle Rushen')",
+    "Tynwald Hill — the ceremonial site of Tynwald, the Isle of Man's parliament, claimed to be the world's oldest continuously functioning legislative assembly; the tiered grass mound at St John's is where the annual Tynwald Day ceremony has taken place every year since at least the 10th century (documented since 979 CE), when enacted laws are read aloud in English and Manx Gaelic",
+    "The Great Laxey Wheel (Lady Isabella) — the largest surviving working waterwheel in the world at 22 metres in diameter, built in 1854 to pump water from the Laxey lead and zinc mines; visited on an exterior stop alongside the Laxey Woollen Mills, which still produces the characteristic Manx tartan and tweeds",
+    "King Orry's Grave and Maughold Churchyard — Neolithic megalithic monuments ('King Orry's Grave' is a Neolithic passage tomb) and the early Christian cross slabs at Maughold, which has one of the finest collections of Manx Ogham and runic inscriptions in the island's heritage; both represent the pre-Norse layers of Manx culture",
+    "Cregneash village and The Sound — a living museum of traditional Manx vernacular architecture at the island's southern tip, managed by Manx National Heritage; the village preserves the crofting lifestyle of 19th-century Manx rural communities; The Sound, the narrow strait between the Isle of Man and the Calf of Man (a small wildlife reserve), provides the day's southernmost point"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "day": 1,
+      "castle_name": "Douglas Head",
+      "castle_id": null,
+      "duration": "Photo stop",
+      "description": "The tour begins at Douglas Head — the headland above the Isle of Man's capital that gives the best panoramic view over Douglas Harbour and the town, with the Tower of Refuge (a small Victorian Gothic folly built on Conister Rock in the harbour in 1832 by Sir William Hillary, founder of the RNLI) visible below. Douglas Head was a Victorian leisure destination and retains an old camera obscura; it provides an orientation point before the tour heads into the island's interior."
+    },
+    {
+      "order": 2,
+      "day": 1,
+      "castle_name": "King Orry's Grave",
+      "castle_id": null,
+      "duration": "30 minutes",
+      "description": "A stop at King Orry's Grave near Laxey — a Neolithic megalithic monument (c. 3,500–4,000 BCE) consisting of the remnants of a long cairn and chamber tomb. Despite the name, there is no connection to any historical king: 'King Orry' is a mythologised form of Godred Crovan, the Norse king who conquered the Isle of Man in 1079 CE and founded the dynasty of the Kings of Man and the Isles; the name was attached to the megalithic site by later Manx folk tradition. The tomb represents the island's pre-Norse and pre-Celtic human occupation and is among the oldest visible structures in the Isle of Man."
+    },
+    {
+      "order": 3,
+      "day": 1,
+      "castle_name": "The Great Laxey Wheel & Laxey Woollen Mills",
+      "castle_id": null,
+      "duration": "45 minutes",
+      "description": "Stop at the Great Laxey Wheel (Lady Isabella) — at 22 metres in diameter, the largest surviving working waterwheel in the world, built in 1854 to pump water from the Laxey lead and zinc mines that once made Laxey one of the most productive mining villages in the British Isles. The wheel is named after Isabella, wife of the Lieutenant Governor of the time. The stop also includes the Laxey Woollen Mills nearby, which continues to produce traditional Manx tartan and tweed fabrics on Victorian-era looms — one of the few surviving examples of a Victorian mill in active production in the British Isles. Entry to the Laxey Wheel is not confirmed included — check GYG Includes at time of booking."
+    },
+    {
+      "order": 4,
+      "day": 1,
+      "castle_name": "Maughold Churchyard",
+      "castle_id": null,
+      "duration": "30 minutes",
+      "description": "Visit to Maughold Churchyard at the northeastern tip of the island — an early Christian site with one of the most significant collections of Manx Ogham inscriptions, runic cross slabs, and keeill (Manx early Christian chapel) foundations in the island. The churchyard's collection of Manx carved crosses spans the 5th to 12th centuries and provides a material record of the island's conversion from Celtic paganism through early Christian monastic culture to the Norse-Christian synthesis of the Viking period. Several of the crosses are inscribed in both Ogham (the early Irish alphabet) and Old Norse runes, representing the cultural transition between the Celtic and Norse periods."
+    },
+    {
+      "order": 5,
+      "day": 1,
+      "castle_name": "Peel Castle",
+      "castle_id": "peel-castle",
+      "duration": "75 minutes",
+      "description": "First castle stop: Peel Castle on St Patrick's Isle, reached by a short causeway walk across Peel Harbour. Entry confirmed included (✓ 'Entry inside Peel Castle'). The red sandstone castle enclosure contains the ruined Cathedral of St German (13th century, formerly the seat of the Bishop of Sodor and Man) and a Viking-age Round Tower — together representing over a thousand years of continuous occupation on this tidal island, from the 6th-century monastery associated with St Patrick through the Norse fortification of the 9th century to the late 14th-century curtain walls. The warm red sandstone, the open sky through the roofless cathedral nave, and the harbour views from the castle walls give Peel Castle a visual character unlike any other castle in the British Isles. The Moddey Dhoo (Black Dog) legend — a spectral black spaniel said to haunt the castle's passageways — is associated with this site and was recorded in 1726 by George Waldron."
+    },
+    {
+      "order": 6,
+      "day": 1,
+      "castle_name": "Tynwald Hill",
+      "castle_id": null,
+      "duration": "30 minutes",
+      "description": "Stop at Tynwald Hill at St John's — the ceremonial site of Tynwald, the Isle of Man's parliament, claimed to be the world's oldest continuously functioning legislative assembly with documented history from at least 979 CE. The tiered grass mound is where the annual Tynwald Day ceremony takes place every 5th July (a Manx national holiday): newly enacted legislation is read aloud in English and Manx Gaelic, a practice continued every year since the Norse period. The name Tynwald derives from Old Norse 'Þingvöllr' (assembly field) — the same root as Iceland's Þingvellir, where the Althing (the Icelandic parliament) met from 930 CE. The Tynwald connection gives the Isle of Man a unique claim in European parliamentary history."
+    },
+    {
+      "order": 7,
+      "day": 1,
+      "castle_name": "Cregneash Village & The Sound",
+      "castle_id": null,
+      "duration": "45 minutes",
+      "description": "Visit to Cregneash village at the southern tip of the island — a living museum of traditional Manx rural life maintained by Manx National Heritage, with preserved croft houses, outbuildings, and working demonstrations of traditional Manx crafts and agriculture. The village preserves the character of a 19th-century Manx crofting community and is home to a small herd of Manx Loaghtan sheep, the native Manx breed with characteristic multiple horns. The Sound — the narrow strait between the island's southern tip and the Calf of Man (a small uninhabited wildlife reserve) — provides the southernmost viewpoint of the day, with views across to the Calf and, on clear days, to Ireland to the west and the Mull of Galloway to the north."
+    },
+    {
+      "order": 8,
+      "day": 1,
+      "castle_name": "Castle Rushen",
+      "castle_id": "castle-rushen",
+      "duration": "90 minutes",
+      "description": "Second and final castle stop: Castle Rushen in Castletown, the Isle of Man's ancient capital. Entry confirmed included (✓ 'Entry inside Castle Rushen'). One of the best-preserved medieval castles in Europe, built on Norse foundations in the 10th century and expanded through the medieval period by the Kings of Man and the Isles, the Scottish and English Lords of Mann, and the Stanley Earls of Derby. The limestone keep, gatehouse, and curtain walls are in exceptional condition; Manx National Heritage presents the castle with period-dress interpretation staff and room-by-room furnishing from different historical periods. The castle's exceptionally complete state — surviving undemolished through centuries of reduced strategic importance — gives Castle Rushen a living quality rare among medieval fortifications of its age. Return to tour departure point."
+    }
+  ],
+  "included": [
+    "Entry inside Peel Castle (confirmed ✓)",
+    "Entry inside Castle Rushen (confirmed ✓)",
+    "Private vehicle and guide for the day",
+    "All transport between sites on the Isle of Man"
+  ],
+  "excluded": [
+    "Lunch and beverages (own expense)",
+    "Entry to Great Laxey Wheel (check GYG Includes at booking — not confirmed in this sourcing)"
+  ],
+  "meeting_point": "Cregneash, Isle of Man — confirm exact pickup point at booking",
+  "tips": [
+    "This is a private tour — the €466 price covers the entire group (vehicle + guide), not per person; it represents good value for groups of 3 or more splitting the cost",
+    "Both Peel Castle and Castle Rushen are managed by Manx National Heritage and have seasonal opening (April–October); the tour should be timed within the open season",
+    "The Isle of Man is a Crown Dependency, not part of the UK or EU — UK and EU citizens do not need a passport but non-EU/non-UK nationalities should check entry requirements; the island uses the Isle of Man pound (pegged to GBP)",
+    "The Great Laxey Wheel is an exterior stop; the Laxey Woollen Mills is a working factory floor visit — both are unusual industrial heritage stops that distinguish this tour from a purely military-castle itinerary",
+    "Cregneash is the home of the Manx Loaghtan sheep — the native Manx breed with four or sometimes six horns, the breed used for the traditional salt-cured Manx meat that appears on the island's restaurant menus"
+  ],
+  "faqs": [
+    {
+      "question": "Is the €466 price per person or per group?",
+      "answer": "The €466 price is per group — it covers the private vehicle and guide for the entire 8-hour day regardless of the number of people in the group. For a couple the cost works out to €233 per person; for a family of four it drops to €116.50 per person. The private format also means the itinerary pace can be adjusted to the group's interests — more time at either castle, or skipping stops that are less important to the group."
+    },
+    {
+      "question": "What is the difference between Peel Castle and Castle Rushen?",
+      "answer": "Peel Castle is primarily significant for its Viking-age and early Christian heritage — the site on St Patrick's Isle has been occupied since the 6th century CE, and the Round Tower and Cathedral of St German within the curtain walls represent the Norse-Christian culture of the pre-English-rule island. It is partly ruined and open to the sky, with a romantic atmospheric quality. Castle Rushen is significant primarily as a medieval castle in an exceptional state of preservation — the limestone keep and curtain walls are among the most intact medieval structures in the British Isles, managed with period-dress interpretation. Together the two castles cover the full arc of Manx political history from the Viking age (Peel) through the medieval English lordship (Castle Rushen), and this tour is the most practical way to visit both in a single day."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/isle-of-man-peel-castle-rushen-private-tour.webp",
+    "alt": "Peel Castle red sandstone walls on St Patrick's Isle above Peel Harbour — the first castle stop on the Isle of Man full-day private tour covering both Peel Castle and Castle Rushen",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Isle of Man: Peel Castle & Castle Rushen Full-Day Private Tour",
+    "description": "8-hour private tour of the Isle of Man covering both Peel Castle and Castle Rushen, with both entry fees included. Also visits Tynwald Hill, Great Laxey Wheel, King Orry's Grave, and Cregneash. €466 per group."
+  }
+}
