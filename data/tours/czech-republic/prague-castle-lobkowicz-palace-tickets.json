@@ -12,7 +12,7 @@
   "duration_label": "Flexible — valid all day",
   "gyg_tour_id": "189021",
   "gyg_url": "https://www.getyourguide.com/prague-l10/lobkowicz-palace-and-prague-castle-entrance-tickets-t189021/",
-  "price_from": 40,
+  "price_from": 35,
   "currency": "USD",
   "rating": 4.4,
   "review_count": 5318,
@@ -117,5 +117,6 @@
   "meta": {
     "title": "Prague Castle & Lobkowicz Palace: Self-Guided Entry Tickets",
     "description": "Self-guided entry tickets for Prague Castle Circuit B (St Vitus Cathedral, Old Royal Palace, Golden Lane) plus Lobkowicz Palace — Brueghel, Velázquez, and original Beethoven manuscripts. Audio guide in 9 languages. From $40."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

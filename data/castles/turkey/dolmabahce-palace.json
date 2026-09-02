@@ -12,7 +12,7 @@
   "nearest_city": "Istanbul",
   "address": "Vişnezade Mah., Dolmabahçe Cd., 34357 Beşiktaş, İstanbul, Türkiye",
   "lat": 41.039,
-  "lng": 29.0,
+  "lng": 29,
   "unesco": false,
   "year_built": 1856,
   "architectural_style": "Ottoman Baroque and Beaux-Arts palace of the mid-19th century — built 1843–1856 by Sultan Abdulmecid I to replace Topkapi Palace as the primary Ottoman imperial residence; the principal architect was Nikogos Balyan of the Armenian-Ottoman Balyan dynasty, who designed the palace in a deliberately European style combining Ottoman decorative tradition with French Baroque and Neoclassical palace architecture; the building is the largest palace in Turkey (approximately 45,000 sqm on the footprint), with 285 rooms, 43 halls and salons, 68 toilets, 6,000 sqm of hand-woven Hereke silk carpets, a 4.5-tonne Bohemian crystal chandelier (the largest in the world at the time of installation) in the Ceremonial Hall, and an estimated 14 tonnes of gold used in gilding the interiors; the palace fronts directly on the Bosphorus with a 600-metre waterfront facade, creating one of the most dramatic palace-waterway relationships in European or Asian architectural history",
@@ -79,7 +79,7 @@
     "harem",
     "19th-century"
   ],
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "topkapi-palace",
@@ -109,7 +109,7 @@
       "title": "Istanbul: Topkapi Palace & Dolmabahçe Palace Combo Ticket",
       "type": "entry_ticket",
       "duration": "Self-paced (full day)",
-      "price_from": 108,
+      "price_from": 107.9,
       "rating": 4.8,
       "reviews": 19,
       "is_top_pick": true,

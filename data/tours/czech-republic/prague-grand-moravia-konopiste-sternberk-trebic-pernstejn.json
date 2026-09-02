@@ -12,7 +12,7 @@
   "duration_label": "Full day (approx. 12–14 hours including driving)",
   "gyg_tour_id": "1147432",
   "gyg_url": "https://www.getyourguide.com/prague-l10/grand-tour-konopiste-stenberk-trebic-pernstejn-brno-t1147432/?partner_id=XDLEZT9&utm_medium=online_publisher",
-  "price_from": 1407,
+  "price_from": 1230,
   "currency": "USD",
   "rating": null,
   "review_count": 0,
@@ -124,5 +124,6 @@
     "title": "Prague: Grand Moravia Tour — Konopiště, Český Šternberk, Třebíč, Pernštejn & Brno",
     "description": "Private day trip from Prague across Bohemia into Moravia: Franz Ferdinand's Konopiště, Šternberk family castle (20+ generations), UNESCO Třebíč, and Pernštejn (marble of Moravia). From $1,407 per group of up to 3."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

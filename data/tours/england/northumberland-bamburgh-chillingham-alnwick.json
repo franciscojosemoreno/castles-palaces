@@ -12,7 +12,7 @@
   "duration_label": "Full day (8 hours)",
   "gyg_tour_id": "1223023",
   "gyg_url": "https://www.getyourguide.com/northumberland-l2939/northumberland-castles-tour-with-private-transport-t1223023/",
-  "price_from": 455,
+  "price_from": 394.49,
   "currency": "USD",
   "rating": null,
   "review_count": 1,
@@ -102,5 +102,6 @@
     "title": "Northumberland: Chillingham, Bamburgh & Alnwick Private Castle Tour",
     "description": "Private day tour of Northumberland's three great castles — haunted Chillingham, coastal Bamburgh, and Harry Potter's Alnwick. Door-to-door pickup from Northumberland or Durham. From $455 per group."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

@@ -12,9 +12,9 @@
   "duration_label": "Full day",
   "gyg_tour_id": "161571",
   "gyg_url": "https://www.getyourguide.com/stockholm-l50/1-day-royal-palace-and-castle-tour-from-stockholm-t161571/?partner_id=XDLEZT9&utm_medium=online_publisher",
-  "price_from": 394,
+  "price_from": 340.67,
   "currency": "USD",
-  "rating": 5.0,
+  "rating": 5,
   "review_count": 7,
   "languages": [
     "English"
@@ -110,5 +110,6 @@
     "title": "Stockholm: 1-Day Royal Palace & Castle Tour — Drottningholm, Skokloster, Sigtuna",
     "description": "Full-day guided tour from Stockholm covering Drottningholm Palace (UNESCO), Skokloster Castle, Wenngarn, and Sigtuna. 5★ / 7 reviews. From $394."
   },
-  "max_group_size": 8
+  "max_group_size": 8,
+  "last_updated": "2026-09-02"
 }

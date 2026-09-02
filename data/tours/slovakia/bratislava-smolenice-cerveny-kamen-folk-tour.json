@@ -12,9 +12,9 @@
   "duration_label": "14 hours",
   "gyg_tour_id": "1091450",
   "gyg_url": "https://www.getyourguide.com/trencin-l150506/historic-castles-and-folk-treasures-from-bratislava-t1091450/",
-  "price_from": 157,
+  "price_from": 149,
   "currency": "USD",
-  "rating": 5.0,
+  "rating": 5,
   "review_count": 2,
   "languages": [
     "English",
@@ -130,5 +130,6 @@
   "meta": {
     "title": "Smolenice, Červený Kameň & Trenčín: Slovak Castles & Folk Traditions from Bratislava",
     "description": "14-hour Slovakia castle and folk-culture day trip from Bratislava — Smolenice neo-Gothic château, Červený Kameň Renaissance castle, Čičmany painted village, Rajecká Lesná nativity, and Trenčín. From $157 per person."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

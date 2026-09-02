@@ -12,9 +12,9 @@
   "duration_label": "Full day (8 hours)",
   "gyg_tour_id": "559581",
   "gyg_url": "https://www.getyourguide.com/cardiff-l449/from-cardiff-caerleon-tintern-abbey-and-three-castles-tour-t559581/?partner_id=XDLEZT9&utm_medium=online_publisher",
-  "price_from": 219,
+  "price_from": 189.1,
   "currency": "USD",
-  "rating": 5.0,
+  "rating": 5,
   "review_count": 33,
   "languages": [
     "English"
@@ -117,5 +117,6 @@
   "meta": {
     "title": "From Cardiff: Caerleon, Tintern Abbey & Three Castles Day Tour",
     "description": "Small-group day tour from Cardiff combining Caerleon's Roman amphitheatre, Chepstow Castle, Tintern Abbey, and Caerphilly — the largest castle in Wales. 5★ / 33 reviews. From $219."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

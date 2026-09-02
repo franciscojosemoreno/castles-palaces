@@ -12,7 +12,7 @@
   "duration_label": "10.5 hours (private, door-to-door)",
   "gyg_tour_id": "544243",
   "gyg_url": "https://www.getyourguide.com/paris-l16/chateau-de-fontainebleau-chateau-de-versailles-t544243/",
-  "price_from": 446,
+  "price_from": 390,
   "currency": "USD",
   "rating": 4.5,
   "review_count": 5,
@@ -112,5 +112,6 @@
     "title": "Fontainebleau & Versailles: Private Day Trip from Paris — Both Royal Palaces in One Day",
     "description": "Private door-to-door day trip from Paris covering both Château de Fontainebleau and the Palace of Versailles. Audio guide included inside both palaces. From $446 (private group). 4.5★."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

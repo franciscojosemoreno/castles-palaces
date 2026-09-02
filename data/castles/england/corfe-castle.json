@@ -52,7 +52,7 @@
     },
     {
       "question": "Does the GYG tour price include castle entry?",
-      "answer": "No. The GYG Jurassic Coast minibus tour (t1304777, from €136) is a guided excursion covering multiple Dorset coastal stops, including Corfe Castle. The tour price covers transport, guiding, and the other included items (water, WiFi, snacks) — but National Trust admission to Corfe Castle itself is NOT included. Castle entry (approximately £15.50 for adults) is payable separately on-site or in advance via the National Trust website. The GYG tour stop at Corfe Castle involves a guided narrated visit and photo opportunity outside and at the castle's base; dedicated castle exploration requires purchasing a National Trust ticket."
+      "answer": "No. The GYG Jurassic Coast minibus tour (t1304777, from €167) is a guided excursion covering multiple Dorset coastal stops, including Corfe Castle. The tour price covers transport, guiding, and the other included items (water, WiFi, snacks) — but National Trust admission to Corfe Castle itself is NOT included. Castle entry (approximately £15.50 for adults) is payable separately on-site or in advance via the National Trust website. The GYG tour stop at Corfe Castle involves a guided narrated visit and photo opportunity outside and at the castle's base; dedicated castle exploration requires purchasing a National Trust ticket."
     },
     {
       "question": "Who was Lady Mary Bankes and why is she important to Corfe Castle?",
@@ -83,7 +83,7 @@
     "jurassic-coast",
     "lady-bankes"
   ],
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "pendennis-castle",
@@ -102,7 +102,7 @@
       "title": "Portland: Jurassic Coast Guided Mini Bus Excursions",
       "type": "guided_tour",
       "duration": "6 hours",
-      "price_from": 136,
+      "price_from": 166.53,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,

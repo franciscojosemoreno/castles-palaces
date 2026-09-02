@@ -12,7 +12,7 @@
   "duration_label": "Full Day · 8 hours",
   "gyg_tour_id": "115192",
   "gyg_url": "https://www.getyourguide.com/riga-l213/latvian-palaces-and-medieval-castles-private-tour-t115192/?partner_id=XDLEZT9&utm_medium=online_publisher",
-  "price_from": 318,
+  "price_from": 279,
   "currency": "USD",
   "rating": 4.3,
   "review_count": 8,
@@ -93,5 +93,6 @@
     "title": "Rundāle Palace & Bauska Castle: Private Driver Day Trip from Riga 2026",
     "description": "Private driver day trip from Riga to Rundāle Palace and Bauska Castle. No group, no fixed schedule, up to 3 people. From $318 per booking. Driver-only transfer — guide available on-site."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

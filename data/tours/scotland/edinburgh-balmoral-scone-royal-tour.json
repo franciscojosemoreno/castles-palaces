@@ -12,9 +12,9 @@
   "duration_label": "10 Hours",
   "gyg_tour_id": "915643",
   "gyg_url": "https://www.getyourguide.com/edinburgh-l44/edinburgh-balmoral-castle-and-scone-palace-royal-tour-t915643/?partner_id=XDLEZT9&utm_medium=online_publisher",
-  "price_from": 874,
+  "price_from": 756.41,
   "currency": "USD",
-  "rating": 5.0,
+  "rating": 5,
   "review_count": 22,
   "languages": [
     "English"
@@ -131,5 +131,6 @@
     "title": "Edinburgh: Balmoral Castle & Scone Palace Royal Tour | Tartan Thistle Tours",
     "description": "Private 10-hour royal tour from Edinburgh covering Scone Palace (ancient coronation site of Scottish kings) and Balmoral Castle (Royal Family's Highland retreat). From $874/group up to 6."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

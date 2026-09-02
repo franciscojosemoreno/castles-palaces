@@ -12,7 +12,7 @@
   "duration_label": "5 hours",
   "gyg_tour_id": "1189554",
   "gyg_url": "https://www.getyourguide.com/edinburgh-l44/royal-tour-edinburgh-castle-holyrood-palace-and-royal-mile-t1189554/",
-  "price_from": 133,
+  "price_from": 115.21,
   "currency": "USD",
   "rating": 4.4,
   "review_count": 5,
@@ -98,5 +98,6 @@
   "meta": {
     "title": "Palace of Holyroodhouse & the Royal Mile: Royal Edinburgh Walking Tour",
     "description": "5-hour Edinburgh walking tour: Palace of Holyroodhouse (Mary Queen of Scots' apartments), guided Royal Mile walk, and Edinburgh Castle. Live guide, both entry tickets included. From $133 per person."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

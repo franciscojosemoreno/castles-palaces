@@ -11,7 +11,7 @@
   "duration_days": 1,
   "duration_label": "Private Day · 5 hours",
   "gyg_tour_id": "1427550",
-  "price_from": 430,
+  "price_from": 400,
   "currency": "EUR",
   "rating": null,
   "review_count": 0,
@@ -71,7 +71,7 @@
   ],
   "meeting_point": "Flexible — the guide can meet at Ptuj Castle, Borl Castle, or Ormož Castle; confirm start point at booking",
   "tips": [
-    "The tour price (€430) covers the group of up to 2 people, not individual per-person admission — it is a private product, not a per-seat group tour",
+    "The tour price (€400) covers the group of up to 2 people, not individual per-person admission — it is a private product, not a per-seat group tour",
     "Start point is flexible based on your accommodation: groups staying in Ptuj typically start at Ptuj Castle; groups staying near the Croatian border may prefer to start at Ormož",
     "Allow time after the tour to walk Ptuj's old town — one of the best-preserved medieval town centres in Slovenia, with the town tower, Dominican monastery, and the 2nd-century Orpheus Monument",
     "This is a New activity with no GYG reviews yet — book directly for the most current availability and communicate start point preference clearly at time of booking"
@@ -79,7 +79,7 @@
   "faqs": [
     {
       "question": "Who is the guide and is the tour genuinely private?",
-      "answer": "The tour is led by Gregor Valentan, a licensed local guide based in eastern Slovenia. It is a fully private product — no other guests share the tour. The group size is up to 2 people and the €430 price covers the group."
+      "answer": "The tour is led by Gregor Valentan, a licensed local guide based in eastern Slovenia. It is a fully private product — no other guests share the tour. The group size is up to 2 people and the €400 price covers the group."
     },
     {
       "question": "Do I need to drive between the three castles?",
@@ -96,8 +96,9 @@
   },
   "meta": {
     "title": "Eastern Slovenia: Private Castle Tour with Wine Tastings",
-    "description": "A private 5-hour guided circuit of three castles in the Ptuj/Drava region — Ptuj, Borl, and Ormož — with regional wine tastings and traditional Haloze pastry included. From €430 per group (up to 2 people)."
+    "description": "A private 5-hour guided circuit of three castles in the Ptuj/Drava region — Ptuj, Borl, and Ormož — with regional wine tastings and traditional Haloze pastry included. From €400 per group (up to 2 people)."
   },
   "gyg_url": "https://www.getyourguide.com/ptuj-l190601/eastern-slovenia-private-castle-tour-with-wine-tastings-t1427550/?partner_id=XDLEZT9&utm_medium=online_publisher",
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

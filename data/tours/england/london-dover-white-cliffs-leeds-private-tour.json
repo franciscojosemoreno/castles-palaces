@@ -12,7 +12,7 @@
   "duration_label": "Full day",
   "gyg_tour_id": "725290",
   "gyg_url": "https://www.getyourguide.com/london-l55/london-dover-castle-white-cliffs-leeds-castle-private-tour-t725290/",
-  "price_from": 1339,
+  "price_from": 1163.7,
   "currency": "USD",
   "rating": null,
   "review_count": 1,
@@ -101,5 +101,6 @@
     "title": "Dover Castle, White Cliffs & Leeds Castle: Private Day Tour from London",
     "description": "Private full-day tour from London to Dover Castle (WWII tunnels), the White Cliffs of Dover, and Leeds Castle. All entry tickets included. $1,339 per private group of up to 7. Live guide."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

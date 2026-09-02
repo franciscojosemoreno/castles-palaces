@@ -12,9 +12,9 @@
   "duration_label": "5 hours",
   "gyg_tour_id": "1216902",
   "gyg_url": "https://www.getyourguide.com/copenhagen-l12/copenhagen-north-zealand-castles-private-tour-t1216902/",
-  "price_from": 1022,
+  "price_from": 895,
   "currency": "USD",
-  "rating": 5.0,
+  "rating": 5,
   "review_count": 3,
   "languages": [
     "English"
@@ -102,5 +102,6 @@
     "title": "Kronborg & Frederiksborg: Private Chauffeur Tour of North Zealand from Copenhagen",
     "description": "Private Mercedes chauffeur tour of North Zealand — Strandvejen coastal drive, Kronborg Castle (Elsinore), Fredensborg Palace, and Frederiksborg Palace. $1,022 per group of up to 6 people. Live guide."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

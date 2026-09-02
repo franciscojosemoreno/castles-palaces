@@ -12,7 +12,7 @@
   "duration_label": "10 hours",
   "gyg_tour_id": "125441",
   "gyg_url": "https://www.getyourguide.com/london-l57/buckingham-palace-windsor-castle-full-day-tour-t125441/",
-  "price_from": 167,
+  "price_from": 145.46,
   "currency": "USD",
   "rating": 4.1,
   "review_count": 166,
@@ -108,5 +108,6 @@
   "meta": {
     "title": "Buckingham Palace & Windsor Castle: Full-Day Royal Tour from London",
     "description": "Full-day London royal tour combining Buckingham Palace State Rooms (summer season only) and Windsor Castle with skip-the-line access — the two defining royal residences in a single day. From $167 per person."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

@@ -5,16 +5,20 @@
   "tagline": "Slovakia's most fairy-tale castle, its finest Renaissance château, and the largest castle ruins in Central Europe — with Little Carpathian wine tasting between stops",
   "departure_country": "slovakia",
   "departure_city": "Bratislava",
-  "visited_countries": ["slovakia"],
+  "visited_countries": [
+    "slovakia"
+  ],
   "duration_days": 1,
   "duration_label": "12 hours (small group, max 7)",
   "gyg_tour_id": "1408250",
   "gyg_url": "https://www.getyourguide.com/bratislava-l765/slovakia-full-day-castle-and-wine-tour-with-lunch-t1408250/",
-  "price_from": 363,
+  "price_from": 450,
   "currency": "USD",
   "rating": null,
   "review_count": 0,
-  "languages": ["English"],
+  "languages": [
+    "English"
+  ],
   "max_group_size": 7,
   "overview": "Slovakia has the highest density of castles per square kilometre of any country in Europe — over 180 fortifications spread across a territory smaller than Portugal. This full-day tour from Bratislava samples three that represent entirely different chapters of Central European history. Bojnice Castle, rising on a volcanic travertine hill above its spa town, is Slovakia's most visited castle — a neo-Gothic romantic fantasy that conceals a genuine 12th-century fortification under the late 19th-century reconstruction commissioned by Count Ján Pálffy. Červený Kameň, built in the 16th century as a Habsburg treasury and arsenal at the edge of the Little Carpathian wine country, is the finest Renaissance castle in Slovakia — its capacious cellars now house one of the largest intact early modern arsenals in Central Europe. And Spiš Castle, on its extraordinary isolated dolomite crag above the Spiš plain, is the largest castle complex in Central Europe by area — a UNESCO-listed ruin of extraordinary scale, covering over four hectares of hilltop, with a history that spans from the 12th to the 18th century. Between stops, the tour includes a wine tasting in the Little Carpathian region — one of Slovakia's oldest and most distinctive wine appellations, producing mineral whites from Welschriesling, Müller-Thurgau, and Grüner Veltliner grapes. The tour is offered in small groups (maximum 7) priced per person at $363, and is newly listed with no reviews at time of writing.",
   "highlights": [
@@ -102,5 +106,6 @@
   "meta": {
     "title": "Bojnice, Červený Kameň & Spiš Castle: Slovakia Castle & Wine Tour from Bratislava",
     "description": "Full-day tour from Bratislava visiting Červený Kameň, Bojnice Castle, and UNESCO Spiš Castle — Slovakia's greatest medieval fortifications — with Little Carpathian wine tasting and lunch included."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

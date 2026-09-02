@@ -12,7 +12,7 @@
   "duration_label": "Valid 4 consecutive days",
   "gyg_tour_id": "65698",
   "gyg_url": "https://www.getyourguide.com/turin-l390/royal-card-t65698/",
-  "price_from": 34,
+  "price_from": 30,
   "currency": "USD",
   "rating": 4.5,
   "review_count": 22,
@@ -111,5 +111,6 @@
   "meta": {
     "title": "Turin Royal Pass: 4-Day Self-Guided Access to All Savoy Royal Residences",
     "description": "The Turin Royal Pass gives 4-day free entry to all Savoy royal residences: Palazzo Reale, Palazzo Madama, Moncalieri, Racconigi, and Govone. From $34 (1 adult + 1 child). Self-guided format."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

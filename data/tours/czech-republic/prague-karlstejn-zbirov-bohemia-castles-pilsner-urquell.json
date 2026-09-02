@@ -12,7 +12,7 @@
   "duration_label": "Full day (private door-to-door)",
   "gyg_tour_id": "1168897",
   "gyg_url": "https://www.getyourguide.com/prague-l10/prague-karlstejn-zbiroh-pilsen-brewery-tour-t1168897/",
-  "price_from": 1275,
+  "price_from": 1105,
   "currency": "USD",
   "rating": null,
   "review_count": 0,
@@ -107,5 +107,6 @@
     "title": "Karlštejn, Žebrák & Zbiroh: Bohemia Castles Day Trip from Prague with Pilsner Urquell",
     "description": "Private day trip from Prague visiting Karlštejn Castle, Koněprusy Caves, the Gothic ruins of Žebrák and Točník, Zbiroh Château, and the Pilsner Urquell brewery in Plzeň."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

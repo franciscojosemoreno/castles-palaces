@@ -12,7 +12,7 @@
   "duration_label": "Full day (9 hours)",
   "gyg_tour_id": "1137827",
   "gyg_url": "https://www.getyourguide.com/cardiff-l449/day-tour-of-south-wales-t1137827/",
-  "price_from": 1079,
+  "price_from": 936.78,
   "currency": "USD",
   "rating": null,
   "review_count": 0,
@@ -105,5 +105,6 @@
     "title": "Cardiff: Cardiff Castle, Castell Coch & Caerphilly Private Day Tour",
     "description": "Private day tour of Cardiff's Bute Gothic legacy — Cardiff Castle's Victorian apartments, Castell Coch's fairy-tale towers above the Taff gorge, and Caerphilly (the largest castle in Wales). From $1,079 per group."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

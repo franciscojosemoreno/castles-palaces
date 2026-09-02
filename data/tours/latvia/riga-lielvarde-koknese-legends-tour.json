@@ -12,9 +12,9 @@
   "duration_label": "5 hours",
   "gyg_tour_id": "1247555",
   "gyg_url": "https://www.getyourguide.com/ikskile-l252535/from-riga-lielvarde-koknese-medieval-legends-tales-tour-t1247555/",
-  "price_from": 113,
+  "price_from": 99,
   "currency": "USD",
-  "rating": 5.0,
+  "rating": 5,
   "review_count": 2,
   "languages": [
     "English"
@@ -93,5 +93,6 @@
   "meta": {
     "title": "Lielvārde & Koknese: Medieval Castle Ruins & Legends from Riga",
     "description": "5-hour day trip from Riga along the Daugava to Lielvārde Castle ruins (the Lāčplēsis Bear Slayer legend) and Koknese Castle (one of Latvia's largest medieval fortresses). Live guide, entry included. From $113."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

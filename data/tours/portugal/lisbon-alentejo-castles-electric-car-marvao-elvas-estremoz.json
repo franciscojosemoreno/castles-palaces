@@ -12,7 +12,7 @@
   "duration_label": "10 hours (private group)",
   "gyg_tour_id": "1035072",
   "gyg_url": "https://www.getyourguide.com/elvas-l127553/from-lisbon-castles-of-alentejo-ecologic-tour-t1035072/",
-  "price_from": 1269,
+  "price_from": 1100,
   "currency": "USD",
   "rating": null,
   "review_count": 0,
@@ -106,5 +106,6 @@
     "title": "Marvão, Elvas & Alentejo Castles: Electric Car Day Trip from Lisbon",
     "description": "Private 10-hour day trip from Lisbon to five Alentejo fortifications — Marvão, Castelo de Vide, Portalegre, UNESCO Elvas, and Estremoz — in an electric Mercedes EQS."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }
