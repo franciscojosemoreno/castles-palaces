@@ -78,7 +78,7 @@
     "coastal",
     "island-fortress"
   ],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "drottningholm-palace"
@@ -87,21 +87,6 @@
   "gyg_search_query": "Vaxholm fortress Stockholm archipelago tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "635141",
-      "title": "Vaxholm & Stockholm Archipelago: Guided Small-Group Day Trip",
-      "type": "day_trip",
-      "duration": "1 hour",
-      "price_from": 149,
-      "rating": 4.5,
-      "reviews": 43,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/stockholm-l50/vaxholm-stockholm-archipelago-guided-excursion-day-trip-t635141/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "vaxholm-fortress"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }
