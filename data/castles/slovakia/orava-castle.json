@@ -81,7 +81,7 @@
     "film-location",
     "central-europe"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "bojnice-castle",
@@ -91,6 +91,21 @@
   "gyg_search_query": "Orava Castle Slovakia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "925027",
+      "title": "From Bratislava: Dracula Nosferatu - Orava Castle Day Tour",
+      "type": "day_trip",
+      "duration": "14.5 hours",
+      "price_from": 196,
+      "rating": 4.9,
+      "reviews": 8,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/bratislava-l765/from-bratislava-dracula-nosferatu-orava-castle-day-tour-t925027/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "orava-castle"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }

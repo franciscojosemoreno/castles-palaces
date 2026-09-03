@@ -80,7 +80,7 @@
     "giulio-romano",
     "unesco"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "ducal-palace-of-mantua"
@@ -89,6 +89,21 @@
   "gyg_search_query": "Palazzo Te Mantua guided tour giants psyche",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1293367",
+      "title": "Guided Tour of Palazzo Te in Mantua: the Gonzaga Family's Treasure Chest",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 38,
+      "rating": 5.0,
+      "reviews": 1,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/mantua-l32208/guided-tour-of-palazzo-te-in-mantua-the-gonzaga-family-s-treasure-chest-t1293367/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "palazzo-te"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }

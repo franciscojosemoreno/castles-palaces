@@ -80,7 +80,7 @@
     "savoy",
     "juvara"
   ],
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "turin-royal-palace",
@@ -95,14 +95,14 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1314579",
-      "title": "Turin: Palazzo Madama Museum Guided Tour",
+      "title": "Turin: Guided Tour of the Palazzo Madama + Historic Café",
       "type": "guided_tour",
       "duration": "2 hours",
       "price_from": 69,
-      "rating": 4.2,
-      "reviews": 5,
+      "rating": null,
+      "reviews": 0,
       "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/turin-l3/palazzo-madama-museum-guided-tour-t1314579/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "booking_url_override": "https://www.getyourguide.com/turin-l390/turin-guided-tour-of-the-palazzo-madama-historic-cafe-t1314579/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "palazzo-madama"
       ]

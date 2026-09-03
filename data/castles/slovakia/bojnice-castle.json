@@ -74,7 +74,7 @@
     "slovakia",
     "fairytale"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "trencin-castle",
@@ -84,6 +84,21 @@
   "gyg_search_query": "Bojnice Castle tour Slovakia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1396872",
+      "title": "Bratislava: Bojnice Castle, Čičmany & Banská Štiavnica Tour",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 128,
+      "rating": 5.0,
+      "reviews": 29,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/bojnice-l164858/bratislava-bojnice-castle-banska-stiavnica-guided-tour-t1396872/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "bojnice-castle"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }

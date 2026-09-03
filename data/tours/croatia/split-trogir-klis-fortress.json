@@ -1,86 +1,81 @@
 {
   "id": "split-trogir-klis-fortress",
   "slug": "split-trogir-klis-fortress",
-  "name": "From Split: Diocletian's Palace, Klis Fortress & Trogir",
-  "tagline": "A Roman emperor's retirement fortress, the Game of Thrones slave city, and a UNESCO medieval island — three of the Adriatic's greatest fortified sites in one day",
+  "name": "Klis Fortress: Game of Thrones & Olive Museum Experience",
+  "tagline": "The ridge-top fortress that guarded Dalmatia for two millennia and played Meereen in Game of Thrones, paired with an award-winning Olive Museum and heritage estate",
   "departure_country": "croatia",
   "departure_city": "Split",
   "visited_countries": [
     "croatia"
   ],
   "duration_days": 1,
-  "duration_label": "Full day (8 hours)",
-  "gyg_tour_id": "744032",
-  "gyg_url": "https://www.getyourguide.com/split-l268/split-trogir-and-klis-tour-t744032/",
-  "price_from": 25,
+  "duration_label": "3 hours",
+  "gyg_tour_id": "402230",
+  "gyg_url": "https://www.getyourguide.com/split-l268/klis-fortress-and-olive-museum-entry-tickets-t402230/",
+  "price_from": 12,
   "currency": "EUR",
-  "rating": 4.7,
-  "review_count": 480,
+  "rating": 4.6,
+  "review_count": 333,
   "languages": [
     "English"
   ],
-  "max_group_size": 20,
-  "overview": "The Dalmatian coast contains three of the most remarkable fortified sites in the Mediterranean within 30 kilometres of each other. Diocletian's Palace in Split is the most complete Roman imperial fortress-palace in existence — a retirement residence and military base where the Emperor who re-organised the Roman Empire spent his final years, and which has been continuously inhabited for 1,700 years. Above Split on its limestone ridge, Klis Fortress guarded the approach to Dalmatia for two millennia, resisting the Ottomans for decades before falling in 1537 — and was filmed as the slave city of Meereen in Game of Thrones. And Trogir, the medieval walled island 30 minutes west of Split, preserves a complete Venetian-era urban fabric on a tiny Adriatic island connected to the mainland by a single bridge — an almost intact 13th-century city, UNESCO World Heritage.",
+  "max_group_size": null,
+  "overview": "Klis Fortress stands on a limestone ridge 360m above sea level at the narrow pass between the Mosor mountains — the strategic choke-point controlling all land access to Split and the Dalmatian coast. Founded by the Illyrian Dalmatae tribe in the 2nd century BC, it became the fortified capital of the medieval Croatian Kingdom, housing the royal court in the 11th century, and was the last Dalmatian fortress to fall to the Ottoman Empire in 1537 after 24 years of resistance led by the Croatian captain Petar Kružić. Game of Thrones fans know it as the exterior of Meereen, filmed here in Season 5 — the fortress's dramatic silhouette against the Adriatic and the Dinara mountains is instantly recognisable from the show.\n\nThis entry ticket, run by local operator Stella Mediterranea, combines fortress access with Stella Croatica — a heritage estate and Mediterranean garden complex housing the award-winning Olive Museum (a 2023 European Museum of the Year Award finalist). A guided visit through the Olive Museum covers Dalmatia's olive-growing heritage, comparing traditional and modern oil-production methods, followed by free time in the gardens and the option to sample local delicacies and wine at the Gastronomic Centre. It's a well-established product — 4.6 stars across 333 reviews — that pairs one of Dalmatia's best viewpoints with a genuinely distinctive cultural add-on, at a fraction of the cost of a full multi-site day trip.\n\nNote: this ticket does not include Split's Diocletian's Palace or the medieval town of Trogir. Split's old town is walkable independently at no cost (the palace itself has no admission fee — only specific interior sites like the cellars charge separately), and Trogir is reachable by public bus or a separate excursion for travellers who want to combine all three in one day.",
   "highlights": [
-    "Diocletian's Palace — the Roman emperor's retirement fortress-palace (298 AD), now the living heart of Split's UNESCO old town",
     "Klis Fortress — the medieval ridge-top castle above Split, filming location for Game of Thrones (Meereen, Season 5)",
-    "Klis as the last Croatian fortress against the Ottomans — it held for 24 years before falling in 1537",
-    "Trogir — a complete medieval walled island city, unchanged since Venetian rule, UNESCO World Heritage",
-    "Master Radovan's Romanesque portal (1240) on Trogir Cathedral — the greatest work of Romanesque sculpture in Croatia",
-    "Kamerlengo Fortress — the 15th-century Venetian coastal tower that guards Trogir's western approach"
+    "Klis as the last Croatian fortress against the Ottomans — it held out for 24 years before falling in 1537",
+    "Panoramic views over Split, the Adriatic Sea, and nearby islands from the fortress ramparts",
+    "Stella Croatica Heritage Estate and Mediterranean Gardens, with a guided walk through the grounds",
+    "The award-winning Olive Museum — a 2023 European Museum of the Year Award finalist — covering Dalmatia's olive-growing history and traditional oil production",
+    "Optional tasting of Dalmatian delicacies and local wine at the on-site Gastronomic Centre"
   ],
   "itinerary": [
     {
       "order": 1,
-      "castle_name": "Diocletian's Palace, Split",
-      "duration": "1.5 hours",
-      "description": "The tour begins inside Diocletian's Palace — a uniquely hybrid structure that was simultaneously a Roman imperial residence and a military fortress, built between 298 and 305 AD for the Emperor Diocletian's retirement. The palace covers 30,000 square metres and houses an entire medieval and modern city within its walls: the emperor's mausoleum became the Cathedral of Saint Domnius; the Temple of Jupiter became a baptistery; the imperial apartments became medieval residences. Walk the Peristyle (the ceremonial courtyard where Diocletian received his subjects), the underground cellars (which preserve the original floor plan of the palace above), and the Golden Gate — the main northern entrance through the fortress walls."
+      "castle_name": "Stella Croatica Heritage Estate",
+      "duration": "1 hour",
+      "description": "The visit begins at Stella Croatica, a heritage estate and Mediterranean garden complex housing the Olive Museum. A guided tour covers Dalmatia's olive-growing heritage, comparing traditional and mechanised olive-oil production methods, a stroll through the fragrant gardens, and a look at how local herbs are turned into essential oils and natural cosmetics. Guided museum tours run 10:00 AM–3:00 PM, so this stop can be scheduled before or after the fortress visit. Free time is included for shopping at the Concept Store and, subject to availability, a traditional Dalmatian meal with local wine at the Gastronomic Centre."
     },
     {
       "order": 2,
       "castle_name": "Klis Fortress",
-      "duration": "2 hours",
-      "description": "Klis Fortress stands on a limestone ridge 360m above sea level at the narrow pass between the Mosor mountains — the strategic choke-point controlling all land access to Split and the Dalmatian coast. Founded by the Illyrian Dalmatae tribe in the 2nd century BC, it became the fortified capital of the Croatian Kingdom in the early medieval period, housing the Croatian royal court in the 11th century. In 1537 it was the last Dalmatian fortress to fall to the Ottoman Empire, ending 24 years of determined resistance by the Croatian captain Petar Kružić. Game of Thrones filmed the slave city of Meereen here in Season 5 — the fortress's dramatic silhouette against the Adriatic and the Dinara mountains is instantly recognisable from the show. The views from the battlements are among the finest in Dalmatia."
-    },
-    {
-      "order": 3,
-      "castle_name": "Trogir Medieval City",
-      "duration": "2 hours",
-      "description": "Trogir is one of the best-preserved medieval cities in the Mediterranean: a tiny island 300m long connected to the mainland and to Čiovo island by two drawbridges, with a complete urban fabric of Romanesque, Gothic, Renaissance and Baroque buildings in continuous use since the 3rd century BC. The Cathedral of Saint Lawrence contains Master Radovan's Romanesque portal (1240) — considered the greatest work of medieval sculpture in Croatia, with carved scenes of the life of Christ surrounded by hunting scenes, calendar images, and mythological figures. Kamerlengo Fortress, the Venetian coastal tower on the island's western tip, dates from the 1420s and preserved Trogir's independence from the Ottomans when the mainland fell."
+      "duration": "1 hour",
+      "description": "Klis Fortress guards the narrow pass between the Mosor mountains, the strategic gateway to Split and the Dalmatian coast for over two thousand years. Explore the fortress's ancient walls and hidden corners, take in panoramic views over Split, the Adriatic, and nearby islands, and see the location used for Meereen's exteriors in Game of Thrones Season 5 — the dragon Drogon's arrival scene and the slave-city sequences were filmed here on the fortress walls and the approach road."
     }
   ],
   "included": [
-    "Return transport from Split",
-    "Professional English-speaking guide",
-    "Klis Fortress entry",
-    "Trogir guided walk",
-    "Small group"
+    "Admission ticket to Klis Fortress",
+    "Access to the Game of Thrones (Meereen) filming location",
+    "Admission ticket to the Olive Museum",
+    "Admission to Stella Croatica Heritage Estate and Mediterranean Gardens",
+    "Guided tour of Stella Croatica and the Olive Museum"
   ],
   "excluded": [
-    "Diocletian's Palace cellars entry (optional, ~€10)",
-    "Trogir Cathedral entry (optional, ~€3)",
-    "Kamerlengo Fortress entry (optional, ~€3)",
-    "Lunch (free time in Trogir or Split)"
+    "Food and drinks at the Gastronomic Centre (optional, subject to availability)",
+    "Transportation between Stella Croatica and Klis Fortress",
+    "Diocletian's Palace interior sites in Split (the old town itself is free to walk; specific sites like the cellars charge separately, ~€10)",
+    "Trogir (not part of this ticket — reachable separately by public bus or a dedicated excursion)"
   ],
-  "meeting_point": "Split — Diocletian's Palace area, exact location confirmed at booking",
+  "meeting_point": "Stella Croatica, Klis — exact directions provided at booking; independent arrival, no transport included",
   "tips": [
-    "Klis Fortress is windy at all times of year — bring a layer even in summer",
-    "The Game of Thrones scenes filmed at Klis are from Season 5, episodes 2-10 — Klis was Meereen's exterior, and the narrow pass below the fortress was the slave market approach",
-    "Trogir's Kamerlengo Fortress hosts open-air cinema and concerts in summer — check the local programme if your visit falls in July-August",
-    "The best view of Trogir's island form is from the bridge connecting it to the mainland — arrive from this direction for the full medieval silhouette effect"
+    "This is a well-established, highly rated ticket (4.6★, 333 reviews) — reliable pick for a low-cost Klis Fortress + Olive Museum visit.",
+    "Klis Fortress is windy at all times of year — bring a layer even in summer.",
+    "The Game of Thrones scenes filmed at Klis are from Season 5, episodes 2–10 — Klis was Meereen's exterior, and the narrow pass below the fortress was the slave-market approach.",
+    "This ticket does not include transport — Klis is about 15 minutes by car or taxi from central Split, or reachable by local bus.",
+    "For travellers who also want Trogir's medieval old town and Diocletian's Palace interior sites in one day, plan those separately — Split's old town is free to walk, and Trogir is a short bus ride or dedicated day-trip away."
   ],
   "faqs": [
     {
-      "question": "Did Diocletian actually live in Split's palace?",
-      "answer": "Yes — Diocletian retired to the palace in 305 AD after voluntarily abdicating the throne (the only Roman emperor to willingly do so) and lived there until his death around 311 AD. He is said to have spent his retirement growing cabbages in the palace gardens and refusing invitations to return to power. After his death the palace continued to be used by the imperial court until the late Roman period, when it gradually became a city in its own right."
+      "question": "Does this ticket include Split's Diocletian's Palace or Trogir?",
+      "answer": "No — this ticket covers Klis Fortress, the Olive Museum, and Stella Croatica Heritage Estate only. Diocletian's Palace old town in Split has no general admission fee and is freely walkable (only specific interior sites, like the cellars, charge separately); Trogir is a separate medieval walled town reachable by public bus or a dedicated excursion, not included here."
     },
     {
       "question": "Which Game of Thrones scenes were filmed at Klis?",
       "answer": "Klis Fortress served as the exterior of Meereen — the slave city in Essos — in Game of Thrones Season 5 (2015). The dragon Drogon's arrival scene, Daenerys watching the crucified masters, and several other exterior sequences were filmed on the fortress walls and the approach road. The interior throne room scenes were filmed in a studio."
     },
     {
-      "question": "Why is Trogir a UNESCO World Heritage Site?",
-      "answer": "Trogir was inscribed in 1997 for its exceptionally complete medieval urban fabric — streets, squares, palaces, fortifications, and a cathedral that together form an almost unaltered example of a Romanesque-Gothic city. Unlike most historic cities, Trogir was never significantly modified in the modern period, preserving 13th-17th century streetscapes intact on its 300m-long island."
+      "question": "What is the Olive Museum at Stella Croatica?",
+      "answer": "The Olive Museum is part of the Stella Croatica heritage estate near Klis, and was a finalist for the European Museum of the Year Award in 2023. Guided tours cover Dalmatia's olive-growing heritage, compare traditional and modern olive-oil production methods, and include time in the estate's Mediterranean gardens, with the option to sample local delicacies and wine."
     }
   ],
   "featured": false,
@@ -92,7 +87,8 @@
     "height": 1280
   },
   "meta": {
-    "title": "From Split: Diocletian's Palace, Klis Fortress & Trogir Day Trip",
-    "description": "Day trip from Split to three UNESCO-listed sites — Diocletian's Roman palace, Klis Fortress (Game of Thrones Meereen), and the medieval walled island of Trogir."
-  }
+    "title": "Klis Fortress & Olive Museum Entry Tickets from Split",
+    "description": "Klis Fortress (Game of Thrones' Meereen) and the award-winning Olive Museum at Stella Croatica. Highly rated, 4.6★. From €12."
+  },
+  "last_updated": "2026-09-03"
 }

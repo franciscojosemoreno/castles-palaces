@@ -78,7 +78,7 @@
     "reconquista",
     "medieval"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "obidos-castle",
@@ -88,6 +88,21 @@
   "gyg_search_query": "Silves castle Algarve tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "434136",
+      "title": "Private Tour to Silves Castle with Algarvian Wine Tasting",
+      "type": "guided_tour",
+      "duration": "6-7 hours",
+      "price_from": 75,
+      "rating": 5.0,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/silves-l91370/private-tour-to-silves-castle-whith-algarvian-wine-tasting-t434136/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "silves-castle"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }

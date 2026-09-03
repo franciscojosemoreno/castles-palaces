@@ -84,7 +84,7 @@
     "maestrazgo",
     "aragon"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "peniscola-castle"
@@ -93,6 +93,21 @@
   "gyg_search_query": "Morella Castle audio guide Comunitat Valenciana",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "471353",
+      "title": "From Valencia: Morella & Peñíscola Day Trip Transfer + Lunch",
+      "type": "day_trip",
+      "duration": "11 hours",
+      "price_from": 130,
+      "rating": 4.6,
+      "reviews": 47,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/valencia-l49/excursion-to-morella-and-peniscola-with-tickets-t471353/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "morella-castle"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }

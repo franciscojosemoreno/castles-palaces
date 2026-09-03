@@ -80,7 +80,7 @@
     "empire-style",
     "christmas-market"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "racconigi-castle",
@@ -93,6 +93,20 @@
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
+    {
+      "tour_id": "1381951",
+      "title": "Royal Tales: Royal Gardens & Villages, Govone to Pollenzo",
+      "type": "guided_tour",
+      "duration": "8 hours",
+      "price_from": 59,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/govone-l242320/royal-tales-royal-gardens-villages-govone-to-pollenzo-t1381951/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "govone-castle"
+      ]
+    },
     {
       "tour_id": "65698",
       "title": "Turin: Royal Pass — 4-Day Entry to Savoy Royal Residences",

@@ -78,7 +78,7 @@
     "erzen-valley",
     "via-egnatia"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "toptani-castle",
@@ -89,6 +89,21 @@
   "gyg_search_query": "Petrela Castle Tirana Albania medieval Skanderbeg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "845455",
+      "title": "From Tirana: Petrela Castle and Biggest ZipLine in Balkan",
+      "type": "day_trip",
+      "duration": "5 hours",
+      "price_from": 77,
+      "rating": 5.0,
+      "reviews": 5,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/tirana-l1101/from-tirana-petrela-castle-and-biggest-zipline-in-balkan-t845455/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "petrele-castle"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }

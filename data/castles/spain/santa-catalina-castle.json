@@ -82,7 +82,7 @@
     "olive-oil",
     "off-beaten"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "palacio-vela-de-los-cobos"
@@ -91,6 +91,21 @@
   "gyg_search_query": "Jaén castle Castillo Santa Catalina tours",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1377866",
+      "title": "Historical Stories and Legends at Sunset at Santa Catalina Castle",
+      "type": "guided_tour",
+      "duration": "45 minutes",
+      "price_from": 15,
+      "rating": 3.8,
+      "reviews": 4,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/cadiz-l428/historical-stories-and-legends-at-sunset-at-santa-catalina-castle-t1377866/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "santa-catalina-castle"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }

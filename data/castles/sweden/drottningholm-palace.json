@@ -79,7 +79,7 @@
     "sweden",
     "lake"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "vaxholm-fortress",
@@ -104,6 +104,20 @@
       "covers_castles": [
         "drottningholm-palace",
         "skokloster-castle"
+      ]
+    },
+    {
+      "tour_id": "950218",
+      "title": "Stockholm: Boat Trip to Drottningholm Castle",
+      "type": "day_trip",
+      "duration": "4 hours",
+      "price_from": 288,
+      "rating": 5.0,
+      "reviews": 1,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/stockholm-l50/stockholm-boat-trip-to-drottningholm-castle-t950218/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "drottningholm-palace"
       ]
     }
   ],

@@ -74,7 +74,7 @@
     "shakespeare",
     "instagram-worthy"
   ],
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
     "rosenborg-castle"
@@ -85,6 +85,21 @@
   "gyg_num_results": 4,
   "gyg_featured_tours": [
     {
+      "tour_id": "685174",
+      "title": "Easy Pace Tour of Kronborg Castle and Frederiksborg Palace",
+      "type": "day_trip",
+      "duration": "8.5 hours",
+      "price_from": 134,
+      "rating": 4.9,
+      "reviews": 24,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/helsingor-l104451/easy-pace-tour-of-kronborg-castle-and-frederiksborg-palace-t685174/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "kronborg-castle",
+        "frederiksborg-palace"
+      ]
+    },
+    {
       "tour_id": "1216902",
       "title": "Kronborg & Frederiksborg: Private Chauffeur Tour of North Zealand from Copenhagen",
       "type": "day_trip",
@@ -92,7 +107,7 @@
       "price_from": 895,
       "rating": 5.0,
       "reviews": 3,
-      "is_top_pick": true,
+      "is_top_pick": false,
       "covers_castles": [
         "kronborg-castle",
         "frederiksborg-palace"
