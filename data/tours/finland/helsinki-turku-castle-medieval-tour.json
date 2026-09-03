@@ -12,7 +12,7 @@
   "duration_label": "Full day (9 hours)",
   "gyg_tour_id": "1099548",
   "gyg_url": "https://www.getyourguide.com/turku-l104793/museums-of-turku-from-castles-to-contemporary-t1099548/",
-  "price_from": 60,
+  "price_from": 250,
   "currency": "EUR",
   "rating": 4.6,
   "review_count": 185,
@@ -92,5 +92,6 @@
   "meta": {
     "title": "From Helsinki: Turku Castle & Cathedral – Finland's Medieval Capital Day Tour",
     "description": "Full-day tour from Helsinki to Turku Castle (Finland's largest medieval fortress, 1280) and Turku Cathedral — the two monuments that defined Finnish medieval civilisation for 500 years."
-  }
+  },
+  "last_updated": "2026-09-02"
 }
