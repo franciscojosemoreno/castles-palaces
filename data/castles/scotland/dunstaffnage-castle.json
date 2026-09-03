@@ -79,7 +79,7 @@
     "jacobite",
     "loch-etive"
   ],
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "kilchurn-castle",
@@ -89,22 +89,6 @@
   "gyg_search_query": "Dunstaffnage Castle Oban Argyll Scotland day trip",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "285620",
-      "title": "From Glasgow: Oban, Dunstaffnage & Inveraray Castle Day Tour",
-      "type": "day_trip",
-      "duration": "12 hours",
-      "price_from": 85,
-      "rating": 4.6,
-      "reviews": 340,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/oban-l1011/from-glasgow-oban-dunstaffnage-inveraray-castle-day-tour-t285620/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "dunstaffnage-castle",
-        "inveraray-castle"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

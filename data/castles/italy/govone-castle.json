@@ -80,7 +80,7 @@
     "empire-style",
     "christmas-market"
   ],
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "racconigi-castle",
@@ -93,21 +93,6 @@
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
-    {
-      "tour_id": "731245",
-      "title": "From Turin: Piedmont UNESCO Royal Castles — Racconigi & Govone Day Tour",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 65,
-      "rating": 4.8,
-      "reviews": 95,
-      "is_top_pick": true,
-      "booking_url_override": "https://www.getyourguide.com/turin-l128/from-turin-piedmont-unesco-royal-castles-racconigi-govone-t731245/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "racconigi-castle",
-        "govone-castle"
-      ]
-    },
     {
       "tour_id": "65698",
       "title": "Turin: Royal Pass — 4-Day Entry to Savoy Royal Residences",

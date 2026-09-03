@@ -78,7 +78,7 @@
     "erzen-valley",
     "via-egnatia"
   ],
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "toptani-castle",
@@ -89,23 +89,6 @@
   "gyg_search_query": "Petrela Castle Tirana Albania medieval Skanderbeg tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1184560",
-      "title": "Tirana: Medieval Castles Day Tour — Toptani, Petrela & Preze",
-      "type": "day_trip",
-      "duration": "8 hours",
-      "price_from": 14,
-      "rating": 4.7,
-      "reviews": 42,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/tirana-l2154/tirana-medieval-castles-day-tour-toptani-petrela-preze-t1184560/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "toptani-castle",
-        "petrele-castle",
-        "preze-castle"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

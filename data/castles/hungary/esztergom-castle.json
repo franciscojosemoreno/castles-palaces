@@ -78,7 +78,7 @@
     "medieval",
     "royal-capital"
   ],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "visegrad-royal-palace",
@@ -89,31 +89,6 @@
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
   "gyg_featured_tours": [
-    {
-      "tour_id": "1133143",
-      "title": "Budapest: Esztergom Basilica and Castle Private Day Trip with Tickets",
-      "type": "day_trip",
-      "duration": "6 hours",
-      "price_from": 85,
-      "rating": 4.7,
-      "reviews": 195,
-      "covers_castles": [
-        "esztergom-castle"
-      ]
-    },
-    {
-      "tour_id": "817658",
-      "title": "From Budapest: Szentendre, Visegrád & Esztergom Private Tour",
-      "type": "day_trip",
-      "duration": "9 hours",
-      "price_from": 120,
-      "rating": 4.8,
-      "reviews": 310,
-      "covers_castles": [
-        "esztergom-castle"
-      ],
-      "is_top_pick": true
-    },
     {
       "tour_id": "759",
       "title": "From Budapest: Danube Bend Full-Day Tour",
