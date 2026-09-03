@@ -74,7 +74,7 @@
     "slovakia",
     "fairytale"
   ],
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "trencin-castle",
@@ -84,21 +84,6 @@
   "gyg_search_query": "Bojnice Castle tour Slovakia",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1433444",
-      "title": "Bojnice Castle and Cave Guided Tour with Entry Ticket",
-      "type": "guided_tour",
-      "duration": "75 minutes",
-      "price_from": 35,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/bojnice-l164858/bojnice-castle-and-cave-guided-tour-with-entry-ticket-t1433444/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "bojnice-castle"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

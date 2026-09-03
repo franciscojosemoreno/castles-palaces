@@ -75,7 +75,7 @@
     "lake",
     "boat-access"
   ],
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-09-02",
   "nearby_castles": [
     "strokestown-park-house"
   ],
@@ -83,18 +83,6 @@
   "gyg_search_query": "Lough Key boat tour Roscommon castle",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1374909",
-      "title": "Roscommon: Lough Key Boat Tour with Guide — Views of McDermott's Castle",
-      "type": "boat_tour",
-      "duration": "1.5 hours",
-      "price_from": 22,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/county-roscommon-l204580/roscommon-lough-key-boat-tour-with-guide-t1374909/?partner_id=XDLEZT9&utm_medium=online_publisher"
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

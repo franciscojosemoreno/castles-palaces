@@ -82,7 +82,7 @@
     "medieval",
     "romanesque"
   ],
-  "last_updated": "2026-08-12",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "siurana-castle",
@@ -92,22 +92,6 @@
   "gyg_search_query": "Miravet Castle entry audio guide VR experience",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1433704",
-      "title": "Miravet Castle Entry Ticket with Audio Guide & VR Experience",
-      "type": "entry_ticket",
-      "duration": "1.5–2 hours",
-      "price_from": 17,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/miravet-l208444/miravet-castle-entry-ticket-with-audio-guide-vr-experience-t1433704/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "miravet-castle"
-      ],
-      "note": "REGLA #3: 0 reviews (≤1) → rating: null, reviews: 0, is_top_pick: false. GYG listing carries noindex tag (new activity); treat as normal tour."
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

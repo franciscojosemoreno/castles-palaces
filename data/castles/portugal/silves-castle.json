@@ -78,7 +78,7 @@
     "reconquista",
     "medieval"
   ],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "obidos-castle",
@@ -88,21 +88,6 @@
   "gyg_search_query": "Silves castle Algarve tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "497277",
-      "title": "Guided visit to Silves the islamic capital of the Algarve",
-      "type": "day_trip",
-      "duration": "3 hours",
-      "price_from": 45,
-      "rating": 5.0,
-      "reviews": 9,
-      "is_top_pick": true,
-      "booking_url_override": "https://www.getyourguide.com/silves-l91370/guided-visit-to-silves-the-islamic-capital-of-the-algarve-t497277/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "silves-castle"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

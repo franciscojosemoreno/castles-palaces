@@ -84,7 +84,7 @@
     "maestrazgo",
     "aragon"
   ],
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "peniscola-castle"
@@ -93,21 +93,6 @@
   "gyg_search_query": "Morella Castle audio guide Comunitat Valenciana",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1437858",
-      "title": "Morella Castle: Audioguide Entry Ticket",
-      "type": "entry_ticket",
-      "duration": "1-day validity",
-      "price_from": 4,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/morella-l181753/morella-castle-audioguide-entry-ticket-t1437858/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "morella-castle"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

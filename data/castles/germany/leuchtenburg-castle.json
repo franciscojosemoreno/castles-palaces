@@ -83,7 +83,7 @@
     "heritage",
     "jena"
   ],
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "wurzburg-residence",
@@ -94,22 +94,6 @@
   "gyg_search_query": "Leuchtenburg Castle Thuringia Seitenroda entry ticket Saale valley",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "426709",
-      "title": "Seitenroda: Leuchtenburg Castle Entry Ticket",
-      "type": "entry_ticket",
-      "duration": "1 day",
-      "price_from": 17,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/thuringia-l239/seitenroda-leuchtenburg-castle-entry-ticket-t426709/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "leuchtenburg-castle"
-      ],
-      "note": "Dedicated official castle admission ticket. GYG Includes: 'Leuchtenburg castle entry ticket,' transportation. type: entry_ticket (single-site dedicated admission). GYG product page carries noindex meta — known informational quirk, not a content flag. 1 review → rating: null, reviews: 0, is_top_pick: false per REGLA #3."
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

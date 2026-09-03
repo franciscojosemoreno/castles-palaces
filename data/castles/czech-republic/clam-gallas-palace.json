@@ -82,7 +82,7 @@
     "archive",
     "frescoes"
   ],
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "prague-castle",
@@ -93,22 +93,6 @@
   "gyg_search_query": "Clam-Gallas Palace Prague Baroque entry ticket audio guide",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "526046",
-      "title": "Prague: Clam-Gallas Palace Entry Ticket with Audio Guide",
-      "type": "entry_ticket",
-      "duration": "1 day",
-      "price_from": 7.43,
-      "rating": 4.5,
-      "reviews": 148,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/prague-l10/prague-clam-gallas-palace-entry-ticket-t526046/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "clam-gallas-palace"
-      ],
-      "note": "Official Muzeum Prahy admission ticket. GYG Includes: 'Clam-Gallas Palace entry ticket,' audio guide kit rental, live guide option. type: entry_ticket (dedicated official admission). 4.5★ / 148 reviews → is_top_pick: false (< 4.8 per REGLA #3)."
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

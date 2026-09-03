@@ -81,7 +81,7 @@
     "nordic",
     "lake-saimaa"
   ],
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "turku-castle",
@@ -91,21 +91,6 @@
   "gyg_search_query": "Olavinlinna Savonlinna castle cruise",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "742554",
-      "title": "Cruise around Savonlinna archipelago",
-      "type": "boat_tour",
-      "duration": "1 hour",
-      "price_from": 28,
-      "rating": 4.4,
-      "reviews": 17,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/savonlinna-l204836/cruise-around-savonlinna-archipelago-t742554/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "olavinlinna-castle"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

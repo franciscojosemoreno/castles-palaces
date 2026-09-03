@@ -81,7 +81,7 @@
     "film-location",
     "central-europe"
   ],
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "bojnice-castle",
@@ -91,21 +91,6 @@
   "gyg_search_query": "Orava Castle Slovakia tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1301033",
-      "title": "from Zakopane: Orava Castle & a Boat Trip on Orava Lake Trip",
-      "type": "boat_tour",
-      "duration": "8 hours",
-      "price_from": 100,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/zakopane-l1554/from-zakopane-orava-castle-a-boat-trip-on-orava-lake-trip-t1301033/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "orava-castle"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

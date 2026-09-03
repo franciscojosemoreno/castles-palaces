@@ -78,7 +78,7 @@
     "hundred-years-war",
     "museum"
   ],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "chateau-de-beynac",
@@ -88,21 +88,6 @@
   "gyg_search_query": "Castelnaud castle Dordogne tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1079053",
-      "title": "Castelnaud Castle - Medieval Warfare Museum: Admission ticket",
-      "type": "entry_ticket",
-      "duration": "2 hours",
-      "price_from": 17,
-      "rating": 4.7,
-      "reviews": 4,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/castelnaud-la-chapelle-l139351/castelnaud-castle-medieval-warfare-museum-admission-ticket-t1079053/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "chateau-de-castelnaud"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

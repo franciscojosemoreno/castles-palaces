@@ -80,7 +80,7 @@
     "restoration",
     "book-in-advance"
   ],
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "castello-estense",
@@ -90,21 +90,6 @@
   "gyg_search_query": "Rocchetta Mattei Bologna guided tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1304853",
-      "title": "Bologna: Rocchetta Mattei Entry Ticket and Guided Tour",
-      "type": "entry_ticket",
-      "duration": "1 hour",
-      "price_from": 12,
-      "rating": 4.4,
-      "reviews": 21,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/bologna-l1431/rocchetta-mattei-entry-ticket-and-guided-tour-t1304853/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "rocchetta-mattei"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

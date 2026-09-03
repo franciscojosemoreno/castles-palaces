@@ -84,28 +84,13 @@
     "anne-of-brittany",
     "breton-independence"
   ],
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [],
   "gyg_location_id": "296",
   "gyg_search_query": "Château des ducs de Bretagne Nantes guided tour ramparts",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1311482",
-      "title": "Nantes: Professional Tour of the Château des ducs de Bretagne — Ramparts, Courtyard, Moat",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 20,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/nantes-l296/nantes-90-minute-tour-of-the-chateau-des-ducs-de-bretagne-with-a-professional-guide-t1311482/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "chateau-des-ducs-de-bretagne"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

@@ -82,7 +82,7 @@
     "off-beaten",
     "puisaye"
   ],
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "chateau-de-tavannes"
@@ -91,21 +91,6 @@
   "gyg_search_query": "Saint-Fargeau château Spectacle Bourgogne",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1373463",
-      "title": "Saint-Fargeau: Spectacle de Saint-Fargeau Historical Show Ticket",
-      "type": "guided_tour",
-      "duration": "Approx. 90 minutes (doors 7 PM, show from ~10 PM)",
-      "price_from": 22,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/saint-fargeau-l280612/saint-fargeau-spectacle-de-saint-fargeau-t1373463/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "chateau-de-saint-fargeau"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": false
 }

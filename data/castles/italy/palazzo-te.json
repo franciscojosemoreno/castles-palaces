@@ -80,7 +80,7 @@
     "giulio-romano",
     "unesco"
   ],
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "ducal-palace-of-mantua"
@@ -89,21 +89,6 @@
   "gyg_search_query": "Palazzo Te Mantua guided tour giants psyche",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1065978",
-      "title": "Mantua: Palazzo Te — The Secret Theater of Power, Small-Group Guided Tour (max 10, 1.5h, EN/IT/FR)",
-      "type": "guided_tour",
-      "duration": "1.5 hours",
-      "price_from": 18,
-      "rating": 4.8,
-      "reviews": 5,
-      "is_top_pick": true,
-      "booking_url_override": "https://www.getyourguide.com/mantua-l32208/mantova-palazzo-te-the-secret-theater-of-power-guided-tour-t1065978/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "palazzo-te"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }

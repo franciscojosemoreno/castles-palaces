@@ -84,7 +84,7 @@
     "medieval-village",
     "day-trip"
   ],
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "castel-santangelo"
@@ -93,22 +93,6 @@
   "gyg_search_query": "Julius II Castle Ostia Antica Rome entry ticket audio tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1416346",
-      "title": "Julius II Castle Entry Ticket & Self-Guided Audio Tour",
-      "type": "entry_ticket",
-      "duration": "2 hours",
-      "price_from": 26,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/rome-l33/julius-ii-castle-entry-ticket-self-guided-audio-tour-t1416346/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "julius-ii-castle"
-      ],
-      "note": "Self-guided audio tour entry ticket. Includes castle admission, audio guide for the interior, and curated walking route through the Borgo di Ostia Antica medieval village. New activity — 0 reviews, rating not displayed. GYG listing carries a noindex meta tag (informational; product is legitimate)."
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }
