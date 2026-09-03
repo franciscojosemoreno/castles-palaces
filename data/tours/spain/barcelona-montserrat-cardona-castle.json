@@ -12,7 +12,7 @@
   "duration_label": "Full day (10 hours)",
   "gyg_tour_id": "61452",
   "gyg_url": "https://www.getyourguide.com/barcelona-l45/from-barcelona-montserrat-cardona-salt-mountain-day-trip-t61452/",
-  "price_from": 75,
+  "price_from": 285,
   "currency": "EUR",
   "rating": 4.8,
   "review_count": 520,
@@ -101,5 +101,6 @@
   "meta": {
     "title": "From Barcelona: Montserrat & Cardona Castle Day Trip",
     "description": "Private day trip from Barcelona to Montserrat monastery (La Moreneta) and Cardona Castle (founded 886 AD), one of the oldest medieval fortresses in Catalonia. Small group max 8."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

@@ -12,7 +12,7 @@
   "duration_label": "Full day (8 hours)",
   "gyg_tour_id": "62486",
   "gyg_url": "https://www.getyourguide.com/vilnius-l245/vilnius-trakai-and-kernave-private-full-day-tour-t62486/",
-  "price_from": 150,
+  "price_from": 200,
   "currency": "EUR",
   "rating": 4.8,
   "review_count": 60,
@@ -96,5 +96,6 @@
     "title": "Vilnius: Trakai Island Castle, Kernave Hill Forts & Gediminas Tower Day Tour",
     "description": "Private full-day tour from Vilnius to Trakai Island Castle, Kernave UNESCO hill forts and Gediminas Tower — covering 10,000 years of Lithuanian history, from the last pagan capital to the greatest Baltic fortress."
   },
-  "pricing_unit": "group"
+  "pricing_unit": "group",
+  "last_updated": "2026-09-02"
 }

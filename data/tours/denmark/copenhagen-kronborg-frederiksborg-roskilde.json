@@ -12,7 +12,7 @@
   "duration_label": "Full day (8.5 hours)",
   "gyg_tour_id": "38371",
   "gyg_url": "https://www.getyourguide.com/copenhagen-l12/grand-day-trip-around-copenhagen-t38371/",
-  "price_from": 90,
+  "price_from": 185,
   "currency": "EUR",
   "rating": 4.9,
   "review_count": 1900,
@@ -93,5 +93,6 @@
   "meta": {
     "title": "From Copenhagen: Kronborg, Frederiksborg & Roskilde Day Trip",
     "description": "Full-day tour from Copenhagen to three Danish royal sites — Kronborg (Shakespeare's Elsinore), Frederiksborg Renaissance castle, and Roskilde Cathedral with 39 royal burials and Viking ships."
-  }
+  },
+  "last_updated": "2026-09-02"
 }

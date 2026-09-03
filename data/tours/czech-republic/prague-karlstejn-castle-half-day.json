@@ -11,7 +11,7 @@
   "duration_days": 1,
   "duration_label": "Half Day · 5 hours",
   "gyg_tour_id": "851",
-  "price_from": 35,
+  "price_from": 65,
   "currency": "EUR",
   "rating": 4.5,
   "review_count": 3700,
@@ -82,7 +82,8 @@
   },
   "meta": {
     "title": "Karlštejn Castle Day Trip from Prague",
-    "description": "Visit Karlštejn Castle, the most visited Czech castle outside Prague. Skip-the-line guided tour. From €35 per person, round-trip from Prague."
+    "description": "Visit Karlštejn Castle, the most visited Czech castle outside Prague. Skip-the-line guided tour. From €65 per person, round-trip from Prague."
   },
-  "gyg_url": "https://www.getyourguide.com/prague-l10/karlstejn-castle-tour-from-prague-t851/"
+  "gyg_url": "https://www.getyourguide.com/prague-l10/karlstejn-castle-tour-from-prague-t851/",
+  "last_updated": "2026-09-02"
 }

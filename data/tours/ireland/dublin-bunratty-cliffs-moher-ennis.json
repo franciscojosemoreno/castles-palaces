@@ -12,7 +12,7 @@
   "duration_label": "Full day (13 hours)",
   "gyg_tour_id": "590491",
   "gyg_url": "https://www.getyourguide.com/dublin-l31/dublin-cliffs-of-moher-ennis-bunratty-castle-day-tour-t590491/",
-  "price_from": 40,
+  "price_from": 70,
   "currency": "EUR",
   "rating": 4.5,
   "review_count": 3200,
@@ -94,5 +94,6 @@
   "meta": {
     "title": "From Dublin: Bunratty Castle, Cliffs of Moher & Ennis Day Tour",
     "description": "Full-day tour from Dublin to Bunratty Castle (Ireland's most complete medieval tower house), the Cliffs of Moher (214m Atlantic sea cliffs) and the medieval Franciscan friary of Ennis."
-  }
+  },
+  "last_updated": "2026-09-02"
 }
