@@ -82,7 +82,7 @@
     "renaissance",
     "pomerania"
   ],
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
     "malbork-castle"
@@ -91,21 +91,6 @@
   "gyg_search_query": "Wisłoujście Fortress Gdańsk boat trip entry ticket",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [
-    {
-      "tour_id": "1393122",
-      "title": "Gdańsk: Boat Trip to Wisłoujście Fortress with Entry Ticket (Polish/German guide)",
-      "type": "guided_tour",
-      "duration": "2.5 hours",
-      "price_from": 46,
-      "rating": null,
-      "reviews": 0,
-      "is_top_pick": false,
-      "booking_url_override": "https://www.getyourguide.com/gdansk-l1960/boat-trip-to-wisloujscie-fortress-with-entry-ticket-t1393122/?partner_id=XDLEZT9&utm_medium=online_publisher",
-      "covers_castles": [
-        "wisloujscie-fortress"
-      ]
-    }
-  ],
+  "gyg_featured_tours": [],
   "gyg_direct_link_override": true
 }
