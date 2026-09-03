@@ -22,7 +22,9 @@ export default function TourCard({ tour, variant = 'default' }: TourCardProps) {
             {tour.name}
           </h3>
           <p className="text-xs text-[#666] mt-1">{tour.duration_label}</p>
-          <p className="text-xs font-semibold text-[#1a1a1a] mt-1">From {currencySymbol}{tour.price_from}</p>
+          <p className="text-xs font-semibold text-[#1a1a1a] mt-1">
+            {tour.price_from != null ? `From ${currencySymbol}${tour.price_from}` : 'See on GetYourGuide'}
+          </p>
         </div>
       </Link>
     );
@@ -65,7 +67,9 @@ export default function TourCard({ tour, variant = 'default' }: TourCardProps) {
               <span className="text-xs text-[#666]">New listing</span>
             )}
           </div>
-          <p className="text-sm font-bold text-[#1761a0]">From {currencySymbol}{tour.price_from}</p>
+          <p className="text-sm font-bold text-[#1761a0]">
+            {tour.price_from != null ? `From ${currencySymbol}${tour.price_from}` : 'See on GetYourGuide'}
+          </p>
         </div>
         <div className="mt-4">
           <span className="inline-block bg-[#c9a84c] text-[#1761a0] text-xs font-bold px-4 py-2 rounded-md w-full text-center hover:bg-[#b8973b] transition-colors">

@@ -7,6 +7,7 @@ import Breadcrumb from '@/components/ui/Breadcrumb';
 import type { Metadata } from 'next';
 import TourStructuredData from '@/components/seo/TourStructuredData';
 import GYGWidget from '@/components/affiliate/GYGWidget';
+import { getGYGSearchUrl } from '@/lib/gyg';
 
 const GYG_PARTNER_ID = process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? '';
 
@@ -54,6 +55,13 @@ export default async function TourPage({ params }: Props) {
   const gygUrl = GYG_PARTNER_ID
     ? `${tour.gyg_url}${tour.gyg_url.includes('?') ? '&' : '?'}partner_id=${GYG_PARTNER_ID}`
     : tour.gyg_url;
+  // price_from is null when the sourced GYG product has been discontinued/delisted
+  // and no live replacement has been found yet — fall back to a search link
+  // instead of silently displaying a stale price for a product that no longer exists.
+  const hasLiveProduct = tour.price_from != null;
+  const bookingHref = hasLiveProduct ? gygUrl : getGYGSearchUrl(tour.name);
+  const bookingLabelShort = hasLiveProduct ? 'Book Now →' : 'Search on GetYourGuide →';
+  const bookingLabelLong = hasLiveProduct ? 'Book on GetYourGuide' : 'Search on GetYourGuide';
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 pb-24 lg:pb-6">
@@ -97,13 +105,21 @@ export default async function TourPage({ params }: Props) {
           {/* Price + rating — visible on mobile only (desktop has sidebar) */}
           <div className="lg:hidden flex items-center gap-4 mb-6 py-3 px-4 bg-[#f5f0e8] rounded-lg">
             <div>
-              <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
-              <p className="font-serif font-bold text-[#1761a0] text-2xl leading-none">
-                {currencySymbol}{tour.price_from}
-                <span className="text-stone-400 font-normal text-sm ml-1">{priceUnitShort}</span>
-              </p>
+              {hasLiveProduct ? (
+                <>
+                  <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
+                  <p className="font-serif font-bold text-[#1761a0] text-2xl leading-none">
+                    {currencySymbol}{tour.price_from}
+                    <span className="text-stone-400 font-normal text-sm ml-1">{priceUnitShort}</span>
+                  </p>
+                </>
+              ) : (
+                <p className="font-serif font-bold text-[#1761a0] text-base leading-tight">
+                  Check current pricing on GetYourGuide
+                </p>
+              )}
             </div>
-            {tour.review_count > 0 && (
+            {hasLiveProduct && tour.review_count > 0 && (
               <>
                 <div className="w-px h-8 bg-stone-300" />
                 <div>
@@ -126,7 +142,9 @@ export default async function TourPage({ params }: Props) {
             <div>
               <p className="text-xs text-[#666] uppercase tracking-wider">Rating</p>
               <p className="font-semibold text-[#1a1a1a]">
-                {tour.review_count > 0
+                {!hasLiveProduct
+                  ? 'Check on GetYourGuide'
+                  : tour.review_count > 0
                   ? `${tour.rating} ★ (${tour.review_count.toLocaleString()} reviews)`
                   : 'New activity'}
               </p>
@@ -171,12 +189,12 @@ export default async function TourPage({ params }: Props) {
                 <p className="text-stone-500 text-xs mt-0.5">Free cancellation · Instant confirmation</p>
               </div>
               <a
-                href={gygUrl}
+                href={bookingHref}
                 target="_blank"
                 rel="noopener noreferrer sponsored"
                 className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-xs px-4 py-2.5 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
               >
-                Book Now →
+                {bookingLabelShort}
               </a>
             </div>
 
@@ -294,25 +312,33 @@ export default async function TourPage({ params }: Props) {
         <div className="mt-8 lg:mt-0">
           <div className="sticky top-6 rounded-xl border border-gray-200 overflow-hidden shadow-sm">
             <div className="bg-[#1761a0] p-6 text-white">
-              <p className="text-white/70 text-sm">From</p>
-              <p className="font-serif text-3xl font-bold">{currencySymbol}{tour.price_from}</p>
-              <p className="text-white/70 text-sm">{priceUnitLong}</p>
-              {tour.review_count > 0 && (
-                <div className="flex items-center gap-1.5 mt-3">
-                  <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
-                  <span className="text-[#c9a84c]">★★★★★</span>
-                  <span className="text-white/60 text-xs">({tour.review_count.toLocaleString()} reviews)</span>
-                </div>
+              {hasLiveProduct ? (
+                <>
+                  <p className="text-white/70 text-sm">From</p>
+                  <p className="font-serif text-3xl font-bold">{currencySymbol}{tour.price_from}</p>
+                  <p className="text-white/70 text-sm">{priceUnitLong}</p>
+                  {tour.review_count > 0 && (
+                    <div className="flex items-center gap-1.5 mt-3">
+                      <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
+                      <span className="text-[#c9a84c]">★★★★★</span>
+                      <span className="text-white/60 text-xs">({tour.review_count.toLocaleString()} reviews)</span>
+                    </div>
+                  )}
+                </>
+              ) : (
+                <p className="font-serif text-lg font-bold leading-snug">
+                  Check current pricing on GetYourGuide
+                </p>
               )}
             </div>
             <div className="p-6">
               <a
-                href={gygUrl}
+                href={bookingHref}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center bg-[#c9a84c] text-[#1761a0] font-bold text-base px-6 py-4 rounded-lg hover:bg-[#b8973b] transition-colors"
               >
-                Book on GetYourGuide
+                {bookingLabelLong}
               </a>
               <p className="text-xs text-center text-[#999] mt-3">
                 Free cancellation available on most dates · Secure booking
@@ -330,19 +356,27 @@ export default async function TourPage({ params }: Props) {
       {/* ── Sticky mobile booking bar ─────────────────── */}
       <div className="lg:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-stone-200 shadow-[0_-4px_12px_rgba(0,0,0,0.08)] px-4 py-3 flex items-center gap-3">
         <div className="flex-1 min-w-0">
-          <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
-          <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
-            {currencySymbol}{tour.price_from}
-            <span className="text-stone-400 font-normal text-xs ml-1">{priceUnitShort}</span>
-          </p>
+          {hasLiveProduct ? (
+            <>
+              <p className="text-xs text-stone-500 leading-none mb-0.5">From</p>
+              <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
+                {currencySymbol}{tour.price_from}
+                <span className="text-stone-400 font-normal text-xs ml-1">{priceUnitShort}</span>
+              </p>
+            </>
+          ) : (
+            <p className="font-serif font-bold text-[#1761a0] text-sm leading-tight">
+              Check pricing on GetYourGuide
+            </p>
+          )}
         </div>
         <a
-          href={gygUrl}
+          href={bookingHref}
           target="_blank"
           rel="noopener noreferrer sponsored"
           className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
         >
-          Book Now →
+          {bookingLabelShort}
         </a>
       </div>
     </div>

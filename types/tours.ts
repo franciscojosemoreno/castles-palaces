@@ -23,9 +23,9 @@ export interface Tour {
   duration_label: string;
   gyg_tour_id: string;
   gyg_url: string;
-  price_from: number;
+  price_from: number | null;
   currency: string;
-  rating: number;
+  rating: number | null;
   review_count: number;
   languages: string[];
   max_group_size: number;
