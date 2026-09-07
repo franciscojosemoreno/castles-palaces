@@ -1,0 +1,116 @@
+{
+  "id": "villa-medici",
+  "name": "Villa Medici",
+  "local_name": "Villa Medici",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 48,
+  "annual_visitors": 60000,
+  "country": "italy",
+  "region": "Lazio — Rome, Pincian Hill",
+  "nearest_city": "Rome",
+  "address": "Viale della Trinità dei Monti, 1, 00187 Roma RM, Italy",
+  "lat": 41.9061,
+  "lng": 12.4823,
+  "unesco": false,
+  "year_built": 1544,
+  "architectural_style": "Renaissance villa built 1544 for Cardinal Giovanni Ricci da Montepulciano; acquired and substantially expanded in 1576 by Cardinal Ferdinando de' Medici, who commissioned an antique-sculpture-lined garden facade and formal boxwood parterre gardens atop the Pincian Hill; the interior and grounds now house the French Academy in Rome",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "By guided tour only",
+    "wednesday": "By guided tour only",
+    "thursday": "By guided tour only",
+    "friday": "By guided tour only",
+    "saturday": "By guided tour only",
+    "sunday": "By guided tour only",
+    "seasonal_note": "Villa Medici is accessible only via scheduled guided tours in English or French (language selected at booking) — there is no general walk-up admission to the interior or gardens. The GYG official guided tour (t1342543, from €45) runs on a fixed daily schedule; check current times before planning a visit, as the villa also hosts exhibitions and events that can affect tour availability."
+  },
+  "price_adult": 12,
+  "price_child": 0,
+  "price_currency": "EUR",
+  "booking_required": true,
+  "official_tickets_url": null,
+  "visit_duration": "1.5 hours",
+  "best_season": "Year-round — the guided tour runs indoors and in the garden regardless of season, though spring and early autumn are most comfortable for the terrace views over Rome",
+  "accessibility": "GYG's official listing for this tour explicitly states it is not suitable for wheelchair users or visitors with mobility impairments — the villa's historic staircases and uneven garden paths are not adapted for accessibility. Confirm directly with the Académie de France before booking if accessibility is a specific concern.",
+  "booking_advance_days": 3,
+  "tagline": "Where the French Academy has trained its most promising artists since 1803, inside a Medici cardinal's Renaissance villa on the Pincian Hill — and where Galileo spent part of his Inquisition trial under house arrest",
+  "highlights": [
+    "Home to the Académie de France à Rome (French Academy in Rome) since 1803, by decree under Napoleon — an institution founded by Louis XIV in 1666 to train France's most promising young artists in Rome, whose resident \"pensionnaires\" over the centuries have included Ingres, Fragonard, Berlioz, and Debussy",
+    "Galileo Galilei was held here under house arrest for part of his 1633 Inquisition trial — one of the villa's most historically resonant episodes, tying the building directly to the trial that forced Galileo to publicly renounce heliocentrism",
+    "Cardinal Ferdinando de' Medici's 1576 acquisition and expansion filled the villa with an important collection of antique Roman sculpture, much of which was later moved to Florence when Ferdinando became Grand Duke of Tuscany",
+    "Ancient Roman relief fragments — including pieces linked to the Ara Pacis, Emperor Augustus's altar of peace — are built directly into the garden's rear facade, one of the most distinctive and unusual architectural details of any Roman villa",
+    "Panoramic terrace views over Rome from the Pincian Hill, one of the city's seven traditional hills and among its best public and semi-public viewpoints over the historic centre"
+  ],
+  "description": "Villa Medici sits at the top of the Pincian Hill in Rome, immediately behind the Trinità dei Monti church at the head of the Spanish Steps — a position chosen in 1544 by Cardinal Giovanni Ricci da Montepulciano for the panoramic views it commands over the city below. The villa Ricci built passed in 1576 to Cardinal Ferdinando de' Medici, a son of Cosimo I de' Medici and a serious collector of antique sculpture, who expanded the building and its gardens substantially and filled them with classical statuary acquired in Rome's active antiquities market. Ferdinando's most distinctive contribution is architectural rather than curatorial: the garden-facing rear facade of the villa is studded with genuine ancient Roman relief fragments and sculptural elements set directly into the wall, including pieces associated with the Ara Pacis, Augustus's monumental altar of peace — a display strategy that turned the building itself into a kind of open-air museum of classical fragments, unusual even among the antiquity-obsessed villas of Renaissance Rome.\n\nFerdinando de' Medici left Rome in 1587 to become Grand Duke of Tuscany, and much of his sculpture collection eventually migrated to Florence, but the villa remained Medici property for over a century afterward. Its most consequential modern chapter began in 1803, when Napoleon Bonaparte decreed that the Académie de France à Rome — the French Academy in Rome, founded by Louis XIV in 1666 to give France's most talented young painters, sculptors, and architects direct exposure to Roman and Renaissance art — would relocate to Villa Medici. It has remained the Academy's home ever since, hosting a rotating roster of French artist-residents (\"pensionnaires\") who have included, across the centuries, Jean-Auguste-Dominique Ingres, Jean-Honoré Fragonard, the composer Hector Berlioz, and Claude Debussy — a roll call that makes Villa Medici one of the more significant incubators of French Romantic and modern art, transplanted onto an Italian Renaissance hillside.\n\nThe villa's most unexpected historical episode predates the Academy by over a century. In 1633, Galileo Galilei — already condemned by the Roman Inquisition for his defence of heliocentrism — was held under house arrest at Villa Medici, then the residence of the Tuscan ambassador to the Holy See, for part of the proceedings that forced him to publicly recant his astronomical findings. The episode is a reminder that Villa Medici's history extends well beyond its garden and its later French institutional identity, touching one of the defining confrontations between early modern science and ecclesiastical authority.\n\nThe garden itself retains its 16th-century structure: geometric boxwood parterres, gravel walks, and a raised terrace at the rear that gives one of Rome's better panoramic views over the historic centre, framed by umbrella pines and the antique sculptural fragments embedded in the facade behind. Because the villa functions as a working academic institution rather than a conventional house museum, access is more restricted than at most Roman palaces on this site — visits run only through scheduled guided tours led by the Academy's own authorised guides, in small groups, which gives the visit a more intimate and curated character than the larger tour groups typical of Rome's major museums.",
+  "history": "Cardinal Giovanni Ricci da Montepulciano built the original villa in 1544, choosing the site for its elevated position on the Pincian Hill above the city. In 1576, Cardinal Ferdinando de' Medici — a son of Cosimo I de' Medici, Grand Duke of Tuscany — purchased and substantially expanded the property, adding the antique-sculpture-studded garden facade and formal gardens that define the villa today. Ferdinando departed Rome in 1587 to succeed his brother Francesco as Grand Duke of Tuscany, but the villa remained in Medici family hands into the 18th century. In 1633, while under the ownership of the Tuscan grand-ducal family, the villa briefly held Galileo Galilei under house arrest during his Inquisition trial. The property passed to the Habsburg-Lorraine grand dukes of Tuscany in the 18th century, and in 1803 Napoleon Bonaparte decreed the relocation of the Académie de France à Rome — founded by Louis XIV in 1666 — to Villa Medici, establishing the institutional identity the villa has held for more than two centuries. The Académie continues to operate from the villa today, hosting French artists-in-residence and running a public programme of exhibitions alongside the guided tours of the historic building and gardens.",
+  "how_to_visit": "**Getting there:** Villa Medici sits directly behind the Trinità dei Monti church at the top of the Spanish Steps, in the heart of central Rome. It is a 5-minute walk from the Spagna metro station (Line A) and easily reached on foot from most central Rome accommodation. There is no dedicated parking; central Rome traffic restrictions make driving impractical for this location.\n\n**Tickets:** Villa Medici has no general walk-up admission — access to the interior and gardens is only through scheduled guided tours. The GYG official guided tour (t1342543, from €45, discounted from €60, 4.3★/32 reviews) is led by the site's own authorised guides, runs 1.5 hours, and includes admission plus access to the historic rooms, gardens, and courtyards via skip-the-line entry through a separate entrance. Tours run in English or French, selected at booking; groups are capped at 10 participants. Book at least a few days ahead, as group sizes are small and availability is limited.\n\n**Practical tips:** This tour is explicitly not suitable for wheelchair users or visitors with mobility impairments — confirm accessibility needs directly with the Académie de France before booking if this is a concern. Because the villa is a working academic institution, exhibition schedules and events can occasionally affect tour availability, so checking current listings before finalising travel plans is worthwhile. The terrace views over Rome are one of the visit's highlights — allow time to take them in rather than rushing through on a tight schedule.\n\n**Combine with:** [Palazzo Barberini](/castles/italy/palazzo-barberini) (a 15–20 minute walk south, one of Rome's great Baroque palaces and now home to the National Gallery of Ancient Art) and [Castel Sant'Angelo](/castles/italy/castel-santangelo) (a scenic walk or short taxi ride across the Tiber, the Emperor Hadrian's mausoleum turned papal fortress) for a fuller day of Rome's palace and fortress architecture beyond the classic Forum-and-Vatican circuit.",
+  "faqs": [
+    {
+      "question": "Can I just walk in and visit Villa Medici without a guided tour?",
+      "answer": "No — Villa Medici has no general walk-up admission. Because the building functions as the working headquarters of the Académie de France à Rome, access to the interior rooms and gardens is only available through scheduled guided tours led by the Academy's own authorised guides, run in small groups of up to 10 people. The exterior and the church of Trinità dei Monti immediately in front of the villa are freely viewable, but entering the villa itself requires booking a tour in advance."
+    },
+    {
+      "question": "Why is a French institution based in an Italian Renaissance villa?",
+      "answer": "The Académie de France à Rome was founded in Rome in 1666 by Louis XIV specifically to give France's most promising young artists direct exposure to Roman and Renaissance art and architecture — a formative experience considered essential training at the time. The Academy moved through several Roman locations before Napoleon Bonaparte decreed in 1803 that it would relocate permanently to Villa Medici, by then available following the decline of Medici and Habsburg-Lorraine ownership. The arrangement has continued for over two centuries, making Villa Medici as much a French cultural institution as an Italian historic building."
+    },
+    {
+      "question": "Is the Villa Medici tour accessible for visitors with mobility issues?",
+      "answer": "No — GetYourGuide's official listing for this tour explicitly states it is not suitable for wheelchair users or visitors with significant mobility impairments. The villa's historic staircases and the garden's uneven paths are not adapted for step-free access. Visitors with specific accessibility needs should contact the Académie de France directly before booking to discuss what may or may not be feasible."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/villa-medici.webp",
+    "alt": "The antique-sculpture-studded garden facade of Villa Medici on the Pincian Hill in Rome, home to the French Academy since 1803",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/villa-medici.webp",
+  "instagram_tag": "#villamedici",
+  "meta_title": "Villa Medici — the French Academy's Renaissance Villa on Rome's Pincian Hill",
+  "meta_description": "Visit Villa Medici in Rome — Cardinal Ferdinando de' Medici's Renaissance villa on the Pincian Hill, home to the French Academy since 1803 and the site of Galileo's 1633 house arrest. Official guided tours only.",
+  "tags": [
+    "italy",
+    "lazio",
+    "rome",
+    "renaissance",
+    "medici-family",
+    "french-academy",
+    "galileo",
+    "pincian-hill",
+    "guided-tour-only"
+  ],
+  "last_updated": "2026-09-07",
+  "routes": [],
+  "nearby_castles": [
+    "palazzo-barberini",
+    "castel-santangelo",
+    "colonna-palace",
+    "palazzo-doria-pamphilj"
+  ],
+  "gyg_location_id": "33",
+  "gyg_search_query": "Villa Medici Rome official guided tour Pincian Hill",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1342543",
+      "title": "Rome: Villa Medici Official Guided Tour",
+      "type": "guided_tour",
+      "duration": "1.5 hours",
+      "price_from": 45,
+      "rating": 4.3,
+      "reviews": 32,
+      "is_top_pick": true,
+      "booking_url_override": "https://www.getyourguide.com/rome-l33/rome-villa-medici-official-guided-tour-t1342543/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "villa-medici"
+      ],
+      "note": "Official guided tour led by the Académie de France's own authorised guides. Admission ticket, historic rooms, gardens, and courtyards included via skip-the-line entry. Max 10 participants, English or French. Not wheelchair/mobility accessible. Rated 4.3★ from 32 reviews."
+    }
+  ],
+  "gyg_direct_link_override": true
+}
