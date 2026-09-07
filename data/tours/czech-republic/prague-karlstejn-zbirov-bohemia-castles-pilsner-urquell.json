@@ -12,15 +12,15 @@
   "duration_label": "Full day (private door-to-door)",
   "gyg_tour_id": "1168897",
   "gyg_url": "https://www.getyourguide.com/prague-l10/prague-karlstejn-zbiroh-pilsen-brewery-tour-t1168897/",
-  "price_from": 1105,
-  "currency": "USD",
+  "price_from": 1283,
+  "currency": "EUR",
   "rating": null,
   "review_count": 0,
   "languages": [
     "English"
   ],
   "max_group_size": 3,
-  "overview": "The limestone valleys of central Bohemia southwest of Prague contain a concentration of medieval castles unmatched in the Czech Republic — Gothic fortifications built in the 14th century by the Luxembourg dynasty when Bohemia was the most powerful kingdom in the Holy Roman Empire. This private door-to-door day trip from Prague visits three: Karlštejn, the most famous castle in Bohemia and the personal treasury of Holy Roman Emperor Charles IV; the ruined Gothic twins of Žebrák and Točník on adjacent hilltops above the Berounka River; and Zbiroh, a Renaissance château that served in the 20th century as both the painting studio where Alfons Mucha created his monumental Slav Epic canvas cycle and a secret Czechoslovak military base. The day concludes with a tour of the Pilsner Urquell brewery in Plzeň — the brewery where pale golden lager was invented in 1842, transforming global beer culture. There are no reviews at time of writing; the operator is newly listed on GetYourGuide and this appears to be a premium private product priced per group (maximum three passengers, $1,275 total).",
+  "overview": "The limestone valleys of central Bohemia southwest of Prague contain a concentration of medieval castles unmatched in the Czech Republic — Gothic fortifications built in the 14th century by the Luxembourg dynasty when Bohemia was the most powerful kingdom in the Holy Roman Empire. This private door-to-door day trip from Prague visits three: Karlštejn, the most famous castle in Bohemia and the personal treasury of Holy Roman Emperor Charles IV; the ruined Gothic twins of Žebrák and Točník on adjacent hilltops above the Berounka River; and Zbiroh, a Renaissance château that served in the 20th century as both the painting studio where Alfons Mucha created his monumental Slav Epic canvas cycle and a secret Czechoslovak military base. The day concludes with a tour of the Pilsner Urquell brewery in Plzeň — the brewery where pale golden lager was invented in 1842, transforming global beer culture. There are no reviews at time of writing; the operator is newly listed on GetYourGuide and this appears to be a premium private product priced per group (maximum three passengers, €1,283 total).",
   "highlights": [
     "Karlštejn Castle — Emperor Charles IV's 14th-century treasury and personal retreat, built to hold the crown jewels of the Holy Roman Empire and sacred relics; the most visited castle in the Czech Republic",
     "Koněprusy Caves — an extensive Devonian limestone cave system below the Bohemian karst plateau, with stalactite formations and a medieval coin-forging workshop discovered inside",
@@ -64,7 +64,7 @@
   "included": [
     "Private vehicle and door-to-door service from Prague accommodation",
     "Expert English-speaking guide for the full day",
-    "Private group only (up to 3 passengers, $1,275 total)",
+    "Private group only (up to 3 passengers, €1,283 total)",
     "Koněprusy Caves guided tour",
     "Pilsner Urquell brewery tour and cellar tasting"
   ],
@@ -85,8 +85,8 @@
   ],
   "faqs": [
     {
-      "question": "Is the $1,275 price per person or for the whole group?",
-      "answer": "$1,275 is the total price for the private group — not per person. The tour accommodates up to three passengers. For two people the per-person cost is approximately $637; for three, approximately $425. This is a full-day private tour with dedicated vehicle and guide covering significant distances (approximately 150 km total), which accounts for the price point relative to shared-coach alternatives."
+      "question": "Is the €1,283 price per person or for the whole group?",
+      "answer": "€1,283 is the total price for the private group — not per person. The tour accommodates up to three passengers. For two people the per-person cost is approximately €642; for three, approximately €428. This is a full-day private tour with dedicated vehicle and guide covering significant distances (approximately 150 km total), which accounts for the price point relative to shared-coach alternatives."
     },
     {
       "question": "Can I visit the Chapel of the Holy Cross at Karlštejn?",
@@ -108,5 +108,5 @@
     "description": "Private day trip from Prague visiting Karlštejn Castle, Koněprusy Caves, the Gothic ruins of Žebrák and Točník, Zbiroh Château, and the Pilsner Urquell brewery in Plzeň."
   },
   "pricing_unit": "group",
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-07"
 }

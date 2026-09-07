@@ -12,8 +12,8 @@
   "duration_label": "10 hours (private group)",
   "gyg_tour_id": "1035072",
   "gyg_url": "https://www.getyourguide.com/elvas-l127553/from-lisbon-castles-of-alentejo-ecologic-tour-t1035072/",
-  "price_from": 1100,
-  "currency": "USD",
+  "price_from": 1277,
+  "currency": "EUR",
   "rating": null,
   "review_count": 0,
   "languages": [
@@ -21,7 +21,7 @@
     "Portuguese"
   ],
   "max_group_size": 3,
-  "overview": "The upper Alentejo — the high, dry plain between Lisbon and the Spanish border — contains one of the most extraordinary concentrations of defensive architecture in Europe. This private ten-hour tour covers five sites that together span three thousand years of fortification history: prehistoric hilltop settlements that became Moorish alcáçovas, medieval castles rebuilt by the Portuguese military orders, and Elvas — the most comprehensively preserved example of Vauban-style star fort engineering anywhere in the world, protected by a UNESCO designation that recognises it as 'the largest and best-preserved example of a bulwark fortification system in the world.' The vehicle is an electric Mercedes EQS — a deliberate choice by the operator to demonstrate that long-distance touring in the Alentejo is possible without combustion. The tour is priced per group (maximum three passengers, $1,269 total), making it a premium private experience: the guide and vehicle are entirely at your disposal for ten hours. There are no reviews at time of writing, as this is a newly listed product; the historical content below reflects the sites themselves.",
+  "overview": "The upper Alentejo — the high, dry plain between Lisbon and the Spanish border — contains one of the most extraordinary concentrations of defensive architecture in Europe. This private ten-hour tour covers five sites that together span three thousand years of fortification history: prehistoric hilltop settlements that became Moorish alcáçovas, medieval castles rebuilt by the Portuguese military orders, and Elvas — the most comprehensively preserved example of Vauban-style star fort engineering anywhere in the world, protected by a UNESCO designation that recognises it as 'the largest and best-preserved example of a bulwark fortification system in the world.' The vehicle is an electric Mercedes EQS — a deliberate choice by the operator to demonstrate that long-distance touring in the Alentejo is possible without combustion. The tour is priced per group (maximum three passengers, €1,277 total), making it a premium private experience: the guide and vehicle are entirely at your disposal for ten hours. There are no reviews at time of writing, as this is a newly listed product; the historical content below reflects the sites themselves.",
   "highlights": [
     "Castelo de Marvão — a 13th-century castle on a granite crag at 862 metres, commanding views across the Serra de São Mamede and deep into Spain",
     "Castelo de Vide — a medieval walled village below a 14th-century castle, with one of the oldest intact Jewish quarters in Portugal",
@@ -66,7 +66,7 @@
   "included": [
     "Private electric Mercedes EQS (door-to-door from Lisbon accommodation)",
     "Expert English and Portuguese-speaking guide for the full 10 hours",
-    "Private group only (up to 3 passengers, $1,269 total)"
+    "Private group only (up to 3 passengers, €1,277 total)"
   ],
   "excluded": [
     "Castle and monument entry fees (Marvão Castle, Elvas walls — paid on-site, modest admission)",
@@ -84,8 +84,8 @@
   ],
   "faqs": [
     {
-      "question": "Is the $1,269 price per person or for the whole group?",
-      "answer": "$1,269 is the total price for the private group — not per person. The tour accommodates up to three passengers. For two people the cost is approximately $635 each; for three, approximately $423 each. This is a premium private operator running a genuinely unusual vehicle (the Mercedes EQS is not a standard touring car) with a full-day dedicated guide, which accounts for the price point relative to shared-coach alternatives."
+      "question": "Is the €1,277 price per person or for the whole group?",
+      "answer": "€1,277 is the total price for the private group — not per person. The tour accommodates up to three passengers. For two people the cost is approximately €639 each; for three, approximately €426 each. This is a premium private operator running a genuinely unusual vehicle (the Mercedes EQS is not a standard touring car) with a full-day dedicated guide, which accounts for the price point relative to shared-coach alternatives."
     },
     {
       "question": "Why five castles in one day — is that too much?",
@@ -107,5 +107,5 @@
     "description": "Private 10-hour day trip from Lisbon to five Alentejo fortifications — Marvão, Castelo de Vide, Portalegre, UNESCO Elvas, and Estremoz — in an electric Mercedes EQS."
   },
   "pricing_unit": "group",
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-07"
 }

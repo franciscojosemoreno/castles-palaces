@@ -12,21 +12,21 @@
   "duration_label": "6 hours (private group)",
   "gyg_tour_id": "615974",
   "gyg_url": "https://www.getyourguide.com/cacela-velha-l158192/historic-east-algarve-private-tour-t615974/",
-  "price_from": 290,
-  "currency": "USD",
+  "price_from": 337,
+  "currency": "EUR",
   "rating": 4.6,
   "review_count": 3,
   "languages": [
     "English"
   ],
   "max_group_size": 4,
-  "overview": "The eastern Algarve between Tavira and the Spanish border is one of the most historically intact stretches of the Portuguese coast — a region of salt pans, lagoon islands, and whitewashed towns that mass tourism largely skipped in favour of the western beaches. It also contains three medieval fortifications that tell the entire arc of the Algarve's history: the Moorish hilltop castle of Tavira, reconstructed after the Christian reconquest of 1242; the small cliff-top fortaleza of Cacela Velha, one of the most perfectly preserved and least-visited fortifications on the Portuguese coast; and the great frontier castle of Castro Marim, where the Order of Christ — successor to the Knights Templar in Portugal — established its first headquarters after the Templars were dissolved. This private six-hour tour visits all three in sequence before crossing the River Guadiana by ferry into Ayamonte, Spain — a genuinely rare Algarve experience that puts you briefly on the other side of the historical frontier. Note: this is a small-operator private tour priced per group (up to four people) at $335, and with only three reviews to date (two five-star, one one-star), experiences have been mixed; the content below reflects the castles honestly rather than the operator's marketing.",
+  "overview": "The eastern Algarve between Tavira and the Spanish border is one of the most historically intact stretches of the Portuguese coast — a region of salt pans, lagoon islands, and whitewashed towns that mass tourism largely skipped in favour of the western beaches. It also contains three medieval fortifications that tell the entire arc of the Algarve's history: the Moorish hilltop castle of Tavira, reconstructed after the Christian reconquest of 1242; the small cliff-top fortaleza of Cacela Velha, one of the most perfectly preserved and least-visited fortifications on the Portuguese coast; and the great frontier castle of Castro Marim, where the Order of Christ — successor to the Knights Templar in Portugal — established its first headquarters after the Templars were dissolved. This private six-hour tour visits all three in sequence before crossing the River Guadiana by ferry into Ayamonte, Spain — a genuinely rare Algarve experience that puts you briefly on the other side of the historical frontier. Note: this is a small-operator private tour priced per group (up to four people) at €337, and with only three reviews to date (two five-star, one one-star), experiences have been mixed; the content below reflects the castles honestly rather than the operator's marketing.",
   "highlights": [
     "Castelo de Tavira — the Moorish-origin hilltop castle above Tavira's old town, with views over the Ria Formosa lagoon and the offshore barrier islands",
     "Fortaleza de Cacela Velha — a 17th-century Portuguese cliff-top fortress above one of the most unspoilt coves on the Algarve coast; the village of Cacela Velha has barely changed in 200 years",
     "Castelo de Castro Marim — the most important medieval fortification in the Eastern Algarve, first headquarters of the Order of Christ in 1319, overlooking the Portuguese-Spanish border on the Guadiana",
     "River Guadiana ferry crossing into Spain — a genuine border crossing on the water, arriving in Ayamonte (Andalusia) for a brief market stop",
-    "Private group experience (up to 4 people, $335 total) — not a shared coach tour"
+    "Private group experience (up to 4 people, €337 total) — not a shared coach tour"
   ],
   "itinerary": [
     {
@@ -75,8 +75,8 @@
   ],
   "faqs": [
     {
-      "question": "Is the $335 price per person or for the whole group?",
-      "answer": "$335 is the total price for the private group — not per person. The tour accommodates up to four people, so for a full group of four the per-person cost is approximately $84. For a solo traveller or a couple, the full group price still applies since the vehicle and guide are private. This pricing structure is typical of small-group private day tours in the Algarve."
+      "question": "Is the €337 price per person or for the whole group?",
+      "answer": "€337 is the total price for the private group — not per person. The tour accommodates up to four people, so for a full group of four the per-person cost is approximately €84. For a solo traveller or a couple, the full group price still applies since the vehicle and guide are private. This pricing structure is typical of small-group private day tours in the Algarve."
     },
     {
       "question": "Do I need a passport for the Spain crossing?",
@@ -84,7 +84,7 @@
     },
     {
       "question": "Are the castle entry fees included?",
-      "answer": "No — castle admission fees are paid on-site and are not included in the $335 group price. Entry to Castelo de Tavira and Castelo de Castro Marim both charge modest admission (typically a few euros per adult). The Fortaleza de Cacela Velha is accessible without a separate entry fee. Confirm current prices at the sites on the day."
+      "answer": "No — castle admission fees are paid on-site and are not included in the €337 group price. Entry to Castelo de Tavira and Castelo de Castro Marim both charge modest admission (typically a few euros per adult). The Fortaleza de Cacela Velha is accessible without a separate entry fee. Confirm current prices at the sites on the day."
     }
   ],
   "featured": false,
@@ -98,5 +98,5 @@
     "description": "Private day tour visiting three medieval fortifications in Portugal's eastern Algarve — Castelo de Tavira, Fortaleza de Cacela Velha, and Castelo de Castro Marim — ending with a ferry crossing into Spain."
   },
   "pricing_unit": "group",
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-07"
 }

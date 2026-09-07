@@ -5,10 +5,14 @@ import { getCountryBySlug } from '@/lib/countries';
 import TourCard from '@/components/tours/TourCard';
 
 export async function generateMetadata(): Promise<Metadata> {
-  const tourCount = getAllTours().length;
+  const tours = getAllTours();
+  const tourCount = tours.length;
+  const prices = tours.map(t => t.price_from).filter((p): p is number => p != null);
+  const minPrice = prices.length ? Math.min(...prices) : null;
+  const priceSuffix = minPrice != null ? ` from €${minPrice}` : '';
   return {
-    title: 'European Castle Tours 2026 — Skip-the-Line Tickets from $11',
-    description: `${tourCount} curated castle tours across 30+ European countries. Multi-castle day trips, guided experiences, and skip-the-line entry from $11. Free cancellation on all bookings.`,
+    title: `European Castle Tours 2026 — Skip-the-Line Tickets${priceSuffix}`,
+    description: `${tourCount} curated castle tours across 30+ European countries. Multi-castle day trips, guided experiences, and skip-the-line entry${priceSuffix}. Free cancellation on all bookings.`,
   };
 }
 
