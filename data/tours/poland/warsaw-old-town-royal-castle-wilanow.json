@@ -1,0 +1,128 @@
+{
+  "id": "warsaw-old-town-royal-castle-wilanow",
+  "slug": "warsaw-old-town-royal-castle-wilanow",
+  "name": "Warsaw: Old Town, Royal Castle & Wilanów Palace Tour",
+  "tagline": "Warsaw's rebuilt medieval heart and two royal residences bookending Polish history — the Royal Castle at the centre of the Old Town and King Jan III Sobieski's baroque summer palace at Wilanów — with door-to-door transport throughout",
+  "departure_country": "poland",
+  "departure_city": "Warsaw",
+  "visited_countries": [
+    "poland"
+  ],
+  "duration_days": 1,
+  "duration_label": "4 hours",
+  "gyg_tour_id": "233327",
+  "gyg_url": "https://www.getyourguide.com/warsaw-l41/warsaw-old-town-royal-castle-and-wilanow-palace-tour-t233327/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 116,
+  "currency": "EUR",
+  "rating": 5,
+  "review_count": 5,
+  "is_top_pick": false,
+  "languages": [
+    "Polish",
+    "English",
+    "German",
+    "Russian",
+    "French",
+    "Italian",
+    "Spanish"
+  ],
+  "max_group_size": null,
+  "pricing_unit": "person",
+  "overview": "This small-group tour links two of Warsaw's most significant royal sites with a walk through the reconstructed Old Town in between, and the door-to-door transport at both ends is a genuine practical convenience — Wilanów Palace sits well outside the historic centre, awkward to combine efficiently with a walking-focused Old Town visit unless someone is driving you between the two.\n\nThe day begins with pickup from your accommodation and transport to the Old Town, where the guide walks you through Warsaw's remarkable postwar story: after German forces systematically destroyed roughly 85% of the city following the 1944 Warsaw Uprising, Poland rebuilt the historic centre from photographs, paintings, and architectural records with such fidelity that UNESCO inscribed the reconstructed Old Town as a World Heritage Site in 1980 — one of the very few UNESCO listings awarded specifically for a faithful reconstruction rather than an original surviving fabric. The Royal Castle, sitting at the entrance to the Old Town on Castle Square, suffered the same fate and the same meticulous rebuilding: this tour includes an audio-guided visit through its restored state rooms, which now hold Poland's most important collection of royal portraiture and decorative art salvaged or recreated from the prewar palace.\n\nFrom the Old Town, door-to-door transport takes the group to Wilanów Palace on the southern edge of the city — the baroque summer residence of King Jan III Sobieski, the 17th-century monarch best known for leading the relief of Vienna against the Ottoman siege in 1683. Wilanów escaped the wartime destruction that levelled central Warsaw almost entirely intact, making it one of the few places in the city where an authentic, continuously furnished royal interior survives rather than a careful postwar reconstruction. Frequently nicknamed the 'Versailles of Poland' for its formal gardens and baroque architectural ambition, Wilanów is covered here with its own audio-guided interior tour before the group is returned to their accommodation or another point in Warsaw.\n\nThe tour's core value is logistical as much as historical: audioguides at both palaces, all entrance tickets, taxes and handling fees folded into one upfront price, and a driver-coordinator handling every transfer, which removes the need to work out Warsaw's public transport system to reach Wilanów specifically — a genuinely useful simplification for visitors short on time or unfamiliar with the city.",
+  "highlights": [
+    "The Royal Castle of Warsaw — meticulously rebuilt after near-total wartime destruction, part of the UNESCO World Heritage-listed Old Town, with an audio-guided tour of its restored state rooms",
+    "Wilanów Palace — King Jan III Sobieski's baroque summer residence, one of the few Warsaw palaces to survive the Second World War with its original interiors intact, often called the 'Versailles of Poland'",
+    "Door-to-door transport at every stage — pickup from your accommodation, transfer between the Old Town and Wilanów (otherwise a significant distance to manage independently), and drop-off back in the city",
+    "Audioguides included in seven languages at both the Royal Castle and Wilanów Palace, alongside a live English-speaking driver-coordinator throughout",
+    "5★ rating on GetYourGuide, an established small-group product from a long-running Warsaw/Kraków tour operator"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Accommodation Pickup",
+      "duration": "Start",
+      "description": "Door-to-door pickup from your Warsaw accommodation. The driver-coordinator transfers the group to the Old Town, Warsaw's historic centre and UNESCO World Heritage Site."
+    },
+    {
+      "order": 2,
+      "castle_name": "Warsaw Old Town",
+      "duration": "Approx. 1–1.5 hours",
+      "description": "A walk through Warsaw's Old Town, rebuilt after German forces destroyed roughly 85% of the city following the 1944 Warsaw Uprising. The postwar reconstruction, completed using prewar photographs and architectural surveys, was inscribed by UNESCO in 1980 as a World Heritage Site — a rare case of a heritage listing awarded for the fidelity of a reconstruction rather than for original historic fabric."
+    },
+    {
+      "order": 3,
+      "castle_id": "royal-castle-warsaw",
+      "castle_name": "Royal Castle of Warsaw",
+      "duration": "Approx. 1 hour, audio-guided",
+      "description": "Standing at the entrance to the Old Town on Castle Square, the Royal Castle was the official residence of Polish monarchs and later the seat of government. Destroyed in the Second World War and rebuilt over subsequent decades, the castle's restored state rooms now hold one of Poland's most important collections of royal portraiture, decorative art, and period furnishings, covered here with an included audio guide."
+    },
+    {
+      "order": 4,
+      "castle_name": "Transfer to Wilanów",
+      "duration": "Approx. 30–40 minutes",
+      "description": "Door-to-door transport from the Old Town to Wilanów Palace on the southern edge of Warsaw."
+    },
+    {
+      "order": 5,
+      "castle_id": "wilanow-palace",
+      "castle_name": "Wilanów Palace",
+      "duration": "Approx. 1–1.5 hours, audio-guided",
+      "description": "The baroque summer residence of King Jan III Sobieski, best remembered for leading the relief of Vienna against the Ottoman siege in 1683. Wilanów survived the Second World War largely intact, making it one of the few places in Warsaw with authentic, continuously preserved royal interiors rather than a postwar reconstruction. Often called the 'Versailles of Poland' for its formal gardens and baroque scale, the palace is covered here with an included audio-guided tour of the interior."
+    },
+    {
+      "order": 6,
+      "castle_name": "Return",
+      "duration": "End",
+      "description": "Door-to-door transport back to your accommodation or any other point in Warsaw."
+    }
+  ],
+  "included": [
+    "Door-to-door transport from accommodation to Warsaw Old Town",
+    "All taxes, fees, and handling charges",
+    "Entrance tickets to all attractions mentioned",
+    "Audioguide at the Royal Castle of Warsaw",
+    "Driver/coordinator throughout",
+    "Door-to-door transport from Old Town to Wilanów Palace",
+    "Audio-guided tour of Wilanów Palace",
+    "Return transport to accommodation or another point in Warsaw"
+  ],
+  "excluded": [
+    "Food and drinks",
+    "Personal expenses"
+  ],
+  "meeting_point": "Door-to-door pickup from your Warsaw accommodation, as arranged at booking.",
+  "tips": [
+    "This is a small-group, transport-included format — the door-to-door pickup and the transfer to Wilanów are the tour's main practical advantage over independently combining these two sites, since Wilanów is well outside the Old Town's walking radius",
+    "Wear comfortable shoes — the Old Town walking portion covers cobbled streets and squares",
+    "Book ahead; as a small-group product with door-to-door pickup, availability is more limited than for large coach tours",
+    "The Royal Castle of Warsaw's own individual entry ticket is a cheaper, higher-rated standalone option (from around €127, 4.8★, 92 reviews) for visitors who only want that one site — this combined tour is the better fit for those who specifically want Wilanów Palace included with transport handled",
+    "Wilanów's gardens are extensive — allow extra unstructured time if you want to explore them beyond the guided interior visit"
+  ],
+  "faqs": [
+    {
+      "question": "Why is Wilanów Palace paired with the Old Town and Royal Castle rather than visited separately?",
+      "answer": "Wilanów Palace sits on the southern edge of Warsaw, well outside the Old Town's walking radius, so reaching it independently means arranging your own public transport or taxi. This tour's door-to-door transfer between the Old Town and Wilanów removes that logistical step, folding transport, tickets, and audioguides for both sites into a single upfront price and driver-coordinator throughout the day."
+    },
+    {
+      "question": "Why does Warsaw's Old Town look medieval if the city was almost entirely destroyed in WWII?",
+      "answer": "Because it is a reconstruction — one of the most extensive and historically faithful ones in the world. German forces systematically destroyed roughly 85% of Warsaw following the 1944 Warsaw Uprising, including nearly the entire historic centre. Poland rebuilt the Old Town after the war using prewar photographs, paintings, and architectural surveys to recreate the streets and facades as accurately as possible. UNESCO inscribed the result as a World Heritage Site in 1980, recognising the reconstruction itself — rather than any surviving original fabric — as a heritage achievement in its own right."
+    },
+    {
+      "question": "Did Wilanów Palace survive the Second World War?",
+      "answer": "Yes, largely intact — unlike almost everywhere else in central Warsaw. Wilanów's location on the city's southern edge and its status kept it comparatively protected during the wartime destruction that levelled the Old Town and much of the rest of the capital. This makes it one of the few places in Warsaw where visitors can see continuously preserved, authentic royal interiors from the 17th and 18th centuries rather than a careful postwar reconstruction."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/warsaw-old-town-royal-castle-wilanow.webp",
+    "alt": "The Royal Castle of Warsaw on Castle Square in the reconstructed UNESCO-listed Old Town, Poland",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Warsaw: Old Town, Royal Castle & Wilanów Palace Tour",
+    "description": "Door-to-door small-group tour of Warsaw's Old Town, Royal Castle, and the 'Versailles of Poland' — Wilanów Palace, King Jan III Sobieski's baroque summer residence. From €116, 4-5 hours."
+  },
+  "last_updated": "2026-09-09"
+}

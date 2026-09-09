@@ -1,0 +1,105 @@
+{
+  "id": "salzburg-card",
+  "slug": "salzburg-card",
+  "name": "Salzburg Card: 24-Hour City Pass with Hohensalzburg & Hellbrunn",
+  "tagline": "Salzburg's official city pass, honestly framed — free one-time entry to dozens of attractions including two of the city's great palace sites, unlimited transport, and discounts on almost everything else",
+  "departure_country": "austria",
+  "departure_city": "Salzburg",
+  "visited_countries": [
+    "austria"
+  ],
+  "duration_days": 1,
+  "duration_label": "24 hours (48h and 72h versions also available)",
+  "gyg_tour_id": "888",
+  "gyg_url": "https://www.getyourguide.com/salzburg-l4/salzburg-card-free-admission-and-free-rides-t888/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 35,
+  "currency": "EUR",
+  "rating": 4.6,
+  "review_count": 1096,
+  "is_top_pick": false,
+  "languages": [
+    "English",
+    "German"
+  ],
+  "max_group_size": null,
+  "pricing_unit": "person",
+  "overview": "This is a city pass, not a guided tour, and it's worth being upfront about that distinction before booking. The Salzburg Card is the city's official all-in-one ticket, issued by Tourismus Salzburg: it bundles one-time free entry to dozens of Salzburg's attractions, unlimited public transport for its full validity window, and a long list of discounts on everything from concerts to a casino, into a single card sold in 24-, 48-, and 72-hour versions. It's an outstanding value proposition for anyone planning to see several paid attractions in a short visit, but it isn't a curated multi-site tour with a guide walking you between stops — you use it independently, at your own pace, entering each attraction on your own.\n\nFor visitors to this site, the two attractions that matter most are Fortress Hohensalzburg and Hellbrunn Palace, both covered as free, one-time, all-inclusive admissions on the card. Hohensalzburg — the vast hilltop fortress that dominates Salzburg's skyline, one of the largest fully preserved medieval castles in Europe — is included with its funicular ride up the Festungsberg bundled in as well, a detail worth knowing since the funicular alone typically carries a separate fee for non-cardholders. Hellbrunn Palace, the 17th-century archbishop's pleasure palace famous for its trick fountains (deliberately built to soak unsuspecting guests), is included as a full admission too.\n\nBeyond those two, the card's included-attractions list is genuinely broad: Mozart's Birthplace and his family residence, the DomQuartier museum complex, Haus der Natur, Salzburg Zoo, the Museum der Moderne on the Mönchsberg, the wider Salzburg Museum network, a river cruise on the Salzach, the Untersberg cable car, the Mönchsberg lift, and an open-air museum — plus unlimited use of city and regional public transport for the card's full duration. On top of the free admissions, cardholders get discounts on Mozart concerts, guided tours, the hop-on-hop-off bus, escape rooms, Hallein's Celtic Museum, the regional salt mines, Swarovski Crystal Worlds, and more.\n\nThe practical calculation for any visitor is simple: if you plan to visit two or more paid attractions plus use public transport at all during your stay, the card typically pays for itself well before you've used everything it offers. Visitors whose main goal is specifically Hohensalzburg and Hellbrunn and nothing else may find a standalone ticket to each site cheaper if that's genuinely the entire itinerary — but the moment a third paid sight, a tram ride, or the Festungsberg funicular enters the plan, the card's math shifts quickly in its own favour.",
+  "highlights": [
+    "Free, one-time, all-inclusive admission to Fortress Hohensalzburg — including the funicular ride up the Festungsberg, which otherwise carries its own separate fee",
+    "Free, one-time admission to Hellbrunn Palace and its 17th-century trick fountains, one of Salzburg's most popular attractions outside the old town",
+    "Unlimited public transport for the card's full validity window (24, 48, or 72 hours) — buses, trolleybuses, and regional trains within the covered zone",
+    "A genuinely broad city-pass attraction list beyond the two castle sites: Mozart's Birthplace and Residence, DomQuartier, Haus der Natur, Salzburg Zoo, Museum der Moderne, a Salzach river cruise, the Untersberg cable car, and more",
+    "Official Tourismus Salzburg product, 4.6★ from over 1,000 verified reviews — an extremely well-established pass, not a niche or newly listed activity"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "How the card works",
+      "duration": "N/A — self-guided pass",
+      "description": "The Salzburg Card is a self-guided pass, not a scheduled tour. Once activated, it's valid for a continuous 24-, 48-, or 72-hour window (choose at booking) during which you can enter each included attraction once, free of charge, and use public transport within Salzburg and the surrounding area without limit. There is no fixed itinerary or meeting point — cardholders plan their own route and timing."
+    },
+    {
+      "order": 2,
+      "castle_id": "hohensalzburg-fortress",
+      "castle_name": "Fortress Hohensalzburg",
+      "duration": "Self-paced, typically 1.5–2 hours",
+      "description": "One of the largest fully preserved medieval fortresses in Europe, sitting atop the Festungsberg above Salzburg's old town. The card covers an all-inclusive admission ticket plus the funicular ride up the hill, which otherwise costs extra for visitors without the card. Interior highlights include the state rooms, the Rainer Regiment Museum, and panoramic views over Salzburg and the Salzach valley."
+    },
+    {
+      "order": 3,
+      "castle_id": "hellbrunn-palace",
+      "castle_name": "Hellbrunn Palace",
+      "duration": "Self-paced, typically 1.5–2 hours",
+      "description": "A 17th-century pleasure palace built for Prince-Archbishop Markus Sittikus, a short trip south of central Salzburg. The card covers full admission, including the palace's famous trick fountains — a network of concealed water jets originally built to surprise and soak the Archbishop's guests, still demonstrated on the guided grounds tour included with entry."
+    }
+  ],
+  "included": [
+    "One-time free admission to Fortress Hohensalzburg (all-inclusive ticket, funicular included)",
+    "One-time free admission to Hellbrunn Palace & Trick Fountains",
+    "One-time free admission to Mozart's Birthplace & Residence, DomQuartier Salzburg, Haus der Natur, Salzburg Zoo, Museum der Moderne, and the wider Salzburg Museum network",
+    "Salzach river boat tour",
+    "Untersberg cable car and Mönchsberg lift",
+    "Unlimited public transport within Salzburg and surrounding areas for the card's full duration",
+    "Discounts on Mozart concerts, guided tours, hop-on-hop-off bus, escape rooms, Swarovski Crystal Worlds, regional salt mines, and other attractions"
+  ],
+  "excluded": [
+    "Food and drinks",
+    "Attractions and activities only offered at a discount, not free entry (concerts, guided tours, casino, escape rooms, etc.)",
+    "Return visits to the same attraction within the card's validity window"
+  ],
+  "meeting_point": "No fixed meeting point — the Salzburg Card is a self-guided pass, collected as a physical card or voucher and used independently at each attraction.",
+  "tips": [
+    "This is a city pass, not a guided tour — there's no guide, no fixed schedule, and no meeting point. Plan your own route between included attractions",
+    "The card only covers one-time entry to each attraction — if you want to revisit somewhere within your card's validity window, standard admission applies for the second visit",
+    "Mirabell Palace and Gardens are not confirmed as part of the Salzburg Card's included-attractions list, but they're freely open to the public year-round regardless, so this has no practical effect on a visit",
+    "Work out roughly how many paid attractions and transport trips you'll realistically use — the card typically pays for itself once you combine Hohensalzburg or Hellbrunn with even one more paid site or a few transit rides",
+    "Choose the 24-, 48-, or 72-hour version based on how many days you'll actually be sightseeing in Salzburg — the longer versions cost more but extend the same one-time-per-attraction model over more days"
+  ],
+  "faqs": [
+    {
+      "question": "Is the Salzburg Card a guided tour of Hohensalzburg and Hellbrunn?",
+      "answer": "No. The Salzburg Card is a self-guided city pass — it gives you free, one-time admission to Fortress Hohensalzburg and Hellbrunn Palace (along with dozens of other attractions) and unlimited public transport, but there is no guide, no scheduled itinerary, and no group. You visit each included site independently, at your own pace, in whatever order suits you. Visitors specifically looking for a guided walking tour connecting multiple castles should look at a dedicated guided-tour product instead."
+    },
+    {
+      "question": "Does the Salzburg Card include Mirabell Palace?",
+      "answer": "GetYourGuide's own included-attractions list for this card does not explicitly confirm Mirabell Palace as one of the covered sites. In practice this makes little difference: Mirabell Palace's gardens are freely open to the public year-round at no charge regardless of the card, and access to the Marble Hall inside is separately and very restrictively bookable in any case. The two castle-type sites the Salzburg Card clearly and explicitly covers are Fortress Hohensalzburg and Hellbrunn Palace."
+    },
+    {
+      "question": "Is the Salzburg Card worth it if I only want to see Hohensalzburg and Hellbrunn?",
+      "answer": "It depends on what else you're doing during your visit. If Hohensalzburg and Hellbrunn genuinely are the entire itinerary with no other paid attractions and no public transport use, buying standalone tickets to each may work out slightly cheaper. But the moment you add even one more paid museum, a tram or bus ride, the Hohensalzburg funicular (which the card includes free but which costs extra standalone), or the Salzach river cruise, the card's value case strengthens quickly — most visitors doing any general Salzburg sightseeing beyond the two castles find the card pays for itself well before the day is over."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/salzburg-card.webp",
+    "alt": "Fortress Hohensalzburg above Salzburg's old town, one of the attractions included with the Salzburg Card city pass",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Salzburg Card: 24-Hour City Pass with Hohensalzburg & Hellbrunn",
+    "description": "Salzburg's official 24-hour city pass — free entry to Hohensalzburg Fortress and Hellbrunn Palace, plus public transport, museums, and dozens of other attractions. From €35."
+  },
+  "last_updated": "2026-09-09"
+}
