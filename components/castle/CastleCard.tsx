@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Castle } from '@/types';
 import Badge from '@/components/ui/Badge';
+import { getCurrencySymbol } from '@/lib/hotels';
 
 interface CastleCardProps {
   castle: Castle;
@@ -14,6 +15,9 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
   const displayPrice = (featuredTour?.price_from != null)
     ? featuredTour.price_from
     : castle.price_adult;
+  const hotelNightly = (displayPrice == null && castle.hotel?.is_hotel)
+    ? castle.hotel.price_from_night
+    : null;
 
   if (variant === 'compact') {
     return (
@@ -70,6 +74,8 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
               <span className="text-green-700 font-medium">Free entry</span>
             ) : displayPrice != null ? (
               <span>From €{displayPrice}</span>
+            ) : hotelNightly != null ? (
+              <span>From {getCurrencySymbol(castle.hotel!.currency)}{hotelNightly}/night</span>
             ) : null}
           </span>
           <span className="text-sm font-medium text-[#c9a84c] group-hover:underline">

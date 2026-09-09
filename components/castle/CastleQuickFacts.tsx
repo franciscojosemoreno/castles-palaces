@@ -1,5 +1,6 @@
 import { Castle } from '@/types';
 import { getGYGSearchUrl } from '@/lib/gyg';
+import { getPrimaryCta, isHotelOnly, getCurrencySymbol } from '@/lib/hotels';
 
 interface CastleQuickFactsProps {
   castle: Castle;
@@ -55,13 +56,33 @@ function formatHoursShort(oh: Castle['opening_hours']): string {
 }
 
 export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
+  const hotelOnly = isHotelOnly(castle);
+  const primaryCta = getPrimaryCta(castle);
+
   const facts = [
-    {
+    castle.opening_hours && {
       icon: '🕐',
       label: 'Hours',
       value: formatHoursShort(castle.opening_hours),
     },
-    (castle.price_adult !== undefined || castle.gyg_featured_tours?.[0]) && {
+    hotelOnly && {
+      icon: '🏨',
+      label: 'Rooms from',
+      value: castle.hotel!.price_from_night != null
+        ? `${getCurrencySymbol(castle.hotel!.currency)}${castle.hotel!.price_from_night} / night`
+        : 'Check rates',
+      href: castle.hotel!.booking_url,
+    },
+    // Separate day-visit admission (e.g. an on-site museum), distinct from the room rate above —
+    // only shown for hotel-only castles that also charge their own standalone entry fee.
+    hotelOnly && castle.price_adult !== undefined && {
+      icon: '🎟️',
+      label: 'Day-visit entry',
+      value: castle.price_adult === 0
+        ? 'Free'
+        : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`,
+    },
+    !hotelOnly && (castle.price_adult !== undefined || castle.gyg_featured_tours?.[0]) && {
       icon: '🎟️',
       label: (() => {
         const tour = castle.gyg_featured_tours?.[0];
@@ -83,6 +104,11 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
         return price === 0 ? 'Free' : `€${price}`;
       })(),
       href: getGYGUrl(castle) ?? undefined,
+    },
+    castle.hotel?.star_category && {
+      icon: '🏨',
+      label: 'Hotel rating',
+      value: `${castle.hotel.star_category}-Star Hotel`,
     },
     castle.visit_duration && {
       icon: '⏱',
@@ -135,16 +161,14 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
         ))}
       </dl>
 
-      {getGYGUrl(castle) && (
-        <a
-          href={getGYGUrl(castle)!}
-          target="_blank"
-          rel="noopener noreferrer sponsored"
-          className="mt-5 w-full flex items-center justify-center gap-2 bg-[#1761a0] text-white text-sm font-semibold py-2.5 px-4 rounded-md hover:bg-[#1761a0]/90 transition-colors"
-        >
-          Get Tickets &amp; Tours →
-        </a>
-      )}
+      <a
+        href={primaryCta.href}
+        target="_blank"
+        rel="noopener noreferrer sponsored"
+        className="mt-5 w-full flex items-center justify-center gap-2 bg-[#1761a0] text-white text-sm font-semibold py-2.5 px-4 rounded-md hover:bg-[#1761a0]/90 transition-colors"
+      >
+        {primaryCta.label}
+      </a>
     </div>
   );
 }

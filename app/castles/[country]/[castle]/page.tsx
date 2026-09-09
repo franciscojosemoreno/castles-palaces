@@ -10,8 +10,9 @@ import CastleMap from '@/components/castle/CastleMap';
 import CastleCard from '@/components/castle/CastleCard';
 import GYGWidget from '@/components/affiliate/GYGWidget';
 import GYGFeaturedTour from '@/components/affiliate/GYGFeaturedTour';
+import HotelBookingCard from '@/components/castle/HotelBookingCard';
 import StructuredData from '@/components/seo/StructuredData';
-import { getGYGSearchUrl } from '@/lib/gyg';
+import { getPrimaryCta, isHotelOnly, getCurrencySymbol } from '@/lib/hotels';
 
 interface PageProps {
   params: Promise<{ country: string; castle: string }>;
@@ -53,6 +54,9 @@ export default async function CastlePage({ params }: PageProps) {
 
   const nearby = getNearbyCastles(castle, 4);
   const countryLabel = country.charAt(0).toUpperCase() + country.slice(1).replace('-', ' ');
+  const hotelOnly = isHotelOnly(castle);
+  const hasGYGWidgetContent = Boolean(castle.gyg_search_query || castle.gyg_location_id);
+  const primaryCta = getPrimaryCta(castle);
 
   return (
     <>
@@ -123,6 +127,7 @@ export default async function CastlePage({ params }: PageProps) {
               {castle.gyg_featured_tours && castle.gyg_featured_tours.length > 0 && (
                 <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
               )}
+              {castle.hotel?.is_hotel && <HotelBookingCard hotel={castle.hotel} />}
             </div>
 
             {/* Highlights */}
@@ -138,21 +143,23 @@ export default async function CastlePage({ params }: PageProps) {
               </ul>
             </div>
 
-            {/* Inline tour CTA — after highlights */}
+            {/* Inline CTA — after highlights, mobile only */}
             <div className="lg:hidden mb-8 flex items-center gap-3 bg-[#1761a0] rounded-lg px-4 py-4">
               <div className="flex-1 min-w-0">
                 <p className="text-white font-semibold text-sm leading-tight">
-                  Skip the queue with a guided tour
+                  {hotelOnly ? 'Stay in the castle itself' : 'Skip the queue with a guided tour'}
                 </p>
-                <p className="text-white/70 text-xs mt-0.5">Skip-the-line tickets & expert guides</p>
+                <p className="text-white/70 text-xs mt-0.5">
+                  {hotelOnly ? 'Book a room via Booking.com' : 'Skip-the-line tickets & expert guides'}
+                </p>
               </div>
               <a
-                href={getGYGSearchUrl(castle.name)}
+                href={primaryCta.href}
                 target="_blank"
                 rel="noopener noreferrer sponsored"
                 className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-xs px-4 py-2.5 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
               >
-                See Tours →
+                {hotelOnly ? 'Book Your Stay →' : 'See Tours →'}
               </a>
             </div>
 
@@ -233,13 +240,17 @@ export default async function CastlePage({ params }: PageProps) {
               <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
             )}
 
-            <GYGWidget
-              locationId={castle.gyg_location_id}
-              searchQuery={castle.gyg_search_query}
-              numResults={castle.gyg_num_results ?? 4}
-              widgetType={castle.gyg_widget_type}
-              title="Tours & Tickets"
-            />
+            {castle.hotel?.is_hotel && <HotelBookingCard hotel={castle.hotel} />}
+
+            {hasGYGWidgetContent && (
+              <GYGWidget
+                locationId={castle.gyg_location_id}
+                searchQuery={castle.gyg_search_query}
+                numResults={castle.gyg_num_results ?? 4}
+                widgetType={castle.gyg_widget_type}
+                title="Tours & Tickets"
+              />
+            )}
 
             {/* Instagram CTA */}
             <div className="bg-[#1761a0] text-white rounded-lg p-5 text-center">
@@ -258,15 +269,17 @@ export default async function CastlePage({ params }: PageProps) {
         </div>
 
         {/* GYG Widget — mobile (after main content) */}
-        <div className="lg:hidden mt-6">
-          <GYGWidget
-            locationId={castle.gyg_location_id}
-            searchQuery={castle.gyg_search_query}
-            numResults={castle.gyg_num_results ?? 4}
-            widgetType={castle.gyg_widget_type}
-            title="Tours & Tickets"
-          />
-        </div>
+        {hasGYGWidgetContent && (
+          <div className="lg:hidden mt-6">
+            <GYGWidget
+              locationId={castle.gyg_location_id}
+              searchQuery={castle.gyg_search_query}
+              numResults={castle.gyg_num_results ?? 4}
+              widgetType={castle.gyg_widget_type}
+              title="Tours & Tickets"
+            />
+          </div>
+        )}
       </div>
 
       {/* ── Sticky mobile booking bar ── */}
@@ -280,6 +293,18 @@ export default async function CastlePage({ params }: PageProps) {
                 <span className="text-stone-400 font-normal text-xs ml-1">
                   {castle.gyg_featured_tours[0].pricing_unit === 'group' ? '/ group' : '/ person'}
                 </span>
+              </p>
+            </>
+          ) : hotelOnly ? (
+            <>
+              <p className="text-xs text-stone-500 leading-none mb-0.5">Rooms from</p>
+              <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
+                {castle.hotel!.price_from_night != null ? (
+                  <>
+                    {getCurrencySymbol(castle.hotel!.currency)}{castle.hotel!.price_from_night}
+                    <span className="text-stone-400 font-normal text-xs ml-1">/ night</span>
+                  </>
+                ) : 'Check rates'}
               </p>
             </>
           ) : castle.price_adult !== undefined && castle.price_adult > 0 ? (
@@ -297,12 +322,12 @@ export default async function CastlePage({ params }: PageProps) {
           )}
         </div>
         <a
-          href={castle.gyg_featured_tours?.[0]?.booking_url_override ?? getGYGSearchUrl(castle.name)}
+          href={primaryCta.href}
           target="_blank"
           rel="noopener noreferrer sponsored"
           className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
         >
-          {castle.gyg_featured_tours?.[0] ? 'Top Tour →' : 'See Tours →'}
+          {hotelOnly ? 'Book Your Stay →' : castle.gyg_featured_tours?.[0] ? 'Top Tour →' : 'See Tours →'}
         </a>
       </div>
     </>

@@ -25,6 +25,19 @@ export interface FAQ {
   answer: string;
 }
 
+export interface CastleHotel {
+  is_hotel: boolean;
+  visitable_by_public: boolean;
+  hotel_name: string;
+  booking_url: string;
+  price_from_night: number | null;
+  currency: string;
+  star_category?: number;
+  room_count?: number;
+  source?: string;
+  sourced_date?: string;
+}
+
 export interface Castle {
   id: string;
   name: string;
@@ -46,6 +59,7 @@ export interface Castle {
   opening_hours?: OpeningHours;
   price_adult?: number;
   price_child?: number;
+  price_currency?: string; // ISO code for price_adult/price_child, e.g. "GBP" for a UK site. Defaults to EUR when absent.
   booking_required?: boolean;
   official_tickets_url?: string;
   visit_duration?: string;
@@ -95,6 +109,8 @@ export interface Castle {
     pricing_unit?: 'person' | 'group';
     covers_castles?: string[];
   }[];
+
+  hotel?: CastleHotel;
 }
 
 export interface Country {
