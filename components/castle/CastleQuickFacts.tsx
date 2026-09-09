@@ -75,14 +75,14 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
     },
     // Separate day-visit admission (e.g. an on-site museum), distinct from the room rate above —
     // only shown for hotel-only castles that also charge their own standalone entry fee.
-    hotelOnly && castle.price_adult !== undefined && {
+    hotelOnly && castle.price_adult != null && {
       icon: '🎟️',
       label: 'Day-visit entry',
       value: castle.price_adult === 0
         ? 'Free'
         : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`,
     },
-    !hotelOnly && (castle.price_adult !== undefined || castle.gyg_featured_tours?.[0]) && {
+    !hotelOnly && (castle.price_adult != null || castle.gyg_featured_tours?.[0]?.price_from != null) && {
       icon: '🎟️',
       label: (() => {
         const tour = castle.gyg_featured_tours?.[0];

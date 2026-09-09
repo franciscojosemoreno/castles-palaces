@@ -1,4 +1,5 @@
 import { Castle } from '@/types';
+import { getCurrencySymbol } from '@/lib/hotels';
 
 interface StructuredDataProps {
   castle: Castle;
@@ -71,8 +72,8 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
       streetAddress: castle.address ?? '',
       addressCountry: COUNTRY_CODES[castle.country] ?? castle.country.toUpperCase().slice(0, 2),
     },
-    ...(castle.price_adult !== undefined && {
-      priceRange: castle.price_adult === 0 ? 'Free' : `€${castle.price_adult}`,
+    ...(castle.price_adult != null && {
+      priceRange: castle.price_adult === 0 ? 'Free' : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`,
     }),
     ...(castle.opening_hours?.seasonal_note && {
       openingHoursSpecification: {
