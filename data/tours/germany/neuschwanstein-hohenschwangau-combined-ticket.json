@@ -1,0 +1,110 @@
+{
+  "id": "neuschwanstein-hohenschwangau-combined-ticket",
+  "slug": "neuschwanstein-hohenschwangau-combined-ticket",
+  "name": "Neuschwanstein & Hohenschwangau: Skip-the-Line Castle Ticket & Audio Guide",
+  "tagline": "Both of King Ludwig II's Bavarian castles on one reserved-timeslot ticket — the fairy-tale castle he built and the boyhood home he grew up dreaming from",
+  "departure_country": "germany",
+  "departure_city": "Füssen",
+  "visited_countries": [
+    "germany"
+  ],
+  "duration_days": 1,
+  "duration_label": "4 hours",
+  "gyg_tour_id": "1017191",
+  "gyg_url": "https://www.getyourguide.com/fussen-l2236/neuschwanstein-hohenschwangau-castle-entry-ticket-t1017191/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 79,
+  "currency": "EUR",
+  "rating": 4.5,
+  "review_count": 359,
+  "is_top_pick": false,
+  "languages": [
+    "German",
+    "English"
+  ],
+  "max_group_size": null,
+  "pricing_unit": "person",
+  "overview": "Neuschwanstein and Hohenschwangau sit within sight of each other on opposite hillsides above the village of Schwangau, and the great majority of visitors see both on the same day — this ticket bundles skip-the-line entry to both castles with a multilingual audio guide and reserved visit times, sold through the official International Ticket & Travel Center at Füssen train station.\n\n**Read the start-time note before booking.** The \"start time\" shown at checkout is not your castle entry time — it is the time you collect your physical tickets at the office in Füssen. Your first audio-guided tour begins more than an hour after that pickup, once you've made your way to Hohenschwangau and then on to Neuschwanstein. A typical schedule runs roughly: 9:20 ticket pickup, 11:00 Hohenschwangau tour, 13:30 Neuschwanstein tour. Arrive at the office on time — arriving late risks missing your reserved slots entirely, and this is one of Germany's most-visited attractions with no flexibility to simply walk up later.\n\nThe ticket covers admission to both castle interiors with reserved, audio-guided time slots and skip-the-line access — a meaningful advantage given how long the walk-up queues at Neuschwanstein in particular can run in peak season. What it does not cover is just as important to plan around: tickets are issued physically at the Füssen office rather than digitally, and the transport between Hohenschwangau village and Neuschwanstein itself — a 30-minute walk, a shuttle bus, or a horse-drawn carriage — is a separate cost on top of this ticket. Parking is also excluded. Budget for the shuttle or carriage fare (paid on-site) as an additional expense most visitors don't anticipate.\n\nHohenschwangau Castle is where King Ludwig II actually grew up, rebuilt in Gothic Revival style by his father Maximilian II in the 1830s–40s on the ruins of an earlier fortress; young Ludwig could see the ridge where he would later build Neuschwanstein directly from his boyhood windows. Neuschwanstein itself — Ludwig's own 19th-century fantasy castle, left unfinished at his death in 1886 and now one of the most photographed buildings in the world — was never a functioning royal residence in the traditional sense; Ludwig lived in it for barely six months before his death. Visiting both on the same reserved-timeslot ticket gives the clearest possible before-and-after picture of the same Bavarian royal family: the comparatively restrained castle a king was raised in, and the operatic one he built to escape it.",
+  "highlights": [
+    "Skip-the-line, audio-guided entry to both Neuschwanstein and Hohenschwangau castles on a single reserved ticket — no need to queue or book each castle separately",
+    "Audio guide included in 14 languages (German, English, French, Spanish, Italian, Japanese, Dutch, Chinese, Polish, Portuguese, Russian, Czech, Hungarian, Korean)",
+    "Hohenschwangau Castle — King Ludwig II's actual boyhood home, rebuilt by his father Maximilian II, with direct sightlines to the ridge where Ludwig would later build Neuschwanstein",
+    "Neuschwanstein Castle — Ludwig II's unfinished 19th-century fantasy castle, the direct architectural inspiration for Disney's Sleeping Beauty Castle and one of the most photographed buildings on Earth",
+    "Issued by the official International Ticket & Travel Center in Füssen — the authorised local ticketing office for both castles, not a third-party reseller markup"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Ticket Pickup — Füssen Train Station",
+      "duration": "Your reserved start time",
+      "description": "Your booked \"start time\" is the collection time for your physical tickets at the International Ticket & Travel Center inside Füssen train station, not your castle entry time. Arrive on time — the office issues timed tickets for both castles based on the day's schedule, and late arrival risks losing your reserved slots. Tickets are physical, not digital; there's no app or QR code to fall back on."
+    },
+    {
+      "order": 2,
+      "castle_id": "hohenschwangau-castle",
+      "castle_name": "Hohenschwangau Castle",
+      "duration": "Guided/audio tour, approx. 30–40 minutes, first slot roughly 1 hour after pickup",
+      "description": "Hohenschwangau is the yellow neo-Gothic castle in the valley, rebuilt in the 1830s–40s by King Maximilian II of Bavaria on the ruins of a medieval fortress. This is where King Ludwig II spent his childhood and adolescence, and the interior — considerably more lived-in and less theatrical than Neuschwanstein — reflects the taste of a working 19th-century royal household rather than a single monarch's private fantasy. From several of its windows, young Ludwig had a direct view of the ridge above, where he would later build the castle that made him famous."
+    },
+    {
+      "order": 3,
+      "castle_name": "Transfer to Neuschwanstein",
+      "duration": "30-minute walk, shuttle bus, or horse-drawn carriage (all extra cost, not included)",
+      "description": "Getting from Hohenschwangau up to Neuschwanstein requires either a steep 30-minute uphill walk, a shuttle bus, or a horse-drawn carriage — none of which are included in this ticket's price. The shuttle and carriage both charge separately on-site; budget a few extra euros and plan the timing so you reach your reserved Neuschwanstein slot without rushing."
+    },
+    {
+      "order": 4,
+      "castle_id": "neuschwanstein-castle",
+      "castle_name": "Neuschwanstein Castle",
+      "duration": "Guided/audio tour, approx. 30 minutes, typically early-to-mid afternoon",
+      "description": "Neuschwanstein is Ludwig II's own project — a 19th-century fantasy castle built in a deliberately theatrical medieval-revival style, incorporating Wagnerian opera themes throughout its interior murals. Construction was still incomplete at Ludwig's mysterious death in 1886, and he lived in the finished rooms for less than six months. The tour covers the completed staterooms, including the Throne Room and the Singers' Hall, both dense with the Wagnerian iconography Ludwig commissioned. The castle directly inspired Disney's Sleeping Beauty Castle and remains one of the most-visited sites in Germany."
+    }
+  ],
+  "included": [
+    "Entrance tickets to Neuschwanstein Castle",
+    "Entrance tickets to Hohenschwangau Castle",
+    "Reserved time slots for audio-guided tours at both castles",
+    "Skip-the-line access at both castles",
+    "Audio guide (14 languages)"
+  ],
+  "excluded": [
+    "Digital tickets — tickets are physical and must be collected in person at the Füssen office",
+    "Transport by shuttle bus or horse-drawn carriage between Hohenschwangau and Neuschwanstein",
+    "Parking",
+    "Food and drinks"
+  ],
+  "meeting_point": "International Ticket & Travel Center, Bahnhofstraße 12, 87629 Füssen, Germany (inside Füssen train station)",
+  "tips": [
+    "Your \"start time\" is a ticket-pickup time, not a castle entry time — the first audio tour typically begins over an hour after pickup. A realistic example schedule: 9:20 pickup, 11:00 Hohenschwangau, 13:30 Neuschwanstein",
+    "Budget for the shuttle bus or horse-drawn carriage between the two castles — neither is included, and the alternative is a genuinely steep 30-minute walk",
+    "Not suitable for visitors with mobility impairments or wheelchair users — both castles involve steep inclines and stairs with no step-free alternative route",
+    "This is one of Germany's most-visited attractions and sells out — book well in advance, especially in summer",
+    "Bring ID and comfortable shoes; both castles involve considerable walking on uneven, sloped terrain between the ticket office and the castles themselves"
+  ],
+  "faqs": [
+    {
+      "question": "Is the 'start time' when I enter the castles?",
+      "answer": "No — this is the single most important thing to understand before booking. Your reserved start time is when you collect your physical tickets at the International Ticket & Travel Center inside Füssen train station. Your first actual castle tour (typically Hohenschwangau) begins more than an hour after that pickup time, once you've made your way to the castle. A representative schedule looks like: 9:20 ticket pickup, 11:00 Hohenschwangau tour, 13:30 Neuschwanstein tour. Arrive at the office promptly — being late risks losing your reserved audio-tour slots for the day."
+    },
+    {
+      "question": "Does this ticket include transport between the two castles?",
+      "answer": "No. Getting from Hohenschwangau village up to Neuschwanstein requires a 30-minute uphill walk, a shuttle bus, or a horse-drawn carriage, and all of these are separate, additional costs paid on-site — none are bundled into this ticket's price. Parking near either castle is also excluded. Budget a few extra euros for the shuttle or carriage if you don't want to make the uphill walk, particularly in poor weather."
+    },
+    {
+      "question": "Why is Neuschwanstein's own individual ticket cheaper than this combined one?",
+      "answer": "Neuschwanstein Castle's standalone skip-the-line ticket costs from around €45 and covers only that one castle, versus this ticket's roughly €79 for both castles — so per-castle, the combined ticket isn't necessarily cheaper, but it is more efficient if you want to see both without arranging two separate bookings and queue times. Visitors who only want Neuschwanstein and have no interest in Hohenschwangau are generally better served booking Neuschwanstein's individual ticket directly, which is both less expensive overall and more straightforward to schedule."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/neuschwanstein-hohenschwangau-combined-ticket.webp",
+    "alt": "Neuschwanstein Castle and Hohenschwangau Castle on opposite hillsides above Schwangau, Bavaria, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Neuschwanstein & Hohenschwangau Combined Ticket — Bavaria's Royal Castles",
+    "description": "Skip-the-line entry to both of Bavaria's royal castles — Neuschwanstein and Hohenschwangau — with a multilingual audio guide and reserved tour times. From €79, 4 hours."
+  },
+  "last_updated": "2026-09-09"
+}

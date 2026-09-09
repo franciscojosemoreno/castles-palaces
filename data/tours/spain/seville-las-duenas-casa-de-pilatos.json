@@ -1,0 +1,102 @@
+{
+  "id": "seville-las-duenas-casa-de-pilatos",
+  "slug": "seville-las-duenas-casa-de-pilatos",
+  "name": "Seville: Palacio de las Dueñas & Casa de Pilatos Guided Tour",
+  "tagline": "Two of Seville's finest noble palaces in one guided walk — the House of Alba's Mudéjar-Renaissance home where poet Antonio Machado was born, and the palace that gave the city its own miniature Via Crucis",
+  "departure_country": "spain",
+  "departure_city": "Seville",
+  "visited_countries": [
+    "spain"
+  ],
+  "duration_days": 1,
+  "duration_label": "2 hours",
+  "gyg_tour_id": "1226540",
+  "gyg_url": "https://www.getyourguide.com/seville-l48/seville-palacio-de-las-duenas-casa-de-pilatos-guided-tour-t1226540/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 49,
+  "currency": "EUR",
+  "rating": 5,
+  "review_count": 18,
+  "is_top_pick": true,
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "max_group_size": null,
+  "pricing_unit": "person",
+  "overview": "Palacio de las Dueñas and Casa de Pilatos sit a short walk apart in Seville's historic centre, and both are exceptional examples of the same architectural tradition — Andalusian noble palaces blending Gothic, Mudéjar, and Renaissance elements around planted courtyards — without ever being confused for one another. This guided walk visits both with a single live English- or Spanish-speaking guide, skip-the-line entry to each, and enough context to understand what distinguishes them.\n\nPalacio de las Dueñas has belonged to the House of Alba since the 16th century and remains a private residence to this day, giving it a genuinely lived-in character that more institutionally managed palaces lack. It's best known as the birthplace of the poet Antonio Machado, one of Spain's most significant 20th-century literary figures, and for its exceptionally planted courtyards — orange trees, jasmine, and a profusion of potted plants arranged with a domestic informality that contrasts with the more curated gardens typical of Andalusian noble houses.\n\nCasa de Pilatos, by contrast, is popularly said to recreate the route of Christ's Passion in Jerusalem — its name and layout supposedly modelled on Pontius Pilate's house — and stands as one of the finest surviving examples of the Andalusian Renaissance style, blending Mudéjar tilework and stucco with Italian Renaissance architectural elements imported by the noble family who built it in the early 16th century. Its collection of classical sculpture and its azulejo tilework are considered among the finest in any private Sevillian palace.\n\nThis combined tour is a walking circuit through the historic centre rather than a driving excursion — the two palaces are close enough that no transport is needed between them, and the guide leads the group on foot, explaining each building's history, architecture, and the broader story of Seville's aristocratic families along the way. It suits visitors who want a single guided introduction to both palaces rather than navigating two separate entry tickets and audio guides independently.",
+  "highlights": [
+    "Two of Seville's most architecturally significant noble palaces on one guided walking tour, with skip-the-line entry to both",
+    "Palacio de las Dueñas — still a private House of Alba residence, birthplace of poet Antonio Machado, famous for its informally planted courtyards",
+    "Casa de Pilatos — an Andalusian Renaissance masterpiece blending Mudéjar tilework with Italian architectural elements, popularly linked to the route of Christ's Passion",
+    "A short, walkable circuit through Seville's historic centre — no transport needed between the two palaces",
+    "5★ from 18 verified reviews, \"Top Rated\" on GetYourGuide — a small but consistently praised product led by guide Héctor"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "casa-de-pilatos",
+      "castle_name": "Meeting Point — Plaza de Pilatos",
+      "duration": "Start",
+      "description": "The tour begins at Plaza de Pilatos, next to the public bicycle parking facing the statue of Francisco de Zurbarán, the Golden Age Sevillian painter. Arrive 15 minutes early. The guide introduces Casa de Pilatos first, covering its early 16th-century construction for the House of Medinaceli and the enduring (if historically disputed) local tradition that its design deliberately echoes Pontius Pilate's house in Jerusalem, giving Seville its own symbolic starting point for a miniature Via Crucis procession."
+    },
+    {
+      "order": 2,
+      "castle_id": "casa-de-pilatos",
+      "castle_name": "Casa de Pilatos",
+      "duration": "Approx. 1 hour",
+      "description": "Inside, the palace's Mudéjar-Renaissance courtyard is lined with 16th-century azulejo tilework and classical statuary collected by the Enríquez de Ribera family, who built the house after a pilgrimage to the Holy Land. The guide covers the blend of Gothic, Mudéjar, and Italian Renaissance elements that make Casa de Pilatos one of the most architecturally layered noble houses in Andalusia, and its long-standing role in Seville's Semana Santa traditions."
+    },
+    {
+      "order": 3,
+      "castle_id": "las-duenas-palace",
+      "castle_name": "Palacio de las Dueñas",
+      "duration": "Approx. 1 hour",
+      "description": "The group walks the short distance to Palacio de las Dueñas, the House of Alba's Seville residence and still an occupied private home. The guide covers its Mudéjar-Gothic architecture, its famously informal, densely planted courtyards, and its connection to poet Antonio Machado, who was born here in 1875 — a detail commemorated with a plaque and verses displayed within the palace grounds."
+    }
+  ],
+  "included": [
+    "Live guide (English or Spanish)",
+    "Entrance to Palacio de las Dueñas",
+    "Entrance to Casa de Pilatos",
+    "Skip-the-line access to both palaces"
+  ],
+  "excluded": [
+    "Transport (the tour is a walking circuit in the historic centre; both palaces are within easy walking distance of each other)",
+    "Food and drinks"
+  ],
+  "meeting_point": "Plaza de Pilatos, next to the public bicycle parking, facing the statue of Francisco de Zurbarán, Seville. Arrive 15 minutes before the scheduled start.",
+  "tips": [
+    "Arrive 15 minutes early at Plaza de Pilatos — the meeting point is specific (next to the bike parking, facing the Zurbarán statue) and easy to miss if you're not looking for it",
+    "This tour is not suitable for people with mobility impairments or wheelchair users — both palaces have uneven historic flooring and stepped thresholds between rooms",
+    "Both individual palaces also sell their own standalone entry tickets (Las Dueñas from around €15, Casa de Pilatos from around €12) at a lower combined cost with far more reviews — this guided combo is the better choice specifically if you want live guided commentary at both in a single outing rather than two independent self-guided visits",
+    "Wear comfortable, flat shoes — Seville's historic centre streets are cobbled and the walk between the two palaces, while short, adds up over the full visit",
+    "Photography is generally permitted in both palaces' courtyards; confirm any restrictions on interior rooms with the guide on the day"
+  ],
+  "faqs": [
+    {
+      "question": "Is this cheaper than buying separate tickets for each palace?",
+      "answer": "No — buying the two palaces' own standalone tickets separately (Las Dueñas from around €15, Casa de Pilatos from around €12, so roughly €27 combined) costs less than this guided tour's €49 per person, and both individual tickets carry far more reviews (4,242 and 7,284 respectively) than this newer combined product's 18. This tour's value is the live guided commentary connecting both palaces in a single outing, not a price saving — visitors who mainly want to save money and are comfortable self-guiding should book the two individual tickets instead."
+    },
+    {
+      "question": "Do I need to arrange transport between the two palaces?",
+      "answer": "No. Palacio de las Dueñas and Casa de Pilatos are close enough in Seville's historic centre that the tour is a walking circuit — the guide leads the group on foot between them, and no bus, taxi, or other transport is included or needed."
+    },
+    {
+      "question": "What is the connection between Casa de Pilatos and Pontius Pilate?",
+      "answer": "The name and traditional local lore hold that the house's builder, Fadrique Enríquez de Ribera, modelled its design on the House of Pontius Pilate in Jerusalem after making a pilgrimage there in the early 16th century, intending the palace to mark the symbolic starting point of a Seville Via Crucis procession retracing Christ's route to Calvary. Modern art historians treat the direct architectural correspondence with some skepticism, but the association has endured in local tradition and in the palace's name and popular association with Seville's Holy Week (Semana Santa) devotional culture ever since."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/seville-las-duenas-casa-de-pilatos.webp",
+    "alt": "The Mudéjar-Renaissance courtyard of Casa de Pilatos in Seville, with azulejo tilework and classical statuary",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Seville: Palacio de las Dueñas & Casa de Pilatos Guided Tour",
+    "description": "Visit two of Seville's finest noble palaces in one guided walk — Palacio de las Dueñas, birthplace of poet Antonio Machado, and the Mudéjar-Renaissance Casa de Pilatos. From €49, 2 hours, skip-the-line entry to both."
+  },
+  "last_updated": "2026-09-09"
+}

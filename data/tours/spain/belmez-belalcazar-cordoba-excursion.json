@@ -1,0 +1,117 @@
+{
+  "id": "belmez-belalcazar-cordoba-excursion",
+  "slug": "belmez-belalcazar-cordoba-excursion",
+  "name": "Córdoba: Belmez & Belalcázar Castles Day Excursion",
+  "tagline": "Four centuries of Los Pedroches castle-building in one day — a Moorish rock-top tower and one of Andalusia's tallest Gothic keeps, with round-trip transport from Córdoba",
+  "departure_country": "spain",
+  "departure_city": "Córdoba",
+  "visited_countries": [
+    "spain"
+  ],
+  "duration_days": 1,
+  "duration_label": "10 hours",
+  "gyg_tour_id": "1388140",
+  "gyg_url": "https://www.getyourguide.com/andalusia-l68/cordoba-excursion-to-the-castles-of-belmez-and-belalcazar-t1388140/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 1290,
+  "currency": "EUR",
+  "rating": null,
+  "review_count": 0,
+  "is_top_pick": false,
+  "languages": [
+    "Spanish",
+    "French",
+    "Arabic",
+    "English"
+  ],
+  "max_group_size": 50,
+  "pricing_unit": "group",
+  "overview": "**This tour is priced at €1,290 per group of up to 50 people — not per person.** It requires a minimum of 4 participants to run; if the minimum isn't reached, the operator (BINFIRNAS TRAVEL) offers an alternate date or a full refund. This is a genuinely new listing with no reviews yet on GetYourGuide.\n\nThe excursion covers the two principal medieval castles of the Los Pedroches comarca in northern Córdoba province, 45 kilometres apart and representing opposite ends of the region's fortification history. Belmez Castle is a Moorish-origin tower perched on a near-vertical quartzite outcrop, taken by Ferdinand III of Castile in 1241 during the Reconquista push through the upper Guadalquivir basin. Belalcázar Castle is a 15th-century Gothic fortress built by the Sotomayor family, with one of the tallest surviving medieval keeps in Andalusia.\n\nThe two stops are not treated identically on this tour, and the difference matters for anyone deciding whether to book. Belalcázar gets an explicit entrance fee and a guided interior visit with a specialised local guide, taking in the Torre del Homenaje and the adjacent Convento de Santa Clara. Belmez, by contrast, is described by the operator as a visit to the site and its grounds — GYG's own Includes list does not confirm a ticketed interior entrance at Belmez, only \"visit to Belmez Castle,\" consistent with the fact that Belmez's exterior viewpoints are freely accessible without a ticket in any case. Visitors whose main interest is a guided interior experience should weight their expectations accordingly: Belalcázar is the castle you go inside with a guide, Belmez is the dramatic rock-top stop you walk around and photograph.\n\nThe day runs as a full coach circuit from Córdoba: a 1.5-hour drive to Belmez, time at the castle grounds, a 40-minute transfer to Belalcázar, a 1.5-hour guided visit there, an optional 1.5-hour break at a nearby café-restaurant, and a roughly 100-minute return drive to Córdoba. At 10 hours door-to-door for two relatively compact hilltop sites, this is a long day built around the driving distances of rural northern Córdoba province rather than dense sightseeing at either stop — appropriate for visitors who specifically want both castles without renting a car, less so for anyone hoping for a brisk half-day trip.",
+  "highlights": [
+    "Two castles spanning four centuries of Los Pedroches fortress-building — the Moorish-origin rock tower at Belmez (1241, Reconquista) and the 15th-century Gothic keep at Belalcázar, one of Andalusia's tallest",
+    "Guided interior visit at Belalcázar with a specialised local guide, covering the Torre del Homenaje and the adjacent Convento de Santa Clara — Belmez is a grounds/exterior stop, not a ticketed interior visit",
+    "Round-trip transport from Córdoba's Julio Anguita station — the practical way to reach two rural hilltop castles 75–90 km from the city without a hire car",
+    "Private group format — priced as a flat €1,290 for up to 50 people rather than per person, which changes the economics considerably depending on group size",
+    "Optional café break at Cafetería-Restaurante EGO Belalcázar between the castle visits — free time for photos and refreshments before the return drive"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Departure — Estación de Córdoba Julio Anguita",
+      "duration": "Start",
+      "description": "The excursion departs by coach from Córdoba's Julio Anguita station. Arrive with ID (passport or national ID card required) — the group heads northwest into the Sierra Morena foothills for the roughly 1.5-hour drive to Belmez."
+    },
+    {
+      "order": 2,
+      "castle_id": "belmez-castle",
+      "castle_name": "Belmez Castle",
+      "duration": "1.5 hours",
+      "description": "Belmez Castle sits atop a near-vertical quartzite rock outcrop above the town, taken by Ferdinand III of Castile in 1241 during the Reconquista campaign that had already delivered Córdoba five years earlier. The visit covers the castle grounds and the dramatic panoramic viewpoints over the Sierra Morena and Los Pedroches valley — GYG describes this stop as a visit to the site rather than a ticketed interior entrance, consistent with Belmez's freely accessible exterior grounds."
+    },
+    {
+      "order": 3,
+      "castle_id": "belalcazar-castle",
+      "castle_name": "Belalcázar Castle",
+      "duration": "1.5 hours, guided",
+      "description": "After a 40-minute transfer, the group reaches Belalcázar Castle — a 15th-century Gothic fortress commissioned by the Sotomayor family, with one of the tallest medieval keeps in Andalusia. This stop includes an entrance fee and a guided visit led by a specialised local guide, covering the Torre del Homenaje and the adjacent Convento de Santa Clara, where the Sotomayor family tombs are housed."
+    },
+    {
+      "order": 4,
+      "castle_name": "Café Break — Cafetería-Restaurante EGO Belalcázar",
+      "duration": "1.5 hours (optional)",
+      "description": "An optional break at a café-restaurant in Belalcázar town for free time, photos, and refreshments before the return journey. Food and drinks purchased here are not included in the tour price."
+    },
+    {
+      "order": 5,
+      "castle_name": "Return to Córdoba",
+      "duration": "Approx. 100 minutes",
+      "description": "The coach returns to Estación de Córdoba Julio Anguita to conclude the roughly 10-hour day."
+    }
+  ],
+  "included": [
+    "Round-trip transportation from Córdoba",
+    "Tour guide for the entire excursion",
+    "Entrance fee to Belalcázar Castle",
+    "Guided visit to Belalcázar Castle with a licensed local guide",
+    "Visit to Belmez Castle (grounds/exterior — no separate entrance fee confirmed)",
+    "Free time to explore and take photographs"
+  ],
+  "excluded": [
+    "Meals and drinks",
+    "Personal expenses"
+  ],
+  "meeting_point": "Estación de Córdoba Julio Anguita, Gta. Tres Culturas, s/n, Noroeste, 14011 Córdoba, Spain",
+  "tips": [
+    "This tour is priced per group (up to 50 people), not per person — the per-person value depends heavily on how many people you're travelling with; a solo traveller or couple pays the same €1,290 as a group of 15",
+    "Minimum 4 participants required for the tour to run — if that threshold isn't met, expect an offer of an alternate date or a full refund rather than a guaranteed departure",
+    "Bring a passport or national ID card — it's explicitly requested, and alcohol and drugs are not permitted on the excursion",
+    "Belmez is the photogenic exterior/viewpoint stop; Belalcázar is where you actually go inside with a guide — set expectations accordingly if interior access is your priority",
+    "Not suitable for people with mobility impairments — both castles involve uneven terrain and a meaningful uphill approach at Belmez in particular"
+  ],
+  "faqs": [
+    {
+      "question": "Is the €1,290 price per person, or for the whole group?",
+      "answer": "It's a flat price for the whole group, for up to 50 people — not per person. This is a private-group product rather than a shared per-seat coach tour, so the economics depend entirely on how many people you're travelling with. A minimum of 4 participants is required for the tour to actually run; if that minimum isn't reached, the operator will offer either an alternate date (subject to availability) or a full refund."
+    },
+    {
+      "question": "Do I get a guided tour inside both castles?",
+      "answer": "No — only Belalcázar. GetYourGuide's own listing confirms an entrance fee and a guided interior visit with a specialised local guide at Belalcázar Castle, covering the Torre del Homenaje and the adjacent Convento de Santa Clara. Belmez Castle is listed simply as a \"visit\" — the operator does not confirm a ticketed interior entrance there, consistent with the fact that Belmez's grounds and exterior viewpoints are freely accessible to independent visitors without any ticket at all."
+    },
+    {
+      "question": "Why is this a 10-hour day for two castles that are only 45 km apart?",
+      "answer": "Most of the day is driving time through rural northern Córdoba province rather than time at the castles themselves: roughly 1.5 hours from Córdoba to Belmez, 40 minutes between Belmez and Belalcázar, and about 100 minutes back to Córdoba at the end, plus an optional 1.5-hour café break. The actual guided/visit time at the two castles combined is around 3 hours. This is the trade-off of visiting two rural hilltop sites without a hire car — the round trip from Córdoba simply takes most of a day."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/belmez-belalcazar-cordoba-excursion.webp",
+    "alt": "Belmez Castle on its quartzite rock outcrop and Belalcázar Castle's Gothic keep in the Los Pedroches comarca, Córdoba province, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Belmez & Belalcázar Castles Day Excursion from Córdoba",
+    "description": "A full-day private excursion from Córdoba to two of Andalusia's most striking hilltop castles — Belmez and Belalcázar — with round-trip transport and a guided tour of Belalcázar's Gothic keep. From €1,290 per group (up to 50), 10 hours."
+  },
+  "last_updated": "2026-09-09"
+}
