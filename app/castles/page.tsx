@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { getPublishedCastles } from '@/lib/castles';
 import { getAllCountries } from '@/lib/countries';
+import { isHotelOnly } from '@/lib/hotels';
 import CastleCard from '@/components/castle/CastleCard';
 import Link from 'next/link';
 
@@ -10,7 +11,9 @@ export const metadata: Metadata = {
 };
 
 export default function CastlesIndexPage() {
-  const castles = getPublishedCastles();
+  // Estado C (hotel-only, no visit product) castles are browsed under Castle Hotels,
+  // not the visit-focused Castles directory — their own page stays live and linkable.
+  const castles = getPublishedCastles().filter((c) => !isHotelOnly(c));
   const countries = getAllCountries();
 
   return (

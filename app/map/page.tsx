@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { getPublishedCastles } from '@/lib/castles';
+import { isHotelOnly } from '@/lib/hotels';
 import CastleMap from '@/components/map/CastleMap';
 
 export const metadata: Metadata = {
@@ -8,7 +9,9 @@ export const metadata: Metadata = {
 };
 
 export default function MapPage() {
-  const castles = getPublishedCastles();
+  // Estado C (hotel-only, no visit product) castles are browsed under Castle Hotels,
+  // not the visit-focused directory the map surfaces.
+  const castles = getPublishedCastles().filter((c) => !isHotelOnly(c));
   const mapData = castles.map(c => ({
     id: c.id,
     name: c.name,

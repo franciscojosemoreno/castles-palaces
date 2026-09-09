@@ -3,6 +3,7 @@ import Image from 'next/image';
 import type { Metadata } from 'next';
 import { getCastlesByCountry, getAllCountrySlugs } from '@/lib/castles';
 import { getCountryBySlug } from '@/lib/countries';
+import { isHotelOnly } from '@/lib/hotels';
 import CastleCard from '@/components/castle/CastleCard';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import CountryStructuredData from '@/components/seo/CountryStructuredData';
@@ -31,7 +32,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 export default async function CountryPage({ params }: PageProps) {
   const { country } = await params;
   const countryData = getCountryBySlug(country);
-  const castles = getCastlesByCountry(country);
+  // Estado C (hotel-only, no visit product) castles are browsed under Castle Hotels,
+  // not the visit-focused Castles directory — their own page stays live and linkable.
+  const castles = getCastlesByCountry(country).filter((c) => !isHotelOnly(c));
 
   if (!countryData) notFound();
 
