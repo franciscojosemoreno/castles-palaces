@@ -1,0 +1,88 @@
+{
+  "id": "faside-estate",
+  "name": "Faside Estate",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 16,
+  "country": "scotland",
+  "region": "East Lothian — near Tranent",
+  "nearest_city": "Edinburgh",
+  "address": "Tranent, East Lothian EH33 2LE, Scotland",
+  "lat": 55.9367,
+  "lng": -2.9333,
+  "unesco": false,
+  "year_built": 1189,
+  "architectural_style": "Medieval tower house on a prominent ridge, with a house added alongside it in 1618; restored in the 1980s and Category B listed",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Not open for casual day visits — exclusive-use rental for private events and weddings only",
+  "best_season": "Year-round for private bookings",
+  "accessibility": "A restored medieval tower house with a later 1618 house alongside it; contact the estate directly regarding accessibility for private bookings.",
+  "booking_advance_days": 0,
+  "tagline": "Granted by the monks of Newbattle Abbey in 1189 for the 1st Earl of Winchester, fought over during the last pitched battle between Scotland and England, and rented today as an exclusive-use private castle",
+  "highlights": [
+    "The name dates to 1189, when monks of Newbattle Abbey granted the land to Saer de Quincy, 1st Earl of Winchester, to build a castle — a fortification is believed to have already stood on this prominent ridge since the 11th century",
+    "Held by the Fawside family through the 13th and 14th centuries; confiscated from Alexander de Such by Robert the Bruce",
+    "Overlooked the Battle of Pinkie in 1547 — the last pitched battle fought between Scotland and England as separate nations, with the Duke of Somerset commanding English forces from a position beside the castle",
+    "A new house was built alongside the older castle in 1618; the estate appears absent from window tax records between 1748 and 1798, suggesting it stood empty for much of that period",
+    "Restored in the 1980s and now Category B listed; today offered as an exclusive-use rental for private events, weddings and luxury retreats rather than a conventional hotel"
+  ],
+  "description": "Faside Estate occupies a commanding ridge near Tranent in East Lothian, roughly midway between Musselburgh and the town itself, and its name carries a documented history stretching back further than almost any other property in this collection. The name itself dates to 1189, when monks from Newbattle Abbey granted this land to Saer de Quincy, who would go on to become the 1st Earl of Winchester, specifically so that he could build a castle here — though local tradition and archaeological evidence both suggest some form of fortification had already occupied this prominent, defensible ridge since as early as the 11th century, well before de Quincy's formal grant.\n\nOwnership in the centuries that followed passed through several hands typical of medieval Scottish landholding disputes: the property belonged at one point to Alexander de Such, before being confiscated by Robert the Bruce, whose consolidation of royal authority in the early 14th century involved exactly this kind of redistribution of contested estates. The Fawside family — whose name is directly reflected in the estate's own — held the property through the 13th and 14th centuries, with specific individuals recorded in the historical record: Thomas de Fawside, a knight, appears in 1376, and William and Gavin of Fawside are both documented in 1476, giving Faside an unusually well-preserved thread of named medieval ownership.\n\nThe estate's single most significant historical moment came in 1547, when it found itself overlooking the Battle of Pinkie — a genuinely consequential engagement remembered as the last pitched battle fought between Scotland and England as fully separate nations, before the eventual union of the crowns reshaped the relationship between the two countries. The Duke of Somerset commanded the English forces from a position immediately beside the castle, placing Faside at the literal centre of one of the defining military encounters in Anglo-Scottish history.\n\nA new house was built alongside the older castle structure in 1618, and the estate's fortunes fluctuated considerably in the centuries that followed: it was sold in 1631 to an Edinburgh merchant named Hamilton, and its notable absence from window tax records between 1748 and 1798 — a period when most substantial houses of this kind would be expected to appear in such records — strongly suggests the property stood empty or largely unused for much of the later 18th century. Faside's more recent history has been considerably kinder: the estate was restored in the 1980s and now holds Category B listed status, Scotland's official recognition of buildings of particular architectural or historic interest.\n\nUnlike every other property in this collection, Faside does not operate as a conventional hotel offering individual room bookings. Instead, the estate is rented on an exclusive-use basis for private events, weddings and luxury retreats — meaning a booking secures the entire castle and its grounds for the duration of the stay, rather than a single room within a shared property. This model reflects both the estate's more intimate scale and its positioning toward groups seeking privacy and exclusivity, and prospective visitors should approach Faside with that distinction clearly in mind: there is no day-visit, restaurant or casual dropped-in access here, and current rates and availability are best confirmed directly through the booking link for specific event dates.",
+  "history": "The name Faside dates to 1189, when monks of Newbattle Abbey granted the land to Saer de Quincy, later 1st Earl of Winchester, to build a castle, though a fortification is believed to have already stood on the site since the 11th century. The property belonged to Alexander de Such before being confiscated by Robert the Bruce, and was held by the Fawside family through the 13th and 14th centuries, with Thomas de Fawside recorded as a knight in 1376 and William and Gavin of Fawside recorded in 1476. In 1547, Faside overlooked the Battle of Pinkie, the last pitched battle fought between Scotland and England as separate nations, with the Duke of Somerset commanding English forces from beside the castle. A new house was built alongside the castle in 1618, the estate was sold to an Edinburgh merchant named Hamilton in 1631, and its absence from window tax records between 1748 and 1798 suggests it stood largely unused during that period. Faside was restored in the 1980s and is now Category B listed.",
+  "faqs": [
+    {
+      "question": "Can I book a single room at Faside Estate like a normal hotel?",
+      "answer": "No. Faside Estate operates on an exclusive-use rental model rather than as a conventional hotel — a booking secures the entire castle and grounds for private events, weddings or luxury retreats, not an individual room within a shared property. There is no day-visit or casual walk-in access, and current rates for exclusive hire are best confirmed directly through the booking link for specific dates."
+    },
+    {
+      "question": "What is the Battle of Pinkie, and why is it significant to Faside Estate?",
+      "answer": "The Battle of Pinkie, fought in 1547, is remembered as the last pitched battle fought between Scotland and England as fully separate nations before the eventual union of the crowns. Faside Estate directly overlooked the battle, and the Duke of Somerset commanded English forces from a position immediately beside the castle, placing the estate at the centre of this historically significant Anglo-Scottish engagement."
+    },
+    {
+      "question": "How old is Faside Estate?",
+      "answer": "The name Faside dates to 1189, when monks of Newbattle Abbey granted the land to Saer de Quincy, 1st Earl of Winchester, specifically to build a castle. Evidence suggests a fortification may have already stood on this prominent ridge since as early as the 11th century, making Faside's documented history among the longest of any property in this collection."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/faside-estate.webp",
+    "alt": "Faside Estate near Tranent, East Lothian, Scotland, a medieval castle overlooking the site of the 1547 Battle of Pinkie",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/faside-estate.webp",
+  "instagram_tag": "#fasideestate",
+  "meta_title": "Faside Estate — A Medieval Castle Overlooking the Battle of Pinkie",
+  "meta_description": "Rent Faside Estate near Tranent exclusively — a medieval East Lothian castle that overlooked the 1547 Battle of Pinkie, now hired privately for events and retreats.",
+  "tags": [
+    "scotland",
+    "east-lothian",
+    "castle-hotel",
+    "exclusive-use",
+    "medieval",
+    "weddings"
+  ],
+  "last_updated": "2026-09-10",
+  "routes": [],
+  "nearby_castles": [
+    "carberry-tower",
+    "dalhousie-castle",
+    "edinburgh-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Faside Estate",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=faside-estate&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Ffaside-estate.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D340340%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151%23map_closed",
+    "currency": "GBP",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-10"
+  }
+}

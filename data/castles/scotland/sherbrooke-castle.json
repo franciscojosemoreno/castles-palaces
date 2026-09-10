@@ -1,0 +1,89 @@
+{
+  "id": "sherbrooke-castle",
+  "name": "Sherbrooke Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 17,
+  "country": "scotland",
+  "region": "Glasgow — Pollokshields",
+  "nearest_city": "Glasgow",
+  "address": "Pollokshields, Glasgow G41 4PG, Scotland",
+  "lat": 55.8324,
+  "lng": -4.2809,
+  "unesco": false,
+  "year_built": 1896,
+  "architectural_style": "Scots Baronial mansion, built 1896 to a design by Thomson and Sandilands and originally named 'Rhuadsgeir'",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A late-Victorian Baronial mansion in a residential Glasgow neighbourhood; contact the hotel directly regarding specific accessibility requirements for a stay.",
+  "booking_advance_days": 0,
+  "tagline": "A Royal Glasgow Institute-exhibited Baronial mansion that trained Admiralty recruits in the Second World War, now a 4-star hotel in the quiet south-side neighbourhood of Pollokshields",
+  "highlights": [
+    "Built in 1896 as a private residence originally named 'Rhuadsgeir,' designed by the architects Thomson and Sandilands in the Scots Baronial style",
+    "The house's design was exhibited at the Royal Glasgow Institute of the Fine Arts' annual exhibition in 1896",
+    "Used by the Admiralty for training during the Second World War, earning the local nickname 'the ship that never sailed'",
+    "Converted into a hotel shortly after the war",
+    "Today a 4-star, VisitScotland-rated hotel in the quiet residential Pollokshields neighbourhood on Glasgow's south side"
+  ],
+  "description": "Sherbrooke Castle stands in Pollokshields, a leafy residential neighbourhood on the south side of Glasgow, and its origins reflect the wave of substantial private houses built by the city's prosperous merchant and professional classes in the closing years of the 19th century. Built in 1896 as a private residence originally named 'Rhuadsgeir,' the house was designed by the architectural partnership of Thomson and Sandilands in the confident Scots Baronial style then fashionable for grand suburban villas across Scotland's cities. The house's architectural quality was recognised at the time by its peers: the design was exhibited at the Royal Glasgow Institute of the Fine Arts' annual exhibition in 1896, a mark of genuine local architectural distinction rather than merely private prestige.\n\nThe house's most unusual chapter came during the Second World War, when it was requisitioned by the Admiralty for training purposes. Sherbrooke's landlocked position deep within a residential Glasgow suburb, combined with its use for naval training, earned it a memorable local nickname: 'the ship that never sailed.' It is a detail worth noting alongside a genuine coincidence elsewhere in Scotland's castle-hotel landscape — Blackness Castle, on the Firth of Forth and already documented on this site, carries the very same nickname, for the very same reason: its shape and wartime naval training role led locals to call it a ship that would never leave port. The two buildings are entirely unconnected beyond sharing this wry piece of wartime wordplay, a small but genuine curiosity for anyone tracking Scotland's stranger historical footnotes.\n\nSherbrooke's conversion into a hotel followed not long after the war, transforming the private Baronial mansion into a hospitality venue serving Glasgow's south side. The building's grand original features — turrets, ornate stonework and the spacious proportions typical of its era — were retained through the conversion, giving guests a genuine sense of late-Victorian architectural ambition rather than a purpose-built modern hotel experience.\n\nToday Sherbrooke operates as a 4-star hotel, its official rating confirmed by VisitScotland, the national tourist board, and it has built a role as a venue for business functions, leisure stays and weddings alike, drawing on the character of its Baronial public rooms for events as much as its individually appointed guest bedrooms. Its setting in Pollokshields places it within a quiet, tree-lined residential pocket of the city, a short distance from Glasgow's core amenities and transport links but genuinely removed from the noise and density of the city centre — an appealing combination for visitors who want easy access to Glasgow's museums, galleries and Southside attractions like Pollok Country Park without staying in the thick of downtown hotel rows.\n\nUnlike several of the other Scottish castle-hotels documented on this site, Sherbrooke's restaurant and public bar do not have a clearly confirmed, consistent policy of welcoming non-resident diners without a room booking — accounts vary, and the safest approach for anyone hoping to visit purely for a meal is to contact the hotel directly in advance to check current availability, rather than assume walk-in access.\n\nPollokshields itself has its own architectural distinction worth knowing: laid out from the mid-19th century as one of Glasgow's planned suburbs for the city's merchant and professional classes, the neighbourhood retains an unusually high concentration of large Victorian villas and terraces, many in the same Scots Baronial or Gothic Revival idioms that shaped Sherbrooke itself. For visitors interested in Glasgow's 19th-century residential architecture beyond the more famous Charles Rennie Mackintosh sites in the city centre, a walk through Pollokshields' tree-lined streets around the hotel offers a genuinely rewarding, lower-key alternative.",
+  "history": "Sherbrooke Castle was built in 1896 as a private residence originally named 'Rhuadsgeir,' designed by the architects Thomson and Sandilands in the Scots Baronial style. The house's design was exhibited at the Royal Glasgow Institute of the Fine Arts' annual exhibition in the same year. During the Second World War, the building was used by the Admiralty for training purposes, earning it the local nickname 'the ship that never sailed' owing to its landlocked residential setting. The house was converted into a hotel shortly after the war and has operated as one since, today holding a 4-star VisitScotland classification.",
+  "faqs": [
+    {
+      "question": "Can I eat at Sherbrooke Castle without staying overnight?",
+      "answer": "This is not clearly confirmed. Unlike several other Scottish castle-hotels with an explicit, stated policy of welcoming non-resident diners, accounts of Sherbrooke's restaurant and bar access for non-guests are mixed and inconsistent. Anyone hoping to visit purely for a meal is best served contacting the hotel directly in advance to confirm current availability rather than assuming walk-in access."
+    },
+    {
+      "question": "Why is Sherbrooke Castle nicknamed 'the ship that never sailed'?",
+      "answer": "The nickname dates to the Second World War, when the building was requisitioned by the Admiralty for training purposes despite standing deep within a landlocked residential Glasgow neighbourhood — the irony of a naval training site with no access to the sea gave rise to the name. Coincidentally, Blackness Castle on the Firth of Forth carries the identical nickname for a similar wartime naval-training reason, though the two buildings and their histories are entirely unconnected."
+    },
+    {
+      "question": "Who designed Sherbrooke Castle, and when was it built?",
+      "answer": "Sherbrooke Castle was built in 1896 as a private residence originally named 'Rhuadsgeir,' designed by the architectural partnership of Thomson and Sandilands in the Scots Baronial style. The design's architectural quality was recognised at the time through its inclusion in the Royal Glasgow Institute of the Fine Arts' annual exhibition that same year."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/sherbrooke-castle.webp",
+    "alt": "Sherbrooke Castle in the Pollokshields neighbourhood of Glasgow, Scotland, a Baronial mansion built in 1896",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/sherbrooke-castle.webp",
+  "instagram_tag": "#sherbrookecastle",
+  "meta_title": "Sherbrooke Castle — A Baronial Mansion in Glasgow's Pollokshields",
+  "meta_description": "Stay at Sherbrooke Castle in Glasgow's Pollokshields — an 1896 Baronial mansion once used for Admiralty training, now a 4-star VisitScotland-rated hotel.",
+  "tags": [
+    "scotland",
+    "glasgow",
+    "castle-hotel",
+    "victorian",
+    "pollokshields"
+  ],
+  "last_updated": "2026-09-10",
+  "routes": [],
+  "nearby_castles": [
+    "crossbasket-castle",
+    "stirling-castle",
+    "dundonald-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Sherbrooke Castle Hotel",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=sherbrook-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Fsherbrook-castle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D35365%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785005326%26srpvid%3D026884454df10b23%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 127,
+    "currency": "GBP",
+    "star_category": 4,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-10"
+  }
+}
