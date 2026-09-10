@@ -82,6 +82,7 @@ type CastlePin = {
   unesco: boolean;
   tags: string[];
   hero_image: string;
+  isHotel: boolean;
 };
 
 const CLUSTER_SVG = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(
@@ -115,9 +116,9 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
     return true;
   });
 
-  const markerIcon = (type: string, isSelected: boolean) => ({
+  const markerIcon = (type: string, isSelected: boolean, isHotel: boolean) => ({
     path: 'M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z',
-    fillColor: isSelected ? '#c9a84c' : (type === 'palace' ? '#1761a0' : type === 'fortress' ? '#7c3f1e' : '#1a6b3a'),
+    fillColor: isSelected ? '#c9a84c' : isHotel ? '#9333ea' : (type === 'palace' ? '#1761a0' : type === 'fortress' ? '#7c3f1e' : '#1a6b3a'),
     fillOpacity: 1,
     strokeColor: '#ffffff',
     strokeWeight: 1.5,
@@ -263,7 +264,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                     key={castle.id}
                     position={{ lat: castle.lat, lng: castle.lng }}
                     clusterer={clusterer}
-                    icon={markerIcon(castle.type, selectedCastle?.id === castle.id)}
+                    icon={markerIcon(castle.type, selectedCastle?.id === castle.id, castle.isHotel)}
                     onClick={() => setSelectedCastle(castle)}
                     title={castle.name}
                   />
@@ -288,6 +289,9 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                   {selectedCastle.unesco && (
                     <span className="absolute top-1.5 left-1.5 bg-[#1761a0] text-white text-[10px] font-bold px-1.5 py-0.5 rounded">UNESCO</span>
                   )}
+                  {selectedCastle.isHotel && (
+                    <span className="absolute top-1.5 right-1.5 bg-[#9333ea] text-white text-[10px] font-bold px-1.5 py-0.5 rounded">🏨 HOTEL</span>
+                  )}
                 </div>
                 <p className="text-[10px] text-stone-400 uppercase tracking-wider mb-0.5">
                   {COUNTRY_LABELS[selectedCastle.country] ?? selectedCastle.country} · {selectedCastle.type}
@@ -303,7 +307,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                   href={`/castles/${selectedCastle.country}/${selectedCastle.slug}`}
                   className="block w-full text-center bg-[#1761a0] text-white text-xs font-bold px-3 py-2 rounded hover:bg-[#0f4f8a] transition-colors"
                 >
-                  View Castle →
+                  {selectedCastle.isHotel ? 'View Hotel →' : 'View Castle →'}
                 </a>
               </div>
             </InfoWindow>

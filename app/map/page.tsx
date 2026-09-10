@@ -9,9 +9,9 @@ export const metadata: Metadata = {
 };
 
 export default function MapPage() {
-  // Estado C (hotel-only, no visit product) castles are browsed under Castle Hotels,
-  // not the visit-focused directory the map surfaces.
-  const castles = getPublishedCastles().filter((c) => !isHotelOnly(c));
+  // Unlike /castles, the map is a location tool rather than a "what to visit" editorial
+  // grid — Estado C (hotel-only) castles stay in, flagged as isHotel for a distinct marker.
+  const castles = getPublishedCastles();
   const mapData = castles.map(c => ({
     id: c.id,
     name: c.name,
@@ -25,6 +25,7 @@ export default function MapPage() {
     unesco: c.unesco ?? false,
     tags: c.tags ?? [],
     hero_image: c.hero_image.url,
+    isHotel: isHotelOnly(c),
   }));
 
   return (
