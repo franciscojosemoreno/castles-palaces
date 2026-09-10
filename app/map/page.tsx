@@ -26,6 +26,8 @@ export default function MapPage() {
     tags: c.tags ?? [],
     hero_image: c.hero_image.url,
     isHotel: isHotelOnly(c),
+    hotel_price_from_night: c.hotel?.price_from_night ?? undefined,
+    hotel_currency: c.hotel?.currency,
   }));
 
   return (

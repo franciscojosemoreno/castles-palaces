@@ -3,6 +3,7 @@
 import { useState, useCallback, useRef } from 'react';
 import { GoogleMap, useJsApiLoader, MarkerClusterer, Marker, InfoWindow } from '@react-google-maps/api';
 import Link from 'next/link';
+import { getCurrencySymbol } from '@/lib/hotels';
 
 const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY ?? '';
 
@@ -83,6 +84,8 @@ type CastlePin = {
   tags: string[];
   hero_image: string;
   isHotel: boolean;
+  hotel_price_from_night?: number;
+  hotel_currency?: string;
 };
 
 const CLUSTER_SVG = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(
@@ -310,7 +313,13 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                 </p>
                 <p className="font-serif font-bold text-[#1761a0] text-sm leading-tight mb-1">{selectedCastle.name}</p>
                 <p className="text-stone-500 text-xs leading-relaxed mb-2 line-clamp-2">{selectedCastle.tagline}</p>
-                {selectedCastle.price_adult !== undefined && (
+                {selectedCastle.isHotel ? (
+                  <p className="text-xs text-stone-600 mb-2">
+                    {selectedCastle.hotel_price_from_night != null
+                      ? `🏨 From ${getCurrencySymbol(selectedCastle.hotel_currency ?? 'EUR')}${selectedCastle.hotel_price_from_night} / night`
+                      : '🏨 Check rates'}
+                  </p>
+                ) : selectedCastle.price_adult !== undefined && (
                   <p className="text-xs text-stone-600 mb-2">
                     {selectedCastle.price_adult === 0 ? '🎟 Free entry' : `🎟 From €${selectedCastle.price_adult}`}
                   </p>
