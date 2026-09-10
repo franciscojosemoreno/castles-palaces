@@ -99,6 +99,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
   const [filterType, setFilterType] = useState('');
   const [filterUnescoOnly, setFilterUnescoOnly] = useState(false);
   const [filterFreeOnly, setFilterFreeOnly] = useState(false);
+  const [filterHotelOnly, setFilterHotelOnly] = useState(false);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const mapRef = useRef<google.maps.Map | null>(null);
 
@@ -113,6 +114,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
     if (filterType && c.type !== filterType) return false;
     if (filterUnescoOnly && !c.unesco) return false;
     if (filterFreeOnly && c.price_adult !== 0) return false;
+    if (filterHotelOnly && !c.isHotel) return false;
     return true;
   });
 
@@ -126,7 +128,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
     anchor: { x: 12, y: 24 } as google.maps.Point,
   });
 
-  const hasActiveFilters = filterCountry || filterType || filterUnescoOnly || filterFreeOnly;
+  const hasActiveFilters = filterCountry || filterType || filterUnescoOnly || filterFreeOnly || filterHotelOnly;
 
   if (!isLoaded) {
     return (
@@ -199,6 +201,15 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
               </div>
               <span className="text-sm text-stone-700">UNESCO only</span>
             </label>
+            <label className="flex items-center gap-3 cursor-pointer">
+              <div
+                onClick={() => setFilterHotelOnly(!filterHotelOnly)}
+                className={`w-10 h-5 rounded-full transition-colors flex-shrink-0 relative ${filterHotelOnly ? 'bg-[#9333ea]' : 'bg-stone-200'}`}
+              >
+                <div className={`absolute top-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform ${filterHotelOnly ? 'translate-x-5' : 'translate-x-0.5'}`} />
+              </div>
+              <span className="text-sm text-stone-700">Castle hotels only</span>
+            </label>
             {/* Free entry toggle hidden pending free_entry field audit — re-enable once verified */}
             {/* <label className="flex items-center gap-3 cursor-pointer">
               <div
@@ -214,7 +225,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
           {/* Reset */}
           {hasActiveFilters && (
             <button
-              onClick={() => { setFilterCountry(''); setFilterType(''); setFilterUnescoOnly(false); setFilterFreeOnly(false); }}
+              onClick={() => { setFilterCountry(''); setFilterType(''); setFilterUnescoOnly(false); setFilterFreeOnly(false); setFilterHotelOnly(false); }}
               className="mt-5 w-full text-xs text-stone-400 hover:text-[#c9a84c] transition-colors underline"
             >
               Reset all filters
