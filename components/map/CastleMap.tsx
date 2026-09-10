@@ -255,6 +255,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
           onClick={() => setSelectedCastle(null)}
         >
           <MarkerClusterer
+            key={`${filterCountry}|${filterType}|${filterUnescoOnly}|${filterFreeOnly}|${filterHotelOnly}`}
             options={{
               imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m',
               maxZoom: 10,
