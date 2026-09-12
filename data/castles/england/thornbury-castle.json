@@ -1,0 +1,91 @@
+{
+  "id": "thornbury-castle",
+  "name": "Thornbury Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "england",
+  "region": "South Gloucestershire — near Bristol",
+  "nearest_city": "Bristol",
+  "address": "Castle Street, Thornbury, South Gloucestershire BS35 1HH, England",
+  "lat": 51.6103,
+  "lng": -2.5240,
+  "unesco": false,
+  "year_built": 1511,
+  "architectural_style": "Early Tudor fortified manor house begun in 1511 for Edward Stafford, 3rd Duke of Buckingham — grand country residence more than genuine military fortress, with restrained defensive features",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Restaurant dining: 1–2 hours; overnight stay separately bookable",
+  "best_season": "Year-round",
+  "accessibility": "A Grade I listed early Tudor manor house with a fine-dining restaurant open to non-residents; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "England's only Tudor castle open as a hotel — begun by a Duke executed for treason, visited by Henry VIII and Anne Boleyn, and once one of Britain's most celebrated restaurants",
+  "highlights": [
+    "Building began in 1511 for Edward Stafford, 3rd Duke of Buckingham, as an additional residence — conceived as a grand early Tudor country house rather than a genuine military fortress, with only sparse defensive features",
+    "The Duke was executed for treason in 1521, and the castle passed to the Crown; Henry VIII stayed here with Anne Boleyn for ten days in August 1535 — guests today can sleep in the room Henry VIII himself occupied",
+    "Fell into disuse after the Civil War; restored in the 19th century by the Howard family, who owned it until 1960",
+    "Operated as one of Britain's most celebrated restaurants from 1966 to 1986 under chef Kenneth Bell MBE",
+    "Grade I listed, today a 27-room Relais & Châteaux hotel with a 3-AA-Rosette restaurant, the only Tudor castle in England open as a hotel"
+  ],
+  "description": "Thornbury Castle stands in South Gloucestershire on the edge of the Cotswolds, a short distance from Bristol, and its origins belong to one of the most consequential and ultimately tragic careers in early Tudor England. Building began in 1511 for Edward Stafford, 3rd Duke of Buckingham, one of the wealthiest and most highly ranked noblemen in the kingdom, who conceived Thornbury as an additional grand residence rather than a working fortress — its Tudor-era architecture is far more concerned with comfort, display and fashionable design than with genuine military defence, reflecting a moment when England's nobility increasingly built for status rather than siege warfare.\n\nBuckingham's ambition proved fatal in the most literal sense. He was executed for treason in 1521, accused of plotting against Henry VIII, and Thornbury passed into royal hands as a result of his attainder. The castle's connection to the Tudor court did not end there: Henry VIII himself stayed at Thornbury with Anne Boleyn for ten days in August 1535, during the royal progress that took place in the years surrounding their marriage. That visit has left a genuinely tangible legacy for modern guests — the room Henry VIII occupied during his stay can still be booked today, offering overnight visitors a rare, direct physical connection to one of English history's most consequential royal figures.\n\nThornbury's fortunes declined considerably after the English Civil War, and the castle fell into disuse for an extended period. Restoration came in the 19th century under the Howard family, who took ownership of the property and held it until 1960 — a period that stabilised and preserved the castle's Tudor fabric for the modern era. Thornbury's most unexpected chapter, however, unfolded between 1966 and 1986, when the castle operated as one of the most celebrated restaurants in Britain under the chef Kenneth Bell MBE, drawing serious culinary attention to this corner of Gloucestershire decades before 'destination dining' became a familiar concept.\n\nToday Thornbury Castle holds Grade I listed status and operates as a 27-room hotel within the Relais & Châteaux group, a mark of genuine international luxury-hospitality recognition, alongside an AA classification of 4 Red Stars. It is, distinctively, the only Tudor castle in England open as a hotel — a genuinely unique position among England's country-house hotels, most of which occupy later Georgian, Victorian or Edwardian buildings rather than surviving early 16th-century fabric.\n\nThornbury's dining reputation continues through the Tower Restaurant, which carries 3 AA Rosettes and is explicitly open to non-residents with advance reservation, offering a six-course tasting menu, an à la carte selection, and afternoon tea. For visitors exploring Bristol, Bath or the southern Cotswolds who want a genuine taste of Tudor England without booking a room, Thornbury's restaurant provides a direct, historically grounded way to experience the castle — dining in rooms that once hosted a king, within walking distance of gardens first laid out for a Duke who never lived to see his castle completed.\n\nThe castle's grounds themselves carry genuine historical weight beyond the building: Thornbury's walled Tudor gardens are considered the oldest surviving example of their kind in England, with formal planting dating back to the reign of Henry VIII still traceable in the garden's structure, alongside 16th-century bee-holes and an 18th-century ha-ha. The gardens were reinterpreted in the 19th century in a Tudor-revival style that shapes their present appearance, and a more recently planted vineyard on the grounds now supplies grapes for wine served at the hotel's own restaurant. Combined with the castle's position on the edge of the Cotswolds, an area of outstanding natural beauty, Thornbury offers a genuinely layered day out for visitors willing to look beyond its dramatic Tudor history alone.",
+  "history": "Building at Thornbury Castle began in 1511 for Edward Stafford, 3rd Duke of Buckingham, conceived as a grand early Tudor residence rather than a genuine fortress. Buckingham was executed for treason in 1521, and the castle passed to the Crown; Henry VIII stayed at Thornbury with Anne Boleyn for ten days in August 1535. The castle fell into disuse after the Civil War and was restored in the 19th century by the Howard family, who owned it until 1960. Between 1966 and 1986, Thornbury operated as one of Britain's most celebrated restaurants under chef Kenneth Bell MBE. Grade I listed, it operates today as a 27-room Relais & Châteaux hotel, the only Tudor castle in England open as a hotel.",
+  "faqs": [
+    {
+      "question": "Can I eat at Thornbury Castle without staying overnight?",
+      "answer": "Yes. The Tower Restaurant, which carries 3 AA Rosettes, is open to non-residents with advance reservation, offering a six-course tasting menu, an à la carte menu, and afternoon tea. Booking ahead is recommended given the restaurant's reputation and limited capacity."
+    },
+    {
+      "question": "Can I really stay in the room Henry VIII used at Thornbury Castle?",
+      "answer": "Yes. Henry VIII stayed at Thornbury Castle with Anne Boleyn for ten days in August 1535, and the room he occupied during that visit is available to book today as part of the hotel's accommodation — a rare direct link to a specific, documented royal stay rather than a general historical association."
+    },
+    {
+      "question": "Why is Thornbury Castle called the only Tudor castle hotel in England?",
+      "answer": "Thornbury Castle's construction began in 1511, during the reign of Henry VIII, making it a genuine early Tudor-era building. Most other English castle-hotels occupy later Georgian, Victorian or Edwardian structures, or medieval buildings substantially remodelled in later centuries — Thornbury's surviving early 16th-century fabric, combined with its operation as a hotel, makes it a genuinely unique case among England's country-house hotels."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/thornbury-castle.webp",
+    "alt": "Thornbury Castle in South Gloucestershire, England, an early Tudor fortified manor house begun in 1511",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/thornbury-castle.webp",
+  "instagram_tag": "#thornburycastle",
+  "meta_title": "Thornbury Castle — England's Only Tudor Castle Hotel",
+  "meta_description": "Stay at or dine in Thornbury Castle near Bristol — the only Tudor castle in England open as a hotel, once visited by Henry VIII and Anne Boleyn.",
+  "tags": [
+    "england",
+    "gloucestershire",
+    "castle-hotel",
+    "tudor",
+    "henry-viii",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-12",
+  "routes": [],
+  "nearby_castles": [
+    "berkeley-castle",
+    "corfe-castle",
+    "warwick-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Thornbury Castle - A Relais & Chateaux Hotel",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=thornbury-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Fthornbury-castle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D177670%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785000254%26srpvid%3D91217a5a230e088d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 136,
+    "currency": "GBP",
+    "star_category": 4,
+    "room_count": 27,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-12"
+  }
+}

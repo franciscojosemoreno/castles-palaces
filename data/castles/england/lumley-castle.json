@@ -1,0 +1,94 @@
+{
+  "id": "lumley-castle",
+  "name": "Lumley Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "england",
+  "region": "County Durham — Chester-le-Street",
+  "nearest_city": "Durham",
+  "address": "Chester-le-Street, County Durham DH3 4NX, England",
+  "lat": 54.8590,
+  "lng": -1.5570,
+  "unesco": false,
+  "year_built": 1389,
+  "architectural_style": "14th-century quadrangular fortress, built 1389, with later alterations attributed to Sir John Vanbrugh — a mix of Norman and Gothic elements",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Restaurant dining or afternoon tea: 1–2 hours; free to visit the castle exterior and grounds outside of exclusive private events; overnight stay separately bookable",
+  "best_season": "Year-round — summer afternoon tea sometimes served in the castle's inner courtyard",
+  "accessibility": "A Grade I listed 14th-century fortress overlooking the River Wear and Durham County Cricket Ground; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Sir Ralph Lumley's 1389 fortress, later reworked by the celebrated architect Sir John Vanbrugh, free to visit except on exclusive private event dates — and one of the Northeast's leading wedding venues",
+  "highlights": [
+    "Built in 1389 by Sir Ralph Lumley, a soldier noted for his role defending Berwick-on-Tweed in 1388 and fighting at the Battle of Otterburn",
+    "Later alterations attributed to the celebrated architect Sir John Vanbrugh, blending Norman and Gothic elements",
+    "Served for a period as a temporary residence of the Bishop of Durham",
+    "Overlooks the River Wear and Durham County Cricket Ground",
+    "A hotel since 1976 and today one of the leading wedding venues in Northeast England; described by Historic Houses as free to visit except during exclusive private events on Christmas Eve, Christmas Day and Boxing Day"
+  ],
+  "description": "Lumley Castle stands above the River Wear at Chester-le-Street in County Durham, built in 1389 by Sir Ralph Lumley as both a defensive stronghold and the family seat that would carry the Lumley name for generations. Sir Ralph was no ordinary medieval builder — he had already established a genuine military reputation through his role in the defence of Berwick-on-Tweed in 1388 and his part in the Battle of Otterburn, one of the notable clashes of the ongoing Anglo-Scottish border conflicts of the period, and Lumley Castle reflects the practical, battle-tested priorities of a soldier building for his family's long-term security in a genuinely contested landscape.\n\nThe castle's architectural character deepened considerably in later centuries through alterations attributed to Sir John Vanbrugh, one of the most celebrated architects and playwrights of the late 17th and early 18th centuries, best known for grand English country houses including Blenheim Palace and Castle Howard. Vanbrugh's involvement at Lumley connects this Durham fortress to the same architectural tradition responsible for some of England's most theatrically ambitious country houses, and the resulting building blends genuine Norman-era defensive elements with later Gothic detailing in a layered architectural history spanning several centuries.\n\nLumley's role extended beyond purely military and family functions: the castle served for a period as a temporary residence of the Bishop of Durham, one of medieval and early modern England's most powerful ecclesiastical figures, reflecting the castle's standing and suitability for high-status occupation beyond the Lumley family itself. Its position above the River Wear, with views today extending to the Durham County Cricket Ground, gives the castle a genuinely striking setting that has endured through every phase of its use.\n\nLumley Castle has operated as a hotel since 1976, and it has grown into one of the leading wedding and events venues in Northeast England, drawing on both the castle's genuine medieval fabric and its later architectural refinements to host large-scale celebrations. What sets Lumley apart from many comparable properties, however, is the clarity of its public access policy: Historic Houses describes the castle as free to visit, with the sole exception of exclusive private event dates around Christmas Eve, Christmas Day and Boxing Day, when the property is closed to outside visitors for seasonal celebrations. This is reinforced directly by the hotel's own site, which confirms that both guests and non-residents are welcome to dine in the Knights Restaurant and the Library Bar — offering fine dining, Sunday lunches, a bar menu, and daily afternoon tea, which is sometimes served in the castle's own inner courtyard during summer months, weather permitting.\n\nFor visitors exploring Durham Cathedral, the wider county, or simply passing through the Northeast, Lumley Castle offers a genuinely rare combination among England's castle-hotels: free general access to the building itself outside of a handful of exclusive event dates, alongside a fully functioning restaurant and bar open to anyone, all within a fortress built by a documented Border warrior and later refined by one of England's most celebrated architects.\n\nChester-le-Street itself sits within easy reach of both Durham to the south and Newcastle to the north, making Lumley a convenient stop for visitors travelling between the two cities along the Wear and Tyne valleys. The castle's position directly overlooking Durham County Cricket Ground's Riverside stadium also gives it an unusual modern-day connection to English sport, with match-day views of international cricket forming a striking, entirely unplanned counterpoint to a building whose original purpose was Border defence rather than spectator entertainment.",
+  "history": "Lumley Castle was built in 1389 by Sir Ralph Lumley, a soldier noted for his role in defending Berwick-on-Tweed in 1388 and fighting at the Battle of Otterburn. Later alterations to the castle are attributed to the architect Sir John Vanbrugh, blending Norman and Gothic elements. The castle served for a period as a temporary residence of the Bishop of Durham. Lumley Castle has operated as a hotel since 1976 and is today one of the leading wedding venues in Northeast England.",
+  "faqs": [
+    {
+      "question": "Is Lumley Castle free to visit?",
+      "answer": "Yes, generally. Historic Houses describes Lumley Castle as free to visit, with the exception of exclusive private event dates around Christmas Eve, Christmas Day and Boxing Day, when the property closes to outside visitors. The hotel's own site confirms that both guests and non-residents can dine in the Knights Restaurant and the Library Bar year-round."
+    },
+    {
+      "question": "Can I eat at Lumley Castle without staying overnight?",
+      "answer": "Yes. Both the Knights Restaurant and the Library Bar welcome hotel guests and non-residents alike, offering fine dining, Sunday lunches, a bar menu and daily afternoon tea. During summer, afternoon tea is sometimes served in the castle's own inner courtyard, weather permitting."
+    },
+    {
+      "question": "Who was Sir Ralph Lumley, and why did he build the castle?",
+      "answer": "Sir Ralph Lumley was a soldier who had already established a genuine military reputation through his role in defending Berwick-on-Tweed in 1388 and fighting at the Battle of Otterburn before building Lumley Castle in 1389, as both a defensive stronghold and a lasting family seat during a period of ongoing Anglo-Scottish border conflict."
+    },
+    {
+      "question": "What did Sir John Vanbrugh contribute to Lumley Castle?",
+      "answer": "Sir John Vanbrugh, one of the most celebrated architects and playwrights of the late 17th and early 18th centuries, is credited with later alterations to Lumley Castle that blended Gothic detailing with the building's original Norman-era defensive elements. Vanbrugh is best known for grand English country houses including Blenheim Palace and Castle Howard, connecting Lumley to the same architectural tradition responsible for some of England's most theatrically ambitious houses."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lumley-castle.webp",
+    "alt": "Lumley Castle above the River Wear in Chester-le-Street, County Durham, England, built in 1389 by Sir Ralph Lumley",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lumley-castle.webp",
+  "instagram_tag": "#lumleycastle",
+  "meta_title": "Lumley Castle — A Border Warrior's Fortress, Free to Visit",
+  "meta_description": "Stay at or visit Lumley Castle near Durham — Sir Ralph Lumley's 1389 fortress, later refined by Sir John Vanbrugh, free to visit with dining open to non-residents.",
+  "tags": [
+    "england",
+    "county-durham",
+    "castle-hotel",
+    "medieval",
+    "free-entry",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-12",
+  "routes": [],
+  "nearby_castles": [
+    "bamburgh-castle",
+    "alnwick-castle",
+    "cliffords-tower"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Lumley Castle Hotel",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=lumleycastle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Flumleycastle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D230879%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785001023%26srpvid%3D635e7bdc6def0799%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 52,
+    "currency": "GBP",
+    "star_category": 4,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-12"
+  }
+}
