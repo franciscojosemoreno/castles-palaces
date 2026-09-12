@@ -1,0 +1,93 @@
+{
+  "id": "lews-castle",
+  "name": "Lews Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "scotland",
+  "region": "Isle of Lewis, Outer Hebrides",
+  "nearest_city": "Stornoway",
+  "address": "Stornoway, Isle of Lewis, Outer Hebrides HS1 2DG, Scotland",
+  "lat": 58.2141,
+  "lng": -6.3854,
+  "unesco": false,
+  "year_built": 1847,
+  "architectural_style": "Gothic Revival mansion, mid-19th century, commissioned by Sir James Matheson",
+  "price_adult": 0,
+  "price_currency": "GBP",
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Museum: 1–2 hours, free entry; grounds freely accessible; overnight stay separately bookable",
+  "best_season": "Year-round — Museum nan Eilean, the café and bar operate throughout the year",
+  "accessibility": "A restored 19th-century Gothic Revival mansion with a modern museum wing; contact the hotel directly regarding specific accessibility requirements for a stay.",
+  "booking_advance_days": 0,
+  "tagline": "A Gothic Revival mansion overlooking Stornoway harbour, now a 23-room hotel beside a free museum holding six of the 12th-century Lewis Chessmen",
+  "highlights": [
+    "Built in the mid-19th century in the Gothic Revival style, commissioned by Sir James Matheson",
+    "Served as a Second World War hospital, then a further period as a college and school, before restoration",
+    "Today operated by Natural Retreats as a 4-star hotel with 23 restored rooms and suites",
+    "Directly connected to Museum nan Eilean, the island's museum and contemporary gallery, home to six of the famous 12th-century Lewis Chessmen on permanent display — free entry, donations welcome",
+    "The ground-floor bar and café are open to non-residents, and the castle grounds are freely accessible to anyone — no overnight stay required for any of it"
+  ],
+  "description": "Lews Castle stands above Stornoway harbour on the Isle of Lewis, in the Outer Hebrides, and its origins reflect the wealth and ambition of one of the most significant figures in the island's 19th-century history. The castle was built in the mid-19th century in the Gothic Revival style, commissioned by Sir James Matheson, who had purchased the entire island of Lewis in 1844 with a fortune built through his trading firm Jardine Matheson — one of the largest commercial enterprises operating between Britain and East Asia in this period. Matheson's investment in Lewis extended well beyond the castle itself, encompassing drainage, roads and other infrastructure projects intended to modernise the island, though his legacy on Lewis remains a genuinely complicated one, entangled with the wider and often devastating history of the Highland Clearances across the west coast and islands of Scotland.\n\nThe castle's own history moved through several distinct institutional uses over the following century. During the Second World War, the building served as a hospital, treating casualties in a role shared by numerous large Scottish country houses and castles pressed into service during the conflict. In the decades that followed, Lews Castle took on educational functions, operating successively as a college and later a school, before eventually falling into disuse ahead of a substantial restoration that returned the building to public and hospitality use.\n\nToday Lews Castle is operated as a hotel by Natural Retreats, offering 23 restored rooms and suites across the historic building, holding an official 4-star classification. The restoration preserved the Gothic Revival character of Matheson's original design while adapting the interior for modern hospitality — a genuine architectural throughline connecting a mid-Victorian commercial fortune to a 21st-century island hotel.\n\nWhat sets Lews Castle apart most clearly from other properties in this collection, however, is its direct connection to Museum nan Eilean, the Isle of Lewis's museum and contemporary gallery space, built as an extension to the castle and opened in 2016. The museum's single most celebrated holding is a set of six of the internationally famous Lewis Chessmen — extraordinarily detailed 12th-century chess pieces carved from walrus ivory, discovered on Lewis in the 19th century and now held partly by the British Museum, with these six pieces returned to the island on long-term loan for permanent display. Entry to the museum is entirely free, with only a donation box for visitors who wish to contribute, making it one of the most significant free cultural attractions anywhere in the Outer Hebrides.\n\nBeyond the museum, Lews Castle's ground-floor bar and café are explicitly open to non-residents, and the castle's extensive surrounding grounds and woodland — a rare stretch of mature tree cover this far into the Hebrides — are freely accessible to anyone exploring Stornoway on foot, with no ticket, reservation or overnight stay required for any of it. Taken together, the free museum, open café and bar, and unrestricted grounds make Lews Castle one of the most genuinely and thoroughly public-facing properties in this entire pilot collection, a rare case where the 'hotel-only' Estado C classification reflects only the absence of a ticketed visit product, not any actual restriction on access.\n\nStornoway itself is the largest town in the Outer Hebrides and the main gateway for ferry travel to and from the Scottish mainland, connecting to Ullapool on the northwest coast. For visitors arriving by ferry or exploring Lewis and Harris more widely — home to some of the finest beaches in Scotland, the ancient standing stones at Calanais, and a rich Gaelic cultural heritage distinct from much of the rest of the country — Lews Castle's grounds and museum make a natural first or last stop, sitting only a short walk from both the harbour and the town centre.",
+  "history": "Lews Castle was built in the mid-19th century in the Gothic Revival style, commissioned by Sir James Matheson, who had purchased the island of Lewis in 1844 with a fortune built through the trading firm Jardine Matheson. During the Second World War, the castle served as a hospital, and in subsequent decades it operated successively as a college and a school before falling into disuse ahead of restoration. The castle is today operated as a hotel by Natural Retreats, with 23 restored rooms and suites. In 2016, Museum nan Eilean opened as an extension to the castle, holding six of the 12th-century Lewis Chessmen on long-term loan from the British Museum, alongside the island's wider museum and contemporary gallery collection.",
+  "faqs": [
+    {
+      "question": "Is Museum nan Eilean at Lews Castle really free to visit?",
+      "answer": "Yes. Entry to Museum nan Eilean, the museum and contemporary gallery built as an extension to Lews Castle, is completely free, with only a donation box available for visitors who wish to contribute. The museum holds six of the famous 12th-century Lewis Chessmen on permanent display, on long-term loan from the British Museum, making it one of the most significant free cultural attractions in the Outer Hebrides."
+    },
+    {
+      "question": "Can I visit Lews Castle without staying overnight?",
+      "answer": "Yes, extensively. The castle's ground-floor bar and café are open to non-residents, the surrounding grounds and woodland are freely accessible to anyone, and Museum nan Eilean is free to enter. No overnight stay, ticket or reservation is required for any part of this — Lews Castle is one of the most openly public-facing properties among Scotland's castle-hotels."
+    },
+    {
+      "question": "What are the Lewis Chessmen, and why are they at Lews Castle?",
+      "answer": "The Lewis Chessmen are a set of intricately carved 12th-century chess pieces made from walrus ivory, discovered on the Isle of Lewis in the 19th century. Most of the pieces are held by the British Museum and National Museum of Scotland, but six have returned to the island on long-term loan and are permanently displayed at Museum nan Eilean, directly connected to Lews Castle."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lews-castle.webp",
+    "alt": "Lews Castle above Stornoway harbour on the Isle of Lewis, Scotland, a Gothic Revival mansion connected to Museum nan Eilean",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lews-castle.webp",
+  "instagram_tag": "#lewscastle",
+  "meta_title": "Lews Castle — A Free Museum and 23-Room Hotel in Stornoway",
+  "meta_description": "Stay at Lews Castle in Stornoway — a Gothic Revival hotel beside the free Museum nan Eilean, home to six of the 12th-century Lewis Chessmen.",
+  "tags": [
+    "scotland",
+    "isle-of-lewis",
+    "castle-hotel",
+    "outer-hebrides",
+    "museum",
+    "day-visit",
+    "free-entry"
+  ],
+  "last_updated": "2026-09-12",
+  "routes": [],
+  "nearby_castles": [
+    "dunvegan-castle",
+    "eilean-donan-castle",
+    "inverness-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Natural Retreats Lews Castle",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=lews-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Fnatural-retreats-lews-castle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D2284979%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785005500%26srpvid%3D09ec849be4bb0788%26type%3Dtotal%26ucfs%3D1%26%23map_closed",
+    "price_from_night": 110,
+    "currency": "GBP",
+    "star_category": 4,
+    "room_count": 23,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-12"
+  }
+}
