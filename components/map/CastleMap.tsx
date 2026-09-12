@@ -84,6 +84,7 @@ type CastlePin = {
   tags: string[];
   hero_image: string;
   isHotel: boolean;
+  hasHotel: boolean;
   hotel_price_from_night?: number;
   hotel_currency?: string;
 };
@@ -117,7 +118,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
     if (filterType && c.type !== filterType) return false;
     if (filterUnescoOnly && !c.unesco) return false;
     if (filterFreeOnly && c.price_adult !== 0) return false;
-    if (filterHotelOnly && !c.isHotel) return false;
+    if (filterHotelOnly && !c.hasHotel) return false;
     return true;
   });
 

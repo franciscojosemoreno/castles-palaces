@@ -10,7 +10,11 @@ export const metadata: Metadata = {
 
 export default function MapPage() {
   // Unlike /castles, the map is a location tool rather than a "what to visit" editorial
-  // grid — Estado C (hotel-only) castles stay in, flagged as isHotel for a distinct marker.
+  // grid — Estado C (hotel-only) castles stay in, flagged as isHotel for the distinct purple
+  // marker/badge. hasHotel is broader (any castle with a bookable hotel component, including
+  // Estado B like Castle Fraser) and drives the "Castle hotels only" filter toggle only —
+  // the marker colour and popup still key off isHotel so a real visit-castle like Castle
+  // Fraser keeps its normal type-coloured pin rather than the "hotel-only" purple one.
   const castles = getPublishedCastles();
   const mapData = castles.map(c => ({
     id: c.id,
@@ -26,6 +30,7 @@ export default function MapPage() {
     tags: c.tags ?? [],
     hero_image: c.hero_image.url,
     isHotel: isHotelOnly(c),
+    hasHotel: Boolean(c.hotel?.is_hotel),
     hotel_price_from_night: c.hotel?.price_from_night ?? undefined,
     hotel_currency: c.hotel?.currency,
   }));
