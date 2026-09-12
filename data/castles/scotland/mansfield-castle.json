@@ -1,0 +1,94 @@
+{
+  "id": "mansfield-castle",
+  "name": "Mansfield Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 17,
+  "country": "scotland",
+  "region": "Highlands — Tain, Ross-shire",
+  "nearest_city": "Inverness",
+  "address": "Scotsburn Road, Tain, Ross-shire IV19 1PR, Scotland",
+  "lat": 57.8145,
+  "lng": -4.0567,
+  "unesco": false,
+  "year_built": 1879,
+  "architectural_style": "Victorian mansion, built in the late 1870s, on grounds with 18th-century origins; Category B Listed since 29 October 1982",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A Category B listed Victorian mansion in 3 acres of grounds, with original oak-panelled public rooms; contact the hotel directly regarding specific accessibility requirements for a stay.",
+  "booking_advance_days": 0,
+  "tagline": "An 18th-century Ross-shire estate renamed for its 19th-century owner, rebuilt as an imposing Victorian mansion and today an award-winning restaurant hotel five minutes from Tain",
+  "highlights": [
+    "The castle and its lands date to the 18th century; the estate changed hands several times before George Murray bought it in the early 19th century and renamed it 'Mansfield'",
+    "The imposing Victorian building seen today was constructed in the late 1870s",
+    "Set in 3 acres of grounds, 5 minutes from the centre of Tain",
+    "Category B Listed since 29 October 1982",
+    "The restaurant is known for award-winning cuisine and retains its original oak panelling"
+  ],
+  "description": "Mansfield Castle stands a short distance from the historic royal burgh of Tain in Ross-shire, on an estate whose origins reach back to the 18th century, though the building visitors see today dates to a considerably later rebuilding. The estate's land and an earlier structure are recorded from the 1700s, and the property changed hands several times over the following decades before it was purchased in the early 19th century by George Murray, who gave the estate the name it carries to this day: Mansfield.\n\nThe imposing building that now defines the property was constructed in the late 1870s, a substantial Victorian mansion set within three acres of grounds a short five-minute drive from the centre of Tain. Its architectural and historic significance has been formally recognised since 29 October 1982, when the building was granted Category B Listed status — Scotland's official designation for buildings of particular architectural or historic interest, one tier below the highest Category A grading.\n\nMansfield's interior retains genuine Victorian character throughout its public rooms, including original oak panelling that survives in the restaurant and communal spaces, giving the building a warm, traditionally furnished atmosphere distinct from the more austere baronial stonework found at some comparable Scottish castle-hotels. The hotel's restaurant has built a strong reputation for its cooking, with award recognition for its cuisine adding to Mansfield's appeal as a dining destination in its own right, not simply a place to stay overnight.\n\nThat dining reputation raises a genuine question about public access that is worth being upfront about: a number of independent diner reviews suggest that Mansfield's restaurant has, at least at times, welcomed visitors who were not staying overnight at the hotel. However, no explicit, published policy confirming open non-resident dining could be found on the hotel's own official channels at the time this page was researched — a meaningfully different situation from properties elsewhere in this collection, such as Dalhousie Castle or Melville Castle, where the hotel itself explicitly states that non-residents are welcome. Given that difference in evidence quality, this page treats Mansfield's public dining access as unconfirmed rather than guaranteed, and anyone hoping to dine at Mansfield without booking a room is strongly encouraged to contact the hotel directly in advance to confirm current policy, rather than assuming a table will be available on arrival.\n\nSet in Easter Ross on the Cromarty and Dornoch Firths, Tain itself is one of Scotland's oldest royal burghs, with a history connected to St Duthac and a long tradition as a place of pilgrimage in the medieval period, as well as being home to the Glenmorangie Distillery a short distance from the town. Mansfield's position just outside this historic town makes it a convenient base for exploring the Firths, the wider Easter Ross coastline, and the wealth of castle-hotels and historic sites scattered across this stretch of the Highlands north of Inverness — including several other properties documented in this collection within a similar radius, from Dornoch Castle across the firth to Kincraig Castle at Invergordon.\n\nTain's royal burgh status dates back to 1066, making it, by tradition, one of the oldest continuously chartered towns in Scotland, and its centuries as a pilgrimage destination centred on the shrine of St Duthac drew visitors from across medieval Scotland, including reigning monarchs who came to pay their respects. That deep historical layer, running underneath the more recent Victorian story of Mansfield itself, gives this quiet corner of Easter Ross a genuinely long and continuous thread of significance stretching back nearly a thousand years before the current mansion was ever built.",
+  "history": "Mansfield Castle's estate and an earlier structure date to the 18th century. The property changed hands several times before being purchased in the early 19th century by George Murray, who renamed the estate 'Mansfield.' The imposing Victorian mansion seen today was built in the late 1870s, and the building has held Category B Listed status since 29 October 1982. Mansfield today operates as a hotel known for its award-winning restaurant, which retains original oak panelling from its Victorian construction.",
+  "faqs": [
+    {
+      "question": "Can I eat at Mansfield Castle's restaurant without staying overnight?",
+      "answer": "This is not clearly confirmed. Independent diner reviews suggest the restaurant has at times welcomed non-resident visitors, but no explicit, published policy confirming open non-resident dining was found on the hotel's own official channels — unlike some other properties in this collection where the hotel itself states this clearly. Contacting the hotel directly in advance is the safest way to confirm current policy before planning a visit purely for a meal."
+    },
+    {
+      "question": "How did Mansfield Castle get its name?",
+      "answer": "The estate, with origins dating to the 18th century, changed hands several times before being purchased in the early 19th century by George Murray, who gave the property the name 'Mansfield.' The Victorian mansion built on the estate in the late 1870s carries that name today."
+    },
+    {
+      "question": "Is Mansfield Castle a listed building?",
+      "answer": "Yes. Mansfield Castle has held Category B Listed status since 29 October 1982, Scotland's official recognition for buildings of particular architectural or historic interest, reflecting the significance of its late-1870s Victorian construction and surviving original features such as its oak-panelled restaurant."
+    },
+    {
+      "question": "What is Tain known for?",
+      "answer": "Tain is one of Scotland's oldest royal burghs, with a charter tradition dating back to 1066, and was for centuries a major medieval pilgrimage destination centred on the shrine of St Duthac, drawing visitors including reigning Scottish monarchs. The town is also home to the Glenmorangie Distillery, making it a notable stop on Scotland's whisky trail as well as a site of deep historical significance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mansfield-castle.webp",
+    "alt": "Mansfield Castle near Tain, Ross-shire, Scotland, a Victorian mansion built in the late 1870s",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mansfield-castle.webp",
+  "instagram_tag": "#mansfieldcastle",
+  "meta_title": "Mansfield Castle — A Victorian Mansion Hotel Near Tain",
+  "meta_description": "Stay at Mansfield Castle near Tain — a Category B listed Victorian mansion with an award-winning, oak-panelled restaurant, five minutes from the historic town.",
+  "tags": [
+    "scotland",
+    "highlands",
+    "castle-hotel",
+    "ross-shire",
+    "victorian",
+    "tain"
+  ],
+  "last_updated": "2026-09-12",
+  "routes": [],
+  "nearby_castles": [
+    "dornoch-castle",
+    "kincraig-castle",
+    "inverness-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Mansfield Castle Hotel",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=mansfield-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Fmansfield-castle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D34901%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785006634%26srpvid%3Df19886cc7a3d00e2%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 143,
+    "currency": "GBP",
+    "star_category": 4,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-12"
+  }
+}
