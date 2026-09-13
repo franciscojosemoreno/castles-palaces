@@ -1,0 +1,112 @@
+{
+  "id": "villa-farnesina",
+  "name": "Villa Farnesina",
+  "local_name": "Villa Farnesina",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "annual_visitors": 70000,
+  "country": "italy",
+  "region": "Trastevere, Rome, Lazio",
+  "nearest_city": "Rome",
+  "address": "Via della Lungara, 230, 00165 Roma RM, Italy",
+  "lat": 41.8925,
+  "lng": 12.4667,
+  "unesco": false,
+  "year_built": 1506,
+  "architectural_style": "Early 16th-century Renaissance villa built for the banker Agostino Chigi, decorated with frescoes by Raphael and his workshop",
+  "opening_hours": {
+    "monday": "Closed",
+    "tuesday": "09:00–14:00",
+    "wednesday": "09:00–14:00",
+    "thursday": "09:00–14:00",
+    "friday": "09:00–14:00",
+    "saturday": "09:00–14:00",
+    "sunday": "09:00–17:00",
+    "seasonal_note": "Opening hours are limited compared to Rome's larger museums. Verify current days and times before visiting, as the villa operates on a restricted weekly schedule."
+  },
+  "price_adult": 26,
+  "price_child": 0,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://www.villafarnesina.it",
+  "visit_duration": "45 minutes to 1 hour (self-guided)",
+  "best_season": "Year-round — an indoor site, best combined with a walk through the surrounding Trastevere neighbourhood",
+  "accessibility": "The villa's principal ground-floor rooms, including the main frescoed halls, are largely accessible; contact the villa directly regarding specific accessibility requirements for other areas.",
+  "booking_advance_days": 0,
+  "tagline": "A Renaissance banker's private pleasure villa in Trastevere, decorated top to bottom by Raphael and his workshop — one of Rome's great artistic treasures off the main tourist circuit",
+  "highlights": [
+    "Built in the early 16th century for Agostino Chigi, one of the wealthiest bankers and patrons of Renaissance Rome, in the Trastevere district on the west bank of the Tiber",
+    "Home to some of Rome's most important Renaissance frescoes, painted by Raphael and his workshop, including the celebrated 'Triumph of Galatea' and the Loggia of Cupid and Psyche",
+    "The frescoes narrate classical myths through compositions of exceptional beauty, representing High Renaissance fresco painting at its most technically and artistically accomplished",
+    "A direct testament to the fusion of art, culture and power in 16th-century Rome, when the villa welcomed artists, nobles and leading figures of Roman society as guests of Chigi",
+    "A genuinely uncrowded cultural experience in Trastevere, a neighbourhood with its own distinct character away from Rome's more heavily visited tourist routes"
+  ],
+  "description": "Villa Farnesina stands on the west bank of the Tiber in Trastevere, one of Rome's most characterful neighbourhoods, and its origins lie in the ambitions of a single extraordinarily wealthy man rather than in any noble dynasty or ecclesiastical institution. The villa was built in the early 16th century for Agostino Chigi, a banker whose fortune made him one of the richest private individuals in Renaissance Rome, and whose patronage placed him at the very centre of the city's cultural and artistic life during one of the most creatively fertile periods in European history.\n\nChigi's wealth bought him access to the era's greatest artistic talent, and Villa Farnesina's decoration reflects this directly: the villa houses some of Rome's most important Renaissance frescoes, the work of Raphael and his workshop, painted during the same years that Raphael was also at work on his celebrated Vatican commissions for Pope Julius II. Villa Farnesina therefore represents a genuinely significant complementary body of Raphael's work, produced for a private patron rather than the church, and offering insight into how the artist adapted his mythological and decorative vocabulary for a wealthy banker's pleasure villa rather than papal apartments.\n\nAmong the villa's frescoes, two cycles stand out as Rome's essential Raphael highlights outside the Vatican Museums. The 'Triumph of Galatea' depicts the sea nymph Galatea in a triumphant procession across the waves, surrounded by tritons, nereids and cherubs in a composition celebrated for centuries as one of the supreme achievements of High Renaissance figure painting — a single fresco panel that art historians have studied intensively for its mastery of movement, anatomy and classical mythological narrative. The Loggia of Cupid and Psyche, decorated by Raphael's workshop under his close direction, covers an entire vaulted ceiling with scenes from the classical myth of Cupid and Psyche, rendered as if the ceiling itself had dissolved into an open-air scene populated by gods and mortals engaged in the myth's romantic drama.\n\nThese frescoes together make Villa Farnesina a direct physical testament to the fusion of art, wealth, culture and political power that defined Renaissance Rome at its height. Chigi's villa functioned as a genuine social and cultural hub, receiving artists, nobles and leading figures of Roman civic and ecclesiastical life as guests within its frescoed rooms — the villa was conceived and used explicitly as a space for entertainment and display, a stage on which Chigi's wealth, taste and social connections could be performed in front of Rome's most influential residents and visitors.\n\nWhat distinguishes Villa Farnesina for the contemporary visitor, beyond the exceptional quality of its Raphael frescoes, is its relative obscurity compared to Rome's most heavily trafficked museums and monuments. Set within Trastevere, a neighbourhood that has retained a distinctly local, less overtly touristic character than the historic centre across the river, Villa Farnesina offers visitors the chance to experience masterpiece-level Renaissance art without the crowds and queues typical of the Vatican Museums or the Capitoline collections. This combination of world-class art and genuine breathing room makes the villa one of Rome's most rewarding stops for visitors willing to venture slightly off the most obvious tourist circuit.\n\nA visit to Villa Farnesina pairs naturally with time spent exploring Trastevere itself, a neighbourhood of narrow cobbled streets, ivy-draped facades, small piazzas and a lively evening dining scene that has long attracted both Romans and visitors seeking an alternative to the more monumental character of central Rome. For anyone with a serious interest in Renaissance painting, or simply looking for a quieter, more intimate cultural experience within a short walk of central Rome, Villa Farnesina offers an unusually direct encounter with Raphael's genius in a setting that still feels, in some real sense, like a private house rather than a public museum.",
+  "history": "Villa Farnesina was built in the early 16th century for Agostino Chigi, one of the wealthiest bankers and patrons of Renaissance Rome, in the Trastevere district on the west bank of the Tiber. Chigi commissioned Raphael and his workshop to decorate the villa's interior, producing frescoes including the 'Triumph of Galatea' and the Loggia of Cupid and Psyche, painted during the same period as Raphael's Vatican commissions for Pope Julius II. The villa functioned as a social and cultural hub, hosting artists, nobles and leading figures of Roman society as guests of Chigi. It later passed to the Farnese family, from whom it takes its present name, and today operates as a museum open to the public.",
+  "faqs": [
+    {
+      "question": "What is the most famous fresco at Villa Farnesina?",
+      "answer": "The 'Triumph of Galatea,' painted by Raphael, depicts the sea nymph Galatea in a triumphant procession across the waves surrounded by tritons, nereids and cherubs — celebrated for centuries as one of the supreme achievements of High Renaissance figure painting."
+    },
+    {
+      "question": "Who was Agostino Chigi and why did he build Villa Farnesina?",
+      "answer": "Agostino Chigi was one of the wealthiest bankers and cultural patrons of Renaissance Rome. He built Villa Farnesina in the early 16th century as a pleasure villa, commissioning Raphael and his workshop to decorate its interior, and used the building as a social and cultural hub where he entertained artists, nobles and leading figures of Roman society."
+    },
+    {
+      "question": "Is Villa Farnesina less crowded than the Vatican Museums?",
+      "answer": "Yes, generally. Set within Trastevere, a neighbourhood with a distinctly local character away from Rome's most heavily visited tourist routes, Villa Farnesina offers visitors the chance to see masterpiece-level Raphael frescoes without the crowds and queues typical of the Vatican Museums."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/villa-farnesina.webp",
+    "alt": "Villa Farnesina in Trastevere, Rome, Italy, the Renaissance villa built for banker Agostino Chigi and decorated by Raphael and his workshop",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/villa-farnesina.webp",
+  "instagram_tag": "#villafarnesina",
+  "meta_title": "Villa Farnesina Rome: Raphael Frescoes & Visitor Guide 2026",
+  "meta_description": "Visit Villa Farnesina in Trastevere, Rome — the Renaissance villa of banker Agostino Chigi with frescoes by Raphael, including the Triumph of Galatea. From €26.",
+  "tags": [
+    "italy",
+    "rome",
+    "trastevere",
+    "renaissance",
+    "raphael",
+    "villa",
+    "art"
+  ],
+  "last_updated": "2026-09-13",
+  "routes": [],
+  "nearby_castles": [
+    "castel-santangelo",
+    "chigi-palace",
+    "palazzo-farnese-caprarola"
+  ],
+  "gyg_location_id": "33",
+  "gyg_search_query": "Villa Farnesina Rome admission ticket Raphael",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1414448",
+      "title": "Rome Admission Ticket to Villa Farnesina and Raphael's Frescoes",
+      "type": "entry_ticket",
+      "duration": "45 minutes to 1 hour",
+      "price_from": 26,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/rome-l33/rome-admission-ticket-to-villa-farnesina-and-raphael-s-frescoes-t1414448/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "villa-farnesina"
+      ],
+      "note": "Rating/review count could not be verified via automated fetch (GetYourGuide returns 403 to non-browser requests) — confirm current rating directly on the GYG dashboard before relying on it. Captured link from Francisco's screenshot lacked the partner_id/utm_medium affiliate parameters; regenerated here in the standard format used across this project — verify the resulting link resolves correctly before publishing. €26 per person (discounted from €27), entry only, no guide included."
+    }
+  ],
+  "gyg_direct_link_override": true
+}

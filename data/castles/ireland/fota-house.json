@@ -1,0 +1,111 @@
+{
+  "id": "fota-house",
+  "name": "Fota House",
+  "local_name": "Teach Fóta",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 6,
+  "annual_visitors": 60000,
+  "country": "ireland",
+  "region": "Fota Island, County Cork",
+  "nearest_city": "Cork",
+  "address": "Fota Island, Carrigtwohill, Co. Cork, T45 CE93, Ireland",
+  "lat": 51.8887,
+  "lng": -8.2986,
+  "unesco": false,
+  "year_built": 1820,
+  "architectural_style": "Regency (late Georgian) country house, historic seat of the Smith-Barry family, set within the Fota Arboretum and Gardens",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "11:00–17:00",
+    "seasonal_note": "Guided house tours run on a scheduled timetable — verify current departure times before visiting. The Arboretum and Gardens are ticketed separately from the house tour."
+  },
+  "price_adult": 13,
+  "price_child": 0,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://fotahouse.com",
+  "visit_duration": "45 minutes to 1 hour (guided house tour); additional time for the Arboretum and Gardens",
+  "best_season": "Year-round for the house; spring through autumn for the Arboretum and Gardens",
+  "accessibility": "The ground-floor principal rooms are accessible; the service quarters and upper floors involve stairs typical of a Regency-era house. Contact Fota House directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "The Smith-Barry family's Regency seat on Fota Island — a guided tour of neoclassical staterooms upstairs and working servants' quarters below, set within one of Ireland's finest historic arboretums",
+  "highlights": [
+    "A Regency (late Georgian) country house on Fota Island, historic home of the Smith-Barry family for more than two centuries",
+    "The guided tour covers the principal rooms — drawing room, dining room and library — with neoclassical detailing and period furniture, alongside the service quarters, presenting the contrasting 'upstairs and downstairs' life typical of grand Georgian Irish houses",
+    "Set within the Fota Arboretum and Gardens, a historic garden of major botanical significance, separately ticketed and visitable after the house tour",
+    "Zero overlap with Ireland's existing 19 published castles; complements the 'great house' profile already represented on the site by Muckross House and Russborough House",
+    "GetYourGuide ticket (€13) includes house entry and a guided tour, though not food or drink"
+  ],
+  "description": "Fota House sits on Fota Island in Cork Harbour, a short distance from Cork city, and represents one of Ireland's better-preserved examples of the Regency-era country house — the late Georgian architectural style that flourished among the Anglo-Irish landed gentry in the early 19th century. The house served as the historic seat of the Smith-Barry family for more than two hundred years, a tenure long enough to embed the building firmly within the social and economic history of Cork Harbour's landed estates through multiple generations of ownership.\n\nArchitecturally, Fota House exemplifies the Regency style's particular blend of restrained neoclassical formality and genuine domestic comfort. The principal rooms open to visitors on the guided tour — the drawing room, dining room and library among them — display the neoclassical detailing, proportions and period furnishings characteristic of a prosperous Anglo-Irish family's main reception spaces, the rooms where the Smith-Barrys would have entertained guests and conducted the formal business of maintaining their social position within Cork society.\n\nWhat gives the Fota House tour its particular value, however, is the way it deliberately contrasts these grand principal rooms with the house's service quarters — the kitchens, pantries and working spaces that supported the family's daily life but were built and furnished according to an entirely different, purely functional logic. This 'upstairs and downstairs' structure, showing both the formal world the Smith-Barry family inhabited and the working world of the staff who sustained it, is a genuinely illuminating way to understand how a great Georgian Irish house actually functioned as a total working estate rather than simply as a beautiful shell of reception rooms.\n\nFota House's setting adds a further, distinct dimension to any visit. The house stands within the Fota Arboretum and Gardens, a historic garden of considerable botanical significance, home to specimen trees and plant collections that have developed over generations within Fota Island's notably mild microclimate — a product of its position within Cork Harbour that has allowed species to flourish here that would struggle in more exposed parts of Ireland. The Arboretum and Gardens are ticketed separately from the house tour, meaning visitors wanting the full Fota Island experience should plan for both elements as distinct, sequential parts of their visit rather than assuming a single combined ticket covers everything on the estate.\n\nFota House's addition to this collection brings zero overlap with Ireland's existing roster of published castles and great houses, and it complements a profile already well represented on the site: the country's tradition of grand Georgian and Victorian houses standing alongside its more numerous medieval castles and tower houses. Muckross House in County Kerry and Russborough House in County Wicklow already represent this 'great house' category elsewhere on the site, and Fota House extends that same tradition into County Cork, giving visitors interested specifically in Irish country-house architecture and social history a third, geographically distinct example to explore.\n\nThe GetYourGuide ticket for Fota House, priced at €13 per person, covers both entry to the house and the guided tour itself, though it does not include food or drink purchased on site. The tour runs on a scheduled timetable, so visitors are advised to confirm current departure times before travelling to ensure they arrive in time for a specific guided group rather than assuming continuous walk-in access throughout the day. For visitors exploring Cork Harbour, Fota Island's combination of a well-preserved Regency house, its contrasting service quarters, and a genuinely significant historic arboretum makes for a rewarding half-day excursion distinct from Cork city's more urban attractions.\n\nFota Island itself sits within Cork Harbour, one of the largest natural harbours in the world, a geography that has shaped the island's history well beyond the Smith-Barry family's country house. The island is also home to Fota Wildlife Park, a separate attraction entirely, meaning visitors researching 'Fota' online should take care to distinguish between the historic house and gardens covered by this guided tour and the wildlife park, which operates independently with its own ticketing and a very different visitor experience built around open-range animal enclosures rather than period architecture. For visitors specifically interested in Georgian architecture, decorative arts and the social history of Ireland's landed gentry, Fota House and its guided tour remain the relevant destination, distinct from the island's other, more family-oriented attraction.",
+  "history": "Fota House was built in the early 19th century as a Regency country house, becoming the historic seat of the Smith-Barry family, who held the estate for more than two centuries. The house's principal rooms — drawing room, dining room and library — were furnished and decorated in the neoclassical taste typical of prosperous Anglo-Irish gentry families of the period, while the service quarters below supported the practical running of the estate. The house stands within the Fota Arboretum and Gardens, developed over generations to take advantage of Fota Island's unusually mild microclimate within Cork Harbour. The house today operates with scheduled guided tours, with the Arboretum and Gardens ticketed and visited separately.",
+  "faqs": [
+    {
+      "question": "Is the Fota Arboretum and Gardens included in the Fota House ticket?",
+      "answer": "No. The Fota Arboretum and Gardens are ticketed separately from the house tour. Visitors wanting to see both the Regency house interior and the historic gardens should plan for two distinct parts of their visit rather than assuming a single ticket covers the whole estate."
+    },
+    {
+      "question": "What does the Fota House guided tour cover?",
+      "answer": "The tour covers the principal reception rooms — including the drawing room, dining room and library — with their neoclassical detailing and period furniture, as well as the house's service quarters, contrasting the formal 'upstairs' life of the Smith-Barry family with the working 'downstairs' spaces of the household staff."
+    },
+    {
+      "question": "How does Fota House compare to Muckross House or Russborough House?",
+      "answer": "Fota House represents the same broad tradition of grand Anglo-Irish country houses as Muckross House in County Kerry and Russborough House in County Wicklow, but adds a distinct County Cork example, set within its own historically significant arboretum on Fota Island in Cork Harbour."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/fota-house.webp",
+    "alt": "Fota House on Fota Island, County Cork, Ireland, a Regency country house set within the Fota Arboretum and Gardens",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/fota-house.webp",
+  "instagram_tag": "#fotahouse",
+  "meta_title": "Fota House Cork: Tickets, Tours & Visitor Guide 2026",
+  "meta_description": "Visit Fota House on Fota Island, Cork — a Regency country house of the Smith-Barry family with guided tours and a historic arboretum. From €13.",
+  "tags": [
+    "ireland",
+    "cork",
+    "regency",
+    "georgian",
+    "country-house",
+    "garden"
+  ],
+  "last_updated": "2026-09-13",
+  "routes": [],
+  "nearby_castles": [
+    "blarney-castle",
+    "muckross-house",
+    "russborough-house"
+  ],
+  "gyg_location_id": "1605",
+  "gyg_search_query": "Fota House Cork guided tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 2,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1349654",
+      "title": "Fota House Regency Interiors Guided Tour",
+      "type": "guided_tour",
+      "duration": "45 minutes to 1 hour",
+      "price_from": 13,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/cork-l1605/cork-fota-house-regency-interiors-guided-tour-t1349654/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "fota-house"
+      ],
+      "note": "Rating/review count could not be verified via automated fetch (GetYourGuide returns 403 to non-browser requests) — confirm current rating directly on the GYG dashboard before relying on it. €13 per person, includes entry plus guided tour of the house; does not include food or drink."
+    }
+  ],
+  "gyg_direct_link_override": true
+}
