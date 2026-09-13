@@ -1,0 +1,95 @@
+{
+  "id": "walworth-castle",
+  "name": "Walworth Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "england",
+  "region": "County Durham — near Darlington",
+  "nearest_city": "Darlington",
+  "address": "Walworth, Darlington, County Durham DL2 2LY, England",
+  "lat": 54.5730,
+  "lng": -1.6060,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "Medieval fortified house dating to 1150, substantially remodelled in the Elizabethan era from 1586 — solid oak staircase, ornamented plasterwork, and later features layered across more than four centuries",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Tavern, beer garden or afternoon tea: 1–2 hours; overnight stay separately bookable",
+  "best_season": "Year-round",
+  "accessibility": "A medieval and Elizabethan castle with a wheelchair-accessible tea room and beer garden; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The Hansard family's medieval seat, remodelled for the Jenisons in the Elizabethan era — and the very house where James VI of Scotland stayed en route to becoming James I of England in 1603",
+  "highlights": [
+    "The estate dates to 1150; home to the Hansard family, powerful medieval lords whose influence extended across the county, from 1189 to 1576",
+    "Sold in 1576 to Thomas Jenison, whose family held it until 1759",
+    "In 1586, Elizabeth Jenison added much of the castle's present character, including its solid oak staircase and ornamented plasterwork",
+    "On 14 April 1603, Elizabeth Jenison hosted King James VI of Scotland at Walworth, en route to his coronation as James I of England",
+    "Sold in 1950 to County Durham and used as a girls' school before later private owners converted it into a hotel"
+  ],
+  "description": "Walworth Castle stands near Darlington in County Durham, on an estate with documented origins reaching back to 1150. Its earliest known holders were the Hansard family, powerful medieval lords whose influence extended across the county, who held Walworth continuously from 1189 to 1576 — a span of nearly four centuries that places the Hansards among the more enduring single-family tenures recorded at any castle in this collection.\n\nThe estate changed hands in 1576, when it was sold to Thomas Jenison, and the Jenison family went on to hold Walworth until 1759. It was under Jenison ownership that the castle acquired much of the character still visible today: in 1586, Elizabeth Jenison undertook significant work on the building, adding features including its solid oak staircase and elaborately ornamented plasterwork, elements that remain among the castle's most notable surviving interior details from this period.\n\nWalworth's single most historically significant moment came under Elizabeth Jenison's stewardship, on 14 April 1603. On that date, she hosted King James VI of Scotland at Walworth Castle as he travelled south from Edinburgh toward London, on the journey that would culminate in his coronation as James I of England — the union of the Scottish and English crowns that reshaped British political history. That this specific, dated royal visit occurred at Walworth, rather than being a matter of vague tradition or disputed local legend, gives the castle a genuinely well-documented connection to one of the defining constitutional moments in British history.\n\nWalworth's more recent history moved through institutional use typical of many English country houses in the 20th century: the property was sold in 1950 to County Durham and subsequently used as a girls' school, before later private owners took on the building and converted it into the hotel that operates today. The castle's structure now reflects layers of building spanning more than four and a half centuries, from its 1150 medieval origins through the Elizabethan remodelling of the 1580s to its modern hospitality use.\n\nToday, Walworth's Castle Tavern & Beer Garden is explicitly open to the general public as well as hotel guests, giving day visitors a straightforward way to experience the grounds without booking a room. A dedicated tea room, built around its own fireplace, serves afternoon tea at £23 per person, or £29.95 with Prosecco, and the space is wheelchair accessible — a detail worth noting given how many historic castle interiors present genuine accessibility challenges. For visitors exploring Darlington, County Durham, or the wider Northeast alongside other properties in this collection such as Lumley Castle, Walworth offers a genuinely well-documented royal history and a clearly stated, accessible public dining offer within a building that has stood on this ground for nearly nine centuries.\n\nDarlington itself holds a distinctive place in industrial history as one of the termini of the Stockton and Darlington Railway, which opened in 1825 as the world's first railway to carry passengers using steam locomotives on a regular, public timetable — a genuinely foundational moment in the history of rail transport that shaped Darlington's identity long before the town's later, more conventional expansion as a County Durham market and manufacturing centre. Walworth's rural setting just outside the town offers a quieter counterpoint to that industrial heritage, a short drive from Darlington's own railway museum for visitors interested in tracing both threads of the area's history in a single day out.",
+  "history": "Walworth Castle's estate dates to 1150. The Hansard family, powerful medieval lords, held the castle from 1189 to 1576, when it was sold to Thomas Jenison, whose family held it until 1759. In 1586, Elizabeth Jenison undertook significant remodelling of the castle, adding its solid oak staircase and ornamented plasterwork. On 14 April 1603, Elizabeth Jenison hosted King James VI of Scotland at Walworth as he travelled to his coronation as James I of England. The property was sold in 1950 to County Durham and used as a girls' school, before later private owners converted it into a hotel.",
+  "faqs": [
+    {
+      "question": "Can I visit Walworth Castle without staying overnight?",
+      "answer": "Yes. The Castle Tavern & Beer Garden is explicitly open to the general public as well as hotel guests. A dedicated, wheelchair-accessible tea room serves afternoon tea at £23 per person, or £29.95 with Prosecco, giving day visitors a clear and accessible way to experience the castle."
+    },
+    {
+      "question": "Did King James I really stay at Walworth Castle?",
+      "answer": "Yes, and this is a specifically dated historical event, not a vague tradition. On 14 April 1603, Elizabeth Jenison hosted King James VI of Scotland at Walworth Castle as he travelled south to London for his coronation as James I of England, marking the union of the Scottish and English crowns."
+    },
+    {
+      "question": "Who added the oak staircase and plasterwork at Walworth Castle?",
+      "answer": "Elizabeth Jenison, of the family that bought the estate in 1576, added much of the castle's present interior character during a significant remodelling in 1586, including the solid oak staircase and the ornamented plasterwork that remain among the building's most notable surviving period features."
+    },
+    {
+      "question": "How long did the Hansard family hold Walworth Castle?",
+      "answer": "The Hansard family, powerful medieval lords whose influence extended across County Durham, held Walworth Castle continuously from 1189 to 1576 — a span of nearly four centuries, before the estate was sold to Thomas Jenison, whose own family then held it for a further 183 years, until 1759."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/walworth-castle.webp",
+    "alt": "Walworth Castle near Darlington, County Durham, England, remodelled in 1586 for the Jenison family",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/walworth-castle.webp",
+  "instagram_tag": "#walworthcastle",
+  "meta_title": "Walworth Castle — Where James I Stayed on His Way to the Throne",
+  "meta_description": "Stay at or visit Walworth Castle near Darlington — the Hansard and Jenison family seat where James VI of Scotland stayed in 1603 en route to his English coronation.",
+  "tags": [
+    "england",
+    "county-durham",
+    "castle-hotel",
+    "medieval",
+    "elizabethan",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-13",
+  "routes": [],
+  "nearby_castles": [
+    "lumley-castle",
+    "langley-castle",
+    "bamburgh-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Walworth Castle Hotel",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=walworthcastle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Fwalworthcastle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D230740%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785001578%26srpvid%3D489f7cf3e7a20f55%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 100,
+    "currency": "GBP",
+    "star_category": 3,
+    "room_count": 32,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-13"
+  }
+}

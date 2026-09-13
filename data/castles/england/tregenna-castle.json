@@ -1,0 +1,90 @@
+{
+  "id": "tregenna-castle",
+  "name": "Tregenna Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "england",
+  "region": "Cornwall — St Ives",
+  "nearest_city": "St Ives",
+  "address": "Tregenna Hill, St Ives, Cornwall TR26 2DE, England",
+  "lat": 50.2073,
+  "lng": -5.4791,
+  "unesco": false,
+  "year_built": 1774,
+  "architectural_style": "1774 castellated country house, designed from the outset as a 'castle' rather than any medieval fortification — attributed to the Wood family of Bath architects",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Restaurant dining, golf or pool access: 1–2 hours; overnight stay separately bookable",
+  "best_season": "Year-round",
+  "accessibility": "A Grade II listed 1774 castellated house set in 72 acres with a 9-hole golf course and indoor pool; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A Georgian merchant's 1774 vision of a castle above St Ives Bay, later bought by the Great Western Railway — today offering non-residents dining, £10 golf and £8 pool access with no membership required",
+  "highlights": [
+    "Built in 1774 for Samuel Stephens, Esquire, of St Ives, with the architect John Wood — likely John Wood the Younger of the celebrated Bath architectural family — and master builder Daniel Freeman of Penryn",
+    "Conceived as a 'castle' from its very origin, not a medieval fortress converted or restyled later",
+    "The estate was sold in 1871 and has operated as a hotel ever since; purchased by the Great Western Railway in 1895",
+    "Grade II listed, set within 72 acres with panoramic views over St Ives Bay",
+    "Confirmed multiple angles of non-resident access: the Godrevy View Restaurant and Olives Bar welcome non-residents with reservation recommended; the 9-hole golf course is open to non-members for a £10 green fee paid at Leisure Reception with no fixed tee times; the indoor pool is accessible to non-residents for £8 per person"
+  ],
+  "description": "Tregenna Castle stands on high ground above St Ives in Cornwall, commanding panoramic views over St Ives Bay, and unlike most of the properties in this collection, it was designed as a 'castle' from the very beginning rather than starting life as a genuine medieval fortress or an unstyled country house later remodelled into castle form. The house was built in 1774 for Samuel Stephens, Esquire, a local figure of St Ives, working with the architect John Wood — most likely John Wood the Younger, part of the celebrated Wood family of architects responsible for much of Bath's iconic Georgian streetscape, including the Royal Crescent — alongside the master builder Daniel Freeman of Penryn. This puts Tregenna in an interesting architectural lineage: a Cornish country house designed with input from the same architectural dynasty that shaped one of England's most famous Georgian cities.\n\nThe castellated styling Wood and Freeman applied to Tregenna reflects an 18th-century taste for romantic, castle-like architecture in country house design, a trend that predates the more widespread Gothic Revival movement of the 19th century by several decades and places Tregenna among the earlier examples of English country houses deliberately built to evoke castle grandeur without any genuine defensive function or medieval history behind the styling.\n\nTregenna's transition into hospitality use began relatively early compared to many comparable properties: the estate was sold in 1871 and has operated continuously as a hotel ever since, making it one of the longer-running castle-hotel conversions among England's properties. Its most notable subsequent owner was the Great Western Railway, which purchased Tregenna in 1895 — a period when British railway companies were actively acquiring seaside and resort hotels across the country to encourage rail travel to their newly connected destinations, a pattern also seen at Bovey Castle in Devon, purchased by the same railway company decades later.\n\nToday Tregenna Castle holds Grade II listed status and operates as a 3-star resort set within 72 acres of grounds, its position above St Ives Bay giving guests and visitors some of the most striking coastal views available at any English castle-hotel. What makes Tregenna especially notable within this collection, however, is the sheer breadth of confirmed, explicit non-resident access across multiple distinct amenities rather than a single restaurant or afternoon tea offer. The Godrevy View Restaurant and the Olives Bar both welcome non-residents, with reservation recommended given the resort's popularity. The estate's own 9-hole golf course is open to non-members without any membership requirement, for a straightforward £10 green fee paid directly at Leisure Reception, with no fixed tee-time restrictions to navigate. And the resort's indoor swimming pool is separately accessible to non-residents for £8 per person.\n\nThis combination of a genuinely 18th-century castellated design, a long and continuous hospitality history connected to one of Britain's most significant railway companies, and three independently confirmed and clearly priced forms of non-resident access, makes Tregenna one of the more comprehensively documented public-access cases in this entire pilot collection — a useful destination for visitors to St Ives who want a specific, affordable activity (golf, a swim, or a meal with a view) rather than simply booking a room.\n\nSt Ives itself, immediately below the estate, has long been one of Cornwall's most celebrated destinations for both its beaches and its arts scene, home to Tate St Ives and a concentration of galleries and studios that trace back to the artists' colony that grew here from the late 19th century onward. Tregenna's elevated position gives guests and visitors a genuinely different vantage point on the town than the harbourside hotels clustered below — a quieter, more removed base with sweeping bay views, a short walk or drive from St Ives' beaches, restaurants and gallery quarter.",
+  "history": "Tregenna Castle was built in 1774 for Samuel Stephens, Esquire, of St Ives, with the architect John Wood — likely John Wood the Younger of the Bath architectural family — and master builder Daniel Freeman of Penryn, conceived as a castellated house from its outset rather than a converted fortress. The estate was sold in 1871 and has operated as a hotel continuously since. The Great Western Railway purchased the property in 1895, part of a wider pattern of British railway companies acquiring resort hotels to encourage travel to their newly connected destinations. Tregenna Castle holds Grade II listed status and today operates as a 3-star resort set within 72 acres above St Ives Bay.",
+  "faqs": [
+    {
+      "question": "Can I play golf or swim at Tregenna Castle without staying overnight?",
+      "answer": "Yes, both explicitly. The estate's 9-hole golf course is open to non-members for a £10 green fee, paid directly at Leisure Reception with no fixed tee times required. The resort's indoor swimming pool is separately accessible to non-residents for £8 per person, and the Godrevy View Restaurant and Olives Bar also welcome non-residents for dining, with reservation recommended."
+    },
+    {
+      "question": "Is Tregenna Castle a real medieval fortress?",
+      "answer": "No — Tregenna was designed and built as a castellated country house in 1774, conceived as a 'castle' from the outset rather than a genuine medieval fortification later converted or restyled. The design is attributed to the architect John Wood, likely John Wood the Younger of Bath's celebrated Wood architectural family, alongside master builder Daniel Freeman of Penryn."
+    },
+    {
+      "question": "What is Tregenna Castle's connection to the railways?",
+      "answer": "The Great Western Railway purchased Tregenna Castle in 1895, part of a broader pattern of British railway companies buying resort hotels near newly built rail lines to encourage tourism to their destinations. Bovey Castle in Devon, elsewhere in this collection, was acquired by the same railway company under similar circumstances decades later, in 1930."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/tregenna-castle.webp",
+    "alt": "Tregenna Castle above St Ives Bay, Cornwall, England, an 18th-century castellated country house built in 1774",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/tregenna-castle.webp",
+  "instagram_tag": "#tregennacastle",
+  "meta_title": "Tregenna Castle — A Georgian Castle Above St Ives Bay",
+  "meta_description": "Stay at, dine at or play golf at Tregenna Castle above St Ives Bay — an 18th-century castellated house with dining, golf and pool access open to non-residents.",
+  "tags": [
+    "england",
+    "cornwall",
+    "castle-hotel",
+    "georgian",
+    "golf",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-13",
+  "routes": [],
+  "nearby_castles": [
+    "pendennis-castle",
+    "tintagel-castle",
+    "corfe-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Tregenna Castle Resort",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=tregenna-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Ftregenna-castle-estate.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D38289%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785001428%26srpvid%3D738b7ca7b8210746%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 104,
+    "currency": "GBP",
+    "star_category": 3,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-13"
+  }
+}
