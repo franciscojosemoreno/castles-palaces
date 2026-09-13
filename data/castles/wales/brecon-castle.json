@@ -1,0 +1,90 @@
+{
+  "id": "brecon-castle",
+  "name": "Brecon Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "wales",
+  "region": "Powys — Brecon, Brecon Beacons",
+  "nearest_city": "Brecon",
+  "address": "Castle Square, Brecon, Powys LD3 9DB, Wales",
+  "lat": 51.9470,
+  "lng": -3.3900,
+  "unesco": false,
+  "year_built": 1093,
+  "architectural_style": "The adjacent medieval castle is a Norman motte-and-bailey fortress begun in 1093; the hotel building itself dates to 1809, constructed alongside the castle ruins rather than within them",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "All-day bar and restaurant service; overnight stay separately bookable",
+  "best_season": "Year-round",
+  "accessibility": "A 1809 hotel building standing beside the ruins of a Norman motte-and-bailey castle, in the town of Brecon; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "One of Wales's first modern hotels, built in 1809 beside — not inside — the ruins of a Norman castle besieged six times in the 13th century",
+  "highlights": [
+    "The original Norman motte-and-bailey castle was begun in 1093 by Bernard de Neufmarché, later rebuilt in stone by Humphrey de Bohun in the early 13th century",
+    "Besieged six times during the 13th century, falling to attackers on three occasions",
+    "The castle fell into ruin by the late Georgian period; in 1809, Sir Charles Morgan began building a hotel adjacent to the ruins — described as one of Wales's first modern hotels",
+    "The medieval castle and the Georgian hotel are not the same building: the surviving motte and a 13th-century stone tower stand today in the neighbouring Bishop's Palace garden",
+    "Today a 40-room hotel with an all-day bar and restaurant, a Sunday carvery, and a village-pub atmosphere with dog-friendly tables"
+  ],
+  "description": "Brecon Castle's story requires an important distinction that is easy to blur but essential to understand correctly: the medieval Norman fortress and the hotel that today carries its name are two separate buildings standing beside one another, not one continuous structure. The original castle was begun in 1093 by Bernard de Neufmarché, one of the Norman lords who led the conquest of this part of Wales, establishing a motte-and-bailey fortress — an earthwork mound topped with a wooden or later stone structure — at a strategically important crossing point in the Brecon Beacons foothills.\n\nThe castle proved a frequent target during the turbulent 13th century, a period of persistent conflict between Anglo-Norman lords and Welsh forces across the region. Brecon Castle was besieged on six separate occasions during this century, and fell to its attackers on three of those occasions — a genuinely turbulent record reflecting how contested this stretch of the Welsh Marches remained for generations after the initial Norman conquest. Humphrey de Bohun rebuilt the castle in stone during the early 13th century, replacing the original earth-and-timber construction with a more permanent and defensible fortification, a common upgrade for castles that had proven their strategic value but also their vulnerability in earlier form.\n\nLike many Welsh castles, Brecon's military relevance faded over the following centuries, and by the late Georgian period the fortress had fallen into ruin, its stonework gradually dismantled or left to decay as the region settled into a more peaceful existence. It was against this backdrop of an already-ruined medieval castle that, in 1809, Sir Charles Morgan began construction of an entirely new building: a hotel, built adjacent to the castle ruins rather than incorporating or occupying them. This new hotel has been described as one of Wales's first modern hotels, an early example of purpose-built hospitality architecture at a time when such dedicated hotel buildings were still a relatively novel concept in Britain.\n\nThis distinction matters for anyone visiting today expecting to sleep inside a genuine medieval castle: the hotel building itself is a 19th-century structure, and the true remains of the Norman castle — the surviving earthwork motte and a fragment of a 13th-century stone tower — stand today in the neighbouring Bishop's Palace garden, a short walk from the hotel rather than beneath its roof. Visitors interested in the authentic medieval fabric of Brecon Castle should plan to visit both the hotel grounds and the adjacent Bishop's Palace garden to see the full picture of the site's layered history.\n\nToday's 40-room hotel operates very much as a working village-centre establishment rather than a rarefied country retreat, with an all-day bar and restaurant open throughout the week, a traditional Sunday carvery, and a relaxed, dog-friendly atmosphere at its tables that feels closer to a well-loved local pub than a formal hotel dining room. No explicit statement was found confirming that non-residents are welcome at the bar and restaurant, though the all-day, walk-in nature of the service and its village-pub character strongly suggest this is the case in practice, similar to the pattern already noted at Mansfield Castle in Scotland — visitors planning a meal specifically are advised to confirm current policy directly with the hotel before travelling.\n\nBrecon itself sits at the edge of the Brecon Beacons National Park, one of Wales's most celebrated landscapes of open moorland, waterfalls and dramatic peaks, and the town's own compact historic centre includes the Brecon Cathedral and a lively Tuesday and Friday market alongside the castle remains. For visitors exploring the Beacons, Brecon Castle and its adjacent ruins offer a genuinely layered stop combining a working Georgian-era hotel with a real, if now fragmentary, Norman military history immediately next door.",
+  "history": "Brecon Castle's original Norman motte-and-bailey fortress was begun in 1093 by Bernard de Neufmarché, later rebuilt in stone by Humphrey de Bohun in the early 13th century. The castle was besieged six times during the 13th century, falling on three occasions. It fell into ruin by the late Georgian period, and in 1809 Sir Charles Morgan began building a hotel adjacent to the ruins — described as one of Wales's first modern hotels — rather than within them. The surviving motte and a 13th-century stone tower stand today in the neighbouring Bishop's Palace garden, distinct from the hotel building itself.",
+  "faqs": [
+    {
+      "question": "Is the Brecon Castle hotel the same building as the medieval castle?",
+      "answer": "No. The medieval Norman castle, begun in 1093, fell into ruin by the late Georgian period. In 1809, Sir Charles Morgan built a hotel adjacent to the ruins, not within them — one of Wales's first modern hotels. The surviving remains of the original castle, an earthwork motte and a 13th-century stone tower, stand today in the neighbouring Bishop's Palace garden."
+    },
+    {
+      "question": "Can I eat at Brecon Castle without staying overnight?",
+      "answer": "The hotel operates an all-day bar and restaurant with a Sunday carvery and a relaxed, dog-friendly, village-pub atmosphere, though no explicit statement confirming non-resident access was found. Given its walk-in, all-day style of service, non-residents are likely welcome, but confirming directly with the hotel before travelling is recommended."
+    },
+    {
+      "question": "How many times was Brecon Castle besieged?",
+      "answer": "The Norman castle was besieged six times during the 13th century, a period of persistent conflict along the Welsh Marches, and fell to its attackers on three of those occasions. It was rebuilt in stone by Humphrey de Bohun in the early 13th century after its earlier earth-and-timber construction proved vulnerable."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/brecon-castle.webp",
+    "alt": "Brecon Castle Hotel beside the ruins of the Norman motte-and-bailey castle in Brecon, Powys, Wales",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/brecon-castle.webp",
+  "instagram_tag": "#breconcastle",
+  "meta_title": "Brecon Castle — A Georgian Hotel Beside Norman Ruins",
+  "meta_description": "Stay at the Castle of Brecon Hotel — built in 1809 beside the ruins of a Norman castle besieged six times in the 13th century, in the heart of Brecon.",
+  "tags": [
+    "wales",
+    "powys",
+    "castle-hotel",
+    "medieval",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-13",
+  "routes": [],
+  "nearby_castles": [
+    "craig-y-nos-castle",
+    "raglan-castle",
+    "caerphilly-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "The Castle of Brecon Hotel",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=brecon-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Fbrecon-castle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D34555%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785336347%26srpvid%3D0bb767cb59c00183%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 94,
+    "currency": "GBP",
+    "star_category": 3,
+    "room_count": 42,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-13"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "roch-castle",
+  "name": "Roch Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "wales",
+  "region": "Pembrokeshire — near St Brides Bay",
+  "nearest_city": "Haverfordwest",
+  "address": "Roch, Haverfordwest, Pembrokeshire SA62 6AQ, Wales",
+  "lat": 51.8180,
+  "lng": -5.0470,
+  "unesco": false,
+  "year_built": 1195,
+  "architectural_style": "Late-12th-century Norman fortress built directly onto a volcanic rock outcrop, restored as a boutique hotel in 2013",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only — no day-visit access",
+  "best_season": "Year-round",
+  "accessibility": "A restored Norman tower house perched on a rocky outcrop, accessed by a spiral staircase; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Norman knight's fortress raised directly onto a volcanic outcrop above St Brides Bay, now a 6-room boutique hotel with a glass-walled Sun Room at its summit",
+  "highlights": [
+    "Built in the late 12th century by the Norman knight Adam de Rupe — 'Roch' derives from the French 'roche', meaning rock",
+    "Rises directly from a volcanic rock outcrop in Pembrokeshire, commanding panoramic views over St Brides Bay and the Preseli Hills",
+    "Bought by the Griffiths-Roch Foundation in 2008 and reopened as a hotel in 2013, transforming a medieval fortress into a boutique property",
+    "Only 6 rooms, including a 4th-floor Sun Room with floor-to-ceiling glass walls set at the very top of the tower",
+    "No evidence found of tours, restaurant service or events open to non-guests — a small, exclusive-use B&B rather than a day-visit attraction"
+  ],
+  "description": "Roch Castle occupies one of the most striking sites of any property in this collection: a genuine volcanic rock outcrop in Pembrokeshire, rising abruptly from the surrounding countryside with panoramic views stretching over St Brides Bay and inland toward the Preseli Hills. The fortress was built directly onto this outcrop in the late 12th century by the Norman knight Adam de Rupe, and the castle's very name reflects its foundation — 'Roch' derives from the French 'roche', meaning rock, an unusually literal case of a place taking its name straight from its geology.\n\nPembrokeshire's coastline and hinterland were heavily fortified during the Norman advance into Wales, part of a broader effort to secure the newly conquered territory known historically as 'Little England beyond Wales' for its unusually thorough Anglo-Norman settlement compared to the rest of the Welsh principality. Roch's elevated, naturally defensible position made it a genuinely formidable stronghold within this contested borderland, its rock-outcrop foundation giving defenders a significant advantage that few purely constructed fortifications could match.\n\nThe castle's transformation from medieval fortress to hotel came relatively recently and was driven by dedicated restoration work: the Griffiths-Roch Foundation purchased the property in 2008, and after several years of careful restoration work, Roch reopened as a hotel in 2013. That restoration preserved the castle's compact, vertical tower-house form rather than expanding it into a larger complex, and the resulting hotel remains genuinely small and intimate — just 6 rooms in total, a scale that sets Roch apart from the larger converted manor houses and country estates found elsewhere in this collection.\n\nAmong those 6 rooms, the standout is the Sun Room, occupying the tower's 4th floor with floor-to-ceiling glass walls that take full advantage of the castle's commanding elevated position — a genuinely striking architectural intervention within a centuries-old stone tower, giving guests uninterrupted views over the Pembrokeshire coastline from within what was originally a purely defensive structure.\n\nUnlike several other properties in this Welsh batch, no evidence was found of Roch Castle offering tours, restaurant service, or events open to non-guests. The property functions as a small, exclusive boutique bed and breakfast rather than a day-visit attraction, and visitors hoping to explore the castle's interior or dine there should be aware that access is understood to be limited to overnight guests. Anyone planning a visit specifically to see the castle rather than to stay overnight is advised to contact the property directly in advance to confirm current access policy, since boutique hotels of this size can occasionally accommodate exceptions.\n\nThe surrounding Pembrokeshire coast is itself one of Wales' most celebrated landscapes, protected in large part by the Pembrokeshire Coast National Park, and St Brides Bay in particular offers dramatic cliff walks, sandy beaches and access to some of the country's richest coastal wildlife, including seabird colonies and grey seal breeding sites on the offshore islands. For visitors staying at Roch, the castle's elevated position places the wider bay and its walking trails within easy reach, making it a genuinely well-placed base for exploring this stretch of coast even without a separate day-visit product of its own.\n\nPembrokeshire's density of Norman-era fortifications reflects just how contested this coastal region once was, with castles at Pembroke, Manorbier and Carew all standing within a relatively short drive of Roch, each testifying to the same broader pattern of Anglo-Norman consolidation along Wales's southwestern coast. Roch's own particular distinction within that wider network lies in its site rather than its scale — few Norman fortresses anywhere in Britain sit quite so dramatically atop their own bedrock, and the castle's small, carefully restored form as a boutique hotel today lets modern visitors experience that same commanding elevated position the Normans themselves chose nearly nine centuries ago, now with considerably greater comfort.",
+  "history": "Roch Castle was built in the late 12th century by the Norman knight Adam de Rupe, directly onto a volcanic rock outcrop in Pembrokeshire — its name deriving from the French 'roche', meaning rock. The fortress formed part of the dense network of Norman strongholds fortifying this contested borderland, historically known as 'Little England beyond Wales'. The castle later fell into disrepair before being bought by the Griffiths-Roch Foundation in 2008 and restored, reopening as a boutique hotel in 2013 with just 6 rooms, including a glass-walled Sun Room on the 4th floor.",
+  "faqs": [
+    {
+      "question": "Can I visit Roch Castle without staying overnight?",
+      "answer": "No evidence was found of tours, restaurant service or events open to non-guests at Roch Castle. It operates as a small, exclusive-use boutique bed and breakfast with only 6 rooms, and access is understood to be limited to overnight guests — contact the property directly to confirm current policy before planning a visit."
+    },
+    {
+      "question": "Why is it called Roch Castle?",
+      "answer": "The name derives from the French word 'roche', meaning rock, reflecting the castle's foundation directly onto a volcanic rock outcrop in Pembrokeshire — built in the late 12th century by the Norman knight Adam de Rupe, whose own name ('de Rupe') is itself Latin for 'of the rock'."
+    },
+    {
+      "question": "How many rooms does Roch Castle have?",
+      "answer": "Roch Castle has just 6 rooms, including a distinctive 4th-floor Sun Room with floor-to-ceiling glass walls at the top of the tower, offering panoramic views over St Brides Bay and the Preseli Hills. The castle reopened as a boutique hotel in 2013 after restoration by the Griffiths-Roch Foundation."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/roch-castle.webp",
+    "alt": "Roch Castle in Pembrokeshire, Wales, a Norman fortress built directly onto a volcanic rock outcrop above St Brides Bay",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/roch-castle.webp",
+  "instagram_tag": "#rochcastle",
+  "meta_title": "Roch Castle — A Norman Tower Raised on a Volcanic Outcrop",
+  "meta_description": "Stay at Roch Castle in Pembrokeshire — a late-12th-century Norman fortress on a volcanic rock outcrop above St Brides Bay, now a 6-room boutique hotel.",
+  "tags": [
+    "wales",
+    "pembrokeshire",
+    "castle-hotel",
+    "medieval",
+    "coastal"
+  ],
+  "last_updated": "2026-09-13",
+  "routes": [],
+  "nearby_castles": [
+    "caerphilly-castle",
+    "cardiff-castle",
+    "raglan-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Roch Castle",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=roch-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Froch-castle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D421464%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785002514%26srpvid%3D91217ec61ed609e3%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 140,
+    "currency": "GBP",
+    "star_category": 5,
+    "room_count": 6,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-13"
+  }
+}
