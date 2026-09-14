@@ -79,7 +79,7 @@
     "grace-omalley",
     "salmon-fishing"
   ],
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-09-14",
   "routes": [],
   "nearby_castles": [
     "aughnanure-castle",
@@ -107,5 +107,17 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Ballynahinch Castle Hotel",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=ballynahinchcastle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fie%2Fballynahinchcastlehotel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D224658%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785283788%26srpvid%3D925d011b118205e6%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 235,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": 48,
+    "source": "native-eur-ireland-guide-and-booking-aggregate",
+    "sourced_date": "2026-09-14"
+  }
 }
