@@ -1,0 +1,90 @@
+{
+  "id": "markree-castle",
+  "name": "Markree Castle",
+  "local_name": "Caisleán na Marcaigh",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "ireland",
+  "region": "Collooney, County Sligo",
+  "nearest_city": "Sligo",
+  "address": "Collooney, Co. Sligo, F91 ED70, Ireland",
+  "lat": 54.1900,
+  "lng": -8.4870,
+  "unesco": false,
+  "year_built": 1663,
+  "architectural_style": "14th-century McDonagh clan stronghold, granted to the Cooper family in 1663 and remodelled in 1802 by architect Francis Johnson",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only — no day-visit access",
+  "best_season": "Year-round",
+  "accessibility": "A remodelled 19th-century castle on a former Gaelic stronghold site near Collooney; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The Cooper family's Sligo seat once housed the world's largest refractor lens in an on-site observatory, where an asteroid was discovered in the 1840s — now a small family-run hotel",
+  "highlights": [
+    "Ancestral seat of the Cooper family from 1663, when Cornet Edward Cooper received the original 14th-century castle — then a fortified McDonagh clan outpost — for his service under Cromwell; the Coopers became Sligo's largest landowners, with more than 34,000 acres",
+    "Remodelled in 1802 by the celebrated architect Francis Johnson",
+    "An observatory built on the grounds in 1830 held the world's largest refractor lens during the 1830s; the asteroid 9 Metis was discovered there in the 1840s by staff of the Cooper family observatory — an unusually distinctive scientific claim among the castles in this collection",
+    "Today a small, family-run hotel",
+    "Shares its Booking.com dest_id (586387) with Kilronan Castle Estate & Spa — separate properties, distinct URL paths, no effect on booking accuracy"
+  ],
+  "description": "Markree Castle stands near Collooney in County Sligo, and its origins reach back to the 14th century, when a fortified stronghold on this site belonged to the McDonagh clan, one of the Gaelic ruling families whose territorial power shaped much of medieval Connacht before the gradual extension of English control across the province. The site's transition from Gaelic clan stronghold to Anglo-Irish family seat came in 1663, when Cornet Edward Cooper received the castle in recognition of his military service under Oliver Cromwell — one of countless land transfers across Ireland during this period that redistributed confiscated Gaelic and Catholic landholdings to Cromwellian soldiers and supporters as reward for their service.\n\nThe Cooper family's fortunes at Markree grew substantially over the following generations, and by the height of their prominence the family had become the largest landowners in County Sligo, holding more than 34,000 acres across the county — a genuinely vast estate reflecting the scale of wealth and territorial control that leading Anglo-Irish landed families could accumulate during the 18th and 19th centuries. This immense landholding placed the Coopers among the most economically and politically significant families in northwestern Ireland during this period.\n\nThe castle itself underwent a substantial architectural transformation in 1802, when the Cooper family commissioned Francis Johnson, one of the most celebrated architects working in Ireland during this era, to remodel the building into a form more befitting the family's considerable wealth and status. Johnson's extensive body of work across Ireland includes numerous significant public and private commissions, and his involvement at Markree places the castle within a genuinely notable architectural pedigree.\n\nMarkree's most scientifically remarkable chapter, however, unfolded on its grounds rather than within the castle building itself. In 1830, an observatory was constructed on the estate, and remarkably, this observatory came to house the largest refractor telescope lens in the entire world during the 1830s — an extraordinary claim for a private estate observatory in rural County Sligo, reflecting the Cooper family's genuine investment in cutting-edge scientific instrumentation of their era. That investment paid off with a discovery of lasting scientific significance: the asteroid 9 Metis was discovered at the Markree observatory in the 1840s by staff working there, a genuine contribution to 19th-century astronomy that gives Markree Castle a distinctive scientific credential shared by very few other historic estates anywhere, let alone within this collection of European castles and palaces.\n\nToday Markree Castle has transitioned from grand family seat and centre of private scientific research into a considerably more modest identity: a small, family-run hotel offering guests the chance to stay within a building carrying this genuinely unusual combination of medieval Gaelic origins, Cromwellian-era land redistribution, celebrated Georgian architecture, and 19th-century astronomical achievement. The smaller scale of the current hotel operation, compared to some of the larger resort-style castle hotels found elsewhere in this collection, reflects Markree's more intimate, family-oriented character today.\n\nOne administrative detail worth flagging transparently: Markree Castle's Booking.com listing shares its dest_id parameter with Kilronan Castle Estate & Spa, another property in this same Irish batch. As with the similar case noted for Killiane Castle and Wilton Castle, this shared internal identifier has no bearing on booking accuracy, since each property's distinct URL path correctly determines its actual booking destination. County Sligo itself, associated strongly with the poet W.B. Yeats and the dramatic landscape of Benbulben, offers visitors staying at Markree a genuinely scenic base for exploring one of Ireland's most literarily and geologically distinctive counties.\n\nThe observatory's 19th-century achievement deserves further context: private astronomical observatories built on the estates of wealthy landowners were not entirely unheard of in this period, but few anywhere achieved the genuine scientific distinction of housing the world's largest refractor lens, even briefly, and fewer still can point to an actual asteroid discovery credited to work carried out on the premises. This places Markree's observatory alongside a small number of other private 19th-century scientific installations across Europe and Ireland whose amateur or semi-amateur astronomical work made genuine contributions to the field, a detail that continues to distinguish Markree from the many other historic Irish estates whose significance rests purely on architecture or family lineage rather than direct scientific achievement.",
+  "history": "Markree Castle's origins trace to a 14th-century fortified stronghold belonging to the McDonagh clan. In 1663, Cornet Edward Cooper received the castle for his service under Cromwell, and the Cooper family went on to become Sligo's largest landowners, with more than 34,000 acres. The castle was remodelled in 1802 by architect Francis Johnson. An observatory built on the grounds in 1830 held the world's largest refractor lens during the 1830s, and the asteroid 9 Metis was discovered there in the 1840s by staff of the Cooper family observatory. Markree Castle today operates as a small, family-run hotel.",
+  "faqs": [
+    {
+      "question": "What scientific discovery is Markree Castle known for?",
+      "answer": "An observatory built on the Markree estate in 1830 held the world's largest refractor telescope lens during the 1830s. The asteroid 9 Metis was discovered there in the 1840s by staff working at the Cooper family's observatory, a distinctive scientific credential among the properties in this collection."
+    },
+    {
+      "question": "How did the Cooper family come to own Markree Castle?",
+      "answer": "Cornet Edward Cooper received Markree Castle in 1663 in recognition of his military service under Oliver Cromwell, part of the broader redistribution of confiscated Gaelic and Catholic landholdings to Cromwellian soldiers during this period. The castle had previously been a 14th-century McDonagh clan stronghold."
+    },
+    {
+      "question": "Why do Markree Castle and Kilronan Castle share a Booking.com dest_id?",
+      "answer": "This is a documented administrative anomaly within Booking.com's own listing system — the two are separate, unrelated properties. Each castle's actual booking destination is determined by its own distinct URL path, not by this shared numeric parameter, so the anomaly has no effect on booking accuracy for either property."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/markree-castle.webp",
+    "alt": "Markree Castle near Collooney, County Sligo, Ireland, the former Cooper family seat and site of a 19th-century astronomical observatory",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/markree-castle.webp",
+  "instagram_tag": "#markreecastle",
+  "meta_title": "Markree Castle — The Cooper Family Seat and Its Observatory",
+  "meta_description": "Stay at Markree Castle near Sligo — the Cooper family seat since 1663, whose observatory once held the world's largest telescope lens.",
+  "tags": [
+    "ireland",
+    "sligo",
+    "castle-hotel",
+    "medieval",
+    "observatory"
+  ],
+  "last_updated": "2026-09-14",
+  "routes": [],
+  "nearby_castles": [
+    "glenveagh-castle",
+    "lough-eske-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Markree Castle",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=markree-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fie%2Fmarkree-castle-sligo.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D586387%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151#map_closed",
+    "price_from_night": 175,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": 30,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-14"
+  }
+}
