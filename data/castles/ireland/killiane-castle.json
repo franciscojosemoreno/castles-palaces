@@ -1,0 +1,89 @@
+{
+  "id": "killiane-castle",
+  "name": "Killiane Castle Country House & Farm",
+  "local_name": "Caisleán Chill Liathain",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 16,
+  "country": "ireland",
+  "region": "Drinagh, County Wexford",
+  "nearest_city": "Wexford",
+  "address": "Killiane, Drinagh, Co. Wexford, Y35 F2C2, Ireland",
+  "lat": 52.2870,
+  "lng": -6.4980,
+  "unesco": false,
+  "year_built": 1470,
+  "architectural_style": "15th-century Norman tower house, built around 1470, retaining an original ogee-headed window; adjoined by a working farm and later country house additions",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only — no day-visit access",
+  "best_season": "Year-round",
+  "accessibility": "A small rural bed and breakfast built around a 15th-century tower house on a working farm; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 15th-century Norman tower house built by a descendant of the Hay family, still standing on a working Wexford farm more than 500 years later — one of the country's more modest and authentic castle stays",
+  "highlights": [
+    "The tower was built around 1470 by Thomas Hay, a descendant of the Norman Hay family — the name 'Killiane' derives from the Irish for the tower's associated townland — and retains an original 15th-century ogee-headed window",
+    "More than 500 years old, making it one of the longer-surviving tower houses in this collection",
+    "Passed by marriage around 1520 to the Cheevers family; by 1543, Howard Cheevers controlled Killiane and 2,000 acres, and served as mayor of Wexford",
+    "Today operates as a bed and breakfast alongside a working farm, set around the original medieval tower — a more modest 'country house' profile than the larger resort castles elsewhere in this collection",
+    "Shares its Booking.com dest_id with Wilton Castle (a separate property, distinct URL path) — a documented anomaly with no effect on booking accuracy"
+  ],
+  "description": "Killiane Castle stands in Drinagh, a rural corner of County Wexford in Ireland's southeast, and it offers a genuinely different scale of castle stay compared to the larger resort-style properties found elsewhere in this collection. The tower at Killiane's core was built around 1470 by Thomas Hay, a descendant of the Norman Hay family that had established itself in this part of Ireland following the earlier Anglo-Norman settlement of the region. The tower survives today with an original 15th-century ogee-headed window intact, a genuinely rare piece of surviving Gothic tracery in a small rural tower house of this age, giving Killiane a tangible physical connection to its medieval origins that goes beyond documentary record alone.\n\nThe tower's more than 500 years of continuous existence place Killiane among the longer-surviving fortified structures in this entire collection, and its documented ownership history through the following century adds a further layer of genuine local historical interest. Around 1520, the property passed by marriage to the Cheevers family, one of several Anglo-Norman families whose fortunes were closely tied to landholding in medieval Wexford. By 1543, a member of that family, Howard Cheevers, had consolidated control of Killiane together with some 2,000 acres of surrounding land, while also serving as mayor of Wexford — a position that placed him among the town's leading civic figures during the mid-16th century, and one that speaks to the Cheevers family's genuine local standing beyond their ownership of the tower itself.\n\nWhat distinguishes Killiane most clearly from the larger, more overtly luxurious castle hotels in this collection is its continued identity as a working farm rather than a purely commercial resort. Today the property operates as a bed and breakfast built directly around the surviving medieval tower, with the working farm still very much part of the property's day-to-day character rather than a decorative backdrop. This gives Killiane a more modest, genuinely rural 'country house' profile — closer in spirit to a traditional Irish farmhouse B&B than to the grand hotel experience offered at properties such as Dromoland Castle or Lough Eske Castle, but with a real medieval tower standing at its centre rather than a purely 19th- or 20th-century building.\n\nOne administrative detail is worth noting for transparency, though it carries no practical consequence for visitors booking a stay: Killiane Castle's Booking.com listing shares its underlying dest_id parameter with Wilton Castle, a separate and unrelated property. This kind of shared internal identifier occasionally occurs within Booking.com's own systems, but the actual booking destination is determined by the distinct URL path assigned to each property, not by this shared numeric parameter — meaning the anomaly has no bearing on the accuracy or safety of either property's booking link.\n\nFor visitors exploring County Wexford — a part of Ireland known for its beaches, its Viking-founded county town, and its role in the 1798 Rebellion — Killiane offers a genuinely different flavour of castle accommodation from the grander resort hotels found in this collection: a small, family-run farm stay built around an authentic medieval tower house with more than five centuries of continuous history, rather than a large-scale luxury hotel product. Visitors seeking an intimate, low-key introduction to Ireland's tower house heritage, combined with the everyday rhythms of a working farm, will find Killiane a genuinely distinctive choice within the wider landscape of Irish castle-hotel accommodation.\n\nTower houses of Killiane's type were once extraordinarily common across the Irish countryside, particularly in counties like Wexford where Anglo-Norman settlement remained dense throughout the late medieval period. These fortified residences, typically built by lesser gentry and merchant families rather than the greatest Norman lords, combined basic defensive capability with everyday domestic living, and thousands once dotted the Irish landscape. Relatively few survive today in a condition allowing genuine overnight accommodation within or immediately beside the original structure, which makes Killiane's continued working life — as both a farm and a small hospitality business built directly around its medieval tower — a genuinely valuable surviving example of this once-widespread building type, still functioning close to its original domestic purpose rather than preserved solely as a static ruin or museum piece.",
+  "history": "Killiane Castle's tower was built around 1470 by Thomas Hay, a descendant of the Norman Hay family, and retains an original 15th-century ogee-headed window. The property passed by marriage around 1520 to the Cheevers family, and by 1543 Howard Cheevers controlled Killiane and 2,000 acres of surrounding land while serving as mayor of Wexford. The tower has survived for more than 500 years and today stands at the centre of a working farm and bed and breakfast, a more modest country house profile than the larger resort castles found elsewhere in this collection.",
+  "faqs": [
+    {
+      "question": "Can I visit Killiane Castle without staying overnight?",
+      "answer": "No day-visit ticket or public tour is documented for Killiane Castle. It operates as a small bed and breakfast on a working farm, with access limited to overnight guests."
+    },
+    {
+      "question": "Who built the tower at Killiane Castle?",
+      "answer": "The tower was built around 1470 by Thomas Hay, a descendant of the Norman Hay family, and retains an original 15th-century ogee-headed window. It passed by marriage to the Cheevers family around 1520, with Howard Cheevers controlling Killiane and 2,000 acres of land by 1543 while serving as mayor of Wexford."
+    },
+    {
+      "question": "Why do Killiane Castle and Wilton Castle share a Booking.com dest_id?",
+      "answer": "This is a documented administrative anomaly within Booking.com's own listing system — the two are separate, unrelated properties. The actual booking destination is determined by each property's distinct URL path, not by this shared numeric parameter, so the anomaly has no effect on booking accuracy for either castle."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/killiane-castle.webp",
+    "alt": "Killiane Castle Country House & Farm in County Wexford, Ireland, a 15th-century Norman tower house on a working farm",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/killiane-castle.webp",
+  "instagram_tag": "#killianecastle",
+  "meta_title": "Killiane Castle — A 15th-Century Tower House on a Wexford Farm",
+  "meta_description": "Stay at Killiane Castle Country House & Farm in County Wexford — a 15th-century Norman tower house, more than 500 years old, on a working Irish farm.",
+  "tags": [
+    "ireland",
+    "wexford",
+    "castle-hotel",
+    "medieval",
+    "farm-stay"
+  ],
+  "last_updated": "2026-09-14",
+  "routes": [],
+  "nearby_castles": [
+    "kilkenny-castle",
+    "russborough-house"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Killiane Castle Country House & Farm",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=killiane-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fie%2Fkilliane-castle-country-house.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D1469124%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 185,
+    "currency": "EUR",
+    "room_count": 10,
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-14"
+  }
+}
