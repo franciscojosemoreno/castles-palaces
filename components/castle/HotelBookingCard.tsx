@@ -14,6 +14,7 @@ const AMENITY_LABELS: Record<string, string> = {
   fishing: 'Fishing',
   falconry: 'Falconry',
   farm_stay: 'Working Farm',
+  self_catering: 'Self-Catering',
 };
 
 const ROOM_LOCATION_LABELS: Record<NonNullable<CastleHotel['room_location']>, string> = {

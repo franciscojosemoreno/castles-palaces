@@ -83,6 +83,10 @@
     "currency": "EUR",
     "room_count": 4,
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-14"
+    "sourced_date": "2026-09-14",
+    "room_location": "castle",
+    "amenities": ["self_catering"],
+    "non_guest_access_note": "Open evenings/tours occasionally advertised locally; no standing public access",
+    "how_to_stay": "**Getting there:** Bree, near Enniscorthy, Co. Wexford.\n\n**Rooms & rates:** Four self-catering/B&B suites, all within the restored south wing of the historic castle itself (the Butler Suite's bathroom is literally inside the castle's tower) — this is the restored portion of the building described in the castle's own history above: only the south wing was rebuilt after the 1923 fire.\n\n**On-site:** Each suite has its own kitchen and sitting room with a working fireplace; no shared restaurant.\n\n**Good to know:** Since only part of the historic castle was rebuilt, the suites occupy that restored section specifically — not a separate modern annex, but also not the full original footprint of the building.\n\n**Combine with:** Enniscorthy town and the 1798 Rebellion sites nearby."
   }
 }
