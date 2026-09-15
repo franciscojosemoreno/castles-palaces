@@ -85,6 +85,10 @@
     "currency": "EUR",
     "room_count": 3,
     "source": "web-search-aggregate-whole-property-rate",
-    "sourced_date": "2026-09-14"
+    "sourced_date": "2026-09-14",
+    "room_location": "castle",
+    "amenities": ["self_catering"],
+    "non_guest_access_note": "No day-visitor or non-guest access — the whole castle is private for the duration of the booking",
+    "how_to_stay": "**Getting there:** 6 km north of Galway city centre, on the N84 road.\n\n**Rooms & rates:** The entire restored 15th-century tower house is rented as a single exclusive-use property — not booked room by room. From €1,400/night, listed on both Booking.com and Vrbo.\n\n**On-site:** Self-catering only — no restaurant, bar, or staff on-site during the stay.\n\n**Good to know:** No day-visitor or non-guest access at any time — the whole castle is private for the duration of your booking.\n\n**Combine with:** Galway city centre (15 minutes) or Aughnanure Castle for a Connemara-edge castle circuit."
   }
 }
