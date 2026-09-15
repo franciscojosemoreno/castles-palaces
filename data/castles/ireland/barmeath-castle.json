@@ -85,6 +85,10 @@
     "currency": "EUR",
     "room_count": 5,
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-14"
+    "sourced_date": "2026-09-14",
+    "room_location": "castle",
+    "amenities": ["gardens", "tennis"],
+    "non_guest_access_note": "No public access — the Bellew family's private residence occupies the main house; the guest house is a separate self-contained wing",
+    "how_to_stay": "**Getting there:** Dunleer, Co. Louth, between Dublin and Belfast.\n\n**Rooms & rates:** The bookable accommodation is a self-contained Guest Wing (5 bedrooms), refurbished in 2021, within the historic castle complex — the Bellew family, who have owned Barmeath since the 17th century, still live in the main house separately.\n\n**On-site:** 12 acres of maintained gardens, tennis court; no restaurant, self-catering kitchen included.\n\n**Good to know:** No lift or confirmed wheelchair access documented. This is a genuinely family-owned working estate, not a resort — book the whole guest wing rather than an individual room.\n\n**Combine with:** Monasterboice's high crosses and round tower, 10 minutes away."
   }
 }

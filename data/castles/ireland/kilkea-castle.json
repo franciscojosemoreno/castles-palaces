@@ -86,6 +86,10 @@
     "star_category": 4,
     "room_count": 33,
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-14"
+    "sourced_date": "2026-09-14",
+    "room_location": "mixed",
+    "amenities": ["restaurant", "golf", "spa", "gardens"],
+    "non_guest_access_note": "Restaurant open to non-residents; golf course accessible with green fee",
+    "how_to_stay": "**Getting there:** Castledermot, Co. Kildare, about an hour from Dublin.\n\n**Rooms & rates:** 11 Castle Bedrooms are inside the 12th-century keep itself — Ireland's oldest continuously inhabited castle (see the castle's own history above); Castle Courtyard Rooms occupy the courtyard, including wheelchair-accessible options; separate self-catering Lodges overlook the golf course.\n\n**On-site:** Restaurant, spa, golf course, gardens.\n\n**Good to know:** If sleeping inside the actual medieval keep is the priority, specify a Castle Bedroom — the Courtyard and Lodge options, while on the same historic estate, are more recent buildings.\n\n**Combine with:** Athy town and the River Barrow, 10 minutes away."
   }
 }
