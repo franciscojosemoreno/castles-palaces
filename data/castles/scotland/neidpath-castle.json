@@ -84,6 +84,10 @@
     "price_from_night": 133,
     "currency": "GBP",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-12"
+    "sourced_date": "2026-09-12",
+    "room_location": "mixed",
+    "amenities": ["self_catering", "gardens"],
+    "non_guest_access_note": "Bookable private tours available — see Highlights above",
+    "how_to_stay": "**Getting there:** Peebles, Scottish Borders.\n\n**Rooms & rates:** Queen Mary's Chamber — where Mary, Queen of Scots stayed in 1563 — is a genuine room within the castle itself; the rest of the property's accommodation (Barns Tower, Barns Bothy, Neidpath Barmkin, Townhead of Lyne) is a set of separate self-catering cottages elsewhere on the wider Barns Estate, not inside the castle building.\n\n**On-site:** Locally sourced breakfast hampers, bookable castle and farm tours; self-catering kitchens throughout.\n\n**Good to know:** Specify Queen Mary's Chamber explicitly if sleeping inside the castle itself is the priority — most of the property's accommodation is in separate estate cottages, some a distance from the castle.\n\n**Combine with:** Peebles town centre and the River Tweed, both close by."
   }
 }

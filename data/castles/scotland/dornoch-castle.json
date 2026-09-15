@@ -85,6 +85,10 @@
     "currency": "GBP",
     "star_category": 3,
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-12"
+    "sourced_date": "2026-09-12",
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No day-visitor access confirmed — verify directly whether the restaurant welcomes non-residents",
+    "how_to_stay": "**Getting there:** Dornoch, Sutherland, Highlands — not to be confused with the unrelated Dunrobin Castle further north.\n\n**Rooms & rates:** Castle Superior, Tower Room Deluxe and Four Poster Deluxe rooms are all within the original 15th-century castle building, including its main tower; Garden Superior and Garden Standard rooms are in a modern extension overlooking the walled gardens.\n\n**On-site:** Restaurant, walled gardens.\n\n**Good to know:** Specify a Castle or Tower room if sleeping inside the 15th-century building is the priority — the Garden rooms, while comfortable, are in the newer extension.\n\n**Combine with:** Royal Dornoch Golf Club and Dornoch Cathedral, both a short walk away."
   }
 }

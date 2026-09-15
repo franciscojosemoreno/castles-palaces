@@ -84,6 +84,10 @@
     "price_from_night": 450,
     "currency": "GBP",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-12"
+    "sourced_date": "2026-09-12",
+    "room_location": "mixed",
+    "amenities": ["self_catering", "gardens"],
+    "non_guest_access_note": "No day-visitor access — the entire tower is rented as a single exclusive-use property, similar to Faside Estate",
+    "how_to_stay": "**Getting there:** near Selkirk, Scottish Borders.\n\n**Rooms & rates:** The whole property is rented as one exclusive-use unit for up to 11 guests — 4 of the 5 en-suite bedrooms, including the Master Bedroom, are within the original 500-year-old Peel Tower; a fifth bedroom is in an extended wing.\n\n**On-site:** Self-catering kitchen with AGA in the tower's vaulted ground floor, walled garden with croquet lawn.\n\n**Good to know:** This is a whole-property rental for one group at a time (2-night minimum), not a room-by-room hotel — book the entire tower rather than an individual room.\n\n**Combine with:** Selkirk town and the Scottish Borders' network of historic abbeys, all within easy driving distance."
   }
 }
