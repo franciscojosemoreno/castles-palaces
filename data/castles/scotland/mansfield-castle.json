@@ -89,6 +89,10 @@
     "currency": "GBP",
     "star_category": 4,
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-12"
+    "sourced_date": "2026-09-12",
+    "room_location": "mixed",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "Dining evidence exists via third-party reviews, but the hotel's own channels don't explicitly confirm non-resident access — treat as unconfirmed",
+    "how_to_stay": "**Getting there:** Tain, Highlands.\n\n**Rooms & rates:** Superior rooms and two Standard rooms are within the main 1870s castle building; the rest of the Standard rooms are in a separate garden wing, connected to the castle by a covered walkway.\n\n**On-site:** Restaurant.\n\n**Good to know:** Specify a Superior room if sleeping inside the historic castle building specifically matters — most Standard rooms are in the attached garden wing.\n\n**Combine with:** Tain town centre, Scotland's oldest royal burgh, a short walk away."
   }
 }

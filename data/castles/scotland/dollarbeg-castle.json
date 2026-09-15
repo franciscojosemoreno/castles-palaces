@@ -84,6 +84,11 @@
     "price_from_night": 482,
     "currency": "GBP",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-12"
+    "sourced_date": "2026-09-12",
+    "room_count": 10,
+    "room_location": "castle",
+    "amenities": ["self_catering", "gardens"],
+    "non_guest_access_note": "No day-visitor access — exclusive-use self-catering apartments, not a conventional hotel",
+    "how_to_stay": "**Getting there:** near Dollar, Clackmannanshire.\n\n**Rooms & rates:** 10 luxury self-catering apartments, all converted from spaces within the historic 1887-89 castle building itself — including The Great Hall (the former ballroom, later WWII RAF radar control) and The Tower (with its own rooftop terrace).\n\n**On-site:** Self-catering kitchens throughout; estate grounds.\n\n**Good to know:** Since each apartment is a conversion of a genuinely historic room within the castle, ask specifically which apartment corresponds to which part of the building if that history interests you.\n\n**Combine with:** Castle Campbell in nearby Dollar Glen, a short drive away."
   }
 }
