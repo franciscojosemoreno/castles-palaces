@@ -84,6 +84,10 @@
     "currency": "GBP",
     "star_category": 4,
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-10"
+    "sourced_date": "2026-09-10",
+    "room_location": "mixed",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "No day-visitor access confirmed — verify directly whether the restaurant welcomes non-residents",
+    "how_to_stay": "**Getting there:** Sherbrooke Avenue, Glasgow (Pollokshields area).\n\n**Rooms & rates:** Junior Suites and the feature Tower Suite are within the main castle building and its tower; Executive Rooms and further suites are split between a separate garden building and a cottage building on the grounds.\n\n**On-site:** Restaurant.\n\n**Good to know:** Specify a castle-building room (or the Tower Suite specifically) if sleeping inside the historic structure is the priority — several room categories are in the separate garden and cottage buildings.\n\n**Combine with:** Glasgow city centre, a short taxi or train ride away."
   }
 }

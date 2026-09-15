@@ -84,6 +84,10 @@
     "price_from_night": 195,
     "currency": "GBP",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-10"
+    "sourced_date": "2026-09-10",
+    "room_location": "castle",
+    "amenities": ["self_catering"],
+    "non_guest_access_note": "No day-visitor access — the Tower is rented as a single exclusive-use property, similar to Ballindooley Castle in Ireland",
+    "how_to_stay": "**Getting there:** about 10 miles east of Edinburgh city centre, near Tranent, East Lothian.\n\n**Rooms & rates:** The entire accommodation is the 14th-century castle Tower itself, rented as a single exclusive-use property on two levels, including private use of the Great Hall.\n\n**On-site:** Self-contained — Great Hall with fireplace and log-burning stove, roof-top walkway with panoramic Firth of Forth views; no shared restaurant.\n\n**Good to know:** This is a whole-tower rental for one party at a time, not a room-by-room hotel — best suited to a couple or small group wanting the entire historic tower to themselves.\n\n**Combine with:** Edinburgh city centre, about 30 minutes away."
   }
 }
