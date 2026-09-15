@@ -89,6 +89,11 @@
     "price_from_night": 1750,
     "currency": "GBP",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-12"
+    "sourced_date": "2026-09-12",
+    "room_count": 4,
+    "room_location": "castle",
+    "amenities": ["self_catering"],
+    "non_guest_access_note": "Real 'Tea & Tours' April-September, Saturdays, £22.50/£10 — see Highlights above; the exclusive-use rental itself has no day-visitor access",
+    "how_to_stay": "**Getting there:** near Castle Douglas, Dumfries and Galloway.\n\n**Rooms & rates:** The exclusive-use rental covers the main tower building and the adjoining east range of the courtyard, both part of the historic ~1170 castle complex — 4 bedrooms, sleeping up to 10.\n\n**On-site:** Self-catering; the Mary Queen of Scots Room and other historic reception rooms are part of the rental.\n\n**Good to know:** This is a whole-property exclusive-use rental (the site's own price reflects the full castle, not a per-room rate) — separate from the ticketed Tea & Tours day-visit product on Saturdays.\n\n**Combine with:** Threave Castle and Threave Garden, both a short drive away."
   }
 }
