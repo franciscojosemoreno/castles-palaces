@@ -5,6 +5,23 @@ interface Props {
   hotel: CastleHotel;
 }
 
+const AMENITY_LABELS: Record<string, string> = {
+  restaurant: 'Restaurant',
+  bar: 'Bar',
+  spa: 'Spa',
+  golf: 'Golf',
+  gardens: 'Gardens',
+  fishing: 'Fishing',
+  falconry: 'Falconry',
+  farm_stay: 'Working Farm',
+};
+
+const ROOM_LOCATION_LABELS: Record<NonNullable<CastleHotel['room_location']>, string> = {
+  castle: 'Rooms are within the historic castle building itself',
+  annex: 'Rooms are in an adjacent annex, not the original historic structure',
+  mixed: 'Rooms are split between the historic building and a newer wing',
+};
+
 export default function HotelBookingCard({ hotel }: Props) {
   const symbol = getCurrencySymbol(hotel.currency);
   return (
@@ -18,11 +35,26 @@ export default function HotelBookingCard({ hotel }: Props) {
           {hotel.star_category}-Star Hotel
         </span>
       )}
-      <div className="flex items-center gap-2 mb-4">
+      <div className="flex items-center gap-2 mb-3">
         <span className="font-bold text-[#1a1a1a] text-sm">
           {hotel.price_from_night != null ? `From ${symbol}${hotel.price_from_night} / night` : 'Check rates'}
         </span>
       </div>
+      {hotel.room_location && (
+        <p className="text-xs text-stone-500 mb-3">{ROOM_LOCATION_LABELS[hotel.room_location]}</p>
+      )}
+      {hotel.amenities && hotel.amenities.length > 0 && (
+        <div className="flex flex-wrap gap-1.5 mb-4">
+          {hotel.amenities.map((a) => (
+            <span
+              key={a}
+              className="bg-stone-100 text-stone-600 text-[11px] font-medium px-2 py-0.5 rounded-full"
+            >
+              {AMENITY_LABELS[a] ?? a}
+            </span>
+          ))}
+        </div>
+      )}
       <a
         href={hotel.booking_url}
         target="_blank"
@@ -36,7 +68,12 @@ export default function HotelBookingCard({ hotel }: Props) {
       </p>
       {hotel.visitable_by_public && (
         <p className="text-xs text-stone-500 text-center mt-3 pt-3 border-t border-stone-100">
-          Open to day visitors without booking a room — see How to Visit below.
+          {hotel.non_guest_access_note ?? 'Open to day visitors without booking a room — see How to Stay below.'}
+        </p>
+      )}
+      {!hotel.visitable_by_public && hotel.non_guest_access_note && (
+        <p className="text-xs text-stone-500 text-center mt-3 pt-3 border-t border-stone-100">
+          {hotel.non_guest_access_note}
         </p>
       )}
     </div>

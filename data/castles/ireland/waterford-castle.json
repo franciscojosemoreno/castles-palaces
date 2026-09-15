@@ -87,6 +87,10 @@
     "star_category": 4,
     "room_count": 19,
     "source": "web-search-aggregate-usd-converted",
-    "sourced_date": "2026-09-14"
+    "sourced_date": "2026-09-14",
+    "room_location": "mixed",
+    "amenities": ["restaurant", "golf", "gardens", "spa"],
+    "non_guest_access_note": "Island accessed only by hotel guests via private car ferry; no independent day-visitor access",
+    "how_to_stay": "**Getting there:** Little Island, near Waterford city — accessible only by the resort's own car ferry (3-minute crossing), not by road.\n\n**Rooms & rates:** 14 Classic/Deluxe rooms plus 5 suites inside the historic castle itself; the resort also has 45 contemporary self-catering lodges and cottages elsewhere on the island — specify 'castle rooms' when booking if that's the priority.\n\n**On-site:** Restaurant, golf course, spa, extensive private-island grounds.\n\n**Good to know:** The private-island ferry access is itself part of the experience, but also a practical constraint — factor in ferry hours when planning arrival/departure.\n\n**Combine with:** Waterford city's Viking Triangle and Reginald's Tower, a short ferry-and-drive away."
   }
 }

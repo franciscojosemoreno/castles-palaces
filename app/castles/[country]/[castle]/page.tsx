@@ -200,6 +200,24 @@ export default async function CastlePage({ params }: PageProps) {
               </section>
             )}
 
+            {/* How to stay */}
+            {castle.hotel?.how_to_stay && (
+              <section className="mb-10">
+                <h2 className="font-serif font-bold text-[#1761a0] text-2xl mb-4">How to Stay</h2>
+                <div className="prose-editorial">
+                  {castle.hotel.how_to_stay.split('\n\n').map((para, i) => (
+                    <p key={i}
+                      dangerouslySetInnerHTML={{
+                        __html: para
+                          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                          .replace(/\n/g, '<br/>'),
+                      }}
+                    />
+                  ))}
+                </div>
+              </section>
+            )}
+
             {/* FAQ */}
             {castle.faqs && castle.faqs.length > 0 && (
               <section className="mb-10">
