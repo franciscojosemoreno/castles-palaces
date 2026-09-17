@@ -1,0 +1,93 @@
+{
+  "id": "rabenstein-palace",
+  "name": "Rabenstein Palace",
+  "local_name": "Hotel Schloss Rabenstein",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "germany",
+  "region": "Saxony — Chemnitz (Rabenstein district)",
+  "nearest_city": "Chemnitz",
+  "address": "Schlossberg, 09117 Chemnitz, Germany",
+  "lat": 50.7730,
+  "lng": 12.8360,
+  "unesco": false,
+  "year_built": 1776,
+  "architectural_style": "Baroque palace built in 1776, fully renovated in 2011, in the Rabenstein district of Chemnitz",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only — no confirmed independent day-visit product",
+  "best_season": "Year-round",
+  "accessibility": "A Baroque palace hotel beside a public park; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Baroque residence built in 1776 in the Rabenstein district of Chemnitz — one of the smallest properties in this whole collection, set beside a public park and pond",
+  "highlights": [
+    "A Baroque palace built in 1776, fully renovated in 2011, in the Rabenstein district of Chemnitz in Saxony",
+    "Just 15 rooms (3 single, 12 double) — one of the smallest properties in this whole collection",
+    "Rooms combine a Baroque exterior facade with modern interiors: wood floors, oversized beds, rain showers",
+    "Sits directly beside a public park and pond, giving it a genuine parkland setting despite the urban Chemnitz location",
+    "On-site restaurant and bar, garden and terrace"
+  ],
+  "description": "Rabenstein Palace was built in 1776 in the Baroque style, in what is now the Rabenstein district of Chemnitz in Saxony — a considerably later and more purely residential building than the medieval defensive castles that make up most of this collection. The palace underwent a complete renovation in 2011, updating its interiors while preserving the Baroque exterior that gives the building its historic character.\n\nToday it operates as a compact 4-star hotel with just 15 rooms, making it one of the smallest properties among the castle-hotels covered here. The palace sits directly beside a public park with a pond, a setting that gives guests a genuine sense of green space and quiet despite being within the city limits of Chemnitz — a practical, well-located base for exploring Saxony rather than a remote countryside retreat.\n\nIt is worth being explicit about the naming here: Rabenstein Palace shares its name with an entirely separate and unrelated property, Rabenstein Castle in Ahorntal, Bavaria, a genuine medieval defensive castle roughly 250 km to the south. The two buildings have no historical connection whatsoever beyond both taking their name from the German word Rabenstein ('raven's rock'), a place-name that recurs independently across several regions of German-speaking Europe.\n\nChemnitz itself, once a major centre of Saxon textile manufacturing and later heavy industry, carries a substantial industrial-heritage legacy that distinguishes it from Germany's more conventionally picturesque tourist cities. The Rabenstein district, on the city's outskirts, offers a quieter, more residential counterpoint to Chemnitz's denser urban core, and the palace's adjacent public park provides a genuine green-space amenity for guests wanting to combine an overnight stay with easy access to the wider city's museums and historic sites.\n\nAs one of the more compact properties in this entire collection, Rabenstein Palace suits visitors seeking a manageable, personally-scaled historic stay rather than a sprawling resort experience — its 15 rooms mean the building retains something of the intimate character of a genuine private residence, even as it operates today as a commercially run hotel open to any paying guest.\n\nThe palace's 2011 renovation represents a common pattern among Germany's smaller historic residences, where a Baroque or earlier exterior is preserved largely intact while the interior is substantially modernised to meet contemporary hospitality standards — wood floors, oversized beds and rain showers alongside the building's 18th-century facade. This approach allows a genuinely old building to function as a comfortable, modern hotel without the compromises that a more conservative, museum-style restoration might have required, though it does mean visitors should not expect a fully preserved period interior to match the historic exterior.\n\nSaxony's own dense concentration of Baroque and Renaissance palaces, spread across Dresden, Meissen and the surrounding countryside, gives visitors staying at Rabenstein Palace a genuinely rich wider regional context for exploring German aristocratic architecture beyond Chemnitz itself. Albrechtsburg Castle in nearby Meissen and Moritzburg Castle outside Dresden both offer considerably larger-scale examples of the same broad architectural tradition, making a stay at the more modest and personally-scaled Rabenstein Palace a genuinely useful complementary base for a wider Saxon castle-touring itinerary.\n\nChemnitz's own transformation from a heavily bombed World War II industrial city into a functioning modern regional centre gives the wider area a genuinely different historical texture from Saxony's more traditionally 'castle-and-vineyard' tourist image further east around Dresden and Meissen, and Rabenstein Palace's quiet parkland setting offers a deliberately calmer counterpoint to that urban, industrial-heritage backdrop.",
+  "history": "Rabenstein Palace was built in 1776 in the Baroque style in what is now the Rabenstein district of Chemnitz, Saxony. The palace underwent a complete renovation in 2011, updating its interiors while preserving its Baroque exterior. It operates today as a compact hotel with 15 rooms, situated directly beside a public park with a pond.",
+  "faqs": [
+    {
+      "question": "Is Rabenstein Palace the same property as Rabenstein Castle in Bavaria?",
+      "answer": "No. Rabenstein Palace in Chemnitz, Saxony, is a Baroque residential building from 1776, entirely unrelated to Rabenstein Castle, a genuine medieval defensive castle in Ahorntal, Bavaria, roughly 250 km to the south. The two properties share only the German place-name Rabenstein ('raven's rock')."
+    },
+    {
+      "question": "Can I visit the park beside Rabenstein Palace without staying overnight?",
+      "answer": "The palace sits directly beside a public park with a pond, which appears freely open to walkers, though exact opening hours and any admission policy for the wider grounds have not been confirmed — worth checking directly before planning a visit around this specifically."
+    },
+    {
+      "question": "How many rooms does Rabenstein Palace have?",
+      "answer": "Rabenstein Palace has just 15 rooms (3 single, 12 double), making it one of the smallest properties in this entire collection of castle and palace hotels."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rabenstein-palace.webp",
+    "alt": "Rabenstein Palace in the Rabenstein district of Chemnitz, Saxony, Germany, a Baroque residence built in 1776",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rabenstein-palace.webp",
+  "instagram_tag": "#rabensteinpalace",
+  "meta_title": "Rabenstein Palace — A Compact Baroque Hotel in Chemnitz",
+  "meta_description": "Stay at Rabenstein Palace in Chemnitz, Saxony — a Baroque residence built in 1776, fully renovated in 2011, beside a public park and pond.",
+  "tags": [
+    "germany",
+    "saxony",
+    "castle-hotel",
+    "baroque",
+    "chemnitz"
+  ],
+  "last_updated": "2026-09-16",
+  "routes": [],
+  "nearby_castles": [
+    "albrechtsburg-castle",
+    "moritzburg-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Schloss Rabenstein",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-rabenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-rabenstein.es.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D17668%26dest_type%3Dlandmark%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784736304%26srpvid%3D0cbb7112821b1562%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 108,
+    "currency": "EUR",
+    "room_count": 15,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "Sits directly beside a public park with a pond, freely open to non-guests for walks — exact opening hours/admission for the wider grounds not confirmed, verify before publishing a specific claim",
+    "how_to_stay": "**Getting there:** Rabenstein district, Chemnitz, Saxony.\n\n**Rooms & rates:** All 15 rooms (3 single, 12 double) are within the 1776 Baroque palace building itself, renovated in 2011 with modern interiors behind the historic facade. From €108/night.\n\n**On-site:** Restaurant, bar, garden, terrace.\n\n**Good to know:** This is a compact, urban-adjacent property rather than an isolated countryside estate — the appeal is the Baroque building and its parkland setting within easy reach of Chemnitz itself, not remoteness. Not to be confused with Rabenstein Castle in Bavaria, an entirely separate medieval castle that happens to share the same place-name.\n\n**Combine with:** Chemnitz city centre and its industrial-heritage museums, a short drive or public transport ride away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
+}

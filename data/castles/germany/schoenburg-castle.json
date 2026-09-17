@@ -1,0 +1,96 @@
+{
+  "id": "schoenburg-castle",
+  "name": "Schönburg Castle",
+  "local_name": "Burghotel auf Schönburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "germany",
+  "region": "Rhineland-Palatinate — Oberwesel, Rhine Gorge (UNESCO)",
+  "nearest_city": "Oberwesel",
+  "address": "Auf Schönburg, 55430 Oberwesel, Germany",
+  "lat": 50.1095,
+  "lng": 7.7255,
+  "unesco": true,
+  "year_built": 966,
+  "architectural_style": "Medieval hill castle first documented in 966, burned by French troops in 1689 and substantially rebuilt during the 19th-century Romantic revival of the Rhine",
+  "price_adult": 3,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Turmmuseum (tower museum): 30–45 minutes for day visitors; overnight stay separately bookable",
+  "best_season": "Year-round; spring and autumn avoid both summer crowds on the Rhine and the coldest months",
+  "accessibility": "A medieval hill castle above Oberwesel with steps throughout; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Perched above the UNESCO-listed Rhine Gorge since 966, burned by French troops in 1689 and reborn during the Rhine's 19th-century Romantic revival — its tower museum welcomes day visitors, its garden is for guests only",
+  "highlights": [
+    "Perched above Oberwesel on the UNESCO-listed Rhine Gorge, one of the most photographed stretches of the Rhine",
+    "Documented since 966, held by the Dukes of Schönburg from the 12th century with rights to levy river tolls",
+    "Burned by French troops during the Wars of the Palatine Succession in 1689, then rebuilt in the 19th century during the Rhine's Romantic revival",
+    "All 31 rooms sit within the reconstructed castle itself — four-poster beds, stained-glass windows, balconies over the Rhine",
+    "Free entry to the on-site Turmmuseum and castle garden for overnight guests; day visitors can pay a small fee to visit the tower museum"
+  ],
+  "description": "Schönburg Castle has stood above the town of Oberwesel since at least 966, commanding one of the most dramatic bends in the Rhine Gorge, a stretch of river now protected as a UNESCO World Heritage Site for its density of medieval castles and vineyard terraces. From the 12th century, the Dukes of Schönburg held the castle and, with it, the right to levy tolls on river traffic and on goods moving along the old Roman road through the surrounding hills — a lucrative position that funded the family's long tenure here.\n\nLike many castles of the Rhineland-Palatinate, Schönburg was burned by French troops during the Wars of the Palatine Succession in 1689, leaving it a ruin for well over a century. Its revival came during the 19th century's Romantic fascination with the Rhine, when the castle was substantially rebuilt in the spirit — if not always the precise historical detail — of its medieval original. That rebuilt structure is what stands today: a hotel since the 20th century, with 31 individually decorated rooms inside the castle's restored walls, a tower museum open to day visitors, and views over Oberwesel's medieval town walls to the river below.\n\nVisitors researching Schönburg online should understand this authenticity nuance clearly: the castle is not an unbroken medieval survivor, but a genuine 19th-century Romantic-era reconstruction built on the original medieval footprint and walls, following a real and well-documented destruction in 1689. This places Schönburg within the same honest category as several other reconstructed Rhine castles, valuable for its history and setting rather than for continuous, unbroken medieval fabric.\n\nToday the castle's Turmmuseum (tower museum) is open to day visitors for a modest admission fee, while the 2-hectare Burggarten (castle garden) is reserved exclusively for overnight guests — an unusual split of access rights across two parts of the same small estate. This arrangement makes Schönburg one of the more nuanced cases in this collection when it comes to describing exactly what a non-resident visitor can and cannot access.\n\nThe Rhine Gorge itself, protected as the Upper Middle Rhine Valley UNESCO World Heritage Site, stretches roughly 65 kilometres between Koblenz and Bingen and is one of the highest concentrations of castles anywhere in Europe, a legacy of the medieval toll rights that families like the Dukes of Schönburg held over river traffic passing beneath their walls. Vineyards climb the terraced slopes on both banks, and the river itself remains a working transport corridor as well as a major tourist route, with cruise boats and freight barges passing directly below the castle's windows throughout the day.\n\nOberwesel, the medieval walled town at the foot of the castle, retains a substantial stretch of its original town walls and towers, giving visitors a genuinely well-preserved example of a Rhine river town to explore on foot before or after a stay at the castle above. The combination of an authentic medieval town, a genuinely significant (if reconstructed) hilltop castle, and one of Europe's most celebrated river landscapes gives Schönburg a setting that few other properties in this collection can match for sheer density of things worth seeing within a short walk or drive.\n\nThe Dukes of Schönburg themselves were among the more powerful noble families of the medieval Rhineland, and their toll-collecting rights over river traffic passing beneath the castle placed them at the centre of a genuinely lucrative medieval trade economy, one that funded castle construction and expansion across this entire stretch of the Rhine for centuries. That economic role, more than purely military considerations, explains why so many castles cluster along such a comparatively short stretch of river — each family sought its own vantage point from which to extract tolls from the boats and barges moving goods between the Rhine's upper reaches and its mouth at the North Sea.",
+  "history": "Schönburg Castle is documented since 966 above the town of Oberwesel on the Rhine. From the 12th century, the Dukes of Schönburg held the castle along with the right to levy tolls on river traffic and on goods moving along the old Roman road through the surrounding hills. The castle was burned by French troops during the Wars of the Palatine Succession in 1689, leaving it a ruin for over a century. Its revival came during the 19th century's Romantic fascination with the Rhine, when the castle was substantially rebuilt on its original footprint. That rebuilt structure has operated as a hotel since the 20th century.",
+  "faqs": [
+    {
+      "question": "Can I visit Schönburg Castle without staying overnight?",
+      "answer": "Yes, partially. The on-site Turmmuseum (tower museum) is open to day visitors for a small admission fee (adults €3), but the 2-hectare castle garden is reserved exclusively for overnight guests."
+    },
+    {
+      "question": "Is Schönburg Castle an original medieval building?",
+      "answer": "Not entirely. The castle was burned by French troops in 1689 and left a ruin for over a century before being substantially rebuilt during the 19th century's Romantic revival of the Rhine. It follows the original medieval footprint and walls but is best understood as a genuine 19th-century reconstruction rather than an unbroken medieval survivor."
+    },
+    {
+      "question": "What rights did the Dukes of Schönburg hold at the castle?",
+      "answer": "From the 12th century, the Dukes of Schönburg held Schönburg Castle along with the right to levy tolls on river traffic on the Rhine and on goods moving along the old Roman road through the surrounding hills — a lucrative position that funded the family's long tenure at the castle."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schoenburg-castle.webp",
+    "alt": "Schönburg Castle above Oberwesel on the UNESCO-listed Rhine Gorge, Rhineland-Palatinate, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schoenburg-castle.webp",
+  "instagram_tag": "#schoenburgcastle",
+  "meta_title": "Schönburg Castle — A Rhine Gorge Hotel Above Oberwesel",
+  "meta_description": "Stay at Schönburg Castle above the UNESCO-listed Rhine Gorge — documented since 966, rebuilt after an 1689 fire, with a tower museum open to day visitors.",
+  "tags": [
+    "germany",
+    "rhineland-palatinate",
+    "castle-hotel",
+    "medieval",
+    "unesco",
+    "rhine",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-16",
+  "routes": [],
+  "nearby_castles": [
+    "stahleck-castle",
+    "marksburg-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Burghotel auf Schönburg",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=burghotel-auf-schonburg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburghotel-auf-schonburg.es.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D72430%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784735339%26srpvid%3D0a2e6f30d24808ef%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 238,
+    "currency": "EUR",
+    "room_count": 31,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens", "museum"],
+    "non_guest_access_note": "Turmmuseum (tower museum) open to day visitors, adults €3 — the 2-hectare Burggarten (castle garden) is exclusive to overnight guests only",
+    "how_to_stay": "**Getting there:** Oberwesel, Rhineland-Palatinate, on the Rhine Gorge between Koblenz and Bingen.\n\n**Rooms & rates:** All 31 rooms and suites are within the reconstructed castle building itself, individually furnished with four-poster beds, alcoves and stained-glass windows; some have balconies over the Rhine. From €238/night.\n\n**On-site:** Restaurant, Turmmuseum (tower museum), 2-hectare castle garden.\n\n**Good to know:** The castle garden is reserved for overnight guests only, but the tower museum welcomes day visitors for a small fee — a rare case where the 'museum' and 'garden' halves of the same property have different access rules. The castle was also burned by French troops in 1689 and is a 19th-century Romantic-era reconstruction on the original medieval site, not an unbroken medieval survivor, though the walls and layout follow the historic footprint.\n\n**Combine with:** St. Goar and the Loreley rock, both a short drive up the Rhine Gorge.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rabenstein-castle",
+  "name": "Rabenstein Castle",
+  "local_name": "Burg Rabenstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "germany",
+  "region": "Bavaria — Ahorntal, Franconian Switzerland (Fränkische Schweiz), near Bayreuth",
+  "nearest_city": "Bayreuth",
+  "address": "Burg Rabenstein 1, 95491 Ahorntal, Germany",
+  "lat": 49.8478,
+  "lng": 11.4672,
+  "unesco": false,
+  "year_built": 1188,
+  "architectural_style": "Medieval castle first documented in 1188, built on an outcrop of petrified sponge reef above the Ailsbachtal valley",
+  "price_adult": 7,
+  "price_child": 4,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Castle tour and falconry: 1.5–2 hours for day visitors; overnight stay separately bookable",
+  "best_season": "Year-round; the falconry's flight demonstrations run Tuesday to Sunday",
+  "accessibility": "A medieval castle on a rock outcrop with steps throughout; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "First recorded in 1188 on a petrified sponge-reef outcrop, with a real ticketed falconry of 28 aviaries — one of the few castle-hotels in this collection built around genuine day-visitor traffic",
+  "highlights": [
+    "First documented in 1188, perched like an eagle's nest on a petrified sponge-reef outcrop above the Ailsbachtal for at least 800 years",
+    "All 22 hotel rooms are within the castle itself, each individually themed — gold-leafed Baroque salons, a Renaissance hall with valley views, a weapons hall",
+    "A real, ticketed falconry (Falknerei) with 28 aviaries and live flight demonstrations sits on the grounds, a genuine day-visitor draw separate from the hotel",
+    "Castle chapel used for weddings; a nearby dripstone cave (Sophienhöhle) is a separate paid attraction on the same estate",
+    "Set within a 64-hectare nature area in the Franconian Switzerland region, popular for hiking and climbing"
+  ],
+  "description": "Rabenstein Castle has occupied its dramatic perch above the Ailsbachtal valley in Bavaria's Franconian Switzerland region for at least 800 years, first appearing in written records in 1188. The castle sits on a striking outcrop of petrified sponge reef, a geological quirk of this limestone-rich region that gives the building an almost organic-looking foundation rising directly out of the valley floor — a defensive position exploited by its medieval builders and still visually arresting today.\n\nToday the castle operates as both a hotel and a wider day-visitor destination, a combination that sets it apart from many of the purely residential castle-hotels in this collection. Overnight guests sleep in 22 individually themed rooms within the historic building itself — a gold-leafed Baroque salon, a Renaissance hall looking out over two valleys, a low-vaulted hunting room — while day visitors can pay separately to tour the castle, visit the on-site falconry with its 28 aviaries of birds of prey, or explore the nearby Sophienhöhle dripstone cave, all part of the same 64-hectare estate.\n\nThe castle's falconry (Falknerei) is a genuine, independently ticketed attraction with live flight demonstrations running Tuesday through Sunday, giving Rabenstein a level of real day-visitor infrastructure — admission fees, scheduled demonstrations, a dedicated aviary complex — that goes well beyond a simple courtyard-and-grounds arrangement found at many other castle hotels. Visitors interested purely in the falconry or the castle tour, without an overnight stay, will find Rabenstein a genuinely well-developed standalone attraction in its own right.\n\nFranconian Switzerland (Fränkische Schweiz), the wider region surrounding the castle, is a limestone karst landscape riddled with caves, dramatic rock formations and deep river valleys, making it one of Bavaria's most popular destinations for hiking, rock climbing and caving. The nearby Sophienhöhle, a genuine dripstone cave open as a separate paid attraction on the same estate, adds a further layer of natural, rather than purely historical, interest to a visit — a combination of medieval castle, working falconry and karst cave landscape that few other properties in this collection can offer within a single estate.\n\nBecause Rabenstein Castle and Rabenstein Palace in Chemnitz, Saxony, share an identical name despite being entirely unrelated properties in different German states, visitors researching either one online should take care to confirm which Rabenstein they are looking at — the Bavarian castle is a genuine medieval fortification with real day-visitor infrastructure including the falconry, while the Saxon palace is a considerably smaller, later Baroque residence with a very different character and history.\n\nThe castle's interior rooms reflect a genuinely varied decorative history spanning several centuries of ownership and renovation, from the gold-leafed Baroque salon through to the more austere weapons hall, giving overnight guests a genuinely wide range of room character to choose from depending on personal taste. This variety, combined with the estate's working day-visitor attractions, makes Rabenstein a genuinely dual-purpose property: a working historic hotel for overnight guests and a fully developed heritage and wildlife attraction for the wider public, operating side by side on the same 64-hectare grounds.\n\nFalconry itself has a long and genuine history in this part of Europe, practiced by medieval nobility as both a hunting method and a display of aristocratic status, and Rabenstein's modern Falknerei continues that tradition in a form accessible to any paying visitor rather than restricted to the estate's historic owners. The birds housed across the falconry's 28 aviaries typically include native and trained raptor species, with keepers conducting live flight demonstrations that give visitors a genuine, close-up sense of a practice that once defined a significant part of medieval elite culture.",
+  "history": "Rabenstein Castle was first documented in 1188, built on an outcrop of petrified sponge reef above the Ailsbachtal valley in Bavaria's Franconian Switzerland region. The castle has occupied this dramatic perch for at least 800 years. Today it operates as both a hotel, with 22 individually themed rooms within the historic building, and a wider day-visitor destination, including a real ticketed falconry with 28 aviaries and live flight demonstrations, set within a 64-hectare estate that also includes the nearby Sophienhöhle dripstone cave.",
+  "faqs": [
+    {
+      "question": "Can I visit Rabenstein Castle without staying overnight?",
+      "answer": "Yes. Day-visitor admission to the castle costs €7 for adults and €4 concession, and the on-site falconry (Falknerei) is a separate, real ticketed attraction (€4–8) with live flight demonstrations Tuesday to Sunday."
+    },
+    {
+      "question": "What is special about Rabenstein Castle's foundation?",
+      "answer": "The castle sits on an outcrop of petrified sponge reef, a geological feature of Bavaria's limestone-rich Franconian Switzerland region, giving the building an almost organic-looking foundation rising directly out of the Ailsbachtal valley floor."
+    },
+    {
+      "question": "Is this the same Rabenstein as the palace in Chemnitz, Saxony?",
+      "answer": "No. Rabenstein Castle in Ahorntal, Bavaria, is a genuine medieval defensive castle first documented in 1188, entirely unrelated to Rabenstein Palace, a Baroque residence built in 1776 in the Rabenstein district of Chemnitz, Saxony. The two properties share only a name."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rabenstein-castle.webp",
+    "alt": "Rabenstein Castle on a petrified sponge-reef outcrop above the Ailsbachtal valley, Franconian Switzerland, Bavaria, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rabenstein-castle.webp",
+  "instagram_tag": "#rabensteincastle",
+  "meta_title": "Rabenstein Castle — A Medieval Hotel With a Real Falconry",
+  "meta_description": "Stay at or visit Rabenstein Castle in Franconian Switzerland, Bavaria — first documented in 1188, with a real ticketed falconry of 28 aviaries.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "franconia",
+    "castle-hotel",
+    "medieval",
+    "falconry",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-16",
+  "routes": [],
+  "nearby_castles": [
+    "colmberg-castle",
+    "nuremberg-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Burg Rabenstein",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=burg-rabenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-rabenstein.es.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D322819%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784736286%26srpvid%3Da8ef710cc45800cd%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 84,
+    "currency": "EUR",
+    "room_count": 22,
+    "room_location": "castle",
+    "amenities": ["restaurant", "falconry"],
+    "non_guest_access_note": "Castle admission for day visitors €7/€4 concession; on-site falconry (Falknerei) is a separate, real ticketed attraction, €4-8, with live flight demonstrations Tue-Sun",
+    "how_to_stay": "**Getting there:** Ahorntal, Franconian Switzerland (Fränkische Schweiz), Bavaria, near Bayreuth.\n\n**Rooms & rates:** All 22 hotel rooms are within the historic castle building itself, individually themed from Baroque salons to a hunting room. From €84/night.\n\n**On-site:** Castle restaurant, real ticketed falconry with live flight demonstrations, castle chapel.\n\n**Good to know:** This is one of the more 'day-visitor-busy' castle-hotels in the collection — the falconry and castle tours draw a steady stream of non-resident visitors, so it suits guests who enjoy an active, shared estate rather than total seclusion. Not to be confused with Rabenstein Palace in Chemnitz, Saxony — a separate, unrelated Baroque property that happens to share the same name.\n\n**Combine with:** The Sophienhöhle dripstone cave, on the same estate, and the wider Franconian Switzerland hiking trails.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
+}
