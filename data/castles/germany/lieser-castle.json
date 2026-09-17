@@ -1,0 +1,93 @@
+{
+  "id": "lieser-castle",
+  "name": "Lieser Castle",
+  "local_name": "Schloss Lieser",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "Rhineland-Palatinate — Lieser, Moselle (Mosel) valley",
+  "nearest_city": "Bernkastel-Kues",
+  "address": "Moseluferstraße 1, 54470 Lieser, Germany",
+  "lat": 49.9310,
+  "lng": 6.9570,
+  "unesco": false,
+  "year_built": 1885,
+  "architectural_style": "Neo-Renaissance main block built 1885–1906, with a later Art Nouveau wing added by Dr. Clemens Freiherr von Schorlemer",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; the Moselle wine harvest runs September to October",
+  "accessibility": "A late-19th-century riverside mansion; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Neo-Renaissance riverside mansion on the Moselle, its later Art Nouveau wing added for the von Schorlemer family — now a Marriott Autograph Collection hotel",
+  "highlights": [
+    "A Neo-Renaissance riverside mansion built 1885-1906 overlooking the Moselle and its terraced Riesling vineyards",
+    "Consists of two visually distinct historic sections: an older Neo-Renaissance block and a later Art Nouveau wing added for the von Schorlemer family",
+    "49 individually designed rooms and suites, most within the main building, some in the Cottage House (a former stable wing)",
+    "Original 19th-century frescoes, a rock-cut historic wine cellar, library and chapel",
+    "Run since 2019 as part of Marriott's Autograph Collection"
+  ],
+  "description": "Lieser Castle rises directly on the banks of the Moselle River, its Neo-Renaissance form built between 1885 and 1906 amid some of the steepest and oldest Riesling vineyards in Germany — vines that have been cultivated on these terraced slopes for over 2,000 years. The building's later Art Nouveau wing was added when Maria and Dr. Clemens Freiherr von Schorlemer moved into the castle around the turn of the 20th century, giving the property its distinctive combination of two related but stylistically different historic sections standing side by side.\n\nSince 2019, the castle has operated as part of Marriott International's Autograph Collection, its 49 individually designed rooms and suites — including a 125-square-metre Kaisersuite — spread mainly through the main historic building, with a smaller number in the Cottage House, a converted former stable wing on the grounds. Original 19th-century frescoes, a wine cellar carved directly into the rock, a library and a chapel all remain part of the working hotel, giving guests a stay that keeps much of the building's original decorative character alongside its riverside setting.\n\nArchitecturally, Lieser Castle is worth placing carefully: it is more accurately a late-19th-century riverside villa or mansion than a fortification in the medieval sense, built as an aristocratic residence during a period when the Moselle valley's wine wealth supported substantial private building projects. It retains the English name \"Lieser Castle\" in common tourist usage, without the defensive features — moats, curtain walls, gatehouses — that define the region's older fortified castles.\n\nThe Moselle valley surrounding Lieser is one of Germany's most celebrated wine regions, its steep, often near-vertical slate slopes producing Riesling grapes prized for their mineral character. The vineyards visible directly from the castle's riverside position connect the building's own history to a much longer agricultural tradition stretching back over two millennia, predating the current structure by many centuries.\n\nThe von Schorlemer family's own late-19th and early-20th century additions to the estate reflect a broader pattern among Germany's wealthier landowning families of the period, who frequently expanded or updated inherited or newly built residences in the fashionable Art Nouveau style then sweeping European decorative arts. That stylistic layering — Neo-Renaissance core, Art Nouveau addition — gives Lieser a genuinely distinct architectural character compared to castles built in a single, unified period.\n\nBernkastel-Kues, a short drive along the river, is widely regarded as one of the Moselle's prettiest half-timbered wine towns, giving guests staying at Lieser Castle an easy and rewarding day-trip option that combines the region's wine culture with well-preserved medieval townscape — a natural complement to the castle's own riverside vineyard views.\n\nThe 2019 conversion into a Marriott Autograph Collection property reflects a broader trend of major international hotel groups acquiring and restoring smaller historic European residences, bringing consistent global-standard hospitality operations to a building whose architectural character and original decorative features — the frescoes, the rock-cut cellar, the chapel — remain the primary draw for guests seeking a genuinely distinctive stay along the Moselle.\n\nThe Kaisersuite, at 125 square metres one of the largest rooms in the hotel, occupies a prominent position within the main building and gives a sense of the scale some of the original 19th-century interiors were built to — considerably grander than the more modestly sized rooms typical of a working aristocratic residence rather than a purpose-built palace.\n\nThe Moselle's steep vineyard slopes, visible directly from many of the castle's riverside-facing rooms, are worked using techniques adapted specifically to the region's severe gradient, including monorail systems that carry workers and equipment up and down the near-vertical rows — a distinctive sight for guests unfamiliar with steep-slope viticulture elsewhere in the wine world.",
+  "history": "Lieser Castle was built between 1885 and 1906 in the Neo-Renaissance style directly on the banks of the Moselle River, with a later Art Nouveau wing added when Maria and Dr. Clemens Freiherr von Schorlemer moved into the castle around the turn of the 20th century. Since 2019, the castle has operated as part of Marriott International's Autograph Collection. Its 49 rooms and suites are spread mainly through the main historic building, with some in the Cottage House, a converted former stable wing, and original 19th-century frescoes, a rock-cut wine cellar, library and chapel remain part of the working hotel.",
+  "faqs": [
+    {
+      "question": "Is Lieser Castle a medieval fortress?",
+      "answer": "No — it is a late-19th-century Neo-Renaissance riverside mansion built between 1885 and 1906, with a later Art Nouveau wing, rather than a medieval defensive fortification. It carries the English name \"Lieser Castle\" in common tourist usage despite this."
+    },
+    {
+      "question": "Are all the rooms within the historic castle building?",
+      "answer": "Most of the 49 rooms and suites are within the main historic building, spanning both its Neo-Renaissance and Art Nouveau sections; a smaller number are in the Cottage House, a converted former stable wing on the grounds."
+    },
+    {
+      "question": "What hotel group operates Lieser Castle?",
+      "answer": "Since 2019, Lieser Castle has operated as part of Marriott International's Autograph Collection, a portfolio of independently distinctive hotels."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lieser-castle.webp",
+    "alt": "Lieser Castle (Schloss Lieser) on the Moselle River, Rhineland-Palatinate, Germany, a Neo-Renaissance riverside mansion",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lieser-castle.webp",
+  "instagram_tag": "#liesercastle",
+  "meta_title": "Lieser Castle — A Neo-Renaissance Moselle Riverside Hotel",
+  "meta_description": "Stay at Lieser Castle on the Moselle River — a Neo-Renaissance and Art Nouveau mansion built 1885-1906, now a Marriott Autograph Collection hotel.",
+  "tags": [
+    "germany",
+    "rhineland-palatinate",
+    "castle-hotel",
+    "neo-renaissance",
+    "moselle",
+    "wine"
+  ],
+  "last_updated": "2026-09-16",
+  "routes": [],
+  "nearby_castles": [
+    "reichsburg-cochem",
+    "eltz-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Lieser, Autograph Collection",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=schloss-lieser&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-lieser-autophraph-collection.es.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D5078480%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784736823%26srpvid%3D8cfb72187fdf1bdd%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 196,
+    "currency": "EUR",
+    "room_count": 49,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "gardens"],
+    "how_to_stay": "**Getting there:** Lieser, on the Moselle (Mosel) River, Rhineland-Palatinate.\n\n**Rooms & rates:** Most of the 49 rooms and suites are within the main historic building (both its Neo-Renaissance and Art Nouveau sections); some are in the Cottage House, a converted former stable wing. From €196/night.\n\n**On-site:** Restaurant, spa with indoor pool, historic wine cellar, library, chapel, vineyard views.\n\n**Good to know:** The historic wine cellar, library and chapel are part of the main building and can be visited by guests. The Neo-Renaissance and Art Nouveau sections are both genuinely part of the historic complex, built only a couple of decades apart — only the Cottage House represents a separate, non-original building.\n\n**Combine with:** Bernkastel-Kues, one of the Moselle's prettiest wine towns, a short drive away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
+}

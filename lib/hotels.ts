@@ -20,7 +20,8 @@ export function getPrimaryCta(castle: Castle): { label: string; href: string } {
 
 /** Whether this castle has no GYG visit product at all — Estado C (hotel-only). */
 export function isHotelOnly(castle: Castle): boolean {
-  return Boolean(castle.hotel?.is_hotel) && !castle.gyg_featured_tours?.length;
+  const hasGygProduct = Boolean(castle.gyg_featured_tours?.length) || Boolean(castle.gyg_search_query);
+  return Boolean(castle.hotel?.is_hotel) && !hasGygProduct;
 }
 
 /** Hotel prices are stored in their native currency (Booking.com charges in the property's local currency, not forced to EUR like GYG tours). */

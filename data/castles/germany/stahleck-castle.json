@@ -40,7 +40,9 @@
     "One of the most dramatically positioned castles on the Rhine",
     "Now operates as a youth hostel — you can sleep inside a medieval castle",
     "Sweeping views over the Rhine gorge, vineyards, and Bacharach",
-    "Medieval tower, curtain walls, and courtyard well-preserved"
+    "Medieval tower, curtain walls, and courtyard well-preserved",
+    "Private doubles and dormitories are both available within the restored medieval walls",
+    "Rates run roughly €25-35 per person per night — dramatically lower than any other castle-hotel in this entire collection"
   ],
   "description": "Burg Stahleck commands one of the most striking positions in the UNESCO-listed Upper Middle Rhine Valley, perched high above the perfectly preserved medieval town of Bacharach and the river gorge below. First documented in 1135, the castle was a Rhenish Palatinate stronghold throughout the medieval period, controlling river traffic through the narrow gorge. Badly damaged in the Thirty Years' War, it was rebuilt in the 1920s–1930s by the German Youth Hostel Association (DJH) and today operates as one of Germany's most spectacular and beloved youth hostels — allowing guests to sleep within authentic medieval walls above the Rhine. The courtyard, tower, and ramparts are freely accessible, offering panoramic views down the gorge.",
   "history": "First documented in 1135, the castle was a key Rhenish stronghold controlling Rhine traffic for the Counts Palatine. It was besieged and partially destroyed during the Thirty Years' War (1618–1648) and fell into ruin. The German Youth Hostel movement acquired the ruins in 1925 and undertook a restoration, opening it as a hostel in 1926. It has operated continuously as a hostel since, aside from World War II, and was included in the UNESCO Upper Middle Rhine Valley designation in 2002.",
@@ -89,5 +91,20 @@
   "gyg_search_query": "Rhine Valley castle tour Bacharach",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [],
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Jugendherberge Burg Stahleck (DJH)",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=burg-stahleck&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fcafa-c-burg-stahleck.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D340320%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784736987%26srpvid%3D7114726a28cd0650%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 25,
+    "price_unit": "person",
+    "currency": "EUR",
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "The castle courtyard, tower and ramparts remain freely accessible to day visitors, whether or not you book a room — see How to Visit above",
+    "how_to_stay": "**Getting there:** Bacharach, Rhineland-Palatinate — same access as described in How to Visit above.\n\n**Rooms & rates:** Private double rooms and multi-bed dormitories are all within the restored medieval castle building itself. From roughly €25-35 per person per night (DJH hostel pricing, not per-room — this is a youth hostel rate, not the per-room-per-night convention used elsewhere on this site), including bedding; breakfast, half-board and full-board options available.\n\n**On-site:** Hostel restaurant/dining hall; the castle courtyard, tower and ramparts described in How to Visit remain freely accessible to both overnight guests and day visitors.\n\n**Good to know:** Open to guests of all ages, not just young people — a genuine budget option for sleeping inside an authentic medieval Rhine castle, a sharp contrast to the luxury positioning of most other castle-hotels covered on this site.\n\n**Combine with:** Marksburg Castle and Stolzenfels Castle, both within easy reach — see the recommendations above.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
 }

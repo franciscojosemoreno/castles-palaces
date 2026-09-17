@@ -42,9 +42,14 @@ export default function HotelBookingCard({ hotel }: Props) {
       )}
       <div className="flex items-center gap-2 mb-3">
         <span className="font-bold text-[#1a1a1a] text-sm">
-          {hotel.price_from_night != null ? `From ${symbol}${hotel.price_from_night} / night` : 'Check rates'}
+          {hotel.price_from_night != null
+            ? `From ${symbol}${hotel.price_from_night} / ${hotel.price_unit === 'person' ? 'person' : 'night'}`
+            : 'Check rates'}
         </span>
       </div>
+      {hotel.price_from_night != null && hotel.price_unit === 'person' && (
+        <p className="text-xs text-stone-500 -mt-2 mb-3">Per-person hostel-style rate, not the usual per-room price</p>
+      )}
       {hotel.room_location && (
         <p className="text-xs text-stone-500 mb-3">{ROOM_LOCATION_LABELS[hotel.room_location]}</p>
       )}

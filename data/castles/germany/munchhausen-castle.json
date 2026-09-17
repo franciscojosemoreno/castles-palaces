@@ -1,0 +1,92 @@
+{
+  "id": "munchhausen-castle",
+  "name": "Münchhausen Castle",
+  "local_name": "Schlosshotel Münchhausen",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Lower Saxony — Aerzen (Schwöbber), near Hamelin",
+  "nearest_city": "Hamelin (Hameln)",
+  "address": "Schwöbber 9, 31855 Aerzen, Germany",
+  "lat": 52.0333,
+  "lng": 9.2333,
+  "unesco": false,
+  "year_built": 1570,
+  "architectural_style": "Renaissance castle commissioned in 1570 by Hilmar von Münchhausen; damaged by fire in 1992, restored as a 5-star hotel in 2004",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A Renaissance castle set within its own parkland; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Built in 1570 by a mercenary leader and once visited by Tsar Peter the Great — but not, despite the shared surname, the childhood home of the fabulist Baron Münchhausen",
+  "highlights": [
+    "Commissioned in 1570 by Hilmar von Münchhausen, a noted mercenary leader, as a gathering place for aristocrats and collectors",
+    "Tsar Peter the Great visited in 1715, drawn by the estate's exotic plant collection and pineapple plantation",
+    "A 1992 fire devastated one wing; the castle reopened as a 5-star hotel in 2004",
+    "Half of the 67 rooms and suites are in the historic castle, the other half in a remodelled tithe barn connected by an underground passage",
+    "Two 18-hole golf courses on the estate"
+  ],
+  "description": "Münchhausen Castle was commissioned in 1570 by Hilmar von Münchhausen, a mercenary leader of some renown, who built the estate as a gathering place for aristocrats, thinkers and collectors of his era. The castle takes its name from the Münchhausen family, but this is worth clarifying plainly: it is not the childhood home of the famous fabulist \"Baron Münchhausen\" (Karl Friedrich Hieronymus von Münchhausen), the tall-tale-telling figure of German literary legend. That Baron Münchhausen was born in nearby Bodenwerder, a separate town on the Weser river, and has no documented direct connection to this specific castle beyond the shared family surname — a connection easy to assume from the name alone, but not historically accurate.\n\nAmong the estate's more notable historical visitors was Tsar Peter the Great of Russia, who came in 1715 fascinated by the property's extensive plant collection and its pineapple plantation growing in the orangery — an exotic curiosity for the period, and a sign of the estate's cultivated, cosmopolitan character even in the early 18th century. The castle changed hands over the centuries that followed, its Renaissance architecture and grounds maintained through successive generations of ownership.\n\nA fire in 1992 devastated one wing of the historic building, a serious setback that required a substantial restoration effort before the castle reopened as a five-star hotel in 2004. Today's 67 rooms and suites are split evenly between the historic castle building and a remodelled tithe barn (Zehntscheune) just across the grounds, connected to the main house by an underground passage — a practical solution that allowed the hotel to expand its room count without altering the historic castle's own footprint.\n\nThe estate's two 18-hole golf courses give Münchhausen a genuinely different amenity profile from castle-hotels built purely around historic architecture and spa facilities, positioning it as a golf-focused destination within the Weserbergland Schaumburg-Hameln Nature Park as much as a historic overnight stay. The surrounding parkland, with its lake and mature trees, reflects centuries of deliberate landscaping alongside the castle's own architectural development.\n\nAerzen and the wider Weser river region carry a strong association with German folklore beyond the Münchhausen name itself, most famously through nearby Hamelin's Pied Piper legend — giving visitors staying at the castle a natural, folklore-themed day trip within easy reach. The region's gently rolling hills and river valleys offer a quieter, more pastoral landscape than the dramatic gorge scenery associated with Germany's Rhine and Moselle castle country.\n\nThe distinction between this castle's Münchhausen family and the literary Baron is worth restating for anyone researching the property online: search results for \"Münchhausen\" frequently surface the fictional baron's fantastical tall tales — journeys to the moon, riding on cannonballs — well before information about this specific 16th-century estate, making the disambiguation a genuinely useful piece of context for visitors rather than a minor footnote.\n\nThe Weserbergland Schaumburg-Hameln Nature Park surrounding the castle takes its name from the Weser river, which winds through a landscape of low wooded hills and half-timbered towns distinct from the steeper, vine-covered valleys of the Rhine and Moselle further south and west. That gentler topography supports the estate's two 18-hole golf courses in a way that would be impractical on the steeper terrain found at many of Germany's river-gorge castle sites.\n\nThe underground passage connecting the historic castle to the remodelled tithe barn is a practical detail worth noting for guests choosing between the two accommodation wings: it allows movement between the buildings regardless of weather, a genuinely useful feature given the region's changeable central-European climate across the different seasons in which the hotel operates.",
+  "history": "Münchhausen Castle was commissioned in 1570 by Hilmar von Münchhausen, a mercenary leader, as a gathering place for aristocrats and collectors. Tsar Peter the Great visited in 1715, drawn by the estate's plant collection and pineapple plantation. A 1992 fire devastated one wing before the castle reopened as a five-star hotel in 2004. Today's 67 rooms and suites are split between the historic castle and a remodelled tithe barn connected by an underground passage. The castle shares its name with the Münchhausen family but is not connected to the fabulist Baron Münchhausen, who was born in nearby Bodenwerder.",
+  "faqs": [
+    {
+      "question": "Is this the castle of the famous 'Baron Münchhausen' storyteller?",
+      "answer": "No. The castle takes its name from the Münchhausen family — it was commissioned in 1570 by Hilmar von Münchhausen — but the fabulist Baron Münchhausen, Karl Friedrich Hieronymus von Münchhausen, was born in nearby Bodenwerder and has no direct documented connection to this specific building beyond the shared family surname."
+    },
+    {
+      "question": "Why did Tsar Peter the Great visit Münchhausen Castle?",
+      "answer": "He visited in 1715, drawn by the estate's extensive plant collection and its pineapple plantation growing in the orangery, an exotic curiosity for the period."
+    },
+    {
+      "question": "Are all the guest rooms inside the historic castle building?",
+      "answer": "No — roughly half of the 67 rooms and suites are within the historic 1570 castle, and the other half are in a remodelled tithe barn (Zehntscheune) across the grounds, connected to the main house by an underground passage."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/munchhausen-castle.webp",
+    "alt": "Münchhausen Castle (Schlosshotel Münchhausen) in Aerzen, Lower Saxony, Germany, a Renaissance castle built in 1570",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/munchhausen-castle.webp",
+  "instagram_tag": "#munchhausencastle",
+  "meta_title": "Münchhausen Castle — A 1570 Renaissance Hotel Near Hamelin",
+  "meta_description": "Stay at Münchhausen Castle near Hamelin, Germany — built in 1570, once visited by Tsar Peter the Great, today a 5-star hotel with two golf courses.",
+  "tags": [
+    "germany",
+    "lower-saxony",
+    "castle-hotel",
+    "renaissance",
+    "golf",
+    "hamelin"
+  ],
+  "last_updated": "2026-09-16",
+  "routes": [],
+  "nearby_castles": [
+    "goslar-imperial-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schlosshotel Münchhausen",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schlosshotel-munchhausen&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschlosshotel-munchhausen.es.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D28873%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784736723%26srpvid%3D296271e6145a05bd%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 205,
+    "currency": "EUR",
+    "room_count": 67,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "golf", "gardens"],
+    "how_to_stay": "**Getting there:** Aerzen (Schwöbber), Lower Saxony, near Hamelin (Hameln).\n\n**Rooms & rates:** Roughly half of the 67 rooms and suites are within the historic castle building; the other half are in a remodelled tithe barn (Zehntscheune) across the grounds, linked to the castle by an underground passage. From €205/night.\n\n**On-site:** Restaurant, two 18-hole golf courses, gardens.\n\n**Good to know:** The castle takes its name from the Münchhausen family (built by Hilmar von Münchhausen in 1570) — it is not the childhood home of the famous fabulist 'Baron Münchhausen' (Karl Friedrich Hieronymus von Münchhausen), who was born in nearby Bodenwerder and has no direct connection to this specific building beyond the shared family surname. Specify a castle-building room if sleeping inside the 1570 structure is the priority — the tithe barn rooms are comfortable and connected underground, but reflect a more modern conference-centre style.\n\n**Combine with:** Hamelin (Hameln), the town of the Pied Piper legend, a short drive away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "trendelburg-castle",
+  "name": "Trendelburg Castle",
+  "local_name": "Hotel Burg Trendelburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "germany",
+  "region": "Hesse — Trendelburg, Reinhardswald forest, German Fairy Tale Route",
+  "nearest_city": "Kassel",
+  "address": "Steinweg 1, 34388 Trendelburg, Germany",
+  "lat": 51.4460,
+  "lng": 9.3980,
+  "unesco": false,
+  "year_built": 1247,
+  "architectural_style": "13th-century castle on a rocky spur, rebuilt in the 15th century after a fire; hotel since the late 1940s",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the Rapunzel Tower is a separately visitable day landmark",
+  "best_season": "April to October",
+  "accessibility": "A hilltop medieval castle with a steep approach; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The tower said to have inspired the Brothers Grimm's Rapunzel — restored, reopened to day visitors in 2012, and a hotel since the late 1940s",
+  "highlights": [
+    "Built in the 13th century on a rocky spur above the Diemel valley to guard the Kassel-Bremen road; rebuilt in the 15th century after a fire destroyed the original",
+    "The inspiration for the Brothers Grimm's Rapunzel — its 40-metre tower, with walls 7 metres thick, reopened to visitors in 2012",
+    "All 22 individually designed rooms are within the historic castle building, featuring four-poster beds and exposed stone walls",
+    "On the official German Fairy Tale Route (Deutsche Märchenstraße)",
+    "A hotel since the late 1940s, one of the longest-running castle-hotels in this collection"
+  ],
+  "description": "Trendelburg Castle was built in the 13th century on a rocky spur above the Diemel valley in Hesse, its original purpose defensive: guarding the important medieval road linking Kassel and Bremen. A major fire destroyed that first castle, and the building was substantially rebuilt in the 15th century, giving Trendelburg most of the appearance it retains today.\n\nThe castle's most famous claim is literary rather than military: its 40-metre tower, with walls 7 metres thick, is widely credited as the inspiration for the Brothers Grimm's telling of Rapunzel, and the tower — restored and reopened to day visitors in 2012 — remains a genuine, publicly visitable landmark on the Reinhardswald forest's fairy-tale-themed tourist route. The castle has operated as a hotel since the late 1940s, one of the longest continuous castle-hotel operations in this entire collection, with its 22 rooms individually fitted within the historic building itself.\n\nThe Reinhardswald, the dense forest surrounding Trendelburg, carries a strong association with the Brothers Grimm's fairy tales beyond Rapunzel alone, forming part of the German Fairy Tale Route (Deutsche Märchenstraße) that links sites across Hesse and Lower Saxony connected to the brothers' collected stories and their own biographical history in the region.\n\nThe tower's 2012 reopening to day visitors gives Trendelburg a genuine standalone attraction separate from an overnight stay, allowing anyone travelling the Fairy Tale Route to climb the structure most closely associated with Rapunzel's legend without needing to book a room — a distinction worth noting for visitors comparing Trendelburg against castle-hotels with no independent day-visit product at all.\n\nThe castle's near-continuous operation as a hotel since the late 1940s reflects a genuinely long institutional history within the German castle-hotel sector, predating by decades the more recent wave of luxury restorations seen at many other properties in this collection. That long operating history has allowed Trendelburg to build a settled identity around its Rapunzel association and fairy-tale-route positioning, rather than a more recent rebranding around the story.\n\nAll 22 of the hotel's rooms sit within the single historic castle structure rebuilt after the 15th-century fire, giving Trendelburg one of the more architecturally unified stays among the properties covered here — guests need not choose between a historic main building and a separate annex or converted outbuilding, since every room occupies the same continuous medieval-to-early-modern structure.\n\nSababurg Castle, another Grimm-associated site within the same Reinhardswald forest and long linked to the Sleeping Beauty legend, sits roughly 30 minutes away, giving visitors staying at Trendelburg a natural way to pair two of the region's most storied fairy-tale castle sites within a single trip through the forest.\n\nThe wider Reinhardswald itself remains one of the more densely wooded and sparsely populated areas of central Germany, its old-growth forest tracts giving the fairy-tale associations of Trendelburg and Sababurg a genuinely fitting physical backdrop rather than a purely marketed theme. Hiking trails through the forest connect several of the route's sites directly, offering an alternative to driving between them for guests with the time and inclination.\n\nKassel, the nearest larger city, is itself closely tied to the Brothers Grimm's own biography — the brothers lived and worked there for over three decades, and the city's Grimm-related museums and archives offer a natural extension for visitors whose interest in Trendelburg's Rapunzel association draws them deeper into the wider Grimm story.",
+  "history": "Trendelburg Castle was built in the 13th century on a rocky spur above the Diemel valley in Hesse to guard the Kassel-Bremen road. A fire destroyed the original structure, and it was substantially rebuilt in the 15th century. Its 40-metre tower, with walls 7 metres thick, is widely credited as the inspiration for the Brothers Grimm's Rapunzel, and was restored and reopened to day visitors in 2012. The castle has operated as a hotel since the late 1940s, with all 22 rooms within the historic building itself.",
+  "faqs": [
+    {
+      "question": "Can I visit the Rapunzel Tower without staying overnight?",
+      "answer": "Yes — the 40-metre tower, restored and reopened in 2012, is a separately visitable day landmark on the German Fairy Tale Route, independent of booking a room at the hotel."
+    },
+    {
+      "question": "Why is Trendelburg Castle associated with Rapunzel?",
+      "answer": "Its 40-metre tower, with walls 7 metres thick, is widely credited by local tradition as the inspiration for the Brothers Grimm's telling of the Rapunzel fairy tale."
+    },
+    {
+      "question": "Are all the hotel rooms within the historic castle building?",
+      "answer": "Yes — all 22 individually designed rooms are within the historic castle structure rebuilt in the 15th century, rather than a separate annex or newer wing."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/trendelburg-castle.webp",
+    "alt": "Trendelburg Castle above the Diemel valley in Hesse, Germany, its tower said to have inspired Rapunzel",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/trendelburg-castle.webp",
+  "instagram_tag": "#trendelburgcastle",
+  "meta_title": "Trendelburg Castle — The Real Rapunzel Tower, Now a Hotel",
+  "meta_description": "Stay at Trendelburg Castle in Hesse — its tower said to have inspired the Brothers Grimm's Rapunzel, on the German Fairy Tale Route, a hotel since the 1940s.",
+  "tags": [
+    "germany",
+    "hesse",
+    "castle-hotel",
+    "medieval",
+    "fairy-tale-route",
+    "rapunzel"
+  ],
+  "last_updated": "2026-09-16",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Hotel Burg Trendelburg",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=burg-trendelburg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-trendelburg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D78412%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784737154%26srpvid%3D32f772beeddc10c6%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 155,
+    "currency": "EUR",
+    "room_count": 22,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "The 40-metre Rapunzel Tower reopened to day visitors in 2012 after restoration — real, publicly visitable landmark separate from booking a room",
+    "how_to_stay": "**Getting there:** Trendelburg, Hesse, in the Reinhardswald forest on the German Fairy Tale Route.\n\n**Rooms & rates:** All 22 individually designed rooms are within the historic castle building, featuring four-poster beds, low beamed ceilings and exposed stone walls. From €155/night.\n\n**On-site:** Restaurant, gardens, the restored 40-metre Rapunzel Tower (day-visit landmark).\n\n**Good to know:** Genuinely one of the more atmospheric single-building stays in the collection — every room is inside the same 13th/15th-century structure, no annex to navigate.\n\n**Combine with:** Sababurg Castle, another Grimm fairy-tale-associated castle (the inspiration for Sleeping Beauty), about 30 minutes away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
+}
