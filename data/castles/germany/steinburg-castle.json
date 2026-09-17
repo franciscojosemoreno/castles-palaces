@@ -1,0 +1,93 @@
+{
+  "id": "steinburg-castle",
+  "name": "Steinburg Castle",
+  "local_name": "Schlosshotel Steinburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "Bavaria — Würzburg, overlooking the city and its vineyards",
+  "nearest_city": "Würzburg",
+  "address": "Auf dem Steinberg 22, 97080 Würzburg, Germany",
+  "lat": 49.7690,
+  "lng": 9.9770,
+  "unesco": false,
+  "year_built": 1897,
+  "architectural_style": "13th-century fortress predecessor, destroyed and left in ruins; reconstructed in the late 19th century and again renovated in the 1930s",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant is separately open to non-resident diners",
+  "best_season": "Year-round",
+  "accessibility": "A hillside castle above Würzburg spread across three connected sections; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 13th-century fortress ruin rebuilt as a Romantic castle in the 1890s, overlooking Würzburg's vineyards from three connected sections, one deliberately without air conditioning",
+  "highlights": [
+    "A fortress first mentioned in the 13th century, destroyed, then reconstructed as ruins in the late 19th century before further renovation in the 1930s",
+    "A hotel since the 1950s, overlooking Würzburg and its surrounding vineyards",
+    "Three distinct sections: the historic Traumschloss and Landschloss buildings, and the modern Refugium wing",
+    "69 individually decorated rooms and suites, ranging from cozy historic rooms to modern styles, some with vineyard or city views",
+    "The historic Castle Manor section houses the fine-dining restaurant, bar, and pool/sauna area"
+  ],
+  "description": "Steinburg Castle traces its origins to a fortress first documented in the 13th century on high ground above Würzburg in Bavaria, a defensive structure that was ultimately destroyed and left in ruins for centuries. The site was substantially reconstructed in the late 19th century, initially to house a restaurant that closed relatively quickly, before a further round of renovation in the 1930s reshaped the turrets and other architectural details into the form the castle largely retains today.\n\nThe property became a hotel in the 1950s and today operates across three distinct sections: Traumschloss and Landschloss, the two historic buildings that retain the castle's older character (and, notably, lack air conditioning as a result), and Refugium, a more recently built modern wing. The historic Castle Manor section, the most atmospheric part of the property, houses the hotel's fine-dining restaurant, a small bar, and the pool and sauna area, while the 69 rooms and suites overall range from cozy historic styles to contemporary design, with views over Würzburg's vineyards or the city itself.\n\nSteinburg's layered building history — 13th-century fortress, ruin, late-19th-century Romantic reconstruction, 1930s renovation, and eventual hotel conversion — reflects a pattern common to several of Germany's rebuilt Rhine and Main valley castles, where a genuinely medieval origin survives mainly as a footprint and a name, while most of what visitors actually see and stay in dates to considerably more recent reconstruction efforts. Prospective guests specifically seeking untouched medieval fabric should understand that Steinburg's present appearance is substantially a product of the 1890s and 1930s rather than the 13th century.\n\nWürzburg itself, at the foot of the hill on which Steinburg stands, is home to the Würzburg Residence, one of Germany's most significant Baroque palaces and a UNESCO World Heritage Site in its own right, giving guests staying at Steinburg an easy and rewarding day trip into one of Franconia's most architecturally important cities. The contrast between Steinburg's Romantic, turreted hillside setting and the Residence's formal Baroque grandeur gives visitors two genuinely different registers of German palace architecture within a single short visit.\n\nThe vineyards surrounding Steinburg are part of Franconia's distinctive wine region, known for producing Silvaner and other white varietals in the distinctive rounded Bocksbeutel bottle unique to the area — a wine culture considerably different in character from the Riesling-dominated Rhine and Moselle valleys covered elsewhere in this collection, giving Steinburg's setting a genuinely regional identity within Germany's broader wine-growing landscape.\n\nThe three-way split between Traumschloss, Landschloss and Refugium gives guests a genuine choice unusual among the properties in this collection: those prioritising historic atmosphere over climate control can choose the older buildings, while guests preferring contemporary comfort — particularly relevant during Franconia's warm summer months — have the modern Refugium wing as a genuinely comparable, climate-controlled alternative on the same estate.\n\nFranconia's wine culture extends well beyond Steinburg's own vineyard views: Würzburg and the surrounding Main valley host one of Germany's oldest documented winemaking traditions, and several historic wine estates and cellars in the immediate area offer tastings and tours that pair naturally with a stay at a hillside property already surrounded by working vineyards on three sides.",
+  "history": "Steinburg Castle traces its origins to a fortress first documented in the 13th century above Würzburg, destroyed and left in ruins for centuries before being reconstructed in the late 19th century and further renovated in the 1930s. The property became a hotel in the 1950s and today operates across three sections: the historic Traumschloss and Landschloss buildings, which lack air conditioning, and the modern Refugium wing. Its 69 rooms and suites range from cozy historic styles to contemporary design, with views over Würzburg's vineyards or the city itself.",
+  "faqs": [
+    {
+      "question": "Is Steinburg Castle a genuinely medieval building?",
+      "answer": "Only in origin — a fortress was first documented on the site in the 13th century, but it was destroyed and left in ruins for centuries. The castle's present appearance dates almost entirely to a late-19th-century reconstruction and a further 1930s renovation."
+    },
+    {
+      "question": "Do all the rooms have air conditioning?",
+      "answer": "No — the historic Traumschloss and Landschloss buildings do not have air conditioning, reflecting their older character. The modern Refugium wing offers a climate-controlled alternative on the same estate."
+    },
+    {
+      "question": "Can I visit the Würzburg Residence from Steinburg Castle?",
+      "answer": "Yes — the Würzburg Residence, a UNESCO World Heritage Baroque palace, sits in the city below Steinburg's hillside position, making it an easy day trip for guests."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/steinburg-castle.webp",
+    "alt": "Steinburg Castle overlooking Würzburg and its vineyards, Bavaria, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/steinburg-castle.webp",
+  "instagram_tag": "#steinburgcastle",
+  "meta_title": "Steinburg Castle — A Romantic Hilltop Hotel Above Würzburg",
+  "meta_description": "Stay at Steinburg Castle overlooking Würzburg and its Franconian vineyards — a 13th-century fortress site reconstructed in the 1890s and 1930s.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "castle-hotel",
+    "wurzburg",
+    "franconia",
+    "wine"
+  ],
+  "last_updated": "2026-09-17",
+  "routes": [],
+  "nearby_castles": [
+    "wurzburg-residence"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schlosshotel Steinburg",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=schlosshotel-steinburg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschlosshotel-steinburg-wurzburg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1377013%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784738957%26srpvid%3Db0927643f87f0612%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 169,
+    "currency": "EUR",
+    "room_count": 69,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "gardens"],
+    "non_guest_access_note": "The fine-dining restaurant (in the historic Castle Manor section) is open to non-resident diners",
+    "how_to_stay": "**Getting there:** Würzburg, Bavaria, on high ground overlooking the city and its vineyards.\n\n**Rooms & rates:** Rooms are split across three sections — the historic Traumschloss and Landschloss buildings (smaller, no air conditioning, genuinely historic character) and Refugium, a modern annex. From €169/night.\n\n**On-site:** Fine-dining restaurant, bar, pool and sauna (all in the historic Castle Manor section), gardens.\n\n**Good to know:** Specify a Traumschloss or Landschloss room if the historic character (and willingness to forgo air conditioning) is the priority — Refugium rooms are more contemporary and climate-controlled.\n\n**Combine with:** Würzburg Residence, a UNESCO World Heritage palace in the city centre below.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-17"
+  }
+}

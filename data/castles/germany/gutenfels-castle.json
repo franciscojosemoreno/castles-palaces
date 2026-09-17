@@ -1,0 +1,94 @@
+{
+  "id": "gutenfels-castle",
+  "name": "Gutenfels Castle",
+  "local_name": "Burg Gutenfels",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "Rhineland-Palatinate — Kaub, Rhine Gorge, opposite Pfalzgrafenstein Castle",
+  "nearest_city": "Bingen",
+  "address": "Burg Gutenfels, 56349 Kaub, Germany",
+  "lat": 50.0850,
+  "lng": 7.7620,
+  "unesco": true,
+  "year_built": 1222,
+  "architectural_style": "Staufer-period medieval castle built in 1222 by the Lords of Falkenstein-Münzenberg; hotel again since 2022",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only; no standing day-visitor hours",
+  "best_season": "Year-round",
+  "accessibility": "A cliffside medieval castle above Kaub with steps throughout; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Built in 1222 to guard the Rhine tolls alongside the mid-river Pfalzgrafenstein Castle, and named 'good rock' after surviving a weeks-long 1504 siege",
+  "highlights": [
+    "Built in 1222 by the Lords of Falkenstein-Münzenberg, a prime example of Staufer-period castle architecture, paired with Pfalzgrafenstein Castle mid-river to secure Rhine tolls",
+    "Withstood a weeks-long siege by the troops of the Landgrave of Hesse in 1504 — the name \"Gutenfels\" (\"good rock\") likely dates from after this successful defence",
+    "Became a castle hotel again in 2022 after renovation, with just 5 guest rooms",
+    "All rooms are within the castle building itself, bookable individually or, for larger groups, as a full-castle exclusive-use rental",
+    "Perched on a cliff over the Rhine and surrounded by vineyards, opposite the mid-river Pfalzgrafenstein toll castle"
+  ],
+  "description": "Gutenfels Castle was built in 1222 by the Lords of Falkenstein-Münzenberg on a cliff above the Rhine at Kaub, conceived as a prime example of Staufer-period fortification and paired functionally with the mid-river Pfalzgrafenstein Castle to help secure tolls on river traffic passing below. In 1277, the castle and the town of Kaub passed into the Electorate of the Palatinate, cementing its role within one of the medieval Rhineland's more significant territorial powers.\n\nThe castle's defensive credentials were tested directly in 1504, when it withstood a weeks-long siege by the troops of the Landgrave of Hesse — a successful defence after which the name \"Gutenfels\" (\"good rock\") is thought to have become the castle's common name. After centuries of various uses, the castle returned to life as a boutique hotel in 2022, its rooms restored within the historic walls and, for larger groups, available as a full exclusive-use castle rental.\n\nWith just 5 guest rooms, Gutenfels is among the smallest properties in this entire collection, giving any stay here a genuinely intimate, almost private-residence character rather than the scale of a full-service hotel. That small footprint also means the castle operates without the standing museum hours or ticketed day-visit infrastructure found at some neighbouring Rhine Gorge sites — public access is largely limited to occasional special events rather than a walk-in visitor experience.\n\nThe pairing with Pfalzgrafenstein Castle, the striking toll station built on its own small island in the middle of the Rhine directly below Gutenfels, is one of the more visually distinctive relationships between any two castles covered in this collection. The two structures worked in tandem for centuries to enforce river tolls, and the view from Gutenfels down onto Pfalzgrafenstein remains one of the most photographed sightlines in the entire Rhine Gorge.\n\nKaub itself, the small town beneath the castle, retains a genuine historic character shaped by centuries of river-toll commerce, and its position within the UNESCO-listed Upper Middle Rhine Valley places Gutenfels among a dense concentration of castles, vineyards and fortified river towns that together tell the story of the Rhine's importance as a medieval and early-modern trade route.\n\nThe 1504 siege that gave the castle its enduring name reflects the broader pattern of contested territorial control along this stretch of the Rhine during the late medieval period, when regional powers regularly tested each other's fortifications in disputes over trade routes, tolls and territorial boundaries. Gutenfels' successful resistance during that siege stands out as a genuine historical event behind the castle's name, rather than a purely legendary or unverified origin story.\n\nGuests choosing Gutenfels over the Rhine Gorge's larger castle-hotels should expect a considerably more compact and personal experience: with only 5 rooms, the entire property can realistically be booked out by a single group, and even individual room bookings place guests within a genuinely small, historic household rather than a hotel of any real scale.\n\nThe surrounding vineyards, terraced into the steep valley slopes around Kaub, are part of the wider Middle Rhine wine-growing region, producing Riesling suited to the area's slate soils and steep, south-facing exposure. Guests at Gutenfels can look out directly over these vine-covered slopes toward the river and Pfalzgrafenstein below, a view that has changed relatively little in its essential character since the castle's medieval origins, even as the vineyard techniques and varietals themselves have evolved considerably over the centuries.",
+  "history": "Gutenfels Castle was built in 1222 by the Lords of Falkenstein-Münzenberg on a cliff above the Rhine at Kaub, paired with the mid-river Pfalzgrafenstein Castle to help secure Rhine tolls. In 1277 it passed to the Electorate of the Palatinate. It withstood a weeks-long siege by the Landgrave of Hesse's troops in 1504, after which its name — meaning \"good rock\" — is thought to have taken hold. The castle became a boutique hotel again in 2022, with just 5 rooms within the historic walls.",
+  "faqs": [
+    {
+      "question": "Can I visit Gutenfels Castle without staying overnight?",
+      "answer": "There are no standing day-visitor or museum hours. Public access is mainly through occasional special events, such as moonlight tours with wine tasting, or guided walks through Kaub that pass beneath the castle — day-trippers should not expect to simply walk in."
+    },
+    {
+      "question": "How many rooms does Gutenfels Castle have?",
+      "answer": "Just 5 guest rooms, all within the historic castle building itself, making it one of the smallest properties in this entire collection. The castle can also be booked in its entirety for exclusive-use group stays."
+    },
+    {
+      "question": "What is the connection between Gutenfels and Pfalzgrafenstein Castle?",
+      "answer": "The two castles worked together for centuries to help enforce tolls on Rhine river traffic — Pfalzgrafenstein sits on its own small island in the middle of the river directly below Gutenfels, and the view between the two is one of the most recognisable sightlines in the Rhine Gorge."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gutenfels-castle.webp",
+    "alt": "Gutenfels Castle on a cliff above Kaub and the Rhine, opposite Pfalzgrafenstein Castle, Rhineland-Palatinate, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gutenfels-castle.webp",
+  "instagram_tag": "#gutenfelscastle",
+  "meta_title": "Gutenfels Castle — A 1222 Staufer Castle Hotel on the Rhine",
+  "meta_description": "Stay at Gutenfels Castle above Kaub, opposite Pfalzgrafenstein Castle — a 1222 Staufer-period fortress with just 5 rooms in the UNESCO Rhine Gorge.",
+  "tags": [
+    "germany",
+    "rhineland-palatinate",
+    "castle-hotel",
+    "medieval",
+    "unesco-world-heritage",
+    "rhine"
+  ],
+  "last_updated": "2026-09-17",
+  "routes": [],
+  "nearby_castles": [
+    "reichenstein-castle",
+    "stahleck-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Burg Gutenfels",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=burg-gutenfels&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-gutenfels.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D8101544%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784737217%26srpvid%3D144872de96530127%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 130,
+    "currency": "EUR",
+    "room_count": 5,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No regular day-visitor/museum hours — access is mainly through occasional public events (e.g. moonlight tours with wine tasting) or guided Kaub town walks that pass beneath the castle, not a standing ticketed attraction",
+    "how_to_stay": "**Getting there:** Kaub, Rhineland-Palatinate, on the Rhine Gorge opposite the Pfalzgrafenstein toll castle.\n\n**Rooms & rates:** All 5 rooms are within the historic castle building itself; the property can also be booked in its entirety for exclusive-use group stays. From roughly €130/night (limited pricing data available — verify against live rate).\n\n**On-site:** Restaurant/bar, gardens.\n\n**Good to know:** Unlike some Rhine Gorge castle-hotels, Gutenfels has no standing day-visitor museum hours — public access is mainly through occasional special events, so day-trippers touring the Rhine Gorge should not expect to simply walk in.\n\n**Combine with:** Pfalzgrafenstein Castle, the toll castle standing on its own island in the middle of the Rhine directly below, visible from Gutenfels.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-17"
+  }
+}

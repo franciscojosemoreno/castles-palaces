@@ -1,0 +1,93 @@
+{
+  "id": "eckberg-castle",
+  "name": "Eckberg Castle",
+  "local_name": "Schloss Eckberg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Saxony — Loschwitz heights, Dresden, above the Elbe river",
+  "nearest_city": "Dresden",
+  "address": "Bautzner Str. 134, 01099 Dresden, Germany",
+  "lat": 51.0680,
+  "lng": 13.8090,
+  "unesco": false,
+  "year_built": 1859,
+  "architectural_style": "19th-century Neo-Gothic Elbschloss (Elbe palace), one of three built on the Loschwitz heights above Dresden",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant is separately open to non-resident diners",
+  "best_season": "Year-round",
+  "accessibility": "A 19th-century palace set within a landscaped hillside park; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "One of Dresden's three historic Elbschlösser, its handful of castle-building rooms offering the best views over the city — the rest sit in a separate house 200 metres away",
+  "highlights": [
+    "One of Dresden's three historic \"Elbschlösser\" (Elbe palaces), perched on the Loschwitz heights above the river",
+    "Only 17 of the roughly 84 rooms — the \"Exclusiv\" category, with views over Dresden — are within the main castle building itself",
+    "The remaining rooms sit in the Kavalierhaus (Cavalier's House), a separate building about 200 metres away within the same landscaped park",
+    "Set in an extensive historic park, a genuine green retreat above the city",
+    "Popular fairy-tale wedding venue, with a restaurant and spa/sauna facilities on-site"
+  ],
+  "description": "Eckberg Castle is one of three historic \"Elbschlösser\" (Elbe palaces) built on the Loschwitz heights above Dresden in the 19th century, a cluster of aristocratic riverside residences that still define this stretch of the Elbe's skyline. Set within an extensive landscaped park overlooking the city and the river below, the castle's Romantic, turreted architecture made it a natural choice for conversion into a hotel in the modern era.\n\nToday's property is genuinely split between two buildings: the main castle itself, which holds a limited number of \"Exclusiv\" rooms furnished with antiques and marble bathrooms and offering the best views over Dresden, and the Kavalierhaus (Cavalier's House), a separate historic building about 200 metres away in the same park, which houses the majority of the hotel's \"Comfort\" category rooms. Guests specifically wanting to sleep inside the castle building itself should book an Exclusiv room rather than assume any room on the property is within the main house.\n\nThe three Loschwitz Elbschlösser — Eckberg, Albrechtsberg and Lingnerschloss — were built within a few years of each other in the mid-19th century by members of Dresden's aristocratic and merchant elite, drawn to the elevated position above the Elbe for both its views and its distance from the denser city centre below. Eckberg's own Neo-Gothic detailing, with turrets and crenellations evoking a considerably older architectural tradition, exemplifies the Romantic historicism fashionable among wealthy 19th-century patrons across German-speaking Europe.\n\nThe extensive park surrounding the castle remains one of its most distinctive assets, giving guests a genuine sense of secluded green space directly above one of eastern Germany's largest cities. Mature trees, terraced lawns and views down toward the Elbe combine to create a setting that feels considerably more removed from urban Dresden than the short tram ride into the city centre would suggest.\n\nEckberg's popularity as a wedding venue reflects both its Romantic architecture and its park setting, with the castle's turrets and gardens providing a photogenic backdrop that has made it one of the more sought-after event locations in the Dresden area. The property's restaurant and spa/sauna facilities, open to overnight guests, round out an offering aimed as much at leisure stays as at business travellers visiting Dresden.\n\nDresden itself, rebuilt substantially after its near-total destruction in the Second World War, offers a genuinely different historical texture from the older, continuously inhabited castle towns found elsewhere in this collection — its Baroque Altstadt (Old Town) and the Frauenkirche were painstakingly reconstructed from ruins, giving the city center a restored-rather-than-original character that contrasts with Eckberg's own comparatively intact 19th-century fabric on the Loschwitz heights above.\n\nFor guests weighing Eckberg against other Elbschloss-area accommodation, the key practical distinction remains the split between the main castle and the Kavalierhaus: the castle's Exclusiv rooms are limited in number and command the best views, while the more numerous Comfort rooms in the separate Kavalierhaus building offer a genuinely comfortable but less immediately \"inside the castle\" experience.\n\nThe Loschwitz district surrounding the castle also retains its own distinct identity within greater Dresden, historically a semi-rural riverside area favoured by the city's wealthier residents before eventually being absorbed into the expanding urban area — a history that helps explain why three substantial private palaces came to be built within such close proximity to one another on this particular stretch of hillside above the Elbe.",
+  "history": "Eckberg Castle is one of three historic Elbschlösser (Elbe palaces) built on the Loschwitz heights above Dresden in the mid-19th century, alongside Albrechtsberg and Lingnerschloss. Its Neo-Gothic, turreted architecture reflects the Romantic historicism fashionable among Dresden's 19th-century aristocratic and merchant elite. Today the property operates as a hotel split between the main castle, holding a limited number of \"Exclusiv\" rooms with views over Dresden, and the Kavalierhaus, a separate historic building about 200 metres away that houses the majority of the hotel's rooms.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Eckberg Castle inside the historic building?",
+      "answer": "No — only 17 of the roughly 84 rooms, the \"Exclusiv\" category with views over Dresden, are within the main castle building. The remaining \"Comfort\" rooms are in the Kavalierhaus (Cavalier's House), a separate building about 200 metres away in the same park."
+    },
+    {
+      "question": "What are the Elbschlösser of Dresden?",
+      "answer": "The Elbschlösser (\"Elbe palaces\") are three 19th-century aristocratic residences — Eckberg, Albrechtsberg and Lingnerschloss — built on the Loschwitz heights above the Elbe river, forming a distinctive cluster of Romantic-era architecture overlooking Dresden."
+    },
+    {
+      "question": "Is Eckberg Castle a good base for visiting Dresden?",
+      "answer": "Yes — it sits on the Loschwitz heights a short tram ride from Dresden's Altstadt (Old Town) and the Frauenkirche, offering a quieter, park-set alternative to staying directly in the city centre."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/eckberg-castle.webp",
+    "alt": "Eckberg Castle (Schloss Eckberg) on the Loschwitz heights above Dresden, Saxony, Germany, one of the city's three historic Elbschlösser",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/eckberg-castle.webp",
+  "instagram_tag": "#eckbergcastle",
+  "meta_title": "Eckberg Castle — One of Dresden's Historic Elbschlösser",
+  "meta_description": "Stay at Eckberg Castle above Dresden — one of the city's three 19th-century Elbschlösser, with park views over the Elbe river.",
+  "tags": [
+    "germany",
+    "saxony",
+    "castle-hotel",
+    "neo-gothic",
+    "dresden"
+  ],
+  "last_updated": "2026-09-17",
+  "routes": [],
+  "nearby_castles": [
+    "pillnitz-castle",
+    "dresden-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Schloss Eckberg",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=schloss-eckberg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-eckberg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D68939%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784737273%26srpvid%3D8fbf72fa6e9d0029%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 89,
+    "currency": "EUR",
+    "room_count": 84,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "gardens"],
+    "non_guest_access_note": "The restaurant is open to non-resident diners; the historic park is a popular wedding venue bookable separately from an overnight stay",
+    "how_to_stay": "**Getting there:** Loschwitz heights, Dresden, Saxony, above the Elbe river.\n\n**Rooms & rates:** Only 17 \"Exclusiv\" rooms, with views over Dresden, are within the main castle building; the remaining \"Comfort\" rooms are in the Kavalierhaus, a separate historic building about 200 metres away in the same park. From €89/night.\n\n**On-site:** Restaurant, spa/sauna, extensive landscaped park.\n\n**Good to know:** Specify an \"Exclusiv\" room by name when booking if sleeping inside the castle itself is the priority — the far more numerous \"Comfort\" rooms are in the separate Kavalierhaus.\n\n**Combine with:** Dresden's Altstadt (Old Town) and the Frauenkirche, a short drive or tram ride into the city.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-17"
+  }
+}
