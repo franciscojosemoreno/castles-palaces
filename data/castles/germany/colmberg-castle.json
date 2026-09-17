@@ -1,0 +1,95 @@
+{
+  "id": "colmberg-castle",
+  "name": "Colmberg Castle",
+  "local_name": "Burg Colmberg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Bavaria — Middle Franconia, near Rothenburg ob der Tauber and Ansbach",
+  "nearest_city": "Ansbach",
+  "address": "Schlossberg 1, 91598 Colmberg, Germany",
+  "lat": 49.3350,
+  "lng": 10.4230,
+  "unesco": false,
+  "year_built": 1318,
+  "architectural_style": "Former Teutonic Order stronghold, documented from at least 1318; local marketing describes it as over 1,000 years old, a promotional rather than documented claim",
+  "price_adult": 0,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Courtyard and ramparts: free, self-guided; chapel/stables by prior arrangement; overnight stay separately bookable",
+  "best_season": "Year-round",
+  "accessibility": "A historic hilltop castle with courtyard, chapel and former stables; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A former Teutonic Order stronghold in the same family's hands since 1964, brewing its own dark castle beer — its courtyard and ramparts have never fully closed off from the surrounding village",
+  "highlights": [
+    "A former Teutonic Order stronghold above the Franconian countryside, in family hands since 1964 (3rd generation running it as a hotel)",
+    "All 26 rooms are individually furnished, from the Fürstenzimmer (Prince's Room) to a Hochzeitssuite (Wedding Suite) with a Chinese four-poster bed",
+    "On-site chapel and former royal stables, both open to visitors",
+    "Franconian restaurant serving the estate's own dark 'Schwarzer Ritter' beer, brewed exclusively for the castle",
+    "15 minutes from the Ansbach Golf Club; Rothenburg ob der Tauber's medieval old town is a short drive away"
+  ],
+  "description": "Colmberg Castle rises on a hill roughly 50 metres above the surrounding Franconian countryside in Bavaria, a former stronghold of the Teutonic Order whose documented history stretches back centuries — sources place a fortification here from at least 1318, though the site's own marketing frames it, more loosely, as 'over 1,000 years old.' Whichever dating one uses, the castle has long served as a defensive and administrative outpost in this stretch of Franconia, roughly midway between the well-known tourist towns of Rothenburg ob der Tauber and Ansbach.\n\nThe castle passed into private hands in 1880 and changed ownership several times before the Unbehauen family took it over in 1964; their descendants now run it as a hotel in the third generation. Guests today sleep in 26 individually furnished rooms within the historic building — including a Prince's Room, a Castle Master's Room, and a wedding suite with a Chinese four-poster bed — while the on-site chapel, former stables and a restaurant serving traditional Franconian game dishes round out a stay that keeps much of the castle's working history intact rather than converting it into a purely decorative backdrop.\n\nColmberg's courtyard and ramparts viewpoint remain freely open to the public, giving the castle a genuinely open, village-connected character rather than the fully private feel of some other castle hotels in this collection. The chapel and former stables can also be visited, with group tours available by prior arrangement, and the estate brews its own dark 'Schwarzer Ritter' beer exclusively for the castle restaurant.\n\nThe castle's connection to the Teutonic Order places it within a broader medieval history of religious-military orders that controlled substantial territories across Franconia and the wider Holy Roman Empire during the high and late Middle Ages. Unlike the Order's more famous strongholds along the Baltic coast, Colmberg represents a smaller, inland administrative outpost, reflecting the Order's extensive but less militarily prominent presence across German-speaking central Europe.\n\nMiddle Franconia's own landscape of rolling hills, forests and small medieval towns gives Colmberg a genuinely rural, unhurried setting distinct from the more heavily touristed stretches of southern Bavaria further south. Rothenburg ob der Tauber, one of Germany's best-preserved medieval walled towns and a fixture of the Romantic Road driving route, sits a short drive away, giving visitors staying at Colmberg an easy day-trip option into one of the region's most visited historic centres without needing to base themselves there directly.\n\nAnsbach, the former seat of the Margraves of Brandenburg-Ansbach and another short drive from Colmberg, adds a further layer of regional aristocratic history to the area, with its own Baroque residence and formal gardens offering a useful architectural contrast to Colmberg's more austerely medieval character. Together, Colmberg's genuine Teutonic Order origins, its long single-family hotel ownership since 1964, and its position within easy reach of both Rothenburg and Ansbach give the castle a well-rounded appeal for visitors building a wider Franconian itinerary around historic towns and estates.\n\nThe castle's individually furnished rooms — from the Fürstenzimmer to the more playful Chinese-four-poster wedding suite — reflect decades of accumulated decorative choices made by successive generations of the Unbehauen family, rather than a single unified design scheme imposed all at once. This layered, family-driven approach to furnishing gives Colmberg a genuinely lived-in character, distinct from castle hotels renovated in one comprehensive commercial phase by a corporate ownership group.\n\nThe estate's own dark 'Schwarzer Ritter' beer, brewed exclusively for the castle, gives Colmberg a distinctive culinary signature beyond its Franconian game dishes and restaurant menu, and offers overnight guests a small, genuinely site-specific product they cannot find anywhere else — a detail that, alongside the castle's open courtyard and long single-family ownership, reinforces its identity as a working local institution rather than a generic countryside hotel dressed up in castle branding.",
+  "history": "Colmberg Castle is a former Teutonic Order stronghold in Middle Franconia, Bavaria, documented from at least 1318, though local marketing frames it more loosely as over 1,000 years old. The castle passed into private hands in 1880 and changed ownership several times before the Unbehauen family took it over in 1964; their descendants now run it as a hotel in the third generation, with 26 individually furnished rooms, an on-site chapel and former royal stables within the historic building.",
+  "faqs": [
+    {
+      "question": "Can I visit Colmberg Castle without staying overnight?",
+      "answer": "Yes, for the courtyard and grounds. The courtyard, ramparts viewpoint and outdoor grounds are freely open to the public. The chapel and former stables can also be visited, with group tours available by prior arrangement."
+    },
+    {
+      "question": "Is Colmberg Castle really over 1,000 years old?",
+      "answer": "That figure comes from the castle's own promotional materials rather than documented history. Sources place a fortification on the site from at least 1318 — still a genuinely long and well-documented history, even if the '1,000 years' framing should be treated as marketing rather than a firm date."
+    },
+    {
+      "question": "How long has the same family owned Colmberg Castle?",
+      "answer": "The Unbehauen family took over Colmberg Castle in 1964, and their descendants now run it as a hotel in the third generation, following several earlier changes of private ownership after the castle first passed into private hands in 1880."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/colmberg-castle.webp",
+    "alt": "Colmberg Castle in Middle Franconia, Bavaria, Germany, a former Teutonic Order stronghold",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/colmberg-castle.webp",
+  "instagram_tag": "#colmbergcastle",
+  "meta_title": "Colmberg Castle — A Franconian Stronghold With Its Own Castle Beer",
+  "meta_description": "Stay at Colmberg Castle in Middle Franconia, Bavaria — a former Teutonic Order stronghold with free courtyard access and its own 'Schwarzer Ritter' beer.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "franconia",
+    "castle-hotel",
+    "medieval",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-16",
+  "routes": [],
+  "nearby_castles": [
+    "rabenstein-castle",
+    "nuremberg-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Burg Colmberg",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=burg-colmberg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-colmberg.es.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D183225%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784736180%26srpvid%3Db14870c676b30295%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 120,
+    "currency": "EUR",
+    "room_count": 26,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "Courtyard, ramparts viewpoint and outdoor grounds are freely open to the public; the chapel and stables can be visited, group tours by prior arrangement",
+    "how_to_stay": "**Getting there:** Colmberg, Middle Franconia, Bavaria, between Rothenburg ob der Tauber and Ansbach.\n\n**Rooms & rates:** All 26 individually furnished rooms — including the Fürstenzimmer, Burgherrenzimmer and a Chinese four-poster wedding suite — are within the historic castle building itself. From €120/night (research estimate — verify against the live Booking.com rate, as the range seen across booking sites was wide).\n\n**On-site:** Restaurant (Franconian cuisine, the castle's own 'Schwarzer Ritter' dark beer), chapel, former royal stables.\n\n**Good to know:** The courtyard and ramparts viewpoint are freely open to the public, so expect day visitors wandering the grounds even as an overnight guest — part of the charm of a castle that never fully closed itself off from the surrounding village.\n\n**Combine with:** Rothenburg ob der Tauber's medieval old town, one of Germany's best-preserved, a short drive away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-16"
+  }
+}
