@@ -1,0 +1,92 @@
+{
+  "id": "gamehl-castle",
+  "name": "Gamehl Castle",
+  "local_name": "Schloss Gamehl",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 16,
+  "country": "germany",
+  "region": "Mecklenburg-Vorpommern — Gamehl, near Wismar",
+  "nearest_city": "Wismar",
+  "address": "Dorfstraße 1, 23968 Gamehl, Germany",
+  "lat": 53.8950,
+  "lng": 11.3350,
+  "unesco": false,
+  "year_built": 1800,
+  "architectural_style": "19th-century neo-Gothic manor house, restored 2000–2008",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A restored 19th-century manor house within private grounds; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A neo-Gothic Mecklenburg manor house, rescued from near-derelict condition in 2000 and reopened as a small, intimate country-house hotel in 2008",
+  "highlights": [
+    "A 19th-century neo-Gothic manor house near Wismar in Mecklenburg, restored from near-derelict condition starting in 2000 by owner Dagmar von Stralendorff",
+    "Opened as a boutique hotel in 2008, with 19 individually decorated rooms styled in a country-house aesthetic",
+    "All rooms sit within the single restored mansion building — no separate annex",
+    "A smaller, more intimate property than most in this batch, positioned as a quiet countryside retreat rather than a grand hotel"
+  ],
+  "description": "Schloss Gamehl is a 19th-century neo-Gothic manor house near Wismar in Mecklenburg-Vorpommern, built as a private country residence in the architectural style favored by regional landed gentry of the period. Like many Mecklenburg estates, it fell into disrepair over the 20th century, particularly during the East German era when such properties were rarely maintained as private residences.\n\nRestoration began in 2000 under owner Dagmar von Stralendorff, who oversaw the mansion's transformation from a near-derelict state into a boutique country-house hotel, which opened in 2008. Today its 19 rooms — each individually furnished in a country-house style — occupy the single restored manor building, giving Gamehl a more intimate, single-building character compared to the larger multi-building estates elsewhere in this directory.\n\nMecklenburg's history of aristocratic estate neglect during the German Democratic Republic period, when many private manor houses were repurposed for collective agriculture, administrative use, or simply left to decay, forms an important backdrop to Gamehl's own restoration story. The post-reunification wave of private restoration efforts across the region, of which Gamehl is one example, has gradually returned a number of these historic properties to active use, often as small hotels rather than reverting to private aristocratic residences.\n\nThe eight-year restoration timeline, from the start of work in 2000 to the hotel's 2008 opening, reflects the scale of the challenge involved in bringing a near-derelict 19th-century structure back to a habitable, guest-ready standard — a considerably longer restoration process than some of the more architecturally intact properties covered elsewhere in this collection required.\n\nGamehl's single-building layout, with all 19 rooms inside the original restored mansion, distinguishes it from several other Mecklenburg and northern German castle-hotels that have expanded into separate annex or outbuilding accommodation as room counts grew. That constraint keeps Gamehl considerably smaller in scale, but gives every guest a genuinely consistent \"inside the historic house\" experience regardless of which room they are assigned.\n\nWismar, the nearest larger town, is itself a UNESCO World Heritage-listed Hanseatic old town, its brick Gothic architecture and historic harbor reflecting the Baltic trading-league heritage shared by several northern German coastal cities. A stay at Gamehl pairs naturally with a Wismar day trip, giving visitors both a quiet countryside manor-house stay and access to one of the region's most architecturally significant historic town centers.\n\nThe Baltic coastline around Wismar Bay offers a further extension for guests staying at Gamehl, with beaches, sailing and coastal walking trails giving the wider area a genuinely different seaside dimension distinct from the purely inland castle-and-countryside character of much of the rest of this collection.\n\nGamehl's more limited public-facing information, compared to larger and better-documented castle-hotels elsewhere in this collection, reflects its positioning as a genuinely private, guest-focused retreat rather than a property actively courting day-visitor traffic or event-hosting publicity — a deliberate quietness that suits travelers seeking seclusion over a busier multi-purpose estate.",
+  "history": "Schloss Gamehl is a 19th-century neo-Gothic manor house near Wismar in Mecklenburg-Vorpommern, built as a private country residence and later falling into disrepair, particularly during the East German era. Restoration began in 2000 under owner Dagmar von Stralendorff, and the property reopened as a boutique country-house hotel in 2008. Its 19 individually furnished rooms occupy the single restored manor building, with no separate annex.",
+  "faqs": [
+    {
+      "question": "Can day visitors tour Gamehl Castle without staying overnight?",
+      "answer": "No confirmed public day-visitor product — museum access, tours, or paid park entry — was found in research. The estate appears to function primarily for hotel guests and private events; verify directly with the property before planning a day visit."
+    },
+    {
+      "question": "How long did it take to restore Gamehl Castle?",
+      "answer": "Restoration began in 2000, when the building was near-derelict, and the property reopened as a hotel in 2008 — an eight-year restoration under owner Dagmar von Stralendorff."
+    },
+    {
+      "question": "Are all the rooms within the historic manor house?",
+      "answer": "Yes — all 19 rooms are within the single restored 19th-century manor building. There is no separate annex, unlike several other castle-hotels in this collection."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gamehl-castle.webp",
+    "alt": "Gamehl Castle (Schloss Gamehl), a restored 19th-century neo-Gothic manor house near Wismar, Mecklenburg-Vorpommern, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gamehl-castle.webp",
+  "instagram_tag": "#gamehlcastle",
+  "meta_title": "Gamehl Castle — A Restored Neo-Gothic Manor Near Wismar",
+  "meta_description": "Stay at Gamehl Castle near Wismar — a 19th-century neo-Gothic manor house restored from near-derelict condition and reopened as a boutique hotel in 2008.",
+  "tags": [
+    "germany",
+    "mecklenburg-vorpommern",
+    "castle-hotel",
+    "neo-gothic",
+    "wismar"
+  ],
+  "last_updated": "2026-09-17",
+  "routes": [],
+  "nearby_castles": [
+    "klink-castle",
+    "burg-schlitz-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Gamehl",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=schloss-gamehl&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-gamehl.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D46518%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784740004%26srpvid%3Dc7df7850290405e9%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 165,
+    "currency": "EUR",
+    "room_count": 19,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed public day-visitor product (museum, tours, or paid park access) was found in research — the estate appears to function primarily for hotel guests and private events. Verify directly with the property before promoting day-visit access.",
+    "how_to_stay": "**Getting there:** Near the village of Gamehl, about 15–20 minutes by car from Wismar; Wismar has regional rail connections, but the castle itself requires a car or taxi from the station.\n\n**Rooms & rates:** From approx. €165/night for a standard double room, with themed arrangement packages from around €129/person for multi-night stays (verify against live rate).\n\n**On-site:** Restaurant, gardens, and grounds; free wifi and parking included.\n\n**Good to know:** All 19 rooms are within the single restored manor building — there is no separate annex. No confirmed public day-visitor product was found; this appears to be a guest- and event-focused property rather than one with regular public access.\n\n**Combine with:** The Hanseatic old town of Wismar (UNESCO World Heritage site) and the Baltic coast around Wismar Bay.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-17"
+  }
+}

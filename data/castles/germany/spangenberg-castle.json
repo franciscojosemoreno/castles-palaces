@@ -1,0 +1,93 @@
+{
+  "id": "spangenberg-castle",
+  "name": "Spangenberg Castle",
+  "local_name": "Schloss Spangenberg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "germany",
+  "region": "Hesse — Spangenberg, Schwalm-Eder district",
+  "nearest_city": "Kassel",
+  "address": "Schlossberg 3, 34286 Spangenberg, Germany",
+  "lat": 51.1080,
+  "lng": 9.6780,
+  "unesco": false,
+  "year_built": 1214,
+  "architectural_style": "Medieval fortress founded 1214, enclosed by a 15th-century zwinger outer wall; rebuilt after WWII damage, renovated again in 1996",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the on-site hunting museum is open seasonally to day visitors",
+  "best_season": "April to November for the hunting museum; year-round for the hotel",
+  "accessibility": "A hilltop medieval fortress complex with a 15th-century outer wall; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Over 800 years as fortress, hunting lodge, prison and Prussian forestry school — one of the few castle-hotels in this collection with a genuine, regularly open museum on-site",
+  "highlights": [
+    "One of Hesse's oldest fortress sites, founded in 1214 above the small town of Spangenberg — over 800 years of continuous use as fortress, hunting lodge, prison, and Prussian forestry school before becoming a hotel",
+    "All 28 guest rooms sit within the historic castle complex itself — no separate annex building",
+    "A genuine hunting museum (Jagdmuseum) on-site, open seasonally to day visitors, giving this castle a real non-hotel visitor draw",
+    "Rebuilt after WWII damage, then renovated again in 1996 for its current hotel use"
+  ],
+  "description": "Spangenberg Castle was founded in 1214 on a hilltop above the town of Spangenberg in northern Hesse, its rectangular inner courtyard still enclosed by a narrow 15th-century zwinger (defensive outer wall). Over more than 800 years it served a remarkable range of functions: medieval fortress, hunting lodge for the Hessian landgraves, a prison, and later a Prussian forestry training school — a use history longer and more varied than almost any other property in this directory.\n\nThe castle suffered damage during the Second World War and was subsequently rebuilt, with its current hotel operation dating to a 1996 renovation. Today it combines a country-inn hotel with a public hunting museum (Jagdmuseum) housed in the castle's former armory, displaying historical and contemporary hunting equipment, trophy collections, and paintings from the 17th to 20th centuries — making it one of the few castle-hotels in this directory with a genuine, regularly open visitor attraction independent of an overnight stay.\n\nThe castle's remarkable functional range — fortress, hunting lodge, prison, forestry school, hotel — reflects the long institutional afterlife many medieval German castles experienced once their original defensive purpose faded, repeatedly repurposed by successive rulers and administrations across the centuries rather than abandoned or demolished. Few properties in this collection can claim quite so varied and well-documented a sequence of uses spanning over eight centuries.\n\nThe zwinger, the narrow defensive outer wall still enclosing the castle's inner courtyard, represents a specific and relatively sophisticated medieval fortification technique: a secondary defensive ring designed to trap attackers who breached the outer wall in a confined killing ground before they could reach the main structure. Its survival at Spangenberg gives visitors a genuinely legible example of this defensive design, in contrast to castles where later rebuilding has erased such specific medieval military features.\n\nThe Jagdmuseum's seasonal hours — April through November, weekends and public holidays only, 14:00 to 17:00 — mean day visitors specifically interested in the museum should plan around this narrower window rather than assuming standard daily opening hours common at larger, more heavily staffed museums. Group visits can be arranged outside these hours by prior request, offering some flexibility for organized tours.\n\nSpangenberg's role as a Prussian forestry training school in the 19th and early 20th centuries reflects the broader administrative history of the Kassel region, which passed under Prussian control after 1866, and the castle's forestry-education chapter connects it to Germany's long tradition of formal, state-administered forest management — a genuinely different institutional history from the aristocratic-residence-to-hotel pipeline followed by many other castle-hotels in this collection.\n\nKassel's Bergpark Wilhelmshöhe, a UNESCO World Heritage site and one of Europe's largest hillside parks, sits within easy reach of Spangenberg and offers a natural pairing for visitors: the contrast between Spangenberg's compact, functionally varied medieval fortress and Wilhelmshöhe's sprawling 18th-century landscaped garden and palace complex gives guests two genuinely different registers of Hessian aristocratic and civic heritage within a single regional trip.\n\nThe surrounding Schwalm-Eder district takes its name from two rivers, the Schwalm and the Eder, and remains one of Hesse's more rural and agricultural areas, giving Spangenberg's hilltop position a genuinely quiet, small-town backdrop distinct from the denser urban development found closer to Kassel and Frankfurt further south.",
+  "history": "Spangenberg Castle was founded in 1214 on a hilltop above the town of Spangenberg in northern Hesse, enclosed by a 15th-century zwinger outer wall. Over more than 800 years it served as a medieval fortress, a hunting lodge for the Hessian landgraves, a prison, and a Prussian forestry training school. Damaged during the Second World War, it was rebuilt, with its current hotel operation dating to a 1996 renovation. Today it combines a country-inn hotel with a public hunting museum (Jagdmuseum) in the castle's former armory.",
+  "faqs": [
+    {
+      "question": "Can I visit the hunting museum at Spangenberg Castle without staying overnight?",
+      "answer": "Yes — the Jagdmuseum, housed in the castle's former armory (Zeughaus), is open to day visitors April through November on Saturdays, Sundays and public holidays, 14:00–17:00. Group visits can be arranged by prior request."
+    },
+    {
+      "question": "What uses has Spangenberg Castle had over its history?",
+      "answer": "Over more than 800 years since its 1214 founding, it has served as a medieval fortress, a hunting lodge for the Hessian landgraves, a prison, and a Prussian forestry training school, before becoming a hotel following a 1996 renovation."
+    },
+    {
+      "question": "Are all the rooms within the historic castle complex?",
+      "answer": "Yes — all 28 guest rooms are within the historic castle complex itself, with no separate annex building, unlike several other castle-hotels in this collection."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/spangenberg-castle.webp",
+    "alt": "Spangenberg Castle above the town of Spangenberg, Hesse, Germany, founded in 1214",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/spangenberg-castle.webp",
+  "instagram_tag": "#spangenbergcastle",
+  "meta_title": "Spangenberg Castle — An 800-Year-Old Fortress Hotel in Hesse",
+  "meta_description": "Stay at Spangenberg Castle in Hesse — founded in 1214, once a fortress, hunting lodge and Prussian forestry school, with a real on-site hunting museum.",
+  "tags": [
+    "germany",
+    "hesse",
+    "castle-hotel",
+    "medieval",
+    "museum",
+    "kassel"
+  ],
+  "last_updated": "2026-09-17",
+  "routes": [],
+  "nearby_castles": [
+    "trendelburg-castle",
+    "waldeck-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schloss Spangenberg",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=schloss-spangenberg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-spangenberg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784739804%26srpvid%3D58d777e9f1180811%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 169,
+    "currency": "EUR",
+    "room_count": 28,
+    "room_location": "castle",
+    "amenities": ["restaurant", "museum"],
+    "non_guest_access_note": "The Jagdmuseum (hunting museum), housed in the castle's Zeughaus (armory building), is open to the public April–November on Saturdays, Sundays, and public holidays, 14:00–17:00 (group visits by arrangement). The hotel's restaurant/country inn also welcomes day visitors.",
+    "how_to_stay": "**Getting there:** In the town of Spangenberg, Schwalm-Eder district; about 30 minutes by car from Kassel, the nearest major city and rail hub (Kassel-Wilhelmshöhe has ICE high-speed rail connections). No direct public transit to the castle itself.\n\n**Rooms & rates:** From approx. €169/night for a standard double room (rates are commonly quoted per person from €82.50, double occupancy); single rooms from around €110/night, including breakfast.\n\n**On-site:** Restaurant/country inn and the on-site Jagdmuseum (hunting museum); free wifi and parking included.\n\n**Good to know:** All 28 rooms are within the historic castle complex itself — there is no separate annex. The hunting museum keeps seasonal hours (April–November, weekends and holidays, 14:00–17:00), so time a visit accordingly if that's part of your interest.\n\n**Combine with:** Kassel's Bergpark Wilhelmshöhe (UNESCO World Heritage site) and the wider Hessian \"Fairy Tale Route\" (Märchenstraße) through the Grimm brothers' home region.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-17"
+  }
+}

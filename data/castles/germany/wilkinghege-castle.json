@@ -1,0 +1,90 @@
+{
+  "id": "wilkinghege-castle",
+  "name": "Wilkinghege Castle",
+  "local_name": "Schloss Wilkinghege",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "North Rhine-Westphalia — Münster, Münsterland",
+  "nearest_city": "Münster",
+  "address": "Steinfurter Str. 374, 48159 Münster, Germany",
+  "lat": 51.9720,
+  "lng": 7.5800,
+  "unesco": false,
+  "year_built": 1550,
+  "architectural_style": "16th-century moated water castle (Wasserschloss), remodeled in 2013",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; restaurant and golf course open to non-guests",
+  "best_season": "Year-round; golf course best April to October",
+  "accessibility": "A moated castle set within parkland and a golf course; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 16th-century moated water castle in the Münsterland, family-run for three generations, with a genuine 18-hole golf course on the grounds",
+  "highlights": [
+    "A 16th-century moated water castle (Wasserschloss) in the Münsterland, family-run by the Winnecken family across three generations",
+    "35 rooms split between the historic main building and a converted annex of former stables — check placement when booking if staying \"in the castle\" matters to you",
+    "Home to an 18-hole golf course, making it a genuine golf-and-castle destination, not just a hotel with a historic façade",
+    "A moat and parkland setting typical of Münsterland's dense cluster of water castles"
+  ],
+  "description": "Schloss Wilkinghege traces its origins to 1550, when it was built as a moated fortified house in the flat, water-rich countryside outside Münster — a region historically dotted with dozens of similar Wasserschlösser built by local nobility for defense and status. The estate passed through several noble families over the centuries before being converted to hospitality use, with a major remodeling completed in 2013 that modernized guest facilities while preserving the castle's historic silhouette and moat.\n\nToday Wilkinghege is run by the Winnecken family, now in its third generation of ownership, combining a historic-hotel identity with a full 18-hole golf course on the surrounding grounds — an unusual pairing that positions it as much for golf travelers as for castle-stay seekers. The 35 guest rooms are split between the original castle building and a converted annex built from the estate's former stables, so travelers who want to sleep within the historic walls themselves should specifically request a room in the main château.\n\nThe Münsterland region surrounding Wilkinghege holds one of the densest concentrations of moated castles anywhere in Germany, a legacy of the area's flat, water-table-rich terrain, which made digging a defensive moat considerably more practical than building on higher ground. Wilkinghege forms part of an established regional touring route connecting dozens of these water castles, many still privately owned and only partially open to visitors.\n\nThe pairing of a historic water castle with a full golf course reflects a broader pattern among some of Germany's larger rural estates, where the extensive grounds surrounding a moated house provided ready-made space for a golf course development that would be impractical to carve out of denser, more built-up countryside. For golf-focused travelers, Wilkinghege offers a genuinely dual-purpose stay: a historic hotel experience layered directly onto a functioning golf destination, complete with pro shop and green-fee access for non-resident golfers.\n\nThree generations of ownership by the Winnecken family gives Wilkinghege a settled, continuously managed character distinct from castle-hotels that have changed hands between corporate hotel groups or been sold to new private owners more recently. That family continuity has shaped the property's gradual modernization, culminating in the 2013 remodeling that updated guest facilities while keeping the moat and historic exterior intact.\n\nMünster itself, a short drive from the castle, is one of North Rhine-Westphalia's more historically and architecturally significant cities, its restored old town, Gothic cathedral and university district giving guests staying at Wilkinghege an easy day-trip option beyond the castle's own golf-and-moat setting. The city's flat, cycle-friendly geography also makes it one of Germany's most bicycle-oriented urban centers, a detail some visiting golfers and castle guests use to explore the wider area.\n\nThe estate's parkland setting, encompassing both the moated castle grounds and the golf course fairways beyond, gives Wilkinghege a genuinely spacious feel uncommon among smaller, more tightly bounded castle-hotel properties. That scale supports not just the golf operation but also event hosting, from weddings to corporate retreats, adding a further dimension to the property's identity beyond individual overnight stays.",
+  "history": "Schloss Wilkinghege was built in 1550 as a moated fortified house outside Münster, part of the Münsterland region's dense historic concentration of Wasserschlösser. The estate passed through several noble families before conversion to hospitality use, with a major remodeling completed in 2013. Today it is run by the Winnecken family, now in its third generation of ownership, and combines a 35-room hotel — split between the historic castle building and a converted former-stables annex — with a full 18-hole golf course on the grounds.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Wilkinghege Castle inside the historic building?",
+      "answer": "No — the 35 rooms are split between the original 1550 castle building and a converted annex built from the estate's former stables. Guests wanting to sleep within the historic walls should specifically request the main château when booking."
+    },
+    {
+      "question": "Can non-guests play golf at Wilkinghege Castle?",
+      "answer": "Yes — the on-site Golf & Country Club Schloss Wilkinghege is open to non-guests via green fees, and the restaurant also accepts dining reservations from non-resident visitors."
+    },
+    {
+      "question": "What is a Wasserschloss?",
+      "answer": "A Wasserschloss, or \"water castle,\" is a fortified house surrounded by a moat, a style of defensive construction especially common in Germany's flat, water-rich Münsterland region, where digging a moat was more practical than building on higher ground."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wilkinghege-castle.webp",
+    "alt": "Wilkinghege Castle (Schloss Wilkinghege), a moated water castle near Münster, North Rhine-Westphalia, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wilkinghege-castle.webp",
+  "instagram_tag": "#wilkinghegecastle",
+  "meta_title": "Wilkinghege Castle — A Moated Castle-and-Golf Hotel Near Münster",
+  "meta_description": "Stay at Wilkinghege Castle near Münster — a 16th-century moated water castle run by the same family for three generations, with an 18-hole golf course.",
+  "tags": [
+    "germany",
+    "north-rhine-westphalia",
+    "castle-hotel",
+    "wasserschloss",
+    "golf",
+    "munster"
+  ],
+  "last_updated": "2026-09-17",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schloss Wilkinghege",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-wilkinghege&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-wilkinghege.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D71474%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784739003%26srpvid%3D0928765a8fa907d8%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 175,
+    "currency": "EUR",
+    "room_count": 35,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "golf", "bar"],
+    "non_guest_access_note": "The on-site restaurant and 18-hole golf course (Golf & Country Club Schloss Wilkinghege) are open to non-guests — green fees and dining reservations apply. There is no separate paid castle-tour product.",
+    "how_to_stay": "**Getting there:** In Münster, roughly a 10-minute drive northwest of the city center; Münster Osnabrück Airport (FMO) is about 25 minutes away by car. No direct public transit to the door — taxi or rental car recommended.\n\n**Rooms & rates:** From approx. €175/night for a standard double, rising toward €340+ for larger or castle-building rooms depending on season and demand (verify against live rate).\n\n**On-site:** Restaurant, bar, spa, and the 18-hole golf course with pro shop; free wifi and parking included.\n\n**Good to know:** Rooms are split between the historic main building and an annex converted from the former stables — request the castle building specifically if that matters to you. The golf course is open to non-guests via green fees.\n\n**Combine with:** Münster's old town (Prinzipalmarkt, St. Paulus Cathedral) and the wider Münsterland Wasserschlösser route, one of Germany's densest concentrations of moated castles.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-17"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "klink-castle",
+  "name": "Klink Castle",
+  "local_name": "Schloss Klink (Seehotel Schloss Klink)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Mecklenburg-Vorpommern — Klink, near Waren, Lake Müritz",
+  "nearest_city": "Waren (Müritz)",
+  "address": "Schlossstraße 1, 17192 Klink, Germany",
+  "lat": 53.5060,
+  "lng": 12.5680,
+  "unesco": false,
+  "year_built": 1898,
+  "architectural_style": "French Loire Valley château style, built 1898 on the shore of Lake Müritz",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the harbor and lakeside restaurant are open to the public",
+  "best_season": "April to October for lake activities; year-round for the hotel",
+  "accessibility": "A lakeside resort spread across a historic château and a separate modern building; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A French Loire-style château on Lake Müritz — but of 106 rooms, only 30 are in the historic 1898 building; most guests stay in a separate lakeside annex",
+  "highlights": [
+    "A French Loire-style château built in 1898 on the shore of Lake Müritz, Germany's second-largest lake, in the Mecklenburg Lake District",
+    "Of 106 total rooms and suites, only 30 are in the historic castle building itself — the remaining 76 are in a separate \"Orangerie\" building, linked to the castle by an underground passage. The majority of guests stay outside the historic structure",
+    "A private harbor with lake boat excursions is a signature feature, leaning into the lakeside setting as much as the castle architecture",
+    "The largest room count of any property in this batch, reflecting its resort-scale hotel operation"
+  ],
+  "description": "Schloss Klink was built in 1898 in a French Loire Valley château style, an architectural choice unusual for the Mecklenburg Lake District and a deliberate statement of Belle Époque grandeur on the shore of Lake Müritz, Germany's second-largest lake by surface area. Its turrets and steep slate roofline were designed to evoke the grand river châteaux of France rather than the brick Gothic style more typical of northern German nobility.\n\nThe estate has since grown into a large resort-style hotel operation: alongside the original 1898 castle building, which holds 30 rooms and suites, a separate \"Orangerie\" building was added, connected to the castle by an underground passage and now housing the majority of the property's 76 remaining rooms and suites. Guests booking here should understand plainly that most rooms — more than two-thirds of the total — are in this annex rather than the historic castle itself, even though the castle building anchors the property's identity and marketing. A private harbor on the lake supports boat excursions, extending the estate's appeal well beyond its architecture.\n\nThis distinction is worth stating directly rather than glossing over: with 106 total rooms and only 30 within the 1898 château, a guest booking a standard room at Klink is, statistically, considerably more likely to be housed in the modern Orangerie annex than inside the historic building whose turreted silhouette appears in all the property's marketing photography. Guests specifically seeking the castle experience should request the historic building explicitly, and expect more limited availability and a price premium as a result.\n\nLake Müritz, on whose shore Klink sits, is the largest lake located entirely within Germany (the larger Lake Constance and Lake Constance-adjacent bodies straddle international borders), forming the centerpiece of the Müritz National Park and the wider Mecklenburg Lake District, a region of interconnected lakes, canals and waterways popular for boating, sailing and cycling holidays.\n\nThe underground passage connecting the historic castle to the Orangerie annex is a genuine architectural and logistical feature of the property, allowing guests in either building to move between them without going outside — a practical detail relevant to anyone weighing the trade-off between the historic castle's turreted rooms and the newer Orangerie's contemporary comfort and considerably greater availability.\n\nKlink's private harbor and lake boat excursions position the property as much as a lake resort as a historic château stay, a combination that distinguishes it from castle-hotels built primarily around architecture, spa facilities or fine dining rather than direct water access and recreational boating.\n\nThe surrounding Müritz National Park, one of Germany's larger inland nature reserves, protects extensive wetland, forest and lake habitats supporting a wide range of birdlife, and offers guests staying at Klink a genuinely different, nature-focused day-trip option alongside the more conventional lakeside town of Waren a short drive away.\n\nThe scale of Klink's resort operation — 106 rooms across two buildings, a private harbor, spa and restaurant facilities — places it among the larger properties in this entire collection, considerably closer in size and operational complexity to a full-service lake resort than to the smaller, single-building manor houses and castles that make up much of the rest of Germany's castle-hotel landscape.",
+  "history": "Schloss Klink was built in 1898 in a French Loire Valley château style on the shore of Lake Müritz, Germany's second-largest lake. The estate later expanded with a separate \"Orangerie\" building, connected to the historic castle by an underground passage, which now houses the majority of the property's 106 total rooms and suites — only 30 rooms are within the original 1898 castle building itself. A private harbor supports lake boat excursions from the estate.",
+  "faqs": [
+    {
+      "question": "Do most guests at Klink Castle stay inside the historic building?",
+      "answer": "No — of 106 total rooms and suites, only 30 are within the historic 1898 castle building. The remaining 76 rooms are in a separate \"Orangerie\" building, connected to the castle by an underground passage, so most guests stay outside the historic structure."
+    },
+    {
+      "question": "Can I book a room specifically inside the historic castle at Klink?",
+      "answer": "Yes, but availability is limited to 30 rooms out of 106 total — request the historic castle building explicitly when booking, and expect a price premium and more limited availability compared to the larger Orangerie annex."
+    },
+    {
+      "question": "What can you do on Lake Müritz from Klink Castle?",
+      "answer": "The hotel has a private harbor offering boat excursions on Lake Müritz, Germany's second-largest lake and the centerpiece of the Müritz National Park and wider Mecklenburg Lake District."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/klink-castle.webp",
+    "alt": "Klink Castle (Schloss Klink), a French Loire-style château on the shore of Lake Müritz, Mecklenburg-Vorpommern, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/klink-castle.webp",
+  "instagram_tag": "#klinkcastle",
+  "meta_title": "Klink Castle — A Loire-Style Château on Lake Müritz",
+  "meta_description": "Stay at Klink Castle on Lake Müritz — a French Loire-style château from 1898; most of its 106 rooms are in a separate lakeside annex, not the historic building.",
+  "tags": [
+    "germany",
+    "mecklenburg-vorpommern",
+    "castle-hotel",
+    "muritz",
+    "lake-district"
+  ],
+  "last_updated": "2026-09-17",
+  "routes": [],
+  "nearby_castles": [
+    "burg-schlitz-castle",
+    "gamehl-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Seehotel Schloss Klink",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-klink&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-klink.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784740244%26srpvid%3D057278c7cb1d0611%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 129,
+    "currency": "EUR",
+    "room_count": 106,
+    "room_location": "annex",
+    "amenities": ["restaurant", "spa", "marina"],
+    "non_guest_access_note": "The hotel's private harbor and lakeside restaurant are open to the public; boat excursions on Lake Müritz depart from the harbor. No separate paid castle-interior tour was found — access to the historic castle building itself is for hotel guests.",
+    "how_to_stay": "**Getting there:** In Klink, near Waren (Müritz); Waren has regional rail connections, with the castle a short taxi or drive from the station. About 2 hours by car from Berlin.\n\n**Rooms & rates:** From approx. €129/night, with a wide range up to €180+/night reported depending on season, room building, and source (verify against live rate).\n\n**On-site:** Restaurant, spa, private harbor, and lake boat excursions; free wifi and parking included.\n\n**Good to know:** Most rooms (76 of 106) are in the separate Orangerie annex, not the 1898 castle building itself — specify the castle building at booking if staying within the historic structure matters to you, though availability there is limited.\n\n**Combine with:** The town of Waren (Müritz) and boat trips on Lake Müritz, Germany's second-largest lake and centerpiece of the Müritz National Park region.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-17"
+  }
+}
