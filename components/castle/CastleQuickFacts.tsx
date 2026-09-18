@@ -161,14 +161,23 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
         ))}
       </dl>
 
-      <a
-        href={primaryCta.href}
-        target="_blank"
-        rel="noopener noreferrer sponsored"
-        className="mt-5 w-full flex items-center justify-center gap-2 bg-[#1761a0] text-white text-sm font-semibold py-2.5 px-4 rounded-md hover:bg-[#1761a0]/90 transition-colors"
-      >
-        {primaryCta.label}
-      </a>
+      {primaryCta.disabled ? (
+        <span
+          className="mt-5 w-full flex items-center justify-center gap-2 bg-stone-200 text-stone-500 text-sm font-semibold py-2.5 px-4 rounded-md cursor-not-allowed"
+          aria-disabled="true"
+        >
+          {primaryCta.label}
+        </span>
+      ) : (
+        <a
+          href={primaryCta.href}
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          className="mt-5 w-full flex items-center justify-center gap-2 bg-[#1761a0] text-white text-sm font-semibold py-2.5 px-4 rounded-md hover:bg-[#1761a0]/90 transition-colors"
+        >
+          {primaryCta.label}
+        </a>
+      )}
     </div>
   );
 }
