@@ -1,0 +1,93 @@
+{
+  "id": "purschenstein-castle",
+  "name": "Purschenstein Castle",
+  "local_name": "Schloss Purschenstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Saxony — Neuhausen/Erzgebirge, Ore Mountains",
+  "nearest_city": "Freiberg",
+  "address": "Schloss Purschenstein, 09544 Neuhausen/Erzgebirge, Germany",
+  "lat": 50.7280,
+  "lng": 13.4720,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "12th-century toll and escort castle, converted into a Renaissance castle by the von Schönberg family in the 15th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the castle park is freely open to the public, with the Kammweg Erzgebirge-Vogtland trail running directly through it",
+  "best_season": "Year-round; best hiking conditions April to October",
+  "accessibility": "A hilltop Renaissance castle spread across three separate historic buildings; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "One of Saxony's oldest knights' castles, guarding the old salt route to Prague — its 42-metre keep survives fires that destroyed the rest, and a famous hiking trail runs straight through the park",
+  "highlights": [
+    "One of the oldest knights' castles in Saxony, built in the 12th century as a toll and escort castle along the old salt route from Halle to Prague, later converted into a Renaissance castle by the noble von Schönberg family",
+    "A 42-metre keep from the 13th/14th century survives with walls nearly 3 metres thick, despite the site suffering several fires over the centuries",
+    "The 46 rooms are spread across three separate historic buildings: the castle itself, the carriage house (Remise), and the old tax office (Rentamt) — no two rooms are identical",
+    "The Kammweg Erzgebirge-Vogtland hiking trail runs directly through the castle park, a genuine free day-visitor draw independent of the hotel"
+  ],
+  "description": "Purschenstein Castle is one of the oldest knights' castles in Saxony, built in the 12th century as a toll and escort castle guarding the old salt route between Halle and Prague — a strategically valuable position that funded the castle's construction and early upkeep. In the 15th century, the noble von Schönberg family converted the fortification into a Renaissance-style castle, a transformation that shaped much of the site's character before subsequent fires destroyed all but a few of the original building sections. What survives from that early history is still striking: a 42-metre keep dating to the 13th or 14th century, with walls nearly three metres thick.\n\nToday the estate is owned by a Dutch family who converted the complex into an upscale hotel with restaurant and wellness facilities. Guests are housed across three distinct historic buildings on the grounds — the castle itself, the Remise (former carriage house), and the Rentamt (former tax office) — meaning the specific building matters more here than at many single-structure castle-hotels. The Kammweg Erzgebirge-Vogtland, one of the region's principal long-distance hiking routes, runs directly through the castle park, so day hikers are a regular presence on the grounds regardless of hotel occupancy.\n\nThe old salt route between Halle and Prague that Purschenstein once guarded was among the more economically significant medieval trade corridors through the Ore Mountains, carrying a commodity so valuable that fortified toll and escort points like this castle could sustain themselves largely on the revenue from passing merchant traffic — a different economic basis from the agricultural estates that supported many other medieval German castles.\n\nThe von Schönberg family's 15th-century Renaissance conversion reflects a broader pattern across Saxony, where numerous medieval fortifications were remodeled during this period to reflect changing aristocratic tastes and the declining practical need for purely defensive architecture as regional stability improved under Saxon rule.\n\nThe castle's survival of \"several fires\" over the centuries, common language in historical accounts of many European castles, understates just how much of Purschenstein's original fabric was lost — leaving the 42-metre keep as a genuinely rare survivor from the site's earliest centuries, a structure whose thick walls likely helped it withstand blazes that consumed more vulnerable timber-framed sections elsewhere on the estate.\n\nThe division of guest accommodation across three separate buildings — castle, Remise, Rentamt — reflects the practical reality of a historic estate expanding its hotel capacity by converting ancillary structures rather than adding entirely new construction, a pattern shared with several other properties in this collection facing similar space constraints within a protected historic footprint.\n\nThe Erzgebirge (Ore Mountains) region surrounding Purschenstein carries a long mining heritage, reflected in the region's UNESCO World Heritage recognition for its historic mining landscape, giving guests staying at the castle an opportunity to combine hiking on the Kammweg trail with a wider exploration of the area's distinctive industrial and mineral history.\n\nThe estate's current Dutch ownership reflects a broader pattern of foreign private investment in the restoration of formerly neglected East German historic properties following reunification, when numerous castles and manor houses across Saxony and the wider former GDR territory found new owners willing to fund substantial restoration projects that domestic buyers had not undertaken during the preceding decades.",
+  "history": "Purschenstein Castle was built in the 12th century as a toll and escort castle along the old salt route between Halle and Prague, one of the oldest knights' castles in Saxony. The von Schönberg family converted it into a Renaissance-style castle in the 15th century, though subsequent fires destroyed all but a few original sections, leaving a 42-metre keep with walls nearly three metres thick as the most substantial survivor. Today the estate, owned by a Dutch family, operates as a hotel spread across three historic buildings: the castle itself, the Remise (carriage house), and the Rentamt (tax office).",
+  "faqs": [
+    {
+      "question": "Can I visit Purschenstein Castle's park without staying overnight?",
+      "answer": "Yes — the Kammweg Erzgebirge-Vogtland, a well-known long-distance hiking trail, runs directly through the castle park, giving free public access to the grounds."
+    },
+    {
+      "question": "Are all the rooms within the historic castle building?",
+      "answer": "No — the 46 rooms are spread across three separate historic buildings: the castle itself, the Remise (former carriage house), and the Rentamt (former tax office)."
+    },
+    {
+      "question": "What survives from Purschenstein Castle's original medieval fortification?",
+      "answer": "A 42-metre keep dating to the 13th or 14th century, with walls nearly three metres thick, is the most substantial survivor — several fires over the centuries destroyed most of the rest of the original structure."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/purschenstein-castle.webp",
+    "alt": "Purschenstein Castle in Neuhausen, Erzgebirge, Saxony, Germany, a 12th-century toll and escort castle",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/purschenstein-castle.webp",
+  "instagram_tag": "#purschensteincastle",
+  "meta_title": "Purschenstein Castle — A 12th-Century Hotel in the Ore Mountains",
+  "meta_description": "Stay at Purschenstein Castle in the Erzgebirge — one of Saxony's oldest knights' castles, with a 42-metre medieval keep and a hiking trail through its park.",
+  "tags": [
+    "germany",
+    "saxony",
+    "castle-hotel",
+    "medieval",
+    "erzgebirge",
+    "hiking"
+  ],
+  "last_updated": "2026-09-18",
+  "routes": [],
+  "nearby_castles": [
+    "augustusburg-palace",
+    "lichtenwalde-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schloss Purschenstein",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-purschenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-purschenstein.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784741043%26srpvid%3Dbf3c7a5709ad045b%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 101,
+    "currency": "EUR",
+    "room_count": 46,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "estate_walks"],
+    "non_guest_access_note": "The Kammweg Erzgebirge-Vogtland, a well-known long-distance hiking trail, runs directly through the castle park, giving free public access to the grounds. No confirmed separate ticketed museum or tower-visit product was found for non-guests.",
+    "how_to_stay": "**Getting there:** In Neuhausen/Erzgebirge, Ore Mountains, Saxony; about 30 minutes from Freiberg and an hour from Dresden by car.\n\n**Rooms & rates:** From approx. €101/night, rising toward €150+ for suites and peak dates (verify against live rate). Rooms are split across three separate historic buildings — the castle, the Remise carriage house, and the Rentamt tax office.\n\n**On-site:** Restaurant, wellness/spa area, historic 42-metre keep.\n\n**Good to know:** Specify the main castle building at booking if sleeping inside the historic 15th-century structure itself is the priority — the Remise and Rentamt rooms are genuinely part of the historic estate but in separate buildings.\n\n**Combine with:** The wider Erzgebirge (Ore Mountains) hiking network via the Kammweg trail, which runs directly through the castle grounds.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-18"
+  }
+}

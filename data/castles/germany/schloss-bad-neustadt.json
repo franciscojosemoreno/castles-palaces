@@ -1,0 +1,93 @@
+{
+  "id": "schloss-bad-neustadt",
+  "name": "Schloss Bad Neustadt",
+  "local_name": "Schlosshotel Bad Neustadt",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 17,
+  "country": "germany",
+  "region": "Bavaria — Bad Neustadt an der Saale, Rhön region, Lower Franconia",
+  "nearest_city": "Bad Neustadt an der Saale",
+  "address": "Schlossplatz 1, 97616 Bad Neustadt an der Saale, Germany",
+  "lat": 50.3230,
+  "lng": 10.2160,
+  "unesco": false,
+  "year_built": 1767,
+  "architectural_style": "Late Baroque palace built in 1767; extensively renovated 2006, further room renovations 2019, new wing added 2020",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A Late Baroque palace beside the town's public spa gardens; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 1767 Late Baroque palace beside Bad Neustadt's spa gardens, with a genuine on-site wedding chapel — most of its 51 rooms remain in the original palace itself",
+  "highlights": [
+    "A Late Baroque palace built in 1767, extensively renovated in 2006 to restore its 18th-century character with high-quality modern furnishings",
+    "Twelve rooms opened at the end of 2020 in a new auxiliary building on the grounds — most of the hotel's 51 total rooms remain in the original 1767 Baroque palace itself",
+    "Set idyllically beside Bad Neustadt's spa gardens (Kurpark), with its own on-site wedding chapel making it a popular events venue",
+    "A 4-star property whose rooms and suites are individually designed, several with their own fitness equipment"
+  ],
+  "description": "Schloss Bad Neustadt is a Late Baroque palace built in 1767 in what is now the spa town of Bad Neustadt an der Saale, in the Bavarian Rhön region of Lower Franconia. The building underwent an extensive renovation in 2006, reopened with close attention to preserving its 18th-century Baroque character, and its existing rooms received a further renovation in 2019.\n\nAt the end of 2020, the property expanded with twelve new rooms in a new auxiliary building on the estate — meaning the majority of the hotel's 51 total rooms remain within the original 1767 palace, while a meaningful minority are in this newer, separate structure. The palace sits directly beside Bad Neustadt's public spa gardens, a setting that ties the property into the town's broader identity as a Kurort (spa town), and its own wedding chapel has made it a locally popular venue for ceremonies and events beyond overnight stays.\n\nBad Neustadt's status as a Kurort, a formally recognized German spa town, reflects a broader tradition of health-focused tourism tied to natural mineral springs or therapeutic landscapes, and the palace's direct adjacency to the town's public spa gardens places it at the heart of this civic identity rather than as an isolated countryside retreat.\n\nThe palace's Late Baroque architecture, dating to 1767, represents a relatively late example of the style within German aristocratic building, coming as Baroque design was giving way to the lighter, more restrained Neoclassical taste that would dominate the following decades — giving Schloss Bad Neustadt's exterior and proportions a transitional character worth noting for architecture-minded visitors.\n\nThe 2006 renovation's stated goal of restoring 18th-century character while introducing high-quality modern furnishings reflects a now-common approach among Germany's historic palace-hotel conversions, balancing genuine period atmosphere against the practical comfort expectations of contemporary hospitality guests.\n\nThe Rhön region surrounding Bad Neustadt, recognized as a UNESCO Biosphere Reserve, is known for its distinctive volcanic hill landscape and extensive hiking network, giving guests staying at the palace an outdoor recreational option quite different from the river-valley or forest settings of many other castle-hotels in this collection.\n\nThe on-site wedding chapel's popularity as an events venue reflects a broader pattern among several of this collection's historic palaces and manor houses, where a distinctive period setting and grounds make the property a natural choice for ceremonies independent of its function as overnight accommodation.\n\nThe town of Bad Neustadt an der Saale takes its \"Bad\" (spa/bath) designation seriously, with the formal Kurort status requiring officially certified therapeutic qualities in its springs or climate — a designation that shapes much of the town's tourism infrastructure and civic identity well beyond the palace hotel itself.",
+  "history": "Schloss Bad Neustadt is a Late Baroque palace built in 1767 in Bad Neustadt an der Saale, Bavaria. It underwent an extensive renovation in 2006 to restore its 18th-century character, with further room renovations in 2019. Twelve new rooms opened at the end of 2020 in a new auxiliary building on the estate, meaning most of the hotel's 51 total rooms remain within the original palace. The property sits beside the town's public spa gardens and includes an on-site wedding chapel.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Schloss Bad Neustadt within the original 1767 palace?",
+      "answer": "Most are — the majority of the hotel's 51 total rooms remain within the original Late Baroque palace. Twelve rooms added at the end of 2020 are in a separate new auxiliary building on the grounds."
+    },
+    {
+      "question": "Is the wedding chapel open to non-guests?",
+      "answer": "The on-site chapel is a popular venue for weddings and events; contact the property directly for booking a ceremony independent of an overnight stay."
+    },
+    {
+      "question": "What can I do near Schloss Bad Neustadt?",
+      "answer": "The palace sits directly beside Bad Neustadt's public spa gardens (Kurpark), and the wider Bavarian Rhön UNESCO Biosphere Reserve offers extensive hiking across its distinctive volcanic hill landscape."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schloss-bad-neustadt.webp",
+    "alt": "Schloss Bad Neustadt, a Late Baroque palace beside the spa gardens of Bad Neustadt an der Saale, Bavaria, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schloss-bad-neustadt.webp",
+  "instagram_tag": "#schlossbadneustadt",
+  "meta_title": "Schloss Bad Neustadt — A 1767 Baroque Palace by the Spa Gardens",
+  "meta_description": "Stay at Schloss Bad Neustadt in the Bavarian Rhön — a 1767 Late Baroque palace beside the town's spa gardens, with its own on-site wedding chapel.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "castle-hotel",
+    "baroque",
+    "rhon",
+    "spa-town"
+  ],
+  "last_updated": "2026-09-18",
+  "routes": [],
+  "nearby_castles": [
+    "wurzburg-residence"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schlosshotel Bad Neustadt",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schlosshotel-bad-neustadt&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschlosshotel-bad-neustadt.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D28172%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784741198%26srpvid%3Db20d7aa39a8b090a%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 139,
+    "currency": "EUR",
+    "room_count": 51,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gym", "gardens"],
+    "booking_paused": true,
+    "non_guest_access_note": "No confirmed public museum or ticketed tour product was found. The hotel sits directly by Bad Neustadt's public spa gardens (Kurpark), which are freely open to the town's visitors, though that's a town amenity rather than something specific to the castle.",
+    "how_to_stay": "**Getting there:** In Bad Neustadt an der Saale, Rhön region, Lower Franconia, Bavaria; about 40 minutes from Fulda and an hour from Würzburg by car.\n\n**Rooms & rates:** From approx. €139/night, with package \"arrangements\" quoted from around €158 (verify against live rate). Most of the 51 rooms are within the original 1767 Baroque palace; 12 rooms added in 2020 are in a separate new auxiliary building.\n\n**On-site:** Restaurant, wedding chapel, fitness area (some rooms have their own equipment).\n\n**Good to know:** Specify a room in the main 1767 palace building if sleeping in the historic structure is the priority — the 12 rooms added in 2020 are in a separate, newer building on the grounds. This Booking.com listing is temporarily not accepting reservations — contact the hotel directly in the meantime.\n\n**Combine with:** The Bavarian Rhön UNESCO Biosphere Reserve, known for hiking and its distinctive volcanic hill landscape.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-18"
+  }
+}

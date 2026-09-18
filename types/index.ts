@@ -42,6 +42,7 @@ export interface CastleHotel {
   how_to_stay?: string;
   price_unit?: 'night' | 'person' | 'property';
   max_guests?: number;
+  booking_paused?: boolean;
 }
 
 export interface Castle {

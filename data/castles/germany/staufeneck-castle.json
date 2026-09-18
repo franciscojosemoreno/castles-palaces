@@ -1,0 +1,90 @@
+{
+  "id": "staufeneck-castle",
+  "name": "Staufeneck Castle",
+  "local_name": "Burghotel Staufeneck",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Baden-Württemberg — Salach, Göppingen district",
+  "nearest_city": "Göppingen",
+  "address": "Burg 1, 73084 Salach, Germany",
+  "lat": 48.7280,
+  "lng": 9.7280,
+  "unesco": false,
+  "year_built": 1080,
+  "architectural_style": "Medieval spur castle ruin (founding date disputed, 1080 or 1240); new 5-star hotel built 2000–2001 within the preserved historic walls, moat and keep",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; both restaurants are separately open to non-resident diners",
+  "best_season": "Year-round",
+  "accessibility": "A hillside castle ruin with a new hotel built into the preserved historic walls; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A medieval ruin's moat, ring wall and keep survive intact — but the hotel inside them is entirely new construction, built in a single year in 2000-2001",
+  "highlights": [
+    "A castle ruin above Salach, its exact founding date disputed between sources (1080 or 1240), with the deep moat, ring wall, outer palace walls and round keep surviving from the original fortification",
+    "The current 5-star superior hotel was newly built in 2000–2001 within and against the preserved historic walls, using half-timbering to echo the old outer castle's appearance — this is substantially new construction integrated into a historic ruin, not original medieval room fabric, with a further expansion into a historic barn on the grounds",
+    "Home to two distinct restaurants: a gourmet fine-dining room with panoramic views and a more casual castle restaurant blending Swabian tradition with European and Asian influences",
+    "A modern wellness facility with a heated panoramic outdoor pool, panoramic sauna, and fitness room rounds out the 45 rooms and suites"
+  ],
+  "description": "Staufeneck is a spur castle ruin above the town of Salach in the Göppingen district of Baden-Württemberg, with sources disagreeing on whether it was founded in 1080 or as late as 1240. What survives from the original medieval fortification is substantial for a \"ruin\": a deep moat, the ring wall, the outer walls of the old palace, and an impressive round keep — enough to define the site's character even after centuries of decay. The castle has been put to hospitality use since 1927, making it one of the longer-running castle-hotel operations in this collection by that measure alone.\n\nThe hotel as it exists today, however, dates almost entirely to 2000–2001, when two entrepreneurial families acquired the complete castle complex and built a new 5-star hotel within a single year under architect Klaus Schurr, deliberately using half-timbered construction to bring the appearance of the old outer castle back to life against the preserved historic walls. A more recent expansion added a renovated and roof-extended historic barn to the building complex. The result is a genuine hybrid: guests are unmistakably inside the footprint and preserved defensive walls of a centuries-old ruin, but the rooms themselves are new-built rather than restored historic fabric — worth knowing plainly rather than assuming this is an unbroken medieval interior.\n\nThe disputed founding date itself reflects a common problem in medieval castle scholarship, where early records are sparse or ambiguous and later historians reconstruct dates from indirect evidence such as architectural style, family genealogies or first documentary mentions rather than a single definitive founding charter. Staufeneck's case, with a roughly 160-year span between the two proposed dates, illustrates just how much uncertainty can persist even for a well-studied regional fortification.\n\nThe one-year construction timeline for the 2000–2001 hotel building, remarkable for a project of this scale and historical sensitivity, reflects a deliberate and well-resourced restoration effort by the two founding families, who evidently prioritized speed alongside careful integration with the surviving medieval walls, moat and keep.\n\nThe castle's Swabian setting places it within a region known for its own distinct culinary and cultural traditions, reflected directly in the hotel's more casual restaurant, which blends Swabian dishes with European and Asian influences — a combination that gives Staufeneck's dining identity a more international register than the purely regional or French-influenced menus found at some other German castle-hotels.\n\nThe wellness facility's heated panoramic outdoor pool and sauna, both taking advantage of the castle's elevated spur position, give guests sweeping views over the surrounding countryside while bathing — a genuinely modern amenity integrated thoughtfully into the historic site's naturally dramatic setting.\n\nThe Göppingen district and wider Swabian Alb region surrounding Staufeneck are known for extensive hiking trails and distinctive karst geology, including numerous caves and unusual rock formations, giving guests staying at the castle a genuinely different landscape to explore compared to the river-valley settings of many other properties in this collection.\n\nStaufeneck's name itself connects it to the broader Staufer dynasty, one of medieval Germany's most significant royal and imperial houses, whose various branches and namesakes built numerous fortifications across Swabia and beyond during the 11th through 13th centuries — a naming convention shared by several unrelated castles and towns across the region.",
+  "history": "Staufeneck is a spur castle ruin above Salach in Baden-Württemberg, with its founding date disputed between 1080 and 1240. A deep moat, ring wall, outer palace walls and a round keep survive from the original fortification. The site has been used for hospitality since 1927, but the current 5-star hotel dates almost entirely to 2000–2001, when it was newly built within a single year against the preserved historic walls, using half-timbering to echo the old outer castle's appearance. A more recent expansion added a renovated historic barn to the complex.",
+  "faqs": [
+    {
+      "question": "Is the hotel at Staufeneck Castle inside original medieval rooms?",
+      "answer": "No — the hotel building was newly constructed in 2000–2001 within and against the castle's preserved historic walls, moat and keep. The rooms themselves are new-built rather than restored medieval interiors."
+    },
+    {
+      "question": "When was Staufeneck Castle founded?",
+      "answer": "Sources disagree — some date the founding to 1080, others to as late as 1240. The exact date remains disputed among historians."
+    },
+    {
+      "question": "Can I dine at Staufeneck Castle without staying overnight?",
+      "answer": "Yes — both the gourmet fine-dining restaurant and the more casual castle restaurant are open to non-resident diners by reservation."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/staufeneck-castle.webp",
+    "alt": "Staufeneck Castle ruin above Salach, Baden-Württemberg, Germany, with a new hotel built within the preserved medieval walls",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/staufeneck-castle.webp",
+  "instagram_tag": "#staufeneckcastle",
+  "meta_title": "Staufeneck Castle — A New Hotel Inside a Medieval Ruin",
+  "meta_description": "Stay at Staufeneck Castle near Göppingen — a medieval ruin's moat, ring wall and keep survive intact, with a new 5-star hotel built within the historic walls.",
+  "tags": [
+    "germany",
+    "baden-wurttemberg",
+    "castle-hotel",
+    "medieval",
+    "ruins",
+    "spa"
+  ],
+  "last_updated": "2026-09-18",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Burghotel Staufeneck",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=burg-staufeneck&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-staufeneck.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784740985%26srpvid%3D05727a38803e0038%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 249,
+    "currency": "EUR",
+    "room_count": 45,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa"],
+    "non_guest_access_note": "Both on-site restaurants (gourmet fine-dining and the more casual castle restaurant) are open to non-resident diners by reservation. No separate ticketed museum or day-visit product was found — the preserved ruin elements (moat, ring wall, keep) are part of the hotel grounds rather than a standing public attraction.",
+    "how_to_stay": "**Getting there:** In Salach, Göppingen district, Baden-Württemberg; about 35 minutes from Stuttgart and 15 minutes from Göppingen by car. No direct rail access to the castle itself.\n\n**Rooms & rates:** From approx. €249/night, with a wide range reported depending on room category and season (verify against live rate).\n\n**On-site:** Gourmet fine-dining restaurant, a second more casual castle restaurant, spa with heated panoramic outdoor pool and sauna, fitness room.\n\n**Good to know:** The hotel building is new construction (built 2000–2001) integrated into the castle's preserved historic walls, moat and keep — not original medieval interiors. A more recent expansion also converted a historic barn on the grounds into additional space.\n\n**Combine with:** The city of Göppingen and the wider Swabian Alb region, known for its hiking trails and geological sites.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-18"
+  }
+}

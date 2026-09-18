@@ -72,16 +72,27 @@ export default function HotelBookingCard({ hotel }: Props) {
           ))}
         </div>
       )}
-      <a
-        href={hotel.booking_url}
-        target="_blank"
-        rel="noopener noreferrer sponsored"
-        className="block w-full bg-[#1761a0] text-white text-sm font-semibold text-center py-2.5 rounded-md hover:bg-[#125489] transition-colors mb-2"
-      >
-        Book Your Stay →
-      </a>
+      {hotel.booking_paused ? (
+        <span
+          className="block w-full bg-stone-200 text-stone-500 text-sm font-semibold text-center py-2.5 rounded-md mb-2 cursor-not-allowed"
+          aria-disabled="true"
+        >
+          Booking Temporarily Unavailable
+        </span>
+      ) : (
+        <a
+          href={hotel.booking_url}
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          className="block w-full bg-[#1761a0] text-white text-sm font-semibold text-center py-2.5 rounded-md hover:bg-[#125489] transition-colors mb-2"
+        >
+          Book Your Stay →
+        </a>
+      )}
       <p className="text-xs text-stone-400 text-center">
-        Booked via Booking.com · Free cancellation on most rates
+        {hotel.booking_paused
+          ? 'This listing is temporarily not accepting reservations on Booking.com — check back soon'
+          : 'Booked via Booking.com · Free cancellation on most rates'}
       </p>
       {hotel.visitable_by_public && (
         <p className="text-xs text-stone-500 text-center mt-3 pt-3 border-t border-stone-100">

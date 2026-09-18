@@ -147,20 +147,29 @@ export default async function CastlePage({ params }: PageProps) {
             <div className="lg:hidden mb-8 flex items-center gap-3 bg-[#1761a0] rounded-lg px-4 py-4">
               <div className="flex-1 min-w-0">
                 <p className="text-white font-semibold text-sm leading-tight">
-                  {hotelOnly ? 'Stay in the castle itself' : 'Skip the queue with a guided tour'}
+                  {primaryCta.disabled ? 'Booking temporarily paused' : hotelOnly ? 'Stay in the castle itself' : 'Skip the queue with a guided tour'}
                 </p>
                 <p className="text-white/70 text-xs mt-0.5">
-                  {hotelOnly ? 'Book a room via Booking.com' : 'Skip-the-line tickets & expert guides'}
+                  {primaryCta.disabled ? 'Check back soon, or contact the property directly' : hotelOnly ? 'Book a room via Booking.com' : 'Skip-the-line tickets & expert guides'}
                 </p>
               </div>
-              <a
-                href={primaryCta.href}
-                target="_blank"
-                rel="noopener noreferrer sponsored"
-                className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-xs px-4 py-2.5 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
-              >
-                {hotelOnly ? 'Book Your Stay →' : 'See Tours →'}
-              </a>
+              {primaryCta.disabled ? (
+                <span
+                  className="flex-shrink-0 bg-stone-300 text-stone-500 font-bold text-xs px-4 py-2.5 rounded-lg whitespace-nowrap cursor-not-allowed"
+                  aria-disabled="true"
+                >
+                  Unavailable
+                </span>
+              ) : (
+                <a
+                  href={primaryCta.href}
+                  target="_blank"
+                  rel="noopener noreferrer sponsored"
+                  className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-xs px-4 py-2.5 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
+                >
+                  {hotelOnly ? 'Book Your Stay →' : 'See Tours →'}
+                </a>
+              )}
             </div>
 
             {/* Description */}
@@ -343,14 +352,23 @@ export default async function CastlePage({ params }: PageProps) {
             <p className="font-serif font-bold text-[#1761a0] text-base leading-none">Plan Your Visit</p>
           )}
         </div>
-        <a
-          href={primaryCta.href}
-          target="_blank"
-          rel="noopener noreferrer sponsored"
-          className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
-        >
-          {hotelOnly ? 'Book Your Stay →' : castle.gyg_featured_tours?.[0] ? 'Top Tour →' : 'See Tours →'}
-        </a>
+        {primaryCta.disabled ? (
+          <span
+            className="flex-shrink-0 bg-stone-300 text-stone-500 font-bold text-sm px-5 py-3 rounded-lg whitespace-nowrap cursor-not-allowed"
+            aria-disabled="true"
+          >
+            Unavailable
+          </span>
+        ) : (
+          <a
+            href={primaryCta.href}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
+          >
+            {hotelOnly ? 'Book Your Stay →' : castle.gyg_featured_tours?.[0] ? 'Top Tour →' : 'See Tours →'}
+          </a>
+        )}
       </div>
     </>
   );

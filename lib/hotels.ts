@@ -7,12 +7,15 @@ import { getGYGSearchUrl } from '@/lib/gyg';
  * Estado B (both visit + hotel) still resolves "Visit" here — the
  * separate HotelBookingCard carries the "Stay" CTA alongside it.
  */
-export function getPrimaryCta(castle: Castle): { label: string; href: string } {
+export function getPrimaryCta(castle: Castle): { label: string; href: string; disabled?: boolean } {
   const tour = castle.gyg_featured_tours?.[0];
   if (tour) {
     return { label: 'Get Tickets & Tours →', href: tour.booking_url_override ?? getGYGSearchUrl(castle.name) };
   }
   if (castle.hotel?.is_hotel) {
+    if (castle.hotel.booking_paused) {
+      return { label: 'Booking Temporarily Unavailable', href: castle.hotel.booking_url, disabled: true };
+    }
     return { label: 'Book Your Stay →', href: castle.hotel.booking_url };
   }
   return { label: 'See Tours →', href: getGYGSearchUrl(castle.name) };
