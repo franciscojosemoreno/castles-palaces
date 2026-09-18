@@ -1,0 +1,89 @@
+{
+  "id": "beuggen-castle",
+  "name": "Beuggen Castle",
+  "local_name": "Schloss Beuggen",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Baden-Württemberg — Rheinfelden (Baden), near the Swiss border",
+  "nearest_city": "Basel (Switzerland)",
+  "address": "Schloss Beuggen 2, 79618 Rheinfelden, Germany",
+  "lat": 47.5680,
+  "lng": 7.7930,
+  "unesco": false,
+  "year_built": 1248,
+  "architectural_style": "Former Teutonic Order commandery; core buildings from the 13th century (Stork Tower, c. 1260); reopened as a hotel in 2017 after 160 years as a children's home",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the castle church is freely open to the public with prayers held twice daily",
+  "best_season": "Year-round",
+  "accessibility": "A former moated commandery on the Rhine, viewable mainly by arranged tour; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The oldest surviving Teutonic Order commandery in Germany — a religious-military seat for 500 years, a children's home for 160 more, now a hotel since 2017",
+  "highlights": [
+    "A former moated water castle east of Rheinfelden that served as the seat of the Teutonic Order in the Bailiwick of Swabia-Alsace-Burgundy for over 500 years (from 1248) — the oldest surviving commandery of this knightly order",
+    "Rooms are split between the historic Haupthaus (the \"Altes Schloss\" and \"Neues Schloss\" buildings) and a separate Gästehaus, a converted former cow and horse stable",
+    "The Stork Tower (Storchenturm), dating to around 1260, is one of the complex's oldest surviving structures, historically used as a nesting site for storks",
+    "The castle church is freely open to the public with services held twice daily; the rest of the site functioned as a children's home from 1820 to 1980 before its 2017 reopening as a hotel"
+  ],
+  "description": "Schloss Beuggen is a former moated water castle east of Rheinfelden that served for more than 500 years, from 1248, as the seat of the Teutonic Order (Deutscher Orden) in the Bailiwick of Swabia-Alsace-Burgundy — making it the oldest surviving commandery of this medieval knightly order anywhere. Its oldest surviving structure, the Stork Tower, dates to around 1260, and the complex's semicircular layout, combining castle and castle church, still reflects its centuries-long role as a religious-military administrative seat on the Upper Rhine.\n\nAfter the commandery was dissolved in 1806, the castle served briefly as a military hospital during the Napoleonic wars before beginning a very different chapter in 1820: 160 years as a children's home, which continued until 1980. Following extensive restoration, the property reopened in spring 2017 as a hotel and restaurant, with rooms split between the historic Haupthaus — the \"Altes Schloss\" and \"Neues Schloss\" buildings — and a separate Gästehaus converted from what was historically a cow and horse stable. The castle church remains a living place of worship today, with the resident Beuggen community holding prayers there twice daily and welcoming the public to attend.\n\nThe Teutonic Order's presence at Beuggen for over five centuries places the site within a broader history of military-religious orders that emerged from the Crusades and went on to establish substantial territorial and administrative holdings across medieval and early modern Central Europe, considerably beyond the order's better-known Baltic territories. Beuggen's role specifically within the Bailiwick of Swabia-Alsace-Burgundy made it an important regional administrative centre for the order's activities along the Upper Rhine.\n\nThe 1806 dissolution of the commandery, part of the broader secularization sweeping the Holy Roman Empire's ecclesiastical territories during the Napoleonic period, ended the order's five-century tenure and opened the site to the very different institutional uses that followed — first military, then charitable and educational, before its eventual conversion to hospitality.\n\nBeuggen's 160 years as a children's home, from 1820 to 1980, represents one of the longer and more socially significant institutional chapters found among the properties in this collection, giving the site a genuinely charitable and educational history layered on top of its earlier religious-military role, well before its recent tourism-oriented reinvention.\n\nThe castle's location directly on the Rhine near the Swiss border places Beuggen within easy reach of Basel, giving guests an unusual trinational proximity — Germany, Switzerland and France all meet within a short drive of the property — distinct from the more purely German regional settings of most other castle-hotels in this collection.\n\nThe Stork Tower's historic use as a stork nesting site connects Beuggen to a broader Central European tradition of storks nesting on tall structures near wetlands and rivers, a practice once considered a sign of good fortune for the buildings they chose, and one that reflects the Rhine floodplain's historic ecological character in this stretch of the river.\n\nThe resident Beuggen community's continued use of the castle church for twice-daily prayer gives the site a genuinely living religious dimension unusual among the castle-hotels in this collection, most of which have moved entirely into secular hospitality use — Beuggen instead maintains an active, small faith community alongside its hotel operation, open to public participation rather than functioning purely as a historical curiosity.",
+  "history": "Schloss Beuggen served for more than 500 years, from 1248, as the seat of the Teutonic Order in the Bailiwick of Swabia-Alsace-Burgundy — the oldest surviving commandery of the order anywhere. After its 1806 dissolution, the site served briefly as a military hospital before beginning 160 years as a children's home, from 1820 to 1980. Following restoration, the property reopened in 2017 as a hotel, with rooms split between the historic Haupthaus and a separate Gästehaus converted from a former stable. The castle church remains a living place of worship, with prayers held twice daily.",
+  "faqs": [
+    {
+      "question": "Can I visit Beuggen Castle without staying overnight?",
+      "answer": "The castle church (Schlosskirche) is freely open to the public, with prayers held twice daily by the resident Beuggen community. The rest of the historic complex, including the Stork Tower, can only be viewed by arranged private or group tour."
+    },
+    {
+      "question": "What was Beuggen Castle used for before it became a hotel?",
+      "answer": "It served as a Teutonic Order commandery for over 500 years (from 1248), then briefly as a military hospital after 1806, and then as a children's home from 1820 to 1980, before reopening as a hotel in 2017."
+    },
+    {
+      "question": "Are all the hotel rooms within the historic castle buildings?",
+      "answer": "Most rooms are in the historic Haupthaus (the \"Altes Schloss\" and \"Neues Schloss\" buildings), but some are in a separate Gästehaus converted from what was historically a cow and horse stable."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/beuggen-castle.webp",
+    "alt": "Beuggen Castle (Schloss Beuggen), a former Teutonic Order commandery on the Rhine near Rheinfelden, Baden-Württemberg, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/beuggen-castle.webp",
+  "instagram_tag": "#beuggencastle",
+  "meta_title": "Beuggen Castle — Germany's Oldest Teutonic Order Commandery",
+  "meta_description": "Stay at Beuggen Castle on the Rhine near Basel — the oldest surviving Teutonic Order commandery in Germany, a hotel since 2017 after 500+ years of history.",
+  "tags": [
+    "germany",
+    "baden-wurttemberg",
+    "castle-hotel",
+    "medieval",
+    "teutonic-order",
+    "rhine"
+  ],
+  "last_updated": "2026-09-18",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schlosshotel Beuggen",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=schlosshotel-beuggen&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fgastehaus-schlosshotel-beuggen.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D2791003%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784740808%26srpvid%3D599f79e17f8700aa%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 179,
+    "currency": "EUR",
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "The castle church (Schlosskirche) is freely open to the public, with prayers held twice daily by the resident Beuggen community. The rest of the historic complex, including the Stork Tower, can only be viewed by arranged private or group tour.",
+    "how_to_stay": "**Getting there:** East of Rheinfelden (Baden), Baden-Württemberg, directly on the Rhine near the Swiss border; about 20 minutes from Basel (Switzerland) and 45 minutes from Freiburg im Breisgau by car.\n\n**Rooms & rates:** From approx. €179/night for a double room in the historic Haupthaus (single rooms from €109); some rooms are in a separate Gästehaus converted from the estate's former stable (verify against live rate).\n\n**On-site:** Restaurant, gardens, castle church (Schlosskirche), Rhine-facing grounds.\n\n**Good to know:** Specify the Haupthaus when booking if sleeping in the historic \"Altes Schloss\" or \"Neues Schloss\" buildings is the priority — the Gästehaus is a genuine part of the estate but a converted 19th-century stable rather than the medieval commandery core. The castle church is open to all, with services twice daily.\n\n**Combine with:** The Swiss city of Basel, a short drive or tram ride away, and the Badische Weinstraße (Baden Wine Route) running through the region.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-18"
+  }
+}

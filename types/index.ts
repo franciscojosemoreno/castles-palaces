@@ -40,7 +40,8 @@ export interface CastleHotel {
   amenities?: string[];
   non_guest_access_note?: string;
   how_to_stay?: string;
-  price_unit?: 'night' | 'person';
+  price_unit?: 'night' | 'person' | 'property';
+  max_guests?: number;
 }
 
 export interface Castle {

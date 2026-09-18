@@ -315,12 +315,16 @@ export default async function CastlePage({ params }: PageProps) {
             </>
           ) : hotelOnly ? (
             <>
-              <p className="text-xs text-stone-500 leading-none mb-0.5">Rooms from</p>
+              <p className="text-xs text-stone-500 leading-none mb-0.5">
+                {castle.hotel!.price_unit === 'property' ? 'Whole property from' : 'Rooms from'}
+              </p>
               <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
                 {castle.hotel!.price_from_night != null ? (
                   <>
                     {getCurrencySymbol(castle.hotel!.currency)}{castle.hotel!.price_from_night}
-                    <span className="text-stone-400 font-normal text-xs ml-1">/ night</span>
+                    <span className="text-stone-400 font-normal text-xs ml-1">
+                      / {castle.hotel!.price_unit === 'person' ? 'person' : 'night'}
+                    </span>
                   </>
                 ) : 'Check rates'}
               </p>

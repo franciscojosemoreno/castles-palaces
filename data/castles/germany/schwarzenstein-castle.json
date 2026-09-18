@@ -1,0 +1,90 @@
+{
+  "id": "schwarzenstein-castle",
+  "name": "Schwarzenstein Castle",
+  "local_name": "Hotel Burg Schwarzenstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Hesse — Geisenheim (Johannisberg), Rheingau",
+  "nearest_city": "Rüdesheim am Rhein",
+  "address": "Rosengasse 32, 65366 Geisenheim, Germany",
+  "lat": 49.9840,
+  "lng": 7.9550,
+  "unesco": false,
+  "year_built": 1873,
+  "architectural_style": "Built 1873 by banker Peter Arnold Mumm at the highest point of Johannisberg; substantially restored and reopened in 2004",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant and terrace are separately open to non-resident diners",
+  "best_season": "Year-round; best views during the Rheingau grape harvest in autumn",
+  "accessibility": "A hillside estate spread across three separate buildings; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Built in 1873 by a Rheingau winemaking banker at the highest point of Johannisberg — but of 51 rooms, only 7 are within the historic castle itself",
+  "highlights": [
+    "A Relais & Châteaux hotel at the highest point of Johannisberg in the Rheingau, with views said to stretch up to 50km across the Rhine valley on clear days",
+    "Of 51 total rooms and suites, only 7 romantic double rooms are within the 1873 castle building itself — 40 rooms are in the separate \"Park Residence\" and 4 more in a guest house. Most guests do not sleep inside the historic structure",
+    "Built in 1873 by Peter Arnold Mumm, of the Rheingau winemaking and sparkling-wine dynasty, as a personal statement piece; substantially restored and reopened in 2004",
+    "Set within a Mediterranean-style park at 225 metres elevation, in the heart of Germany's Riesling country"
+  ],
+  "description": "Burg Schwarzenstein was built in 1873 by Peter Arnold Mumm, a banker from the Rheingau's prominent Mumm winemaking and sparkling-wine family, who chose the highest point of the Johannisberg hillside for a residence that would announce his dynasty's standing across the valley. The building stood through more than a century of varied use and periods of decline before a substantial restoration, completed in 2004, revived it as a hotel — since positioned within the Relais & Châteaux network of independently owned luxury properties.\n\nIt's worth being precise about where guests actually sleep at Schwarzenstein: of the 51 total rooms and suites, only 7 double rooms sit within the original 1873 castle building. The remaining 44 rooms are split between the \"Park Residence,\" a separate elegant building furnished with dark wenge wood and silk fabrics, and a smaller guest house elsewhere in the park. Guests specifically seeking the historic castle experience should request one of the 7 castle rooms directly, understanding that availability there is far more limited than in the newer buildings that now make up the bulk of the property.\n\nThe Mumm family name carries considerable weight in German and international wine history, associated with both Rheingau Riesling production and the Mumm sparkling-wine house whose champagne-method products became internationally recognized. Peter Arnold Mumm's decision to build at the very summit of Johannisberg, rather than lower on the hillside where many of the region's other wine estates sit, reflects a deliberate statement of prominence within this dynastic wine-trade context.\n\nThe 50-kilometre views claimed from the property's elevated position, when weather permits, place Schwarzenstein among the more dramatically sited castle-hotels in this collection, looking out over one of Germany's most concentrated and historically significant wine-growing landscapes rather than a river gorge or forested valley.\n\nThe Rheingau region surrounding Schwarzenstein is widely regarded as one of Germany's most prestigious Riesling-producing areas, its south-facing slopes along the Rhine's northern bank benefiting from favorable sun exposure and centuries of accumulated viticultural expertise. Guests staying at Schwarzenstein are positioned within easy reach of numerous historic wine estates, tasting rooms and vineyard walks throughout the surrounding hillsides.\n\nThe three-building layout at Schwarzenstein — historic castle, Park Residence, guest house — reflects a now-familiar pattern among this collection's larger historic estates, where later-built ancillary structures have come to house the majority of guest rooms as the property expanded well beyond what the original 19th-century building alone could accommodate.\n\nRüdesheim am Rhein, a short drive from Schwarzenstein, is one of the Rheingau's best-known wine towns, its historic Drosselgasse lane and the hillside Niederwald Monument giving guests staying at the castle an easy and popular day-trip destination combining wine tourism with 19th-century German nationalist monument architecture.\n\nThe Relais & Châteaux designation places Schwarzenstein within an international network of independently owned luxury properties selected specifically for regional character and individual identity rather than chain-hotel uniformity, a positioning that aligns naturally with the castle's own dynastic wine-family origins and its deliberately dramatic hilltop siting above one of Germany's most storied wine landscapes.",
+  "history": "Burg Schwarzenstein was built in 1873 by Peter Arnold Mumm, a banker from the Rheingau's prominent Mumm winemaking and sparkling-wine family, at the highest point of the Johannisberg hillside. After more than a century of varied use, a substantial restoration completed in 2004 revived the property as a Relais & Châteaux hotel. Of the 51 total rooms and suites, only 7 double rooms are within the original 1873 castle building — the remaining 44 rooms are split between a separate \"Park Residence\" and a smaller guest house elsewhere in the estate's park.",
+  "faqs": [
+    {
+      "question": "Are most rooms at Schwarzenstein Castle inside the historic building?",
+      "answer": "No — only 7 of the 51 total rooms and suites are within the original 1873 castle building. The remaining 44 rooms are split between the separate \"Park Residence\" and a smaller guest house elsewhere in the estate."
+    },
+    {
+      "question": "Who built Burg Schwarzenstein and why?",
+      "answer": "It was built in 1873 by Peter Arnold Mumm, a banker from the Rheingau's prominent Mumm winemaking and sparkling-wine family, who chose the highest point of Johannisberg for a residence that would announce his family's standing across the valley."
+    },
+    {
+      "question": "Can I dine at Schwarzenstein Castle without staying overnight?",
+      "answer": "Yes — the restaurant and panoramic terrace are open to non-resident diners by reservation, though the grounds are not a standing, ticketed public attraction."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schwarzenstein-castle.webp",
+    "alt": "Schwarzenstein Castle (Burg Schwarzenstein) at the summit of Johannisberg in the Rheingau, Hesse, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schwarzenstein-castle.webp",
+  "instagram_tag": "#schwarzensteincastle",
+  "meta_title": "Schwarzenstein Castle — A Relais & Châteaux Hotel in the Rheingau",
+  "meta_description": "Stay at Schwarzenstein Castle atop Johannisberg in the Rheingau — built in 1873 by the Mumm winemaking family, with sweeping views over Germany's Riesling country.",
+  "tags": [
+    "germany",
+    "hesse",
+    "castle-hotel",
+    "rheingau",
+    "wine",
+    "relais-chateaux"
+  ],
+  "last_updated": "2026-09-18",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Burg Schwarzenstein",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=burg-schwarzenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Frelais-amp-chateaux-burg-schwarzenstein.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1048488%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784740293%26srpvid%3D612178e0674503e0%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 229,
+    "currency": "EUR",
+    "room_count": 51,
+    "room_location": "annex",
+    "amenities": ["restaurant", "spa", "gardens"],
+    "non_guest_access_note": "No confirmed public museum or ticketed day-visit product — the restaurant and terrace are open to non-resident diners by reservation, but the grounds are not a standing public attraction the way some other Rheingau sites are.",
+    "how_to_stay": "**Getting there:** In Geisenheim (Johannisberg district), Rheingau, Hesse; about 15 minutes from Rüdesheim am Rhein and roughly an hour from Frankfurt Airport (FRA) by car. No direct rail access to the property.\n\n**Rooms & rates:** From approx. €229/night, with a wide range reported (roughly €150–300+) depending heavily on which building and room category — verify against live rate.\n\n**On-site:** Restaurant, spa, panoramic terrace, Mediterranean-style gardens.\n\n**Good to know:** Only 7 of the 51 rooms are within the historic 1873 castle building — the rest are in the separate Park Residence and guest house. Specify a castle room explicitly if sleeping inside the original structure is the priority, and expect a price premium and limited availability for it.\n\n**Combine with:** Rüdesheim am Rhein's old town and the Niederwald Monument, and the wider Rheingau wine region.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-18"
+  }
+}

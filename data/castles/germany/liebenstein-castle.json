@@ -1,0 +1,93 @@
+{
+  "id": "liebenstein-castle",
+  "name": "Liebenstein Castle",
+  "local_name": "Burg Liebenstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Rhineland-Palatinate — Kamp-Bornhofen, Rhine Gorge (UNESCO)",
+  "nearest_city": "Boppard",
+  "address": "Burg Liebenstein, 56341 Kamp-Bornhofen, Germany",
+  "lat": 50.2210,
+  "lng": 7.6260,
+  "unesco": true,
+  "year_built": 1284,
+  "architectural_style": "Residential tower (Wohnturm) built from 1284, expanded in the 14th century with a second tower, ring wall and gatehouse",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the castle courtyard is freely open to the public and the Rheinsteig trail runs directly through it",
+  "best_season": "Easter to November for the restaurant terrace; year-round for hiking the courtyard and Rheinsteig",
+  "accessibility": "A hilltop medieval tower with a defensive neck ditch and courtyard; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "One of the \"Hostile Brothers\" of Rhine Romantic legend — its historic tower now a hotel, its courtyard freely open with Germany's famous Rheinsteig trail running straight through it",
+  "highlights": [
+    "Built from 1284 as a residential tower (Wohnturm) on a 12-metre rock outcrop, expanded in the 14th century with a second tower, ring wall and gatehouse with a 20-metre-deep neck ditch",
+    "Paired across a narrow valley with Burg Sterrenberg (not a hotel) as \"Die Feindlichen Brüder\" — the \"Hostile Brothers\" — a Rhine Romantic-era legend that inspired a Heinrich Heine poem; historians note no armed conflict between the two ever actually took place",
+    "The castle courtyard is freely open to the public, with the Rheinsteig hiking trail running directly through it — a genuine, no-ticket day-visitor draw independent of the hotel",
+    "The hotel and restaurant occupy the historic residential tower itself, serving traditional Rhineland dishes in a \"Knights' Hall\" and a cosier \"Farmers' Parlour\""
+  ],
+  "description": "Liebenstein Castle rises on a 12-metre rock outcrop above Kamp-Bornhofen in the UNESCO-listed Upper Middle Rhine Valley, its oldest surviving section a residential tower built from 1284. The castle was expanded through the 14th century with a second tower, a ring wall, and a gatehouse protected by a 20-metre-deep neck ditch, and by 1340 functioned as a Ganerbenburg — a castle jointly inhabited by several branches of a noble family following an inheritance division.\n\nLiebenstein's best-known feature is not architectural but legendary: standing directly across a narrow valley from Burg Sterrenberg, the two castles are known together as \"Die Feindlichen Brüder,\" the Hostile Brothers, a story of sibling rivalry so entrenched that Sterrenberg's owners built a defensive wall specifically against their neighbours at Liebenstein. The tale — retold by Heinrich Heine in verse, and popularised further through 19th-century Rhine Romanticism — has no confirmed historical armed conflict behind it, but it remains one of the most recognisable castle legends on this stretch of the Rhine. Today, following extensive renovation beginning in 1977, the historic tower houses a hotel and restaurant, while the castle courtyard itself remains freely open to hikers on the Rheinsteig trail passing directly through the site.\n\nThe Ganerbenburg arrangement Liebenstein followed from the 14th century — multiple related noble households sharing a single fortified complex — was a distinctive feature of medieval German inheritance practice, where partible succession among sons could leave a castle jointly held rather than passing intact to a single heir. This arrangement often produced exactly the kind of internal family tension later mythologised in the Hostile Brothers legend, even if the specific dramatic conflict Heine described was itself a literary embellishment rather than documented history.\n\nBurg Sterrenberg, Liebenstein's legendary rival across the valley, remains an unoccupied ruin today and is not part of this hotel collection — visitors should not confuse the two similarly named, adjacent castles when planning a visit, since only Liebenstein offers overnight accommodation.\n\nThe Rheinsteig, one of Germany's best-known long-distance hiking trails, runs for roughly 320 kilometres along the Rhine's right bank between Wiesbaden and Bonn, and its route directly through Liebenstein's courtyard gives the castle a genuine, heavily used hiking waypoint status independent of its hotel operation — hikers pass through daily regardless of the property's overnight occupancy.\n\nHeinrich Heine's own literary treatment of the Hostile Brothers legend, in his early collection Buch der Lieder (Book of Songs), reflects the broader 19th-century Rhine Romantic movement's fascination with the river's castles as settings for tales of doomed love, family conflict and medieval chivalry — a cultural moment that shaped much of the popular imagination around the Rhine Gorge's castles still current today.\n\nThe historic tower's conversion into a hotel and restaurant, split between the atmospheric \"Knights' Hall\" and the more intimate \"Farmers' Parlour\" dining rooms, gives guests a genuinely varied dining setting within a single historic structure, reflecting the tower's original defensive verticality repurposed for contemporary hospitality use.",
+  "history": "Liebenstein Castle was built from 1284 as a residential tower on a rock outcrop above Kamp-Bornhofen, in the UNESCO-listed Upper Middle Rhine Valley, expanded in the 14th century with a second tower, ring wall and gatehouse. Standing across a narrow valley from Burg Sterrenberg, the two castles are known together as \"Die Feindlichen Brüder\" (the Hostile Brothers), a legend retold by Heinrich Heine, though no historical armed conflict between them is confirmed. Following renovation beginning in 1977, the historic tower now houses a hotel and restaurant, while the castle courtyard remains freely open to the public, with the Rheinsteig hiking trail running directly through it.",
+  "faqs": [
+    {
+      "question": "What is the \"Hostile Brothers\" legend associated with Liebenstein Castle?",
+      "answer": "Liebenstein and the neighbouring Burg Sterrenberg, standing across a narrow valley from each other, are known together as \"Die Feindlichen Brüder\" — a Rhine Romantic-era legend of sibling rivalry retold by Heinrich Heine in verse. Historians note no confirmed historical armed conflict actually took place between the two castles."
+    },
+    {
+      "question": "Is Burg Sterrenberg also a hotel?",
+      "answer": "No. Burg Sterrenberg, Liebenstein's legendary rival across the valley, remains an unoccupied ruin and is not a hotel or part of this collection. Only Liebenstein offers overnight accommodation."
+    },
+    {
+      "question": "Can I visit Liebenstein Castle without staying overnight?",
+      "answer": "Yes — the castle courtyard is freely open to the public, with the Rheinsteig long-distance hiking trail running directly through it. The restaurant terrace is also open to non-resident diners, Easter through November (closed Mondays)."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/liebenstein-castle.webp",
+    "alt": "Liebenstein Castle above Kamp-Bornhofen in the Rhine Gorge, Rhineland-Palatinate, Germany, one of the \"Hostile Brothers\" castles",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/liebenstein-castle.webp",
+  "instagram_tag": "#liebensteincastle",
+  "meta_title": "Liebenstein Castle — One of the Rhine's \"Hostile Brothers\"",
+  "meta_description": "Stay at Liebenstein Castle in the Rhine Gorge — one of the legendary \"Hostile Brothers\" castles, with a free public courtyard on the Rheinsteig trail.",
+  "tags": [
+    "germany",
+    "rhineland-palatinate",
+    "castle-hotel",
+    "medieval",
+    "unesco-world-heritage",
+    "rhine",
+    "hiking"
+  ],
+  "last_updated": "2026-09-18",
+  "routes": [],
+  "nearby_castles": [
+    "marksburg-castle",
+    "stolzenfels-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Burg Liebenstein",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=burg-liebenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-liebenstein-kamp-bornhofen1.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D15452217%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784740390%26srpvid%3Dbdcc7910674704c8%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 108,
+    "currency": "EUR",
+    "room_location": "castle",
+    "amenities": ["restaurant", "estate_walks"],
+    "non_guest_access_note": "The castle courtyard (Burghof) is freely open to the public — the Rheinsteig, one of Germany's best-known long-distance hiking trails, runs directly through it. The restaurant terrace (Easter–November, closed Mondays) is open to non-resident diners.",
+    "how_to_stay": "**Getting there:** In Kamp-Bornhofen, Rhine Gorge, Rhineland-Palatinate, between Koblenz and Bingen. No direct rail station in the village; nearest connections are in St. Goar or Boppard, a short drive or taxi away.\n\n**Rooms & rates:** From approx. €108/night, ranging up to roughly €255 for larger rooms with Rhine views (verify against live rate). Rooms are within the historic residential tower itself.\n\n**On-site:** Restaurant (Knights' Hall and Farmers' Parlour dining rooms), terrace with Rhine valley views, open Easter through November (closed Mondays).\n\n**Good to know:** The castle courtyard is a genuine free public space — the Rheinsteig trail runs directly through it, so expect day hikers passing through even as an overnight guest. Don't confuse this with neighbouring Burg Sterrenberg across the valley, which shares the \"Hostile Brothers\" legend but is not a hotel.\n\n**Combine with:** The town of Boppard and the Loreley rock, both within easy reach along the Rhine Gorge.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-18"
+  }
+}
