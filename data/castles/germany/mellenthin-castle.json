@@ -1,0 +1,90 @@
+{
+  "id": "mellenthin-castle",
+  "name": "Mellenthin Castle",
+  "local_name": "Hotel Wasserschloss Mellenthin",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Mecklenburg-Vorpommern — Mellenthin, island of Usedom, Baltic Sea",
+  "nearest_city": "Heringsdorf",
+  "address": "Schlossstraße 24, 17419 Mellenthin, Germany",
+  "lat": 53.9420,
+  "lng": 14.1380,
+  "unesco": false,
+  "year_built": 1575,
+  "architectural_style": "Renaissance moated water castle (Wasserschloss), built 1575–1580 for Rüdiger von Nienkerken",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the castle brewery, distillery and shop are open to day visitors",
+  "best_season": "Year-round; Baltic beach season runs May to September",
+  "accessibility": "A Renaissance moated water castle with a public brewery/shop wing; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "One of Pomerania's best-preserved Renaissance water castles — with its own working brewery and distillery inside the historic vaults, open to anyone, not just guests",
+  "highlights": [
+    "Renaissance water castle (Wasserschloss) built between 1575–1580, one of the best-preserved in Pomerania",
+    "The name \"Mellenthin\" comes from Slavic and means \"middle point\"",
+    "Own brewery and distillery within the historic vaults of the right wing, plus a castle shop",
+    "On the island of Usedom, near the Baltic beaches and the Balmer See lake"
+  ],
+  "description": "Schloss Mellenthin was built between 1575 and 1580 for Rüdiger von Nienkerken, at the height of the Renaissance, and its ownership changed hands repeatedly over the following centuries. After the Second World War the castle was expropriated, and the municipality of Mellenthin put the building complex to communal use — housing at various times a kindergarten, apartments and a local history museum.\n\nIn 2001 the water castle was privatized and passed into the hands of the Fidora family, who converted it into a hotel with its own gastronomy. Today the 16th-century Renaissance castle houses a wellness hotel in its left wing, while the venerable vaults of the right wing hold the castle's own brewery and distillery along with the castle shop — giving Mellenthin a working, lived-in character alongside its role as a quiet Baltic-island retreat on the island of Usedom.\n\nThe castle's Slavic-derived name, meaning \"middle point,\" reflects the region's layered settlement history, where Slavic place names persist across much of eastern Germany despite centuries of subsequent German settlement and administration — a naming pattern shared by numerous towns and villages across Mecklenburg-Vorpommern and Brandenburg.\n\nThe post-war expropriation and subsequent communal use of the castle — as kindergarten, apartments and local history museum — reflects the common fate of many aristocratic residences in the Soviet occupation zone and later East Germany, where private ownership of large historic estates was systematically ended in favor of state or municipal control.\n\nThe 2001 privatization and the Fidora family's subsequent conversion into a hotel with its own brewery and distillery represents a particularly hands-on approach to castle-hotel development, building a genuine artisanal food-and-drink identity directly into the historic vaults rather than relying solely on a conventional restaurant.\n\nUsedom, the Baltic island on which Mellenthin sits, is known for its grand 19th-century seaside resort architecture in towns like Ahlbeck, Heringsdorf and Bansin, along with extensive sandy beaches — giving guests staying at the inland-set castle an easy pairing between historic water-castle architecture and classic Baltic beach-resort culture.\n\nThe right wing's public-facing brewery, distillery and shop give Mellenthin a genuinely dual identity: a quiet hotel for overnight guests on one side, and a working artisanal food producer drawing its own day-visitor traffic on the other, independent of anyone actually staying at the castle.\n\nThe castle's moated Renaissance form, built for a single noble family rather than as a religious or military administrative seat, exemplifies the more residentially oriented branch of German water-castle architecture, distinct from the fortified commanderies and toll castles found among some of the other Wasserschlösser covered elsewhere in this collection.",
+  "history": "Schloss Mellenthin was built between 1575 and 1580 for Rüdiger von Nienkerken. After the Second World War it was expropriated and put to communal use as a kindergarten, apartments and a local history museum. In 2001 the castle was privatized and converted into a hotel by the Fidora family. Today the left wing houses a wellness hotel, while the right wing's historic vaults hold the castle's own brewery and distillery, along with a castle shop, on the Baltic island of Usedom.",
+  "faqs": [
+    {
+      "question": "Can I visit the brewery and shop at Mellenthin Castle without staying overnight?",
+      "answer": "Yes — the castle's own brewery and distillery, housed in the historic vaults of the right wing, along with the castle shop, are open to the general public, not just hotel guests."
+    },
+    {
+      "question": "Are the hotel rooms within the historic Renaissance castle building?",
+      "answer": "Yes — the 68 rooms and suites occupy the left wing of the original 16th-century Renaissance castle complex; there is no separate modern annex."
+    },
+    {
+      "question": "What does the name \"Mellenthin\" mean?",
+      "answer": "It comes from Slavic and means \"middle point,\" reflecting the region's layered Slavic and German settlement history."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mellenthin-castle.webp",
+    "alt": "Mellenthin Castle (Wasserschloss Mellenthin), a Renaissance water castle on the island of Usedom, Mecklenburg-Vorpommern, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mellenthin-castle.webp",
+  "instagram_tag": "#mellenthincastle",
+  "meta_title": "Mellenthin Castle — A Renaissance Water Castle on Usedom",
+  "meta_description": "Stay at Mellenthin Castle on the island of Usedom — a Renaissance water castle built 1575-1580, with its own brewery and distillery in the historic vaults.",
+  "tags": [
+    "germany",
+    "mecklenburg-vorpommern",
+    "castle-hotel",
+    "wasserschloss",
+    "usedom",
+    "baltic-sea"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Hotel Wasserschloss Mellenthin",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=wasserschloss-mellenthin&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fhotel-wasserschloss-mellenthin.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D28610%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784742093%26srpvid%3D32f77c649a3d1ea4%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 93,
+    "currency": "EUR",
+    "room_count": 68,
+    "room_location": "castle",
+    "amenities": ["restaurant", "spa"],
+    "non_guest_access_note": "The right wing of the castle (historic vaults) houses the castle's own brewery/distillery and the castle shop, both open to the general public, not just hotel guests.",
+    "how_to_stay": "**Getting there:** About 30–40 minutes by car from Heringsdorf/Usedom airport or from the Usedom rail line (nearest station Ahlbeck or Bansin, then taxi); roughly 1h45 from Stettin (Szczecin), Poland.\n\n**Rooms & rates:** 68 individually designed rooms and suites in the left wing of the castle, including family rooms for up to four and self-catering apartments with kitchenettes. From €93/night.\n\n**On-site:** Wellness/spa area, castle restaurant, own brewery and distillery in the historic vaults, castle shop, family-friendly rooms.\n\n**Good to know:** The brewery, distillery and shop in the right wing are open to day visitors as well as hotel guests, so the castle has a genuine public-facing side beyond the hotel itself.\n\n**Combine with:** Usedom's Baltic beach resorts (Ahlbeck, Heringsdorf, Bansin) and their historic pier architecture are a short drive away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}

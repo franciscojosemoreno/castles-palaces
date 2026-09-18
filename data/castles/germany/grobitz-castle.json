@@ -1,0 +1,91 @@
+{
+  "id": "grobitz-castle",
+  "name": "Gröbitz Castle",
+  "local_name": "Schloss Gröbitz",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 16,
+  "country": "germany",
+  "region": "Saxony-Anhalt — Gröbitz (Teuchern municipality), Burgenlandkreis, Saale-Unstrut region",
+  "nearest_city": "Naumburg",
+  "address": "Schlossstraße 1, 06682 Teuchern, Germany",
+  "lat": 51.1500,
+  "lng": 12.0200,
+  "unesco": false,
+  "year_built": 1750,
+  "architectural_style": "Former Rittergut (manorial estate); irregular main building with a projecting stair tower",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; the outdoor pool operates seasonally",
+  "accessibility": "A small former manorial estate with apartments on the second floor, reached via a historic tower staircase; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A working Saale-Unstrut manor estate, carefully restored with traditional lime and chalk plaster — a small, quiet self-catering alternative to the region's larger castle hotels",
+  "highlights": [
+    "Former Rittergut (manorial estate) in the Saale-Unstrut wine region, southern Saxony-Anhalt",
+    "Irregularly planned main building with a distinctive stair tower and historic vaulted entrance hall",
+    "Recent renovation using traditional lime and chalk-based materials, preserving original architectural details",
+    "Seasonal outdoor pool, shared garden and barbecue area"
+  ],
+  "description": "Schloss Gröbitz began life as a Rittergut, a knight's or manorial estate, on the fringes of the Saale-Unstrut wine region in southern Saxony-Anhalt. The irregular main building, with its projecting stair tower and small surrounding park, reflects the practical, working character typical of the region's smaller manor houses rather than a grand princely residence.\n\nThe current owners have invested significant effort in careful restoration, using traditional lime and chalk-based materials during renovation to preserve original architectural details and give each room its own individual character. Today the second floor of the Schloss is reached through a vaulted reception hall and a spiral staircase set into the tower, opening onto a small collection of self-catering apartments — a quiet, low-key alternative to the region's larger castle hotels.\n\nThe Rittergut designation reflects a specific category of German landed estate, typically smaller and more agriculturally oriented than a princely Schloss, whose owners held minor noble or knightly status and derived their income primarily from managing surrounding farmland rather than court life or military command — a category that produced many of the modest manor houses scattered across rural Saxony-Anhalt.\n\nThe use of traditional lime and chalk-based plasters during Gröbitz's restoration reflects a specific, historically appropriate building conservation approach, favored for its compatibility with older masonry construction and its ability to allow historic walls to breathe in ways that modern cement-based renders cannot — a detail that architecturally minded visitors may appreciate even without formal training in building conservation.\n\nThe estate's irregular floor plan, shaped by piecemeal additions and modifications over its working history as a manorial farm, distinguishes Gröbitz from the more symmetrical, deliberately designed facades of grander aristocratic residences, giving the building a genuinely organic, evolved character.\n\nThe wider Saale-Unstrut region's wine-growing tradition, one of Germany's northernmost and coolest-climate wine areas, gives guests staying at Gröbitz easy access to a distinctive regional wine culture alongside nearby Naumburg's UNESCO World Heritage-listed cathedral, one of the most significant surviving works of German Gothic sculpture and architecture.\n\nGröbitz's small scale — around 14 total sleeping places — and its largely self-catering, privately-arranged check-in reflect a genuinely different hospitality model from the larger, staffed castle hotels covered elsewhere in this collection, suiting travelers who prefer a quiet, independent countryside stay over full-service amenities.\n\nThe Teuchern area surrounding Gröbitz sits within the Burgenlandkreis, a district whose very name (\"castle land district\") reflects the historically dense concentration of small noble estates and fortified manor houses across this stretch of southern Saxony-Anhalt, of which Gröbitz represents one modest but genuinely preserved example.",
+  "history": "Schloss Gröbitz began as a Rittergut, a manorial estate, on the fringes of the Saale-Unstrut wine region in southern Saxony-Anhalt. Its irregular main building, with a projecting stair tower and vaulted entrance hall, reflects the practical character typical of the region's smaller manor houses. The current owners have carried out a careful restoration using traditional lime and chalk-based materials, and the second floor now holds a small collection of self-catering apartments reached via the historic tower staircase.",
+  "faqs": [
+    {
+      "question": "Is Schloss Gröbitz a full-service hotel?",
+      "answer": "No — it is a small, largely self-catering property with around 14 total sleeping places. Check-in is typically arranged privately and directly with the owners rather than through a traditional 24-hour reception."
+    },
+    {
+      "question": "Where are the apartments located within the building?",
+      "answer": "On the second floor of the castle itself, reached through a historic vaulted reception hall and a spiral staircase set into the projecting stair tower."
+    },
+    {
+      "question": "What can I do near Gröbitz Castle?",
+      "answer": "The Saale-Unstrut wine route runs through the surrounding region, and Naumburg Cathedral, a UNESCO World Heritage Site, is within easy driving distance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/grobitz-castle.webp",
+    "alt": "Gröbitz Castle (Schloss Gröbitz), a former manorial estate in the Saale-Unstrut wine region, Saxony-Anhalt, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/grobitz-castle.webp",
+  "instagram_tag": "#grobitzcastle",
+  "meta_title": "Gröbitz Castle — A Restored Manor in the Saale-Unstrut Region",
+  "meta_description": "Stay at Gröbitz Castle in Saxony-Anhalt's Saale-Unstrut wine region — a small, carefully restored manor estate with self-catering apartments.",
+  "tags": [
+    "germany",
+    "saxony-anhalt",
+    "castle-hotel",
+    "saale-unstrut",
+    "self-catering",
+    "manor"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [
+    "zingst-castle-nebra"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Gröbitz",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-grobitz&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-grobitz.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D8613184%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784742216%26srpvid%3D8ecf7c8cb01805b3%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 149,
+    "currency": "EUR",
+    "room_location": "castle",
+    "amenities": ["gardens", "self_catering"],
+    "non_guest_access_note": "Small, largely private property; the shared garden and outdoor pool are for guests. No evidence found of public visits to the building outside of its use as accommodation.",
+    "how_to_stay": "**Getting there:** About 30 minutes by car from Naumburg or Weißenfels; roughly 45 minutes from Leipzig/Halle Airport.\n\n**Rooms & rates:** Small property (around 14 total sleeping places) on the second floor of the castle itself, reached via the historic vaulted hall and tower staircase; apartments generally sleep up to 4, with a ground-floor guest room bookable in combination with an apartment. From €149/night.\n\n**On-site:** Seasonal outdoor pool with garden chairs, shared garden, barbecue facilities, self-catering kitchenettes in each unit.\n\n**Good to know:** This is a small, largely self-catering property rather than a full-service hotel — check-in is typically arranged privately/directly with the owners.\n\n**Combine with:** The Saale-Unstrut wine route and nearby Naumburg Cathedral (UNESCO World Heritage Site) are both within easy driving distance.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}

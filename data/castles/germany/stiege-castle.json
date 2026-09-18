@@ -1,0 +1,90 @@
+{
+  "id": "stiege-castle",
+  "name": "Stiege Castle",
+  "local_name": "Schloss Stiege",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Saxony-Anhalt — Stiege, Oberharz am Brocken, Harz district",
+  "nearest_city": "Wernigerode",
+  "address": "Schlossstraße 1, 38877 Stiege, Germany",
+  "lat": 51.6720,
+  "lng": 10.8720,
+  "unesco": false,
+  "year_built": 919,
+  "architectural_style": "Possible 10th-century origins as a hunting lodge/waystation; first documented 1329; south wing added in the 16th century; one of four original corner towers survives",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the castle café, terrace, beer cellar and shop are open to day visitors",
+  "best_season": "Year-round; the seasonal glamping tents run mid-May to end of September",
+  "accessibility": "A castle with medieval origins, one surviving corner tower and self-catering apartments in two wings; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Possibly a hunting lodge for Heinrich I around 919, first recorded in 1329, and seat of the Counts of Blankenburg-Reinstein for nearly 400 years — today a working café, brewery-tavern and self-catering castle in the Harz",
+  "highlights": [
+    "Origins possibly from the 10th century (the era of Heinrich I), with first documentary mention in 1329 — one of the oldest-attested castles in the Harz",
+    "Property of the Counts of Blankenburg-Reinstein from 1203 to 1599, who converted it into their seat and residence",
+    "Only one of the four original corner towers survives; the south wing dates to the 16th century",
+    "Today combines a castle café, beer cellar, shop and vacation apartments in the east and west wings"
+  ],
+  "description": "Schloss Stiege's origins likely reach back to around 919, during the reign of Heinrich I, when it may have served as a hunting lodge or waystation for crossings of the Harz mountains; it first appears in written records in 1329. In 1203, Count Siegfried of Blankenburg received the property as a fief from Emperor Otto IV, and the Counts of Blankenburg-Reinstein subsequently converted it into their seat of power and residence, holding it until 1599. Of the castle's four original corner towers, only one — in the southwest — still stands today, while the south wing represents a 16th-century addition to the older medieval core.\n\nAs a listed historic monument in the Harz district, the castle has required ongoing restoration and maintenance to remain usable at its scale. Today it combines a cozy castle café serving homemade cake, a terrace, a beer cellar and a small shop with vacation apartments in its east and west wings — a working, lived-in castle rather than a museum piece, set in the small Harz village of Stiege within Oberharz am Brocken.\n\nThe possible 10th-century origins tied to Heinrich I place Stiege among a small number of Harz-region sites with a plausible connection to the earliest phase of German royal authority in the area, when the Ottonian kings used the Harz's forests and mountain passes for hunting and as a strategic corridor — though the nearly four-century gap before the castle's first documented mention in 1329 means this early history rests on tradition and architectural inference rather than a continuous documentary record.\n\nThe Counts of Blankenburg-Reinstein's ownership from 1203 to 1599 — nearly four centuries — represents one of the longer single-family tenures found among the Harz region's castles, a period during which the family's decisions shaped the fortification's growth, including the loss of three of its four original corner towers to whatever combination of conflict, decay or deliberate demolition eventually reduced the medieval defensive circuit.\n\nThe castle's current combination of café, beer cellar, shop and self-catering apartments reflects a common survival strategy for smaller, less internationally famous German castles: generating enough day-visitor and hospitality revenue from a mix of small-scale attractions to fund the ongoing maintenance a listed historic monument requires, rather than relying on a single dominant revenue stream.\n\nThe Harzer Schmalspurbahnen, a network of narrow-gauge steam railways still operating across the wider Harz region, gives visitors staying at Stiege a genuinely characterful way to explore the surrounding mountains, connecting to the well-preserved medieval towns of Wernigerode and Quedlinburg, both UNESCO World Heritage Sites.\n\nThe seasonal glamping tents added to the castle garden, available only from mid-May to the end of September, represent a distinctly modern and separate addition to the estate's accommodation offering — explicitly not part of the historic building itself, unlike the apartments in the east and west wings.",
+  "history": "Schloss Stiege's origins may reach back to around 919, possibly as a hunting lodge for Heinrich I, with its first documented mention in 1329. Count Siegfried of Blankenburg received it as a fief in 1203, and the Counts of Blankenburg-Reinstein held it as their seat until 1599. Only one of the castle's four original corner towers survives, while the south wing dates to the 16th century. Today the castle combines a café, beer cellar and shop with self-catering vacation apartments in its east and west wings, in the small Harz village of Stiege.",
+  "faqs": [
+    {
+      "question": "Can I visit Stiege Castle without staying overnight?",
+      "answer": "Yes — the castle café, terrace, beer cellar and small shop are open to the general public, not just overnight guests."
+    },
+    {
+      "question": "How old is Stiege Castle?",
+      "answer": "Its origins may reach back to around 919, possibly as a hunting lodge for King Heinrich I, though it is first documented in written records only in 1329. The Counts of Blankenburg-Reinstein held it as their seat from 1203 to 1599."
+    },
+    {
+      "question": "Are the glamping tents part of the historic castle?",
+      "answer": "No — the three seasonal glamping tents (available mid-May to end of September) are a separate, modern addition in the castle garden, distinct from the vacation apartments in the historic east and west wings."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/stiege-castle.webp",
+    "alt": "Stiege Castle (Schloss Stiege) in the Harz mountains, Oberharz am Brocken, Saxony-Anhalt, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/stiege-castle.webp",
+  "instagram_tag": "#stiegecastle",
+  "meta_title": "Stiege Castle — A Medieval Harz Castle with Apartments & Café",
+  "meta_description": "Stay at Stiege Castle in the Harz mountains — possibly dating to 919, seat of the Counts of Blankenburg-Reinstein, with a café, beer cellar and apartments.",
+  "tags": [
+    "germany",
+    "saxony-anhalt",
+    "castle-hotel",
+    "harz",
+    "medieval",
+    "self-catering"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schloss Stiege",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=schloss-stiege&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-stiege.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D497005%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784742243%26srpvid%3D74fc7c8ef0620080%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 60,
+    "currency": "EUR",
+    "room_count": 3,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens", "self_catering"],
+    "non_guest_access_note": "The castle café, terrace, beer cellar and shop are open to the general public, not only guests. Accommodation apartments are in the east and west wings of the historic building itself.",
+    "how_to_stay": "**Getting there:** About 30 minutes by car from Wernigerode or Quedlinburg; roughly 1h from Halberstadt. The narrow-gauge Harzer Schmalspurbahnen network runs through the wider region, though Stiege itself is best reached by car.\n\n**Rooms & rates:** Apartments in the west wing (main unit, ~220 m², 3 bedrooms, 2 bathrooms, sleeps 4–8) and east wing (two smaller units, including a Kirchstieg apartment for up to 4 and a Seeblick family apartment); 3 glamping tents also available seasonally (mid-May to end of September) in the garden, each sleeping 2. From €60/night.\n\n**On-site:** Castle café with homemade cake, terrace, beer cellar, small gift shop, garden with children's playground, self-catering kitchens in all apartments.\n\n**Good to know:** Minimum stay of 2 nights (4 nights over Christmas/New Year/Easter/Whitsun); the glamping tents are a separate, seasonal add-on and not part of the historic building itself.\n\n**Combine with:** The Harzer Schmalspurbahnen steam railway network and the medieval old towns of Wernigerode and Quedlinburg (both UNESCO World Heritage listed) are within easy day-trip range.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}

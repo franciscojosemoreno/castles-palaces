@@ -1,0 +1,90 @@
+{
+  "id": "lubbenau-castle",
+  "name": "Lübbenau Castle",
+  "local_name": "Schloss Lübbenau",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "germany",
+  "region": "Brandenburg — Lübbenau/Spreewald, UNESCO Biosphere Reserve",
+  "nearest_city": "Cottbus",
+  "address": "Schlossbezirk 6, 03222 Lübbenau/Spreewald, Germany",
+  "lat": 51.8620,
+  "lng": 13.9450,
+  "unesco": false,
+  "year_built": 1621,
+  "architectural_style": "Neoclassical reconstruction 1817–1839 of an earlier castle; held by the von Lynar family since 1621",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the landscape park and Schlossensemble are freely open to the public",
+  "best_season": "Year-round; the Spreewald canal boat season runs April to October",
+  "accessibility": "A neoclassical castle within a 9-hectare landscape park at the edge of the Spreewald; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Held by the same family since 1621 — through Tuscan fortification engineers, a Lenné-designed park, and restitution after German reunification — at the gateway to the Spreewald's canals",
+  "highlights": [
+    "Property of the von Lynar family since 1621 — more than 400 years of family continuity, including restitution after the fall of the Berlin Wall",
+    "Rebuilt in neoclassical style (1817–1839); 9-hectare landscape park with initial design by Peter Joseph Lenné",
+    "Located at the heart of the Spreewald, a UNESCO biosphere reserve famous for its navigable canals",
+    "Castle restaurant \"LINARI\" and bar \"ROCCO's\" within the ensemble"
+  ],
+  "description": "The von Lynar family, originally fortification engineers from Tuscany, acquired the Lübbenau estate in 1621 and held it for more than three centuries. The castle seen today dates largely from a major neoclassical reconstruction carried out between 1817 and 1839, when the surrounding landscape park was also redesigned — initial plans came from the Potsdam garden director Peter Joseph Lenné, with detailed execution by Carl August Benjamin Siegel. Through the 19th century the family continued to develop the wider estate, expanding its holdings around the castle mill and grounds.\n\nAfter German reunification, the castle was returned to the Lynar family, who undertook an extensive renovation to convert it into a four-star hotel while preserving its historic fabric. Set at the edge of the Spreewald — a UNESCO biosphere reserve criss-crossed by narrow waterways — the castle ensemble today combines the hotel itself with a holiday residence in the former stable building, the orangery, and the chancery, all arranged around the nine-hectare landscape park.\n\nThe von Lynar family's origins as Tuscan fortification engineers reflects a broader pattern of Italian military and architectural expertise migrating into German-speaking Europe during the early modern period, when specialized skills in fortress design were in high demand among regional rulers. Their more-than-400-year tenure at Lübbenau, interrupted only by the East German period before restitution after reunification, places the family's connection to the estate among the longest and most resilient found anywhere in this collection.\n\nPeter Joseph Lenné's involvement in the park's redesign connects Lübbenau to one of 19th-century Germany's most significant landscape architects, whose work also shaped the grounds of Sanssouci and numerous other major Prussian gardens — giving the estate's 9-hectare park a genuine pedigree beyond a purely decorative castle garden.\n\nThe restitution of the castle to the Lynar family after German reunification reflects the broader legal and social process by which properties expropriated under East German rule were returned to their pre-war owners or their descendants, a process that shaped the fate of numerous historic estates across the former GDR territory, Lübbenau among them.\n\nThe Spreewald's network of narrow, hand-poled canals, navigated traditionally by flat-bottomed punts, represents one of Germany's most distinctive inland landscapes, shaped by centuries of Sorbian and German settlement adapting to the region's marshy, water-crossed terrain — a UNESCO-recognized biosphere reserve that gives Lübbenau Castle a genuinely unique regional identity among the properties in this collection.\n\nThe castle ensemble's inclusion of a separate holiday residence in the former stable (Marstall), alongside the orangery and chancery buildings, reflects the practical reality of a large historic estate finding multiple complementary uses for its ancillary structures, even as the main castle building itself retains the primary hotel function.\n\nLübbenau itself, the small Brandenburg town surrounding the castle, functions as the main gateway to the Spreewald for most visitors, its harbor lined with the traditional flat-bottomed punts used for the region's signature canal excursions — giving the castle a genuinely well-positioned base for exploring the wider biosphere reserve beyond the estate's own grounds.",
+  "history": "The von Lynar family, originally Tuscan fortification engineers, acquired the Lübbenau estate in 1621. The castle seen today dates largely from a neoclassical reconstruction between 1817 and 1839, with the surrounding park designed by Peter Joseph Lenné. After German reunification, the castle was returned to the Lynar family, who converted it into a four-star hotel while preserving its historic fabric. The 38-room hotel sits at the edge of the Spreewald, a UNESCO biosphere reserve, alongside a separate holiday residence in the former stable, an orangery and a chancery.",
+  "faqs": [
+    {
+      "question": "Are all the hotel rooms within the castle building itself?",
+      "answer": "Yes — the 38 rooms and suites are within two wings of the castle building, each individually furnished, with an elevator connecting all three floors of each wing."
+    },
+    {
+      "question": "How long has the von Lynar family owned Lübbenau Castle?",
+      "answer": "Since 1621, with an interruption during the East German period before the castle was returned to the family after German reunification — more than 400 years of connection to the estate."
+    },
+    {
+      "question": "Can I do a Spreewald canal boat tour from Lübbenau Castle?",
+      "answer": "Yes — the Spreewald's signature canal boat tours (Kahnfahrten) depart directly from Lübbenau, making it easy to combine with a stay at the castle."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lubbenau-castle.webp",
+    "alt": "Lübbenau Castle (Schloss Lübbenau) at the edge of the Spreewald, Brandenburg, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lubbenau-castle.webp",
+  "instagram_tag": "#lubbenaucastle",
+  "meta_title": "Lübbenau Castle — A Neoclassical Hotel at the Spreewald's Edge",
+  "meta_description": "Stay at Lübbenau Castle — held by the von Lynar family since 1621, on the edge of the Spreewald's UNESCO-listed canal landscape in Brandenburg.",
+  "tags": [
+    "germany",
+    "brandenburg",
+    "castle-hotel",
+    "neoclassical",
+    "spreewald",
+    "unesco-biosphere"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schloss Lübbenau",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=lubbenau&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Flubbenau.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D66403%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784741842%26srpvid%3D8a0c7bde916c0172%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 149,
+    "currency": "EUR",
+    "room_count": 38,
+    "room_location": "castle",
+    "amenities": ["restaurant", "bar", "gardens"],
+    "non_guest_access_note": "The 9-hectare landscape park and the Schlossensemble (stable, orangery, chancery) are open to the public; the hotel's 38 rooms are within the castle building itself.",
+    "how_to_stay": "**Getting there:** Lübbenau is roughly 1h15 by car or direct train from Berlin (Lübbenau/Spreewald station is on the Berlin–Cottbus line); about 1h from Cottbus.\n\n**Rooms & rates:** 38 rooms and suites across two wings of the castle, each individually furnished; all rooms have minibar, flat-screen TV and WiFi; elevator connects all three floors of each wing. From €149/night.\n\n**On-site:** Castle restaurant LINARI, ROCCO's bar, 9-hectare landscape park, historic Schlossensemble (stable, orangery, chancery), conference facilities.\n\n**Good to know:** The wider estate also rents a separate holiday residence in the old stable (Marstall) — that is a different booking product from the castle hotel rooms and shouldn't be confused with them.\n\n**Combine with:** The Spreewald's canal boat tours (Kahnfahrten) depart directly from Lübbenau and are the area's signature activity — easily combined with a castle stay.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}
