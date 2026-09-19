@@ -1,0 +1,89 @@
+{
+  "id": "schlemmin-castle",
+  "name": "Schlemmin Castle",
+  "local_name": "Schloss Schlemmin",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Mecklenburg-Vorpommern — Schlemmin, Landkreis Vorpommern-Rügen, near Tribsees",
+  "nearest_city": "Tribsees",
+  "address": "Schlossallee 1, 18320 Schlemmin, Germany",
+  "lat": 54.1200,
+  "lng": 12.6300,
+  "unesco": false,
+  "year_built": 1846,
+  "architectural_style": "Gothic Revival castle built 1846–1850 by architect Eduard Knoblauch, on the foundations of a 14th-century medieval fortress",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant is separately open to non-resident diners",
+  "best_season": "Year-round",
+  "accessibility": "A single Gothic Revival building with rooms from mansard level to a tower suite; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Gothic Revival castle visited by a Prussian king and a future emperor — later a hospital, refugee camp and East German consumer market, restored as a hotel since 2002",
+  "highlights": [
+    "Current Gothic Revival building constructed 1846–1850 by architect Eduard Knoblauch, on the foundations of a 14th-century medieval fortress",
+    "Visited by Prussian King Friedrich Wilhelm IV in 1853 and the future Emperor Wilhelm I in 1857",
+    "After the Second World War served as a hospital, refugee camp, consumer market, school and guest house under East German administration",
+    "Restored since 1999 by a Bremen entrepreneur; a hotel since 2002, with ornate halls (Engelsaal, Musikzimmer) and themed spaces (Jagdzimmer, Hubertuskeller)"
+  ],
+  "description": "The building seen at Schloss Schlemmin today was constructed between 1846 and 1850 to designs by architect Eduard Knoblauch for Wilhelm Ulrich von Thun, though its foundations rest on those of a 14th-century medieval fortress. The Gothic Revival castle drew genuinely royal attention in its early years: the Prussian King Friedrich Wilhelm IV visited the estate in 1853, and the future Emperor Wilhelm I was a guest in 1857, cementing the property's standing among the aristocratic residences of Mecklenburg.\n\nThe castle's fortunes shifted dramatically through the 20th century — used as a hospital and refugee camp during the Second World War, then repurposed under East German administration to house a consumer market, a school, and later a guest house as the once-grand building fell into neglect. In 1999 an entrepreneur from Bremen purchased the property and began restoration work, and a hotel has operated in the building since 2002, today offering 35 rooms from mansard level up to a dedicated tower suite, alongside stucco-decorated halls (the Engelsaal and Musikzimmer) and themed spaces including a Jagdzimmer (hunting room) and Hubertuskeller.\n\nEduard Knoblauch, the architect responsible for Schlemmin's current Gothic Revival form, was a significant figure in 19th-century Prussian architecture, and his work here reflects the broader Gothic Revival movement's appeal to German aristocratic patrons seeking to evoke medieval and romantic associations in newly built or substantially rebuilt residences.\n\nThe castle's sequence of 20th-century institutional uses — hospital, refugee camp, consumer market, school, guest house — reflects the turbulent successive demands placed on large historic buildings across the Soviet occupation zone and East Germany, where architectural grandeur mattered less than a structure's practical capacity to house shifting waves of displaced people and state institutions.\n\nThe 1999 private purchase and subsequent restoration by a Bremen-based entrepreneur represents a now-familiar pattern among this collection's Mecklenburg and Pomeranian properties, where individual investors took on the considerable financial risk of restoring severely neglected historic buildings for eventual hotel use, often after decades of institutional misuse had left the structures in poor condition.\n\nThe royal visits from Friedrich Wilhelm IV and the future Wilhelm I, while reflecting genuine 19th-century social prominence rather than any current royal connection, give Schlemmin a documented historical distinction shared by relatively few of the smaller Mecklenburg estates covered in this collection.\n\nTribsees and the wider Vorpommern countryside surrounding Schlemmin offer a quiet, rural setting typical of this part of northeastern Germany, giving guests staying at the castle an unhurried base for exploring the region's small towns and agricultural landscape.\n\nThe survival of ornate interior spaces like the Engelsaal and Musikzimmer through decades of institutional use as a hospital, refugee camp, market and school is itself notable, since such utilitarian repurposing often led to the loss or deliberate stripping of decorative stucco and period detailing elsewhere in Germany — Schlemmin's restorers evidently found enough of the original decorative fabric intact to justify a careful, detail-oriented restoration rather than a full reconstruction from scratch.",
+  "history": "The current building at Schloss Schlemmin was constructed between 1846 and 1850 by architect Eduard Knoblauch on the foundations of a 14th-century fortress. Prussian King Friedrich Wilhelm IV visited in 1853, and the future Emperor Wilhelm I in 1857. After the Second World War the castle served as a hospital, refugee camp, consumer market, school and guest house under East German administration. Restoration began in 1999 under a Bremen entrepreneur, and the property has operated as a hotel since 2002, with 35 rooms from mansard level to a dedicated tower suite.",
+  "faqs": [
+    {
+      "question": "Which historical figures visited Schlemmin Castle?",
+      "answer": "Prussian King Friedrich Wilhelm IV visited in 1853, and the future Emperor Wilhelm I was a guest in 1857, reflecting the castle's 19th-century aristocratic standing."
+    },
+    {
+      "question": "What happened to the castle after the Second World War?",
+      "answer": "It served successively as a hospital, a refugee camp, a consumer market, a school, and a guest house under East German administration, before falling into neglect ahead of its restoration beginning in 1999."
+    },
+    {
+      "question": "Are all the rooms within the historic Gothic Revival building?",
+      "answer": "Yes — all 35 hotel rooms are within the single 1846–1850 building, ranging from mansard-level rooms to a dedicated tower suite. No separate annex has been identified."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schlemmin-castle.webp",
+    "alt": "Schlemmin Castle (Schloss Schlemmin) near Tribsees, Mecklenburg-Vorpommern, Germany, a Gothic Revival building constructed 1846-1850",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schlemmin-castle.webp",
+  "instagram_tag": "#schlemmincastle",
+  "meta_title": "Schlemmin Castle — A Gothic Revival Hotel Near Tribsees",
+  "meta_description": "Stay at Schlemmin Castle near Tribsees — a Gothic Revival castle built 1846-1850, once visited by Prussian royalty, restored as a hotel since 2002.",
+  "tags": [
+    "germany",
+    "mecklenburg-vorpommern",
+    "castle-hotel",
+    "gothic-revival",
+    "vorpommern"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Schlemmin",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=schloss-schlemmin&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-schlemmin-schlemmin.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D8411611%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784743820%26srpvid%3D8ea47fc4ab911dae%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 99,
+    "currency": "EUR",
+    "room_count": 35,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens", "event halls"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; the castle operates as a private hotel and restaurant.",
+    "how_to_stay": "**Getting there:** About 20 minutes by car from Tribsees; roughly 45 minutes from Stralsund and 1h from Rostock.\n\n**Rooms & rates:** 35 hotel rooms within the single 1846–1850 Gothic Revival building, ranging from mansard-level rooms to a tower suite. From €99/night.\n\n**On-site:** Castle restaurant, stucco-decorated event halls (Engelsaal, Musikzimmer), themed spaces (Jagdzimmer, Hubertuskeller), gardens.\n\n**Good to know:** The castle's royal visitor history (Friedrich Wilhelm IV, later Wilhelm I) reflects its 19th-century social standing rather than any current royal association.\n\n**Combine with:** The small town of Tribsees and the wider Vorpommern countryside.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}

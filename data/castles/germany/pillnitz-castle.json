@@ -105,5 +105,20 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schloss Hotel Dresden-Pillnitz",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-dresden-pillnitz&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-dresden-pillnitz.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784742397%26srpvid%3D1cca7cfba72c0125%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 119,
+    "currency": "EUR",
+    "room_count": 45,
+    "room_location": "castle",
+    "amenities": ["restaurant", "bar", "golf", "gardens"],
+    "non_guest_access_note": "The palace museums (Wasserpalais/Bergpalais, camellia garden) are covered above in How to Visit, with their own GYG listing — not duplicated here.",
+    "how_to_stay": "**Getting there:** About 20 minutes by car or Elbe ferry from central Dresden; the Pillnitz steamer stop is directly nearby for a scenic river approach.\n\n**Rooms & rates:** 42 rooms and 3 suites within the historic Schlossschenke Pillnitz (castle inn) building — first documented in 1724, rebuilt in 1841 and again in 1869 after a fire — on the upper and attic floors. From €119/night.\n\n**On-site:** Two restaurants, a bar, an attached winery, picnic area, canoeing and mini golf, golf course access.\n\n**Good to know:** This hotel occupies the historic castle inn (Schlossschenke), a separate building within the Pillnitz estate, about 20 metres from the Wasserpalais/Bergpalais museums covered above in How to Visit. It is the same Pillnitz estate, not a different property — easy to combine a stay here with a ticketed visit to the palace and camellia garden.\n\n**Combine with:** The Wasserpalais/Bergpalais museums and camellia garden (see How to Visit above, a 1-minute walk); Dresden Castle and Moritzburg Castle, both already linked on this page.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
 }

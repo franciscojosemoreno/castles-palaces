@@ -1,0 +1,90 @@
+{
+  "id": "bodenstein-castle",
+  "name": "Bodenstein Castle",
+  "local_name": "Burg Bodenstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 16,
+  "country": "germany",
+  "region": "Thuringia — Wintzingerode, Leinefelde-Worbis, Eichsfeld",
+  "nearest_city": "Heilbad Heiligenstadt",
+  "address": "Burg Bodenstein, 37327 Leinefelde-Worbis, Germany",
+  "lat": 51.3980,
+  "lng": 10.2680,
+  "unesco": false,
+  "year_built": 1098,
+  "architectural_style": "Medieval castle first documented 1098, rebuilt as a residential palace after the Thirty Years' War; comprehensive renovation 1991–1994",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay (currently unavailable for 2026 — see note below)",
+  "best_season": "Year-round",
+  "accessibility": "A medieval castle operated as a church family retreat and meeting centre; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Held by the same family for nearly 500 years, considered the best-preserved castle in the Eichsfeld — currently unable to offer overnight stays through 2026 due to major construction work",
+  "highlights": [
+    "Medieval castle first documented in 1098, considered the best-preserved in the Eichsfeld",
+    "Held by the von Wintzingerode family from the mid-15th century until 1945, shaping the region's history",
+    "Rebuilt as a residential palace after the Thirty Years' War; the medieval keep (Bergfried) was replaced by a castle chapel",
+    "Comprehensive renovation of the complex 1991–1994; today runs as a family recreation and training centre of the Evangelical Church"
+  ],
+  "description": "Burg Bodenstein, perched above the village of Wintzingerode in the Ohmgebirge of northern Eichsfeld, is first documented in 1098 and is regarded as the best-preserved castle in the wider Eichsfeld region. From the mid-15th century until 1945, it was held by the von Wintzingerode family, whose members played a decisive role in shaping the district's history over nearly five centuries of continuous ownership.\n\nAfter the Thirty Years' War, the fortress was rebuilt in a more residential, palace-like style — the medieval keep was removed to make way for a castle chapel, softening the site's earlier defensive character. Following a comprehensive renovation of the entire complex between 1991 and 1994, Bodenstein now serves as a family recreation and meeting center run by the Evangelical Church in Central Germany, with the bulk of its 45 beds in the main castle building and a small number in a separate coachhouse (Kutscherhaus) on the grounds.\n\n**Important, current operating note:** Burg Bodenstein's own official channels state that, due to extensive and urgent construction work, the property is unable to offer overnight accommodation for the year 2026. This is a temporary construction-related closure of the accommodation side of the operation rather than a permanent business closure — the wider institution continues to operate as a church retreat and meeting centre. Anyone specifically interested in staying at Bodenstein should contact the property directly for current-year availability before relying on any third-party booking platform.\n\nThe near-500-year tenure of the von Wintzingerode family at Bodenstein places the estate among the longer single-family ownerships found in this collection, a continuity that shaped much of the district's own aristocratic and administrative history across the medieval, early modern and modern periods before the family's dispossession after the Second World War.\n\nThe replacement of the medieval keep with a castle chapel after the Thirty Years' War reflects a broader pattern of post-war reconstruction across Central Germany, where surviving noble families often prioritized residential comfort and religious observance over restoring purely defensive architecture that had proven militarily obsolete.\n\nThe castle's current role as a family retreat and training centre for the Evangelical Church in Central Germany gives it a genuinely different institutional character from the commercial hotels that make up most of this collection — a working church facility hosting families, groups and training programs rather than a conventional paying-guest hospitality business.\n\nThe Eichsfeld region surrounding Bodenstein is known for its well-preserved half-timbered towns and the Ohmgebirge nature reserve, giving the wider area a genuine appeal for visitors independent of the castle's own current accommodation situation.\n\nEichsfeld itself has a distinctive religious and cultural identity within the wider Thuringian and Saxon region, having remained predominantly Catholic through the Reformation era while surrounded by largely Protestant territories — a historical peculiarity that helped shape the district's own strong regional character, one Bodenstein's current role as an Evangelical Church retreat centre continues to intersect with in its own way.",
+  "history": "Burg Bodenstein is first documented in 1098 above the village of Wintzingerode in the Eichsfeld, and is considered the best-preserved castle in the region. Held by the von Wintzingerode family from the mid-15th century until 1945, it was rebuilt as a residential palace after the Thirty Years' War, with the medieval keep replaced by a castle chapel. Following a comprehensive renovation between 1991 and 1994, it now operates as a family recreation and training centre of the Evangelical Church in Central Germany. As of 2026, the property's own channels state it is unable to offer overnight accommodation for the year due to major construction work.",
+  "faqs": [
+    {
+      "question": "Can I book a stay at Bodenstein Castle right now?",
+      "answer": "According to the property's own official channels, Burg Bodenstein is unable to offer overnight accommodation for the year 2026 due to extensive, urgent construction work. Contact the property directly (info@burg-bodenstein.de) for current availability before booking through any third party."
+    },
+    {
+      "question": "How long did the von Wintzingerode family own Bodenstein Castle?",
+      "answer": "From the mid-15th century until 1945 — nearly 500 years of continuous ownership, during which the family played a significant role in shaping the history of the Eichsfeld district."
+    },
+    {
+      "question": "What happened to the castle's original medieval keep?",
+      "answer": "It was removed after the Thirty Years' War and replaced with a castle chapel, as the fortress was rebuilt in a more residential, palace-like style."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bodenstein-castle.webp",
+    "alt": "Bodenstein Castle (Burg Bodenstein) above Wintzingerode in the Eichsfeld, Thuringia, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bodenstein-castle.webp",
+  "instagram_tag": "#bodensteincastle",
+  "meta_title": "Bodenstein Castle — The Best-Preserved Castle in the Eichsfeld",
+  "meta_description": "Bodenstein Castle in Thuringia's Eichsfeld region — held by the von Wintzingerode family for nearly 500 years. Note: accommodation unavailable for 2026 due to construction.",
+  "tags": [
+    "germany",
+    "thuringia",
+    "castle-hotel",
+    "eichsfeld",
+    "medieval"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Burg Bodenstein",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=burg-bodenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-bodenstein.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D7946768%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784742438%26srpvid%3De8377d11f6570b68%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": null,
+    "currency": "EUR",
+    "room_count": 45,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "booking_paused": true,
+    "non_guest_access_note": "Operated as a family retreat and training centre of the Evangelical Church in Central Germany; not a day-visit tourist attraction open to the general public outside of staying or attending a program.",
+    "how_to_stay": "**Getting there:** About 20 minutes by car from Heilbad Heiligenstadt; roughly 1h from Göttingen and 1h15 from Erfurt.\n\n**Rooms & rates:** 41 of the roughly 45 total rooms/beds are within the main castle building (mix of single, double, twin and family apartments); 4 rooms (1 single, 3 double) are in the separate Kutscherhaus coachhouse. **Accommodation is currently unavailable for 2026 due to extensive construction work** — this listing is temporarily not bookable; contact the property directly (info@burg-bodenstein.de) for current status.\n\n**On-site:** Half-timbered dining rooms with Eichsfeld landscape views, castle chapel, gardens, family and group programming.\n\n**Good to know:** This is run as a church family-retreat and group-meeting facility rather than a conventional boutique hotel — expect a more institutional, program-oriented atmosphere than at purely commercial castle-hotels, once accommodation resumes.\n\n**Combine with:** The Eichsfeld region's half-timbered towns and the Ohmgebirge nature reserve surrounding the castle.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}

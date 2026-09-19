@@ -1,0 +1,91 @@
+{
+  "id": "weilburg-castle",
+  "name": "Weilburg Castle",
+  "local_name": "Schlosshotel Weilburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "Hesse — Weilburg an der Lahn, old town",
+  "nearest_city": "Limburg an der Lahn",
+  "address": "Schlossgasse, 35781 Weilburg, Germany",
+  "lat": 50.4830,
+  "lng": 8.2560,
+  "unesco": false,
+  "year_built": 1700,
+  "architectural_style": "Prinzessinnenbau (early 18th century), a distinct residential wing within the wider Weilburg Residenzschloss complex",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the neighbouring Residenzschloss museum is a separate, independently ticketed guided-tour attraction",
+  "best_season": "Year-round",
+  "accessibility": "A hotel within the historic Prinzessinnenbau, beside the state-run Residenzschloss museum; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The hotel occupies the early-18th-century Prinzessinnenbau — a genuinely distinct building from the grand Residenzschloss next door, which operates as an independent state museum with its own guided tours",
+  "highlights": [
+    "The hotel occupies the Prinzessinnenbau (\"Princess Building\"), built in the early 18th century as part of the wider residence",
+    "The neighbouring Residenzschloss, with its Renaissance and Baroque wings, is a separate state museum visitable only by guided tour (roughly 30 rooms of the Upper Palace)",
+    "Reception and bar installed in the former Marstallgebäude (stables), connected to the hotel",
+    "Historic old town of Weilburg, with views over the Lahn river"
+  ],
+  "description": "The Schlosshotel Weilburg occupies the Prinzessinnenbau, or Princess Building, a residential wing built in the early 18th century as part of the wider Weilburg castle complex in the historic old town, overlooking the Lahn River. This wing has always been architecturally and functionally distinct from the much larger Residenzschloss standing beside it — the grand ensemble of Renaissance and Baroque buildings that gives Weilburg its name and its place among Hesse's notable princely residences.\n\nThat main Residenzschloss now belongs to the Hessian state administration and operates purely as a museum, open to the public via guided tours through roughly thirty Baroque rooms — including the Elector's Chamber and the State Bedroom furnished under Count John Ernest — entirely independent of the hotel next door. The Schlosshotel, by contrast, has spent three centuries as a place people actually live and stay, today run as a family-managed 4-star hotel with reception and bar housed in the connected former stables, the Marstallgebäude.\n\nThis division between a genuinely lived-in residential wing and a formally museum-ified state palace reflects a pattern seen at several German princely residences, where a smaller, more domestically-scaled building within a larger complex continued in private or commercial use while the grander state rooms were preserved as heritage attractions once the ruling family's occupation ended.\n\nThe Residenzschloss's roughly thirty visitable Baroque rooms, including specifically named spaces such as the Elector's Chamber, give the neighbouring museum a genuine depth of historical interior worth a dedicated guided-tour visit — a substantial attraction in its own right, independent of anyone staying at the adjoining hotel.\n\nThe Marstallgebäude's conversion into the hotel's reception and bar area reflects a common adaptive-reuse pattern for former stable buildings attached to larger aristocratic residences, repurposing a genuinely historic structure for a practical, low-key hospitality function rather than leaving it disused or converting it into additional guest rooms.\n\nWeilburg's old town, built on a horseshoe bend of the Lahn river, is itself a well-preserved historic townscape, giving guests staying at the Schlosshotel an easy, walkable base for exploring both the castle complex and the wider medieval and early-modern streetscape below it.\n\nThe distinction between the Prinzessinnenbau and the Residenzschloss is worth keeping in mind specifically because Weilburg's overall castle complex reads, from the outside, as a single unified ensemble — only on closer inspection, and through the very different ways the two buildings are actually used today, does the practical division between working hotel and formal state museum become clear.",
+  "history": "The Schlosshotel Weilburg occupies the Prinzessinnenbau, an early-18th-century residential wing within the wider Weilburg castle complex, distinct from the much larger Residenzschloss beside it. That main Residenzschloss belongs to the Hessian state and operates as an independent museum, open via guided tours through roughly thirty Baroque rooms. The hotel itself has operated as a place to stay for three centuries, today run as a family-managed 4-star hotel with reception and bar in the former stables, the Marstallgebäude.",
+  "faqs": [
+    {
+      "question": "Is the hotel inside the main Weilburg palace museum?",
+      "answer": "No — the hotel occupies the Prinzessinnenbau, a separate early-18th-century residential wing. The main Residenzschloss next door is an independent state museum visitable only by guided tour, entirely separate from the hotel."
+    },
+    {
+      "question": "Can I visit the Residenzschloss without staying at the hotel?",
+      "answer": "Yes — the Residenzschloss is open to the public via guided tours, Tuesday to Sunday, through roughly thirty Baroque rooms including the Elector's Chamber and State Bedroom, independent of any hotel booking."
+    },
+    {
+      "question": "Where is the hotel's reception?",
+      "answer": "In the former Marstallgebäude (stables), a connected historic building that also houses the hotel bar."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/weilburg-castle.webp",
+    "alt": "Weilburg Castle (Schlosshotel Weilburg) in the historic old town of Weilburg an der Lahn, Hesse, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/weilburg-castle.webp",
+  "instagram_tag": "#weilburgcastle",
+  "meta_title": "Weilburg Castle — A Hotel in the Historic Prinzessinnenbau",
+  "meta_description": "Stay at Weilburg Castle on the Lahn — the hotel occupies the historic Prinzessinnenbau, beside the independently ticketed Residenzschloss state museum.",
+  "tags": [
+    "germany",
+    "hesse",
+    "castle-hotel",
+    "lahn",
+    "weilburg"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [
+    "braunfels-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schlosshotel Weilburg",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=weilburg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fweilburg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D60299%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784742529%26srpvid%3D5ec97d3ef0190064%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 99,
+    "currency": "EUR",
+    "room_count": 61,
+    "room_location": "castle",
+    "amenities": ["restaurant", "indoor pool"],
+    "non_guest_access_note": "The main Residenzschloss (a separate building within the same complex) is a state museum visitable only by guided tour, Tuesday to Sunday — open to the general public, unrelated to a hotel booking.",
+    "how_to_stay": "**Getting there:** About 30 minutes by car from Limburg an der Lahn; roughly 1h from Frankfurt and 1h15 from Koblenz.\n\n**Rooms & rates:** 61 rooms within the Prinzessinnenbau, a distinct early-18th-century building within the wider castle complex. From €99/night.\n\n**On-site:** Restaurant \"Alte Reitschule\" (regional specialties), indoor pool, reception/bar in the former Marstall stables.\n\n**Good to know:** The neighboring Residenzschloss — the large palace museum — is a separate, independently ticketed guided-tour attraction (Tue–Sun) not included with a hotel stay; guests can easily combine the two.\n\n**Combine with:** The Residenzschloss Weilburg guided tour, and the wider historic old town along the Lahn.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}

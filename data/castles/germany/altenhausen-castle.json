@@ -1,0 +1,89 @@
+{
+  "id": "altenhausen-castle",
+  "name": "Altenhausen Castle",
+  "local_name": "Schloß Altenhausen",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 17,
+  "country": "germany",
+  "region": "Saxony-Anhalt — Altenhausen, near Magdeburg",
+  "nearest_city": "Magdeburg",
+  "address": "Schlossstraße 1, 39343 Altenhausen, Germany",
+  "lat": 52.1500,
+  "lng": 11.2500,
+  "unesco": false,
+  "year_built": 1500,
+  "architectural_style": "Round medieval core (15th–16th century) with a Renaissance residential wing and a 19th-century neo-Gothic hall with built-in keep; major renovation after an early-19th-century fire (1834)",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant is separately open to non-resident diners",
+  "best_season": "Year-round",
+  "accessibility": "A large complex combining a hotel, youth hostel and equestrian centre across the historic core and a working courtyard; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A round medieval core with a Renaissance wing and a neo-Gothic hall, today running a genuine dual identity as both a 3-star hotel and a youth hostel with its own equestrian programme",
+  "highlights": [
+    "Round medieval core with a Renaissance-style residential wing and a 19th-century neo-Gothic hall with a built-in keep (Bergfried)",
+    "Working courtyard (Wirtschaftshof) with Late Gothic, Baroque and Historicist outbuildings west of the castle core",
+    "Today combines a DEHOGA 3-star hotel, a youth hostel, and an equestrian activity centre",
+    "\"Alter Speicher\" restaurant installed in the castle's former grain store"
+  ],
+  "description": "Schloss Altenhausen combines a round medieval core fortress with a Renaissance-style residential wing, later joined by a tall neo-Gothic hall with its own built-in keep. The oldest surviving sections of the building date to the 15th and 16th centuries, before the complex was substantially rebuilt in the 17th century by Alexander von der Schulenburg using earlier building fabric that survives to this day. A fire in the early 19th century led to a major renovation in 1834, and by the end of that century the fortress had been converted into a more castle-like residence, though it never fully lost its fortified character.\n\nAfter the Second World War the von Schulenburg family was dispossessed, and the estate eventually found new purpose as a youth hostel, hotel and equestrian activity center. Today's complex includes the historic round core, a Renaissance residential building, and a working courtyard (Wirtschaftshof) with Late Gothic, Baroque and Historicist outbuildings to the west — one of which, the former grain store, now houses the \"Alter Speicher\" restaurant serving guests in a rustic, medieval-adjacent setting.\n\nThe property's dual operation as both a conventional hotel and a youth hostel is genuinely unusual among the castle-hotels covered in this collection: rather than a single hospitality product, Altenhausen maintains two parallel accommodation categories — DEHOGA-rated 3-star double rooms and bunk-bed multi-occupancy rooms typical of youth hostel bookings — with separate contact arrangements for the \"Jugendhotel\" (youth hotel) side of the operation.\n\nThe von der Schulenburg family's 17th-century rebuilding of Altenhausen, incorporating earlier medieval fabric rather than starting from scratch, reflects a common and practical approach to castle reconstruction across war-damaged Central Germany during that period, preserving what could be salvaged while adapting the structure to contemporary residential needs.\n\nThe equestrian activity centre operating alongside the hotel and hostel gives Altenhausen a genuinely active, program-oriented character distinct from the more purely restful or scenic castle-hotels found elsewhere in this collection, positioning it as a destination for riding holidays and school or youth group trips as much as for a conventional overnight stay.\n\nMagdeburg, a short drive from Altenhausen, is the state capital of Saxony-Anhalt and home to one of Germany's most significant early Gothic cathedrals, giving guests staying at the castle an easy pairing between a working countryside estate and one of the region's major historic urban centres.\n\nThe combination of a genuine neo-Gothic hall, a working equestrian centre and a two-tier accommodation model gives Altenhausen a distinctly practical, multi-use character among the castle-hotels in this collection — less a curated single-experience destination than a large working estate that has found several complementary ways to sustain itself financially since the von Schulenburg family's departure.",
+  "history": "Schloss Altenhausen combines a round medieval core dating to the 15th and 16th centuries with a Renaissance residential wing and a 19th-century neo-Gothic hall with a built-in keep. Rebuilt in the 17th century by Alexander von der Schulenburg, the complex underwent a major renovation in 1834 after a fire. The von Schulenburg family was dispossessed after the Second World War, and the estate later became a youth hostel, hotel and equestrian activity centre, a combined identity it retains today alongside the \"Alter Speicher\" restaurant in the former grain store.",
+  "faqs": [
+    {
+      "question": "Is Altenhausen Castle a hotel or a youth hostel?",
+      "answer": "Both — the property genuinely operates two parallel accommodation categories: DEHOGA-rated 3-star hotel double rooms and youth-hostel-style multi-bed bunk rooms, with separate contact arrangements for the \"Jugendhotel\" side."
+    },
+    {
+      "question": "Can I dine at the castle without staying overnight?",
+      "answer": "Yes — the \"Alter Speicher\" restaurant, installed in the castle's former grain store, is open to non-resident diners, and themed events (such as medieval banquets and Halloween events) also draw day visitors."
+    },
+    {
+      "question": "What is the Wirtschaftshof at Altenhausen Castle?",
+      "answer": "It is a working courtyard west of the castle's historic core, containing Late Gothic, Baroque and Historicist outbuildings that are part of the wider estate."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/altenhausen-castle.webp",
+    "alt": "Altenhausen Castle (Schloß Altenhausen) near Magdeburg, Saxony-Anhalt, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/altenhausen-castle.webp",
+  "instagram_tag": "#altenhausencastle",
+  "meta_title": "Altenhausen Castle — A Hotel, Hostel and Equestrian Centre",
+  "meta_description": "Stay at Altenhausen Castle near Magdeburg — a round medieval core with a Renaissance wing, today combining a 3-star hotel, youth hostel and riding centre.",
+  "tags": [
+    "germany",
+    "saxony-anhalt",
+    "castle-hotel",
+    "magdeburg",
+    "equestrian"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloß Altenhausen",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=schloss-altenhausen&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-altenhausen.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D7034029%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784742268%26srpvid%3D93b27c90d81f0ba3%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 69,
+    "currency": "EUR",
+    "room_count": 45,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens", "horseback riding"],
+    "non_guest_access_note": "The former grain store (Alter Speicher) houses the castle restaurant, open to the public, not only guests. Themed events (medieval banquets, Halloween) also draw day visitors.",
+    "how_to_stay": "**Getting there:** About 30 minutes by car from Magdeburg; roughly 1h30 from Hannover, 2h from Berlin.\n\n**Rooms & rates:** A mix of DEHOGA-3-star double rooms and youth-hostel-style multi-bed rooms with bunk beds; all rooms have shower/WC. From €69/night; exact room location within the complex (historic core vs. courtyard outbuildings) should be confirmed at booking.\n\n**On-site:** \"Alter Speicher\" restaurant in the former grain store, castle park, horse riding and equestrian holiday programs, event spaces for weddings and civil ceremonies.\n\n**Good to know:** The property runs a genuinely dual identity — hotel/event venue and youth hostel/school-trip destination — so room standard and location can vary significantly by booking category. Confirm directly with the property whether your room is within the historic castle core or in a Wirtschaftshof outbuilding.\n\n**Combine with:** Magdeburg's cathedral and old town are a short drive away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}

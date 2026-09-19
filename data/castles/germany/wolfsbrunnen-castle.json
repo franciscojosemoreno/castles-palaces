@@ -1,0 +1,89 @@
+{
+  "id": "wolfsbrunnen-castle",
+  "name": "Wolfsbrunnen Castle",
+  "local_name": "Schloss Hotel Wolfsbrunnen",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Hesse — Schwebda, Meinhard, Werra-Meißner-Kreis",
+  "nearest_city": "Eschwege",
+  "address": "Wolfsbrunnen 1, 37276 Meinhard, Germany",
+  "lat": 51.1970,
+  "lng": 10.0350,
+  "unesco": false,
+  "year_built": 1904,
+  "architectural_style": "Neo-Renaissance mansion built 1904–1907; major renovations in 1989 (hotel conversion) and 2009 (roof and tower reconstruction)",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant is separately open to non-resident diners",
+  "best_season": "Year-round; closed for staff holidays in late July/early August",
+  "accessibility": "A Neo-Renaissance mansion set around a natural spring; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Neo-Renaissance mansion built in 1904 as a romantic gift for a wife, funded by her industrialist father — set around the spring that gives the estate its name",
+  "highlights": [
+    "Built between 1904–1907 as a romantic gift from Landrat Alexander von Keudell for his wife Louise, funded by her father, Kassel industrialist Oscar Henschel",
+    "Neo-Renaissance mansion set beside the Wolfsbornquelle spring that gives the property its name",
+    "Reopened as a hotel at the end of 1989 after a major renovation; further renovation in 2009 including the roof and castle tower",
+    "86 rooms combining historic style with modern comforts"
+  ],
+  "description": "Schloss Wolfsbrunnen was built between 1904 and 1907 as a deeply personal gift: Landrat Alexander von Keudell commissioned the Neo-Renaissance mansion for his wife Louise, with the project funded by her father, the Kassel industrialist Oscar Henschel. Nestled around the Wolfsbornquelle spring that gives the estate its name, the castle was conceived from the outset as a romantic private retreat rather than a seat of administrative or military power.\n\nThe property changed hands several times over the following century. In 1985 the local community sold it to a Munich-based company, and after economic difficulties it passed to another Munich firm, which carried out a major renovation and converted the building into hotel apartments; the Hotel Schloss Wolfsbrunnen opened at the end of 1989. A further change of ownership in 2009 brought another substantial renovation — including a full reconstruction of the roof and castle tower with new slate — restoring a building that had fallen into disrepair and reopening it as the 86-room hotel operating today.\n\nThe personal, romantic origin of Wolfsbrunnen distinguishes it from many of the dynastic or administratively-motivated castles covered elsewhere in this collection — this was conceived from the start as a private gift between spouses, funded by industrial wealth rather than aristocratic land revenue or state patronage.\n\nOscar Henschel's involvement as the project's financial backer connects Wolfsbrunnen to the broader story of Kassel's industrial development in the late 19th and early 20th centuries, when the Henschel family's locomotive and engineering works made it one of the region's most significant industrial dynasties.\n\nThe estate's multiple changes of corporate ownership through the late 20th century, including a period of decline before its 2009 restoration, reflects the genuine financial challenges many smaller German castle properties faced in maintaining large historic buildings without either institutional backing or a well-established luxury hotel brand behind them.\n\nThe Werra valley surrounding Wolfsbrunnen offers a quieter, less internationally known stretch of Hessian countryside compared to the Rhine or Neckar valleys, giving guests staying at the castle a genuinely different, low-key regional character, with the historic town of Eschwege a short drive away.\n\nThe 2009 reconstruction of the roof and tower, carried out with new slate rather than a cheaper modern substitute, reflects a deliberate commitment to matching the building's original 1904 material palette during restoration, a choice that preserves the mansion's visual authenticity even as the interiors have been substantially updated for contemporary hotel use.",
+  "history": "Schloss Wolfsbrunnen was built between 1904 and 1907 as a gift from Landrat Alexander von Keudell for his wife Louise, funded by her father, Kassel industrialist Oscar Henschel. After several changes of ownership, the property was renovated and reopened as a hotel at the end of 1989. A further renovation in 2009, including full reconstruction of the roof and castle tower, restored the building, which now operates as an 86-room hotel around the Wolfsbornquelle spring that gives it its name.",
+  "faqs": [
+    {
+      "question": "Why was Wolfsbrunnen Castle built?",
+      "answer": "It was built between 1904 and 1907 as a romantic gift from Landrat Alexander von Keudell for his wife Louise, funded by her father, the Kassel industrialist Oscar Henschel."
+    },
+    {
+      "question": "Is Wolfsbrunnen Castle open year-round?",
+      "answer": "The hotel closes for staff holidays for roughly two weeks each summer (around 19 July to 3 August); verify current-year closure dates directly with the property before planning a visit during that window."
+    },
+    {
+      "question": "Are all the rooms within the historic mansion?",
+      "answer": "Yes — all 86 rooms are within the single Neo-Renaissance mansion built 1904–1907; no separate annex buildings have been identified."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wolfsbrunnen-castle.webp",
+    "alt": "Wolfsbrunnen Castle (Schloss Hotel Wolfsbrunnen) in Schwebda, Meinhard, Hesse, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wolfsbrunnen-castle.webp",
+  "instagram_tag": "#wolfsbrunnencastle",
+  "meta_title": "Wolfsbrunnen Castle — A Romantic Neo-Renaissance Hotel in Hesse",
+  "meta_description": "Stay at Wolfsbrunnen Castle near Eschwege — a Neo-Renaissance mansion built in 1904 as a romantic gift, set around a natural spring in the Werra valley.",
+  "tags": [
+    "germany",
+    "hesse",
+    "castle-hotel",
+    "neo-renaissance",
+    "werra-valley"
+  ],
+  "last_updated": "2026-09-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Hotel Wolfsbrunnen",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=schloss-wolfsbrunnen&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-wolfsbrunnen.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D378431%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784742494%26srpvid%3Dbb117d2cae9703ae%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 169,
+    "currency": "EUR",
+    "room_count": 86,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; access appears limited to guests and restaurant diners.",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Eschwege; roughly 1h from Kassel and 1h15 from Göttingen.\n\n**Rooms & rates:** 86 rooms within the single Neo-Renaissance mansion built 1904–1907, no separate annex buildings identified. From €169/night.\n\n**On-site:** Restaurant, gardens around the spring-fed grounds, event spaces.\n\n**Good to know:** The hotel closes for staff holidays for roughly two weeks each summer (19 July–3 August 2026) — verify current-year closure dates before publishing any \"always available\" framing.\n\n**Combine with:** The Werra valley and the historic town of Eschwege are a short drive away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-19"
+  }
+}
