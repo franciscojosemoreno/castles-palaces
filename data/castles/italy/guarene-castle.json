@@ -1,0 +1,94 @@
+{
+  "id": "guarene-castle",
+  "name": "Guarene Castle",
+  "local_name": "Castello di Guarene",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "italy",
+  "region": "Piedmont — Guarene, Cuneo Province, Roero (UNESCO wine landscape)",
+  "nearest_city": "Alba",
+  "address": "Via Alessandro Roero, 2, 12050 Guarene CN, Italy",
+  "lat": 44.7175,
+  "lng": 8.0333,
+  "unesco": false,
+  "year_built": 1200,
+  "architectural_style": "Medieval feudal manor documented from 1200; rebuilt as a Baroque summer residence from 1726 under Count Carlo Giacinto Roero, with architectural influence from Filippo Juvarra",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; September to October for the Roero and Langhe grape harvest",
+  "accessibility": "A restored Baroque castle-hotel with all rooms within the historic 18th-century building; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A medieval manor rebuilt as a Baroque summer residence in 1726, in the Roero hills above Alba — visited by the King and Queen of Sardinia in 1773",
+  "highlights": [
+    "Documented as a feudal manor from 1200; rebuilt as a Baroque summer residence from 1726 by Count Carlo Giacinto Roero",
+    "Piedmontese Baroque architecture influenced by Filippo Juvarra, friend and mentor to the count",
+    "Visited by the King and Queen of Sardinia in 1773",
+    "Converted into a luxury hotel in 2011; retains a small history museum and the elliptical Chapel of Santa Teresa"
+  ],
+  "description": "Castello di Guarene stands on the site of a feudal manor documented as early as 1200, in the Roero hills of Piedmont — a landscape later inscribed as part of the UNESCO wine-growing heritage of the region. In 1726, Count Carlo Giacinto Roero began an extensive reconstruction, transforming the medieval manor into a Baroque summer residence with architecture influenced by Filippo Juvarra, the celebrated architect who was both friend and mentor to the count. The prestige of the completed residence drew royal attention: the King and Queen of Sardinia visited in 1773.\n\nOwnership passed to the Provana di Collegno family in 1899, and the castle remained a private residence until 2011, when new owners acquired the property and converted it into a luxury hotel. Today's 12 rooms and suites — eight on the third floor named after historical figures, four on the ground floor — occupy the historic Baroque building itself, ranging from a 40-square-meter Classic Room to a 200-square-meter Luxury Suite, alongside the estate's elliptical-plan Chapel of Santa Teresa and a small museum dedicated to the castle's history.\n\nFilippo Juvarra's influence on the 1726 reconstruction connects Guarene to one of the defining figures of the Piedmontese Baroque, whose broader body of work reshaped the architectural identity of the House of Savoy's territory during the same period.\n\nThe 1773 visit by the King and Queen of Sardinia marks the moment the Roero family's summer residence reached the height of its social prestige, a peak the building's later 19th- and 20th-century private ownership under the Provana di Collegno family maintained without the same public visibility.\n\nThe 2011 conversion into a hotel preserved rather than replaced the building's Baroque character, with today's 12 rooms distributed across the same structure the count completed nearly three centuries earlier — no modern annex was added to accommodate the property's new hospitality function.\n\nThe surrounding Roero and neighboring Langhe hills, both UNESCO-listed wine landscapes, give guests staying at Guarene direct access to one of Italy's most celebrated wine regions, with the town of Alba a short drive away for its own historic center and white-truffle tradition.",
+  "history": "Castello di Guarene stands on the site of a feudal manor documented from 1200, in Piedmont's Roero hills. Count Carlo Giacinto Roero rebuilt it as a Baroque summer residence from 1726, with architecture influenced by Filippo Juvarra, and the King and Queen of Sardinia visited in 1773. The Provana di Collegno family owned it as a private residence from 1899 until 2011, when it was converted into a luxury hotel. Today's 12 rooms and suites occupy the historic Baroque building, alongside a small history museum and the elliptical Chapel of Santa Teresa.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Guarene Castle within the historic building?",
+      "answer": "Yes — all 12 rooms and suites are within the 18th-century Baroque building itself, eight on the third floor and four on the ground floor."
+    },
+    {
+      "question": "Can I visit Guarene Castle without staying overnight?",
+      "answer": "No confirmed independent day-visit product was found; the castle's small history museum and chapel are part of the hotel experience for overnight guests."
+    },
+    {
+      "question": "How large are the rooms at Guarene Castle?",
+      "answer": "Room sizes vary considerably, from a 40-square-meter Classic Room to a 200-square-meter Luxury Suite."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/guarene-castle.webp",
+    "alt": "Guarene Castle (Castello di Guarene) in the Roero hills, Piedmont, Italy, rebuilt as a Baroque residence from 1726",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/guarene-castle.webp",
+  "instagram_tag": "#guarenecastle",
+  "meta_title": "Guarene Castle — A Baroque Hotel in the Roero Hills",
+  "meta_description": "Stay at Guarene Castle near Alba — a 1726 Baroque residence in Piedmont's UNESCO-listed Roero hills, visited by the King and Queen of Sardinia in 1773.",
+  "tags": [
+    "italy",
+    "piedmont",
+    "castle-hotel",
+    "roero",
+    "unesco",
+    "baroque",
+    "wine"
+  ],
+  "last_updated": "2026-09-21",
+  "routes": [],
+  "nearby_castles": [
+    "govone-castle",
+    "castle-of-cisterna-d-asti"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castello di Guarene",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=castello-di-guarene&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-guarene.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1292746%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784815570%26srpvid%3D089063229fbf1367%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 339,
+    "currency": "EUR",
+    "room_count": 12,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens", "chapel", "museum"],
+    "non_guest_access_note": "The castle has a small museum dedicated to its history, but no confirmed independent day-visit product beyond a hotel stay was found.",
+    "how_to_stay": "**Getting there:** About 10 minutes by car from Alba; roughly 1h from Turin and 1h30 from Genoa.\n\n**Rooms & rates:** 12 rooms and suites, all within the historic 18th-century Baroque building — 8 on the third floor, 4 on the ground floor.\n\n**On-site:** Restaurant, gardens, on-site history museum, the elliptical Chapel of Santa Teresa.\n\n**Good to know:** Room sizes vary dramatically, from a 40m² Classic Room to a 200m² Luxury Suite — worth checking the specific room category if space is a priority.\n\n**Combine with:** The Roero and Langhe wine regions, both UNESCO-listed landscapes, and the town of Alba.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}

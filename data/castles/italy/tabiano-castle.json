@@ -1,0 +1,92 @@
+{
+  "id": "tabiano-castle",
+  "name": "Tabiano Castle",
+  "local_name": "Antico Borgo Di Tabiano Castello",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "italy",
+  "region": "Emilia-Romagna — Tabiano, Salsomaggiore Terme, Parma Province",
+  "nearest_city": "Parma",
+  "address": "Via Castello, 6, 43039 Tabiano PR, Italy",
+  "lat": 44.8167,
+  "lng": 10.0500,
+  "unesco": false,
+  "year_built": 1000,
+  "architectural_style": "11th-century military fortress of the Marquises Pallavicino, built atop the ruins of a Roman settlement; today a restored diffuse-hotel hamlet",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; spa season in Salsomaggiore Terme runs year-round",
+  "accessibility": "Rooms are spread across several historic buildings of a hilltop hamlet; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "An 11th-century Pallavicino fortress on Roman foundations, today a diffuse-hotel hamlet above the Parma countryside",
+  "highlights": [
+    "11th-century military fortress of the Marquises Pallavicino, built atop the ruins of a Roman settlement",
+    "History marked by Guelph-Ghibelline wars and conflicts between empire and papacy through the Middle Ages",
+    "Today a relais de charme, with rooms spread across the watchtower, the sharecropper's house, the tailor's house, and the borgo's old inn",
+    "40 rooms in total: 3 apartments, 6 suites, 4 junior suites, 15 superior and 4 standard rooms"
+  ],
+  "description": "The Antico Borgo di Tabiano, dating to the 11th century, began as a military fortress of the Marquises Pallavicino, built atop the ruins of an earlier Roman settlement. Through its first four centuries, the castle's history tracked the broader turbulence of the Italian High and Late Middle Ages — wars between Guelphs and Ghibellines, conflicts between emperor and papacy bringing sieges, destruction, conquest, and betrayal, alongside the more personal dramas of love and conspiracy among the ruling family.\n\nRecently restored and transformed into a relais de charme, the property today spreads its 40 rooms across the various historic residences that make up the hilltop village itself — from the watchtower to the sharecropper's house, the tailor's house, and the old inn — each offering modern comforts alongside sweeping views over the Parma countryside. The room mix spans three apartments, six suites, four junior suites, fifteen superior rooms and four standard rooms, distributed across this genuinely diffuse historic hamlet rather than concentrated in a single building.\n\nThe fortress's foundation atop an earlier Roman settlement points to a strategic use of this hilltop position stretching back well before the Pallavicino family's medieval fortification, a pattern common across the Emilian hills where later feudal structures frequently reused older Roman sites.\n\nThe borgo's \"albergo diffuso\" (diffuse hotel) model — spreading guest rooms across an entire historic hamlet rather than a single restored building — reflects a broader Italian hospitality trend that prioritizes preserving a settlement's original layout and multiple buildings over concentrating renovation into one structure.\n\nThe nearby spa town of Salsomaggiore Terme, one of Italy's most established thermal destinations, gives guests staying at Tabiano Castle easy access to wellness tourism alongside the borgo's own medieval history.",
+  "history": "The Antico Borgo di Tabiano began as an 11th-century military fortress of the Marquises Pallavicino, built atop the ruins of a Roman settlement, and its early centuries were shaped by Guelph-Ghibelline conflicts and wars between emperor and papacy. Restored and transformed into a relais de charme, the property today spreads its 40 rooms across the historic buildings of the hilltop hamlet itself — the watchtower, the sharecropper's house, the tailor's house, and the old inn.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Tabiano Castle in one building?",
+      "answer": "No — the 40 rooms are spread across several historic buildings that make up the hilltop hamlet: the watchtower, the sharecropper's house, the tailor's house, and the old inn. This \"albergo diffuso\" style means room character and views vary considerably."
+    },
+    {
+      "question": "Can I visit Tabiano Castle without staying overnight?",
+      "answer": "No confirmed independent day-visit product was found; it operates as a private relais de charme within the historic borgo."
+    },
+    {
+      "question": "What is Tabiano Castle close to?",
+      "answer": "The spa town of Salsomaggiore Terme, about 10 minutes away, and the city of Parma, roughly 30 minutes by car."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/tabiano-castle.webp",
+    "alt": "Tabiano Castle (Antico Borgo Di Tabiano Castello), a restored medieval hamlet near Salsomaggiore Terme, Emilia-Romagna, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/tabiano-castle.webp",
+  "instagram_tag": "#tabianocastle",
+  "meta_title": "Tabiano Castle — A Diffuse-Hotel Hamlet Near Parma",
+  "meta_description": "Stay at Tabiano Castle near Salsomaggiore Terme — an 11th-century Pallavicino fortress turned diffuse-hotel hamlet in the Parma countryside.",
+  "tags": [
+    "italy",
+    "emilia-romagna",
+    "castle-hotel",
+    "parma",
+    "salsomaggiore",
+    "albergo-diffuso"
+  ],
+  "last_updated": "2026-09-21",
+  "routes": [],
+  "nearby_castles": [
+    "castello-di-torrechiara"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Antico Borgo Di Tabiano Castello - Relais de Charme",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=borgo-di-tabiano-castello&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fantico-borgo-di-tabiano-castello.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D88631%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784816147%26srpvid%3D857d644696c604a2%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 81,
+    "currency": "EUR",
+    "room_count": 40,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens", "hilltop views"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; it operates as a private relais de charme within the historic borgo.",
+    "how_to_stay": "**Getting there:** About 10 minutes by car from Salsomaggiore Terme; roughly 30 minutes from Parma and 1h from Piacenza.\n\n**Rooms & rates:** 40 rooms (3 apartments, 6 suites, 4 junior suites, 15 superior, 4 standard) spread across the historic borgo's various buildings — the watchtower, the sharecropper's house, the tailor's house, and the old inn. From €81/night.\n\n**On-site:** Restaurant, gardens, hilltop views over the Parma countryside.\n\n**Good to know:** This is a \"diffuse hotel\" (albergo diffuso) style property — rooms are spread across an entire historic hamlet rather than one building, so the character and views vary considerably by room.\n\n**Combine with:** The spa town of Salsomaggiore Terme and the city of Parma.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}
