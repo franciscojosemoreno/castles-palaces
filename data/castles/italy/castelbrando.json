@@ -109,5 +109,20 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "CastelBrando",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=castelbrando&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastelbrandocisondivalmarinotreviso.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D81455%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784815481%26srpvid%3D682362fa33f30376%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 159,
+    "currency": "EUR",
+    "room_count": 66,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "museum", "gardens"],
+    "non_guest_access_note": "The GYG Princess Spa access (t761906) and the castle museum areas are already covered above in How to Visit — not duplicated here.",
+    "how_to_stay": "Beyond the Princess Spa and museum areas already covered on this page, CastelBrando also operates as a full-service hotel — one of the few places in this collection where guests can genuinely sleep within the medieval walls documented in \"How to Visit.\" Fifty rooms occupy the castle itself, with the Classic rooms set in the 18th-century wing amid period furnishings and historic details, while an additional 16 rooms are housed in a separate Dépendance down in the village of Cison di Valmarino, connected to the castle by a scenic funicular.\n\n**Getting there:** Same access as How to Visit above.\n\n**Rooms & rates:** 50 rooms within the castle itself (Classic rooms in the 18th-century wing); 16 additional rooms in a separate village Dépendance, linked to the castle by a panoramic funicular. From €159/night.\n\n**On-site:** Restaurant, Princess Spa (see How to Visit for day-pass details), on-site museum areas, event spaces.\n\n**Good to know:** Rooms in the castle itself put guests directly within the medieval and Roman-era structures described in How to Visit; Dépendance rooms trade that for village-level convenience, connected by funicular.\n\n**Combine with:** Same recommendations as How to Visit — the Conegliano Valdobbiadene Prosecco Hills.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-21"
+  }
 }

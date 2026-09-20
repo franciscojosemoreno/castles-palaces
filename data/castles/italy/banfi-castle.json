@@ -1,0 +1,94 @@
+{
+  "id": "banfi-castle",
+  "name": "Banfi Castle",
+  "local_name": "Castello Banfi - Il Borgo",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 24,
+  "country": "italy",
+  "region": "Tuscany — Montalcino, Siena Province",
+  "nearest_city": "Montalcino",
+  "address": "Castello di Poggio alle Mura, 53024 Montalcino SI, Italy",
+  "lat": 42.9410,
+  "lng": 11.4550,
+  "unesco": false,
+  "year_built": 1100,
+  "architectural_style": "Medieval castle (Castello di Poggio alle Mura, 12th century) now the Banfi winery headquarters; the hotel occupies Il Borgo, an 18th-century stone agricultural village built beneath the castle's walls",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the winery and wine tastings are separately open to the public",
+  "best_season": "Year-round; April to October for vineyard views and harvest-season events",
+  "accessibility": "A boutique hotel in a restored 18th-century stone village beneath a medieval castle; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The medieval castle here is the Banfi winery's headquarters — the hotel is Il Borgo, an 18th-century stone hamlet built beneath its walls for the farmworkers who once served it",
+  "highlights": [
+    "The Castello di Poggio alle Mura, of medieval origin (12th century), today houses the headquarters of the Banfi winery, with nearly 3,000 hectares of vineyards",
+    "The 14-room boutique hotel occupies Il Borgo, an 18th-century stone agricultural village built beneath the castle's walls",
+    "Acquired in 1983 by Italian-American brothers John and Harry Mariani, founders of the Banfi winery",
+    "A Relais & Châteaux member; combines boutique accommodation with wine tasting and gastronomy"
+  ],
+  "description": "The Castello di Poggio alle Mura, whose origins trace to the 12th century, has developed largely between the 9th and 13th centuries, with archaeological evidence — underground chambers cut into tufa rock and Etruscan-era pottery found during recent restoration — suggesting an even older settlement history, later overlaid by Roman-era stonework visible in the entrance arch. In 1983, Italian-American brothers John and Harry Mariani acquired the castle, folding it into the Banfi wine estate that today spans nearly 3,000 hectares across the Montalcino hills.\n\nRather than convert the medieval castle itself into guest accommodation, Banfi turned it into the winery's headquarters and tasting facility, while the boutique hotel occupies Il Borgo — an 18th-century stone agricultural village built beneath the castle's protective walls, its 14 rooms and suites carved from the former homes of farmworkers who once served the castle's noble owners. The result is a genuinely dual-building estate: a medieval fortress dedicated to winemaking, and a separate historic hamlet dedicated to hospitality, connected by shared grounds and the Banfi name.\n\nThe archaeological layering beneath the castle — Etruscan pottery, tufa-cut chambers, Roman stonework in the entrance arch — points to a settlement history considerably older than the medieval fortification itself, reflecting the long continuity of habitation on this ridge above the Montalcino hills across nearly three millennia.\n\nThe Mariani brothers' decision to dedicate the medieval castle to winemaking rather than hospitality reflects a broader philosophy at Banfi, where the estate's identity as one of Montalcino's most significant Brunello producers takes precedence over converting every historic building into guest rooms — a choice that keeps the castle's working winery function genuinely central rather than symbolic.\n\nIl Borgo's transformation from farmworkers' housing into a Relais & Châteaux boutique hotel represents a considerable elevation in the buildings' function, while preserving their original stone construction and village layout — guests today occupy spaces that once housed the agricultural laborers whose work sustained the estate for centuries.\n\nThe nearly 3,000 hectares of the wider Banfi estate place it among the largest single wine-producing properties in the Brunello di Montalcino DOCG zone, giving guests staying at Il Borgo access to a genuinely substantial working vineyard landscape rather than a token estate garden.\n\nMontalcino's hilltop old town, a short drive from the estate, offers guests an easy pairing between the Banfi estate's wine-focused hospitality and the wider medieval heritage and Brunello culture of the surrounding Val d'Orcia region.",
+  "history": "The Castello di Poggio alle Mura traces its origins to the 12th century, with archaeological evidence suggesting even older Etruscan and Roman-era occupation. In 1983, Italian-American brothers John and Harry Mariani acquired the castle, making it the headquarters of the Banfi wine estate, which today spans nearly 3,000 hectares. The medieval castle itself remains the winery's headquarters, while the boutique hotel occupies Il Borgo, an 18th-century stone agricultural village built beneath the castle's walls from former farmworkers' housing.",
+  "faqs": [
+    {
+      "question": "Do hotel guests at Banfi Castle stay inside the medieval castle?",
+      "answer": "No — the 14 rooms and suites are within Il Borgo, an 18th-century stone agricultural village built beneath the castle's walls. The medieval Castello di Poggio alle Mura itself is the headquarters of the Banfi winery, not guest accommodation."
+    },
+    {
+      "question": "Can I visit the Banfi winery without staying at the hotel?",
+      "answer": "Yes — wine tastings and tours of the winery, housed in the medieval castle, are open to the general public, independent of a hotel stay."
+    },
+    {
+      "question": "How large is the Banfi wine estate?",
+      "answer": "Nearly 3,000 hectares across the Montalcino hills, making it one of the largest single wine-producing properties in the Brunello di Montalcino DOCG zone."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/banfi-castle.webp",
+    "alt": "Banfi Castle (Castello Banfi - Il Borgo) near Montalcino, Tuscany, Italy, with the medieval Castello di Poggio alle Mura in the background",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/banfi-castle.webp",
+  "instagram_tag": "#banficastle",
+  "meta_title": "Banfi Castle — A Boutique Hotel at the Banfi Wine Estate",
+  "meta_description": "Stay at Banfi Castle near Montalcino — a boutique hotel in Il Borgo, the 18th-century village beneath the medieval castle that houses the Banfi winery.",
+  "tags": [
+    "italy",
+    "tuscany",
+    "castle-hotel",
+    "montalcino",
+    "brunello",
+    "wine",
+    "relais-chateaux"
+  ],
+  "last_updated": "2026-09-21",
+  "routes": [],
+  "nearby_castles": [
+    "castello-di-velona",
+    "castello-tricerchi"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello Banfi - Il Borgo",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-banfi&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-banfi-il-borgo.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D439626%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784815140%26srpvid%3D79bb624f4a7e06b3%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 549,
+    "currency": "EUR",
+    "room_count": 14,
+    "room_location": "annex",
+    "amenities": ["restaurant", "winery", "gardens"],
+    "non_guest_access_note": "The Castello di Poggio alle Mura (12th century) houses the Banfi winery headquarters and its wine tastings, not an independent museum-style visit; tastings and tours are open to the general public, not just hotel guests.",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Montalcino; roughly 50 minutes from Siena and 2h from Florence.\n\n**Rooms & rates:** 14 rooms and suites (9 rooms, 5 suites) within Il Borgo, the 18th-century stone village beneath the castle walls — not within the medieval castle itself, which houses the Banfi winery. From €549/night.\n\n**On-site:** Restaurant, winery and wine-tasting experiences, gardens.\n\n**Good to know:** Guests stay in the historic estate village rather than inside the medieval castle proper — the castle itself is the working winery headquarters, open to the public for tastings and tours regardless of hotel stay.\n\n**Combine with:** Montalcino's historic center and the Brunello di Montalcino wine route.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-21"
+  }
+}

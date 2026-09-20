@@ -104,5 +104,19 @@
       ],
       "booking_url_override": "https://www.getyourguide.com/montalcino-l5056/montalcino-castello-di-velona-resort-spa-day-pass-t1234001/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Velona Resort Thermal Spa & Winery",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=castello-di-velona&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-velona-resort-thermal-spa-winery.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D84760%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784815299%26srpvid%3D50e9629ea8b601b3%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 419,
+    "currency": "EUR",
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "winery", "gardens"],
+    "non_guest_access_note": "The GYG resort spa day pass (t1234001) is already covered above in How to Visit — not duplicated here.",
+    "how_to_stay": "Beyond the resort's celebrated spa day pass — already covered on this page — Castello di Velona also operates as a hotel, with accommodation split between the \"historic zone,\" where the 12th-century watchtower and Renaissance loggia anchor rooms with genuine period character, and a newer wing built to house additional modern rooms alongside the restaurant and spa facilities. This split mirrors the property's dual identity: a preserved medieval fortress at its core, wrapped in resort infrastructure built to serve both overnight guests and day-pass visitors.\n\n**Getting there:** Same access as How to Visit above — about 10 minutes by car from Montalcino via the SP14.\n\n**Rooms & rates:** Accommodation split between the \"historic zone\" (rooms within or adjacent to the 12th-century tower and Renaissance loggia) and a newer wing with modern rooms, restaurant and spa. From €449/night.\n\n**On-site:** Restaurant, thermal spa and pools (see How to Visit for day-pass details), on-site winery.\n\n**Good to know:** Overnight guests have full access to the thermal pools and spa without the day-pass booking restrictions that apply to day visitors — worth noting for readers comparing a day visit vs. an overnight stay.\n\n**Combine with:** Same recommendations as How to Visit — Monteriggioni and Castel di Poggio.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-21"
+  }
 }

@@ -1,0 +1,90 @@
+{
+  "id": "castello-di-casole",
+  "name": "Castello di Casole",
+  "local_name": "Castello di Casole, A Belmond Hotel, Tuscany",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "italy",
+  "region": "Tuscany — Casole d'Elsa, Siena Province",
+  "nearest_city": "Siena",
+  "address": "Loc. Querceto, 53031 Casole d'Elsa SI, Italy",
+  "lat": 43.3670,
+  "lng": 11.0330,
+  "unesco": false,
+  "year_built": 900,
+  "architectural_style": "10th-century stronghold (originally Castello di Querceto) on a 2,500-year-old Etruscan settlement; became an independent borgo in the 14th century under the Bargagli family; major 18th-century renovation",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; April to October for the estate's gardens and olive groves",
+  "accessibility": "A restored castle estate spread across the main castle building, the old priest's quarters and restored farm buildings; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Built on a 2,500-year-old Etruscan settlement and known historically as Castello di Querceto — today a Belmond hotel on one of Italy's largest private estates",
+  "highlights": [
+    "Origins in the 10th century (as Castello di Querceto), on a 2,500-year-old Etruscan settlement",
+    "Became an independent borgo in the 14th century; held by the aristocratic Bargagli family for three centuries",
+    "Major 18th-century renovation gave the complex its present structure",
+    "Set within one of Italy's largest private estates: 1,700 hectares of olive groves and vineyards"
+  ],
+  "description": "The origins of Castello di Casole trace to the 10th century, though the history of the wider estate stretches back some 2,500 years to Etruscan settlement. The original stronghold, known as Castello di Querceto, was a quadrangular complex with an internal courtyard and four towers, one of which still survives in traces today. In the 14th century, the declining castle transformed into an independent borgo, remaining in the hands of the aristocratic Bargagli family for three centuries.\n\nAn extensive 18th-century renovation gave the complex the structure still admired today. Now operated as a Belmond hotel, the property offers 39 rooms, suites and apartments overlooking gardens with rose beds and lemon groves — ranging from 70-90 square-meter suites with spacious living areas to 37-44 square-meter rooms, some opening onto panoramic terraces over the Tuscan hills, others retaining original stone vaults, fireplaces and restored frescoes. The estate sits within one of Italy's largest private landholdings, 1,700 hectares planted with olives and vines, with accommodation spread across several stone buildings — the main castle, the old priest's quarters, and restored outlying farm buildings — all sensitively restored to preserve their original character.\n\nIt's worth a brief note on naming: the castle's original name, Castello di Querceto, is shared — purely coincidentally — with an unrelated property, Castello Ginori di Querceto, on Tuscany's Maremma coast near Bolgheri, roughly 30km away. The two have no historical connection; \"Querceto\" (meaning \"oak grove\") is simply a common Tuscan place-name element.\n\nThe original quadrangular castle's four-tower layout reflects a standard medieval defensive design, adapted here to the specific topography of the Val d'Elsa hills, with the surviving tower traces offering a tangible link to the site's earliest fortified phase before its later transformation into a residential borgo.\n\nThe Bargagli family's three-century tenure gave the estate a long period of continuous aristocratic ownership and development, during which the transition from defensive stronghold to residential village likely solidified the property's character before the more dramatic 18th-century renovation reshaped its architecture.\n\nThe estate's 1,700 hectares place it among the largest privately held agricultural properties in Italy, giving guests a genuine sense of scale rarely found even among Tuscany's other large wine and olive estates, with working olive groves and vineyards extending well beyond what a typical castle-hotel garden might offer.\n\nCasole d'Elsa, the medieval hilltop town a short distance from the estate, and the wider Val d'Elsa wine region give guests staying at Castello di Casole an easy pairing between the estate's own considerable grounds and the surrounding area's medieval architecture and wine culture.",
+  "history": "Castello di Casole originated in the 10th century as Castello di Querceto, on a 2,500-year-old Etruscan settlement site, with a quadrangular layout and four towers. It became an independent borgo in the 14th century and was held by the Bargagli family for three centuries, before an extensive 18th-century renovation gave it its present structure. Today operated as a Belmond hotel, the property's 39 rooms, suites and apartments are spread across the main castle, the old priest's quarters, and restored farm buildings, within a 1,700-hectare private estate of olive groves and vineyards.",
+  "faqs": [
+    {
+      "question": "Is Castello di Casole the same as Castello Ginori di Querceto?",
+      "answer": "No. Castello di Casole was originally known as Castello di Querceto, but this is an entirely different, unrelated property from Castello Ginori di Querceto on Tuscany's Maremma coast near Bolgheri, roughly 30km away. The shared \"Querceto\" element is a common Tuscan place name, not a historical connection."
+    },
+    {
+      "question": "How large is the Castello di Casole estate?",
+      "answer": "1,700 hectares of olive groves and vineyards, making it one of the largest private landholdings in Italy."
+    },
+    {
+      "question": "Are all the rooms within the original medieval castle?",
+      "answer": "No — the 39 rooms, suites and apartments are distributed across the main castle building, the old priest's quarters, and restored outlying farm buildings, most following the historic castle's stylistic character regardless of which structure they're in."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castello-di-casole.webp",
+    "alt": "Castello di Casole, a Belmond hotel on a 1,700-hectare estate near Casole d'Elsa, Tuscany, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castello-di-casole.webp",
+  "instagram_tag": "#castellodicasole",
+  "meta_title": "Castello di Casole — A Belmond Hotel on a 1,700-Hectare Estate",
+  "meta_description": "Stay at Castello di Casole near Siena — a Belmond hotel on 1,700 hectares of Tuscan olive groves and vineyards, built on a 2,500-year-old Etruscan site.",
+  "tags": [
+    "italy",
+    "tuscany",
+    "castle-hotel",
+    "belmond",
+    "etruscan",
+    "siena"
+  ],
+  "last_updated": "2026-09-21",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castello di Casole, A Belmond Hotel, Tuscany",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-di-casole&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-casole.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D499024%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784815435%26srpvid%3D599f62e3ac0e0144%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 899,
+    "currency": "EUR",
+    "room_count": 39,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "winery", "gardens"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; functions as a private resort/hotel within one of Italy's largest private estates (1,700 hectares).",
+    "how_to_stay": "**Getting there:** About 45 minutes by car from Siena; roughly 1h15 from Florence.\n\n**Rooms & rates:** 39 rooms, suites and apartments distributed across the main castle building, the old priest's quarters, and restored outlying farm buildings — most follow the historic castle's stylistic character regardless of which structure they're in. From €899/night.\n\n**On-site:** Restaurant, spa, wine tasting, gardens with rose beds and lemon groves.\n\n**Good to know:** Room style is consistent across the estate's restored buildings, but the specific building can vary — ask at booking if staying in the original castle structure itself matters to you.\n\n**Combine with:** The medieval town of Casole d'Elsa and the wider Val d'Elsa wine region.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-21"
+  }
+}
