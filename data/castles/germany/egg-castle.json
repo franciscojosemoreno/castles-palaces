@@ -1,0 +1,92 @@
+{
+  "id": "egg-castle",
+  "name": "Egg Castle",
+  "local_name": "Schloss Egg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "Bavaria — Bernried, Landkreis Deggendorf, Lower Bavaria",
+  "nearest_city": "Deggendorf",
+  "address": "Egg 2, 94505 Bernried, Germany",
+  "lat": 48.8830,
+  "lng": 12.9280,
+  "unesco": false,
+  "year_built": 1103,
+  "architectural_style": "First mentioned in 1103 as a moated castle, romantically remodeled in Neo-Gothic style in the mid-19th century; the 45-metre Hungerturm is the tallest castle keep in Bavaria. The hotel and restaurant occupy a separate former estate building (Wirtschaftsgebäude/Burgstall) from 1589 at the foot of the castle, not the main Neo-Gothic building",
+  "price_adult": 10,
+  "price_child": 5,
+  "price_currency": "EUR",
+  "booking_required": false,
+  "official_tickets_url": "https://schloss-egg.de/besichtigung",
+  "visit_duration": "Guided interior tour: about 75 minutes for the full castle complex; overnight stay separately bookable",
+  "best_season": "June to August, when the castle keeps daily hours (10:00–17:00)",
+  "accessibility": "A medieval castle with a separate 1589 hotel/restaurant building at its foot; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "First mentioned in 1103, with the tallest castle keep in Bavaria — but the hotel occupies a separate 1589 estate building at the castle's foot, not the Neo-Gothic castle itself",
+  "highlights": [
+    "First documented in 1103 as the seat of the Knights Eckher von Eckh; the 45-metre Hungerturm keep, built roughly 825 years ago, is the tallest in Bavaria",
+    "Romantically remodeled in Neo-Gothic style in the mid-19th century, giving the castle its present appearance",
+    "The hotel and restaurant occupy a separate historic estate building (Wirtschaftsgebäude/Burgstall) from 1589 at the foot of the castle — not the main Neo-Gothic building itself, in operation as a hotel since 1963",
+    "The castle interior can be visited on guided tours during seasonal opening hours, separate from a hotel stay"
+  ],
+  "description": "Schloss Egg in Bernried, Lower Bavaria, was first mentioned in 1103 as the seat of the Knights Eckher von Eckh, built as a moated castle in the Mettenbach valley. Its most striking surviving feature is the Hungerturm, a keep roughly 825 years old that at 45 metres is the tallest castle tower in all of Bavaria. In the mid-19th century, the castle was romantically remodeled in the Neo-Gothic style, giving it the crenellated, pointed-arch appearance it retains today.\n\nIt's important to be precise about where hotel guests actually stay: the accommodation and restaurant occupy a separate historic building, the old Wirtschaftsgebäude (estate building), constructed in 1589 at the foot of the castle and also known locally as the Burgstall. This building — not the main Neo-Gothic castle itself — has housed a small castle hotel and restaurant since 1963, today offering around 6 individually furnished rooms. The main castle building, meanwhile, remains a family residence that opens to the public on a seasonal, ticketed basis for guided interior tours.\n\nThe distinction between the historic castle and the separate 1589 estate building where guests actually sleep is genuinely easy to miss given how the property markets itself, but it's a meaningful one for anyone specifically hoping to spend a night within the medieval keep or Neo-Gothic halls — that experience isn't part of the hotel stay, though the Burgstall building is itself centuries old and set directly at the castle's foot.\n\nThe castle's seasonal visiting hours — Sundays and holidays only in April and October, daily from May through September — give day visitors genuine, independently ticketed access to the interior via guided tour, with admission of €10 for adults and €5 for children from age 6, paid at the door; no advance booking is required for individual visitors, though groups of 10 or more should register ahead.\n\nThe Hungerturm's status as Bavaria's tallest castle keep is a genuinely notable architectural distinction, giving Schloss Egg a specific claim to fame within the broader landscape of Bavarian castle towers, most of which are considerably more modest in scale.\n\nGuest reviews for the hotel are consistently warm despite the accommodation's separation from the main castle — one recurring theme in reviews describes the property as feeling like stepping back into medieval times, a testament to how effectively the centuries-old Burgstall building and its surrounding castle grounds convey historic atmosphere even without guests sleeping inside the keep itself.\n\nThe Bavarian Forest (Bayerischer Wald) region surrounding Bernried offers extensive hiking and nature tourism, giving guests staying at Egg Castle a genuinely different, forest-and-nature-oriented regional context compared to the more urban or vineyard settings of many other castle-hotels in this collection.",
+  "history": "Schloss Egg was first documented in 1103 as the seat of the Knights Eckher von Eckh, its 45-metre Hungerturm keep the tallest in Bavaria. The castle was romantically remodeled in Neo-Gothic style in the mid-19th century. The hotel and restaurant, in operation since 1963, occupy a separate estate building (Wirtschaftsgebäude/Burgstall) built in 1589 at the foot of the castle — not the main castle building, which remains a family residence open to the public seasonally for guided tours.",
+  "faqs": [
+    {
+      "question": "Do hotel guests at Egg Castle sleep inside the medieval castle?",
+      "answer": "No — the hotel and restaurant occupy a separate historic building, the Wirtschaftsgebäude (estate building) built in 1589 at the foot of the castle, also known as the Burgstall. The main Neo-Gothic castle building remains a family residence, not guest accommodation."
+    },
+    {
+      "question": "Can I visit the interior of Egg Castle?",
+      "answer": "Yes — guided interior tours run on all opening days (Sundays and holidays only in April and October; daily May, June, July, August and September), with admission of €10 for adults and €5 for children from age 6, paid at the door. Groups of 10 or more should register in advance."
+    },
+    {
+      "question": "What is the Hungerturm at Egg Castle?",
+      "answer": "A keep roughly 825 years old that, at 45 metres, is the tallest castle tower in Bavaria."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/egg-castle.webp",
+    "alt": "Egg Castle (Schloss Egg) in Bernried, Lower Bavaria, Germany, with its 45-metre Hungerturm keep",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/egg-castle.webp",
+  "instagram_tag": "#eggcastle",
+  "meta_title": "Egg Castle — Bavaria's Tallest Castle Keep, Since 1103",
+  "meta_description": "Stay near Egg Castle in Bernried, Lower Bavaria — first documented in 1103, home to Bavaria's tallest castle keep. The hotel occupies a separate 1589 building.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "castle-hotel",
+    "medieval",
+    "lower-bavaria",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Schloss Egg",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-egg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-egg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D3659605%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784759789%26srpvid%3Df19b9ef36fc80bce%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 99,
+    "currency": "EUR",
+    "room_count": 6,
+    "room_location": "annex",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "The main castle offers guided interior tours during seasonal hours (Sundays/holidays only in April and October, daily May–September), €10 adults / €5 children, tickets at the door — a genuine day-visit product separate from staying at the hotel.",
+    "how_to_stay": "**Getting there:** About 20 minutes by car from Deggendorf; roughly 1h from Regensburg and 1h30 from Passau.\n\n**Rooms & rates:** Rooms are within the historic 1589 Wirtschaftsgebäude (Burgstall), the former estate building in the outer grounds at the foot of the castle — not the main Neo-Gothic castle building; private bathrooms throughout. From €99/night.\n\n**On-site:** Restaurant, garden, sun terrace, picnic area.\n\n**Good to know:** Guests stay in the estate's historic 1589 building at the foot of the castle rather than inside the main Neo-Gothic castle — still centuries-old and atmospheric, just a different building within the same grounds. Day visitors can separately tour the castle interior during seasonal opening hours.\n\n**Combine with:** The Bavarian Forest (Bayerischer Wald) region and the town of Deggendorf.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

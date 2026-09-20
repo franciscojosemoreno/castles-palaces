@@ -1,0 +1,91 @@
+{
+  "id": "neuweier-castle",
+  "name": "Neuweier Castle",
+  "local_name": "Schloss Neuweier",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "Baden-Württemberg — Neuweier, Baden-Baden district",
+  "nearest_city": "Baden-Baden",
+  "address": "Mauerbergstraße 21, 76534 Baden-Baden, Germany",
+  "lat": 48.7280,
+  "lng": 8.1720,
+  "unesco": false,
+  "architectural_style": "A small historic estate combining a residential castle building with a working winery, set amid its own vineyards",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant is separately open to non-resident diners",
+  "best_season": "Year-round; best for vineyard views April to October",
+  "accessibility": "A small boutique castle hotel set among vineyards; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A boutique winery-castle among its own vineyards in Baden-Baden — just 10 rooms, all inside the historic building, with an estate-wine breakfast guests keep raving about",
+  "highlights": [
+    "A small historic estate combining winemaking with a residential castle building, in the Neuweier district of Baden-Baden",
+    "Just 8 rooms plus 2 suites, all within the historic building itself",
+    "Own winery and vineyards; terrace with views over the surrounding vineyard landscape",
+    "586 verified reviews on Booking.com (8.9/10) — breakfast especially praised"
+  ],
+  "description": "Schloss Neuweier sits amid its own vineyards in the Neuweier district of Baden-Baden, a small historic estate that has long combined winemaking with a residential castle building. Precise construction-date documentation proved elusive in available sources, but the property is well established locally as both a heritage site and a working winery.\n\nToday the castle operates as an intimate 3-star boutique hotel with just 8 rooms and 2 suites, all within the historic building itself. Guest reviews consistently praise the setting among the vineyards, the spacious and comfortable rooms, and an excellent breakfast often served with a glass of sparkling or house wine — a small, personal operation that trades on genuine historic character rather than scale.\n\nThe combination of a residential castle with an actively producing winery reflects a specific and long-established pattern among smaller aristocratic and gentry estates across Germany's wine regions, where agricultural income from vineyards historically supported the upkeep of the residence itself — a working relationship Neuweier continues in its modern hotel form.\n\nBaden's wine-growing tradition, considerably warmer and more southerly in climate than the Rhine and Moselle valleys further north, produces primarily Pinot-family varietals (Spätburgunder, Grauburgunder, Weissburgunder) well suited to Neuweier's own terraced vineyard slopes, giving guests a genuinely regional wine experience alongside their stay.\n\nThe property's small scale — just 10 rooms in total — places it among the more intimate castle-hotels in this collection, distinct from the larger spa and conference-oriented properties found elsewhere, and gives every stay here a personally-scaled, boutique character rather than a resort-style experience.\n\nBaden-Baden itself, one of Europe's most historic spa towns, sits just 10 minutes from Neuweier, giving guests an easy pairing between a quiet vineyard stay and the town's thermal baths, casino and 19th-century resort architecture.\n\nThe consistently high guest ratings (8.9/10 across 586 verified reviews) for a property this small suggest Neuweier has built a strong reputation specifically on the quality and personal attention of a boutique operation, rather than on extensive facilities or scale — a genuinely different value proposition from larger castle-hotels covered elsewhere in this collection.\n\nThe pairing of vineyard views with a historic residential building gives Neuweier a genuinely different sensory character across the seasons: green terraced rows in summer, harvest activity in early autumn, and bare pruned vines through winter, each offering a distinct backdrop for guests looking out from the estate's rooms and terrace.",
+  "history": "Schloss Neuweier is a small historic estate combining winemaking with a residential castle building, in the Neuweier district of Baden-Baden. Its precise construction date is not well documented in available sources. Today it operates as an intimate 3-star boutique hotel with just 8 rooms and 2 suites, all within the historic building, set amid its own working vineyards.",
+  "faqs": [
+    {
+      "question": "How many rooms does Neuweier Castle have?",
+      "answer": "Just 8 rooms plus 2 suites — a total of 10 — all within the historic castle building itself, with no separate annex."
+    },
+    {
+      "question": "Does Neuweier Castle have its own winery?",
+      "answer": "Yes — the estate combines a residential castle building with a working winery and its own vineyards, and breakfast is often served with a glass of sparkling or house wine."
+    },
+    {
+      "question": "How far is Neuweier Castle from Baden-Baden?",
+      "answer": "About 10 minutes by car, making it an easy base for combining a vineyard stay with Baden-Baden's thermal baths, casino and historic spa-town architecture."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/neuweier-castle.webp",
+    "alt": "Neuweier Castle (Schloss Neuweier) among its own vineyards in the Neuweier district of Baden-Baden, Baden-Württemberg, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/neuweier-castle.webp",
+  "instagram_tag": "#neuweiercastle",
+  "meta_title": "Neuweier Castle — A Boutique Winery Hotel in Baden-Baden",
+  "meta_description": "Stay at Neuweier Castle in Baden-Baden — a small, boutique winery estate with just 10 rooms, all within the historic building, amid its own vineyards.",
+  "tags": [
+    "germany",
+    "baden-wurttemberg",
+    "castle-hotel",
+    "baden-baden",
+    "wine",
+    "boutique"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [
+    "eberstein-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Residenz im Schloss Neuweier",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-neuweier&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-neuweier.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D6486265%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784759729%26srpvid%3Dc7fc9ed6800d02f9%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 140,
+    "currency": "EUR",
+    "room_count": 10,
+    "room_location": "castle",
+    "amenities": ["restaurant", "winery"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; the estate operates as a private boutique hotel and winery.",
+    "how_to_stay": "**Getting there:** About 10 minutes by car from central Baden-Baden; roughly 30 minutes from Karlsruhe and 1h from Strasbourg.\n\n**Rooms & rates:** 8 rooms plus 2 suites, all within the historic castle building. From €140/night.\n\n**On-site:** Restaurant with regional and estate-wine pairings, on-site winery and vineyards, terrace dining.\n\n**Good to know:** A genuinely small, boutique property (10 rooms total) rather than a large hotel — book well ahead for peak Baden-Baden season.\n\n**Combine with:** Central Baden-Baden's spa quarter and the Baden wine route through the surrounding vineyards.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

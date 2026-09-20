@@ -1,0 +1,88 @@
+{
+  "id": "waldenstein-castle",
+  "name": "Waldenstein Castle",
+  "local_name": "Burg Waldenstein (Hotel Garni & Events)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "germany",
+  "region": "Baden-Württemberg — Rudersberg, Schwäbischer Wald, Rems-Murr-Kreis",
+  "nearest_city": "Schorndorf",
+  "address": "Waldenstein 1, 73635 Rudersberg, Germany",
+  "lat": 48.8570,
+  "lng": 9.6120,
+  "unesco": false,
+  "architectural_style": "A small hillside castle in the Schwäbischer Wald; exact construction date not documented in available sources",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the terrace and restaurant are separately open to non-resident diners",
+  "best_season": "Year-round",
+  "accessibility": "A small family-run hillside hotel; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A quiet, family-run castle hotel in the Schwäbischer Wald, known for its panoramic terrace and consistently praised views rather than headline history",
+  "highlights": [
+    "A small castle hotel in the Schwäbischer Wald, within the municipality of Rudersberg, Baden-Württemberg",
+    "Operates today as \"Hotel Garni & Events Burg Waldenstein,\" known for its panoramic terrace and quiet setting",
+    "Recent guest reviews (2026) consistently praise the cleanliness, location and views",
+    "A genuinely small, family-run property rather than a large hotel operation"
+  ],
+  "description": "Burg Waldenstein sits in the Schwäbischer Wald, within the municipality of Rudersberg in Baden-Württemberg's Rems-Murr district. Precise documentation of the castle's founding date proved elusive in available sources, though the site is well established as a local landmark and is listed among Rudersberg's official points of interest.\n\nToday the castle operates as the Hotel Garni & Events Burg Waldenstein, a small, family-run property known for its quiet hillside setting and panoramic terrace. Recent guest reviews consistently highlight the cleanliness of the rooms, the excellent location, and the views, with a continental breakfast served daily and the terrace open for relaxed coffee throughout the year. The property's 10 rooms are within the historic castle building itself, with no separate annex identified.\n\nThe lack of a well-documented founding date is not unusual among Germany's smaller regional castles, particularly those that have functioned continuously as private residences or local landmarks rather than sites of major historical events that would have generated extensive written records over the centuries.\n\nThe Schwäbischer Wald (Swabian-Franconian Forest) surrounding Waldenstein is a regional nature park known for its wooded hills and hiking trails, giving the castle's hillside position a genuinely scenic backdrop distinct from the more dramatic river-gorge or vineyard settings found at some other castle-hotels in this collection.\n\nThe \"Garni\" designation in the hotel's own name indicates a bed-and-breakfast-style operation — accommodation with breakfast included but without a full-service restaurant for other meals — a more modest and personally-scaled hospitality model than the full-service castle hotels covered elsewhere in this project, though the property does also host events and offers some dining alongside its terrace.\n\nRudersberg and the wider Rems-Murr district sit within reasonable striking distance of Stuttgart, giving guests staying at Waldenstein a genuinely rural retreat option within about half an hour of Baden-Württemberg's state capital.\n\nThe consistency of recent guest feedback praising the property's cleanliness and views, despite its small scale and modest historical documentation, suggests Waldenstein has built a solid local reputation on the quality of its hospitality and setting rather than on grand historic claims — a genuinely different value proposition from castle-hotels that lead primarily with centuries of documented aristocratic history.\n\nFor travelers weighing Waldenstein against the larger, more extensively documented castle-hotels covered elsewhere in this collection, the honest comparison is one of scale and emphasis rather than quality: a 10-room family-run property built around a good breakfast and a good view, rather than a sprawling estate with centuries of aristocratic pedigree to explore.",
+  "history": "Burg Waldenstein sits in the Schwäbischer Wald, within the municipality of Rudersberg in Baden-Württemberg. Its precise founding date is not well documented in available sources. Today it operates as the Hotel Garni & Events Burg Waldenstein, a small, family-run property with 10 rooms within the historic building itself, known for its panoramic terrace and consistently praised views.",
+  "faqs": [
+    {
+      "question": "How old is Waldenstein Castle?",
+      "answer": "A precise founding date is not well documented in available sources, though the site is an established local landmark in Rudersberg."
+    },
+    {
+      "question": "How many rooms does Waldenstein Castle have?",
+      "answer": "10 rooms, all within the historic castle building itself, with no separate annex identified."
+    },
+    {
+      "question": "What does \"Hotel Garni\" mean at Waldenstein Castle?",
+      "answer": "\"Garni\" indicates a bed-and-breakfast-style hotel — accommodation with breakfast included but without a full-service restaurant for other meals — though the property does also offer some dining and event hosting."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/waldenstein-castle.webp",
+    "alt": "Waldenstein Castle (Burg Waldenstein) in the Schwäbischer Wald, Rudersberg, Baden-Württemberg, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/waldenstein-castle.webp",
+  "instagram_tag": "#waldensteincastle",
+  "meta_title": "Waldenstein Castle — A Quiet Hillside Hotel in the Schwäbischer Wald",
+  "meta_description": "Stay at Waldenstein Castle near Rudersberg — a small, family-run castle hotel in the Schwäbischer Wald, known for its panoramic terrace and views.",
+  "tags": [
+    "germany",
+    "baden-wurttemberg",
+    "castle-hotel",
+    "schwabischer-wald",
+    "rudersberg"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Garni & Events Burg Waldenstein",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=burg-waldenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-waldenstein.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D4019301%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784743940%26srpvid%3Dc7377fff75b4238d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 89,
+    "currency": "EUR",
+    "room_count": 10,
+    "room_location": "castle",
+    "amenities": ["restaurant", "terrace"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; the property functions as a private hotel and restaurant/events venue.",
+    "how_to_stay": "**Getting there:** About 30 minutes by car from Stuttgart; roughly 20 minutes from Schorndorf and Welzheim.\n\n**Rooms & rates:** 10 rooms within the historic castle building, featuring private bathrooms, flat-screen TVs and blackout curtains. From €89/night.\n\n**On-site:** Restaurant, panoramic terrace, event spaces.\n\n**Good to know:** A small, family-run property rather than a large hotel operation — expect a more intimate, personal style of service.\n\n**Combine with:** The Schwäbischer Wald nature park and the town of Schorndorf.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

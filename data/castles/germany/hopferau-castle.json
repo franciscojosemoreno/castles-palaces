@@ -1,0 +1,93 @@
+{
+  "id": "hopferau-castle",
+  "name": "Hopferau Castle",
+  "local_name": "Schloss zu Hopferau",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "germany",
+  "region": "Bavaria — Hopferau, Ostallgäu, near Füssen",
+  "nearest_city": "Füssen",
+  "address": "Schlossstraße 1, 87659 Hopferau, Germany",
+  "lat": 47.5960,
+  "lng": 10.6980,
+  "unesco": false,
+  "year_built": 1468,
+  "architectural_style": "Three-story gabled main building (1468) with a 19th-century three-story hip-roofed Neo-Gothic wing",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant and beer garden are separately open to non-resident diners",
+  "best_season": "Year-round",
+  "accessibility": "A single historic building combining a 15th-century main block and a 19th-century Neo-Gothic wing; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Built in 1468 just 13km from Neuschwanstein — and once the wartime hiding place of Konrad Zuse's pioneering Z4 computer",
+  "highlights": [
+    "Built in 1468 by the knight Sigmund von Freyberg-Eisenberg as a hunting lodge; extended with a Neo-Gothic wing in the 19th century",
+    "Just 13km from Neuschwanstein and Hohenschwangau castles, in Bavaria's Ostallgäu",
+    "Historic wartime hiding place of Konrad Zuse's pioneering Z4 computer",
+    "New ownership since February 2025 (Manfred Rietzler, owner of the Festspielhaus concert venue in Füssen), with plans to expand event and office use"
+  ],
+  "description": "Schloss zu Hopferau was built in 1468 by the knight Sigmund von Freyberg-Eisenberg, originally conceived as a hunting lodge in the rolling countryside of the Ostallgäu, just 13 kilometers from what would later become the world-famous Neuschwanstein and Hohenschwangau castles. The building's three-story gabled main structure was later extended with a three-story hip-roofed Neo-Gothic wing in the 19th century, giving the castle its present pointed-arch, crenellated facade. During the chaos of the Second World War, the estate briefly played an unexpected role in computing history when Konrad Zuse's pioneering Z4 computer was hidden here to protect it from destruction.\n\nIn February 2025 the castle changed hands, acquired by Manfred Rietzler, owner of the Festspielhaus concert venue in nearby Füssen. Rietzler has signaled plans to expand the property's use as an events and office venue, with some rooms earmarked for visiting artists and Festspielhaus guests, while continuing weddings, Christmas markets, and community events with the local municipality. The 17-room hotel remains actively bookable through 2026 via Booking.com and the castle's own website, with 599 verified reviews and an 8.6 rating as of this writing.\n\nThe Z4's wartime relocation to Hopferau is a genuinely notable footnote in the history of computing: Konrad Zuse's Z4, one of the earliest programmable computers in the world, was moved out of Berlin to escape Allied bombing, and its survival at rural sites like Hopferau ultimately allowed the machine to continue operating after the war, eventually being used at ETH Zurich into the 1950s.\n\nThe castle's proximity to Neuschwanstein and Hohenschwangau places it within one of Bavaria's most visited tourist corridors, giving Hopferau guests an unusually convenient base for exploring King Ludwig II's famous 19th-century castles without staying in the more heavily trafficked town of Füssen itself.\n\nManfred Rietzler's acquisition and stated plans to blend hotel, events, office and artist-accommodation uses reflect a broader pattern among smaller German castle properties, where diversifying revenue streams beyond pure hospitality has become a common strategy for sustaining the upkeep of a large historic building.\n\nThe Ostallgäu region surrounding Hopferau combines Alpine foothill scenery with a dense concentration of royal Bavarian heritage sites, giving visitors staying at the castle a rich regional context for combining a countryside stay with some of Germany's most internationally recognizable architecture.\n\nThe Festspielhaus Füssen, the concert venue whose owner acquired Hopferau in 2025, is itself a significant regional cultural institution, and the planned integration between the two properties suggests a future where guests attending performances there might increasingly overlap with those staying at the castle — a genuinely evolving relationship worth watching for anyone with a longer-term interest in the property.",
+  "history": "Schloss zu Hopferau was built in 1468 by the knight Sigmund von Freyberg-Eisenberg as a hunting lodge, later extended with a 19th-century Neo-Gothic wing. During the Second World War, Konrad Zuse's pioneering Z4 computer was hidden here to protect it from destruction. In February 2025 the castle was acquired by Manfred Rietzler, owner of the Festspielhaus concert venue in Füssen, who has signaled plans to expand its use for events, offices and artist accommodation alongside the existing 17-room hotel.",
+  "faqs": [
+    {
+      "question": "What is Hopferau Castle's connection to early computing history?",
+      "answer": "Konrad Zuse's pioneering Z4 computer, one of the earliest programmable computers in the world, was hidden at the estate during the Second World War to protect it from destruction."
+    },
+    {
+      "question": "Is Hopferau Castle still open for bookings after its 2025 ownership change?",
+      "answer": "Yes — the 17-room hotel remains actively bookable through 2026 via Booking.com and the castle's own website, though the new owner has signaled plans to expand the property's use toward events, offices and artist accommodation, so it's worth confirming current availability before a stay."
+    },
+    {
+      "question": "How close is Hopferau Castle to Neuschwanstein?",
+      "answer": "About 13 kilometers, making it a convenient base for visiting Neuschwanstein and Hohenschwangau castles without staying directly in Füssen."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hopferau-castle.webp",
+    "alt": "Hopferau Castle (Schloss zu Hopferau) near Füssen, Ostallgäu, Bavaria, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hopferau-castle.webp",
+  "instagram_tag": "#hopferaucastle",
+  "meta_title": "Hopferau Castle — 13km From Neuschwanstein, Since 1468",
+  "meta_description": "Stay at Hopferau Castle near Füssen — built in 1468, just 13km from Neuschwanstein, and once the wartime hiding place of Konrad Zuse's Z4 computer.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "castle-hotel",
+    "allgau",
+    "neuschwanstein",
+    "fussen"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [
+    "neuschwanstein-castle",
+    "hohenschwangau-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss zu Hopferau",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=schloss-zu-hopferau&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-zu-hopferau.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D71536%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784743880%26srpvid%3D17ef7fe187b007ee%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 172,
+    "currency": "EUR",
+    "room_count": 17,
+    "room_location": "castle",
+    "amenities": ["restaurant", "beer garden"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; the castle functions as a private hotel, restaurant and event venue.",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Füssen; roughly 1h15 from Kempten and 1h30 from Munich.\n\n**Rooms & rates:** 17 rooms with flat-screen TVs, within the single historic building (three-story main block plus 19th-century Neo-Gothic wing). From €172/night.\n\n**On-site:** Restaurant, beer garden, conference rooms and event spaces.\n\n**Good to know:** Ownership changed in February 2025 — the new owner is shifting part of the property toward events, office use, and artist accommodation, so it's worth confirming current public booking availability before your stay.\n\n**Combine with:** Neuschwanstein and Hohenschwangau castles, both under 15 minutes away.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

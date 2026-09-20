@@ -1,0 +1,92 @@
+{
+  "id": "schweinsburg-castle",
+  "name": "Schweinsburg Castle",
+  "local_name": "Schloss Schweinsburg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Saxony — Neukirchen/Pleiße, Landkreis Zwickau",
+  "nearest_city": "Zwickau",
+  "address": "Schweinsburg 1, 08459 Neukirchen/Pleiße, Germany",
+  "lat": 50.8180,
+  "lng": 12.3670,
+  "unesco": false,
+  "year_built": 1200,
+  "architectural_style": "Moated castle complex (Wasserburg) with an Ober- and Unterschloss (upper and lower castle); guest accommodation split between the historic structure and a modern Gästehaus/Neubau",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only; the Ober-/Unterschloss complex is used mainly for private events",
+  "best_season": "Year-round",
+  "accessibility": "A historic moated castle complex with accommodation split across a historic building and a modern guesthouse; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Known as the \"cradle of Crimmitschau\" — a historic moated Ober-/Unterschloss complex used mainly for events, with hotel rooms split between the old Wasserburg and a modern guesthouse",
+  "highlights": [
+    "A historic moated castle complex (Wasserburg) with an Ober- and Unterschloss (upper and lower castle), known as the \"cradle of Crimmitschau\"",
+    "Guest rooms split between the historic Wasserburg structure and a modern Gästehaus (guesthouse) or Neubau on the same grounds",
+    "The grand Ober-/Unterschloss complex itself is used mainly as an event venue for weddings and celebrations",
+    "Located in Neukirchen/Pleiße, in Saxony's historic textile-industry region"
+  ],
+  "description": "Schloss Schweinsburg, a historic moated castle complex (Wasserburg) comprising an Ober- and Unterschloss (upper and lower castle), stands in Neukirchen/Pleiße in the Zwickau district of Saxony. The estate holds a notable place in regional industrial history, often described as the \"cradle of Crimmitschau\" for its role in the development of the nearby textile town.\n\nToday the property operates as a hotel spread across two distinct parts of the complex: guest accommodation is split between rooms within the historic Wasserburg structure and a more modern Gästehaus (guesthouse) or Neubau (new building) on the same grounds, while the grand Ober-/Unterschloss complex itself is used primarily as an event venue for weddings and celebrations. Across the roughly 75 rooms and event spaces, the property blends genuine medieval and early-modern fabric with newer construction built to accommodate contemporary hotel demand.\n\nCrimmitschau's status as a historic centre of the Saxon textile industry, with Schweinsburg credited as its \"cradle,\" connects the castle to the region's broader industrial heritage — a genuinely different historical register from the purely aristocratic or ecclesiastical origins of many other Saxon castles, reflecting the estate's role in the area's economic development rather than purely courtly life.\n\nThe division of the complex into an Ober- and Unterschloss (upper and lower castle) reflects a specific and relatively common medieval German fortification pattern, where a site's defensive and residential functions were split across two distinct, often separately fortified structures on the same estate — a layout that later gave the property natural flexibility in separating its event-hosting and overnight-accommodation functions.\n\nThe addition of a modern Gästehaus or Neubau alongside the historic Wasserburg reflects the now-familiar pattern among this collection's larger event-oriented castle properties, where a historic core is preserved and dedicated primarily to weddings and celebrations, while newer construction handles the bulk of overnight guest capacity.\n\nThe Zwickau district surrounding Schweinsburg sits within Saxony's broader Vogtland and Erzgebirge foothill region, an area shaped historically by both textile manufacturing and, further south, mining, giving the wider region a genuinely industrial-heritage identity distinct from Saxony's more castle-and-vineyard-focused areas around Dresden and Meissen.\n\nCrimmitschau itself, a short drive from Schweinsburg, retains textile-industry heritage sites and museums that pair naturally with a stay at the castle for visitors interested in the region's manufacturing history alongside its aristocratic architecture.",
+  "history": "Schloss Schweinsburg is a historic moated castle complex (Wasserburg) with an Ober- and Unterschloss, in Neukirchen/Pleiße, Saxony, known as the \"cradle of Crimmitschau\" for its role in the nearby textile town's development. Today the property operates as a hotel with guest rooms split between the historic Wasserburg structure and a modern Gästehaus/Neubau on the same grounds, while the Ober-/Unterschloss complex itself is used mainly as an event venue for weddings and celebrations.",
+  "faqs": [
+    {
+      "question": "Are the hotel rooms within the historic castle building?",
+      "answer": "Guest accommodation is split between rooms in the historic Wasserburg structure and a more modern Gästehaus (guesthouse) or Neubau on the same grounds — confirm the exact split with the property when booking if this distinction matters to you."
+    },
+    {
+      "question": "Can I book the Ober-/Unterschloss complex for an event?",
+      "answer": "Yes — the grand Ober-/Unterschloss complex is used primarily as an event venue for weddings and celebrations, separate from the standard hotel accommodation."
+    },
+    {
+      "question": "Why is Schweinsburg called the \"cradle of Crimmitschau\"?",
+      "answer": "The estate holds a notable place in the development of the nearby textile town of Crimmitschau, historically a centre of the Saxon textile industry."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schweinsburg-castle.webp",
+    "alt": "Schweinsburg Castle (Schloss Schweinsburg), a moated Wasserburg complex in Neukirchen/Pleiße, Saxony, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schweinsburg-castle.webp",
+  "instagram_tag": "#schweinsburgcastle",
+  "meta_title": "Schweinsburg Castle — The \"Cradle of Crimmitschau\"",
+  "meta_description": "Stay at Schweinsburg Castle near Zwickau — a historic moated Ober-/Unterschloss complex known as the cradle of Crimmitschau, with hotel rooms in the old and new wings.",
+  "tags": [
+    "germany",
+    "saxony",
+    "castle-hotel",
+    "wasserburg",
+    "zwickau",
+    "crimmitschau"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [
+    "augustusburg-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Schloss Schweinsburg",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=schloss-schweinsburg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-schweinsburg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D62602%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784759657%26srpvid%3De5729eb2b3c000e3%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 55,
+    "currency": "EUR",
+    "room_count": 75,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "The Schloss complex (Ober- und Unterschloss) is used mainly as an event venue; no independent day-visitor/museum admission product was found.",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Crimmitschau; roughly 30 minutes from Zwickau and 1h from Chemnitz.\n\n**Rooms & rates:** Guest rooms split between the historic Wasserburg building and a modern Gästehaus/Neubau on the same grounds; the Ober-/Unterschloss complex itself is used mainly for events. From €55/night; verify exact historic-vs-modern room split with the property before booking.\n\n**On-site:** Restaurant, event spaces (weddings, celebrations), gardens.\n\n**Good to know:** This is a genuinely mixed-building property — some guests will be in the centuries-old Wasserburg, others in newer construction, so room location should be confirmed at booking if that distinction matters to you.\n\n**Combine with:** The textile-heritage town of Crimmitschau and the city of Zwickau.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}
