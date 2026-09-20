@@ -1,0 +1,91 @@
+{
+  "id": "eyba-castle",
+  "name": "Eyba Castle",
+  "local_name": "Schlosshotel Eyba",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "germany",
+  "region": "Thuringia — Eyba, Saalfelder Höhe, Landkreis Saalfeld-Rudolstadt",
+  "nearest_city": "Saalfeld",
+  "address": "Eyba 1, 07318 Saalfelder Höhe, Germany",
+  "lat": 50.5980,
+  "lng": 11.3980,
+  "unesco": false,
+  "year_built": 1553,
+  "architectural_style": "Built 1553 by the von Könitz brothers on the site of an older settlement court; original walls survived the Thirty Years' War; hotel and conference conversion from 1997",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A historic castle building alongside a separate modern guest house; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Built in 1553, its walls surviving the Thirty Years' War — today split between the historic castle and a modern, passively-cooled guest house with valley views",
+  "highlights": [
+    "Built in 1553 by the von Könitz brothers on the site of an older settlement court; essential parts of the original structure survived the Thirty Years' War",
+    "Converted into a hotel and conference facility from 1997 (Schlosshotel Eyba GmbH)",
+    "44 rooms (18 doubles, 26 singles) split between the historic 1553 castle and a separate modern guest house",
+    "In the Thuringian Forest, near Saalfeld"
+  ],
+  "description": "Schlosshotel Eyba, in the Thuringian Forest near Saalfeld, was built in 1553 by the von Könitz brothers on the site of an older settlement court. Essential parts of the original structure still stand today, its walls having survived the destruction of the Thirty Years' War in the following century — a rare degree of continuity for a rural Thuringian estate of this age.\n\nIn 1997, Schlosshotel Eyba GmbH was founded to convert the estate into a conference and hotel facility, an initiative backed initially by Karlsruher Versicherung and later by Württembergische Versicherung. Today the property offers 44 rooms — 18 doubles and 26 singles — split between the historic 1553 castle building and a separate, modern guest house whose bedroom wing was designed with passive-cooling architecture to stay comfortable even above 30°C without air conditioning noise, alongside valley views.\n\nThe survival of the castle's original 1553 walls through the Thirty Years' War is genuinely notable given how thoroughly that conflict devastated much of rural Germany, including numerous castles and estates across Thuringia specifically — Eyba's continuity offers a rare, largely intact example of mid-16th-century Thuringian estate architecture.\n\nThe insurance-industry backing behind the 1997 conversion, first from Karlsruher Versicherung and later Württembergische Versicherung, reflects a specific and somewhat unusual pattern of corporate investment in German castle-hotel restoration, where insurance companies have occasionally funded historic property conversions as both a commercial hospitality venture and a corporate training/conference asset.\n\nThe modern guest house's passive-cooling design — engineered to remain comfortable above 30°C without air conditioning — reflects a genuinely thoughtful piece of contemporary building design integrated alongside the historic castle, prioritizing quiet, low-energy comfort over conventional mechanical cooling systems.\n\nThe Thuringian Forest surrounding Eyba is one of central Germany's most significant upland forest regions, offering extensive hiking and a genuinely different, wooded highland landscape compared to the river-valley or vineyard settings of many other castle-hotels in this collection.\n\nSaalfeld, a short drive from Eyba, is known for its Feengrotten (Fairy Grottoes), a former slate mine turned show cave famous for its unusually colorful mineral formations, giving guests staying at the castle an easy and distinctive day-trip option beyond the surrounding forest itself.",
+  "history": "Schlosshotel Eyba was built in 1553 by the von Könitz brothers near Saalfeld, in the Thuringian Forest, on the site of an older settlement court. Its original walls survived the Thirty Years' War. In 1997, Schlosshotel Eyba GmbH was founded to convert the estate into a hotel and conference facility, backed initially by Karlsruher Versicherung. Today the property offers 44 rooms split between the historic 1553 castle and a separate modern guest house with passive-cooling architecture and valley views.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Eyba Castle within the historic building?",
+      "answer": "No — of the 44 total rooms (18 doubles, 26 singles), some are within the historic 1553 castle building and others are in a separate, modern guest house on the grounds. Guests can request a preference at booking."
+    },
+    {
+      "question": "Did Eyba Castle survive the Thirty Years' War?",
+      "answer": "Yes — essential parts of the original 1553 structure survived the widespread destruction of the Thirty Years' War, a rare degree of continuity for a rural Thuringian estate of this age."
+    },
+    {
+      "question": "What is special about the modern guest house at Eyba Castle?",
+      "answer": "Its bedroom wing was designed with passive-cooling architecture, engineered to remain comfortable even above 30°C without the noise of air conditioning."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/eyba-castle.webp",
+    "alt": "Eyba Castle (Schlosshotel Eyba) in the Thuringian Forest near Saalfeld, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/eyba-castle.webp",
+  "instagram_tag": "#eybacastle",
+  "meta_title": "Eyba Castle — A 1553 Estate in the Thuringian Forest",
+  "meta_description": "Stay at Eyba Castle near Saalfeld — built in 1553, its walls surviving the Thirty Years' War, today split between the historic castle and a modern guest house.",
+  "tags": [
+    "germany",
+    "thuringia",
+    "castle-hotel",
+    "thuringian-forest",
+    "saalfeld"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [
+    "wartburg-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schlosshotel Eyba",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=schlosshotel-eyba&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschlosshotel-eyba-gmbh-co-kg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D249861%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784760258%26srpvid%3D8ecf9fdeb21a0351%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 119,
+    "currency": "EUR",
+    "room_count": 44,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; functions as a private hotel and conference centre (Schlosshotel Eyba GmbH, founded 1997).",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Saalfeld; roughly 30 minutes from Rudolstadt and 1h from Erfurt.\n\n**Rooms & rates:** 44 rooms (18 doubles, 26 singles) split between the historic 1553 castle building and a separate modern guest house with valley views. From €119/night.\n\n**On-site:** Restaurant, conference rooms, gardens.\n\n**Good to know:** Guests can request the historic castle building or the modern guest house — worth specifying a preference at booking if staying inside the historic structure matters to you.\n\n**Combine with:** The Thuringian Forest region and the town of Saalfeld.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

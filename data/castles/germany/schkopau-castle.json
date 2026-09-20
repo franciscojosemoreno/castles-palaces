@@ -1,0 +1,90 @@
+{
+  "id": "schkopau-castle",
+  "name": "Schkopau Castle",
+  "local_name": "Schlossparkhotel Schkopau",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 17,
+  "country": "germany",
+  "region": "Saxony-Anhalt — Schkopau, Saalekreis, between Merseburg and Halle",
+  "nearest_city": "Merseburg",
+  "address": "Schlossstraße 1, 06258 Schkopau, Germany",
+  "lat": 51.3830,
+  "lng": 11.9330,
+  "unesco": false,
+  "year_built": 900,
+  "architectural_style": "10th-century fortification, expanded into a castle in the 12th century, rebuilt in Neo-Renaissance style in 1876",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A historic castle with rooms split between the main building and a secondary building under restoration; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 10th-century fortification held by the same family for over 400 years, rebuilt in 1876 — rescued from near-ruin starting in 1966 and reopened as a hotel in 2001",
+  "highlights": [
+    "Fortification documented since the 10th century, expanded into a castle in the 12th century; held by the von Trotha family from 1477 onward",
+    "Rebuilt in Neo-Renaissance style in 1876",
+    "Fell into near-ruin after the Second World War, used as refugee housing, before restoration by the Broda family beginning in 1966; opened as a hotel in 2001",
+    "54 rooms and suites split between the historic 1876 building and a secondary building on the grounds still undergoing further restoration"
+  ],
+  "description": "Schloss Schkopau traces its origins to a 10th-century fortification, expanded into a proper castle in the 12th century and held by the von Trotha family from 1477 onward. The building seen today largely reflects an 1876 Neo-Renaissance reconstruction, giving the castle its current turreted, historicist appearance amid its own landscaped park between Merseburg and Halle.\n\nAfter the Second World War, the von Trotha family was dispossessed and the castle was pressed into use as refugee housing, a role that accelerated its physical decline into near-ruin, at one point serving as a dumping ground. The Broda family purchased the property and began restoration in 1966, eventually converting it into the 54-room Schlossparkhotel that opened in 2001; guest accommodation today spans both the historic 1876 building and a secondary building on the grounds, with the secondary building reportedly still undergoing further restoration and conversion into additional hotel-quality rooms.\n\nThe von Trotha family's tenure at Schkopau, spanning roughly four and a half centuries from 1477 until the postwar dispossession, places the estate among the longer single-family ownerships found in this collection, a continuity that shaped much of the castle's own architectural development, including the 1876 rebuilding.\n\nThe castle's use as refugee housing in the immediate postwar period, followed by decades of neglect that left it functioning at one point as little more than a dumping ground, reflects the severe institutional and physical decline many former aristocratic residences suffered across Soviet-occupied and East German territory before reunification made private restoration possible again.\n\nThe Broda family's restoration, beginning in 1966 — remarkably early, well within the East German period rather than after 1990 — represents a genuinely unusual case among this collection's Saxony-Anhalt properties, most of which saw restoration only begin after German reunification.\n\nThe castle's landscaped park, a surviving feature from its aristocratic heyday, gives the Schlossparkhotel its name and remains one of the property's more consistently praised amenities, offering guests green space directly on the grounds between the more industrially developed towns of Merseburg and Halle.\n\nMerseburg, a short drive from Schkopau, is one of Saxony-Anhalt's more historically significant towns, home to a notable cathedral and castle of its own, giving guests staying at Schkopau an easy pairing between their hotel stay and the region's wider medieval heritage.",
+  "history": "Schloss Schkopau traces its origins to a 10th-century fortification, expanded into a castle in the 12th century and held by the von Trotha family from 1477. The building seen today largely reflects an 1876 Neo-Renaissance reconstruction. After the Second World War the family was dispossessed and the castle fell into near-ruin as refugee housing, before the Broda family began restoration in 1966. The 54-room Schlossparkhotel opened in 2001, with guest accommodation spanning the historic 1876 building and a secondary building still undergoing further restoration.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Schkopau Castle within the historic 1876 building?",
+      "answer": "No — the 54 rooms and suites are split between the historic 1876 Neo-Renaissance building and a secondary building on the grounds, which guest reports indicate is still undergoing further restoration and conversion. The exact numerical split between the two buildings has not been confirmed — verify with the property when booking if room location matters to you."
+    },
+    {
+      "question": "How long did the von Trotha family own Schkopau Castle?",
+      "answer": "From 1477 until the family's dispossession after the Second World War — roughly 470 years of continuous ownership."
+    },
+    {
+      "question": "When did Schkopau Castle become a hotel?",
+      "answer": "Restoration began in 1966 under the Broda family, and the property opened as the Schlossparkhotel in 2001."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schkopau-castle.webp",
+    "alt": "Schkopau Castle (Schlossparkhotel Schkopau) between Merseburg and Halle, Saxony-Anhalt, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schkopau-castle.webp",
+  "instagram_tag": "#schkopaucastle",
+  "meta_title": "Schkopau Castle — A Neo-Renaissance Hotel Between Merseburg and Halle",
+  "meta_description": "Stay at Schkopau Castle between Merseburg and Halle — a 10th-century fortification rebuilt in 1876, restored from near-ruin into a hotel since 2001.",
+  "tags": [
+    "germany",
+    "saxony-anhalt",
+    "castle-hotel",
+    "neo-renaissance",
+    "merseburg",
+    "halle"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schlossparkhotel Schkopau",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-schkopau&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschloss-schkopau.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784759972%26srpvid%3D5e629f4e3f140a1a%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 69,
+    "currency": "EUR",
+    "room_count": 54,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; functions as a private hotel and events venue, though the castle park has local recognition as a scenic landmark.",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Merseburg; roughly 20 minutes from Halle (Saale) and 40 minutes from Leipzig.\n\n**Rooms & rates:** 54 rooms and suites split between the historic 1876 Neo-Renaissance building and a secondary building on the grounds (still being restored/converted per guest reports) — exact room split between the two buildings not confirmed; verify with the property before booking if this matters to you. From €69/night.\n\n**On-site:** Restaurant, castle park, event spaces, conference rooms.\n\n**Good to know:** Some guests are placed in the annex building rather than the main historic building, especially when the main building is fully booked — worth confirming room location at booking if that distinction matters.\n\n**Combine with:** The historic town of Merseburg and the city of Halle (Saale).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

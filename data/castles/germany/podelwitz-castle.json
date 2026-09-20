@@ -1,0 +1,90 @@
+{
+  "id": "podelwitz-castle",
+  "name": "Podelwitz Castle",
+  "local_name": "Wasserschloss Podelwitz",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 17,
+  "country": "germany",
+  "region": "Saxony — Podelwitz, Colditz municipality, Landkreis Leipzig",
+  "nearest_city": "Leipzig",
+  "address": "Podelwitz 1, 04680 Colditz, Germany",
+  "lat": 51.1450,
+  "lng": 12.7650,
+  "unesco": false,
+  "year_built": 1570,
+  "architectural_style": "Renaissance moated water castle (Wasserschloss) built 1570, on a site first documented in 1487",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "A small Renaissance water castle operating as a guesthouse; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Renaissance water castle on the Mulde, near Colditz's famous namesake — restored since 1990 into a small guesthouse after decades of Cold War-era decline",
+  "highlights": [
+    "Renaissance water castle built in 1570 by Hans Rudolph von Schellenberg, on an estate first documented in 1487",
+    "Inhabited and maintained until 1945; expropriated during postwar land reform and used by an agricultural cooperative (LPG) until near-total disrepair before 1990",
+    "Today a small 6-room guesthouse within the historic 1570 building, with a restaurant in the adjacent former estate building",
+    "On the banks of the Freiberger Mulde river, near the famous Colditz Castle"
+  ],
+  "description": "The Wasserschloss Podelwitz, a moated Renaissance water castle on the banks of the Freiberger Mulde river, was built in 1570 by Hans Rudolph von Schellenberg on the site of an estate first documented in 1487. The building's central Dachreiter (roof turret) and harmonious integration into the Mulde valley landscape have made it a local landmark in the Colditz area, best known internationally for its nearby namesake, Colditz Castle.\n\nThe estate remained inhabited and maintained until 1945, when it was expropriated during the post-war land reform; the property was subsequently absorbed into an agricultural cooperative (LPG) and fell into serious disrepair, with its extensive outbuildings in both Podelwitz and neighboring Collmen eventually demolished. Since 1990, restoration has returned the castle to life as a small guesthouse, with period rooms — the Kaminzimmer (fireplace room), Red Salon and Green Salon opening onto a rose garden — now used for dining and events, while the former Wirtschaftsgebäude beside the castle houses a restaurant open to the public.\n\nThe castle's post-1945 institutional history, passing from private aristocratic ownership through agricultural collectivization to near-ruin, reflects a pattern common to numerous smaller Saxon estates during the East German period, when private manor houses across the region were systematically repurposed for state agricultural use rather than maintained as residences.\n\nThe demolition of the estate's extensive historic outbuildings in both Podelwitz and neighboring Collmen represents a genuine and largely irreversible loss from this period, even as the main castle building itself survived long enough to be rescued by post-1990 restoration efforts.\n\nColditz Castle, a short drive away, is internationally famous as a high-security Second World War prisoner-of-war camp known for numerous escape attempts, giving Podelwitz's quieter Renaissance water-castle setting a genuinely different historical register within the same small stretch of the Mulde valley.\n\nThe surviving period rooms at Podelwitz — the Kaminzimmer, Red Salon and Green Salon opening onto a rose garden — give the small guesthouse a genuinely intact sense of its Renaissance-to-19th-century domestic character, used today for dining and events rather than as museum-style displays.\n\nThe Mulde river valley surrounding Podelwitz offers a quiet, largely rural landscape typical of this part of Saxony, giving guests staying at the small guesthouse an unhurried countryside base for exploring both Colditz and the wider Leipzig region.",
+  "history": "The Wasserschloss Podelwitz was built in 1570 by Hans Rudolph von Schellenberg on an estate first documented in 1487, on the banks of the Freiberger Mulde river near Colditz. The estate remained inhabited until 1945, when it was expropriated and absorbed into an agricultural cooperative, falling into serious disrepair. Since 1990, restoration has returned it to life as a small 6-room guesthouse, with a restaurant in the adjacent former estate building and period rooms — including a Kaminzimmer and Red and Green Salons opening onto a rose garden — used for dining and events.",
+  "faqs": [
+    {
+      "question": "Is Podelwitz Castle near the famous Colditz Castle?",
+      "answer": "Yes — Podelwitz is a short drive from Colditz Castle, internationally known as a Second World War prisoner-of-war camp famous for numerous escape attempts, though the two properties have no historical connection beyond their shared location on the Mulde valley."
+    },
+    {
+      "question": "How many rooms does Podelwitz Castle have?",
+      "answer": "6 rooms (24 beds total, usable as double or multi-bed rooms), all within the historic 1570 Renaissance building itself."
+    },
+    {
+      "question": "What happened to Podelwitz Castle after 1945?",
+      "answer": "It was expropriated during postwar land reform and absorbed into an agricultural cooperative (LPG), falling into serious disrepair, with many of its historic outbuildings eventually demolished. Restoration since 1990 has returned the main castle building to use as a small guesthouse."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/podelwitz-castle.webp",
+    "alt": "Podelwitz Castle (Wasserschloss Podelwitz) on the Freiberger Mulde river near Colditz, Saxony, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/podelwitz-castle.webp",
+  "instagram_tag": "#podelwitzcastle",
+  "meta_title": "Podelwitz Castle — A Renaissance Water Castle Near Colditz",
+  "meta_description": "Stay at Podelwitz Castle on the Mulde river near Colditz — a 1570 Renaissance water castle restored since 1990 into a small 6-room guesthouse.",
+  "tags": [
+    "germany",
+    "saxony",
+    "castle-hotel",
+    "wasserschloss",
+    "colditz",
+    "mulde"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Wasserschloss Podelwitz",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=wasserschloss-podelwitz&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fwasserschloss-podelwitz.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D2845506%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784759929%26srpvid%3D09179f3a8158013d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 119,
+    "currency": "EUR",
+    "room_count": 6,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens", "playground"],
+    "non_guest_access_note": "No confirmed public day-visitor product was found; the castle functions as a private guesthouse and restaurant. The Kaminzimmer, Red Salon and Green Salon with rose garden are used for events and dining, not a public museum tour.",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Colditz; roughly 45 minutes from Leipzig and 1h from Dresden.\n\n**Rooms & rates:** 6 rooms (24 beds total, usable as double or multi-bed rooms) within the historic 1570 Renaissance building itself. From €119/night.\n\n**On-site:** Restaurant (in the adjacent former estate building), garden, terrace, children's playground.\n\n**Good to know:** A genuinely small guesthouse rather than a large hotel — book ahead, especially around Colditz Castle visitor season.\n\n**Combine with:** Colditz Castle, a short drive away, and the wider Mulde valley.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "blumenthal-castle",
+  "name": "Blumenthal Castle",
+  "local_name": "Hotel Schloss Blumenthal",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "germany",
+  "region": "Bavaria — Blumenthal, Aichach municipality, Wittelsbacher Land",
+  "nearest_city": "Aichach",
+  "address": "Schloss Blumenthal 1, 86551 Aichach, Germany",
+  "lat": 48.4780,
+  "lng": 11.1600,
+  "unesco": false,
+  "year_built": 1254,
+  "architectural_style": "Historic four-winged water castle complex, first documented in the 13th century; restored by a community project from 2006 and converted into a hotel, opened 2014",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the restaurant and converted-brewery art space are separately open to the public",
+  "best_season": "Year-round",
+  "accessibility": "A historic castle ensemble restored and run as a community hotel project; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Eight families bought this 13th-century castle in 2006 and had community artists design all 40 rooms by hand — each one a genuinely different, personally imagined space",
+  "highlights": [
+    "Historic ensemble first documented in the 13th century, in Bavaria's Wittelsbacher Land near Aichach",
+    "Acquired in 2006 by eight families as a community project; converted into a hotel, opened in 2014",
+    "40 rooms (39 doubles), each individually designed by artistically talented residents of the Blumenthal community with distinctive themed names",
+    "Former brewery on the estate converted in 2010 into an art and culture space"
+  ],
+  "description": "The historic ensemble at Blumenthal, in Bavaria's Wittelsbacher Land near Aichach, is first documented in the 13th century. In 2006, eight families acquired the complex as a community project, restoring the historic buildings with the intention of converting them into a hotel — a vision realized in 2014 when Hotel Schloss Blumenthal opened its doors.\n\nWhat distinguishes Blumenthal from most castle-hotels is its collaborative, artistically driven approach to interior design: each of the 40 rooms (39 doubles) was individually conceived and furnished by artistically talented residents of the Blumenthal community, with playful, story-driven names like Baumhöhle (tree hollow), Orientexpress, and Rendezvous with a Globetrotter hinting at the personality behind each space. The estate's former brewery building was separately converted in 2010 into an open space for art and culture, while arrival and reception are handled from a service building at the ensemble's west tower.\n\nThe \"Blumenthaler Gemeinschaftsprojekt,\" as the 2006 community initiative is known locally, rests on four operating pillars: a guesthouse restaurant, a seminar business for conferences and workshops, the hotel itself, and an associated farming operation — a genuinely integrated, multi-generational community enterprise rather than a conventional single-owner hospitality business.\n\nThe four-winged water castle layout, with its large historic farmyard, reflects a substantial aristocratic estate typical of medieval and early-modern rural Bavaria, where a residential castle core was surrounded by extensive agricultural and service buildings supporting the wider estate's economy.\n\nThe individually artist-designed rooms give Blumenthal a genuinely unusual character among the castle-hotels in this collection: rather than a uniform decorative scheme applied by a single designer or hotel brand, each room reflects its own creator's personal artistic vision, resulting in a building where genuinely no two rooms share the same layout, color scheme or furnishing approach.\n\nThe 2024 renovation of the estate's seminar building expanded Blumenthal's capacity for conferences, workshops and larger events alongside the historic building, though this modern facility functions specifically as meeting and event space rather than additional overnight guest accommodation.\n\nThe Wittelsbacher Land region surrounding Blumenthal takes its name from the Bavarian royal Wittelsbach dynasty, reflecting the area's historic ties to Bavaria's ruling house, and gives guests staying at the castle a genuine sense of the deeper regional history behind this corner of Swabia.",
+  "history": "The historic ensemble at Blumenthal, near Aichach in Bavaria's Wittelsbacher Land, is first documented in the 13th century as a four-winged water castle with a large farmyard. In 2006, eight families acquired the complex as a community project (the \"Blumenthaler Gemeinschaftsprojekt\"), restoring it and converting part of the ensemble into a hotel that opened in 2014. Each of the 40 rooms was individually designed by artistically talented residents of the community, and the estate's former brewery was converted into an art and culture space in 2010.",
+  "faqs": [
+    {
+      "question": "Who designed the rooms at Blumenthal Castle?",
+      "answer": "Each of the 40 rooms was individually conceived and furnished by artistically talented residents of the Blumenthal community, giving every room its own distinct theme, name and character rather than a uniform hotel design."
+    },
+    {
+      "question": "Are there guest rooms in Blumenthal Castle's modern seminar building?",
+      "answer": "No — the 2024-renovated seminar building functions as meeting and event space for conferences and workshops. The 40 individually designed guest rooms are within the historic castle ensemble."
+    },
+    {
+      "question": "What is the Blumenthaler Gemeinschaftsprojekt?",
+      "answer": "The community project, started in 2006 by eight families, that restored the historic castle and converted part of it into a hotel. It operates on four pillars: a guesthouse restaurant, a seminar business, the hotel, and an associated farm."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/blumenthal-castle.webp",
+    "alt": "Blumenthal Castle (Hotel Schloss Blumenthal) near Aichach in the Wittelsbacher Land, Bavaria, Germany",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/blumenthal-castle.webp",
+  "instagram_tag": "#blumenthalcastle",
+  "meta_title": "Blumenthal Castle — 40 Rooms, Each Designed by a Different Artist",
+  "meta_description": "Stay at Blumenthal Castle near Aichach — a 13th-century estate restored by a community project, with 40 rooms each individually designed by local artists.",
+  "tags": [
+    "germany",
+    "bavaria",
+    "castle-hotel",
+    "wittelsbacher-land",
+    "aichach",
+    "community-project"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Hotel Schloss Blumenthal",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schlosshotel-blumenthal&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fschlosshotel-blumenthal.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D700227%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784760086%26srpvid%3D73c29f880ea401a4%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 139,
+    "currency": "EUR",
+    "room_count": 40,
+    "room_location": "castle",
+    "amenities": ["restaurant", "art space"],
+    "non_guest_access_note": "The former brewery, converted in 2010 into an art and culture space, is occasionally open to the public for cultural events, not a standing museum-style visit.",
+    "how_to_stay": "**Getting there:** About 15 minutes by car from Aichach; roughly 45 minutes from Augsburg and 1h from Munich.\n\n**Rooms & rates:** 40 individually designed rooms (39 doubles) within the historic ensemble; reception and arrival are in a separate service building at the west tower. From €139/night.\n\n**On-site:** Restaurant, converted-brewery art and culture space, event spaces, conference rooms.\n\n**Good to know:** Each room has its own individually designed theme and story, created by local Blumenthal community artists — expect genuine variation in style from room to room. The modern seminar building (renovated 2024) is used for meetings and events, not overnight guest rooms.\n\n**Combine with:** The Wittelsbacher Land region and the historic town of Aichach.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}

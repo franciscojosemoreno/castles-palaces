@@ -1,0 +1,89 @@
+{
+  "id": "katzenstein-castle",
+  "name": "Katzenstein Castle",
+  "local_name": "Burg Katzenstein",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "germany",
+  "region": "Baden-Württemberg — Dischingen, Ostalbkreis",
+  "nearest_city": "Heidenheim an der Brenz",
+  "address": "Burg Katzenstein 1, 89561 Dischingen, Germany",
+  "lat": 48.7890,
+  "lng": 10.3400,
+  "unesco": false,
+  "year_built": 1000,
+  "architectural_style": "One of the best-preserved Romanesque castle complexes in southern Germany; Kernburg foundations from the 11th century, Palas with a 12th-century core; hotel occupies separate half-timbered Vorburg buildings against the Romanesque ring wall",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the on-site castle museum in the Kernburg/Palas is a separate, independently accessed day-visit attraction",
+  "best_season": "Year-round",
+  "accessibility": "A Romanesque castle complex with the hotel in the outer bailey and a museum in the separately accessed inner castle; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "One of southern Germany's best-preserved Romanesque castles — but the hotel occupies the outer-bailey estate buildings, not the medieval keep or hall, and the path between the two no longer exists",
+  "highlights": [
+    "One of the best-preserved Romanesque castle complexes in southern Germany, with 11th-century foundations in the Kernburg (inner castle)",
+    "The Palas retains a two-aisled vaulted hall on square pillars and a well driven 23 metres into the rock",
+    "The hotel occupies the half-timbered estate buildings of the Vorburg (outer bailey), built against the Romanesque ring wall — not the Kernburg or Palas itself",
+    "The castle's own museum, in the Kernburg/Palas, is a genuine day-visit attraction with independent access from the hotel"
+  ],
+  "description": "Burg Katzenstein, in Dischingen in Baden-Württemberg's Ostalbkreis, is one of the best-preserved Romanesque castle complexes in southern Germany. The Lords of Catzenstein are first documented here, and ownership later passed through the Counts of Oettingen and the von Westerstetten family; during the Thirty Years' War, Swedish and French forces under Field Marshal Count Horn captured the castle. The Kernburg (inner castle) preserves foundation remains from the 11th century, while the Palas — rebuilt with a 12th-century core — houses a two-aisled vaulted hall on square pillars and a well driven 23 meters into the rock.\n\nIt's worth stating plainly where hotel guests actually stay: the Vorburg, or outer bailey, contains half-timbered estate buildings built directly against the castle's polygonal Romanesque ring wall, and these — not the Kernburg or Palas — now serve as the Hotel und Restaurant Katzenstein. In the Middle Ages a path connected the Vorburg's courtyard to the Kernburg's courtyard, but this access no longer exists today, underscoring how genuinely separate the hotel and museum sections of the complex now are. Visitors access the museum in the Kernburg/Palas independently, via the gatehouse entrance or a staircase at the Palas, entirely apart from a hotel stay.\n\nThe 23-metre well cut directly into the bedrock beneath the Palas represents a substantial medieval engineering achievement, ensuring the castle's water supply could withstand a prolonged siege — a defensive necessity reflected throughout the complex's Romanesque-era design.\n\nThe castle's capture by Swedish and French forces under Field Marshal Count Horn during the Thirty Years' War places Katzenstein within the broader military history of that devastating conflict, when numerous German castles changed hands repeatedly between competing armies across the war's three decades.\n\nThe now-vanished medieval path connecting the Vorburg and Kernburg courtyards is a genuinely telling detail: it confirms that today's separation between hotel and museum sections reflects a real historical and physical boundary within the complex, not merely a modern operational choice layered onto an otherwise unified building.\n\nThe two-aisled vaulted hall in the Palas, supported on square pillars, represents a relatively sophisticated piece of Romanesque secular architecture, giving visitors to the museum a genuinely rare opportunity to see medieval domestic engineering of this scale and period still standing largely intact.\n\nThe Swabian Jura (Schwäbische Alb) landscape surrounding Katzenstein is known for its distinctive limestone plateau scenery, caves and hiking trails, giving guests staying at the hotel a genuinely scenic regional backdrop beyond the castle's own architectural and historical interest.",
+  "history": "Burg Katzenstein, in Dischingen, Baden-Württemberg, is one of the best-preserved Romanesque castle complexes in southern Germany, with 11th-century foundations in the Kernburg and a Palas rebuilt with a 12th-century core. Swedish and French forces under Field Marshal Count Horn captured the castle during the Thirty Years' War. Today the hotel occupies the half-timbered Vorburg (outer bailey) estate buildings against the Romanesque ring wall, while the Kernburg/Palas houses an independently accessed museum — the medieval path once connecting the two courtyards no longer exists.",
+  "faqs": [
+    {
+      "question": "Do hotel guests at Katzenstein Castle sleep inside the medieval keep?",
+      "answer": "No — the hotel occupies the half-timbered estate buildings of the Vorburg (outer bailey), built against the castle's Romanesque ring wall. The Kernburg and Palas, the historic inner castle, house a separate museum with no internal access from the hotel — the medieval path connecting the two courtyards no longer exists."
+    },
+    {
+      "question": "Can I visit the Katzenstein Castle museum without staying overnight?",
+      "answer": "Yes — the museum in the Kernburg/Palas is accessed independently via the gatehouse entrance or a staircase at the Palas, entirely separate from the hotel."
+    },
+    {
+      "question": "What survives in the Palas at Katzenstein Castle?",
+      "answer": "A two-aisled vaulted hall on square pillars, with a 12th-century core, and a well driven 23 metres into the bedrock beneath it."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/katzenstein-castle.webp",
+    "alt": "Katzenstein Castle (Burg Katzenstein) in Dischingen, Baden-Württemberg, Germany, a Romanesque castle complex",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/katzenstein-castle.webp",
+  "instagram_tag": "#katzensteincastle",
+  "meta_title": "Katzenstein Castle — A Romanesque Fortress With a Separate Hotel Wing",
+  "meta_description": "Stay at Katzenstein Castle in Dischingen — one of southern Germany's best-preserved Romanesque castles, with the hotel in the outer-bailey buildings.",
+  "tags": [
+    "germany",
+    "baden-wurttemberg",
+    "castle-hotel",
+    "romanesque",
+    "medieval",
+    "schwabische-alb"
+  ],
+  "last_updated": "2026-09-20",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Hotel und Restaurant Katzenstein",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=burg-katzenstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fde%2Fburg-katzenstein.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D542287%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784760174%26srpvid%3D0a2e9fb49a650502%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 129,
+    "currency": "EUR",
+    "room_location": "annex",
+    "amenities": ["restaurant", "museum"],
+    "non_guest_access_note": "The castle museum (Kernburg/Palas, with 11th-century foundations and a 12th-century vaulted hall) is a genuine, independent day-visit product, with its own entrance via the gatehouse or a Palas staircase — separate from the hotel in the Vorburg.",
+    "how_to_stay": "**Getting there:** About 20 minutes by car from Heidenheim an der Brenz; roughly 45 minutes from Aalen and 1h from Ulm.\n\n**Rooms & rates:** Rooms are within the half-timbered Vorburg (outer bailey) estate buildings, built against the Romanesque ring wall — not within the Kernburg or Palas, which house the castle's independent museum. From €129/night.\n\n**On-site:** Restaurant, on-site castle museum (separately accessed and ticketed).\n\n**Good to know:** Guests stay in the historic outer-bailey buildings rather than inside the medieval keep or hall itself — the medieval path connecting the two courtyards no longer exists, reflecting a genuine physical separation between the hotel and the museum sections.\n\n**Combine with:** The castle's own on-site museum, and the wider Swabian Jura (Schwäbische Alb) landscape.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-20"
+  }
+}
