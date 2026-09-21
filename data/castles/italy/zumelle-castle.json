@@ -100,5 +100,20 @@
       ],
       "booking_url_override": "https://www.getyourguide.com/castello-di-zumelle-l261079/belluno-and-valbelluna-tour-of-zumelle-castle-and-medieval-tasting-t1064574/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Zumelle",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=castello-di-zumelle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-zumelle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1381067%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784817636%26srpvid%3D612167301a3604b0%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 177,
+    "currency": "EUR",
+    "room_count": 3,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens", "mountain views"],
+    "non_guest_access_note": "General access to the castle is via the existing GYG guided tour above; overnight accommodation is a separate service, bookable directly through Booking.com.",
+    "how_to_stay": "**Getting there:** Same as the How to Visit section above — Mel, Borgo Valbelluna, approximately 20 km south of Belluno; a car is essential.\n\n**Rooms & rates:** Very limited — just 3 rooms within the castle itself, with a shared bathroom, decorated in a careful medieval style. Alternatively, an independent guest house in the garden offers private bathrooms, mountain and garden views. From €177/night.\n\n**On-site:** The Medieval Tavern (already described in How to Visit) also serves overnight guests.\n\n**Good to know:** As a heritage site with a guided tour as its main attraction, accommodation here is secondary and very limited (3 rooms plus the guest house) — book ahead if you want to stay overnight, as availability is limited.\n\n**Combine with:** Same as the How to Visit section above (Belluno, the Grotta Azzurra, the Prosecco hills).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
 }

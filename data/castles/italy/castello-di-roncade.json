@@ -1,0 +1,91 @@
+{
+  "id": "castello-di-roncade",
+  "name": "Castello di Roncade",
+  "local_name": "Castello di Roncade",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "italy",
+  "region": "Veneto — Roncade, Treviso Province, Prosecco and Piave area",
+  "nearest_city": "Treviso",
+  "address": "Via Roma, 141, 31056 Roncade TV, Italy",
+  "lat": 45.6333,
+  "lng": 12.3667,
+  "unesco": false,
+  "year_built": 1514,
+  "architectural_style": "Built over the ruins of a 10th-century castle donated by Emperor Otto II; rebuilt in the 16th century (1514-1529) by Venetian nobleman Girolamo Giustinian; owned by the Ciani Bassetti family since 1915",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; guided cellar tours and tastings are separately open to the public",
+  "best_season": "Year-round; September to October for the grape harvest",
+  "accessibility": "All rooms and apartments are within the same 16th-century fortified villa; contact the estate directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A historic Prosecco winery in a 16th-century fortified villa, minutes from Venice's Marco Polo Airport",
+  "highlights": [
+    "A historic Prosecco winery, with guided cellar tours and tastings",
+    "Rebuilt in the 16th century by Girolamo Giustinian over the ruins of a castle donated by Emperor Otto II",
+    "Owned by the same family (Ciani Bassetti) since 1915, with agricultural roots in Trentino"
+  ],
+  "description": "Castello di Roncade was originally built over the ruins of a 10th-century castle, donated by Emperor Otto II, and was rebuilt in the 16th century by Girolamo Giustinian, a Venetian aristocrat. In 1495 Girolamo Badoer left the estate to his daughter Agnesina, who first married Benedetto Badoer and, after being widowed, married Girolamo Giustinian. Agnesina and her second husband built a villa, begun in 1514 and completed in 1529.\n\nThe villa remained in the Giustinian family until 1915, when it was acquired by the Ciani Bassetti family. The Ciani Bassetti barons, with deep agricultural roots in Trentino, revitalized the estate through architectural restoration and vineyard replanting, laying the foundations for the wine production — including Prosecco — that characterizes the property today.\n\nThe original 10th-century castle's connection to a donation by Emperor Otto II ties Roncade to the broader pattern of Holy Roman Emperors granting territorial control to local nobility as a means of consolidating imperial authority in northern Italy.\n\nAgnesina's role — inheriting the estate, then building the villa with her second husband after being widowed — reflects a genuine instance of a noblewoman directing a major architectural project in early 16th-century Venetian territory, rather than the more commonly documented male patronage of the era.\n\nThe Ciani Bassetti family's Trentino agricultural background, applied to reviving Roncade's vineyards after 1915, connects two distinct Italian wine-growing traditions — Trentino's Alpine viticulture and the Veneto's Prosecco lowlands — within a single family's stewardship.\n\nThe estate's proximity to Venice's Marco Polo Airport makes Castello di Roncade a practical first- or last-night stay for travelers visiting Venice without sleeping in the city itself, alongside its direct access to the Conegliano-Valdobbiadene Prosecco wine route.",
+  "history": "Castello di Roncade was built over the ruins of a 10th-century castle donated by Emperor Otto II, and rebuilt in the 16th century by Girolamo Giustinian, beginning in 1514 and completed in 1529 following his marriage to Agnesina, heir to the estate. The villa remained with the Giustinian family until 1915, when the Ciani Bassetti family acquired it and revived its vineyards, establishing the wine production — including Prosecco — that defines the estate today.",
+  "faqs": [
+    {
+      "question": "Can I visit Castello di Roncade's winery without staying overnight?",
+      "answer": "Yes — guided tours and tastings of the historic winery are open to the public, with or without a room booking."
+    },
+    {
+      "question": "Are the rooms at Castello di Roncade within the historic villa?",
+      "answer": "Yes — apartments are in the villa's towers and rooms in the central body, all within the same 16th-century fortified villa, with no separate modern annex identified."
+    },
+    {
+      "question": "How far is Castello di Roncade from Venice?",
+      "answer": "About 30 minutes by car, and just 20 minutes from Venice's Marco Polo Airport — a convenient first or last night without staying in Venice itself."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castello-di-roncade.webp",
+    "alt": "Castello di Roncade, a 16th-century fortified villa and historic Prosecco winery in the Veneto, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castello-di-roncade.webp",
+  "instagram_tag": "#castellodironcade",
+  "meta_title": "Castello di Roncade — A Historic Prosecco Winery Near Venice",
+  "meta_description": "Stay at Castello di Roncade near Treviso — a 16th-century fortified villa and historic Prosecco winery, minutes from Venice's airport.",
+  "tags": [
+    "italy",
+    "veneto",
+    "castle-hotel",
+    "treviso",
+    "prosecco",
+    "wine"
+  ],
+  "last_updated": "2026-09-22",
+  "routes": [],
+  "nearby_castles": [
+    "castelbrando"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Roncade",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-di-roncade&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-roncade-b-roncade.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D319521%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784817587%26srpvid%3D343467171fc204ae%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 105,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["winery", "gardens"],
+    "non_guest_access_note": "Guided tours and tastings of the historic winery are open to the public, with or without a room booking.",
+    "how_to_stay": "**Getting there:** About 20 minutes from Treviso and 30 minutes from Venice by car; Venice's Marco Polo Airport (VCE) is about 20 minutes away.\n\n**Rooms & rates:** Apartments in the villa's towers, rooms in the central body, all within the same 16th-century fortified villa, with period furnishings. From €105/night.\n\n**On-site:** Historic winery with guided tours and tastings, gardens.\n\n**Good to know:** Very close to Venice's airport — a good option for a first or last night of a Venice trip without staying in the city itself.\n\n**Combine with:** Venice (~30 min), Treviso (~20 min), the Conegliano-Valdobbiadene Prosecco wine route (~45 min, a UNESCO World Heritage Site).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}

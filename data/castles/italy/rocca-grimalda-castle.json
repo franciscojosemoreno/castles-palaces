@@ -1,0 +1,91 @@
+{
+  "id": "rocca-grimalda-castle",
+  "name": "Rocca Grimalda Castle",
+  "local_name": "Castello di Rocca Grimalda",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 23,
+  "country": "italy",
+  "region": "Piedmont — Rocca Grimalda, Alessandria Province, Gran Monferrato",
+  "nearest_city": "Alessandria",
+  "address": "Via Umberto I, 15078 Rocca Grimalda AL, Italy",
+  "lat": 44.6667,
+  "lng": 8.4667,
+  "unesco": false,
+  "year_built": 1190,
+  "architectural_style": "Core built around a circular tower from the late 12th-early 13th century under the Malaspina; held by the Grimaldi family for over 250 years from 1431; western facade and hanging garden added in the 18th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; also participates in \"Castelli Aperti\" open-day tours",
+  "best_season": "Year-round; spring and autumn for the Monferrato countryside",
+  "accessibility": "Accommodation is split between the medieval wing and the separate Wine Bike Hostel building near the entrance; contact the estate directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A castle held for 250 years by the Grimaldi family — yes, the same house that rules Monaco today — with a hanging garden over the Orba valley",
+  "highlights": [
+    "Original circular tower from the late 12th century, the complex's oldest element",
+    "Owned by the Grimaldi family (the same house that rules Monaco today) for over 250 years",
+    "Participates in \"Castelli Aperti,\" Piedmont's castle open-day circuit"
+  ],
+  "description": "The construction of Rocca Grimalda Castle developed over centuries around a majestic circular tower dating to the late 12th or early 13th century, under Malaspina rule. The castle remained a fief of the Marquises of Monferrato until 1431, when occupation by the Duke of Milan marked its transition from defensive fortress to noble residence, with the Grimaldi family taking ownership for more than 250 years.\n\nIn the 18th century the western facade was built, and the work was completed by expanding the front courtyard and creating the hanging garden over the Orba valley. Today the castle combines accommodation, wine production, and event functions, with guided tours of its halls, garden, great hall with side rooms, chapel, and old cellars.\n\nThe Grimaldi family's 250-year ownership connects this Piedmontese castle to a name most associated today with the ruling house of Monaco, a genuine historical link between a rural Monferrato fortress and one of Europe's more visible noble families.\n\nThe 18th-century addition of the western facade and hanging garden reflects the same broader pattern seen elsewhere in this collection: a medieval defensive structure reshaped in a later century to serve a more residential and aesthetic function once military necessity had faded.\n\nThe castle's participation in \"Castelli Aperti,\" Piedmont's regional castle open-day circuit, gives it a public heritage dimension beyond its function as a hotel, with periodic guided tours and tastings open to non-guests.\n\nThe surrounding Gran Monferrato, with its own open-castle tourism circuit and wine culture, gives guests staying at Rocca Grimalda easy access to a landscape built around exactly this kind of historic-estate tourism.",
+  "history": "Rocca Grimalda Castle developed over centuries around a circular tower from the late 12th or early 13th century under the Malaspina. It was a fief of the Marquises of Monferrato until 1431, when Milanese occupation shifted it toward residential use, and the Grimaldi family — the same house that today rules Monaco — owned it for more than 250 years. The 18th century added the western facade and a hanging garden over the Orba valley. Today the castle combines accommodation, wine production, and events, and participates in Piedmont's \"Castelli Aperti\" open-day circuit.",
+  "faqs": [
+    {
+      "question": "Is the Wine Bike Hostel at Rocca Grimalda inside the historic castle?",
+      "answer": "No — the Wine Bike Hostel (3 dorm rooms of 4 beds) is in a recently renovated building at the entrance to the estate, separate from the medieval wing where the historic apartments are located."
+    },
+    {
+      "question": "Is this the same Grimaldi family that rules Monaco?",
+      "answer": "Yes — the Grimaldi family owned Rocca Grimalda Castle for more than 250 years starting in 1431, the same noble house that rules the Principality of Monaco today."
+    },
+    {
+      "question": "Can I visit Rocca Grimalda Castle without staying overnight?",
+      "answer": "Yes — the castle participates in \"Castelli Aperti,\" Piedmont's regional castle open-day circuit, with periodic guided tours and tastings open to the public."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rocca-grimalda-castle.webp",
+    "alt": "Rocca Grimalda Castle, held by the Grimaldi family for over 250 years, in the Gran Monferrato, Piedmont, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rocca-grimalda-castle.webp",
+  "instagram_tag": "#roccagrimaldacastle",
+  "meta_title": "Rocca Grimalda Castle — A Grimaldi Family Estate in Monferrato",
+  "meta_description": "Stay at Rocca Grimalda Castle in Piedmont's Gran Monferrato — held for 250 years by the Grimaldi family, with a hanging garden over the Orba valley.",
+  "tags": [
+    "italy",
+    "piedmont",
+    "castle-hotel",
+    "monferrato",
+    "grimaldi",
+    "wine"
+  ],
+  "last_updated": "2026-09-22",
+  "routes": [],
+  "nearby_castles": [
+    "monferrato-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Rocca Grimalda",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=castello-di-rocca-grimalda&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-rocca-grimalda.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D484777%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784817398%26srpvid%3Dd1d366b918460070%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 35,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "winery", "gardens"],
+    "non_guest_access_note": "The castle participates in \"Castelli Aperti\" (Piedmont's regional castle open-day circuit), with guided tours and occasional tastings open to the public alongside regular accommodation.",
+    "how_to_stay": "**Getting there:** About 40 minutes from Alessandria and 1 hour from Genoa by car; Genoa's airport (GOA) is about 1h10 away.\n\n**Rooms & rates:** Apartments in the medieval wing of the castle (Torrette, within the tower itself; Isnardo, a family apartment), plus B&B rooms; and the Wine Bike Hostel (3 dorm rooms of 4 beds, private bathroom) in a renovated building at the estate's entrance. From €35/night for a hostel bed; the medieval-wing apartments run considerably higher.\n\n**On-site:** Winery and wine tastings, hanging garden over the Orba valley, great hall, chapel, bike workshop (Ciclofficina).\n\n**Good to know:** The Wine Bike Hostel is aimed at cyclists and hikers — if you're looking to sleep in the historic part of the castle, book the medieval-wing apartments instead of the hostel.\n\n**Combine with:** The Gran Monferrato and its open-castle circuit, Ovada (~15 min), Acqui Terme (~30 min).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}
