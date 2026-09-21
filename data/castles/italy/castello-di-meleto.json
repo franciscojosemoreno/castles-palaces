@@ -1,0 +1,92 @@
+{
+  "id": "castello-di-meleto",
+  "name": "Castello di Meleto",
+  "local_name": "Castello di Meleto",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "italy",
+  "region": "Tuscany — Gaiole in Chianti, Siena Province, Chianti Classico",
+  "nearest_city": "Siena",
+  "address": "Loc. Meleto, 53013 Gaiole in Chianti SI, Italy",
+  "lat": 43.4667,
+  "lng": 11.4333,
+  "unesco": false,
+  "year_built": 1180,
+  "architectural_style": "First documented in 1256; the castle proper was built in the late 12th century under the Ricasoli-Firidolfi family; converted into a noble residence in the 18th century, when a small theatre was added in 1742",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; paid guided tours of the historic interior and 1742 theatre are separately available to the public",
+  "best_season": "Year-round; September to October for the Chianti grape harvest",
+  "accessibility": "Accommodation is split between rooms within the castle and apartments in nearby former farmhouses; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Ricasoli-Firidolfi fortress on the Florence-Siena frontier, with an 18th-century theatre inside — bookable for both a night's stay and a paid day tour",
+  "highlights": [
+    "Held by the Ricasoli-Firidolfi family since the 12th century, tied to the history of Chianti Classico itself (the \"Black Rooster\")",
+    "A private theatre from 1742, a rarity within a converted medieval castle",
+    "Paid guided tours of the historic interior — a full-day attraction beyond overnight accommodation"
+  ],
+  "description": "The first documentary records of Meleto date to 1256, though the castle's construction as an actual fortress is placed in the late 12th century, under the control of the Ricasoli-Firidolfi family, one of the oldest and most powerful lineages of rural Tuscany, historically tied to the production of Chianti wine. For much of the Middle Ages, the castle functioned as a military stronghold on the disputed frontier between the republics of Florence and Siena, two of the most bellicose powers of medieval central Italy.\n\nWith the pacification of the region under the Grand Duchy of Tuscany, the castle's military role became obsolete, and in the 18th century it was transformed into an elegant noble residence, incorporating a small private theatre in 1742 — a characteristic gesture of Tuscan aristocratic refinement of the period. The complex that survives today preserves three architecturally distinct but contiguous and interconnected sections, reflecting this evolution from medieval fortress to noble residence and, today, to a wine-tourism destination with accommodation, a winery, and guided tours.\n\nThe Ricasoli-Firidolfi family's centuries-long stewardship links Meleto directly to the broader history of Chianti Classico winemaking, one of Italy's most internationally recognized wine appellations.\n\nThe castle's position on the medieval Florence-Siena frontier gave it genuine strategic importance during a period when these two republics were among the most persistently warring powers in central Italy, a role that faded only once Tuscany was unified under the Grand Duchy.\n\nThe 1742 theatre's addition during the castle's conversion to a noble residence reflects a specifically Tuscan aristocratic taste for private cultural refinement, distinguishing Meleto from castles converted purely for residential comfort.\n\nThe castle's paid guided-tour product, covering both the historic interior and the 1742 theatre, gives Meleto a genuine day-visit dimension independent of an overnight stay, uncommon among many of the smaller castle-hotels in this collection.",
+  "history": "Castello di Meleto is first documented in 1256, with the castle proper built in the late 12th century under the Ricasoli-Firidolfi family on the disputed medieval frontier between Florence and Siena. In the 18th century it was converted into a noble residence, adding a private theatre in 1742. Today the complex combines a winery, guided tours of the historic interior and theatre, and accommodation split between rooms within the castle and apartments in nearby former farmhouses.",
+  "faqs": [
+    {
+      "question": "Can I visit Castello di Meleto without staying overnight?",
+      "answer": "Yes — the castle offers paid guided tours of its historic interior, including the 1742 theatre, open to the general public independent of a hotel stay."
+    },
+    {
+      "question": "Are all the accommodations at Castello di Meleto within the castle?",
+      "answer": "No — of about 30 accommodations, rooms within the castle itself are the most requested, while apartments occupy nearby former farmhouses that originally surrounded the castle, not the fortified structure itself."
+    },
+    {
+      "question": "What is the 1742 theatre at Castello di Meleto?",
+      "answer": "A small private theatre added when the castle was converted into a noble residence in the 18th century — visitable as part of the castle's paid guided tour."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castello-di-meleto.webp",
+    "alt": "Castello di Meleto, a Ricasoli-Firidolfi castle with an 18th-century theatre, in Gaiole in Chianti, Tuscany, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castello-di-meleto.webp",
+  "instagram_tag": "#castellodimeleto",
+  "meta_title": "Castello di Meleto — A Chianti Castle With an 18th-Century Theatre",
+  "meta_description": "Stay at or tour Castello di Meleto in Gaiole in Chianti — a Ricasoli-Firidolfi fortress with a private 1742 theatre and its own Chianti Classico winery.",
+  "tags": [
+    "italy",
+    "tuscany",
+    "castle-hotel",
+    "chianti",
+    "ricasoli",
+    "wine",
+    "day-visit"
+  ],
+  "last_updated": "2026-09-21",
+  "routes": [],
+  "nearby_castles": [
+    "brolio-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Meleto",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-di-meleto&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-meleto.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D325852%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784816886%26srpvid%3Df2d065b8474a03d6%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 196,
+    "currency": "EUR",
+    "room_count": 30,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "winery", "gardens"],
+    "non_guest_access_note": "The castle offers paid guided tours of its historic interior (including the 1742 theatre) and its winery, open to the general public independent of a hotel stay.",
+    "how_to_stay": "**Getting there:** About 25 minutes from Siena and 1 hour from Florence by car; the closest airport is Florence (Peretola, FLR, ~1h15) or Pisa (PSA, ~1h45). No relevant public transport — a car is essential.\n\n**Rooms & rates:** About 30 accommodations split between rooms within the castle (the most requested, with a storybook atmosphere and canopy beds) and apartments in nearby former farmhouses that originally surrounded the castle. From €196/night.\n\n**On-site:** Winery with tastings and tours, 2 outdoor pools, barbecue area, bowling green, the historic 1742 theatre (visitable with the castle's guided tour).\n\n**Good to know:** The castle offers a paid guided tour (interior plus theatre) open to non-guests — a day-visit option for those who only want to tour, not stay overnight.\n\n**Combine with:** Siena (~25 min), Radda in Chianti and Castellina in Chianti (Chianti Classico wine route), Florence as a full-day excursion.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}
