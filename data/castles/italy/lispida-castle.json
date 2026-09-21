@@ -1,0 +1,92 @@
+{
+  "id": "lispida-castle",
+  "name": "Lispida Castle",
+  "local_name": "Castello di Lispida (Villa Italia)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "italy",
+  "region": "Veneto — Monticelli, Monselice, Padua Province, Euganean Hills",
+  "nearest_city": "Padua",
+  "address": "Via Lispida, 35043 Monselice PD, Italy",
+  "lat": 45.2333,
+  "lng": 11.7500,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "Monastic origin from 1150 (Augustinian order); rebuilt in 1880 by Count Augusto Corinaldi over the ruins of the original monastery",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; the Monselice municipality organizes occasional public history tours",
+  "best_season": "Year-round",
+  "accessibility": "Accommodation is spread across four distinct buildings of the 1880 estate; contact the venue directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 12th-century Augustinian monastery, rebuilt in 1880 — and King Vittorio Emanuele III's wartime headquarters in 1918-1919",
+  "highlights": [
+    "Monastic origin from 1150, confirmed by Pope Eugene III to the Augustinian order",
+    "Headquarters of King Vittorio Emanuele III during World War I (1918-1919) — hence its other name, \"Villa Italia\"",
+    "Rebuilt in 1880 over the remains of the original medieval monastery"
+  ],
+  "description": "Lispida's history began as a monastery in the 12th century: in 1150 Pope Eugene III confirmed the Augustinian order's possession of the hill and a church dedicated to Santa Maria di Ispida, in an isolated, peaceful setting well-suited to vine and olive cultivation. In 1485 the Doge of Venice Giovanni Mocenigo confiscated the property from the monks to continuously exploit the trachyte quarrying of the area, and monastic life at Lispida ended definitively in 1792.\n\nIn 1880 the property was acquired by Count Augusto Corinaldi, who built the structures that survive today over the ruins of the old monastery: the Castle, the Tower, the Portico and the Granaries. During World War I, King Vittorio Emanuele III moved his headquarters here from Villa Giusti in Padua, to avoid exposing an already war-damaged city to further risk; the king resided at Lispida from January 20, 1918 to July 7, 1919, and the castle has since also been known as \"Villa Italia.\"\n\nThe 1485 confiscation by Doge Giovanni Mocenigo, motivated by the site's trachyte quarrying potential rather than any religious dispute, marks an unusually pragmatic and purely economic seizure of monastic property, distinct from the more common pattern of religious suppression during this period.\n\nThe king's 1918-1919 residence at Lispida ties the estate directly to the final year of Italy's involvement in World War I, a period when protecting the monarch from further exposure to a damaged Padua was a genuine strategic concern.\n\nThe four distinct 1880 buildings — Castle, Tower, Portico, and Granaries — all built over the same monastic ruins, reflect a unified 19th-century construction campaign rather than centuries of piecemeal addition, giving the estate a coherent architectural character despite its much older monastic origins.\n\nThe surrounding Euganean Hills Regional Park and the nearby town of Monselice, with its own castle, give guests staying at Lispida easy access to one of the Veneto's most distinctive volcanic hill landscapes.",
+  "history": "Lispida began as an Augustinian monastery confirmed by Pope Eugene III in 1150. In 1485 the Doge of Venice confiscated it for trachyte quarrying, and monastic life ended in 1792. In 1880, Count Augusto Corinaldi rebuilt the site into the Castle, Tower, Portico and Granaries that survive today. During World War I, King Vittorio Emanuele III made it his headquarters from January 1918 to July 1919, giving it the alternate name \"Villa Italia.\"",
+  "faqs": [
+    {
+      "question": "Can I visit Lispida Castle without staying overnight?",
+      "answer": "The Monselice municipality organizes occasional public history tours of the castle (\"Viaggio nella storia al castello di Lispida\") — worth checking the local event calendar if you want to see the interior without booking a stay."
+    },
+    {
+      "question": "Why is Lispida Castle also called \"Villa Italia\"?",
+      "answer": "Because King Vittorio Emanuele III made it his wartime headquarters from January 1918 to July 1919, during the final phase of Italy's involvement in World War I."
+    },
+    {
+      "question": "Are all the accommodation units at Lispida Castle in the same building?",
+      "answer": "No — the roughly 10 units are spread across four distinct structures built in 1880 over the monastery ruins: the Castle, the Tower, the Portico, and the former Granaries."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lispida-castle.webp",
+    "alt": "Lispida Castle (Villa Italia), a former monastery rebuilt in 1880 near Monselice, Veneto, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lispida-castle.webp",
+  "instagram_tag": "#lispidacastle",
+  "meta_title": "Lispida Castle — A Royal WWI Headquarters Near Padua",
+  "meta_description": "Stay at Lispida Castle near Monselice — a 12th-century monastery rebuilt in 1880, later King Vittorio Emanuele III's WWI headquarters.",
+  "tags": [
+    "italy",
+    "veneto",
+    "castle-hotel",
+    "padua",
+    "euganean-hills",
+    "world-war-i"
+  ],
+  "last_updated": "2026-09-22",
+  "routes": [],
+  "nearby_castles": [
+    "san-pelagio-castle",
+    "castello-di-valbona"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Lispida",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-di-lispida&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-lispida.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D358025%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784817232%26srpvid%3D73c266661c5804cb%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 202,
+    "currency": "EUR",
+    "room_count": 10,
+    "room_location": "mixed",
+    "amenities": ["gardens", "winery"],
+    "non_guest_access_note": "The Monselice municipality organizes occasional public history tours (\"Viaggio nella storia al castello di Lispida\"); otherwise access is primarily for hotel guests and events.",
+    "how_to_stay": "**Getting there:** About 10 minutes from Monselice and 25 minutes from Padua by car; Venice's Marco Polo Airport (VCE) is about 1 hour away.\n\n**Rooms & rates:** About 10 units spread across the Castle, the Tower, the Portico, and the former Granaries — all buildings of the 1880 estate. From €202/night.\n\n**On-site:** Multi-purpose halls for events and weddings, own vineyards and olive groves.\n\n**Good to know:** The Monselice municipality organizes occasional public history tours of the castle — worth checking the local calendar if you want to see the interior without staying overnight.\n\n**Combine with:** Monselice and its own castle/Rocca (~10 min), the Euganean Hills Regional Park, Padua (~25 min), and Villa Giusti (the historic site of the 1918 armistice, ~25 min).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}
