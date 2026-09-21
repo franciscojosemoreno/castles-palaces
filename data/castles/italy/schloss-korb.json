@@ -1,0 +1,91 @@
+{
+  "id": "schloss-korb",
+  "name": "Schloss Korb",
+  "local_name": "Schloss Korb (Castel Corba)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "italy",
+  "region": "South Tyrol (Alto Adige) — Missiano, Appiano sulla Strada del Vino (Eppan), Bolzano Province",
+  "nearest_city": "Bolzano",
+  "address": "Via Castel d'Appiano, 25, 39057 Appiano sulla Strada del Vino BZ, Italy",
+  "lat": 46.4600,
+  "lng": 11.2450,
+  "unesco": false,
+  "year_built": 1236,
+  "architectural_style": "Residential tower built in 1236 by the von Korb lords; restored and expanded in 1834 by Johann von Putzer (a chapel added); acquired by the Tessmann family in 1877; owned by the Dellago family since 1918",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; April to October for the South Tyrol wine route",
+  "accessibility": "Accommodation is split between the historic tower/original building and a detached modern annex; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 13th-century tower on South Tyrol's Wine Route, tied to a noted Tyrolean cultural scholar — now a boutique winery hotel run by the same family since 1918",
+  "highlights": [
+    "Square 13th-century residential and defensive tower, the castle's most striking architectural element",
+    "Linked to Friedrich von Tessmann, a noted scholar of Tyrolean culture, owner from 1877",
+    "Owned by the Dellago family since 1918, who transformed it into a model winery and hotel"
+  ],
+  "description": "Schloss Korb was erected in 1236 as a residential tower for the von Korb lords, later passing through the hands of several aristocratic families before falling into decline. In 1834, Johann von Putzer restored the castle, expanded the structure, and added a chapel. In 1877 the property was acquired by the Tessmann family, among whose members was Friedrich von Tessmann, a noted scholar of Tyrolean culture.\n\nIn 1918 the Dellago family began transforming the castle into a model winery and romantic hotel with a gourmet restaurant. The castle remains in the Dellago family's hands today and is a recognized boutique hotel, valued for its refined atmosphere and its panoramic setting among vineyards and orchards, near the village of Missiano.\n\nThe von Korb family's original 1236 tower situates Schloss Korb among the older documented fortified residences on South Tyrol's Wine Route, predating much of the region's later castle-building.\n\nFriedrich von Tessmann's ownership connects Schloss Korb to serious 19th-century scholarship on Tyrolean regional culture and history, distinct from the more purely aristocratic or commercial ownership histories of many other castles in this collection.\n\nThe Dellago family's century-plus stewardship, transforming the property into both a working winery and hotel, reflects a long-term family commitment to the estate similar to other multi-generational wine-castle properties in this collection.\n\nThe surrounding South Tyrol Wine Route and nearby Lake Caldaro give guests staying at Schloss Korb direct access to one of Italy's most distinctive Alpine wine landscapes, with Bolzano itself a short drive away.",
+  "history": "Schloss Korb was built in 1236 as a residential tower for the von Korb lords. Johann von Putzer restored and expanded it in 1834, adding a chapel. The Tessmann family, including noted Tyrolean culture scholar Friedrich von Tessmann, acquired it in 1877. Since 1918 the Dellago family has owned and transformed the castle into a model winery and romantic hotel with a gourmet restaurant, a role it retains today.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Schloss Korb within the historic tower?",
+      "answer": "No — the best rooms, with the most vineyard views, are in the tower and the historic original building (13th century, expanded in 1834), but a separate modern annex behind the main building offers additional balcony rooms, plus the indoor heated pool and library."
+    },
+    {
+      "question": "Why is this castle called by a German name in Italy?",
+      "answer": "Because it's in South Tyrol (Alto Adige), a German-speaking region of Italy, and \"Schloss Korb\" is how the property is internationally marketed and recognized — the same convention applied to Castel Fragsburg elsewhere in this collection. It's also known in Italian as \"Castel Corba.\""
+    },
+    {
+      "question": "Who was Friedrich von Tessmann?",
+      "answer": "A noted scholar of Tyrolean culture whose family acquired Schloss Korb in 1877, before the Dellago family took ownership in 1918."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/schloss-korb.webp",
+    "alt": "Schloss Korb (Castel Corba), a 13th-century tower and winery hotel on South Tyrol's Wine Route, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/schloss-korb.webp",
+  "instagram_tag": "#schlosskorb",
+  "meta_title": "Schloss Korb — A Winery Castle on South Tyrol's Wine Route",
+  "meta_description": "Stay at Schloss Korb near Bolzano — a 13th-century tower turned winery hotel, run by the Dellago family since 1918 on South Tyrol's Wine Route.",
+  "tags": [
+    "italy",
+    "south-tyrol",
+    "castle-hotel",
+    "wine-route",
+    "bolzano",
+    "wine"
+  ],
+  "last_updated": "2026-09-22",
+  "routes": [],
+  "nearby_castles": [
+    "sigmundskron-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Korb",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=schloss-korb&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fschloss-korb.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D330467%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784818220%26srpvid%3D1c196853b02b0122%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 172,
+    "currency": "EUR",
+    "room_count": 50,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "winery", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 15 minutes from Bolzano and 10 minutes from Appiano by car; Bolzano Airport (BZO) is about 20 minutes away.\n\n**Rooms & rates:** 50 rooms, no two alike; the best (with the most vineyard views) are in the tower and historic building; a separate modern annex behind the main building offers additional rooms with balconies. From €172/night.\n\n**On-site:** Gourmet restaurant, indoor heated pool and library (in the annex), own winery among vineyards and orchards.\n\n**Good to know:** If you want the full historic experience, book specifically a room in the tower or original building, not the modern annex.\n\n**Combine with:** Appiano and South Tyrol's Wine Route, Bolzano (~15 min), Lake Caldaro (~20 min).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}

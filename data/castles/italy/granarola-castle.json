@@ -1,0 +1,91 @@
+{
+  "id": "granarola-castle",
+  "name": "Granarola Castle",
+  "local_name": "Castello di Granarola",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 23,
+  "country": "italy",
+  "region": "Marche — Granarola, Gradara, Pesaro and Urbino Province",
+  "nearest_city": "Pesaro",
+  "address": "Via Granarola, 61012 Gradara PU, Italy",
+  "lat": 43.9200,
+  "lng": 12.7600,
+  "unesco": false,
+  "year_built": 1250,
+  "architectural_style": "13th-century medieval castle, restored; took its name from its Roman-era function storing grain reserves in caves",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only (adults-only property)",
+  "best_season": "Year-round",
+  "accessibility": "All 18 residences, including one carved into the old grain-storage caves, are within the restored 13th-century castle structure; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 13th-century fortress named for its Roman-era grain stores, restored into 18 individually designed residences — including one carved into the original storage caves",
+  "highlights": [
+    "Name derived from its Roman-era function as a fortified grain store for the surrounding valley",
+    "Restoration driven by Marco Morosini, patron of the Brandina fashion brand",
+    "\"Fox's Den,\" a unique residence carved into the castle's ancient grain-storage caves"
+  ],
+  "description": "Granarola Castle is a restored 13th-century medieval castle, surrounded by oaks and fragrant laurel, that takes its name from its Roman-era function, when the valley's grain reserves were stored in its caves. It was an important feudal outpost, where wheat from the fertile surrounding valley was stored.\n\nThe restoration was driven by Marco Morosini, patron of the Brandina fashion brand, and today the former structure houses eighteen residences. Each residence combines old and new elegance, is highly personalized, and is named after memories Morosini chose to share with guests — among them the \"Fox's Den,\" a unique residence carved directly into the old caves that once served as the castle's grain store.\n\nThe castle's Roman-era function as a fortified grain store connects it to the broader agricultural logistics of the ancient world, where fortified hilltop positions doubled as secure storage for a region's food surplus.\n\nMarco Morosini's fashion-industry background, applied to the castle's restoration, gives Granarola a distinctly design-forward, personally curated character compared to more conventionally restored historic properties in this collection.\n\nThe \"Fox's Den\" residence, carved directly into the original grain-storage caves, offers a genuinely unusual sleeping arrangement within the castle's oldest surviving functional spaces.\n\nThe property's adults-only policy and its proximity to Gradara's medieval castle, famous for the legend of Paolo and Francesca, give guests staying at Granarola a quiet base for exploring one of the Marche's most visited historic towns.",
+  "history": "Granarola Castle is a restored 13th-century fortress that took its name from its Roman-era function storing the valley's grain reserves in its caves. Restoration was driven by Marco Morosini, patron of the Brandina fashion brand, who transformed the structure into 18 individually designed residences, including the \"Fox's Den,\" carved directly into the old grain-storage caves.",
+  "faqs": [
+    {
+      "question": "Why is it called \"Granarola\" Castle?",
+      "answer": "The name derives from the castle's Roman-era function as a fortified grain store, where the surrounding valley's wheat reserves were kept in its caves."
+    },
+    {
+      "question": "What is the \"Fox's Den\" at Granarola Castle?",
+      "answer": "A unique residence carved directly into the castle's original grain-storage caves, one of 18 individually designed units on the property."
+    },
+    {
+      "question": "Is Granarola Castle suitable for families with children?",
+      "answer": "No — it operates as an adults-only (\"Adults Friendly\") property."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/granarola-castle.webp",
+    "alt": "Granarola Castle, a restored 13th-century fortress near Gradara, Marche, Italy, with residences including one carved into ancient grain-storage caves",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/granarola-castle.webp",
+  "instagram_tag": "#granarolacastle",
+  "meta_title": "Granarola Castle — An Adults-Only Retreat Near Gradara",
+  "meta_description": "Stay at Granarola Castle near Gradara — a restored 13th-century grain-store fortress with 18 unique residences, including one in the original caves.",
+  "tags": [
+    "italy",
+    "marche",
+    "castle-hotel",
+    "gradara",
+    "adults-only",
+    "design"
+  ],
+  "last_updated": "2026-09-22",
+  "routes": [],
+  "nearby_castles": [
+    "gradara-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castello di Granarola",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=castello-di-granarola&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-granarola.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D714950%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784817978%26srpvid%3Decdb67db34e00a43%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 100,
+    "currency": "EUR",
+    "room_count": 18,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests (adults-only property).",
+    "how_to_stay": "**Getting there:** About 10 minutes from Gradara and 20 minutes from Pesaro by car; Rimini's Federico Fellini Airport (RMI) is about 30 minutes away.\n\n**Rooms & rates:** 18 unique residences/apartments, including junior suites, terrace suites, and the exceptional \"Fox's Den\" in the old grain-storage caves — all with a kitchenette and private bathroom. From €100/night.\n\n**On-site:** Gardens, private panoramic terraces on some units.\n\n**Good to know:** This is an adults-only (\"Adults Friendly\") property — not suited for traveling with children.\n\n**Combine with:** Gradara and its medieval castle, famous for the legend of Paolo and Francesca (~10 min), Pesaro (~20 min), the Romagna coast.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}

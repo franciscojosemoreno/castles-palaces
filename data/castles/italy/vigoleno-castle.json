@@ -1,0 +1,91 @@
+{
+  "id": "vigoleno-castle",
+  "name": "Vigoleno Castle",
+  "local_name": "Castello di Vigoleno",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 24,
+  "country": "italy",
+  "region": "Emilia-Romagna — Vigoleno, Vernasca, Piacenza Province",
+  "nearest_city": "Piacenza",
+  "address": "Via Maschi, 29010 Vigoleno PC, Italy",
+  "lat": 44.8000,
+  "lng": 9.9333,
+  "unesco": false,
+  "year_built": 950,
+  "architectural_style": "Military fortress between the 10th-11th centuries; destroyed and rebuilt several times; a fief of the Pallavicino, Visconti and Farnese, though the Scotti family held it almost continuously from the 12th to the 20th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; spring and autumn for the Ongina and Stirone valleys",
+  "accessibility": "Accommodation is split between the castle's central body and towers and a separate dependance across the borgo's fountain square; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "One of Italy's Most Beautiful Villages, held by the Scotti family for eight centuries — suites in the castle's own watchtowers, reachable only by stairs",
+  "highlights": [
+    "Part of \"I Borghi più belli d'Italia\" since 2002, a medieval fortified village intact in every part",
+    "Held by the Scotti family almost continuously from the 12th to the 20th century",
+    "Suites located within the castle's own watchtowers, accessible only by stairs"
+  ],
+  "description": "The borgo of Vigoleno has Roman origins, with a name deriving from the Latin \"vicus lyaeo\" (\"place dedicated to Bacchus\"). Vigoleno originated as a military fortress between the 10th and 11th centuries, and its history is tied to that of the castle, which was destroyed and rebuilt on several occasions. It was a fief of the Pallavicino, Visconti and Farnese families, but the Scotti family held possession almost continuously from the 12th century to the 20th.\n\nSet on a ridge between the Ongina and Stirone valleys, on a modest hill overlooking the surrounding hills, Vigoleno castle is a particularly beautiful example of a medieval fortified village, intact in every part — the reason it has been included in \"I Borghi più belli d'Italia\" (Italy's Most Beautiful Villages) since 2002. Today the complex combines accommodation spread across the castle's central body, its watchtowers, and a dependance within the borgo itself.\n\nThe Scotti family's near-continuous eight-century tenure gives Vigoleno a genuinely rare stability of ownership, distinct from the more common pattern of repeated changes of hands seen at many other Italian castles.\n\nThe village's inclusion among \"I Borghi più belli d'Italia\" reflects its recognized status as a complete, intact fortified settlement rather than an isolated restored castle building — the entire hamlet, not just the keep, survives in its historic form.\n\nThe watchtower suites, reachable only by stairs, offer a genuinely unusual sleeping arrangement within a medieval defensive structure, distinct from the more conventional room layouts found in the castle's central body.\n\nThe surrounding Stirone Regional Park and the Romanesque cathedral town of Fidenza give guests staying at Vigoleno easy access to both a protected natural landscape and a significant piece of Emilian religious architecture.",
+  "history": "Vigoleno originated as a military fortress between the 10th and 11th centuries, on a Roman-era settlement site. Held as a fief by the Pallavicino, Visconti and Farnese families, it passed almost continuously to the Scotti family from the 12th to the 20th century. Recognized as one of Italy's Most Beautiful Villages since 2002, the intact fortified hamlet today combines accommodation across the castle's central body, its watchtowers, and a separate dependance within the borgo.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Vigoleno Castle within the historic building?",
+      "answer": "Most, yes — 12 of 15 rooms/suites are within the castle itself (5 in the central body, 4 suites on the second floor, 3 in the watchtowers). The 3 simpler \"classic\" rooms are in a dependance across the borgo's fountain square, outside the main castle building."
+    },
+    {
+      "question": "Why is Vigoleno considered one of Italy's Most Beautiful Villages?",
+      "answer": "Because the entire fortified hamlet — not just the castle keep — survives intact, a distinction recognized by its inclusion in \"I Borghi più belli d'Italia\" since 2002."
+    },
+    {
+      "question": "How do you access the watchtower suites at Vigoleno Castle?",
+      "answer": "Only by stairs — the three watchtower suites are within the castle's original defensive towers, reachable exclusively on foot."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/vigoleno-castle.webp",
+    "alt": "Vigoleno Castle, an intact fortified medieval village held by the Scotti family, in Piacenza province, Emilia-Romagna, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/vigoleno-castle.webp",
+  "instagram_tag": "#vigolenocastle",
+  "meta_title": "Vigoleno Castle — One of Italy's Most Beautiful Villages",
+  "meta_description": "Stay at Vigoleno Castle near Piacenza — an intact fortified medieval village, one of Italy's Most Beautiful Villages, with suites in its own watchtowers.",
+  "tags": [
+    "italy",
+    "emilia-romagna",
+    "castle-hotel",
+    "piacenza",
+    "borghi-piu-belli",
+    "scotti-family"
+  ],
+  "last_updated": "2026-09-22",
+  "routes": [],
+  "nearby_castles": [
+    "tabiano-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castello di Vigoleno",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=castello-di-vigoleno&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-vigoleno.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D449689%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784817896%26srpvid%3Df3d167b2034d0c21%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 80,
+    "currency": "EUR",
+    "room_count": 15,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 30 minutes from Fidenza and 45 minutes from Piacenza by car; Parma's airport (PMF) is about 50 minutes away. A rural area — a car is recommended.\n\n**Rooms & rates:** 15 rooms/suites in total — 5 in the central body (Verde, Amarilla, Rosa, Roja, Azul), 4 suites on the central body's second floor, 3 suites in the castle's watchtowers, and 3 simpler \"classic\" rooms in a dependance across the borgo's fountain square. From €80/night.\n\n**On-site:** Restaurant, the intact medieval borgo itself as the surrounding setting.\n\n**Good to know:** If you want the most authentic experience of sleeping inside the castle (towers or central body), specify this when booking — the simpler rooms are in the dependance, outside the main historic building.\n\n**Combine with:** Vernasca (~10 min), the Stirone Regional Park, and Fidenza with its Romanesque cathedral (~30 min).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}

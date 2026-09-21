@@ -1,0 +1,91 @@
+{
+  "id": "baccaresca-castle",
+  "name": "Baccaresca Castle",
+  "local_name": "Castello di Baccaresca",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 24,
+  "country": "italy",
+  "region": "Umbria — Branca, Gubbio, Perugia Province",
+  "nearest_city": "Gubbio",
+  "address": "Loc. Baccaresca, 06020 Branca PG, Italy",
+  "lat": 43.2667,
+  "lng": 12.5667,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "Medieval fortress dating to the 12th century, restored with towers, battlements and a large centuries-old park",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All 29 rooms and suites, including the Tower Suite, are within the historic 12th-century castle structure; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 12th-century fortress near Gubbio with towers, battlements and a centuries-old park, now with a full spa built into the historic walls",
+  "highlights": [
+    "Towers, battlements and a large centuries-old park preserved from the original 12th-century fortress",
+    "Tower Suite with exclusive access to the castle's own tower",
+    "Full spa (Turkish steam bath, Finnish sauna, hot tub, chromotherapy shower) within the historic complex"
+  ],
+  "description": "Castello di Baccaresca is a genuine medieval fortress dating to the 12th century, set in the tranquil Umbrian countryside a short distance from the historic city of Gubbio. The castle, which has preserved its historic character with towers, battlements and a large park, offers a distinctive stay experience, with every corner enriched by monumental fireplaces, exposed beams and frescoes narrating stories from earlier eras.\n\nThe rooms and suites, once accommodation for nobles and knights, have been carefully restored, preserving original elements such as wood-beamed ceilings and terracotta floors.\n\nThe castle's preserved towers and battlements, rather than a purely reconstructed romantic silhouette, give Baccaresca a more genuinely medieval military character than some of the more heavily \"castellized\" properties in this collection.\n\nThe Tower Suite's exclusive access to the castle's own tower offers guests a direct physical connection to the fortress's original defensive architecture, distinct from rooms in the more residential sections of the complex.\n\nThe addition of a full modern spa within the historic walls reflects a now-common pattern of adapting medieval defensive structures to contemporary wellness tourism, without requiring a separate modern annex.\n\nGubbio's well-preserved medieval historic center and Palazzo dei Consoli, a short drive away, give guests staying at Baccaresca easy access to one of Umbria's most intact medieval towns.",
+  "history": "Castello di Baccaresca is a medieval fortress dating to the 12th century near Gubbio, Umbria, preserved with its original towers, battlements and a large park. Restored into a hotel, its rooms and suites retain original elements including wood-beamed ceilings and terracotta floors. The complex today also includes a full spa built within the historic walls, alongside its 29 rooms and suites, including a Tower Suite with exclusive access to the castle's tower.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Baccaresca Castle within the medieval building?",
+      "answer": "Yes — all 29 rooms and suites, including the Tower Suite, are within the 12th-century castle structure, with no separate modern annex identified."
+    },
+    {
+      "question": "What does the Tower Suite at Baccaresca Castle offer?",
+      "answer": "Exclusive access to the castle's own historic tower, distinct from the rooms in the more residential sections of the complex."
+    },
+    {
+      "question": "Can I visit Baccaresca Castle without staying overnight?",
+      "answer": "No confirmed independent day-visit product was found; access is primarily for hotel guests."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/baccaresca-castle.webp",
+    "alt": "Baccaresca Castle, a 12th-century fortress with towers, battlements and a spa, near Gubbio, Umbria, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/baccaresca-castle.webp",
+  "instagram_tag": "#baccarescacastle",
+  "meta_title": "Baccaresca Castle — A 12th-Century Fortress Near Gubbio",
+  "meta_description": "Stay at Baccaresca Castle near Gubbio — a 12th-century fortress with preserved towers and battlements, a Tower Suite, and a full historic-walls spa.",
+  "tags": [
+    "italy",
+    "umbria",
+    "castle-hotel",
+    "gubbio",
+    "spa",
+    "medieval"
+  ],
+  "last_updated": "2026-09-22",
+  "routes": [],
+  "nearby_castles": [
+    "castello-di-petroia"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castello di Baccaresca",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-di-baccaresca&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-baccaresca.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D650775%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784818184%26srpvid%3D3d2e684195f00152%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 53,
+    "currency": "EUR",
+    "room_count": 29,
+    "room_location": "castle",
+    "amenities": ["restaurant", "spa", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 15 minutes from Gubbio and 45 minutes from Perugia by car; Perugia's San Francesco d'Assisi Airport (PEG) is about 40 minutes away.\n\n**Rooms & rates:** 29 classic and superior rooms and suites, including the Tower Suite with exclusive access to the tower, all within the 12th-century castle structure. From €53/night.\n\n**On-site:** Full spa, outdoor pool, centuries-old park, restaurant specializing in truffle and Umbrian meats.\n\n**Good to know:** The spa is a recent addition — worth confirming treatment availability when booking in high season.\n\n**Combine with:** Gubbio and its Palazzo dei Consoli (~15 min), Assisi (~1h), Perugia (~45 min).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-22"
+  }
+}
