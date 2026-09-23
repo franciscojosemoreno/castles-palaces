@@ -1,0 +1,93 @@
+{
+  "id": "castello-di-albola",
+  "name": "Castello di Albola",
+  "local_name": "Castello di Albola",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 26,
+  "country": "italy",
+  "region": "Tuscany — Radda in Chianti, Siena Province, Chianti Classico",
+  "nearest_city": "Siena",
+  "address": "Loc. Albola, 53017 Radda in Chianti SI, Italy",
+  "lat": 43.4667,
+  "lng": 11.3833,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "12th-century defensive fortress under the Monterinaldi family; expanded by the Acciaiuoli (15th-16th century), who developed the first vineyards; later held by the Samminiati, Pazzi, and Prince Giovanni Ginori Conti; acquired by the Zonin family in 1979",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay; wine tastings and cellar tours are separately open to the public",
+  "best_season": "Year-round; September to October for the Chianti Classico harvest",
+  "accessibility": "Accommodation is spread across several buildings of the restored medieval borgo within the estate; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 900-hectare Chianti Classico estate held by seven generations of the Zonin winemaking family, in a restored medieval borgo",
+  "highlights": [
+    "Owned by the Zonin family since 1979, one of Italy's oldest Venetian winemaking families (more than 200 years, 7 generations)",
+    "A 900-hectare estate with just over 100 hectares of vineyards in the heart of Chianti Classico",
+    "Passed through some of Tuscany's most influential noble families: Acciaiuoli, Samminiati, Pazzi"
+  ],
+  "description": "The history of Castello di Albola began with the Monterinaldi family, who originally built it as a defensive fortress in the 12th century, on the disputed frontier between Florence and Siena. Between the 15th and 16th centuries, the Acciaiuoli family, powerful Florentine nobles, acquired the property, expanded it, and developed its first vineyards. Over the following centuries it passed through several notable Tuscan families, including the Samminiati and the Pazzi, and by around 1940 it was in the possession of Prince Giovanni Ginori Conti.\n\nIn 1979 the Zonin family acquired the property. The Zonins, a Venetian family cultivating a high-quality winemaking tradition for more than two centuries and seven generations, today own a 900-hectare estate, with just over 100 hectares of vineyards. The property preserves a small, charming medieval borgo with carefully restored buildings.\n\nThe Monterinaldi family's original 12th-century fortress situates Albola among the older documented defensive structures in the Chianti Classico zone, predating the vineyard development that later defined the estate's identity.\n\nThe succession of noble families — Acciaiuoli, Samminiati, Pazzi, and Prince Ginori Conti — gives Albola an unusually dense ownership history even by the standards of this collection, reflecting centuries of continuous aristocratic interest in the property.\n\nThe Zonin family's seven-generation winemaking tradition, applied to Albola since 1979, connects a historically significant Chianti fortress to one of Italy's most established wine dynasties, based originally in the Veneto rather than Tuscany.\n\nThe surrounding Chianti Classico wine route and the town of Radda in Chianti give guests staying at Albola direct access to one of Tuscany's most internationally recognized wine-growing regions.",
+  "history": "Castello di Albola began as a 12th-century defensive fortress under the Monterinaldi family, expanded by the Acciaiuoli in the 15th-16th centuries, who developed its first vineyards. It later passed through the Samminiati, Pazzi, and Prince Giovanni Ginori Conti before the Zonin family, a Venetian winemaking dynasty with more than two centuries of tradition, acquired the 900-hectare estate in 1979. Today it combines a working winery with bed-and-breakfast accommodation in its restored medieval borgo.",
+  "faqs": [
+    {
+      "question": "Can I visit Castello di Albola's winery without staying overnight?",
+      "answer": "Yes — wine tastings and cellar visits are open to the public, with or without a room booking."
+    },
+    {
+      "question": "Are the rooms at Castello di Albola within a single castle building?",
+      "answer": "No — accommodation is bed-and-breakfast style, spread across several buildings of the small restored medieval borgo within the 900-hectare estate."
+    },
+    {
+      "question": "Who owns Castello di Albola?",
+      "answer": "The Zonin family, one of Italy's oldest Venetian winemaking dynasties, who have owned the estate since 1979."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castello-di-albola.webp",
+    "alt": "Castello di Albola, a Zonin family winery estate in a restored medieval borgo, Radda in Chianti, Tuscany, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castello-di-albola.webp",
+  "instagram_tag": "#castellodialbola",
+  "meta_title": "Castello di Albola — A Zonin Family Winery Estate in Chianti",
+  "meta_description": "Stay at Castello di Albola in Radda in Chianti — a 900-hectare Zonin family winery estate in a restored medieval borgo, in the heart of Chianti Classico.",
+  "tags": [
+    "italy",
+    "tuscany",
+    "castle-hotel",
+    "chianti-classico",
+    "radda",
+    "zonin",
+    "wine"
+  ],
+  "last_updated": "2026-09-23",
+  "routes": [],
+  "nearby_castles": [
+    "castello-di-meleto",
+    "brolio-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Albola",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=castello-di-albola&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-albola.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D16688446%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784818620%26srpvid%3D64f2691ca526008a%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 100,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "mixed",
+    "amenities": ["winery", "gardens"],
+    "non_guest_access_note": "Wine tastings and cellar visits are open to the public, with or without a room booking.",
+    "how_to_stay": "**Getting there:** About 15 minutes from Radda in Chianti and 40 minutes from Siena by car; Florence's Peretola Airport (FLR) is about 1 hour away.\n\n**Rooms & rates:** Bed-and-breakfast style accommodation spread across several buildings of the small restored medieval borgo within the estate. From €100/night.\n\n**On-site:** Zonin1821 winery with tastings, olive oil mill, 900-hectare estate.\n\n**Good to know:** This is first and foremost a working wine estate — ideal for combining a stay with wine tourism in Chianti Classico.\n\n**Combine with:** Radda in Chianti (~15 min), the Chianti Classico wine route, Siena (~40 min).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-23"
+  }
+}
