@@ -1,0 +1,91 @@
+{
+  "id": "castel-rundegg",
+  "name": "Castel Rundegg",
+  "local_name": "Castel Rundegg",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "italy",
+  "region": "South Tyrol (Alto Adige) — Merano (Meran), Bolzano Province",
+  "nearest_city": "Merano",
+  "address": "Via Scena, 2, 39012 Merano BZ, Italy",
+  "lat": 46.6700,
+  "lng": 11.1650,
+  "unesco": false,
+  "year_built": 1154,
+  "architectural_style": "Original core presumed to date to 1154, documented as a simple fortified tower by the 14th century; substantially rebuilt in the 17th century into a noble residence with side towers, gardens, and a crenellated outer wall",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only (adults-only, 16+)",
+  "best_season": "Year-round; South Tyrol's spa season runs year-round",
+  "accessibility": "All 30 rooms and suites are within the same historic building, expanded in the 17th century; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A tower presumed to date to 1154, transformed in 1978 into one of Italy's first \"beauty farm\" wellness hotels — now an adults-only retreat minutes from Merano",
+  "highlights": [
+    "Original construction presumed to date to 1154, with a documented 14th-century fortified tower core",
+    "Transformed in 1978 into one of Italy's first luxury \"beauty farm\" wellness centers",
+    "Adults-only (16+) hotel with a 500m² wellness area"
+  ],
+  "description": "There is some variation in historical sources regarding the exact date of Castel Rundegg's origins. The original core dates to the 14th century, when it consisted of a simple fortified tower, though it is presumed to have been built in 1154. In the 17th century it underwent extensive restructuring that transformed it from an austere medieval building into a noble residence, roofing the tower and expanding the main building with side towers, gardens, and an exterior crenellated wall.\n\nIn 1621, Christoph Maminger transferred the residence to the Grisons nobleman Jakob von Mohr, and Archduke Leopold granted it full rights and freedoms as a noble residence on March 3, 1625. In 1684 the castle passed to Ferdinand von Kiebach zu Ried, whose widow Dorothea transferred it in 1714 to Baron Bernhardus Paravizini von Capelli von Trahora. In 1978 it was transformed into a luxury hotel with one of Italy's first \"beauty farm\" wellness centers.\n\nThe uncertainty around Castel Rundegg's exact founding date, with sources presuming 1154 but only documenting a 14th-century tower, reflects the broader difficulty of dating early medieval South Tyrolean fortifications precisely, where written records often postdate actual construction by generations.\n\nThe sequence of aristocratic transfers through the 17th and 18th centuries — from Maminger to von Mohr, then to von Kiebach zu Ried, then to von Capelli von Trahora — reflects the dense network of Tyrolean and Grisons noble families whose properties frequently changed hands through marriage, inheritance, and sale.\n\nThe 1978 transformation into one of Italy's first \"beauty farm\" wellness hotels positions Castel Rundegg as an early adopter of a hospitality trend that would only become widespread decades later, giving it a pioneering role in Italian wellness tourism.\n\nMerano's historic center, just a 10-minute walk away, and the town's own thermal spa facilities give guests staying at Castel Rundegg easy access to South Tyrol's most established wellness-tourism destination.",
+  "history": "Castel Rundegg's original core, presumed to date to 1154, is documented as a fortified tower by the 14th century. A 17th-century restructuring transformed it into a noble residence with side towers, gardens, and a crenellated wall, passing through several Tyrolean and Grisons noble families between 1621 and 1714. In 1978 it became a luxury hotel with one of Italy's first \"beauty farm\" wellness centers, and today operates as an adults-only (16+) retreat with a 500m² wellness area.",
+  "faqs": [
+    {
+      "question": "Is Castel Rundegg suitable for families with children?",
+      "answer": "No — it operates as an adults-only hotel, welcoming guests aged 16 and up."
+    },
+    {
+      "question": "What makes Castel Rundegg significant in Italian wellness tourism?",
+      "answer": "It was transformed in 1978 into one of Italy's first luxury \"beauty farm\" wellness centers, well before spa hotels became a widespread hospitality category in Italy."
+    },
+    {
+      "question": "Are all the rooms at Castel Rundegg within the historic building?",
+      "answer": "Yes — all 30 rooms and suites are within the same historic building, expanded in the 17th century, with no separate modern annex identified."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/castel-rundegg.webp",
+    "alt": "Castel Rundegg, an adults-only wellness castle hotel near Merano, South Tyrol, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/castel-rundegg.webp",
+  "instagram_tag": "#castelrundegg",
+  "meta_title": "Castel Rundegg — An Adults-Only Wellness Castle Near Merano",
+  "meta_description": "Stay at Castel Rundegg near Merano — one of Italy's first \"beauty farm\" wellness hotels, an adults-only (16+) retreat in a 17th-century noble residence.",
+  "tags": [
+    "italy",
+    "south-tyrol",
+    "castle-hotel",
+    "merano",
+    "adults-only",
+    "wellness"
+  ],
+  "last_updated": "2026-09-23",
+  "routes": [],
+  "nearby_castles": [
+    "castel-fragsburg"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castel Rundegg",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=castel-rundegg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastel-rundegg.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D246298%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784830568%26srpvid%3Da15e80718f6e0354%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 259,
+    "currency": "EUR",
+    "room_count": 30,
+    "room_location": "castle",
+    "amenities": ["restaurant", "spa", "outdoor pool", "gym"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; this is an adults-only (16+) hotel, with access primarily for guests.",
+    "how_to_stay": "**Getting there:** A 10-minute walk from central Merano; Bolzano Airport (BZO) is about 40 minutes away, and Innsbruck Airport (Austria) about 1h30.\n\n**Rooms & rates:** 30 rooms and suites, each individually styled, all within the same historic building expanded in the 17th century. From €259/night.\n\n**On-site:** 500m² wellness area, heated indoor pool, outdoor pool with jacuzzi, Turkish bath and Finnish sauna, gym, restaurant with vegetarian and gluten-free options.\n\n**Good to know:** Adults-only (16 and up) — not suited for families with children.\n\n**Combine with:** Merano's historic center (10-minute walk), Merano's thermal spa facilities, Val Venosta.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-23"
+  }
+}
