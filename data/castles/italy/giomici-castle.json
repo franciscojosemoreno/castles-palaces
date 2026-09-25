@@ -1,0 +1,92 @@
+{
+  "id": "giomici-castle",
+  "name": "Giomici Castle",
+  "local_name": "Castello di Giomici",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "italy",
+  "region": "Umbria — Valfabbrica, Perugia Province",
+  "nearest_city": "Perugia",
+  "address": "Loc. Giomici, 06029 Valfabbrica PG, Italy",
+  "lat": 43.1500,
+  "lng": 12.5500,
+  "unesco": false,
+  "year_built": 1050,
+  "architectural_style": "11th-century medieval fortress, restored and converted into a historic residence, preserving original wooden beams and stone walls",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; spring and autumn for the Umbrian countryside",
+  "accessibility": "Accommodation combines rooms and suites within the restored historic residence and independent apartments with their own kitchen; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "An 11th-century fortress on a panoramic hill between Gubbio, Assisi and Perugia — a practical base for exploring three of Umbria's key destinations",
+  "highlights": [
+    "An 11th-century medieval fortress, set on a panoramic hill between Gubbio, Assisi and Perugia",
+    "Recently restored while preserving original elements such as wooden beams, stone walls and old fireplaces",
+    "A strategic location for visiting Gubbio, Assisi, Perugia and Spello on the same trip"
+  ],
+  "description": "Castello di Giomici dates to the 11th century and rises on a panoramic hill between Gubbio, Assisi and Perugia. Once a medieval fortress, it is today a historic residence that welcomes guests with charm, authenticity and modern comforts. The castle was recently fully restored and converted into a welcoming property.\n\nThe rooms and suites preserve original elements such as wooden beams, stone walls and old fireplaces, enriched with elegant furnishings; independent apartments with kitchens are also available for families or longer stays. All rooms have views of the surrounding hills and the Apennines.\n\nThe castle's position between three of Umbria's most historically significant towns — Gubbio, Assisi and Perugia — gives it a genuinely practical geographic advantage among the region's castle-hotels, rather than a purely scenic or symbolic one.\n\nThe recent, comprehensive restoration of Giomici, preserving original wooden beams, stone walls and fireplaces, reflects the now-common approach across this collection of balancing historic authenticity with contemporary comfort rather than either extreme.\n\nThe availability of independent apartments alongside traditional rooms gives Giomici flexibility for both couples seeking a classic hotel stay and families or groups wanting self-catering autonomy within the same historic property.",
+  "history": "Castello di Giomici dates to the 11th century, rising on a panoramic hill between Gubbio, Assisi and Perugia. Once a medieval fortress, it has been recently and comprehensively restored into a historic residence, preserving original wooden beams, stone walls and fireplaces. Today it combines traditional rooms and suites with independent apartments, all with views over the surrounding hills and the Apennines.",
+  "faqs": [
+    {
+      "question": "Are all the accommodations at Giomici Castle within the same building?",
+      "answer": "No — rooms and suites are within the restored historic residence, while independent apartments with their own kitchen are also available on the property, suited to families or longer stays."
+    },
+    {
+      "question": "How central is Giomici Castle for visiting Umbria?",
+      "answer": "Very — it sits roughly equidistant from Gubbio, Assisi and Perugia, making it a practical base for exploring several key Umbrian destinations without changing accommodation."
+    },
+    {
+      "question": "Can I visit Giomici Castle without staying overnight?",
+      "answer": "No confirmed independent day-visit product was found; access is primarily for hotel guests."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/giomici-castle.webp",
+    "alt": "Giomici Castle, an 11th-century fortress between Gubbio, Assisi and Perugia, Umbria, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/giomici-castle.webp",
+  "instagram_tag": "#giomicicastle",
+  "meta_title": "Giomici Castle — Between Gubbio, Assisi and Perugia",
+  "meta_description": "Stay at Giomici Castle in Umbria — an 11th-century fortress on a panoramic hill, a practical base between Gubbio, Assisi and Perugia.",
+  "tags": [
+    "italy",
+    "umbria",
+    "castle-hotel",
+    "perugia",
+    "gubbio",
+    "assisi"
+  ],
+  "last_updated": "2026-09-24",
+  "routes": [],
+  "nearby_castles": [
+    "castello-di-petroia",
+    "baccaresca-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castello di Giomici",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=castello-di-giomici&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-giomici.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1409166%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784831477%26srpvid%3Db1d682381754060e%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 54,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "mixed",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 20 minutes from Gubbio and 30 minutes from Assisi and Perugia by car; Perugia's San Francesco d'Assisi Airport (PEG) is about 30 minutes away.\n\n**Rooms & rates:** Rooms and suites within the restored historic residence, plus independent apartments with their own kitchen. From €54/night.\n\n**On-site:** Original wooden beams and stone walls, old fireplaces, panoramic views of the Apennines.\n\n**Good to know:** Its central location between Gubbio, Assisi and Perugia makes it especially practical as a base for exploring several key Umbrian destinations without changing accommodation.\n\n**Combine with:** Gubbio (~20 min), Assisi (~30 min), Perugia (~30 min), Spello.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-24"
+  }
+}

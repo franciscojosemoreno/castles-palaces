@@ -1,0 +1,91 @@
+{
+  "id": "sarna-castle",
+  "name": "Sarna Castle",
+  "local_name": "Castello di Sarna",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "italy",
+  "region": "Tuscany — Sarna, Chiusi della Verna, Arezzo Province, Casentino",
+  "nearest_city": "Arezzo",
+  "address": "Loc. Sarna, 52010 Chiusi della Verna AR, Italy",
+  "lat": 43.7000,
+  "lng": 11.9500,
+  "unesco": false,
+  "year_built": 950,
+  "architectural_style": "Before the year 1000, Sarna was one of four self-governing \"Corti\" of the land of Chiusi in the Casentino; by the 12th century it belonged to the Abbey of Arezzo of Saints Flora and Lucilla; sacked in 1357, passed to Florentine control in 1360",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only (apartments only, no conventional hotel rooms)",
+  "best_season": "Year-round; spring and autumn for the Casentino forests",
+  "accessibility": "All units are apartments within the same fortified medieval stone complex; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A self-governing medieval \"Corte\" that sheltered fleeing monks during plague outbreaks in Arezzo — today a forested mountaintop apartment complex",
+  "highlights": [
+    "Before the year 1000, Sarna was one of four self-governing \"Corti\" of the land of Chiusi in the Casentino",
+    "Owned by the Abbey of Arezzo of Saints Flora and Lucilla from the 12th to the late 15th century, sheltering monks during plague outbreaks",
+    "Attacked and sacked in 1357 by the forces of Marco Tarlati, lord of Bibbiena, before falling under Florentine control in 1360"
+  ],
+  "description": "Before the year 1000, Sarna was one of four self-governing \"Corti\" (territories) of the land of Chiusi in the Casentino. By around the 12th century, Sarna belonged to the Abbey of Arezzo of Saints Flora and Lucilla. In 1357, Sarna was attacked and sacked by the forces of Marco Tarlati, lord of Bibbiena, but in 1360 the Florentine Republic defeated the Tarlati and Sarna came under its control. The small fortified village remained property of the monks of the Abbey of Arezzo until the late 15th century, and on several occasions the abbot took refuge here with his monks when plague spread through Arezzo.\n\nToday Castello di Sarna is a medieval stone complex situated atop a forested mountain, restored and modernized, including a chapel, a tower, and a stone well. The property offers multiple apartments of varying sizes, from one-bedroom accommodations for couples to four-bedroom apartments for up to 8 people.\n\nSarna's status as one of four self-governing \"Corti\" before the year 1000 gives it an unusually early documented form of local governance, distinct from the more common pattern of feudal lordship found at most other castles in this collection.\n\nThe Abbey of Arezzo's centuries-long ownership, including its repeated use as a plague refuge for the abbot and his monks, ties Sarna directly to the recurring public health crises that shaped medieval Tuscan urban and rural life.\n\nThe 1357 sacking by Marco Tarlati's forces and the subsequent 1360 Florentine victory situate Sarna within the broader territorial contest between Florence and the region's smaller feudal lords during this period.\n\nThe property's exclusively apartment-based accommodation, with no conventional hotel rooms, gives Sarna a genuinely self-catering character well suited to families or groups seeking autonomy within a historic, isolated setting.",
+  "history": "Before the year 1000, Sarna was one of four self-governing \"Corti\" of the Casentino's land of Chiusi. By the 12th century it belonged to the Abbey of Arezzo of Saints Flora and Lucilla, which used it as a refuge during plague outbreaks. Sacked in 1357 by Marco Tarlati's forces, it fell under Florentine control in 1360 and remained abbey property until the late 15th century. Today the restored fortified complex, including a chapel, tower, and stone well, offers apartment-only accommodation.",
+  "faqs": [
+    {
+      "question": "Does Sarna Castle have conventional hotel rooms?",
+      "answer": "No — accommodation is exclusively in apartments, ranging from one-bedroom units for couples to four-bedroom apartments for up to 8 people, all within the same fortified medieval stone complex."
+    },
+    {
+      "question": "Why did monks take refuge at Sarna Castle historically?",
+      "answer": "The Abbey of Arezzo of Saints Flora and Lucilla owned Sarna from the 12th to the late 15th century, and the abbot took refuge here with his monks on several occasions when plague spread through Arezzo."
+    },
+    {
+      "question": "What happened to Sarna in 1357?",
+      "answer": "It was attacked and sacked by the forces of Marco Tarlati, lord of Bibbiena, before the Florentine Republic defeated the Tarlati in 1360 and took control of the area."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/sarna-castle.webp",
+    "alt": "Sarna Castle, a fortified medieval complex with apartment-only accommodation, in the Casentino, Tuscany, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/sarna-castle.webp",
+  "instagram_tag": "#sarnacastle",
+  "meta_title": "Sarna Castle — A Fortified Casentino Apartment Complex",
+  "meta_description": "Stay at Sarna Castle in the Casentino — a medieval fortified complex with apartment-only accommodation, once a plague refuge for Arezzo's monks.",
+  "tags": [
+    "italy",
+    "tuscany",
+    "castle-hotel",
+    "casentino",
+    "arezzo",
+    "apartments"
+  ],
+  "last_updated": "2026-09-24",
+  "routes": [],
+  "nearby_castles": [
+    "valenzano-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Appartamenti Sarna Casentino",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=sarna-casentino&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fappartamenti-sarna-casentino.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D2335294%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784831330%26srpvid%3Da86281ef207c06ea%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": null,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 20 minutes from Chiusi della Verna and 50 minutes from Arezzo by car; Florence's Peretola Airport (FLR) is about 1h30 away.\n\n**Rooms & rates:** Apartments exclusively, from one-bedroom units (couples) to four-bedroom apartments (8 people), all within the fortified medieval complex.\n\n**On-site:** Chapel, tower, medieval stone well, forested mountain setting.\n\n**Good to know:** Since it's apartment-only, this is a particularly good option for families or groups looking for self-catering autonomy within a historic, isolated setting.\n\n**Combine with:** The Sanctuary of La Verna (~15 min), Chiusi della Verna, Bibbiena, the Casentino Forests National Park.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-24"
+  }
+}

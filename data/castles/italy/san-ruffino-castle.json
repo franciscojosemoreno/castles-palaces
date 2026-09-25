@@ -1,0 +1,89 @@
+{
+  "id": "san-ruffino-castle",
+  "name": "San Ruffino Castle",
+  "local_name": "San Ruffino Resort (Castello di San Ruffino)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "italy",
+  "region": "Tuscany — Lari, Pisa Province",
+  "nearest_city": "Pisa",
+  "address": "Loc. San Ruffino, 56035 Lari PI, Italy",
+  "lat": 43.5667,
+  "lng": 10.5667,
+  "unesco": false,
+  "year_built": 1650,
+  "architectural_style": "17th-century castle and farmhouse, with over 500 years of documented history on the site",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; spring and autumn for the Pisan countryside",
+  "accessibility": "Accommodation is split between the 17th-century castle and the estate's historic farmhouse; contact the resort directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 17th-century castle and farmhouse with 500 years of history near Pisa — not to be confused with the unrelated Casa San Ruffino in the Marche",
+  "highlights": [
+    "More than 500 years of documented history on the site, with the present building dating to the 17th century",
+    "Rooms with distinctive features such as frescoed ceilings and private jacuzzis",
+    "Outdoor pool and garden with views over the estate's park"
+  ],
+  "description": "Il Castello di San Ruffino is a 17th-century castle and farmhouse near Lari, with more than 500 years of history in a typically Tuscan setting. The property combines the castle building with a historic farmhouse within the same estate, offering 22 spacious, light-filled rooms and suites with views of the old manor house and the park.\n\nThe rooms are spacious and carefully decorated, some with distinctive features such as frescoed ceilings, jacuzzis, or independent sitting areas. The estate has an outdoor pool and garden.\n\nIt's worth noting that this property is distinct from \"Casa San Ruffino,\" an unrelated and smaller property in the Marche region that shares a similar name — this page refers specifically to the castle and resort in Lari, Pisa province, confirmed by its Booking.com listing (\"San Ruffino Resort\").\n\nThe estate's split between the castle building and the historic farmhouse reflects the common pattern of Tuscan agricultural estates that grew around a central fortified or noble residence, with working farm buildings added over subsequent centuries.\n\nThe surrounding Lari area and the nearby thermal spa town of Casciana Terme give guests staying at San Ruffino access to both a quiet Tuscan countryside setting and a historic wellness destination, with Pisa itself under an hour away.",
+  "history": "Il Castello di San Ruffino is a 17th-century castle and farmhouse near Lari, with more than 500 years of documented history on the site. Today it operates as a resort with 22 rooms and suites split between the castle building and the estate's historic farmhouse, some with frescoed ceilings or private jacuzzis, alongside an outdoor pool and garden.",
+  "faqs": [
+    {
+      "question": "Is this the same property as \"Casa San Ruffino\" in the Marche?",
+      "answer": "No — this is a distinct, unrelated property. \"Casa San Ruffino\" is a smaller property in the Marche region; this page refers specifically to the Castello di San Ruffino resort in Lari, Pisa province."
+    },
+    {
+      "question": "Are all the rooms at San Ruffino Castle within the castle building?",
+      "answer": "No — the 22 rooms and suites are split between the 17th-century castle and the estate's historic farmhouse."
+    },
+    {
+      "question": "How far is San Ruffino Castle from Pisa?",
+      "answer": "About 40 minutes by car, with Pisa Airport (PSA) at a similar distance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/san-ruffino-castle.webp",
+    "alt": "San Ruffino Castle, a 17th-century castle and farmhouse resort near Lari, Pisa province, Tuscany, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/san-ruffino-castle.webp",
+  "instagram_tag": "#sanruffinocastle",
+  "meta_title": "San Ruffino Castle — A Resort Near Pisa (Not the Marche One)",
+  "meta_description": "Stay at San Ruffino Castle in Lari — a 17th-century castle and farmhouse resort near Pisa, with 500 years of history and a pool and garden.",
+  "tags": [
+    "italy",
+    "tuscany",
+    "castle-hotel",
+    "pisa",
+    "lari",
+    "disambiguation"
+  ],
+  "last_updated": "2026-09-24",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "San Ruffino Resort",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=san-ruffino&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fsan-ruffino-resort.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D874042%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784831535%26srpvid%3D73c28255aa2d0314%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 85,
+    "currency": "EUR",
+    "room_count": 22,
+    "room_location": "mixed",
+    "amenities": ["outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 10 minutes from Lari and 40 minutes from Pisa by car; Pisa Airport (PSA) is about 40 minutes away.\n\n**Rooms & rates:** 22 rooms and suites split between the 17th-century castle and the estate's historic farmhouse. From €85/night.\n\n**On-site:** Outdoor pool, garden, views of the property's park.\n\n**Good to know:** Do not confuse with \"Casa San Ruffino,\" a distinct and smaller property in the Marche region — this page refers to the castle and resort in Lari, Pisa province.\n\n**Combine with:** Lari (~10 min), Casciana Terme (thermal spas), Pisa (~40 min).",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-24"
+  }
+}
