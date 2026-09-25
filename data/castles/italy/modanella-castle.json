@@ -1,0 +1,92 @@
+{
+  "id": "modanella-castle",
+  "name": "Modanella Castle",
+  "local_name": "Castello di Modanella",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "italy",
+  "region": "Tuscany — Serre di Rapolano, Rapolano Terme, Siena Province",
+  "nearest_city": "Siena",
+  "address": "Loc. Serre di Rapolano, 53040 Rapolano Terme SI, Italy",
+  "lat": 43.3300,
+  "lng": 11.5500,
+  "unesco": false,
+  "year_built": 1753,
+  "architectural_style": "Established as a property in 1753; a hilltop wine estate overlooking the Tuscan countryside",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; September to October for the grape harvest",
+  "accessibility": "Accommodation is organized in independent two-story apartment blocks spread across the estate; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A wine estate established in 1753 on a Tuscan hilltop — accommodation spread across apartment blocks rather than a single castle building",
+  "highlights": [
+    "Documented as a property since 1753, with more than two and a half centuries of history",
+    "Own winery integrated into the estate, with panoramic views over the Tuscan countryside from the hilltop",
+    "Just 2 minutes from the Val di Chiana and 9 minutes from the Museo dell'Antica Grancia e dell'Olio"
+  ],
+  "description": "Castello di Modanella was established as a property in 1753 and rises on a hill with panoramic views over the Tuscan countryside, in the locality of Serre di Rapolano, within the municipality of Rapolano Terme. The estate combines accommodation with its own winery and has functioned for centuries as an agricultural and wine-producing property.\n\nToday the accommodation is organized in independent apartment blocks of roughly 80 square meters, spread across two floors, each with a fully equipped kitchen including a refrigerator and oven. The property also has its own restaurant (\"Ristorante di Modanella\"), a bar/lounge, and a seasonal outdoor pool.\n\nModanella's apartment-block layout, rather than a single castle building housing all guests, reflects an estate that grew its accommodation capacity around its historic agricultural core over time, prioritizing self-catering independence for guests over a unified hotel structure.\n\nThe property's 1753 founding date places it among the more precisely documented estates in this collection, with over 270 years of continuous history as a working agricultural and wine property.\n\nThe estate's position just minutes from both the Val di Chiana and the Museo dell'Antica Grancia e dell'Olio gives guests easy access to both a historically significant agricultural valley and a museum dedicated to the region's olive oil heritage.",
+  "history": "Castello di Modanella was established in 1753 on a hilltop overlooking the Tuscan countryside near Rapolano Terme. The estate has functioned for centuries as an agricultural and wine-producing property. Today its accommodation is organized in independent two-story apartment blocks of about 80 square meters, each with a full kitchen, alongside the estate's own restaurant, winery, and seasonal outdoor pool.",
+  "faqs": [
+    {
+      "question": "Is Castello di Modanella a single castle building?",
+      "answer": "No — the 47 rooms are organized in independent apartment blocks of about 80 square meters, spread across two floors within the estate, rather than concentrated in a single traditional castle building."
+    },
+    {
+      "question": "Do the apartments at Modanella have kitchens?",
+      "answer": "Yes — each apartment block unit has a fully equipped kitchen with a refrigerator and oven, making it a practical option for families or longer stays."
+    },
+    {
+      "question": "Can I visit Modanella's winery without staying overnight?",
+      "answer": "No confirmed independent day-visit product was found; access is primarily for hotel guests."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/modanella-castle.webp",
+    "alt": "Modanella Castle, a wine estate established in 1753 near Rapolano Terme, Tuscany, Italy",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/modanella-castle.webp",
+  "instagram_tag": "#modanellacastle",
+  "meta_title": "Modanella Castle — A 1753 Wine Estate Near Siena",
+  "meta_description": "Stay at Modanella Castle near Rapolano Terme — a wine estate established in 1753, with apartment-style accommodation and its own winery.",
+  "tags": [
+    "italy",
+    "tuscany",
+    "castle-hotel",
+    "siena",
+    "rapolano-terme",
+    "wine",
+    "apartments"
+  ],
+  "last_updated": "2026-09-25",
+  "routes": [],
+  "nearby_castles": [
+    "montalto-in-chianti-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castello di Modanella",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-di-modanella&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-modanella.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D4146992%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784831706%26srpvid%3D984e82aa66da006d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 100,
+    "currency": "EUR",
+    "room_count": 47,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "winery", "outdoor pool"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 10 minutes from Rapolano Terme and 35 minutes from Siena by car; Florence's Peretola Airport (FLR) is about 1h15 away.\n\n**Rooms & rates:** 47 rooms organized in apartment blocks of about 80 square meters across two floors, each with its own kitchen, spread across the estate. From €100/night.\n\n**On-site:** Own winery, restaurant, bar/lounge, seasonal outdoor pool.\n\n**Good to know:** As apartment-style accommodation with a kitchen, it's a particularly practical option for families or longer stays seeking autonomy within a historic estate.\n\n**Combine with:** Rapolano Terme and its thermal spas (~10 min), Siena (~35 min), the Val di Chiana.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-25"
+  }
+}

@@ -101,5 +101,22 @@
       ],
       "booking_url_override": "https://www.getyourguide.com/italy-l169011/visit-and-tasting-at-tagliolo-monferrato-castle-t1275799/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
-  ]
+  ],
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Castello di Tagliolo Wine Resort",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castello-di-tagliolo&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fit%2Fcastello-di-tagliolo-wine-resort.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1826103%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784831651%26srpvid%3D251d829013fd0344%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 134,
+    "currency": "EUR",
+    "price_unit": "property",
+    "room_count": 2,
+    "max_guests": 6,
+    "room_location": "mixed",
+    "amenities": ["winery", "gardens"],
+    "non_guest_access_note": "Already covered by the How to Visit section above: the Marquis-led guided tour (GYG t1275799) is the main channel for accessing the castle's interior, independent of the accommodation.",
+    "how_to_stay": "The estate's medieval core and UNESCO Monferrato wine-country setting are already covered above in How to Visit — this section describes the separate overnight option.\n\n**Getting there:** Same access as the visit section above — by car, about 70 km southeast of Genoa and 80 km southwest of Alessandria.\n\n**Rooms & rates:** A 2-bedroom apartment (up to 6 guests) in a historic building on the estate, with a full kitchen, garden, and outdoor dining area. From €134/night.\n\n**On-site:** The estate's own winery, garden, table tennis, bicycle rental — the same grounds where the castle's guided tour takes place.\n\n**Good to know:** The \"Wine Resort\" accommodation is a distinct experience from the Marquis-led tour (covered in How to Visit) — guests staying here can combine both, but must book them separately (Booking.com for the stay, GYG for the tour and tasting).\n\n**Combine with:** Ovada (~12 km), Acqui Terme (~20 km) — same recommendations as the existing visit section.",
+    "source": "web-search-aggregate",
+    "sourced_date": "2026-09-25"
+  }
 }
