@@ -46,6 +46,9 @@ export default function Header() {
             <Link href="/castles" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
               Castles
             </Link>
+            <Link href="/castle-hotels" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
+              Castle Hotels
+            </Link>
             <Link href="/tours" prefetch={false} className="text-[#1761a0]/80 hover:text-[#1761a0] transition-colors">
               Tours
             </Link>
@@ -128,6 +131,7 @@ export default function Header() {
         {menuOpen && (
           <div className="md:hidden border-t border-stone-100 py-4 flex flex-col gap-4 text-sm font-medium">
             <Link href="/castles" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Castles</Link>
+            <Link href="/castle-hotels" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Castle Hotels</Link>
             <Link href="/tours" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Tours</Link>
             <Link href="/map" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Map</Link>
             <Link href="/quiz" prefetch={false} onClick={() => setMenuOpen(false)} className="text-[#1761a0]/80 hover:text-[#1761a0]">Quiz</Link>

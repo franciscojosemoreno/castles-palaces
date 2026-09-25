@@ -2,11 +2,11 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Castle } from '@/types';
 import Badge from '@/components/ui/Badge';
-import { getCurrencySymbol } from '@/lib/hotels';
+import { getCurrencySymbol, formatHotelPrice, ROOM_LOCATION_BADGE } from '@/lib/hotels';
 
 interface CastleCardProps {
   castle: Castle;
-  variant?: 'default' | 'compact';
+  variant?: 'default' | 'compact' | 'hotel';
 }
 
 export default function CastleCard({ castle, variant = 'default' }: CastleCardProps) {
@@ -18,6 +18,10 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
   const hotelNightly = (displayPrice == null && castle.hotel?.is_hotel)
     ? castle.hotel.price_from_night
     : null;
+
+  // 'hotel' variant: always price by the room, and flag whether the castle also has a separate visit product (Estado B).
+  const isHotelVariant = variant === 'hotel' && Boolean(castle.hotel?.is_hotel);
+  const hasVisitProduct = Boolean(castle.gyg_featured_tours?.length) || Boolean(castle.gyg_search_query);
 
   if (variant === 'compact') {
     return (
@@ -51,9 +55,13 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
           className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
         />
-        {castle.unesco && (
-          <div className="absolute top-3 left-3">
-            <Badge label="UNESCO" variant="unesco" />
+        {(castle.unesco || isHotelVariant) && (
+          <div className="absolute top-3 left-3 flex flex-wrap gap-1.5">
+            {castle.unesco && <Badge label="UNESCO" variant="unesco" />}
+            {isHotelVariant && castle.hotel?.room_location && (
+              <Badge label={ROOM_LOCATION_BADGE[castle.hotel.room_location]} variant="hotel" />
+            )}
+            {isHotelVariant && hasVisitProduct && <Badge label="Visit & Stay" variant="hotel" />}
           </div>
         )}
       </div>
@@ -70,7 +78,9 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
 
         <div className="mt-3 flex items-center justify-between">
           <span className="text-sm text-stone-600">
-            {displayPrice === 0 ? (
+            {isHotelVariant ? (
+              <span>{formatHotelPrice(castle.hotel!)}</span>
+            ) : displayPrice === 0 ? (
               <span className="text-green-700 font-medium">Free entry</span>
             ) : displayPrice != null ? (
               <span>From €{displayPrice}</span>

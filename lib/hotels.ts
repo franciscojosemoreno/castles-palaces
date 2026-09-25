@@ -1,4 +1,4 @@
-import type { Castle } from '@/types';
+import type { Castle, CastleHotel } from '@/types';
 import { getGYGSearchUrl } from '@/lib/gyg';
 
 /**
@@ -32,4 +32,20 @@ export function getCurrencySymbol(currency: string): string {
   if (currency === 'GBP') return '£';
   if (currency === 'USD') return '$';
   return '€';
+}
+
+/** Short pill label for a hotel's room_location, distinct from HotelBookingCard's full descriptive sentence. */
+export const ROOM_LOCATION_BADGE: Record<NonNullable<CastleHotel['room_location']>, string> = {
+  castle: 'In the Castle',
+  mixed: 'Mixed',
+  annex: 'Annex Stay',
+};
+
+/** Compact "From €X / night" style price string for hotel listing cards, aware of price_unit. */
+export function formatHotelPrice(hotel: CastleHotel): string {
+  if (hotel.price_from_night == null) return 'Check rates';
+  const amount = `${getCurrencySymbol(hotel.currency)}${hotel.price_from_night}`;
+  if (hotel.price_unit === 'property') return `From ${amount} (whole property)`;
+  if (hotel.price_unit === 'person') return `From ${amount} / person`;
+  return `From ${amount} / night`;
 }

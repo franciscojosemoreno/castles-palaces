@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next';
 import { getAllCastleParams, getPublishedCastles, getAllCountrySlugs } from '@/lib/castles';
 import { getAllRoutes } from '@/lib/routes';
 import { getAllTourParams, getAllTourCountrySlugs } from '@/lib/tours';
+import { getAllHotelCountrySlugs } from '@/lib/hotel-directory';
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
 
@@ -11,6 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const routes = getAllRoutes();
   const tourParams = getAllTourParams();
   const tourCountrySlugs = getAllTourCountrySlugs();
+  const hotelCountrySlugs = getAllHotelCountrySlugs();
 
   const castleUrls: MetadataRoute.Sitemap = castleParams.map(({ country, castle }) => ({
     url: `${BASE_URL}/castles/${country}/${castle}`,
@@ -40,6 +42,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
+  const hotelCountryUrls: MetadataRoute.Sitemap = hotelCountrySlugs.map((slug) => ({
+    url: `${BASE_URL}/castle-hotels/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.7,
+  }));
+
   const routeUrls: MetadataRoute.Sitemap = routes.map((route) => ({
     url: `${BASE_URL}/routes/${route.id}`,
     lastModified: new Date(),
@@ -50,6 +59,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticUrls: MetadataRoute.Sitemap = [
     { url: BASE_URL, lastModified: new Date(), changeFrequency: 'weekly', priority: 1.0 },
     { url: `${BASE_URL}/castles`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${BASE_URL}/castle-hotels`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
     { url: `${BASE_URL}/tours`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
     { url: `${BASE_URL}/routes`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
     { url: `${BASE_URL}/guides`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.6 },
@@ -57,5 +67,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/contact`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.2 },
   ];
 
-  return [...staticUrls, ...castleUrls, ...castleCountryUrls, ...tourUrls, ...tourCountryUrls, ...routeUrls];
+  return [...staticUrls, ...castleUrls, ...castleCountryUrls, ...hotelCountryUrls, ...tourUrls, ...tourCountryUrls, ...routeUrls];
 }

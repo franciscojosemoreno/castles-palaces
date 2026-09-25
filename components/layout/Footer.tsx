@@ -31,6 +31,7 @@ export default function Footer() {
             <h3 className="text-white font-semibold text-sm mb-4 uppercase tracking-wider">Explore</h3>
             <ul className="space-y-2 text-sm">
               <li><Link href="/castles" prefetch={false} className="hover:text-[#c9a84c] transition-colors">All Castles</Link></li>
+              <li><Link href="/castle-hotels" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Hotels</Link></li>
               <li><Link href="/tours" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Tours</Link></li>
               <li><Link href="/map" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Map</Link></li>
               <li><Link href="/quiz" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Quiz</Link></li>

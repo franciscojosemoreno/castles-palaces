@@ -1,6 +1,6 @@
 interface BadgeProps {
   label: string;
-  variant?: 'default' | 'gold' | 'unesco' | 'type';
+  variant?: 'default' | 'gold' | 'unesco' | 'type' | 'hotel';
 }
 
 export default function Badge({ label, variant = 'default' }: BadgeProps) {
@@ -9,6 +9,8 @@ export default function Badge({ label, variant = 'default' }: BadgeProps) {
     gold: 'bg-[#c9a84c]/10 text-[#c9a84c] border border-[#c9a84c]/30',
     unesco: 'bg-blue-50 text-blue-700 border border-blue-200',
     type: 'bg-[#1761a0]/5 text-[#1761a0] border border-[#1761a0]/15',
+    // Matches the purple used for hotel markers on /map (#9333ea = Tailwind purple-600)
+    hotel: 'bg-purple-50 text-purple-700 border border-purple-200',
   };
 
   return (
