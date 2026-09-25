@@ -1,0 +1,90 @@
+{
+  "id": "chateau-royal-de-benays",
+  "name": "Château Royal de Benays",
+  "local_name": "Château Royal de Benays",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "france",
+  "region": "Loire Valley — Benais, Indre-et-Loire, near Bourgueil",
+  "nearest_city": "Tours",
+  "address": "Rue du Château, 37140 Benais, France",
+  "lat": 47.3000,
+  "lng": 0.1500,
+  "unesco": false,
+  "year_built": 1500,
+  "architectural_style": "Site documented from the 12th century (as \"Beniacum\"); the present structure was built in the 16th century atop an older fortified gate flanked by two towers; partially destroyed before the French Revolution, with the surviving gate towers incorporated into a new 19th-century building; listed as a Historical Monument in 1929",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Today's building is mostly a 19th-century reconstruction incorporating two surviving medieval gate towers; exact room-by-room location within the towers versus the 19th-century wings has not been confirmed. Contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Two medieval gate towers survive inside a 19th-century reconstruction — a château under active restoration where guests hear the story of the stones alongside their stay",
+  "highlights": [
+    "The site of Benais appears in records from the 12th century (as \"Beniacum\"); early lords included Hugues de Beaucay, who accompanied Louis IX on the 1248 crusade",
+    "Francis I was received here in 1532, during a period of ownership by Angevin nobility including the Laval, du Bellay, and Montmorency families",
+    "Listed as a Historical Monument in 1929; now under active restoration as a hotel"
+  ],
+  "description": "The site of Benais appears in records from the 12th century, referred to as \"Beniacum\"; the château itself is documented from the 13th century, with early lords including Hugues de Beaucay, who accompanied Louis IX on the 1248 crusade. The present structure was built in the 16th century atop an older fortified gate flanked by two towers.\n\nOwnership passed through the Laval, du Bellay, and Montmorency families — Angevin nobility through the 17th century — and Francis I was received here in 1532. The château was partially destroyed before the French Revolution but kept its outbuildings and the two gate towers, which were incorporated into a new building erected in the 19th century. It was listed as a Historical Monument in 1929, and is now under active restoration as a hotel; guest reviews describe hearing \"stories of the stones\" and the restoration in progress as part of the stay.\n\nHugues de Beaucay's participation in Louis IX's 1248 crusade ties Benais to one of medieval France's most significant military and religious expeditions, connecting this relatively modest château to the broader crusading movement of the 13th century.\n\nFrancis I's reception at Benais in 1532 places the château within the social orbit of one of Renaissance France's most consequential monarchs, during a period of shifting alliances among the Angevin nobility who held the property.\n\nThe survival of two medieval gate towers within an otherwise 19th-century reconstruction gives Benais a genuinely layered architectural history, though the exact distribution of guest rooms between the historic towers and the newer wings has not been confirmed in available research.\n\nThe château's status as an active, ongoing restoration project — rather than a finished luxury property — gives guests a distinctive, evolving experience, with the story of the building's recovery forming part of the stay itself.",
+  "history": "The site of Benais is documented from the 12th century as \"Beniacum,\" with the château recorded from the 13th century. The present structure was built in the 16th century atop an older fortified gate with two towers. Ownership passed through the Laval, du Bellay and Montmorency families, and Francis I was received here in 1532. Partially destroyed before the French Revolution, it kept its two gate towers, incorporated into a 19th-century rebuild. Listed as a Historical Monument in 1929, it is now under active restoration as a hotel.",
+  "faqs": [
+    {
+      "question": "Is Château Royal de Benays a medieval building?",
+      "answer": "Partly — today's structure is mostly a 19th-century reconstruction, but it incorporates two surviving medieval towers from the original 16th-century fortified gate. The exact room-by-room location within the towers versus the newer wings has not been confirmed."
+    },
+    {
+      "question": "Is Château Royal de Benays a finished luxury hotel?",
+      "answer": "Not yet — it's under active restoration, and guest reviews describe an evolving, in-progress experience rather than a fully polished finish. Confirm current room and amenity status before booking if that matters to you."
+    },
+    {
+      "question": "How close is Château Royal de Benays to Château de Rochecotte?",
+      "answer": "About 10 kilometers, both in the same corner of the Loire Valley near Bourgueil."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-royal-de-benays.webp",
+    "alt": "Château Royal de Benays, a château under active restoration near Bourgueil in the Loire Valley, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-royal-de-benays.webp",
+  "instagram_tag": "#chateauroyaldebenays",
+  "meta_title": "Château Royal de Benays — A Château Reborn Near Bourgueil",
+  "meta_description": "Stay at Château Royal de Benays near Bourgueil — a château under active restoration, with two surviving medieval towers from its 16th-century gate.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "castle-hotel",
+    "bourgueil",
+    "restoration"
+  ],
+  "last_updated": "2026-09-26",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-rochecotte"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château Royal de Benays",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=chateau-royal-de-benays&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-royal-de-benays.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D243315%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 135,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "mixed",
+    "amenities": ["gardens", "gym"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Benais, Indre-et-Loire, near Bourgueil — in the same corner of the Loire Valley as Rochecotte and Langeais, roughly 10km from Rochecotte.\n\n**Rooms & rates:** From €135/night, on a 12-hectare estate. The building is largely a 19th-century reconstruction that incorporates two surviving medieval towers from the original 16th-century fortified gate.\n\n**On-site:** Fitness center, sun terrace, gardens, bar, and outdoor play area. An active restoration project — part of the property's current character is guests hearing the story of the restoration alongside their stay.\n\n**Good to know:** This is a property still being brought back to life — reviews describe an evolving, in-progress restoration rather than a fully polished luxury finish. Confirm current room/amenity status before booking if that matters to you.\n\n**Combine with:** Château de Rochecotte and the Bourgueil vineyards, both close by.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-26"
+  }
+}
