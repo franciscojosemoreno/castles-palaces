@@ -71,7 +71,8 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
       value: castle.hotel!.price_from_night != null
         ? `${getCurrencySymbol(castle.hotel!.currency)}${castle.hotel!.price_from_night} / night`
         : 'Check rates',
-      href: castle.hotel!.booking_url,
+      // Not a live link while the booking listing is paused — same rule the primary CTA already follows.
+      href: castle.hotel!.booking_paused ? undefined : castle.hotel!.booking_url,
     },
     // Separate day-visit admission (e.g. an on-site museum), distinct from the room rate above —
     // only shown for hotel-only castles that also charge their own standalone entry fee.
