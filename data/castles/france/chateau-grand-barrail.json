@@ -1,0 +1,93 @@
+{
+  "id": "chateau-grand-barrail",
+  "name": "Château Grand Barrail",
+  "local_name": "Château Hôtel Grand Barrail",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "france",
+  "region": "Nouvelle-Aquitaine — Saint-Émilion, Gironde",
+  "nearest_city": "Bordeaux",
+  "address": "Route de Libourne, 33330 Saint-Émilion, France",
+  "lat": 44.9083,
+  "lng": -0.1667,
+  "unesco": false,
+  "year_built": 1902,
+  "architectural_style": "Belle Époque residence built from 1902 on the site of a former 18th-century Carthusian monastery once owned by Château Figeac; designed by architect Louis-Marie Cordonnier for industrialist René Bouchart",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; September to October for the Saint-Émilion harvest",
+  "accessibility": "Rooms and suites are located in the château or its outbuildings, set in a 7-acre park; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 1902 Belle Époque residence by the architect of the Peace Palace, on a former Carthusian monastery site in the heart of Saint-Émilion",
+  "highlights": [
+    "Built from 1902 on the site of a former 18th-century Carthusian monastery once owned by Château Figeac",
+    "Designed by architect Louis-Marie Cordonnier, who also designed the Peace Palace in The Hague and the Lille Opera House",
+    "A member of Small Luxury Hotels of the World, set in a 7-acre park beside the Dordogne River"
+  ],
+  "description": "Château Grand Barrail was built starting in 1902 on the site of a former 18th-century Bordeaux Carthusian monastery once owned by Château Figeac. Industrialist René Bouchart, a knight of the Legion of Honour, commissioned the building for his wife, Marie Godeau, hiring architect Louis-Marie Cordonnier — designer of the Peace Palace in The Hague and the Lille Opera House.\n\nIn 1992, new owners began restoring it into a hotel; it opened as a 4-star property in 1993. Today its 46 rooms and suites are spread across the château and its outbuildings, set in a 7-acre park beside the Dordogne River, roughly 3 km from Saint-Émilion village. It is a member of Small Luxury Hotels of the World.\n\nThe site's earlier history as a Carthusian monastery, once owned by the neighboring Château Figeac estate, connects Grand Barrail to Saint-Émilion's deep monastic and winemaking history, predating the current Belle Époque building by well over a century.\n\nArchitect Louis-Marie Cordonnier's involvement ties this Bordeaux château to a body of work that includes some of Europe's most significant civic buildings, an unusually prestigious architectural pedigree for a private residence of this scale.\n\nThe building's 1902 construction date makes it a genuinely different architectural period from the medieval fortresses found elsewhere in this collection — its appeal rests on Belle Époque grandeur and its Saint-Émilion vineyard setting rather than defensive castle history.\n\nThe surrounding Saint-Émilion wine appellation, a UNESCO World Heritage site for its medieval town and vineyard landscape, gives guests staying at Grand Barrail direct access to one of Bordeaux's most internationally recognized wine regions.",
+  "history": "Château Grand Barrail was built from 1902 on the site of a former Carthusian monastery once owned by Château Figeac, commissioned by industrialist René Bouchart for his wife and designed by architect Louis-Marie Cordonnier. Restored into a hotel from 1992, it opened as a 4-star property in 1993. Today its 46 rooms and suites, a member of Small Luxury Hotels of the World, are spread across the château and its outbuildings within a 7-acre park beside the Dordogne River.",
+  "faqs": [
+    {
+      "question": "Is Château Grand Barrail a medieval castle?",
+      "answer": "No — it's a Belle Époque residence built from 1902, on the site of a former 18th-century Carthusian monastery. The draw is its architecture and Saint-Émilion setting, not a defensive castle history."
+    },
+    {
+      "question": "Are all the rooms at Château Grand Barrail within the main building?",
+      "answer": "No — the 46 rooms and suites are located in the château itself or its outbuildings, within the same 7-acre park."
+    },
+    {
+      "question": "How far is Château Grand Barrail from Saint-Émilion village?",
+      "answer": "About 3 km, within the Saint-Émilion wine appellation and its UNESCO-listed medieval town."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-grand-barrail.webp",
+    "alt": "Château Grand Barrail, a 1902 Belle Époque hotel near Saint-Émilion, Gironde, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-grand-barrail.webp",
+  "instagram_tag": "#chateaugrandbarrail",
+  "meta_title": "Château Grand Barrail — Belle Époque Luxury Near Saint-Émilion",
+  "meta_description": "Stay at Château Grand Barrail near Saint-Émilion — a 1902 Belle Époque residence by the architect of the Peace Palace, set in a 7-acre riverside park.",
+  "tags": [
+    "france",
+    "nouvelle-aquitaine",
+    "castle-hotel",
+    "saint-emilion",
+    "bordeaux",
+    "wine",
+    "belle-epoque"
+  ],
+  "last_updated": "2026-09-26",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-mangot",
+    "chateau-de-la-riviere"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château Hôtel Grand Barrail",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=grand-barrail-chateau&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fgrand-barrail-chateau-resort-spa-saint-emilion.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D2%26hpos%3D2%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784903340%26srpvid%3D969465d2abee0446%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 200,
+    "currency": "EUR",
+    "room_count": 46,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "outdoor pool", "gym"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** About 3 km from Saint-Émilion village, in the heart of the Saint-Émilion wine appellation; Bordeaux is roughly 40 minutes by car.\n\n**Rooms & rates:** 46 rooms and suites from €200/night, split between the historic château and its outbuildings, set in a 7-acre park by the Dordogne River.\n\n**On-site:** Spa with jacuzzi, two saunas, two hammams, a fitness room, gastronomic restaurant, and outdoor pool.\n\n**Good to know:** A Belle Époque building (1902), not a medieval fortress — the draw here is the architecture and the Saint-Émilion vineyard setting rather than a defensive castle history.\n\n**Combine with:** Saint-Émilion's UNESCO-listed medieval town and its wine estates, a short drive away.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-26"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "chateau-d-island-vezelay",
+  "name": "Château d'Island",
+  "local_name": "Château d'Island",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "france",
+  "region": "Bourgogne-Franche-Comté — Island, Pontaubert, Yonne, between Avallon and Vézelay",
+  "nearest_city": "Avallon",
+  "address": "1 Rue du Château, 89200 Pontaubert, France",
+  "lat": 47.5300,
+  "lng": 3.8700,
+  "unesco": false,
+  "year_built": 1450,
+  "architectural_style": "An authentic 15th-century château at the transition from late-medieval to early-Renaissance architecture, set in the Morvan Regional Natural Park",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only (seasonal, typically open May to early November)",
+  "best_season": "May to early November (property closes off-season)",
+  "accessibility": "Rooms, suites and apartments are spread across the château and a separate coachman's house on the estate; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "\"Island\" is the name of this Burgundy commune, not the English word — a 15th-century château between Avallon and Vézelay, open seasonally",
+  "highlights": [
+    "An authentic 15th-century château marking the transition from late-medieval to early-Renaissance architecture",
+    "Set within the Morvan Regional Natural Park, between Avallon and Vézelay",
+    "Notable historic interior features include its great salon and ceiling"
+  ],
+  "description": "Château d'Island is an authentic 15th-century château at the transition from late-medieval to early-Renaissance architecture, set in the Morvan Regional Natural Park between Avallon and Vézelay. Notable historic interior features include its great salon and ceiling.\n\nIt's worth clarifying the name: \"Island\" here refers to the French commune of Island (part of Pontaubert), not the English word for a landmass surrounded by water. Today the property offers a mix of standard doubles/twins, superior doubles, and an \"Apartment with Terrace\" in the Maison du Cocher (coachman's house) — a separate building from the main château. Rooms feature garden views and soundproofing. It is a seasonal property, typically open from May through early November.\n\nThe château's position at the architectural transition between late-medieval and early-Renaissance styles gives it a genuinely layered character, reflecting the broader shift underway across French castle-building during the 15th century.\n\nThe coincidental placename \"Island\" — a French commune name unrelated to the English word — is worth stating plainly so prospective guests understand this is a landlocked Burgundy property, not a coastal or island destination.\n\nThe château's seasonal operating schedule, closing over the winter months, distinguishes it from most other properties in this collection that operate year-round.\n\nThe nearby Basilica of Vézelay, a UNESCO World Heritage Site, gives guests staying at Château d'Island easy access to one of Burgundy's most significant pilgrimage and architectural landmarks.",
+  "history": "Château d'Island is an authentic 15th-century château marking the transition from late-medieval to early-Renaissance architecture, set in Burgundy's Morvan Regional Natural Park between Avallon and Vézelay. The name refers to the French commune of Island, not the English word. Today it offers rooms in the main château and a separate coachman's house apartment, operating seasonally from May through early November.",
+  "faqs": [
+    {
+      "question": "Is Château d'Island located on an actual island?",
+      "answer": "No — \"Island\" is the name of the French commune (part of Pontaubert) where the château is located, not the English word for a landmass surrounded by water. The château is inland, in Burgundy's Morvan region."
+    },
+    {
+      "question": "Is Château d'Island open year-round?",
+      "answer": "No — it's a seasonal property, typically open from May through early November. Check exact dates before booking."
+    },
+    {
+      "question": "Are all the accommodations at Château d'Island within the main building?",
+      "answer": "No — most rooms are in the 15th-century main château, but the \"Apartment with Terrace\" is in the Maison du Cocher (coachman's house), a separate building on the estate."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-d-island-vezelay.webp",
+    "alt": "Château d'Island, a 15th-century château near Vézelay in Burgundy, France (Island is the name of the local commune)",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-d-island-vezelay.webp",
+  "instagram_tag": "#chateaudisland",
+  "meta_title": "Château d'Island — A 15th-Century Château Near Vézelay",
+  "meta_description": "Stay at Château d'Island in Burgundy — a 15th-century château near Vézelay (Island is the name of the local commune, not the English word).",
+  "tags": [
+    "france",
+    "burgundy",
+    "castle-hotel",
+    "yonne",
+    "vezelay",
+    "seasonal",
+    "disambiguation"
+  ],
+  "last_updated": "2026-09-26",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-vault-de-lugny"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château d'Island",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=chateauislandvezelay&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateauislandvezelay.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D44558%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 150,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** Between Avallon and Vézelay in Burgundy's Yonne department, within the Morvan Regional Natural Park; about 3.5-4 hours from Paris by car.\n\n**Rooms & rates:** From €150/night — standard and superior rooms in the 15th-century main château, plus a separate Maison du Cocher (coachman's house) apartment with terrace.\n\n**On-site:** Gastronomic restaurant and bar, park with outdoor seating, seminar/conference facilities, snooker table.\n\n**Good to know:** Seasonal — typically open 1 May to early November only; check dates before booking. The Maison du Cocher apartment is a separate building from the historic château.\n\n**Combine with:** The Basilica of Vézelay (UNESCO World Heritage), a short drive away.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-26"
+  }
+}
