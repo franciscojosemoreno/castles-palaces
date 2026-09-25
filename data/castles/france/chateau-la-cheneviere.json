@@ -1,0 +1,89 @@
+{
+  "id": "chateau-la-cheneviere",
+  "name": "Château La Chenevière",
+  "local_name": "Château La Chenevière",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 26,
+  "country": "france",
+  "region": "Normandy — Commes, near Bayeux, Calvados",
+  "nearest_city": "Bayeux",
+  "address": "Rue du Canada, 14520 Commes, France",
+  "lat": 49.2833,
+  "lng": -0.7000,
+  "unesco": false,
+  "year_built": 1750,
+  "architectural_style": "18th-century château, originally a hemp farm and later a foal-breeding farm; served as a WWII forward command post for German and later British forces; fully restored in 1988",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; June for the D-Day anniversary commemorations",
+  "accessibility": "Of 29 rooms, 15 are within the main château and 14 in an adjoining annex; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "An 18th-century château that served as a WWII forward command post for both German and British forces — 10 minutes from Omaha Beach",
+  "highlights": [
+    "Originally an 18th-century hemp farm, later a foal-breeding farm",
+    "Served as a forward command post during WWII, first for German forces and later British forces, due to its position on the Bayeux-Arromanches road",
+    "10 minutes from Omaha Beach and the D-Day landing beaches"
+  ],
+  "description": "Château La Chenevière is an 18th-century château, originally a hemp farm and later a foal-breeding farm. During WWII it served as a forward command post, first for German forces and later British forces, due to its position on the Bayeux-Arromanches road. It was fully restored in 1988.\n\nToday its 29 rooms and suites — 15 in the main château, 14 in an adjoining annex — sit within 12 acres of grounds with a heated pool, orangery, and tennis court.\n\nThe château's dual wartime role, occupied first by German and later by British forces as a forward command post, ties this Norman estate directly to the D-Day campaign's rapid shift of control following the Allied landings.\n\nThe property's earlier history as a hemp farm and then a foal-breeding operation reflects the practical agricultural function many Norman country estates served before their eventual conversion to hospitality.\n\nThe 1988 restoration gave La Chenevière its current hotel identity relatively recently compared to some of the longer-established château-hotels in this collection.\n\nThe château's position just 10 minutes from Omaha Beach gives guests staying here direct access to the D-Day landing beaches and Bayeux, home to the Bayeux Tapestry, making it a practical base for exploring Normandy's WWII history.",
+  "history": "Château La Chenevière is an 18th-century château, originally a hemp farm and later a foal-breeding farm. During WWII it served as a forward command post, first for German and later British forces, given its position on the Bayeux-Arromanches road. Fully restored in 1988, its 29 rooms today are split between the main château (15) and an adjoining annex (14), within 12 acres of grounds.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château La Chenevière within the historic château?",
+      "answer": "No — of 29 rooms, 15 are within the main château and 14 are in an adjoining annex building."
+    },
+    {
+      "question": "What is the WWII history of Château La Chenevière?",
+      "answer": "It served as a forward command post during WWII, first for German forces and later for British forces, due to its strategic position on the Bayeux-Arromanches road."
+    },
+    {
+      "question": "How far is Château La Chenevière from Omaha Beach?",
+      "answer": "About 10 minutes by car, along with the town of Bayeux and the Bayeux Tapestry."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-la-cheneviere.webp",
+    "alt": "Château La Chenevière, an 18th-century château and WWII command post near Omaha Beach, Normandy, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-la-cheneviere.webp",
+  "instagram_tag": "#chateaulacheneviere",
+  "meta_title": "Château La Chenevière — A WWII History Château Near Omaha Beach",
+  "meta_description": "Stay at Château La Chenevière near Bayeux — an 18th-century château that served as a WWII command post, 10 minutes from Omaha Beach.",
+  "tags": [
+    "france",
+    "normandy",
+    "castle-hotel",
+    "bayeux",
+    "d-day",
+    "world-war-ii"
+  ],
+  "last_updated": "2026-09-27",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château La Chenevière",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=chateau-la-cheneviere&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-la-cheneviere.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D58599%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784903827%26srpvid%3Dddee66c6ffcb0084%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 339,
+    "currency": "EUR",
+    "room_count": 29,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "outdoor pool", "tennis", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Commes, near Bayeux, Calvados — 10 minutes from Omaha Beach and Bayeux, in Normandy.\n\n**Rooms & rates:** 29 rooms from €339/night; 15 are within the main 18th-century château, the remaining 14 in an adjoining annex.\n\n**On-site:** Heated pool, orangery, tennis court, gastronomic restaurant \"Le Botaniste,\" and a more casual bistro (\"Le Petit Jardin\") in the château's former conservatory.\n\n**Good to know:** A genuine WWII history site — used as a forward command post by both German and later British forces, given its strategic road position after D-Day.\n\n**Combine with:** Omaha Beach and the D-Day landing beaches, 10 minutes away; Bayeux and the Bayeux Tapestry.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-27"
+  }
+}

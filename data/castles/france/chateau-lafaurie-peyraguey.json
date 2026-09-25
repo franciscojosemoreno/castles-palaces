@@ -1,0 +1,93 @@
+{
+  "id": "chateau-lafaurie-peyraguey",
+  "name": "Château Lafaurie-Peyraguey",
+  "local_name": "Château Lafaurie-Peyraguey by Lalique",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 28,
+  "country": "france",
+  "region": "Bordeaux — Bommes, Sauternes, Gironde",
+  "nearest_city": "Bordeaux",
+  "address": "Lieu dit Peyraguey, 33210 Bommes, France",
+  "lat": 44.5667,
+  "lng": -0.3667,
+  "unesco": false,
+  "year_built": 1250,
+  "architectural_style": "Originates as a 13th-century fortress, built from stones taken from the nearby village of Bommes; documented winemaking began in 1618; the 17th-century manor house underwent a lavish renovation by Lalique designers, opening as a hotel-restaurant in 2018",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round; September to October for the Sauternes harvest",
+  "accessibility": "All 10 rooms and 3 suites are within the historic manor house, including one suite in the medieval tower; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Ranked third in the 1855 Classification of Sauternes, a 13th-century fortress reborn as a two-Michelin-star Lalique estate on its 400th anniversary",
+  "highlights": [
+    "Originates as a 13th-century fortress; documented winemaking began in 1618 under Sieur Raymond Peyraguey",
+    "Ranked third in the historic 1855 Classification of Sauternes and Barsac, just behind Château d'Yquem and Château La Tour Blanche",
+    "The Lalique restaurant earned a Michelin star in its first year (2018) and two stars by 2022"
+  ],
+  "description": "Château Lafaurie-Peyraguey originates as a 13th-century fortress, built from stones taken from the nearby village of Bommes. Documented winemaking began in 1618 under Sieur Raymond Peyraguey. The estate was ranked third in the historic 1855 Classification of Sauternes and Barsac, just behind Château d'Yquem and Château La Tour Blanche.\n\nIn 2014, Silvio Denz — chairman of Maison Lalique — bought the estate, and the 17th-century manor house underwent a lavish renovation by Lalique designers, opening as a hotel-restaurant in June 2018 to mark the estate's 400th anniversary. The Lalique restaurant earned a Michelin star in its first year and two stars by 2022. Today its 10 rooms and 3 suites sit across two floors, all within the historic manor house. One suite has a dramatic high ceiling beneath a Champs-Élysées chandelier; another sits in the medieval tower with its own reading lounge; a third is a duplex overlooking the historic L'Enclos vineyard plot. A library on the main floor houses a collection of Lalique decanters.\n\nThe estate's 1855 Classification ranking, third among all Sauternes and Barsac producers, places Lafaurie-Peyraguey among the most historically prestigious sweet-wine estates in the world, a ranking system that has remained largely unchanged since Napoleon III commissioned it.\n\nSilvio Denz's Lalique-branded renovation connects this centuries-old wine estate to the crystal house's design sensibility, a deliberate pairing of French decorative arts heritage with the estate's own winemaking history.\n\nThe rapid arrival of a Michelin star in the restaurant's first year, followed by a second within four years, reflects an unusually fast culinary ascent for a newly reopened historic property.\n\nThe surrounding Sauternes appellation, including neighboring Château d'Yquem, gives guests staying at Lafaurie-Peyraguey direct access to one of Bordeaux's most internationally celebrated wine regions, with the city of Bordeaux itself about 45 minutes away.",
+  "history": "Château Lafaurie-Peyraguey originates as a 13th-century fortress, with documented winemaking from 1618. Ranked third in the 1855 Classification of Sauternes and Barsac, it was acquired in 2014 by Silvio Denz of Maison Lalique, whose designers renovated the 17th-century manor house before it opened as a hotel-restaurant in 2018, marking the estate's 400th anniversary. The Lalique restaurant earned a Michelin star its first year and a second by 2022. Its 13 rooms and suites are all within the historic manor house.",
+  "faqs": [
+    {
+      "question": "Can I currently book Château Lafaurie-Peyraguey through this page?",
+      "answer": "Direct booking through our partner link is temporarily paused due to a listing issue on Booking.com's side. The hotel and restaurant are open and operating normally — confirmed via the property's own website — this is a listing-side pause, not a business closure. Check back, or contact the hotel directly in the meantime."
+    },
+    {
+      "question": "Are all the rooms at Château Lafaurie-Peyraguey within the historic building?",
+      "answer": "Yes — all 10 rooms and 3 suites are within the historic manor house, including one suite set in the property's medieval tower."
+    },
+    {
+      "question": "What is the 1855 Classification and where does Lafaurie-Peyraguey rank?",
+      "answer": "A historic ranking of Sauternes and Barsac wine estates. Lafaurie-Peyraguey ranked third, just behind Château d'Yquem and Château La Tour Blanche."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-lafaurie-peyraguey.webp",
+    "alt": "Château Lafaurie-Peyraguey, a 13th-century Sauternes estate renovated by Lalique, Bommes, Bordeaux, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-lafaurie-peyraguey.webp",
+  "instagram_tag": "#chateaulafauriepeyraguey",
+  "meta_title": "Château Lafaurie-Peyraguey — A Lalique Estate in Sauternes",
+  "meta_description": "Stay at Château Lafaurie-Peyraguey in Sauternes — a 13th-century, 1855-classified wine estate reborn as a two-Michelin-star Lalique hotel.",
+  "tags": [
+    "france",
+    "bordeaux",
+    "castle-hotel",
+    "sauternes",
+    "lalique",
+    "michelin",
+    "wine"
+  ],
+  "last_updated": "2026-09-27",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-olivier"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château Lafaurie-Peyraguey by Lalique",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=chateau-lafaurie-peyraguey&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-lafaurie-peyraguey-by-lalique.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D3656739%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784904024%26srpvid%3De7ab6729f59302c7%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": null,
+    "currency": "EUR",
+    "room_count": 13,
+    "room_location": "castle",
+    "amenities": ["restaurant", "winery", "gardens"],
+    "booking_paused": true,
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Bommes, in the Sauternes appellation, Gironde — part of the Bordeaux wine region.\n\n**Rooms & rates:** Only 13 rooms and suites total, all within the historic manor house — including one suite set in the property's medieval tower. Direct booking via our partner link is temporarily paused (see note below); the hotel and restaurant remain open and operating normally.\n\n**On-site:** Two-Michelin-starred Lalique restaurant, a library of Lalique crystal decanters, and the historic L'Enclos Sauternes vineyard, ranked in the 1855 Classification.\n\n**Good to know:** This Booking.com listing is temporarily unavailable — a listing-side issue, not a business closure; the château's own website confirms normal operating hours through 2026. Contact the hotel directly in the meantime, or check back here.\n\n**Combine with:** Château d'Yquem and the wider Sauternes wine route, plus Bordeaux city, about 45 minutes away.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-27"
+  }
+}
