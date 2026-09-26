@@ -1,0 +1,92 @@
+{
+  "id": "chateau-des-forges",
+  "name": "Château des Forges",
+  "local_name": "Slow Village Château des Forges",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "france",
+  "region": "Anjou — Angers, Maine-et-Loire",
+  "nearest_city": "Angers",
+  "address": "Route des Forges, 49000 Angers, France",
+  "lat": 47.4667,
+  "lng": -0.5500,
+  "unesco": false,
+  "year_built": 1850,
+  "architectural_style": "Built in the 19th century by Anjou industrialist Germain Bouyonnet-Belize; restored by an antique dealer and positioned as a \"Slow Village\" concept property; certified European Ecolabel",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All 14 rooms are within the single 19th-century building; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 19th-century industrialist's château reimagined as a \"Slow Village\" — one of the France catalog's most affordable and design-forward properties",
+  "highlights": [
+    "Built in the 19th century by Anjou industrialist Germain Bouyonnet-Belize",
+    "Restored and positioned today as a \"Slow Village\" concept — a deliberately contemporary, design-forward take on château life",
+    "Certified European Ecolabel, with a restaurant led by the creator of the \"Green Punk Food\" brand"
+  ],
+  "description": "Château des Forges was built in the 19th century by Anjou industrialist Germain Bouyonnet-Belize. It was later restored by an antique dealer and is positioned today as a \"Slow Village\" concept property — a deliberately contemporary, design-forward take on château life.\n\nToday its 14 rooms combine antique furniture with contemporary comfort, all with balconies or terraces overlooking the valley, set in 6 hectares of parkland. The property is certified European Ecolabel.\n\nThe château's industrial-era origins, built by a local manufacturer rather than aristocratic or royal patrons, distinguish Château des Forges from the more traditionally noble-owned properties found elsewhere in the France collection.\n\nThe \"Slow Village\" branding and concept, embracing a relaxed and unstuffy approach to château hospitality, positions this property deliberately against the more formal, period-accurate luxury of many other French château-hotels.\n\nThe European Ecolabel certification gives Château des Forges a formally recognized environmental credential, reflecting its broader positioning around sustainability alongside its design sensibility.\n\nThe château's position on the outskirts of Angers gives guests staying at Château des Forges quick access to the city center and Château d'Angers, home to the Apocalypse Tapestry.",
+  "history": "Château des Forges was built in the 19th century by Anjou industrialist Germain Bouyonnet-Belize. Restored by an antique dealer, it now operates as a \"Slow Village\" concept hotel, certified European Ecolabel. Its 14 rooms, all within the single historic building, combine antique furniture with contemporary comfort, each with a balcony or terrace over the valley, within 6 hectares of parkland.",
+  "faqs": [
+    {
+      "question": "What is the \"Slow Village\" concept at Château des Forges?",
+      "answer": "A deliberately contemporary, design-forward approach to château hospitality, prioritizing a relaxed, unstuffy take on château life over period-accurate luxury."
+    },
+    {
+      "question": "Are all the rooms at Château des Forges within the same building?",
+      "answer": "Yes — all 14 rooms are within the single 19th-century building, each with a balcony or terrace overlooking the valley."
+    },
+    {
+      "question": "Is Château des Forges an environmentally certified property?",
+      "answer": "Yes — it holds European Ecolabel certification."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-des-forges.webp",
+    "alt": "Château des Forges, a 19th-century industrialist's château reimagined as a Slow Village concept hotel, Angers, Anjou, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-des-forges.webp",
+  "instagram_tag": "#chateaudesforges",
+  "meta_title": "Château des Forges — A Slow Village Concept Hotel in Angers",
+  "meta_description": "Stay at Château des Forges in Angers — a 19th-century château reimagined as an affordable, design-forward \"Slow Village\" hotel.",
+  "tags": [
+    "france",
+    "anjou",
+    "castle-hotel",
+    "angers",
+    "eco-friendly",
+    "design"
+  ],
+  "last_updated": "2026-09-28",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-d-angers",
+    "chateau-de-noirieux"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Slow Village Château des Forges",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chateau-des-forges&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fslow-village-chateau-des-forges.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D172901%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 63,
+    "currency": "EUR",
+    "room_count": 14,
+    "room_location": "castle",
+    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** On the outskirts of Angers, Maine-et-Loire, in Anjou.\n\n**Rooms & rates:** 14 rooms from €63/night, all within the single 19th-century building, each with a balcony or terrace over the valley.\n\n**On-site:** Outdoor pool with valley views, sun terrace, restaurant led by the creator of the \"Green Punk Food\" veggie brand, 6 hectares of parkland.\n\n**Good to know:** The most design-forward, deliberately contemporary property in the France catalog — the \"Slow Village\" concept prioritizes a relaxed, unstuffy take on château life over period-accurate luxury; also one of the most affordable châteaux in the catalog and European Ecolabel certified.\n\n**Combine with:** Angers city center and Château d'Angers, a short drive away.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-28"
+  }
+}

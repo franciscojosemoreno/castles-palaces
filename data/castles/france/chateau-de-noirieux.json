@@ -1,0 +1,92 @@
+{
+  "id": "chateau-de-noirieux",
+  "name": "Château de Noirieux",
+  "local_name": "Château de Noirieux",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "france",
+  "region": "Anjou — Briollay, Maine-et-Loire",
+  "nearest_city": "Angers",
+  "address": "26 Route du Moulin, 49125 Briollay, France",
+  "lat": 47.5500,
+  "lng": -0.4667,
+  "unesco": false,
+  "year_built": 1250,
+  "architectural_style": "Dating to the 13th century, the estate comprises several historic buildings from the 15th to 17th centuries — château, manor, chapel, and orangery; listed as a Historic Monument since 1990",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "The 19 rooms and suites are split between the château and a separate manor building; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 13th-century Anjou estate with château, manor, chapel and orangery all listed together as a Historic Monument since 1990",
+  "highlights": [
+    "Dating to the 13th century, with several surviving buildings from the 15th to 17th centuries",
+    "The estate's ensemble — château, manor, chapel, and orangery — has been listed as a Historic Monument since 1990",
+    "A 9-hectare park overlooking the Loir Valley"
+  ],
+  "description": "Château de Noirieux dates to the 13th century, and the estate comprises several historic buildings from the 15th to 17th centuries — château, manor, chapel, and orangery. It has been listed as a Historic Monument since 1990.\n\nToday its 19 rooms and suites are split between the château and the manor, set in a 9-hectare park overlooking the Loir Valley, with an outdoor pool and gourmet restaurant.\n\nThe estate's multi-building ensemble — château, manor, chapel and orangery, spanning several centuries of construction — gives Noirieux a genuinely cohesive historic character, with each structure recognized together under the same 1990 Historic Monument listing.\n\nThe 13th-century origin date situates Noirieux among the older documented estates in the Loire Valley region, predating the surviving 15th-17th century buildings by up to four centuries.\n\nThe estate's overlook of the Loir Valley — a tributary river distinct from the larger Loire itself — gives Noirieux a specific landscape setting within the broader Anjou wine and château region.\n\nThe nearby city of Angers, with its own Château d'Angers and the celebrated Apocalypse Tapestry, gives guests staying at Noirieux easy access to one of Anjou's most significant historic and artistic landmarks.",
+  "history": "Château de Noirieux dates to the 13th century, with several surviving historic buildings — château, manor, chapel, and orangery — from the 15th to 17th centuries, listed together as a Historic Monument since 1990. Today its 19 rooms and suites are split between the château and a separate manor building, within a 9-hectare park overlooking the Loir Valley.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château de Noirieux within the same building?",
+      "answer": "No — the 19 rooms and suites are split between the château and a separate manor building on the same historic estate."
+    },
+    {
+      "question": "What buildings make up the Château de Noirieux estate?",
+      "answer": "A château, a manor, a chapel, and an orangery, dating from the 15th to 17th centuries and listed together as a Historic Monument since 1990."
+    },
+    {
+      "question": "How far is Château de Noirieux from Angers?",
+      "answer": "A short drive, giving guests easy access to Château d'Angers and its Apocalypse Tapestry."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-noirieux.webp",
+    "alt": "Château de Noirieux, a 13th-century estate overlooking the Loir Valley, near Angers, Anjou, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-noirieux.webp",
+  "instagram_tag": "#chateaudenoirieux",
+  "meta_title": "Château de Noirieux — A Historic Monument Estate in Anjou",
+  "meta_description": "Stay at Château de Noirieux near Angers — a 13th-century Anjou estate with château, manor, chapel and orangery, overlooking the Loir Valley.",
+  "tags": [
+    "france",
+    "anjou",
+    "castle-hotel",
+    "angers",
+    "loire-valley",
+    "monument-historique"
+  ],
+  "last_updated": "2026-09-28",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-d-angers",
+    "chateau-des-forges"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Noirieux",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=chateau-de-noirieux&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-de-noirieux.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D172901%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784904390%26srpvid%3D4a4867e03c800529%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 175,
+    "currency": "EUR",
+    "room_count": 19,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Briollay, Maine-et-Loire — in the heart of Anjou, near Angers, overlooking the Loir Valley.\n\n**Rooms & rates:** 19 rooms and suites from €175/night, split between the historic château and a separate manor building on the estate.\n\n**On-site:** Outdoor pool, gourmet restaurant, chapel, orangery, 9-hectare park.\n\n**Good to know:** A Historic Monument since 1990 — the estate's chapel and orangery are part of the same ensemble as the guest rooms, giving the whole property a cohesive historic feel even though rooms are split across two buildings.\n\n**Combine with:** Angers and its castle (Château d'Angers, with the Apocalypse Tapestry), a short drive away.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-28"
+  }
+}
