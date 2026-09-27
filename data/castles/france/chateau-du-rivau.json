@@ -1,0 +1,89 @@
+{
+  "id": "chateau-du-rivau",
+  "name": "Château du Rivau",
+  "local_name": "Château du Rivau",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "france",
+  "region": "Lémeré, Indre-et-Loire (Loire Valley)",
+  "nearest_city": "Chinon",
+  "address": "Rue Château, 37120 Lémeré, France",
+  "lat": 47.1667,
+  "lng": 0.2333,
+  "unesco": false,
+  "year_built": 1442,
+  "architectural_style": "A fortified house from the 13th century, reinforced under royal authorization in the 15th century; visited by Joan of Arc in 1429; the royal stables where guests now sleep were built in 1550 in Second Renaissance style",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only for the hotel; the château itself is visited separately as a daytime monument",
+  "best_season": "Year-round",
+  "accessibility": "All 12 hotel rooms are in the 1550 former royal stables, a separate building from the 15th-century château; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Guests here sleep in the 1550 royal stables, not the 15th-century château where Joan of Arc once came to find horses for her troops",
+  "highlights": [
+    "The château's history begins in the 13th century, with a fortified house on the site",
+    "Famous for Joan of Arc's visit, who passed through here on her way to Orléans to find horses for her troops shortly before the city's liberation in 1429",
+    "The hotel's 12 rooms are entirely within the former royal stables, built in 1550 — a genuinely historic Renaissance building, but not the château itself"
+  ],
+  "description": "The history of Château du Rivau began in the 13th century, when the site held a fortified house. Brought as a dowry by Anne de Fontenay upon her marriage to Pierre de Beauvau, first chamberlain to Charles VII, the medieval building was reinforced in the 15th century under royal authorization. It is famous for the visit of Joan of Arc, who passed through here on her way to Orléans to find horses for her troops, shortly before the city's liberation in 1429. In 1992, the château was acquired by its current owners, Éric and Patricia Laigneau, who transformed it into a fairy-tale château, celebrated today above all for its \"Notable\" gardens — 15 themed gardens with extraordinary collections of bulbs, irises, peonies, roses, lavender, dahlias and more.\n\nGuests here do not sleep inside the historic château. The hotel's 12 luxury rooms are entirely within the former royal stables, built in 1550 in Second Renaissance style — a genuinely old building on the same historic grounds, but a separate structure from the château Joan of Arc visited. Breakfast is served in the stables' own \"salon of honor,\" decorated in a Renaissance style that echoes the château's interior.\n\nThe stables' 1550 construction date, more than a century after Joan of Arc's 1429 visit to the château, means guests sleeping there are in a building with its own genuine Renaissance-era history, distinct from — and younger than — the medieval and 15th-century château itself.\n\nThe château's role today as a daytime monument, visited for its architecture and its \"Notable\" gardens, sits alongside but separate from its role as a hotel, since overnight guests never sleep within the château's walls.\n\nThe estate's position in Lémeré, between Chinon and Richelieu, gives guests staying at Rivau easy access to Chinon and its own historic château.",
+  "history": "Château du Rivau's history began in the 13th century as a fortified house, later reinforced in the 15th century under royal authorization. It is celebrated for Joan of Arc's 1429 visit, when she came to find horses for her troops before the liberation of Orléans. Acquired in 1992 by Éric and Patricia Laigneau, it is known today for its 15 \"Notable\" themed gardens. The hotel's 12 rooms are entirely within the former royal stables, built in 1550, a separate building from the château itself.",
+  "faqs": [
+    {
+      "question": "Do hotel guests sleep inside the château that Joan of Arc visited?",
+      "answer": "No — all 12 hotel rooms are in the former royal stables, built in 1550, a separate building on the same estate. The château itself, visited by Joan of Arc in 1429, is toured during the day as a monument, not used for overnight guests."
+    },
+    {
+      "question": "How old is the building where guests actually stay?",
+      "answer": "The royal stables date to 1550, in the Second Renaissance style — a genuinely historic building, but built more than a century after Joan of Arc's 1429 visit to the château itself."
+    },
+    {
+      "question": "What is Château du Rivau best known for today?",
+      "answer": "Its 15 \"Notable\" themed gardens, with extensive collections of bulbs, irises, peonies, roses, lavender and dahlias, alongside its history and Joan of Arc connection."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-du-rivau.webp",
+    "alt": "Château du Rivau, whose hotel guests sleep in the 1550 former royal stables rather than the 15th-century château, Lémeré, Loire Valley, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-du-rivau.webp",
+  "instagram_tag": "#chateaudurivau",
+  "meta_title": "Château du Rivau — Stay in the Royal Stables, Loire Valley",
+  "meta_description": "Stay at Château du Rivau in the Loire Valley — guests sleep in the 1550 royal stables, not the 15th-century château visited by Joan of Arc, near Chinon.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "castle-hotel",
+    "chinon",
+    "gardens",
+    "joan-of-arc"
+  ],
+  "last_updated": "2026-09-30",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château du Rivau",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=chateau-du-rivau&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-du-rivau.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D3227226%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784906375%26srpvid%3Dd7c16bc1e0d801c0%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 250,
+    "currency": "EUR",
+    "room_count": 12,
+    "room_location": "annex",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "The château and its 15 \"Notable\" gardens are visited during the day as a monument; overnight guests do not sleep within the château itself.",
+    "how_to_stay": "**Getting there:** In Lémeré, Loire Valley, between Chinon and Richelieu.\n\n**Rooms & rates:** 12 luxury rooms, all within the former royal stables built in 1550 — not inside the château itself; from about €250 per night.\n\n**On-site:** Exclusive access to the château's \"Notable\" gardens outside daytime visiting hours; an equestrian tradition dating to the 13th century.\n\n**Good to know:** Guests here sleep in the former royal stables, a genuinely historic Renaissance building from 1550 — but not the château visited by Joan of Arc. The château itself is toured during the day as a monument, not used for overnight stays.\n\n**Combine with:** Chinon (20 min), Château de Chinon.",
+    "source": "user-provided",
+    "sourced_date": "2026-09-30"
+  }
+}
