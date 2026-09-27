@@ -1,0 +1,91 @@
+{
+  "id": "chateau-la-bainerie",
+  "name": "Chateau la Bainerie",
+  "local_name": "Chateau la Bainerie",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "france",
+  "region": "Anjou — Tiercé, Pays de la Loire",
+  "nearest_city": "Angers",
+  "address": "Route de Tiercé, 49125 Tiercé, France",
+  "lat": 47.6167,
+  "lng": -0.4667,
+  "unesco": false,
+  "year_built": 1500,
+  "architectural_style": "Dating to the 15th or 16th century, rebuilt and restored through successive noble families in the Louis XIII style",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All rooms are within the main château building; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 15th-century Louis XIII-style château near Angers, briefly a wartime refuge for evacuated children, now an intimate family-run bed-and-breakfast",
+  "highlights": [
+    "Dates to the 15th or 16th century, passing through several noble families across revolutions and restorations",
+    "Served briefly in 1940 as a shelter for evacuated children during the war",
+    "Run today as an intimate, family-scale bed-and-breakfast rather than a large luxury hotel"
+  ],
+  "description": "Château la Bainerie dates to the 15th century, with some sources placing it in the 16th, and passed through several noble families across revolutions and restorations, following the Louis XIII style. In 1837 Ernest inherited the estate and served as mayor of Tiercé between 1852 and 1858. He died without children in 1872, and his cousin Théodore Philippe Berthelot de Villeneuve took over the land, himself serving as mayor of Tiercé between 1874 and 1896.\n\nIn 1937 the estate was divided between two sons; Hardouin inherited la Bainerie and its forty hectares. In 1940, for a few months, the château served as a shelter for children evacuated during the war. Hardouin put the château up for sale in 1946.\n\nToday the property offers rooms in \"Royal,\" \"Romantic\" and \"Business\" styles, plus a Deluxe suite, all within the main building with private bathrooms.\n\nThe documented chain of mayors — Ernest and later his cousin Théodore, both serving Tiercé across the 19th century — ties la Bainerie's ownership directly to the town's own civic history for over four decades.\n\nThe château's brief 1940 role sheltering evacuated children gives the property a specific wartime footnote distinct from the larger military and D-Day narratives associated with other Loire Valley and Normandy estates.\n\nThe château's genuinely intimate scale, without the spa or restaurant infrastructure of larger neighboring estates, gives guests staying at la Bainerie a more personal, family-run bed-and-breakfast experience.",
+  "history": "Château la Bainerie dates to the 15th or 16th century, passing through several noble families in the Louis XIII style. Ernest inherited it in 1837 and served as mayor of Tiercé; his cousin Théodore Philippe Berthelot de Villeneuve succeeded him after his death in 1872 and was also mayor of Tiercé. The estate was divided in 1937, with Hardouin inheriting la Bainerie; it briefly sheltered evacuated children in 1940 before being sold in 1946. It operates today as an intimate bed-and-breakfast within the main château building.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château la Bainerie within the same building?",
+      "answer": "Yes — there is no evidence of separate annex buildings in the accommodation offering; all rooms are within the château itself."
+    },
+    {
+      "question": "What wartime role did Château la Bainerie play?",
+      "answer": "In 1940, for a few months, it served as a shelter for children evacuated during the war."
+    },
+    {
+      "question": "Is Château la Bainerie a large hotel?",
+      "answer": "No — it is an intimate, family-scale bed-and-breakfast, smaller than many of the larger luxury château-hotels nearby."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-la-bainerie.webp",
+    "alt": "Chateau la Bainerie, a 15th-century Louis XIII-style château run as an intimate bed-and-breakfast, near Angers, Anjou, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-la-bainerie.webp",
+  "instagram_tag": "#chateaulabainerie",
+  "meta_title": "Chateau la Bainerie — An Intimate B&B Near Angers",
+  "meta_description": "Stay at Chateau la Bainerie near Angers — a 15th-century Louis XIII-style château run today as an intimate, family-scale bed-and-breakfast.",
+  "tags": [
+    "france",
+    "anjou",
+    "castle-hotel",
+    "angers",
+    "bed-and-breakfast"
+  ],
+  "last_updated": "2026-09-29",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-des-briottieres",
+    "chateau-d-angers"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Chateau la Bainerie",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=chateau-la-bainerie&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-la-bainerie.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D172901%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 100,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** 20 km north of Angers, near Tiercé; easy access from the A11 motorway.\n\n**Rooms & rates:** Louis XIII-style rooms within the château, from about €100 to €160 per night depending on room type and season.\n\n**On-site:** Garden, sun terrace, free WiFi throughout the property.\n\n**Good to know:** An intimate, family-scale château — a smaller bed-and-breakfast experience than the larger luxury hotels nearby, ideal for guests wanting an authentic stay without the scale of a big resort.\n\n**Combine with:** Château Des Briottières (15 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-09-29"
+  }
+}

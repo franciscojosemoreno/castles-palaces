@@ -1,0 +1,92 @@
+{
+  "id": "chateau-le-fresne",
+  "name": "Château le Fresne",
+  "local_name": "Château le Fresne",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "france",
+  "region": "Anjou — Bouchemaine, Pays de la Loire",
+  "nearest_city": "Angers",
+  "address": "Route de Bouchemaine, 49080 Bouchemaine, France",
+  "lat": 47.4333,
+  "lng": -0.5833,
+  "unesco": false,
+  "year_built": 1850,
+  "architectural_style": "A 19th-century château on the banks of the Maine river, open to the public as a bed-and-breakfast since 2022, with a former orangery converted into an independent gîte",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "The 5 guest rooms are within the 19th-century château; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 19th-century riverside château near Angers, open as a bed-and-breakfast since 2022 — with a private-sauna suite and an independent 8-person gîte in the old orangery",
+  "highlights": [
+    "A 19th-century château on the banks of the Maine river, ten minutes from Angers",
+    "Open to the public since 2022, with five named guest rooms including a suite with a private sauna",
+    "An independent 8-person gîte occupies the estate's former orangery"
+  ],
+  "description": "Château le Fresne dates to the 19th century and sits in Bouchemaine, on the banks of the Maine river. It has been open to the public since 2022, receiving guests across five rooms, including a suite with a private sauna, alongside its 8-person gîte.\n\nToday its five guest rooms — the 32 m² René Gasnier Suite with sauna; the superior Hélène Boucher room; and three \"standard\" rooms named Pierre Gasnier, Emile Giffard and Louis Cointreau — sit within the château itself, while a separate 8-person gîte with three bedrooms occupies the estate's former orangery.\n\nThe château's guest-room names, drawn from historical figures associated with the Anjou region, give the property a specific local identity distinct from the more generic room-naming conventions used at many other French château-hotels.\n\nThe estate's split between five paid guest rooms in the château and a separate self-catering gîte in the former orangery gives le Fresne two distinct hosting formats on one property — a bed-and-breakfast stay and an independent group rental.\n\nThe château's setting directly on the banks of the Maine, at the edge of the Loire itself, gives guests staying at le Fresne immediate riverside grounds within ten minutes of central Angers.",
+  "history": "Château le Fresne dates to the 19th century and sits on the banks of the Maine river in Bouchemaine. Open to the public since 2022, it offers five guest rooms within the château itself, including a suite with a private sauna, plus a separate 8-person gîte with three bedrooms in the estate's former orangery.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château le Fresne within the château building?",
+      "answer": "The five paid guest rooms are within the 19th-century château; only the independent 8-person gîte, booked separately, occupies the former orangery, a separate building."
+    },
+    {
+      "question": "What is the gîte at Château le Fresne?",
+      "answer": "A self-catering, 8-person property with three bedrooms in the estate's former orangery, for groups or families, booked separately from the five main guest rooms."
+    },
+    {
+      "question": "How far is Château le Fresne from Angers?",
+      "answer": "About 10 minutes, on the banks of the Maine river in Bouchemaine."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-le-fresne.webp",
+    "alt": "Château le Fresne, a 19th-century riverside château and bed-and-breakfast, Bouchemaine, near Angers, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-le-fresne.webp",
+  "instagram_tag": "#chateaulefresne",
+  "meta_title": "Château le Fresne — A Riverside Bed-and-Breakfast Near Angers",
+  "meta_description": "Stay at Château le Fresne in Bouchemaine — a 19th-century riverside château with five guest rooms and an independent gîte, ten minutes from Angers.",
+  "tags": [
+    "france",
+    "anjou",
+    "castle-hotel",
+    "angers",
+    "bed-and-breakfast",
+    "riverside"
+  ],
+  "last_updated": "2026-09-29",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-l-epinay",
+    "chateau-d-angers"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château le Fresne",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=chateau-le-fresne&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-le-fresne.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D418370%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 120,
+    "currency": "EUR",
+    "room_count": 5,
+    "room_location": "castle",
+    "amenities": ["outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** 10 minutes from Angers, on the banks of the Maine river, in the village of Bouchemaine.\n\n**Rooms & rates:** 5 guest rooms in the château, from about €120 to €333 per night; a separate 8-person gîte is also available for groups.\n\n**On-site:** Heated outdoor pool (12x6m, May to September), 5 hectares of gardens on the banks of the Maine and the Loire.\n\n**Good to know:** The 5 paid guest rooms are within the château itself; the 8-person gîte in the former orangery is a separate booking for groups or large families, not part of the standard room offering.\n\n**Combine with:** Château de l'Epinay (25 min), Angers (10 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-09-29"
+  }
+}
