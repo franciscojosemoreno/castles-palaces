@@ -1,0 +1,91 @@
+{
+  "id": "chateau-de-beauvois",
+  "name": "Château De Beauvois",
+  "local_name": "Château De Beauvois - La Maison Younan",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 27,
+  "country": "france",
+  "region": "Saint-Étienne-de-Chigny, Indre-et-Loire (Loire Valley, near Tours)",
+  "nearest_city": "Tours",
+  "address": "Route de Cangey, 37230 Saint-Étienne-de-Chigny, France",
+  "lat": 47.4167,
+  "lng": 0.5167,
+  "unesco": false,
+  "year_built": 1450,
+  "architectural_style": "A 15th-century castle, favorite hunting-trip destination of Louis XIII; the surviving 16th-17th-century manor sits within a 140-hectare wooded park facing Lake Briffaut, now managed by Younan Collection",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All 36 rooms and suites are within the historic manor, across five categories; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 15th-century royal hunting retreat outside Tours, its 36 rooms all within the historic manor overlooking Lake Briffaut",
+  "highlights": [
+    "A 15th-century castle that was a favorite hunting-trip destination of Louis XIII",
+    "The surviving 16th-17th-century manor sits within a 140-hectare wooded park, facing Lake Briffaut",
+    "Today managed by Younan Collection under the name \"La Maison Younan\""
+  ],
+  "description": "Château De Beauvois is a 15th-century castle that was a favorite residence of Louis XIII, one of his preferred destinations for hunting trips. This 16th-17th-century manor sits on the western outskirts of Tours, at the heart of a 140-hectare wooded park, facing Lake Briffaut. It is managed today by Younan Collection under the name \"La Maison Younan.\"\n\nToday its 36 luxury rooms and suites, across five categories (suite, deluxe, superior, classic tradition), are all within the manor, combining exposed beams, antique furniture and contemporary comfort.\n\nThe château's documented role as a favorite hunting destination of Louis XIII ties Beauvois directly to 17th-century French royal history, predating its current hospitality use by roughly four centuries.\n\nThe fact that all 36 rooms sit within the single historic manor, rather than being split across modern annexes, gives guests here a consistently period-authentic stay throughout the property.\n\nThe estate's troglodyte wine cellar, holding 10,000 bottles, reflects the wider Loire Valley tradition of cave-cellar winemaking built into the region's limestone terrain.\n\nThe château's position on the western edge of Tours gives guests staying at Beauvois quick access to both the city and Château de Langeais.",
+  "history": "Château De Beauvois is a 15th-century castle that was a favorite hunting-trip destination of Louis XIII. The surviving 16th-17th-century manor sits within a 140-hectare wooded park facing Lake Briffaut, on the western outskirts of Tours. Today managed by Younan Collection as \"La Maison Younan,\" its 36 rooms and suites, across five categories, are all within the historic manor.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château De Beauvois within the historic manor?",
+      "answer": "Yes — all 36 rooms and suites, across five categories, are within the manor itself, with no separate annex buildings."
+    },
+    {
+      "question": "What is the royal history of Château De Beauvois?",
+      "answer": "It was a favorite hunting-trip destination of King Louis XIII in the 17th century."
+    },
+    {
+      "question": "Who manages Château De Beauvois today?",
+      "answer": "Younan Collection, under the name \"La Maison Younan.\""
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-beauvois.webp",
+    "alt": "Château De Beauvois, a 15th-century royal hunting retreat overlooking Lake Briffaut, Saint-Étienne-de-Chigny, Loire Valley, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-beauvois.webp",
+  "instagram_tag": "#chateaudebeauvois",
+  "meta_title": "Château De Beauvois — A Royal Hunting Retreat Near Tours",
+  "meta_description": "Stay at Château De Beauvois near Tours — a 15th-century royal hunting retreat within a 140-hectare park facing Lake Briffaut, now La Maison Younan.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "castle-hotel",
+    "tours",
+    "spa"
+  ],
+  "last_updated": "2026-10-03",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-du-breuil-touraine",
+    "chateau-de-langeais"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château De Beauvois",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=domaine-de-beauvois&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fdomaine-de-beauvois.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D414391%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 124,
+    "currency": "EUR",
+    "room_count": 36,
+    "room_location": "castle",
+    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** On the western outskirts of Tours, in Saint-Étienne-de-Chigny.\n\n**Rooms & rates:** 36 rooms and suites, all within the historic manor; from about €124 per night.\n\n**On-site:** \"Louis XIII\" gastronomic restaurant (chef Teddy Ragain), troglodyte wine cellar with 10,000 bottles, heated outdoor pool, tennis court, 140-hectare park facing Lake Briffaut.\n\n**Good to know:** A former hunting residence of Louis XIII — all rooms are within the historic building itself, with no separate constructions.\n\n**Combine with:** Tours (15 min), Château de Langeais (20 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-10-03"
+  }
+}

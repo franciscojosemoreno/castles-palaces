@@ -1,0 +1,90 @@
+{
+  "id": "chateau-de-belet",
+  "name": "Château de Belet",
+  "local_name": "Château de Belet",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "france",
+  "region": "Saint-Aquilin, Dordogne (Périgord, Nouvelle-Aquitaine)",
+  "nearest_city": "Périgueux",
+  "address": "Belet, 24110 Saint-Aquilin, France",
+  "lat": 45.1333,
+  "lng": 0.5500,
+  "unesco": false,
+  "year_built": 1450,
+  "architectural_style": "A 15th-century Périgord relic with battlements and towers, crowning its own private hill above 110 acres (45 hectares) of ancient forest and valley, beside the old Roman road to the Camino de Santiago",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All 7 rooms are within the château, including one in the tower; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 15th-century Périgord castle with twin wine cellars and a bishop's hiding place, crowning its own private hill above 45 hectares of ancient forest",
+  "highlights": [
+    "A 15th-century relic in the Périgord, with battlements and towers, crowning its own private hill",
+    "110 acres (45 hectares) of ancient forest and valley, beside the old Roman road to the Camino de Santiago",
+    "15th-century architecture survives in its purest form: twin wine cellars, a bishop's hiding place, round and square towers, and extensive hand-carved stone and oak"
+  ],
+  "description": "Château de Belet is a 15th-century relic in the Périgord, with battlements and towers — a medieval-Renaissance castle crowning its own private hill, above 110 acres (45 hectares) of ancient forest and valley, beside the old Roman road to the Camino de Santiago. The 15th-century architecture survives in its purest form: twin wine cellars, a bishop's hiding place, round and square towers, and extensive hand-carved stone and oak.\n\nToday its 7 bed-and-breakfast rooms are named for artists such as Matisse and Monet; the Monet room sits within the château's tower, with exposed stone and a luxury spa bathroom beneath centuries-old beams.\n\nThe château's original 15th-century defensive features — battlements, twin round and square towers — remain structurally intact rather than decorative additions, distinguishing Belet from properties whose medieval appearance is purely stylistic.\n\nThe surviving bishop's hiding place, a specific defensive or concealment feature, ties Belet to the religious and political tensions of its era, a detail rarely preserved this clearly at other French château-hotels.\n\nThe estate's position beside the old Roman road toward the Camino de Santiago situates Belet along a historic pilgrimage and trade route predating the château itself by many centuries.\n\nThe château's position in Saint-Aquilin, within the Périgord, gives guests staying at Belet access to the wider Dordogne countryside, about 30 minutes from Périgueux.",
+  "history": "Château de Belet is a 15th-century relic in the Périgord, with genuine defensive battlements and towers, crowning its own private hill above 45 hectares of ancient forest and valley. Its 7 bed-and-breakfast rooms, named for artists such as Matisse and Monet, are all within the château, including one in the tower. The property preserves twin wine cellars, a bishop's hiding place, and extensive hand-carved stone and oak from its original construction.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château de Belet within the historic castle?",
+      "answer": "Yes — all 7 rooms are within the château, including one in the medieval tower."
+    },
+    {
+      "question": "What historic features survive at Château de Belet?",
+      "answer": "Genuine 15th-century defensive elements including battlements, round and square towers, twin wine cellars, and a bishop's hiding place."
+    },
+    {
+      "question": "Can Château de Belet be booked as an exclusive rental?",
+      "answer": "Yes — alongside its bed-and-breakfast rooms, the château is also available as an exclusive-use rental."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-belet.webp",
+    "alt": "Château de Belet, a 15th-century Périgord castle with genuine battlements and towers, Saint-Aquilin, Dordogne, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-belet.webp",
+  "instagram_tag": "#chateaudebelet",
+  "meta_title": "Château de Belet — A Medieval Castle in the Périgord",
+  "meta_description": "Stay at Château de Belet in Saint-Aquilin — a 15th-century Périgord castle with genuine battlements and towers, above 45 hectares of ancient forest.",
+  "tags": [
+    "france",
+    "dordogne",
+    "castle-hotel",
+    "perigord",
+    "medieval"
+  ],
+  "last_updated": "2026-10-03",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-lalande"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Belet",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=chateau-de-belet&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-de-belet-saint-aquilin.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D180455%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 272,
+    "currency": "EUR",
+    "room_count": 7,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Saint-Aquilin, Périgord, Dordogne.\n\n**Rooms & rates:** 7 rooms within the château, including one in its medieval tower; from about €272 per night.\n\n**On-site:** 110 acres of ancient forest and valley, twin wine cellars, historic bishop's hiding place.\n\n**Good to know:** Genuinely medieval 15th-century architecture, with original defensive elements (battlements, towers) — all rooms are within the château itself.\n\n**Combine with:** Périgueux (30 min); Château de Belet is also available as an exclusive-use rental.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-03"
+  }
+}

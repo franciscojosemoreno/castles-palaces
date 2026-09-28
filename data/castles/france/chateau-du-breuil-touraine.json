@@ -1,0 +1,91 @@
+{
+  "id": "chateau-du-breuil-touraine",
+  "name": "Château du Breuil",
+  "local_name": "Le Château du Breuil",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 19,
+  "country": "france",
+  "region": "Mazières-de-Touraine, Indre-et-Loire (Loire Valley)",
+  "nearest_city": "Tours",
+  "address": "Route de Langeais, 37130 Mazières-de-Touraine, France",
+  "lat": 47.3833,
+  "lng": 0.3833,
+  "unesco": false,
+  "year_built": 1850,
+  "architectural_style": "A small 19th-century château at the heart of the Loire Valley château region, between Tours and Langeais, within a 16-hectare park; meticulously restored by current owners John and Marc after long abandonment",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All guest rooms are within the 19th-century château; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A small 19th-century Loire Valley château between Tours and Langeais, brought back from long abandonment with colorful, personal decor",
+  "highlights": [
+    "Built around 1850, a small 19th-century château at the heart of the Loire Valley château region",
+    "Set within a 16-hectare park surrounded by greenery, between Tours and Langeais",
+    "Meticulously restored by current owners John and Marc after a long period of abandonment"
+  ],
+  "description": "Built around 1850, Château du Breuil is a small 19th-century château at the heart of the Loire Valley château region, between Tours and Langeais, within a 16-hectare park surrounded by greenery. After a long period of abandonment, current owners John and Marc meticulously restored it and brought it back to life, with personal, colorful and detailed decor adapted to contemporary comfort.\n\nToday the property operates as a guesthouse within the château, with a garden and terrace.\n\nThe château's long period of abandonment before its restoration by John and Marc gives Breuil a specific modern revival story, similar to several other small Loire Valley properties brought back from disrepair by their current owners.\n\nThe château's genuinely small, personal scale distinguishes it from the larger full-service château-hotels found elsewhere in the Loire Valley, offering a more intimate guesthouse experience.\n\nThis property should not be confused with the better-known Château du Breuil in Normandy's Calvados region, known for its Calvados distillery — the two are entirely separate properties, roughly 250 km apart.\n\nThe château's position just 11 km from Château de Langeais gives guests staying here easy access to one of the Loire Valley's most historically significant fortified châteaux.",
+  "history": "Château du Breuil is a small 19th-century château, built around 1850, at the heart of the Loire Valley château region between Tours and Langeais. After a long period of abandonment, current owners John and Marc meticulously restored it, giving it personal, colorful decor adapted to contemporary comfort. It operates today as a guesthouse within the château, with a garden and terrace, set within a 16-hectare park.",
+  "faqs": [
+    {
+      "question": "Is this Château du Breuil the same as the one in Normandy?",
+      "answer": "No — this is a separate 19th-century property in Mazières-de-Touraine, Loire Valley. The Normandy Château du Breuil, known for its Calvados distillery, is a distinct property roughly 250 km away."
+    },
+    {
+      "question": "Are all the rooms at this Château du Breuil within the château itself?",
+      "answer": "Yes — it operates as a guesthouse entirely within the 19th-century château, with no separate annex buildings."
+    },
+    {
+      "question": "Who restored Château du Breuil in Touraine?",
+      "answer": "Current owners John and Marc, who meticulously restored the château after a long period of abandonment."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-du-breuil-touraine.webp",
+    "alt": "Château du Breuil, a small 19th-century château restored as a guesthouse, Mazières-de-Touraine, Loire Valley, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-du-breuil-touraine.webp",
+  "instagram_tag": "#chateaudubreuiltouraine",
+  "meta_title": "Château du Breuil (Touraine) — A Loire Valley Guesthouse",
+  "meta_description": "Stay at Château du Breuil in Mazières-de-Touraine — a small 19th-century château restored as a guesthouse between Tours and Langeais, Loire Valley.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "castle-hotel",
+    "touraine",
+    "bed-and-breakfast"
+  ],
+  "last_updated": "2026-10-03",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-langeais",
+    "chateau-de-villandry"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Le Château du Breuil",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chateau-du-breuil&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fle-chateau-du-breuil.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D414391%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 187,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** 30 minutes west of Tours, 10 minutes from the A85 motorway.\n\n**Rooms & rates:** Rooms within the 19th-century château; from about €187 per night.\n\n**On-site:** Garden, terrace, 16-hectare park.\n\n**Good to know:** Just 11 km from Château de Langeais — a small 19th-century château fully restored by its current owners, with no relation to the Château du Breuil in Normandy (the Calvados distillery) also featured on this site.\n\n**Combine with:** Château de Langeais (11 km), Château de Villandry (20 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-10-03"
+  }
+}

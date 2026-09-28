@@ -1,0 +1,90 @@
+{
+  "id": "chateau-de-villersexel",
+  "name": "Château de Villersexel",
+  "local_name": "Château de Villersexel",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 24,
+  "country": "france",
+  "region": "Villersexel, Haute-Saône (Franche-Comté, Bourgogne-Franche-Comté)",
+  "nearest_city": "Besançon",
+  "address": "Rue du Château, 70110 Villersexel, France",
+  "lat": 47.5500,
+  "lng": 6.4333,
+  "unesco": false,
+  "year_built": 1887,
+  "architectural_style": "Built 1882-1887 by architect Eugène Gustave Danjoy after an 1871 fire during the Franco-Prussian War's Battle of Villersexel; combines white stone and red brick with a Louis XIII-inspired facade recalling the royal saltworks of Arc-et-Senans",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms are within the château, where the owning baron acts as host; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A late-19th-century château rebuilt after the Battle of Villersexel, still owned and personally hosted by the same baronial family",
+  "highlights": [
+    "The current château was built after an 1871 fire during the Battle of Villersexel (Franco-Prussian War)",
+    "Construction took 5 years (1882-1887), overseen by architect Eugène Gustave Danjoy",
+    "An earlier medieval castle was destroyed around the year 1000; a second building, long owned by the Grammont family, also failed to survive the Franco-Prussian War — only a crenellated tower remains of it"
+  ],
+  "description": "The current château was built after a fire in 1871 during the Battle of Villersexel (Franco-Prussian War). Construction took 5 years (1882-1887), overseen by architect Eugène Gustave Danjoy. An earlier medieval castle, built in the early Middle Ages, was destroyed around the year 1000. A second building, long owned by the Grammont family, also failed to survive the Franco-Prussian War — only a crenellated tower remains of it. The current château combines white stone and red brick, with a Louis XIII-inspired facade and alternating stone colonnades recalling the royal saltworks of Arc-et-Senans.\n\nToday the property operates as a bed-and-breakfast within the château, where the owning baron himself acts as host — it also offers guided tours and event room rentals (25-150 people).\n\nThe château's documented sequence of three successive buildings on the same site — a medieval castle destroyed around 1000, a Grammont-era building lost to the Franco-Prussian War, and the current 1882-1887 château — gives Villersexel an unusually well-traced architectural lineage across nearly a millennium.\n\nThe survival of the current owning family as personal hosts, rather than a hired hospitality staff, gives Villersexel a genuinely aristocratic guest experience distinct from professionally managed château-hotels.\n\nThe facade's deliberate visual echo of the royal saltworks at Arc-et-Senans, a UNESCO World Heritage site, ties Villersexel's 1880s design to one of the era's most celebrated architectural references.\n\nThe château's position in Villersexel, Haute-Saône, gives guests staying here access to Besançon and the wider Franche-Comté region.",
+  "history": "The current Château de Villersexel was built 1882-1887 by architect Eugène Gustave Danjoy, after an 1871 fire during the Battle of Villersexel destroyed its predecessor. An earlier medieval castle on the site was destroyed around the year 1000, and a second building, long held by the Grammont family, also did not survive the Franco-Prussian War — only a crenellated tower remains. Today the château operates as a bed-and-breakfast, personally hosted by the owning baron.",
+  "faqs": [
+    {
+      "question": "Who hosts guests at Château de Villersexel?",
+      "answer": "The baron who owns the château personally acts as host for overnight guests."
+    },
+    {
+      "question": "How many châteaux have stood on this site?",
+      "answer": "Three — a medieval castle destroyed around the year 1000, a later Grammont-family building lost to the Franco-Prussian War (only a crenellated tower survives), and the current château, built 1882-1887."
+    },
+    {
+      "question": "What inspired the current château's facade?",
+      "answer": "A Louis XIII-inspired design with alternating stone colonnades, recalling the royal saltworks of Arc-et-Senans, a UNESCO World Heritage site."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-villersexel.webp",
+    "alt": "Château de Villersexel, a late-19th-century château personally hosted by its owning baron, Villersexel, Franche-Comté, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-villersexel.webp",
+  "instagram_tag": "#chateaudevillersexel",
+  "meta_title": "Château de Villersexel — A Baron-Hosted Château in Franche-Comté",
+  "meta_description": "Stay at Château de Villersexel in Haute-Saône — a late-19th-century château personally hosted by its owning baron, rebuilt after the Franco-Prussian War.",
+  "tags": [
+    "france",
+    "franche-comte",
+    "castle-hotel",
+    "haute-saone",
+    "bed-and-breakfast"
+  ],
+  "last_updated": "2026-10-03",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-bournel"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Villersexel",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chateaudevillersexel&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateaudevillersexel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D51164%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784916002%26srpvid%3D20927e8ec763021c%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 162,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests. The château also offers guided tours and event room rentals (25-150 people).",
+    "how_to_stay": "**Getting there:** In Villersexel, Haute-Saône, Franche-Comté.\n\n**Rooms & rates:** Rooms within the château, with the owning baron as host; from about €162 per night.\n\n**On-site:** Guided tours of the château, event rooms, restaurant.\n\n**Good to know:** A genuinely aristocratic experience — the château remains the residence and property of the baron, who personally welcomes guests.\n\n**Combine with:** Besançon (45 min), Château de Bournel (30 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-10-03"
+  }
+}

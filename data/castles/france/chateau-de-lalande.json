@@ -1,0 +1,90 @@
+{
+  "id": "chateau-de-lalande",
+  "name": "Château de Lalande",
+  "local_name": "Château de Lalande",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 23,
+  "country": "france",
+  "region": "Annesse-et-Beaulieu, Dordogne (near Périgueux), Nouvelle-Aquitaine",
+  "nearest_city": "Périgueux",
+  "address": "Route de Lalande, 24430 Annesse-et-Beaulieu, France",
+  "lat": 45.2167,
+  "lng": 0.6167,
+  "unesco": false,
+  "year_built": 1750,
+  "architectural_style": "A fully restored 18th-19th-century château beside the Isle river valley; the original main house, known as the \"Petit Château,\" dates to the 18th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All 17 rooms are within the \"Petit Château,\" the estate's original 18th-century main house; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A quietly restored 18th-century Dordogne estate near Périgueux, all 17 rooms within its original \"Petit Château\"",
+  "highlights": [
+    "A fully restored 18th-19th-century château beside the Isle river valley, 12 km from Périgueux",
+    "The original main house, the \"Petit Château,\" dates to the 18th century",
+    "A member of Les Collectionneurs (formerly Châteaux & Hôtels Collection), carefully restored by current owners Catherine and Yves Staebell"
+  ],
+  "description": "Château de Lalande is a fully restored 18th-19th-century château beside the Isle river valley, 12 km from Périgueux. The original main house, known as the \"Petit Château,\" dates to the 18th century.\n\nToday its 17 quiet, very comfortable rooms, including 6 suites and junior suites, each with air conditioning and personalized decor, are all within the Petit Château.\n\nThe estate's designation as a \"Petit Château\" alongside its 18th-19th-century construction history suggests a once-larger complex, of which this main house is the surviving and restored core.\n\nThe property's membership in Les Collectionneurs, a curated French hotel collection formerly known as Châteaux & Hôtels Collection, ties Lalande to a broader network of independently owned heritage properties.\n\nThe estate's centenary wisteria-covered pool terrace gives the property a distinctive, long-established garden feature alongside its restored historic architecture.\n\nThe château's position just 12 km from Périgueux gives guests staying at Lalande easy access to one of the Dordogne's most significant historic cities.",
+  "history": "Château de Lalande is a fully restored 18th-19th-century château beside the Isle river valley, 12 km from Périgueux. Its original main house, the \"Petit Château,\" dates to the 18th century and today holds all 17 guest rooms. Carefully restored by current owners Catherine and Yves Staebell, it is a member of Les Collectionneurs (formerly Châteaux & Hôtels Collection).",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château de Lalande within the same building?",
+      "answer": "Yes — all 17 rooms are within the \"Petit Château,\" the estate's original 18th-century main house."
+    },
+    {
+      "question": "Who restored Château de Lalande?",
+      "answer": "Current owners Catherine and Yves Staebell, who carefully restored the estate."
+    },
+    {
+      "question": "What hotel collection is Château de Lalande part of?",
+      "answer": "Les Collectionneurs, formerly known as Châteaux & Hôtels Collection."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-lalande.webp",
+    "alt": "Château de Lalande, a restored 18th-century Dordogne estate beside the Isle river valley, near Périgueux, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-lalande.webp",
+  "instagram_tag": "#chateaudelalande",
+  "meta_title": "Château de Lalande — A Restored Estate Near Périgueux",
+  "meta_description": "Stay at Château de Lalande near Périgueux — a fully restored 18th-century Dordogne estate beside the Isle river valley, with 17 rooms in the Petit Château.",
+  "tags": [
+    "france",
+    "dordogne",
+    "castle-hotel",
+    "perigueux",
+    "les-collectionneurs"
+  ],
+  "last_updated": "2026-10-03",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-belet"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Lalande",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=chateau-de-lalande&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-de-lalande.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D180455%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784915951%26srpvid%3Dfebd7e75f57c02bf%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 185,
+    "currency": "EUR",
+    "room_count": 17,
+    "room_location": "castle",
+    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** 12 km from Périgueux, beside the Isle river valley.\n\n**Rooms & rates:** 17 rooms within the \"Petit Château,\" the estate's original 18th-century main house; from about €185 per night.\n\n**On-site:** Pool with a centenary wisteria, outdoor terrace, relaxation lounge, seminar room, gastronomic restaurant.\n\n**Good to know:** A member of the Les Collectionneurs collection (formerly Châteaux & Hôtels Collection) — carefully restored by current owners Catherine and Yves Staebell.\n\n**Combine with:** Périgueux (15 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-10-03"
+  }
+}
