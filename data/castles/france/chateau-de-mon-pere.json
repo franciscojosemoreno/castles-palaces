@@ -1,0 +1,89 @@
+{
+  "id": "chateau-de-mon-pere",
+  "name": "Château de mon Père",
+  "local_name": "Le Château de mon Père",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "france",
+  "region": "Villiers-aux-Corneilles, Marne (Grand Est)",
+  "nearest_city": "Provins",
+  "address": "Rue du Château, 51130 Villiers-aux-Corneilles, France",
+  "lat": 48.6167,
+  "lng": 3.5167,
+  "unesco": false,
+  "year_built": 1250,
+  "architectural_style": "A renovated castle dating to the 13th century, set in a large garden in the countryside near Provins, still undergoing loving restoration by its owners",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All guest rooms are within the renovated 13th-century castle building itself; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 13th-century castle near the UNESCO town of Provins, still lovingly restored by its owners, with a lived-in rather than polished character",
+  "highlights": [
+    "A renovated castle dating to the 13th century, set in a large garden in the countryside near Provins",
+    "Still undergoing loving restoration by its owners",
+    "Family rooms with exposed beams and antique furniture, some with private bathtubs"
+  ],
+  "description": "Château de mon Père is a renovated castle dating to the 13th century, set in a large garden in the countryside near Provins, still undergoing loving restoration by its owners.\n\nToday its family rooms, with private bathrooms including bathtubs, some featuring exposed beams and antique furniture, are all within the castle building, heated and offered with 1 double bed or 2 single beds.\n\nThe castle's 13th-century origins give it a genuinely medieval foundation, though its ongoing restoration by the current owners means parts of the estate remain a work in progress rather than a fully polished finish.\n\nThe property's family-friendly room configurations, with flexible bed arrangements, distinguish it from the more couple-oriented luxury suites found at many other French château-hotels.\n\nThe castle's ongoing, owner-led restoration gives it a lived-in, low-key character rather than a fully commercial luxury finish, appealing to guests seeking an authentic, unpolished experience.\n\nThe château's position 20 minutes from Provins, a UNESCO World Heritage medieval town, gives guests staying at mon Père easy access to one of the region's most significant historic sites.",
+  "history": "Château de mon Père is a renovated castle dating to the 13th century, set in a large garden near Provins, still undergoing loving restoration by its owners. Its family rooms, with exposed beams and antique furniture, are all within the castle building, offered with flexible bed configurations for families or couples.",
+  "faqs": [
+    {
+      "question": "Is Château de mon Père a fully restored luxury property?",
+      "answer": "No — it is a working restoration project, still being lovingly restored by its owners, giving it a lived-in, low-key character rather than a polished luxury finish."
+    },
+    {
+      "question": "How old is Château de mon Père?",
+      "answer": "It dates to the 13th century."
+    },
+    {
+      "question": "Are the rooms at Château de mon Père suitable for families?",
+      "answer": "Yes — the family rooms offer flexible configurations with 1 double bed or 2 single beds, alongside private bathrooms."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-mon-pere.webp",
+    "alt": "Château de mon Père, a 13th-century castle under ongoing restoration near Provins, Marne, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-mon-pere.webp",
+  "instagram_tag": "#chateaudemonpere",
+  "meta_title": "Château de mon Père — A Restoration-in-Progress Near Provins",
+  "meta_description": "Stay at Château de mon Père near Provins — a 13th-century castle still lovingly restored by its owners, with family-friendly rooms and a lived-in charm.",
+  "tags": [
+    "france",
+    "grand-est",
+    "castle-hotel",
+    "marne",
+    "provins",
+    "family-friendly"
+  ],
+  "last_updated": "2026-10-06",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Le Château de mon Père",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=chateau-de-mon-pere&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fle-chateau-de-mon-pere.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1125694%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784919949%26srpvid%3D57d58643c60b0361%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 66,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Villiers-aux-Corneilles, Marne — about 20 minutes from Provins.\n\n**Rooms & rates:** Family-friendly rooms from about €66 per night, all within the 13th-century castle.\n\n**On-site:** Large garden, terrace, free bicycles, shared kitchen, paid shuttle service.\n\n**Good to know:** A working restoration project — the owners are still lovingly restoring parts of the estate, giving it a lived-in, low-key character rather than a polished luxury finish.\n\n**Combine with:** Provins, a UNESCO-listed medieval town, 20 minutes away.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-06"
+  }
+}

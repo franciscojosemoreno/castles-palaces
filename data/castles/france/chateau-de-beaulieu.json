@@ -1,0 +1,93 @@
+{
+  "id": "chateau-de-beaulieu",
+  "name": "Château de Beaulieu",
+  "local_name": "Château de Beaulieu et Magnolia Spa",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "france",
+  "region": "Joué-lès-Tours, Indre-et-Loire (Loire Valley, on the Cher River)",
+  "nearest_city": "Tours",
+  "address": "67 Rue de Beaulieu, 37300 Joué-lès-Tours, France",
+  "lat": 47.3333,
+  "lng": 0.6667,
+  "unesco": false,
+  "year_built": 1750,
+  "architectural_style": "An 18th-century mansion on the slopes of the Cher River in Joué-lès-Tours, bought by Jean-Pierre and Loraine Lozay in 1976 and set within 3 hectares of grounds",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Of 16 total rooms, 9 are within the 18th-century château itself; the remaining 7 are elsewhere on the estate. Contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "An 18th-century mansion above the Cher River near Tours, family-owned since 1976, with a Magnolia Spa and an extensive 350-bottle wine list",
+  "highlights": [
+    "An 18th-century mansion on the slopes of the Cher River in Joué-lès-Tours, near Tours",
+    "Bought by Jean-Pierre and Loraine Lozay in 1976 and set within 3 hectares of grounds",
+    "Restaurant with an extensive wine list of over 350 wines"
+  ],
+  "description": "Château de Beaulieu is an 18th-century mansion on the slopes of the Cher River in Joué-lès-Tours, near Tours. It was bought by Jean-Pierre and Loraine Lozay in 1976 and is set within 3 hectares of grounds.\n\nToday the property offers 16 rooms in total; 9 are within the château itself, with stylish furniture, high-quality fabrics, and modern bathrooms, while the remaining 7 are elsewhere on the estate.\n\nThe Lozay family's ownership since 1976 gives Beaulieu nearly five decades of continuous family stewardship, a long tenure among the region's smaller château-hotels.\n\nThe fact that just over half the rooms — 9 of 16 — are within the original 18th-century château, rather than a clear majority or minority, places Beaulieu in a genuinely balanced mixed-location category.\n\nThe restaurant's extensive wine list of over 350 bottles reflects the property's position within the broader Loire Valley wine region, giving guests a serious oenological offering alongside their stay.\n\nThe château's position in Joué-lès-Tours, directly on the Cher River near Tours, gives guests staying at Beaulieu easy access to the city and the wider Montbazon-area château cluster.",
+  "history": "Château de Beaulieu is an 18th-century mansion on the slopes of the Cher River in Joué-lès-Tours, near Tours. Bought by Jean-Pierre and Loraine Lozay in 1976 and set within 3 hectares of grounds, it offers 16 rooms in total, with 9 inside the château itself and 7 elsewhere on the estate.",
+  "faqs": [
+    {
+      "question": "How many rooms at Château de Beaulieu are within the historic château?",
+      "answer": "9 of the 16 total rooms are within the château itself; the remaining 7 are elsewhere on the estate."
+    },
+    {
+      "question": "Who owns Château de Beaulieu?",
+      "answer": "The Lozay family, who bought the property in 1976 — Jean-Pierre and Loraine Lozay."
+    },
+    {
+      "question": "What is Château de Beaulieu's restaurant known for?",
+      "answer": "An extensive wine list of over 350 wines, alongside its botanical garden setting."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-beaulieu.webp",
+    "alt": "Château de Beaulieu, an 18th-century mansion above the Cher River, Joué-lès-Tours, Loire Valley, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-beaulieu.webp",
+  "instagram_tag": "#chateaudebeaulieu",
+  "meta_title": "Château de Beaulieu — A Family-Run Hotel Near Tours",
+  "meta_description": "Stay at Château de Beaulieu in Joué-lès-Tours — an 18th-century mansion above the Cher River, family-owned since 1976, with a Magnolia Spa and 350-bottle wine list.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "castle-hotel",
+    "touraine",
+    "tours",
+    "spa",
+    "family-owned"
+  ],
+  "last_updated": "2026-10-06",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-vaugrignon",
+    "domaine-de-la-tortiniere"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Beaulieu",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chateau-de-beaulieu&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-de-beaulieu.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D225582%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 139,
+    "currency": "EUR",
+    "room_count": 16,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Joué-lès-Tours, Indre-et-Loire, on the Cher River — near Tours.\n\n**Rooms & rates:** 16 rooms from about €139 per night; only 9 are within the historic château, the rest elsewhere on the grounds. Specify a château room at booking if that matters to you.\n\n**On-site:** Magnolia Spa (sauna, hammam, additional cost), tennis court, restaurant with an extensive wine list (350+ wines), botanical garden.\n\n**Good to know:** Just over half the rooms are within the 18th-century château; the rest are spread across the wider estate.\n\n**Combine with:** Tours and the Montbazon-area château cluster, both nearby.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-06"
+  }
+}
