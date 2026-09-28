@@ -82,7 +82,7 @@
     "tomato",
     "garden"
   ],
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-10-05",
   "routes": [],
   "nearby_castles": [
     "chateau-de-chenonceau",
@@ -108,5 +108,20 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de La Bourdaisière",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chateau-de-la-bourdaisiere&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-de-la-bourdaisiere.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D53797%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784919129%26srpvid%3Ddf5184a975e003ef%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 132,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens"],
+    "source": "user-provided",
+    "sourced_date": "2026-10-05",
+    "non_guest_access_note": "Château exhibition and tomato conservatory admission covered separately by the existing GYG ticket — see Quick Facts/Visit above.",
+    "how_to_stay": "**Getting there:** Already covered by the How to Visit section above (Tours, 10 km west, via the D751).\n\n**Rooms & rates:** A mix of room types from about €132/night — some within the 16th-century château, others in the separate Pavillon Choiseul (12 rooms/1 apartment) or the Clos building on the grounds.\n\n**On-site:** In addition to the tomato conservatory and gardens described above, the estate's restaurant and Bar à Tomates use produce from the property's over 650 tomato varieties.\n\n**Good to know:** Not all rooms are within the château itself — the Pavillon Choiseul and the Clos are separate buildings on the same estate. The estate now also operates as a boutique 3-star hotel alongside its long-standing visitor attraction.\n\n**Combine with:** [Château de Chenonceau](/castles/france/chateau-de-chenonceau), already listed above as a nearby day-visit pairing."
+  }
 }
