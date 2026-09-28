@@ -1,0 +1,89 @@
+{
+  "id": "chateau-de-launay",
+  "name": "Château de Launay",
+  "local_name": "Château de Launay",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "france",
+  "region": "Méry-Corbon (Méry-Bissières-en-Auge), Calvados (Normandy)",
+  "nearest_city": "Deauville",
+  "address": "Route de Launay, 14370 Méry-Bissières-en-Auge, France",
+  "lat": 49.1667,
+  "lng": -0.0500,
+  "unesco": false,
+  "year_built": 1850,
+  "architectural_style": "Built during the reign of Napoleon III in 1850, on the site of an older feudal castle surrounded by a moat; recently renovated into a bed and breakfast by a Dutch-French couple",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All 3 guest rooms are within the 1850 château building; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A small, family-run 1850 château in the Auge valley, built on the site of an older moated feudal castle, between Deauville and the D-Day beaches",
+  "highlights": [
+    "Built during the reign of Napoleon III in 1850, on the site of an older feudal castle surrounded by a moat",
+    "Recently renovated into a welcoming bed and breakfast by Mark and Valérie Janssen, a Dutch-French couple",
+    "Located in the Auge valley between Deauville and the D-Day beaches"
+  ],
+  "description": "Château de Launay was built during the reign of Napoleon III in 1850, on the site of an older feudal castle surrounded by a moat. It has been recently renovated into a welcoming bed and breakfast by Mark and Valérie Janssen, a Dutch-French couple. The property is located in the Auge valley between Deauville and the D-Day beaches.\n\nToday its 3 guest rooms are stylishly decorated, mixing period and contemporary furniture, with views over the park and surrounding fields.\n\nThe château's construction on the site of an older moated feudal castle means the current 1850 building is a successor structure, rather than the original medieval fortress, though the historic moated setting remains part of the property's character.\n\nThe property's genuinely small scale — just 3 rooms, personally hosted by its owners — gives Launay an intimate, family-run character distinct from the larger full-service château-hotels found elsewhere in Normandy.\n\nThe château's position in the Auge valley, between Deauville and the D-Day landing beaches, gives guests staying at Launay convenient access to both Normandy's coastal resort towns and its most significant WWII historical sites.",
+  "history": "Château de Launay was built in 1850, during the reign of Napoleon III, on the site of an older feudal castle surrounded by a moat. It has been recently renovated into a bed and breakfast by Mark and Valérie Janssen, a Dutch-French couple, offering 3 guest rooms within the château, in the Auge valley between Deauville and the D-Day beaches.",
+  "faqs": [
+    {
+      "question": "Is Château de Launay the original medieval castle?",
+      "answer": "No — the current 1850 building was constructed during the reign of Napoleon III, on the site of an older feudal castle that had been surrounded by a moat."
+    },
+    {
+      "question": "Who runs Château de Launay?",
+      "answer": "Mark and Valérie Janssen, a Dutch-French couple, who recently renovated it into a welcoming bed and breakfast."
+    },
+    {
+      "question": "How many rooms does Château de Launay have?",
+      "answer": "3 guest rooms, all within the 1850 château building."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-launay.webp",
+    "alt": "Château de Launay, a small family-run 1850 bed and breakfast in the Auge valley, Méry-Corbon, Normandy, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-launay.webp",
+  "instagram_tag": "#chateaudelaunay",
+  "meta_title": "Château de Launay — A Family-Run B&B in Normandy",
+  "meta_description": "Stay at Château de Launay in the Auge valley — a small, family-run 1850 bed and breakfast between Deauville and the D-Day beaches, Normandy.",
+  "tags": [
+    "france",
+    "normandy",
+    "castle-hotel",
+    "calvados",
+    "bed-and-breakfast",
+    "d-day"
+  ],
+  "last_updated": "2026-10-04",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Launay",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chac-teau-de-launay&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchac-teau-de-launay.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D409216%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784916506%26srpvid%3Ddb1a7f89ff340a93%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 120,
+    "currency": "EUR",
+    "room_count": 3,
+    "room_location": "castle",
+    "amenities": ["outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Méry-Corbon, Calvados, Normandy — in the Auge valley, between Deauville and the D-Day landing beaches.\n\n**Rooms & rates:** 3 rooms from about €120 per night with breakfast included, all within the 1850 château.\n\n**On-site:** Heated swimming pool (April-September), garden, barbecue facilities, free private parking.\n\n**Good to know:** A small, genuinely family-run B&B (hosted by owners Mark and Valérie Janssen) rather than a large hotel — built on the site of an older moated feudal castle, of which the current 1850 building is the successor.\n\n**Combine with:** The D-Day landing beaches and Deauville, both within reach in Normandy.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-04"
+  }
+}

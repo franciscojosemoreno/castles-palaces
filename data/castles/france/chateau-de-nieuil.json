@@ -1,0 +1,88 @@
+{
+  "id": "chateau-de-nieuil",
+  "name": "Château de Nieuil",
+  "local_name": "Château de Nieuil",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 24,
+  "country": "france",
+  "region": "Nieuil, Charente (Nouvelle-Aquitaine)",
+  "nearest_city": "Angoulême",
+  "address": "205 Rue François Perry, 16270 Nieuil, France",
+  "lat": 45.9000,
+  "lng": 0.5000,
+  "unesco": false,
+  "year_built": 1883,
+  "architectural_style": "Built on the site of an older medieval fortress on the estate of François I, of which only a tower survives; the present château was rebuilt in 1883 and has remained in the same family for generations",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All 10 rooms and suites are within the rebuilt 1883 château; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 19th-century rebuild on the site of a medieval fortress from the estate of François I — only a tower survives from the original castle",
+  "highlights": [
+    "Built on the site of an older medieval fortress, of which only a tower survives today, on the estate of François I",
+    "The present château was rebuilt in 1883 and has remained in the same family for generations",
+    "Operates today as a hotel with its own vegetable garden supplying the restaurant"
+  ],
+  "description": "Château de Nieuil was built on the site of an older medieval fortress on the estate of François I, of which only a tower survives today. The present château was rebuilt in 1883 and has remained in the same family for generations, now operating as a hotel with its own vegetable garden supplying the restaurant.\n\nToday its 7 rooms plus 3 suites (10 total) are individually decorated, some with garden-view balconies, all within the rebuilt 1883 château.\n\nThe survival of only a single tower from the original medieval fortress means the château guests see and stay in today is substantially an 1883 reconstruction, rather than the original castle from the era of François I.\n\nThe estate's documented royal association with François I ties Nieuil to 16th-century French royal history, even though most of the visible building dates to the much later 19th-century rebuild.\n\nThe château's continuous ownership by the same family for generations, alongside its own vegetable garden supplying the restaurant, gives Nieuil a genuinely working estate character rather than a purely commercial hotel operation.\n\nNote: this property's Booking.com listing currently displays under a glitched name (\"Château Optical Center, Nieuil\") due to a data-sync error on Booking's side — confirmed via direct verification that the address and listing description match this genuine historic château; it is not a different business.\n\nThe château's position in Nieuil, Charente, gives guests staying here access to Angoulême and the wider Charente countryside.",
+  "history": "Château de Nieuil was built on the site of an older medieval fortress on the estate of François I, of which only a tower survives. The present château was rebuilt in 1883 and has remained in the same family for generations, now operating as a hotel with 7 rooms and 3 suites, all within the rebuilt château, and its own vegetable garden supplying the restaurant.",
+  "faqs": [
+    {
+      "question": "Is the château guests stay in today the original medieval castle?",
+      "answer": "No — only a tower survives from the original medieval fortress on the estate of François I. The present château dates to an 1883 rebuild."
+    },
+    {
+      "question": "Why does Château de Nieuil's Booking.com listing show a different name?",
+      "answer": "A confirmed data-sync glitch on Booking.com's side displays the listing as \"Château Optical Center\" — verified to be the same genuine historic château at 205 Rue François Perry, Nieuil, not a different business."
+    },
+    {
+      "question": "Are all the rooms at Château de Nieuil within the château?",
+      "answer": "Yes — all 7 rooms and 3 suites are within the rebuilt 1883 château."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-nieuil.webp",
+    "alt": "Château de Nieuil, an 1883 rebuild on the site of a medieval fortress from the estate of François I, Nieuil, Charente, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-nieuil.webp",
+  "instagram_tag": "#chateaudenieuil",
+  "meta_title": "Château de Nieuil — A Family-Owned Hotel in Charente",
+  "meta_description": "Stay at Château de Nieuil in Charente — an 1883 rebuild on the site of a medieval fortress from the estate of François I, with a working vegetable garden restaurant.",
+  "tags": [
+    "france",
+    "charente",
+    "castle-hotel",
+    "nouvelle-aquitaine",
+    "family-owned"
+  ],
+  "last_updated": "2026-10-04",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Nieuil",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=chateau-optical-center&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-optical-center.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784916372%26srpvid%3D8cfb7f44bbad0b48%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 100,
+    "currency": "EUR",
+    "room_count": 10,
+    "room_location": "castle",
+    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Nieuil, Charente, Nouvelle-Aquitaine.\n\n**Rooms & rates:** 7 rooms + 3 suites, all within the rebuilt 1883 château; from about €100 per night.\n\n**On-site:** Outdoor pool, restaurant sourced from the property's own vegetable garden, gardens.\n\n**Good to know:** The medieval castle that originally stood here was largely lost; only a tower survives, and the château guests see and stay in today dates to an 1883 rebuild. The property's Booking.com listing currently displays under a glitched name (\"Château Optical Center\") — the affiliate link still routes correctly to this property.\n\n**Combine with:** Angoulême and the Charente countryside, within driving distance.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-04"
+  }
+}
