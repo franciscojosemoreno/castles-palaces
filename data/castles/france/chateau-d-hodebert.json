@@ -1,0 +1,90 @@
+{
+  "id": "chateau-d-hodebert",
+  "name": "Château d'Hodebert",
+  "local_name": "Château d'Hodebert",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 21,
+  "country": "france",
+  "region": "Saint-Paterne-Racan, Indre-et-Loire (Loire Valley)",
+  "nearest_city": "Château-la-Vallière",
+  "address": "Route d'Hodebert, 37370 Saint-Paterne-Racan, France",
+  "lat": 47.6167,
+  "lng": 0.6167,
+  "unesco": false,
+  "year_built": 1700,
+  "architectural_style": "A 17th- and 18th-century château in the Loire Valley; the park has been listed as a historic monument since 1944, and the château itself since 2009",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "3 guest rooms are within the château; 2 separate guesthouses sit elsewhere on the estate. Contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 17th-18th-century Loire Valley château, listed as a historic monument since 2009, with a small family-run bed-and-breakfast under active restoration",
+  "highlights": [
+    "A 17th- and 18th-century château in the Loire Valley",
+    "Its park has been listed as a historic monument since 1944, and the château itself since 2009",
+    "A family-run property under active restoration, with just 3 rooms inside the château"
+  ],
+  "description": "Château d'Hodebert is a 17th- and 18th-century château in the Loire Valley. Its park has been listed as a historic monument since 1944, and the château itself since 2009.\n\nToday it offers 3 guest rooms within the château, furnished with period pieces and overlooking the courtyard, plus 2 independent guesthouses elsewhere on the estate. The property also has a pool with views, a sun terrace, and a lush garden.\n\nThe château's dual historic-monument listings — its park in 1944, the building itself only in 2009 — reflect a gradual, decades-apart recognition of the estate's different heritage elements.\n\nThe property's genuinely small scale, with just 3 rooms inside the château itself, distinguishes Hodebert from the larger full-service château-hotels found elsewhere in the Loire Valley.\n\nThe presence of 2 separate guesthouses on the estate, alongside the château rooms, gives Hodebert a mixed accommodation model similar to several other family-run Loire Valley properties.\n\nThe château's position in Saint-Paterne-Racan, in the heart of the Loire Valley, gives guests staying at Hodebert easy access to the wider château route, including the nearby Château de Hommes.",
+  "history": "Château d'Hodebert is a 17th- and 18th-century château in the Loire Valley, with its park listed as a historic monument since 1944 and the château itself since 2009. Today it operates as a small, family-run bed-and-breakfast under active restoration, with 3 guest rooms within the château and 2 independent guesthouses elsewhere on the estate.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château d'Hodebert within the château?",
+      "answer": "No — only 3 guest rooms are within the château itself; 2 more units are independent guesthouses elsewhere on the estate."
+    },
+    {
+      "question": "When was Château d'Hodebert listed as a historic monument?",
+      "answer": "Its park was listed in 1944, and the château building itself in 2009."
+    },
+    {
+      "question": "Is Château d'Hodebert a large hotel?",
+      "answer": "No — it is a small, family-run property under active restoration, with just 5 total accommodation units across the château and two separate guesthouses."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-d-hodebert.webp",
+    "alt": "Château d'Hodebert, a 17th-18th-century Loire Valley château listed as a historic monument, Saint-Paterne-Racan, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-d-hodebert.webp",
+  "instagram_tag": "#chateaudhodebert",
+  "meta_title": "Château d'Hodebert — A Family-Run Loire Valley B&B",
+  "meta_description": "Stay at Château d'Hodebert in Saint-Paterne-Racan — a 17th-18th-century Loire Valley château, listed as a historic monument, with a small family-run bed-and-breakfast.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "castle-hotel",
+    "indre-et-loire",
+    "bed-and-breakfast"
+  ],
+  "last_updated": "2026-10-02",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-hommes"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château d'Hodebert",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=chateau-d-hodebert&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-d-hodebert.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D414391%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784915732%26srpvid%3D8aeb7e062796009b%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 206,
+    "currency": "EUR",
+    "room_count": 5,
+    "room_location": "mixed",
+    "amenities": ["outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Saint-Paterne-Racan, Indre-et-Loire, in the heart of the Loire Valley.\n\n**Rooms & rates:** 3 rooms within the château, plus 2 independent guesthouses on the estate; from about €206 per night.\n\n**On-site:** Pool with views, sun terrace, garden, breakfast with homemade organic produce.\n\n**Good to know:** A family property under active restoration — only 3 of the rooms are within the château itself, the other 2 units are separate guesthouses on the estate.\n\n**Combine with:** Château de Hommes (15 min), the wider Loire Valley châteaux.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-02"
+  }
+}

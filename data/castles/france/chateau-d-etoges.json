@@ -1,0 +1,88 @@
+{
+  "id": "chateau-d-etoges",
+  "name": "Château d'Étoges",
+  "local_name": "Château d'Étoges",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 26,
+  "country": "france",
+  "region": "Étoges, Marne (Champagne, Grand Est)",
+  "nearest_city": "Épernay",
+  "address": "Rue de Vertus, 51270 Étoges, France",
+  "lat": 48.8500,
+  "lng": 3.9000,
+  "unesco": false,
+  "year_built": 1620,
+  "architectural_style": "Built in the early 17th century as a royal staging post on the eastern route, listed as a historic monument, set within a 20-hectare park with a moat, terrace and fountains",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "28-29 rooms are split between the 17th-century château and its Orangery, a separate building on the estate; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A royal staging post in the heart of Champagne that once hosted kings of France, opened to guests by its own family in 1991",
+  "highlights": [
+    "Built in the early 17th century at the heart of the Champagne countryside, within a 20-hectare park with fountains and a moat",
+    "Originally a royal staging post on the eastern route, designed to receive guests — kings of France stayed here",
+    "Privately owned by the same family for over a century; the current generation opened rooms to guests in 1991"
+  ],
+  "description": "Built in the early 17th century at the heart of the Champagne countryside, this listed château stands imposingly amid a 20-hectare park, with a large terrace, kitchen garden and magnificent fountains. It was originally a royal staging post on the eastern route, designed to receive guests — kings of France stayed here. It has been privately owned by the same family for over a century, and the latest generation decided to share the house with guests, opening some rooms as a guesthouse in 1991.\n\nToday its 28-29 rooms are split between the château and its Orangery, a separate building on the estate; the property also has a gastronomic restaurant and a spa with eco-friendly treatments. Rooms in the château keep romantic views over the moat surrounding the building.\n\nThe estate's origin as a royal staging post, hosting kings of France on the eastern route, ties Étoges directly to the historic road network connecting Paris to eastern France.\n\nThe family's continuous private ownership for over a century, followed by the decision to open only some rooms to guests in 1991, reflects a gradual and relatively recent transition from private residence to hotel.\n\nThe presence of a separate Orangery building housing part of the room inventory means not every guest sleeps within the historic château itself, despite the moat and period architecture visible throughout the estate.\n\nThe château's position at the heart of Champagne, near Épernay, gives guests staying at Étoges easy access to the region's celebrated Champagne houses.",
+  "history": "Château d'Étoges was built in the early 17th century as a royal staging post on the eastern route, hosting kings of France, within a 20-hectare park with a moat and fountains. Privately owned by the same family for over a century, it opened some rooms to guests in 1991. Its 28-29 rooms are split between the château itself, with romantic moat views, and the separate Orangery building on the estate.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château d'Étoges within the historic château?",
+      "answer": "No — the 28-29 rooms are split between the château and its Orangery, a separate building within the same walled estate."
+    },
+    {
+      "question": "What was Château d'Étoges originally used for?",
+      "answer": "A royal staging post on the eastern route, designed to receive guests — kings of France are said to have stayed here."
+    },
+    {
+      "question": "When did Château d'Étoges open to guests?",
+      "answer": "In 1991, when the family that had privately owned it for over a century decided to share the house, opening some rooms as a guesthouse."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-d-etoges.webp",
+    "alt": "Château d'Étoges, a 17th-century royal staging post in the Champagne countryside, Étoges, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-d-etoges.webp",
+  "instagram_tag": "#chateaudetoges",
+  "meta_title": "Château d'Étoges — A Royal Staging Post in Champagne",
+  "meta_description": "Stay at Château d'Étoges near Épernay — a 17th-century royal staging post that once hosted kings of France, with rooms in the château and its Orangery.",
+  "tags": [
+    "france",
+    "champagne",
+    "castle-hotel",
+    "epernay",
+    "spa"
+  ],
+  "last_updated": "2026-10-02",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château d'Étoges",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=chateaudetoges&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateaudetoges.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D207900%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784915596%26srpvid%3Dc06a7dc3e8e1026c%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 199,
+    "currency": "EUR",
+    "room_count": 28,
+    "room_location": "mixed",
+    "amenities": ["restaurant", "spa", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** At the heart of the Champagne region, near Épernay, 90 minutes from Paris.\n\n**Rooms & rates:** 28-29 rooms split between the 17th-century château and its Orangery; from about €199 per night.\n\n**On-site:** Gastronomic restaurant, spa with eco-friendly treatments, 20-hectare park with fountains, kitchen garden.\n\n**Good to know:** A listed historic monument that once hosted kings of France — some rooms are in the Orangery, a separate building within the same walled estate.\n\n**Combine with:** Épernay and the Champagne houses (30 min), Reims (1h).",
+    "source": "user-provided",
+    "sourced_date": "2026-10-02"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "chateau-des-charmes",
+  "name": "Château des Charmes",
+  "local_name": "Château des Charmes",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "france",
+  "region": "Guéreins, Ain (Beaujolais/Saône Valley, Auvergne-Rhône-Alpes)",
+  "nearest_city": "Belleville-en-Beaujolais",
+  "address": "Route de Guéreins, 01640 Guéreins, France",
+  "lat": 46.1500,
+  "lng": 4.7500,
+  "unesco": false,
+  "year_built": 1850,
+  "architectural_style": "A mid-19th-century residence built by ironmasters on the site of a former farm that had been part of the neighboring Simond convent estate, destroyed during the Revolution",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "May to October for standard rates",
+  "accessibility": "All guest rooms are within the single 1850 residence; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 19th-century ironmasters' residence overlooking the Saône Valley and Beaujolais mountains, built on the ruins of a convent destroyed in the Revolution",
+  "highlights": [
+    "Built in 1850, facing the Beaujolais, by ironmasters of the mid-19th century",
+    "Stands on the site of a former farm that had been part of the neighboring Simond convent estate, destroyed during the French Revolution",
+    "Unobstructed views over the Saône Valley and the Beaujolais mountains from its 3-hectare park"
+  ],
+  "description": "Château des Charmes is an 1850 residence facing the Beaujolais, built in the mid-19th century by ironmasters on the site of a former farm that had been part of the estate of the neighboring Simond convent, destroyed during the Revolution. It offers unobstructed views over the Saône Valley and the Beaujolais mountains from its 3-hectare park.\n\nToday it operates as a bed-and-breakfast within the residence, with rooms overlooking either the garden or the mountains; the château is also rented for professional and private events, from 30 to 300 people.\n\nThe estate's origin on the ruins of the Simond convent, destroyed during the Revolution, ties Château des Charmes to the broader wave of religious property seizures and destruction of that era, even though the current building postdates the convent by more than half a century.\n\nThe property's construction by 19th-century ironmasters, rather than a noble or royal family, gives it an industrial-era origin distinct from the medieval and Renaissance châteaux found elsewhere in the region.\n\nDespite carrying the name \"château,\" the property is a single 19th-century residence rather than a fortress with defensive origins, and its entire accommodation offering sits within that one building.\n\nThe château's position in Guéreins, with panoramic Saône Valley views, gives guests staying here a scenic base close to the Beaujolais wine route.",
+  "history": "Château des Charmes is an 1850 residence built by 19th-century ironmasters on the site of a former farm that had belonged to the neighboring Simond convent, destroyed during the French Revolution. It operates today as a bed-and-breakfast within the single historic residence, with panoramic views over the Saône Valley and Beaujolais mountains from its 3-hectare park; the property is also rented for events of 30 to 300 people.",
+  "faqs": [
+    {
+      "question": "Is Château des Charmes a medieval fortress?",
+      "answer": "No — despite the name, it is a single 19th-century residence built in 1850 by ironmasters, not a defensive medieval castle."
+    },
+    {
+      "question": "Are all the rooms at Château des Charmes within one building?",
+      "answer": "Yes — the entire bed-and-breakfast offering is within the single 1850 residence; there are no separate annex buildings for accommodation."
+    },
+    {
+      "question": "What stood on the site before Château des Charmes?",
+      "answer": "A former farm that had been part of the estate of the neighboring Simond convent, destroyed during the French Revolution."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-des-charmes.webp",
+    "alt": "Château des Charmes, an 1850 residence overlooking the Saône Valley and Beaujolais mountains, Guéreins, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-des-charmes.webp",
+  "instagram_tag": "#chateaudescharmes",
+  "meta_title": "Château des Charmes — A Bed-and-Breakfast Near Beaujolais",
+  "meta_description": "Stay at Château des Charmes in Guéreins — an 1850 residence overlooking the Saône Valley and Beaujolais mountains, near Château de Pizay.",
+  "tags": [
+    "france",
+    "beaujolais",
+    "castle-hotel",
+    "ain",
+    "bed-and-breakfast"
+  ],
+  "last_updated": "2026-10-02",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-pizay"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château des Charmes",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=chateau-des-charmes&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchateau-des-charmes.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D53539%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 160,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests. The château is also available for professional and private events (30-300 people).",
+    "how_to_stay": "**Getting there:** In Guéreins, Ain, overlooking the Saône Valley and the Beaujolais mountains.\n\n**Rooms & rates:** Rooms within the 1850 residence, overlooking the garden or the mountains; from about €160 per night (base rate for two, breakfast included, May-October).\n\n**On-site:** Sun terrace, garden, 3-hectare park with panoramic views, free WiFi.\n\n**Good to know:** Despite the name \"château,\" this is a 19th-century residence built by ironmasters, not a medieval fortress — the entire accommodation offering is within this single building.\n\n**Combine with:** Château de Pizay (25 min), the Beaujolais wine route.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-02"
+  }
+}

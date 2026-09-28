@@ -1,0 +1,92 @@
+{
+  "id": "chateau-de-hommes",
+  "name": "Château de Hommes",
+  "local_name": "Le Vieux Château de Hommes",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "france",
+  "region": "Hommes, Indre-et-Loire (Loire Valley)",
+  "nearest_city": "Langeais",
+  "address": "Le Vieux Château, 37340 Hommes, France",
+  "lat": 47.4000,
+  "lng": 0.2833,
+  "unesco": false,
+  "year_built": 1150,
+  "architectural_style": "A 12th-century château, now in ruins, standing within its original moat; guests stay in an authentic 15th-century tithe barn, a separate building on the same 170-hectare estate",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only; the château ruins are a landscape and historic feature of the estate, not an interior visit",
+  "best_season": "Year-round",
+  "accessibility": "All 5 guest rooms are within the 15th-century tithe barn, a separate building from the ruined château; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Guests here sleep in a 15th-century tithe barn, not the ruined 12th-century château standing within its own moat on the same estate",
+  "highlights": [
+    "The ruined château dates to the 12th century, with some sources placing the current guesthouse building in the 15th century",
+    "It stands surrounded by its original moat, at the heart of the Loire Valley châteaux and vineyards",
+    "All 5 guest rooms are within a genuine 15th-century tithe barn, not the château itself, on a 170-hectare estate"
+  ],
+  "description": "The ruined château dates to the 12th century, though some sources place the current guesthouse building in the 15th century, and it stands surrounded by its original moat, at the heart of the Loire Valley châteaux and vineyards. The estate covers 170 hectares.\n\nGuests here do not sleep inside the château. The 5 comfortable rooms (TV, minibar, coffee maker, courtesy tray) are within the tithe barn, a genuine 15th-century building — not the château ruins, which are preserved as a landscape and historic feature of the estate.\n\nThe château's ruined state, standing within its original moat, gives Hommes a genuinely atmospheric historic centerpiece even though it plays no role in overnight accommodation.\n\nThe tithe barn's own 15th-century construction date means guests sleeping there are still within a centuries-old building, distinct from — but roughly contemporary with or younger than — the ruined château itself.\n\nThe estate's substantial 170-hectare scale, with hiking trails through its grounds, gives Hommes a rural, nature-focused character alongside its historic ruins.\n\nThe property's position in the heart of the Loire Valley château route, near Langeais and Villandry, gives guests staying at Hommes easy access to some of the region's most-visited châteaux.",
+  "history": "The ruined château at Hommes dates to the 12th century and stands within its original moat, at the heart of the Loire Valley. Guests do not stay in the château itself but in a genuine 15th-century tithe barn on the same 170-hectare estate, which offers 5 comfortable rooms, an outdoor heated pool, and hiking trails through its grounds.",
+  "faqs": [
+    {
+      "question": "Do guests sleep inside the château at Hommes?",
+      "answer": "No — the château is a 12th-century ruin, preserved as a historic and landscape feature within its own moat. All 5 guest rooms are in a separate 15th-century tithe barn on the same estate."
+    },
+    {
+      "question": "What is the tithe barn at Château de Hommes?",
+      "answer": "A genuine 15th-century building on the estate where all guest accommodation is located, distinct from the ruined château itself."
+    },
+    {
+      "question": "How large is the Château de Hommes estate?",
+      "answer": "170 hectares, with hiking trails through its grounds."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-hommes.webp",
+    "alt": "Château de Hommes, whose guests sleep in a 15th-century tithe barn beside the ruined 12th-century château, Hommes, Loire Valley, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-hommes.webp",
+  "instagram_tag": "#chateaudehommes",
+  "meta_title": "Château de Hommes — Stay in a 15th-Century Tithe Barn",
+  "meta_description": "Stay at Château de Hommes in the Loire Valley — guests sleep in a 15th-century tithe barn beside the ruined 12th-century château, near Langeais and Villandry.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "castle-hotel",
+    "indre-et-loire",
+    "ruins"
+  ],
+  "last_updated": "2026-10-02",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-langeais",
+    "chateau-de-villandry",
+    "chateau-d-hodebert"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Le Vieux Château de Hommes",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=chateau-de-hommes&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fle-vieux-chateau-de-hommes.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D414391%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 125,
+    "currency": "EUR",
+    "room_count": 5,
+    "room_location": "annex",
+    "amenities": ["outdoor pool", "gardens"],
+    "non_guest_access_note": "The ruined château, surrounded by its original moat, is preserved as a landscape and historic feature of the estate; overnight guests do not stay within it.",
+    "how_to_stay": "**Getting there:** In Hommes, Indre-et-Loire, at the heart of the Loire Valley châteaux.\n\n**Rooms & rates:** 5 rooms within a 15th-century tithe barn — not the château ruins; from about €125 per night.\n\n**On-site:** Heated outdoor pool, 170-hectare park with hiking trails, courtyard, pergola, barbecue, jacuzzi, free bicycles.\n\n**Good to know:** Guests do not sleep in the château, preserved as a 12th-century ruin surrounded by its original moat — accommodation is in a genuine 15th-century tithe barn, a separate building on the same estate.\n\n**Combine with:** Château de Langeais (20 min), Château de Villandry (25 min), Château d'Hodebert (15 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-10-02"
+  }
+}
