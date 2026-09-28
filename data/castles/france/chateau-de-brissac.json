@@ -1,0 +1,91 @@
+{
+  "id": "chateau-de-brissac",
+  "name": "Château de Brissac",
+  "local_name": "Château de Brissac",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "france",
+  "region": "Brissac-Quincé (Brissac Loire Aubance), Maine-et-Loire (Anjou)",
+  "nearest_city": "Angers",
+  "address": "Château de Brissac, 49320 Brissac Loire Aubance, France",
+  "lat": 47.3667,
+  "lng": -0.4333,
+  "unesco": false,
+  "year_built": 1620,
+  "architectural_style": "A castle has stood on this site since the 11th century; the medieval fortress was demolished except for two twin towers, against which a new 17th-century baroque château was built, making it the tallest inhabited château in France — 7 floors, 48 meters, nicknamed \"the giant of the Loire\"",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Primarily a day-visit destination; overnight bed-and-breakfast stays are available seasonally (mid-April to mid-October) in only 3 of its 204 rooms",
+  "best_season": "Mid-April to mid-October for overnight stays; year-round for day visits",
+  "accessibility": "The château has 204 rooms in total across 7 floors, but only 3 function as a seasonal bed-and-breakfast; contact the château directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "Europe's tallest inhabited château — 204 rooms across 7 floors, owned by the same family since 1502, though only 3 rooms operate seasonally as a bed-and-breakfast",
+  "highlights": [
+    "A castle has stood on this site since the 11th century, when Fulk III \"the Black\", Count of Anjou, built a medieval wood-and-stone fortress",
+    "Purchased in 1502 by René Cossé, whose descendants have lived there ever since — 18 generations",
+    "The tallest inhabited château in France (7 floors, 48 meters), nicknamed \"the giant of the Loire\"; but only 3 of its 204 rooms function as a seasonal bed-and-breakfast, mid-April to mid-October"
+  ],
+  "description": "A castle has stood on this site since the 11th century, when Fulk III \"the Black\", Count of Anjou, built a medieval fortress of wood and stone. Brissac changed hands several times until 1434, when Jean de la Haye, Lord of Brissac, ceded the fief to Pierre de Brézé. In 1502 it was purchased by René Cossé, whose descendants have lived there ever since — 18 generations. The old castle was demolished except for two medieval twin towers, and a new 17th-century baroque château was built against them, making it the tallest inhabited château in France. In 1792 it was looted during the French Revolution and left in ruins before its later restoration.\n\nImportant: Château de Brissac is above all a visit destination — the tallest inhabited château in Europe, with 204 rooms in total — and only a small, seasonal fraction of it functions as overnight accommodation. The château has 204 rooms across 7 floors and 48 meters of height, but from mid-April to mid-October only 3 of them operate as a bed-and-breakfast, furnished with antique furniture, Flemish tapestries and crystal chandeliers.\n\nThe château's documented 11th-century origins, followed by 18 continuous generations of the same family since 1502, give Brissac one of the longest single-family ownership records in the entire France collection.\n\nThe survival of two medieval twin towers, incorporated directly into the 17th-century baroque rebuilding, ties the current \"giant of the Loire\" silhouette physically back to the original medieval fortress.\n\nThe fact that only 3 of the château's 204 rooms operate as overnight accommodation, and only for half the year, distinguishes Brissac sharply from the full-service château-hotels found elsewhere in this collection — this is fundamentally a heritage visit site with a very limited, seasonal bed-and-breakfast add-on.\n\nThe château's position in Brissac-Quincé, between Angers and Saumur, gives guests visiting or staying at Brissac easy access to two of Anjou's other major historic towns.",
+  "history": "A castle has stood on this site since the 11th century, when Fulk III \"the Black\", Count of Anjou, built a fortress. Purchased in 1502 by René Cossé, it has remained in the same family for 18 generations. The old castle was demolished except for two medieval twin towers, against which a 17th-century baroque château was built, making Brissac the tallest inhabited château in France. Looted during the Revolution in 1792, it was later restored. Today it is above all a day-visit destination; only 3 of its 204 rooms operate as a seasonal bed-and-breakfast, from mid-April to mid-October.",
+  "faqs": [
+    {
+      "question": "Can you stay overnight at Château de Brissac?",
+      "answer": "Only in a very limited way — 3 of the château's 204 rooms function as a bed-and-breakfast, and only seasonally, from mid-April to mid-October. The château is above all a day-visit destination."
+    },
+    {
+      "question": "Why is Château de Brissac called the tallest inhabited château in France?",
+      "answer": "Its 17th-century baroque rebuilding, incorporating two surviving medieval towers, rises 7 floors and 48 meters, earning it the nickname \"the giant of the Loire.\""
+    },
+    {
+      "question": "How long has the same family owned Château de Brissac?",
+      "answer": "Since 1502, when René Cossé purchased it — his descendants have lived there for 18 generations."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-brissac.webp",
+    "alt": "Château de Brissac, the tallest inhabited château in France, with limited seasonal bed-and-breakfast stays, Anjou, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-brissac.webp",
+  "instagram_tag": "#chateaudebrissac",
+  "meta_title": "Château de Brissac — Europe's Tallest Inhabited Château",
+  "meta_description": "Visit or stay at Château de Brissac, Europe's tallest inhabited château near Angers — a 204-room baroque giant with only 3 rooms open as a seasonal bed-and-breakfast.",
+  "tags": [
+    "france",
+    "anjou",
+    "castle-hotel",
+    "angers",
+    "loire-valley",
+    "seasonal"
+  ],
+  "last_updated": "2026-10-01",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-d-angers"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château de Brissac",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chac-teau-de-brissac&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fchac-teau-de-brissac.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D730738%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784915549%26srpvid%3D925d7dac38c101b8%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 590,
+    "currency": "EUR",
+    "room_count": 3,
+    "room_location": "castle",
+    "amenities": ["gardens"],
+    "non_guest_access_note": "This is primarily a day-visit destination — Europe's tallest inhabited château, with 204 rooms in total. Only 3 rooms operate as a seasonal bed-and-breakfast (mid-April to mid-October); the château's guided day tour is included for overnight guests.",
+    "how_to_stay": "**Getting there:** In Brissac-Quincé, Anjou countryside, between Angers and Saumur.\n\n**Rooms & rates:** Only 3 of the château's 204 rooms operate as a bed-and-breakfast, and only seasonally (mid-April to mid-October); from about €590 per night for two, breakfast and a château visit included.\n\n**On-site:** A 70-hectare landscaped park, guided tour of the château (included for overnight guests), the estate's own vineyard.\n\n**Good to know:** This is above all a visit destination — Europe's tallest inhabited château — with an extremely limited and seasonal accommodation offering (just 3 rooms, half the year). Confirm availability dates before planning your trip.\n\n**Combine with:** Château de Brissac's day visit (included with the stay), Angers (20 min), Saumur (25 min).",
+    "source": "user-provided",
+    "sourced_date": "2026-10-01"
+  }
+}

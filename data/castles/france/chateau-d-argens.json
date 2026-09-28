@@ -1,0 +1,90 @@
+{
+  "id": "chateau-d-argens",
+  "name": "Château d'Argens",
+  "local_name": "Château d'Argens",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "france",
+  "region": "Les Arcs-sur-Argens, Var (Provence-Alpes-Côte d'Azur)",
+  "nearest_city": "Les Arcs-sur-Argens",
+  "address": "Le Parage, 83460 Les Arcs-sur-Argens, France",
+  "lat": 43.4667,
+  "lng": 6.4833,
+  "unesco": false,
+  "year_built": 1250,
+  "architectural_style": "A 13th-century château at the top of the medieval hilltop town (Le Parage), with its original dungeon preserved; renovated into a small hotel and restaurant",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "All rooms are within the renovated 13th-century château building; contact the property directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A small, accessible 13th-century château at the top of a Provençal medieval hilltop town, with its original dungeon preserved",
+  "highlights": [
+    "The hotel and restaurant occupy the top of the medieval town (Le Parage), where the old stones, the soul of the building, and the castle's dungeon have all been preserved",
+    "A living testament to an era when kings and poets shared the same world",
+    "In the same Var region as Château de Berne, though the two are distinct properties in different villages"
+  ],
+  "description": "The hotel and restaurant sit at the top of the medieval town (Le Parage), where the ancient stones, the soul of the building, and the dungeon of this 13th-century castle have all been preserved. Château d'Argens is a living testament to an era when kings and poets shared the same world.\n\nToday its rooms of character sit within the renovated château, each combining elegance, calm and Provençal authenticity, with a sun terrace, garden and seasonal outdoor pool.\n\nThe château's preserved medieval dungeon, dating to its 13th-century origins, gives the property a genuinely old surviving feature distinct from its more recently renovated guest rooms.\n\nThe estate's hilltop position within Les Arcs-sur-Argens' medieval old town gives it panoramic views over the Maures mountain range, a specific Provençal landscape setting distinct from the vineyard estates found elsewhere in the region.\n\nThe château's modest scale, as a small, accessible hotel rather than a large luxury resort, distinguishes d'Argens from grander nearby estates such as Château de Berne, despite both properties sitting in the same Var region.",
+  "history": "Château d'Argens is a 13th-century castle at the top of the medieval hilltop town of Les Arcs-sur-Argens (Le Parage), where the old stones, structure and original dungeon have been preserved. It operates today as a small hotel and restaurant, with rooms of character within the renovated château, a sun terrace, garden and seasonal outdoor pool.",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Château d'Argens within the historic castle?",
+      "answer": "Yes — the hotel occupies the renovated château itself, at the top of the medieval town, with its original dungeon preserved."
+    },
+    {
+      "question": "Is Château d'Argens the same property as Château de Berne?",
+      "answer": "No — they are distinct properties in different Var villages (Les Arcs-sur-Argens and Lorgues), though they share a regional Booking.com search reference."
+    },
+    {
+      "question": "What historic feature survives at Château d'Argens?",
+      "answer": "The castle's original 13th-century dungeon, preserved within the renovated building."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-d-argens.webp",
+    "alt": "Château d'Argens, a 13th-century hilltop château with a preserved medieval dungeon, Les Arcs-sur-Argens, Provence, France",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-d-argens.webp",
+  "instagram_tag": "#chateaudargens",
+  "meta_title": "Château d'Argens — A Medieval Hilltop Hotel in Provence",
+  "meta_description": "Stay at Château d'Argens in Les Arcs-sur-Argens — a 13th-century hilltop château with a preserved medieval dungeon, in the heart of Provence.",
+  "tags": [
+    "france",
+    "provence",
+    "castle-hotel",
+    "var",
+    "medieval"
+  ],
+  "last_updated": "2026-10-01",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-berne"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château d'Argens",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=le-chateau-d-argens&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Ffr%2Fle-chateau-d-39-argens.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D416454%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 143,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** At the top of the medieval old town of Les Arcs-sur-Argens, with panoramic views over the Maures mountain range.\n\n**Rooms & rates:** Rooms within the 13th-century château, including its preserved historic dungeon; from about €143 per night.\n\n**On-site:** Restaurant serving local, seasonal cuisine with regional wines, sun terrace, garden, seasonal outdoor pool.\n\n**Good to know:** A small, accessible château in the same Var region as Château de Berne (they share a Booking.com search reference but are distinct properties in different villages).\n\n**Combine with:** Château de Berne (20 min), medieval Les Arcs-sur-Argens.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-01"
+  }
+}
