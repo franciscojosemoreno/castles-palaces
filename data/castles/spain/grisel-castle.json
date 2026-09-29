@@ -1,0 +1,89 @@
+{
+  "id": "grisel-castle",
+  "name": "Grisel Castle",
+  "local_name": "Castillo de Grisel",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "spain",
+  "region": "Grisel, Province of Zaragoza, Aragon — 3 km from Tarazona",
+  "nearest_city": "Tarazona",
+  "address": "C. del Castillo, s/n, 50569 Grisel, Zaragoza, Spain",
+  "lat": 41.9000,
+  "lng": -1.7167,
+  "unesco": false,
+  "year_built": 1106,
+  "architectural_style": "A fortress documented since 1106, reinforced in the 14th century, and given a more palatial adaptation in the 16th century by the Cathedral Chapter of Tarazona; restored between 1988 and 2014 by private owner Manuel Giménez Aperte",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Six themed double rooms within the restored castle; contact the property directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A 12th-century frontier fortress with six rooms, each themed around a different literary genre",
+  "highlights": [
+    "The village of Grisel grew up at the foot of its castle, whose existence is already documented in 1106",
+    "The castle formed part of the defensive frontier line between Castile and Aragon, the site of intense conflict for centuries",
+    "In 1352 it was bought by the Cathedral Chapter of Tarazona from Hugo de Cardona, reinforcing its fortified character against the Castilian threat; in the 16th century the Chapter adapted it to a more palatial use"
+  ],
+  "description": "The village of Grisel grew up at the foot of its castle, whose existence is already documented in 1106. The castle formed part of the defensive frontier line between Castile and Aragon, and was the site of intense conflict for centuries. Among its known owners was Don Lope Ferrench de Luna in 1301; in 1352 it was bought by the Cathedral Chapter of Tarazona from Hugo de Cardona, reinforcing its fortified character against the Castilian threat. In the 16th century, the Chapter adapted it to a more palatial use.\n\nThe castle was sold in 1988 to Manuel Giménez Aperte, who began an intensive restoration completed in 2014, recovering much of its original appearance. Today it operates as a small rural hotel with capacity for 29 guests, with six themed double rooms, each inspired by a different literary genre.\n\nThe castle's documented history since 1106 places it among the older fortified sites in this stretch of the Castile-Aragon frontier, with ownership passing from feudal nobility to an ecclesiastical institution — the Cathedral Chapter of Tarazona — in 1352.\n\nThe 26-year restoration undertaken by its private owner, completed in 2014, reflects a genuinely long-term personal commitment to recovering the castle's original appearance.\n\nThe hotel's six rooms, each themed around a different literary genre, give Grisel a distinctive content angle uncommon among Spain's more conventionally decorated castle-hotels.",
+  "history": "Grisel Castle is documented since 1106 and formed part of the Castile-Aragon frontier defensive line. Owned by Don Lope Ferrench de Luna in 1301, it was bought by the Cathedral Chapter of Tarazona in 1352 and adapted to palatial use in the 16th century. Sold in 1988 to Manuel Giménez Aperte, it underwent restoration completed in 2014 and operates today as a small rural hotel with six literary-themed rooms.",
+  "faqs": [
+    {
+      "question": "What is distinctive about the rooms at Grisel Castle?",
+      "answer": "Each of the six double rooms is individually themed around a different literary genre."
+    },
+    {
+      "question": "How old is Grisel Castle?",
+      "answer": "Its existence is documented since 1106, when it formed part of the defensive frontier between Castile and Aragon."
+    },
+    {
+      "question": "When was Grisel Castle restored?",
+      "answer": "Its current owner, Manuel Giménez Aperte, bought the castle in 1988 and completed a restoration in 2014, recovering much of its original appearance."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/grisel-castle.webp",
+    "alt": "Grisel Castle, a 12th-century frontier fortress with literary-themed rooms, Zaragoza province, Aragon, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/grisel-castle.webp",
+  "instagram_tag": "#griselcastle",
+  "meta_title": "Grisel Castle — A Literary-Themed Rural Hotel in Aragon",
+  "meta_description": "Stay at Grisel Castle near Tarazona — a 12th-century frontier fortress restored as a small rural hotel with six literary-themed rooms.",
+  "tags": [
+    "spain",
+    "aragon",
+    "castle-hotel",
+    "zaragoza",
+    "tarazona",
+    "rural"
+  ],
+  "last_updated": "2026-10-10",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castillo de Grisel",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castillo-de-grisel&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcastillo-de-grisel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1061803%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784835236%26srpvid%3D71698990c0f20411%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 119,
+    "currency": "EUR",
+    "room_count": 6,
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Grisel, Province of Zaragoza, Aragon, 3 km from Tarazona.\n\n**Rooms & rates:** Six double rooms, each decorated around a literary genre; reference rate from about €119 per night for the Attic room with terrace.\n\n**On-site:** Restaurant, setting near the Moncayo Natural Park and the Monastery of Veruela.\n\n**Good to know:** Each of the six rooms is themed around a different literary genre — a distinctive content angle compared with more conventional castle-hotels.\n\n**Combine with:** The Moncayo Natural Park and the Monastery of Veruela, both nearby.",
+    "source": "official-site",
+    "sourced_date": "2026-10-10"
+  }
+}

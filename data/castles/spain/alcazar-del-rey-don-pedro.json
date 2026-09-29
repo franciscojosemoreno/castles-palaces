@@ -1,0 +1,90 @@
+{
+  "id": "alcazar-del-rey-don-pedro",
+  "name": "Alcázar del Rey Don Pedro",
+  "local_name": "Parador de Carmona (Alcázar del Rey Don Pedro)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 27,
+  "country": "spain",
+  "region": "Carmona, Province of Seville, Andalusia",
+  "nearest_city": "Seville",
+  "address": "Alcázar, s/n, 41410 Carmona, Seville, Spain",
+  "lat": 37.4667,
+  "lng": -5.6333,
+  "unesco": false,
+  "year_built": 1364,
+  "architectural_style": "Roman origins, expanded into an Arab alcázar during the Taifa of Seville; rebuilt into a sumptuous Mudéjar palace in the 14th century by Peter I \"the Cruel,\" closely echoing the Real Alcázar of Seville",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms within the Mudéjar alcázar; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "Peter I \"the Cruel\"'s favorite palace, where his mistresses lived — and were sometimes imprisoned — reopened as a Parador with Spain's royal family in attendance",
+  "highlights": [
+    "The Alcázar Real sits on the remains of ancient Roman construction and was expanded during the Muslim period, when Carmona was part of the Taifa of Seville",
+    "After five centuries of Muslim history, Carmona was reconquered by Fernando III \"the Saint\" in 1247",
+    "In the 14th century, Peter I \"the Cruel\" restored it into one of his favorite palaces, closely echoing the Real Alcázar of Seville — it served in turn as residence and prison for his mistresses, la Padilla, la Coronel, and la Guzmán"
+  ],
+  "description": "The Alcázar Real, or Alcázar del Rey Don Pedro, sits on the remains of ancient Roman construction and was expanded during the Muslim period, when Carmona was part of the Taifa of Seville. After five centuries of Muslim history, Carmona was reconquered by Fernando III \"the Saint\" in 1247. In the 14th century, Peter I \"the Cruel\" restored it and converted it into one of his favorite palaces, closely echoing the Real Alcázar of Seville given his passion for the Mudéjar style — the alcázar served in turn as residence and prison for his mistresses, la Padilla, la Coronel, and la Guzmán.\n\nThe Catholic Monarchs undertook its reconstruction and raised the \"cubete\" (an exterior fort), but abandoned the project after damage from the 1504 earthquake. The Parador del Alcázar del Rey Don Pedro opened its doors on 30 March 1976, attended by the then-reigning King and Queen of Spain, Juan Carlos I and Sofía.\n\nToday its rooms sit within the Mudéjar alcázar, closely echoing the architecture of Seville's own Real Alcázar.\n\nThe alcázar's documented use as both residence and prison for Peter I's mistresses gives the property a specific and dramatic royal narrative distinct from the more purely military or administrative history of many other Spanish castle-hotels.\n\nThe Catholic Monarchs' abandoned 16th-century reconstruction, halted by the 1504 earthquake, left the alcázar in a state that persisted for nearly five centuries before the Parador's 1976 restoration.\n\nThe castle's position overlooking the Vega de Carmona gives guests staying here sweeping views over one of Andalusia's most fertile agricultural plains.",
+  "history": "The Alcázar del Rey Don Pedro sits on Roman foundations, expanded during the Muslim Taifa of Seville period, and reconquered by Fernando III in 1247. Peter I \"the Cruel\" restored it in the 14th century into a favorite palace echoing Seville's Real Alcázar, using it as residence and prison for his mistresses. The Catholic Monarchs began a reconstruction abandoned after the 1504 earthquake. The Parador opened on 30 March 1976, attended by King Juan Carlos I and Queen Sofía.",
+  "faqs": [
+    {
+      "question": "Why is the alcázar named after Peter I \"the Cruel\"?",
+      "answer": "He restored it in the 14th century into one of his favorite palaces, closely echoing the Real Alcázar of Seville, and used it as residence and prison for his mistresses, la Padilla, la Coronel, and la Guzmán."
+    },
+    {
+      "question": "What halted the Catholic Monarchs' reconstruction of the alcázar?",
+      "answer": "The 1504 earthquake damaged the site badly enough that the reconstruction, including the exterior \"cubete\" fort, was abandoned."
+    },
+    {
+      "question": "When did the Parador open?",
+      "answer": "On 30 March 1976, attended by the then King and Queen of Spain, Juan Carlos I and Sofía."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alcazar-del-rey-don-pedro.webp",
+    "alt": "Alcázar del Rey Don Pedro, Peter I the Cruel's Mudéjar palace, now a Parador overlooking the Vega de Carmona, Seville, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alcazar-del-rey-don-pedro.webp",
+  "instagram_tag": "#alcazardelreydonpedro",
+  "meta_title": "Alcázar del Rey Don Pedro — A Parador Hotel in Carmona",
+  "meta_description": "Stay at the Alcázar del Rey Don Pedro in Carmona — Peter I the Cruel's Mudéjar palace echoing Seville's Real Alcázar, now a Parador near Seville.",
+  "tags": [
+    "spain",
+    "andalusia",
+    "castle-hotel",
+    "seville",
+    "parador",
+    "mudejar"
+  ],
+  "last_updated": "2026-10-10",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Parador de Carmona",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=alcazar-del-rey-don-pedro&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fparador-de-turismo-de-carmona.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D18956%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784835059%26srpvid%3Da41189371f11002d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 110,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Carmona, Province of Seville, Andalusia.\n\n**Rooms & rates:** Rooms within the Mudéjar alcázar, closely echoing the architecture of Seville's Real Alcázar; from about €110 per night.\n\n**On-site:** Restaurant, parade ground defended by three towers, terrace with views over the Vega de Carmona.\n\n**Good to know:** This was one of Peter I \"the Cruel\"'s favorite palaces, who used it as residence — and prison — for his mistresses, a narrative angle little used in other Parador listings.\n\n**Combine with:** Carmona's historic old town and Seville, a short drive away.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-10"
+  }
+}
