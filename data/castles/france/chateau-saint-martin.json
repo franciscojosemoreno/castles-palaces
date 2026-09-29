@@ -81,10 +81,17 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "annex",
-    "amenities": ["restaurant", "spa", "outdoor pool", "tennis", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "tennis",
+      "gardens"
+    ],
     "non_guest_access_note": "The medieval Templar-era ruins (a wall and drawbridge fragment) are visible on the grounds but are not an independent public day-visit attraction — access is for hotel guests.",
     "how_to_stay": "**Getting there:** In Vence, Alpes-Maritimes — about 10 minutes from the medieval village of Saint-Paul-de-Vence, on the French Riviera.\n\n**Rooms & rates:** From €1,300/night. Worth knowing before booking: the château building itself dates to 1936, not the medieval period — the site's genuine Knights Templar history (from 1150) survives only as ruined wall and drawbridge fragments on the grounds, which guests can see but not stay in.\n\n**On-site:** Infinity pool, two clay tennis courts, Spa Saint-Martin by La Prairie, and views over Saint-Paul-de-Vence to the Mediterranean.\n\n**Good to know:** This is a luxury 20th-century château-style hotel on a genuinely ancient (Roman-era, then Templar) site — but the building you sleep in is a 1936 construction, not a surviving medieval castle. The ruins are a scenic backdrop, not part of the guest accommodation.\n\n**Combine with:** Saint-Paul-de-Vence's medieval old town and its art galleries, 10 minutes away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 5
   }
 }

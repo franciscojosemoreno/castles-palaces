@@ -81,10 +81,15 @@
     "currency": "EUR",
     "room_count": 17,
     "room_location": "castle",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 12 km from Périgueux, beside the Isle river valley.\n\n**Rooms & rates:** 17 rooms within the \"Petit Château,\" the estate's original 18th-century main house; from about €185 per night.\n\n**On-site:** Pool with a centenary wisteria, outdoor terrace, relaxation lounge, seminar room, gastronomic restaurant.\n\n**Good to know:** A member of the Les Collectionneurs collection (formerly Châteaux & Hôtels Collection) — carefully restored by current owners Catherine and Yves Staebell.\n\n**Combine with:** Périgueux (15 min).",
     "source": "user-provided",
-    "sourced_date": "2026-10-03"
+    "sourced_date": "2026-10-03",
+    "star_category": 4
   }
 }

@@ -82,10 +82,16 @@
     "currency": "EUR",
     "room_count": 62,
     "room_location": "annex",
-    "amenities": ["restaurant", "spa", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** At the heart of the Beaujolais, between Brouilly and Morgon, near Belleville-sur-Saône.\n\n**Rooms & rates:** 62 rooms and suites, all in estate annex buildings — none within the château itself; from about €217 per night.\n\n**On-site:** 1,000 sqm spa (hydrotherapy, sauna, hammam), gastronomic restaurant, heated outdoor pool, bicentenary wine cellar with tastings, French garden.\n\n**Good to know:** Guests wanting to sleep inside the historic château itself cannot do so here — the château building houses the common spaces and wine cellar, while all guest rooms are in annex buildings on the estate.\n\n**Combine with:** Beaujolais wine route, Lyon (45 min).",
     "source": "user-provided",
-    "sourced_date": "2026-10-02"
+    "sourced_date": "2026-10-02",
+    "star_category": 4
   }
 }

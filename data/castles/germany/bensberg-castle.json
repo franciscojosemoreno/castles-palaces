@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 111,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "The adjacent Bergisches Museum (mining, crafts and trade) shares the estate grounds and is open to the public separately from the hotel",
     "how_to_stay": "**Getting there:** Bergisch Gladbach, North Rhine-Westphalia, about 20 minutes from Cologne.\n\n**Rooms & rates:** Most of the 77 rooms and 34 suites are within the restored Baroque hunting lodge itself; additional rooms sit in modern annex buildings built for the hotel's expansion. From €189/night.\n\n**On-site:** Two restaurants, full-service spa, gardens.\n\n**Good to know:** This is a large-scale luxury property rather than a small intimate castle stay — specify a main-building room if sleeping inside the original 18th-century hunting lodge is the priority.\n\n**Combine with:** Cologne Cathedral and the city's Old Town, about 20 minutes away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 5
   }
 }

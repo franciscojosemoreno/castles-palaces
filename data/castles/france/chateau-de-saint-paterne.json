@@ -10,7 +10,7 @@
   "region": "Saint-Paterne, Orne (edge of Normandy/Pays de la Loire)",
   "nearest_city": "Alençon",
   "address": "Rue de la Mairie, 61250 Saint-Paterne, France",
-  "lat": 48.4500,
+  "lat": 48.45,
   "lng": 0.0667,
   "unesco": false,
   "year_built": 1450,
@@ -79,10 +79,13 @@
     "currency": "EUR",
     "room_count": 12,
     "room_location": "mixed",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** On the outskirts of Alençon, at the boundary of Normandy and Pays de la Loire.\n\n**Rooms & rates:** 11 rooms and suites within the 15th-century château, plus \"La Datcha,\" an independent cabin in the park with a sauna and jacuzzi; from about €192 per night.\n\n**On-site:** Main sitting room, garden, 25 acres (10 hectares) of parkland.\n\n**Good to know:** Most rooms are within the restored château — only \"La Datcha,\" the luxury sauna suite, is a standalone wooden cabin in the park.\n\n**Combine with:** Alençon (5 min), the Loire Valley châteaux (1h).",
     "source": "user-provided",
-    "sourced_date": "2026-10-02"
+    "sourced_date": "2026-10-02",
+    "star_category": 4
   }
 }

@@ -80,10 +80,13 @@
     "currency": "EUR",
     "room_count": 12,
     "room_location": "annex",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "The château and its 15 \"Notable\" gardens are visited during the day as a monument; overnight guests do not sleep within the château itself.",
     "how_to_stay": "**Getting there:** In Lémeré, Loire Valley, between Chinon and Richelieu.\n\n**Rooms & rates:** 12 luxury rooms, all within the former royal stables built in 1550 — not inside the château itself; from about €250 per night.\n\n**On-site:** Exclusive access to the château's \"Notable\" gardens outside daytime visiting hours; an equestrian tradition dating to the 13th century.\n\n**Good to know:** Guests here sleep in the former royal stables, a genuinely historic Renaissance building from 1550 — but not the château visited by Joan of Arc. The château itself is toured during the day as a monument, not used for overnight stays.\n\n**Combine with:** Chinon (20 min), Château de Chinon.",
     "source": "user-provided",
-    "sourced_date": "2026-09-30"
+    "sourced_date": "2026-09-30",
+    "star_category": 4
   }
 }

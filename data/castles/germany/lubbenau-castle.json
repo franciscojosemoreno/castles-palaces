@@ -10,8 +10,8 @@
   "region": "Brandenburg — Lübbenau/Spreewald, UNESCO Biosphere Reserve",
   "nearest_city": "Cottbus",
   "address": "Schlossbezirk 6, 03222 Lübbenau/Spreewald, Germany",
-  "lat": 51.8620,
-  "lng": 13.9450,
+  "lat": 51.862,
+  "lng": 13.945,
   "unesco": false,
   "year_built": 1621,
   "architectural_style": "Neoclassical reconstruction 1817–1839 of an earlier castle; held by the von Lynar family since 1621",
@@ -81,10 +81,15 @@
     "currency": "EUR",
     "room_count": 38,
     "room_location": "castle",
-    "amenities": ["restaurant", "bar", "gardens"],
+    "amenities": [
+      "restaurant",
+      "bar",
+      "gardens"
+    ],
     "non_guest_access_note": "The 9-hectare landscape park and the Schlossensemble (stable, orangery, chancery) are open to the public; the hotel's 38 rooms are within the castle building itself.",
     "how_to_stay": "**Getting there:** Lübbenau is roughly 1h15 by car or direct train from Berlin (Lübbenau/Spreewald station is on the Berlin–Cottbus line); about 1h from Cottbus.\n\n**Rooms & rates:** 38 rooms and suites across two wings of the castle, each individually furnished; all rooms have minibar, flat-screen TV and WiFi; elevator connects all three floors of each wing. From €149/night.\n\n**On-site:** Castle restaurant LINARI, ROCCO's bar, 9-hectare landscape park, historic Schlossensemble (stable, orangery, chancery), conference facilities.\n\n**Good to know:** The wider estate also rents a separate holiday residence in the old stable (Marstall) — that is a different booking product from the castle hotel rooms and shouldn't be confused with them.\n\n**Combine with:** The Spreewald's canal boat tours (Kahnfahrten) depart directly from Lübbenau and are the area's signature activity — easily combined with a castle stay.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-19"
+    "sourced_date": "2026-09-19",
+    "star_category": 4
   }
 }

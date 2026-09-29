@@ -80,10 +80,16 @@
     "currency": "EUR",
     "room_count": 50,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "winery", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "winery",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Le Puy-Sainte-Réparade, about 20 minutes from Aix-en-Provence.\n\n**Rooms & rates:** 50 rooms from €205/night — only 13 are in the main 18th-century castle building; the rest are spread across the historic wings and a former stable block on the estate.\n\n**On-site:** 12-hectare listed botanical park with nearly 180 tree and plant species, spa, and restaurant set within vineyards.\n\n**Good to know:** If sleeping specifically inside the landmark castle building matters to you, confirm the room category — most of the 50 rooms are in adjoining historic wings or the former stables, not the main building itself.\n\n**Combine with:** Aix-en-Provence's old town, 20 minutes away; the wider Provence wine route.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 5
   }
 }

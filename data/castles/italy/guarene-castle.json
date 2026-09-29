@@ -85,10 +85,16 @@
     "currency": "EUR",
     "room_count": 12,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens", "chapel", "museum"],
+    "amenities": [
+      "restaurant",
+      "gardens",
+      "chapel",
+      "museum"
+    ],
     "non_guest_access_note": "The castle has a small museum dedicated to its history, but no confirmed independent day-visit product beyond a hotel stay was found.",
     "how_to_stay": "**Getting there:** About 10 minutes by car from Alba; roughly 1h from Turin and 1h30 from Genoa.\n\n**Rooms & rates:** 12 rooms and suites, all within the historic 18th-century Baroque building — 8 on the third floor, 4 on the ground floor.\n\n**On-site:** Restaurant, gardens, on-site history museum, the elliptical Chapel of Santa Teresa.\n\n**Good to know:** Room sizes vary dramatically, from a 40m² Classic Room to a 200m² Luxury Suite — worth checking the specific room category if space is a priority.\n\n**Combine with:** The Roero and Langhe wine regions, both UNESCO-listed landscapes, and the town of Alba.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 5
   }
 }

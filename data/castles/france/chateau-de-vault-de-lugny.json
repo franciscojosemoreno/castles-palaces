@@ -10,8 +10,8 @@
   "region": "Bourgogne-Franche-Comté — Vault-de-Lugny, Yonne, near Vézelay",
   "nearest_city": "Avallon",
   "address": "11 Rue du Château, 89200 Vault-de-Lugny, France",
-  "lat": 47.5100,
-  "lng": 3.8900,
+  "lat": 47.51,
+  "lng": 3.89,
   "unesco": false,
   "year_built": 1120,
   "architectural_style": "Roots trace to 1120; the current moated structure was built between the 13th and 17th centuries, razed by Louis XI and later rebuilt, at the edge of the Morvan nature reserve",
@@ -82,10 +82,14 @@
     "currency": "EUR",
     "room_count": 16,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In the Yonne department of Burgundy, near Vézelay and Chablis, at the edge of the Morvan Regional Park; roughly 3.5 hours from Paris by car.\n\n**Rooms & rates:** 13 rooms and 3 suites from €175/night, all within the moated 13th-17th-century château itself.\n\n**On-site:** Michelin-starred restaurant, 14th-century dungeon (listed historic monument), moats, working organic farm and vegetable garden, truffle plantation, and a trout river (the Cousin) bordering the grounds.\n\n**Good to know:** One of the few Burgundy hotels holding both a Michelin Key and a Michelin-starred restaurant.\n\n**Combine with:** The Basilica of Vézelay (UNESCO World Heritage), and Chablis' vineyards, both nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 5
   }
 }

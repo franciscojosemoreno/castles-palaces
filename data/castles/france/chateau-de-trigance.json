@@ -11,7 +11,7 @@
   "nearest_city": "Trigance",
   "address": "Montée du Château, 83840 Trigance, France",
   "lat": 43.7333,
-  "lng": 6.4500,
+  "lng": 6.45,
   "unesco": false,
   "year_built": 1000,
   "architectural_style": "Built in the 11th century (some sources trace an origin to the 9th century, as a fortress of meditation for monks of the Abbey of Saint-Victor de Marseille); held by the Counts of Provence, restored in the 1960s",
@@ -80,10 +80,13 @@
     "currency": "EUR",
     "room_count": 10,
     "room_location": "castle",
-    "amenities": ["restaurant"],
+    "amenities": [
+      "restaurant"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** Atop a rocky outcrop above the village of Trigance, within the Verdon Regional Nature Park.\n\n**Rooms & rates:** 10 rooms within the castle's former towers and wings; from about €159 per night.\n\n**On-site:** Gastronomic restaurant, panoramic views over the Gorges du Verdon.\n\n**Good to know:** A genuinely medieval fortress (11th century) restored in the 1960s — all rooms are within the historic structure, with no modern annexes.\n\n**Combine with:** Gorges du Verdon, Moustiers-Sainte-Marie (30 min).",
     "source": "user-provided",
-    "sourced_date": "2026-10-01"
+    "sourced_date": "2026-10-01",
+    "star_category": 3
   }
 }

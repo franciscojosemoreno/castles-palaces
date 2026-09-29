@@ -10,7 +10,7 @@
   "region": "Denicé, Rhône (Beaujolais, Auvergne-Rhône-Alpes)",
   "nearest_city": "Lyon",
   "address": "Route de la Venerie, 69430 Denicé, France",
-  "lat": 46.1500,
+  "lat": 46.15,
   "lng": 4.6167,
   "unesco": false,
   "year_built": 1800,
@@ -79,10 +79,14 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "castle",
-    "amenities": ["outdoor pool", "gardens"],
+    "amenities": [
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Denicé, Rhône — about 40 km north of Lyon, in Beaujolais wine country.\n\n**Rooms & rates:** Rooms from about €111 per night, all within the restored hunting lodge building.\n\n**On-site:** Sun terrace, garden, year-round outdoor pool, bike hire, paid shuttle service.\n\n**Good to know:** A family-owned property for generations — a genuinely historic former hunting lodge rather than a grand château, with a more intimate, rustic character.\n\n**Combine with:** Lyon and the Beaujolais wine route, both within reach.",
     "source": "user-provided",
-    "sourced_date": "2026-10-06"
+    "sourced_date": "2026-10-06",
+    "star_category": 3
   }
 }

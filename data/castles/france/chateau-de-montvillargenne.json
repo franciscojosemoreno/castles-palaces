@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 119,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Gouvieux, near Chantilly, Oise — within easy reach of Paris.\n\n**Rooms & rates:** 119 rooms and suites from about €156 per night; 80 are within the 1913 château, the remaining 39 across two separate estate buildings. Specify a château room at booking if staying in the historic structure matters to you.\n\n**On-site:** 6 hectares of parkland, spa, restaurant, event and meeting facilities.\n\n**Good to know:** Billed as the largest château hotel in France — a genuine early-20th-century Rothschild-family château, but with the majority of its scale coming from two later, non-historic building additions rather than the original structure alone.\n\n**Combine with:** Château de Chantilly and the Chantilly forest, both nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-10-05"
+    "sourced_date": "2026-10-05",
+    "star_category": 4
   }
 }

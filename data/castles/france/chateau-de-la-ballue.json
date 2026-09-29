@@ -81,10 +81,13 @@
     "currency": "EUR",
     "room_count": 5,
     "room_location": "castle",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Bazouges-la-Pérouse, Ille-et-Vilaine — about 30km from Mont Saint-Michel, in Brittany.\n\n**Rooms & rates:** Only 5 rooms, all within the historic 17th-century château, from €230/night.\n\n**On-site:** Classified \"remarkable garden\" — a restored 1620s formal garden reinterpreted with a contemporary baroque design of perspective and light and shadow, one of Brittany's most celebrated private gardens.\n\n**Good to know:** With only 5 rooms, this is one of the smallest and most intimate properties in the France catalog — book well ahead.\n\n**Combine with:** Mont Saint-Michel, about 30km away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 4
   }
 }

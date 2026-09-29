@@ -79,10 +79,15 @@
     "currency": "EUR",
     "room_count": 16,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** At the heart of the Gorges du Tarn, beside the river, between limestone cliffs and forest.\n\n**Rooms & rates:** 16 rooms — 10 in the 15th-century château, 6 in the separate \"La Maison Martine\" annex; from about €150 per night.\n\n**On-site:** Spa, gym, private beach, helipad, restaurant.\n\n**Good to know:** The château's architecture imitates a defensive medieval castle but never was one — built in 1490 as a \"vanity castle\" for comfort and appearance; 6 of the 16 rooms are in the separate annex, not the historic building.\n\n**Combine with:** Sainte-Énimie (10 min), canoeing the Gorges du Tarn.",
     "source": "user-provided",
-    "sourced_date": "2026-09-30"
+    "sourced_date": "2026-09-30",
+    "star_category": 4
   }
 }

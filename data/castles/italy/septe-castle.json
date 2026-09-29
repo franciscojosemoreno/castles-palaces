@@ -82,10 +82,14 @@
     "currency": "EUR",
     "room_count": 49,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests and events (weddings).",
     "how_to_stay": "**Getting there:** About 15 minutes from Lanciano and 30 minutes from Chieti by car; Pescara's Abruzzo Airport (PSR) is about 40 minutes away.\n\n**Rooms & rates:** 49 rooms in total: most within the castle, including the \"superior\" rooms in the historic towers themselves; a junior suite and 2 additional suites are in an adjacent casale (farmhouse), not the main building. From €109/night.\n\n**On-site:** Restaurant, wedding and event space, gardens.\n\n**Good to know:** This is a very active wedding venue in Abruzzo — confirm availability if you're looking for a quiet stay on dates with scheduled events.\n\n**Combine with:** Lanciano (~15 min), the Costa dei Trabocchi coastline, and Maiella National Park.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

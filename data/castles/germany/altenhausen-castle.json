@@ -10,8 +10,8 @@
   "region": "Saxony-Anhalt — Altenhausen, near Magdeburg",
   "nearest_city": "Magdeburg",
   "address": "Schlossstraße 1, 39343 Altenhausen, Germany",
-  "lat": 52.1500,
-  "lng": 11.2500,
+  "lat": 52.15,
+  "lng": 11.25,
   "unesco": false,
   "year_built": 1500,
   "architectural_style": "Round medieval core (15th–16th century) with a Renaissance residential wing and a 19th-century neo-Gothic hall with built-in keep; major renovation after an early-19th-century fire (1834)",
@@ -80,10 +80,15 @@
     "currency": "EUR",
     "room_count": 45,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens", "horseback riding"],
+    "amenities": [
+      "restaurant",
+      "gardens",
+      "horseback riding"
+    ],
     "non_guest_access_note": "The former grain store (Alter Speicher) houses the castle restaurant, open to the public, not only guests. Themed events (medieval banquets, Halloween) also draw day visitors.",
     "how_to_stay": "**Getting there:** About 30 minutes by car from Magdeburg; roughly 1h30 from Hannover, 2h from Berlin.\n\n**Rooms & rates:** A mix of DEHOGA-3-star double rooms and youth-hostel-style multi-bed rooms with bunk beds; all rooms have shower/WC. From €69/night; exact room location within the complex (historic core vs. courtyard outbuildings) should be confirmed at booking.\n\n**On-site:** \"Alter Speicher\" restaurant in the former grain store, castle park, horse riding and equestrian holiday programs, event spaces for weddings and civil ceremonies.\n\n**Good to know:** The property runs a genuinely dual identity — hotel/event venue and youth hostel/school-trip destination — so room standard and location can vary significantly by booking category. Confirm directly with the property whether your room is within the historic castle core or in a Wirtschaftshof outbuilding.\n\n**Combine with:** Magdeburg's cathedral and old town are a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-19"
+    "sourced_date": "2026-09-19",
+    "star_category": 3
   }
 }

@@ -10,8 +10,8 @@
   "region": "Rhineland-Palatinate — Kaub, Rhine Gorge, opposite Pfalzgrafenstein Castle",
   "nearest_city": "Bingen",
   "address": "Burg Gutenfels, 56349 Kaub, Germany",
-  "lat": 50.0850,
-  "lng": 7.7620,
+  "lat": 50.085,
+  "lng": 7.762,
   "unesco": true,
   "year_built": 1222,
   "architectural_style": "Staufer-period medieval castle built in 1222 by the Lords of Falkenstein-Münzenberg; hotel again since 2022",
@@ -85,10 +85,14 @@
     "currency": "EUR",
     "room_count": 5,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No regular day-visitor/museum hours — access is mainly through occasional public events (e.g. moonlight tours with wine tasting) or guided Kaub town walks that pass beneath the castle, not a standing ticketed attraction",
     "how_to_stay": "**Getting there:** Kaub, Rhineland-Palatinate, on the Rhine Gorge opposite the Pfalzgrafenstein toll castle.\n\n**Rooms & rates:** All 5 rooms are within the historic castle building itself; the property can also be booked in its entirety for exclusive-use group stays. From roughly €130/night (limited pricing data available — verify against live rate).\n\n**On-site:** Restaurant/bar, gardens.\n\n**Good to know:** Unlike some Rhine Gorge castle-hotels, Gutenfels has no standing day-visitor museum hours — public access is mainly through occasional special events, so day-trippers touring the Rhine Gorge should not expect to simply walk in.\n\n**Combine with:** Pfalzgrafenstein Castle, the toll castle standing on its own island in the middle of the Rhine directly below, visible from Gutenfels.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 3
   }
 }

@@ -84,10 +84,16 @@
     "currency": "EUR",
     "room_count": 46,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "outdoor pool", "gym"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "gym"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** About 3 km from Saint-Émilion village, in the heart of the Saint-Émilion wine appellation; Bordeaux is roughly 40 minutes by car.\n\n**Rooms & rates:** 46 rooms and suites from €200/night, split between the historic château and its outbuildings, set in a 7-acre park by the Dordogne River.\n\n**On-site:** Spa with jacuzzi, two saunas, two hammams, a fitness room, gastronomic restaurant, and outdoor pool.\n\n**Good to know:** A Belle Époque building (1902), not a medieval fortress — the draw here is the architecture and the Saint-Émilion vineyard setting rather than a defensive castle history.\n\n**Combine with:** Saint-Émilion's UNESCO-listed medieval town and its wine estates, a short drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 5
   }
 }

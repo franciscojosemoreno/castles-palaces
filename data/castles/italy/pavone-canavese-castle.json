@@ -11,7 +11,7 @@
   "nearest_city": "Ivrea",
   "address": "Via Castello, 1, 10018 Pavone Canavese TO, Italy",
   "lat": 45.4667,
-  "lng": 7.9000,
+  "lng": 7.9,
   "unesco": false,
   "year_built": 900,
   "architectural_style": "9th-11th century origins; rebuilt in 1888 by architect Alfredo D'Andrade (completed by his son Ruy D'Andrade); declared a national monument in 1981",
@@ -82,10 +82,14 @@
     "currency": "EUR",
     "room_count": 27,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; the castle functions primarily for hotel guests and conference/event attendees.",
     "how_to_stay": "**Getting there:** About 10 minutes from Ivrea and 50 minutes from Turin by car; Turin's Caselle Airport (TRN) is about 45 minutes away.\n\n**Rooms & rates:** 27-28 rooms within the castle, decorated in medieval style, split between super suites, junior suites, doubles and singles. From €159/night.\n\n**On-site:** Restaurant, conference center on the castle's piano nobile (halls for 10-400 people), frescoed halls.\n\n**Good to know:** As the castle also hosts events and conferences, confirm availability if you're looking for a quiet stay on dates with scheduled events.\n\n**Combine with:** Ivrea (a UNESCO World Heritage Site for its Olivetti industrial architecture, ~10 min), the Canavese and its glacial lakes, Turin (~50 min).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

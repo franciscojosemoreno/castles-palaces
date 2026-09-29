@@ -118,10 +118,14 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "source": "user-provided",
     "sourced_date": "2026-10-05",
     "non_guest_access_note": "Château exhibition and tomato conservatory admission covered separately by the existing GYG ticket — see Quick Facts/Visit above.",
-    "how_to_stay": "**Getting there:** Already covered by the How to Visit section above (Tours, 10 km west, via the D751).\n\n**Rooms & rates:** A mix of room types from about €132/night — some within the 16th-century château, others in the separate Pavillon Choiseul (12 rooms/1 apartment) or the Clos building on the grounds.\n\n**On-site:** In addition to the tomato conservatory and gardens described above, the estate's restaurant and Bar à Tomates use produce from the property's over 650 tomato varieties.\n\n**Good to know:** Not all rooms are within the château itself — the Pavillon Choiseul and the Clos are separate buildings on the same estate. The estate now also operates as a boutique 3-star hotel alongside its long-standing visitor attraction.\n\n**Combine with:** [Château de Chenonceau](/castles/france/chateau-de-chenonceau), already listed above as a nearby day-visit pairing."
+    "how_to_stay": "**Getting there:** Already covered by the How to Visit section above (Tours, 10 km west, via the D751).\n\n**Rooms & rates:** A mix of room types from about €132/night — some within the 16th-century château, others in the separate Pavillon Choiseul (12 rooms/1 apartment) or the Clos building on the grounds.\n\n**On-site:** In addition to the tomato conservatory and gardens described above, the estate's restaurant and Bar à Tomates use produce from the property's over 650 tomato varieties.\n\n**Good to know:** Not all rooms are within the château itself — the Pavillon Choiseul and the Clos are separate buildings on the same estate. The estate now also operates as a boutique 3-star hotel alongside its long-standing visitor attraction.\n\n**Combine with:** [Château de Chenonceau](/castles/france/chateau-de-chenonceau), already listed above as a nearby day-visit pairing.",
+    "star_category": 3
   }
 }

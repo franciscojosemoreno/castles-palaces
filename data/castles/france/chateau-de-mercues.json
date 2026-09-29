@@ -11,7 +11,7 @@
   "nearest_city": "Cahors",
   "address": "Route de Cahors, 46090 Mercuès, France",
   "lat": 44.4867,
-  "lng": 1.3450,
+  "lng": 1.345,
   "unesco": false,
   "year_built": 1250,
   "architectural_style": "13th-century fortress built to protect Cahors and the Lot Valley; summer residence of the Counts and Bishops of Cahors for seven centuries; restored from 1983 by winemaker Georges Vigouroux",
@@ -81,10 +81,16 @@
     "currency": "EUR",
     "room_count": 30,
     "room_location": "castle",
-    "amenities": ["restaurant", "winery", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "winery",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "Wine tastings and cellar visits are part of the working estate experience, offered alongside the hotel stay rather than as a fully independent day-visit product.",
     "how_to_stay": "**Getting there:** 10 minutes north of Cahors by car, in the Lot Valley of Occitanie; Toulouse-Blagnac airport is roughly 1h15 away.\n\n**Rooms & rates:** 30 rooms and suites inside the historic château, from €270/night — many set in the fortress's original towers with valley and vineyard views.\n\n**On-site:** Working wine estate with an underground aging cellar built into the château's gardens, gourmet restaurant, outdoor pool, and vineyard grounds overlooking the Lot River.\n\n**Good to know:** A working vineyard property — wine tastings and cellar visits are part of the experience, not just an add-on.\n\n**Combine with:** Cahors' medieval old town and the Pont Valentré, 10 minutes away; the wider Lot Valley wine route.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 4
   }
 }

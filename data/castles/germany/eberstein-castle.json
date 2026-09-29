@@ -10,8 +10,8 @@
   "region": "Baden-Württemberg — Gernsbach (Obertsrot), Murgtal",
   "nearest_city": "Baden-Baden",
   "address": "Schloss Eberstein 1, 76593 Gernsbach, Germany",
-  "lat": 48.7690,
-  "lng": 8.3390,
+  "lat": 48.769,
+  "lng": 8.339,
   "unesco": false,
   "year_built": 1272,
   "architectural_style": "Medieval fortress founded 1272; hotel occupies an adjacent 17th–19th-century manor building rather than the castle itself; privately restored since 2000",
@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": 15,
     "room_location": "annex",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "The castle tavern (Schlossschänke) and the Michelin-starred restaurant are open to non-resident diners by reservation. No standing ticketed museum/tour product was found — access beyond dining is for hotel guests.",
     "how_to_stay": "**Getting there:** In Obertsrot, part of Gernsbach, in the Murg valley (Murgtal), Baden-Württemberg; about 20 minutes from Baden-Baden and 30 minutes from Karlsruhe by car.\n\n**Rooms & rates:** From approx. €189/night, rising to roughly €250+ for larger rooms and suites (verify against live rate). Rooms are in the adjacent manor building, not the medieval castle itself — some overlook the historic castle courtyard.\n\n**On-site:** Michelin-starred restaurant, castle tavern (Schlossschänke), vineyard-view terrace.\n\n**Good to know:** This is a case where the hotel rooms are not within the historic castle structure — the medieval Eberstein fortress itself is the dining and scenic centerpiece of the estate rather than the guest accommodation.\n\n**Combine with:** Baden-Baden's spa town centre and the northern Black Forest (Schwarzwald) hiking trails, both a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-18"
+    "sourced_date": "2026-09-18",
+    "star_category": 4
   }
 }

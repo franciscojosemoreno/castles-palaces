@@ -80,10 +80,15 @@
     "currency": "EUR",
     "room_count": 56,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Montbazon, Indre-et-Loire, in the Touraine section of the Loire Valley.\n\n**Rooms & rates:** 56 rooms from about €162 per night, split between the château itself and two separate buildings on the estate — the Pavillon d'Ariane and the Cité des Parfums. Specify a château room at booking if that's the priority.\n\n**On-site:** Spa, gastronomic restaurant, French formal garden, Indre valley views — a founding property of the Relais & Châteaux group.\n\n**Good to know:** A genuinely important property in hospitality history — the château that helped found the Relais & Châteaux chain in 1975 — but not all rooms are within the historic building itself; the estate spans three separate structures.\n\n**Combine with:** Tours and the wider Loire Valley château circuit.",
     "source": "user-provided",
-    "sourced_date": "2026-10-05"
+    "sourced_date": "2026-10-05",
+    "star_category": 5
   }
 }

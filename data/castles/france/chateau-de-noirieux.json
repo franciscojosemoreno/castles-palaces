@@ -10,7 +10,7 @@
   "region": "Anjou — Briollay, Maine-et-Loire",
   "nearest_city": "Angers",
   "address": "26 Route du Moulin, 49125 Briollay, France",
-  "lat": 47.5500,
+  "lat": 47.55,
   "lng": -0.4667,
   "unesco": false,
   "year_built": 1250,
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 19,
     "room_location": "mixed",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Briollay, Maine-et-Loire — in the heart of Anjou, near Angers, overlooking the Loir Valley.\n\n**Rooms & rates:** 19 rooms and suites from €175/night, split between the historic château and a separate manor building on the estate.\n\n**On-site:** Outdoor pool, gourmet restaurant, chapel, orangery, 9-hectare park.\n\n**Good to know:** A Historic Monument since 1990 — the estate's chapel and orangery are part of the same ensemble as the guest rooms, giving the whole property a cohesive historic feel even though rooms are split across two buildings.\n\n**Combine with:** Angers and its castle (Château d'Angers, with the Apocalypse Tapestry), a short drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-28"
+    "sourced_date": "2026-09-28",
+    "star_category": 4
   }
 }

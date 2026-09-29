@@ -10,8 +10,8 @@
   "region": "Tuscany — Tavarnelle Val di Pesa, Florence Province, Chianti",
   "nearest_city": "Florence",
   "address": "Strada Spicciano, 7, 50028 Tavarnelle Val di Pesa FI, Italy",
-  "lat": 43.5350,
-  "lng": 11.1650,
+  "lat": 43.535,
+  "lng": 11.165,
   "unesco": false,
   "year_built": 1100,
   "architectural_style": "12th-century countryside residence of the noble Del Nero family, later the Torrigiani estate; restored and operated as a COMO Hotels luxury property from the early 2000s",
@@ -83,10 +83,16 @@
     "currency": "EUR",
     "room_count": 50,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "winery", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "winery",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product was found; functions as a private hotel, spa and restaurant (COMO Hotels brand).",
     "how_to_stay": "**Getting there:** About 20 minutes by car from central Florence; roughly 30 minutes from Siena.\n\n**Rooms & rates:** 50 rooms and suites (19 Estate rooms, 13 Tavarnelle rooms, 10 Tavarnelle suites, 3 Heritage suites) spread across the historic castle, former farm buildings, and the separate \"Belvedere\" dependance. From €731/night.\n\n**On-site:** Michelin-starred restaurant \"La Torre\" (in the former stables), \"La Taverna\" (in the old kitchen), spa, wine tasting, gardens.\n\n**Good to know:** Room location varies significantly by category — Estate and Heritage rooms are within the historic core, while some suites are in the Belvedere dependance; specify a preference at booking if staying inside the original castle matters to you.\n\n**Combine with:** The Chianti wine region and the city of Florence, both a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-21"
+    "sourced_date": "2026-09-21",
+    "star_category": 5
   }
 }

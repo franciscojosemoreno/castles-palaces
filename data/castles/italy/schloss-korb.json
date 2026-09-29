@@ -10,8 +10,8 @@
   "region": "South Tyrol (Alto Adige) — Missiano, Appiano sulla Strada del Vino (Eppan), Bolzano Province",
   "nearest_city": "Bolzano",
   "address": "Via Castel d'Appiano, 25, 39057 Appiano sulla Strada del Vino BZ, Italy",
-  "lat": 46.4600,
-  "lng": 11.2450,
+  "lat": 46.46,
+  "lng": 11.245,
   "unesco": false,
   "year_built": 1236,
   "architectural_style": "Residential tower built in 1236 by the von Korb lords; restored and expanded in 1834 by Johann von Putzer (a chapel added); acquired by the Tessmann family in 1877; owned by the Dellago family since 1918",
@@ -82,10 +82,16 @@
     "currency": "EUR",
     "room_count": 50,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "winery", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "winery",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** About 15 minutes from Bolzano and 10 minutes from Appiano by car; Bolzano Airport (BZO) is about 20 minutes away.\n\n**Rooms & rates:** 50 rooms, no two alike; the best (with the most vineyard views) are in the tower and historic building; a separate modern annex behind the main building offers additional rooms with balconies. From €172/night.\n\n**On-site:** Gourmet restaurant, indoor heated pool and library (in the annex), own winery among vineyards and orchards.\n\n**Good to know:** If you want the full historic experience, book specifically a room in the tower or original building, not the modern annex.\n\n**Combine with:** Appiano and South Tyrol's Wine Route, Bolzano (~15 min), Lake Caldaro (~20 min).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

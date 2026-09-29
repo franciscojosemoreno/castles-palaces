@@ -10,8 +10,8 @@
   "region": "Bourgogne-Franche-Comté — Island, Pontaubert, Yonne, between Avallon and Vézelay",
   "nearest_city": "Avallon",
   "address": "1 Rue du Château, 89200 Pontaubert, France",
-  "lat": 47.5300,
-  "lng": 3.8700,
+  "lat": 47.53,
+  "lng": 3.87,
   "unesco": false,
   "year_built": 1450,
   "architectural_style": "An authentic 15th-century château at the transition from late-medieval to early-Renaissance architecture, set in the Morvan Regional Natural Park",
@@ -83,10 +83,14 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** Between Avallon and Vézelay in Burgundy's Yonne department, within the Morvan Regional Natural Park; about 3.5-4 hours from Paris by car.\n\n**Rooms & rates:** From €150/night — standard and superior rooms in the 15th-century main château, plus a separate Maison du Cocher (coachman's house) apartment with terrace.\n\n**On-site:** Gastronomic restaurant and bar, park with outdoor seating, seminar/conference facilities, snooker table.\n\n**Good to know:** Seasonal — typically open 1 May to early November only; check dates before booking. The Maison du Cocher apartment is a separate building from the historic château.\n\n**Combine with:** The Basilica of Vézelay (UNESCO World Heritage), a short drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 3
   }
 }

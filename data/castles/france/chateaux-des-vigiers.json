@@ -79,10 +79,15 @@
     "currency": "EUR",
     "room_count": 65,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 30 minutes from Bergerac airport, about 1h30 from Bordeaux, at the heart of the Périgord-Dordogne wine country.\n\n**Rooms & rates:** 65 rooms split between the 16th-century château (25 rooms) and the Relais, a modern building beside the golf course (40 rooms); from about €156 per night.\n\n**On-site:** A 27-hole golf course, among the top 10 in southwest France; Les Fresques restaurant in the château itself (Michelin star 2014-2017); spa.\n\n**Good to know:** Only 25 of the 65 rooms are in the 16th-century building — most of the inventory is in the Relais, a modern building beside the golf course; guests wanting the château specifically should book that category.\n\n**Combine with:** Bergerac (30 min), Saint-Émilion (1h).",
     "source": "user-provided",
-    "sourced_date": "2026-09-30"
+    "sourced_date": "2026-09-30",
+    "star_category": 4
   }
 }

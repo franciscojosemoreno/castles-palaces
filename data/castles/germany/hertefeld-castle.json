@@ -10,8 +10,8 @@
   "region": "North Rhine-Westphalia — Weeze, on the River Niers, near the Dutch border",
   "nearest_city": "Kleve",
   "address": "Hertefeld 1, 47652 Weeze, Germany",
-  "lat": 51.5220,
-  "lng": 6.1930,
+  "lat": 51.522,
+  "lng": 6.193,
   "unesco": false,
   "year_built": 1322,
   "architectural_style": "First mentioned as a manor house in 1322, converted into a moated castle in 1700, destroyed in 1945, rebuilt from the ruins from 2005",
@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": 24,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "Marketed as 'the only inhabitable castle ruin in the country' — only 6 of the 24 rooms are around the castle building itself (including a Turmzimmer/tower room); the remaining 18 are in the Hertefeldhof guesthouse on the same grounds",
     "how_to_stay": "**Getting there:** Weeze, North Rhine-Westphalia, on the River Niers near the Dutch border.\n\n**Rooms & rates:** Only 6 of the 24 rooms — including a tower room (Turmzimmer) — are around the rebuilt castle building itself; the remaining 18 rooms are in the Hertefeldhof, a separate guesthouse on the same grounds. From €99/night (the official site also quotes rates from €46 per person on a half-board basis — this per-room figure reflects standard double-occupancy Booking.com pricing).\n\n**On-site:** Restaurant, gardens.\n\n**Good to know:** If sleeping inside the actual castle structure is the priority, specify one of the 6 castle-adjacent rooms (or the tower room) explicitly — the majority of the property's rooms are in the separate Hertefeldhof guesthouse.\n\n**Combine with:** The Dutch border towns just across the frontier, an easy day trip.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 4
   }
 }

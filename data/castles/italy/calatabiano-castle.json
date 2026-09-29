@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 30,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** About 15 minutes from Taormina and 45 minutes from Catania by car; Catania's Fontanarossa Airport (CTA) is about 40 minutes away. There is a train station in Calatabiano on the Messina-Catania line.\n\n**Rooms & rates:** About 30 rooms spread between the castle and its park; the De Luxe Suites are in the estate's former winemakers' residence, a historic building adjacent to the castle rather than in the main tower. From €180/night.\n\n**On-site:** Spa, outdoor pool, gardens/park with Etna views, restaurant.\n\n**Good to know:** A quieter, more affordable alternative to staying in Taormina itself, with quick car or train access to the town.\n\n**Combine with:** Taormina and its Ancient Theatre (~15 min), Mount Etna excursions and cable car, and the Alcantara Gorges (~20 min).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

@@ -79,10 +79,15 @@
     "currency": "EUR",
     "room_count": 14,
     "room_location": "castle",
-    "amenities": ["outdoor pool", "spa", "gardens"],
+    "amenities": [
+      "outdoor pool",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 5 minutes from Rodez, in Onet-le-Château, Aveyron.\n\n**Rooms & rates:** 14-15 rooms within the château, plus a separate apartment and luxury tree-house; from about €224 per night.\n\n**On-site:** Pool in the orchard, spa with jacuzzi and sauna, the estate's own vineyard, traditional cuisine.\n\n**Good to know:** The main accommodation product is the rooms within the château itself; the tree-house is a separate, minor experience, not representative of the standard stay.\n\n**Combine with:** Rodez and its Gothic cathedral (5 min).",
     "source": "user-provided",
-    "sourced_date": "2026-09-30"
+    "sourced_date": "2026-09-30",
+    "star_category": 4
   }
 }

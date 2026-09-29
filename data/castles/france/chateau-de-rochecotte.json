@@ -10,8 +10,8 @@
   "region": "Loire Valley — Saint-Patrice, Coteaux-sur-Loire, Indre-et-Loire",
   "nearest_city": "Tours",
   "address": "43 Rue Anatole France, Saint-Patrice, 37130 Coteaux-sur-Loire, France",
-  "lat": 47.3500,
-  "lng": 0.3500,
+  "lat": 47.35,
+  "lng": 0.35,
   "unesco": false,
   "year_built": 1786,
   "architectural_style": "A late-18th-century château on a site used as a military stronghold during the Hundred Years' War; recognized as a National Historical Monument in 1948; restored from 1984 by the Pasquier family",
@@ -82,10 +82,14 @@
     "currency": "EUR",
     "room_count": 37,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Saint-Patrice, part of Coteaux-sur-Loire, Indre-et-Loire — close to Langeais, Villandry, Azay-le-Rideau and Ussé, and the Saint-Nicolas-de-Bourgueil vineyards.\n\n**Rooms & rates:** 37 rooms and suites from €149/night, all within the historic 18th-century château; the Rochecotte Suite is an 80m² residence with valley views.\n\n**On-site:** Gourmet restaurant, and a panoramic setting over the surrounding vineyards.\n\n**Good to know:** Talleyrand connection — his niece, the Duchess de Dino, made this her residence in 1828, and the hotel keeps that history alive in its décor and story.\n\n**Combine with:** Châteaux of Langeais, Villandry, Azay-le-Rideau and Ussé, all nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 4
   }
 }

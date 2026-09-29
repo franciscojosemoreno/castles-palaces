@@ -81,10 +81,15 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "castle",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** At the top of the medieval old town of Les Arcs-sur-Argens, with panoramic views over the Maures mountain range.\n\n**Rooms & rates:** Rooms within the 13th-century château, including its preserved historic dungeon; from about €143 per night.\n\n**On-site:** Restaurant serving local, seasonal cuisine with regional wines, sun terrace, garden, seasonal outdoor pool.\n\n**Good to know:** A small, accessible château in the same Var region as Château de Berne (they share a Booking.com search reference but are distinct properties in different villages).\n\n**Combine with:** Château de Berne (20 min), medieval Les Arcs-sur-Argens.",
     "source": "user-provided",
-    "sourced_date": "2026-10-01"
+    "sourced_date": "2026-10-01",
+    "star_category": 4
   }
 }

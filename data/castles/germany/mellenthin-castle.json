@@ -10,8 +10,8 @@
   "region": "Mecklenburg-Vorpommern — Mellenthin, island of Usedom, Baltic Sea",
   "nearest_city": "Heringsdorf",
   "address": "Schlossstraße 24, 17419 Mellenthin, Germany",
-  "lat": 53.9420,
-  "lng": 14.1380,
+  "lat": 53.942,
+  "lng": 14.138,
   "unesco": false,
   "year_built": 1575,
   "architectural_style": "Renaissance moated water castle (Wasserschloss), built 1575–1580 for Rüdiger von Nienkerken",
@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": 68,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa"],
+    "amenities": [
+      "restaurant",
+      "spa"
+    ],
     "non_guest_access_note": "The right wing of the castle (historic vaults) houses the castle's own brewery/distillery and the castle shop, both open to the general public, not just hotel guests.",
     "how_to_stay": "**Getting there:** About 30–40 minutes by car from Heringsdorf/Usedom airport or from the Usedom rail line (nearest station Ahlbeck or Bansin, then taxi); roughly 1h45 from Stettin (Szczecin), Poland.\n\n**Rooms & rates:** 68 individually designed rooms and suites in the left wing of the castle, including family rooms for up to four and self-catering apartments with kitchenettes. From €93/night.\n\n**On-site:** Wellness/spa area, castle restaurant, own brewery and distillery in the historic vaults, castle shop, family-friendly rooms.\n\n**Good to know:** The brewery, distillery and shop in the right wing are open to day visitors as well as hotel guests, so the castle has a genuine public-facing side beyond the hotel itself.\n\n**Combine with:** Usedom's Baltic beach resorts (Ahlbeck, Heringsdorf, Bansin) and their historic pier architecture are a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-19"
+    "sourced_date": "2026-09-19",
+    "star_category": 4
   }
 }

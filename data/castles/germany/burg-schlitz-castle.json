@@ -10,8 +10,8 @@
   "region": "Mecklenburg-Vorpommern — Hohen Demzin, Mecklenburgische Schweiz",
   "nearest_city": "Teterow",
   "address": "Burg Schlitz 1, 17166 Hohen Demzin, Germany",
-  "lat": 53.7830,
-  "lng": 12.6080,
+  "lat": 53.783,
+  "lng": 12.608,
   "unesco": false,
   "year_built": 1824,
   "architectural_style": "Classical three-wing manor house completed in 1824, in the Mecklenburgische Schweiz region",
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 20,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "estate_walks"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "estate_walks"
+    ],
     "non_guest_access_note": "The 180-hectare Landschaftspark Burg Schlitz (English landscape park) surrounding the castle is open to the public, free of charge, for walking and hiking — it contains 36 historic monuments, follies, grottoes, and a neo-Gothic chapel (1822). Guided park walks and horse-drawn carriage rides are also available. This is a genuine, strong day-visitor draw independent of the hotel.",
     "how_to_stay": "**Getting there:** In Hohen Demzin, Mecklenburg-Vorpommern — about 30 minutes by car from Teterow or Waren (Müritz), and roughly 1.5 hours from Rostock. No direct rail access; a car is effectively required.\n\n**Rooms & rates:** From approx. €169/night depending on season and room category (verify against live rate; sources vary).\n\n**On-site:** Restaurant, spa, and the surrounding 180-hectare landscape park with guided walks and horse-drawn carriage rides; free wifi and parking included.\n\n**Good to know:** This is Burg Schlitz in Hohen Demzin, Mecklenburg — not the town of Schlitz in Hesse. All 20 rooms are within the historic manor house itself; there is no separate annex.\n\n**Combine with:** The Mecklenburg Lake District (Mecklenburgische Seenplatte) and the town of Teterow; the park itself is a worthwhile stop even for visitors not staying overnight.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 5
   }
 }

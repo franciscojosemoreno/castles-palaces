@@ -10,8 +10,8 @@
   "region": "Saxony — Chemnitz (Rabenstein district)",
   "nearest_city": "Chemnitz",
   "address": "Schlossberg, 09117 Chemnitz, Germany",
-  "lat": 50.7730,
-  "lng": 12.8360,
+  "lat": 50.773,
+  "lng": 12.836,
   "unesco": false,
   "year_built": 1776,
   "architectural_style": "Baroque palace built in 1776, fully renovated in 2011, in the Rabenstein district of Chemnitz",
@@ -84,10 +84,14 @@
     "currency": "EUR",
     "room_count": 15,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "Sits directly beside a public park with a pond, freely open to non-guests for walks — exact opening hours/admission for the wider grounds not confirmed, verify before publishing a specific claim",
     "how_to_stay": "**Getting there:** Rabenstein district, Chemnitz, Saxony.\n\n**Rooms & rates:** All 15 rooms (3 single, 12 double) are within the 1776 Baroque palace building itself, renovated in 2011 with modern interiors behind the historic facade. From €108/night.\n\n**On-site:** Restaurant, bar, garden, terrace.\n\n**Good to know:** This is a compact, urban-adjacent property rather than an isolated countryside estate — the appeal is the Baroque building and its parkland setting within easy reach of Chemnitz itself, not remoteness. Not to be confused with Rabenstein Castle in Bavaria, an entirely separate medieval castle that happens to share the same place-name.\n\n**Combine with:** Chemnitz city centre and its industrial-heritage museums, a short drive or public transport ride away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 4
   }
 }

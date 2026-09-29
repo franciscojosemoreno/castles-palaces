@@ -10,8 +10,8 @@
   "region": "Étoges, Marne (Champagne, Grand Est)",
   "nearest_city": "Épernay",
   "address": "Rue de Vertus, 51270 Étoges, France",
-  "lat": 48.8500,
-  "lng": 3.9000,
+  "lat": 48.85,
+  "lng": 3.9,
   "unesco": false,
   "year_built": 1620,
   "architectural_style": "Built in the early 17th century as a royal staging post on the eastern route, listed as a historic monument, set within a 20-hectare park with a moat, terrace and fountains",
@@ -79,10 +79,15 @@
     "currency": "EUR",
     "room_count": 28,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** At the heart of the Champagne region, near Épernay, 90 minutes from Paris.\n\n**Rooms & rates:** 28-29 rooms split between the 17th-century château and its Orangery; from about €199 per night.\n\n**On-site:** Gastronomic restaurant, spa with eco-friendly treatments, 20-hectare park with fountains, kitchen garden.\n\n**Good to know:** A listed historic monument that once hosted kings of France — some rooms are in the Orangery, a separate building within the same walled estate.\n\n**Combine with:** Épernay and the Champagne houses (30 min), Reims (1h).",
     "source": "user-provided",
-    "sourced_date": "2026-10-02"
+    "sourced_date": "2026-10-02",
+    "star_category": 4
   }
 }

@@ -80,10 +80,14 @@
     "currency": "EUR",
     "room_count": 10,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** About 15 minutes from Acquapendente and 1 hour from Orvieto by car; the closest airport is Rome-Fiumicino (~1h45) or Perugia (~1h15). A rural area — a car is recommended.\n\n**Rooms & rates:** 10 units (4 apartments, 3 suites, 3 rooms) within the castle's walled enclosure; the 3 rooms — Caciaia, Collinella and Poggiolo — occupy one of the original defensive towers. From €130/night.\n\n**On-site:** Restaurant, hanging garden, tastings of local Tuscia products, musical and cultural events.\n\n**Good to know:** As an \"albergo diffuso,\" the different units have slightly different access and character within the same enclosure — worth checking the exact location of each room type when booking.\n\n**Combine with:** Acquapendente (~15 min), Lake Bolsena (~30 min), Orvieto (~1h), and Pitigliano in neighboring Tuscany (~40 min).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 3
   }
 }

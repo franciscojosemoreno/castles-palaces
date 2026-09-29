@@ -10,8 +10,8 @@
   "region": "Saxony — Bertsdorf-Hörnitz, near Zittau, Oberlausitz",
   "nearest_city": "Zittau",
   "address": "Am Schlosspark 3, 02747 Bertsdorf-Hörnitz, Germany",
-  "lat": 50.8850,
-  "lng": 14.7550,
+  "lat": 50.885,
+  "lng": 14.755,
   "unesco": false,
   "year_built": 1670,
   "architectural_style": "Built more than 350 years ago by Christian von Hartig; old Renaissance building and tower with a modern park-side extension",
@@ -81,10 +81,15 @@
     "currency": "EUR",
     "room_count": 75,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "Both on-site restaurants, with terraces, are open to non-resident diners. No confirmed standing museum or ticketed tour product was found relating to the castle's alchemy/porcelain-research history — the 30,000m2 park appears to function primarily as hotel grounds rather than a separately ticketed public attraction.",
     "how_to_stay": "**Getting there:** In Bertsdorf-Hörnitz, near Zittau, Oberlausitz, Saxony, close to the Polish and Czech borders; about 90 minutes from Dresden by car.\n\n**Rooms & rates:** From approx. €99/night, ranging up to roughly €150+ for suites and peak dates (verify against live rate). Suites and deluxe castle rooms are in the old Renaissance building and tower; Classic and Deluxe rooms are in a modern park-side extension.\n\n**On-site:** Two restaurants with terraces, bar, wellness area (from autumn 2024), 30,000m² park.\n\n**Good to know:** Specify a castle room or suite in the old Renaissance building if sleeping in the historic part of the property is the priority — many of the property's rooms are in the newer park-side extension.\n\n**Combine with:** The town of Zittau and the \"Zittau Mountains\" (Zittauer Gebirge), plus the nearby Dreiländereck (three-country point) where Germany, Poland and the Czech Republic meet.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-18"
+    "sourced_date": "2026-09-18",
+    "star_category": 4
   }
 }

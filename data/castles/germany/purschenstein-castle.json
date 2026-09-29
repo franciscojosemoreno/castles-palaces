@@ -10,8 +10,8 @@
   "region": "Saxony — Neuhausen/Erzgebirge, Ore Mountains",
   "nearest_city": "Freiberg",
   "address": "Schloss Purschenstein, 09544 Neuhausen/Erzgebirge, Germany",
-  "lat": 50.7280,
-  "lng": 13.4720,
+  "lat": 50.728,
+  "lng": 13.472,
   "unesco": false,
   "year_built": 1150,
   "architectural_style": "12th-century toll and escort castle, converted into a Renaissance castle by the von Schönberg family in the 15th century",
@@ -84,10 +84,14 @@
     "currency": "EUR",
     "room_count": 46,
     "room_location": "mixed",
-    "amenities": ["restaurant", "estate_walks"],
+    "amenities": [
+      "restaurant",
+      "estate_walks"
+    ],
     "non_guest_access_note": "The Kammweg Erzgebirge-Vogtland, a well-known long-distance hiking trail, runs directly through the castle park, giving free public access to the grounds. No confirmed separate ticketed museum or tower-visit product was found for non-guests.",
     "how_to_stay": "**Getting there:** In Neuhausen/Erzgebirge, Ore Mountains, Saxony; about 30 minutes from Freiberg and an hour from Dresden by car.\n\n**Rooms & rates:** From approx. €101/night, rising toward €150+ for suites and peak dates (verify against live rate). Rooms are split across three separate historic buildings — the castle, the Remise carriage house, and the Rentamt tax office.\n\n**On-site:** Restaurant, wellness/spa area, historic 42-metre keep.\n\n**Good to know:** Specify the main castle building at booking if sleeping inside the historic 15th-century structure itself is the priority — the Remise and Rentamt rooms are genuinely part of the historic estate but in separate buildings.\n\n**Combine with:** The wider Erzgebirge (Ore Mountains) hiking network via the Kammweg trail, which runs directly through the castle grounds.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-18"
+    "sourced_date": "2026-09-18",
+    "star_category": 4
   }
 }

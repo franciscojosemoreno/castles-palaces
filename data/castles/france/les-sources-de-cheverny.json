@@ -10,7 +10,7 @@
   "region": "Cheverny, Loir-et-Cher (Centre-Val de Loire)",
   "nearest_city": "Cheverny",
   "address": "Route de Cheverny, 41700 Cheverny, France",
-  "lat": 47.5000,
+  "lat": 47.5,
   "lng": 1.4667,
   "unesco": false,
   "year_built": 1780,
@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 49,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 2 hours from Paris; 10 minutes from the famous Château de Cheverny, in the heart of the Loire Valley vineyards.\n\n**Rooms & rates:** 49 rooms and suites spread between the 18th-century château, restored farm buildings, and new lakeside cabins, from about €250 to €500+ per night.\n\n**On-site:** Caudalie spa, Michelin-starred restaurant, the estate's own vineyard (producing La Grand Vigne wine), 45 hectares of private forest.\n\n**Good to know:** Only a portion of the 49 rooms are in the original manor-style château — most of the inventory is new Scandinavian-style cabins or restored farm buildings; guests wanting the château experience specifically should book a Junior Suite in the historic building.\n\n**Combine with:** Château de Cheverny (10 min) — the real-life inspiration for Marlinspike Hall in Tintin.",
     "source": "user-provided",
-    "sourced_date": "2026-09-29"
+    "sourced_date": "2026-09-29",
+    "star_category": 5
   }
 }

@@ -10,8 +10,8 @@
   "region": "Veneto — Bevilacqua, Verona Province",
   "nearest_city": "Verona",
   "address": "Corso Principe Amedeo, 3, 37040 Bevilacqua VR, Italy",
-  "lat": 45.2470,
-  "lng": 11.3260,
+  "lat": 45.247,
+  "lng": 11.326,
   "unesco": false,
   "year_built": 1336,
   "architectural_style": "Built 1336 as a Scaligeri fortress; transformed into a villa by architect Michele Sanmicheli from 1532; Neo-Gothic remodeling in 1860",
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 14,
     "room_location": "castle",
-    "amenities": ["restaurant", "museum", "gardens"],
+    "amenities": [
+      "restaurant",
+      "museum",
+      "gardens"
+    ],
     "non_guest_access_note": "The castle has a genuine, independent day-visit product: open to the public daily 9:30-18:30 (self-guided museum route, ~30 minutes, €5 adults), with guided tours Sundays 10:30-11:30 (€10 adults) covering the castle's 700-year history.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Montagnana's walled old town; roughly 45 minutes from Verona and 1h from Padua.\n\n**Rooms & rates:** Just 14 rooms total (7 \"dream scenes\" plus 7 junior suites), all within the historic castle building itself. From €149/night.\n\n**On-site:** Restaurant, on-site museum route (self-guided daily, guided Sundays), gardens, 16 event halls with period furnishings.\n\n**Good to know:** This is a genuinely small property — only 14 rooms — so it books up quickly, especially around weddings and events; the castle's museum route is open to day visitors independent of a hotel stay.\n\n**Combine with:** The walled Renaissance town of Montagnana, a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-21"
+    "sourced_date": "2026-09-21",
+    "star_category": 4
   }
 }

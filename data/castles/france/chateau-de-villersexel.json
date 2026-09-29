@@ -10,7 +10,7 @@
   "region": "Villersexel, Haute-Saône (Franche-Comté, Bourgogne-Franche-Comté)",
   "nearest_city": "Besançon",
   "address": "Rue du Château, 70110 Villersexel, France",
-  "lat": 47.5500,
+  "lat": 47.55,
   "lng": 6.4333,
   "unesco": false,
   "year_built": 1887,
@@ -81,10 +81,13 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "castle",
-    "amenities": ["restaurant"],
+    "amenities": [
+      "restaurant"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests. The château also offers guided tours and event room rentals (25-150 people).",
     "how_to_stay": "**Getting there:** In Villersexel, Haute-Saône, Franche-Comté.\n\n**Rooms & rates:** Rooms within the château, with the owning baron as host; from about €162 per night.\n\n**On-site:** Guided tours of the château, event rooms, restaurant.\n\n**Good to know:** A genuinely aristocratic experience — the château remains the residence and property of the baron, who personally welcomes guests.\n\n**Combine with:** Besançon (45 min), Château de Bournel (30 min).",
     "source": "user-provided",
-    "sourced_date": "2026-10-03"
+    "sourced_date": "2026-10-03",
+    "star_category": 3
   }
 }

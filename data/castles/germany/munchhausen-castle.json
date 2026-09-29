@@ -84,9 +84,14 @@
     "currency": "EUR",
     "room_count": 67,
     "room_location": "mixed",
-    "amenities": ["restaurant", "golf", "gardens"],
+    "amenities": [
+      "restaurant",
+      "golf",
+      "gardens"
+    ],
     "how_to_stay": "**Getting there:** Aerzen (Schwöbber), Lower Saxony, near Hamelin (Hameln).\n\n**Rooms & rates:** Roughly half of the 67 rooms and suites are within the historic castle building; the other half are in a remodelled tithe barn (Zehntscheune) across the grounds, linked to the castle by an underground passage. From €205/night.\n\n**On-site:** Restaurant, two 18-hole golf courses, gardens.\n\n**Good to know:** The castle takes its name from the Münchhausen family (built by Hilmar von Münchhausen in 1570) — it is not the childhood home of the famous fabulist 'Baron Münchhausen' (Karl Friedrich Hieronymus von Münchhausen), who was born in nearby Bodenwerder and has no direct connection to this specific building beyond the shared family surname. Specify a castle-building room if sleeping inside the 1570 structure is the priority — the tithe barn rooms are comfortable and connected underground, but reflect a more modern conference-centre style.\n\n**Combine with:** Hamelin (Hameln), the town of the Pied Piper legend, a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 5
   }
 }

@@ -10,8 +10,8 @@
   "region": "Bavaria — Middle Franconia, near Rothenburg ob der Tauber and Ansbach",
   "nearest_city": "Ansbach",
   "address": "Schlossberg 1, 91598 Colmberg, Germany",
-  "lat": 49.3350,
-  "lng": 10.4230,
+  "lat": 49.335,
+  "lng": 10.423,
   "unesco": false,
   "year_built": 1318,
   "architectural_style": "Former Teutonic Order stronghold, documented from at least 1318; local marketing describes it as over 1,000 years old, a promotional rather than documented claim",
@@ -86,10 +86,14 @@
     "currency": "EUR",
     "room_count": 26,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "Courtyard, ramparts viewpoint and outdoor grounds are freely open to the public; the chapel and stables can be visited, group tours by prior arrangement",
     "how_to_stay": "**Getting there:** Colmberg, Middle Franconia, Bavaria, between Rothenburg ob der Tauber and Ansbach.\n\n**Rooms & rates:** All 26 individually furnished rooms — including the Fürstenzimmer, Burgherrenzimmer and a Chinese four-poster wedding suite — are within the historic castle building itself. From €120/night (research estimate — verify against the live Booking.com rate, as the range seen across booking sites was wide).\n\n**On-site:** Restaurant (Franconian cuisine, the castle's own 'Schwarzer Ritter' dark beer), chapel, former royal stables.\n\n**Good to know:** The courtyard and ramparts viewpoint are freely open to the public, so expect day visitors wandering the grounds even as an overnight guest — part of the charm of a castle that never fully closed itself off from the surrounding village.\n\n**Combine with:** Rothenburg ob der Tauber's medieval old town, one of Germany's best-preserved, a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 3
   }
 }

@@ -10,8 +10,8 @@
   "region": "Mecklenburg-Vorpommern — Neustadt-Glewe, Landkreis Ludwigslust-Parchim",
   "nearest_city": "Ludwigslust",
   "address": "Schlossstraße 1, 19306 Neustadt-Glewe, Germany",
-  "lat": 53.3980,
-  "lng": 11.5980,
+  "lat": 53.398,
+  "lng": 11.598,
   "unesco": false,
   "year_built": 1619,
   "architectural_style": "Dutch Baroque palace (Neues Schloss), built 1619–1717, with over 1,600m² of decorative stucco by Italian masters",
@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 37,
     "room_location": "mixed",
-    "amenities": ["restaurant", "bar", "spa"],
+    "amenities": [
+      "restaurant",
+      "bar",
+      "spa"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product for the Baroque palace itself was found; it functions as a private hotel and events venue. (The medieval Alte Burg, a completely separate building in the same town, is not part of this property or covered in this listing.)",
     "how_to_stay": "**Getting there:** About 20 minutes by car from Ludwigslust; roughly 40 minutes from Schwerin and 1h15 from Hamburg.\n\n**Rooms & rates:** 37 rooms in 3 categories (including 3 suites) — Standard rooms in a nearby ancillary building, Superior rooms within the main Baroque palace building itself. From €106/night.\n\n**On-site:** Vaulted restaurant, bar, sauna, 3 event rooms.\n\n**Good to know:** New ownership and a planned full renovation mean the guest experience may be in transition — worth checking current reviews for the latest state before booking.\n\n**Combine with:** Ludwigslust Palace and the Mecklenburg Lake District, both a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-21"
+    "sourced_date": "2026-09-21",
+    "star_category": 4
   }
 }

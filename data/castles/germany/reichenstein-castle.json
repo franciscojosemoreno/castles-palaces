@@ -10,8 +10,8 @@
   "region": "Rhineland-Palatinate — Trechtingshausen, Rhine Gorge (UNESCO)",
   "nearest_city": "Bingen",
   "address": "Burg Reichenstein, 55413 Trechtingshausen, Germany",
-  "lat": 50.0080,
-  "lng": 7.7460,
+  "lat": 50.008,
+  "lng": 7.746,
   "unesco": true,
   "year_built": 1899,
   "architectural_style": "13th-century predecessor building; comprehensively rebuilt 1899–1903 by Baron Nikolaus von Kirsch-Puricelli after centuries as a ruin",
@@ -85,10 +85,14 @@
     "currency": "EUR",
     "room_count": 24,
     "room_location": "annex",
-    "amenities": ["restaurant", "museum"],
+    "amenities": [
+      "restaurant",
+      "museum"
+    ],
     "non_guest_access_note": "Real, well-developed day-visit product: walk-through castle museum with a working bowling alley and a medieval costume dress-up room — see Highlights above",
     "how_to_stay": "**Getting there:** Trechtingshausen, Rhineland-Palatinate, in the Rhine Gorge between Bingen and Bacharach.\n\n**Rooms & rates:** All 24 individually furnished rooms are in a separate hotel building constructed in front of the historic castle and its entrance — not within the medieval castle structure itself. From roughly €278/night (limited pricing data available — verify against live rate).\n\n**On-site:** Restaurant (Puricelli), walk-through castle museum with a working bowling alley and medieval costume room.\n\n**Good to know:** If 'sleeping inside a medieval Rhine castle' is specifically the draw, this isn't quite that — request a river-view room in the hotel building, and treat the genuinely historic castle itself (with its museum and bowling alley) as the day's sightseeing rather than the bedroom.\n\n**Combine with:** Rheinstein Castle, another reconstructed Rhine Gorge castle, a short distance downriver.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 3
   }
 }

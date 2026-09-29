@@ -11,7 +11,7 @@
   "nearest_city": "Pavia",
   "address": "Via Mulino, 1, 27050 Cervesina PV, Italy",
   "lat": 45.1167,
-  "lng": 9.0500,
+  "lng": 9.05,
   "unesco": false,
   "year_built": 1450,
   "architectural_style": "15th-century castle, restored while preserving 18th-century-style halls with frescoes and period furnishings",
@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 45,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "gym"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gym"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** About 15 minutes from Pavia and 1 hour from Milan by car; Milan's Linate Airport (LIN) is about 1h15 away.\n\n**Rooms & rates:** 45 rooms and suites, some on the castle's upper floors, others in restored ground-floor wings overlooking the garden, all within the same historic complex. From €151/night.\n\n**On-site:** Heated indoor pool with a retractable roof, gym, armory, library, stone courtyards.\n\n**Good to know:** A good choice for guests wanting a wellness/spa stay inside a historic building without leaving the property — the old stables are now the fitness area, not guest rooms.\n\n**Combine with:** Pavia (~15 min), the Oltrepò Pavese wine route, Milan (~1h).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-23"
+    "sourced_date": "2026-09-23",
+    "star_category": 4
   }
 }

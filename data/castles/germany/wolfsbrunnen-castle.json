@@ -10,8 +10,8 @@
   "region": "Hesse — Schwebda, Meinhard, Werra-Meißner-Kreis",
   "nearest_city": "Eschwege",
   "address": "Wolfsbrunnen 1, 37276 Meinhard, Germany",
-  "lat": 51.1970,
-  "lng": 10.0350,
+  "lat": 51.197,
+  "lng": 10.035,
   "unesco": false,
   "year_built": 1904,
   "architectural_style": "Neo-Renaissance mansion built 1904–1907; major renovations in 1989 (hotel conversion) and 2009 (roof and tower reconstruction)",
@@ -80,10 +80,14 @@
     "currency": "EUR",
     "room_count": 86,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product was found; access appears limited to guests and restaurant diners.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Eschwege; roughly 1h from Kassel and 1h15 from Göttingen.\n\n**Rooms & rates:** 86 rooms within the single Neo-Renaissance mansion built 1904–1907, no separate annex buildings identified. From €169/night.\n\n**On-site:** Restaurant, gardens around the spring-fed grounds, event spaces.\n\n**Good to know:** The hotel closes for staff holidays for roughly two weeks each summer (19 July–3 August 2026) — verify current-year closure dates before publishing any \"always available\" framing.\n\n**Combine with:** The Werra valley and the historic town of Eschwege are a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-19"
+    "sourced_date": "2026-09-19",
+    "star_category": 4
   }
 }

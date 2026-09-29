@@ -10,8 +10,8 @@
   "region": "North Rhine-Westphalia — Kettwig, Essen, Ruhr valley",
   "nearest_city": "Essen",
   "address": "August-Thyssen-Str. 51, 45219 Essen, Germany",
-  "lat": 51.3660,
-  "lng": 6.9330,
+  "lat": 51.366,
+  "lng": 6.933,
   "unesco": false,
   "year_built": 1647,
   "architectural_style": "17th-century moated Wasserschloss in the Ruhr valley; hotel since 1955",
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 36,
     "room_location": "mixed",
-    "amenities": ["restaurant", "bar", "gardens"],
+    "amenities": [
+      "restaurant",
+      "bar",
+      "gardens"
+    ],
     "non_guest_access_note": "The on-site restaurant is open to the public for dining by reservation. There is no public museum or paid castle-tour product — access beyond the restaurant/grounds is for hotel guests only.",
     "how_to_stay": "**Getting there:** In Kettwig, a district of Essen; roughly 20–25 minutes by car from central Essen, and about 30 minutes from Düsseldorf Airport (DUS). No direct rail access to the door.\n\n**Rooms & rates:** From approx. €239/night, with rates ranging widely up to €700+ for suites and peak dates depending on room type and season (verify against live rate; Essen's 5% city accommodation tax, capped at €9/person/night, applies from August 2025).\n\n**On-site:** Gourmet restaurant, bar, and landscaped moat-side gardens; free wifi and parking included.\n\n**Good to know:** Rooms are split across three separate historic buildings — the castle, the Remise annex, and the Torhaus gatehouse — specify the main castle building if that's important to you.\n\n**Combine with:** Essen's Zollverein Coal Mine (UNESCO World Heritage industrial site) and the Ruhr valley's broader mix of industrial-heritage and historic-estate attractions.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 5
   }
 }

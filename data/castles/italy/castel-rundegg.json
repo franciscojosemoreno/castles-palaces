@@ -10,8 +10,8 @@
   "region": "South Tyrol (Alto Adige) — Merano (Meran), Bolzano Province",
   "nearest_city": "Merano",
   "address": "Via Scena, 2, 39012 Merano BZ, Italy",
-  "lat": 46.6700,
-  "lng": 11.1650,
+  "lat": 46.67,
+  "lng": 11.165,
   "unesco": false,
   "year_built": 1154,
   "architectural_style": "Original core presumed to date to 1154, documented as a simple fortified tower by the 14th century; substantially rebuilt in the 17th century into a noble residence with side towers, gardens, and a crenellated outer wall",
@@ -82,10 +82,16 @@
     "currency": "EUR",
     "room_count": 30,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "outdoor pool", "gym"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "gym"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; this is an adults-only (16+) hotel, with access primarily for guests.",
     "how_to_stay": "**Getting there:** A 10-minute walk from central Merano; Bolzano Airport (BZO) is about 40 minutes away, and Innsbruck Airport (Austria) about 1h30.\n\n**Rooms & rates:** 30 rooms and suites, each individually styled, all within the same historic building expanded in the 17th century. From €259/night.\n\n**On-site:** 500m² wellness area, heated indoor pool, outdoor pool with jacuzzi, Turkish bath and Finnish sauna, gym, restaurant with vegetarian and gluten-free options.\n\n**Good to know:** Adults-only (16 and up) — not suited for families with children.\n\n**Combine with:** Merano's historic center (10-minute walk), Merano's thermal spa facilities, Val Venosta.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-23"
+    "sourced_date": "2026-09-23",
+    "star_category": 4
   }
 }

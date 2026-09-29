@@ -10,8 +10,8 @@
   "region": "Saxony — Loschwitz heights, Dresden, above the Elbe river",
   "nearest_city": "Dresden",
   "address": "Bautzner Str. 134, 01099 Dresden, Germany",
-  "lat": 51.0680,
-  "lng": 13.8090,
+  "lat": 51.068,
+  "lng": 13.809,
   "unesco": false,
   "year_built": 1859,
   "architectural_style": "19th-century Neo-Gothic Elbschloss (Elbe palace), one of three built on the Loschwitz heights above Dresden",
@@ -84,10 +84,15 @@
     "currency": "EUR",
     "room_count": 84,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "The restaurant is open to non-resident diners; the historic park is a popular wedding venue bookable separately from an overnight stay",
     "how_to_stay": "**Getting there:** Loschwitz heights, Dresden, Saxony, above the Elbe river.\n\n**Rooms & rates:** Only 17 \"Exclusiv\" rooms, with views over Dresden, are within the main castle building; the remaining \"Comfort\" rooms are in the Kavalierhaus, a separate historic building about 200 metres away in the same park. From €89/night.\n\n**On-site:** Restaurant, spa/sauna, extensive landscaped park.\n\n**Good to know:** Specify an \"Exclusiv\" room by name when booking if sleeping inside the castle itself is the priority — the far more numerous \"Comfort\" rooms are in the separate Kavalierhaus.\n\n**Combine with:** Dresden's Altstadt (Old Town) and the Frauenkirche, a short drive or tram ride into the city.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 4
   }
 }

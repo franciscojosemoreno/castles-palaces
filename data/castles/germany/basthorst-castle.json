@@ -10,8 +10,8 @@
   "region": "Mecklenburg-Vorpommern — Basthorst, near Crivitz, between Schwerin and the Glambecksee",
   "nearest_city": "Schwerin",
   "address": "Basthorst 1, 19089 Crivitz, Germany",
-  "lat": 53.5850,
-  "lng": 11.6520,
+  "lat": 53.585,
+  "lng": 11.652,
   "unesco": false,
   "year_built": 1823,
   "architectural_style": "1823 manor house (Herrenhaus) of the Schack family, within a much larger spa-hotel complex added later",
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 92,
     "room_location": "annex",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "The English park and the area around the Schlosssee are partly accessible to non-guests; the main building, spa and restaurant are for hotel guests and restaurant patrons only.",
     "how_to_stay": "**Getting there:** ~25 minutes by car from Schwerin (state capital of Mecklenburg-Vorpommern); roughly 1h45 from Hamburg and 2h30 from Berlin by car. No direct train to Basthorst; nearest stations are in Crivitz or Schwerin, from which a taxi or transfer is needed.\n\n**Rooms & rates:** 92 rooms and suites spread across three buildings — 19 in the historic 1823 manor house, 47 in the Waldresidenz (forest wing with wellness access), and the rest in the Turmhaus. From €89/night; rates vary significantly by building.\n\n**On-site:** 1,300 m² spa and wellness area with pool, sauna and treatments; restaurant \"Wilhelmina Helena\"; castle lounge and library with winter garden; grand ballroom; coworking lounge; extensive meeting/conference facilities.\n\n**Good to know:** Only the original Herrenhaus is the true 19th-century manor; guests wanting the most \"castle-like\" experience should ask specifically for a room in that building rather than the Waldresidenz or Turmhaus.\n\n**Combine with:** Schwerin Castle (Schweriner Schloss) is roughly 25 minutes away and makes for an easy half-day visit combined with a stay at Basthorst.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-19"
+    "sourced_date": "2026-09-19",
+    "star_category": 3
   }
 }

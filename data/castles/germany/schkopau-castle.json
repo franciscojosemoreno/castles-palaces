@@ -10,8 +10,8 @@
   "region": "Saxony-Anhalt — Schkopau, Saalekreis, between Merseburg and Halle",
   "nearest_city": "Merseburg",
   "address": "Schlossstraße 1, 06258 Schkopau, Germany",
-  "lat": 51.3830,
-  "lng": 11.9330,
+  "lat": 51.383,
+  "lng": 11.933,
   "unesco": false,
   "year_built": 900,
   "architectural_style": "10th-century fortification, expanded into a castle in the 12th century, rebuilt in Neo-Renaissance style in 1876",
@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": 54,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product was found; functions as a private hotel and events venue, though the castle park has local recognition as a scenic landmark.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Merseburg; roughly 20 minutes from Halle (Saale) and 40 minutes from Leipzig.\n\n**Rooms & rates:** 54 rooms and suites split between the historic 1876 Neo-Renaissance building and a secondary building on the grounds (still being restored/converted per guest reports) — exact room split between the two buildings not confirmed; verify with the property before booking if this matters to you. From €69/night.\n\n**On-site:** Restaurant, castle park, event spaces, conference rooms.\n\n**Good to know:** Some guests are placed in the annex building rather than the main historic building, especially when the main building is fully booked — worth confirming room location at booking if that distinction matters.\n\n**Combine with:** The historic town of Merseburg and the city of Halle (Saale).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 4
   }
 }

@@ -10,8 +10,8 @@
   "region": "Umbria — Monterone, near Perugia",
   "nearest_city": "Perugia",
   "address": "Strada Montevile, 3, 06126 Perugia PG, Italy",
-  "lat": 43.0870,
-  "lng": 12.4200,
+  "lat": 43.087,
+  "lng": 12.42,
   "unesco": false,
   "year_built": 1200,
   "architectural_style": "Documented from the 11th-13th century; fortress proper built in the 13th century; traditionally linked to the Knights Templar; acquired by the Piceller family in the late 17th century",
@@ -83,10 +83,16 @@
     "currency": "EUR",
     "room_count": 18,
     "room_location": "castle",
-    "amenities": ["restaurant", "pool", "sauna", "gardens"],
+    "amenities": [
+      "restaurant",
+      "pool",
+      "sauna",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; it operates as a private hotel, part of the TH Resorts chain.",
     "how_to_stay": "**Getting there:** About 10 minutes by car from central Perugia; roughly 30 minutes from Assisi and 1h from Gubbio.\n\n**Rooms & rates:** 18 individually named and decorated rooms, all within the historic 13th-century castle building; a separate dependance houses only the wellness area (sauna, Turkish bath), not guest rooms. From €157/night.\n\n**On-site:** Restaurant, outdoor pool, sauna and Turkish bath (in the dependance), rose garden.\n\n**Good to know:** Each room has its own name and story rooted in the castle's history — worth asking about a specific room's history when booking.\n\n**Combine with:** The historic center of Perugia and the town of Assisi.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

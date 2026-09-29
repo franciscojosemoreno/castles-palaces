@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": 32,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Veigné, near Montbazon, Indre-et-Loire — a 10-minute drive from Tours.\n\n**Rooms & rates:** 32 rooms from about €126 per night; some are within the turreted 1886 château, others in older pavilions elsewhere on the 15-acre grounds.\n\n**On-site:** 15-acre park overlooking the Indre River, restaurant, gardens.\n\n**Good to know:** Not all rooms are within the main château — the estate also includes smaller historic pavilions with their own guest rooms, worth checking at booking if the château itself matters to you.\n\n**Combine with:** Château d'Artigny and the Montbazon area's cluster of château hotels, all a short drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-10-06"
+    "sourced_date": "2026-10-06",
+    "star_category": 4
   }
 }

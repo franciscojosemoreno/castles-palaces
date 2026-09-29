@@ -10,8 +10,8 @@
   "region": "Loire Valley — Mosnes, Indre-et-Loire",
   "nearest_city": "Amboise",
   "address": "10 Rue des Thômeaux, 37530 Mosnes, France",
-  "lat": 47.4500,
-  "lng": 1.0500,
+  "lat": 47.45,
+  "lng": 1.05,
   "unesco": false,
   "year_built": 1750,
   "architectural_style": "18th-century tufa-stone-and-brick manor house built on the site of a medieval building known as \"Le Grand Hôtel de Mosnes,\" with Italian-influenced architecture, an orangery, and Renaissance-style gardens",
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 29,
     "room_location": "mixed",
-    "amenities": ["spa", "gym", "gardens"],
+    "amenities": [
+      "spa",
+      "gym",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Mosnes, Indre-et-Loire — a 10-minute drive from Château de Chaumont-sur-Loire and Château d'Amboise, on the Loire's \"Vallée des Rois.\"\n\n**Rooms & rates:** 29 rooms from €79/night — most in the 18th-century main manor house, with additional annex rooms in a separate building and two forest cabins by a pond (note: annex rooms have no WiFi).\n\n**On-site:** 400m² wellness area with pool, sauna, hammam and fitness room, orangery, Renaissance-style gardens, and 7 hectares of wooded parkland.\n\n**Good to know:** This is one of the more affordable properties in the France catalog and the most themed/playful (each room is individually styled after a different world destination) — a different register from the estate's grander wine-château neighbors.\n\n**Combine with:** Château de Chaumont-sur-Loire and Château d'Amboise, both about 10 minutes away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-27"
+    "sourced_date": "2026-09-27",
+    "star_category": 3
   }
 }

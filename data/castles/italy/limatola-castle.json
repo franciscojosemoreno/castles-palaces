@@ -10,7 +10,7 @@
   "region": "Campania — Limatola, Caserta Province",
   "nearest_city": "Caserta",
   "address": "Via Trivio, 82030 Limatola BN, Italy",
-  "lat": 41.1500,
+  "lat": 41.15,
   "lng": 14.3667,
   "unesco": false,
   "year_built": 1100,
@@ -83,10 +83,14 @@
     "currency": "EUR",
     "room_count": 30,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "The restaurant, housed in the castle's former stables, welcomes outside diners, not just hotel guests.",
     "how_to_stay": "**Getting there:** About 30 minutes from Caserta and 45 minutes from Naples by car; Naples' Capodichino Airport (NAP) is about 50 minutes away.\n\n**Rooms & rates:** 30 rooms, all within the historic castle. From €112/night.\n\n**On-site:** Restaurant in the former stables, gardens, event and wedding space.\n\n**Good to know:** A short distance from the Royal Palace of Caserta (a UNESCO World Heritage Site) — a natural pairing of a night at the castle with a full day at the royal palace.\n\n**Combine with:** The Royal Palace of Caserta (~30 min), Caserta Vecchia (a hilltop medieval village, ~35 min), Naples and the Campania coast.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

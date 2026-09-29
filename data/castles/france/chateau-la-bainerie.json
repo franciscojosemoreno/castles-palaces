@@ -82,10 +82,13 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "castle",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 20 km north of Angers, near Tiercé; easy access from the A11 motorway.\n\n**Rooms & rates:** Louis XIII-style rooms within the château, from about €100 to €160 per night depending on room type and season.\n\n**On-site:** Garden, sun terrace, free WiFi throughout the property.\n\n**Good to know:** An intimate, family-scale château — a smaller bed-and-breakfast experience than the larger luxury hotels nearby, ideal for guests wanting an authentic stay without the scale of a big resort.\n\n**Combine with:** Château Des Briottières (15 min).",
     "source": "user-provided",
-    "sourced_date": "2026-09-29"
+    "sourced_date": "2026-09-29",
+    "star_category": 4
   }
 }

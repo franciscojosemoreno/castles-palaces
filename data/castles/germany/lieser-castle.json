@@ -10,8 +10,8 @@
   "region": "Rhineland-Palatinate — Lieser, Moselle (Mosel) valley",
   "nearest_city": "Bernkastel-Kues",
   "address": "Moseluferstraße 1, 54470 Lieser, Germany",
-  "lat": 49.9310,
-  "lng": 6.9570,
+  "lat": 49.931,
+  "lng": 6.957,
   "unesco": false,
   "year_built": 1885,
   "architectural_style": "Neo-Renaissance main block built 1885–1906, with a later Art Nouveau wing added by Dr. Clemens Freiherr von Schorlemer",
@@ -85,9 +85,14 @@
     "currency": "EUR",
     "room_count": 49,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "how_to_stay": "**Getting there:** Lieser, on the Moselle (Mosel) River, Rhineland-Palatinate.\n\n**Rooms & rates:** Most of the 49 rooms and suites are within the main historic building (both its Neo-Renaissance and Art Nouveau sections); some are in the Cottage House, a converted former stable wing. From €196/night.\n\n**On-site:** Restaurant, spa with indoor pool, historic wine cellar, library, chapel, vineyard views.\n\n**Good to know:** The historic wine cellar, library and chapel are part of the main building and can be visited by guests. The Neo-Renaissance and Art Nouveau sections are both genuinely part of the historic complex, built only a couple of decades apart — only the Cottage House represents a separate, non-original building.\n\n**Combine with:** Bernkastel-Kues, one of the Moselle's prettiest wine towns, a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 5
   }
 }

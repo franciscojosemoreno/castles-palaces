@@ -10,7 +10,7 @@
   "region": "Chailly-sur-Armançon, Côte-d'Or (Burgundy)",
   "nearest_city": "Beaune",
   "address": "Route d'Arnay, 21320 Chailly-sur-Armançon, France",
-  "lat": 47.1500,
+  "lat": 47.15,
   "lng": 4.5833,
   "unesco": false,
   "year_built": 1500,
@@ -80,10 +80,15 @@
     "currency": "EUR",
     "room_count": 45,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Chailly-sur-Armançon, Côte-d'Or, Burgundy.\n\n**Rooms & rates:** 45 rooms and suites from about €165 per night; only 5 are within the 16th-century château itself, most guests stay in the surrounding golf-resort buildings. Specify a château room at booking if that's the priority.\n\n**On-site:** Golf course, spa, restaurant, fitness center, 2 bars/lounges, poolside bar, free valet parking.\n\n**Good to know:** The château is a genuine 16th-century historical monument, but the large majority of guest rooms (40 of 45) are in newer golf-resort buildings, not the château itself — worth knowing before booking if staying inside the historic structure matters to you.\n\n**Combine with:** The Burgundy wine route and Beaune, both within driving distance.",
     "source": "user-provided",
-    "sourced_date": "2026-10-04"
+    "sourced_date": "2026-10-04",
+    "star_category": 4
   }
 }

@@ -80,10 +80,15 @@
     "currency": "EUR",
     "room_count": 18,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "indoor pool"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "indoor pool"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Meursault, at the heart of the Burgundy vineyards, a few minutes from Beaune.\n\n**Rooms & rates:** 18 rooms currently (expanding to 35), all within the 19th-century château; from about €380 per night.\n\n**On-site:** Alaena spa (heated indoor pool, hammam, sauna, treatments inspired by traditional Cistercian herbalism), gastronomic restaurant, historic 12th-century cellars, wine tastings (from September 2026).\n\n**Good to know:** A newly opened property (July 2026) — the room inventory is still expanding, so availability may be more limited than at established neighboring estates.\n\n**Combine with:** Beaune (10 min), Abbey of Cîteaux (35 min).",
     "source": "user-provided",
-    "sourced_date": "2026-10-01"
+    "sourced_date": "2026-10-01",
+    "star_category": 4
   }
 }

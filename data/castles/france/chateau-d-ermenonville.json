@@ -82,10 +82,14 @@
     "currency": "EUR",
     "room_count": 55,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Ermenonville, Oise, in the Oise Pays de France regional nature park — within reach of Paris and Chantilly.\n\n**Rooms & rates:** 55 rooms and suites from about €114 per night, all within the historic château.\n\n**On-site:** Orangerie (meetings/events), gardens, bar, restaurant.\n\n**Good to know:** An eleven-century site with a remarkable guest list — Rousseau spent his final weeks here — now a boutique hotel where all rooms are inside the historic château itself, with the separate orangerie reserved for events rather than accommodation.\n\n**Combine with:** Chantilly and its château, and the wider Oise Pays de France park, both nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-10-05"
+    "sourced_date": "2026-10-05",
+    "star_category": 3
   }
 }

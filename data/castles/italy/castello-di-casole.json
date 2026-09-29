@@ -10,8 +10,8 @@
   "region": "Tuscany — Casole d'Elsa, Siena Province",
   "nearest_city": "Siena",
   "address": "Loc. Querceto, 53031 Casole d'Elsa SI, Italy",
-  "lat": 43.3670,
-  "lng": 11.0330,
+  "lat": 43.367,
+  "lng": 11.033,
   "unesco": false,
   "year_built": 900,
   "architectural_style": "10th-century stronghold (originally Castello di Querceto) on a 2,500-year-old Etruscan settlement; became an independent borgo in the 14th century under the Bargagli family; major 18th-century renovation",
@@ -81,10 +81,16 @@
     "currency": "EUR",
     "room_count": 39,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "winery", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "winery",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product was found; functions as a private resort/hotel within one of Italy's largest private estates (1,700 hectares).",
     "how_to_stay": "**Getting there:** About 45 minutes by car from Siena; roughly 1h15 from Florence.\n\n**Rooms & rates:** 39 rooms, suites and apartments distributed across the main castle building, the old priest's quarters, and restored outlying farm buildings — most follow the historic castle's stylistic character regardless of which structure they're in. From €899/night.\n\n**On-site:** Restaurant, spa, wine tasting, gardens with rose beds and lemon groves.\n\n**Good to know:** Room style is consistent across the estate's restored buildings, but the specific building can vary — ask at booking if staying in the original castle structure itself matters to you.\n\n**Combine with:** The medieval town of Casole d'Elsa and the wider Val d'Elsa wine region.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-21"
+    "sourced_date": "2026-09-21",
+    "star_category": 5
   }
 }

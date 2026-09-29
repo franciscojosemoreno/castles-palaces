@@ -11,7 +11,7 @@
   "nearest_city": "Koblenz",
   "address": "Schlossberg 47, 56329 St. Goar, Germany",
   "lat": 50.1494,
-  "lng": 7.7050,
+  "lng": 7.705,
   "unesco": true,
   "year_built": 1245,
   "architectural_style": "Medieval fortress ruins, the largest on the Middle Rhine, with a later Art Nouveau villa and apartment house added on the same grounds",
@@ -86,10 +86,14 @@
     "currency": "EUR",
     "room_count": 67,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "Access to the real Rheinfels Castle ruins (one of the largest fortress ruins on the Middle Rhine) is free for hotel guests and separately ticketed for day visitors — see Highlights above",
     "how_to_stay": "**Getting there:** St. Goar, Rhineland-Palatinate, on the Rhine Gorge opposite the Loreley rock.\n\n**Rooms & rates:** The 67 rooms are split across three separate buildings on the historic grounds: part of the ruined castle itself, the Art Nouveau Villa Rheinfels, and an apartment house at Gut Rheinfels. From €108/night.\n\n**On-site:** Restaurant, gardens, free guest access to the fortress ruins.\n\n**Good to know:** This is one of the more architecturally complex properties in the collection — ask specifically which of the three buildings a room is in if sleeping within the actual medieval ruins (rather than the villa or apartment house) is the priority.\n\n**Combine with:** The Loreley rock and visitor centre, directly across the river.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 4
   }
 }

@@ -10,8 +10,8 @@
   "region": "Hesse — Kronberg im Taunus, near Frankfurt",
   "nearest_city": "Frankfurt am Main",
   "address": "Hainstraße 25, 61476 Kronberg im Taunus, Germany",
-  "lat": 50.1780,
-  "lng": 8.5310,
+  "lat": 50.178,
+  "lng": 8.531,
   "unesco": false,
   "year_built": 1889,
   "architectural_style": "Built 1889–1893 as Schloss Friedrichshof for the widowed German Empress Victoria, eldest daughter of Britain's Queen Victoria, in memory of her husband Emperor Frederick III",
@@ -85,10 +85,15 @@
     "currency": "EUR",
     "room_count": 61,
     "room_location": "castle",
-    "amenities": ["restaurant", "golf", "gardens"],
+    "amenities": [
+      "restaurant",
+      "golf",
+      "gardens"
+    ],
     "non_guest_access_note": "Two restaurants (Schlossrestaurant Viktoria, Enrico d'Assia) open to non-resident diners; 18-hole golf course adjacent, day-guest access arrangements vary — verify current policy before publishing a specific claim",
     "how_to_stay": "**Getting there:** Kronberg im Taunus, Hesse, about 20 km northwest of Frankfurt.\n\n**Rooms & rates:** All 61 rooms and suites, furnished by designer Nina Campbell, are within the historic Friedrichshof building itself, including the former Empress's personal rooms on the first floor. From €227/night.\n\n**On-site:** Two restaurants, adjacent 18-hole golf course, parkland grounds.\n\n**Good to know:** Note this is Kronberg (Germany, near Frankfurt) — not to be confused with the similarly named Kronborg Castle in Denmark, Shakespeare's setting for Hamlet.\n\n**Combine with:** Frankfurt's skyline and museums, a short train or drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 5
   }
 }

@@ -10,8 +10,8 @@
   "region": "Nieuil, Charente (Nouvelle-Aquitaine)",
   "nearest_city": "Angoulême",
   "address": "205 Rue François Perry, 16270 Nieuil, France",
-  "lat": 45.9000,
-  "lng": 0.5000,
+  "lat": 45.9,
+  "lng": 0.5,
   "unesco": false,
   "year_built": 1883,
   "architectural_style": "Built on the site of an older medieval fortress on the estate of François I, of which only a tower survives; the present château was rebuilt in 1883 and has remained in the same family for generations",
@@ -79,10 +79,15 @@
     "currency": "EUR",
     "room_count": 10,
     "room_location": "castle",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Nieuil, Charente, Nouvelle-Aquitaine.\n\n**Rooms & rates:** 7 rooms + 3 suites, all within the rebuilt 1883 château; from about €100 per night.\n\n**On-site:** Outdoor pool, restaurant sourced from the property's own vegetable garden, gardens.\n\n**Good to know:** The medieval castle that originally stood here was largely lost; only a tower survives, and the château guests see and stay in today dates to an 1883 rebuild. The property's Booking.com listing currently displays under a glitched name (\"Château Optical Center\") — the affiliate link still routes correctly to this property.\n\n**Combine with:** Angoulême and the Charente countryside, within driving distance.",
     "source": "user-provided",
-    "sourced_date": "2026-10-04"
+    "sourced_date": "2026-10-04",
+    "star_category": 4
   }
 }

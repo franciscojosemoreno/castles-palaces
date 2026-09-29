@@ -80,10 +80,14 @@
     "currency": "EUR",
     "room_count": 7,
     "room_location": "mixed",
-    "amenities": ["outdoor pool", "gardens"],
+    "amenities": [
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Durtal, Maine-et-Loire, in the Anjou region — within reach of Angers and the Loire Valley.\n\n**Rooms & rates:** 5 rooms + an apartment within the 18th-century château from about €148/night; the separate Pavillon de France suite, in the estate's historic entrance pavilion, is priced at a premium.\n\n**On-site:** 40-hectare park with centuries-old trees, seasonal outdoor pool, garden, barbecue facilities, shared lounge, access to a 3,000-hectare forest for hiking, cycling, or horseback riding.\n\n**Good to know:** Most rooms are within the château itself, but the standout Pavillon de France suite is in a separate historic pavilion at the estate's entrance — worth knowing if staying inside the main château building specifically matters to you.\n\n**Combine with:** Angers and the wider Anjou/Loire Valley region.",
     "source": "user-provided",
-    "sourced_date": "2026-10-05"
+    "sourced_date": "2026-10-05",
+    "star_category": 4
   }
 }

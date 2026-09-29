@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 2,
     "room_location": "castle",
-    "amenities": ["spa", "outdoor pool", "gardens"],
+    "amenities": [
+      "spa",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Esvres, Indre-et-Loire — 5 minutes from Veigné, south of Tours.\n\n**Rooms & rates:** A small handful of rooms (around 2) from about €280 per night, all within the château.\n\n**On-site:** Garden, outdoor pool, wellness area with a distinctive beer-themed spa (massage room, sauna).\n\n**Good to know:** A genuinely tiny property — with so few rooms, this is closer to an intimate B&B than a large hotel; book well ahead.\n\n**Combine with:** Montbazon's cluster of château hotels and Tours, both nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-10-06"
+    "sourced_date": "2026-10-06",
+    "star_category": 4
   }
 }

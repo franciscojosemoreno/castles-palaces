@@ -11,7 +11,7 @@
   "nearest_city": "Besançon",
   "address": "Route de Bournel, 25680 Cubry, France",
   "lat": 47.4833,
-  "lng": 6.4500,
+  "lng": 6.45,
   "unesco": false,
   "year_built": 1860,
   "architectural_style": "The estate holds two genuinely historic châteaux: the 18th-century \"old château\" (orange roof) and a mid-19th-century neo-Gothic \"new château\" (grey roof, a separate building), designed by Clément Parent, a disciple of Viollet-le-Duc",
@@ -81,10 +81,13 @@
     "currency": "EUR",
     "room_count": 26,
     "room_location": "mixed",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Cubry, Doubs, between Burgundy and Alsace, an hour from Switzerland.\n\n**Rooms & rates:** 26 rooms split between two distinct historic châteaux on the same estate — the old one (18th century, 16+4 rooms) and the neo-Gothic new one (mid-19th century, 6 suites); from about €127 per night.\n\n**On-site:** 18-hole golf course, chapel inspired by the Château d'Amboise, French gardens, English-style park.\n\n**Good to know:** A five-century family estate (Moustier, since 1496) with two genuinely historic châteaux — confirm which building you're booking, as they have distinct architectural character (classic baroque vs. neo-Gothic).\n\n**Combine with:** Château de Villersexel (30 min), Besançon (1h).",
     "source": "user-provided",
-    "sourced_date": "2026-10-03"
+    "sourced_date": "2026-10-03",
+    "star_category": 4
   }
 }

@@ -11,7 +11,7 @@
   "nearest_city": "Bayeux",
   "address": "Rue du Canada, 14520 Commes, France",
   "lat": 49.2833,
-  "lng": -0.7000,
+  "lng": -0.7,
   "unesco": false,
   "year_built": 1750,
   "architectural_style": "18th-century château, originally a hemp farm and later a foal-breeding farm; served as a WWII forward command post for German and later British forces; fully restored in 1988",
@@ -80,10 +80,16 @@
     "currency": "EUR",
     "room_count": 29,
     "room_location": "mixed",
-    "amenities": ["restaurant", "outdoor pool", "tennis", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "tennis",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Commes, near Bayeux, Calvados — 10 minutes from Omaha Beach and Bayeux, in Normandy.\n\n**Rooms & rates:** 29 rooms from €339/night; 15 are within the main 18th-century château, the remaining 14 in an adjoining annex.\n\n**On-site:** Heated pool, orangery, tennis court, gastronomic restaurant \"Le Botaniste,\" and a more casual bistro (\"Le Petit Jardin\") in the château's former conservatory.\n\n**Good to know:** A genuine WWII history site — used as a forward command post by both German and later British forces, given its strategic road position after D-Day.\n\n**Combine with:** Omaha Beach and the D-Day landing beaches, 10 minutes away; Bayeux and the Bayeux Tapestry.",
     "source": "user-provided",
-    "sourced_date": "2026-09-27"
+    "sourced_date": "2026-09-27",
+    "star_category": 5
   }
 }

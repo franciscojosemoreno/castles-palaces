@@ -10,8 +10,8 @@
   "region": "Drinagh, County Wexford",
   "nearest_city": "Wexford",
   "address": "Killiane, Drinagh, Co. Wexford, Y35 F2C2, Ireland",
-  "lat": 52.2870,
-  "lng": -6.4980,
+  "lat": 52.287,
+  "lng": -6.498,
   "unesco": false,
   "year_built": 1470,
   "architectural_style": "15th-century Norman tower house, built around 1470, retaining an original ogee-headed window; adjoined by a working farm and later country house additions",
@@ -86,8 +86,12 @@
     "source": "web-search-aggregate",
     "sourced_date": "2026-09-14",
     "room_location": "annex",
-    "amenities": ["farm_stay", "gardens"],
+    "amenities": [
+      "farm_stay",
+      "gardens"
+    ],
     "non_guest_access_note": "The 15th-century tower is a historic feature on the grounds, not a guest room — no public access beyond guests",
-    "how_to_stay": "**Getting there:** Drinagh, 6 km south of Wexford town.\n\n**Rooms & rates:** 8-10 rooms, split between the upper floors of the 17th-century farmhouse and ground-level courtyard apartments. The 15th-century tower itself is not where guests sleep — it's the working farm's original fortified structure, still standing but not converted into bedrooms.\n\n**On-site:** Working farm B&B; breakfast included, no restaurant beyond the breakfast room.\n\n**Good to know:** A small, family-run farmhouse B&B, not a resort — if 'sleeping inside a medieval tower' is the draw, this isn't quite that; the appeal here is the working farm setting beside a genuine 15th-century structure.\n\n**Combine with:** Wexford town (10 minutes) or Rosslare's beaches."
+    "how_to_stay": "**Getting there:** Drinagh, 6 km south of Wexford town.\n\n**Rooms & rates:** 8-10 rooms, split between the upper floors of the 17th-century farmhouse and ground-level courtyard apartments. The 15th-century tower itself is not where guests sleep — it's the working farm's original fortified structure, still standing but not converted into bedrooms.\n\n**On-site:** Working farm B&B; breakfast included, no restaurant beyond the breakfast room.\n\n**Good to know:** A small, family-run farmhouse B&B, not a resort — if 'sleeping inside a medieval tower' is the draw, this isn't quite that; the appeal here is the working farm setting beside a genuine 15th-century structure.\n\n**Combine with:** Wexford town (10 minutes) or Rosslare's beaches.",
+    "star_category": 4
   }
 }

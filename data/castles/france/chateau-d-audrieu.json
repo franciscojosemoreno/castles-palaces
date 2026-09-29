@@ -83,10 +83,14 @@
     "currency": "EUR",
     "room_count": 29,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Audrieu, Calvados — between Caen and Bayeux, near the D-Day beaches.\n\n**Rooms & rates:** 29 rooms and suites from €270/night, within the historic 18th-century château.\n\n**On-site:** Two restaurants, 25 hectares of wooded parkland and French gardens, period fireplaces throughout.\n\n**Good to know:** A Relais & Châteaux property since 1977 — one of the longer-standing members in Normandy, with a genuine 11th-century culinary lineage tied to the de Percy family.\n\n**Combine with:** The D-Day landing beaches and Bayeux (Bayeux Tapestry), both a short drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-28"
+    "sourced_date": "2026-09-28",
+    "star_category": 5
   }
 }

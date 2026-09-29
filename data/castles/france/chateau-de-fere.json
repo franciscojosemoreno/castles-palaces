@@ -80,10 +80,15 @@
     "currency": "EUR",
     "room_count": 35,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests. The medieval ruins are visible from the grounds but are not an interior visit.",
     "how_to_stay": "**Getting there:** In Fère-en-Tardenois, Aisne, in the Champagne region — within driving distance of Reims and the Champagne route.\n\n**Rooms & rates:** 35 rooms and suites from about €210 per night, all within the restored 1863 hotel château, distinct from the 13th-century ruins on the estate.\n\n**On-site:** Spa, landscaped park with the medieval ruins as a scenic backdrop, restaurant, gardens.\n\n**Good to know:** Two genuinely historic structures share this estate — the 13th-century ruined fortress (visible from many rooms) and the restored 19th-century château where guests actually stay. The ruins are not habitable; all accommodation is in the later building.\n\n**Combine with:** The Champagne route and Reims, both a reasonable drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-10-04"
+    "sourced_date": "2026-10-04",
+    "star_category": 5
   }
 }

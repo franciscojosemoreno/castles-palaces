@@ -10,8 +10,8 @@
   "region": "Thuringia — Eyba, Saalfelder Höhe, Landkreis Saalfeld-Rudolstadt",
   "nearest_city": "Saalfeld",
   "address": "Eyba 1, 07318 Saalfelder Höhe, Germany",
-  "lat": 50.5980,
-  "lng": 11.3980,
+  "lat": 50.598,
+  "lng": 11.398,
   "unesco": false,
   "year_built": 1553,
   "architectural_style": "Built 1553 by the von Könitz brothers on the site of an older settlement court; original walls survived the Thirty Years' War; hotel and conference conversion from 1997",
@@ -82,10 +82,14 @@
     "currency": "EUR",
     "room_count": 44,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product was found; functions as a private hotel and conference centre (Schlosshotel Eyba GmbH, founded 1997).",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Saalfeld; roughly 30 minutes from Rudolstadt and 1h from Erfurt.\n\n**Rooms & rates:** 44 rooms (18 doubles, 26 singles) split between the historic 1553 castle building and a separate modern guest house with valley views. From €119/night.\n\n**On-site:** Restaurant, conference rooms, gardens.\n\n**Good to know:** Guests can request the historic castle building or the modern guest house — worth specifying a preference at booking if staying inside the historic structure matters to you.\n\n**Combine with:** The Thuringian Forest region and the town of Saalfeld.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 3
   }
 }

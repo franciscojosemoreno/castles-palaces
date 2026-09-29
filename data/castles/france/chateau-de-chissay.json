@@ -11,7 +11,7 @@
   "nearest_city": "Tours",
   "address": "18 Rue de Chenonceaux, 41400 Chissay-en-Touraine, France",
   "lat": 47.3333,
-  "lng": 1.1500,
+  "lng": 1.15,
   "unesco": false,
   "year_built": 1430,
   "architectural_style": "Built under Charles VII for Pierre Bérard, chancellor of France; two towers and a Renaissance-era courtyard with an Italian-style portico; converted into a hotel in 1986",
@@ -81,10 +81,15 @@
     "currency": "EUR",
     "room_count": 32,
     "room_location": "mixed",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Chissay-en-Touraine, 10 minutes from Château de Chenonceau and close to the Beauval Zoo; about 35 minutes from Tours.\n\n**Rooms & rates:** 27 rooms and 5 suites from €150/night — most within the historic château and its two Renaissance towers; a separate \"Pool Room\" category is located in the park grounds rather than the château building.\n\n**On-site:** Outdoor pool, Gothic-style dining room (Table du Roy restaurant), chapel, extensive gardens, and a troglodyte (cave) room among the more unusual accommodation options.\n\n**Good to know:** If sleeping inside the historic structure itself matters to you, request a Château Room specifically — the Pool Room category is a separate park building.\n\n**Combine with:** Château de Chenonceau, 10 minutes away; the Beauval Zoo, one of France's largest.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 4
   }
 }

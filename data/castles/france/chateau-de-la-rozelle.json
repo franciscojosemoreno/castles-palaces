@@ -83,10 +83,13 @@
     "currency": "EUR",
     "room_count": 22,
     "room_location": "castle",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Cellettes, Loir-et-Cher, in the Loire Valley.\n\n**Rooms & rates:** 22 rooms from about €140 per night, all within the 1830 château building.\n\n**On-site:** Garden grounds, breakfast service, air-conditioned rooms throughout.\n\n**Good to know:** A 19th-century (not medieval) château — an elegant single-building residence rather than a fortress, typical of many Loire Valley \"châteaux\" built as country houses.\n\n**Combine with:** Château de Chambord and Château de Cheverny, both a short drive away in the Loire Valley.",
     "source": "user-provided",
-    "sourced_date": "2026-10-04"
+    "sourced_date": "2026-10-04",
+    "star_category": 4
   }
 }

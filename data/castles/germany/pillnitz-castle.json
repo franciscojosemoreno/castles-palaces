@@ -115,10 +115,16 @@
     "currency": "EUR",
     "room_count": 45,
     "room_location": "castle",
-    "amenities": ["restaurant", "bar", "golf", "gardens"],
+    "amenities": [
+      "restaurant",
+      "bar",
+      "golf",
+      "gardens"
+    ],
     "non_guest_access_note": "The palace museums (Wasserpalais/Bergpalais, camellia garden) are covered above in How to Visit, with their own GYG listing — not duplicated here.",
     "how_to_stay": "**Getting there:** About 20 minutes by car or Elbe ferry from central Dresden; the Pillnitz steamer stop is directly nearby for a scenic river approach.\n\n**Rooms & rates:** 42 rooms and 3 suites within the historic Schlossschenke Pillnitz (castle inn) building — first documented in 1724, rebuilt in 1841 and again in 1869 after a fire — on the upper and attic floors. From €119/night.\n\n**On-site:** Two restaurants, a bar, an attached winery, picnic area, canoeing and mini golf, golf course access.\n\n**Good to know:** This hotel occupies the historic castle inn (Schlossschenke), a separate building within the Pillnitz estate, about 20 metres from the Wasserpalais/Bergpalais museums covered above in How to Visit. It is the same Pillnitz estate, not a different property — easy to combine a stay here with a ticketed visit to the palace and camellia garden.\n\n**Combine with:** The Wasserpalais/Bergpalais museums and camellia garden (see How to Visit above, a 1-minute walk); Dresden Castle and Moritzburg Castle, both already linked on this page.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-19"
+    "sourced_date": "2026-09-19",
+    "star_category": 4
   }
 }

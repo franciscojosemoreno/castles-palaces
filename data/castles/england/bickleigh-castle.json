@@ -9,8 +9,8 @@
   "region": "Devon — Bickleigh, near Tiverton",
   "nearest_city": "Exeter",
   "address": "Bickleigh, Tiverton, Devon EX16 8RP, England",
-  "lat": 50.8830,
-  "lng": -3.5150,
+  "lat": 50.883,
+  "lng": -3.515,
   "unesco": false,
   "year_built": 600,
   "architectural_style": "A Saxon Moot House (now the Chapel) dating to around 600 AD, with a Norman motte-and-bailey castle added in 1018, altered in the 15th and 17th centuries",
@@ -89,8 +89,11 @@
     "source": "web-search-aggregate",
     "sourced_date": "2026-09-13",
     "room_location": "annex",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "Real day-visit product — open Thursdays only, seasonal April-October, 12:00-17:00, guided tours + cream teas, free-roam gardens — see Highlights above",
-    "how_to_stay": "**Getting there:** Bickleigh, near Tiverton, Devon.\n\n**Rooms & rates:** Only one accommodation — the Tudor Suite/Bridal Suite, up a 15th-century staircase — is inside the castle building itself; the rest of the property's accommodation (sleeping up to 40 in total) is in picturesque thatched cottages around the courtyard.\n\n**On-site:** Gardens along the River Exe, Thursday day-visit tours and cream teas (seasonal).\n\n**Good to know:** If sleeping inside the actual medieval castle is the goal, specify the Tudor Suite explicitly — it's the only room in the historic building itself, and the rest of the property's charm comes from the thatched cottages rather than the castle structure.\n\n**Combine with:** Tiverton town and the Grand Western Canal, both close by."
+    "how_to_stay": "**Getting there:** Bickleigh, near Tiverton, Devon.\n\n**Rooms & rates:** Only one accommodation — the Tudor Suite/Bridal Suite, up a 15th-century staircase — is inside the castle building itself; the rest of the property's accommodation (sleeping up to 40 in total) is in picturesque thatched cottages around the courtyard.\n\n**On-site:** Gardens along the River Exe, Thursday day-visit tours and cream teas (seasonal).\n\n**Good to know:** If sleeping inside the actual medieval castle is the goal, specify the Tudor Suite explicitly — it's the only room in the historic building itself, and the rest of the property's charm comes from the thatched cottages rather than the castle structure.\n\n**Combine with:** Tiverton town and the Grand Western Canal, both close by.",
+    "star_category": 2
   }
 }

@@ -10,7 +10,7 @@
   "region": "Lorgues/Flayosc, Var (Provence-Alpes-Côte d'Azur)",
   "nearest_city": "Draguignan",
   "address": "Route de Salernes, 83510 Lorgues, France",
-  "lat": 43.5000,
+  "lat": 43.5,
   "lng": 6.3667,
   "unesco": false,
   "year_built": 1750,
@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 34,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** Between Lorgues and Flayosc, at the heart of Provence, near the Gorges du Verdon.\n\n**Rooms & rates:** 34 rooms and suites in total; only 7 are within the 18th-century château itself (each named for a Provençal village), the rest across other estate buildings and private villas; from about €765 per night.\n\n**On-site:** A 500-hectare wine estate (Côtes de Provence appellation, 150 hectares of organic vineyard), 5 Mondes spa, Michelin-starred restaurant, tasting cellar.\n\n**Good to know:** Guests wanting to sleep specifically inside the historic château should book one of its 7 rooms — most of the inventory, including the villas, is spread across the wider wine estate, not the château.\n\n**Combine with:** Gorges du Verdon (30 min), Draguignan (20 min).",
     "source": "user-provided",
-    "sourced_date": "2026-10-01"
+    "sourced_date": "2026-10-01",
+    "star_category": 5
   }
 }

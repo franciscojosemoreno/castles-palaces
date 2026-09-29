@@ -10,8 +10,8 @@
   "region": "South Tyrol (Alto Adige) — above Merano, Trentino-Alto Adige",
   "nearest_city": "Merano",
   "address": "Via Fragsburg, 3, 39012 Merano BZ, Italy",
-  "lat": 46.6900,
-  "lng": 11.2100,
+  "lat": 46.69,
+  "lng": 11.21,
   "unesco": false,
   "year_built": 1624,
   "architectural_style": "The hotel occupies a 1624 hunting lodge; the 14th-century medieval castle that gives the estate its name, Castel Fragsburg Paternum, stands as a physically separate structure on a nearby cliff",
@@ -84,10 +84,15 @@
     "currency": "EUR",
     "room_count": 20,
     "room_location": "annex",
-    "amenities": ["restaurant", "gardens", "mountain views"],
+    "amenities": [
+      "restaurant",
+      "gardens",
+      "mountain views"
+    ],
     "non_guest_access_note": "The 14th-century castle ruins on the nearby cliff ('Castel Fragsburg Paternum') are open only for hotel-guest events (weddings, celebrations) — there is no independent day-visit product for the general public.",
     "how_to_stay": "**Getting there:** About 20 minutes by car from central Merano, on a private hill above the town; roughly 1h from Bolzano.\n\n**Rooms & rates:** 20 suites, all within the restored 1624 hunting lodge — the 14th-century castle ruins on the adjacent cliff are a separate structure, not guest accommodation. From €459/night.\n\n**On-site:** Restaurant, gardens over 50,000m², mountain and valley views.\n\n**Good to know:** The name \"Castel Fragsburg\" refers to the whole estate, but overnight guests sleep in the historic hunting lodge, not the medieval castle ruins on the neighboring cliff — the ruins are reserved for special events.\n\n**Combine with:** The town of Merano and the South Tyrolean wine and orchard country surrounding it.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 5
   }
 }

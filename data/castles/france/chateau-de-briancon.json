@@ -10,7 +10,7 @@
   "region": "Anjou — Bauné, Loire-Authion, Maine-et-Loire",
   "nearest_city": "Angers",
   "address": "Route de Briançon, 49250 Bauné, France",
-  "lat": 47.3500,
+  "lat": 47.35,
   "lng": -0.4167,
   "unesco": false,
   "year_built": 1650,
@@ -82,10 +82,13 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "castle",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Bauné, part of Loire-Authion, Maine-et-Loire — about 12 miles from Angers.\n\n**Rooms & rates:** From €98/night, within the single 17th-century château, on a 10-hectare park.\n\n**On-site:** 10 hectares of parkland; room types range from standard doubles to four-bedroom houses for families or groups.\n\n**Good to know:** A genuinely unusual ownership story — the château has been run since 1941 by a French charitable association supporting vulnerable people and people with disabilities, and only became a hotel in 2013 after decades as an orphanage, health resort, and medical-educational institute. Hotel proceeds support the association's charitable mission.\n\n**Combine with:** Angers and the wider Anjou wine route, both nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-09-28"
+    "sourced_date": "2026-09-28",
+    "star_category": 3
   }
 }

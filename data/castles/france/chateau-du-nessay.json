@@ -79,10 +79,14 @@
     "currency": "EUR",
     "room_count": 17,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa"],
+    "amenities": [
+      "restaurant",
+      "spa"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** On Brittany's Emerald Coast, near Dinard and Saint-Malo.\n\n**Rooms & rates:** 17 rooms, most within the 19th-century château (including its historic posterns), with 2 in a separate beachfront annex facing the building; from about €318 per night.\n\n**On-site:** Spa, restaurant, direct beach access.\n\n**Good to know:** Built on the ruins of a medieval fortress, the current building dates to the late 19th century — most rooms are in the château and its historic posterns, but 2 of the 17 are in a separate beachfront annex.\n\n**Combine with:** Saint-Malo (20 min), Dinard (15 min).",
     "source": "user-provided",
-    "sourced_date": "2026-09-30"
+    "sourced_date": "2026-09-30",
+    "star_category": 4
   }
 }

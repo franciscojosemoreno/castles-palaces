@@ -10,7 +10,7 @@
   "region": "Massignac, Charente (Nouvelle-Aquitaine)",
   "nearest_city": "Angoulême",
   "address": "Le Bourg, 16310 Massignac, France",
-  "lat": 45.8500,
+  "lat": 45.85,
   "lng": 0.7333,
   "unesco": false,
   "year_built": 1300,
@@ -79,10 +79,14 @@
     "currency": "EUR",
     "room_count": 29,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Massignac, Charente, in southwest France.\n\n**Rooms & rates:** 29 rooms spread across the estate; only 7 are within the château itself, the rest in the former service outbuilding and standalone farmhouses; from about €244 per night.\n\n**On-site:** Michelin-starred restaurant (Dyades, using produce from the estate's own organic garden), 1,000 hectares of preserved nature.\n\n**Good to know:** Guests wanting to sleep specifically inside the château should book one of its 7 rooms — most of the inventory is spread across other buildings on the vast estate, not the castle itself.\n\n**Combine with:** Angoulême (45 min), Limoges (1h).",
     "source": "user-provided",
-    "sourced_date": "2026-10-01"
+    "sourced_date": "2026-10-01",
+    "star_category": 5
   }
 }

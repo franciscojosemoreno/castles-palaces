@@ -83,11 +83,16 @@
     "currency": "EUR",
     "room_count": 13,
     "room_location": "castle",
-    "amenities": ["restaurant", "winery", "gardens"],
+    "amenities": [
+      "restaurant",
+      "winery",
+      "gardens"
+    ],
     "booking_paused": true,
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Bommes, in the Sauternes appellation, Gironde — part of the Bordeaux wine region.\n\n**Rooms & rates:** Only 13 rooms and suites total, all within the historic manor house — including one suite set in the property's medieval tower. Direct booking via our partner link is temporarily paused (see note below); the hotel and restaurant remain open and operating normally.\n\n**On-site:** Two-Michelin-starred Lalique restaurant, a library of Lalique crystal decanters, and the historic L'Enclos Sauternes vineyard, ranked in the 1855 Classification.\n\n**Good to know:** This Booking.com listing is temporarily unavailable — a listing-side issue, not a business closure; the château's own website confirms normal operating hours through 2026. Contact the hotel directly in the meantime, or check back here.\n\n**Combine with:** Château d'Yquem and the wider Sauternes wine route, plus Bordeaux city, about 45 minutes away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-27"
+    "sourced_date": "2026-09-27",
+    "star_category": 5
   }
 }

@@ -10,8 +10,8 @@
   "region": "Thuringia — Ettersburg, near Weimar",
   "nearest_city": "Weimar",
   "address": "Schloss Ettersburg 1, 99439 Ettersburg, Germany",
-  "lat": 51.0350,
-  "lng": 11.3120,
+  "lat": 51.035,
+  "lng": 11.312,
   "unesco": true,
   "year_built": 1706,
   "architectural_style": "Three-winged building built 1706–1712 for Duke Wilhelm Ernst von Sachsen-Weimar, with a three-story \"New Castle\" added in 1722; part of the UNESCO \"Classical Weimar\" World Heritage ensemble",
@@ -85,10 +85,14 @@
     "currency": "EUR",
     "room_count": 28,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "The castle park is freely accessible year-round, with exhibition boards on the site's history. The castle interior functions as a hotel/conference centre and is NOT open to the general public on a regular basis — accessible only during occasional cultural events (such as the Pentecost Festival since 2011). No independent museum-style entry ticket exists.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from central Weimar; roughly 30 minutes from Erfurt and 1h from Jena.\n\n**Rooms & rates:** 23 modern rooms plus 1 junior suite and 4 larger suites (28 total), spread across the historic Old Castle and the 1722 New Castle — no separate modern annex. From €93/night.\n\n**On-site:** Restaurant, conference rooms, event spaces; free year-round access to the surrounding castle park.\n\n**Good to know:** The castle park is free and open to everyone, but the building itself isn't open for general public tours — non-guests can experience the interior mainly through cultural events like the Pentecost Festival.\n\n**Combine with:** Classical Weimar's UNESCO ensemble in the city center, and the Goethe/Schiller literary heritage sites nearby.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-21"
+    "sourced_date": "2026-09-21",
+    "star_category": 3
   }
 }

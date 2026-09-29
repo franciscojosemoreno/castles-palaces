@@ -10,8 +10,8 @@
   "region": "Baden-Württemberg — Neckarzimmern, Neckar valley",
   "nearest_city": "Heilbronn",
   "address": "Burg Hornberg 1, 74821 Neckarzimmern, Germany",
-  "lat": 49.2870,
-  "lng": 9.1290,
+  "lat": 49.287,
+  "lng": 9.129,
   "unesco": false,
   "year_built": 1100,
   "architectural_style": "11th-century knight's castle above the Neckar valley, home to the knight Götz von Berlichingen from 1517 to 1562, in the ownership of the von Gemmingen family since 1612",
@@ -86,10 +86,15 @@
     "currency": "EUR",
     "room_count": 31,
     "room_location": "mixed",
-    "amenities": ["restaurant", "museum", "vineyard"],
+    "amenities": [
+      "restaurant",
+      "museum",
+      "vineyard"
+    ],
     "non_guest_access_note": "Real ticketed day-visit product: castle + museum open daily April-Oct 10:00-18:00 (Wed-Sun only in Mar/Nov/Dec), €7-11 adult depending on whether a guided tour is included; historic wine cellar also visitable",
     "how_to_stay": "**Getting there:** Neckarzimmern, Baden-Württemberg, in the Neckar valley between Heilbronn and Heidelberg.\n\n**Rooms & rates:** Of the 31 rooms (26 double, 4 single, 1 junior suite), those in the main castle building overlook the Neckar valley; the remainder are in the former Schafstall (sheepfold), a separate building on the estate, with forest-view balconies. From €79/night.\n\n**On-site:** Restaurant with valley-view terrace, museum (Götz von Berlichingen's armour), historic wine cellar, working vineyard.\n\n**Good to know:** Specify a main-castle-building room if sleeping inside the historic knight's castle itself is the priority — the Schafstall rooms are comfortable and genuinely on the estate, but in a converted outbuilding rather than the castle proper.\n\n**Combine with:** Heidelberg Castle, about 30 minutes away, or Bad Wimpfen's medieval old town, closer still.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 4
   }
 }

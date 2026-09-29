@@ -79,10 +79,14 @@
     "currency": "EUR",
     "room_count": 19,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Bort-l'Étang, Puy-de-Dôme, Basse-Auvergne — within reach of Clermont-Ferrand.\n\n**Rooms & rates:** 19 rooms and suites from €155/night; most are within the 12th-century castle, with additional accommodation in the freestanding Chalet Myrtille and a separate Cottage in the park.\n\n**On-site:** Park grounds with a dedicated events building, restaurant, and Viollet-le-Duc-restored roofline.\n\n**Good to know:** A genuinely storied property — Russian imperial connections (Prince Obolenski between the wars) alongside a French Revolutionary-era history (its last lord was guillotined in 1794) — recently repositioned as a more intimate château d'hôtes after a 2021 closure and change of ownership.\n\n**Combine with:** Clermont-Ferrand and the volcanic Chaîne des Puys (UNESCO), both within driving distance.",
     "source": "user-provided",
-    "sourced_date": "2026-09-27"
+    "sourced_date": "2026-09-27",
+    "star_category": 5
   }
 }

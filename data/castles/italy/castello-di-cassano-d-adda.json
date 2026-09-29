@@ -83,10 +83,14 @@
     "currency": "EUR",
     "room_count": 30,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "The castle's restaurant, with frescoed vaulted ceilings, is open to the general public, not just hotel guests.",
     "how_to_stay": "**Getting there:** About 30 minutes by car or train from Milan (Cassano d'Adda station, Milano-Bergamo line); Milan-Linate airport is about 35 minutes away and Milan-Bergamo (Orio al Serio) about 30 minutes.\n\n**Rooms & rates:** 30 rooms within the fortress — 20 standard and 10 suites, several named after the Visconti-Sforza dynasty, with halls preserving original frescoes. From €364/night.\n\n**On-site:** Restaurant with vaulted, frescoed ceilings, an interior courtyard used for events and weddings.\n\n**Good to know:** Located in the center of Cassano d'Adda, steps from Piazza Garibaldi — unlike most of this list's castle-hotels, no car is needed to get around town.\n\n**Combine with:** Milan (30 min), the historic Naviglio della Martesana canal path, and the Leonardo da Vinci-associated villas around Vaprio d'Adda.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

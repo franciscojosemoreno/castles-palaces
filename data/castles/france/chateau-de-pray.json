@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 19,
     "room_location": "mixed",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Amboise itself, Indre-et-Loire — 5 minutes from Château d'Amboise and Clos Lucé (Leonardo da Vinci's last home); about 30 minutes from Tours.\n\n**Rooms & rates:** 19 rooms split between the historic château and its outbuildings, from €142/night.\n\n**On-site:** 1-star Michelin restaurant, heated outdoor pool, 5 hectares of gardens and parkland, vegetable garden.\n\n**Good to know:** One of the very first Loire château-hotels (open since 1955) — a long-established address, not a recent conversion. Some rooms sit in the outbuildings rather than the historic château itself.\n\n**Combine with:** Château d'Amboise and Clos Lucé, both minutes away; Château de Chenonceau, about 30 minutes by car.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 4
   }
 }

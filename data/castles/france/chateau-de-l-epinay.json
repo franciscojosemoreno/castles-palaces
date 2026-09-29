@@ -10,7 +10,7 @@
   "region": "Anjou — Saint-Georges-sur-Loire, Pays de la Loire",
   "nearest_city": "Angers",
   "address": "Route de Saint-Georges-sur-Loire, 49170 Saint-Georges-sur-Loire, France",
-  "lat": 47.4000,
+  "lat": 47.4,
   "lng": -0.7167,
   "unesco": false,
   "year_built": 1750,
@@ -82,10 +82,16 @@
     "currency": "EUR",
     "room_count": 27,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 20 km southwest of Angers, in Saint-Georges-sur-Loire; easy access from the N23.\n\n**Rooms & rates:** 27 rooms and suites split between the 18th-century château and renovated outbuildings in the 25-hectare park, from about €185 per night.\n\n**On-site:** Pool, spa in a converted 15th-century bread oven, cinema room, billiards, L'Orangerie restaurant using permaculture produce from the estate's own garden.\n\n**Good to know:** Only a portion of the 27 rooms are in the original château — others are in renovated outbuildings, including the \"Pool Annexe\" category; guests wanting to sleep specifically in the historic building should confirm the room category when booking.\n\n**Combine with:** Château le Fresne (25 min), Angers (20 min).",
     "source": "user-provided",
-    "sourced_date": "2026-09-29"
+    "sourced_date": "2026-09-29",
+    "star_category": 4
   }
 }

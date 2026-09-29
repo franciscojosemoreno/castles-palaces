@@ -11,7 +11,7 @@
   "nearest_city": "Reims",
   "address": "Rue du Château, 51700 Anthenay, France",
   "lat": 49.1167,
-  "lng": 3.7500,
+  "lng": 3.75,
   "unesco": false,
   "year_built": 1900,
   "architectural_style": "A working farm building on the grounds of a château estate in the Montagne de Reims, fully renovated into guest rooms while retaining the character of the original agricultural structure",
@@ -79,11 +79,14 @@
     "currency": "EUR",
     "room_count": 5,
     "room_location": "annex",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "booking_paused": true,
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests. The Booking.com listing is temporarily paused; the property is confirmed open and trading.",
     "how_to_stay": "**Getting there:** In Anthenay, Marne, in the Montagne de Reims — about 3km from the Dormans exit of the A4 motorway, 25km from Reims.\n\n**Rooms & rates:** 5 rooms in a renovated farm building on a château estate; booking temporarily unavailable.\n\n**On-site:** Garden, terrace, free private parking, continental or à la carte breakfast with fresh pastries, cheese, fruit, and juice.\n\n**Good to know:** This is a farm building on the château grounds, not the château itself — guests stay in a renovated agricultural structure rather than the historic main house. Currently on hold: the Booking.com listing is temporarily paused, though the property is confirmed open and trading.\n\n**Combine with:** The Champagne route and Reims, about 25km away.",
     "source": "user-provided",
-    "sourced_date": "2026-10-04"
+    "sourced_date": "2026-10-04",
+    "star_category": 3
   }
 }

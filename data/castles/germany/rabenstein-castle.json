@@ -88,10 +88,14 @@
     "currency": "EUR",
     "room_count": 22,
     "room_location": "castle",
-    "amenities": ["restaurant", "falconry"],
+    "amenities": [
+      "restaurant",
+      "falconry"
+    ],
     "non_guest_access_note": "Castle admission for day visitors €7/€4 concession; on-site falconry (Falknerei) is a separate, real ticketed attraction, €4-8, with live flight demonstrations Tue-Sun",
     "how_to_stay": "**Getting there:** Ahorntal, Franconian Switzerland (Fränkische Schweiz), Bavaria, near Bayreuth.\n\n**Rooms & rates:** All 22 hotel rooms are within the historic castle building itself, individually themed from Baroque salons to a hunting room. From €84/night.\n\n**On-site:** Castle restaurant, real ticketed falconry with live flight demonstrations, castle chapel.\n\n**Good to know:** This is one of the more 'day-visitor-busy' castle-hotels in the collection — the falconry and castle tours draw a steady stream of non-resident visitors, so it suits guests who enjoy an active, shared estate rather than total seclusion. Not to be confused with Rabenstein Palace in Chemnitz, Saxony — a separate, unrelated Baroque property that happens to share the same name.\n\n**Combine with:** The Sophienhöhle dripstone cave, on the same estate, and the wider Franconian Switzerland hiking trails.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-16"
+    "sourced_date": "2026-09-16",
+    "star_category": 4
   }
 }

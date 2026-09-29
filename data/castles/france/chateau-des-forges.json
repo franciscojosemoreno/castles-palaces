@@ -11,7 +11,7 @@
   "nearest_city": "Angers",
   "address": "Route des Forges, 49000 Angers, France",
   "lat": 47.4667,
-  "lng": -0.5500,
+  "lng": -0.55,
   "unesco": false,
   "year_built": 1850,
   "architectural_style": "Built in the 19th century by Anjou industrialist Germain Bouyonnet-Belize; restored by an antique dealer and positioned as a \"Slow Village\" concept property; certified European Ecolabel",
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 14,
     "room_location": "castle",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** On the outskirts of Angers, Maine-et-Loire, in Anjou.\n\n**Rooms & rates:** 14 rooms from €63/night, all within the single 19th-century building, each with a balcony or terrace over the valley.\n\n**On-site:** Outdoor pool with valley views, sun terrace, restaurant led by the creator of the \"Green Punk Food\" veggie brand, 6 hectares of parkland.\n\n**Good to know:** The most design-forward, deliberately contemporary property in the France catalog — the \"Slow Village\" concept prioritizes a relaxed, unstuffy take on château life over period-accurate luxury; also one of the most affordable châteaux in the catalog and European Ecolabel certified.\n\n**Combine with:** Angers city center and Château d'Angers, a short drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-28"
+    "sourced_date": "2026-09-28",
+    "star_category": 4
   }
 }

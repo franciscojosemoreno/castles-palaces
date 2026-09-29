@@ -10,8 +10,8 @@
   "region": "North Rhine-Westphalia — Gehrden (near Brakel), Höxter district, Teutoburg Forest",
   "nearest_city": "Paderborn",
   "address": "Klosterhof 1, 33034 Brakel, Germany",
-  "lat": 51.7280,
-  "lng": 9.1400,
+  "lat": 51.728,
+  "lng": 9.14,
   "unesco": false,
   "year_built": 1176,
   "architectural_style": "Former Benedictine convent with over 850 years of monastic history; extensively renovated and converted into a hotel in 2008",
@@ -81,10 +81,13 @@
     "currency": "EUR",
     "room_count": 35,
     "room_location": "castle",
-    "amenities": ["restaurant"],
+    "amenities": [
+      "restaurant"
+    ],
     "non_guest_access_note": "No confirmed public tour or museum product relating to the site's monastic history was found in research — despite over 850 years of history, this appears to function as a hotel/events venue rather than a site with regular public access. Verify directly with the property before promoting day-visit access.",
     "how_to_stay": "**Getting there:** In Gehrden, near Brakel, Höxter district, North Rhine-Westphalia (Teutoburg Forest / Ostwestfalen region); about 30 minutes from Paderborn and an hour from Kassel by car.\n\n**Rooms & rates:** From approx. €89/night (verify against live rate — sources vary, with some listings showing considerably higher suite pricing). All 35 rooms are within the historic former convent building.\n\n**On-site:** Two restaurants, seven event spaces; all rooms wheelchair-accessible.\n\n**Good to know:** This is a former Benedictine convent, not a defensive castle — a genuinely different historical character from most other properties in this collection. Be sure not to confuse this Gehrden (near Brakel, NRW) with the larger town of Gehrden near Hannover.\n\n**Combine with:** The town of Brakel and the wider Teutoburg Forest (Teutoburger Wald) hiking region.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-18"
+    "sourced_date": "2026-09-18",
+    "star_category": 4
   }
 }

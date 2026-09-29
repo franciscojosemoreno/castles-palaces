@@ -10,8 +10,8 @@
   "region": "Baden-Württemberg — Dischingen, Ostalbkreis",
   "nearest_city": "Heidenheim an der Brenz",
   "address": "Burg Katzenstein 1, 89561 Dischingen, Germany",
-  "lat": 48.7890,
-  "lng": 10.3400,
+  "lat": 48.789,
+  "lng": 10.34,
   "unesco": false,
   "year_built": 1000,
   "architectural_style": "One of the best-preserved Romanesque castle complexes in southern Germany; Kernburg foundations from the 11th century, Palas with a 12th-century core; hotel occupies separate half-timbered Vorburg buildings against the Romanesque ring wall",
@@ -80,10 +80,14 @@
     "price_from_night": 129,
     "currency": "EUR",
     "room_location": "annex",
-    "amenities": ["restaurant", "museum"],
+    "amenities": [
+      "restaurant",
+      "museum"
+    ],
     "non_guest_access_note": "The castle museum (Kernburg/Palas, with 11th-century foundations and a 12th-century vaulted hall) is a genuine, independent day-visit product, with its own entrance via the gatehouse or a Palas staircase — separate from the hotel in the Vorburg.",
     "how_to_stay": "**Getting there:** About 20 minutes by car from Heidenheim an der Brenz; roughly 45 minutes from Aalen and 1h from Ulm.\n\n**Rooms & rates:** Rooms are within the half-timbered Vorburg (outer bailey) estate buildings, built against the Romanesque ring wall — not within the Kernburg or Palas, which house the castle's independent museum. From €129/night.\n\n**On-site:** Restaurant, on-site castle museum (separately accessed and ticketed).\n\n**Good to know:** Guests stay in the historic outer-bailey buildings rather than inside the medieval keep or hall itself — the medieval path connecting the two courtyards no longer exists, reflecting a genuine physical separation between the hotel and the museum sections.\n\n**Combine with:** The castle's own on-site museum, and the wider Swabian Jura (Schwäbische Alb) landscape.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 3
   }
 }

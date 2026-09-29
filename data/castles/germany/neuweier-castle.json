@@ -10,8 +10,8 @@
   "region": "Baden-Württemberg — Neuweier, Baden-Baden district",
   "nearest_city": "Baden-Baden",
   "address": "Mauerbergstraße 21, 76534 Baden-Baden, Germany",
-  "lat": 48.7280,
-  "lng": 8.1720,
+  "lat": 48.728,
+  "lng": 8.172,
   "unesco": false,
   "architectural_style": "A small historic estate combining a residential castle building with a working winery, set amid its own vineyards",
   "price_adult": null,
@@ -82,10 +82,14 @@
     "currency": "EUR",
     "room_count": 10,
     "room_location": "castle",
-    "amenities": ["restaurant", "winery"],
+    "amenities": [
+      "restaurant",
+      "winery"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product was found; the estate operates as a private boutique hotel and winery.",
     "how_to_stay": "**Getting there:** About 10 minutes by car from central Baden-Baden; roughly 30 minutes from Karlsruhe and 1h from Strasbourg.\n\n**Rooms & rates:** 8 rooms plus 2 suites, all within the historic castle building. From €140/night.\n\n**On-site:** Restaurant with regional and estate-wine pairings, on-site winery and vineyards, terrace dining.\n\n**Good to know:** A genuinely small, boutique property (10 rooms total) rather than a large hotel — book well ahead for peak Baden-Baden season.\n\n**Combine with:** Central Baden-Baden's spa quarter and the Baden wine route through the surrounding vineyards.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 3
   }
 }

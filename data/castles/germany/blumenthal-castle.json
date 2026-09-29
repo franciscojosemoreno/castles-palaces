@@ -10,8 +10,8 @@
   "region": "Bavaria — Blumenthal, Aichach municipality, Wittelsbacher Land",
   "nearest_city": "Aichach",
   "address": "Schloss Blumenthal 1, 86551 Aichach, Germany",
-  "lat": 48.4780,
-  "lng": 11.1600,
+  "lat": 48.478,
+  "lng": 11.16,
   "unesco": false,
   "year_built": 1254,
   "architectural_style": "Historic four-winged water castle complex, first documented in the 13th century; restored by a community project from 2006 and converted into a hotel, opened 2014",
@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": 40,
     "room_location": "castle",
-    "amenities": ["restaurant", "art space"],
+    "amenities": [
+      "restaurant",
+      "art space"
+    ],
     "non_guest_access_note": "The former brewery, converted in 2010 into an art and culture space, is occasionally open to the public for cultural events, not a standing museum-style visit.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Aichach; roughly 45 minutes from Augsburg and 1h from Munich.\n\n**Rooms & rates:** 40 individually designed rooms (39 doubles) within the historic ensemble; reception and arrival are in a separate service building at the west tower. From €139/night.\n\n**On-site:** Restaurant, converted-brewery art and culture space, event spaces, conference rooms.\n\n**Good to know:** Each room has its own individually designed theme and story, created by local Blumenthal community artists — expect genuine variation in style from room to room. The modern seminar building (renovated 2024) is used for meetings and events, not overnight guest rooms.\n\n**Combine with:** The Wittelsbacher Land region and the historic town of Aichach.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 3
   }
 }

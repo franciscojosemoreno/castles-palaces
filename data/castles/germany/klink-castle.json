@@ -10,8 +10,8 @@
   "region": "Mecklenburg-Vorpommern — Klink, near Waren, Lake Müritz",
   "nearest_city": "Waren (Müritz)",
   "address": "Schlossstraße 1, 17192 Klink, Germany",
-  "lat": 53.5060,
-  "lng": 12.5680,
+  "lat": 53.506,
+  "lng": 12.568,
   "unesco": false,
   "year_built": 1898,
   "architectural_style": "French Loire Valley château style, built 1898 on the shore of Lake Müritz",
@@ -83,10 +83,15 @@
     "currency": "EUR",
     "room_count": 106,
     "room_location": "annex",
-    "amenities": ["restaurant", "spa", "marina"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "marina"
+    ],
     "non_guest_access_note": "The hotel's private harbor and lakeside restaurant are open to the public; boat excursions on Lake Müritz depart from the harbor. No separate paid castle-interior tour was found — access to the historic castle building itself is for hotel guests.",
     "how_to_stay": "**Getting there:** In Klink, near Waren (Müritz); Waren has regional rail connections, with the castle a short taxi or drive from the station. About 2 hours by car from Berlin.\n\n**Rooms & rates:** From approx. €129/night, with a wide range up to €180+/night reported depending on season, room building, and source (verify against live rate).\n\n**On-site:** Restaurant, spa, private harbor, and lake boat excursions; free wifi and parking included.\n\n**Good to know:** Most rooms (76 of 106) are in the separate Orangerie annex, not the 1898 castle building itself — specify the castle building at booking if staying within the historic structure matters to you, though availability there is limited.\n\n**Combine with:** The town of Waren (Müritz) and boat trips on Lake Müritz, Germany's second-largest lake and centerpiece of the Müritz National Park region.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 4
   }
 }

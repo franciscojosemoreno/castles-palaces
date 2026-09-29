@@ -83,10 +83,14 @@
     "currency": "EUR",
     "room_count": 10,
     "room_location": "castle",
-    "amenities": ["winery", "gardens"],
+    "amenities": [
+      "winery",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests and periodic cultural events.",
     "how_to_stay": "**Getting there:** About 20 minutes from Seggiano and 1 hour from Grosseto by car; the closest airport is Rome-Fiumicino (~2h) or Florence-Peretola (~1h45). A very rural area — a car is essential.\n\n**Rooms & rates:** 10 rooms within the main castle (capacity up to 20 people) and 2 apartments (2-8 people), with period furnishings, some with exposed wooden beams and others with frescoed ceilings. From €180/night.\n\n**On-site:** Own winery (wine, oil, spirits), cultural events, gardens.\n\n**Good to know:** It's also a \"permanent cultural laboratory\" with periodic events — worth checking the calendar if you want to combine your stay with a cultural activity.\n\n**Combine with:** Monte Amiata (hiking and nature), Seggiano (~20 min), Montalcino and its Brunello wine route (~45 min), the thermal springs at Saturnia (~50 min).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 4
   }
 }

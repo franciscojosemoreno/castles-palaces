@@ -84,10 +84,17 @@
     "currency": "EUR",
     "room_count": 37,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "outdoor pool", "tennis", "gym"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "tennis",
+      "gym"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** About 5 minutes from Gaiole in Chianti and 35 minutes from Siena by car; Florence's Peretola Airport (FLR) is about 1 hour away.\n\n**Rooms & rates:** 37 rooms spread between the medieval castle building and a couple of dependances on the property, decorated in traditional Tuscan style. From €294/night.\n\n**On-site:** Michelin-starred restaurant \"Il Pievano\" in the former monastery church, two swimming pools (one heated), spa with sauna and Turkish bath, tennis court, gym.\n\n**Good to know:** The combination of monastic history, medieval castle, and Michelin-starred dining makes it one of the most complete resorts in Chianti — book the Il Pievano restaurant well ahead.\n\n**Combine with:** Gaiole in Chianti (~5 min), the Chianti Classico wine route, Siena (~35 min).",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-24"
+    "sourced_date": "2026-09-24",
+    "star_category": 5
   }
 }

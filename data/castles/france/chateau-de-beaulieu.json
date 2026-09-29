@@ -84,10 +84,15 @@
     "currency": "EUR",
     "room_count": 16,
     "room_location": "mixed",
-    "amenities": ["restaurant", "spa", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Joué-lès-Tours, Indre-et-Loire, on the Cher River — near Tours.\n\n**Rooms & rates:** 16 rooms from about €139 per night; only 9 are within the historic château, the rest elsewhere on the grounds. Specify a château room at booking if that matters to you.\n\n**On-site:** Magnolia Spa (sauna, hammam, additional cost), tennis court, restaurant with an extensive wine list (350+ wines), botanical garden.\n\n**Good to know:** Just over half the rooms are within the 18th-century château; the rest are spread across the wider estate.\n\n**Combine with:** Tours and the Montbazon-area château cluster, both nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-10-06"
+    "sourced_date": "2026-10-06",
+    "star_category": 4
   }
 }

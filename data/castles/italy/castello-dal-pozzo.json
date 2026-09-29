@@ -84,10 +84,15 @@
     "currency": "EUR",
     "room_count": 45,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens", "lake views"],
+    "amenities": [
+      "restaurant",
+      "gardens",
+      "lake views"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; functions as a private resort within Preferred Hotels & Resorts.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Malpensa Airport; roughly 30 minutes from Stresa and the Borromean Islands on Lake Maggiore.\n\n**Rooms & rates:** 45-46 rooms spread across three distinct historic buildings — the Neo-Gothic Castle, the 18th-century Visconti Palazzo, and the former Scuderie (stables). From €91/night.\n\n**On-site:** Restaurant, gardens with lake views, event spaces.\n\n**Good to know:** Which of the three buildings a room is in significantly affects the character of the stay — specify a preference at booking if staying inside the Castle itself matters to you, as opposed to the Palazzo or the former stables.\n\n**Combine with:** Stresa and the Borromean Islands on Lake Maggiore, a short drive away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-22"
+    "sourced_date": "2026-09-22",
+    "star_category": 5
   }
 }

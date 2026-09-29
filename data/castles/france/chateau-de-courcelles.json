@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": 20,
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Courcelles-sur-Vesle, Aisne — about 30 minutes from Reims, in the Hauts-de-France region.\n\n**Rooms & rates:** 20 rooms and suites from €300/night; most are in the main 17th-century château, with 3 suites and 3 Prestige rooms set in the historic outbuildings.\n\n**On-site:** Michelin-starred restaurant (since 2024), 25 hectares of formal French gardens, and a separate modern orangerie for events.\n\n**Good to know:** A genuine 17th-century château with royal and literary history (Napoleon, Rousseau, Dumas) — not a modern reconstruction.\n\n**Combine with:** Reims and its cathedral and Champagne houses, about 30 minutes away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 4
   }
 }

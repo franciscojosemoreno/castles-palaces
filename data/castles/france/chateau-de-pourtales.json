@@ -10,7 +10,7 @@
   "region": "Strasbourg, Bas-Rhin (Grand Est)",
   "nearest_city": "Strasbourg",
   "address": "Parc de Pourtalès, 67000 Strasbourg, France",
-  "lat": 48.6000,
+  "lat": 48.6,
   "lng": 7.7833,
   "unesco": false,
   "year_built": 1750,
@@ -79,10 +79,14 @@
     "currency": "EUR",
     "room_count": 48,
     "room_location": "mixed",
-    "amenities": ["spa", "gardens"],
+    "amenities": [
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** A few kilometers from central Strasbourg, within a 15-hectare park.\n\n**Rooms & rates:** 48 rooms split between the château, its annex, and the modern \"Le Parc\" building; from about €91 per night.\n\n**On-site:** Spa with Finnish sauna, hammam, sensory shower and salt wall; 15-hectare park.\n\n**Good to know:** The château preserves a notable aristocratic history — hosting Liszt, Napoleon III and Metternich — but much of the current room inventory is in the Annex and \"Le Parc,\" not the 1750 building itself.\n\n**Combine with:** Strasbourg's historic center (Grande Île, UNESCO), a few minutes away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-30"
+    "sourced_date": "2026-09-30",
+    "star_category": 3
   }
 }

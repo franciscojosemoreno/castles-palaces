@@ -10,8 +10,8 @@
   "region": "Bavaria — Hopferau, Ostallgäu, near Füssen",
   "nearest_city": "Füssen",
   "address": "Schlossstraße 1, 87659 Hopferau, Germany",
-  "lat": 47.5960,
-  "lng": 10.6980,
+  "lat": 47.596,
+  "lng": 10.698,
   "unesco": false,
   "year_built": 1468,
   "architectural_style": "Three-story gabled main building (1468) with a 19th-century three-story hip-roofed Neo-Gothic wing",
@@ -84,10 +84,14 @@
     "currency": "EUR",
     "room_count": 17,
     "room_location": "castle",
-    "amenities": ["restaurant", "beer garden"],
+    "amenities": [
+      "restaurant",
+      "beer garden"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product was found; the castle functions as a private hotel, restaurant and event venue.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Füssen; roughly 1h15 from Kempten and 1h30 from Munich.\n\n**Rooms & rates:** 17 rooms with flat-screen TVs, within the single historic building (three-story main block plus 19th-century Neo-Gothic wing). From €172/night.\n\n**On-site:** Restaurant, beer garden, conference rooms and event spaces.\n\n**Good to know:** Ownership changed in February 2025 — the new owner is shifting part of the property toward events, office use, and artist accommodation, so it's worth confirming current public booking availability before your stay.\n\n**Combine with:** Neuschwanstein and Hohenschwangau castles, both under 15 minutes away.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 4
   }
 }

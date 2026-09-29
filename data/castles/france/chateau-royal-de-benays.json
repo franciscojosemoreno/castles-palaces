@@ -10,8 +10,8 @@
   "region": "Loire Valley — Benais, Indre-et-Loire, near Bourgueil",
   "nearest_city": "Tours",
   "address": "Rue du Château, 37140 Benais, France",
-  "lat": 47.3000,
-  "lng": 0.1500,
+  "lat": 47.3,
+  "lng": 0.15,
   "unesco": false,
   "year_built": 1500,
   "architectural_style": "Site documented from the 12th century (as \"Beniacum\"); the present structure was built in the 16th century atop an older fortified gate flanked by two towers; partially destroyed before the French Revolution, with the surviving gate towers incorporated into a new 19th-century building; listed as a Historical Monument in 1929",
@@ -81,10 +81,14 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "mixed",
-    "amenities": ["gardens", "gym"],
+    "amenities": [
+      "gardens",
+      "gym"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Benais, Indre-et-Loire, near Bourgueil — in the same corner of the Loire Valley as Rochecotte and Langeais, roughly 10km from Rochecotte.\n\n**Rooms & rates:** From €135/night, on a 12-hectare estate. The building is largely a 19th-century reconstruction that incorporates two surviving medieval towers from the original 16th-century fortified gate.\n\n**On-site:** Fitness center, sun terrace, gardens, bar, and outdoor play area. An active restoration project — part of the property's current character is guests hearing the story of the restoration alongside their stay.\n\n**Good to know:** This is a property still being brought back to life — reviews describe an evolving, in-progress restoration rather than a fully polished luxury finish. Confirm current room/amenity status before booking if that matters to you.\n\n**Combine with:** Château de Rochecotte and the Bourgueil vineyards, both close by.",
     "source": "user-provided",
-    "sourced_date": "2026-09-26"
+    "sourced_date": "2026-09-26",
+    "star_category": 4
   }
 }

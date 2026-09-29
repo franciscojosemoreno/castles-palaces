@@ -10,8 +10,8 @@
   "region": "Baden-Württemberg — Rheinfelden (Baden), near the Swiss border",
   "nearest_city": "Basel (Switzerland)",
   "address": "Schloss Beuggen 2, 79618 Rheinfelden, Germany",
-  "lat": 47.5680,
-  "lng": 7.7930,
+  "lat": 47.568,
+  "lng": 7.793,
   "unesco": false,
   "year_built": 1248,
   "architectural_style": "Former Teutonic Order commandery; core buildings from the 13th century (Stork Tower, c. 1260); reopened as a hotel in 2017 after 160 years as a children's home",
@@ -80,10 +80,14 @@
     "price_from_night": 179,
     "currency": "EUR",
     "room_location": "mixed",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "The castle church (Schlosskirche) is freely open to the public, with prayers held twice daily by the resident Beuggen community. The rest of the historic complex, including the Stork Tower, can only be viewed by arranged private or group tour.",
     "how_to_stay": "**Getting there:** East of Rheinfelden (Baden), Baden-Württemberg, directly on the Rhine near the Swiss border; about 20 minutes from Basel (Switzerland) and 45 minutes from Freiburg im Breisgau by car.\n\n**Rooms & rates:** From approx. €179/night for a double room in the historic Haupthaus (single rooms from €109); some rooms are in a separate Gästehaus converted from the estate's former stable (verify against live rate).\n\n**On-site:** Restaurant, gardens, castle church (Schlosskirche), Rhine-facing grounds.\n\n**Good to know:** Specify the Haupthaus when booking if sleeping in the historic \"Altes Schloss\" or \"Neues Schloss\" buildings is the priority — the Gästehaus is a genuine part of the estate but a converted 19th-century stable rather than the medieval commandery core. The castle church is open to all, with services twice daily.\n\n**Combine with:** The Swiss city of Basel, a short drive or tram ride away, and the Badische Weinstraße (Baden Wine Route) running through the region.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-18"
+    "sourced_date": "2026-09-18",
+    "star_category": 3
   }
 }

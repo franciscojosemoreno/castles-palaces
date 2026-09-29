@@ -10,8 +10,8 @@
   "region": "Mecklenburg-Vorpommern — Gamehl, near Wismar",
   "nearest_city": "Wismar",
   "address": "Dorfstraße 1, 23968 Gamehl, Germany",
-  "lat": 53.8950,
-  "lng": 11.3350,
+  "lat": 53.895,
+  "lng": 11.335,
   "unesco": false,
   "year_built": 1800,
   "architectural_style": "19th-century neo-Gothic manor house, restored 2000–2008",
@@ -83,10 +83,14 @@
     "currency": "EUR",
     "room_count": 19,
     "room_location": "castle",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed public day-visitor product (museum, tours, or paid park access) was found in research — the estate appears to function primarily for hotel guests and private events. Verify directly with the property before promoting day-visit access.",
     "how_to_stay": "**Getting there:** Near the village of Gamehl, about 15–20 minutes by car from Wismar; Wismar has regional rail connections, but the castle itself requires a car or taxi from the station.\n\n**Rooms & rates:** From approx. €165/night for a standard double room, with themed arrangement packages from around €129/person for multi-night stays (verify against live rate).\n\n**On-site:** Restaurant, gardens, and grounds; free wifi and parking included.\n\n**Good to know:** All 19 rooms are within the single restored manor building — there is no separate annex. No confirmed public day-visitor product was found; this appears to be a guest- and event-focused property rather than one with regular public access.\n\n**Combine with:** The Hanseatic old town of Wismar (UNESCO World Heritage site) and the Baltic coast around Wismar Bay.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-17"
+    "sourced_date": "2026-09-17",
+    "star_category": 4
   }
 }

@@ -82,10 +82,13 @@
     "currency": "EUR",
     "room_count": 3,
     "room_location": "castle",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "This is primarily a day-visit destination — Europe's tallest inhabited château, with 204 rooms in total. Only 3 rooms operate as a seasonal bed-and-breakfast (mid-April to mid-October); the château's guided day tour is included for overnight guests.",
     "how_to_stay": "**Getting there:** In Brissac-Quincé, Anjou countryside, between Angers and Saumur.\n\n**Rooms & rates:** Only 3 of the château's 204 rooms operate as a bed-and-breakfast, and only seasonally (mid-April to mid-October); from about €590 per night for two, breakfast and a château visit included.\n\n**On-site:** A 70-hectare landscaped park, guided tour of the château (included for overnight guests), the estate's own vineyard.\n\n**Good to know:** This is above all a visit destination — Europe's tallest inhabited château — with an extremely limited and seasonal accommodation offering (just 3 rooms, half the year). Confirm availability dates before planning your trip.\n\n**Combine with:** Château de Brissac's day visit (included with the stay), Angers (20 min), Saumur (25 min).",
     "source": "user-provided",
-    "sourced_date": "2026-10-01"
+    "sourced_date": "2026-10-01",
+    "star_category": 4
   }
 }

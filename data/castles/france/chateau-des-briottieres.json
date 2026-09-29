@@ -11,7 +11,7 @@
   "nearest_city": "Angers",
   "address": "Route de Champigné, 49330 Champigné, France",
   "lat": 47.6167,
-  "lng": -0.4500,
+  "lng": -0.45,
   "unesco": false,
   "year_built": 1780,
   "architectural_style": "Estate traced to the early 15th century under the Mergot family; the surviving 18th-century château was built as an elegant summer residence set within a 50-hectare English-style park",
@@ -82,10 +82,15 @@
     "currency": "EUR",
     "room_count": 17,
     "room_location": "mixed",
-    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 25 km north of Angers, in the heart of Anjou; about 1h45 by train from Paris Montparnasse to Angers, then a 30-minute drive.\n\n**Rooms & rates:** 17 rooms split across three styles — the historic château, the contemporary Le Fruitier, and the secluded La Cabane Lodge in the park. Rates range from €220 to €320 depending on setting and season.\n\n**On-site:** 50-hectare English-style park, outdoor pool, gastronomic restaurant, billiard room, nearby equestrian activities.\n\n**Good to know:** Only a portion of the rooms are in the 18th-century château itself — guests wanting the true château experience should book that category specifically, not Le Fruitier or La Cabane.\n\n**Combine with:** Château d'Angers (30 min), the wider Anjou wine route.",
     "source": "user-provided",
-    "sourced_date": "2026-09-29"
+    "sourced_date": "2026-09-29",
+    "star_category": 4
   }
 }

@@ -10,8 +10,8 @@
   "region": "Tuscany — Montalcino, Siena Province",
   "nearest_city": "Montalcino",
   "address": "Castello di Poggio alle Mura, 53024 Montalcino SI, Italy",
-  "lat": 42.9410,
-  "lng": 11.4550,
+  "lat": 42.941,
+  "lng": 11.455,
   "unesco": false,
   "year_built": 1100,
   "architectural_style": "Medieval castle (Castello di Poggio alle Mura, 12th century) now the Banfi winery headquarters; the hotel occupies Il Borgo, an 18th-century stone agricultural village built beneath the castle's walls",
@@ -85,10 +85,15 @@
     "currency": "EUR",
     "room_count": 14,
     "room_location": "annex",
-    "amenities": ["restaurant", "winery", "gardens"],
+    "amenities": [
+      "restaurant",
+      "winery",
+      "gardens"
+    ],
     "non_guest_access_note": "The Castello di Poggio alle Mura (12th century) houses the Banfi winery headquarters and its wine tastings, not an independent museum-style visit; tastings and tours are open to the general public, not just hotel guests.",
     "how_to_stay": "**Getting there:** About 15 minutes by car from Montalcino; roughly 50 minutes from Siena and 2h from Florence.\n\n**Rooms & rates:** 14 rooms and suites (9 rooms, 5 suites) within Il Borgo, the 18th-century stone village beneath the castle walls — not within the medieval castle itself, which houses the Banfi winery. From €549/night.\n\n**On-site:** Restaurant, winery and wine-tasting experiences, gardens.\n\n**Good to know:** Guests stay in the historic estate village rather than inside the medieval castle proper — the castle itself is the working winery headquarters, open to the public for tastings and tours regardless of hotel stay.\n\n**Combine with:** Montalcino's historic center and the Brunello di Montalcino wine route.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-21"
+    "sourced_date": "2026-09-21",
+    "star_category": 5
   }
 }

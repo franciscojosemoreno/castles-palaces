@@ -11,7 +11,7 @@
   "nearest_city": "Montluçon",
   "address": "Parc Saint-Jean, 03100 Montluçon, France",
   "lat": 46.3333,
-  "lng": 2.6000,
+  "lng": 2.6,
   "unesco": false,
   "year_built": 1200,
   "architectural_style": "Built on the site of a former Knights Templar commandery; restored across contemporary and historic wings since 2016; a member of Relais & Châteaux since 2018",
@@ -80,10 +80,16 @@
     "currency": "EUR",
     "room_count": 19,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "indoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "indoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** 5 minutes from the medieval center of Montluçon; about 3 hours by car from Paris, or by train to Montluçon via Vichy/Moulins.\n\n**Rooms & rates:** 19 rooms and suites across the château's historic and contemporary wings, from about €300 per night.\n\n**On-site:** Michelin-recognized gastronomic restaurant in the 12th-century chapel, spa, indoor pool, park with pond.\n\n**Good to know:** A former Knights Templar commandery — the structure visible today combines medieval foundations with a contemporary wing and restoration added since 2016; the spa and restaurant occupy estate outbuildings, but the guest rooms themselves are within the château's main body.\n\n**Combine with:** The medieval city of Montluçon, a short walk or drive away.",
     "source": "user-provided",
-    "sourced_date": "2026-09-29"
+    "sourced_date": "2026-09-29",
+    "star_category": 5
   }
 }

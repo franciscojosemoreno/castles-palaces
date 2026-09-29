@@ -10,7 +10,7 @@
   "region": "Villiers-le-Mahieu, Yvelines (Île-de-France)",
   "nearest_city": "Paris",
   "address": "Rue du Château, 78770 Villiers-le-Mahieu, France",
-  "lat": 48.8000,
+  "lat": 48.8,
   "lng": 1.6667,
   "unesco": false,
   "year_built": 1642,
@@ -80,10 +80,14 @@
     "currency": "EUR",
     "room_count": 98,
     "room_location": "mixed",
-    "amenities": ["spa", "gardens"],
+    "amenities": [
+      "spa",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Villiers-le-Mahieu, Yvelines — about 45 minutes from Paris.\n\n**Rooms & rates:** 98 rooms from about €190 per night, spread across the château, a farmhouse, and other outbuildings on the estate; a separate 5-bedroom Cottage is also available for larger groups.\n\n**On-site:** Wellness area, golf course, bicycles, pétanque courts, 12-hectare wooded park with a moat.\n\n**Good to know:** A large estate where most rooms are not within the historic château itself — specify a Château room category at booking if staying in the original 1642 building matters to you.\n\n**Combine with:** Versailles and the wider Yvelines countryside, within reach of Paris.",
     "source": "user-provided",
-    "sourced_date": "2026-10-06"
+    "sourced_date": "2026-10-06",
+    "star_category": 4
   }
 }

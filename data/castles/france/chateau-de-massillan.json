@@ -11,7 +11,7 @@
   "nearest_city": "Orange",
   "address": "Chemin de Massillan, 84100 Uchaux, France",
   "lat": 44.2167,
-  "lng": 4.8000,
+  "lng": 4.8,
   "unesco": false,
   "year_built": 1150,
   "architectural_style": "Dates from the 12th, 16th, and 18th centuries; the 16th-century core reputedly used by King Henry II as a hunting lodge, with ties to Diana of Poitiers; converted to a hotel in 1965 and restored by Marie and Didier Perréol blending original architecture with contemporary decor",
@@ -82,10 +82,16 @@
     "currency": "EUR",
     "room_count": 32,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "outdoor pool", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
     "how_to_stay": "**Getting there:** In Uchaux, Vaucluse — in Provence's Orange hinterlands, surrounded by vineyards.\n\n**Rooms & rates:** 32 rooms and suites from €224/night, within the historic 16th-century core and its later additions — turrets and courtyard preserved.\n\n**On-site:** Gastronomic restaurant plus a casual bistro (both organic/local-focused), 10 hectares of parkland, spa, heated pools.\n\n**Good to know:** A genuinely eclectic property — historic turrets and courtyard sit alongside deliberately modern art and design choices, not a period-accurate restoration.\n\n**Combine with:** Roman Orange (Théâtre Antique, UNESCO) and the Côtes du Rhône wine route, both nearby.",
     "source": "user-provided",
-    "sourced_date": "2026-09-28"
+    "sourced_date": "2026-09-28",
+    "star_category": 4
   }
 }

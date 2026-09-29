@@ -10,8 +10,8 @@
   "region": "Bavaria — Bernried, Landkreis Deggendorf, Lower Bavaria",
   "nearest_city": "Deggendorf",
   "address": "Egg 2, 94505 Bernried, Germany",
-  "lat": 48.8830,
-  "lng": 12.9280,
+  "lat": 48.883,
+  "lng": 12.928,
   "unesco": false,
   "year_built": 1103,
   "architectural_style": "First mentioned in 1103 as a moated castle, romantically remodeled in Neo-Gothic style in the mid-19th century; the 45-metre Hungerturm is the tallest castle keep in Bavaria. The hotel and restaurant occupy a separate former estate building (Wirtschaftsgebäude/Burgstall) from 1589 at the foot of the castle, not the main Neo-Gothic building",
@@ -83,10 +83,14 @@
     "currency": "EUR",
     "room_count": 6,
     "room_location": "annex",
-    "amenities": ["restaurant", "gardens"],
+    "amenities": [
+      "restaurant",
+      "gardens"
+    ],
     "non_guest_access_note": "The main castle offers guided interior tours during seasonal hours (Sundays/holidays only in April and October, daily May–September), €10 adults / €5 children, tickets at the door — a genuine day-visit product separate from staying at the hotel.",
     "how_to_stay": "**Getting there:** About 20 minutes by car from Deggendorf; roughly 1h from Regensburg and 1h30 from Passau.\n\n**Rooms & rates:** Rooms are within the historic 1589 Wirtschaftsgebäude (Burgstall), the former estate building in the outer grounds at the foot of the castle — not the main Neo-Gothic castle building; private bathrooms throughout. From €99/night.\n\n**On-site:** Restaurant, garden, sun terrace, picnic area.\n\n**Good to know:** Guests stay in the estate's historic 1589 building at the foot of the castle rather than inside the main Neo-Gothic castle — still centuries-old and atmospheric, just a different building within the same grounds. Day visitors can separately tour the castle interior during seasonal opening hours.\n\n**Combine with:** The Bavarian Forest (Bayerischer Wald) region and the town of Deggendorf.",
     "source": "web-search-aggregate",
-    "sourced_date": "2026-09-20"
+    "sourced_date": "2026-09-20",
+    "star_category": 3
   }
 }
