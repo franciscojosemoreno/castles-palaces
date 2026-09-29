@@ -84,12 +84,14 @@
     "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=barony-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fgb%2Fbarony-castle-hotel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D200111%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785020707%26srpvid%3Dd963a24f413a0375%26type%3Dtotal%26ucfs%3D1%26",
     "price_from_night": 75,
     "currency": "GBP",
-    "star_category": 4,
+    "star_category": 3,
     "room_count": 82,
     "source": "web-search-aggregate",
     "sourced_date": "2026-09-12",
     "room_location": "castle",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "Free, legally-mandated public access to the Great Polish Map of Scotland on the grounds — see Highlights above",
     "how_to_stay": "**Getting there:** Eddleston, Scottish Borders, near Peebles.\n\n**Rooms & rates:** 82 rooms, grown from the remains of the 16th-century Murray of Blackbarony tower house at the building's core — the hotel's own materials don't explicitly break down room categories by building age.\n\n**On-site:** Grounds including the Great Polish Map of Scotland (a Category B listed outdoor terrain model, free to visit as a legal condition of its restoration grant).\n\n**Good to know:** Given the scale of the hotel (82 rooms) grown from a much smaller original tower, ask specifically about room age/location if sleeping in the oldest part of the building matters to you.\n\n**Combine with:** Peebles town centre, a short drive away."
   }
