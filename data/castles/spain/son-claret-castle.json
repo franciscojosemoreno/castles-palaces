@@ -1,0 +1,92 @@
+{
+  "id": "son-claret-castle",
+  "name": "Son Claret Castle",
+  "local_name": "Castell Son Claret - The Leading Hotels of the World",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 29,
+  "country": "spain",
+  "region": "Es Capdellà, Calvià, Mallorca, Balearic Islands",
+  "nearest_city": "Palma de Mallorca",
+  "address": "Ctra. Es Capdellà - Galilea, Km 1.7, 07196 Es Capdellà, Balearic Islands, Spain",
+  "lat": 39.6167,
+  "lng": 2.5000,
+  "unesco": false,
+  "year_built": 1850,
+  "architectural_style": "A 19th-century manor-castle in rural Mallorca, within the Serra de Tramuntana (UNESCO World Heritage), restored and expanded into a luxury hotel and member of The Leading Hotels of the World",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms and suites within the restored manor-castle; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "Mallorca's first castle-hotel in this collection — a 19th-century rural manor within the Tramuntana mountains, restored for The Leading Hotels of the World",
+  "highlights": [
+    "A 19th-century manor-castle in the rural interior of Mallorca, in the municipality of Calvià, within the Serra de Tramuntana (a UNESCO World Heritage site)",
+    "The original building was restored and expanded into a luxury hotel and member of The Leading Hotels of the World, the prestigious international association of independent high-end hotels",
+    "Set on over 300 hectares of gardens and Mediterranean vegetation, offering a sharp contrast to Mallorca's better-known beach destinations"
+  ],
+  "description": "Son Claret Castle is a 19th-century manor-castle in the rural interior of Mallorca, in the municipality of Calvià, within the Serra de Tramuntana, a UNESCO World Heritage site. The original building was restored and expanded into a luxury hotel and member of The Leading Hotels of the World, the prestigious international association of independent high-end hotels.\n\nThe property sits on over 300 hectares of gardens and Mediterranean vegetation, offering a sharp contrast to Mallorca's better-known beach destinations — positioning itself as a luxury rural retreat in the island's interior.\n\nThe castle's setting within the UNESCO-listed Serra de Tramuntana gives Son Claret a formally recognized natural heritage backdrop, distinct from the coastal resorts more commonly associated with Mallorca tourism.\n\nThe property's membership in The Leading Hotels of the World, an association reserved for a curated set of independent luxury properties globally, gives Son Claret a specific international hospitality pedigree.\n\nThe estate's 300-plus hectares of gardens give guests staying at Son Claret a genuinely expansive private landscape, well beyond the immediate footprint of the historic manor building.",
+  "history": "Son Claret Castle is a 19th-century manor-castle in rural Mallorca, within the Serra de Tramuntana (UNESCO World Heritage). Restored and expanded, it operates today as a luxury hotel and member of The Leading Hotels of the World, set within over 300 hectares of gardens and Mediterranean vegetation in the municipality of Calvià.",
+  "faqs": [
+    {
+      "question": "Is Son Claret Castle on the coast or inland?",
+      "answer": "Inland — it sits in the rural interior of Mallorca, within the Serra de Tramuntana mountains, a contrast to the island's better-known beach destinations."
+    },
+    {
+      "question": "What hotel association does Son Claret Castle belong to?",
+      "answer": "The Leading Hotels of the World, a prestigious international association of independent luxury hotels."
+    },
+    {
+      "question": "How large is the Son Claret Castle estate?",
+      "answer": "Over 300 hectares of gardens and Mediterranean vegetation."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/son-claret-castle.webp",
+    "alt": "Son Claret Castle, a 19th-century manor-castle in Mallorca's Serra de Tramuntana, Balearic Islands, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/son-claret-castle.webp",
+  "instagram_tag": "#sonclaretcastle",
+  "meta_title": "Son Claret Castle — A Leading Hotels of the World Property in Mallorca",
+  "meta_description": "Stay at Son Claret Castle in Mallorca's Serra de Tramuntana — a 19th-century manor-castle and member of The Leading Hotels of the World.",
+  "tags": [
+    "spain",
+    "balearic-islands",
+    "castle-hotel",
+    "mallorca",
+    "luxury",
+    "tramuntana"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [
+    "son-vida-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castell Son Claret - The Leading Hotels of the World",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=castell-son-claret&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcastell-son-claret.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D571046%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784842115%26srpvid%3D0cab96fe10b101c4%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 705,
+    "currency": "EUR",
+    "star_category": 5,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "spa", "outdoor pool", "tennis", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Es Capdellà, Calvià, in Mallorca's rural interior, Balearic Islands.\n\n**Rooms & rates:** Rooms and suites (including suites with a private pool and garden views), blending historic elements with contemporary luxury; from about €705 per night.\n\n**On-site:** Two pools, spa and wellness center with sauna and hammam, gym, tennis court, restaurant with à la carte vegetarian/vegan options, airport transfer, room service.\n\n**Good to know:** The first castle-hotel on Mallorca in this collection and the first Leading Hotels of the World member among Spain's castle-hotels.\n\n**Combine with:** The wider Serra de Tramuntana and Palma de Mallorca's old town.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-11"
+  }
+}

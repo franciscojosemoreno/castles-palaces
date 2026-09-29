@@ -1,0 +1,92 @@
+{
+  "id": "bulbuente-castle",
+  "name": "Bulbuente Castle",
+  "local_name": "Castillo de Bulbuente de Luis Zueco",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "spain",
+  "region": "Bulbuente, Province of Zaragoza, Aragon — Moncayo region",
+  "nearest_city": "Tarazona",
+  "address": "C. del Castillo, s/n, 50573 Bulbuente, Zaragoza, Spain",
+  "lat": 41.8167,
+  "lng": -1.6167,
+  "unesco": false,
+  "year_built": 1300,
+  "architectural_style": "A historic castle in the Moncayo region, restored with notable historical care, owned by Spanish novelist Luis Zueco",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms and suites, some with a mountain-view terrace; contact the property directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A meticulously restored Moncayo castle owned by a bestselling historical novelist, who sometimes gifts guests one of his own books",
+  "highlights": [
+    "Owned by Spanish writer Luis Zueco, author of historical novels set in medieval Spanish castles and cathedrals",
+    "Restored with notable historical care — guest reviews repeatedly praise the quality of the restoration, done \"with knowledge and affection\"",
+    "Some guests receive a copy of one of Luis Zueco's books as a gift during their stay, reinforcing the connection between the property and Spanish historical storytelling"
+  ],
+  "description": "Bulbuente Castle, in the Moncayo region of Zaragoza province, is owned by Spanish writer Luis Zueco, author of historical novels set in medieval Spanish castles and cathedrals. The castle was restored with notable historical care — guest reviews repeatedly praise the quality of the restoration, describing it as \"an extraordinary restoration, done with knowledge and affection.\" Some guests even receive a copy of one of Luis Zueco's books as a gift during their stay, reinforcing the connection between the property and Spanish historical storytelling.\n\nThe castle sits about 17 km from Grisel Castle and near the Monastery of Veruela, within the same Moncayo-region castle-hotel cluster as Añón de Moncayo.\n\nThe owner's own career as a published historical novelist gives Bulbuente a documented connection between the physical restoration and a recognized authority on Spanish historical heritage, a combination rarely found elsewhere in this collection.\n\nThe consistent guest praise for the restoration's historical fidelity suggests a level of scholarly care in the renovation process distinct from more purely commercial castle-hotel conversions.\n\nThe castle's position within the Moncayo cluster, alongside Grisel and Añón de Moncayo, ties Bulbuente to a specific and geographically compact corner of Aragon's castle-hotel landscape.",
+  "history": "Bulbuente Castle, in the Moncayo region of Zaragoza province, is owned by Spanish historical novelist Luis Zueco, whose books are set in medieval Spanish castles and cathedrals. The castle was restored with notable historical care, praised repeatedly by guests. It sits about 17 km from Grisel Castle, within the same Moncayo-region castle-hotel cluster.",
+  "faqs": [
+    {
+      "question": "Who owns Bulbuente Castle?",
+      "answer": "Spanish writer Luis Zueco, author of historical novels set in medieval Spanish castles and cathedrals — some guests even receive one of his books as a gift during their stay."
+    },
+    {
+      "question": "What do guests say about the restoration?",
+      "answer": "Reviews repeatedly praise its historical fidelity, describing it as an extraordinary restoration done with knowledge and affection."
+    },
+    {
+      "question": "How far is Bulbuente Castle from Grisel Castle?",
+      "answer": "About 17 km — both are part of the same Moncayo-region castle-hotel cluster, along with Añón de Moncayo."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bulbuente-castle.webp",
+    "alt": "Bulbuente Castle, a meticulously restored Moncayo castle owned by novelist Luis Zueco, Zaragoza province, Aragon, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bulbuente-castle.webp",
+  "instagram_tag": "#bulbuentecastle",
+  "meta_title": "Bulbuente Castle — A Novelist's Restored Castle in Aragon",
+  "meta_description": "Stay at Bulbuente Castle in the Moncayo region — a meticulously restored castle owned by Spanish historical novelist Luis Zueco.",
+  "tags": [
+    "spain",
+    "aragon",
+    "castle-hotel",
+    "zaragoza",
+    "moncayo",
+    "rural"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [
+    "grisel-castle",
+    "anon-de-moncayo-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castillo de Bulbuente de Luis Zueco",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=castillo-de-bulbuente&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcastillo-de-bulbuente.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D7603444%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784842251%26srpvid%3Da76e97439a4c0047%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 84,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Bulbuente, Province of Zaragoza, Aragon, in the Moncayo region.\n\n**Rooms & rates:** Rooms and suites, several with a hydromassage bathtub, some with a mountain-view terrace; from about €84 per night.\n\n**On-site:** Seasonal outdoor pool, garden, free private parking, common lounge.\n\n**Good to know:** Owned by novelist Luis Zueco, whose historical novels are set in Spanish castles — a distinctive and underused content angle, since the owner himself is a recognized authority on Spanish historical heritage.\n\n**Combine with:** Grisel Castle and the Monastery of Veruela, both part of the same Moncayo cluster.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-11"
+  }
+}

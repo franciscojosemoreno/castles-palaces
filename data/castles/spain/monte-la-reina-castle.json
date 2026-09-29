@@ -1,0 +1,89 @@
+{
+  "id": "monte-la-reina-castle",
+  "name": "Monte la Reina Castle",
+  "local_name": "Castillo de Monte la Reina Posada Real & Bodega",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 22,
+  "country": "spain",
+  "region": "Toro, Province of Zamora, Castile and León",
+  "nearest_city": "Zamora",
+  "address": "Ctra. Toro-Salamanca, Km 16, 49800 Toro, Zamora, Spain",
+  "lat": 41.4667,
+  "lng": -5.4000,
+  "unesco": false,
+  "year_built": 1400,
+  "architectural_style": "A historic castle on a wine estate outside Toro, within the Denominación de Origen Toro wine region, combining accommodation, its own winery, and vineyards",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms within the castle, some with balconies; contact the property directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A castle on a working Toro wine estate, with its own winery and vineyard tastings in the heart of Castilla y León's wine country",
+  "highlights": [
+    "Stands on a wine estate outside Toro, within one of Castilla y León's most historic winemaking regions, the Denominación de Origen Toro",
+    "Combines accommodation, its own winery, and vineyards, offering an experience that unites historic heritage with wine tourism",
+    "Its rural setting, surrounded by vineyards and open countryside, makes it a genuine disconnection destination within Castilla y León's castle-hotel circuit"
+  ],
+  "description": "Monte la Reina Castle stands on a wine estate on the outskirts of Toro, in the province of Zamora, one of Castilla y León's most historic winemaking regions, within the Denominación de Origen Toro. The castle is part of an estate that combines accommodation, its own winery, and vineyards, offering an experience that unites historic heritage with wine tourism.\n\nThe setting is especially valued for its tranquility and isolation: the property is surrounded by vineyards and open countryside, far from urban bustle, making it a genuine disconnection destination within the Castilla y León castle-hotel circuit.\n\nThe estate's own working winery and vineyard, rather than a merely decorative wine theme, gives Monte la Reina a genuine agricultural dimension shared by only a handful of other Spanish castle-hotels.\n\nThe property's position within the Denominación de Origen Toro, one of Spain's oldest protected wine regions, ties the castle directly to a winemaking tradition with formal appellation status.\n\nThe castle's rural isolation, surrounded by vineyards rather than an urban or village setting, distinguishes Monte la Reina from the town-center Paradores that make up much of Spain's castle-hotel inventory.",
+  "history": "Monte la Reina Castle stands on a wine estate outside Toro, within the Denominación de Origen Toro wine region of Zamora province. The property combines historic accommodation with its own winery and vineyards, offering guests a working wine-tourism estate within Castilla y León's castle-hotel circuit.",
+  "faqs": [
+    {
+      "question": "What makes Monte la Reina Castle distinctive among Spain's castle-hotels?",
+      "answer": "Its own working winery and vineyard, within the Denominación de Origen Toro wine region, giving guests wine tastings and a genuine agricultural estate alongside the historic castle."
+    },
+    {
+      "question": "Is Monte la Reina Castle in a town or rural setting?",
+      "answer": "Rural — the property is surrounded by vineyards and open countryside outside Toro, far from urban bustle."
+    },
+    {
+      "question": "What wine region is Monte la Reina Castle part of?",
+      "answer": "The Denominación de Origen Toro, one of Castilla y León's most historic winemaking appellations."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/monte-la-reina-castle.webp",
+    "alt": "Monte la Reina Castle, a wine-estate castle hotel with its own winery near Toro, Zamora province, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/monte-la-reina-castle.webp",
+  "instagram_tag": "#montelareinacastle",
+  "meta_title": "Monte la Reina Castle — A Wine Estate Hotel Near Toro",
+  "meta_description": "Stay at Monte la Reina Castle near Toro — a wine-estate castle hotel with its own winery and vineyards, in the Denominación de Origen Toro region.",
+  "tags": [
+    "spain",
+    "castile-and-leon",
+    "castle-hotel",
+    "zamora",
+    "toro",
+    "wine"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Castillo de Monte la Reina Posada Real & Bodega",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castillo-monte-la-reina&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcastillo-monte-la-reina.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D6458712%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784842006%26srpvid%3D716996c8b6070089%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 125,
+    "currency": "EUR",
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["winery", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** On the outskirts of Toro, Province of Zamora, Castile and León.\n\n**Rooms & rates:** Rooms within the castle, some with balconies; from about €125 per night, breakfast included.\n\n**On-site:** Own winery with wine tastings, seasonal outdoor pool, garden, free private parking, shared kitchen.\n\n**Good to know:** The estate's own winery and wine tastings are a strong differentiator against other regional castle-hotels — a relevant angle for wine tourism in the Denominación de Origen Toro.\n\n**Combine with:** Toro's historic center and the wider DO Toro wine route.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-11"
+  }
+}
