@@ -1,0 +1,90 @@
+{
+  "id": "curiel-castle",
+  "name": "Curiel Castle",
+  "local_name": "Residencia Real del Castillo de Curiel",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 26,
+  "country": "spain",
+  "region": "Curiel de Duero, Province of Valladolid, Castile and León",
+  "nearest_city": "Valladolid",
+  "address": "Cuesta del Castillo, s/n, 47316 Curiel de Duero, Valladolid, Spain",
+  "lat": 41.6167,
+  "lng": -4.1167,
+  "unesco": false,
+  "year_built": 700,
+  "architectural_style": "The oldest fortress in Valladolid province; Roman-era origins (a coin of Emperor Arcadius, 4th century AD, was found on site), walls likely dating to the 7th century, with first documented references from the 11th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Themed rooms within the historic castle; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "The oldest fortress in Valladolid province, where a nobleman was held prisoner for 54 years — now a Ribera del Duero luxury hotel",
+  "highlights": [
+    "The oldest fortress in the province of Valladolid, with Roman-era origins confirmed by a 4th-century coin of Emperor Arcadius found on site",
+    "Belonged to numerous kings and queens of Castile and León, including Alfonso VII, Alfonso VIII, Fernando III \"the Saint,\" Alfonso X \"the Wise,\" and Pedro I \"the Cruel\"",
+    "For nearly two centuries it served as a prison for nobles and kings — Diego de Castilla was held here for 54 years, one of the longest documented captivities in any Spanish castle"
+  ],
+  "description": "Curiel de Duero Castle is the oldest fortress in the province of Valladolid, with origins tracing to the Roman era — a coin of Emperor Arcadius from the 4th century AD was found on the site — and walls likely dating to the 7th century, with the first documented references appearing in the 11th century.\n\nThe castle belonged to numerous kings and queens of Castile and León, among them Alfonso VII, Alfonso VIII, Alfonso IX, Fernando III \"the Saint,\" Alfonso X \"the Wise,\" Sancho IV \"the Brave,\" Alfonso XI, Pedro I \"the Cruel,\" and Henry II of Trastámara. It formed part of the marriage dowries of Eleanor Plantagenet, Infanta Estefanía, Doña Berenguela \"the Great,\" and Doña Violante.\n\nFor nearly two centuries the castle functioned as a prison for nobles and kings, including James IV of Majorca, the Infante Don Juan, the Earl of Pembroke, and Diego de Castilla, who was imprisoned there for 54 years — one of the longest documented captivities in any Spanish castle.\n\nToday it is a luxury hotel where each room bears the name of a historical figure who lived at the castle, with a restaurant serving Castilian and medieval cuisine and a distinctive wine cellar installed in a reconstructed Romanesque church within the grounds.\n\nThe castle's documented ownership by no fewer than nine Castilian and Leonese monarchs, spanning several centuries, gives Curiel a genuinely royal pedigree distinct from properties associated with a single ruling family.\n\nDiego de Castilla's 54-year imprisonment here stands as one of the longest documented noble captivities in Spanish castle history, a specific and striking historical footnote.\n\nThe castle's position in the heart of the Ribera del Duero wine region ties the property directly to one of Spain's most celebrated winemaking areas.",
+  "history": "Curiel de Duero Castle is the oldest fortress in Valladolid province, with Roman-era origins and walls likely from the 7th century, first documented in the 11th century. It belonged to numerous Castilian and Leonese monarchs, including Alfonso VII, Fernando III, and Alfonso X, and formed part of several royal marriage dowries. For nearly two centuries it served as a prison for nobles and kings, including Diego de Castilla, held for 54 years. It operates today as a luxury hotel with themed rooms named after historical figures.",
+  "faqs": [
+    {
+      "question": "Who was imprisoned at Curiel Castle the longest?",
+      "answer": "Diego de Castilla, who was held prisoner at the castle for 54 years — one of the longest documented noble captivities in Spanish castle history."
+    },
+    {
+      "question": "Which monarchs owned Curiel Castle?",
+      "answer": "Numerous kings and queens of Castile and León, including Alfonso VII, Alfonso VIII, Fernando III \"the Saint,\" Alfonso X \"the Wise,\" and Pedro I \"the Cruel,\" among others."
+    },
+    {
+      "question": "What is unusual about the castle's wine cellar?",
+      "answer": "It is installed inside a reconstructed Romanesque church within the castle grounds, in the heart of the Ribera del Duero wine region."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/curiel-castle.webp",
+    "alt": "Curiel Castle, the oldest fortress in Valladolid province, now a luxury hotel in the Ribera del Duero, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/curiel-castle.webp",
+  "instagram_tag": "#curielcastle",
+  "meta_title": "Curiel Castle — A Ribera del Duero Luxury Hotel",
+  "meta_description": "Stay at Curiel Castle in Valladolid — the oldest fortress in the province, once a royal prison, now a luxury hotel in the Ribera del Duero wine region.",
+  "tags": [
+    "spain",
+    "castile-and-leon",
+    "castle-hotel",
+    "valladolid",
+    "ribera-del-duero",
+    "wine"
+  ],
+  "last_updated": "2026-10-08",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Residencia Real del Castillo de Curiel",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=castillo-de-curiel&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fresidencia-real-del-castillo-de-curiel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D242560%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784833108%26srpvid%3D68238567e5400606%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 121,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "winery"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Curiel de Duero, Province of Valladolid, Castile and León.\n\n**Rooms & rates:** Themed rooms, each named for a historical figure connected to the castle; from about €121 per night, breakfast included.\n\n**On-site:** Restaurant serving Castilian and medieval cuisine, wine cellar inside a reconstructed Romanesque church, setting within the Ribera del Duero wine region.\n\n**Good to know:** Diego de Castilla was imprisoned at this castle for 54 years — one of the longest documented noble captivities in Spanish history, a striking detail worth knowing.\n\n**Combine with:** The wider Ribera del Duero wine route.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-08"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ciudad-rodrigo-castle",
+  "name": "Ciudad Rodrigo Castle",
+  "local_name": "Parador de Ciudad Rodrigo (Castillo de Enrique II)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "spain",
+  "region": "Ciudad Rodrigo, Province of Salamanca, Castile and León",
+  "nearest_city": "Salamanca",
+  "address": "Pl. del Castillo, 1, 37500 Ciudad Rodrigo, Salamanca, Spain",
+  "lat": 40.6000,
+  "lng": -6.5333,
+  "unesco": false,
+  "year_built": 1372,
+  "architectural_style": "Original fortification built by order of Ferdinand II of León; rebuilt in 1372 on the order of Henry II of Trastámara, designed by Zamora-born architect Lope Arias Jenízaro",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms within the medieval fortress; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A frontier fortress rebuilt for Henry II of Trastámara, and the fourth Parador ever opened in Spain (1931)",
+  "highlights": [
+    "Although known by the name of Henry II of Trastámara, it was actually Ferdinand II of León who ordered the original fortification built on this site",
+    "Henry II ordered its reconstruction in 1372, commissioning the work to Zamora-born architect Lope Arias Jenízaro",
+    "Given its frontier position near Portugal, the castle was attacked on numerous occasions throughout the medieval conflicts that beset Castile and León"
+  ],
+  "description": "Although Ciudad Rodrigo Castle is known by the name of Henry II of Trastámara, it was actually Ferdinand II of León who ordered the original fortification built on this site. Henry II ordered its reconstruction in 1372, commissioning the work to Zamora-born architect Lope Arias Jenízaro. Given its frontier position near Portugal, the castle was attacked on numerous occasions throughout the medieval conflicts that beset Castile and León.\n\nThe Parador opened its doors on 23 April 1931 — the fourth in the entire network, just three years after the opening of the first Parador at Gredos, making it one of the chain's founding historic establishments.\n\nToday its rooms sit within the medieval fortress.\n\nThe castle's confusing dual naming — popularly attributed to Henry II despite the original fortification predating him under Ferdinand II of León — reflects how the more consequential 1372 reconstruction came to overshadow the site's earlier origins in popular memory.\n\nThe Parador's 1931 opening, just three years after the chain's founding property at Gredos, gives Ciudad Rodrigo genuine historical standing among the earliest establishments in the entire Parador network.\n\nThe castle's frontier position near the Portuguese border, and its repeated attacks throughout medieval Castilian-Leonese conflicts, give it a documented military history distinct from more purely residential Spanish castle-hotels.",
+  "history": "Ciudad Rodrigo Castle's original fortification was ordered by Ferdinand II of León, though the castle is popularly known by the name of Henry II of Trastámara, who ordered its reconstruction in 1372, designed by architect Lope Arias Jenízaro. Its frontier position near Portugal made it the target of numerous attacks throughout medieval Castilian-Leonese conflicts. The Parador opened on 23 April 1931, the fourth in Spain's network, just three years after the chain's founding property at Gredos.",
+  "faqs": [
+    {
+      "question": "Why is the castle named after Henry II if Ferdinand II built it first?",
+      "answer": "Ferdinand II of León ordered the original fortification, but Henry II of Trastámara's more consequential 1372 reconstruction came to define the castle's identity and name in popular memory."
+    },
+    {
+      "question": "How early was this Parador established?",
+      "answer": "It opened on 23 April 1931, the fourth Parador in the entire Spanish network, just three years after the chain's founding property at Gredos."
+    },
+    {
+      "question": "Why was the castle attacked so often historically?",
+      "answer": "Its frontier position near Portugal made it a target throughout the medieval conflicts that beset Castile and León."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ciudad-rodrigo-castle.webp",
+    "alt": "Ciudad Rodrigo Castle, a medieval frontier fortress and one of Spain's earliest Paradores, Salamanca province, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ciudad-rodrigo-castle.webp",
+  "instagram_tag": "#ciudadrodrigocastle",
+  "meta_title": "Ciudad Rodrigo Castle — An Early Parador Hotel Near Salamanca",
+  "meta_description": "Stay at Ciudad Rodrigo Castle near Salamanca — a medieval frontier fortress and one of the first four Paradores in Spain, opened in 1931.",
+  "tags": [
+    "spain",
+    "castile-and-leon",
+    "castle-hotel",
+    "salamanca",
+    "parador",
+    "medieval"
+  ],
+  "last_updated": "2026-10-08",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Parador de Ciudad Rodrigo",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castillo-de-ciudad-rodrigo&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fparador-de-ciudad-rodrigo.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D14566%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784833190%26srpvid%3D8065859154d30904%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 148,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Ciudad Rodrigo, Province of Salamanca, Castile and León.\n\n**Rooms & rates:** Rooms within the medieval fortress; from about €148 per night.\n\n**On-site:** Restaurant, views over the Águeda river valley, the city's medieval walls.\n\n**Good to know:** One of the first four Paradores in the network (1931) — an early milestone in the chain's history, almost as old as the Parador concept itself.\n\n**Combine with:** Ciudad Rodrigo's own walled old town and Salamanca, a short drive away.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-08"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "arteaga-castle",
+  "name": "Arteaga Castle",
+  "local_name": "Hotel Castillo de Arteaga",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 26,
+  "country": "spain",
+  "region": "Gautegiz Arteaga, Biscay, Basque Country — Urdaibai Biosphere Reserve",
+  "nearest_city": "Bilbao",
+  "address": "Kolejio Kalea, 1, 48314 Gautegiz Arteaga, Biscay, Spain",
+  "lat": 43.3667,
+  "lng": -2.6500,
+  "unesco": false,
+  "year_built": 1859,
+  "architectural_style": "A first tower dating to the 13th century, property of the Arteaga family; rebuilt in Neo-Gothic style between 1856 and 1859 to designs by French imperial architect Gabriel-Auguste Ancelet, commissioned by Empress Eugénie de Montijo",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "14 individually decorated rooms within the historic castle; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A medieval Basque family tower rebuilt in Neo-Gothic style by order of Empress Eugénie de Montijo, wife of Napoleon III",
+  "highlights": [
+    "The original tower dates to the 13th century, property of the Arteaga family, related to the Montijos and therefore to Empress Eugénie de Montijo, wife of Napoleon III of France",
+    "By the 19th century the building was badly deteriorated and used as a farmhouse",
+    "In gratitude for the Biscayan General Assembly naming the Imperial Prince (son of Napoleon III and Eugénie, descended from the lords of Arteaga through his mother) an honorary Biscayan in 1856, the Empress commissioned French imperial architects to rebuild the family's deteriorated castle in Neo-Gothic style, beginning in 1859"
+  ],
+  "description": "The original tower at Arteaga dates to the 13th century, property of the Arteaga family, related to the Montijos and therefore to Empress Eugénie de Montijo, wife of Napoleon III of France. By the 19th century the building was badly deteriorated and used as a farmhouse.\n\nIn 1856, the Biscayan General Assembly named the Imperial Prince — son of Napoleon III and Eugénie de Montijo, descended from the lords of Arteaga through his mother — an honorary Biscayan. In gratitude for this recognition, Empress Eugénie decided to rebuild the deteriorated family castle, commissioning the plans from French imperial architects — the Neo-Gothic work was designed by Gabriel-Auguste Ancelet and began in 1859.\n\nToday the castle operates as a 14-room hotel, each room individually decorated, within the Urdaibai Biosphere Reserve.\n\nThe castle's documented reconstruction by imperial commission, funded and directed by the wife of a reigning French emperor, gives Arteaga one of the few Spanish castles with a direct and documented link to 19th-century French imperial court.\n\nThe honorary Biscayan title granted to the Imperial Prince in 1856, tracing his descent from the lords of Arteaga through his mother, ties the castle's reconstruction to a specific and unusual episode of Basque-French dynastic connection.\n\nThe castle's setting within the Urdaibai Biosphere Reserve, a UNESCO-recognized natural area, gives guests staying at Arteaga access to one of northern Spain's most protected coastal and estuarine landscapes.",
+  "history": "The original tower at Arteaga dates to the 13th century, property of the Arteaga family, related through marriage to Empress Eugénie de Montijo, wife of Napoleon III. By the 19th century the building had deteriorated into a farmhouse. In 1856, following the Biscayan General Assembly's honorary naming of the Imperial Prince (descended from the lords of Arteaga), Empress Eugénie commissioned French imperial architect Gabriel-Auguste Ancelet to rebuild the castle in Neo-Gothic style, beginning in 1859. It operates today as a 14-room hotel within the Urdaibai Biosphere Reserve.",
+  "faqs": [
+    {
+      "question": "What is the connection between Arteaga Castle and Napoleon III?",
+      "answer": "The Arteaga family was related to the Montijos, making Empress Eugénie de Montijo, wife of Napoleon III, a relative. She personally commissioned the castle's Neo-Gothic reconstruction in 1859, designed by French imperial architect Gabriel-Auguste Ancelet."
+    },
+    {
+      "question": "Why did Empress Eugénie rebuild the castle?",
+      "answer": "In gratitude for the Biscayan General Assembly's 1856 honorary naming of the Imperial Prince, her son, as a Biscayan — recognizing his descent from the lords of Arteaga through his mother's line."
+    },
+    {
+      "question": "How many rooms does the hotel have?",
+      "answer": "14, each individually decorated, within the Urdaibai Biosphere Reserve."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/arteaga-castle.webp",
+    "alt": "Arteaga Castle, a Neo-Gothic castle rebuilt by Empress Eugénie de Montijo, Urdaibai Biosphere Reserve, Basque Country, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/arteaga-castle.webp",
+  "instagram_tag": "#arteagacastle",
+  "meta_title": "Arteaga Castle — An Imperial Hotel in the Basque Country",
+  "meta_description": "Stay at Arteaga Castle in Biscay — rebuilt in Neo-Gothic style by Empress Eugénie de Montijo, wife of Napoleon III, within the Urdaibai Biosphere Reserve.",
+  "tags": [
+    "spain",
+    "basque-country",
+    "castle-hotel",
+    "biscay",
+    "urdaibai",
+    "neo-gothic"
+  ],
+  "last_updated": "2026-10-08",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Castillo de Arteaga",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castillo-de-arteaga&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcastillo-de-arteaga.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D420644%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784833145%26srpvid%3Df88a857a744a0008%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 191,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": 14,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Gautegiz Arteaga, Biscay, within the Urdaibai Biosphere Reserve.\n\n**Rooms & rates:** 14 individually decorated rooms with air conditioning, minibar, and views over the natural surroundings; from about €191 per night, breakfast included.\n\n**On-site:** Outdoor terraces in the castle's elevated sections, event rooms, à la carte restaurant with dining room and fireplace, the Urdaibai Biosphere Reserve setting.\n\n**Good to know:** Rebuilt by commission of Empress Eugénie de Montijo, wife of Napoleon III — one of the few Spanish castles with a direct and documented link to the 19th-century French imperial court.\n\n**Combine with:** The Urdaibai Biosphere Reserve and the wider Basque coast.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-08"
+  }
+}

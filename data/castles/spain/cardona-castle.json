@@ -78,7 +78,7 @@
     "catalonia",
     "parador"
   ],
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-10-08",
   "routes": [],
   "nearby_castles": [
     "palacio-real-de-olite",
@@ -106,5 +106,21 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Parador de Cardona",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=castillo-de-cardona&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fparador-de-cardona.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D17279%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784832937%26srpvid%3D2e528511435f0571%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 89,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gym", "gardens"],
+    "source": "user-provided",
+    "sourced_date": "2026-10-08",
+    "non_guest_access_note": "Castle and Collegiate Church admission covered separately by the existing entry ticket — see Quick Facts/Visit above.",
+    "how_to_stay": "**Getting there:** Already covered by the How to Visit section above (Cardona, 93 km north of Barcelona).\n\n**Rooms & rates:** Rooms within the castle building itself, with canopy beds and Gothic touches, furniture inspired by medieval Catalonia; from about €89 per night.\n\n**On-site:** Restaurant in the former medieval dining hall (regional Catalan cuisine), gym, sauna, free parking, panoramic views over the Cardoner valley and the salt mountain from the Romanesque church of Sant Vicenç.\n\n**Good to know:** The hotel occupies the historic castle building itself, the same structure described in the visit section above — not a separate wing. The Dukes of Cardona were known as \"kings without a crown\" for their power within the Crown of Aragon; the castle was the last Catalan bastion to hold out in the War of the Spanish Succession, surrendering on 18 September 1714.\n\n**Combine with:** The castle's own Collegiate Church of Sant Vicenç and the adjacent Salt Mountain, already covered above."
+  }
 }
