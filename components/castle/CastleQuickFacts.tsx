@@ -109,7 +109,7 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
     castle.hotel?.star_category && {
       icon: '🏨',
       label: 'Hotel rating',
-      value: `${castle.hotel.star_category}-Star Hotel`,
+      value: `${'★'.repeat(castle.hotel.star_category)} ${castle.hotel.star_category}-Star Hotel`,
     },
     castle.visit_duration && {
       icon: '⏱',

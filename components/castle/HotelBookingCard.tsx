@@ -37,7 +37,7 @@ export default function HotelBookingCard({ hotel }: Props) {
       </h3>
       {hotel.star_category && (
         <span className="inline-block bg-stone-100 text-stone-600 text-xs font-medium px-2 py-0.5 rounded-full mb-3">
-          {hotel.star_category}-Star Hotel
+          {'★'.repeat(hotel.star_category)} {hotel.star_category}-Star Hotel
         </span>
       )}
       <div className="flex items-center gap-2 mb-3">

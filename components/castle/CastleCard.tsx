@@ -76,6 +76,15 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
         </h3>
         <p className="text-sm text-stone-500 leading-relaxed line-clamp-2">{castle.tagline}</p>
 
+        {isHotelVariant && castle.hotel?.star_category && (
+          <div
+            className="text-[#c9a84c] text-sm mt-2 tracking-wide"
+            aria-label={`${castle.hotel.star_category}-star hotel`}
+          >
+            {'★'.repeat(castle.hotel.star_category)}
+          </div>
+        )}
+
         <div className="mt-3 flex items-center justify-between">
           <span className="text-sm text-stone-600">
             {isHotelVariant ? (
