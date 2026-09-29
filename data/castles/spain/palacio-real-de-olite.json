@@ -75,7 +75,7 @@
     "instagram-worthy",
     "day-trip-from-pamplona"
   ],
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-10-07",
   "routes": [],
   "nearby_castles": [
     "cardona-castle",
@@ -101,5 +101,21 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Parador de Olite",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=castillo-de-olite&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fparador-de-turismo-de-olite.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D16735%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784832827%26srpvid%3D174684db4dec0ff0%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 98,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "source": "user-provided",
+    "sourced_date": "2026-10-07",
+    "non_guest_access_note": "The museum wing (Palacio Real, Charles III's Gothic palace) is covered separately by the existing entry ticket — see Quick Facts/Visit above.",
+    "how_to_stay": "**Getting there:** Already covered by the How to Visit section above (43 km south of Pamplona).\n\n**Rooms & rates:** Rooms within the Palacio Viejo (Palacio de los Teobaldos) — the oldest wing of the complex, distinct from the Gothic Palacio Real built by Charles III that houses the museum described above; the hotel and the museum are two parts of the same historic complex, not the same rooms. From about €98 per night.\n\n**On-site:** Towers, battlements, galleries and arcades with stained glass, suits of armor, tapestries, and wrought-iron lamps, coffered ceilings.\n\n**Good to know:** Just 350 meters on foot from the Olite/Erriberri train station — very accessible without a car.\n\n**Combine with:** The Palacio Real museum wing, already covered above."
+  }
 }
