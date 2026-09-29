@@ -1,0 +1,108 @@
+{
+  "id": "maidens-tower",
+  "name": "Maiden's Tower",
+  "local_name": "Kız Kulesi",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 10,
+  "country": "turkey",
+  "region": "Istanbul — southern mouth of the Bosphorus, off Üsküdar, Asian side",
+  "nearest_city": "Istanbul",
+  "address": "Salacak Mevkii, Üsküdar, 34668 İstanbul, Turkey",
+  "lat": 41.0211,
+  "lng": 29.0044,
+  "unesco": false,
+  "year_built": -408,
+  "architectural_style": "A tiny islet fortification 200 metres off Üsküdar, with origins as a 408 BC Athenian watchtower; the present structure has Byzantine 12th-century foundations, destroyed and rebuilt by Mehmed II after the 1453 Ottoman conquest, and later served in turn as a lighthouse, quarantine station and military outpost through the Ottoman era",
+  "opening_hours": {
+    "monday": "09:30–17:00",
+    "tuesday": "09:30–17:00",
+    "wednesday": "09:30–17:00",
+    "thursday": "09:30–17:00",
+    "friday": "09:30–17:00",
+    "saturday": "09:30–17:00",
+    "sunday": "09:30–17:00",
+    "seasonal_note": "Open daily. The only access is by boat from Karaköy pier, with departures roughly every 90 minutes. Confirm current sailing times before visiting, as they can shift seasonally."
+  },
+  "price_adult": 45,
+  "price_child": null,
+  "price_currency": "USD",
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "1.5–2 hours including boat transfer",
+  "best_season": "Year-round — the tower's museum and café are indoor, and the boat crossing itself offers Bosphorus views in any season; spring and autumn avoid both summer crowds and winter sea conditions that can occasionally delay sailings",
+  "accessibility": "Access is by boat only, followed by a short walk on the islet; the tower's interior has stairs with no lift. Contact the operator directly regarding specific accessibility needs.",
+  "booking_advance_days": 0,
+  "tagline": "A 200-metre boat ride to a tower where a princess supposedly died by snakebite, and where legend says a lovesick swimmer drowned trying to reach his beloved",
+  "highlights": [
+    "Origins trace to 408 BC, when Athenian general Alcibiades is said to have built a watchtower here to monitor ships arriving from the Black Sea",
+    "In 1110, Byzantine Emperor Alexios I Komnenos built a wooden tower behind a stone wall, linked by an iron chain to another tower on the European shore at Mangana, closing the strait to hostile ships",
+    "The Turkish name, Kız Kulesi (\"Maiden's Tower\"), and the alternate English name, Leander's Tower, come from two separate legends — one about an emperor's daughter and a fatal snakebite, the other from the Greek myth of Hero and Leander"
+  ],
+  "description": "Maiden's Tower occupies a tiny islet at the southern mouth of the Bosphorus, barely 200 metres off the coast of Üsküdar on Istanbul's Asian side. Its origins reach back to 408 BC, when the Athenian general Alcibiades is said to have built a watchtower here to monitor ships arriving from the Black Sea — a strategic chokepoint that any power controlling the Bosphorus needed to watch.\n\nThe structure known today has Byzantine roots: in 1110, Emperor Alexios I Komnenos built a wooden tower protected by a stone wall, from which an iron chain stretched to another tower on the European shore, in the Mangana district of Constantinople — a defensive system designed to close the strait to hostile vessels.\n\nDuring the Ottoman conquest of Constantinople in 1453, the tower held a Byzantine garrison commanded by the Venetian Gabriele Trevisano. It was destroyed in the siege and rebuilt on the order of Sultan Mehmed II, going on to serve successive functions — lighthouse, quarantine station, and military outpost — throughout the Ottoman era.\n\nThe tower is famous for two legends that give it its two names. The first, the \"maiden's legend\" behind its Turkish name Kız Kulesi, tells of an emperor who had the tower built to protect his daughter from a prophecy that she would die from a snakebite; on her 18th birthday, an asp hidden in a basket of exotic fruit bit her anyway, fulfilling the oracle. The second legend, of Greek origin, gives the tower its alternate English name, Leander's Tower: according to the myth of Hero and Leander, Hero was a priestess of Aphrodite living in a tower at Sestos on the Hellespont; one stormy night, Leander drowned swimming to visit her, and Hero threw herself from the tower in grief.\n\nToday the tower operates as a museum and café, and is one of Istanbul's most photographed landmarks, visible from both shores of the Bosphorus.",
+  "history": "The islet's watchtower origins trace to 408 BC under Athenian general Alcibiades. In 1110, Byzantine Emperor Alexios I Komnenos built a wooden tower behind a stone wall, linked by chain to a tower on the European shore at Mangana. Destroyed during the 1453 Ottoman conquest while defended by a Venetian-commanded Byzantine garrison, it was rebuilt under Mehmed II and served over the centuries as a lighthouse, quarantine station, and military outpost. It operates today as a museum and café.",
+  "how_to_visit": "**Getting there:** The only access is by boat, departing from the Karaköy pier, directly in front of the Ziraat Bank. Boats run daily between 09:30 and 17:00, with departures roughly every 90 minutes.\n\n**Tickets:** The GYG entry ticket does not include the boat fare — that is purchased separately at the ticket office beside the pier. Budget for both when planning your visit. The GYG ticket includes an audio guide in 25 languages, free cancellation up to 24 hours in advance, and a reserve-now-pay-later option.\n\n**Practical tips:** Several reviewers have flagged the boat fare as a point of confusion, since it isn't bundled into the GYG ticket price — confirm this at booking so it isn't a surprise on the day. Time your visit around the roughly 90-minute sailing intervals to avoid a long wait at the pier.\n\n**Combine with:** The wider Bosphorus waterfront on both the European and Asian shores, easily reached from the same Karaköy pier area.",
+  "faqs": [
+    {
+      "question": "Is the boat ride included in the ticket price?",
+      "answer": "No — the GYG entry ticket covers the tower and its museum, but the boat crossing from Karaköy pier is a separate cost, purchased at the ticket office beside the pier. Several visitor reviews specifically flag this as easy to miss when booking."
+    },
+    {
+      "question": "Why does the tower have two different names?",
+      "answer": "Kız Kulesi (\"Maiden's Tower\") comes from a Turkish legend about a princess who died from a snakebite despite her father's attempt to protect her by building the tower. The English name Leander's Tower comes from the separate Greek myth of Hero and Leander, in which a swimmer drowns crossing the strait to reach his beloved."
+    },
+    {
+      "question": "How old is the site itself?",
+      "answer": "The islet's use as a watchtower dates back to 408 BC under the Athenian general Alcibiades, though the structure visitors see today has Byzantine 12th-century foundations rebuilt by the Ottomans after 1453."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/maidens-tower.webp",
+    "alt": "Maiden's Tower (Kız Kulesi) on its islet at the mouth of the Bosphorus, Istanbul, Turkey",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/maidens-tower.webp",
+  "instagram_tag": "#maidenstower",
+  "meta_title": "Maiden's Tower (Kız Kulesi) Istanbul: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Maiden's Tower on the Bosphorus in Istanbul — an islet fortress with roots in 408 BC and two rival legends. Boat access, tickets and visitor tips 2026.",
+  "tags": [
+    "turkey",
+    "istanbul",
+    "uskudar",
+    "fortress",
+    "bosphorus",
+    "byzantine",
+    "ottoman",
+    "island"
+  ],
+  "last_updated": "2026-09-29",
+  "routes": [],
+  "nearby_castles": [
+    "topkapi-palace"
+  ],
+  "gyg_location_id": "56",
+  "gyg_search_query": "Maiden's Tower Istanbul entry ticket audio guide",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "266862",
+      "title": "Istanbul: Maiden's Tower Entry Ticket with Audio Guide",
+      "type": "entry_ticket",
+      "duration": "1.5–2 hours",
+      "price_from": 45,
+      "rating": 4.1,
+      "reviews": 31,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/istanbul-l56/istanbul-maiden-s-tower-entry-ticket-with-audio-guide-t266862/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "maidens-tower"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

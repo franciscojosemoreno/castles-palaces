@@ -1,0 +1,105 @@
+{
+  "id": "colchester-castle",
+  "name": "Colchester Castle",
+  "local_name": "Colchester Castle",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 8,
+  "country": "england",
+  "region": "Essex — Colchester",
+  "nearest_city": "Colchester",
+  "address": "Castle Park, Colchester CO1 1TJ, England",
+  "lat": 51.8897,
+  "lng": 0.9036,
+  "unesco": false,
+  "year_built": 1076,
+  "architectural_style": "The largest Norman keep in Europe, built c. 1076–1100 directly on the foundations of the Roman Temple of Claudius (AD 49–60); Norman builders reused Roman stone and, lacking enough of their own, filled the four vaults of the podium with sand rather than solid masonry; the keep is one and a half times the size of the Tower of London's White Tower, on which it was modeled",
+  "opening_hours": {
+    "monday": "10:00–17:00",
+    "tuesday": "10:00–17:00",
+    "wednesday": "10:00–17:00",
+    "thursday": "10:00–17:00",
+    "friday": "10:00–17:00",
+    "saturday": "10:00–17:00",
+    "sunday": "10:00–17:00",
+    "seasonal_note": "Open daily; confirm current hours before visiting as museum hours can shift seasonally."
+  },
+  "price_adult": 40,
+  "price_child": null,
+  "price_currency": "USD",
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "2 hours",
+  "best_season": "Year-round — the castle and its museum galleries are entirely indoor",
+  "accessibility": "The museum occupies a Norman keep with multiple levels; contact Colchester Castle Museum directly for current step-free access details.",
+  "booking_advance_days": 0,
+  "tagline": "Europe's largest Norman keep, built on the ashes of the Roman temple Boudica's army burned to the ground in AD 60",
+  "highlights": [
+    "The largest Norman keep in all of Europe, one and a half times the size of the Tower of London's White Tower on which it was modeled",
+    "Built directly on the foundations of the Roman Temple of Claudius (AD 49–60), the most important building in Roman Britain and a symbol of Roman rule so hated that it became a flashpoint of rebellion",
+    "In AD 60, Queen Boudica's army burned Camulodunum to the ground; survivors who took refuge in the temple held out only a couple of days before it fell"
+  ],
+  "description": "Colchester Castle is the largest Norman keep in all of Europe, and its history begins long before the Norman conquest. The site sits on the foundations of the Temple of Claudius, built between AD 49 and 60 in Camulodunum (Roman Colchester), the most important building in Roman Britain — funded by local taxes and built with enslaved British labor, a symbol of Roman domination that became a focus of deep local resentment.\n\nThat resentment erupted in AD 60, when Queen Boudica, leading the Iceni, joined forces with the Trinovantes to attack and burn the largely undefended city. Survivors took refuge in the largest building in the city, the Temple of Claudius itself, but held out only a couple of days before the temple fell.\n\nConstruction of the Norman castle began around 1076 and was completed by around 1100, as a royal fortress for William I, son of William the Conqueror. Norman builders made use of the existing Roman temple foundations — a practical choice in a region with little natural stone — and reused Roman stone in the construction. The resulting keep is one and a half times the size of the White Tower of London, on which it was modeled, and since there wasn't enough stone to fully fill the podium, its four vaults were packed with sand instead.\n\nToday the castle operates as a museum, with collections spanning thousands of years: archaeological finds, Roman objects, sculpture, mosaics, coins, jewelry, weapons and everyday items. Among its most notable pieces are the celebrated Colchester Gladiator Vase and the Fenwick Hoard, a remarkable collection of Roman jewelry and precious objects.",
+  "history": "Colchester Castle sits on the foundations of the Roman Temple of Claudius (AD 49–60), the most important building in Roman Britain, burned by Boudica's forces in AD 60 during her revolt against Roman rule. The Norman keep was built c. 1076–1100 as a royal fortress for William I, reusing the temple's foundations and Roman stone, and modeled on but larger than the White Tower of London. It operates today as a museum with collections spanning the Roman, medieval and later periods.",
+  "how_to_visit": "**Getting there:** The castle stands in Castle Park in central Colchester, Essex.\n\n**Tickets:** The GYG product is a museum-and-castle pass with a self-guided audio experience — explore the Norman keep and its galleries at your own pace, with access to the chapel, well, and areas tied to the castle's historical uses as prison, fortress and royal residence.\n\n**Practical tips:** This is a newly listed activity on GetYourGuide with no review history yet — a recent addition rather than an established, heavily reviewed product. Allow about 2 hours for the museum and keep.\n\n**Combine with:** Colchester's wider Roman heritage sites and town center, within easy walking distance of Castle Park.",
+  "faqs": [
+    {
+      "question": "What stood on this site before the Norman castle?",
+      "answer": "The Roman Temple of Claudius, built AD 49–60 — the most important building in Roman Britain, burned during Queen Boudica's revolt in AD 60 and later used as the foundation for the Norman keep."
+    },
+    {
+      "question": "How does Colchester Castle compare to the Tower of London?",
+      "answer": "Its keep is one and a half times the size of the White Tower of London, on which it was modeled, making it the largest Norman keep in Europe."
+    },
+    {
+      "question": "What are the museum's most notable artifacts?",
+      "answer": "The Colchester Gladiator Vase and the Fenwick Hoard, a significant collection of Roman jewelry and precious objects, alongside archaeological finds spanning thousands of years."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/colchester-castle.webp",
+    "alt": "Colchester Castle, the largest Norman keep in Europe, built on the foundations of the Roman Temple of Claudius, Essex, England",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/colchester-castle.webp",
+  "instagram_tag": "#colchestercastle",
+  "meta_title": "Colchester Castle: Tickets & Visitor Guide 2026",
+  "meta_description": "Visit Colchester Castle in Essex — Europe's largest Norman keep, built on the ruins of the Roman Temple of Claudius burned during Boudica's revolt.",
+  "tags": [
+    "england",
+    "essex",
+    "colchester",
+    "norman",
+    "roman",
+    "boudica",
+    "museum"
+  ],
+  "last_updated": "2026-09-29",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "452",
+  "gyg_search_query": "Colchester Castle museum entry",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 1,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1482292",
+      "title": "Colchester: Museum Visit & Castle Audio Guide Experience",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 40,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "booking_url_override": "https://www.getyourguide.com/colchester-uk-l452/colchester-museum-visit-castle-audio-guide-experience-t1482292/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "colchester-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
