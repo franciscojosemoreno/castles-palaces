@@ -82,7 +82,7 @@
     "olive-oil",
     "off-beaten"
   ],
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-10-09",
   "routes": [],
   "nearby_castles": [
     "palacio-vela-de-los-cobos"
@@ -107,5 +107,21 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Parador de Jaén",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=castillo-de-santa-catalina&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fparador-de-turismo-de-jaen.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D14590%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784833262%26srpvid%3Dfebd85b5308a0ba5%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 175,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "source": "user-provided",
+    "sourced_date": "2026-10-09",
+    "non_guest_access_note": "Castle admission is covered separately by the walk-up ticket or GYG tour described above; the parador's bar and terrace are also open to non-guests, as already noted in the FAQ above.",
+    "how_to_stay": "**Getting there:** Already covered by the How to Visit section above.\n\n**Rooms & rates:** The Parador occupies the southern wing of the castle complex since 1965; from about €175 per night.\n\n**On-site:** Restaurant, panoramic terrace-bar over the sea of olive trees (also accessible to non-guests, as noted above), direct integration with the castle structure.\n\n**Good to know:** The combination of hotel and historic monument is one of the most successful in the entire Paradores network — the terrace is already recommended above as the best viewpoint over the Jaén olive landscape, even for visitors not staying overnight.\n\n**Combine with:** The castle's own olive-landscape panorama and Jaén's Renaissance cathedral, both already covered above."
+  }
 }

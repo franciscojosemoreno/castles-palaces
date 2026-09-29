@@ -1,0 +1,90 @@
+{
+  "id": "monda-castle",
+  "name": "Monda Castle",
+  "local_name": "Hotel Castillo de Monda",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 24,
+  "country": "spain",
+  "region": "Monda, Province of Málaga, Andalusia",
+  "nearest_city": "Málaga",
+  "address": "C. Fuente Nueva, s/n, 29110 Monda, Málaga, Spain",
+  "lat": 36.6333,
+  "lng": -4.7500,
+  "unesco": false,
+  "year_built": 850,
+  "architectural_style": "The name likely derives from \"El Mundat,\" a 9th-century fortress built by Omar Ben Hafsún; destroyed and rebuilt in the 11th century by the Hammudids; the surviving polygonal tower dates to the 12th-century Almohad period, similar in type to Seville's Torre del Oro; reformed by the Nasrid dynasty in the 14th century, who clad it with a square-plan tower",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms within the castle grounds in Monda's town center; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A 9th-century Andalusian fortress whose Almohad polygonal tower is a rare architectural sibling of Seville's Torre del Oro",
+  "highlights": [
+    "The castle's name likely derives from \"El Mundat,\" a 9th-century fortress built by Omar Ben Hafsún to strengthen his positions against the armies of Córdoba's last emirs",
+    "Destroyed and rebuilt in the 11th century by the Hammudids; the surviving polygonal tower dates to the 12th-century Almohad period, typologically similar to Seville's Torre del Oro",
+    "In the 14th century, the Nasrid dynasty — the same dynasty that built Granada's Alhambra — reformed the polygonal tower, cladding it with a square-plan tower"
+  ],
+  "description": "The name of Monda Castle likely derives from \"El Mundat,\" a fortress built in the 9th century by Omar Ben Hafsún to strengthen his positions against the armies of Córdoba's last emirs. The structure was destroyed and rebuilt in the 11th century by the Hammudids. The polygonal tower that survives today was raised by the Almohads in the 12th century, and is typologically similar to the Torre del Oro in Seville. In the 14th century, the Nasrid dynasty — the same dynasty that built the Alhambra in Granada — reformed the polygonal tower, cladding it with a square-plan tower.\n\nToday the castle operates as a 4-star boutique hotel, in the town center of Monda, at the heart of Málaga province.\n\nThe tower's documented typological link to Seville's Torre del Oro, both built during the Almohad period, gives Monda a specific architectural pedigree connecting it to one of Andalusia's most recognizable medieval monuments.\n\nThe site's successive rebuilding under three different Muslim dynasties — the original 9th-century fortress, the 11th-century Hammudid reconstruction, and the 12th-century Almohad tower later reclad by the Nasrids — gives Monda a layered architectural history spanning five centuries of al-Andalus rule.\n\nThe castle's position within Monda's own town center gives guests staying here a genuinely integrated historic setting, rather than an isolated hilltop or rural estate.",
+  "history": "Monda Castle's name likely derives from \"El Mundat,\" a 9th-century fortress built by Omar Ben Hafsún. Destroyed and rebuilt in the 11th century by the Hammudids, the surviving polygonal tower dates to the 12th-century Almohad period, typologically similar to Seville's Torre del Oro. The Nasrid dynasty reformed the tower in the 14th century, cladding it with a square-plan tower. It operates today as a 4-star boutique hotel in Monda's town center.",
+  "faqs": [
+    {
+      "question": "What is the architectural connection between Monda Castle and Seville's Torre del Oro?",
+      "answer": "Monda's surviving polygonal tower was built during the Almohad period in the 12th century, the same architectural tradition and era that produced Seville's Torre del Oro — the two are typologically similar."
+    },
+    {
+      "question": "Who built the original fortress at Monda?",
+      "answer": "The name likely derives from \"El Mundat,\" a fortress built in the 9th century by Omar Ben Hafsún to strengthen his positions against the armies of Córdoba's last emirs."
+    },
+    {
+      "question": "How did the Nasrid dynasty change the castle?",
+      "answer": "In the 14th century, the same dynasty that built Granada's Alhambra reformed the existing polygonal tower, cladding it with a square-plan tower."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/monda-castle.webp",
+    "alt": "Monda Castle, whose Almohad polygonal tower is a typological sibling of Seville's Torre del Oro, Málaga province, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/monda-castle.webp",
+  "instagram_tag": "#mondacastle",
+  "meta_title": "Monda Castle — A Boutique Hotel in Málaga Province",
+  "meta_description": "Stay at Monda Castle in Málaga province — a 9th-century Andalusian fortress with an Almohad tower typologically linked to Seville's Torre del Oro.",
+  "tags": [
+    "spain",
+    "andalusia",
+    "castle-hotel",
+    "malaga",
+    "almohad",
+    "moorish"
+  ],
+  "last_updated": "2026-10-09",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Castillo de Monda",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=castillo-de-monda&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcastillo-de-monda-monda.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1700761%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784833427%26srpvid%3Dc5598607c501051d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 108,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In the town center of Monda, at the heart of Málaga province.\n\n**Rooms & rates:** Rooms within the castle grounds; from about €108 per night.\n\n**On-site:** Restaurant, historic setting within Monda's town center.\n\n**Good to know:** The castle's tower, of Almohad origin, is a typological sibling of Seville's Torre del Oro — a distinctive architectural detail little known outside Málaga province.\n\n**Combine with:** The wider Málaga province and the Costa del Sol, within driving distance.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-09"
+  }
+}
