@@ -1,0 +1,91 @@
+{
+  "id": "la-torre-del-visco",
+  "name": "La Torre del Visco",
+  "local_name": "La Torre del Visco - Relais & Châteaux",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 28,
+  "country": "spain",
+  "region": "Fuentespalda, Province of Teruel, Aragon — Matarraña",
+  "nearest_city": "Teruel",
+  "address": "Ctra. Fuentespalda-Valderrobres, Km 8, 44587 Fuentespalda, Teruel, Spain",
+  "lat": 40.9167,
+  "lng": 0.1667,
+  "unesco": false,
+  "year_built": 1500,
+  "architectural_style": "A historic fortified farmhouse (masía-torre), restored and converted into a Relais & Châteaux hotel with its own kitchen garden",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms within the restored fortified farmhouse; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A Relais & Châteaux fortified farmhouse in one of Spain's least crowded rural corners, cooking mediterranean cuisine from its own kitchen garden",
+  "highlights": [
+    "Located in the Matarraña region, in southern Teruel, one of Spain's best-preserved rural areas, often ranked among the country's most beautiful and least crowded corners",
+    "A member of Relais & Châteaux, the prestigious international association of independent historic and gastronomic hotels and restaurants",
+    "Certified authenticity and culinary quality: Mediterranean, local, and European cuisine drawn from the property's own kitchen garden"
+  ],
+  "description": "La Torre del Visco stands in the Matarraña region, in southern Teruel, one of Spain's best-preserved rural areas, often ranked among the country's most beautiful and least crowded corners. The hotel is a member of Relais & Châteaux, the prestigious international association of independent historic and gastronomic hotels and restaurants, certifying both the authenticity of the building and the quality of its culinary offering — Mediterranean, local, and European cuisine, drawn from the property's own kitchen garden.\n\nToday its rooms — Junior Suites, Suites, and Superior Double Rooms (28-35 sqm) — sit within the restored fortified farmhouse, with views over the garden and mountains.\n\nThe property's Relais & Châteaux membership ties La Torre del Visco to the same mark of international prestige carried by other high-end properties already featured in this collection.\n\nThe estate's own kitchen garden, directly supplying its restaurant, gives La Torre del Visco a genuinely farm-to-table culinary identity distinct from properties with a purely decorative agricultural theme.\n\nThe castle's position within the Matarraña, a region prized for its relative lack of mass tourism, gives guests staying at La Torre del Visco access to an unusually undisturbed rural corner of Spain.",
+  "history": "La Torre del Visco is a historic fortified farmhouse in the Matarraña region of southern Teruel, restored and converted into a Relais & Châteaux hotel. It operates with its own kitchen garden supplying a restaurant serving Mediterranean, local, and European cuisine, with rooms across Junior Suites, Suites, and Superior Doubles.",
+  "faqs": [
+    {
+      "question": "What hotel association does La Torre del Visco belong to?",
+      "answer": "Relais & Châteaux, the prestigious international association of independent historic and gastronomic hotels and restaurants."
+    },
+    {
+      "question": "Where does the restaurant source its produce?",
+      "answer": "From the property's own kitchen garden, supporting a Mediterranean, local, and European menu."
+    },
+    {
+      "question": "What is the Matarraña region known for?",
+      "answer": "Being one of Spain's best-preserved rural areas, often ranked among the country's most beautiful and least crowded corners."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/la-torre-del-visco.webp",
+    "alt": "La Torre del Visco, a Relais & Châteaux fortified farmhouse hotel in the Matarraña region, Teruel, Aragon, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/la-torre-del-visco.webp",
+  "instagram_tag": "#latorredelvisco",
+  "meta_title": "La Torre del Visco — A Relais & Châteaux Hotel in Aragon",
+  "meta_description": "Stay at La Torre del Visco in Teruel's Matarraña region — a Relais & Châteaux fortified farmhouse with its own kitchen garden, in rural Aragon.",
+  "tags": [
+    "spain",
+    "aragon",
+    "castle-hotel",
+    "teruel",
+    "matarrana",
+    "relais-chateaux",
+    "gastronomy"
+  ],
+  "last_updated": "2026-10-12",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "La Torre del Visco - Relais & Châteaux",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=torre-del-visco&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fla-torre-del-visco-la-portellada.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1390989%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784842405%26srpvid%3D251d979083b1052d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 350,
+    "currency": "EUR",
+    "star_category": 4,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "outdoor pool", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Fuentespalda, Province of Teruel, Aragon, in the Matarraña region.\n\n**Rooms & rates:** Junior Suites, Suites, and Superior Double Rooms (28-35 sqm), with garden and mountain views; from €350 per night, breakfast available for a supplement.\n\n**On-site:** Seasonal outdoor pool, garden, own kitchen garden, library, free bicycles, shared kitchen, concierge and tour organization, restaurant serving Mediterranean, local, and European cuisine.\n\n**Good to know:** A Relais & Châteaux member — the same mark of international prestige carried by other high-end properties in this collection; a strong gastronomic angle with its own kitchen garden and tasting menu.\n\n**Combine with:** The wider Matarraña region, one of Spain's most undisturbed rural corners.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-12"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "valdes-salas-castle",
+  "name": "Valdés Salas Castle",
+  "local_name": "Hotel Castillo Valdés Salas",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "spain",
+  "region": "Salas, Asturias — on the Camino Primitivo",
+  "nearest_city": "Oviedo",
+  "address": "Pl. del Campo, s/n, 33860 Salas, Asturias, Spain",
+  "lat": 43.3833,
+  "lng": -6.2500,
+  "unesco": false,
+  "year_built": 1450,
+  "architectural_style": "A genuine castle at the center of Salas, converted into a hotel with contemporary comforts; guest reviews confirm its authenticity",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms within the historic castle at the heart of Salas; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A genuine castle at the heart of Salas, directly on the ancient Camino Primitivo pilgrimage route to Santiago",
+  "highlights": [
+    "Occupies an authentic castle at the center of Salas, Asturias, on the route of the Camino Primitivo, the oldest of the Santiago de Compostela pilgrimage roads",
+    "Guest reviews explicitly confirm its authenticity: \"you sleep in a real castle, naturally with modern comforts\" and \"it's set in a very beautiful old palace\"",
+    "Its location on the Camino de Santiago makes it a relevant option for pilgrims and travelers combining historic heritage with the Way of St. James"
+  ],
+  "description": "Hotel Castillo Valdés Salas occupies an authentic castle at the center of Salas, Asturias, on the route of the Camino Primitivo, the oldest of the Santiago de Compostela pilgrimage roads. Several guest reviews explicitly confirm its authenticity: \"you sleep in a real castle, naturally with modern comforts\" and \"it's set in a very beautiful old palace.\" Its location on the Camino de Santiago makes it a relevant option for pilgrims and travelers combining historic heritage with the Way of St. James.\n\nToday its rooms — Doubles, Deluxe Singles, Triples, and Deluxe with an extra-large bed — sit within the historic castle at the heart of the town.\n\nThe castle's position directly on the Camino Primitivo, the oldest documented pilgrimage route to Santiago de Compostela, ties Valdés Salas to a specific and historically significant religious travel tradition.\n\nGuest reviews' explicit confirmation of the building's authenticity as a real castle, despite its 2-star classification, distinguishes Valdés Salas from more heavily marketed luxury properties while still offering genuine historic lodging.\n\nThe castle's central position within Salas gives guests staying here direct access to the town on foot, without needing a car.",
+  "history": "Hotel Castillo Valdés Salas occupies an authentic castle at the center of Salas, Asturias, on the route of the Camino Primitivo, the oldest Santiago de Compostela pilgrimage road. Guest reviews confirm its authenticity as a genuine historic castle, now converted into a hotel with modern comforts at the heart of the town.",
+  "faqs": [
+    {
+      "question": "Is Valdés Salas Castle a genuine historic building?",
+      "answer": "Yes — guest reviews explicitly confirm it, describing it as \"a real castle, naturally with modern comforts\" and \"a very beautiful old palace.\""
+    },
+    {
+      "question": "Why is Valdés Salas Castle relevant to pilgrims?",
+      "answer": "It sits directly on the route of the Camino Primitivo, the oldest of the Santiago de Compostela pilgrimage roads."
+    },
+    {
+      "question": "How central is the castle within Salas?",
+      "answer": "It stands at the heart of the town, making Salas easily explorable on foot."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/valdes-salas-castle.webp",
+    "alt": "Valdés Salas Castle, a genuine castle on the Camino Primitivo pilgrimage route, Salas, Asturias, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/valdes-salas-castle.webp",
+  "instagram_tag": "#valdessalascastle",
+  "meta_title": "Valdés Salas Castle — A Camino de Santiago Hotel in Asturias",
+  "meta_description": "Stay at Valdés Salas Castle in Asturias — a genuine castle on the Camino Primitivo pilgrimage route to Santiago de Compostela.",
+  "tags": [
+    "spain",
+    "asturias",
+    "castle-hotel",
+    "camino-de-santiago",
+    "pilgrimage"
+  ],
+  "last_updated": "2026-10-12",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Castillo Valdés Salas",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=castillo-valdes-salas&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcastillo-valdes-salas.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1784842543%26srpvid%3Da47b97d2e17d0019%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 61,
+    "currency": "EUR",
+    "star_category": 2,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** At the center of Salas, Asturias, on the Camino Primitivo.\n\n**Rooms & rates:** Double, Deluxe Single, Triple, and Deluxe rooms with an extra-large bed; from about €61 per night in low season.\n\n**On-site:** Garden, terrace, restaurant and bar, tourist information desk, interior courtyard.\n\n**Good to know:** A strategic location directly on the Camino Primitivo pilgrimage route to Santiago — a strong angle for religious and route-based tourism combined with historic lodging, an angle underused in the current catalog.\n\n**Combine with:** The wider Camino Primitivo route and Oviedo, within driving distance.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-12"
+  }
+}

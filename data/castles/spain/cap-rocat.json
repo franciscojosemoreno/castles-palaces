@@ -1,0 +1,94 @@
+{
+  "id": "cap-rocat",
+  "name": "Cap Rocat",
+  "local_name": "Cap Rocat, a Small Luxury Hotel of the World",
+  "type": "fortress",
+  "status": "published",
+  "featured": false,
+  "priority_score": 29,
+  "country": "spain",
+  "region": "Cala Blava, Llucmajor, Mallorca, Balearic Islands",
+  "nearest_city": "Palma de Mallorca",
+  "address": "Ctra. d'Enderrocat, s/n, 07609 Cala Blava, Balearic Islands, Spain",
+  "lat": 39.4667,
+  "lng": 2.6167,
+  "unesco": false,
+  "year_built": 1850,
+  "architectural_style": "A former 19th-century Spanish military fortress, carefully restored and converted into a beachfront luxury hotel; the fort's original walls remain visible in the lobby and much of the property, combined with contemporary luxury design",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay only",
+  "best_season": "Year-round",
+  "accessibility": "Rooms and suites within the restored fortress, all with private balconies; contact the hotel directly regarding specific accessibility needs.",
+  "booking_advance_days": 1,
+  "tagline": "A 19th-century Spanish military fortress on Mallorca's coast, its original walls still visible, now a beachfront Small Luxury Hotels of the World property",
+  "highlights": [
+    "A former Spanish military fortress, carefully restored into a beachfront luxury hotel in the Bay of Palma de Mallorca",
+    "Guests describe the experience as \"walking inside history\" — the fort's original walls remain visible in the lobby and much of the property, combined with contemporary luxury design",
+    "A member of Small Luxury Hotels of the World, with Biosphere sustainability certification"
+  ],
+  "description": "Cap Rocat is a former Spanish military fortress, carefully restored and converted into a beachfront luxury hotel in the Bay of Palma de Mallorca. Guests describe the experience as \"walking inside history\": the fort's original walls remain visible in the lobby and much of the property, combined with contemporary luxury design. It is a member of Small Luxury Hotels of the World and holds Biosphere sustainability certification.\n\nToday its Double Rooms, Suites (including suites with a private pool), and Superior Suites with sea views all have a private balcony.\n\nThe fortress's origins as a genuine 19th-century Spanish military installation, with its original walls left visible rather than concealed by the renovation, give Cap Rocat a documented military architectural heritage distinct from decorative castle-style hotels.\n\nAs the second Mallorca property in this collection, alongside Son Vida Castle, Cap Rocat represents the first military fortress converted into a beachfront luxury hotel here, distinguishing it from the more traditional inland manor-castle format.\n\nThe property's Biosphere sustainability certification, alongside its Small Luxury Hotels of the World membership, gives Cap Rocat a formally recognized environmental credential alongside its luxury positioning.",
+  "history": "Cap Rocat is a former 19th-century Spanish military fortress in the Bay of Palma de Mallorca, carefully restored into a beachfront luxury hotel with its original walls left visible in the lobby and elsewhere on the property. It is a member of Small Luxury Hotels of the World, holding Biosphere sustainability certification, with rooms and suites all featuring private balconies.",
+  "faqs": [
+    {
+      "question": "Was Cap Rocat originally a military site?",
+      "answer": "Yes — it is a former 19th-century Spanish military fortress, carefully restored with its original walls left visible in the lobby and much of the property."
+    },
+    {
+      "question": "What hotel association does Cap Rocat belong to?",
+      "answer": "Small Luxury Hotels of the World, and it also holds Biosphere sustainability certification."
+    },
+    {
+      "question": "Is Cap Rocat the only Mallorca castle-hotel in this collection?",
+      "answer": "No — it is the second, alongside Son Vida Castle, though Cap Rocat is the first former military fortress converted into a beachfront luxury hotel in the collection."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/cap-rocat.webp",
+    "alt": "Cap Rocat, a restored 19th-century military fortress turned beachfront luxury hotel, Mallorca, Balearic Islands, Spain",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "gallery": [],
+  "og_image": "/images/castles/cap-rocat.webp",
+  "instagram_tag": "#caprocat",
+  "meta_title": "Cap Rocat — A Fortress Hotel on Mallorca's Coast",
+  "meta_description": "Stay at Cap Rocat in Mallorca — a restored 19th-century military fortress turned beachfront luxury hotel, a Small Luxury Hotels of the World member.",
+  "tags": [
+    "spain",
+    "balearic-islands",
+    "castle-hotel",
+    "mallorca",
+    "fortress",
+    "luxury",
+    "coastal"
+  ],
+  "last_updated": "2026-10-12",
+  "routes": [],
+  "nearby_castles": [
+    "son-vida-castle",
+    "son-claret-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Cap Rocat, a Small Luxury Hotel of the World",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=cap-rocat&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fes%2Fcap-rocat.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D240655%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1784842497%26srpvid%3D682397bef4220487%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 758,
+    "currency": "EUR",
+    "star_category": 5,
+    "room_count": null,
+    "room_location": "castle",
+    "amenities": ["outdoor pool", "spa", "tennis", "gym"],
+    "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
+    "how_to_stay": "**Getting there:** In Cala Blava, Llucmajor, in the Bay of Palma de Mallorca, Balearic Islands.\n\n**Rooms & rates:** Double Rooms, Suites (including suites with a private pool), and Superior Suites with sea views, all with a private balcony; from about €758 per night.\n\n**On-site:** Direct private beach access, outdoor pool and sundeck, free spa with hammam (treatments at a supplement), tennis courts, gym with personal training, outdoor yoga and pilates classes.\n\n**Good to know:** The second Mallorca property in this collection, alongside Son Vida Castle, and the first former military fortress converted into a beachfront luxury hotel here — a distinctive angle compared with the rest of the collection's inland castles.\n\n**Combine with:** Palma de Mallorca and its old town, a short drive away.",
+    "source": "user-provided",
+    "sourced_date": "2026-10-12"
+  }
+}
