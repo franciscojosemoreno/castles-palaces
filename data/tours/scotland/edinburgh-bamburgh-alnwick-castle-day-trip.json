@@ -18,16 +18,10 @@
   "rating": 4.6,
   "review_count": 352,
   "languages": [
-    "English",
-    "French",
-    "German",
-    "Italian",
-    "Chinese",
-    "Portuguese",
-    "Spanish"
+    "English"
   ],
   "max_group_size": null,
-  "overview": "Run by Haggis Adventures as a small-group day trip, this tour crosses the border into Northumberland for two of its most famous castles. Bamburgh Castle rises from a basalt crag above the North Sea and was the ancient capital of the Northumbrian kingdom — the seaside village below it is one of the most photographed spots on the English coast. The afternoon is spent at Alnwick Castle, the real-life Hogwarts of the Harry Potter films, where travelers can sign up for broomstick lessons on the same lawn used for the films' flying scenes. A live English-speaking guide travels with the group, and downloadable audio guides are included in French, English, German, Italian, Chinese, Portuguese and Spanish.\n\nPrefer Holy Island and Lindisfarne instead of Bamburgh? See the [Holy Island & Alnwick Castle Day Trip from Edinburgh](/tours/scotland/edinburgh-holy-island-alnwick-castle). For a private-vehicle alternative departing from Northumberland itself, with a stop at Chillingham Castle, see [Chillingham, Bamburgh & Alnwick: Private Tour from Northumberland](/tours/england/northumberland-bamburgh-chillingham-alnwick).",
+  "overview": "Run by Haggis Adventures as a small-group day trip, this tour crosses the border into Northumberland for two of its most famous castles. Bamburgh Castle stands on a basalt crag above the North Sea, with the seaside village of Bamburgh below it. The tour also spends 2.5 hours at Alnwick Castle, the real-life Hogwarts of the Harry Potter films, where travelers can sign up for broomstick lessons. A live English-speaking guide travels with the group, and downloadable audio guides are included in French, English, German, Italian, Chinese, Portuguese and Spanish.\n\nPrefer Holy Island and Lindisfarne instead of Bamburgh? See the [Holy Island & Alnwick Castle Day Trip from Edinburgh](/tours/scotland/edinburgh-holy-island-alnwick-castle). For a private-vehicle alternative departing from Northumberland itself, with a stop at Chillingham Castle, see [Chillingham, Bamburgh & Alnwick: Private Tour from Northumberland](/tours/england/northumberland-bamburgh-chillingham-alnwick).",
   "highlights": [
     "Sign up for broomstick lessons at the real-life Hogwarts",
     "Discover the charming seaside village of Bamburgh",
@@ -47,20 +41,20 @@
       "castle_id": "bamburgh-castle",
       "castle_name": "Bamburgh Castle",
       "duration": "Free time (75 min)",
-      "description": "Free time in the seaside village of Bamburgh, with an optional, separately paid visit to Bamburgh Castle itself, rising from its basalt crag above the North Sea."
+      "description": "Free time (75 min) in the seaside village of Bamburgh, with an optional, separately paid visit to Bamburgh Castle."
     },
     {
       "order": 3,
       "castle_id": "alnwick-castle",
       "castle_name": "Alnwick Castle",
       "duration": "Free time / sightseeing (2.5 hours)",
-      "description": "Free time to explore Alnwick Castle, with an optional, separately paid entry — the real-life Hogwarts of the Harry Potter films, where the broomstick flying lessons were filmed."
+      "description": "Free time and sightseeing (2.5 hours) at Alnwick Castle, with optional, separately paid entry. The castle is the real-life Hogwarts of the Harry Potter films."
     },
     {
       "order": 4,
       "castle_name": "Traditional village",
       "duration": "Break / photo stop (30 min)",
-      "description": "Break in a traditional Northumbrian village for photos before the journey back to Edinburgh."
+      "description": "Break and photo stop (30 min) in a traditional village before the journey back to Edinburgh."
     },
     {
       "order": 5,
@@ -88,7 +82,7 @@
     "Not allowed: smoking in the vehicle, alcohol or drugs, unaccompanied minors.",
     "Free cancellation up to 24 hours before the tour, with the option to reserve now and pay later.",
     "Planning a summer trip, for example around the Edinburgh Military Tattoo in August? Book early — this tour is flagged as likely to sell out, and free cancellation up to 24 hours lets you lock in a date without risk.",
-    "Past travelers consistently praise the guides as engaging and knowledgeable and highlight the scenic stops along the way; some wish for more free time at Bamburgh, particularly to reach the beach."
+    "Travelers praise the guides and the scenic stops at Bamburgh and Alnwick; some wish for more time at Bamburgh, particularly to reach the beach."
   ],
   "faqs": [
     {
@@ -97,7 +91,7 @@
     },
     {
       "question": "Which Harry Potter scenes were filmed at Alnwick Castle?",
-      "answer": "Alnwick Castle's outer bailey was used for the broomstick flying lesson in Harry Potter and the Philosopher's Stone — travelers can take their own broomstick lesson on the same lawn."
+      "answer": "Alnwick Castle is the real-life Hogwarts of the Harry Potter films. Travelers on this tour can sign up for a broomstick lesson at the castle."
     },
     {
       "question": "Does this tour also stop at Holy Island (Lindisfarne)?",

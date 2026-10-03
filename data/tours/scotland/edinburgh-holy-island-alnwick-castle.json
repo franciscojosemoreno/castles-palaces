@@ -21,14 +21,14 @@
     "English"
   ],
   "max_group_size": null,
-  "overview": "Run by Timberbush Tours, this top-rated coach day trip crosses the border into Northumberland for two of the region's most atmospheric historic sites. Holy Island (Lindisfarne) is reached by a tidal causeway — a place of pilgrimage since AD 635, where the Lindisfarne Gospels were illuminated and Viking raids began Britain's medieval trauma. From there the tour continues to the market town of Alnwick and Alnwick Castle — the \"Windsor of the North\" — familiar on screen as Hogwarts in the Harry Potter films and Brancaster Castle in Downton Abbey. A driver-guide provides live commentary throughout, with digital written translations available on board.\n\n**This tour does not stop at Bamburgh Castle.** If Bamburgh is on your list, see the [Bamburgh & Alnwick Castle Day Trip from Edinburgh](/tours/scotland/edinburgh-bamburgh-alnwick-castle-day-trip) instead.",
+  "overview": "Run by Timberbush Tours, this top-rated coach day trip crosses the border into Northumberland for two of the region's most atmospheric historic sites. Holy Island (Lindisfarne) is reached by a tidal causeway and is home to the ruins of Lindisfarne Priory and the island's famous mead. From there the tour continues to the market town of Alnwick and Alnwick Castle — the \"Windsor of the North\" — familiar on screen as Hogwarts in the Harry Potter films and as a filming location for Downton Abbey. A driver-guide provides live commentary throughout, with digital written translations available on board.\n\n**This tour does not stop at Bamburgh Castle.** If Bamburgh is on your list, see the [Bamburgh & Alnwick Castle Day Trip from Edinburgh](/tours/scotland/edinburgh-bamburgh-alnwick-castle-day-trip) instead.",
   "highlights": [
-    "Visit Alnwick Castle, the \"Windsor of the North\" and seat of the Percy family since 1309",
-    "Sample Lindisfarne Mead, brewed by monks on Holy Island to a centuries-old recipe",
-    "See the Grand Cascade at The Alnwick Garden and its notorious Poison Garden",
+    "Visit Alnwick Castle, known as the \"Windsor of the North\"",
+    "Sample the famous Lindisfarne Mead, brewed by the monks on Holy Island",
+    "See the Grand Cascade at Alnwick Garden and its poison garden",
     "Explore the historic market town of Alnwick",
     "Visit Downton Abbey and Harry Potter filming locations",
-    "Live commentary throughout from an experienced driver-guide"
+    "Live commentary throughout from your driver-guide"
   ],
   "itinerary": [
     {
@@ -41,7 +41,7 @@
       "order": 2,
       "castle_name": "Holy Island of Lindisfarne",
       "duration": "Free time",
-      "description": "Cross the tidal causeway to the Holy Island of Lindisfarne. Free time to explore the village, with an optional visit to the ruins of Lindisfarne Priory (extra fee) — built on the site of the monastery founded by St Aidan in 635 — or to sample Lindisfarne Mead, still brewed by the island's monks."
+      "description": "Cross the tidal causeway to the Holy Island of Lindisfarne. Free time to explore, with an optional visit to Lindisfarne Priory (extra fee)."
     },
     {
       "order": 3,
@@ -54,19 +54,19 @@
       "castle_id": "alnwick-castle",
       "castle_name": "Alnwick Castle",
       "duration": "Optional visit (extra fee)",
-      "description": "Optional visit to Alnwick Castle — the \"Windsor of the North\" and seat of the Percy family, Dukes of Northumberland, since 1309. The exterior is recognizable worldwide as Hogwarts in the Harry Potter films and as Brancaster Castle in Downton Abbey."
+      "description": "Optional visit to Alnwick Castle, the \"Windsor of the North\" (extra fee). The castle is a Harry Potter and Downton Abbey filming location."
     },
     {
       "order": 5,
       "castle_name": "The Alnwick Garden",
       "duration": "Optional visit (extra fee)",
-      "description": "Optional visit to The Alnwick Garden, home to the Grand Cascade — one of the largest water features in Britain — and the notorious Poison Garden."
+      "description": "Optional visit to The Alnwick Garden, home to the Grand Cascade and the Poison Garden (extra fee)."
     },
     {
       "order": 6,
       "castle_name": "Flodden Field Memorial",
       "duration": "Photo stop",
-      "description": "Photo stop at the Flodden Field Memorial, marking the site of the 1513 battle between England and Scotland."
+      "description": "Photo stop at the Flodden Field Memorial."
     },
     {
       "order": 7,
@@ -108,15 +108,15 @@
     },
     {
       "question": "What is the Holy Island tidal causeway?",
-      "answer": "A road across the tidal flats that is passable for only a few hours around low tide. When the tide comes in, the island is completely cut off by sea — exactly as it was in medieval times. Because of this, the order of the itinerary may occasionally be reversed."
+      "answer": "A road across the tidal flats that can only be crossed at certain times, depending on the tide. Because of this, the tour order may occasionally be reversed."
     },
     {
       "question": "Can I go inside Alnwick Castle and Gardens?",
-      "answer": "Entry to Alnwick Castle and The Alnwick Garden is optional and costs extra — both are highly recommended if you have the time."
+      "answer": "Entry to Alnwick Castle and The Alnwick Garden is optional and costs extra."
     },
     {
       "question": "Which Harry Potter and Downton Abbey scenes were filmed at Alnwick?",
-      "answer": "Alnwick Castle's exterior was used for Hogwarts in the Harry Potter films, including the broomstick flying lesson, and for Brancaster Castle in Downton Abbey."
+      "answer": "Alnwick Castle is the real-life Hogwarts of the Harry Potter films, including the broomstick flying lesson, and was also used as a filming location for Downton Abbey."
     }
   ],
   "featured": false,
