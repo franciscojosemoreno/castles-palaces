@@ -15,6 +15,15 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async redirects() {
+    return [
+      {
+        source: '/tours/scotland/edinburgh-holy-island-bamburgh-alnwick',
+        destination: '/tours/scotland/edinburgh-holy-island-alnwick-castle',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

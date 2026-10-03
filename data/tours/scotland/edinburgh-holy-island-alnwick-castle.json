@@ -1,0 +1,135 @@
+{
+  "id": "edinburgh-holy-island-alnwick-castle",
+  "slug": "edinburgh-holy-island-alnwick-castle",
+  "name": "Edinburgh: Holy Island, Alnwick Castle & Northumbria Day Trip",
+  "tagline": "Cross to the Holy Island of Lindisfarne, then explore Alnwick Castle — the \"Windsor of the North\" and a Harry Potter and Downton Abbey filming location.",
+  "departure_country": "scotland",
+  "departure_city": "Edinburgh",
+  "visited_countries": [
+    "scotland",
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "Full day (9 hours)",
+  "gyg_tour_id": "12659",
+  "gyg_url": "https://www.getyourguide.com/edinburgh-l44/holy-island-bamburgh-alnwick-castle-t12659/",
+  "price_from": 63,
+  "currency": "EUR",
+  "rating": 4.7,
+  "review_count": 1599,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": null,
+  "overview": "Run by Timberbush Tours, this top-rated coach day trip crosses the border into Northumberland for two of the region's most atmospheric historic sites. Holy Island (Lindisfarne) is reached by a tidal causeway — a place of pilgrimage since AD 635, where the Lindisfarne Gospels were illuminated and Viking raids began Britain's medieval trauma. From there the tour continues to the market town of Alnwick and Alnwick Castle — the \"Windsor of the North\" — familiar on screen as Hogwarts in the Harry Potter films and Brancaster Castle in Downton Abbey. A driver-guide provides live commentary throughout, with digital written translations available on board.\n\n**This tour does not stop at Bamburgh Castle.** If Bamburgh is on your list, see the [Bamburgh & Alnwick Castle Day Trip from Edinburgh](/tours/scotland/edinburgh-bamburgh-alnwick-castle-day-trip) instead.",
+  "highlights": [
+    "Visit Alnwick Castle, the \"Windsor of the North\" and seat of the Percy family since 1309",
+    "Sample Lindisfarne Mead, brewed by monks on Holy Island to a centuries-old recipe",
+    "See the Grand Cascade at The Alnwick Garden and its notorious Poison Garden",
+    "Explore the historic market town of Alnwick",
+    "Visit Downton Abbey and Harry Potter filming locations",
+    "Live commentary throughout from an experienced driver-guide"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_name": "Castle Terrace, Edinburgh",
+      "duration": "Coach departure (approx. 105 min)",
+      "description": "Depart from Castle Terrace in Edinburgh for the coach journey south into Northumberland, with live commentary from the driver-guide covering the history of the borderlands en route."
+    },
+    {
+      "order": 2,
+      "castle_name": "Holy Island of Lindisfarne",
+      "duration": "Free time",
+      "description": "Cross the tidal causeway to the Holy Island of Lindisfarne. Free time to explore the village, with an optional visit to the ruins of Lindisfarne Priory (extra fee) — built on the site of the monastery founded by St Aidan in 635 — or to sample Lindisfarne Mead, still brewed by the island's monks."
+    },
+    {
+      "order": 3,
+      "castle_name": "Alnwick",
+      "duration": "Lunch break",
+      "description": "Break for lunch (own expense) in the historic market town of Alnwick."
+    },
+    {
+      "order": 4,
+      "castle_id": "alnwick-castle",
+      "castle_name": "Alnwick Castle",
+      "duration": "Optional visit (extra fee)",
+      "description": "Optional visit to Alnwick Castle — the \"Windsor of the North\" and seat of the Percy family, Dukes of Northumberland, since 1309. The exterior is recognizable worldwide as Hogwarts in the Harry Potter films and as Brancaster Castle in Downton Abbey."
+    },
+    {
+      "order": 5,
+      "castle_name": "The Alnwick Garden",
+      "duration": "Optional visit (extra fee)",
+      "description": "Optional visit to The Alnwick Garden, home to the Grand Cascade — one of the largest water features in Britain — and the notorious Poison Garden."
+    },
+    {
+      "order": 6,
+      "castle_name": "Flodden Field Memorial",
+      "duration": "Photo stop",
+      "description": "Photo stop at the Flodden Field Memorial, marking the site of the 1513 battle between England and Scotland."
+    },
+    {
+      "order": 7,
+      "castle_name": "Coldstream",
+      "duration": "Break time",
+      "description": "Break in the border town of Coldstream before the final leg back to Edinburgh."
+    },
+    {
+      "order": 8,
+      "castle_name": "Coach back to Edinburgh",
+      "duration": "Approx. 1.5 hours",
+      "description": "Return coach journey to Edinburgh, arriving back at Castle Terrace."
+    }
+  ],
+  "included": [
+    "Modern air-conditioned coach",
+    "Live commentary",
+    "Driver-guide",
+    "Digital written translations"
+  ],
+  "excluded": [
+    "Lindisfarne Priory entry (optional, extra fee)",
+    "Alnwick Castle & Gardens entry (optional, extra fee)",
+    "Restrooms on board",
+    "Food and drinks",
+    "Gratuities"
+  ],
+  "meeting_point": "Castle Terrace, Edinburgh — same return point at tour end",
+  "tips": [
+    "This tour does not stop at Bamburgh Castle. If Bamburgh is on your list, see the [Bamburgh & Alnwick Castle Day Trip from Edinburgh](/tours/scotland/edinburgh-bamburgh-alnwick-castle-day-trip).",
+    "The itinerary depends on the Holy Island tidal timetable. To ensure safe access, the order of the itinerary may occasionally be reversed.",
+    "Itineraries are subject to change.",
+    "Not suitable for children under 4 or for wheelchair users."
+  ],
+  "faqs": [
+    {
+      "question": "Does this tour stop at Bamburgh Castle?",
+      "answer": "No — this tour visits Holy Island and Alnwick Castle only, it does not include a Bamburgh Castle stop. For a tour that visits Bamburgh, see our separate [Bamburgh & Alnwick Castle Day Trip from Edinburgh](/tours/scotland/edinburgh-bamburgh-alnwick-castle-day-trip)."
+    },
+    {
+      "question": "What is the Holy Island tidal causeway?",
+      "answer": "A road across the tidal flats that is passable for only a few hours around low tide. When the tide comes in, the island is completely cut off by sea — exactly as it was in medieval times. Because of this, the order of the itinerary may occasionally be reversed."
+    },
+    {
+      "question": "Can I go inside Alnwick Castle and Gardens?",
+      "answer": "Entry to Alnwick Castle and The Alnwick Garden is optional and costs extra — both are highly recommended if you have the time."
+    },
+    {
+      "question": "Which Harry Potter and Downton Abbey scenes were filmed at Alnwick?",
+      "answer": "Alnwick Castle's exterior was used for Hogwarts in the Harry Potter films, including the broomstick flying lesson, and for Brancaster Castle in Downton Abbey."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/edinburgh-holy-island-alnwick-castle.webp",
+    "alt": "Alnwick Castle seen across the River Aln in Northumberland",
+    "credit": "Unsplash",
+    "width": 1600,
+    "height": 900
+  },
+  "meta": {
+    "title": "Holy Island & Alnwick Castle Day Trip from Edinburgh | Castles & Palaces",
+    "description": "Top-rated day trip from Edinburgh to the Holy Island of Lindisfarne and Alnwick Castle — the \"Windsor of the North\" and a Harry Potter filming location. Does not stop at Bamburgh."
+  },
+  "last_updated": "2026-10-03"
+}
