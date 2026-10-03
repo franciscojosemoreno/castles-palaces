@@ -13,17 +13,10 @@ import GYGFeaturedTour from '@/components/affiliate/GYGFeaturedTour';
 import HotelBookingCard from '@/components/castle/HotelBookingCard';
 import StructuredData from '@/components/seo/StructuredData';
 import { getPrimaryCta, isHotelOnly, getCurrencySymbol } from '@/lib/hotels';
+import { renderEditorialHtml } from '@/lib/markdown';
 
 interface PageProps {
   params: Promise<{ country: string; castle: string }>;
-}
-
-/** Converts the editorial markdown subset used in how_to_visit/how_to_stay — [text](url) links, **bold**, and newlines — into HTML. */
-function renderEditorialHtml(text: string): string {
-  return text
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-[#1761a0] hover:underline">$1</a>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\n/g, '<br/>');
 }
 
 export async function generateStaticParams() {

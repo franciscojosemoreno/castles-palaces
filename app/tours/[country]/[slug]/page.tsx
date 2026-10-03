@@ -8,6 +8,7 @@ import type { Metadata } from 'next';
 import TourStructuredData from '@/components/seo/TourStructuredData';
 import GYGWidget from '@/components/affiliate/GYGWidget';
 import { getGYGSearchUrl } from '@/lib/gyg';
+import { renderEditorialHtml } from '@/lib/markdown';
 
 const GYG_PARTNER_ID = process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? '';
 
@@ -166,7 +167,14 @@ export default async function TourPage({ params }: Props) {
             {/* Overview */}
             <div>
               <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">About This Tour</h2>
-              <p className="text-[#333] leading-relaxed">{tour.overview}</p>
+              <div className="space-y-4">
+                {tour.overview.split('\n\n').map((para, i) => (
+                  <p key={i}
+                    className="text-[#333] leading-relaxed"
+                    dangerouslySetInnerHTML={{ __html: renderEditorialHtml(para) }}
+                  />
+                ))}
+              </div>
             </div>
 
             {/* Highlights */}
@@ -276,7 +284,7 @@ export default async function TourPage({ params }: Props) {
                 {tour.tips.map((tip, i) => (
                   <div key={i} className="flex items-start gap-3 bg-[#f5f0e8] rounded-lg p-4">
                     <span className="text-[#c9a84c] text-xl flex-shrink-0">💡</span>
-                    <p className="text-sm text-[#333] leading-relaxed">{tip}</p>
+                    <p className="text-sm text-[#333] leading-relaxed" dangerouslySetInnerHTML={{ __html: renderEditorialHtml(tip) }} />
                   </div>
                 ))}
               </div>
@@ -289,7 +297,7 @@ export default async function TourPage({ params }: Props) {
                 {tour.faqs.map((faq, i) => (
                   <div key={i}>
                     <h3 className="font-semibold text-[#1a1a1a] mb-2">{faq.question}</h3>
-                    <p className="text-[#555] leading-relaxed">{faq.answer}</p>
+                    <p className="text-[#555] leading-relaxed" dangerouslySetInnerHTML={{ __html: renderEditorialHtml(faq.answer) }} />
                   </div>
                 ))}
               </div>
