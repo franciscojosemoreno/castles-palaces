@@ -18,6 +18,14 @@ interface PageProps {
   params: Promise<{ country: string; castle: string }>;
 }
 
+/** Converts the editorial markdown subset used in how_to_visit/how_to_stay — [text](url) links, **bold**, and newlines — into HTML. */
+function renderEditorialHtml(text: string): string {
+  return text
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-[#1761a0] hover:underline">$1</a>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\n/g, '<br/>');
+}
+
 export async function generateStaticParams() {
   return getAllCastleParams();
 }
@@ -198,11 +206,7 @@ export default async function CastlePage({ params }: PageProps) {
                 <div className="prose-editorial">
                   {castle.how_to_visit.split('\n\n').map((para, i) => (
                     <p key={i}
-                      dangerouslySetInnerHTML={{
-                        __html: para
-                          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-                          .replace(/\n/g, '<br/>'),
-                      }}
+                      dangerouslySetInnerHTML={{ __html: renderEditorialHtml(para) }}
                     />
                   ))}
                 </div>
@@ -216,11 +220,7 @@ export default async function CastlePage({ params }: PageProps) {
                 <div className="prose-editorial">
                   {castle.hotel.how_to_stay.split('\n\n').map((para, i) => (
                     <p key={i}
-                      dangerouslySetInnerHTML={{
-                        __html: para
-                          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-                          .replace(/\n/g, '<br/>'),
-                      }}
+                      dangerouslySetInnerHTML={{ __html: renderEditorialHtml(para) }}
                     />
                   ))}
                 </div>
