@@ -98,9 +98,9 @@ export default async function CastlePage({ params }: PageProps) {
               {castle.region ? ` · ${castle.region}` : ''}
               {castle.nearest_city ? ` · Near ${castle.nearest_city}` : ''}
             </p>
-            {castle.year_built && castle.architectural_style && (
+            {castle.architectural_style && (
               <p className="text-stone-500 text-sm mb-3">
-                Built {castle.year_built} · {castle.architectural_style}
+                {castle.year_built ? `Built ${castle.year_built} · ` : ''}{castle.architectural_style}
               </p>
             )}
             <p className="text-stone-500 text-sm mb-5">
