@@ -21,6 +21,12 @@ interface Props {
 export default function GYGFeaturedTour({ tour, castleName }: Props) {
   const href = tour.booking_url_override ?? getGYGSearchUrl(castleName);
   const passDays = tour.duration.match(/(\d+)[\s-]days?/)?.[1];
+  // pass_sites_count is the pass's total site count (matches the price line's "N sites").
+  // The note below counts *other* attractions, so an exact count (e.g. "3") is shown as
+  // N-1; an open-ended one (e.g. "25+") isn't a precise total, so it's left as-is.
+  const passOtherSitesCount = tour.pass_sites_count && /^\d+$/.test(tour.pass_sites_count)
+    ? String(Number(tour.pass_sites_count) - 1)
+    : tour.pass_sites_count;
 
   return (
     <div className="bg-white border border-stone-200 rounded-lg p-5">
@@ -54,8 +60,8 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
       </div>
       {tour.multi_site_pass && (
         <p className="text-xs text-stone-500 mb-4">
-          {tour.pass_sites_count
-            ? `Covers this site and ${tour.pass_sites_count} other attractions. Worth it if you plan to visit several.`
+          {passOtherSitesCount
+            ? `Covers this site and ${passOtherSitesCount} other attractions. Worth it if you plan to visit several.`
             : 'Covers this site along with other attractions included in the pass. Worth it if you plan to visit several.'}
         </p>
       )}
