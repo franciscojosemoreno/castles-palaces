@@ -88,6 +88,7 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
       label: (() => {
         const tour = castle.gyg_featured_tours?.[0];
         if (!tour) return 'Entry from';
+        if (tour.multi_site_pass) return 'Entry';
         const labels: Partial<Record<string, string>> = {
           skip_the_line: 'Skip-the-line from',
           entry_ticket: 'Entry via GYG',
@@ -101,6 +102,11 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
       })(),
       value: (() => {
         const tour = castle.gyg_featured_tours?.[0];
+        if (tour?.multi_site_pass) {
+          return castle.price_adult != null
+            ? (castle.price_adult === 0 ? 'Free' : `€${castle.price_adult}`)
+            : 'Heritage Malta ticket or Multisite Pass';
+        }
         const price = (tour?.price_from != null) ? tour.price_from : castle.price_adult;
         return price === 0 ? 'Free' : `€${price}`;
       })(),

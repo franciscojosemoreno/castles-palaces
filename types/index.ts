@@ -115,6 +115,10 @@ export interface Castle {
     is_top_pick?: boolean;
     pricing_unit?: 'person' | 'group';
     covers_castles?: string[];
+    // True when price_from is a multi-site pass/card price, not an entry price for
+    // this castle alone — display logic must not present it as the castle's ticket.
+    multi_site_pass?: boolean;
+    pass_sites_count?: string; // e.g. "25+", shown alongside multi_site_pass
   }[];
 
   hotel?: CastleHotel;

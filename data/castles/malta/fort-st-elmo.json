@@ -97,6 +97,8 @@
   "gyg_featured_tours": [
     {
       "tour_id": "1381956",
+      "multi_site_pass": true,
+      "pass_sites_count": "25+",
       "title": "Malta: Heritage Multisite Pass with 25+ Attractions",
       "type": "entry_ticket",
       "duration": "self-guided, 30-day validity",
