@@ -68,18 +68,21 @@ export default async function CountryPage({ params }: PageProps) {
         heroImageUrl={countryData.hero_image.url}
         castles={castles}
       />
-      {/* Hero */}
-      <div className="relative h-[400px] overflow-hidden">
-        <Image
-          src={countryData.hero_image.url}
-          alt={countryData.hero_image.alt}
-          fill
-          priority
-          className="object-cover"
-          sizes="100vw"
-        />
-        <div className="absolute inset-0 bg-gradient-to-b from-black/10 to-black/60" />
-        <div className="absolute bottom-0 left-0 p-8 text-white max-w-3xl">
+      {/* Hero — grows with its text on narrow screens instead of clipping the H1;
+          fixed height (and the image's own crop) only kick in from sm: up. */}
+      <div className="relative min-h-[320px] sm:h-[400px]">
+        <div className="absolute inset-0 overflow-hidden">
+          <Image
+            src={countryData.hero_image.url}
+            alt={countryData.hero_image.alt}
+            fill
+            priority
+            className="object-cover"
+            sizes="100vw"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/10 to-black/60" />
+        </div>
+        <div className="relative z-10 flex flex-col justify-end min-h-[320px] sm:h-full p-8 text-white max-w-3xl">
           <p className="text-white/70 text-xs uppercase tracking-wider mb-2">
             {castles.length} historic sites
           </p>
