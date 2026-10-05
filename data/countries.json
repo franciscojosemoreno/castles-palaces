@@ -639,7 +639,21 @@
     "thumbnail_image": {
       "url": "/images/countries/malta-thumb.webp",
       "alt": "Fort St. Angelo above Grand Harbour, Malta"
-    }
+    },
+    "show_seo_sections": true,
+    "seo_title_override": "Castles in Malta: {N} Forts, Palaces & Citadels to Visit",
+    "seo_description_override": "Explore the castles of Malta and Gozo — Fort St. Elmo, Fort St. Angelo, Mdina, the Gozo Citadel and more. Visiting tips, tickets and tours.",
+    "intro_paragraph_2": "This guide covers {N} castles, forts and palaces across Malta and Gozo — from Valletta and the Three Cities to the walled city of Mdina and the Gozo Citadel. Below you'll find where each one is, what to expect, and tickets and tours for each.",
+    "hub_faqs": [
+      {
+        "question": "What are the best castles in Malta?",
+        "answer": "Malta's standout sites include [Fort St. Elmo](/castles/malta/fort-st-elmo), [Fort St. Angelo](/castles/malta/fort-st-angelo), [Mdina](/castles/malta/mdina), the [Gozo Citadel](/castles/malta/gozo-citadel) and the [Grand Master's Palace](/castles/malta/grand-masters-palace)."
+      },
+      {
+        "question": "Are there castles on Gozo?",
+        "answer": "Yes — the [Gozo Citadel](/castles/malta/gozo-citadel) in Victoria, Gozo's fortified hilltop capital."
+      }
+    ]
   },
   {
     "slug": "san-marino",

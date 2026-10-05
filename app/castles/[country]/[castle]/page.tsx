@@ -1,7 +1,9 @@
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
+import Link from 'next/link';
 import type { Metadata } from 'next';
 import { getCastleBySlug, getAllCastleParams, getNearbyCastles } from '@/lib/castles';
+import { getCountryBySlug } from '@/lib/countries';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import Badge from '@/components/ui/Badge';
 import CastleQuickFacts from '@/components/castle/CastleQuickFacts';
@@ -55,6 +57,7 @@ export default async function CastlePage({ params }: PageProps) {
 
   const nearby = getNearbyCastles(castle, 4);
   const countryLabel = country.charAt(0).toUpperCase() + country.slice(1).replace('-', ' ');
+  const countryData = getCountryBySlug(country);
   const hotelOnly = isHotelOnly(castle);
   const hasGYGWidgetContent = Boolean(castle.gyg_search_query || castle.gyg_location_id);
   const primaryCta = getPrimaryCta(castle);
@@ -218,6 +221,16 @@ export default async function CastlePage({ params }: PageProps) {
                   ))}
                 </div>
               </section>
+            )}
+
+            {countryData?.show_seo_sections && (
+              <p className="text-sm text-stone-500 mb-10">
+                Explore more castles in{' '}
+                <Link href={`/castles/${country}`} prefetch={false} className="text-[#1761a0] hover:underline">
+                  Castles in {countryData.name}
+                </Link>
+                .
+              </p>
             )}
 
             {/* FAQ */}

@@ -128,6 +128,14 @@ export interface Country {
   thumbnail_image?: MediaItem;
   castle_count?: number;
   highlights?: string[];
+
+  // Opt-in SEO hub sections (country-hub pilot). Absent/false preserves the
+  // existing generic hub behaviour; set per-country to extend the recipe.
+  show_seo_sections?: boolean;
+  seo_title_override?: string; // use "{N}" as a placeholder for the live castle count
+  seo_description_override?: string;
+  intro_paragraph_2?: string; // use "{N}" as a placeholder for the live castle count
+  hub_faqs?: FAQ[]; // answers may use [text](/castles/...) markdown links
 }
 
 export interface Route {
