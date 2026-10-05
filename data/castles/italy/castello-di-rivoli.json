@@ -89,6 +89,8 @@
   "gyg_featured_tours": [
     {
       "tour_id": "17051",
+      "multi_site_pass": true,
+      "pass_badge_label": "City card",
       "title": "Turin: Torino and Piemonte 5-Day City Card",
       "type": "entry_ticket",
       "duration": "Valid 5 days",

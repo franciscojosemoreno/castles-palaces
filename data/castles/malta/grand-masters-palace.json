@@ -96,6 +96,9 @@
   "gyg_featured_tours": [
     {
       "tour_id": "930888",
+      "multi_site_pass": true,
+      "pass_sites_count": "3",
+      "pass_label": "Heritage Pass",
       "title": "Valletta: Discover Malta's History with a 3-in-1 Museum Pass",
       "type": "entry_ticket",
       "duration": "self-guided, 30-day validity",

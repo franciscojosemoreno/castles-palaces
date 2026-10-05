@@ -90,7 +90,7 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
             {isHotelVariant ? (
               <span>{formatHotelPrice(castle.hotel!)}</span>
             ) : featuredTour?.multi_site_pass ? (
-              <span>Heritage Pass available</span>
+              <span>{featuredTour.pass_label ?? 'Pass'} available</span>
             ) : displayPrice === 0 ? (
               <span className="text-green-700 font-medium">Free entry</span>
             ) : displayPrice != null ? (

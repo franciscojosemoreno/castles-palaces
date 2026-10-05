@@ -118,7 +118,9 @@ export interface Castle {
     // True when price_from is a multi-site pass/card price, not an entry price for
     // this castle alone — display logic must not present it as the castle's ticket.
     multi_site_pass?: boolean;
-    pass_sites_count?: string; // e.g. "25+", shown alongside multi_site_pass
+    pass_sites_count?: string; // e.g. "25+" or "3", only when GYG's own listing states a count
+    pass_label?: string; // card copy "{pass_label} available", e.g. "Heritage Pass"; defaults to "Pass"
+    pass_badge_label?: string; // FEATURED TOUR badge text, e.g. "City card"; defaults to "Multi-site pass"
   }[];
 
   hotel?: CastleHotel;

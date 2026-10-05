@@ -320,7 +320,7 @@ export default async function CastlePage({ params }: PageProps) {
         <div className="flex-1 min-w-0">
           {castle.gyg_featured_tours?.[0]?.multi_site_pass ? (
             <>
-              <p className="text-xs text-stone-500 leading-none mb-0.5">Heritage Pass</p>
+              <p className="text-xs text-stone-500 leading-none mb-0.5">{castle.gyg_featured_tours[0].pass_label ?? 'Pass'}</p>
               <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
                 From €{castle.gyg_featured_tours[0].price_from}
                 {castle.gyg_featured_tours[0].pass_sites_count && (

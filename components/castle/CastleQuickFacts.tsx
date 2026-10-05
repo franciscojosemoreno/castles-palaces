@@ -104,13 +104,17 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
         const tour = castle.gyg_featured_tours?.[0];
         if (tour?.multi_site_pass) {
           return castle.price_adult != null
-            ? (castle.price_adult === 0 ? 'Free' : `€${castle.price_adult}`)
-            : 'Heritage Malta ticket or Multisite Pass';
+            ? (castle.price_adult === 0 ? 'Free' : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`)
+            : 'Included in multi-site pass';
         }
         const price = (tour?.price_from != null) ? tour.price_from : castle.price_adult;
         return price === 0 ? 'Free' : `€${price}`;
       })(),
-      href: getGYGUrl(castle) ?? undefined,
+      // When the value is this castle's own real price (not the pass), don't link it to
+      // the pass's booking page — only the "Get Tickets & Tours" CTA below does that.
+      href: castle.gyg_featured_tours?.[0]?.multi_site_pass && castle.price_adult != null
+        ? undefined
+        : getGYGUrl(castle) ?? undefined,
     },
     castle.hotel?.star_category && {
       icon: '🏨',

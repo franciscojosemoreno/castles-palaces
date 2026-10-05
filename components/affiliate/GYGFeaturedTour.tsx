@@ -20,7 +20,7 @@ interface Props {
 
 export default function GYGFeaturedTour({ tour, castleName }: Props) {
   const href = tour.booking_url_override ?? getGYGSearchUrl(castleName);
-  const passDays = tour.duration.match(/(\d+)-day/)?.[1];
+  const passDays = tour.duration.match(/(\d+)[\s-]days?/)?.[1];
 
   return (
     <div className="bg-white border border-stone-200 rounded-lg p-5">
@@ -49,12 +49,14 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
             : tour.price_from != null ? `From €${tour.price_from}` : 'Check availability'}
         </span>
         <span className="bg-stone-100 text-stone-600 text-xs font-medium px-2 py-0.5 rounded-full">
-          {tour.multi_site_pass ? 'Multi-site pass' : typeLabels[tour.type]}
+          {tour.multi_site_pass ? (tour.pass_badge_label ?? 'Multi-site pass') : typeLabels[tour.type]}
         </span>
       </div>
       {tour.multi_site_pass && (
         <p className="text-xs text-stone-500 mb-4">
-          Covers this site and {tour.pass_sites_count ?? 'multiple'} other Heritage Malta attractions. Worth it if you plan to visit several.
+          {tour.pass_sites_count
+            ? `Covers this site and ${tour.pass_sites_count} other attractions. Worth it if you plan to visit several.`
+            : 'Covers this site along with other attractions included in the pass. Worth it if you plan to visit several.'}
         </p>
       )}
       <a
