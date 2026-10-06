@@ -81,9 +81,11 @@
     "currency": "EUR",
     "room_count": null,
     "room_location": "castle",
-    "amenities": ["gardens"],
+    "amenities": [
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
-    "how_to_stay": "**Getting there:** In Tierrantona, Province of Huesca, Aragon, in the Sobrarbe region of the Pyrenees.\n\n**Rooms & rates:** Double rooms with mountain views, plus two-bedroom cottages, a two-level apartment, and a loft for larger groups; from about €55 per night.\n\n**On-site:** Garden, terrace or balcony, free bicycles, barbecue, farm animals on the property, a stargazing tower mentioned by guests.\n\n**Good to know:** The stargazing tower and farm-animal setting are a strong differentiator for rural/nature disconnection — quite different from the urban-luxury profile of other properties in this batch.\n\n**Combine with:** Aínsa's historic old town and the wider Sobrarbe region.",
+    "how_to_stay": "**Getting there:** In Tierrantona, Province of Huesca, Aragon, in the Sobrarbe region of the Pyrenees.\n\n**Rooms & rates:** Double rooms with mountain views, plus two-bedroom cottages, a two-level apartment, and a loft for larger groups; from about €55 per night.\n\n**On-site:** Garden, terrace or balcony, free bicycles, barbecue, farm animals on the property, a stargazing tower mentioned by guests.\n\n**Good to know:** The stargazing tower and farm-animal setting are a strong differentiator for rural/nature disconnection — quite different from the urban-luxury profile of other properties on this site.\n\n**Combine with:** Aínsa's historic old town and the wider Sobrarbe region.",
     "source": "user-provided",
     "sourced_date": "2026-10-12"
   }

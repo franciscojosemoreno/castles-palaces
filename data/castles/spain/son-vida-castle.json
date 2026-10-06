@@ -10,8 +10,8 @@
   "region": "Palma de Mallorca, Balearic Islands",
   "nearest_city": "Palma de Mallorca",
   "address": "Carrer Raixa, 2, 07013 Palma, Balearic Islands, Spain",
-  "lat": 39.6000,
-  "lng": 2.6000,
+  "lat": 39.6,
+  "lng": 2.6,
   "unesco": false,
   "year_built": 1961,
   "architectural_style": "A Mallorcan manor estate (possessió) dating to the 13th century, taking its present name in the 16th century; converted into a hotel in 1961, today part of Marriott's Luxury Collection",
@@ -82,9 +82,15 @@
     "star_category": 5,
     "room_count": 164,
     "room_location": "castle",
-    "amenities": ["restaurant", "spa", "outdoor pool", "golf", "gardens"],
+    "amenities": [
+      "restaurant",
+      "spa",
+      "outdoor pool",
+      "golf",
+      "gardens"
+    ],
     "non_guest_access_note": "No confirmed independent day-visit product was found; access is primarily for hotel guests.",
-    "how_to_stay": "**Getting there:** In Palma de Mallorca, ten minutes from the city center and fifteen from the airport, Balearic Islands.\n\n**Rooms & rates:** Luxury rooms and suites within the historic manor; from about €305 per night, breakfast included.\n\n**On-site:** Three restaurants, two bars, a 900 sqm spa with three pools, adjoining championship golf courses (Son Muntaner, Son Quint, and Son Vida), adults-only.\n\n**Good to know:** The only 5-star castle-hotel featured on this site so far — a Marriott Luxury Collection property, well above the rest of this batch's properties in category. Adults-only. Historic guests have included the Kings of Spain, Aristotle Onassis, and Maria Callas.\n\n**Combine with:** Palma de Mallorca's old town, a short drive away.",
+    "how_to_stay": "**Getting there:** In Palma de Mallorca, ten minutes from the city center and fifteen from the airport, Balearic Islands.\n\n**Rooms & rates:** Luxury rooms and suites within the historic manor; from about €305 per night, breakfast included.\n\n**On-site:** Three restaurants, two bars, a 900 sqm spa with three pools, adjoining championship golf courses (Son Muntaner, Son Quint, and Son Vida), adults-only.\n\n**Good to know:** The only 5-star castle-hotel featured on this site so far — a Marriott Luxury Collection property, well above most other properties covered on this site in category. Adults-only. Historic guests have included the Kings of Spain, Aristotle Onassis, and Maria Callas.\n\n**Combine with:** Palma de Mallorca's old town, a short drive away.",
     "source": "user-provided",
     "sourced_date": "2026-10-09"
   }
