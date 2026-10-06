@@ -17,6 +17,18 @@ import StructuredData from '@/components/seo/StructuredData';
 import { getPrimaryCta, isHotelOnly, getCurrencySymbol } from '@/lib/hotels';
 import { renderEditorialHtml } from '@/lib/markdown';
 
+/** 1 -> "1st", 12 -> "12th", 21 -> "21st" — standard English ordinal suffix rules. */
+function ordinal(n: number): string {
+  const rem100 = n % 100;
+  if (rem100 >= 11 && rem100 <= 13) return `${n}th`;
+  switch (n % 10) {
+    case 1: return `${n}st`;
+    case 2: return `${n}nd`;
+    case 3: return `${n}rd`;
+    default: return `${n}th`;
+  }
+}
+
 interface PageProps {
   params: Promise<{ country: string; castle: string }>;
 }
@@ -100,7 +112,12 @@ export default async function CastlePage({ params }: PageProps) {
             </p>
             {castle.architectural_style && (
               <p className="text-stone-500 text-sm mb-3">
-                {castle.year_built ? `Built ${castle.year_built} · ` : ''}{castle.architectural_style}
+                {castle.year_built
+                  ? `Built ${castle.year_built} · `
+                  : castle.built_century
+                  ? `${ordinal(castle.built_century)} century · `
+                  : ''}
+                {castle.architectural_style}
               </p>
             )}
             <p className="text-stone-500 text-sm mb-5">

@@ -82,6 +82,9 @@ export interface Castle {
   faqs?: FAQ[];
 
   year_built?: number;
+  // Used only when the castle's own text supports a century of origin but not a precise
+  // year — e.g. 12 for "12th century". Never set alongside year_built.
+  built_century?: number;
   architectural_style?: string;
 
   hero_image: MediaItem;
