@@ -85,6 +85,9 @@ export interface Castle {
   // Used only when the castle's own text supports a century of origin but not a precise
   // year — e.g. 12 for "12th century". Never set alongside year_built.
   built_century?: number;
+  // Free-text override for origin dates neither year_built nor built_century can express
+  // correctly (BC spans, ranges) — e.g. "4th century BC". Takes priority over both when set.
+  built_label?: string;
   architectural_style?: string;
 
   hero_image: MediaItem;

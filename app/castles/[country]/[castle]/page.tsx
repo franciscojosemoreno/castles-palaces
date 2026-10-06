@@ -112,7 +112,9 @@ export default async function CastlePage({ params }: PageProps) {
             </p>
             {castle.architectural_style && (
               <p className="text-stone-500 text-sm mb-3">
-                {castle.year_built
+                {castle.built_label
+                  ? `${castle.built_label} · `
+                  : castle.year_built
                   ? `Built ${castle.year_built} · `
                   : castle.built_century
                   ? `${ordinal(castle.built_century)} century · `
