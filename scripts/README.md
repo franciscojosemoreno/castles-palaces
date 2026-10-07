@@ -9,9 +9,15 @@ grammar artifacts left by text edits) before they reach visitor-facing
 copy. Runs automatically in `prebuild`, and on demand:
 
 ```sh
-npm run lint:copy        # scan everything, print findings, exit 1 on any error
-npm run lint:copy:test   # fixture tests for the rule engine itself
+npm run lint:copy          # scan everything, print findings, exit 0 (report only)
+npm run lint:copy:strict   # same scan, but exit 1 on any error — what prebuild runs
+npm run lint:copy:test     # fixture tests for the rule engine itself
 ```
+
+`prebuild` always runs with `LINT_COPY_STRICT=1`, so `npm run build` fails
+on any error. Plain `npm run lint:copy` (no env var) exits 0 even with
+errors, for a quick local look at the current findings without blocking
+anything.
 
 It only ever reads `data/castles/**/*.json` and `data/tours/**/*.json` —
 it never writes to them. The full machine-readable result (every error,

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/generate-search-index.js && node scripts/lint-public-copy.mjs",
+    "prebuild": "node scripts/generate-search-index.js && LINT_COPY_STRICT=1 node scripts/lint-public-copy.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
