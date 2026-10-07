@@ -52,7 +52,7 @@
     },
     {
       "question": "Does the GYG tour price include museum entry?",
-      "answer": "Yes — the GYG White Tower walking tour explicitly includes White Tower Museum admission in the tour price. The GYG Includes list states 'White Tower Museum tour' and 'Entrance to the White Tower Museum.' The state museum fee (approximately €6 for adults) is covered within the tour price. The GYG itinerary UI tags the White Tower stop as 'Extra fee,' but this is a display quirk in the interface that is contradicted by the explicit Includes list — as confirmed by the site's review process, the Includes list is the authoritative signal, and it confirms inclusion."
+      "answer": "Yes — the GYG White Tower walking tour includes White Tower Museum admission in the tour price. The state museum fee (approximately €6 for adults) is covered within the tour price. Note that GYG's own itinerary sometimes tags the White Tower stop as 'Extra fee' — this is a display inconsistency, not an extra charge; museum admission is included."
     },
     {
       "question": "What can you see from the rooftop of the White Tower?",
