@@ -1,0 +1,4 @@
+{
+  "_comment": "Explicit exceptions to the review-figure rule. Empty until the user approves specific entries. Each entry: { \"file\": \"data/castles/.../x.json\", \"field\": \"description\", \"snippet\": \"<the exact matched text>\" }",
+  "reviewFigure": []
+}

@@ -4,10 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/generate-search-index.js",
+    "prebuild": "node scripts/generate-search-index.js && node scripts/lint-public-copy.mjs",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "lint:copy": "node scripts/lint-public-copy.mjs",
+    "lint:copy:test": "node scripts/lint-public-copy.test.mjs"
   },
   "dependencies": {
     "@react-google-maps/api": "^2.20.8",
