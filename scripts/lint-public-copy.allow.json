@@ -1,4 +1,29 @@
 {
-  "_comment": "Explicit exceptions to the review-figure rule. Empty until the user approves specific entries. Each entry: { \"file\": \"data/castles/.../x.json\", \"field\": \"description\", \"snippet\": \"<the exact matched text>\" }",
-  "reviewFigure": []
+  "_comment": "Explicit exceptions to the review-figure rule, approved by the user 2026-10-07. Each entry: { \"file\", \"field\", \"snippet\" (the exact matched text), \"reason\" }.",
+  "reviewFigure": [
+    {
+      "file": "data/castles/germany/hopferau-castle.json",
+      "field": "description",
+      "snippet": "599 verified reviews",
+      "reason": "Booking.com guest-review count for the castle-hotel itself, not a GYG tour/ticket review figure."
+    },
+    {
+      "file": "data/castles/germany/neuweier-castle.json",
+      "field": "highlights[3]",
+      "snippet": "586 verified reviews",
+      "reason": "Booking.com guest-review count for the castle-hotel itself, not a GYG tour/ticket review figure."
+    },
+    {
+      "file": "data/castles/germany/westerburg-castle.json",
+      "field": "description",
+      "snippet": "591 verified reviews",
+      "reason": "Booking.com guest-review count for the castle-hotel itself, not a GYG tour/ticket review figure."
+    },
+    {
+      "file": "data/castles/germany/westerburg-castle.json",
+      "field": "highlights[3]",
+      "snippet": "591 verified reviews",
+      "reason": "Booking.com guest-review count for the castle-hotel itself, not a GYG tour/ticket review figure."
+    }
+  ]
 }

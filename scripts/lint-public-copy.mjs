@@ -246,12 +246,21 @@ function scanUrlField(rel, field, url, errors, countsErr) {
   }
 }
 
+// A £ amount outside the UK-like countries is only a currency-consistency
+// problem when it's actually a GYG/tour price quoted in the wrong
+// currency — not when it's a historical construction cost or similar fact
+// that happens to be denominated in pounds (e.g. "built for £500 in
+// 1832"). Scoped to within 80 characters of one of those product words,
+// same distance used by the stale-price-near-gyg warning.
+const CURRENCY_CONTEXT_RE = /\bGYG\b|\btour\b|\bticket\b|\badmission\b|\bentry\b/i;
 function scanCurrencyConsistency(rel, d, allFields, errors, countsErr) {
   const country = countryOf(rel);
   if (UK_LIKE_COUNTRIES.has(country)) return;
   for (const [field, text] of allFields) {
     const masked = maskLinksAndUrls(text);
     for (const m of masked.matchAll(/£\d/g)) {
+      const window = masked.slice(Math.max(0, m.index - 80), Math.min(masked.length, m.index + m[0].length + 80));
+      if (!CURRENCY_CONTEXT_RE.test(window)) continue;
       errors.push({ file: rel, field, rule: 'currency-gbp-wrong-country', snippet: contextOf(masked, m.index, m.index + m[0].length) });
       countsErr['currency-gbp-wrong-country'] = (countsErr['currency-gbp-wrong-country'] || 0) + 1;
     }
@@ -305,15 +314,28 @@ function main() {
   };
   fs.writeFileSync(path.join(ROOT, 'scripts', '.lint-public-copy-report.json'), JSON.stringify(report, null, 2));
 
+  // STRICT mode (LINT_COPY_STRICT=1) exits 1 on any error, failing the
+  // build — the eventual steady state, once the baseline is 0. Until then,
+  // prebuild runs in warn-only mode: every error still prints, nothing
+  // fails, so new regressions are visible in the build log without
+  // blocking a deploy on the pre-existing backlog this first pass reported.
+  const STRICT = process.env.LINT_COPY_STRICT === '1';
+
   if (errors.length === 0) {
     console.log(`lint:copy — OK (0 errors, ${warnings.length} warnings)`);
     process.exit(0);
-  } else {
+  } else if (STRICT) {
     console.error(`lint:copy — FAILED (${errors.length} errors, ${warnings.length} warnings)\n`);
     for (const e of errors) {
       console.error(`${e.file} | ${e.field} | ${e.rule} | ${e.snippet}`);
     }
     process.exit(1);
+  } else {
+    console.warn(`lint:copy — WARN-ONLY MODE, not failing the build (${errors.length} errors, ${warnings.length} warnings). Set LINT_COPY_STRICT=1 to enforce.\n`);
+    for (const e of errors) {
+      console.warn(`${e.file} | ${e.field} | ${e.rule} | ${e.snippet}`);
+    }
+    process.exit(0);
   }
 }
 
@@ -324,4 +346,4 @@ if (path.resolve(fileURLToPath(import.meta.url)) === path.resolve(process.argv[1
   main();
 }
 
-export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES };
+export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE };

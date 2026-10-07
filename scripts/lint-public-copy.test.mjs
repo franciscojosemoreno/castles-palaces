@@ -4,7 +4,7 @@
 //   node scripts/lint-public-copy.test.mjs
 // Exits 1 if any assertion fails.
 
-import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES } from './lint-public-copy.mjs';
+import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE } from './lint-public-copy.mjs';
 
 let failures = 0;
 function ruleMatches(name, text) {
@@ -98,6 +98,26 @@ assertPasses('a common abbreviation is not a missing-space defect', 'grammar',
     failures++;
   } else {
     console.log('ok   (markdown link reduced to its visible text, no empty-parens artifact)');
+  }
+}
+
+// --- currency-gbp-wrong-country (scoped to ±80 chars of a product word) ---
+{
+  const near = 'The GYG entry ticket costs £15 per person.';
+  const far = "D'Arcy spent £500 constructing the west wing of the house back in 1832.";
+  const windowNear = near.slice(Math.max(0, near.indexOf('£') - 80), near.indexOf('£') + 80);
+  const windowFar = far.slice(Math.max(0, far.indexOf('£') - 80), far.indexOf('£') + 80);
+  if (!CURRENCY_CONTEXT_RE.test(windowNear)) {
+    console.error('FAIL: expected £ near "GYG"/"ticket" to be in scope:', JSON.stringify(near));
+    failures++;
+  } else {
+    console.log('ok   (fails as expected): £ price next to a GYG/ticket mention');
+  }
+  if (CURRENCY_CONTEXT_RE.test(windowFar)) {
+    console.error('FAIL: expected a historical £ cost with no product word nearby to pass:', JSON.stringify(far));
+    failures++;
+  } else {
+    console.log('ok   (passes as expected): historical £ construction cost with no GYG/tour context nearby');
   }
 }
 

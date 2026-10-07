@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "eslint",
     "lint:copy": "node scripts/lint-public-copy.mjs",
+    "lint:copy:strict": "LINT_COPY_STRICT=1 node scripts/lint-public-copy.mjs",
     "lint:copy:test": "node scripts/lint-public-copy.test.mjs"
   },
   "dependencies": {
