@@ -4,6 +4,7 @@ import { getAllTourParams, getTourBySlug } from '@/lib/tours';
 import { getCountryBySlug } from '@/lib/countries';
 import { notFound } from 'next/navigation';
 import Breadcrumb from '@/components/ui/Breadcrumb';
+import RatingStars from '@/components/ui/RatingStars';
 import type { Metadata } from 'next';
 import TourStructuredData from '@/components/seo/TourStructuredData';
 import GYGWidget from '@/components/affiliate/GYGWidget';
@@ -329,7 +330,7 @@ export default async function TourPage({ params }: Props) {
                   {shouldShowStars(tour.rating, tour.review_count) && (
                     <div className="flex items-center gap-1.5 mt-3">
                       <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
-                      <span className="text-[#c9a84c]">★★★★★</span>
+                      <RatingStars rating={tour.rating!} reviews={tour.review_count} starClassName="w-4 h-4" />
                       <span className="text-white/60 text-xs">({tour.review_count.toLocaleString()} reviews)</span>
                     </div>
                   )}
