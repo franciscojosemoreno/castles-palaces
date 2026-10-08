@@ -198,10 +198,14 @@ const ERROR_RULES = [
   },
   {
     name: 'internal-jargon',
-    pattern: /\bbatch\b|REGLA\s?#|per (the )?brief\b|site policy\b|rating:\s*null|\bnull\b|\bundefined\b|\bTBD\b|\bTODO\b|New Activity\b|no reviews yet\b|is_top_pick\b|independent (GYG )?(corroborating )?signals?\b|confirmed per\b|Includes list\b|✓|✗|⚠️/gi,
+    pattern: /\bbatch\b|REGLA\s?#|per (the )?brief\b|site policy\b|rating:\s*null|\bnull\b|\bundefined\b|\bTBD\b|\bTODO\b|New Activity\b|no reviews yet\b|is_top_pick\b|independent (GYG )?(corroborating )?signals?\b|confirmed per\b|confirmed included\b|\btour_id\b|Includes list\b|✓|✗|⚠️/gi,
     filter(m, text) {
       if (/batch/i.test(m[0]) && BEER_EXCEPTION.test(text)) return false;
       if (m[0] === '⚠️') return 'warning-only'; // demoted, see WARNING_RULES
+      // "confirmed included" (52 occurrences / 26 files as of Fase 3c) is
+      // kept a warning, not an error, until a dedicated pass clears the
+      // backlog — same demotion mechanism as the ⚠️ icon above.
+      if (/^confirmed included$/i.test(m[0])) return 'warning-only';
       return true;
     },
   },
@@ -235,6 +239,7 @@ const WARNING_RULES = [
   { name: 'warning-icon', pattern: /⚠️/g },
   { name: 'meta-over-160', isFieldLevel: true },
   { name: 'stale-price-near-gyg', pattern: /€\d+(\.\d+)?/g, needsContext: /\bGYG\b|\btour\b/i },
+  { name: 'confirmed-included-jargon', pattern: /\bconfirmed included\b/gi }, // demoted from internal-jargon, see Fase 3c
 ];
 
 // ---------------------------------------------------------------------------
@@ -252,8 +257,9 @@ function scanField(rel, field, rawText, countsErr, countsWarn, errors, warnings,
         continue;
       }
       if (fpCheck === 'warning-only') {
-        warnings.push({ file: rel, field, rule: 'warning-icon', snippet: contextOf(rawText, m.index, m.index + m[0].length) });
-        countsWarn['warning-icon'] = (countsWarn['warning-icon'] || 0) + 1;
+        const warnRule = m[0] === '⚠️' ? 'warning-icon' : 'confirmed-included-jargon';
+        warnings.push({ file: rel, field, rule: warnRule, snippet: contextOf(rawText, m.index, m.index + m[0].length) });
+        countsWarn[warnRule] = (countsWarn[warnRule] || 0) + 1;
         continue;
       }
       if (rule.name === 'review-figure' && rule.allow) {
