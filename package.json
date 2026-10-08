@@ -10,7 +10,8 @@
     "lint": "eslint",
     "lint:copy": "node scripts/lint-public-copy.mjs",
     "lint:copy:strict": "LINT_COPY_STRICT=1 node scripts/lint-public-copy.mjs",
-    "lint:copy:test": "node scripts/lint-public-copy.test.mjs"
+    "lint:copy:test": "node scripts/lint-public-copy.test.mjs",
+    "test:rating-thresholds": "node lib/rating-thresholds.test.mjs"
   },
   "dependencies": {
     "@react-google-maps/api": "^2.20.8",

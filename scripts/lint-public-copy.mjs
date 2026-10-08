@@ -332,6 +332,31 @@ function scanTitleFields(rel, fields, errors, countsErr, falsePositives) {
   }
 }
 
+// top-rated-claim-below-threshold (warning, Fase 5 §3): prose asserting
+// "Top Rated"/"highly rated"/etc. about this castle's or tour's own GYG
+// product, when that product doesn't actually clear the same threshold
+// GYGFeaturedTour.tsx/TourCard.tsx use to show the badge. Mirrors
+// lib/rating-thresholds.ts — keep these numbers in sync with that file.
+const TOP_RATED_CLAIM_RE = /Top Rated|top-rated|highest-rated|best-rated|highly rated/gi;
+const MIN_REVIEWS_FOR_TOP_RATED = 10;
+const TOP_RATED_MIN_RATING = 4.8;
+function claimedTourMeetsThreshold(rating, reviews) {
+  return rating != null && reviews != null && reviews >= MIN_REVIEWS_FOR_TOP_RATED && rating >= TOP_RATED_MIN_RATING;
+}
+
+function scanTopRatedClaims(rel, fields, rating, reviews, warnings, countsWarn) {
+  const meets = claimedTourMeetsThreshold(rating, reviews);
+  if (meets) return; // claim is accurate for this castle's/tour's own GYG product; nothing to flag
+  for (const [field, rawText] of fields) {
+    const masked = maskLinksAndUrls(rawText);
+    for (const m of masked.matchAll(TOP_RATED_CLAIM_RE)) {
+      warnings.push({ file: rel, field, rule: 'top-rated-claim-below-threshold', snippet: contextOf(masked, m.index, m.index + m[0].length) });
+      countsWarn['top-rated-claim-below-threshold'] = (countsWarn['top-rated-claim-below-threshold'] || 0) + 1;
+      countsWarn[`top-rated-claim-below-threshold::${countryOf(rel)}`] = (countsWarn[`top-rated-claim-below-threshold::${countryOf(rel)}`] || 0) + 1;
+    }
+  }
+}
+
 function main() {
   const countsErr = {};
   const countsWarn = {};
@@ -356,6 +381,11 @@ function main() {
       }
       scanCurrencyConsistency(rel, d, fields, errors, countsErr);
       scanTitleFields(rel, kind === 'castle' ? castleTitleFields(d) : tourTitleFields(d), errors, countsErr, falsePositives);
+      {
+        const ownRating = kind === 'castle' ? d.gyg_featured_tours?.[0]?.rating : d.rating;
+        const ownReviews = kind === 'castle' ? d.gyg_featured_tours?.[0]?.reviews : d.review_count;
+        scanTopRatedClaims(rel, fields, ownRating, ownReviews, warnings, countsWarn);
+      }
 
       if (kind === 'castle') {
         for (const t of d.gyg_featured_tours || []) {
@@ -412,4 +442,4 @@ if (path.resolve(fileURLToPath(import.meta.url)) === path.resolve(process.argv[1
   main();
 }
 
-export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE };
+export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold };

@@ -9,6 +9,7 @@ import TourStructuredData from '@/components/seo/TourStructuredData';
 import GYGWidget from '@/components/affiliate/GYGWidget';
 import { getGYGSearchUrl } from '@/lib/gyg';
 import { renderEditorialHtml } from '@/lib/markdown';
+import { shouldShowStars } from '@/lib/rating-thresholds';
 
 const GYG_PARTNER_ID = process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? '';
 
@@ -120,7 +121,7 @@ export default async function TourPage({ params }: Props) {
                 </p>
               )}
             </div>
-            {hasLiveProduct && tour.review_count > 0 && (
+            {hasLiveProduct && shouldShowStars(tour.rating, tour.review_count) && (
               <>
                 <div className="w-px h-8 bg-stone-300" />
                 <div>
@@ -140,16 +141,16 @@ export default async function TourPage({ params }: Props) {
               <p className="text-xs text-[#666] uppercase tracking-wider">Duration</p>
               <p className="font-semibold text-[#1a1a1a]">{tour.duration_label}</p>
             </div>
+            {(!hasLiveProduct || shouldShowStars(tour.rating, tour.review_count)) && (
             <div>
               <p className="text-xs text-[#666] uppercase tracking-wider">Rating</p>
               <p className="font-semibold text-[#1a1a1a]">
                 {!hasLiveProduct
                   ? 'Check on GetYourGuide'
-                  : tour.review_count > 0
-                  ? `${tour.rating} ★ (${tour.review_count.toLocaleString()} reviews)`
-                  : 'New activity'}
+                  : `${tour.rating} ★ (${tour.review_count.toLocaleString()} reviews)`}
               </p>
             </div>
+            )}
             <div>
               <p className="text-xs text-[#666] uppercase tracking-wider">Languages</p>
               <p className="font-semibold text-[#1a1a1a]">{tour.languages.join(', ')}</p>
@@ -325,7 +326,7 @@ export default async function TourPage({ params }: Props) {
                   <p className="text-white/70 text-sm">From</p>
                   <p className="font-serif text-3xl font-bold">{currencySymbol}{tour.price_from}</p>
                   <p className="text-white/70 text-sm">{priceUnitLong}</p>
-                  {tour.review_count > 0 && (
+                  {shouldShowStars(tour.rating, tour.review_count) && (
                     <div className="flex items-center gap-1.5 mt-3">
                       <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
                       <span className="text-[#c9a84c]">★★★★★</span>

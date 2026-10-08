@@ -4,7 +4,7 @@
 //   node scripts/lint-public-copy.test.mjs
 // Exits 1 if any assertion fails.
 
-import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE } from './lint-public-copy.mjs';
+import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold } from './lint-public-copy.mjs';
 
 let failures = 0;
 function ruleMatches(name, text) {
@@ -163,6 +163,49 @@ assertTitlePasses('decimal-range duration is not a price or rating figure', 'Edi
 assertTitlePasses('a qualitative badge with no figures', 'Prague Castle Skip-the-Line Tour — Top Rated');
 assertTitlePasses('a historical sale price in a meta_title is not a live GYG price',
   'Bovey Castle — An Edwardian Dartmoor Resort Sold for £15,000');
+
+// --- top-rated-claim-below-threshold (warning: "Top Rated" prose claim vs. the actual rating/reviews) ---
+function topRatedClaimWarns(text, rating, reviews) {
+  if (claimedTourMeetsThreshold(rating, reviews)) return [];
+  return [...text.matchAll(TOP_RATED_CLAIM_RE)].map(m => m[0]);
+}
+
+{
+  const belowThreshold = topRatedClaimWarns('Hours vary by season. Top Rated on GYG.', 5, 3);
+  if (belowThreshold.length === 0) {
+    console.error('FAIL: expected a warning for "Top Rated" claimed with only 3 reviews');
+    failures++;
+  } else {
+    console.log('ok   (warns as expected): "Top Rated" claimed with reviews below MIN_REVIEWS_FOR_TOP_RATED');
+  }
+}
+{
+  const atThreshold = topRatedClaimWarns('This is a Top Rated tour on GetYourGuide.', 4.8, 10);
+  if (atThreshold.length !== 0) {
+    console.error('FAIL: expected no warning — rating and reviews both clear the Top Rated threshold');
+    failures++;
+  } else {
+    console.log('ok   (passes as expected): "Top Rated" claimed and the tour actually clears the threshold');
+  }
+}
+{
+  const ratingTooLow = topRatedClaimWarns('One of GetYourGuide\'s highest-rated tours in Europe.', 4.7, 21506);
+  if (ratingTooLow.length === 0) {
+    console.error('FAIL: expected a warning — huge review count but rating below 4.8');
+    failures++;
+  } else {
+    console.log('ok   (warns as expected): "highest-rated" claimed with a large review base but rating below 4.8');
+  }
+}
+{
+  const noClaim = topRatedClaimWarns('A guided tour of the castle grounds and gardens.', 4.2, 5);
+  if (noClaim.length !== 0) {
+    console.error('FAIL: expected no warning — no "Top Rated"-style phrase present at all');
+    failures++;
+  } else {
+    console.log('ok   (passes as expected): ordinary prose with no ranking claim');
+  }
+}
 
 // --- UK_LIKE_COUNTRIES sanity (used by the currency-gbp-wrong-country check in the main script) ---
 {

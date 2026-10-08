@@ -1,5 +1,6 @@
 import type { Castle } from '@/types';
 import { getGYGSearchUrl } from '@/lib/gyg';
+import { shouldShowStars, shouldShowTopRated } from '@/lib/rating-thresholds';
 
 type FeaturedTour = NonNullable<Castle['gyg_featured_tours']>[number];
 
@@ -35,10 +36,10 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
         {tour.title}
       </h3>
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-stone-600 mb-3">
-        {tour.rating != null && tour.reviews != null && tour.reviews > 1 && (
+        {shouldShowStars(tour.rating, tour.reviews) && (
           <>
             <span>⭐ {tour.rating} ({tour.reviews.toLocaleString()})</span>
-            {tour.rating >= 4.8 && (
+            {shouldShowTopRated(tour.rating, tour.reviews) && (
               <span className="bg-[#c9a84c] text-[#1a1a1a] text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded">
                 Top Rated
               </span>

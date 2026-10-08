@@ -1,6 +1,16 @@
 import fs from 'fs';
 import path from 'path';
 import type { Tour, TourCountry } from '@/types/tours';
+import { shouldShowStars } from '@/lib/rating-thresholds';
+
+// A tour below the display threshold never outranks one above it on rating
+// alone — same invariant as the stars/badge display, so a 2-review 5.0
+// can't out-sort a well-reviewed tour just because log10 dampening alone
+// didn't fully suppress it.
+function popularityScore(tour: Pick<Tour, 'rating' | 'review_count'>): number {
+  if (!shouldShowStars(tour.rating, tour.review_count)) return 0;
+  return (tour.rating ?? 0) * Math.log10((tour.review_count ?? 1) + 1);
+}
 
 const toursDir = path.join(process.cwd(), 'data/tours');
 
@@ -18,9 +28,7 @@ export function getAllTours(): Tour[] {
     }
   }
   return tours.sort((a, b) => {
-    const scoreA = (a.rating ?? 0) * Math.log10((a.review_count ?? 1) + 1);
-    const scoreB = (b.rating ?? 0) * Math.log10((b.review_count ?? 1) + 1);
-    return scoreB - scoreA;
+    return popularityScore(b) - popularityScore(a);
   });
 }
 
@@ -36,9 +44,7 @@ export function getFeaturedTours(limit = 6): Tour[] {
   return getAllTours()
     .filter(t => t.featured)
     .sort((a, b) => {
-      const scoreA = (a.rating ?? 0) * Math.log10((a.review_count ?? 1) + 1);
-      const scoreB = (b.rating ?? 0) * Math.log10((b.review_count ?? 1) + 1);
-      return scoreB - scoreA;
+      return popularityScore(b) - popularityScore(a);
     })
     .slice(0, limit);
 }

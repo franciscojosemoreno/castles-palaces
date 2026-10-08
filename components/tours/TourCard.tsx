@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import type { Tour } from '@/types/tours';
+import { shouldShowStars } from '@/lib/rating-thresholds';
 
 interface TourCardProps {
   tour: Tour;
@@ -51,9 +52,9 @@ export default function TourCard({ tour, variant = 'default' }: TourCardProps) {
         <p className="text-sm text-[#555] line-clamp-2 mb-4">{tour.tagline}</p>
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-1.5">
-            {tour.rating != null ? (
+            {shouldShowStars(tour.rating, tour.review_count) && (
               <>
-                <span className="text-[#c9a84c] text-sm font-bold">{tour.rating.toFixed(1)}</span>
+                <span className="text-[#c9a84c] text-sm font-bold">{tour.rating!.toFixed(1)}</span>
                 <div className="flex">
                   {[1, 2, 3, 4, 5].map(i => (
                     <svg key={i} className={`w-3.5 h-3.5 ${i <= Math.round(tour.rating!) ? 'text-[#c9a84c]' : 'text-gray-300'}`} fill="currentColor" viewBox="0 0 20 20">
@@ -63,8 +64,6 @@ export default function TourCard({ tour, variant = 'default' }: TourCardProps) {
                 </div>
                 <span className="text-xs text-[#666]">({tour.review_count.toLocaleString()})</span>
               </>
-            ) : (
-              <span className="text-xs text-[#666]">New listing</span>
             )}
           </div>
           <p className="text-sm font-bold text-[#1761a0]">
