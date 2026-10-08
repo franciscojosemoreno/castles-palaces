@@ -174,6 +174,13 @@ const ERROR_RULES = [
     name: 'product-id',
     pattern: /\bt\d{3,8}\b/g,
   },
+  // Promoted from a warning once Fase 3b brought the bare-"GYG" baseline
+  // to 0 across the whole dataset (scripts/rename-gyg-prose.mjs replaced
+  // every occurrence in visitor-rendered text with "GetYourGuide").
+  {
+    name: 'bare-gyg',
+    pattern: /\bGYG\b/g,
+  },
   {
     name: 'usd',
     pattern: /\$\s?\d|\bUSD\b/g,
@@ -200,7 +207,14 @@ const ERROR_RULES = [
   },
   {
     name: 'grammar',
-    pattern: /[ ]{2,}|\(\s*\)|,\s*\)|\s,|—\s*—|\.[A-Z][a-z]/g,
+    // \bby\s*\)|covered by\s*[.)]|\band\s*\)|\bwith\s*\)|\bin\s*\) catch a
+    // dangling reference left behind when a product id or other token was
+    // stripped out of a sentence but the word right before it (e.g. "the
+    // same tour") was never put back — e.g. "also covered by t139538)"
+    // losing its id becomes "also covered by )." (found once, in Biertan
+    // Fortified Church, after Fase 3 stripped a product id; fixed in
+    // Fase 3b).
+    pattern: /[ ]{2,}|\(\s*\)|,\s*\)|\s,|—\s*—|\.[A-Z][a-z]|\bby\s*\)|covered by\s*[.)]|\band\s*\)|\bwith\s*\)|\bin\s*\)/g,
     filter(m, text, start) {
       // domain / abbreviation false positives for the ".[A-Z][a-z]" branch
       if (/^\.[A-Z][a-z]$/.test(m[0])) {
@@ -208,6 +222,10 @@ const ERROR_RULES = [
         if (/[a-z0-9-]+\.(com|org|net|info|cat|it|de|at|es|fr|pl|cz|se|dk|fi|gr|pt|sk|si|hr|ro|md|ge|al)$/i.test(before)) return false;
         if (/\b(vs|St|Mr|Mrs|Dr|Jr|Sr|etc|approx|Ave|No|c)\.$/i.test(before)) return false;
       }
+      // a compound word ending "-by" right before a close-paren ("a
+      // drive-by)") is not a dangling reference — only a *space* (or
+      // nothing) before "by)" is.
+      if (/^by\s*\)$/.test(m[0]) && text[start - 1] === '-') return false;
       return true;
     },
   },
@@ -215,7 +233,6 @@ const ERROR_RULES = [
 
 const WARNING_RULES = [
   { name: 'warning-icon', pattern: /⚠️/g },
-  { name: 'bare-gyg', pattern: /\bGYG\b/g },
   { name: 'meta-over-160', isFieldLevel: true },
   { name: 'stale-price-near-gyg', pattern: /€\d+(\.\d+)?/g, needsContext: /\bGYG\b|\btour\b/i },
 ];
@@ -251,13 +268,6 @@ function scanField(rel, field, rawText, countsErr, countsWarn, errors, warnings,
       countsErr[rule.name] = (countsErr[rule.name] || 0) + 1;
       countsErr[`${rule.name}::${countryOf(rel)}`] = (countsErr[`${rule.name}::${countryOf(rel)}`] || 0) + 1;
     }
-  }
-
-  // warnings: bare GYG acronym (counted per country, not per-match reported individually in errors table)
-  for (const m of masked.matchAll(/\bGYG\b/g)) {
-    warnings.push({ file: rel, field, rule: 'bare-gyg', snippet: contextOf(rawText, m.index, m.index + m[0].length) });
-    countsWarn['bare-gyg'] = (countsWarn['bare-gyg'] || 0) + 1;
-    countsWarn[`bare-gyg::${countryOf(rel)}`] = (countsWarn[`bare-gyg::${countryOf(rel)}`] || 0) + 1;
   }
 
   // warning: stale € price mentioned alongside "GYG"/"tour" in prose

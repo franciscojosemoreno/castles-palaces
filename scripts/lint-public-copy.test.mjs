@@ -41,9 +41,19 @@ function assertPasses(label, ruleName, text) {
 
 // --- product-id ---
 assertFails('bare product id in prose', 'product-id',
-  'The GYG tour (t976544) covers the castle.');
+  'The GetYourGuide tour (t976544) covers the castle.');
 assertPasses('product id only inside a markdown link target, never in rendered text', 'product-id',
   'See [this castle](/castles/france/some-castle-t976544) for more.');
+
+// --- bare-gyg (promoted to error once Fase 3b brought the baseline to 0) ---
+assertFails('bare "GYG" acronym in prose', 'bare-gyg',
+  'The GYG tour covers the castle and old town.');
+assertFails('"GYG" inside a possessive still trips the rule', 'bare-gyg',
+  "GYG's own listing confirms entry is included.");
+assertPasses('the full brand name is never flagged', 'bare-gyg',
+  'The GetYourGuide tour covers the castle and old town.');
+assertPasses('"GYG" only inside a markdown link target, never in rendered text', 'bare-gyg',
+  'See [this tour](https://www.getyourguide.com/GYG-promo-code) for details.');
 
 // --- usd ---
 assertFails('dollar sign before a digit', 'usd',
@@ -75,7 +85,7 @@ assertFails('REGLA citation', 'internal-jargon',
 assertFails('New Activity status label', 'internal-jargon',
   "The listing is tagged 'New Activity' with rating: null.");
 assertFails('Includes list methodology citation', 'internal-jargon',
-  'Entrance is confirmed ✓ in the GYG Includes list.');
+  'Entrance is confirmed ✓ in the GetYourGuide Includes list.');
 assertFails('is_top_pick literal field name', 'internal-jargon',
   'This product (is_top_pick) is the best option.');
 assertPasses('legitimate beer-batch exception', 'internal-jargon',
@@ -85,9 +95,19 @@ assertPasses('ordinary prose with no internal terms', 'internal-jargon',
 
 // --- grammar ---
 assertFails('double space', 'grammar', 'The castle is  open daily.');
-assertFails('empty parens left over from a strip', 'grammar', 'The GYG tour () covers the castle.');
-assertFails('comma before closing paren', 'grammar', 'The GYG tour (6 hours, ) covers the castle.');
+assertFails('empty parens left over from a strip', 'grammar', 'The GetYourGuide tour () covers the castle.');
+assertFails('comma before closing paren', 'grammar', 'The GetYourGuide tour (6 hours, ) covers the castle.');
 assertFails('two sentences glued with no space', 'grammar', 'Book in advance.The castle opens at nine.');
+assertFails('dangling reference after a stripped id ("covered by )")', 'grammar',
+  'the oldest fortified church in the village; also covered by ).');
+assertFails('dangling reference, "and )" variant', 'grammar',
+  'both sites are on the same tour; see Castle A and ).');
+assertFails('dangling reference, "with )" variant', 'grammar',
+  'the ticket includes entry with ).');
+assertFails('dangling reference, "in )" variant', 'grammar',
+  'the tour stops at the fortress in ).');
+assertPasses('a compound word ending "-by" before a close-paren is not a dangling reference', 'grammar',
+  'The coach route passes Loch Leven Castle en route (drive-by) before continuing north.');
 assertPasses('a real domain is not a missing-space defect', 'grammar',
   'Confirm current hours at chateau-reignac.com before visiting.');
 assertPasses('a common abbreviation is not a missing-space defect', 'grammar',
@@ -109,7 +129,7 @@ assertPasses('a common abbreviation is not a missing-space defect', 'grammar',
 
 // --- currency-gbp-wrong-country (scoped to ±80 chars of a product word) ---
 {
-  const near = 'The GYG entry ticket costs £15 per person.';
+  const near = 'The GetYourGuide entry ticket costs £15 per person.';
   const far = "D'Arcy spent £500 constructing the west wing of the house back in 1832.";
   const windowNear = near.slice(Math.max(0, near.indexOf('£') - 80), near.indexOf('£') + 80);
   const windowFar = far.slice(Math.max(0, far.indexOf('£') - 80), far.indexOf('£') + 80);

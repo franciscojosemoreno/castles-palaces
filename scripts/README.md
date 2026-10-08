@@ -36,10 +36,14 @@ or domain that only appears inside a link target never trips a content rule.
 ### Rules
 
 Error rules (fail the build): `product-id`, `usd`, `review-figure`,
-`internal-jargon`, `gyg-locale-domain`, `grammar`, `currency-gbp-wrong-country`.
+`internal-jargon`, `gyg-locale-domain`, `grammar`, `currency-gbp-wrong-country`,
+`title-price` (title/label fields only — see `castleTitleFields()`/`tourTitleFields()`),
+`top-rated-claim-below-threshold` ("Top Rated"/"highly rated"/etc. claimed
+about a GYG product that doesn't clear `shouldShowTopRated()` in
+`lib/rating-thresholds.ts`), `bare-gyg` ("GYG" as a bare acronym in prose —
+promoted from a warning once Fase 3b brought the site-wide baseline to 0).
 Warning rules (reported, never fail the build): `warning-icon` (⚠️),
-`bare-gyg` ("GYG" as a bare acronym in prose), `meta-over-160`,
-`stale-price-near-gyg`.
+`meta-over-160`, `stale-price-near-gyg`.
 
 ### Adding an exception
 
