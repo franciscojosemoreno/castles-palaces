@@ -329,7 +329,7 @@ export default async function TourPage({ params }: Props) {
                   <p className="text-white/70 text-sm">{priceUnitLong}</p>
                   {shouldShowStars(tour.rating, tour.review_count) && (
                     <div className="flex items-center gap-1.5 mt-3">
-                      <span className="text-[#c9a84c] font-bold">{tour.rating}</span>
+                      <span className="text-[#c9a84c] font-bold">{tour.rating!.toFixed(1)}</span>
                       <RatingStars rating={tour.rating!} reviews={tour.review_count} starClassName="w-4 h-4" />
                       <span className="text-white/60 text-xs">({tour.review_count.toLocaleString()} reviews)</span>
                     </div>
