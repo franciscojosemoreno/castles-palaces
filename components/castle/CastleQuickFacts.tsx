@@ -91,8 +91,8 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
         if (tour.multi_site_pass) return 'Entry';
         const labels: Partial<Record<string, string>> = {
           skip_the_line: 'Skip-the-line from',
-          entry_ticket: 'Entry via GYG',
-          entrance_ticket: 'Entry via GYG',
+          entry_ticket: 'Entry via GetYourGuide',
+          entrance_ticket: 'Entry via GetYourGuide',
           guided_tour: 'Guided tour from',
           day_trip: 'Day trip from',
           boat_tour: 'Boat tour from',

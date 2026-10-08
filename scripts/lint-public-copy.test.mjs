@@ -64,6 +64,8 @@ assertFails('thousands-separated review count with a trailing +', 'review-figure
   'Book this tour — 21,000+ reviews on GetYourGuide.');
 assertFails('thousands-separated review count, no +', 'review-figure',
   'This tour has 1,185 reviews so far.');
+assertFails('hyphenated star rating', 'review-figure',
+  'Two early reviews award a perfect 5.0-star rating.');
 assertPasses('no exact figure, just a qualitative claim', 'review-figure',
   'The tour is highly and consistently rated on GetYourGuide.');
 

@@ -37,6 +37,7 @@ function castleFields(d) {
   push('how_to_visit', d.how_to_visit);
   push('architectural_style', d.architectural_style);
   push('visit_duration', d.visit_duration);
+  push('best_season', d.best_season);
   push('meta_description', d.meta_description);
   const oh = d.opening_hours || {};
   push('opening_hours.seasonal_note', oh.seasonal_note);
@@ -45,6 +46,7 @@ function castleFields(d) {
     push(`faqs[${i}].question`, faq.question);
     push(`faqs[${i}].answer`, faq.answer);
   });
+  (d.gyg_featured_tours || []).forEach((t, i) => push(`gyg_featured_tours[${i}].duration`, t.duration));
   const hotel = d.hotel || {};
   push('hotel.how_to_stay', hotel.how_to_stay);
   push('hotel.non_guest_access_note', hotel.non_guest_access_note);
@@ -57,6 +59,7 @@ function tourFields(d) {
   const push = (field, val) => { if (typeof val === 'string' && val) out.push([field, val]); };
   push('tagline', d.tagline);
   push('overview', d.overview);
+  push('meeting_point', d.meeting_point);
   const meta = d.meta || {};
   push('meta.description', meta.description);
   (d.highlights || []).forEach((h, i) => push(`highlights[${i}]`, h));
@@ -181,7 +184,9 @@ const ERROR_RULES = [
     // optional trailing "+" ("21,000+ reviews", "1,185 reviews") — a comma
     // or a "+" right after the digits used to break the old \d+\s+reviews
     // match entirely, letting those slip past this rule undetected.
-    pattern: /\d\.\d\s*★|\d{1,3}(,\d{3})*\+?\s+(verified\s+)?reviews?\b|rating of \d|\d\.\d\s*stars?\b/gi,
+    // \d\.\d[- ]?stars? additionally catches a hyphen joining the rating to
+    // "star" ("5.0-star rating") — \s* alone only matched a space or none.
+    pattern: /\d\.\d\s*★|\d{1,3}(,\d{3})*\+?\s+(verified\s+)?reviews?\b|rating of \d|\d\.\d[- ]?stars?\b/gi,
     allow: true,
   },
   {
@@ -495,4 +500,4 @@ if (path.resolve(fileURLToPath(import.meta.url)) === path.resolve(process.argv[1
   main();
 }
 
-export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold, scanTopRatedClaims };
+export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold, scanTopRatedClaims, castleFields, tourFields, castleTitleFields, tourTitleFields, walkFiles, countryOf };
