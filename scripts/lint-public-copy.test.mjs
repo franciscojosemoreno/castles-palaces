@@ -90,7 +90,7 @@ assertFails('is_top_pick literal field name', 'internal-jargon',
   'This product (is_top_pick) is the best option.');
 assertFails('tour_id literal field name', 'internal-jargon',
   'The same tour and tour_id already appears on the castle page.');
-assertPasses('"confirmed included" is demoted to a warning, not an error (Fase 3c, pending a dedicated cleanup pass)', 'internal-jargon',
+assertFails('"confirmed included" verification jargon (promoted to an error once the Fase 3c backlog hit 0)', 'internal-jargon',
   'The tour includes the fortress stop, with entry confirmed included.');
 assertPasses('legitimate beer-batch exception', 'internal-jargon',
   "On 5 October 1842, brewmaster Josef Groll produced the first batch of a new style of beer.");

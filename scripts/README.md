@@ -42,6 +42,10 @@ Error rules (fail the build): `product-id`, `usd`, `review-figure`,
 about a GYG product that doesn't clear `shouldShowTopRated()` in
 `lib/rating-thresholds.ts`), `bare-gyg` ("GYG" as a bare acronym in prose —
 promoted from a warning once Fase 3b brought the site-wide baseline to 0).
+`internal-jargon` also catches `tour_id` (a literal field name leaked into
+prose) and `confirmed included` (an internal-verification phrase —
+promoted from a warning once Fase 3c's cleanup pass brought its baseline
+to 0, the same pattern used for `bare-gyg`).
 Warning rules (reported, never fail the build): `warning-icon` (⚠️),
 `meta-over-160`, `stale-price-near-gyg`.
 
