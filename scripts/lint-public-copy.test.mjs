@@ -4,7 +4,7 @@
 //   node scripts/lint-public-copy.test.mjs
 // Exits 1 if any assertion fails.
 
-import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE } from './lint-public-copy.mjs';
+import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE } from './lint-public-copy.mjs';
 
 let failures = 0;
 function ruleMatches(name, text) {
@@ -120,6 +120,49 @@ assertPasses('a common abbreviation is not a missing-space defect', 'grammar',
     console.log('ok   (passes as expected): historical £ construction cost with no GYG/tour context nearby');
   }
 }
+
+// --- title-price (titles/labels: price, price-unit, review figures, ids, jargon) ---
+function titlePriceMatches(text) {
+  const hits = [];
+  for (const m of text.matchAll(TITLE_PRICE_PATTERN)) {
+    const token = m[0];
+    const isMoneyLike = /[€£$]|EUR|USD|GBP|per\s+(person|group)|\/\s?p(p|erson)\b/i.test(token);
+    if (isMoneyLike && HISTORICAL_SALE_RE.test(text)) continue; // historical sale price, not a live GYG price
+    if (token === '⚠️') continue;
+    hits.push(token);
+  }
+  return hits;
+}
+
+function assertTitleFails(label, text) {
+  const hits = titlePriceMatches(text);
+  if (hits.length === 0) {
+    console.error(`FAIL (expected a match): ${label}\n  text=${JSON.stringify(text)}`);
+    failures++;
+  } else {
+    console.log(`ok   (fails as expected): ${label}`);
+  }
+}
+
+function assertTitlePasses(label, text) {
+  const hits = titlePriceMatches(text);
+  if (hits.length !== 0) {
+    console.error(`FAIL (expected no match, got ${JSON.stringify(hits)}): ${label}\n  text=${JSON.stringify(text)}`);
+    failures++;
+  } else {
+    console.log(`ok   (passes as expected): ${label}`);
+  }
+}
+
+assertTitleFails('embedded GYG price and per-person unit in a featured-tour title',
+  'Lausanne: Private Day Trip to Vevey, Montreux & Aigle Castle — Swiss Riviera Circuit (~€419/person, 7 hours)');
+assertTitleFails('embedded star rating in a title', 'Best-Rated City Tour — 4.9★ (2 hours)');
+assertTitleFails('product id leaked into a title', 'Prague Castle Tour t976544 (3 hours)');
+assertTitlePasses('duration only, no price', 'Lausanne: Private Day Trip to Vevey, Montreux & Aigle Castle — Swiss Riviera Circuit (7 hours)');
+assertTitlePasses('decimal-range duration is not a price or rating figure', 'Edinburgh Castle & Highlands Day Tour (3.5–4h)');
+assertTitlePasses('a qualitative badge with no figures', 'Prague Castle Skip-the-Line Tour — Top Rated');
+assertTitlePasses('a historical sale price in a meta_title is not a live GYG price',
+  'Bovey Castle — An Edwardian Dartmoor Resort Sold for £15,000');
 
 // --- UK_LIKE_COUNTRIES sanity (used by the currency-gbp-wrong-country check in the main script) ---
 {

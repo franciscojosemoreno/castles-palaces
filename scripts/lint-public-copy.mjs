@@ -72,6 +72,38 @@ function tourFields(d) {
   return out;
 }
 
+// TITLE/LABEL FIELDS — short rendered titles and badges (castle/tour
+// names, GYG featured-tour titles, pass labels, meta titles) are a second
+// place a price, review figure, or product id can leak and go stale
+// independently of the structured price_from/rating/tour_id fields.
+// Scanned separately from castleFields()/tourFields(): those prose fields
+// legitimately use "€" throughout (e.g. "~€6 per adult"), so running a
+// price-shaped pattern there would be almost entirely false positives.
+function castleTitleFields(d) {
+  const out = [];
+  const push = (field, val) => { if (typeof val === 'string' && val) out.push([field, val]); };
+  push('name', d.name);
+  push('local_name', d.local_name);
+  push('built_label', d.built_label);
+  push('meta_title', d.meta_title);
+  if (d.hotel) push('hotel.hotel_name', d.hotel.hotel_name);
+  (d.gyg_featured_tours || []).forEach((t, i) => {
+    push(`gyg_featured_tours[${i}].title`, t.title);
+    push(`gyg_featured_tours[${i}].pass_label`, t.pass_label);
+    push(`gyg_featured_tours[${i}].pass_badge_label`, t.pass_badge_label);
+  });
+  return out;
+}
+
+function tourTitleFields(d) {
+  const out = [];
+  const push = (field, val) => { if (typeof val === 'string' && val) out.push([field, val]); };
+  push('name', d.name);
+  const meta = d.meta || {};
+  push('meta.title', meta.title);
+  return out;
+}
+
 // URL fields scanned ONLY for the gyg-locale-domain rule — never for the
 // content rules (product-id/usd/review-figure/jargon/grammar), and never
 // touched/rewritten by anything in this script.
@@ -267,6 +299,39 @@ function scanCurrencyConsistency(rel, d, allFields, errors, countsErr) {
   }
 }
 
+// title-price: a single combined rule for title/label fields (see
+// castleTitleFields()/tourTitleFields() above) covering price, price-unit,
+// review figures, product ids, and the same internal-jargon phrases the
+// prose rule catches — all of which are a maintenance liability in a
+// title specifically because the title is a second, easily-forgotten copy
+// of data that already lives in a structured field (price_from, rating,
+// reviews, tour_id).
+const TITLE_PRICE_PATTERN = /[€£$]\s?\d|\b(?:EUR|USD|GBP)\b|\bfrom\s+[€£$]|\/\s?person\b|\bper person\b|\bper group\b|\/pp\b|\d\.\d\s*★|\d+\s+reviews?\b|rated\s+\d|\bt\d{3,8}\b|\bbatch\b|REGLA\s?#|per (the )?brief\b|site policy\b|rating:\s*null|\bnull\b|\bundefined\b|\bTBD\b|\bTODO\b|New Activity\b|no reviews yet\b|is_top_pick\b|independent (GYG )?(corroborating )?signals?\b|confirmed per\b|Includes list\b|✓|✗|⚠️/gi;
+
+// A price/price-unit token in a title field is only a "stale GYG price"
+// problem when the title is actually quoting a live tour price — not every
+// price-shaped string in a title field is one. A meta_title noting a
+// country house "Sold for £15,000" in 1907 is a historical fact, not a
+// GYG listing price, and won't go stale the way a tour price does.
+const HISTORICAL_SALE_RE = /\bsold (for|at)\b|\bauctioned?\b|\bbought for\b|\bpurchase price\b/i;
+
+function scanTitleFields(rel, fields, errors, countsErr, falsePositives) {
+  for (const [field, rawText] of fields) {
+    for (const m of rawText.matchAll(TITLE_PRICE_PATTERN)) {
+      const token = m[0];
+      const isMoneyLike = /[€£$]|EUR|USD|GBP|per\s+(person|group)|\/\s?p(p|erson)\b/i.test(token);
+      if (isMoneyLike && HISTORICAL_SALE_RE.test(rawText)) {
+        falsePositives.push({ file: rel, field, rule: 'title-price', snippet: contextOf(rawText, m.index, m.index + token.length), reason: 'historical sale price, not a GYG tour price' });
+        continue;
+      }
+      if (token === '⚠️') continue; // already reported as a warning by the prose scan elsewhere
+      errors.push({ file: rel, field, rule: 'title-price', snippet: contextOf(rawText, m.index, m.index + token.length) });
+      countsErr['title-price'] = (countsErr['title-price'] || 0) + 1;
+      countsErr[`title-price::${countryOf(rel)}`] = (countsErr[`title-price::${countryOf(rel)}`] || 0) + 1;
+    }
+  }
+}
+
 function main() {
   const countsErr = {};
   const countsWarn = {};
@@ -290,6 +355,7 @@ function main() {
         scanUrlField(rel, field, url, errors, countsErr);
       }
       scanCurrencyConsistency(rel, d, fields, errors, countsErr);
+      scanTitleFields(rel, kind === 'castle' ? castleTitleFields(d) : tourTitleFields(d), errors, countsErr, falsePositives);
 
       if (kind === 'castle') {
         for (const t of d.gyg_featured_tours || []) {
@@ -346,4 +412,4 @@ if (path.resolve(fileURLToPath(import.meta.url)) === path.resolve(process.argv[1
   main();
 }
 
-export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE };
+export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE };
