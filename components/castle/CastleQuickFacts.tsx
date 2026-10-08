@@ -23,8 +23,12 @@ function formatHoursShort(oh: Castle['opening_hours']): string {
   const allVals = DAYS.map(d => oh[d]).filter(Boolean) as string[];
   if (allVals.length === 0) return 'Check official website';
 
-  // All 7 days identical → "Daily HH:MM–HH:MM"
-  if (allVals.length === 7 && new Set(allVals).size === 1 && allVals[0].toLowerCase() !== 'closed') {
+  // All 7 days identical and a real HH:MM time range → "Daily HH:MM–HH:MM".
+  // A "Daily" prefix only reads correctly in front of an actual time range —
+  // every non-"Closed" day value in the dataset that isn't a time range (e.g.
+  // "By appointment", "Open access (ruins)") falls through to the grouping
+  // logic below instead, which renders it as "Mon–Sun <text>".
+  if (allVals.length === 7 && new Set(allVals).size === 1 && allVals[0].toLowerCase() !== 'closed' && /\d{1,2}:\d{2}/.test(allVals[0])) {
     return `Daily ${allVals[0]}`;
   }
 
