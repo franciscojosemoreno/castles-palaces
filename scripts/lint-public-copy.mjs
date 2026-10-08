@@ -177,7 +177,11 @@ const ERROR_RULES = [
   },
   {
     name: 'review-figure',
-    pattern: /\d\.\d\s*★|\d+\s+(verified\s+)?reviews?\b|rating of \d|\d\.\d\s*stars?\b/gi,
+    // \d{1,3}(,\d{3})*\+? also catches thousands-separated counts with an
+    // optional trailing "+" ("21,000+ reviews", "1,185 reviews") — a comma
+    // or a "+" right after the digits used to break the old \d+\s+reviews
+    // match entirely, letting those slip past this rule undetected.
+    pattern: /\d\.\d\s*★|\d{1,3}(,\d{3})*\+?\s+(verified\s+)?reviews?\b|rating of \d|\d\.\d\s*stars?\b/gi,
     allow: true,
   },
   {
@@ -332,10 +336,10 @@ function scanTitleFields(rel, fields, errors, countsErr, falsePositives) {
   }
 }
 
-// top-rated-claim-below-threshold (warning, Fase 5 §3): prose asserting
-// "Top Rated"/"highly rated"/etc. about this castle's or tour's own GYG
-// product, when that product doesn't actually clear the same threshold
-// GYGFeaturedTour.tsx/TourCard.tsx use to show the badge. Mirrors
+// top-rated-claim-below-threshold (error, Fase 5c — promoted from warning
+// once the Fase 5 baseline reached 0): prose asserting "Top Rated"/"highly
+// rated"/etc. about a GYG product that doesn't actually clear the same
+// threshold GYGFeaturedTour.tsx/TourCard.tsx use to show the badge. Mirrors
 // lib/rating-thresholds.ts — keep these numbers in sync with that file.
 const TOP_RATED_CLAIM_RE = /Top Rated|top-rated|highest-rated|best-rated|highly rated/gi;
 const MIN_REVIEWS_FOR_TOP_RATED = 10;
@@ -344,15 +348,48 @@ function claimedTourMeetsThreshold(rating, reviews) {
   return rating != null && reviews != null && reviews >= MIN_REVIEWS_FOR_TOP_RATED && rating >= TOP_RATED_MIN_RATING;
 }
 
-function scanTopRatedClaims(rel, fields, rating, reviews, warnings, countsWarn) {
-  const meets = claimedTourMeetsThreshold(rating, reviews);
-  if (meets) return; // claim is accurate for this castle's/tour's own GYG product; nothing to flag
+// A claim's subject isn't always "this page's own product" — editorial
+// copy sometimes points at a *different* castle/tour in the same sentence
+// ("...the highest-rated dedicated tour — [Edinburgh Castle: Guided
+// History Tour](/tours/scotland/edinburgh-castle-guided-tour) — is the
+// better choice"). Resolve against whichever castle/tour a markdown link
+// in the same sentence points to, falling back to this page's own rating
+// when the sentence has no such link.
+const MD_LINK_RE = /\[[^\]]*\]\(([^)]+)\)/g;
+function enclosingSentence(text, index) {
+  // A paragraph break is always a harder boundary than ". " — this dataset
+  // separates paragraphs with "\n\n", and a sentence should never be read
+  // as extending into the next paragraph's own links.
+  const prevPeriod = text.lastIndexOf('. ', index);
+  const prevNewline = text.lastIndexOf('\n', index);
+  const start = Math.max(prevPeriod === -1 ? -1 : prevPeriod + 2, prevNewline === -1 ? -1 : prevNewline + 1, 0);
+  const nextPeriod = text.indexOf('. ', index);
+  const nextNewline = text.indexOf('\n', index);
+  let end;
+  if (nextPeriod === -1 && nextNewline === -1) end = text.length;
+  else if (nextPeriod === -1) end = nextNewline;
+  else if (nextNewline === -1) end = nextPeriod + 1;
+  else end = Math.min(nextPeriod + 1, nextNewline);
+  return text.slice(start, end);
+}
+function resolveClaimSubject(rawText, matchIndex, ratingLookup, ownRating, ownReviews) {
+  const sentence = enclosingSentence(rawText, matchIndex);
+  for (const lm of sentence.matchAll(MD_LINK_RE)) {
+    const href = lm[1].split(/[?#]/)[0];
+    if (ratingLookup.has(href)) return ratingLookup.get(href);
+  }
+  return { rating: ownRating, reviews: ownReviews };
+}
+
+function scanTopRatedClaims(rel, fields, ownRating, ownReviews, ratingLookup, errors, countsErr) {
   for (const [field, rawText] of fields) {
-    const masked = maskLinksAndUrls(rawText);
-    for (const m of masked.matchAll(TOP_RATED_CLAIM_RE)) {
-      warnings.push({ file: rel, field, rule: 'top-rated-claim-below-threshold', snippet: contextOf(masked, m.index, m.index + m[0].length) });
-      countsWarn['top-rated-claim-below-threshold'] = (countsWarn['top-rated-claim-below-threshold'] || 0) + 1;
-      countsWarn[`top-rated-claim-below-threshold::${countryOf(rel)}`] = (countsWarn[`top-rated-claim-below-threshold::${countryOf(rel)}`] || 0) + 1;
+    if (field.startsWith('hotel.')) continue; // a hotel's own guest-review claim, not a GYG tour rating
+    for (const m of rawText.matchAll(TOP_RATED_CLAIM_RE)) {
+      const subject = resolveClaimSubject(rawText, m.index, ratingLookup, ownRating, ownReviews);
+      if (claimedTourMeetsThreshold(subject.rating, subject.reviews)) continue;
+      errors.push({ file: rel, field, rule: 'top-rated-claim-below-threshold', snippet: contextOf(rawText, m.index, m.index + m[0].length) });
+      countsErr['top-rated-claim-below-threshold'] = (countsErr['top-rated-claim-below-threshold'] || 0) + 1;
+      countsErr[`top-rated-claim-below-threshold::${countryOf(rel)}`] = (countsErr[`top-rated-claim-below-threshold::${countryOf(rel)}`] || 0) + 1;
     }
   }
 }
@@ -367,6 +404,22 @@ function main() {
 
   const castleFiles = walkFiles(path.join(ROOT, 'data/castles'));
   const tourFiles = walkFiles(path.join(ROOT, 'data/tours'));
+
+  // Built once, up front, so a "Top Rated" claim about a *different*
+  // castle/tour linked in the same sentence can be resolved regardless of
+  // which file is processed first.
+  const ratingLookup = new Map();
+  for (const filePath of castleFiles) {
+    const rel = path.relative(ROOT, filePath);
+    const d = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const t = d.gyg_featured_tours?.[0];
+    ratingLookup.set(`/castles/${countryOf(rel)}/${d.id}`, { rating: t?.rating ?? null, reviews: t?.reviews ?? null });
+  }
+  for (const filePath of tourFiles) {
+    const rel = path.relative(ROOT, filePath);
+    const d = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    ratingLookup.set(`/tours/${countryOf(rel)}/${d.slug}`, { rating: d.rating ?? null, reviews: d.review_count ?? null });
+  }
 
   function processFiles(files, getter, kind) {
     for (const filePath of files) {
@@ -384,7 +437,7 @@ function main() {
       {
         const ownRating = kind === 'castle' ? d.gyg_featured_tours?.[0]?.rating : d.rating;
         const ownReviews = kind === 'castle' ? d.gyg_featured_tours?.[0]?.reviews : d.review_count;
-        scanTopRatedClaims(rel, fields, ownRating, ownReviews, warnings, countsWarn);
+        scanTopRatedClaims(rel, fields, ownRating, ownReviews, ratingLookup, errors, countsErr);
       }
 
       if (kind === 'castle') {
@@ -442,4 +495,4 @@ if (path.resolve(fileURLToPath(import.meta.url)) === path.resolve(process.argv[1
   main();
 }
 
-export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold };
+export { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold, scanTopRatedClaims };

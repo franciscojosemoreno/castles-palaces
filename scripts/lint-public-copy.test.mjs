@@ -4,7 +4,7 @@
 //   node scripts/lint-public-copy.test.mjs
 // Exits 1 if any assertion fails.
 
-import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold } from './lint-public-copy.mjs';
+import { ERROR_RULES, maskLinksAndUrls, UK_LIKE_COUNTRIES, CURRENCY_CONTEXT_RE, TITLE_PRICE_PATTERN, HISTORICAL_SALE_RE, TOP_RATED_CLAIM_RE, claimedTourMeetsThreshold, scanTopRatedClaims } from './lint-public-copy.mjs';
 
 let failures = 0;
 function ruleMatches(name, text) {
@@ -60,6 +60,10 @@ assertFails('review count', 'review-figure',
   'Based on 135 reviews, the tour is well regarded.');
 assertFails('rating of N phrasing', 'review-figure',
   'The product has a rating of 5 on GetYourGuide.');
+assertFails('thousands-separated review count with a trailing +', 'review-figure',
+  'Book this tour — 21,000+ reviews on GetYourGuide.');
+assertFails('thousands-separated review count, no +', 'review-figure',
+  'This tour has 1,185 reviews so far.');
 assertPasses('no exact figure, just a qualitative claim', 'review-figure',
   'The tour is highly and consistently rated on GetYourGuide.');
 
@@ -164,46 +168,88 @@ assertTitlePasses('a qualitative badge with no figures', 'Prague Castle Skip-the
 assertTitlePasses('a historical sale price in a meta_title is not a live GYG price',
   'Bovey Castle — An Edwardian Dartmoor Resort Sold for £15,000');
 
-// --- top-rated-claim-below-threshold (warning: "Top Rated" prose claim vs. the actual rating/reviews) ---
-function topRatedClaimWarns(text, rating, reviews) {
-  if (claimedTourMeetsThreshold(rating, reviews)) return [];
-  return [...text.matchAll(TOP_RATED_CLAIM_RE)].map(m => m[0]);
+// --- top-rated-claim-below-threshold (error, promoted from warning once baseline hit 0) ---
+function topRatedClaimErrors(text, ownRating, ownReviews, ratingLookup = new Map(), field = 'description') {
+  const errors = [];
+  scanTopRatedClaims('fixture.json', [[field, text]], ownRating, ownReviews, ratingLookup, errors, {});
+  return errors;
 }
 
 {
-  const belowThreshold = topRatedClaimWarns('Hours vary by season. Top Rated on GYG.', 5, 3);
+  const belowThreshold = topRatedClaimErrors('Hours vary by season. Top Rated on GYG.', 5, 3);
   if (belowThreshold.length === 0) {
-    console.error('FAIL: expected a warning for "Top Rated" claimed with only 3 reviews');
+    console.error('FAIL: expected an error for "Top Rated" claimed with only 3 reviews');
     failures++;
   } else {
-    console.log('ok   (warns as expected): "Top Rated" claimed with reviews below MIN_REVIEWS_FOR_TOP_RATED');
+    console.log('ok   (fails as expected): "Top Rated" claimed with reviews below MIN_REVIEWS_FOR_TOP_RATED');
   }
 }
 {
-  const atThreshold = topRatedClaimWarns('This is a Top Rated tour on GetYourGuide.', 4.8, 10);
+  const atThreshold = topRatedClaimErrors('This is a Top Rated tour on GetYourGuide.', 4.8, 10);
   if (atThreshold.length !== 0) {
-    console.error('FAIL: expected no warning — rating and reviews both clear the Top Rated threshold');
+    console.error('FAIL: expected no error — rating and reviews both clear the Top Rated threshold');
     failures++;
   } else {
     console.log('ok   (passes as expected): "Top Rated" claimed and the tour actually clears the threshold');
   }
 }
 {
-  const ratingTooLow = topRatedClaimWarns('One of GetYourGuide\'s highest-rated tours in Europe.', 4.7, 21506);
+  const ratingTooLow = topRatedClaimErrors('One of GetYourGuide\'s highest-rated tours in Europe.', 4.7, 21506);
   if (ratingTooLow.length === 0) {
-    console.error('FAIL: expected a warning — huge review count but rating below 4.8');
+    console.error('FAIL: expected an error — huge review count but rating below 4.8');
     failures++;
   } else {
-    console.log('ok   (warns as expected): "highest-rated" claimed with a large review base but rating below 4.8');
+    console.log('ok   (fails as expected): "highest-rated" claimed with a large review base but rating below 4.8');
   }
 }
 {
-  const noClaim = topRatedClaimWarns('A guided tour of the castle grounds and gardens.', 4.2, 5);
+  const noClaim = topRatedClaimErrors('A guided tour of the castle grounds and gardens.', 4.2, 5);
   if (noClaim.length !== 0) {
-    console.error('FAIL: expected no warning — no "Top Rated"-style phrase present at all');
+    console.error('FAIL: expected no error — no "Top Rated"-style phrase present at all');
     failures++;
   } else {
     console.log('ok   (passes as expected): ordinary prose with no ranking claim');
+  }
+}
+{
+  // Sentence points at a *different*, qualifying tour via a markdown link — the
+  // claim is about that linked tour, not this page's own (sub-threshold) rating.
+  const lookup = new Map([['/tours/scotland/edinburgh-castle-guided-tour', { rating: 4.8, reviews: 10369 }]]);
+  const text = "If your priority is Edinburgh Castle in depth — with the highest-rated dedicated tour and the smallest specialist groups — the [Edinburgh Castle: Guided History Tour](/tours/scotland/edinburgh-castle-guided-tour) is the better choice. This tour is still a solid pick.";
+  const resolved = topRatedClaimErrors(text, 4.4, 5, lookup, 'overview');
+  if (resolved.length !== 0) {
+    console.error(`FAIL: expected no error — the claim is about the linked tour, which clears the threshold, got ${JSON.stringify(resolved)}`);
+    failures++;
+  } else {
+    console.log('ok   (passes as expected): claim resolves to a different, qualifying tour linked in the same sentence');
+  }
+}
+{
+  // A link to a DIFFERENT, non-qualifying tour in the same sentence, and a
+  // paragraph break right after — the sentence boundary must stop at the
+  // break, not read into the next paragraph's own, unrelated link.
+  const lookup = new Map([
+    ['/tours/example/low-review-tour', { rating: 4.9, reviews: 2 }],
+    ['/castles/example/unrelated-castle', { rating: 4.9, reviews: 500 }],
+  ]);
+  const text = "This is the highest-rated option here, see [Low Review Tour](/tours/example/low-review-tour) for details.\n\nSeparately, [Unrelated Castle](/castles/example/unrelated-castle) is also worth a visit.";
+  const result = topRatedClaimErrors(text, 4.2, 1, lookup, 'overview');
+  if (result.length === 0) {
+    console.error('FAIL: expected an error — the linked tour in the same sentence also fails the threshold, and the unrelated castle in the next paragraph must not be picked up instead');
+    failures++;
+  } else {
+    console.log('ok   (fails as expected): paragraph break stops the sentence scan before the next paragraph\'s unrelated link');
+  }
+}
+{
+  // A hotel's own guest-review claim is a different subject entirely —
+  // there's no GYG tour rating to compare it against.
+  const result = topRatedClaimErrors('Breakfast highly rated by guests.', null, null, new Map(), 'hotel.how_to_stay');
+  if (result.length !== 0) {
+    console.error('FAIL: expected no error — hotel.* fields are exempt from this rule');
+    failures++;
+  } else {
+    console.log('ok   (passes as expected): a hotel guest-review claim in a hotel.* field is exempt');
   }
 }
 
