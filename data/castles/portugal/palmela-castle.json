@@ -1,0 +1,88 @@
+{
+  "id": "palmela-castle",
+  "name": "Palmela Castle",
+  "local_name": "Castelo de Palmela",
+  "type": "castle",
+  "status": "published",
+  "priority_score": 20,
+  "featured": false,
+  "country": "portugal",
+  "region": "Setúbal Peninsula",
+  "nearest_city": "Setúbal",
+  "lat": 38.5659,
+  "lng": -8.9015,
+  "unesco": false,
+  "built_century": 12,
+  "architectural_style": "Hilltop castle taken from the Moors in the 12th century, headquarters of the Order of Santiago; the hotel occupies the Order's former convent, built within the castle walls and converted into a pousada between 1969 and 1979",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay",
+  "best_season": "Year-round",
+  "accessibility": "A converted 17th-century-character convent within the castle walls, on a hilltop; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "Headquarters of the Order of Santiago after the castle was taken from the Moors in the 12th century — the knights' convent inside the walls is now a pousada, with the keep and ramparts still standing apart as a separate monument",
+  "highlights": [
+    "Taken from the Moors in the 12th century and made the headquarters of the Order of Santiago, one of Portugal's great military-religious orders",
+    "The Order's convent was built inside the castle walls; religious orders were dissolved in Portugal in 1834",
+    "Converted into a pousada between 1969 and 1979, keeping its 17th-century character",
+    "Breakfast is served in the cloisters of the former convent",
+    "The castle's keep and ramparts remain a separate, publicly walkable part of the complex alongside the hotel"
+  ],
+  "description": "Palmela Castle occupies a hilltop on the Setúbal Peninsula south of Lisbon, high above the Arrábida mountains and the Sado estuary — a position with views that, on clear days, reach toward the sea. The castle was taken from the Moors in the 12th century and became the headquarters of the Order of Santiago, one of the military-religious orders that played a central role in the Reconquista and in the subsequent administration of reconquered Portuguese territory. The Order built a convent inside the castle walls, a combination of military stronghold and religious house that reflected the order's dual identity as fighting knights bound by religious vows.\n\nThe Order of Santiago's convent remained in religious use for centuries, until the dissolution of Portugal's religious orders in 1834 — a sweeping 19th-century measure that emptied monastic buildings across the country and left many, including Palmela's, in search of a new purpose. That purpose arrived in the form of a pousada: the former convent was converted into a hotel between 1969 and 1979, a project that kept the building's 17th-century character rather than erasing it in favour of a purely modern interior.\n\nGuests today sleep in the former monastic cells arranged around the cloister, many with views over the surrounding Alentejo and Setúbal countryside. Breakfast served in the cloisters is among the more atmospheric ways to start a day at any of Portugal's pousadas, with the Pátio das Laranjeiras courtyard and a restaurant in the former refectory — which keeps its original pulpit — rounding out the sense of staying inside a working religious house rather than a purpose-built hotel.\n\nCrucially, the pousada occupies the convent, not the castle's military core: the keep and ramparts of Palmela Castle remain a separate, publicly accessible part of the complex, which guests can explore on foot directly from the hotel. The result is a stay that combines overnight comfort in a historic religious building with a working medieval fortress immediately next door.",
+  "history": "Palmela Castle was taken from the Moors in the 12th century and became the headquarters of the Order of Santiago, which built a convent inside the castle walls. Portugal's religious orders were dissolved in 1834, ending the convent's monastic use. The building was converted into a pousada between 1969 and 1979, a restoration that preserved its 17th-century character.",
+  "faqs": [
+    {
+      "question": "Do guests stay in Palmela's medieval castle keep?",
+      "answer": "No — the pousada occupies the former convent of the Order of Santiago, built inside the castle walls, not the castle's keep and ramparts. Those remain a separate, publicly accessible part of the complex that guests can explore on foot from the hotel."
+    },
+    {
+      "question": "What was the Order of Santiago's connection to Palmela Castle?",
+      "answer": "The Order of Santiago, one of Portugal's great military-religious orders, made Palmela Castle its headquarters after it was taken from the Moors in the 12th century, building a convent inside the castle walls that the Order used until Portugal dissolved its religious orders in 1834."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/palmela-castle.webp",
+    "alt": "Palmela Castle on the Setúbal Peninsula, Portugal — the former Order of Santiago convent within the castle walls, now a pousada hotel, with the medieval keep standing apart",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/palmela-castle.webp",
+  "instagram_tag": "#palmelacastle",
+  "meta_title": "Palmela Castle, Setúbal Peninsula — A Knights' Convent Pousada",
+  "meta_description": "Stay at Palmela Castle on the Setúbal Peninsula — the Order of Santiago's former convent inside a 12th-century castle, now a pousada beside the historic keep.",
+  "tags": [
+    "portugal",
+    "setubal-peninsula",
+    "castle-hotel",
+    "pousada",
+    "convent",
+    "medieval"
+  ],
+  "last_updated": "2026-10-09",
+  "routes": [],
+  "nearby_castles": [
+    "sesimbra-castle",
+    "bacalhoa-palace",
+    "fortress-sao-filipe"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pousada Castelo de Palmela",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=palmela-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpousada-castelo-de-palmela.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D38974%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785336964%26srpvid%3Da9d569000b570c48%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 98,
+    "currency": "EUR",
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-09",
+    "room_location": "castle",
+    "amenities": ["restaurant", "gardens"],
+    "how_to_stay": "**Getting there:** On the hilltop castle of Palmela, on the Setúbal Peninsula south of Lisbon, high above the Arrábida mountains and the Sado estuary.\n\n**Rooms & rates:** Rooms from approx. €98/night, in the former convent cells within the castle walls, many with wide views of the surrounding landscape.\n\n**On-site:** Cloisters and the Pátio das Laranjeiras courtyard, restaurant in the former refectory (which keeps its original pulpit), bar and reading nooks in the cloister galleries; breakfast is served in the cloisters.\n\n**Good to know:** The pousada fills the former convent, not the castle's military towers; the castle's keep and walls are a separate part of the complex that you can explore on foot from the hotel.\n\n**Combine with:** [Sesimbra Castle](/castles/portugal/sesimbra-castle), [Bacalhôa Palace](/castles/portugal/bacalhoa-palace) at Azeitão, and [Fortress São Filipe](/castles/portugal/fortress-sao-filipe) in Setúbal, all within a short drive."
+  }
+}

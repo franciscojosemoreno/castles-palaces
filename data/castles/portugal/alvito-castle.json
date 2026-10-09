@@ -1,0 +1,87 @@
+{
+  "id": "alvito-castle",
+  "name": "Alvito Castle",
+  "local_name": "Castelo de Alvito",
+  "type": "castle",
+  "status": "published",
+  "priority_score": 20,
+  "featured": false,
+  "country": "portugal",
+  "region": "Baixo Alentejo",
+  "nearest_city": "Beja",
+  "lat": 38.2579,
+  "lng": -7.9920,
+  "unesco": false,
+  "built_century": 15,
+  "architectural_style": "Fortified late-15th-century residence of the barons of Alvito, built under Kings João II and Manuel I (the entrance gate is dated to around 1494), blending Islamic, Gothic and Manueline influences; classified a National Monument in 1910",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay",
+  "best_season": "Year-round",
+  "accessibility": "All guest rooms are within the 15th-century castle itself; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A fortified residence the barons of Alvito built for themselves in the late 15th century, its entrance gate dated to around 1494 — damaged in the 1755 earthquake, restored twice over, and now a pousada across the open wheat plains of the Alentejo",
+  "highlights": [
+    "Built in the late 15th century as the fortified residence of the barons of Alvito, under Kings João II and Manuel I",
+    "The entrance gate is dated to around 1494, giving a precise anchor point within the castle's late-15th-century construction",
+    "Classified as a National Monument in 1910, recognising its architecture, which blends Islamic, Gothic and Manueline influences",
+    "Damaged in the 1755 Lisbon earthquake and repaired in 1777, then restored again in the 20th century",
+    "Opened as a pousada in 1993, after 20th-century restoration"
+  ],
+  "description": "Alvito Castle stands in the village of Alvito, in the Baixo Alentejo, a fortified residence rather than a royal fortress or a military order's convent. The barons of Alvito had it built in the late 15th century, during the reigns of Kings João II and Manuel I — the entrance gate carries a date of around 1494, giving historians a firm anchor point within the broader late-15th-century construction campaign. The result is a building that reads as a noble household first and a defensive structure second, its architecture blending Islamic, Gothic and Manueline influences in a way that reflects both the Alentejo's long Moorish presence and the new decorative language emerging in Portugal around the turn of the 16th century.\n\nThe castle's architectural significance was formally recognised in 1910, when it was classified as a National Monument — one of Portugal's earliest rounds of heritage protection for a building of this kind. That significance didn't spare it from disaster: the 1755 earthquake that devastated Lisbon and much of southern Portugal damaged Alvito Castle as well, and repairs followed in 1777. A further restoration in the 20th century prepared the building for its current role, and it opened as a pousada in 1993.\n\nUnlike several of the Alentejo's other castle-hotels, Alvito's rooms are all within the historic castle itself — there is no separate convent or annex building standing between guests and the structure the barons built in the 1490s. Traditional furnishings, some four-poster beds, and views over the village and the surrounding wheat plains give the stay a sense of real continuity with the castle's original domestic function as a noble residence.\n\nThe setting is deliberately quiet: Alvito is a small village across the open Alentejo plain, and the castle itself — its tiled decoration, cloisters and gardens, designed by the landscape architect Gonçalo Ribeiro Telles — is very much the point of a stay here, rather than a base for exploring a dense cluster of nearby sights.",
+  "history": "The barons of Alvito had the castle built in the late 15th century, under Kings João II and Manuel I; the entrance gate is dated to around 1494. The building was classified a National Monument in 1910. It was damaged in the 1755 earthquake and repaired in 1777, restored again in the 20th century, and opened as a pousada in 1993.",
+  "faqs": [
+    {
+      "question": "Are the pousada's rooms inside the original 15th-century castle?",
+      "answer": "Yes — unlike some other Alentejo castle-hotels built around a later convent or annex, all of Alvito's guest rooms are within the fortified residence the barons of Alvito built in the late 15th century."
+    },
+    {
+      "question": "What architectural styles does Alvito Castle combine?",
+      "answer": "The castle blends Islamic, Gothic and Manueline influences, built in the late 15th century under Kings João II and Manuel I with an entrance gate dated to around 1494. It was classified a National Monument in 1910."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alvito-castle.webp",
+    "alt": "Alvito Castle in the Baixo Alentejo, Portugal — the late-15th-century fortified residence of the barons of Alvito, now a pousada hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alvito-castle.webp",
+  "instagram_tag": "#alvitocastle",
+  "meta_title": "Alvito Castle, Baixo Alentejo — A Barons' Pousada",
+  "meta_description": "Stay at Alvito Castle in the Baixo Alentejo — the barons of Alvito's late-15th-century fortified residence, now a pousada on the open Alentejo plain.",
+  "tags": [
+    "portugal",
+    "alentejo",
+    "castle-hotel",
+    "pousada",
+    "national-monument",
+    "manueline"
+  ],
+  "last_updated": "2026-10-09",
+  "routes": [],
+  "nearby_castles": [
+    "ducal-palace-of-vila-vicosa"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pousada Castelo Alvito",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=alvito-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpousada-castelo-de-alvito.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D38950%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785337472%26srpvid%3D975869fef0bf0c59%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 99,
+    "currency": "EUR",
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-09",
+    "room_location": "castle",
+    "room_count": 20,
+    "amenities": ["restaurant", "pool", "gardens"],
+    "how_to_stay": "**Getting there:** In the village of Alvito, in the Baixo Alentejo, across the open wheat plains of southern Portugal.\n\n**Rooms & rates:** Around 19–20 rooms from approx. €99/night, all within the castle, from Classic rooms up to a Special Suite.\n\n**On-site:** Outdoor pool beside the castle cloisters, gardens designed by the landscape architect Gonçalo Ribeiro Telles, restaurant in the castle's vaulted rooms looking onto the inner courtyard, and breakfast in the former dungeon.\n\n**Good to know:** A quiet, remote setting — the point is the castle itself, with its tiled decoration, cloisters and garden, rather than a lot to do around it.\n\n**Combine with:** The village of Alvito and the nearby Lagoa dos Patos bird reserve; for other castles, [Ducal Palace of Vila Viçosa](/castles/portugal/ducal-palace-of-vila-vicosa) is the nearest major one on this site."
+  }
+}

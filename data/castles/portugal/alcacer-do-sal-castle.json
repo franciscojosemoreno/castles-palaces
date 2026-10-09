@@ -1,0 +1,86 @@
+{
+  "id": "alcacer-do-sal-castle",
+  "name": "Alcácer do Sal Castle",
+  "local_name": "Castelo de Alcácer do Sal",
+  "type": "castle",
+  "status": "published",
+  "priority_score": 20,
+  "featured": false,
+  "country": "portugal",
+  "region": "Alentejo Litoral",
+  "nearest_city": "Setúbal",
+  "lat": 38.3727,
+  "lng": -8.5142,
+  "unesco": false,
+  "year_built": 1217,
+  "architectural_style": "Castle hilltop taken for the Portuguese crown in 1217; the hotel occupies the former 16th-century Convent of Nossa Senhora de Aracoeli, built within the castle walls on the site of the Order of Santiago's palace",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay",
+  "best_season": "Year-round",
+  "accessibility": "A converted 16th-century convent within the castle walls, on a hilltop; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A castle hill taken from the Moors by King Afonso II in 1217, where King Manuel I married a Spanish infanta in 1500 — guests now sleep in the 16th-century convent built within its walls, above an archaeological crypt",
+  "highlights": [
+    "Taken for the Portuguese crown in 1217 by King Afonso II, after his father Afonso Henriques had failed to hold the castle in 1158",
+    "King Manuel I married the Spanish Infanta Maria at the castle in 1500",
+    "The Convent of Nossa Senhora de Aracoeli was founded in 1573 on the site of the Order of Santiago's palace, and housed its nuns until the last one died in 1874",
+    "Converted into a pousada in 1998, following archaeological excavations in the 1990s",
+    "An archaeological crypt beneath the building opened to the public roughly a decade after the pousada opened"
+  ],
+  "description": "Alcácer do Sal Castle crowns a hill above the Sado River in the Alentejo Litoral, southeast of Lisbon — a site whose documented history as a fortified crown possession begins in 1217, when King Afonso II took it for the Portuguese crown. His father, Afonso Henriques, Portugal's first king, had attempted to take the castle in 1158 and failed, so the 1217 conquest under Afonso II marked a genuine turning point in the long Reconquista campaign along the Sado.\n\nThe castle's royal associations continued well beyond the 13th century: in 1500, King Manuel I married the Spanish Infanta Maria here, a dynastic union that took place at a site already nearly three centuries into its role as a royal stronghold. The Order of Santiago, one of the great Portuguese military-religious orders, later held a palace within the castle walls — and it was on the site of that palace that the Convent of Nossa Senhora de Aracoeli was founded in 1573, housing a community of nuns that endured until the death of the convent's last member in 1874.\n\nThe convent building stood largely dormant through the early 20th century before archaeological excavations in the 1990s uncovered more of the site's layered history, leading to its conversion into a pousada in 1998. An archaeological crypt beneath the building — evidence of the site's long occupation — opened to the public roughly a decade later. Guests today sleep within the former convent's walls, inside the castle precinct, rather than in the medieval fortress towers themselves: a building history of Moorish fortification, royal reconquest, a 16th-century religious order, and modern archaeology, compressed into a single hilltop above the Sado.\n\nThe estuary views from many of the former convent's rooms, over the Sado River below, give the hotel a dimension entirely separate from its military and religious history — a reminder that Alcácer do Sal's strategic value, across every phase of its use, was always tied to its command of the river.",
+  "history": "Afonso Henriques, Portugal's first king, attempted to take Alcácer do Sal's castle in 1158 and failed; his son, King Afonso II, succeeded in 1217, bringing the site under the Portuguese crown. The Order of Santiago later held a palace within the castle walls. King Manuel I married the Spanish Infanta Maria at the castle in 1500. The Convent of Nossa Senhora de Aracoeli was founded on the site of the Order's palace in 1573 and remained in religious use until the death of its last nun in 1874. Archaeological excavations in the 1990s preceded the building's conversion into a pousada in 1998, and an archaeological crypt beneath it later opened to visitors.",
+  "faqs": [
+    {
+      "question": "Do guests at the pousada stay in the medieval castle itself?",
+      "answer": "Not in the original defensive towers — rooms are inside the former Convent of Nossa Senhora de Aracoeli, a 16th-century building constructed within the castle walls on the site of the Order of Santiago's palace. Expect cloisters, stone walls and convent windows rather than towers and battlements."
+    },
+    {
+      "question": "What is the archaeological crypt beneath the pousada?",
+      "answer": "Archaeological excavations carried out in the 1990s, ahead of the convent's conversion into a pousada in 1998, uncovered a crypt beneath the building, which opened to the public roughly a decade after the hotel did."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alcacer-do-sal-castle.webp",
+    "alt": "Alcácer do Sal Castle above the Sado River in the Alentejo, Portugal — the former 16th-century Convent of Nossa Senhora de Aracoeli within the castle walls, now a pousada hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alcacer-do-sal-castle.webp",
+  "instagram_tag": "#alcacerdosalcastle",
+  "meta_title": "Alcácer do Sal Castle, Alentejo — A Convent Pousada on the Sado",
+  "meta_description": "Stay at Alcácer do Sal Castle above the Sado River — a 1217 royal stronghold with a 16th-century convent and archaeological crypt, now a pousada hotel.",
+  "tags": [
+    "portugal",
+    "alentejo",
+    "castle-hotel",
+    "pousada",
+    "convent",
+    "medieval"
+  ],
+  "last_updated": "2026-10-09",
+  "routes": [],
+  "nearby_castles": [
+    "fortress-sao-filipe"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pousada Castelo Alcácer do Sal",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=alcacer-do-sal-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpousada-d-afonso-ii.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D38947%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785336904%26srpvid%3D937c68e2b0d60515%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 97,
+    "currency": "EUR",
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-09",
+    "room_location": "castle",
+    "amenities": ["restaurant", "pool", "gardens"],
+    "how_to_stay": "**Getting there:** On the castle hill of Alcácer do Sal, above the Sado River, southeast of Lisbon in the Alentejo.\n\n**Rooms & rates:** Rooms from approx. €97/night, in the former convent within the castle walls, many looking over the river and estuary.\n\n**On-site:** Outdoor pool within the castle walls, restaurant built over the convent ruins, historic gardens, and an archaeological crypt beneath the building.\n\n**Good to know:** The building is a converted convent, not the medieval fortress itself — expect cloisters, stone walls and convent windows rather than towers and battlements.\n\n**Combine with:** The Sado estuary and the town of Alcácer do Sal below the castle, and [Fortress São Filipe](/castles/portugal/fortress-sao-filipe) in Setúbal."
+  }
+}

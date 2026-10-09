@@ -1,0 +1,86 @@
+{
+  "id": "estremoz-castle",
+  "name": "Estremoz Castle",
+  "local_name": "Castelo de Estremoz",
+  "type": "castle",
+  "status": "published",
+  "priority_score": 20,
+  "featured": false,
+  "country": "portugal",
+  "region": "Alentejo",
+  "nearest_city": "Évora",
+  "lat": 38.8443,
+  "lng": -7.5858,
+  "unesco": false,
+  "built_label": "Late 13th–early 14th century",
+  "architectural_style": "Royal palace built beside the castle's keep, the Tower of the Three Kings, for Queen Isabel by King Dinis — a defensive medieval core expanded under later kings",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay",
+  "best_season": "Year-round",
+  "accessibility": "A historic royal palace building within the castle walls; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A royal palace King Dinis built for Queen Isabel of Portugal beside the castle's Tower of the Three Kings — she died here in 1336, and the rooms where she lived now take overnight guests",
+  "highlights": [
+    "Built by King Dinis for his wife Queen Isabel, later canonised as Saint Isabel of Portugal, who died at Estremoz in 1336",
+    "The keep, the Tower of the Three Kings, takes its name from the reinforcement of the site's defences carried out under later kings",
+    "Converted into a pousada and named in the queen's honour, keeping antique furniture, canopy beds and art collections in its royal rooms",
+    "An outdoor pool set inside the historic castle battlements — a working royal fortification repurposed as a hotel amenity",
+    "Estremoz's Saturday market, held in the town square below the castle, is one of the Alentejo's longest-running weekly markets"
+  ],
+  "description": "Estremoz Castle stands at the highest point of the town's historic centre in the Alentejo, its royal palace built beside the keep known as the Tower of the Three Kings. King Dinis — the Portuguese king remembered as much for founding universities and planting forests as for his castle-building programme — had the palace built for his wife, Isabel of Aragon, who became Queen of Portugal on their marriage in 1282. Isabel was later canonised as Saint Isabel of Portugal, venerated for her work in poor relief and for mediating peace between warring family members, including her own son and husband. She died at Estremoz in 1336, giving the castle a direct connection to one of Portuguese history's most venerated royal figures.\n\nThe keep's name, the Tower of the Three Kings, reflects the defensive reinforcement of the site carried out across the reigns of the monarchs who followed Dinis — a reminder that Estremoz sat near the contested frontier with Castile and needed to function as a working fortress as well as a royal residence. The palace and keep together represent two faces of the same medieval building: a defensible stronghold on the border, and a royal household comfortable enough for a queen to live and die in.\n\nThe building was converted into a pousada and named for Queen Isabel, a dedication that persists in the property's long-standing name even as the official branding has shifted to Pousada Castelo Estremoz. The royal rooms keep antique-style furniture, canopy beds and art collections that nod to the palace's original function, while an outdoor pool set inside the castle's historic battlements gives the hotel a genuinely unusual amenity — swimming within walls built for defence against Castile.\n\nEstremoz itself is one of the Alentejo's classic walled towns, and its Saturday market in the square below the castle is one of the region's longest-running, drawing vendors and visitors from across the surrounding countryside. A stay at the castle puts guests at the town's highest and most historic point, with the whitewashed streets of the Alentejo radiating out below.",
+  "history": "King Dinis had the royal palace built beside Estremoz's keep for his wife Isabel of Aragon, Queen of Portugal from their 1282 marriage; she was later canonised as Saint Isabel of Portugal and died at the castle in 1336. The keep, the Tower of the Three Kings, takes its name from defensive reinforcement work carried out under the kings who followed Dinis, reflecting the site's role on the frontier with Castile. The building was later converted into a pousada named in the queen's honour.",
+  "faqs": [
+    {
+      "question": "Who was Queen Isabel, and what is her connection to Estremoz Castle?",
+      "answer": "Isabel of Aragon became Queen of Portugal on her 1282 marriage to King Dinis, who had the royal palace at Estremoz Castle built for her. She was known for her work in poor relief and for mediating family peace, and was later canonised as Saint Isabel of Portugal. She died at Estremoz Castle in 1336."
+    },
+    {
+      "question": "Why is the castle's keep called the Tower of the Three Kings?",
+      "answer": "The name reflects the reinforcement of Estremoz's defences carried out across the reigns of several Portuguese kings who followed Dinis, a response to the castle's position near the medieval frontier with Castile."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/estremoz-castle.webp",
+    "alt": "Estremoz Castle in the Alentejo, Portugal — the royal palace King Dinis built for Queen Isabel beside the Tower of the Three Kings, now a pousada hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/estremoz-castle.webp",
+  "instagram_tag": "#estremozcastle",
+  "meta_title": "Estremoz Castle, Alentejo — Queen Isabel's Royal Pousada",
+  "meta_description": "Stay at Estremoz Castle in the Alentejo — the royal palace King Dinis built for Queen Isabel beside the Tower of the Three Kings, now a pousada hotel.",
+  "tags": [
+    "portugal",
+    "alentejo",
+    "castle-hotel",
+    "pousada",
+    "royal-palace",
+    "medieval"
+  ],
+  "last_updated": "2026-10-09",
+  "routes": [],
+  "nearby_castles": [
+    "ducal-palace-of-vila-vicosa"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pousada Castelo Estremoz",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=estremoz-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpousada-rainha-santa-isabel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D38959%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785336861%26srpvid%3D5ec968cc4eb30467%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 98,
+    "currency": "EUR",
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-09",
+    "room_location": "castle",
+    "amenities": ["restaurant", "bar", "gardens", "pool"],
+    "how_to_stay": "**Getting there:** In Estremoz's historic center, in Alentejo, within the castle walls; free parking for guests.\n\n**Rooms & rates:** Rooms and suites from approx. €98/night, all within the historic royal palace, from Classic rooms up to a Special Suite.\n\n**On-site:** Outdoor swimming pool set inside the castle battlements, restaurant serving Alentejo cuisine, bar, courtyard, garden and a game room.\n\n**Good to know:** The rooms are furnished in period style with modern comforts; some are on the small side and bathrooms vary between older and updated. The Saturday market in the town square is worth timing a visit around.\n\n**Combine with:** Estremoz itself, on foot, and [Ducal Palace of Vila Viçosa](/castles/portugal/ducal-palace-of-vila-vicosa), a short drive away."
+  }
+}

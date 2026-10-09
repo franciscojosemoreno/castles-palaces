@@ -111,5 +111,18 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pousada Castelo Óbidos",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=obidos-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpousada-de-abidos-castelo-de-abidos.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D385501%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785336794%26srpvid%3De5b168aa269a008b%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 142,
+    "currency": "EUR",
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-09",
+    "room_location": "mixed",
+    "amenities": ["restaurant", "bar", "gardens"],
+    "how_to_stay": "**Getting there:** Inside the walls of the medieval town of Óbidos, about an hour's drive north of Lisbon. There is no private parking at the pousada; public parking is available nearby.\n\n**Rooms & rates:** Roughly 17–19 rooms from approx. €142/night. Castle rooms (from approx. €160/night) put you inside the medieval walls; the Casa do Castelo cottages, right next to the castle, feel closer to a stay in town.\n\n**On-site:** Restaurant serving regional cuisine in the castle, bar, terrace beside reception; room service.\n\n**Good to know:** Castle and tower rooms can be small, with few windows and steep stairs — the Casa do Castelo rooms are the easier option if mobility or space matters. Specify castle or cottage at booking, as the experience differs.\n\n**Combine with:** The castle and walled town of Óbidos itself, a tasting of the local ginjinha cherry liqueur, and the beaches of Peniche, Foz do Arelho and Areia Branca a short drive away."
+  }
 }
