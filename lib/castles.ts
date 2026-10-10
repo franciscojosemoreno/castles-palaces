@@ -66,20 +66,44 @@ export function getCastlesByIds(ids: string[]): Castle[] {
     .filter((c): c is Castle => c !== undefined);
 }
 
+// Real-world km, used only to cap how far "nearby" can stretch — not to
+// re-rank. 1° of longitude is ~111km at the equator but ~70km at
+// Portugal's latitude, so the degree-based ordering below isn't a true
+// distance, but it's the ordering already live on every one of these
+// pages today; changing the cutoff shouldn't also reshuffle everyone
+// else's results as a side effect.
+function haversineDistanceKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLng = (lng2 - lng1) * Math.PI / 180;
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.sin(dLng / 2) ** 2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+const MAX_NEARBY_DISTANCE_KM = 250;
+
 export function getNearbyCastles(castle: Castle, limit = 4): Castle[] {
   if (castle.nearby_castles && castle.nearby_castles.length > 0) {
     return getCastlesByIds(castle.nearby_castles).slice(0, limit);
   }
 
-  // Auto-calculate by proximity if not set
+  // Auto-calculate by proximity if not set — same degree-distance ranking
+  // as before (so every castle's selection is unchanged unless this cutoff
+  // actually removes something), with a real-km cutoff applied afterward
+  // and never backfilled. A genuinely isolated site (e.g. one on an island
+  // with nothing else nearby in the dataset) correctly shows fewer than
+  // `limit`, or none at all, rather than a distant false match.
   const all = getPublishedCastles().filter((c) => c.id !== castle.id);
   return all
     .map((c) => ({
       castle: c,
-      distance: Math.sqrt(Math.pow(c.lat - castle.lat, 2) + Math.pow(c.lng - castle.lng, 2)),
+      degreeDistance: Math.sqrt((c.lat - castle.lat) ** 2 + (c.lng - castle.lng) ** 2),
     }))
-    .sort((a, b) => a.distance - b.distance)
+    .sort((a, b) => a.degreeDistance - b.degreeDistance)
     .slice(0, limit)
+    .filter((item) => haversineDistanceKm(castle.lat, castle.lng, item.castle.lat, item.castle.lng) <= MAX_NEARBY_DISTANCE_KM)
     .map((item) => item.castle);
 }
 
