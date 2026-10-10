@@ -1,0 +1,86 @@
+{
+  "id": "bussaco-palace",
+  "name": "Bussaco Palace",
+  "local_name": "Palace Hotel do Buçaco",
+  "type": "palace",
+  "status": "published",
+  "priority_score": 20,
+  "featured": false,
+  "country": "portugal",
+  "region": "Centro — Buçaco National Forest",
+  "nearest_city": "Luso",
+  "lat": 40.3760,
+  "lng": -8.3655,
+  "unesco": false,
+  "built_label": "1888–1907",
+  "architectural_style": "Neo-Manueline royal summer palace and hunting lodge, commissioned in 1886 for King Carlos I and designed by the Italian architect and stage designer Luigi Manini (also responsible for Quinta da Regaleira in Sintra); plans approved in 1888, completed in 1907",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay",
+  "best_season": "Year-round",
+  "accessibility": "All guest rooms are within the palace itself; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A neo-Manueline royal summer palace built for a king who fell before he ever slept there — designed by the architect behind Quinta da Regaleira, standing in a forest walled by Carmelite monks, now a 5-star hotel",
+  "highlights": [
+    "Commissioned in 1886 by the Portuguese crown as a royal summer palace and hunting lodge for King Carlos I",
+    "Designed by Luigi Manini, the Italian architect and stage designer also responsible for Quinta da Regaleira in Sintra, in a neo-Manueline style",
+    "The monarchy fell in 1910 before the royal family ever lived there; the palace became a hotel in 1917",
+    "Stands beside the former Discalced Carmelite convent founded in 1628, whose monks planted and walled the Buçaco Forest",
+    "Interiors include frescoes and a collection of 19th-century tile panels depicting the Age of Discoveries"
+  ],
+  "description": "Bussaco Palace rises from the heart of the Buçaco National Forest in central Portugal, between Coimbra and Aveiro — a neo-Manueline fantasy commissioned in 1886 as a royal summer palace and hunting lodge for King Carlos I. The Portuguese crown turned to Luigi Manini, an Italian architect and stage designer whose other major Portuguese commission was Quinta da Regaleira in Sintra, and the result is one of the most elaborately decorated buildings constructed in Portugal in the 19th century: plans were approved in 1888 and the complex was finally completed in 1907, after nearly two decades of work.\n\nThe palace never served the purpose it was built for. The Portuguese monarchy fell in 1910, just three years after completion, and the royal family never lived in the building they had commissioned. Rather than standing empty, Bussaco Palace became a hotel in 1917 under the Alexandre de Almeida family — a conversion that preserved the neo-Manueline architecture and decoration largely intact, including frescoes and a notable collection of 19th-century tile panels depicting scenes from the Age of Discoveries.\n\nThe palace stands beside the former Discalced Carmelite convent, founded in 1628, whose monks were responsible for planting and walling the Buçaco Forest that still surrounds the property — the convent church and the Via Sacra, a processional route lined with chapels, still stand nearby. The forest itself, with its network of walking paths among trees the Carmelites began planting nearly four centuries ago, is as much a part of a stay at Bussaco as the palace building.\n\nAround 60 rooms and suites, decorated in period styles ranging from 18th-century furnishings to Art Nouveau, occupy the palace itself — Classic rooms tend to be compact, while Superior rooms overlook the forest or the gardens. The overall effect is less a medieval castle stay than a grand early-20th-century hotel experience, built on an aborted royal commission and finished in the forest the Carmelites left behind.",
+  "history": "Bussaco Palace was commissioned in 1886 by the Portuguese crown as a royal summer palace and hunting lodge for King Carlos I, designed by the Italian architect and stage designer Luigi Manini in a neo-Manueline style; plans were approved in 1888 and the complex was completed in 1907. The monarchy fell in 1910 before the royal family ever lived there, and the palace became a hotel in 1917 under the Alexandre de Almeida family. It stands beside the former Discalced Carmelite convent, founded in 1628, whose monks planted and walled the surrounding Buçaco Forest.",
+  "faqs": [
+    {
+      "question": "Did the Portuguese royal family ever live at Bussaco Palace?",
+      "answer": "No — the palace was commissioned in 1886 for King Carlos I and completed in 1907, but the Portuguese monarchy fell in 1910 before the royal family ever lived there. It became a hotel in 1917."
+    },
+    {
+      "question": "Who designed Bussaco Palace?",
+      "answer": "Luigi Manini, an Italian architect and stage designer, designed the palace in a neo-Manueline style. He is also responsible for Quinta da Regaleira in Sintra, another of Portugal's most elaborately decorated buildings."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bussaco-palace.webp",
+    "alt": "Bussaco Palace in the Buçaco National Forest, Portugal — the neo-Manueline royal summer palace designed by Luigi Manini, now a 5-star hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bussaco-palace.webp",
+  "instagram_tag": "#bussacopalace",
+  "meta_title": "Bussaco Palace, Buçaco Forest — A Neo-Manueline Royal Hotel",
+  "meta_description": "Stay at Bussaco Palace in the Buçaco National Forest — Luigi Manini's neo-Manueline royal palace, now a 5-star hotel between Coimbra and Aveiro.",
+  "tags": [
+    "portugal",
+    "centro",
+    "castle-hotel",
+    "palace",
+    "neo-manueline"
+  ],
+  "last_updated": "2026-10-10",
+  "routes": [],
+  "nearby_castles": [
+    "montemor-o-velho-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Palace Hotel do Bussaco",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=palace-do-bussaco&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpalace-do-bussaco.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D38890%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785337981%26srpvid%3D937c6afcb1de12c4%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 130,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-10",
+    "room_location": "castle",
+    "amenities": ["restaurant", "bar", "gardens"],
+    "how_to_stay": "**Getting there:** Inside the Buçaco National Forest, near the spa town of Luso, in central Portugal between Coimbra and Aveiro. Free self-parking is available at the property.\n\n**Rooms & rates:** Around 60 rooms and suites from approx. €130/night, in period styles from 18th-century to Art Nouveau; Superior rooms overlook the forest or the gardens.\n\n**On-site:** Restaurant, bar, gardens and the forest on the doorstep, with its walking paths; breakfast is included in most rates.\n\n**Good to know:** The palace was built as a royal residence that the royal family never used, so rooms feel more like a grand hotel than a medieval stay; the neo-Manueline façade and the forest are the main draw. Classic rooms are small (around 15 m²), so book a Superior room for more space.\n\n**Combine with:** The forest walks and the Carmelite convent buildings beside the hotel, the spa town of Luso, [Montemor-o-Velho Castle](/castles/portugal/montemor-o-velho-castle) and the university city of Coimbra within a short drive."
+  }
+}

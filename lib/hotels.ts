@@ -40,6 +40,7 @@ export const ROOM_LOCATION_BADGE: Record<NonNullable<CastleHotel['room_location'
   mixed: 'Mixed',
   annex: 'Annex Stay',
   convent: 'Convent Stay',
+  village: 'Village Stay',
 };
 
 /** Compact "From €X / night" style price string for hotel listing cards, aware of price_unit. */

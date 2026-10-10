@@ -1,0 +1,86 @@
+{
+  "id": "ourem-castle",
+  "name": "Ourém Castle",
+  "local_name": "Castelo de Ourém",
+  "type": "castle",
+  "status": "published",
+  "priority_score": 20,
+  "featured": false,
+  "country": "portugal",
+  "region": "Centro",
+  "nearest_city": "Ourém",
+  "lat": 39.6431,
+  "lng": -8.5916,
+  "unesco": false,
+  "built_century": 15,
+  "architectural_style": "Medieval castle remodelled in the 15th century by Count Afonso, 4th Count of Ourém, who built a palace inside it (also known as the Paço dos Condes de Ourém); classified a National Monument since 1910. The pousada itself occupies a row of restored village houses and a former 15th-century Misericórdia hospital in the hamlet at the castle's foot, not the castle",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Overnight stay",
+  "best_season": "Year-round",
+  "accessibility": "Rooms are in historic village houses and a former hospital building in the medieval hamlet beside the castle; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A medieval hamlet at the foot of the castle the Counts of Ourém once ruled from — restored whitewashed houses and a 15th-century hospital, a few kilometres from Fátima, with the castle itself a short walk up the hill",
+  "highlights": [
+    "The castle, also known as the Paço dos Condes de Ourém, was remodelled in the 15th century by Count Afonso, 4th Count of Ourém, who built a palace inside its walls",
+    "Classified a National Monument since 1910",
+    "The pousada joins a row of small whitewashed village houses with a 15th-century hospital of the Misericórdia, not the castle itself",
+    "Set in the medieval walled town of Ourém, a few kilometres from the sanctuary of Fátima",
+    "Rooms are spread across three buildings in the old hamlet, many with valley views"
+  ],
+  "description": "Ourém Castle crowns a hill in central Portugal, a few kilometres from the sanctuary of Fátima, its present form owed largely to Count Afonso, the 4th Count of Ourém, who remodelled the medieval fortification in the 15th century and built a palace inside its walls — the castle is accordingly also known as the Paço dos Condes de Ourém, the palace of the Counts of Ourém. The castle has been classified a National Monument since 1910, recognising its significance among Portugal's medieval fortified sites.\n\nThe pousada that now welcomes overnight guests is not the castle itself, but the medieval hamlet at its foot: a row of small whitewashed houses joined with a 15th-century hospital of the Misericórdia, the charitable religious institution that operated hospitals across Portugal from the late medieval period onward. Restoring this hamlet rather than converting the castle's own interior gives the pousada a genuinely different character from some of Portugal's other castle-hotels — guests stay among the ordinary houses of a medieval settlement, not inside a noble household.\n\nRooms are spread across three buildings in the old hamlet, with contemporary interior lines, wooden floors and private bathrooms rather than an attempt to recreate medieval interiors; many look out over the surrounding valley, and some overlook the property's pool. The effect is a stay genuinely inside the walled medieval town — narrow streets, stone walls, and the castle itself a short walk up the hill — without claiming to be something the hamlet buildings never were.\n\nOurém's position a few kilometres from Fátima, one of the Catholic world's most visited pilgrimage sites, makes the pousada a practical base for visitors combining the sanctuary with central Portugal's castle and monastery circuit, including the Convent of Christ at nearby Tomar.",
+  "history": "Count Afonso, the 4th Count of Ourém (1402–1460), remodelled the castle in the 15th century and built a palace inside it, also known as the Paço dos Condes de Ourém. The castle has been classified a National Monument since 1910. The medieval hamlet at the foot of the castle was later restored as a pousada, joining a row of small whitewashed houses with a 15th-century hospital of the Misericórdia.",
+  "faqs": [
+    {
+      "question": "Do guests at the pousada stay inside Ourém Castle?",
+      "answer": "No — the pousada is made of restored village houses and a former 15th-century Misericórdia hospital in the medieval hamlet at the foot of the castle, not the castle itself. The castle, remodelled in the 15th century by Count Afonso, 4th Count of Ourém, is a short walk away."
+    },
+    {
+      "question": "How far is Ourém from Fátima?",
+      "answer": "Ourém's medieval walled town, where the pousada and castle stand, is a few kilometres from the sanctuary of Fátima, making it a practical base for visitors combining the pilgrimage site with central Portugal's castle and monastery circuit."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ourem-castle.webp",
+    "alt": "Ourém Castle above its medieval hamlet in central Portugal, a few kilometres from Fátima — the hamlet's restored village houses and a former hospital now form a pousada hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ourem-castle.webp",
+  "instagram_tag": "#ouremcastle",
+  "meta_title": "Ourém Castle, Centro Portugal — A Medieval Hamlet Pousada Near Fátima",
+  "meta_description": "Stay near Ourém Castle, a few kilometres from Fátima — restored village houses and a 15th-century hospital in the medieval hamlet, now a pousada hotel.",
+  "tags": [
+    "portugal",
+    "centro",
+    "castle-hotel",
+    "pousada",
+    "national-monument",
+    "fatima"
+  ],
+  "last_updated": "2026-10-10",
+  "routes": [],
+  "nearby_castles": [
+    "convent-of-christ-tomar"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pousada de Ourém – Fátima",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=castle-of-ourem&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpousada-de-ourem-fatima.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D12421262%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785339316%26srpvid%3D5c506d97a80c02bd%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 132,
+    "currency": "EUR",
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-10",
+    "room_location": "village",
+    "amenities": ["pool", "restaurant", "bar"],
+    "how_to_stay": "**Getting there:** In the medieval walled town of Ourém, a few kilometres from Fátima, in central Portugal. Parking is included in many rates.\n\n**Rooms & rates:** Around 30 rooms from approx. €132/night, spread over three buildings in the old hamlet, including the former 15th-century hospital. Rooms have contemporary lines and wooden floors; some overlook the pool.\n\n**On-site:** Outdoor swimming pool, restaurant and bar; breakfast is included in most rates.\n\n**Good to know:** This is a stay in the village beside the castle, not in the castle itself; the castle is a short walk away. Pool-side rooms are the best choice for families.\n\n**Combine with:** The castle and old town of Ourém on foot, the sanctuary of Fátima a few kilometres away, and [Convent of Christ, Tomar](/castles/portugal/convent-of-christ-tomar) within a short drive."
+  }
+}

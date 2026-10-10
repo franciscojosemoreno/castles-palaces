@@ -112,5 +112,18 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pousada de Marvão (Pousada Santa Maria)",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=marvao-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpt%2Fpousada-santa-maria.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D38969%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785338148%26srpvid%3D1d996b491b910631%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 152,
+    "currency": "EUR",
+    "source": "pestana-official-and-booking-aggregate",
+    "sourced_date": "2026-10-10",
+    "room_location": "village",
+    "amenities": ["restaurant", "bar"],
+    "how_to_stay": "**Getting there:** Inside the walled village of Marvão, on its granite spur in the Alentejo; the village is best reached by car, with parking at the foot of the spur and a short walk up through the village gate.\n\n**Rooms & rates:** Around 30 rooms from approx. €152/night, spread over four converted village houses. Older rooms have the best views over the Alentejo plain and Spain; newer rooms facing the interior are larger.\n\n**On-site:** Restaurant and bar. Rooms have air conditioning, minibar and free Wi-Fi.\n\n**Good to know:** The pousada is made of village houses, not the castle itself — you sleep inside the medieval walls and walk up to the castle on foot. The village has almost no traffic at night, which is much of the appeal.\n\n**Combine with:** The castle itself (free entry, see How to Visit above), the walled village streets and the municipal museum in the Church of Santa Maria next door."
+  }
 }

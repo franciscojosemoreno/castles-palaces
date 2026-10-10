@@ -36,7 +36,7 @@ export interface CastleHotel {
   room_count?: number;
   source?: string;
   sourced_date?: string;
-  room_location?: 'castle' | 'annex' | 'mixed' | 'convent';
+  room_location?: 'castle' | 'annex' | 'mixed' | 'convent' | 'village';
   amenities?: string[];
   non_guest_access_note?: string;
   how_to_stay?: string;

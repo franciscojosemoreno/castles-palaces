@@ -26,6 +26,7 @@ const ROOM_LOCATION_LABELS: Record<NonNullable<CastleHotel['room_location']>, st
   annex: 'Rooms are in an adjacent annex, not the original historic structure',
   mixed: 'Rooms are split between the historic building and a newer wing',
   convent: 'Rooms are in the former convent within the castle walls',
+  village: 'Rooms are in historic village houses beside the castle',
 };
 
 export default function HotelBookingCard({ hotel }: Props) {
