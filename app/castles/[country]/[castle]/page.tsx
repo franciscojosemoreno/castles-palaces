@@ -14,7 +14,7 @@ import GYGWidget from '@/components/affiliate/GYGWidget';
 import GYGFeaturedTour from '@/components/affiliate/GYGFeaturedTour';
 import HotelBookingCard from '@/components/castle/HotelBookingCard';
 import StructuredData from '@/components/seo/StructuredData';
-import { getPrimaryCta, isHotelOnly, getCurrencySymbol } from '@/lib/hotels';
+import { getPrimaryCta, isHotelOnly, getCurrencySymbol, ROOM_LOCATION_STAY_CTA } from '@/lib/hotels';
 import { renderEditorialHtml } from '@/lib/markdown';
 
 /** 1 -> "1st", 12 -> "12th", 21 -> "21st" — standard English ordinal suffix rules. */
@@ -73,6 +73,7 @@ export default async function CastlePage({ params }: PageProps) {
   const hotelOnly = isHotelOnly(castle);
   const hasGYGWidgetContent = Boolean(castle.gyg_search_query || castle.gyg_location_id);
   const primaryCta = getPrimaryCta(castle);
+  const stayCtaHeadline = castle.hotel?.room_location ? ROOM_LOCATION_STAY_CTA[castle.hotel.room_location] : 'Stay overnight';
 
   return (
     <>
@@ -170,7 +171,7 @@ export default async function CastlePage({ params }: PageProps) {
             <div className="lg:hidden mb-8 flex items-center gap-3 bg-[#1761a0] rounded-lg px-4 py-4">
               <div className="flex-1 min-w-0">
                 <p className="text-white font-semibold text-sm leading-tight">
-                  {primaryCta.disabled ? 'Booking temporarily paused' : hotelOnly ? 'Stay in the castle itself' : 'Skip the queue with a guided tour'}
+                  {primaryCta.disabled ? 'Booking temporarily paused' : hotelOnly ? stayCtaHeadline : 'Skip the queue with a guided tour'}
                 </p>
                 <p className="text-white/70 text-xs mt-0.5">
                   {primaryCta.disabled ? 'Check back soon, or contact the property directly' : hotelOnly ? 'Book a room via Booking.com' : 'Skip-the-line tickets & expert guides'}

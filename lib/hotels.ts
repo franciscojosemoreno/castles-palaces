@@ -43,6 +43,15 @@ export const ROOM_LOCATION_BADGE: Record<NonNullable<CastleHotel['room_location'
   village: 'Village Stay',
 };
 
+/** Headline for the Estado C mobile inline CTA — "castle" is the only room_location where guests actually sleep in the castle itself, so every other value (including a missing one) gets a neutral claim instead of repeating that specific one inaccurately. */
+export const ROOM_LOCATION_STAY_CTA: Record<NonNullable<CastleHotel['room_location']>, string> = {
+  castle: 'Stay in the castle itself',
+  convent: 'Stay in the former convent',
+  village: 'Stay in the village houses',
+  mixed: 'Stay overnight',
+  annex: 'Stay overnight',
+};
+
 /** Compact "From €X / night" style price string for hotel listing cards, aware of price_unit. */
 export function formatHotelPrice(hotel: CastleHotel): string {
   if (hotel.price_from_night == null) return 'Check rates';
