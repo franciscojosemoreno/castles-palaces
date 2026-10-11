@@ -1,0 +1,94 @@
+{
+  "id": "thiene-castle",
+  "name": "Thiene Castle",
+  "local_name": "Castello di Thiene (Palazzo Porto Colleoni)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "italy",
+  "region": "Veneto — Province of Vicenza",
+  "nearest_city": "Vicenza",
+  "address": "Corso Garibaldi 2, 36016 Thiene VI, Italy",
+  "lat": 45.7064,
+  "lng": 11.4781,
+  "unesco": false,
+  "built_label": "From about 1450, with a second floor added in the 16th century",
+  "architectural_style": "A pre-Palladian country residence built for civil use by the Porto family, combining castle features — two side towers and a crenellated wall — with the plan of a Venetian palazzo; also known as Palazzo Porto Colleoni",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "About 1 hour, self-guided",
+  "best_season": "Year-round",
+  "accessibility": "The ground floor is ramp-accessible; the first floor is not wheelchair accessible.",
+  "booking_advance_days": 0,
+  "tagline": "A Venetian palazzo built for trade behind a castle's crenellated wall and twin towers — the Porto family's 15th-century country house, frescoed a century later by pupils of Veronese",
+  "highlights": [
+    "Built from about 1450 for the Porto family, combining castle features — two side towers, a crenellated wall — with the plan of a Venetian palazzo",
+    "The ground floor's five large round arches reflect the building's original trade function as a casa-fondaco, a combined warehouse and residence",
+    "A second floor and two symmetrical staircases were added in the 16th century by Francesco Porto the younger",
+    "The Camerone del Camino is frescoed by Giovanni Battista Zelotti and Giovanni Antonio Fasolo, both pupils of Veronese",
+    "Held by the Porto family until 1816, then the Colleoni family until 1918, then the Thiene family — the current owners"
+  ],
+  "description": "Thiene Castle stands in the centre of Thiene, in the province of Vicenza, and reads less like a fortress than a Venetian palazzo that happens to wear a castle's crenellated wall and two flanking towers. Francesco Porto the elder began construction from about 1450 for the Porto family, a Vicentine merchant dynasty, and the building's original purpose shows clearly on the ground floor: five large round arches, designed for a casa-fondaco — a combined trade warehouse and residence — rather than for defence.\n\nThe building grew in the 16th century under Francesco Porto the younger, who added a second floor and two symmetrical staircases, bringing the palazzo closer to the grand residential form it has today. Inside, the Camerone del Camino carries frescoes by Giovanni Battista Zelotti and Giovanni Antonio Fasolo, both pupils of the Veronese workshop — a reminder that Thiene, like much of the Vicentine countryside, drew on Venice's leading decorative painters for its grandest interiors.\n\nOwnership passed from the Porto family to the Colleoni family in 1816 — the source of the building's alternative name, Palazzo Porto Colleoni — and then, in 1918, to the Thiene family, whose descendants still own the building today. An 18th-century stable building and a park sit alongside the main palazzo, both included on the standard visit.\n\nThe castle is self-guided, with digital content provided as part of the ticket, and takes about an hour to see at an unhurried pace. The ground floor is accessible by ramp; the first floor, reached by the 16th-century staircases, is not wheelchair accessible. Small dogs are welcome inside, and leashed dogs are permitted in the park; photography is allowed outdoors but not inside the frescoed rooms. The castle sits within Thiene's limited-traffic zone (ZTL), so visitors driving in should expect to park on the surrounding streets rather than directly outside.",
+  "history": "Francesco Porto the elder began construction of the castle from about 1450 for the Porto family, a Vicentine merchant dynasty, combining castle features with the plan of a Venetian palazzo. The ground floor's five large round arches reflect its original function as a casa-fondaco. In the 16th century, Francesco Porto the younger added a second floor and two symmetrical staircases; the Camerone del Camino was frescoed during this period by Giovanni Battista Zelotti and Giovanni Antonio Fasolo, pupils of Veronese. The Porto family held the castle until 1816, when it passed to the Colleoni family, and then in 1918 to the Thiene family, the current owners.",
+  "faqs": [
+    {
+      "question": "Is Thiene Castle a real fortress or a palazzo?",
+      "answer": "Both, in different measures. It combines genuine castle features — two side towers and a crenellated wall — with the plan of a Venetian palazzo, and its ground floor's five large round arches were built for trade (a casa-fondaco), not defence. It's generally described as a pre-Palladian country residence rather than a military fortress."
+    },
+    {
+      "question": "Who painted the frescoes at Thiene Castle?",
+      "answer": "The Camerone del Camino was frescoed by Giovanni Battista Zelotti and Giovanni Antonio Fasolo, both pupils of Veronese, as part of the 16th-century additions made by Francesco Porto the younger."
+    },
+    {
+      "question": "Is the whole castle wheelchair accessible?",
+      "answer": "No — the ground floor is accessible by ramp, but the first floor is not wheelchair accessible."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/thiene-castle.webp",
+    "alt": "Thiene Castle (Palazzo Porto Colleoni) in the Veneto, Italy — a 15th-century Venetian palazzo behind a crenellated castle wall and twin towers",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/thiene-castle.webp",
+  "instagram_tag": "#thienecastle",
+  "meta_title": "Thiene Castle, Veneto — Visitor Guide to Palazzo Porto Colleoni",
+  "meta_description": "Visit Thiene Castle (Palazzo Porto Colleoni) near Vicenza — a 15th-century Venetian palazzo behind castle walls with Veronese-school frescoes. Self-guided, about 1 hour.",
+  "tags": [
+    "italy",
+    "veneto",
+    "vicenza",
+    "palazzo",
+    "fresco",
+    "self-guided"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "102993",
+  "gyg_search_query": "Thiene Castle Veneto tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1509515",
+      "title": "Visit to Thiene Castle",
+      "type": "entry_ticket",
+      "duration": "1 hour",
+      "price_from": 24,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/thiene-l102993/visit-to-thiene-castle-t1509515/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "thiene-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

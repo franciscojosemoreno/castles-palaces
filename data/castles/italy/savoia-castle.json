@@ -1,0 +1,97 @@
+{
+  "id": "savoia-castle",
+  "name": "Savoia Castle (Castel Savoia)",
+  "local_name": "Castel Savoia, Gressoney-Saint-Jean",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 25,
+  "country": "italy",
+  "region": "Aosta Valley",
+  "nearest_city": "Gressoney-Saint-Jean",
+  "lat": 45.7642,
+  "lng": 7.8267,
+  "unesco": false,
+  "built_label": "1899–1904",
+  "architectural_style": "Eclectic five-towered villa mixing neo-medieval, neo-Renaissance and Art Nouveau elements, designed by Emilio Stramucci as a royal summer residence; acquired by the Aosta Valley Region in 1981 and now a museum with its original furnishings",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "About 2 hours for the guided village-and-castle walking tour, plus the separate castle entrance visit",
+  "best_season": "Summer — the Aosta Valley's high mountain season",
+  "accessibility": "A five-towered villa on a mountain site, with a walking tour of the village preceding a self-driven stop at the castle; contact the site directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "Queen Margherita of Savoy's eclectic five-towered summer villa above a Walser mountain village — designed by Emilio Stramucci and built in five years at the turn of the 20th century, now an Aosta Valley Region museum",
+  "highlights": [
+    "Built as the summer residence of Queen Margherita of Savoy, designed by the architect Emilio Stramucci",
+    "The first stone was laid on 24 August 1899; construction was completed in 1904",
+    "An eclectic villa with five towers, blending neo-medieval, neo-Renaissance and Art Nouveau elements",
+    "Acquired by the Aosta Valley Region in 1981 and now open as a museum, with its original furnishings on display",
+    "Queen Margherita first stayed in the area at the nearby Villa Peccoz-Beck, later renamed Villa Margherita and now Gressoney-Saint-Jean's town hall"
+  ],
+  "description": "Castel Savoia stands above Gressoney-Saint-Jean, a Walser mountain village in the Aosta Valley, built as the summer residence of Queen Margherita of Savoy — the first Queen of a united Italy, and a figure whose personal enthusiasm for this particular valley shaped its modern identity as a royal retreat. Before she had a castle of her own here, Margherita stayed at the nearby Villa Peccoz-Beck, a building later renamed Villa Margherita in her honour and now serving as Gressoney-Saint-Jean's town hall.\n\nThe queen commissioned the architect Emilio Stramucci to design a residence of her own, and construction moved quickly by the standards of the day: the first stone was laid on 24 August 1899, and the building was completed just five years later, in 1904. Stramucci's design is deliberately eclectic rather than historically pure — five towers give the villa a silhouette that reads as medieval from a distance, while the detailing draws on neo-Renaissance and Art Nouveau vocabulary, a combination typical of the romantic historicism fashionable among European royalty at the turn of the 20th century.\n\nThe castle remained a royal property until it passed to the Aosta Valley Region in 1981, which opened it as a museum. Much of the original furnishing survives inside, giving visitors a sense of the villa as Margherita herself would have used it, rather than a reconstructed or re-furnished interior.\n\nA GetYourGuide product covering Castel Savoia is structured as a village-and-castle walking tour, not a castle-only ticket, and the distinction matters for planning a visit. The guided portion is a 2-hour private walk through Gressoney-Saint-Jean itself — past traditional Walser houses, the church of St John the Baptist, Piazza Umberto I, Gover Lake, and the exterior of Villa Margherita — conducted in Italian, English or French. After the village walk, visitors drive themselves to the castle's parking area, where the guide meets the group separately; this stage allows roughly 20 minutes per stop plus about 50 minutes inside the castle. A personal vehicle is required to reach the castle this way, the tour is priced per group of up to 25 people rather than per person, and the castle's own entrance ticket is not included in the tour price — it is bought separately once you arrive. Visitors planning to join this tour should confirm they have transport arranged for the village-to-castle leg before booking.",
+  "how_to_visit": "**Getting there:** Gressoney-Saint-Jean sits in a side-valley of the Aosta Valley; the guided walk starts in the village, and visitors need their own vehicle for the onward leg to the castle's parking area, where the guide rejoins the group.\n\n**Tickets:** **The tour (from €395) is priced per group of up to 25 people, not per person, and does not include the castle's own entrance ticket**, which is bought separately once you arrive at Castel Savoia.\n\n**Practical tips:** The guided portion runs about 2 hours total — roughly an hour walking the village, then about 50 minutes inside the castle after the self-driven leg. Offered in Italian, English or French. Confirm you have transport arranged for the village-to-castle drive before booking.\n\n**Combine with:** [Fénis Castle](/castles/italy/fenis-castle) (~35 km southwest, back on the main Aosta Valley floor — the Challant family's pentagonal castle with a frescoed courtyard).",
+  "history": "Queen Margherita of Savoy commissioned Castel Savoia as a summer residence, designed by the architect Emilio Stramucci. The first stone was laid on 24 August 1899, and construction was completed in 1904. The castle remained a royal property until the Aosta Valley Region acquired it in 1981 and opened it as a museum, with much of its original furnishing intact. Before the castle was built, Queen Margherita stayed at the nearby Villa Peccoz-Beck, later renamed Villa Margherita in her honour and now the town hall of Gressoney-Saint-Jean.",
+  "faqs": [
+    {
+      "question": "Does the GetYourGuide tour include entrance to Castel Savoia?",
+      "answer": "No. The tour is a 2-hour private guided walk through Gressoney-Saint-Jean village, after which visitors drive themselves to the castle's parking area, where the guide rejoins the group for about 50 minutes inside the castle. The castle's own entrance ticket is bought separately and is not included in the tour price."
+    },
+    {
+      "question": "Do I need a car to join the Castel Savoia tour?",
+      "answer": "Yes — after the guided walk through the village, visitors drive themselves to the castle, where the guide meets the group again. A personal vehicle is required for this leg of the tour."
+    },
+    {
+      "question": "Is the tour price per person or per group?",
+      "answer": "Per group, up to 25 people — not per person. The price covers the whole group's guided walk and the castle-side portion of the tour, not an individual rate."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/savoia-castle.webp",
+    "alt": "Castel Savoia above Gressoney-Saint-Jean in the Aosta Valley, Italy — Queen Margherita of Savoy's eclectic five-towered summer villa",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/savoia-castle.webp",
+  "instagram_tag": "#castelsavoia",
+  "meta_title": "Castel Savoia, Gressoney-Saint-Jean — Queen Margherita's Villa",
+  "meta_description": "Visit Castel Savoia above Gressoney-Saint-Jean — Queen Margherita of Savoy's 1899–1904 summer villa. Guided village-and-castle tour; entrance ticket separate.",
+  "tags": [
+    "italy",
+    "aosta-valley",
+    "gressoney",
+    "royal-residence",
+    "art-nouveau",
+    "guided-tour"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [
+    "fenis-castle",
+    "fortress-of-bard"
+  ],
+  "gyg_location_id": "2478",
+  "gyg_search_query": "Castel Savoia Gressoney Aosta Valley tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1501631",
+      "title": "Gressoney-Saint-Jean Walking Tour: Walser Village & Castle",
+      "type": "guided_tour",
+      "duration": "2 hours",
+      "price_from": 395,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "group",
+      "booking_url_override": "https://www.getyourguide.com/aosta-valley-l2478/gressoney-saint-jean-walking-tour-walser-village-castle-t1501631/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "savoia-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

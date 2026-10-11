@@ -1,0 +1,93 @@
+{
+  "id": "athelhampton-house",
+  "name": "Athelhampton House",
+  "local_name": "Athelhampton Hall",
+  "type": "manor",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "england",
+  "region": "Dorset",
+  "nearest_city": "Dorchester",
+  "lat": 50.7476,
+  "lng": -2.3265,
+  "unesco": false,
+  "year_built": 1485,
+  "architectural_style": "Great Hall built under licence to fortify, with a hammer-beam roof, linenfold panelling, heraldic glass and a largely intact minstrels' gallery; Grade I listed formal gardens, laid out from 1891 by Francis Inigo Thomas, with clipped yew pyramids as their signature feature",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "About 3 hours suggested",
+  "best_season": "Year-round",
+  "accessibility": "Contact the house directly before visiting if you need step-free access.",
+  "booking_advance_days": 0,
+  "tagline": "A 1485 Great Hall with its minstrels' gallery intact, revived from near-ruin in 1891 with Grade I gardens of clipped yew pyramids — a licensed-to-fortify manor house, not a castle, still privately lived in today",
+  "highlights": [
+    "The Great Hall was built in 1485 by Sir William Martyn, who held a licence to fortify the house",
+    "The hammer-beam roof, linenfold panelling, heraldic glass and minstrels' gallery survive largely intact from the medieval hall",
+    "The Martyn male line ended in 1595; the estate was then divided among four heiresses and used as a tenant farm for centuries",
+    "Revived from 1891 by Alfred Cart de Lafontaine, who commissioned Francis Inigo Thomas to lay out the formal gardens, now Grade I listed on the Register of Parks and Gardens",
+    "Privately owned by the Cooke family since they purchased the house in 1957"
+  ],
+  "description": "Athelhampton House stands near Dorchester in Dorset, its Great Hall dating to 1485 — built by Sir William Martyn under a licence to fortify, the formal royal permission that allowed a landowner to add defensive features to an otherwise domestic building. That licence shows in the hall's substantial construction, but Athelhampton reads overwhelmingly as a grand medieval house rather than a military structure: the hammer-beam roof, linenfold wood panelling, heraldic stained glass and a minstrels' gallery all survive largely intact from the 15th century, an unusually complete set of late-medieval hall features for a private house still in residential use.\n\nThe Martyn family's direct male line ended in 1595, and the house's fortunes declined with it. The estate was divided among four heiresses, and for the following three centuries Athelhampton functioned chiefly as a tenant farm — its grand hall surviving, but its wider role as a family seat effectively suspended. That changed in 1891, when Alfred Cart de Lafontaine acquired the house and began a serious revival, extending beyond the building itself into the grounds: he commissioned Francis Inigo Thomas, a leading garden designer of the period, to lay out formal gardens that are now Grade I listed on the Register of Parks and Gardens of Special Historic Interest in England. The clipped yew pyramids that punctuate the garden's structure remain Athelhampton's single most photographed feature, and the landscape designer Thomas Mawson advised on further additions in the early 20th century.\n\nThe house has been in private hands continuously since its 1891 revival, and the Cooke family, who purchased Athelhampton in 1957, still own it today — a detail that shapes the visitor experience: this is a lived-in house with a working garden, not a museum piece frozen at a single historical moment. Twenty rooms are open to visitors, alongside the formal gardens, a one-acre kitchen garden, and an art gallery.\n\nGuided tours usually run twice daily, are included in the entry ticket, and have limited places, so visitors with a particular interest in a guided visit should plan to arrive in good time. A restaurant on site serves lunch and afternoon tea. Allow about three hours for a full visit covering the house, gardens and grounds. Accessibility varies across the site's historic buildings and garden terrain; contact the house directly before visiting if step-free access matters for your trip.",
+  "history": "Sir William Martyn built the Great Hall at Athelhampton in 1485 under a licence to fortify. The Martyn male line ended in 1595, after which the estate was divided among four heiresses and used as a tenant farm for centuries. Alfred Cart de Lafontaine began reviving the house from 1891, commissioning Francis Inigo Thomas to lay out the formal gardens, now Grade I listed; Thomas Mawson advised on further additions in the early 20th century. The Cooke family has owned Athelhampton since purchasing it in 1957.",
+  "faqs": [
+    {
+      "question": "Is Athelhampton House a castle?",
+      "answer": "Not in the usual sense. The Great Hall, built in 1485, was constructed under a licence to fortify, a formal royal permission to add defensive features — but the house is best understood as a grand late-medieval manor house, not a military castle, and it's presented and visited as a historic house and garden."
+    },
+    {
+      "question": "Who designed the gardens at Athelhampton?",
+      "answer": "Francis Inigo Thomas laid out the formal gardens from 1891, commissioned by Alfred Cart de Lafontaine as part of his revival of the then-declined estate. The gardens are now Grade I listed on the Register of Parks and Gardens, with clipped yew pyramids as their best-known feature. Thomas Mawson advised on further additions in the early 20th century."
+    },
+    {
+      "question": "Is Athelhampton House wheelchair accessible?",
+      "answer": "Accessibility varies across the historic house and garden terrain. Contact the house directly before your visit if you need step-free access, so staff can advise on the current arrangements."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/athelhampton-house.webp",
+    "alt": "Athelhampton House in Dorset, England — the 1485 Great Hall and its Grade I listed formal gardens with clipped yew pyramids",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/athelhampton-house.webp",
+  "instagram_tag": "#athelhamptonhouse",
+  "meta_title": "Athelhampton House, Dorset — Visitor Guide to the Great Hall & Gardens",
+  "meta_description": "Visit Athelhampton House near Dorchester — a 1485 Great Hall with Grade I listed formal gardens and clipped yew pyramids. Guided tours and tickets available.",
+  "tags": [
+    "england",
+    "dorset",
+    "manor-house",
+    "grade-i-garden",
+    "medieval",
+    "privately-owned"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "157190",
+  "gyg_search_query": "Athelhampton House Dorset tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1446312",
+      "title": "Athelhampton House & Gardens Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "About 3 hours suggested",
+      "price_from": 29,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/dorchester-l157190/athelhampton-house-gardens-entry-ticket-t1446312/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "athelhampton-house"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

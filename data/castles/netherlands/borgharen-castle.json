@@ -1,0 +1,94 @@
+{
+  "id": "borgharen-castle",
+  "name": "Borgharen Castle",
+  "local_name": "Kasteel Borgharen",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "netherlands",
+  "region": "Limburg",
+  "nearest_city": "Maastricht",
+  "address": "Kasteelstraat 6, 6223 BJ Maastricht, Netherlands",
+  "lat": 50.8777,
+  "lng": 5.6863,
+  "unesco": false,
+  "built_label": "Medieval origins (12th–13th century); destroyed in 1318 and rebuilt from about 1350; two square towers added in the late 15th century",
+  "architectural_style": "Medieval castle with a 13th-century main wing remodelled into the 18th century, two late-15th-century square towers, a forecourt, moat and castle farm; castle, forecourt, moat and farm are national monuments",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Self-guided, valid 1 day",
+  "best_season": "Year-round — tickets are limited, so check availability before you travel",
+  "accessibility": "A medieval castle with a moat, forecourt and castle farm; contact the site directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A medieval Limburg castle burned down by the prince-bishop of Liège's army in 1318 and rebuilt within decades — castle, moat, forecourt and farm are all protected national monuments on the edge of Maastricht",
+  "highlights": [
+    "Medieval origins dating to the 12th–13th century, on the Meuse-side edge of what is now Maastricht",
+    "Destroyed by fire in 1318 during an attack by the army of the prince-bishop of Liège, and rebuilt from about 1350",
+    "The main wing dates from the 13th century, with remodelling continuing into the 18th century",
+    "Two square towers were added in the late 15th century",
+    "The castle, forecourt, moat and castle farm are all protected as national monuments"
+  ],
+  "description": "Borgharen Castle sits in the village of Borgharen, on the northern edge of Maastricht in Dutch Limburg, its moat and forecourt still largely intact around a main wing with medieval origins. Documentary and architectural evidence places the castle's earliest fabric in the 12th or 13th century, part of the dense network of fortified seats that controlled the Meuse valley through the medieval period — a landscape contested repeatedly by the competing powers of the prince-bishopric of Liège, the Duchy of Brabant, and the city of Maastricht itself.\n\nThat contest reached Borgharen directly in 1318, when the army of the prince-bishop of Liège destroyed the castle by fire. The rebuilding that followed, dated to around 1350, produced the main wing that still forms the core of the building today, remodelled and extended in stages through to the 18th century. Two square towers, added in the late 15th century, give the castle its present silhouette — a working medieval and early-modern residence rather than a single-period monument, its layers of construction visible in the variations of stone and brick across the main façade.\n\nThe castle's setting is as protected as the building itself: Borgharen's moat, forecourt and the adjoining castle farm are all designated national monuments alongside the main house, recognising the whole ensemble rather than a single structure. A lightning strike in 1985 destroyed the spire of one of the corner towers, a reminder that the castle's medieval survival has required ongoing, active maintenance rather than simple good fortune.\n\nAccording to the castle's own visitor information, Borgharen changed hands for a nominal sum in the 2010s and has since been maintained in part through volunteer involvement — details that visitors interested in the castle's more recent history can ask about on site, though they fall outside what independent heritage sources confirm. The standard visit is self-guided and covers the castle, courtyard, farmhouse building and grounds; it does not include transport or food. Tickets are limited, so booking ahead is worth doing rather than assuming on-the-day availability, and interior access may vary depending on the state of ongoing restoration work.",
+  "history": "Borgharen Castle has medieval origins dating to the 12th or 13th century. The army of the prince-bishop of Liège destroyed the castle by fire in 1318; it was rebuilt from about 1350, producing the main wing that survives at the core of the building today. Remodelling continued into the 18th century, and two square towers were added in the late 15th century. The castle, its forecourt, moat and castle farm are all protected as national monuments. A lightning strike destroyed the spire of one of the corner towers in 1985.",
+  "faqs": [
+    {
+      "question": "Why was Borgharen Castle rebuilt in the 14th century?",
+      "answer": "The army of the prince-bishop of Liège destroyed the castle by fire in 1318, part of the wider medieval contest for control of the Meuse valley around Maastricht. The castle was rebuilt from about 1350, and that rebuilding produced the main wing that still forms the core of the building."
+    },
+    {
+      "question": "Is the whole Borgharen estate protected, or just the castle building?",
+      "answer": "The castle, its forecourt, moat and castle farm are all designated national monuments, not just the main house — recognising the whole historic ensemble together."
+    },
+    {
+      "question": "Can I visit Borgharen Castle on any day?",
+      "answer": "Tickets are limited and the listing has shown periods of restricted availability, so it's worth checking and booking ahead rather than assuming you can visit on short notice. Interior access may also vary depending on the state of ongoing restoration work."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/borgharen-castle.webp",
+    "alt": "Borgharen Castle near Maastricht, Netherlands — a medieval Limburg castle rebuilt after its 1318 destruction, with its moat and forecourt intact",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/borgharen-castle.webp",
+  "instagram_tag": "#borgharencastle",
+  "meta_title": "Borgharen Castle (Kasteel Borgharen), Maastricht — Visitor Guide",
+  "meta_description": "Visit Borgharen Castle near Maastricht — a medieval Limburg castle destroyed in 1318 and rebuilt from about 1350, with its moat and forecourt intact.",
+  "tags": [
+    "netherlands",
+    "limburg",
+    "maastricht",
+    "medieval",
+    "moated-castle",
+    "national-monument"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": "2818",
+  "gyg_search_query": "Borgharen Castle Maastricht tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1461564",
+      "title": "Maastricht: Kasteel Borgharen Entry Ticket",
+      "type": "entry_ticket",
+      "duration": "Valid 1 day",
+      "price_from": 10,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/maastricht-l2818/maastricht-kasteel-borgharen-entry-ticket-t1461564/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "borgharen-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
