@@ -1,0 +1,97 @@
+{
+  "id": "rivalta-castle",
+  "name": "Rivalta Castle",
+  "local_name": "Castello di Rivalta",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "italy",
+  "region": "Emilia-Romagna — Province of Piacenza (Trebbia Valley)",
+  "nearest_city": "Piacenza",
+  "lat": 44.9509,
+  "lng": 9.5913,
+  "unesco": false,
+  "built_label": "Medieval village castle, transformed into a noble residence between the 15th and 18th centuries",
+  "architectural_style": "A medieval castle above the Trebbia valley, remodelled into a noble residence over the 15th to 18th centuries; 15th-century courtyard with terracotta decoration and a later neoclassical façade",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "About 80 minutes, guided",
+  "best_season": "Year-round",
+  "accessibility": "A private inhabited residence with stairs throughout; not suitable for visitors with reduced mobility, and strollers are not permitted inside.",
+  "booking_advance_days": 0,
+  "tagline": "A medieval castle above the Trebbia valley reshaped into a noble residence over three centuries — Grand Hall, old kitchens, cellars and prisons, and a tower still climbed on the guided visit",
+  "highlights": [
+    "A medieval castle on the village of Rivalta, above the Trebbia valley near Piacenza",
+    "Transformed from a defensive castle into a noble residence between the 15th and 18th centuries",
+    "15th-century courtyard with terracotta decoration, fronted by a later neoclassical façade",
+    "The guided route covers the Grand Hall, dining room, old kitchens, cellars and prisons, bedrooms, a museum area, a gallery of historic salons, and tower access",
+    "Still a private, inhabited residence — visits run as small guided groups rather than open self-guided access"
+  ],
+  "description": "Rivalta Castle stands above the village of Rivalta, in the comune of Gazzola in the Trebbia valley near Piacenza, a medieval castle whose military origins were steadily reshaped into a noble residence over the following centuries. Between the 15th and 18th centuries, the fortress gained the trappings of a lived-in seat: a courtyard decorated in 15th-century terracotta work survives from the earlier phase of this remodelling, while the castle's main façade was given a later, neoclassical treatment that softens its defensive profile considerably.\n\nThe Trebbia valley itself carries weight in regional military history — the area was the scene of fighting during the 1799 Battle of the Trebbia, part of the War of the Second Coalition, and local heritage records tie the castle's setting to that wider campaign. The castle has passed through more than one noble family over its history; one heritage record names the Scotti family as owners in the 17th century, and the property remains in private hands today, still linked to the family that owns it.\n\nA visit here runs as a roughly 80-minute guided tour, conducted in Italian, moving through a substantial run of the building: the Grand Hall, dining room, old kitchens, cellars and prisons, bedrooms, a museum area, a gallery of historic salons, and an exhibition space the castle calls its Optical Views room, along with a billiards room. The visit also includes access to one of the castle's towers, a detail not every castle tour on this scale offers. Photography and filming are not permitted inside, in keeping with the castle's status as a lived-in private residence rather than a public museum.\n\nBecause Rivalta remains inhabited and the tour is run as a small, private group rather than an open self-guided circuit, visitors should arrive punctually for the scheduled time. The route involves stairs throughout the building, so it is not suitable for visitors with reduced mobility, and strollers cannot be brought inside.",
+  "how_to_visit": "**Language:** The guided visit runs in Italian only — there is no English-language tour option for this listing, so visitors without Italian should plan accordingly.\n\n**Practical tips:** The tour is run as a small private group with a fixed start time; arrive punctually. Stairs feature throughout the route, so it is not suitable for reduced mobility, and strollers are not permitted. Photography and filming are not allowed inside the castle. Check availability for specific dates before planning your visit.",
+  "history": "Rivalta Castle began as a medieval defensive castle above the Trebbia valley. Between the 15th and 18th centuries it was progressively transformed into a noble residence, gaining a 15th-century courtyard with terracotta decoration and, later, a neoclassical façade. The Trebbia valley was the setting for fighting during the 1799 Battle of the Trebbia. One heritage record names the Scotti family as the castle's owners in the 17th century; the property remains privately owned and inhabited today.",
+  "faqs": [
+    {
+      "question": "Is the Rivalta Castle tour available in English?",
+      "answer": "No — the guided visit runs in Italian only, per the tour listing. Visitors who don't speak Italian should be aware there is currently no English-language option for this tour."
+    },
+    {
+      "question": "Can I take photos inside Rivalta Castle?",
+      "answer": "No. Photography and filming are not permitted inside the castle, which remains a private, inhabited residence rather than a conventional museum."
+    },
+    {
+      "question": "Is Rivalta Castle accessible for visitors with mobility issues?",
+      "answer": "No — the guided route involves stairs throughout the building, and it is explicitly not suitable for visitors with reduced mobility. Strollers are also not permitted inside."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rivalta-castle.webp",
+    "alt": "Rivalta Castle above the Trebbia valley near Piacenza, Italy — a medieval castle remodelled into a noble residence with a 15th-century terracotta courtyard",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rivalta-castle.webp",
+  "instagram_tag": "#rivaltacastle",
+  "meta_title": "Rivalta Castle, Piacenza — Guided Visit & Tickets",
+  "meta_description": "Visit Rivalta Castle above the Trebbia valley near Piacenza — a medieval castle turned noble residence, with tower access. Italian-language guided tour.",
+  "tags": [
+    "italy",
+    "emilia-romagna",
+    "piacenza",
+    "trebbia-valley",
+    "noble-residence",
+    "guided-tour"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [
+    "gropparello-castle",
+    "vigoleno-castle"
+  ],
+  "gyg_location_id": "99819",
+  "gyg_search_query": "Rivalta Castle Piacenza tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1512770",
+      "title": "Piacenza: Guided Visit to Rivalta Castle",
+      "type": "guided_tour",
+      "duration": "80 minutes",
+      "price_from": 58,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/piacenza-l99819/piacenza-guided-visit-to-rivalta-castle-t1512770/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "rivalta-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

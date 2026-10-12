@@ -744,5 +744,23 @@
       "url": "/images/countries/gibraltar-thumb.webp",
       "alt": "The Rock of Gibraltar — British Overseas Territory at the entrance to the Mediterranean"
     }
+  },
+  {
+    "slug": "armenia",
+    "name": "Armenia",
+    "description": "A landlocked country in the Caucasus, Armenia's heritage sites span medieval monasteries and 19th-century mansions alike. Haghpat and Sanahin, two 10th-century monasteries in the north, form a UNESCO World Heritage Site, while Akhtala Monastery nearby is known for its surviving medieval frescoes. In the same Lori Province region, Aramyants Castle — a European-style mansion built for the industrialist and philanthropist Mikael Aramyants — now operates as a historical museum.",
+    "hero_image": {
+      "url": "/images/countries/armenia.webp",
+      "alt": "Aramyants Castle near Akhtala in Armenia's Lori Province — a European-style mansion now used as a historical museum",
+      "width": 1200,
+      "height": 800
+    },
+    "highlights": [
+      "aramyants-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/countries/armenia-thumb.webp",
+      "alt": "Aramyants Castle near Akhtala, Lori Province, Armenia"
+    }
   }
 ]

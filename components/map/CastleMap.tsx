@@ -68,6 +68,7 @@ const COUNTRY_LABELS: Record<string, string> = {
   'north-macedonia': 'N. Macedonia',
   bosnia: 'Bosnia',
   cyprus: 'Cyprus',
+  armenia: 'Armenia',
 };
 
 type CastlePin = {

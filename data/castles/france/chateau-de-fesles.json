@@ -1,0 +1,99 @@
+{
+  "id": "chateau-de-fesles",
+  "name": "Château de Fesles",
+  "local_name": "Château de Fesles",
+  "type": "chateau",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "france",
+  "region": "Loire Valley — Anjou (Maine-et-Loire)",
+  "nearest_city": "Angers",
+  "address": "Route des Gauliers, Thouarcé, 49380 Bellevigne-en-Layon, France",
+  "lat": 47.2643,
+  "lng": -0.4688,
+  "unesco": false,
+  "built_label": "18th-century mansion on a wine estate restored in 1991",
+  "architectural_style": "An 18th-century château mansion at the centre of a working Bonnezeaux wine estate, overlooking vineyard slopes above the Layon valley; restored in 1991",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "1 hour (30-minute guided tour, then a 30-minute tasting)",
+  "best_season": "Year-round",
+  "accessibility": "Wheelchair accessible, per the tour operator; the guided portion starts outdoors on the vineyard hillside, so sturdy footwear is worth bringing.",
+  "booking_advance_days": 0,
+  "tagline": "A Bonnezeaux wine estate built around an 18th-century château — vat room, barrel cellar and vineyard hillside, finishing with a tasting of three Anjou wines",
+  "highlights": [
+    "An 18th-century château mansion at the heart of a working Bonnezeaux appellation wine estate",
+    "Owned since 2008 by the Helfrich family (Grands Chais de France); the estate was restored in 1991",
+    "The Bonnezeaux appellation itself was defined by decree in 1951, after lobbying by Jean Boivin of Fesles",
+    "Guided tour of the vat room, barrel cellar and vineyard hillside overlooking the Layon valley",
+    "Tasting of three estate wines: Anjou blanc sec, Rosé d'Anjou and Coteaux du Layon"
+  ],
+  "description": "Château de Fesles sits above the Layon valley near Thouarcé, in the Anjou wine country of the Loire Valley, built around an 18th-century mansion rather than a medieval fortress. The estate is one of the named producers within the Bonnezeaux appellation, a small, historically prized sweet-wine zone on the Layon's right bank, and the visit here is organised around the vineyard and cellars rather than a castle interior.\n\nThe Helfrich family, through the wine group Grands Chais de France, has owned Fesles since 2008, continuing a restoration of the estate that began in 1991. The Bonnezeaux appellation itself has its own documented history: it was formally defined by decree in 1951, following a lobbying effort led by Jean Boivin, a historic figure at Fesles credited with pushing for the appellation's recognition.\n\nThe standard visit is a one-hour combination of a 30-minute guided tour and a 30-minute tasting. The tour covers the vat room and barrel cellar before heading outdoors to the vineyard slopes for views over the Layon valley — visitors should expect uneven hillside ground and dress accordingly. The tasting that follows covers three wines: an Anjou blanc sec, a Rosé d'Anjou, and a Coteaux du Layon, giving a sense of the estate's range beyond its Bonnezeaux specialty. Guides run the tour in French or English.\n\nThe estate and its tour supplier cite references to Fesles' Bonnezeaux vines in the archives of the monks of Gué de Berge as early as 1055, though other sources place the earliest documentary mention closer to 1070 — the exact year is disputed, so it's worth treating as an old but imprecisely dated connection rather than a fixed founding date. On more recent farming practice, the estate states that its grapes have held Ecocert organic certification since the 2022 vintage; sources vary on whether this certification covers the whole estate or specific plots, so this detail is best read as the estate's own account rather than independently confirmed.\n\nBecause the tasting involves alcohol, it is for adults only — the tour is not suitable for pregnant visitors or anyone under 18, and ID may be requested on arrival. Bottles of the estate's wines are available to buy on site, though this is not included in the tour price.",
+  "how_to_visit": "**What this is:** A wine-estate tour and tasting at Château de Fesles — a guided walk through the vat room, barrel cellar and vineyard hillside, followed by a tasting of three estate wines. It is not a tour of a furnished château interior.\n\n**Who can join:** The tasting portion means the visit is for adults only; it is not suitable for pregnant visitors or anyone under 18, and ID may be requested.\n\n**Practical tips:** The guided portion starts outdoors on the vineyard slopes, so wear sturdy, comfortable footwear. Tours run in French or English. Wine bottles are sold on site but are not included in the ticket price.",
+  "history": "The château mansion at Fesles dates to the 18th century, built on a wine estate within what later became the Bonnezeaux appellation, one of the Layon valley's historic sweet-wine producing areas. The appellation itself was formally defined by decree in 1951, after lobbying led by Jean Boivin of Fesles. The estate underwent a restoration beginning in 1991, and since 2008 it has been owned by the Helfrich family through the wine group Grands Chais de France, which continues to run it as a working vineyard and visitor site.",
+  "faqs": [
+    {
+      "question": "Is a visit to Château de Fesles a tour of the château itself?",
+      "answer": "Not in the usual sense of a furnished historic house. The visit is a wine-estate tour: a 30-minute guided walk through the vat room, barrel cellar and vineyard hillside, followed by a 30-minute tasting of three estate wines."
+    },
+    {
+      "question": "Can children join the tour at Château de Fesles?",
+      "answer": "The guided tour itself is open to all ages, but the tasting that follows is for adults only — it's not suitable for pregnant visitors or anyone under 18, and ID may be requested on arrival."
+    },
+    {
+      "question": "What wines are included in the tasting?",
+      "answer": "The tasting covers three estate wines: an Anjou blanc sec, a Rosé d'Anjou, and a Coteaux du Layon. Bottles of any of the estate's wines, including its Bonnezeaux, can be bought separately on site."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chateau-de-fesles.webp",
+    "alt": "Château de Fesles above the Layon valley in Anjou, France — the 18th-century mansion at the heart of a Bonnezeaux wine estate",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chateau-de-fesles.webp",
+  "instagram_tag": "#chateaudefesles",
+  "meta_title": "Château de Fesles, Anjou — Wine Estate Tour & Tasting",
+  "meta_description": "Visit Château de Fesles in Anjou — a Bonnezeaux wine estate tour with a vineyard walk and a tasting of three estate wines. Adults-only tasting.",
+  "tags": [
+    "france",
+    "loire-valley",
+    "anjou",
+    "wine-estate",
+    "bonnezeaux",
+    "tasting"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [
+    "chateau-de-briancon",
+    "chateau-de-brissac",
+    "chateau-d-angers"
+  ],
+  "gyg_location_id": "3454",
+  "gyg_search_query": "Chateau de Fesles Loire Valley tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1479810",
+      "title": "Discovering Château de Fesles: Tour and Tasting",
+      "type": "guided_tour",
+      "duration": "1 hour",
+      "price_from": 7,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/loire-valley-l3454/discovering-chateau-de-fesles-tour-and-tasting-t1479810/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "chateau-de-fesles"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

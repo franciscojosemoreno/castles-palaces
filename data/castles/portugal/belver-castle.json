@@ -1,0 +1,98 @@
+{
+  "id": "belver-castle",
+  "name": "Belver Castle",
+  "local_name": "Castelo de Belver",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 20,
+  "country": "portugal",
+  "region": "Alto Alentejo — Portalegre district (Gavião), on the Tagus",
+  "nearest_city": "Abrantes",
+  "lat": 39.4939,
+  "lng": -7.9609,
+  "unesco": false,
+  "built_label": "Built from about 1210–1212, on land granted to the Hospitallers in 1194",
+  "architectural_style": "A Hospitaller castle on a bend of the Tagus, built from about 1210–1212 on land granted in 1194; reinforced after 1383–85 under Nuno Álvares Pereira; damaged in the 1755 earthquake and designated a National Monument in 1910",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "visit_duration": "Full-day guided tour from Lisbon — confirm exact duration at booking",
+  "best_season": "Year-round",
+  "accessibility": "A hilltop medieval castle with uneven stone surfaces; contact the tour operator directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "A Hospitaller castle on a bend of the Tagus, granted in 1194 and built within two decades — once a royal treasury, later reinforced against Castile, now reached on a full-day tour from Lisbon",
+  "highlights": [
+    "King Sancho I granted the land to the Hospitallers in 1194, on condition they build a castle",
+    "Construction followed quickly, from about 1210 to 1212",
+    "Used as a royal treasury under King Sancho II (1223–1248)",
+    "An important Hospitaller commandery by the 1330s; reinforced after 1383–85 under the military leader Nuno Álvares Pereira",
+    "Damaged in the 1755 Lisbon earthquake; designated a National Monument in 1910"
+  ],
+  "description": "Belver Castle stands on a bend of the Tagus river in what is now the Portalegre district, a Hospitaller stronghold whose origins trace back to a specific royal act: in 1194, King Sancho I granted the Hospitallers this land on the explicit condition that they build and hold a castle here, part of a broader effort to fortify the Tagus as a defensive line during the Reconquista period. The order acted quickly — construction followed from about 1210 to 1212, a remarkably short span for a medieval fortress of this scale.\n\nThe castle's role shifted with the crown's needs over the following decades. Under King Sancho II, who reigned from 1223 to 1248, Belver served as a royal treasury, a function that speaks to both its defensibility and its strategic position along the river. By the 1330s, the castle had become an important Hospitaller commandery, administering surrounding lands and resources on the order's behalf — one node in a wider network rather than an isolated outpost.\n\nBelver's military value was tested again in the late 14th century: after the 1383–85 crisis that saw Portugal's independence contested against Castile, the castle was reinforced under Nuno Álvares Pereira, the military commander whose campaigns were pivotal to securing the kingdom's succession. The structure survived largely intact until 1755, when the great Lisbon earthquake — felt across much of Portugal — caused damage to the castle, as it did to countless buildings nationwide. Belver's historical significance was formally recognised in 1910, when it was designated a National Monument.\n\nThe Hospitallers who built Belver are sometimes attached to a specific founder's name in popular sources, but these accounts conflict with one another, so it's more accurate to credit the order as a whole — the Hospitallers, acting under Sancho I's 1194 grant — rather than name an individual builder.\n\nThe GetYourGuide product covering Belver is a guided tour departing from Lisbon, not a standalone entry ticket — Belver is roughly a two-hour drive from the capital, and transport is built into the tour. Visitors should confirm exact pickup times, duration and what's included directly at booking, since this runs as a full-day excursion rather than a short, self-guided castle visit.",
+  "how_to_visit": "**What this is:** A guided day tour departing from Lisbon that includes transport to Belver Castle — not a standalone entry ticket bought on arrival. Belver sits roughly two hours from Lisbon by road.\n\n**Practical tips:** Confirm the exact pickup time, total duration and what's included (entry fees, guide language, meals) directly at booking, since this is sold as a full-day excursion from the capital rather than a short local visit.",
+  "history": "King Sancho I granted the land at Belver to the Hospitallers in 1194, on condition they build a castle there. Construction followed from about 1210 to 1212. The castle served as a royal treasury under Sancho II (1223–1248) and had become an important Hospitaller commandery by the 1330s. It was reinforced under Nuno Álvares Pereira after the 1383–85 succession crisis, damaged in the 1755 earthquake, and designated a National Monument in 1910.",
+  "faqs": [
+    {
+      "question": "Who built Belver Castle?",
+      "answer": "The Hospitallers built the castle, following a grant of the land from King Sancho I in 1194 that required them to construct and hold a fortress there. Popular sources sometimes name a specific individual founder, but these accounts conflict, so the order as a whole is the more reliable attribution."
+    },
+    {
+      "question": "Is the Belver Castle tour a simple entry ticket?",
+      "answer": "No — the GetYourGuide listing is a guided day tour departing from Lisbon, with transport included, since Belver is around a two-hour drive from the capital. It's not a ticket bought on arrival at the castle itself."
+    },
+    {
+      "question": "What was Belver Castle used for besides defence?",
+      "answer": "Under King Sancho II (1223–1248), it served as a royal treasury. By the 1330s it functioned as an important Hospitaller commandery, administering surrounding lands on the order's behalf, before being reinforced militarily again in the 1380s."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/belver-castle.webp",
+    "alt": "Belver Castle on a bend of the Tagus river in Portugal — a Hospitaller castle built from about 1210–1212",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/belver-castle.webp",
+  "instagram_tag": "#belvercastle",
+  "meta_title": "Belver Castle, Tagus — Guided Day Tour from Lisbon",
+  "meta_description": "Visit Belver Castle on the Tagus — a Hospitaller fortress built around 1210–1212, once a royal treasury. Full-day guided tour departing from Lisbon.",
+  "tags": [
+    "portugal",
+    "alentejo",
+    "tagus",
+    "hospitallers",
+    "medieval",
+    "day-tour"
+  ],
+  "last_updated": "2026-10-11",
+  "routes": [],
+  "nearby_castles": [
+    "almourol-castle",
+    "abrantes-fortress",
+    "convent-of-christ-tomar"
+  ],
+  "gyg_location_id": "42",
+  "gyg_search_query": "Belver Castle Tagus tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1225688",
+      "title": "Lisbon: Belver Castle Tour",
+      "type": "guided_tour",
+      "duration": "Full day — confirm at booking",
+      "price_from": 195,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/lisbon-l42/lisbon-belver-castle-tour-t1225688/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "belver-castle"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

@@ -8,6 +8,7 @@ interface StructuredDataProps {
 
 const COUNTRY_CODES: Record<string, string> = {
   albania: 'AL',
+  armenia: 'AM',
   austria: 'AT',
   belgium: 'BE',
   bosnia: 'BA',
