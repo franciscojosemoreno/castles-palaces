@@ -111,5 +111,20 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Książ",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=ksiaz-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fksiaz-hotel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D31176%26dest_type%3Dlandmark%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786717858%26srpvid%3Db934660748010d9b%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 121,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-12",
+    "room_location": "annex",
+    "room_location_note": "Rooms are in a separate hotel building about 40 m from the castle, inside Książ Landscape Park",
+    "amenities": ["parking", "wifi", "restaurant", "gardens"],
+    "how_to_stay": "Hotel Książ stands in the middle of Książ Landscape Park, about 40 m from Książ Castle, with pastel-coloured rooms and carved wooden furniture and breakfast served in the Książęca restaurant.\n\n**Getting there:** Hotel Książ is on Piastów Śląskich street inside Książ Landscape Park, about 40 m from the castle and roughly 7 km from the centre of Wałbrzych; free private parking is available at the hotel.\n\n**Rooms & rates:** From approx. €121/night for apartments and suites of 28–32 m² in numbered buildings of the hotel complex, each with a queen bed and private bathroom; breakfast and parking were included on the rate seen.\n\n**On-site:** The Książęca restaurant serves breakfast and à la carte dishes, and there is a terrace, a garden, room service and a 24-hour front desk.\n\n**Good to know:** The rooms are in a separate building next to the castle, not inside it, so this is a stay beside the castle rather than a night in its rooms. Only a few units of each room type were left for the dates checked, so book early.\n\n**Combine with:** The castle visit already described on this page, and [Czocha Castle](/castles/poland/czocha-castle), the other large Lower Silesia castle about 90 km away."
+  }
 }
