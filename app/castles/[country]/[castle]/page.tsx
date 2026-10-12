@@ -74,6 +74,13 @@ export default async function CastlePage({ params }: PageProps) {
   const hasGYGWidgetContent = Boolean(castle.gyg_search_query || castle.gyg_location_id);
   const primaryCta = getPrimaryCta(castle);
   const stayCtaHeadline = castle.hotel?.room_location ? ROOM_LOCATION_STAY_CTA[castle.hotel.room_location] : 'Stay overnight';
+  // "Skip the queue"/"skip-the-line" only holds for a guided tour or an actual
+  // skip-the-line product — for a self-guided ticket, day trip, boat tour, etc.
+  // (or no featured tour at all), fall back to neutral copy with no unverifiable claim.
+  const featuredTourType = castle.gyg_featured_tours?.[0]?.type;
+  const isSkipTheLineStyleTour = featuredTourType === 'guided_tour' || featuredTourType === 'skip_the_line';
+  const visitCtaHeadline = isSkipTheLineStyleTour ? 'Skip the queue with a guided tour' : 'Tickets & tours';
+  const visitCtaSubline = isSkipTheLineStyleTour ? 'Skip-the-line tickets & expert guides' : 'Book through GetYourGuide';
 
   return (
     <>
@@ -171,10 +178,10 @@ export default async function CastlePage({ params }: PageProps) {
             <div className="lg:hidden mb-8 flex items-center gap-3 bg-[#1761a0] rounded-lg px-4 py-4">
               <div className="flex-1 min-w-0">
                 <p className="text-white font-semibold text-sm leading-tight">
-                  {primaryCta.disabled ? 'Booking temporarily paused' : hotelOnly ? stayCtaHeadline : 'Skip the queue with a guided tour'}
+                  {primaryCta.disabled ? 'Booking temporarily paused' : hotelOnly ? stayCtaHeadline : visitCtaHeadline}
                 </p>
                 <p className="text-white/70 text-xs mt-0.5">
-                  {primaryCta.disabled ? 'Check back soon, or contact the property directly' : hotelOnly ? 'Book a room via Booking.com' : 'Skip-the-line tickets & expert guides'}
+                  {primaryCta.disabled ? 'Check back soon, or contact the property directly' : hotelOnly ? 'Book a room via Booking.com' : visitCtaSubline}
                 </p>
               </div>
               {primaryCta.disabled ? (
