@@ -60,7 +60,7 @@ export default function HotelBookingCard({ hotel }: Props) {
         </p>
       )}
       {hotel.room_location && (
-        <p className="text-xs text-stone-500 mb-3">{ROOM_LOCATION_LABELS[hotel.room_location]}</p>
+        <p className="text-xs text-stone-500 mb-3">{hotel.room_location_note ?? ROOM_LOCATION_LABELS[hotel.room_location]}</p>
       )}
       {hotel.amenities && hotel.amenities.length > 0 && (
         <div className="flex flex-wrap gap-1.5 mb-4">
