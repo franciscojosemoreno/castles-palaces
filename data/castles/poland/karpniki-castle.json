@@ -1,0 +1,85 @@
+{
+  "id": "karpniki-castle",
+  "name": "Karpniki Castle",
+  "local_name": "Zamek Karpniki (Schloss Fischbach)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lower Silesia — Jelenia Góra Valley (Karkonosze foothills)",
+  "nearest_city": "Jelenia Góra",
+  "address": "ul. Łąkowa 1, Karpniki, Lower Silesia, Poland",
+  "lat": 50.8465,
+  "lng": 15.8499,
+  "unesco": false,
+  "architectural_style": "According to the hotel's own account, an 18th-century hunting lodge enlarged over the 19th century into a moated, neo-Gothic building with traces of earlier styles inside — a summer retreat of the Prussian royal Hohenzollern family from 1822",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A moated hotel building in the Jelenia Góra Valley; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A moated former hunting lodge bought by Prince Wilhelm of Prussia in 1822 as a Hohenzollern family summer retreat in the Karkonosze foothills — now a spa hotel, with every room inside the castle itself",
+  "highlights": [
+    "According to the hotel's own account, began as an 18th-century hunting lodge before later enlargements gave it a moated, neo-Gothic appearance in the 19th century",
+    "Bought in 1822 by Prince Wilhelm of Prussia, brother of King Frederick William III",
+    "Became a summer retreat of the Hohenzollern family in the Jelenia Góra Valley",
+    "Royal guests are said, according to the castle, to have included Frederick William III and Tsar Nicholas I",
+    "No separate annex buildings — all 20 rooms are inside the main castle building"
+  ],
+  "description": "Karpniki Castle sits in the Jelenia Góra Valley, in the foothills of the Karkonosze mountains in Lower Silesia. According to the hotel's own account, the building began in the 18th century as a hunting lodge, before successive enlargements through the 19th century gave it the moated, neo-Gothic appearance it has today, with traces of earlier architectural styles still visible inside.\n\nIn 1822, the estate was bought by Prince Wilhelm of Prussia, brother of King Frederick William III, and it became a summer retreat of the Hohenzollern family within the wider Jelenia Góra Valley, an area that drew Prussian and European aristocracy for its scenery. According to the castle, royal guests over the years included Frederick William III himself and the Russian Tsar Nicholas I — accounts that come from the property's own history rather than independent documentation.\n\nToday the castle operates as a hotel with 20 rooms in the main building, including two historic chambers, and no separate annex — every guest sleeps within the castle itself. The grounds and corridors still carry hunting-estate touches, including trophies on display, and the hotel's spa and restaurant are part of a stay rather than a feature open to passing day visitors.",
+  "history": "According to the hotel's own account, the building dates from the 18th century and began as a hunting lodge before successive enlargements gave it a moated, neo-Gothic appearance in the 19th century, with traces of earlier styles inside. In 1822 the estate was bought by Prince Wilhelm of Prussia, brother of King Frederick William III, and it became a summer retreat of the Hohenzollern family in the Jelenia Góra Valley; royal guests are said, according to the castle, to have included Frederick William III and Tsar Nicholas I.",
+  "faqs": [
+    {
+      "question": "Can I visit Karpniki Castle without staying overnight?",
+      "answer": "No — reviews note that non-guests cannot simply walk in to visit, so this is a hotel stay rather than a day-visit site."
+    },
+    {
+      "question": "Are all the rooms inside the castle building itself?",
+      "answer": "Yes — there are no separate annex buildings at Karpniki; all 20 rooms, including two historic chambers, are inside the main castle."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/karpniki-castle.webp",
+    "alt": "Karpniki Castle (Schloss Fischbach) in the Jelenia Góra Valley, Lower Silesia, Poland — a moated neo-Gothic former Hohenzollern summer retreat",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/karpniki-castle.webp",
+  "instagram_tag": "#karpnikicastle",
+  "meta_title": "Karpniki Castle (Schloss Fischbach), Poland — Spa Hotel",
+  "meta_description": "Stay at Karpniki Castle (Schloss Fischbach) in the Jelenia Góra Valley, Poland — a moated former Hohenzollern retreat with a spa. From approx. €164/night.",
+  "tags": [
+    "poland",
+    "lower-silesia",
+    "castle-hotel",
+    "hohenzollern",
+    "neo-gothic",
+    "spa"
+  ],
+  "last_updated": "2026-10-12",
+  "routes": [],
+  "nearby_castles": [
+    "czocha-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zamek Karpniki Schloss Fischbach",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=zamek-karpniki&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-karpniki.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1373165%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786718403%26srpvid%3D3d34671e370706da%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 164,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-12",
+    "room_location": "castle",
+    "amenities": ["restaurant", "spa"],
+    "how_to_stay": "**Getting there:** In the village of Karpniki in the Jelenia Góra Valley, in the foothills of the Karkonosze mountains, reached by road.\n\n**Rooms & rates:** From approx. €164/night for a 26 m² double, with breakfast, six hours of spa a day, one parking spot and late check-in included on the rates seen; a rate with free cancellation starts around €172.\n\n**On-site:** Restaurant and breakfast, and a historic billiards room; hunting trophies still decorate the corridors.\n\n**Good to know:** There are no separate annex buildings, so every room is inside the castle. Reviews note that non-guests cannot simply walk in to visit, so treat it as a hotel stay rather than a day-visit site.\n\n**Combine with:** The Karkonosze mountains and the other palaces of the Jelenia Góra Valley; [Czocha Castle](/castles/poland/czocha-castle) is about 90 km west."
+  }
+}

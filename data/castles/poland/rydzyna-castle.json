@@ -1,0 +1,87 @@
+{
+  "id": "rydzyna-castle",
+  "name": "Rydzyna Castle",
+  "local_name": "Zamek Królewski w Rydzynie",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Greater Poland Voivodeship (Wielkopolska) — about 60 km south of Poznań",
+  "nearest_city": "Leszno",
+  "address": "Rydzyna, Greater Poland Voivodeship, Poland",
+  "lat": 51.7874,
+  "lng": 16.671,
+  "unesco": false,
+  "year_built": 1700,
+  "architectural_style": "A Gothic stronghold from the early 15th century, rebuilt at the end of the 17th century by Italian architects — among them Giuseppe Simone Bellotti and later Pompeo Ferrari — into the Baroque castle of the Leszczyński family; later given Rococo interiors under the Sułkowski family, burned in January 1945, and rebuilt from 1970 by the Association of Polish Mechanical Engineers and Technicians, finishing in 1989, a restoration that won a Europa Nostra award in 1994",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A Baroque castle and conference hotel beside the town's market square; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Gothic stronghold rebuilt as a Baroque castle for King Stanisław Leszczyński, burned in January 1945 and painstakingly rebuilt by Polish engineers through 1989 — now a hotel and conference centre named a Historic Monument of Poland",
+  "highlights": [
+    "A Gothic stronghold stood here from the early 15th century, built by Jan of Czernina",
+    "Rebuilt as a Baroque castle at the end of the 17th century by Italian architects, including Giuseppe Simone Bellotti and later Pompeo Ferrari, for the Leszczyński family",
+    "King Stanisław Leszczyński lived here between 1704 and 1709, until the castle was partly burned in 1709 during the Great Northern War",
+    "The Sułkowski family later added Rococo interiors, making Rydzyna a cultural centre of Greater Poland",
+    "Burned in January 1945; rebuilt from 1970 by the Association of Polish Mechanical Engineers and Technicians, finishing in 1989 — a restoration that won a Europa Nostra award in 1994, and the castle-and-town ensemble was named a Historic Monument of Poland in 2017"
+  ],
+  "description": "Rydzyna Castle stands beside the market square of Rydzyna, a small town in southern Greater Poland about 60 km south of Poznań. A Gothic stronghold occupied the site from the early 15th century, built by Jan of Czernina, but the building visitors encounter today owes its character to a complete rebuilding at the end of the 17th century: Italian architects, among them Giuseppe Simone Bellotti and later Pompeo Ferrari, transformed it into a Baroque castle for the Leszczyński family.\n\nThe castle's royal chapter came soon after. Stanisław Leszczyński, later King of Poland, lived at Rydzyna between 1704 and 1709, a residence cut short when the castle was partly burned in 1709 during the Great Northern War. Ownership later passed to the Sułkowski family — sources differ on exactly when this happened, so no precise year is given here — who added Rococo interiors and turned Rydzyna into a genuine cultural centre for the wider Greater Poland region.\n\nThe Sułkowski line ended with the death of the last prince in 1909, after which the castle passed to the Prussian state and became a school. It was burned in January 1945, in the final stages of the Second World War, leaving the building in ruins. From 1970, the Association of Polish Mechanical Engineers and Technicians undertook a long rebuilding, completed in 1989 and based on pre-war documentation; the restoration won a Europa Nostra award in 1994, and in 2017 the castle and town ensemble together were named a Historic Monument of Poland.\n\nToday the castle operates as a hotel and conference centre, with its reconstructed Baroque and Rococo halls open to guided tours alongside the overnight accommodation.",
+  "history": "A Gothic stronghold stood here from the early 15th century, built by Jan of Czernina. At the end of the 17th century Italian architects, among them Giuseppe Simone Bellotti and later Pompeo Ferrari, rebuilt it as the Baroque castle of the Leszczyński family; King Stanisław Leszczyński lived here between 1704 and 1709, until the castle was partly burned in 1709 during the Great Northern War. It later passed to the Sułkowski family, who added Rococo interiors and made Rydzyna a cultural centre of Greater Poland. After the last prince died in 1909 the castle passed to the Prussian state and became a school; it was burned in January 1945. From 1970 the Association of Polish Mechanical Engineers and Technicians rebuilt it, finishing in 1989, and the restoration won a Europa Nostra award in 1994. The castle and town ensemble was named a Historic Monument of Poland in 2017.",
+  "faqs": [
+    {
+      "question": "Did King Stanisław Leszczyński really live at Rydzyna Castle?",
+      "answer": "Yes — he lived there between 1704 and 1709, before later becoming King of Poland. His residence ended when the castle was partly burned in 1709 during the Great Northern War."
+    },
+    {
+      "question": "Is the castle's interior original or rebuilt?",
+      "answer": "Rebuilt. The castle was burned in January 1945, and the halls visitors see today are the result of a reconstruction carried out from 1970 to 1989 by the Association of Polish Mechanical Engineers and Technicians, based on pre-war documentation. The restoration won a Europa Nostra award in 1994."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rydzyna-castle.webp",
+    "alt": "Rydzyna Castle in Greater Poland — a Baroque castle rebuilt for the Leszczyński family, burned in 1945 and reconstructed by 1989",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rydzyna-castle.webp",
+  "instagram_tag": "#rydzynacastle",
+  "meta_title": "Rydzyna Castle, Greater Poland — Baroque Castle Hotel",
+  "meta_description": "Stay at Rydzyna Castle near Poznań, Poland — a Baroque castle of King Stanisław Leszczyński, rebuilt after 1945. From approx. €89/night.",
+  "tags": [
+    "poland",
+    "greater-poland",
+    "baroque",
+    "castle-hotel",
+    "historic-monument",
+    "leszczynski"
+  ],
+  "last_updated": "2026-10-12",
+  "routes": [],
+  "nearby_castles": [
+    "kornik-castle",
+    "rogalin-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zamek Królewski w Rydzynie",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=zamek-rydzyna&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-rydzyna.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D238518%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786718248%26srpvid%3Dd2e466d0c04a1384%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 89,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-12",
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "how_to_stay": "**Getting there:** In the town of Rydzyna in southern Greater Poland, about 60 km south of Poznań, reached by road; the castle stands beside the market square.\n\n**Rooms & rates:** From approx. €89/night for a 15 m² double, with a 30 m² Large Double from around €100 and a 46 m² Standard Apartment from around €109; breakfast is included and free cancellation is available on the rates seen.\n\n**On-site:** The hotel also has a restaurant and conference facilities, and the reconstructed historic halls can be visited on a guided tour (confirm current hours locally).\n\n**Good to know:** Rydzyna is run by an engineers' association as a hotel and conference centre, so weekday stays may coincide with events. The interiors you see are a reconstruction completed in 1989, based on pre-war documentation.\n\n**Combine with:** [Kórnik Castle](/castles/poland/kornik-castle) and [Rogalin Palace](/castles/poland/rogalin-palace) near Poznań."
+  }
+}
