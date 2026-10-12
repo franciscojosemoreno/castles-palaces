@@ -1,0 +1,89 @@
+{
+  "id": "gniew-castle",
+  "name": "Gniew Castle",
+  "local_name": "Zamek Gniew",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Pomeranian Voivodeship — on the Vistula, about 60 km south of Gdańsk",
+  "nearest_city": "Gdańsk",
+  "address": "Gniew, Pomeranian Voivodeship, Poland",
+  "lat": 53.8342,
+  "lng": 18.8278,
+  "unesco": false,
+  "architectural_style": "A Teutonic Order fortress built on the Vistula in the late 13th century, passing to the Polish Crown in 1464 after the Thirteen Years' War and later serving as the seat of royal starosts; rebuilt and damaged several times over the centuries and now restored by the POLMLEK Group as the 'Castle Hill' history park",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A hilltop castle complex with several buildings; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Teutonic Order fortress on the Vistula where Jan III Sobieski lived with his wife Marysieńka as starost of Gniew — now a hilltop history park with accommodation spread across the castle itself, the Knight Hotel and Marysieńka Palace",
+  "highlights": [
+    "Built in the late 13th century by the Teutonic Order on the Vistula, after the Order took over the Gniew lands",
+    "Passed to the Polish Crown in 1464, after the Thirteen Years' War, becoming the seat of royal starosts",
+    "Jan III Sobieski and his wife Marysieńka lived here in the 17th century while he was starost of Gniew, giving the Marysieńka Palace its name",
+    "Rebuilt and damaged several times over the centuries; restored today by the POLMLEK Group as the 'Castle Hill' history park",
+    "Accommodation spans three buildings on Castle Hill: 16 apartments inside the castle itself, the 4-star Hotel Rycerski (48 rooms), and the 3-star Marysieńka Palace (about 120 guests)"
+  ],
+  "description": "Gniew Castle rises above the Vistula in the town of Gniew, in the Pomeranian Voivodeship about 60 km south of Gdańsk, built as a Teutonic Order fortress in the late 13th century after the Order took over the surrounding Gniew lands — sources place the start of construction somewhere between 1276 and 1290, so the period is best described simply as the late 13th century rather than a single precise year.\n\nThe castle's allegiance shifted after the Thirteen Years' War: in 1464 it passed to the Polish Crown, becoming the seat of royal starosts administering the district on the monarch's behalf. One of those starosts, in the 17th century, was Jan III Sobieski, who lived at Gniew with his wife Marysieńka — a connection that gave the castle's Marysieńka Palace its name. The complex was rebuilt and damaged repeatedly across the centuries that followed, reflecting the wider turbulence of the region's history.\n\nToday the castle is restored and run by the POLMLEK Group as the 'Castle Hill' history park, combining heritage tourism with knightly shows and tournaments in season with a three-building accommodation complex. Guests can choose between 16 apartments inside the castle itself — furnished with historic details and artefacts, and the most atmospheric option — the 4-star Hotel Rycerski (Knight Hotel), integrated into the castle's architecture with 48 rooms, or the 3-star Marysieńka Palace, which can host around 120 guests. The three options sit within the same Castle Hill complex but offer a genuinely different feel, so it's worth checking which building a given room belongs to before booking.",
+  "history": "A Teutonic Order fortress was built in the late 13th century on the Vistula, after the Order took over the Gniew lands (sources date the start of construction between 1276 and 1290). After the Thirteen Years' War the castle passed to the Polish Crown in 1464 and became the seat of royal starosts; in the 17th century Jan III Sobieski and his wife Marysieńka lived here while he was the starost of Gniew, which gave the Marysieńka Palace its name. The castle was rebuilt and damaged several times and is restored today by the POLMLEK Group as the 'Castle Hill' history park.",
+  "faqs": [
+    {
+      "question": "Can I stay inside Gniew Castle itself, or only in the hotel buildings?",
+      "answer": "All three are options. There are 16 apartments inside the castle itself, furnished with historic details and artefacts — the most atmospheric choice — alongside the separate 4-star Hotel Rycerski (48 rooms) and the 3-star Marysieńka Palace (about 120 guests), both within the same Castle Hill complex."
+    },
+    {
+      "question": "Why is one of the buildings called Marysieńka Palace?",
+      "answer": "It's named after Marysieńka, the wife of Jan III Sobieski, who lived at Gniew with him in the 17th century while he served as the castle's royal starost."
+    },
+    {
+      "question": "When was Gniew Castle built?",
+      "answer": "In the late 13th century, by the Teutonic Order, after it took over the surrounding Gniew lands. Sources differ on the exact start date, placing it somewhere between 1276 and 1290."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gniew-castle.webp",
+    "alt": "Gniew Castle above the Vistula in Pomerania, Poland — a late-13th-century Teutonic Order fortress, now a history park with castle, Hotel Rycerski and Marysieńka Palace accommodation",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gniew-castle.webp",
+  "instagram_tag": "#gniewcastle",
+  "meta_title": "Gniew Castle, Poland — Stay on Castle Hill in Pomerania",
+  "meta_description": "Stay at Gniew Castle on the Vistula, Poland — a Teutonic Order fortress with castle apartments, Hotel Rycerski and Marysieńka Palace. From approx. €113/night.",
+  "tags": [
+    "poland",
+    "pomerania",
+    "teutonic-order",
+    "castle-hotel",
+    "vistula",
+    "history-park"
+  ],
+  "last_updated": "2026-10-12",
+  "routes": [],
+  "nearby_castles": [
+    "malbork-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Zamek Gniew",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=zamek-gniew&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-gniew.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D30533%26dest_type%3Dlandmark%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786717783%26srpvid%3D477c65e8921f0e07%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 113,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-12",
+    "room_location": "mixed",
+    "amenities": ["pool", "spa", "restaurant"],
+    "how_to_stay": "**Getting there:** In the town of Gniew in Pomerania, on the Vistula, with the castle on a hill above the old town; the hotel complex has its own parking.\n\n**Rooms & rates:** From approx. €113/night for a small double or twin room, and from approx. €134/night for a Deluxe Double with balcony in Hotel Rycerski. Three options on the same hill: the 16 apartments inside the castle (the most atmospheric), the 4-star Hotel Rycerski with 48 rooms, and the 3-star Marysieńka Palace for about 120 guests.\n\n**On-site:** Swimming pool and saunas, spa treatments, restaurant, a bowling alley and a kids' playroom; the castle runs knightly shows and tournaments in season, and breakfast is included in many rates.\n\n**Good to know:** You choose the building when you book: the castle apartments are the true 'sleep in the castle' option, while Hotel Rycerski and Marysieńka Palace are separate buildings within the complex. In high season the castle is busy with events and day visitors.\n\n**Combine with:** The castle itself and its history-park shows, plus [Malbork Castle](/castles/poland/malbork-castle), the world's largest brick castle, within a short drive."
+  }
+}

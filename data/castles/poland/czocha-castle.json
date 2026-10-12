@@ -104,5 +104,18 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zamek Czocha",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamek-czocha&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamekczochalesna.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D23437%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786717674%26srpvid%3Ddd5265b3eb9b0a4a%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 72,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-12",
+    "room_location": "castle",
+    "amenities": ["restaurant"],
+    "how_to_stay": "**Getting there:** On a hill above Lake Leśniańskie in the forested hills of Lower Silesia near the village of Leśna, about 140 km south-west of Wrocław; a car is by far the most practical way to arrive (see How to Visit above).\n\n**Rooms & rates:** Rooms from approx. €72/night with a shared bathroom, or from approx. €112/night with a private bathroom, in the castle and decorated with classical furniture and period accessories; the rooms with private bathroom are small (15–16 m²).\n\n**On-site:** Breakfast is included in the rates seen on Booking, and the castle has a restaurant serving Polish dishes and grilled specialities; the front desk is open 24 hours and can arrange cycling, canoeing and hiking.\n\n**Good to know:** The castle works as a heritage attraction and a hotel at the same time, so day-visitor areas and guest areas coexist; staying overnight is the way to see it after the public tours close. Some rooms have shared bathrooms, so check the room type when you book.\n\n**Combine with:** The guided castle tour with its hidden passages (already described above) and [Książ Castle](/castles/poland/ksiaz-castle), the other big Lower Silesia castle, about 90 km away."
+  }
 }

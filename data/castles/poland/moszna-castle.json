@@ -1,0 +1,87 @@
+{
+  "id": "moszna-castle",
+  "name": "Moszna Castle",
+  "local_name": "Zamek Moszna",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Opole Voivodeship — Upper Silesia (near Prudnik)",
+  "nearest_city": "Prudnik",
+  "address": "Moszna, Opole Voivodeship, Poland",
+  "lat": 50.4408,
+  "lng": 17.7678,
+  "unesco": false,
+  "architectural_style": "A Baroque central palace rebuilt and enlarged after a fire on the night of 2 April 1896, with an eastern neo-Gothic wing and orangery finished by 1900 and a western neo-Renaissance wing added in 1912–1914 — the eclectic mix of towers that gave the estate its popular 'castle of 99 towers' nickname",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A large estate with a palace building and grounds; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The Tiele-Winckler family's Silesian industrial-era seat — a Baroque palace rebuilt after an 1896 fire into the eclectic eastern neo-Gothic and western neo-Renaissance wings known as the 'castle of 99 towers' — now a hotel run by the Opole regional authority",
+  "highlights": [
+    "The family seat of the Silesian industrial Tiele-Winckler family from 1866 to 1945",
+    "A fire on the night of 2 April 1896 partly destroyed the old Baroque central palace",
+    "Franz Hubert von Tiele-Winckler directed the rebuilding: the eastern neo-Gothic wing and an orangery were finished by 1900, and the western neo-Renaissance wing followed in 1912–1914",
+    "Served as a sanatorium after the Second World War",
+    "Run since 2013 by the Moszna Zamek company, owned by the Opole regional Marshal's Office"
+  ],
+  "description": "Moszna Castle stands in the village of Moszna in Opole Voivodeship, Upper Silesia, near Prudnik in south-western Poland — an estate whose present, eclectic silhouette is largely the product of a single rebuilding campaign at the turn of the 20th century. From 1866 to 1945 it was the family seat of the Tiele-Winckler family, Silesian industrialists whose wealth shaped the palace's later expansion.\n\nOn the night of 2 April 1896, a fire partly destroyed the older Baroque central palace. Franz Hubert von Tiele-Winckler directed the rebuilding and enlargement that followed: an eastern neo-Gothic wing and an orangery were completed by 1900, and a western neo-Renaissance wing was added between 1912 and 1914. The result is a building that mixes several historicist styles under one roofline, with the many towers across its wings giving rise to the estate's popular nickname as the 'castle of 99 towers' — a traditional figure describing the whole building, not a precise architectural count.\n\nAfter the Second World War, the castle served as a sanatorium. Since 2013 it has been run by the Moszna Zamek company, owned by the regional Marshal's Office of Opole Voivodeship, operating today as a hotel within the historic building while the wider estate remains a visitor attraction in its own right.\n\nRooms inside the castle are large and simply furnished, several carrying historic names such as the 'Golden Apartment'; one apartment occupies the space where the count's own bedroom once stood.",
+  "history": "The estate became the family seat of the Silesian industrial Tiele-Winckler family, who held it from 1866 until 1945. A fire on the night of 2 April 1896 partly destroyed the old Baroque central palace; Franz Hubert von Tiele-Winckler then directed the rebuilding and enlargement, with the eastern neo-Gothic wing and an orangery finished by 1900 and the western neo-Renaissance wing built in 1912–1914. After the Second World War it served as a sanatorium; since 2013 it is run by the Moszna Zamek company, owned by the regional (Opole) Marshal's Office.",
+  "faqs": [
+    {
+      "question": "Can I stay inside Moszna Castle itself?",
+      "answer": "Yes — the hotel occupies the historic castle building, with large, simply furnished rooms and apartments, some carrying historic names such as the 'Golden Apartment'."
+    },
+    {
+      "question": "Does Moszna Castle really have 99 towers and 365 rooms?",
+      "answer": "The '99 towers and 365 rooms' figure often quoted for Moszna is a traditional description of the whole castle complex, not an independently verified count, and it refers to the estate as a whole rather than to the hotel's own room count."
+    },
+    {
+      "question": "Who owns Moszna Castle today?",
+      "answer": "Since 2013 it has been run by the Moszna Zamek company, which is owned by the regional Marshal's Office of Opole Voivodeship."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/moszna-castle.webp",
+    "alt": "Moszna Castle in Opole Voivodeship, Poland — the Tiele-Winckler family's eclectic Baroque, neo-Gothic and neo-Renaissance palace",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/moszna-castle.webp",
+  "instagram_tag": "#mosznacastle",
+  "meta_title": "Moszna Castle, Poland — Stay in the Castle of 99 Towers",
+  "meta_description": "Stay at Moszna Castle in Upper Silesia, Poland — the Tiele-Winckler family's eclectic palace, rebuilt after an 1896 fire. Rooms from approx. €123/night.",
+  "tags": [
+    "poland",
+    "upper-silesia",
+    "opole",
+    "castle-hotel",
+    "neo-gothic",
+    "neo-renaissance"
+  ],
+  "last_updated": "2026-10-12",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Moszna Zamek",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=moszna-zamek&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fmoszna-zamek-moszna.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D6406763%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786717606%26srpvid%3D17ef65912c6d1610%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 123,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-12",
+    "room_location": "castle",
+    "amenities": ["parking", "wifi"],
+    "how_to_stay": "**Getting there:** In the village of Moszna in Opole Voivodeship, in south-western Poland, reached by road; check access and parking with the hotel.\n\n**Rooms & rates:** Large rooms and apartments inside the castle, from approx. €123/night; the cheapest room (30 m², garden view) has a private bathroom that is outside the room, and a Standard Double of 25 m² starts around €143. Rooms are generous in size and simply furnished, with historic names such as 'Golden Apartment'.\n\n**On-site:** Breakfast is included in the rates seen on Booking, along with one parking spot, late check-in and free Wi-Fi in the rooms; no other services are confirmed.\n\n**Good to know:** The '99 towers and 365 rooms' often quoted for Moszna refer to the whole castle, not to the hotel. The estate is a visitor attraction as well as a hotel, so book in advance for weekends.\n\n**Combine with:** The castle park and the building itself, which are the main attraction of the stay."
+  }
+}
