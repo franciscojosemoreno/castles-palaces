@@ -1,0 +1,88 @@
+{
+  "id": "tykocin-castle",
+  "name": "Tykocin Castle",
+  "local_name": "Zamek w Tykocinie",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Podlaskie Voivodeship — on an island in the Narew river",
+  "nearest_city": "Białystok",
+  "address": "ul. Puchalskiego 3, Tykocin, Podlaskie Voivodeship, Poland",
+  "lat": 53.2131,
+  "lng": 22.7709,
+  "unesco": false,
+  "architectural_style": "A 21st-century reconstruction, built from the foundations using archaeological data and historical sources, of the 16th-century brick royal castle of King Sigismund II Augustus — itself built on the site of an earlier wooden stronghold of the Lithuanian Gasztołd family",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A reconstructed castle on an island in the Narew, with rooms under the roof; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A 21st-century reconstruction of the royal castle where Peter the Great was received by Augustus II the Strong and the Order of the White Eagle was first awarded — now a hotel, museum and restaurant on an island in the Narew",
+  "highlights": [
+    "A wooden stronghold built by the Lithuanian Gasztołd family on an island in the Narew was replaced in the 16th century by a brick royal castle of King Sigismund II Augustus",
+    "Held one of the Commonwealth's largest arsenals at the end of the 16th century",
+    "In November 1705, Augustus II the Strong received Tsar Peter the Great here, and it was here that the Order of the White Eagle was first awarded",
+    "Destroyed in later wars, the castle fell into ruin from 1734 and was dismantled in the 18th century",
+    "Rebuilt from the foundations at the turn of the 21st century, using archaeological data and historical sources; it now houses a museum, a restaurant and guest rooms"
+  ],
+  "description": "Tykocin Castle stands on an island in the Narew river, in the small Podlaskie town of Tykocin. Its history begins with a wooden stronghold built by the Lithuanian Gasztołd family, replaced in the 16th century by a brick royal castle commissioned under King Sigismund II Augustus — a fortress substantial enough to hold one of the Polish–Lithuanian Commonwealth's largest arsenals by the century's end.\n\nThe castle's most celebrated moment came in November 1705, when Augustus II the Strong received Tsar Peter the Great here during the Great Northern War; it was on this same occasion that the Order of the White Eagle, one of Poland's most prestigious honours, was first awarded. The castle's fortunes declined after this high point — it was destroyed in later wars, fell into ruin from 1734, and was ultimately dismantled during the 18th century, leaving only foundations behind.\n\nWhat stands today is an important distinction to make clear: the current castle is a 21st-century reconstruction, built from the foundations using archaeological data and historical sources, rather than a surviving or restored original building. It now combines a museum — with an underground exhibition, a Glass Hall with a reconstructed tiled stove, and the prison tower — with a restaurant and a small number of guest rooms set under the castle roof.\n\nTykocin also has a separate historic hotel in the former Alumnat building, once a military hospital; visitors booking a stay should confirm they are reserving the castle itself rather than this other property in the same town.",
+  "history": "A wooden stronghold built by the Lithuanian Gasztołd family on an island in the Narew was replaced in the 16th century by a brick royal castle of King Sigismund II Augustus; at the end of the 16th century it held one of the Commonwealth's largest arsenals. In November 1705 Augustus II the Strong was received here by Tsar Peter the Great, and it was here that the Order of the White Eagle was first awarded. The castle was destroyed in the wars and from 1734 fell into ruin, and was dismantled in the 18th century; it was rebuilt from the foundations at the turn of the 21st century, using archaeological data and historical sources. It now houses a museum, a restaurant and guest rooms.",
+  "faqs": [
+    {
+      "question": "Is Tykocin Castle an original 16th-century building?",
+      "answer": "No — the original royal castle was dismantled in the 18th century after falling into ruin. The building standing today is a 21st-century reconstruction, built from the foundations using archaeological data and historical sources."
+    },
+    {
+      "question": "Is Tykocin Castle the same as the Alumnat building?",
+      "answer": "No — Tykocin has a separate historic hotel in the former Alumnat building, once a military hospital. Make sure you are booking the castle itself if that's what you want, since both operate as hotels in the same small town."
+    },
+    {
+      "question": "What happened at Tykocin Castle in 1705?",
+      "answer": "In November 1705, Augustus II the Strong received Tsar Peter the Great at the castle, and it was on this occasion that the Order of the White Eagle, one of Poland's most prestigious honours, was first awarded."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/tykocin-castle.webp",
+    "alt": "Tykocin Castle on an island in the Narew river, Podlaskie Voivodeship, Poland — a 21st-century reconstruction of the 16th-century royal castle",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/tykocin-castle.webp",
+  "instagram_tag": "#tykocincastle",
+  "meta_title": "Tykocin Castle, Poland — Reconstructed Royal Castle Hotel",
+  "meta_description": "Stay at Tykocin Castle on the Narew river, Poland — a 21st-century reconstruction of the royal castle, with a museum and restaurant. From approx. €97/night.",
+  "tags": [
+    "poland",
+    "podlaskie",
+    "royal-castle",
+    "castle-hotel",
+    "museum",
+    "reconstruction"
+  ],
+  "last_updated": "2026-10-13",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Zamek w Tykocinie",
+    "non_guest_access_note": "The castle's museum, with an underground exhibition, a Glass Hall and the prison tower, is open to day visitors — check current opening hours.",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamek-w-tykocinie&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-w-tykocinie-tykocin.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1277262%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786718560%26srpvid%3D3d34676d1dde0d3f%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 97,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-13",
+    "room_location": "castle",
+    "amenities": ["restaurant", "museum"],
+    "how_to_stay": "**Getting there:** In the small town of Tykocin in Podlaskie, on an island in the Narew river, reached by road; the castle stands at the edge of the old town.\n\n**Rooms & rates:** From approx. €97/night for an 18 m² double with a private bathroom and a garden view, breakfast included and free cancellation on the rate seen; the rooms are under the castle roof.\n\n**On-site:** Restaurant serving regional Podlasie and Jewish-influenced dishes, a terrace over the courtyard, and a museum with an underground exhibition, a Glass Hall with a reconstructed tiled stove and the prison tower; buffet breakfast is served overlooking the courtyard.\n\n**Good to know:** This is a modern reconstruction built on the foundations of the 16th-century royal castle, not an original building. Tykocin also has a separate hotel in the former Alumnat building, so check you are booking the castle itself.\n\n**Combine with:** The castle museum and the historic old town of Tykocin."
+  }
+}

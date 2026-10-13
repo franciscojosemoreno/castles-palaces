@@ -1,0 +1,91 @@
+{
+  "id": "krasiczyn-castle",
+  "name": "Krasiczyn Castle",
+  "local_name": "Zamek w Krasiczynie",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 18,
+  "country": "poland",
+  "region": "Subcarpathian Voivodeship — near Przemyśl, on the San river",
+  "nearest_city": "Przemyśl",
+  "address": "Krasiczyn 179, Subcarpathian Voivodeship, Poland",
+  "lat": 49.7763,
+  "lng": 22.6498,
+  "unesco": false,
+  "architectural_style": "A square Renaissance castle with four cylindrical corner towers named Divine, Papal, Royal and Noble, richly decorated with sgraffito covering about 3,500 m², begun at the end of the 16th century as a defensive castle and transformed in the early 17th century into a noble residence under Italian architects",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A large Renaissance castle complex with a park; interiors are visited by guided tour, so contact the castle to check current times.",
+  "booking_advance_days": 1,
+  "tagline": "A square Renaissance castle with four named towers covered in 3,500 m² of sgraffito, where Polish kings including Sigismund III Vasa and Augustus II stayed — now a hotel, restaurant and conference complex near Przemyśl",
+  "highlights": [
+    "Begun at the end of the 16th century by Stanisław Krasicki, castellan of Przemyśl, as a defensive castle",
+    "Transformed in the early 17th century by his son Marcin Krasicki, a major art patron, into a magnificent noble residence under Italian architects",
+    "A square building with four cylindrical corner towers named Divine, Papal, Royal and Noble, decorated with sgraffito covering about 3,500 m²",
+    "A chapel in the Divine Tower is compared to the Sigismund Chapel at Wawel",
+    "Polish kings including Sigismund III Vasa, Władysław IV, John II Casimir and Augustus II stayed here; the Sapieha family held it until 1944, and it was restored from 1996 as a hotel, restaurant and conference complex"
+  ],
+  "description": "Krasiczyn Castle is one of the finest Renaissance castles in Poland, standing in a large park on the San river west of Przemyśl. Stanisław Krasicki, castellan of Przemyśl, began it at the end of the 16th century as a defensive castle, but it was his son Marcin Krasicki — a major patron of the arts — who transformed it in the early 17th century into a magnificent noble residence, working with Italian architects to give the castle its present character.\n\nThe result is a square building anchored by four cylindrical corner towers, each given its own name: Divine, Papal, Royal and Noble. The castle's sgraffito decoration, covering roughly 3,500 square metres of its walls, is among the most extensive of its kind in Poland, and the chapel inside the Divine Tower is often compared to the Sigismund Chapel at Wawel Castle in Kraków for its artistic ambition.\n\nKrasiczyn's standing attracted royal visitors across the following century: Polish kings including Sigismund III Vasa, Władysław IV, John II Casimir and Augustus II all stayed at the castle. After passing through several owners, the Sapieha family held Krasiczyn until 1944. In the postwar period it served first as a forestry school and later as a facility connected to a car factory, before the Industrial Development Agency took over the property in 1996 and restored it as the hotel, restaurant and conference complex it is today.\n\nAccommodation at Krasiczyn is split across the castle itself and a separate Carriage House within the grounds, and the castle's historic interiors are shown on guided tours rather than open for free self-guided access.",
+  "history": "Krasiczyn is one of the finest Renaissance castles in Poland. Stanisław Krasicki, castellan of Przemyśl, began it at the end of the 16th century as a defensive castle, and his son Marcin Krasicki, a major art patron, turned it into a magnificent noble residence in the early 17th century under Italian architects. It is a square building with four cylindrical corner towers named Divine, Papal, Royal and Noble, richly decorated with sgraffito covering about 3,500 m², and a chapel in the Divine Tower compared to the Sigismund Chapel at Wawel. Polish kings including Sigismund III Vasa, Władysław IV, John II Casimir and Augustus II stayed here. After several owners the Sapieha family held it until 1944; after the war it housed a forestry school and later a car-factory facility, and in 1996 the Industrial Development Agency took it over and restored it as a hotel, restaurant and conference complex.",
+  "faqs": [
+    {
+      "question": "Why does Krasiczyn Castle have four named towers?",
+      "answer": "The castle's four cylindrical corner towers are named Divine, Papal, Royal and Noble, part of the castle's transformation in the early 17th century under Marcin Krasicki into a richly decorated Renaissance noble residence, with sgraffito covering about 3,500 m² of its walls."
+    },
+    {
+      "question": "Can I visit the castle's interiors without staying overnight?",
+      "answer": "Yes — the historic interiors are shown on guided tours, though opening times vary, so it's worth checking with the castle directly before planning a day visit."
+    },
+    {
+      "question": "Are all the hotel rooms inside Krasiczyn Castle itself?",
+      "answer": "No — accommodation is split between rooms in the castle itself and rooms in a separate Carriage House within the grounds. Check which building a given room is in when you book."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/krasiczyn-castle.webp",
+    "alt": "Krasiczyn Castle near Przemyśl, Poland — a Renaissance castle with four named towers and extensive sgraffito decoration",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/krasiczyn-castle.webp",
+  "instagram_tag": "#krasiczyncastle",
+  "meta_title": "Krasiczyn Castle, Poland — Renaissance Castle Hotel",
+  "meta_description": "Stay at Krasiczyn Castle near Przemyśl, Poland — a Renaissance castle with four named towers and 3,500 m² of sgraffito. From approx. €85/night.",
+  "tags": [
+    "poland",
+    "subcarpathian-voivodeship",
+    "renaissance",
+    "castle-hotel",
+    "sgraffito",
+    "krasicki"
+  ],
+  "last_updated": "2026-10-13",
+  "routes": [],
+  "nearby_castles": [
+    "dubiecko-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Hotel Zamkowy",
+    "non_guest_access_note": "The castle's historic interiors are open to day visitors on guided tours — check current times with the castle.",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamkowy-krasiczyn&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamkowy-krasiczyn.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D304304%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786718654%26srpvid%3Dc369679c16501402%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 85,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-13",
+    "room_location": "mixed",
+    "amenities": ["restaurant", "gardens", "parking"],
+    "how_to_stay": "**Getting there:** In the village of Krasiczyn on the San river, west of Przemyśl along the road to Sanok; the castle stands in a large park.\n\n**Rooms & rates:** From approx. €85/night for a 15 m² twin room in the Carriage House with breakfast included, while double rooms in the castle itself start around €116.\n\n**On-site:** A castle restaurant serving Polish and international dishes, a Renaissance-style café, a large garden with a barbecue area, bike rental, a shuttle service and a 24-hour front desk; free private parking is available and a buffet breakfast is served.\n\n**Good to know:** Rooms are spread across different parts of the castle complex, so check whether you are booking a room in the castle or in the Carriage House. The castle is also a venue for weddings and conferences, and interiors are visited by guided tour, so check opening times with the castle.\n\n**Combine with:** [Dubiecko Castle](/castles/poland/dubiecko-castle), the other castle hotel above the San valley, and the city of Przemyśl."
+  }
+}
