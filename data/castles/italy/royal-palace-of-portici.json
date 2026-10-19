@@ -1,0 +1,96 @@
+{
+  "id": "royal-palace-of-portici",
+  "name": "Royal Palace of Portici",
+  "local_name": "Reggia di Portici",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "italy",
+  "region": "Campania — Portici, Bay of Naples",
+  "nearest_city": "Naples",
+  "lat": 40.8112,
+  "lng": 14.3427,
+  "unesco": false,
+  "built_label": "Begun 1738",
+  "architectural_style": "A Bourbon royal residence begun in 1738 under Giovanni Antonio Medrano, with Antonio Canevari taking over in 1741 and Luigi Vanvitelli and Ferdinando Fuga intervening later; housed the Herculanense Museum from 1758 and is now part of the University of Naples Federico II",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "opening_hours": {
+    "seasonal_note": "Check the official site for current opening hours."
+  },
+  "visit_duration": "At your own pace on the selected date",
+  "best_season": "Year-round",
+  "accessibility": "Contact the site directly regarding specific accessibility requirements.",
+  "booking_advance_days": 0,
+  "tagline": "Charles of Bourbon's royal residence on the Bay of Naples, begun in 1738 near the first excavations of Herculaneum and home to the Herculanense Museum from 1758",
+  "highlights": [
+    "Building began in 1738 for Charles of Bourbon, King of Naples, after the court was drawn to Portici by the discoveries at ancient Herculaneum",
+    "Giovanni Antonio Medrano led the early work, Antonio Canevari replaced him in 1741, and Luigi Vanvitelli and Ferdinando Fuga later intervened; sources give 1742 or 1743 for completion",
+    "The Duke of Elbeuf's digging near his property marked the beginning of the exploration of Herculaneum, and the palace became the seat of the Herculanense Museum, opened in 1758 and a favourite stop on the Grand Tour",
+    "The GetYourGuide ticket covers the Royal Apartments, the Herculanense Museum and the botanical gardens, plus the round-trip train from Naples",
+    "The palace is part of the University of Naples Federico II today"
+  ],
+  "description": "The Royal Palace of Portici sits on the Bay of Naples, begun in 1738 for Charles of Bourbon, King of Naples, after the discoveries at ancient Herculaneum drew the royal court to the area. The Duke of Elbeuf's digging near his own property nearby had already marked the beginning of the exploration of Herculaneum, and Charles chose to build his new residence close to the excavations rather than elsewhere on the bay.\n\nConstruction passed through several architects: Giovanni Antonio Medrano led the early works, Antonio Canevari took over direction in 1741, and Luigi Vanvitelli and Ferdinando Fuga both intervened at later stages. Sources give either 1742 or 1743 as the completion date. The palace became the seat of the Herculanense Museum, opened in 1758 to house finds from Herculaneum and the other Vesuvian sites, and the combination of royal residence and antiquities collection made Portici a destination for Grand Tour travellers visiting Naples.\n\nToday the Royal Palace of Portici is part of the University of Naples Federico II. The GetYourGuide ticket covers entry to the palace, the Royal Apartments, the Herculanense Museum and the botanical gardens on the grounds, alongside a round-trip train ticket from Naples. Some rooms may open only on weekends, so check the official site for which areas are open on the day of your visit.",
+  "history": "Charles of Bourbon, King of Naples, began the palace at Portici in 1738 after the discoveries at ancient Herculaneum drew the court to the area; Giovanni Antonio Medrano led the early works and Antonio Canevari took over in 1741, with Luigi Vanvitelli and Ferdinando Fuga intervening later. The king bought neighbouring villas and extended the site towards the sea. The palace housed the Herculanense Museum, opened in 1758 for finds from the Vesuvian sites and a destination on the Grand Tour. It is now part of the University of Naples Federico II.",
+  "faqs": [
+    {
+      "question": "Why is the Royal Palace of Portici linked to Herculaneum?",
+      "answer": "The Duke of Elbeuf's digging near his property began the exploration of Herculaneum, and Charles of Bourbon's court was drawn to Portici; the palace became the seat of the Herculanense Museum, opened in 1758 to hold the finds."
+    },
+    {
+      "question": "Does the ticket include the train from Naples?",
+      "answer": "Yes. The GetYourGuide ticket includes a round-trip train ticket from Naples, plus entry to the palace, the Royal Apartments, the Herculanense Museum and the botanical gardens."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/royal-palace-of-portici.webp",
+    "alt": "Royal Palace of Portici on the Bay of Naples, Italy — Charles of Bourbon's 18th-century residence, now part of the University of Naples Federico II",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/royal-palace-of-portici.webp",
+  "instagram_tag": "#royalpalaceofportici",
+  "meta_title": "Royal Palace of Portici, Naples — Visitor Guide & Train Ticket",
+  "meta_description": "Visit the Royal Palace of Portici on the Bay of Naples — Charles of Bourbon's residence near Herculaneum. Ticket includes train from Naples.",
+  "tags": [
+    "italy",
+    "campania",
+    "naples",
+    "bourbon",
+    "palace",
+    "herculaneum"
+  ],
+  "last_updated": "2026-10-19",
+  "routes": [],
+  "nearby_castles": [
+    "castel-nuovo",
+    "naples-royal-palace",
+    "royal-palace-of-caserta"
+  ],
+  "gyg_location_id": "162",
+  "gyg_search_query": "Royal Palace of Portici Naples tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1332970",
+      "title": "Naples: Royal Palace of Portici with Train Ticket & Entry",
+      "type": "entry_ticket",
+      "duration": "Valid the selected day, self-paced",
+      "price_from": 19,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/naples-l162/naples-royal-palace-of-portici-trip-with-train-ticket-t1332970/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "royal-palace-of-portici"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

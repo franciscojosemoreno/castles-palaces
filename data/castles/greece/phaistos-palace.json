@@ -1,0 +1,95 @@
+{
+  "id": "phaistos-palace",
+  "name": "Phaistos Palace",
+  "local_name": "Παλάτι της Φαιστού (Phaistos)",
+  "type": "ruins",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "greece",
+  "region": "Crete, Heraklion — ridge above the Messara Plain",
+  "nearest_city": "Heraklion",
+  "lat": 35.0514,
+  "lng": 24.8136,
+  "unesco": false,
+  "built_label": "First palace c. 1850 BC; rebuilt c. 1700 BC",
+  "architectural_style": "A Minoan palace and settlement on a ridge above the Messara Plain in southern Crete, excavated by the Italian School of Athens from 1900 and left largely in its excavated state rather than heavily reconstructed; the second-largest Minoan palace after Knossos",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "opening_hours": {
+    "seasonal_note": "Check the official site for current opening hours."
+  },
+  "visit_duration": "About 2 hours",
+  "best_season": "Year-round",
+  "accessibility": "Wheelchair accessible, per the tour operator.",
+  "booking_advance_days": 0,
+  "tagline": "The second-largest Minoan palace after Knossos, on a hill above the fertile Messara Plain in southern Crete, visited here with its nearby site of Agia Triada",
+  "highlights": [
+    "A Minoan palace and settlement on a ridge above the Messara Plain; the first palace is dated to about 1850 BC and the newer palace to about 1700 BC, though sources vary",
+    "GetYourGuide describes it as the second-largest Minoan palace after Knossos",
+    "Visitors walk through the West Court with its theatral steps and tripartite shrine, the monumental staircase and the Central Court, and see the royal apartments, storerooms and panoramic viewpoints",
+    "Agia Triada, about three kilometres away, is known for the largest cache of Linear A tablets at any Minoan site",
+    "The Italian School of Athens began large-scale excavations at Phaistos in 1900 under Federico Halbherr with Luigi Pernier; the Phaistos Disc was found here, and the site stays largely in its excavated state rather than heavily reconstructed"
+  ],
+  "description": "Phaistos Palace sits on a ridge overlooking the fertile Messara Plain in southern Crete, one of the great Minoan palatial sites and, as GetYourGuide describes it, the second-largest Minoan palace after Knossos. The first palace here is generally dated to about 1850 BC, though some sources place it closer to 2000 BC; sources vary on the exact chronology, and a newer palace was built around 1700 BC after the earlier structure was destroyed.\n\nUnlike the heavily reconstructed palace at Knossos, Phaistos remains largely in its excavated state. Visitors walk through the West Court, with its theatral steps and tripartite shrine, up a monumental staircase to the Central Court, and on to the royal apartments, storerooms and a series of panoramic viewpoints over the surrounding plain. The Phaistos Disc was found here, a famous and still-debated artefact of Minoan archaeology.\n\nAbout three kilometres away lies Agia Triada, a royal villa complex closely tied to Phaistos that may have served as a summer residence or an administrative centre linked to the larger palace. Built with an L-shaped plan around courtyards, with views toward the Libyan Sea, Agia Triada has yielded some of Minoan Crete's best-known finds, including the Harvester Vase, the Boxer Rhyton and the painted sarcophagus now in the Heraklion Archaeological Museum. The Italian School of Athens began large-scale excavations at Phaistos in 1900, led by Federico Halbherr together with Luigi Pernier.",
+  "history": "Phaistos was a Minoan palace and city on a ridge overlooking the Messara Plain in southern Crete. The first palace is dated to about 1850 BC (some sources say about 2000 BC), and an earthquake around 1700 BC destroyed it, after which a new palace was built; it was not rebuilt after a major catastrophe on Crete around 1450 BC. Agia Triada, about three kilometres away, had close ties with Phaistos. The Italian School of Athens began large-scale excavations at Phaistos in 1900 under Federico Halbherr and Luigi Pernier.",
+  "faqs": [
+    {
+      "question": "How old is Phaistos Palace?",
+      "answer": "Its first palace is dated to about 1850 BC (some sources say about 2000 BC), and the newer palace to about 1700 BC; sources differ on the exact dates."
+    },
+    {
+      "question": "Is Agia Triada included in the ticket?",
+      "answer": "Yes. The GetYourGuide ticket includes general entry to both Phaistos and Agia Triada, plus a smartphone audioguide."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/phaistos-palace.webp",
+    "alt": "Phaistos Palace above the Messara Plain, Crete, Greece — the second-largest Minoan palace after Knossos",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/phaistos-palace.webp",
+  "instagram_tag": "#phaistospalace",
+  "meta_title": "Phaistos Palace, Crete — Minoan Site & Agia Triada Ticket",
+  "meta_description": "Visit Phaistos Palace in southern Crete — the second-largest Minoan palace, with entry to nearby Agia Triada and an audioguide included.",
+  "tags": [
+    "greece",
+    "crete",
+    "minoan",
+    "ruins",
+    "archaeology",
+    "agia-triada"
+  ],
+  "last_updated": "2026-10-19",
+  "routes": [],
+  "nearby_castles": [
+    "spinalonga-island-fortress",
+    "fortezza-of-rethymno"
+  ],
+  "gyg_location_id": "181364",
+  "gyg_search_query": "Phaistos Palace Crete tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1512148",
+      "title": "Phaistos Palace & Agia Triada Entry Ticket with Audio Guide",
+      "type": "entry_ticket",
+      "duration": "2 hours",
+      "price_from": 32,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/phaistos-l181364/phaistos-palace-agia-triada-entry-ticket-with-audio-guide-t1512148/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "phaistos-palace"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}

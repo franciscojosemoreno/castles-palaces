@@ -1,0 +1,104 @@
+{
+  "id": "biester-palace",
+  "name": "Biester Palace",
+  "local_name": "Palácio Biester",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "portugal",
+  "region": "Sintra, Lisbon District",
+  "nearest_city": "Lisbon",
+  "lat": 38.7939,
+  "lng": -9.3943,
+  "unesco": false,
+  "built_label": "Begun 1880",
+  "architectural_style": "A late-19th-century Romantic palace conceived in 1880 for a Lisbon theatre impresario, with interiors inspired by 19th-century Alpine chalet architecture, a chapel ceiling by Paul Baudry and ballroom fireplace tiles by Rafael Bordalo Pinheiro, set within five hectares of Romantic gardens with a grotto and waterfalls",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "opening_hours": {
+    "monday": "10:00–20:00",
+    "tuesday": "10:00–20:00",
+    "wednesday": "10:00–20:00",
+    "thursday": "10:00–20:00",
+    "friday": "10:00–20:00",
+    "saturday": "10:00–20:00",
+    "sunday": "10:00–20:00",
+    "seasonal_note": "April–September 10:00–20:00 (last entry 19:00); October–March 10:00–18:30, per GetYourGuide. Check the official site for current hours."
+  },
+  "visit_duration": "1.5 hours, self-guided",
+  "best_season": "Year-round",
+  "accessibility": "Not suitable for wheelchair users, per the tour operator.",
+  "booking_advance_days": 0,
+  "tagline": "A late-19th-century Romantic palace in Sintra, begun in 1880 for a Lisbon theatre impresario and open to visitors since 2022, with richly decorated interiors and five hectares of gardens, a grotto and waterfalls",
+  "highlights": [
+    "Conceived in 1880 by Ernesto Biester, a wealthy Lisbon playwright and theatre impresario, who chose José Luís Monteiro as architect",
+    "Ernesto died the same year and his brother Frederico and Frederico's wife Amélia took over the project; completion is dated to 1907 by Wikipedia, though sources differ",
+    "The chapel ceiling is by Paul Baudry and the ballroom fireplace carries tiles by Rafael Bordalo Pinheiro",
+    "GetYourGuide describes interiors inspired by 19th-century Alpine chalet architecture and five hectares of gardens with a grotto and waterfalls",
+    "Privately owned for most of its history, the palace has been open to visitors since 2022"
+  ],
+  "description": "Biester Palace stands among the Romantic-era estates of Sintra, conceived in 1880 by Ernesto Biester, a wealthy Lisbon playwright and theatre impresario, who commissioned the architect José Luís Monteiro to design it. Ernesto died the same year construction began, and the project passed to his brother Frederico and Frederico's wife Amélia, who saw it through to completion. Wikipedia dates that completion to 1907, though other sources give different years, and some accounts cite additional designers beyond Monteiro — details this page does not attempt to resolve given the disagreement between sources.\n\nThe palace's decoration reflects the wealth and taste of its Lisbon theatrical patron: a chapel ceiling painted by the French artist Paul Baudry, and a ballroom fireplace faced with tiles by Rafael Bordalo Pinheiro, one of Portugal's best-known caricaturists and ceramicists. GetYourGuide, which now sells access to the site, describes interiors inspired by 19th-century Alpine chalet architecture, paired with five hectares of Romantic gardens that include a grotto and waterfalls — a landscaped setting typical of Sintra's hillside estates.\n\nBiester Palace remained in private hands for most of its history and only opened to visitors in 2022. The current visit is self-guided, using a skip-the-line ticket rather than a timed, guided tour, covering both the palace interiors and the surrounding park.",
+  "history": "Ernesto Biester (1828–1880), a wealthy Lisbon playwright and theatre impresario, conceived the palace in 1880 and chose José Luís Monteiro as its architect. Biester died the same year, and his brother Frederico and Frederico's wife Amélia took over the project. Completion is dated to 1907 by Wikipedia, although other sources give different dates. The palace stayed in private hands and has been open to visitors since 2022.",
+  "faqs": [
+    {
+      "question": "Who built Biester Palace?",
+      "answer": "It was conceived in 1880 by Ernesto Biester, a Lisbon playwright and theatre impresario, with José Luís Monteiro as architect; after Ernesto's death the same year his brother Frederico and Frederico's wife Amélia took over, and completion is dated to 1907 although sources differ."
+    },
+    {
+      "question": "Is the visit guided?",
+      "answer": "Not with the GetYourGuide ticket: it is a self-guided, skip-the-line visit to the palace interiors and the park, without a live guide."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/biester-palace.webp",
+    "alt": "Biester Palace in Sintra, Portugal — a late-19th-century Romantic palace with Alpine-chalet-inspired interiors and five hectares of gardens",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/biester-palace.webp",
+  "instagram_tag": "#biesterpalace",
+  "meta_title": "Biester Palace, Sintra — Visitor Guide & Skip-the-Line Ticket",
+  "meta_description": "Visit Biester Palace in Sintra — a Romantic palace begun in 1880, open since 2022, with Alpine-inspired interiors and gardens. Skip-the-line ticket.",
+  "tags": [
+    "portugal",
+    "sintra",
+    "romanticism",
+    "palace",
+    "gardens",
+    "skip-the-line"
+  ],
+  "last_updated": "2026-10-19",
+  "routes": [],
+  "nearby_castles": [
+    "pena-palace",
+    "quinta-da-regaleira",
+    "monserrate-palace",
+    "sintra-national-palace"
+  ],
+  "gyg_location_id": "99",
+  "gyg_search_query": "Biester Palace Sintra tour",
+  "gyg_widget_type": "activities",
+  "gyg_num_results": 4,
+  "gyg_featured_tours": [
+    {
+      "tour_id": "1443709",
+      "title": "Biester Palace and Park Skip-the-Line Ticket",
+      "type": "skip_the_line",
+      "duration": "1.5 hours",
+      "price_from": 28,
+      "rating": null,
+      "reviews": 0,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/sintra-l99/biester-palace-and-park-skip-the-line-ticket-t1443709/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "biester-palace"
+      ]
+    }
+  ],
+  "gyg_direct_link_override": true
+}
