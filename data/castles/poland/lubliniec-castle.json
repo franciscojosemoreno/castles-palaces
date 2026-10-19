@@ -1,0 +1,86 @@
+{
+  "id": "lubliniec-castle",
+  "name": "Lubliniec Castle",
+  "local_name": "Zamek Lubliniec",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Silesia — Lubliniec",
+  "nearest_city": "Lubliniec",
+  "address": "Grunwaldzka 40, 42-700 Lubliniec, Poland",
+  "lat": 50.6662,
+  "lng": 18.6785,
+  "unesco": false,
+  "built_label": "First recorded 1397",
+  "architectural_style": "A castle of the Dukes of Opole, first recorded in 1397 (some sources trace its origins as early as the end of the 13th century), with its present Baroque appearance the result of repeated renovations",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A Baroque castle hotel; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A castle of the Dukes of Opole, first recorded in 1397 and visited by King Władysław IV Vasa in 1638, now a privately owned hotel with a spa",
+  "highlights": [
+    "The castle is first recorded in 1397, when it belonged to Władysław Opolczyk, Duke of Opole; some sources trace it back to the late 13th century",
+    "It belonged to the Dukes of Opole",
+    "King Władysław IV Vasa was received here in 1638",
+    "Its present appearance is Baroque after repeated renovations",
+    "Now a privately owned hotel with a spa and sauna area"
+  ],
+  "description": "Lubliniec Castle, in the Silesian town of the same name, is first recorded in 1397, when it belonged to Władysław Opolczyk, Duke of Opole. Some sources trace the castle's origins back further, to the end of the 13th century, but the exact founding date remains uncertain, so the 1397 record is the firmest reference point available.\n\nThe castle remained associated with the Dukes of Opole, and its most notable recorded royal visit came in 1638, when King Władysław IV Vasa was received here. Over the centuries that followed, repeated renovations gave the castle its present Baroque appearance, replacing whatever earlier medieval character the building may have had.\n\nToday Lubliniec Castle is privately owned and operates as a hotel, with a spa and a sauna area among its amenities.",
+  "history": "Lubliniec Castle is first recorded in 1397, when it belonged to Władysław Opolczyk, Duke of Opole; some sources place its origins as early as the end of the 13th century, so the exact date is uncertain. It belonged to the Dukes of Opole and hosted King Władysław IV Vasa in 1638. Its present Baroque look is the result of repeated renovations, and today it is a privately owned hotel.",
+  "faqs": [
+    {
+      "question": "How old is Lubliniec Castle?",
+      "answer": "It is first recorded in 1397, but some sources trace it to the end of the 13th century, so the exact date is uncertain; its present Baroque look comes from later renovations."
+    },
+    {
+      "question": "Who owned the castle?",
+      "answer": "It belonged to the Dukes of Opole, and it is first recorded when Władysław Opolczyk held it in 1397."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/lubliniec-castle.webp",
+    "alt": "Lubliniec Castle in Silesia, Poland — a castle of the Dukes of Opole, first recorded in 1397, now a Baroque hotel with a spa",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/lubliniec-castle.webp",
+  "instagram_tag": "#lublinieccastle",
+  "meta_title": "Lubliniec Castle, Poland — Baroque Castle Hotel & Spa",
+  "meta_description": "Stay at Lubliniec Castle in Silesia, Poland — a castle of the Dukes of Opole, first recorded in 1397, now a hotel with a spa. From approx. €122/night.",
+  "tags": [
+    "poland",
+    "silesia",
+    "castle-hotel",
+    "baroque",
+    "dukes-of-opole",
+    "spa"
+  ],
+  "last_updated": "2026-10-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Zamek Lubliniec",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=zamek-lubliniec&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-lubliniec-lubliniec.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1786718966%26srpvid%3D1d996839053f0e1b%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 122,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-19",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in Hotel Zamek Lubliniec, the castle hotel at Grunwaldzka 40",
+    "amenities": ["restaurant", "spa"],
+    "how_to_stay": "**Getting there:** At Grunwaldzka 40 in Lubliniec.\n\n**Rooms & rates:** From approx. €122/night for a 15 m² Economy Double Room with a private bathroom, with breakfast included and free cancellation on the rate seen; a 20 m² Deluxe Double starts around €136.\n\n**On-site:** A restaurant and a spa with a sauna area.\n\n**Good to know:** The cheapest rooms are compact (15 m²), so check the room size before booking.\n\n**Combine with:** [More castle hotels in Poland](/castle-hotels/poland)."
+  }
+}

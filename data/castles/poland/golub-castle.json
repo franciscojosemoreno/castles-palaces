@@ -1,0 +1,84 @@
+{
+  "id": "golub-castle",
+  "name": "Golub Castle",
+  "local_name": "Zamek Golubski",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Kuyavian-Pomeranian Voivodeship — Golub-Dobrzyń",
+  "nearest_city": "Toruń",
+  "address": "ul. PTTK 13, 87-400 Golub-Dobrzyń, Poland",
+  "lat": 53.1156,
+  "lng": 19.0497,
+  "unesco": false,
+  "architectural_style": "A brick castle of the Teutonic Order, with its beginnings placed around 1300–1311, remodelled in the Renaissance under Anna Vasa, sister of King Sigismund III, with turrets, decorative attics and larger windows added during her tenure as starosta",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A brick castle also open to day visitors as a museum; contact the castle directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Teutonic brick castle remodelled in the Renaissance for Anna Vasa, sister of King Sigismund III, now with rooms inside its thick walls",
+  "highlights": [
+    "A brick castle of the Teutonic Order in Golub, with its beginnings placed around 1300–1311",
+    "It returned to Poland after the Second Peace of Toruń in 1466 and was administered by a royal starosta",
+    "Anna Vasa, sister of King Sigismund III, was starosta from 1611 to 1625 and is credited with the Renaissance rebuilding, with turrets, decorative attics and larger windows",
+    "Booking describes rooms soundproofed by thick castle walls, with antique-style wooden furniture and views of the river or the courtyard",
+    "Rooms start at around €64 a night, with breakfast available as an extra"
+  ],
+  "description": "Golub Castle, in the town of Golub-Dobrzyń in Kuyavian-Pomeranian Voivodeship, began as a brick fortress of the Teutonic Order, with its origins placed around 1300 to 1311. The castle returned to Polish control after the Second Peace of Toruń in 1466, and from then on it was administered by a royal starosta on the Crown's behalf.\n\nOne of those starostas gave the castle its present character: Anna Vasa, sister of King Sigismund III, held the post from 1611 to 1625 and is credited with a Renaissance rebuilding that added turrets, decorative attics and larger windows to the originally austere Teutonic fortress.\n\nThe castle now operates partly as a hotel and partly as a museum, open to day visitors. Rooms are set within the castle's thick walls, soundproofed by the historic masonry, and furnished in an antique style, with views over the river or the inner courtyard.",
+  "history": "The castle at Golub was built by the Teutonic Order in brick, with its beginnings placed around 1300–1311. After the Second Peace of Toruń in 1466 it returned to Poland and was run by a royal starosta. Anna Vasa, sister of King Sigismund III, held the post from 1611 to 1625 and is credited with the Renaissance rebuilding that added turrets, decorative attics and larger windows.",
+  "faqs": [
+    {
+      "question": "Is breakfast included at Zamek Golubski?",
+      "answer": "Not in the rate we saw; breakfast is offered for about €9 extra per person."
+    },
+    {
+      "question": "Who gave Golub Castle its Renaissance look?",
+      "answer": "Anna Vasa, sister of King Sigismund III, who was starosta of Golub from 1611 to 1625, is credited with the rebuilding."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/golub-castle.webp",
+    "alt": "Golub Castle in Golub-Dobrzyń, Poland — a Teutonic Order brick castle remodelled in the Renaissance under Anna Vasa, now a hotel and museum",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/golub-castle.webp",
+  "instagram_tag": "#golubcastle",
+  "meta_title": "Golub Castle, Poland — Teutonic Castle Hotel & Museum",
+  "meta_description": "Stay at Golub Castle in Golub-Dobrzyń, Poland — a Teutonic brick castle remodelled by Anna Vasa, now a hotel and museum. From approx. €64/night.",
+  "tags": [
+    "poland",
+    "kuyavian-pomeranian",
+    "teutonic-order",
+    "castle-hotel",
+    "renaissance",
+    "anna-vasa"
+  ],
+  "last_updated": "2026-10-19",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Zamek Golubski",
+    "non_guest_access_note": "The castle is also open to day visitors as a museum — check current opening times with the castle.",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=zamek-golubski&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-golubski.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D670163%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786719068%26srpvid%3Dd7c1686be23f03c2%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 64,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-19",
+    "room_location": "castle",
+    "amenities": ["parking", "wifi"],
+    "how_to_stay": "**Getting there:** At ul. PTTK 13 in Golub-Dobrzyń; free private parking is available on site.\n\n**Rooms & rates:** From approx. €64/night for a Twin or Double Room of 18–23 m² with a private bathroom and free Wi-Fi, with free cancellation on the rate seen. Breakfast is not included (about €9 extra).\n\n**On-site:** Private parking, and Wi-Fi in the rooms.\n\n**Good to know:** Rooms are inside the castle's thick walls, with views of the river or the courtyard. Breakfast is charged separately.\n\n**Combine with:** [More castle hotels in Poland](/castle-hotels/poland)."
+  }
+}

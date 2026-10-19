@@ -112,5 +112,19 @@
       ]
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Zamek Bobolice",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamek-bobolice&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-bobolice.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D605753%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786719026%26srpvid%3Dd78b68568a8d1108%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 103,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-19",
+    "room_location": "annex",
+    "room_location_note": "Rooms are in a separate hotel building about 20 m from the castle, in the Eagles' Nests Landscape Park",
+    "amenities": ["parking", "wifi", "restaurant"],
+    "how_to_stay": "Hotel Zamek Bobolice stands in the centre of the Eagles' Nests Landscape Park, about 20 m from Bobolice Castle, with free Wi-Fi and free private parking.\n\n**Getting there:** Hotel Zamek Bobolice is at Bobolice 14, in the Eagles' Nests Landscape Park about 20 m from the castle; the directions already given on this page apply (about 30 km from Częstochowa and 90 km from Kraków by road), and free private parking is available at the hotel.\n\n**Rooms & rates:** From approx. €103/night for a 20 m² Superior Double or Twin with a castle view, with breakfast, one parking spot and late check-in included on the non-refundable rate seen; a rate with free cancellation was around €113.\n\n**On-site:** Free Wi-Fi, free private parking and a restaurant.\n\n**Good to know:** The rooms are in a separate building next to the castle, not inside it, so this is a stay beside the castle rather than a night in its rooms. Only one unit of each room type was left for the dates checked, so book early.\n\n**Combine with:** [Mirów Castle](/castles/poland/mirow-castle) (700 m north), [Ogrodzieniec Castle](/castles/poland/ogrodzieniec-castle) and [Pieskowa Skała Castle](/castles/poland/pieskowa-skala-castle)."
+  }
 }

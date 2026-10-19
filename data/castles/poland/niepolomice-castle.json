@@ -1,0 +1,87 @@
+{
+  "id": "niepolomice-castle",
+  "name": "Niepołomice Castle",
+  "local_name": "Zamek Królewski w Niepołomicach",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lesser Poland — Niepołomice, near Kraków",
+  "nearest_city": "Kraków",
+  "address": "ul. Zamkowa 2, 32-005 Niepołomice, Poland",
+  "lat": 50.0343,
+  "lng": 20.2182,
+  "unesco": false,
+  "built_label": "First recorded 1349",
+  "architectural_style": "A royal hunting lodge founded under Casimir the Great, first documented in 1349 and at first more defensive than residential; rebuilt as a Renaissance residence under the Jagiellonian kings in the mid-16th century, with the castle's top gallery demolished after an 1800 fire and a full restoration carried out between 1991 and 2007",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Renaissance castle around an arcaded courtyard; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A royal castle founded under Casimir the Great as a hunting residence, rebuilt as a Renaissance palace under the Jagiellonians and restored between 1991 and 2007 — now a hotel",
+  "highlights": [
+    "Founded in the mid-14th century under Casimir the Great as a royal hunting lodge, first documented in 1349 and at first more defensive than residential",
+    "Rebuilt as a Renaissance residence under the Jagiellonian kings in the mid-16th century",
+    "Damaged during the Swedish invasions and later used as barracks and a warehouse",
+    "Its top gallery was demolished after a fire in 1800",
+    "Restored between 1991 and 2007; it now houses a hotel in the heart of the town, around an arcaded courtyard"
+  ],
+  "description": "Niepołomice Castle stands in the centre of the town of the same name, near Kraków, founded in the mid-14th century under King Casimir the Great as a royal hunting lodge for the nearby Niepołomice Forest. The earliest surviving document relating to the castle dates from 1349, and the building was at first considerably more defensive in character than residential.\n\nThat character changed under the Jagiellonian kings, who had the castle rebuilt as a Renaissance residence in the mid-16th century, giving it the arcaded courtyard that remains its most recognisable feature today. The castle's fortunes declined in the centuries that followed: Swedish invasions caused damage, and the building was later pressed into service as barracks and as a warehouse rather than a royal residence. A fire in 1800 led to the demolition of its top gallery.\n\nA full restoration carried out between 1991 and 2007 returned the castle to active use, and it now houses a hotel within the historic building, set around its Renaissance courtyard in the heart of Niepołomice.",
+  "history": "Casimir the Great founded the castle at Niepołomice in the mid-14th century as a royal hunting lodge; the earliest surviving document dates from 1349, and it was at first more defensive than residential. Under the Jagiellonian kings it was rebuilt as a Renaissance residence in the mid-16th century. Swedish invasions damaged it, and it later served as barracks and a warehouse; the top gallery was demolished after a fire in 1800. A restoration between 1991 and 2007 returned it to use, and it now houses a hotel.",
+  "faqs": [
+    {
+      "question": "Is Niepołomice a genuine royal castle?",
+      "answer": "Yes. It was founded under Casimir the Great in the mid-14th century and rebuilt as a Renaissance residence under the Jagiellonian kings, though it was damaged, reused as barracks and restored between 1991 and 2007."
+    },
+    {
+      "question": "Are the hotel rooms inside the castle?",
+      "answer": "Booking describes the hotel as located in the Renaissance castle itself."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/niepolomice-castle.webp",
+    "alt": "Niepołomice Castle near Kraków, Poland — a royal hunting lodge founded under Casimir the Great, rebuilt as a Renaissance residence and restored 1991–2007",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/niepolomice-castle.webp",
+  "instagram_tag": "#niepolomicecastle",
+  "meta_title": "Niepołomice Castle, Poland — Royal Castle Hotel near Kraków",
+  "meta_description": "Stay at Niepołomice Castle near Kraków, Poland — Casimir the Great's royal hunting lodge, restored 1991–2007. From approx. €125/night.",
+  "tags": [
+    "poland",
+    "lesser-poland",
+    "krakow",
+    "castle-hotel",
+    "renaissance",
+    "jagiellonian"
+  ],
+  "last_updated": "2026-10-19",
+  "routes": [],
+  "nearby_castles": [
+    "wawel-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zamek Królewski w Niepołomicach",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=zamek-krolewski&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-krolewski-w-niepolomicach.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26srepoch%3D1786718927%26srpvid%3Df3c8682558e20bd7%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 125,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-19",
+    "room_location": "castle",
+    "amenities": ["wifi", "gardens"],
+    "how_to_stay": "**Getting there:** At ul. Zamkowa 2 in the centre of Niepołomice, near Kraków.\n\n**Rooms & rates:** From approx. €125/night for a 25 m² Twin Room with air conditioning and free Wi-Fi, with breakfast included and free cancellation on the rate seen.\n\n**On-site:** Booking describes the hotel as located in a Renaissance castle surrounded by gardens; breakfast is a highlight in guest reviews.\n\n**Good to know:** The castle was restored between 1991 and 2007, so the building is historic but heavily renovated.\n\n**Combine with:** [Wawel Royal Castle](/castles/poland/wawel-castle) in Kraków."
+  }
+}

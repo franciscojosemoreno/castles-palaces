@@ -1,0 +1,87 @@
+{
+  "id": "topacz-castle",
+  "name": "Topacz Castle",
+  "local_name": "Zamek Topacz",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lower Silesia — Ślęza, southern edge of Wrocław",
+  "nearest_city": "Wrocław",
+  "address": "ul. Główna 12, Ślęza, 55-040 Wrocław, Poland",
+  "lat": 51.0346,
+  "lng": 16.9924,
+  "unesco": false,
+  "architectural_style": "A medieval fortified tower surrounded by a moat, with sources placing its origins in the early 14th century; a Renaissance section was added in the 16th century, and an 18th-century manor house stands beside the tower",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A six-building hotel estate with gardens and a pond; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A medieval moated tower and 18th-century manor on the southern edge of Wrocław, restored with private funds as a 4-star hotel and spa with a motor museum in its grounds",
+  "highlights": [
+    "A medieval fortified tower surrounded by a moat; sources place its origins in the early 14th century",
+    "A Renaissance section was added in the 16th century, and an 18th-century manor house stands beside the tower",
+    "The manor was once a residence of Carl von Rath, a pioneer of Lower Silesia's confectionery industry",
+    "Neglected in the communist era, the complex was restored with private funds and finished around 2015",
+    "Today a hotel of six buildings in 50 hectares of grounds with a garden and pond, a boutique spa, a conference centre and a motor museum with more than a hundred vehicles"
+  ],
+  "description": "Topacz Castle stands at Ślęza, on the southern edge of Wrocław, built around a medieval fortified tower surrounded by a moat; sources place the tower's origins in the early 14th century. A popular tradition links the tower to the Knights Templar, but this attribution rests on local legend rather than firm documentary evidence, so it is not stated here as fact.\n\nA Renaissance wing was added to the tower in the 16th century, after the property passed into secular hands, and an 18th-century manor house later joined the older structure. The manor had its own notable resident: Carl von Rath, a pioneer of Lower Silesia's confectionery industry, lived there.\n\nThe estate fell into neglect during the communist era, and the complex was eventually restored using private funds; one source gives around 2015 as the point the restoration was completed. Topacz today operates as a hotel spanning six buildings across 50 hectares of grounds, with a garden and a pond, a boutique spa, a conference centre and a motor museum displaying more than a hundred vehicles.",
+  "history": "Topacz began as a medieval fortified tower with a moat at Ślęza, on what is now the southern edge of Wrocław; sources place its origins in the early 14th century. A Renaissance section was added in the 16th century after the property passed to secular owners, and an 18th-century manor house later joined the tower. Carl von Rath, a pioneer of the Lower Silesian confectionery industry, lived in the manor. The complex was neglected in the communist era and was restored with private funds, with one source giving 2015 as the end of the work. Today it is a hotel with a conference centre, a boutique spa and a motor museum.",
+  "faqs": [
+    {
+      "question": "Are the rooms inside the medieval tower?",
+      "answer": "No. Rooms are in separate buildings of the estate (Rządcówka and Domek Ogrodnika); the tower and manor are part of the same complex."
+    },
+    {
+      "question": "Who restored Topacz?",
+      "answer": "After decades of neglect in the communist era, the complex was restored with private funds; one source gives 2015 as the end of the work."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/topacz-castle.webp",
+    "alt": "Topacz Castle at Ślęza on the southern edge of Wrocław, Poland — a medieval moated tower beside an 18th-century manor, now a hotel and motor museum",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/topacz-castle.webp",
+  "instagram_tag": "#topaczcastle",
+  "meta_title": "Topacz Castle, Poland — Spa Hotel & Motor Museum",
+  "meta_description": "Stay at Topacz Castle near Wrocław, Poland — a medieval moated tower and manor, now a 4-star hotel with a spa and motor museum. From approx. €165/night.",
+  "tags": [
+    "poland",
+    "lower-silesia",
+    "wroclaw",
+    "castle-hotel",
+    "spa",
+    "motor-museum"
+  ],
+  "last_updated": "2026-10-19",
+  "routes": [],
+  "nearby_castles": [
+    "ksiaz-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zamek Topacz",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamek-topacz&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-topacz.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D339473%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786718856%26srpvid%3D14486802d63810a4%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 165,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-19",
+    "room_location": "annex",
+    "room_location_note": "Rooms are in separate buildings of the estate (Rządcówka and Domek Ogrodnika) rather than in the castle tower",
+    "amenities": ["wifi", "restaurant", "spa", "pool"],
+    "how_to_stay": "**Getting there:** In Ślęza at ul. Główna 12, on the southern edge of Wrocław.\n\n**Rooms & rates:** From approx. €165/night for a 20 m² Standard Double or Twin in the Rządcówka building, with air conditioning, free Wi-Fi and breakfast included on the rate seen; rooms in the Domek Ogrodnika building start around €176. Booking sometimes shows time-limited discounts on these rates.\n\n**On-site:** A restaurant, a spa with an indoor pool, a motor museum, conference facilities and 50 hectares of grounds with a garden and a pond.\n\n**Good to know:** Rooms are in separate buildings of the estate rather than in the medieval tower itself. It is a spa and conference hotel, so check for events if you want a quiet stay.\n\n**Combine with:** [Książ Castle](/castles/poland/ksiaz-castle), the large Lower Silesian castle to the south-west."
+  }
+}
