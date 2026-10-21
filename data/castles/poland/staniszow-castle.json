@@ -1,0 +1,87 @@
+{
+  "id": "staniszow-castle",
+  "name": "Staniszów Palace",
+  "local_name": "Pałac Staniszów",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lower Silesia — Staniszów, Jelenia Góra Valley",
+  "nearest_city": "Jelenia Góra",
+  "address": "Staniszów 100, 58-500 Jelenia Góra, Poland",
+  "lat": 50.8443,
+  "lng": 15.7417,
+  "unesco": false,
+  "built_label": "End of the 18th century",
+  "architectural_style": "A late-Baroque, two-storey palace of rectangular plan, dated by a hotel listing to the end of the 18th century, with two wings added in the middle of the 19th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored palace operating as a hotel with an indoor pool; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A late-Baroque palace from the end of the 18th century in the Jelenia Góra Valley, part of a palace-and-park complex recognised as a Polish Monument of History — now a hotel with an indoor pool and spa access",
+  "highlights": [
+    "A late-Baroque, two-storey palace of rectangular plan, dated by a hotel listing to the end of the 18th century",
+    "Two wings were added to the main building in the middle of the 19th century",
+    "The palace-and-park complex at Staniszów Górny 100 is on the list of the Palaces and landscape parks of the Jelenia Góra Valley recognised as a Polish Monument of History",
+    "Today a hotel with an indoor swimming pool, with unlimited spa access and a parking spot included on the rate seen",
+    "Set in parkland in the Jelenia Góra Valley, with free on-site parking and electric charging"
+  ],
+  "description": "Staniszów Palace is a late-Baroque, two-storey building of rectangular plan, dated by a hotel listing to the end of the 18th century. Two wings were added to the main building in the middle of the 19th century.\n\nThe palace-and-park complex at Staniszów Górny 100 is on the list of the Palaces and landscape parks of the Jelenia Góra Valley recognised as a Polish Monument of History.\n\nThe palace now operates as a hotel, with an indoor swimming pool and spa access included on the rate seen, set in parkland in the Jelenia Góra Valley.",
+  "history": "Staniszów Palace is a late-Baroque, two-storey building of rectangular plan, dated by a hotel listing to the end of the 18th century; two wings were added to the main building in the middle of the 19th century. The palace-and-park complex at Staniszów Górny 100 is on the list of the Palaces and landscape parks of the Jelenia Góra Valley recognised as a Polish Monument of History. It now operates as a hotel.",
+  "faqs": [
+    {
+      "question": "Is Staniszów Palace a heritage monument?",
+      "answer": "The palace-and-park complex at Staniszów Górny 100 is on the list of the Palaces and landscape parks of the Jelenia Góra Valley recognised as a Polish Monument of History."
+    },
+    {
+      "question": "When was Staniszów Palace built?",
+      "answer": "A hotel listing dates the late-Baroque palace to the end of the 18th century, with two wings added in the middle of the 19th century."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/staniszow-castle.webp",
+    "alt": "Staniszów Palace in the Jelenia Góra Valley, Lower Silesia, Poland — a late-Baroque palace from the end of the 18th century, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/staniszow-castle.webp",
+  "instagram_tag": "#staniszowpalace",
+  "meta_title": "Staniszów Palace, Poland — Jelenia Góra Valley Hotel",
+  "meta_description": "Stay at Staniszów Palace in the Jelenia Góra Valley, Lower Silesia, Poland — a late-Baroque 18th-century palace with an indoor pool. From approx. €137/night.",
+  "tags": [
+    "poland",
+    "lower-silesia",
+    "jelenia-gora-valley",
+    "castle-hotel",
+    "baroque",
+    "monument-of-history"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [
+    "karpniki-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Palac Staniszow",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=palac-staniszow&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpalacstaniszow.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D87232%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786721957%26srpvid%3Db9616e10b8360ae7%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 137,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-21",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in Hotel Palac Staniszow, the palace hotel at Staniszów 100",
+    "amenities": ["parking", "wifi", "pool", "spa"],
+    "how_to_stay": "**Getting there:** At Staniszów 100, in the Jelenia Góra Valley in Lower Silesia.\n\n**Rooms & rates:** From approx. €137/night for a 22 m² Standard Double Room with a queen bed, a view, a private bathroom and a flat-screen TV, with breakfast, unlimited spa access and one parking spot included on the non-refundable rate seen, taxes included. A rate with free cancellation was around €144.\n\n**On-site:** An indoor swimming pool, spa access included on the rate seen, on-site parking with electric charging and free Wi-Fi.\n\n**Good to know:** The rate seen is non-refundable, so check the free-cancellation option if your plans may change. The palace is a historic building converted to a hotel; its recognition as part of a Monument of History applies to the palace-and-park complex.\n\n**Combine with:** [Karpniki Castle](/castles/poland/karpniki-castle), another castle hotel in the Jelenia Góra Valley."
+  }
+}

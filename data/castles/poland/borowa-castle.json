@@ -1,0 +1,85 @@
+{
+  "id": "borowa-castle",
+  "name": "Borowa Palace",
+  "local_name": "Pałac Borowa",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lower Silesia — Borowa, Długołęka Municipality, near Wrocław",
+  "nearest_city": "Wrocław",
+  "address": "Lipowa 34, 55-093 Borowa, Poland",
+  "lat": 51.1901,
+  "lng": 17.2772,
+  "unesco": false,
+  "built_label": "Late 18th century (sources differ)",
+  "architectural_style": "A Silesian palace described as an 18th-century residence of the von Schwerin family; one regional guide says it began as a 16th-century Renaissance building on a moated island, rebuilt in the Baroque style in the 18th century, with a tower and annexes added around 1900",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored palace operating as a hotel in a landscape park; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Silesian palace of the von Schwerin family, built in the 18th century (some sources say it has Renaissance origins), with a tower added around 1900 and set in a landscape park — now a hotel",
+  "highlights": [
+    "The palace is described as an 18th-century residence of the von Schwerin family; sources differ on its origins, with one regional guide describing a 16th-century Renaissance building on a moated island that was rebuilt in the Baroque style in the 18th century",
+    "A tower and annexes were added at the turn of the 19th and 20th centuries",
+    "The von Schwerin family owned it until 1945; one source dates their ownership to 1756–1945",
+    "In 1943–1944 it was used to store crates from the Staatsarchiv Breslau and the Silesian Museum (the Grundmann hiding place); part of the collection was dispersed or lost after the war",
+    "After the war it housed Soviet troops, then a state-farm (PGR) office and a school until 2005; a private investor restored it, finishing in February 2009",
+    "It sits in a landscape park on islands between rivers and canals, and is listed in the register of monuments"
+  ],
+  "description": "Borowa Palace is described as an 18th-century residence of the von Schwerin family, which owned it until 1945; sources differ on its origins, and one regional guide says it began as a 16th-century Renaissance building on a moated island that was rebuilt in the Baroque style in the 18th century. A tower and annexes were added at the turn of the 19th and 20th centuries.\n\nIn 1943 crates of valuable items from the Staatsarchiv Breslau and the Silesian Museum, along with private collections, began to be brought to the palace, one of the hiding places organised by Günther Grundmann; part of the collection was removed in December 1944, and much of the rest was dispersed, looted or destroyed after the war. After 1945 the palace housed Soviet troops, and from 1969 it passed to a state farm (PGR) with offices and common rooms; later it housed a school that operated until 2005.\n\nIn 2005 the municipality of Długołęka sold it; a private investor began a thorough restoration in 2007, completed on 5 February 2009, to turn it into a hotel and conference centre set in a landscape park.",
+  "history": "Borowa Palace is described as an 18th-century residence of the von Schwerin family, which owned it until 1945; sources differ on its origins, and one regional guide says it began as a 16th-century Renaissance building on a moated island that was rebuilt in the Baroque style in the 18th century. A tower and annexes were added at the turn of the 19th and 20th centuries. In 1943 crates of valuable items from the Staatsarchiv Breslau and the Silesian Museum, along with private collections, began to be brought to the palace, one of the hiding places organised by Günther Grundmann; part of the collection was removed in December 1944, and much of the rest was dispersed, looted or destroyed after the war. After 1945 the palace housed Soviet troops, and from 1969 it passed to a state farm (PGR) with offices and common rooms; later it housed a school that operated until 2005. In 2005 the municipality of Długołęka sold it; a private investor began a thorough restoration in 2007, completed on 5 February 2009, to turn it into a hotel and conference centre.",
+  "faqs": [
+    {
+      "question": "How old is Borowa Palace?",
+      "answer": "Sources differ: one describes it as an 18th-century von Schwerin palace, while a regional guide says it began as a 16th-century Renaissance building that was rebuilt in the Baroque style in the 18th century. A tower and annexes were added around 1900."
+    },
+    {
+      "question": "Is breakfast included at Pałac Borowa?",
+      "answer": "Not on the rate we saw; breakfast is offered for about €9 extra."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/borowa-castle.webp",
+    "alt": "Borowa Palace near Wrocław, Lower Silesia, Poland — a Silesian palace of the von Schwerin family, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/borowa-castle.webp",
+  "instagram_tag": "#borowapalace",
+  "meta_title": "Borowa Palace, Poland — Lower Silesia Castle Hotel",
+  "meta_description": "Stay at Borowa Palace near Wrocław, Lower Silesia, Poland — a von Schwerin family palace in a landscape park. From approx. €66/night.",
+  "tags": [
+    "poland",
+    "lower-silesia",
+    "castle-hotel",
+    "landscape-park",
+    "near-wroclaw"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pałac Borowa Rezydencja",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=palac-borowa&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpalac-borowa-borowa.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D1274013%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 66,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-21",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in Pałac Borowa Rezydencja, the palace hotel at Lipowa 34",
+    "amenities": ["parking", "wifi"],
+    "how_to_stay": "**Getting there:** At Lipowa 34 in Borowa, in Długołęka Municipality near Wrocław, in Lower Silesia; Booking lists free private parking.\n\n**Rooms & rates:** From approx. €66/night for a 25 m² Double Room with two twin beds, a garden view, a private bathroom and free Wi-Fi, on the non-refundable rate seen (pay online); about €5 in taxes is shown separately. A rate with free cancellation was around €73. Breakfast is not included (about €9 extra).\n\n**On-site:** Free private parking and free Wi-Fi.\n\n**Good to know:** Breakfast is charged separately. The palace was used as a state-farm office and a school after the Second World War and was restored in 2007–2009, so expect a historic building that has been remodelled several times.\n\n**Combine with:** [More castle hotels in Poland](/castle-hotels/poland)."
+  }
+}
