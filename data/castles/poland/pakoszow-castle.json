@@ -1,0 +1,89 @@
+{
+  "id": "pakoszow-castle",
+  "name": "Pakoszów Palace",
+  "local_name": "Pałac Pakoszów (Schloss Wernersdorf)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lower Silesia — Pakoszów, Piechowice, Jelenia Góra Valley",
+  "nearest_city": "Jelenia Góra",
+  "address": "ul. Zamkowa 3, 58-573 Piechowice, Poland",
+  "lat": 50.8566,
+  "lng": 15.6270,
+  "unesco": false,
+  "built_label": "1725 (sources differ)",
+  "architectural_style": "A Baroque palace on a rectangular plan with a mansard roof, raised in 1725 according to the European Route of Castles and Palaces (another source gives 1720)",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Baroque palace operating as a hotel with an indoor pool and spa; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Baroque palace raised in 1725 for a mayor of Jelenia Góra, later a linen-bleaching works where Frederick II of Prussia is recorded as a guest — now a five-star hotel with an indoor pool and spa",
+  "highlights": [
+    "According to the European Route of Castles and Palaces, the palace was raised in 1725 at the initiative of Johann Martin Gottfried, mayor of Jelenia Góra, on a rectangular plan with a mansard roof; another source gives 1720, so dates differ",
+    "Frederick II, king of Prussia, is said to have stayed in the palace three times",
+    "From 1771 it belonged to Heinrich Hess, a merchant and director of a sugar refinery in Jelenia Góra, who also used it as a linen-bleaching works after a 1777 water privilege; it became known as the Hess Bleaching Factory",
+    "After years of neglect it was bought by the grandson of the last pre-war owner and restored as a hotel and restaurant",
+    "It has an indoor swimming pool and a wellness area, and the palace can be visited with a guide after prior reservation"
+  ],
+  "description": "The palace at Pakoszów stands in the Jelenia Góra basin, long known for its linen trade. According to the European Route of Castles and Palaces it was raised in 1725 at the initiative of Johann Martin Gottfried, mayor of Jelenia Góra, on a rectangular plan with a mansard roof; another source gives 1720.\n\nFrederick II, king of Prussia, is said to have stayed in the palace three times. From 1771 it belonged to Heinrich Hess, a merchant and director of a sugar refinery in Jelenia Góra. Besides serving as a residence, it was used as a linen-bleaching works after Frederick II granted a water privilege in 1777 allowing the use of water from the nearby Kamienna river, and it came to be called the Hess Bleaching Factory.\n\nAfter many years of neglect, the building was bought by the grandson of the last pre-war owner, and it now houses a five-star hotel with a restaurant, an indoor swimming pool and a wellness area. The palace can be visited with a guide after prior reservation.",
+  "history": "The palace at Pakoszów (German: Schloss Wernersdorf), today part of Piechowice, was raised in 1725 at the initiative of Johann Martin Gottfried, mayor of Jelenia Góra, according to the European Route of Castles and Palaces; another source gives 1720. It was built on a rectangular plan with a mansard roof, and Frederick II of Prussia is said to have stayed there three times. From 1771 the palace belonged to Heinrich Hess, a merchant and director of a sugar refinery in Jelenia Góra. Besides serving as a residence, it was used as a linen-bleaching works after Frederick II granted a water privilege in 1777 allowing the use of water from the nearby Kamienna river, and it came to be called the Hess Bleaching Factory. After many years of neglect and destruction, the building was bought by the grandson of the last pre-war owner, and it now houses a hotel and a restaurant.",
+  "faqs": [
+    {
+      "question": "Can you visit Pakoszów Palace without staying?",
+      "answer": "According to the European Route of Castles and Palaces, the palace can be visited with a guide after prior reservation."
+    },
+    {
+      "question": "Who built Pakoszów Palace?",
+      "answer": "It was raised in 1725 at the initiative of Johann Martin Gottfried, mayor of Jelenia Góra, according to the European Route of Castles and Palaces; another source gives 1720."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/pakoszow-castle.webp",
+    "alt": "Pakoszów Palace in the Jelenia Góra Valley, Lower Silesia, Poland — a Baroque palace raised in 1725, now a five-star hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/pakoszow-castle.webp",
+  "instagram_tag": "#pakoszowpalace",
+  "meta_title": "Pakoszów Palace, Poland — Jelenia Góra Valley Spa Hotel",
+  "meta_description": "Stay at Pakoszów Palace in the Jelenia Góra Valley, Lower Silesia, Poland — a Baroque palace raised in 1725. From approx. €131/night.",
+  "tags": [
+    "poland",
+    "lower-silesia",
+    "jelenia-gora-valley",
+    "castle-hotel",
+    "baroque",
+    "spa"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [
+    "wojanow-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Pałac Pakoszów Schlosshotel Wernersdorf",
+    "non_guest_access_note": "According to the European Route of Castles and Palaces, the palace can be visited with a guide after prior reservation.",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=palac-pakoszow&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpaaac-pakoszow.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D364020%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786722308%26srpvid%3D6f686ebf96100589%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 131,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-21",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in Pałac Pakoszów Schlosshotel Wernersdorf, the palace hotel at ul. Zamkowa 3",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "pool"],
+    "how_to_stay": "**Getting there:** At ul. Zamkowa 3 in Pakoszów, part of Piechowice, in the Jelenia Góra Valley in Lower Silesia; Booking lists on-site parking with electric charging.\n\n**Rooms & rates:** From approx. €131/night for a 20 m² Standard Double Room with garden and mountain views, a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast and unlimited spa access included on the non-refundable rate seen; about €1 in taxes is shown separately. A rate with free cancellation was around €137.\n\n**On-site:** An indoor swimming pool and wellness area, a restaurant, on-site parking and free Wi-Fi.\n\n**Good to know:** The rate seen is non-refundable, so check the free-cancellation option if your plans may change. According to the European Route of Castles and Palaces the palace can be visited with a guide after prior reservation.\n\n**Combine with:** [Wojanów Palace](/castles/poland/wojanow-castle), another palace hotel in the Jelenia Góra Valley."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "mortegi-castle",
+  "name": "Mortęgi Palace",
+  "local_name": "Pałac Mortęgi",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Warmia-Masuria — Mortęgi, near Lubawa",
+  "nearest_city": "Lubawa",
+  "address": "Mortęgi 3, 14-260 Lubawa, Poland",
+  "lat": 53.4561,
+  "lng": 19.7267,
+  "unesco": false,
+  "built_label": "Mid-19th century",
+  "architectural_style": "A palace and park built around the middle of the 19th century on an estate with medieval origins, with farm buildings described as older than the palace",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored palace operating as a hotel with a spa; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A mid-19th-century palace and park on a village estate with roots in the 14th century, owned by the Geiger family from 1880 to 1945 — now a four-star hotel and spa, a member of Historic Hotels of Europe",
+  "highlights": [
+    "In the 14th century Mortęgi was a noble village; it gave its name to the Mortęski family, which included two voivodes of Chełmno and Magdalena Mortęska, who founded a boarding school for girls in Chełmno",
+    "The palace and park date from around the middle of the 19th century, and the farm buildings on the estate are described as older",
+    "The Geiger family owned the estate from 1880 to 1945",
+    "After 1945 the palace housed a people's university, then offices of an agricultural cooperative until 2013, along with a primary school and a kindergarten for shorter periods",
+    "Since 2013 it has been owned by Alina and Jan Szynaka, who restored it as a hotel; it is a member of Historic Hotels of Europe",
+    "The spa is in historic chambers, with a jacuzzi, a pool and several saunas, and the Szlachecka Restaurant is in the manor house"
+  ],
+  "description": "Mortęgi was a noble village in the 14th century and the seat of the Mortęski family, including two voivodes of Chełmno and Magdalena Mortęska, born in 1554, who founded a boarding school for noble and townswomen's daughters at a convent in Chełmno. The estate passed to the Żaliński family in 1615–1630, then to Stanisław II Działyński; from 1667 it belonged to Stanisław Narzymski and later passed into German hands.\n\nThe palace and park were built around the middle of the 19th century. The Geiger family owned Mortęgi from 1880 to 1945. After the estate was parcelled out in 1945 the palace stood empty until 1947, then housed a people's university until 1950. From 1950 to 2013 it held offices of an agricultural production cooperative, with a primary school in 1950–1960 and a kindergarten in 1977–1979.\n\nIn 2013 the palace was bought by Alina and Jan Szynaka, who restored its history and that of its estate buildings. Today it is a four-star hotel set in a park, with the Szlachecka Restaurant in the manor house and a palace spa in historic chambers with a jacuzzi, a pool and several saunas. It is a member of Historic Hotels of Europe.",
+  "history": "Mortęgi was a noble village in the 14th century and the seat of the Mortęski family, including two voivodes of Chełmno and Magdalena Mortęska (born 1554), who founded a boarding school for noble and townswomen's daughters at a convent in Chełmno. The estate passed to the Żaliński family in 1615–1630, then to Stanisław II Działyński; from 1667 it belonged to Stanisław Narzymski and later passed into German hands. The palace and park were built around the middle of the 19th century. The Geiger family owned Mortęgi from 1880 to 1945. After the estate was parcelled out in 1945 the palace stood empty until 1947, then housed a people's university until 1950. From 1950 to 2013 it held offices of an agricultural production cooperative, with a primary school in 1950–1960 and a kindergarten in 1977–1979. In 2013 it was bought by Alina and Jan Szynaka, who set out to restore the history of the palace and its estate buildings.",
+  "faqs": [
+    {
+      "question": "How old is Mortęgi Palace?",
+      "answer": "The palace and park were built around the middle of the 19th century, on an estate that dates back to the 14th century."
+    },
+    {
+      "question": "Does the hotel have a spa?",
+      "answer": "Yes. The palace spa is in historic chambers and includes a jacuzzi, a pool and several saunas, and unlimited spa access was included on the rate we saw."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mortegi-castle.webp",
+    "alt": "Mortęgi Palace near Lubawa, Warmia-Masuria, Poland — a mid-19th-century palace on a medieval estate, now a hotel and spa",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mortegi-castle.webp",
+  "instagram_tag": "#mortegipalace",
+  "meta_title": "Mortęgi Palace, Poland — Warmia-Masuria Hotel & Spa",
+  "meta_description": "Stay at Mortęgi Palace near Lubawa, Warmia-Masuria, Poland — a mid-19th-century palace on a 14th-century estate. From approx. €119/night.",
+  "tags": [
+    "poland",
+    "warmia-masuria",
+    "castle-hotel",
+    "spa",
+    "historic-hotels-of-europe"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Palac Mortęgi Hotel & SPA",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=palac-mortegi&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpalac-mortegi-amp-spa.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1859296%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786722499%26srpvid%3Db9616f1eb836126d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 119,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-21",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at Palac Mortęgi Hotel & SPA, Mortęgi 3; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "pool"],
+    "how_to_stay": "**Getting there:** At Mortęgi 3, near Lubawa, in Warmia-Masuria.\n\n**Rooms & rates:** From approx. €119/night for a 20 m² Comfort Double or Twin Room with air conditioning, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast, unlimited spa access and one parking spot included; taxes included. Free cancellation applied before 2:00 PM on 24 November on the rate seen, with no prepayment. A rate that includes dinner as well as breakfast was around €188.\n\n**On-site:** The Szlachecka Restaurant in the manor house, a palace spa in historic chambers with a jacuzzi, a pool and several saunas, on-site parking and free Wi-Fi.\n\n**Good to know:** The estate includes the palace and older farm buildings, so ask the hotel which building your room is in. Booking noted that Genius discounts may apply.\n\n**Combine with:** [More castle hotels in Poland](/castle-hotels/poland)."
+  }
+}

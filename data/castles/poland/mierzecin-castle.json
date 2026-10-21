@@ -1,0 +1,86 @@
+{
+  "id": "mierzecin-castle",
+  "name": "Mierzęcin Palace",
+  "local_name": "Pałac Mierzęcin",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lubusz — Mierzęcin, near Dobiegniew",
+  "nearest_city": "Dobiegniew",
+  "address": "Mierzęcin 1, 66-520 Dobiegniew, Poland",
+  "lat": 52.9571,
+  "lng": 15.8348,
+  "unesco": false,
+  "built_label": "1861–1863",
+  "architectural_style": "An English Neo-Gothic palace built in 1861–1863, with an octagonal tower and balconies decorated with terracotta eagles, set in a landscape park with Arcadian features; Friedrich Hitzig is said to have designed it",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Neo-Gothic palace operating as a resort with an indoor pool and spa; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "An English Neo-Gothic palace built in 1861–1863 for Robert Friedrich von Waldow, with an octagonal tower and a landscape park, restored after decades as an orphanage and state farm — now a wellness and wine resort",
+  "highlights": [
+    "The Mierzęcin estate appears in medieval sources, and passed from the von Osten family to the von Kramme family in 1608, the von Sydow family in 1715 and later the von Waldow family",
+    "The palace, the family seat, was built in 1861–1863 for Robert Friedrich von Waldow in the English Neo-Gothic style, with an octagonal tower and balconies decorated with terracotta eagles; Friedrich Hitzig is said to have designed it",
+    "It stands in a landscape park with Arcadian features, and a distillery and manor complex were added in the early 20th century",
+    "After 1945 it served as an orphanage for children with disabilities run by nuns, then a state orphanage until 1959, then offices, a kindergarten and flats of a state farm until 1992",
+    "The NOVOL company bought it on 9 July 1998 and restored it in 1999–2001; the official opening took place on 13 September 2002",
+    "It is a member of Historic Hotels of Europe and has an indoor pool, a Grape SPA & Wellness area and a vineyard"
+  ],
+  "description": "Mierzęcin appears in medieval sources, when the land was granted to the von Osten family; the von Kramme family took over in 1608, and the von Sydow family bought the estate in 1715 and contributed to building a brick church that still stands. The von Waldow family then purchased and developed the estate.\n\nThe palace, the family seat, was built in 1861–1863 for Robert Friedrich von Waldow in the English Neo-Gothic style, with an octagonal tower, balconies with balustrades and terracotta eagles, in a landscape park; Friedrich Hitzig is said to have been the designer. At the start of the 20th century a distillery and a manor complex were added. The palace and manor buildings survived the Second World War nearly untouched and became the property of the Polish Treasury.\n\nFrom 1945 to 1952 the palace was an orphanage for children with disabilities run by nuns, then a state orphanage until 1959, then, until 1992, part of a state farm with offices, a kindergarten, a club and flats. After nearly six years of neglect, the palace and the manor were bought on 9 July 1998 by NOVOL; they were renovated in 1999–2001 as a leisure centre for employees and a hotel, and the palace officially opened on 13 September 2002. Today it operates as a wellness and wine resort with an indoor pool, a Grape SPA & Wellness area, a vineyard and restaurants, and is a member of Historic Hotels of Europe.",
+  "history": "Mierzęcin appears in medieval sources, when the land was granted to the von Osten family; the von Kramme family took over in 1608, and the von Sydow family bought the estate in 1715 and contributed to building a brick church that still stands. The von Waldow family then purchased and developed the estate. The palace, the family seat, was built in 1861–1863 for Robert Friedrich von Waldow in the English Neo-Gothic style, with an octagonal tower, balconies with balustrades and terracotta eagles, in a landscape park; Friedrich Hitzig is said to have been the designer. At the start of the 20th century a distillery and a manor complex were added. The palace and manor buildings survived the Second World War nearly untouched and became the property of the Polish Treasury. From 1945 to 1952 the palace was an orphanage for children with disabilities run by nuns, then a state orphanage until 1959, then, until 1992, part of a state farm with offices, a kindergarten, a club and flats. After nearly six years of neglect, the palace and the manor were bought on 9 July 1998 by NOVOL; they were renovated in 1999–2001 as a leisure centre for employees and a hotel, and the palace officially opened on 13 September 2002.",
+  "faqs": [
+    {
+      "question": "When was Mierzęcin Palace built?",
+      "answer": "Between 1861 and 1863, for Robert Friedrich von Waldow, in the English Neo-Gothic style."
+    },
+    {
+      "question": "What was the palace used for after the war?",
+      "answer": "From 1945 it was an orphanage and then a state orphanage until 1959, and then part of a state farm until 1992; it was restored in 1999–2001 and officially opened as a hotel on 13 September 2002."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mierzecin-castle.webp",
+    "alt": "Mierzęcin Palace near Dobiegniew, Lubusz, Poland — an English Neo-Gothic palace built in 1861–1863, now a wellness and wine resort",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mierzecin-castle.webp",
+  "instagram_tag": "#mierzecinpalace",
+  "meta_title": "Mierzęcin Palace, Poland — Neo-Gothic Wellness Resort",
+  "meta_description": "Stay at Mierzęcin Palace near Dobiegniew, Lubusz, Poland — an English Neo-Gothic palace built in 1861–1863. From approx. €116/night.",
+  "tags": [
+    "poland",
+    "lubusz",
+    "castle-hotel",
+    "neo-gothic",
+    "spa",
+    "historic-hotels-of-europe"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pałac Mierzęcin Wellness & Wine Resort",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=palac-mierzacin&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpaaac-mierzacin-wellnes-amp-wine-resort.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D816222%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786722667%26srpvid%3D17ef6f6084ee12a6%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 116,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-21",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at Pałac Mierzęcin Wellness & Wine Resort, Mierzęcin 1; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "pool"],
+    "how_to_stay": "**Getting there:** At Mierzęcin 1, near Dobiegniew, in the Lubusz region; Booking lists free private parking with electric charging and notes train access.\n\n**Rooms & rates:** From approx. €116/night for an 18 m² Standard Twin Room with air conditioning, a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast and one parking spot included on the non-refundable rate seen (pay at the property); taxes included. A rate with free cancellation was around €129.\n\n**On-site:** An indoor swimming pool, a Grape SPA & Wellness area, restaurants, a vineyard, on-site parking and free Wi-Fi.\n\n**Good to know:** The rate seen is non-refundable, so check the free-cancellation option if your plans may change. The estate includes the palace and a manor complex, so ask the hotel which building your room is in.\n\n**Combine with:** [More castle hotels in Poland](/castle-hotels/poland)."
+  }
+}
