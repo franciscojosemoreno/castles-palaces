@@ -1,0 +1,88 @@
+{
+  "id": "karnity-castle",
+  "name": "Karnity Castle",
+  "local_name": "Zamek Karnity",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Warmia-Masuria — Karnity, near Miłomłyn",
+  "nearest_city": "Miłomłyn",
+  "address": "Karnity 10, 14-140 Miłomłyn, Poland",
+  "lat": 53.7449,
+  "lng": 19.7249,
+  "unesco": false,
+  "built_label": "Mid-1850s",
+  "architectural_style": "A large red-brick castle in the Romantic neo-Gothic style, with an octagonal corner tower and a rectangular tower facing the lake; built in the mid-1850s (sources give 1855 or 1856), beside Lake Kocioł",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A lakeside castle hotel with a former riding school converted into accommodation; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A red-brick Romantic neo-Gothic castle from the mid-1850s beside Lake Kocioł in Warmia-Masuria, now a three-star hotel with a private beach and a sauna",
+  "highlights": [
+    "A large red-brick castle in the Romantic neo-Gothic style, with an octagonal corner tower and a rectangular tower facing the lake",
+    "Built in the mid-1850s (sources give 1855 or 1856); one hotel listing credits the von Albedyhll family",
+    "Set beside Lake Kocioł in Warmia-Masuria, with a private beach area and water-sports equipment rental",
+    "Guests can use a sauna or relax on a terrace, and the former riding school has been converted into additional accommodation",
+    "Rooms start at around €80 a night with breakfast included"
+  ],
+  "description": "Karnity Castle stands beside Lake Kocioł near Miłomłyn, in Warmia-Masuria, a large red-brick building in the Romantic neo-Gothic style. An octagonal corner tower and a rectangular tower facing the lake give the castle its distinctive silhouette. It was built in the mid-1850s — sources give either 1855 or 1856 — and one hotel listing credits the von Albedyhll family as its builders, though this attribution is not independently confirmed beyond that source.\n\nThe castle's lakeside setting is as much a part of the experience as the building itself: a private beach area sits on Lake Kocioł, with water-sports equipment available to rent, and guests can relax on a terrace or make use of a sauna after a day outdoors.\n\nToday Karnity operates as a hotel, with the former riding school on the grounds converted into additional guest accommodation. It is worth noting that this is a 19th-century Romantic-era castle rather than a medieval fortress, built as a grand residence from the outset.",
+  "history": "The present castle at Karnity was built in the mid-1850s (sources give 1855 or 1856) in the Romantic neo-Gothic style, in red brick, with an octagonal corner tower and a rectangular tower facing the lake. One hotel listing credits the von Albedyhll family as its builders. It stands beside Lake Kocioł near Miłomłyn in Warmia-Masuria and now operates as a hotel, with the former riding school converted into additional accommodation.",
+  "faqs": [
+    {
+      "question": "Is Karnity a medieval castle?",
+      "answer": "No. The present red-brick neo-Gothic building dates from the mid-1850s (sources give 1855 or 1856)."
+    },
+    {
+      "question": "Is breakfast included at Zamek Karnity?",
+      "answer": "On the rate we saw (around €80 for a Double or Twin Room), yes."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/karnity-castle.webp",
+    "alt": "Karnity Castle beside Lake Kocioł in Warmia-Masuria, Poland — a mid-19th-century red-brick neo-Gothic castle, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/karnity-castle.webp",
+  "instagram_tag": "#karnitycastle",
+  "meta_title": "Karnity Castle, Poland — Lakeside Castle Hotel",
+  "meta_description": "Stay at Karnity Castle beside Lake Kocioł, Poland — a mid-1850s neo-Gothic castle with a private beach and sauna. From approx. €80/night.",
+  "tags": [
+    "poland",
+    "warmia-masuria",
+    "neo-gothic",
+    "castle-hotel",
+    "lake",
+    "spa"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [
+    "olsztyn-castle-warmia",
+    "ryn-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Zamek Karnity",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=zamek-karnity&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fzamek-karnity-milomlyn.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D536031%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786719203%26srpvid%3D0dfa68afe75a0a7f%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 80,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-20",
+    "room_location": "mixed",
+    "room_location_note": "Accommodation is in the castle complex and in converted outbuildings such as the former riding school; ask the hotel which building your room is in",
+    "how_to_stay": "**Getting there:** At Karnity 10, near Miłomłyn in Warmia-Masuria, beside Lake Kocioł.\n\n**Rooms & rates:** From approx. €80/night for a 15 m² Double or Twin Room with a private bathroom and flat-screen TV, with breakfast included, free cancellation and no prepayment on the rate seen; about €1 in taxes is shown separately. Lake-view apartments of 30 m² with a spa tub start around €160.\n\n**On-site:** A private beach area on the lake, water-sports equipment rental, a sauna and a sunny terrace.\n\n**Good to know:** This is a 19th-century neo-Gothic castle rather than a medieval one, and the lake setting is the main draw. Accommodation is spread across the castle complex and converted buildings such as the former riding school, so ask which building your room is in.\n\n**Combine with:** [Olsztyn Castle](/castles/poland/olsztyn-castle-warmia) and [Ryn Castle](/castles/poland/ryn-castle), elsewhere in Warmia and Masuria."
+  }
+}
