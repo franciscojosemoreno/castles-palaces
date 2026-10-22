@@ -1,0 +1,85 @@
+{
+  "id": "chojnata-castle",
+  "name": "Chojnata Palace",
+  "local_name": "Pałac Chojnata",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Łódź Voivodeship — Wola-Chojnata, near Biała Rawska",
+  "nearest_city": "Biała Rawska",
+  "address": "Wola-Chojnata 59, 96-230 Wola Chojnata, Poland",
+  "lat": 51.8001,
+  "lng": 20.5284,
+  "unesco": false,
+  "built_label": "1873",
+  "architectural_style": "A Neo-Renaissance palace completed in 1873, laid out on an axis from the entrance gate and a fountain courtyard through the palace to a terrace opening onto an English landscape park dating from the early 19th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Neo-Renaissance palace operating as a hotel with a wellness area; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Neo-Renaissance palace completed in 1873 for the Wierzbicki family, in an axial palace-and-park complex with an English landscape park — now a hotel with a wellness area",
+  "highlights": [
+    "A Neo-Renaissance palace completed in 1873 as the principal building of the Wola Chojnata estate, for the Wierzbicki family",
+    "Before that the estate was bought in 1801 by Stanisław Woyczyński, and in 1830 it went to Wincenty Rembowski, whose will passed it in 1861 to Józef Wierzbicki",
+    "The complex is laid out on an axis running from the entrance gate and a fountain courtyard through the palace to a terrace opening onto the park",
+    "The English landscape park dates from the early 19th century, and a wooden chapel stands in its south-eastern part",
+    "After 1945 the palace housed a primary school and teachers' flats, and it was later used by the University of Łódź and the municipality",
+    "It was bought in 1995 and renovated, a work completed in 2005 that received an award from the Minister of Culture and the General Conservator of Monuments"
+  ],
+  "description": "The Wola Chojnata estate was bought in 1801 by Stanisław Woyczyński and passed through several owners; in 1830 it was sold to Wincenty Rembowski, a former captain of the Polish army, whose will transferred it in 1861 to Józef Wierzbicki. The palace was completed in 1873 in the Neo-Renaissance style and stayed with the Wierzbicki family.\n\nThe complex is laid out on an axis running from the entrance gate and a fountain courtyard through the palace, with Neo-Renaissance façades and an Ionic-columned entrance portico, to a terrace opening onto the garden; the English landscape park dates from the early 19th century. In 1931 the Warsaw Land Credit Society put the estate up for auction, and Eleonora Zofia Wierzbicka bought it back into the family; it remained theirs until 1945, when the State Treasury took it over under the agricultural-reform decree.\n\nAfter the Second World War the palace was adapted as a primary school and teachers' flats; the University of Łódź took it over in 1980 and later passed it on, and the municipality then administered it. The municipal authorities offered the estate for sale in 1989, and in 1995 Krzysztof Malarecki bought it and began a renovation completed in 2005, for which the restored palace received an award from the Minister of Culture and Art and the General Conservator of Monuments. The complex now operates as a hotel with free parking, free Wi-Fi, a wellness area and breakfast included on the rate seen; the room seen is the only one that was available on the dates checked.",
+  "history": "The Wola Chojnata estate was bought in 1801 by Stanisław Woyczyński and passed through several owners; in 1830 it was sold to Wincenty Rembowski, a former captain of the Polish army, whose will transferred it in 1861 to Józef Wierzbicki. The palace was completed in 1873 in the Neo-Renaissance style and stayed with the Wierzbicki family. In 1931 the Warsaw Land Credit Society put the estate up for auction, and Eleonora Zofia Wierzbicka bought it back into the family; it remained theirs until 1945, when the State Treasury took it over under the agricultural-reform decree. After the Second World War the palace was adapted as a primary school and teachers' flats; the University of Łódź took it over in 1980 and later passed it on, and the municipality then administered it. The municipal authorities offered the estate for sale in 1989, and in 1995 Krzysztof Malarecki bought it and began a renovation completed in 2005, for which the restored palace received an award from the Minister of Culture and Art and the General Conservator of Monuments. The complex now operates as a hotel and venue.",
+  "faqs": [
+    {
+      "question": "When was Chojnata Palace built?",
+      "answer": "It was completed in 1873 in the Neo-Renaissance style for the Wierzbicki family, on an estate that had passed through several owners since 1801."
+    },
+    {
+      "question": "Is breakfast included at Pałac Chojnata?",
+      "answer": "Yes, on the rate we saw, breakfast was included."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/chojnata-castle.webp",
+    "alt": "Chojnata Palace near Biała Rawska, Łódź Voivodeship, Poland — a Neo-Renaissance palace completed in 1873, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/chojnata-castle.webp",
+  "instagram_tag": "#chojnatapalace",
+  "meta_title": "Chojnata Palace, Poland — Neo-Renaissance Castle Hotel",
+  "meta_description": "Stay at Chojnata Palace near Biała Rawska, Łódź Voivodeship, Poland — a Neo-Renaissance palace completed in 1873. From approx. €126/night.",
+  "tags": [
+    "poland",
+    "lodz-voivodeship",
+    "castle-hotel",
+    "neo-renaissance",
+    "park"
+  ],
+  "last_updated": "2026-10-22",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pałac Chojnata",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=palac-chojnata&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpalac-chojnata.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D347563%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786723429%26srpvid%3D268e70f00833069e%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 126,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-22",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at Pałac Chojnata, Wola-Chojnata 59; the estate also has a guesthouse in the park, so ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "spa"],
+    "how_to_stay": "**Getting there:** At Wola-Chojnata 59, near Biała Rawska, in the Łódź Voivodeship; Booking lists free private parking.\n\n**Rooms & rates:** From approx. €126/night for a 20 m² Family Room with one single bed, one king bed and a sofa bed (sleeping two adults on the search), a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast included on the rate seen (pay online, reschedulable but not refundable); taxes included.\n\n**On-site:** A wellness area with a hot tub, massage and sauna, on-site parking, free Wi-Fi, and a landscape park with a wooden chapel.\n\n**Good to know:** Only this room type was available on the dates we checked, so other rooms and rates may differ; check your own dates on Booking. The rate seen cannot be cancelled for a refund. The estate also has a guesthouse in the park, so ask the hotel which building your room is in.\n\n**Combine with:** [More castle hotels in Poland](/castle-hotels/poland)."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "bonerowski-castle",
+  "name": "Bonerowski Palace",
+  "local_name": "Pałac Bonerowski (Kraków)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Lesser Poland — Kraków Old Town, on the corner of the Main Market Square and ul. św. Jana",
+  "nearest_city": "Kraków",
+  "address": "Św. Jana 1, Old Town, 31-013 Krakow, Poland",
+  "lat": 50.0626,
+  "lng": 19.9383,
+  "unesco": false,
+  "built_label": "Early 14th century (Gothic townhouse)",
+  "architectural_style": "A Gothic brick townhouse on the corner of the Main Market Square and ul. św. Jana, dated to the early 14th century by the National Heritage Institute, with a brick door surround surviving on the rear elevation",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A Gothic townhouse in Kraków's Old Town operating as a boutique hotel with a wellness area; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Gothic townhouse on the corner of Kraków's Main Market Square, with a brick structure dated to the early 14th century, once the home of a photography studio and of the collector Feliks \"Manggha\" Jasieński — now a five-star boutique hotel",
+  "highlights": [
+    "The brick building on this corner plot at Rynek Główny 42 is dated to the early 14th century by the National Heritage Institute; a brick door surround survives on the rear elevation",
+    "The townhouse stands on the corner of the Main Market Square and ul. św. Jana, one of the most recognisable spots on the edge of the Square",
+    "Ignacy Krieger ran a photography studio here, continued by Amalia Krieger, as documented by the Museum of Photography in Kraków",
+    "From 1902 the collector and patron Feliks \"Manggha\" Jasieński had his home and private museum at this corner, according to the National Museum in Kraków",
+    "The name links the building to the Boner family, but a documented connection between the family and this property has not been confirmed, so the name is treated as tradition",
+    "Today it is a five-star boutique hotel with a restaurant, Amalia Steak & Fish, named after Amalia Krieger"
+  ],
+  "description": "The brick building on the corner of the Main Market Square and ul. św. Jana, at Rynek Główny 42, is dated to the early 14th century by the National Heritage Institute, and a brick door surround on the rear elevation survives from that Gothic phase.\n\nIn the 19th century Ignacy Krieger ran a photography studio in the townhouse, continued by Amalia Krieger, which the Museum of Photography in Kraków documents as part of the history of Kraków photography. From 1902 the art collector and patron Feliks \"Manggha\" Jasieński had his home and private museum at the corner of the Square and ul. św. Jana, according to a publication of the National Museum in Kraków.\n\nThe building is known as the Bonerowski Palace after the Boner family, but the link between that family and this particular property has not been confirmed by archival sources, so the name is best understood as a tradition. Today the townhouse houses a boutique hotel, the restaurant Amalia Steak & Fish and a cocktail club, and it hosts concerts and events.",
+  "history": "The brick building on the corner of the Main Market Square and ul. św. Jana, at Rynek Główny 42, is dated to the early 14th century by the National Heritage Institute, and a brick door surround on the rear elevation survives from that Gothic phase. In the 19th century Ignacy Krieger ran a photography studio in the townhouse, continued by Amalia Krieger, which the Museum of Photography in Kraków documents as part of the history of Kraków photography. From 1902 the art collector and patron Feliks \"Manggha\" Jasieński had his home and private museum at the corner of the Square and ul. św. Jana, according to a publication of the National Museum in Kraków. The building is known as the Bonerowski Palace after the Boner family, but the link between that family and this particular property has not been confirmed by archival sources, so the name is best understood as a tradition. Today the townhouse houses a boutique hotel, the restaurant Amalia Steak & Fish and a cocktail club, and it hosts concerts and events.",
+  "faqs": [
+    {
+      "question": "How old is the Bonerowski Palace building?",
+      "answer": "The brick building at Rynek Główny 42 is dated to the early 14th century by the National Heritage Institute, and a brick door surround survives from that Gothic phase."
+    },
+    {
+      "question": "Who was Feliks \"Manggha\" Jasieński?",
+      "answer": "He was an art collector and patron who, according to the National Museum in Kraków, had his home and private museum from 1902 at the corner of the Main Market Square and ul. św. Jana, the address of today's hotel."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bonerowski-castle.webp",
+    "alt": "The Bonerowski Palace on the Main Market Square in Kraków, Poland — a Gothic townhouse dated to the early 14th century, now a boutique hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bonerowski-castle.webp",
+  "instagram_tag": "#bonerowskipalace",
+  "meta_title": "Bonerowski Palace, Kraków — Main Square Boutique Hotel",
+  "meta_description": "Stay at the Bonerowski Palace on Kraków's Main Market Square, Poland — a Gothic townhouse dated to the early 14th century. From approx. €268/night.",
+  "tags": [
+    "poland",
+    "lesser-poland",
+    "krakow",
+    "castle-hotel",
+    "gothic",
+    "boutique-hotel"
+  ],
+  "last_updated": "2026-10-22",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "The Bonerowski Palace Boutique Hotel",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=palac-bonerowski&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpalacbonerowski.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D88776%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786723512%26srpvid%3D0093711954890736%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 268,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-22",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the historic townhouse at Św. Jana 1, on the corner of the Main Market Square",
+    "amenities": ["parking", "wifi", "spa"],
+    "how_to_stay": "**Getting there:** At Św. Jana 1, on the corner of the Main Market Square in Kraków's Old Town, in Lesser Poland; Booking lists valet parking.\n\n**Rooms & rates:** From approx. €268/night for a 30 m² Deluxe Studio with air conditioning, a private bathroom, a flat-screen TV, soundproofing, a coffee machine, a minibar and free Wi-Fi, with continental breakfast and pet stay included on the non-refundable rate seen (pay online); taxes included. A rate with free cancellation was around €330 with breakfast about €41 extra, or about €377 with breakfast included.\n\n**On-site:** A wellness area with massage, sauna and steam room, the Amalia Steak & Fish restaurant, a cocktail club, valet parking and free Wi-Fi.\n\n**Good to know:** Booking's price calendar showed one-night prices of roughly €250–€330 on most dates from November to February, and higher on some dates (above €450 on a few), so check your own dates on Booking. The lowest public rate seen is non-refundable; free-cancellation rates cost more. The hotel's own address is given as Rynek Główny 42, on the corner with ul. Św. Jana.\n\n**Combine with:** [More castle hotels in Poland](/castle-hotels/poland)."
+  }
+}

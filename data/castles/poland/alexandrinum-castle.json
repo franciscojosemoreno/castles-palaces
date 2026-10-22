@@ -1,0 +1,88 @@
+{
+  "id": "alexandrinum-castle",
+  "name": "Alexandrinum Palace",
+  "local_name": "Pałac Alexandrinum",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Mazovia — Krubki-Górki, Poświętne municipality, Wołomin County, near Warsaw",
+  "nearest_city": "Wołomin",
+  "address": "Krubki-Górki 13a, 05-326 Krubki, Poland",
+  "lat": 52.2978,
+  "lng": 21.3872,
+  "unesco": false,
+  "built_label": "Estate from the mid-18th century; palace rebuilt in 2016",
+  "architectural_style": "An estate with a park laid out in the mid-18th century as the centre of the Górki farm; the original manor burned in 1944, and the present Palace is a 2016 recreation by the current owners",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A recreated historic palace operating as a hotel with a spa and heated indoor pool; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "An estate with a park laid out in the mid-18th century, linked to the family of King Stanisław August Poniatowski and named in honour of Tsar Alexander I, whose palace was rebuilt in 2016 — now a four-star hotel with a spa and a heated indoor pool",
+  "highlights": [
+    "The park was laid out in the mid-18th century as the centre of the Górki farm, a noble estate, and the first manor house stood there for more than 150 years",
+    "At the end of the 18th century the estate became the property of the family of the last king, Stanisław August Poniatowski; its best-known owner was Stanisław Grabowski, the king's natural son and a minister of the Congress Kingdom",
+    "Tsar Alexander I, a friend of Grabowski, is recorded as a guest, and the property was named \"Alexandrinum\" in memory of his presence",
+    "On 28 September 1939 Major Henryk Dobrzański \"Hubal\" arrived at the estate with the remnants of cavalry regiments heading to defend Warsaw",
+    "The manor burned in August 1944, during the great tank battle east of Warsaw",
+    "Since 2002 the current owners have restored the estate: the Small Manor in 2005, the Palace in 2016, the stables in 2017 and the Great Manor from 2018"
+  ],
+  "description": "The park at Krubki-Górki was laid out in the mid-18th century as the centre of the Górki farm, a noble estate, and the first manor house stood there for more than 150 years. At the end of the 18th century the estate of several hundred hectares became the property of the family of the last king, Stanisław August Poniatowski; its best-known owner was Stanisław Grabowski, the king's natural son, who was a minister in the Congress Kingdom. Because of his friendship with Tsar Alexander I, the property was named \"Alexandrinum\".\n\nAfter Grabowski's death the property changed owners several times. On 28 September 1939 Major Henryk Dobrzański \"Hubal\" came to the estate with the remnants of cavalry regiments making their way to Warsaw. The manor burned in August 1944, and a school was built from the remains of its demolished parts; after the land reform the estate was parcelled out and the park nationalised, and it became private again in 1988.\n\nSince 2002 the current owners have been restoring and recreating the estate: the Small Manor in 2005, the Palace in 2016, the stables in 2017, and the Great Manor, partly open since 2018. The original manor's appearance is not known, and the Palace seen today is a modern recreation. It now operates as a four-star hotel with a spa, a heated indoor pool and breakfast included on the rate seen.",
+  "history": "The park at Krubki-Górki was laid out in the mid-18th century as the centre of the Górki farm, a noble estate, and the first manor house stood there for more than 150 years. At the end of the 18th century the estate of several hundred hectares became the property of the family of the last king, Stanisław August Poniatowski; its best-known owner was Stanisław Grabowski, the king's natural son, who was a minister in the Congress Kingdom. Because of his friendship with Tsar Alexander I, the property was named \"Alexandrinum\". After Grabowski's death the property changed owners several times. On 28 September 1939 Major Henryk Dobrzański \"Hubal\" came to the estate with the remnants of cavalry regiments making their way to Warsaw. The manor burned in August 1944, and a school was built from the remains of its demolished parts; after the land reform the estate was parcelled out and the park nationalised, and it became private again in 1988. Since 2002 the current owners have been restoring and recreating the estate: the Small Manor in 2005, the Palace in 2016, the stables in 2017, and the Great Manor, partly open since 2018. Today it operates as a four-star hotel with a spa.",
+  "faqs": [
+    {
+      "question": "Why is it called Alexandrinum?",
+      "answer": "The property was named \"Alexandrinum\" in memory of the presence of Tsar Alexander I, a friend of its owner Stanisław Grabowski."
+    },
+    {
+      "question": "Is the palace original?",
+      "answer": "The original manor burned in August 1944; the Palace was recreated by the current owners and finished in 2016, on an estate that dates back to the mid-18th century."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/alexandrinum-castle.webp",
+    "alt": "Alexandrinum Palace near Warsaw, Mazovia, Poland — an estate from the mid-18th century with a palace recreated in 2016, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/alexandrinum-castle.webp",
+  "instagram_tag": "#alexandrinumpalace",
+  "meta_title": "Alexandrinum Palace, Poland — Mazovia Spa Hotel",
+  "meta_description": "Stay at Alexandrinum Palace near Warsaw, Mazovia, Poland — an estate from the mid-18th century with a palace recreated in 2016. From approx. €145/night.",
+  "tags": [
+    "poland",
+    "mazovia",
+    "castle-hotel",
+    "spa",
+    "near-warsaw"
+  ],
+  "last_updated": "2026-10-22",
+  "routes": [],
+  "nearby_castles": [
+    "zdunowo-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Pałac Alexandrinum",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=palac-alexandrinum&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpalac-alexandrinum.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1672200%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786723360%26srpvid%3D288870cd8f8f0deb%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 145,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-22",
+    "room_location": "castle",
+    "room_location_note": "The room seen is a Comfort Double Room in the Palace at Krubki-Górki 13a; the estate also has other buildings, so check which building your room is in",
+    "amenities": ["parking", "restaurant", "spa", "pool"],
+    "how_to_stay": "**Getting there:** At Krubki-Górki 13a, in the Poświętne municipality of Wołomin County, near Warsaw, in Mazovia; Booking lists accessible parking.\n\n**Rooms & rates:** From approx. €145/night for an 18 m² Comfort Double Room in the Palace with a queen bed or two twin beds, a garden view, air conditioning, an attached bathroom, soundproofing and a flat-screen TV, with breakfast included; taxes included. Free cancellation applied before 7 December on the rate seen, with no prepayment and payment at the property. A Superior King Room was around €172 and a Suite Double Room in the Palace around €290.\n\n**On-site:** A spa, a heated indoor swimming pool, a restaurant, parking, stables and a historic park.\n\n**Good to know:** Rates were seen for a stay in early December, so check your own dates on Booking. The Palace is a 2016 recreation on an estate that dates back to the mid-18th century.\n\n**Combine with:** [Zdunowo Palace](/castles/poland/zdunowo-castle), another palace hotel in Mazovia."
+  }
+}
