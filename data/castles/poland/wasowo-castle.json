@@ -1,0 +1,87 @@
+{
+  "id": "wasowo-castle",
+  "name": "Wąsowo Palace",
+  "local_name": "Pałac Wąsowo",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Greater Poland — Wąsowo, Kuślin municipality, near Nowy Tomyśl",
+  "nearest_city": "Nowy Tomyśl",
+  "address": "ul. Parkowa 1, 64-316 Wąsowo, Poland",
+  "lat": 52.3664,
+  "lng": 16.2497,
+  "unesco": false,
+  "built_label": "1870–1872 (rebuilt around 1900)",
+  "architectural_style": "A neo-Gothic villa built in 1870–1872 to a design by the Berlin architect Gustav Erdmann, rebuilt into a castle around 1900, standing next to an older 18th-century palace of the Sczaniecki family",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored neo-Gothic castle operating as a hotel with an indoor pool and spa; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A neo-Gothic villa built in 1870–1872 for a Berlin banker and rebuilt as a castle around 1900, next to an older 18th-century palace — now a four-star hotel with an indoor pool and spa",
+  "highlights": [
+    "A neo-Gothic villa built in 1870–1872 to a design by the Berlin architect Gustav Erdmann for the Berlin banker Richard Hardt",
+    "It was built next to an older 18th-century palace of the Sczaniecki family, which stands on the same estate",
+    "Around 1900, in connection with a planned visit by Emperor Wilhelm II to Wąsowo, the villa was rebuilt into a castle",
+    "The estate includes a park with old trees",
+    "Booking lists free private parking, an indoor swimming pool and a spa area, and a four-star rating"
+  ],
+  "description": "The castle at Wąsowo began as a neo-Gothic villa built between 1870 and 1872 to a design by the Berlin architect Gustav Erdmann for the Berlin banker Richard Hardt. It was built next to the older 18th-century Sczaniecki palace, which stands on the same estate.\n\nAround 1900, in connection with a planned visit by Emperor Wilhelm II to Wąsowo, the villa was rebuilt into a castle.\n\nToday the estate, set in a park, operates as a four-star hotel with a restaurant, a spa area and an indoor pool, with breakfast included on the rate seen.",
+  "history": "The castle at Wąsowo began as a neo-Gothic villa built between 1870 and 1872 to a design by the Berlin architect Gustav Erdmann for the Berlin banker Richard Hardt. It was built next to the older 18th-century Sczaniecki palace. Around 1900, in connection with a planned visit by Emperor Wilhelm II to Wąsowo, the villa was rebuilt into a castle. Today the estate, set in a park, operates as a hotel with a restaurant and a spa.",
+  "faqs": [
+    {
+      "question": "Who built the castle at Wąsowo?",
+      "answer": "It began as a neo-Gothic villa built in 1870–1872 by the Berlin architect Gustav Erdmann for the banker Richard Hardt, and was rebuilt into a castle around 1900."
+    },
+    {
+      "question": "Is breakfast included at Pałac Wąsowo?",
+      "answer": "Yes, on the rates we saw, breakfast was included."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wasowo-castle.webp",
+    "alt": "Wąsowo Palace in Greater Poland, Poland — a neo-Gothic villa built in 1870–1872 and rebuilt as a castle around 1900, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wasowo-castle.webp",
+  "instagram_tag": "#wasowopalace",
+  "meta_title": "Wąsowo Palace, Poland — Greater Poland Spa Hotel",
+  "meta_description": "Stay at Wąsowo Palace near Nowy Tomyśl, Greater Poland, Poland — a neo-Gothic villa rebuilt as a castle around 1900. From approx. €113/night.",
+  "tags": [
+    "poland",
+    "greater-poland",
+    "castle-hotel",
+    "neo-gothic",
+    "spa"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [
+    "racot-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pałac Wąsowo",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=paaac-wasowo&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpaaac-wasowo.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D357966%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786722840%26srpvid%3D38346fc9cf7d02d5%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 113,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-21",
+    "room_location": "mixed",
+    "room_location_note": "Rooms are at Pałac Wąsowo, ul. Parkowa 1; the estate has several buildings, so ask the hotel which one your room is in",
+    "amenities": ["parking", "restaurant", "spa", "pool"],
+    "how_to_stay": "**Getting there:** At ul. Parkowa 1 in Wąsowo, in the Kuślin municipality of Greater Poland, near Nowy Tomyśl; Booking lists free private parking.\n\n**Rooms & rates:** From approx. €113/night for a 16 m² Double Room with one queen bed, a private bathroom and a flat-screen TV, with breakfast included on the non-refundable rate seen (pay online); taxes included. A rate with free cancellation was around €122.\n\n**On-site:** An indoor swimming pool, a spa area, a restaurant and on-site parking, within the park of the estate.\n\n**Good to know:** The rate seen is non-refundable, so check the free-cancellation option if your plans may change. The estate has several buildings, so ask the hotel which one your room is in.\n\n**Combine with:** [Racot Palace](/castles/poland/racot-castle), another palace hotel in Greater Poland."
+  }
+}

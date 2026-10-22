@@ -1,0 +1,88 @@
+{
+  "id": "racot-castle",
+  "name": "Racot Palace",
+  "local_name": "Pałac Racot",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "poland",
+  "region": "Greater Poland — Racot, near Kościan",
+  "nearest_city": "Kościan",
+  "address": "Dworcowa 5, Racot, 64-000 Kościan, Poland",
+  "lat": 52.0598,
+  "lng": 16.7081,
+  "unesco": false,
+  "built_label": "Second half of the 18th century",
+  "architectural_style": "A two-storey Classicist palace on a rectangular plan with a portico of four Tuscan columns, built in the second half of the 18th century, with an English-style park; a north wing was added in 1902",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Classicist palace operating as a hotel; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Classicist palace of the second half of the 18th century, built by the Jabłonowski family, later owned by the House of Orange and used as a residence of Polish presidents — now a three-star hotel",
+  "highlights": [
+    "A two-storey Classicist palace on a rectangular plan with a portico of four Tuscan columns, built in the second half of the 18th century",
+    "It grew from a manor of the Bronisz family, enlarged into a palace by Prince Antoni Barnaba Jabłonowski, who also laid out an English-style park behind it",
+    "The design is most often attributed to Dominik Merlini, though the attribution is uncertain and Jan Chrystian Kamsetzer is also named",
+    "In 1799 it was sold to William I of Orange, later king of the Netherlands; Grand Duke William Ernest of Saxe-Weimar-Eisenach added a north wing in 1902",
+    "After 1919 it passed to the Polish state, and from 1921 it was designated a residence for the presidents of the Republic of Poland",
+    "It has been a protected monument since 1952 and now operates as a hotel"
+  ],
+  "description": "Racot Palace was built in the second half of the 18th century in the Classicist style. It grew out of a manor of the Bronisz family, which Dorota, a princess by marriage, expanded; after fighting between Russian forces and the Bar Confederates the manor was destroyed, and her son Antoni Barnaba Jabłonowski, voivode of Poznań, enlarged the manor into a palace and laid out an English-style park behind it. The design is most often attributed to Dominik Merlini, though that is uncertain. Józef Wybicki, who lived in the region, wrote plays for the local theatre, and Tadeusz Kościuszko and Prince Józef Poniatowski are among the recorded visitors.\n\nIn 1799 the estate was sold to William I of Orange, later king of the Netherlands; in the late 19th century it passed as a dowry to the princely family of Saxe-Weimar-Eisenach, and Grand Duke William Ernest added the north wing in 1902.\n\nAfter the Treaty of Versailles the estate passed to the Polish state, and in 1921 the Council of Ministers designated the palace a residence for the presidents of the Republic of Poland. The palace was renovated in 1968–1970 and again in 2000–2004, after which a training and recreation centre was established there. It is a protected monument, registered in 1952, and today operates as a three-star hotel with free parking, free Wi-Fi and breakfast included on the rate seen.",
+  "history": "Racot Palace was built in the second half of the 18th century in the Classicist style. It grew out of a manor of the Bronisz family, which Dorota, a princess by marriage, expanded; after fighting between Russian forces and the Bar Confederates the manor was destroyed, and her son Antoni Barnaba Jabłonowski, voivode of Poznań, enlarged the manor into a palace and laid out an English-style park behind it. The design is most often attributed to Dominik Merlini, though that is uncertain. Józef Wybicki, who lived in the region, wrote plays for the local theatre, and Tadeusz Kościuszko and Prince Józef Poniatowski are among the recorded visitors. In 1799 the estate was sold to William I of Orange, later king of the Netherlands; in the late 19th century it passed as a dowry to the princely family of Saxe-Weimar-Eisenach, and Grand Duke William Ernest added the north wing in 1902. After the Treaty of Versailles the estate passed to the Polish state, and in 1921 the Council of Ministers designated the palace a residence for the presidents of the Republic of Poland. The palace was renovated in 1968–1970 and again in 2000–2004, after which a training and recreation centre was established there. It is a protected monument, registered in 1952.",
+  "faqs": [
+    {
+      "question": "Who built Racot Palace?",
+      "answer": "It was built in the second half of the 18th century in the Classicist style, when Prince Antoni Barnaba Jabłonowski enlarged an earlier manor into a palace; the design is most often attributed to Dominik Merlini, though the attribution is uncertain."
+    },
+    {
+      "question": "Did Polish presidents stay at Racot Palace?",
+      "answer": "In 1921 the Council of Ministers designated the palace as a residence for the presidents of the Republic of Poland, and President Ignacy Mościcki spent a two-week holiday there in July 1927."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/racot-castle.webp",
+    "alt": "Racot Palace near Kościan, Greater Poland, Poland — a Classicist palace of the second half of the 18th century, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/racot-castle.webp",
+  "instagram_tag": "#racotpalace",
+  "meta_title": "Racot Palace, Poland — Greater Poland Classicist Hotel",
+  "meta_description": "Stay at Racot Palace near Kościan, Greater Poland, Poland — a Classicist palace once a presidential residence. From approx. €87/night.",
+  "tags": [
+    "poland",
+    "greater-poland",
+    "castle-hotel",
+    "classicism",
+    "presidential-residence"
+  ],
+  "last_updated": "2026-10-21",
+  "routes": [],
+  "nearby_castles": [
+    "wasowo-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Pałac Racot",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=palac-racot&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fpl%2Fpalac-racot-koscian.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1033867%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1786722889%26srpvid%3D34346fe0becb0c3d%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 87,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-21",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at Pałac Racot, Dworcowa 5; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi"],
+    "how_to_stay": "**Getting there:** At Dworcowa 5 in Racot, near Kościan, in Greater Poland; Booking lists free private parking.\n\n**Rooms & rates:** From approx. €87/night for a 22 m² Double Room with one queen bed, a garden view, a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast included; taxes included. Free cancellation applied before 21 November on the rate seen, with no prepayment and payment at the property.\n\n**On-site:** On-site parking and free Wi-Fi.\n\n**Good to know:** Booking lists the property as pet-friendly. The palace complex includes the main palace and the 1902 north wing, so ask the hotel which building your room is in.\n\n**Combine with:** [Wąsowo Palace](/castles/poland/wasowo-castle), another palace hotel in Greater Poland."
+  }
+}
