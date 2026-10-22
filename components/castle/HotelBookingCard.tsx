@@ -94,7 +94,7 @@ export default function HotelBookingCard({ hotel }: Props) {
       <p className="text-xs text-stone-400 text-center">
         {hotel.booking_paused
           ? 'This listing is temporarily not accepting reservations on Booking.com — check back soon'
-          : 'Booked via Booking.com · Free cancellation on most rates'}
+          : 'Booked via Booking.com · Cancellation terms vary by rate'}
       </p>
       {hotel.visitable_by_public && (
         <p className="text-xs text-stone-500 text-center mt-3 pt-3 border-t border-stone-100">
