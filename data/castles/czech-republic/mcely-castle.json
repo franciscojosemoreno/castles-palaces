@@ -1,0 +1,89 @@
+{
+  "id": "mcely-castle",
+  "name": "Mcely Château",
+  "local_name": "Zámek Mcely",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Central Bohemia — Mcely, near Poděbrady and Nymburk",
+  "nearest_city": "Nymburk",
+  "address": "Mcely 61, 289 36 Mcely, Czech Republic",
+  "lat": 50.2995,
+  "lng": 15.0773,
+  "unesco": false,
+  "built_label": "1698 (rebuilt in 1841)",
+  "architectural_style": "A Baroque hunting château built in 1698, rebuilt as a residence in an austere classical style in 1841 after decades of dilapidation, set in an English park",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Baroque/classical château operating as a hotel with a spa; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Baroque hunting château built in 1698 for Count Octavian Ladislav of Waldstein, rebuilt in a classical style in 1841 and a Thurn-Taxis family home until 1948 — now a five-star spa hotel in an English park",
+  "highlights": [
+    "The first reliable record of the village of Mcely is a parchment of 1252",
+    "Count Octavian Ladislav of Waldstein built the Baroque hunting château in 1698",
+    "In 1841 the dilapidated Baroque château was rebuilt as a residence in an austere classical style",
+    "In 1869 the estate was sold to Prince Hugo Maxmilian of the Thurn-Taxis family, whose principal seat was nearby Loučeň; the family owned Mcely until 1948",
+    "In 1903 the west wing had to be demolished because of poor foundations",
+    "Renovation began in June 2004, the château received its first guests in 2006, and a spa opened in 2010"
+  ],
+  "description": "The village of Mcely appears in a parchment of 1252. In 1698 Count Octavian Ladislav of Waldstein built a Baroque hunting château here. Baron Jan Filip Wessenberg-Ampringen bought it in 1808, and in 1841 the dilapidated Baroque building was rebuilt as a new residence in an austere classical style.\n\nIn 1869 Count Filip Boos-Waldeck sold the estate to Prince Hugo Maxmilian of the Thurn-Taxis family, which had its principal seat in nearby Loučeň; the prince and his descendants owned Mcely until 1948. In 1903 the west wing was demolished because of its poor foundations, and a costly renovation followed when Prince Erich Thurn-Taxis married Countess Gabriela Kinsky.\n\nAfter 1948 the château was used by the Ministry of Foreign Affairs and the Ministry of the Interior and was left in a dilapidated state. A demanding renovation began on 15 June 2004, led by Inéz and James Cusumano; the château opened to its first guests in 2006, and the Mcely Bouquet spa followed in 2010. Today it is a five-star hotel with an English park, a restaurant and a spa.",
+  "history": "The village of Mcely appears in a parchment of 1252. In 1698 Count Octavian Ladislav of Waldstein built a Baroque hunting château here. Baron Jan Filip Wessenberg-Ampringen bought it in 1808, and in 1841 the dilapidated Baroque building was rebuilt as a new residence in an austere classical style. In 1869 Count Filip Boos-Waldeck sold the estate to Prince Hugo Maxmilian of the Thurn-Taxis family, which had its principal seat in nearby Loučeň; the prince and his descendants owned Mcely until 1948. In 1903 the west wing was demolished because of its poor foundations, and a costly renovation followed when Prince Erich Thurn-Taxis married Countess Gabriela Kinsky. After 1948 the château was used by the Ministry of Foreign Affairs and the Ministry of the Interior and was left in a dilapidated state. A demanding renovation began on 15 June 2004, led by Inéz and James Cusumano; the château opened to its first guests in 2006, and the Mcely Bouquet spa followed in 2010.",
+  "faqs": [
+    {
+      "question": "Who owned Mcely Château?",
+      "answer": "Count Octavian Ladislav of Waldstein built it in 1698, and from 1869 to 1948 it belonged to the Thurn-Taxis family, whose principal seat was nearby Loučeň."
+    },
+    {
+      "question": "When did Mcely Château open as a hotel?",
+      "answer": "The château was renovated from 2004 and opened to its first guests in 2006; a spa followed in 2010."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mcely-castle.webp",
+    "alt": "Mcely Château in Central Bohemia, Czech Republic — a Baroque hunting château built in 1698, now a five-star spa hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mcely-castle.webp",
+  "instagram_tag": "#mcelycastle",
+  "meta_title": "Mcely Château, Czech Republic — Bohemia Spa Hotel",
+  "meta_description": "Stay at Mcely Château in Central Bohemia, Czech Republic — a Baroque hunting château built in 1698. From approx. €184/night.",
+  "tags": [
+    "czech-republic",
+    "central-bohemia",
+    "castle-hotel",
+    "baroque",
+    "spa",
+    "thurn-taxis"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [
+    "loucen-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Chateau Mcely",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=chateau-mcely&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fchateau-mcely.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D77550%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785766594%26srpvid%3D3181645dbcea000f%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 184,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at Chateau Mcely, Mcely 61; the estate also has other accommodation, so ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "gardens"],
+    "how_to_stay": "**Getting there:** At Mcely 61, in the village of Mcely in Central Bohemia, about 5 km from the Thurn-Taxis seat at Loučeň; Booking lists free on-site parking with valet service and electric charging.\n\n**Rooms & rates:** From approx. €184/night for a Superior Double Room with air conditioning, a private bathroom, a minibar and free Wi-Fi, with breakfast, one hour of spa time a day, valet parking and high-speed internet included on the non-refundable rate seen; a free-cancellation rate was around €230 and a Luxury Suite around €400. Booking shows a small tax charge (about €1) separately.\n\n**On-site:** A spa, a restaurant, an English park and free parking.\n\n**Good to know:** Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. The estate also has other accommodation besides the château, so ask the hotel which building your room is in.\n\n**Combine with:** [Loučeň Château](/castles/czech-republic/loucen-castle), the Thurn-Taxis family seat a few kilometres away."
+  }
+}

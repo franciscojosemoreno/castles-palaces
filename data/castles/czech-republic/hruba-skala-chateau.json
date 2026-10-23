@@ -110,5 +110,21 @@
       "note": "Full-day guided hiking trip from Prague covering the Hruboskalsko rock city. Includes round-trip train from Prague, experienced guide, and Hrubá Skála Château entry fee. Approximately 18km; not suitable for visitors with mobility impairments. 5.0★ / 26 reviews."
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "EA Zámecký Hotel Hrubá Skála",
+    "non_guest_access_note": "The château courtyard, chapel and lookout tower can be visited; guided château tours run at scheduled times, as described in How to Visit",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=hruba-skala-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fzamecky-hruba-skala.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D506311%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785766711%26srpvid%3Dc73764993f890b06%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 124,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "mixed",
+    "room_location_note": "The hotel has rooms in the château and in a tourist annex; ask the hotel which building your room is in",
+    "amenities": ["wifi", "parking", "restaurant", "spa"],
+    "how_to_stay": "**Getting there:** The hotel is at Hruba skala 1, in the château above the Hruboskalsko rock city; the directions already given on this page apply (Turnov is on the Prague–Liberec railway line, and from Turnov it is about 8 km by local bus or taxi). Booking lists parking at the hotel; check whether it is charged.\n\n**Rooms & rates:** From approx. €124/night for a 20 m² Double or Twin Room with a double bed, a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast included on the non-refundable rate seen (pay the property before arrival); a free-cancellation rate was around €130, and a room with a view around €143. Booking shows a small tax charge (about €2) separately.\n\n**On-site:** A restaurant, wellness facilities (massage, hot tub and sauna are listed), free Wi-Fi and the Hruboskalsko hiking trails on the doorstep.\n\n**Good to know:** The hotel has rooms in the château and in a tourist annex, so ask which building your room is in. Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. The château tours and the guided hiking day trip described on this page can be combined with a night here.\n\n**Combine with:** [Kost Castle](/castles/czech-republic/kost-castle), about 10 km south, and [Kokořín Castle](/castles/czech-republic/kokorin-castle), a Gothic castle on a sandstone promontory about 40 km south-west."
+  }
 }

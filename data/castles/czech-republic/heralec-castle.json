@@ -1,0 +1,87 @@
+{
+  "id": "heralec-castle",
+  "name": "Herálec Château",
+  "local_name": "Zámek Herálec",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Vysočina Region — Herálec, near Havlíčkův Brod",
+  "nearest_city": "Humpolec",
+  "address": "Herálec 1, 582 55 Herálec, Czech Republic",
+  "lat": 49.5307,
+  "lng": 15.4545,
+  "unesco": false,
+  "built_label": "13th-century walls; neo-Gothic remodelling 1838–1861",
+  "architectural_style": "A château with walls dated by its hotel to the 13th century, rebuilt into a three-winged, one-storey building with round towers in 1601, and given its neo-Gothic battlemented towers and façade by the Trauttmannsdorf family between 1838 and 1861",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored neo-Gothic château operating as a boutique hotel with a spa and indoor pool; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A château with 13th-century walls according to its hotel, rebuilt in the early 17th century and given its neo-Gothic battlemented towers by the Trauttmannsdorf family in the 19th century — now a five-star boutique hotel and spa by L'Occitane",
+  "highlights": [
+    "The hotel dates the château walls to the 13th century and records the village of Herálec in a papal document of 1226",
+    "The Trčka of Lípa family held the estate for more than a century and a half; in 1601 Kryštof Karel of Roupov rebuilt the château into a three-winged, one-storey building with round towers",
+    "In 1623 the estate was bought by Philip Adam, Count of Solms, a general of Wallenstein; in 1708 Michal Achác, Baron von Kirchner, had a chapel with an oratory built on the first floor",
+    "In 1838 Jan Nepomuk of Trauttmannsdorf had the château transformed into the neo-Gothic style with battlemented towers; the architect B. Waschmann is credited with the 1861 Gothicisation",
+    "After 1945 the château was confiscated and used by a textile enterprise, then as a textile school from 1951 and as a boarding school for children with special needs after 1958",
+    "Since 2004 it has belonged to the Kasper family, who restored it between 2009 and August 2011"
+  ],
+  "description": "The hotel dates the château walls to the 13th century and records the village of Herálec in a papal document of 1226. The estate was held for more than a century and a half by the Trčka of Lípa family. In 1601 Kryštof Karel of Roupov rebuilt the château into a three-winged, one-storey building with round towers.\n\nIn 1623 it was bought by Philip Adam, Count of Solms, a general of Wallenstein, and in 1708 Michal Achác, Baron von Kirchner, had a chapel with an oratory built on the first floor. In 1817 the château belonged to Countess Therese Trauttmannsdorf, and in 1838 her son Jan Nepomuk of Trauttmannsdorf had it transformed into the neo-Gothic style with its present battlemented towers and façade; the architect B. Waschmann Gothicised it in 1861.\n\nThe château was confiscated in 1945, assigned in 1948 to the national enterprise Czechoslovak Textile Plants, used as a textile school from 1951 and, after 1958, as a boarding school for children with special needs. Since 2004 it has been owned by the Kasper family, who had the ruined château completely renovated: the project began in 2009 and ended in August 2011, and the château reopened as a five-star boutique hotel and spa. Sources differ on the château's age — the hotel's own site also says its towers have stood for more than four centuries.",
+  "history": "The hotel dates the château walls to the 13th century and records the village of Herálec in a papal document of 1226. The estate was held for more than a century and a half by the Trčka of Lípa family. In 1601 Kryštof Karel of Roupov rebuilt the château into a three-winged, one-storey building with round towers. In 1623 it was bought by Philip Adam, Count of Solms, a general of Wallenstein, and in 1708 Michal Achác, Baron von Kirchner, had a chapel with an oratory built on the first floor. In 1817 the château belonged to Countess Therese Trauttmannsdorf, and in 1838 her son Jan Nepomuk of Trauttmannsdorf had it transformed into the neo-Gothic style with its present battlemented towers and façade; the architect B. Waschmann Gothicised it in 1861. The château was confiscated in 1945, assigned in 1948 to the national enterprise Czechoslovak Textile Plants, used as a textile school from 1951 and, after 1958, as a boarding school for children with special needs. Since 2004 it has been owned by the Kasper family, who had the ruined château completely renovated: the project began in 2009 and ended in August 2011, and the château reopened as a five-star boutique hotel and spa.",
+  "faqs": [
+    {
+      "question": "How old is Herálec Château?",
+      "answer": "The hotel dates the château walls to the 13th century and records the village in 1226; the château was rebuilt in the early 17th century and given its neo-Gothic look in the 19th century."
+    },
+    {
+      "question": "When did it become a hotel?",
+      "answer": "The Kasper family bought the ruined château in 2004 and its renovation ran from 2009 to August 2011, after which it opened as a boutique hotel and spa."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/heralec-castle.webp",
+    "alt": "Herálec Château in the Vysočina Region, Czech Republic — a neo-Gothic château with medieval origins, now a boutique hotel and spa",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/heralec-castle.webp",
+  "instagram_tag": "#heraleccastle",
+  "meta_title": "Herálec Château, Czech Republic — Boutique Spa Hotel",
+  "meta_description": "Stay at Herálec Château in the Vysočina Region, Czech Republic — a neo-Gothic château with a Spa by L'Occitane. From approx. €305/night.",
+  "tags": [
+    "czech-republic",
+    "vysocina",
+    "castle-hotel",
+    "neo-gothic",
+    "spa",
+    "boutique-hotel"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Chateau Herálec Boutique Hotel & Spa by L'Occitane",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chateau-heralec&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fchateau-hera-lec-boutique.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D333617%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785766679%26srpvid%3D35a1648922c5035c%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 305,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at Chateau Herálec, Herálec 1; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "pool"],
+    "how_to_stay": "**Getting there:** At Herálec 1, in the Vysočina Region near Havlíčkův Brod; the hotel says it has direct access to the D1 motorway. Booking lists free private parking with valet service and electric charging.\n\n**Rooms & rates:** From approx. €305/night for a 34 m² Standard Double Room with a king bed, a garden view, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast included and free cancellation on the rate seen; Booking shows a small tax charge (about €2) separately.\n\n**On-site:** A Spa by L'Occitane with saunas, a swimming pool under historic vaults, a fitness centre, a restaurant, an English park and free parking.\n\n**Good to know:** Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. The pool and sauna area is closed from 12:00 to 13:00 for cleaning, and pets are not allowed in the wellness area, according to the hotel.\n\n**Combine with:** [More castle hotels in Czech Republic](/castle-hotels/czech-republic)."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "rubezahl-marienbad-castle",
+  "name": "Rübezahl-Marienbad Castle Hotel",
+  "local_name": "Hotel Rübezahl-Marienbad (Mariánské Lázně)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Karlovy Vary Region — hilltop above Mariánské Lázně (Marienbad)",
+  "nearest_city": "Mariánské Lázně",
+  "address": "Mariánské Lázně 591, 353 01 Mariánské Lázně, Czech Republic",
+  "lat": 49.9724,
+  "lng": 12.7206,
+  "unesco": false,
+  "built_label": "1903",
+  "architectural_style": "A castle-style hotel built in 1903 on a wooded hilltop above the spa town of Mariánské Lázně, surrounded by the Slavkov Forest, abandoned in 1991 and reopened in 2015 after a complete reconstruction",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A reconstructed castle-style hotel with a spa; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A castle-style hotel built in 1903 on a wooded hill above the spa town of Mariánské Lázně, abandoned in 1991 and reopened in 2015 after a long reconstruction — now a five-star hotel with a spa",
+  "highlights": [
+    "Built in 1903, according to the Czech tourist board, on a hilltop surrounded by the Slavkov Forest with views over the town below",
+    "It was known in its early years for attracting a well-off clientele",
+    "It changed owners several times between 1920 and 1991 and was abandoned by its last private investor in 1991",
+    "A new owner bought it in 2008, and a complete reconstruction reopened it as a hotel in 2015, according to hotel listings",
+    "The grounds include a statue of the mountain spirit Rübezahl, from whom the hotel takes its name"
+  ],
+  "description": "The hotel was built in 1903 on a hill above the spa town of Mariánské Lázně (Marienbad), surrounded by the Slavkov Forest, and in its early years it attracted a well-off clientele.\n\nIt changed owners several times between 1920 and 1991, when its last private investor abandoned it, and the building stood closed for many years. According to hotel listings, a new owner bought it in 2008 and a complete reconstruction that kept its original character reopened it in 2015.\n\nThe grounds contain a statue of Rübezahl, the mountain spirit of Central European legend whose name the hotel carries. Today it operates as a five-star hotel with a spa and a restaurant, free parking and breakfast included on the rate seen.",
+  "history": "The hotel was built in 1903 on a hill above the spa town of Mariánské Lázně (Marienbad), surrounded by the Slavkov Forest, and in its early years it attracted a well-off clientele. It changed owners several times between 1920 and 1991, when its last private investor abandoned it, and the building stood closed for many years. According to hotel listings, a new owner bought it in 2008 and a complete reconstruction that kept its original character reopened it in 2015. The grounds contain a statue of Rübezahl, the mountain spirit of Central European legend whose name the hotel carries. Today it operates as a five-star hotel with a spa.",
+  "faqs": [
+    {
+      "question": "When was the Rübezahl-Marienbad hotel built?",
+      "answer": "The Czech tourist board dates it to 1903, on a hill above Mariánské Lázně."
+    },
+    {
+      "question": "Why is it called Rübezahl?",
+      "answer": "It takes the name of Rübezahl, a mountain spirit of Central European legend, whose statue stands in the hotel's grounds."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/rubezahl-marienbad-castle.webp",
+    "alt": "Rübezahl-Marienbad Castle Hotel above Mariánské Lázně, Czech Republic — a castle-style hotel built in 1903, now a five-star hotel with a spa",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/rubezahl-marienbad-castle.webp",
+  "instagram_tag": "#rubezahlmarienbad",
+  "meta_title": "Rübezahl-Marienbad Castle Hotel, Czech Republic",
+  "meta_description": "Stay at the Rübezahl-Marienbad Castle Hotel above Mariánské Lázně, Czech Republic — a castle-style hotel built in 1903. From approx. €177/night.",
+  "tags": [
+    "czech-republic",
+    "karlovy-vary",
+    "castle-hotel",
+    "spa",
+    "marianske-lazne"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Rubezahl-Marienbad Luxury Historical Castle Hotel & Golf-Castle Hotel Collection",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=rubezahl-marienbad-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Frubezahl-marienbad-castle-amp-wellness-resort.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1285512%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785766855%26srpvid%3D01b164ded6ff1216%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 177,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the main hotel building above Mariánské Lázně; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa"],
+    "how_to_stay": "**Getting there:** On a wooded hill above Mariánské Lázně in the Karlovy Vary Region; Booking lists free private parking and a ski-to-door location.\n\n**Rooms & rates:** From approx. €177/night for a 22 m² Double Room with a queen bed, a garden view, air conditioning, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast, one parking spot and high-speed internet included and free cancellation on the rate seen; taxes included. A Junior Double was around €196 and a Double Superior around €256.\n\n**On-site:** A spa with a hammam, sauna and massage, a restaurant, free parking and a wooded setting; the grounds include a statue of Rübezahl.\n\n**Good to know:** Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. The hotel was rebuilt as a hotel in 2015, so the interior is a modern reconstruction of a 1903 building.\n\n**Combine with:** [More castle hotels in Czech Republic](/castle-hotels/czech-republic)."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "loucen-castle",
+  "name": "Loučeň Château",
+  "local_name": "Zámek Loučeň",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Central Bohemia — Loučeň, north of Nymburk",
+  "nearest_city": "Nymburk",
+  "address": "Nymburská 1, Loučeň, 289 37, Czech Republic",
+  "lat": 50.2870,
+  "lng": 15.0246,
+  "unesco": false,
+  "built_label": "1704–1713",
+  "architectural_style": "A Baroque château built in 1704–1713 with F. M. Kaňka as builder, set in an English landscape park begun in 1828 with a set of labyrinths and mazes",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Baroque château resort with hotel rooms, apartments and a park cottage; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Baroque château built in 1704–1713 for Count Karl Ernst of Waldstein, the family seat of the Thurn-Taxis dynasty from 1809, with an English park and a set of labyrinths — now a château resort with hotel rooms, apartments and a pool",
+  "highlights": [
+    "The village of Loučeň is first mentioned in 1223",
+    "The Waldstein family bought the estate in the early 1620s, after the Battle of White Mountain; the current Baroque château was built in 1704–1713 for Count Karl Ernst of Waldstein, with F. M. Kaňka as builder",
+    "From 1809 the estate belonged to the Thurn-Taxis family, famous for its postal network, who laid out the English park from 1828",
+    "In 1834 the Thurn-Taxis family built an officials' house on the estate; it has been a hotel since 2003",
+    "Countess Marie, who married Alexander Thurn-Taxis in 1875, kept up contact with artists; the poet Rainer Maria Rilke visited twice, and Bedřich Smetana dedicated the piece \"Z domoviny\" to the princely couple in 1880",
+    "The château interiors were looted at the end of the Second World War, and in 1949 the building passed to the Ministry of Transport; it opened to the public again on 7 July 2007",
+    "The park has a set of labyrinths and mazes (twelve by 2016, according to the château), and visitors can enter it without a château tour"
+  ],
+  "description": "The village of Loučeň is first mentioned in 1223. After the Battle of White Mountain the estate was confiscated and bought by the Waldstein family; the current Baroque château was built in 1704–1713 for Count Karl Ernst of Waldstein, with F. M. Kaňka as builder (Wikipedia gives 1703–1714). After the last male Waldstein died, the estate passed to the Fürstenberg family and, in 1809, to the Thurn-Taxis family, whose principal seat stayed in Regensburg.\n\nThe English park was started in 1828, and in 1834 an officials' house was built on the estate. In 1875 Alexander Thurn-Taxis married Marie von Hohenlohe, who kept up contact with many artists; Rainer Maria Rilke visited twice, and Bedřich Smetana, who spent his last years nearby at Jabkenice, dedicated \"Z domoviny\" to the couple in 1880. Alexander died in 1939.\n\nAt the end of the war the interiors were looted; in 1949 the Ministry of Transport took over the château as a recreation and training centre, and from 1968 the Transport Institute used it. The officials' house served as a school until 1979 and was then rebuilt as a hotel. A company became the owner in 2000, and on 7 July 2007 the château opened with a new exhibition and a park with a unique set of labyrinths. Today the estate offers a hotel in the former officials' house (extended with a modern wing in 2007 that holds the reception, breakfast restaurant and pool), apartments inside the château and a cottage in the park.",
+  "history": "The village of Loučeň is first mentioned in 1223. After the Battle of White Mountain the estate was confiscated and bought by the Waldstein family; the current Baroque château was built in 1704–1713 for Count Karl Ernst of Waldstein, with F. M. Kaňka as builder (Wikipedia gives 1703–1714). After the last male Waldstein died, the estate passed to the Fürstenberg family and, in 1809, to the Thurn-Taxis family, whose principal seat stayed in Regensburg. The English park was started in 1828, and in 1834 an officials' house was built on the estate. In 1875 Alexander Thurn-Taxis married Marie von Hohenlohe, who kept up contact with many artists; Rainer Maria Rilke visited twice, and Bedřich Smetana, who spent his last years nearby at Jabkenice, dedicated \"Z domoviny\" to the couple in 1880. Alexander died in 1939. At the end of the war the interiors were looted; in 1949 the Ministry of Transport took over the château as a recreation and training centre, and from 1968 the Transport Institute used it. The officials' house served as a school until 1979 and was then rebuilt as a hotel. A company became the owner in 2000, and on 7 July 2007 the château opened with a new exhibition and a park with a unique set of labyrinths.",
+  "faqs": [
+    {
+      "question": "Who built Loučeň Château?",
+      "answer": "The current Baroque château was built in 1704–1713 for Count Karl Ernst of Waldstein; the Thurn-Taxis family owned it from 1809."
+    },
+    {
+      "question": "Can I visit Loučeň without staying?",
+      "answer": "Yes. The château interiors can be visited with a ticket, and the park and labyrinths can be entered without a château tour."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/loucen-castle.webp",
+    "alt": "Loučeň Château in Central Bohemia, Czech Republic — a Baroque château of 1704–1713 with a park of labyrinths, now a château resort",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/loucen-castle.webp",
+  "instagram_tag": "#loucencastle",
+  "meta_title": "Loučeň Château, Czech Republic — Bohemia Château Resort",
+  "meta_description": "Stay at Loučeň Château in Central Bohemia, Czech Republic — a Baroque château with an English park and labyrinths. From approx. €125/night.",
+  "tags": [
+    "czech-republic",
+    "central-bohemia",
+    "castle-hotel",
+    "baroque",
+    "thurn-taxis",
+    "park"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [
+    "mcely-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Chateau Loučeň Garden Retreat",
+    "non_guest_access_note": "The château interiors can be visited with a ticket, and the park and labyrinths can be visited without a château tour.",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=chateau-loucen&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fchateau-loucen-garden-retreat.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1086758%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785766798%26srpvid%3D1f2664c4c1de06f9%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 125,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "mixed",
+    "room_location_note": "This listing covers the château estate's accommodation; the estate has hotel rooms, château apartments and a park cottage, so ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "pool", "gardens"],
+    "how_to_stay": "**Getting there:** The château is in Loučeň in Central Bohemia, about 11 km north of Nymburk and 37 km north-east of Prague; the Booking listing's address is Nymburská 1.\n\n**Rooms & rates:** From approx. €125/night for a 55 m² Suite with a garden view, a private bathroom, soundproofing, a minibar and free Wi-Fi, with breakfast included on the non-refundable rate seen (only one unit was left for the dates checked); a free-cancellation rate was around €144, and a Junior Suite started around €144. Booking shows a small tax charge (about €2) separately.\n\n**On-site:** Hotel rooms, a pool and sauna, restaurants, an English park with labyrinths, and the château interiors, which can be visited with a ticket.\n\n**Good to know:** The estate offers hotel rooms, château apartments and a cottage in the park, so ask which building your room is in. Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. The château's own accommodation page says pets are not allowed.\n\n**Combine with:** [Mcely Château](/castles/czech-republic/mcely-castle), another Thurn-Taxis estate about 5 km away."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "liblice-castle",
+  "name": "Liblice Château",
+  "local_name": "Zámek Liblice",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Central Bohemia — Liblice, Byšice, near Mělník, about 40 km north of Prague",
+  "nearest_city": "Mělník",
+  "address": "Liblice 61, Byšice, 277 32, Czech Republic",
+  "lat": 50.3117,
+  "lng": 14.5865,
+  "unesco": false,
+  "built_label": "1699–1706",
+  "architectural_style": "A Baroque château built in 1699–1706 to a design by the Italian architect Giovanni Battista Alliprandi, regarded as a jewel of Baroque architecture",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Baroque château operating as a conference and hotel complex; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Baroque château built in 1699–1706 to a design by Giovanni Battista Alliprandi for Count Arnošt Josef Pachta of Rájov, run since the early 1950s by the Czech Academy of Sciences and reopened in 2007 as a four-star château hotel",
+  "highlights": [
+    "The château was built in 1699–1706 and is a jewel of Baroque architecture, designed by the Italian architect Giovanni Battista Alliprandi for Count Arnošt Josef Pachta of Rájov",
+    "After the Second World War the state took the property over and placed it under the administration of the Czech Academy of Sciences; it has served as a conference and recreation facility since 1952",
+    "The château was closed to the public until a large reconstruction, partly funded by EU money, finished in 2007",
+    "The 2007 reconstruction created a conference and cultural-education centre with a four-star château hotel, restaurants and a wellness centre",
+    "The hotel's rooms are split between the historic château, with period furnishings, and two modern annexes"
+  ],
+  "description": "Liblice Château was built in 1699–1706 to a design by Giovanni Battista Alliprandi, an Italian architect who designed important buildings for noble families, for Count Arnošt Josef Pachta of Rájov, and it is regarded as a jewel of Baroque architecture.\n\nAfter the Second World War the state took the property over and placed it under the Czech Academy of Sciences, and it has served as a conference and recreation facility since 1952. It was closed to the public until a large reconstruction, partly funded by EU money, was finished in 2007; it turned the château into a conference and cultural-education centre with a four-star hotel, restaurants and a wellness centre.\n\nToday it still belongs to the Czech Academy of Sciences, with rooms split between the historic château and two modern annexes.",
+  "history": "Liblice Château was built in 1699–1706 to a design by Giovanni Battista Alliprandi, an Italian architect who designed important buildings for noble families, for Count Arnošt Josef Pachta of Rájov, and it is regarded as a jewel of Baroque architecture. After the Second World War the state took the property over and placed it under the Czech Academy of Sciences, and it has served as a conference and recreation facility since 1952. It was closed to the public until a large reconstruction, partly funded by EU money, was finished in 2007; it turned the château into a conference and cultural-education centre with a four-star hotel, restaurants and a wellness centre. Today it still belongs to the Czech Academy of Sciences.",
+  "faqs": [
+    {
+      "question": "Who designed Liblice Château?",
+      "answer": "The Italian architect Giovanni Battista Alliprandi designed it for Count Arnošt Josef Pachta of Rájov, and it was built in 1699–1706."
+    },
+    {
+      "question": "Who owns the château today?",
+      "answer": "After the Second World War the state placed it under the Czech Academy of Sciences, which has run it as a conference and recreation facility since 1952; a 2007 reconstruction added the hotel."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/liblice-castle.webp",
+    "alt": "Liblice Château near Mělník, Central Bohemia, Czech Republic — a Baroque château of 1699–1706, now a four-star château hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/liblice-castle.webp",
+  "instagram_tag": "#liblicecastle",
+  "meta_title": "Liblice Château, Czech Republic — Baroque Château Hotel",
+  "meta_description": "Stay at Liblice Château near Mělník, Central Bohemia, Czech Republic — a Baroque château built in 1699–1706. From approx. €90/night.",
+  "tags": [
+    "czech-republic",
+    "central-bohemia",
+    "castle-hotel",
+    "baroque",
+    "conference-centre"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Château Liblice",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=chateau-liblice&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fchateau-liblice.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D239108%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785766900%26srpvid%3D770564f75d59083b%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 90,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "mixed",
+    "room_location_note": "Rooms are split between the historic château and two modern annexes, so ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "gardens"],
+    "how_to_stay": "**Getting there:** In Liblice, in the municipality of Byšice near Mělník, about 40 km north of Prague, in Central Bohemia; Booking lists parking with electric charging and accessible parking.\n\n**Rooms & rates:** From approx. €90/night for a 30 m² Economy Double Room with a double bed, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast included and free cancellation on the rate seen (no prepayment, pay at the property). A 40 m² Deluxe Double Room with a garden view was around €112. Booking shows a small tax charge (about €2) separately.\n\n**On-site:** A restaurant, a spa with a hot tub, gardens, parking and conference facilities.\n\n**Good to know:** The hotel's rooms are split between the historic château and two modern annexes, so ask which building your room is in; entry-level rooms may not be in the château itself. Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking.\n\n**Combine with:** [More castle hotels in Czech Republic](/castle-hotels/czech-republic)."
+  }
+}
