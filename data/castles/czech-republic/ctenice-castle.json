@@ -1,0 +1,90 @@
+{
+  "id": "ctenice-castle",
+  "name": "Ctěnice Château",
+  "local_name": "Zámek Ctěnice",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Prague — Ctěnice, Prague 9",
+  "nearest_city": "Prague",
+  "address": "Bohdanečská 259/1, 190 17 Prague 9, Czech Republic",
+  "lat": 50.1492,
+  "lng": 14.5640,
+  "unesco": false,
+  "built_label": "Gothic fortress first mentioned 1372; rebuilt in the early 18th century",
+  "architectural_style": "A Gothic fortress first mentioned in 1372, rebuilt in the Renaissance style in the 16th century and again in the Baroque style in the early 18th century, with a farm courtyard added around it",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A Museum of Prague site with a hotel in the former granary; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Gothic fortress first mentioned in 1372, rebuilt in the Renaissance and again in the early 18th century, now a Museum of Prague site on the edge of the city with a four-star hotel in its former granary",
+  "highlights": [
+    "The first record of the estate is from 1372, when the Prague burgher Jan Cajzlmajstr bought a Gothic fortress protected by marshy ground and a moat; remains of it can still be traced in the grounds",
+    "In the 16th century the Hrzán of Harasov family rebuilt it in the Renaissance style and laid out a Renaissance garden in what is now the park",
+    "In the early 18th century the Renaissance château was rebuilt in the Baroque style and a farm courtyard was added, with a granary, stables, a riding hall and a sheep shed",
+    "Owners over the centuries included the Hrzán, Waldstein, Losy of Losinthal, Windischgrätz, Des Fours and Schoeller families",
+    "After the Second World War the estate was expropriated and fell into decay; the City of Prague took it over in 1993 and renovated the whole site in 1997–2004",
+    "Today it is run by the Museum of Prague, with exhibitions on guild artefacts and on the history of the nearby village of Vinoř, a carriage house, a bistro, a garden centre and a hotel in the former granary"
+  ],
+  "description": "The estate is first recorded in 1372, when a Prague burgher bought a Gothic fortress protected by marshy ground and a moat; remains of it can still be traced in the grounds, and some structures date back to the 14th century. In the 16th century, under the Hrzán of Harasov family, it was rebuilt in the Renaissance style, with a Renaissance garden in what is now the park.\n\nIn the early 18th century it was rebuilt in the Baroque style and a farm courtyard with a granary, stables, a riding hall and a sheep shed was added; the park was divided into an axial French garden and an English park (another tourism summary calls the present look classicist, so sources differ on the style). After the Second World War the estate was expropriated and neglected.\n\nIn 1993 the château, outbuildings and park became the property of the City of Prague, and between 1997 and 2004 the whole site was renovated. It is now run by the Museum of Prague; the museum says nothing of the original furnishings survived in the halls, which now hold permanent exhibitions, alongside a carriage house, a bistro, a garden centre and a hotel in the former granary.",
+  "history": "The estate is first recorded in 1372, when a Prague burgher bought a Gothic fortress protected by marshy ground and a moat; remains of it can still be traced in the grounds, and some structures date back to the 14th century. In the 16th century, under the Hrzán of Harasov family, it was rebuilt in the Renaissance style, with a Renaissance garden in what is now the park. In the early 18th century it was rebuilt in the Baroque style and a farm courtyard with a granary, stables, a riding hall and a sheep shed was added; the park was divided into an axial French garden and an English park (another tourism summary calls the present look classicist, so sources differ on the style). After the Second World War the estate was expropriated and neglected. In 1993 the château, outbuildings and park became the property of the City of Prague, and between 1997 and 2004 the whole site was renovated. It is now run by the Museum of Prague; the museum says nothing of the original furnishings survived in the halls, which now hold permanent exhibitions.",
+  "faqs": [
+    {
+      "question": "Can I stay inside Ctěnice Château?",
+      "answer": "The hotel occupies the château complex's former granary rather than the château building, which holds the Museum of Prague's exhibitions."
+    },
+    {
+      "question": "Can I visit Ctěnice without staying?",
+      "answer": "Yes. The Museum of Prague runs the château with exhibitions open to visitors with a ticket; check its website for current opening days."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/ctenice-castle.webp",
+    "alt": "Ctěnice Château on the edge of Prague, Czech Republic — a Gothic fortress first mentioned in 1372, now a Museum of Prague site with a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/ctenice-castle.webp",
+  "instagram_tag": "#ctenicecastle",
+  "meta_title": "Ctěnice Château, Prague — Museum & Granary Hotel",
+  "meta_description": "Stay at Ctěnice Château on the edge of Prague, Czech Republic — a Gothic fortress first mentioned in 1372, now a Museum of Prague site. From approx. €130/night.",
+  "tags": [
+    "czech-republic",
+    "prague",
+    "castle-hotel",
+    "gothic",
+    "museum",
+    "renaissance"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [
+    "clam-gallas-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Pytloun Chateau Hotel Ctěnice",
+    "non_guest_access_note": "The château halls hold exhibitions that can be visited with a ticket, according to the Museum of Prague (Friday to Sunday at the time of writing; check its website).",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=pytloun-chateau&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fza-mecka1-2-ctanice.html%3Flabel%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D63a64a1961b5a908dcbf88b8a8b85f70%26aid%3D304142%26ucfs%3D1%26arphpl%3D1%26dest_id%3D77306%26dest_type%3Dhotel%26group_adults%3D2%26req_adults%3D2%26no_rooms%3D1%26group_children%3D0%26req_children%3D0%26ucfac%3D3151",
+    "price_from_night": 130,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "annex",
+    "room_location_note": "The hotel is in the château complex's former granary, not in the château building itself; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "gardens"],
+    "how_to_stay": "**Getting there:** In Ctěnice, in the Vinoř area on the north-eastern edge of Prague (Prague 9), inside the château complex at Bohdanečská 259/1; Booking lists parking.\n\n**Rooms & rates:** From approx. €130/night for a 20 m² Deluxe Double or Twin Room with a garden view, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast and high-speed internet included on the non-refundable rate seen; a free-cancellation rate was around €145, and Booking was showing discounts on some rates for the dates checked. Booking shows a small tax charge (about €4) separately.\n\n**On-site:** A hotel in the château complex's former granary, in grounds with a park, a bistro, a carriage house and exhibitions run by the Museum of Prague.\n\n**Good to know:** The hotel is in the former granary, not in the château building itself. Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. The Museum of Prague lists the château as open Friday to Sunday, so check its website before planning a visit.\n\n**Combine with:** [Clam-Gallas Palace](/castles/czech-republic/clam-gallas-palace), another Museum of Prague building, in the Old Town."
+  }
+}

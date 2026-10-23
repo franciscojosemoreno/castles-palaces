@@ -106,5 +106,21 @@
       "note": "Valtice Palace tagged 'Optional, Extra fee' in GYG itinerary (wine/brunch break) — standard inclusion is Lednice Castle. Applied per Francisco's decision (2026-08-02) to replace GYG search default. Shared tour with lednice-castle. 5.0★/2 reviews → is_top_pick: true per REGLA #3."
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Zámecký Hotel ANTON FLORIAN",
+    "non_guest_access_note": "The château's state rooms and the National Wine Salon can be visited with a ticket, as described in How to Visit",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamecky-valtice&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fanton-florian-zamecky-valtice.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D7054421%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785767114%26srpvid%3Dc46465623c770988%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 72,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "The hotel occupies the left wing of Valtice Château, Zámek 1; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant"],
+    "how_to_stay": "**Getting there:** The hotel is in the left wing of Valtice Château at Zámek 1, so the directions in How to Visit apply; Booking lists parking.\n\n**Rooms & rates:** From approx. €72/night for a 20 m² Double Room (the Tourist category) on a high floor with a view, a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast and high-speed internet included on the non-refundable rate seen; a free-cancellation rate was around €80, and a Comfort Twin Room around €76. Booking shows a small tax charge (about €4) separately.\n\n**On-site:** A restaurant with a terrace, a lobby bar and free Wi-Fi, inside the château the Liechtenstein family used as its seat; Czech tourist board listings say the hotel was renovated in 2020.\n\n**Good to know:** Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. The château's state rooms and the National Wine Salon in the cellars can be visited separately, as described in How to Visit.\n\n**Combine with:** [Lednice Castle](/castles/czech-republic/lednice-castle), the Neo-Gothic counterpart 12 km north in the same UNESCO landscape."
+  }
 }

@@ -1,0 +1,90 @@
+{
+  "id": "st-havel-castle",
+  "name": "St. Havel Château",
+  "local_name": "Zámek Krč (Chateau St. Havel)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Prague — Krč, Prague 4",
+  "nearest_city": "Prague",
+  "address": "Před nádražím 6, 140 00 Prague 4 - Krč, Czech Republic",
+  "lat": 50.0353,
+  "lng": 14.4477,
+  "unesco": false,
+  "built_label": "13th century (neo-Gothic remodelling, mid-19th century)",
+  "architectural_style": "A small 13th-century fortress rebuilt as a Carmelite summer residence from 1627 and remodelled into its present neo-Gothic form in the 19th century, set in an English-style park",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored neo-Gothic château operating as a hotel with a wellness area; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A neo-Gothic château in Prague's Krč district, remodelled in the 19th century on the site of a 13th-century fortress and set in an English park — now a four-star wellness hotel",
+  "highlights": [
+    "A small fortress stood here in the 13th century and appears in property records of 1273; it was captured by the Hussites in 1420",
+    "In 1627 Emperor Ferdinand II gave the estate to the Barefoot Carmelites, who used the château as a summer residence and added the chapel of St Havel",
+    "In 1795 the estate was bought by Jan Gever of Ehrenberg, who added farm buildings and a mill",
+    "Baron Schlosser rebuilt the main building into its present neo-Gothic form and widened the park in the English style; one local guide dates his work to 1840–1880, while other sources give the 1840s or the 1850s–1870s",
+    "The Welz family, led by the glassmaker and landowner Tomáš Welz, owned the château from 1880 to 1948 and added terraces and a fountain",
+    "After confiscation in 1948 the château decayed; it was returned to the Welz heirs after 1989 and reconstructed as a hotel"
+  ],
+  "description": "A small fortress stood on this spot in the 13th century and appears in property records of 1273; the Hussites captured it in 1420. In 1627 Emperor Ferdinand II gave the estate and the church of St Havel to the Barefoot Carmelites, who used the château as a summer residence and added a chapel of St Havel.\n\nAfter their order was dissolved in 1786 the estate passed to the religious fund, and in 1795 Jan Gever of Ehrenberg bought it and added farm buildings. In the 19th century Baron Schlosser rebuilt the main building into its present form, with a large hall in the extended upper wing, a neo-Gothic exterior and an English-style park (sources differ on the exact dates of this remodelling). The Welz family owned the château from 1880 until it was confiscated in 1948.\n\nIt then fell into disrepair for lack of a use, was returned to the Welz heirs after 1989, and was reconstructed as the hotel Chateau St. Havel. Today it is a four-star wellness hotel in Prague 4 with a restaurant in the former chapel, a wellness area and an English park.",
+  "history": "A small fortress stood on this spot in the 13th century and appears in property records of 1273; the Hussites captured it in 1420. In 1627 Emperor Ferdinand II gave the estate and the church of St Havel to the Barefoot Carmelites, who used the château as a summer residence and added a chapel of St Havel. After their order was dissolved in 1786 the estate passed to the religious fund, and in 1795 Jan Gever of Ehrenberg bought it and added farm buildings. In the 19th century Baron Schlosser rebuilt the main building into its present form, with a large hall in the extended upper wing, a neo-Gothic exterior and an English-style park (sources differ on the exact dates of this remodelling). The Welz family owned the château from 1880 until it was confiscated in 1948. It then fell into disrepair for lack of a use, was returned to the Welz heirs after 1989, and was reconstructed as the hotel Chateau St. Havel.",
+  "faqs": [
+    {
+      "question": "How old is Chateau St. Havel?",
+      "answer": "A small fortress stood here in the 13th century; the present neo-Gothic look comes from a 19th-century remodelling."
+    },
+    {
+      "question": "When did it become a hotel?",
+      "answer": "The château was returned to the Welz heirs after 1989 and reconstructed as a hotel."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/st-havel-castle.webp",
+    "alt": "St. Havel Château in the Krč district of Prague, Czech Republic — a neo-Gothic château remodelled in the 19th century, now a wellness hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/st-havel-castle.webp",
+  "instagram_tag": "#sthavelcastle",
+  "meta_title": "St. Havel Château, Prague — Neo-Gothic Wellness Hotel",
+  "meta_description": "Stay at St. Havel Château in Prague's Krč district, Czech Republic — a neo-Gothic château with roots as a 13th-century fortress. From approx. €144/night.",
+  "tags": [
+    "czech-republic",
+    "prague",
+    "castle-hotel",
+    "neo-gothic",
+    "wellness",
+    "park"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [
+    "vysehrad",
+    "prague-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Chateau St. Havel - Wellness Hotel",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=chateau-st-havel&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fchateau-st-havel.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D77306%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785766929%26srpvid%3D9c4f65065ccd00f2%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 144,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at Chateau St. Havel, Před nádražím 6; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "spa", "gardens"],
+    "how_to_stay": "**Getting there:** In Krč, in Prague 4, near Praha-Krč railway station; the Booking listing's address is Před nádražím 6, and Booking lists free on-site parking.\n\n**Rooms & rates:** From approx. €144/night for a 20 m² Standard Double or Twin Room with a garden view, air conditioning, a private bathroom, a flat-screen TV, a coffee machine, a minibar and free Wi-Fi, with breakfast, one parking spot and high-speed internet included on the non-refundable rate seen; a free-cancellation rate was around €160. Booking shows a small tax charge (about €4) separately.\n\n**On-site:** A restaurant in the former castle chapel, a wellness area, an English park with ponds and free parking.\n\n**Good to know:** Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. Sources differ on the exact dates of the neo-Gothic remodelling and on the street address of the château (Před nádražím 6 on Booking).\n\n**Combine with:** [Vyšehrad](/castles/czech-republic/vysehrad), the rocky fortress above the Vltava, and [Prague Castle](/castles/czech-republic/prague-castle), both in the city."
+  }
+}
