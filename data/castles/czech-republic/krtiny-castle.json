@@ -1,0 +1,88 @@
+{
+  "id": "krtiny-castle",
+  "name": "Křtiny Château",
+  "local_name": "Zámek Křtiny",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "South Moravian Region — Křtiny, Blansko District, Moravian Karst",
+  "nearest_city": "Blansko",
+  "address": "Křtiny 1, 679 05 Křtiny, Czech Republic",
+  "lat": 49.2970,
+  "lng": 16.7418,
+  "unesco": false,
+  "built_label": "17th-century Premonstratensian residence (sources give 1658 or 1670); rebuilt 1860s",
+  "architectural_style": "A Baroque residence built by the Premonstratensians of Zábrdovice beside the Křtiny pilgrimage church, rebuilt from 1864 by Vincent of Bubna, who added a floor and gave it nearly its present form",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A university-run château hotel with a restaurant; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Baroque Premonstratensian residence beside Santini's pilgrimage church in the Moravian Karst, rebuilt in the 19th century and now a university-run château hotel with a restaurant and a park",
+  "highlights": [
+    "The château stands on the site of a residence of the Premonstratensians of Zábrdovice in Brno, built next to the pilgrimage church; Loudavým krokem gives 1658 for the residence in its history section and 1670 as the founding year at the top of its page, so sources differ",
+    "The neighbouring Church of the Name of the Virgin Mary was designed by Jan Blažej Santini-Aichel on the site of two older churches, a Romanesque and a Gothic one; Kudy z nudy dates its construction to 1718–1750, while Loudavým krokem gives 1728–1750 for the main part and 1771 for the consecration",
+    "Emperor Joseph II dissolved the monastery, and the residence was sold; František Xaver of Dietrichstein bought it in 1830 according to Kudy z nudy, while Loudavým krokem gives 1834",
+    "Vincent of Bubna, who bought it in 1864, began a rebuilding that added a floor and gave the château almost the form it has today",
+    "The Tauber family and then the Liechtensteins owned it, the latter from the end of the 19th century until the end of the Second World War",
+    "In 1923 it passed to the Higher School of Agriculture in Brno, today's Mendel University, which uses it for teaching and as a hotel"
+  ],
+  "description": "The château grew from a Baroque residence that the Premonstratensians of Zábrdovice built next to the Křtiny pilgrimage church in the mid-17th century; sources give 1658 or 1670. Jan Blažej Santini-Aichel designed the church next door, built in the 18th century and consecrated in 1771.\n\nEmperor Joseph II dissolved the monastery and the residence was sold; the Dietrichstein family bought it around 1830, and Vincent of Bubna began its rebuilding in 1864, adding a floor and giving it nearly its present form. The Tauber family and then the Liechtensteins owned it until the end of the Second World War.\n\nIn 1923 it passed to the Higher School of Agriculture in Brno, today's Mendel University. It was restored from 1994 onwards, with sources giving 2008 or 2012 for the end of the work, and it now operates as a hotel, restaurant and conference centre, in the Moravian Karst northeast of Brno, close to the Macocha Abyss and the Punkva Caves according to Loudavým krokem.",
+  "history": "The château grew from a Baroque residence that the Premonstratensians of Zábrdovice built next to the Křtiny pilgrimage church in the mid-17th century; sources give 1658 or 1670. Jan Blažej Santini-Aichel designed the church next door, built in the 18th century and consecrated in 1771. Emperor Joseph II dissolved the monastery and the residence was sold; the Dietrichstein family bought it around 1830, and Vincent of Bubna began its rebuilding in 1864, adding a floor and giving it nearly its present form. The Tauber family and then the Liechtensteins owned it until the end of the Second World War. In 1923 it passed to the Higher School of Agriculture in Brno, today's Mendel University. It was restored from 1994 onwards, with sources giving 2008 or 2012 for the end of the work, and it now operates as a hotel, restaurant and conference centre.",
+  "faqs": [
+    {
+      "question": "Can you visit Křtiny Château without staying?",
+      "answer": "Not on a guided tour. The château is run as a hotel, restaurant and conference centre by Mendel University and has no tour circuit, but the park is open to the public during the day and the Santini pilgrimage church next door is normally open."
+    },
+    {
+      "question": "Who designed the church next to Křtiny Château?",
+      "answer": "Jan Blažej Santini-Aichel, the Baroque architect, who built it on the site of two older churches; sources date its construction to 1718–1750 or 1728–1750, and it was consecrated in 1771."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/krtiny-castle.webp",
+    "alt": "Křtiny Château beside the Santini pilgrimage church in the Moravian Karst, Czech Republic — a Premonstratensian residence rebuilt in the 19th century",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/krtiny-castle.webp",
+  "instagram_tag": "#krtinycastle",
+  "meta_title": "Křtiny Château, Czech Republic — Moravian Karst Hotel",
+  "meta_description": "Stay at Křtiny Château in the Moravian Karst, Czech Republic — a Baroque Premonstratensian residence. From approx. €97/night.",
+  "tags": [
+    "czech-republic",
+    "south-moravia",
+    "castle-hotel",
+    "baroque",
+    "moravian-karst",
+    "university-run"
+  ],
+  "last_updated": "2026-10-24",
+  "routes": [],
+  "nearby_castles": [
+    "spilberk-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zámek Křtiny",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamek-krtiny&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fza-mek-katiny.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D741360%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785769733%26srpvid%3D10556a80b0da0ea2%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 97,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-24",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the château, Křtiny 1; ask the hotel which wing your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "gardens"],
+    "how_to_stay": "**Getting there:** Křtiny is a village in the Moravian Karst northeast of Brno. By car it takes about 20 to 25 minutes from Brno via Bílovice nad Svitavou and Ochoz u Brna, and a direct bus from Brno's Stará osada stop towards Jedovnice stops in the village, according to Loudavým krokem. Parking is in the village next to the château and the church, and the rate seen included a parking spot.\n\n**Rooms & rates:** From approx. €97/night for a 16 m² Comfort Double or Twin Room with two twin beds, a view, a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast and a parking spot included, on a non-refundable rate; a free-cancellation rate was around €108. Booking showed a small tax charge (about €2) separately and said a Genius discount might be available, which is not included here.\n\n**On-site:** A restaurant serving Czech cuisine, free Wi-Fi, and a park that is open to the public during the day; the pilgrimage church next door is normally open to visitors.\n\n**Good to know:** Rates were seen for one January 2027 stay, a low-season date, so check your own dates on Booking. The château is not a tour monument: Loudavým krokem says there are no guided tours and that the interior is seen mainly as a hotel or restaurant guest. The ossuary with painted skulls is not always open, so check with the information centre, and the village is crowded on the days of the small and large pilgrimages. Sources differ on several dates in the château's history.\n\n**Combine with:** [Špilberk Castle](/castles/czech-republic/spilberk-castle), Brno's hilltop castle, about 20 to 25 minutes away by car according to Loudavým krokem."
+  }
+}

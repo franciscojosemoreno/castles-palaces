@@ -1,0 +1,87 @@
+{
+  "id": "luzec-castle",
+  "name": "Lužec Castle",
+  "local_name": "Zámek Lužec Spa & Wellness Resort (Nejdek)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Karlovy Vary Region — Lužec, Nejdek, Karlovy Vary District, Ore Mountains",
+  "nearest_city": "Karlovy Vary",
+  "address": "Lužec 1, 362 25 Nejdek, Czech Republic",
+  "lat": 50.3176,
+  "lng": 12.7985,
+  "unesco": false,
+  "built_label": "Château rebuilt 1919; converted into a hotel 2010–2014",
+  "architectural_style": "A themed château-style building rebuilt in 1919 from an older lodge, converted into a spa hotel styled after a hunting château of Charles IV in a reconstruction from 2010 to 2014",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A themed château-style spa hotel; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A château-style spa hotel in the forests of the Ore Mountains, built on a 1919 reconstruction and styled after a hunting lodge of Charles IV, with a wellness centre, a medieval-themed tavern and a park",
+  "highlights": [
+    "The hotel's website says the château was built by order of Charles IV in the 14th century as a night shelter during royal hunts; we found no independent source confirming this, so treat it as the hotel's account",
+    "In 1919 the local patron Paul Albrecht Weinkauf commissioned the Munich architect Brendl to rebuild an old hunting lodge into a new château, according to the hotel's history page",
+    "After Weinkauf's death the château passed to a health insurance company, which set up a sanatorium there",
+    "A large reconstruction starting in 2010 turned it into a hotel styled after Charles IV's hunting château, and the hotel presents itself as renewed in 2014",
+    "The grounds were reshaped with pavilions, viewpoints, a park and a car park",
+    "The wellness centre has a counter-current pool, a hot tub and saunas"
+  ],
+  "description": "According to the hotel, the site had a royal hunting lodge from the time of Charles IV in the 14th century; we found no independent confirmation of this. In 1919 the local patron Paul Albrecht Weinkauf had the Munich architect Brendl rebuild the old lodge into a new château. After his death it passed to a health insurance company that opened a sanatorium there.\n\nA large reconstruction from 2010 turned it into a hotel styled as Charles IV's hunting château, and it presented itself in renewed form in 2014; the present building is a 20th-century château rebuilt as a themed hotel.\n\nToday it is a spa and wellness resort in the Ore Mountains forest, with a wellness centre (counter-current pool, hot tub, saunas), a restaurant, a medieval-style tavern and landscaped grounds, about 14 km from Karlovy Vary.",
+  "history": "According to the hotel, the site had a royal hunting lodge from the time of Charles IV in the 14th century; we found no independent confirmation of this. In 1919 the local patron Paul Albrecht Weinkauf had the Munich architect Brendl rebuild the old lodge into a new château. After his death it passed to a health insurance company that opened a sanatorium there. A large reconstruction from 2010 turned it into a hotel styled as Charles IV's hunting château, and it presented itself in renewed form in 2014. Today it is a spa and wellness resort.",
+  "faqs": [
+    {
+      "question": "Is Lužec Castle a medieval castle?",
+      "answer": "Not in its present form. The hotel says a hunting lodge of Charles IV stood here in the 14th century, which we could not independently confirm; the current château was rebuilt in 1919 and converted into a themed spa hotel between 2010 and 2014."
+    },
+    {
+      "question": "What does the spa at Lužec include?",
+      "answer": "The wellness centre has a counter-current pool, a hot tub and saunas, with massages and treatments offered on the hotel's website."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/luzec-castle.webp",
+    "alt": "Lužec Castle in the Ore Mountains near Nejdek, Czech Republic — a themed château-style spa hotel rebuilt in 1919 and converted into a resort",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/luzec-castle.webp",
+  "instagram_tag": "#luzeccastle",
+  "meta_title": "Lužec Castle, Czech Republic — Ore Mountains Spa Resort",
+  "meta_description": "Stay at Lužec Castle near Nejdek in the Ore Mountains, Czech Republic — a château-style spa and wellness resort. From approx. €184/night.",
+  "tags": [
+    "czech-republic",
+    "karlovy-vary-region",
+    "castle-hotel",
+    "spa",
+    "ore-mountains",
+    "wellness"
+  ],
+  "last_updated": "2026-10-24",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zámek Lužec Spa & Wellness Resort",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=zamek-luzec&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fspa-zamek-luzec.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1067809%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785768988%26srpvid%3De7ab68fce47204df%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 184,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-24",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the château building; ask the hotel which floor or wing your room is in",
+    "amenities": ["parking", "restaurant", "gardens", "spa", "pool"],
+    "how_to_stay": "**Getting there:** Lužec is a small place in the Ore Mountains forest, part of Nejdek, about 14 km from Karlovy Vary according to the hotel. The hotel has a car park with 100 spaces.\n\n**Rooms & rates:** From approx. €184/night for two adults on a half-board (breakfast and dinner), non-refundable rate; room categories include Standard, De Luxe, Suite and Apartment. This is the lowest public rate seen, without discounts, and other rates may be cheaper or more flexible.\n\n**On-site:** A spa and wellness centre with a counter-current pool, a hot tub and saunas, a restaurant, a medieval-style tavern, and landscaped grounds with pavilions and viewpoints.\n\n**Good to know:** Rates were seen for one January 2027 stay, a low-season date, so check your own dates on Booking. The present building is a themed 20th-century château; the hotel attributes the original lodge to Charles IV, which we could not confirm independently. The resort is not open to the public as a visitor attraction.\n\n**Combine with:** [More castle hotels in Czech Republic](/castle-hotels/czech-republic)."
+  }
+}
