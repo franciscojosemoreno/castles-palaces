@@ -1,0 +1,89 @@
+{
+  "id": "svetla-nad-sazavou-castle",
+  "name": "Světlá nad Sázavou Château",
+  "local_name": "Zámek Světlá nad Sázavou",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Vysočina Region — Světlá nad Sázavou, Havlíčkův Brod District",
+  "nearest_city": "Havlíčkův Brod",
+  "address": "Zámecká 1, 582 91 Světlá nad Sázavou, Czech Republic",
+  "lat": 49.6673,
+  "lng": 15.4070,
+  "unesco": false,
+  "built_label": "Fortress built 1393; rebuilt 1868–1873",
+  "architectural_style": "A Gothic fortress of 1393 rebuilt as a Renaissance hunting château in 1567 and given its present historicist form in a 19th-century rebuilding for the Salm-Reifferscheidt family; sources differ on the exact dates and on whether its style is neo-Renaissance or classicist with Empire elements",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A château with guided exhibitions and hotel suites; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A château that grew from a moated Gothic fortress of 1393, given its present historicist form in the 1860s and 1870s and now open for guided exhibitions, with a café, hotel suites and an English landscape park beside the Sázava river",
+  "highlights": [
+    "A Gothic fortress protected by moats was built on the left bank of the Sázava in 1393 by Štěpán of Šternberk, according to VisitCzechia; one visitor guide dates the founding to 1392",
+    "Loudavým krokem says the Trčka of Lípa family acquired the estate in 1429 and that Burian Trčka rebuilt the fortress as a Renaissance hunting château in 1567, leaving a Latin inscription over the portal",
+    "The Salm-Reifferscheidt family gave the château its present form: the Viennese architect Svatoš was commissioned for the rebuilding, dated to 1869 by Vysočina Tourism and to 1868–1873 by a visitor guide",
+    "In the 20th century the château housed a school and boarding house; new owners began its restoration in 2014 and opened it to the public",
+    "The exhibitions include about 1,100 pieces of historical European glass lent by the Museum of Decorative Arts in Prague, and a collection of historical clocks, arms and armour",
+    "A winter garden with a cave and a pond sits in the north wing, and an English landscape park with a cascade of ponds surrounds the château"
+  ],
+  "description": "A Gothic fortress protected by moats was built on the left bank of the Sázava in 1393 by Štěpán of Šternberk, according to VisitCzechia (one visitor guide gives 1392). Loudavým krokem says the Trčka of Lípa family acquired it in 1429 and that Burian Trčka had it rebuilt as a Renaissance hunting château in 1567.\n\nThe château took its present historicist form in a rebuilding for the Salm-Reifferscheidt family by the Viennese architect Svatoš, dated to 1869 by Vysočina Tourism and to 1868–1873 by a visitor guide; sources describe its style as neo-Renaissance or classicist with Empire elements, so they differ. In the 20th century it housed a school and boarding house.\n\nNew owners began restoring the château in 2014 and opened it to the public, and today it offers guided exhibitions on historical glass, clocks and arms, a winter garden, a café, hotel suites and a landscape park with ponds.",
+  "history": "A Gothic fortress protected by moats was built on the left bank of the Sázava in 1393 by Štěpán of Šternberk, according to VisitCzechia (one visitor guide gives 1392). Loudavým krokem says the Trčka of Lípa family acquired it in 1429 and that Burian Trčka had it rebuilt as a Renaissance hunting château in 1567. The château took its present historicist form in a rebuilding for the Salm-Reifferscheidt family by the Viennese architect Svatoš, dated to 1869 by Vysočina Tourism and to 1868–1873 by a visitor guide; sources describe its style as neo-Renaissance or classicist with Empire elements, so they differ. In the 20th century it housed a school and boarding house. New owners began restoring the château in 2014 and opened it to the public, and today it offers guided exhibitions, a café, hotel suites and a landscape park.",
+  "faqs": [
+    {
+      "question": "Can you stay at Světlá nad Sázavou Château?",
+      "answer": "Yes. The château offers hotel suites with views of its park, and Booking lists them with free parking."
+    },
+    {
+      "question": "Can you visit the château without staying?",
+      "answer": "Yes. It runs guided exhibitions on historical glass, clocks and arms; opening days and prices change, so check its website before you go."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/svetla-nad-sazavou-castle.webp",
+    "alt": "Světlá nad Sázavou Château beside the Sázava river, Vysočina Region, Czech Republic — a Gothic fortress of 1393 rebuilt in historicist style",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/svetla-nad-sazavou-castle.webp",
+  "instagram_tag": "#svetlanadsazavoucastle",
+  "meta_title": "Světlá nad Sázavou Château, Czech Republic — Hotel Suites",
+  "meta_description": "Stay at Světlá nad Sázavou Château beside the Sázava river, Czech Republic — a Gothic fortress of 1393. From approx. €136/night.",
+  "tags": [
+    "czech-republic",
+    "vysocina",
+    "castle-hotel",
+    "gothic",
+    "museum",
+    "park"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [
+    "lipnice-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Zámek Světlá nad Sázavou",
+    "non_guest_access_note": "The château runs guided exhibitions that can be visited with a ticket; opening days and prices change, so check zameksvetla.cz before you go.",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=chateau-svetla-nad-sazavou&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fchateau-svetla-nad-sazavou.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1880541%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785767657%26srpvid%3De6a9667230a816a1%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 136,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the château's suites, Zámecká 1; ask the hotel which wing your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "gardens"],
+    "how_to_stay": "**Getting there:** In the centre of Světlá nad Sázavou on the left bank of the Sázava, at Zámecká 1. Booking lists free private parking and train access, and a visitor guide says the town's station on the Havlíčkův Brod–Kolín line is a few minutes' walk away.\n\n**Rooms & rates:** From approx. €136/night for a 45 m² Deluxe Double Room on a high floor with a garden view, a private bathroom, a flat-screen TV, soundproofing, a coffee machine and free Wi-Fi, on a rate with free cancellation and no payment due until a few days before arrival; breakfast was an optional extra at about €13, a 40 m² Deluxe Double Room was the same price and a Superior Suite was around €171. Booking showed no extra tax charge for those dates, and said a member discount might be available, which is not included here.\n\n**On-site:** Suites in the château with views of the park, a café and, according to a July 2026 visitor guide, a restaurant, guided exhibitions, a winter garden and an English landscape park with ponds.\n\n**Good to know:** Rates were seen for one January 2027 stay, a low-season date, so check your own dates on Booking. Sources differ on the château's opening days and on its architectural style, so check zameksvetla.cz before planning a visit.\n\n**Combine with:** [Lipnice Castle](/castles/czech-republic/lipnice-castle), the medieval castle above the Sázava in Lipnice nad Sázavou, also in the Vysočina Region."
+  }
+}

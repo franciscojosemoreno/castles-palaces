@@ -1,0 +1,90 @@
+{
+  "id": "zbiroh-castle",
+  "name": "Zbiroh Castle",
+  "local_name": "Zámek Zbiroh",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Plzeň Region — Zbiroh, Rokycany District",
+  "nearest_city": "Rokycany",
+  "address": "Zbiroh 1, 338 08 Zbiroh, Czech Republic",
+  "lat": 49.8580,
+  "lng": 13.7623,
+  "unesco": false,
+  "built_label": "12th century; Renaissance rebuilding, 16th century; Neo-Renaissance remodelling, 19th century",
+  "architectural_style": "A hilltop castle founded in the 12th century, converted into a Renaissance château under Rudolf II in the 16th century and remodelled in the Neo-Renaissance style in the 19th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored hilltop castle operating as a hotel with a wellness area and indoor pool; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A hilltop castle founded in the 12th century, turned into a Renaissance château under Rudolf II and home to Alfons Mucha while he painted the Slav Epic — now a four-star castle hotel with a wellness area, an indoor pool and a tavern",
+  "highlights": [
+    "The castle dates back to the 12th century; its own website attributes its foundation to Břetislav of Zbiroh, and in the 13th century King Ottokar II of Bohemia took it over and, according to the castle, invited the Knights Templar to it",
+    "It calls itself the \"Castle of Three Emperors\" after Charles IV, Sigismund of Luxembourg and Rudolf II, who owned it in turn; Rudolf II transformed it into a Renaissance château in the 16th century",
+    "During the Thirty Years' War it served as a prison, and six Czech noblemen who escaped the execution on Prague's Old Town Square in 1621 were held here",
+    "In the 19th century the financier Bethel Henry Strousberg remodelled it as a Neo-Renaissance residence; after his bankruptcy it passed to the Colloredo-Mansfeld family",
+    "Alfons Mucha lived in the castle with his family and painted his Slav Epic in a glass-roofed hall; sources give his stay as 18 or 19 years",
+    "Private owners bought it in 2004 and restored it, and it opened to the public in 2005; today it is a hotel with a wellness area, a tavern, guided tours, a park and a vineyard"
+  ],
+  "description": "The castle dates back to the 12th century; its own website attributes the foundation to Břetislav of Zbiroh. In the 13th century King Ottokar II of Bohemia took it over and, according to the castle, invited the Knights Templar. Charles IV, Sigismund of Luxembourg and Rudolf II all owned it, and Rudolf II had it converted into a Renaissance château in the 16th century. During the Thirty Years' War it was a prison, and six Czech noblemen who escaped the 1621 execution in Prague were held there.\n\nIn the 19th century Bethel Henry Strousberg remodelled it in the Neo-Renaissance style; after his bankruptcy the estate passed to the Colloredo-Mansfeld family. Alfons Mucha lived and worked in the castle for 18 or 19 years, depending on the source, and painted his Slav Epic in a glass-roofed hall.\n\nIn the Second World War the Wehrmacht and then the SS used the castle, and under communism it served as a military site, leaving it badly damaged. Private owners bought it in 2004, restored it and opened it to the public in 2005. Today it operates as a hotel with a wellness area, an indoor pool, a tavern, guided tours, a park and a vineyard.",
+  "history": "The castle dates back to the 12th century; its own website attributes the foundation to Břetislav of Zbiroh. In the 13th century King Ottokar II of Bohemia took it over and, according to the castle, invited the Knights Templar. Charles IV, Sigismund of Luxembourg and Rudolf II all owned it, and Rudolf II had it converted into a Renaissance château in the 16th century. During the Thirty Years' War it was a prison, and six Czech noblemen who escaped the 1621 execution in Prague were held there. In the 19th century Bethel Henry Strousberg remodelled it in the Neo-Renaissance style; after his bankruptcy the estate passed to the Colloredo-Mansfeld family. Alfons Mucha lived and worked in the castle for 18 or 19 years, depending on the source, and painted his Slav Epic in a glass-roofed hall. In the Second World War the Wehrmacht and then the SS used the castle, and under communism it served as a military site, leaving it badly damaged. Private owners bought it in 2004, restored it and opened it to the public in 2005.",
+  "faqs": [
+    {
+      "question": "Did Alfons Mucha live at Zbiroh Castle?",
+      "answer": "Yes. He lived here with his family and painted his Slav Epic in a glass-roofed hall; sources give his stay as 18 or 19 years."
+    },
+    {
+      "question": "Can you stay at Zbiroh Castle?",
+      "answer": "Yes. The castle operates as a hotel with a wellness area and a tavern, and also offers guided tours."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/zbiroh-castle.webp",
+    "alt": "Zbiroh Castle in the Plzeň Region, Czech Republic — a 12th-century hilltop castle, home to Alfons Mucha, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/zbiroh-castle.webp",
+  "instagram_tag": "#zbirohcastle",
+  "meta_title": "Zbiroh Castle, Czech Republic — Castle of Three Emperors Hotel",
+  "meta_description": "Stay at Zbiroh Castle in the Plzeň Region, Czech Republic — a 12th-century castle linked to Alfons Mucha. From approx. €145/night.",
+  "tags": [
+    "czech-republic",
+    "plzen-region",
+    "castle-hotel",
+    "renaissance",
+    "spa",
+    "mucha"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [
+    "krivoklat-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Chateau Zbiroh",
+    "non_guest_access_note": "The castle offers guided tours; opening times change, so check zbiroh.com before you go.",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=chateau-zbiroh&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fchateau-zbiroh.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D383989%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785768200%26srpvid%3De38a676f9bec096f%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 145,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "Rooms are at the castle, Zbiroh 1; ask the hotel which building your room is in",
+    "amenities": ["parking", "restaurant", "gardens", "spa", "pool"],
+    "how_to_stay": "**Getting there:** In the town of Zbiroh in the Rokycany District, on a hill between the Křivoklátsko and Brdy forests, at Zbiroh 1; Booking lists free private parking.\n\n**Rooms & rates:** From approx. €145/night for a 25 m² Standard Double or Twin Room with a private bathroom, a flat-screen TV and a minibar, on the non-refundable rate seen, which did not include breakfast; a rate with breakfast and free cancellation was around €161, and a 40 m² Deluxe Double Room around €223. Booking showed a small tax charge (about €2) separately, and a cheaper offer from a Booking partner company that is not included here.\n\n**On-site:** A wellness area with a spa and hot tub and an indoor swimming pool according to Booking, a tavern, a park, a vineyard and guided castle tours.\n\n**Good to know:** Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. Sources differ on how long Alfons Mucha lived here, 18 or 19 years.\n\n**Combine with:** [Křivoklát Castle](/castles/czech-republic/krivoklat-castle), the royal hunting castle in the Křivoklátsko forests nearby."
+  }
+}

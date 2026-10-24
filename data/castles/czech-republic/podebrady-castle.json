@@ -1,0 +1,86 @@
+{
+  "id": "podebrady-castle",
+  "name": "Poděbrady Castle",
+  "local_name": "Zámek Poděbrady",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Central Bohemian Region — Poděbrady, Nymburk District",
+  "nearest_city": "Poděbrady",
+  "address": "Jiřího náměstí 1, 290 01 Poděbrady, Czech Republic",
+  "lat": 50.1417,
+  "lng": 15.1194,
+  "unesco": false,
+  "built_label": "13th-century stone castle; Renaissance rebuilding 1548–1580; Baroque rebuilding, 1720s",
+  "architectural_style": "A stone castle built by King Ottokar II of Bohemia on the site of a wooden fortress, rebuilt in the Renaissance style between 1548 and 1580 and again in the Baroque style in the 1720s",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A historic royal castle with a hotel in its historic part; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A royal castle on the Elbe, traditionally the birthplace of King George of Poděbrady, rebuilt in the Renaissance and Baroque styles and now home to a small château hotel with a private wellness area in the centre of the spa town",
+  "highlights": [
+    "A wooden fortress stood here first; King Ottokar II of Bohemia replaced it with a stone castle, which became the seat of the Lordship of Poděbrady",
+    "King John of Bohemia pledged the lordship and the castle in 1345, and from 1350 it passed to the Kunštát family, whose Poděbrady line took its name from the town",
+    "According to legend, King George of Poděbrady, great-grandson of Boček of Poděbrady, was born in the castle",
+    "After the Crown took over the lordship in 1495 the castle was rebuilt in the Renaissance style between 1548 and 1580, and again in the Baroque style in the 1720s",
+    "Maria Theresa stayed here several times, and under Joseph II it was a residence for retired army officers",
+    "In 1839 the Crown sold the castle and lordship to the Viennese banker Georg Simon Sina"
+  ],
+  "description": "A wooden fortress stood on the site, and King Ottokar II of Bohemia replaced it with a stone castle that became the seat of the Lordship of Poděbrady. King John pledged the lordship and the castle to Hynek of Lichtenburg in 1345, and in 1350 the castle came to the Kunštát family through the marriage of Hynek's daughter to Boček I of Poděbrady. According to legend, King George of Poděbrady, Boček's great-grandson, was born in the castle.\n\nThe castle passed to King Vladislaus II in 1495 and stayed with the Bohemian Crown until 1839. It was reconstructed in the Renaissance style between 1548 and 1580 and in the Baroque style in 1723–1724, with further changes after 1750, although a Czech tourism source dates the Baroque work to 1723–1780.\n\nMaria Theresa stayed here several times, and under Joseph II it housed retired army officers. In 1839 the Crown sold the castle and lordship to the Viennese banker Georg Simon Sina. Today the historic part of the castle houses a small hotel with a private wellness area, in the centre of the spa town on the Elbe.",
+  "history": "A wooden fortress stood on the site, and King Ottokar II of Bohemia replaced it with a stone castle that became the seat of the Lordship of Poděbrady. King John pledged the lordship and the castle to Hynek of Lichtenburg in 1345, and in 1350 the castle came to the Kunštát family through the marriage of Hynek's daughter to Boček I of Poděbrady. According to legend, King George of Poděbrady, Boček's great-grandson, was born in the castle. The castle passed to King Vladislaus II in 1495 and stayed with the Bohemian Crown until 1839. It was reconstructed in the Renaissance style between 1548 and 1580 and in the Baroque style in 1723–1724, with further changes after 1750, although a Czech tourism source dates the Baroque work to 1723–1780. Maria Theresa stayed here several times, and under Joseph II it housed retired army officers. In 1839 the Crown sold the castle and lordship to the Viennese banker Georg Simon Sina. Today the historic part of the castle houses a small hotel.",
+  "faqs": [
+    {
+      "question": "Is the hotel inside Poděbrady Castle?",
+      "answer": "Yes. It occupies the historic part of the castle in the centre of Poděbrady, beside the Elbe."
+    },
+    {
+      "question": "Who was born at Poděbrady Castle?",
+      "answer": "According to legend, King George of Poděbrady, who ruled Bohemia in the 15th century, was born here."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/podebrady-castle.webp",
+    "alt": "Poděbrady Castle beside the Elbe in the centre of Poděbrady, Czech Republic — a royal castle rebuilt in Renaissance and Baroque styles, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/podebrady-castle.webp",
+  "instagram_tag": "#podebradycastle",
+  "meta_title": "Poděbrady Castle, Czech Republic — Royal Castle Hotel",
+  "meta_description": "Stay at Poděbrady Castle beside the Elbe in the spa town of Poděbrady, Czech Republic — the traditional birthplace of King George. From approx. €159/night.",
+  "tags": [
+    "czech-republic",
+    "central-bohemia",
+    "castle-hotel",
+    "renaissance",
+    "baroque",
+    "spa-town"
+  ],
+  "last_updated": "2026-10-23",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Zámecký hotel & Wellness",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=zamek-podebrady&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fzamecky-penzion-podebrady.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D7440560%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785768878%26srpvid%3D105568d4fd641356%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 159,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the historic part of Poděbrady Castle, Jiřího náměstí 1; ask the hotel which building your room is in",
+    "amenities": ["wifi", "spa", "parking"],
+    "how_to_stay": "**Getting there:** In the centre of Poděbrady beside the Elbe, at Jiřího náměstí 1, within a short walk of the town's railway and bus stops according to Spa.cz; Booking lists parking, and Spa.cz says parking at the hotel is paid.\n\n**Rooms & rates:** From approx. €159/night for a 20 m² Superior Double Room with a queen bed, air conditioning, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast and high-speed internet included on the non-refundable rate seen; a free-cancellation rate was around €176. Booking shows a small tax charge (about €2) separately, and some member-only discounts that are not included here.\n\n**On-site:** A private wellness area with a whirlpool and a Finnish sauna, a buffet breakfast and rooms in the historic part of the castle; the nearest restaurants are a short walk away.\n\n**Good to know:** Rates were seen for one February 2027 stay, a low-season date, so check your own dates on Booking. Booking lists the property under the name \"Zámecký hotel & Wellness\", and some listings call it a guesthouse, so check that you are booking the castle hotel at Jiřího náměstí.\n\n**Combine with:** [More castle hotels in Czech Republic](/castle-hotels/czech-republic)."
+  }
+}

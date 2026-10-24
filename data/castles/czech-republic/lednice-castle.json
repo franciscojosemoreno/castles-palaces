@@ -126,5 +126,21 @@
       "booking_url_override": "https://www.getyourguide.com/vienna-l17/south-moravia-valtice-lednice-mikulov-private-day-trip-t750464/?partner_id=XDLEZT9&utm_medium=online_publisher"
     }
   ],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Zámecký Hotel Lednice",
+    "non_guest_access_note": "The château's state rooms can be visited with a ticket, as described in How to Visit",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=zamecky-lednice&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fzamecky-lednice.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D383324%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785768234%26srpvid%3Dbf3c679314421800%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 94,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-23",
+    "room_location": "annex",
+    "room_location_note": "The hotel is in a historic building on the château square beside Lednice Château, not in the château itself; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant"],
+    "how_to_stay": "**Getting there:** The hotel is at Zámecké náměstí 66, on the château square beside Lednice Château, so the directions in How to Visit apply; Booking lists free private parking.\n\n**Rooms & rates:** From approx. €94/night for a Double Room in the Attic of 15 m² or a Double Room, with air conditioning, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast, free cancellation and no prepayment on the rate seen; a Double or Twin Room was around €111. Booking shows a small tax charge (about €3) separately.\n\n**On-site:** A restaurant and confectionery and garden seating in the château park with a view of the château, according to Kudy z nudy, in a building that once housed guests of the princely family that owned the estate and has been a hotel since 1918.\n\n**Good to know:** Rates were seen for one Friday-to-Saturday stay in February 2027, a low-season date, so check your own dates on Booking. The hotel is in a separate historic building, not in the château's state rooms, which can be visited as described in How to Visit.\n\n**Combine with:** [Valtice Chateau](/castles/czech-republic/valtice-chateau), 12 km away in the same UNESCO landscape, which also has a hotel in its left wing."
+  }
 }
