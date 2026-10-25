@@ -1,0 +1,90 @@
+{
+  "id": "zdar-nad-sazavou-castle",
+  "name": "Žďár nad Sázavou Château",
+  "local_name": "Zámek Žďár (Žďár nad Sázavou)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Vysočina Region — Žďár nad Sázavou, Žďár nad Sázavou District",
+  "nearest_city": "Žďár nad Sázavou",
+  "address": "Zámek 8, 591 02 Žďár nad Sázavou, Czech Republic",
+  "lat": 49.5817,
+  "lng": 15.9361,
+  "unesco": false,
+  "built_label": "Cistercian monastery 1252; Baroque rebuilding by Santini-Aichel in the early 18th century",
+  "architectural_style": "A former Cistercian monastery prelature rebuilt into a massive four-wing château-like building by Jan Blažej Santini-Aichel in a Baroque Gothic style in the early 18th century, with an adjoining French garden",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A former Cistercian monastery with museums, guided tours and accommodation in several historic buildings; contact the owners directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A former Cistercian monastery rebuilt by Jan Blažej Santini-Aichel into a four-wing Baroque château, owned again by the Kinský family and now open all year with museums, guided tours and apartments and rooms in the tower, the gardener's house and the mill",
+  "highlights": [
+    "The Cistercian monastery at Žďár nad Sázavou was founded in 1252 by Boček of Zbraslav, according to the Association of Castle and Chateau Owners",
+    "It was looted in the Hussite wars, and in 1458 it passed to King George of Poděbrady; in 1614 Cardinal František Dietrichstein abolished the monastery and had the prelature rebuilt into a château in 1614–1616",
+    "The Cistercians returned in 1639, and the monastery reached its peak under Abbot Václav Vejmluva in 1705–1738, when the architect Jan Blažej Santini-Aichel designed new buildings in a Baroque Gothic style",
+    "A deliberately started fire in 1784 led the last abbot to ask Emperor Joseph II to abolish the monastery, which was decreed on 13 October 1784",
+    "In 1826 Count Josef Vratislav of Mitrovice bought the complex at auction, and in 1930 it passed to the Chlumec branch of the Kinský family",
+    "The state confiscated the château in 1948, and a Book Museum of the National Museum was housed there until 2015; it was returned to the Kinský family in 1992"
+  ],
+  "description": "The Cistercian monastery at Žďár nad Sázavou was founded in 1252 and looted in the Hussite wars. In 1614 Cardinal František Dietrichstein abolished it and rebuilt the prelature into a château, but the Cistercians returned in 1639 and the monastery peaked under Abbot Václav Vejmluva in 1705–1738, when Jan Blažej Santini-Aichel rebuilt the prelature into a four-wing château-like building with a French garden.\n\nA deliberate fire in 1784 led to the abolition of the monastery by Emperor Joseph II. The complex was bought by Count Mitrovský in 1826, passed to the Kinský family in 1930, was confiscated in 1948 and returned in 1992.\n\nToday it is owned by Charles Nicolas and Constantin Kinský and run as a visitor attraction with accommodation, with a New Generation Museum, guided tours, a café and a shop, and apartments and rooms spread across the tower, the gardener's house and the mill, next to the UNESCO pilgrimage church at Zelená hora, which is administered by the church and is a separate monument.",
+  "history": "The Cistercian monastery at Žďár nad Sázavou was founded in 1252 and looted in the Hussite wars. In 1614 Cardinal František Dietrichstein abolished it and rebuilt the prelature into a château, but the Cistercians returned in 1639 and the monastery peaked under Abbot Václav Vejmluva in 1705–1738, when Jan Blažej Santini-Aichel rebuilt the prelature into a four-wing château-like building with a French garden. A deliberate fire in 1784 led to the abolition of the monastery by Emperor Joseph II. The complex was bought by Count Mitrovský in 1826, passed to the Kinský family in 1930, was confiscated in 1948 and returned in 1992. Today it is owned by Charles Nicolas and Constantin Kinský and run as a visitor attraction with accommodation.",
+  "faqs": [
+    {
+      "question": "Can you visit Žďár Château without staying?",
+      "answer": "Yes. The château grounds are freely accessible all year, and the New Generation Museum, guided tours, café and shop have their own opening times; check zamekzdar.cz before you go."
+    },
+    {
+      "question": "Who designed the Baroque buildings at Žďár?",
+      "answer": "Jan Blažej Santini-Aichel, the Baroque Gothic architect, who rebuilt the monastery prelature into a four-wing château-like building for Abbot Václav Vejmluva in the early 18th century."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/zdar-nad-sazavou-castle.webp",
+    "alt": "Žďár nad Sázavou Château, a former Cistercian monastery in the Vysočina Region, Czech Republic, rebuilt by Jan Blažej Santini-Aichel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/zdar-nad-sazavou-castle.webp",
+  "instagram_tag": "#zdarnadsazavoucastle",
+  "meta_title": "Žďár nad Sázavou Château, Czech Republic — Monastery Hotel",
+  "meta_description": "Stay at Žďár nad Sázavou Château, a former Cistercian monastery in the Vysočina Region, Czech Republic. From approx. €151/night.",
+  "tags": [
+    "czech-republic",
+    "vysocina",
+    "castle-hotel",
+    "baroque",
+    "monastery",
+    "santini"
+  ],
+  "last_updated": "2026-10-25",
+  "routes": [],
+  "nearby_castles": [
+    "lipnice-castle",
+    "svetla-nad-sazavou-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Zámek Žďár",
+    "non_guest_access_note": "The château grounds are freely accessible all year; the museum, café and shop and guided tours have their own opening times, which change by season, so check zamekzdar.cz before you go.",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamek-zdar&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fapartment-zamek-zdar.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D1535773%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785770379%26srpvid%3D369e6b988f8e021f%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 151,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-25",
+    "room_location": "mixed",
+    "room_location_note": "Rooms and apartments are spread across several historic buildings in the château grounds; ask the owners which building yours is in",
+    "amenities": ["parking", "wifi", "gardens"],
+    "how_to_stay": "**Getting there:** The château stands in Žďár nad Sázavou in the Vysočina Region, and the UNESCO-listed pilgrimage church at Zelená hora is part of the same architectural landscape according to the château's website. Booking lists free parking.\n\n**Rooms & rates:** From approx. €151/night for a 20 m² Deluxe Double Room with a queen bed, a view, a private bathroom, a coffee machine, a minibar and free Wi-Fi, with breakfast included, free cancellation and no prepayment on the rate seen. Booking showed the price with taxes and fees included. Other units, such as apartments in the tower, the gardener's house or the mill, may be cheaper or dearer.\n\n**On-site:** A New Generation Museum with interactive exhibitions, guided tours of the former monastery, a café, a shop, a playroom and the château grounds with gardens.\n\n**Good to know:** Rates were seen for one January 2027 stay, a low-season date, so check your own dates on Booking. The château grounds are freely accessible all year, while the museum, café and guided tours have seasonal opening times, so check zamekzdar.cz. The accommodation is in several historic buildings rather than one block.\n\n**Combine with:** [Lipnice Castle](/castles/czech-republic/lipnice-castle) and [Světlá nad Sázavou Château](/castles/czech-republic/svetla-nad-sazavou-castle), both also in the Vysočina Region."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "letohrad-castle",
+  "name": "Letohrad Château",
+  "local_name": "Zámek Letohrad",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Pardubice Region — Letohrad, Ústí nad Orlicí District, Orlické Mountains foothills",
+  "nearest_city": "Ústí nad Orlicí",
+  "address": "Václavské náměstí 1, 561 51 Letohrad, Czech Republic",
+  "lat": 50.0353,
+  "lng": 16.4998,
+  "unesco": false,
+  "built_label": "Wooden fortress 1554; early Baroque château late 17th century; present form c. 1730; restored 1990s",
+  "architectural_style": "A château grown from a wooden fortress built in 1554, converted into an early Baroque château with a detached tower towards the end of the 17th century, and given most of its present form around 1730 when the tower was pulled down and a connecting wing was added",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A château on the main square of Letohrad with a hotel, museum and guided tours; contact the Letohrad information centre regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A château on the main square of Letohrad, grown from a 16th-century fortress into an early Baroque château with its present form around 1730, now home to a hotel, a restaurant, a town museum with a Jára Cimrman room and guided tours of its Baroque to Art Nouveau interiors",
+  "highlights": [
+    "According to the Route of Castles and Palaces, the château began as a wooden fortress built in 1554 on the order of Zdeněk Žampach of Potštejn, then owner of the estate",
+    "Towards the end of the 17th century it was converted into an early Baroque château with a detached tower",
+    "It gained most of its present appearance around 1730, when the tower was pulled down and a connecting wing was added",
+    "A major reconstruction in the 1990s created space for a hotel, a restaurant, a private grammar school, a library and an elementary art school alongside the exhibitions",
+    "The guided tour takes about half an hour and shows furnishings from the Baroque, Historicism and Art Nouveau eras, and works by Alfons Mucha, who rented a studio in Letohrad for some time",
+    "The château vaults hold a museum and a room devoted to the fictional genius Jára Cimrman"
+  ],
+  "description": "According to the Route of Castles and Palaces, the château grew from a wooden fortress built in 1554 by Zdeněk Žampach of Potštejn. Towards the end of the 17th century it was converted into an early Baroque château with a detached tower, and around 1730 the tower was pulled down and a connecting wing was added, giving the building most of its present appearance.\n\nOther sources give an older Gothic fortress called Kyšperk on the nearby Hradisko hill, first recorded in 1308, so the early history is told differently by different sources. The town itself was called Kyšperk until 1950, when four villages merged into Letohrad.\n\nThe château was extensively rebuilt in the 1990s and now houses a hotel and restaurant, a library, schools and exhibitions, including a town museum with a Jára Cimrman room and a half-hour guided tour of Baroque to Art Nouveau interiors with works by Alfons Mucha, who rented a studio in Letohrad for some time.",
+  "history": "According to the Route of Castles and Palaces, the château grew from a wooden fortress built in 1554 by Zdeněk Žampach of Potštejn. Towards the end of the 17th century it was converted into an early Baroque château with a detached tower, and around 1730 the tower was pulled down and a connecting wing was added, giving the building most of its present appearance. The château was extensively rebuilt in the 1990s and now houses a hotel and restaurant, a library, schools and exhibitions. Other sources give an older Gothic fortress called Kyšperk on the nearby Hradisko hill, first recorded in 1308, so the early history is told differently by different sources.",
+  "faqs": [
+    {
+      "question": "Can you visit Letohrad Château without staying?",
+      "answer": "Partly. The town museum and the Jára Cimrman room on the ground floor are open in summer and by reservation otherwise, and guided tours of the interiors have been offered; check the Letohrad information centre because the building has been under renovation."
+    },
+    {
+      "question": "What is the Jára Cimrman room at Letohrad Château?",
+      "answer": "A museum room in the château vaults devoted to Jára Cimrman, a fictional Czech genius from a well-known theatre tradition, which is a regular stop on the château tour."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/letohrad-castle.webp",
+    "alt": "Letohrad Château on the main square of Letohrad, Pardubice Region, Czech Republic",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/letohrad-castle.webp",
+  "instagram_tag": "#letohradcastle",
+  "meta_title": "Letohrad Château, Czech Republic — Main Square Hotel",
+  "meta_description": "Stay at Letohrad Château on the main square of Letohrad, Czech Republic — a château hotel with a town museum. From approx. €81/night.",
+  "tags": [
+    "czech-republic",
+    "pardubice-region",
+    "castle-hotel",
+    "baroque",
+    "museum",
+    "orlicke-mountains"
+  ],
+  "last_updated": "2026-10-25",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Hotel Zámek Letohrad",
+    "non_guest_access_note": "The town museum and the Jára Cimrman room on the ground floor are open in summer and otherwise by reservation at the town museum; tours and opening times change, so check the Letohrad information centre before you go.",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=zamek-letohrad&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fzamek-letohrad.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D14210424%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785773435%26srpvid%3D1f2671bbad170bf3%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 81,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-25",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the château; ask the hotel which floor or wing your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "gardens"],
+    "how_to_stay": "**Getting there:** The château stands on Václavské náměstí, the main square of Letohrad, in the Pardubice Region at the foot of the Orlické Mountains. Booking lists street parking.\n\n**Rooms & rates:** From approx. €81/night for a 22 m² Double Room with a private bathroom, a queen bed, a garden view and free Wi-Fi, with free cancellation and no prepayment on the rate seen; breakfast was optional at around €8, and a Double Room with an Extra Bed and a Twin Room cost the same. Booking showed the price with taxes and fees included.\n\n**On-site:** A restaurant, a château park, a town museum with a Jára Cimrman room and a guided tour of the interiors; the building also houses a library and schools.\n\n**Good to know:** Rates were seen for one January 2027 stay, a low-season date, so check your own dates on Booking. The Route of Castles and Palaces says the building is closed this season for renovations while the museum and the Cimrman room stay open in summer and otherwise by reservation, so check the Letohrad information centre before you plan a visit. Sources differ on the earlier history of the site.\n\n**Combine with:** [More castle hotels in Czech Republic](/castle-hotels/czech-republic)."
+  }
+}
