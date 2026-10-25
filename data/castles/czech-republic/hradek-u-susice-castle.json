@@ -1,0 +1,88 @@
+{
+  "id": "hradek-u-susice-castle",
+  "name": "Hrádek Château near Sušice",
+  "local_name": "Zámek Hrádek (Hrádek u Sušice)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Plzeň Region — Hrádek, Klatovy District, Šumava foothills",
+  "nearest_city": "Sušice",
+  "address": "Hrádek 1, 342 01 Sušice, Czech Republic",
+  "lat": 49.2614,
+  "lng": 13.4979,
+  "unesco": false,
+  "built_label": "Renaissance château after 1568; Baroque château added 1731; restored 2000s–2010",
+  "architectural_style": "A Renaissance château built after 1568 on the site of an abandoned medieval manor, with a Baroque château added in front of it in 1731, a chapel of St Walburga from 1775 and a classicist look added in the early 19th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored Renaissance and Baroque château operating as a hotel with a pool and wellness area; contact the hotel directly regarding specific accessibility requirements. The building is not fully accessible for wheelchairs, according to Loudavým krokem.",
+  "booking_advance_days": 1,
+  "tagline": "A Renaissance château with a Baroque château built in front of it in 1731, on the edge of the Šumava forests and now a château hotel with an indoor pool, wellness area and restaurant, and a free park with a nature trail named after a writer who lived here",
+  "highlights": [
+    "In the 14th century a fortified manor stood here, held by Sezima and Protiva of Hrádek, and from 1371 the place belonged to the Velhartice estate, according to Loudavým krokem",
+    "After 1568 the Račín of Račín family rebuilt the abandoned manor into a Renaissance château; two parallel one-storey wings with gables that still carry traces of sgraffito survive from that time",
+    "In 1731 Count Jan Ferdinand Desfours bought the estate and, instead of demolishing the old château, built a new Baroque château in front of it, with a central projection, a portal and his coat of arms in the gable",
+    "The château chapel of St Walburga dates from 1775, and the complex received a classicist look in the early 19th century",
+    "From 1827 the estate belonged to the Sturmfeder family, and from them to the Hennebergs, the last owners before 1945",
+    "The writer František Pravda (born Vojtěch Hlinka) came to Hrádek in 1847 as a tutor in the Sturmfeder family and lived here until his death in 1904; the park trail and a museum in the grounds carry his name"
+  ],
+  "description": "In the 14th century a fortified manor stood at Hrádek, held by Sezima and Protiva of Hrádek, and from 1371 it belonged to the Velhartice estate. After 1568 the Račín of Račín family rebuilt the abandoned manor into a Renaissance château.\n\nIn 1731 Count Jan Ferdinand Desfours built a new Baroque château in front of the old one, and a chapel of St Walburga followed in 1775. The estate passed to the Sturmfeders in 1827 and later to the Hennebergs, who owned it until 1945. The writer František Pravda, born Vojtěch Hlinka, came to Hrádek in 1847 as a tutor in the Sturmfeder family and lived here until his death in 1904.\n\nIn the second half of the 20th century the buildings housed offices, flats and storerooms and fell into disrepair; a restoration begun after 2000 was finished in 2010 and the château now operates as a hotel with a restaurant, a wellness area with a pool, and a free park with an orangery and the František Pravda nature trail, on the edge of Šumava near Sušice.",
+  "history": "In the 14th century a fortified manor stood at Hrádek, held by Sezima and Protiva of Hrádek, and from 1371 it belonged to the Velhartice estate. After 1568 the Račín of Račín family rebuilt the abandoned manor into a Renaissance château. In 1731 Count Jan Ferdinand Desfours built a new Baroque château in front of the old one, and a chapel of St Walburga followed in 1775. The estate passed to the Sturmfeders in 1827 and later to the Hennebergs, who owned it until 1945. In the second half of the 20th century the buildings housed offices, flats and storerooms and fell into disrepair; a restoration begun after 2000 was finished in 2010 and the château now operates as a hotel.",
+  "faqs": [
+    {
+      "question": "Can you visit Hrádek Château without staying?",
+      "answer": "The park, the orangery and the František Pravda nature trail are freely accessible. Interiors such as the heraldic hall and the chapel are usually open only for concerts, events or by arrangement."
+    },
+    {
+      "question": "Who was František Pravda?",
+      "answer": "A writer, born Vojtěch Hlinka, who came to Hrádek in 1847 as a tutor in the Sturmfeder family and lived here until his death in 1904; the nature trail and a museum in the grounds are named after him."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hradek-u-susice-castle.webp",
+    "alt": "Hrádek Château near Sušice, Šumava foothills, Czech Republic — a Renaissance château with a Baroque château built in front of it in 1731, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hradek-u-susice-castle.webp",
+  "instagram_tag": "#hradekcastle",
+  "meta_title": "Hrádek Château near Sušice, Czech Republic — Šumava Hotel",
+  "meta_description": "Stay at Hrádek Château near Sušice, Czech Republic — a Renaissance château with a Baroque château added in 1731. From approx. €126/night.",
+  "tags": [
+    "czech-republic",
+    "plzen-region",
+    "castle-hotel",
+    "renaissance",
+    "baroque",
+    "sumava"
+  ],
+  "last_updated": "2026-10-25",
+  "routes": [],
+  "nearby_castles": [],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Zámek Hrádek",
+    "non_guest_access_note": "The château park and the František Pravda nature trail are freely accessible; interiors such as the heraldic hall and the chapel are usually open only for concerts, events or by arrangement, so check the hotel website before you go.",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=zamek-hradek&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fzamek-hradek.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D311217%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785769940%26srpvid%3Df0ea6ae7975604f9%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 126,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-25",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the château; ask the hotel which building and floor your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "gardens", "spa", "pool"],
+    "how_to_stay": "**Getting there:** The château stands in the centre of the small village of Hrádek, a few kilometres from Sušice in the Klatovy district; the nearest railway hub is Sušice, from where you continue by bus or a few kilometres on foot or by bike, according to Loudavým krokem. Booking lists free private parking with electric charging.\n\n**Rooms & rates:** From approx. €126/night for a 15 m² Exclusive Double or Twin Room with a bath, a private bathroom and free Wi-Fi, with breakfast included, free cancellation and no prepayment on the rate seen; a 20 m² Deluxe room was around €138 and a Royal Queen Room around €183. Booking showed the price with taxes and fees included, plus a possible member discount that is not included here.\n\n**On-site:** A restaurant, a wellness area with a pool, free Wi-Fi, and a free park with an orangery and the František Pravda nature trail.\n\n**Good to know:** Rates were seen for one January 2027 stay, a low-season date, so check your own dates on Booking. The château is a working hotel rather than a ticketed monument: the park and trail are free, while interiors such as the heraldic hall and the chapel are usually open only for concerts, events or by arrangement. The building is not fully accessible for wheelchairs, according to Loudavým krokem.\n\n**Combine with:** [More castle hotels in Czech Republic](/castle-hotels/czech-republic)."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "skvorec-castle",
+  "name": "Škvorec Castle (Savoia Castle)",
+  "local_name": "Zámek Škvorec (Starý zámek)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Central Bohemian Region — Škvorec, Prague-East District",
+  "nearest_city": "Prague",
+  "address": "Smiřických 1, 250 83 Škvorec, Czech Republic",
+  "lat": 50.0462,
+  "lng": 14.7338,
+  "unesco": false,
+  "built_label": "Gothic castle c. 1279; Renaissance residence 16th century; Baroque repairs 1710–1729; restored from 2008",
+  "architectural_style": "Only the surviving south-eastern part of a much larger Gothic castle indirectly mentioned around 1279, rebuilt into a Renaissance residence in the 16th century and given Baroque form after 1710; most of the complex was demolished between 1860 and 1884",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A boutique castle hotel occupying the surviving part of a historic castle; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The surviving south-eastern part of a Gothic-Renaissance castle east of Prague, restored since 2008 by a Russian-Italian family and now a boutique castle hotel with eight suites, an outdoor pool and a restaurant, known as Savoia Castle after a former owner of the House of Savoy",
+  "highlights": [
+    "Škvorec Castle is indirectly mentioned around 1279, when the courtier Domaslav, butler to Queen Kunigunda, is said to have begun building it, and it is fully documented only from 1404; only the old well and remains of a Gothic palace recall that time",
+    "Over the centuries it was rebuilt into a Renaissance residence, and owners included the Olbramovic family of Prague, the lords of Klinštejn and the Smiřický family",
+    "It passed to the Liechtenstein family after the Battle of White Mountain, in 1622 according to Wikipedia and 1623 according to the castle's own history page",
+    "On 27 November 1639 the Swedish army plundered it and burned it, and it lay in ruins until the early 18th century",
+    "From 1729 the northern part was the seat of Princess Maria Theresa of Savoy-Soissons, born a Liechtenstein, who restored it and gave it its Baroque appearance; her family link to the House of Savoy gave the castle its modern name",
+    "After her death in 1772 the castle declined, and between 1860 and 1884 most of it was demolished, leaving only the south-eastern part with the gate tower",
+    "A Russian-Italian family bought the ruinous remnants in 2008, restored them and opened the castle to the public in part from 2016; today it is a boutique hotel with suites, an outdoor pool, a restaurant and a programme of events"
+  ],
+  "description": "The castle at Škvorec was founded around 1279 by the courtier Domaslav and is fully documented from 1404; only an old well and traces of a Gothic palace survive from that time. In the 16th century it became a Renaissance residence under the Smiřický family, and it passed to the Liechtensteins after 1621. Swedish troops burned it in 1639, and it lay in ruins until it was repaired from 1710.\n\nFrom 1729 Princess Maria Theresa of Savoy-Soissons, born a Liechtenstein, lived there and gave it its Baroque form; her family link to the House of Savoy gave the castle its modern name, Savoia Castle. After her death in 1772 it declined, and from 1860 to 1884 most of it was demolished, leaving only the south-eastern part. The remnants were used as flats and school space, and the southern wing served as a synagogue and a yeshiva for the local Jewish community until 1939.\n\nThe castle was listed as a monument in 1958. A Russian-Italian family bought the ruinous remnants in 2008, restored them and reopened part of the castle to the public from 2016. Today's building is only the surviving south-eastern part of a much larger medieval and Renaissance castle; it operates as a boutique hotel with suites, an outdoor pool, a restaurant, private tours, tastings and events, about 23 km east of Prague.",
+  "history": "The castle at Škvorec was founded around 1279 by the courtier Domaslav and is fully documented from 1404; only an old well and traces of a Gothic palace survive from that time. In the 16th century it became a Renaissance residence under the Smiřický family, and it passed to the Liechtensteins after 1621. Swedish troops burned it in 1639, and it lay in ruins until it was repaired from 1710; from 1729 Princess Maria Theresa of Savoy-Soissons, born a Liechtenstein, lived there and gave it its Baroque form. After her death in 1772 it declined, and from 1860 to 1884 most of it was demolished, leaving only the south-eastern part. The remnants were used as flats and school space, listed as a monument in 1958 and bought by a private family in 2008, who restored them and renamed the castle Savoia Castle.",
+  "faqs": [
+    {
+      "question": "Why is Škvorec Castle called Savoia Castle?",
+      "answer": "The name alludes to Princess Maria Theresa of Savoy-Soissons, born a Liechtenstein, who restored the burned castle from 1729 and lived there for decades; the family that restored it in 2008 chose the name."
+    },
+    {
+      "question": "Is Savoia Castle open to visitors?",
+      "answer": "Not as a walk-in monument. The castle offers private tours, tastings, cooking classes and events by booking, and guests staying in its suites can see the grounds."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/skvorec-castle.webp",
+    "alt": "Škvorec Castle, known as Savoia Castle, east of Prague, Czech Republic — the surviving part of a Gothic-Renaissance castle, now a boutique hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/skvorec-castle.webp",
+  "instagram_tag": "#skvoreccastle",
+  "meta_title": "Škvorec Castle (Savoia Castle), Czech Republic — Boutique Hotel",
+  "meta_description": "Stay at Škvorec Castle, known as Savoia Castle, east of Prague, Czech Republic — a restored Gothic-Renaissance castle remnant. From approx. €544/night.",
+  "tags": [
+    "czech-republic",
+    "central-bohemia",
+    "castle-hotel",
+    "gothic",
+    "renaissance",
+    "boutique-hotel"
+  ],
+  "last_updated": "2026-10-25",
+  "routes": [],
+  "nearby_castles": [
+    "prague-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Savoia Castle",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=savoia-castle&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fsavoia-castle.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D2659941%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785770222%26srpvid%3D4ff76b74b6e20269%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 544,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-25",
+    "room_location": "castle",
+    "room_location_note": "Suites are in the castle building; ask the hotel which suite and floor your room is on",
+    "amenities": ["parking", "wifi", "restaurant", "gardens", "pool"],
+    "how_to_stay": "**Getting there:** Škvorec is a small town about 23 km east of Prague. Booking lists free private parking with electric charging; the castle asks guests to park only in the designated areas inside the grounds or in the town's public car parks, and to keep noise down after 22:00.\n\n**Rooms & rates:** From approx. €544/night for a 28 m² Superior Double Room with a queen bed, a view, a bath, a patio and a terrace, on a non-refundable rate; the same room with free cancellation was around €680. Breakfast was optional at around €15. These rates were seen for one early December 2026 night and are well above the typical rates of other Czech château hotels, so check your own dates on Booking. Booking showed the price with taxes and fees included.\n\n**On-site:** A restaurant, an outdoor swimming pool, a park, free Wi-Fi and a programme of private tours, wine and craft beer tastings and cooking classes that can be booked directly with the castle.\n\n**Good to know:** The castle is not a walk-in monument: visits are by private booking or at events. Today's building is only the surviving south-eastern part of a much larger medieval and Renaissance castle. Sources differ on whether the Liechtensteins bought it in 1622 or 1623.\n\n**Combine with:** [Prague Castle](/castles/czech-republic/prague-castle), about 23 km west of Škvorec."
+  }
+}

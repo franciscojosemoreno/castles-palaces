@@ -1,0 +1,89 @@
+{
+  "id": "berchtold-castle",
+  "name": "Berchtold Château",
+  "local_name": "Zámek Berchtold (Kunice–Vidovice)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "czech-republic",
+  "region": "Central Bohemian Region — Vidovice, Kunice, Prague-East District",
+  "nearest_city": "Prague",
+  "address": "Hlavní 6, 251 63 Kunice, Czech Republic",
+  "lat": 49.9289,
+  "lng": 14.6675,
+  "unesco": false,
+  "built_label": "Estate recorded 1388; château from 1877, enlarged 1904; hotel since 2011",
+  "architectural_style": "A château built up from a newly created estate in 1877 and enlarged with its largest building works in 1904, on the site of a manor recorded at Vidovice in 1388 that had disappeared by the second half of the 15th century",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A restored late-19th-century château operating as a hotel with a village museum and a private wellness area; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A village château south-east of Prague with a manor recorded in 1388, set up as a château in 1877 and enlarged in 1904, now a château hotel with a restaurant, a private wellness area, a village museum and a park beside the D1 motorway",
+  "highlights": [
+    "The hotel's history page records a manor and estate at Vidovice in 1388, held by a noble family styled \"of Vidovice\"; the manor seems to have disappeared in the second half of the 15th century, possibly after the Hussite wars",
+    "On 24 December 1877 a newly created separate estate called Vidovice, with a representative building, a farm and a brickworks, was handed to the newlyweds Eleonora Brzorádová and Rudolf Kainz",
+    "In 1894 the estate was sold to the Milner family, who carried out the biggest building works in 1904; from 1906 the seat was called a newly built château with a park",
+    "Owners over the years included the Berchtold noble family, which gave the château its present name",
+    "Kudy z nudy says the château was used by the Gestapo in the Second World War and, from the second half of the 20th century, by the Prague air-defence unit of the Czechoslovak army",
+    "New owners took it over on 18 April 2005 and carried out a six-year reconstruction, adding a wing towards the park, extending the park and building a sports centre"
+  ],
+  "description": "A manor at Vidovice is recorded in 1388 but seems to have disappeared in the second half of the 15th century. The present château grew from a separate estate created in 1877, with a representative building, a farm and a brickworks. The Milner family, who bought it in 1894, carried out the largest building works in 1904, and from 1906 it was described as a newly built château with a park. The Berchtold family were among its later owners.\n\nIn the 20th century it was used by the Gestapo and later by the Czechoslovak army's Prague air defence; it was handed to the municipality after 1990 and then sold to a company that left it in debt.\n\nNew owners took it over in 2005 and spent six years on a reconstruction, adding a wing and a sports centre and opening it to the public as a hotel. The ground floor houses a village museum from 1935, and the château now runs as a hotel with a restaurant and a private wellness area, about 15 km from Prague beside the D1 motorway.",
+  "history": "A manor at Vidovice is recorded in 1388 but seems to have disappeared in the second half of the 15th century. The present château grew from a separate estate created in 1877, with a representative building, a farm and a brickworks. The Milner family, who bought it in 1894, carried out the largest building works in 1904, and from 1906 it was described as a newly built château with a park. The Berchtold family were among its later owners. In the 20th century it was used by the Gestapo and later by the Czechoslovak army's Prague air defence; it was handed to the municipality after 1990 and then sold to a company that left it in debt. New owners took it over in 2005 and spent six years on a reconstruction, adding a wing and a sports centre and opening it to the public as a hotel.",
+  "faqs": [
+    {
+      "question": "Is Berchtold Château a medieval castle?",
+      "answer": "No. A manor is recorded at Vidovice in 1388, but the present château grew from an estate created in 1877 and was enlarged in 1904; it became a hotel after a reconstruction that began in 2005."
+    },
+    {
+      "question": "Can you visit Berchtold Château without staying?",
+      "answer": "Partly. The ground-floor village museum is open to the public, and guided tours with the owner run at weekends by reservation, according to Kudy z nudy and the hotel website; check before you go."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/berchtold-castle.webp",
+    "alt": "Berchtold Château in Kunice-Vidovice near Prague, Czech Republic — a château built up from an 1877 estate, now a hotel",
+    "credit": "Castles & Palaces",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/berchtold-castle.webp",
+  "instagram_tag": "#berchtoldcastle",
+  "meta_title": "Berchtold Château, Czech Republic — Village Castle Hotel",
+  "meta_description": "Stay at Berchtold Château near Prague, Czech Republic — a village château with a restaurant and a private wellness area. From approx. €121/night.",
+  "tags": [
+    "czech-republic",
+    "central-bohemia",
+    "castle-hotel",
+    "near-prague",
+    "village-museum"
+  ],
+  "last_updated": "2026-10-25",
+  "routes": [],
+  "nearby_castles": [
+    "prague-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Hotel Zámek Berchtold",
+    "non_guest_access_note": "The ground floor with the village museum is open to the public, and guided tours of the château run by reservation, mainly at weekends; times change, so check the hotel website before you go.",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=zamek-berchtold&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fcz%2Fzamek-berchtold.html%3Faid%3D304142%26label%3Dgen173nr-10CAQoggJCDXNlYXJjaF9ldXJvcGVIM1gEaAyIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Atb6gtMGwAIB0gIkMTYzOGExMDYtZDFhZi00OWFiLThlYjctODUxMDQ0M2Q0MTM22AIB4AIB%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26dest_id%3D349455%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1785770257%26srpvid%3Dca996b836340000c%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 121,
+    "currency": "EUR",
+    "star_category": 3,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-10-25",
+    "room_location": "mixed",
+    "room_location_note": "Some rooms are in the château and some in a wing added to the château; ask the hotel which building your room is in",
+    "amenities": ["parking", "wifi", "restaurant", "gardens", "spa"],
+    "how_to_stay": "**Getting there:** Kunice-Vidovice is about 15 km south-east of Prague, close to the D1 motorway towards Brno, according to Kudy z nudy and Wikipedia. Booking lists free on-site parking.\n\n**Rooms & rates:** From approx. €121/night for a Standard Double or Twin Room with a view, a private bathroom, a flat-screen TV and free Wi-Fi, with breakfast included, on a non-refundable rate that can be rescheduled; a free-cancellation rate was around €128. Booking showed the price with taxes and fees included, plus a member discount that is not included here.\n\n**On-site:** A restaurant, a private château wellness area with hydromassage baths and massages, a village museum on the ground floor, a sports centre and a park.\n\n**Good to know:** Rates were seen for one January 2027 stay, a low-season date, so check your own dates on Booking. Some rooms are in the château and some in a wing added during the reconstruction. Guided tours with the owner run at weekends by reservation, and sources differ on the exact times. The present château dates from 1877 and was enlarged in 1904, not from the Middle Ages.\n\n**Combine with:** [Prague Castle](/castles/czech-republic/prague-castle), about 15 km away in the centre of Prague."
+  }
+}
