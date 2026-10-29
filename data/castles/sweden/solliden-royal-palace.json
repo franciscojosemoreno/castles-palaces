@@ -26,7 +26,8 @@
     "sunday": "11:00–17:00",
     "seasonal_note": "Open approximately mid-May to mid-September only (closed the rest of the year). Confirm exact seasonal opening dates at sollidensslott.se before visiting."
   },
-  "price_adult": 15,
+  "price_adult": 14,
+  "price_currency": "EUR",
   "price_child": 7,
   "booking_required": false,
   "official_tickets_url": "https://www.sollidensslott.se/",

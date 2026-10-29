@@ -26,7 +26,7 @@
     "sunday": "10:00–17:00",
     "seasonal_note": "Open Tuesday to Sunday year-round; check the museum website for any seasonal variation."
   },
-  "price_adult": 15,
+  "price_adult": 16,
   "price_child": 0,
   "booking_required": false,
   "official_tickets_url": "https://www.burgzug.ch/en",
@@ -84,5 +84,6 @@
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
   "gyg_featured_tours": null,
-  "gyg_direct_link_override": false
+  "gyg_direct_link_override": false,
+  "price_currency": "EUR"
 }

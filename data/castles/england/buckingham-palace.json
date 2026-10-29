@@ -26,7 +26,7 @@
     "sunday": "09:30–19:30",
     "seasonal_note": "State Rooms open only for a roughly 8-week summer season, typically late July to late September, while the Royal Family is at Balmoral."
   },
-  "price_adult": 32,
+  "price_adult": 38,
   "price_child": 17,
   "booking_required": true,
   "official_tickets_url": "https://www.rct.uk/visit/the-state-rooms-buckingham-palace",
@@ -90,5 +90,6 @@
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "price_currency": "EUR"
 }

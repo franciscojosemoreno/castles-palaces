@@ -26,7 +26,7 @@
     "sunday": "11:00–16:30",
     "seasonal_note": "Open 12 April to 30 September only; closed in winter. Castle opens at 11:00, walled garden from 10:00."
   },
-  "price_adult": 29,
+  "price_adult": 35,
   "price_child": 0,
   "booking_required": false,
   "official_tickets_url": "https://www.floorscastle.com/",
@@ -80,5 +80,6 @@
   "gyg_widget_type": "activities",
   "gyg_num_results": 1,
   "gyg_featured_tours": [],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "price_currency": "EUR"
 }

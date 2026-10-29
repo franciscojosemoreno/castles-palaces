@@ -25,7 +25,7 @@
     "sunday": "Closed",
     "seasonal_note": "Open Tuesday to Saturday, April to October, typically 10:00–17:00 (last entry 16:00). Closed Sundays, Mondays and from November to March."
   },
-  "price_adult": 24,
+  "price_adult": 29,
   "price_child": 14,
   "booking_required": true,
   "visit_duration": "2–3 hours",
@@ -87,5 +87,6 @@
   "gyg_search_query": "Arundel Castle Sussex tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [],
+  "price_currency": "EUR"
 }

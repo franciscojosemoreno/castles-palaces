@@ -26,9 +26,9 @@
     "sunday": "10:00–17:00",
     "seasonal_note": "Open April to October Tuesday–Sunday. Closed Monday and November–March. The GetYourGuide boat tour runs only on non-rainy days — weather-dependent cancellations are refunded."
   },
-  "price_adult": 20,
+  "price_adult": 5,
   "price_child": 10,
-  "price_currency": "PLN",
+  "price_currency": "EUR",
   "booking_required": false,
   "official_tickets_url": "https://www.mhmg.pl",
   "visit_duration": "1 hour on-site; 2.5 hours total with the boat trip (30 minutes each way) from Gdańsk",

@@ -26,7 +26,7 @@
     "sunday": "11:00–17:00",
     "seasonal_note": "Extended to 18:00 April to October. Managed by Cadw (Welsh heritage). Reduced hours in winter."
   },
-  "price_adult": 7,
+  "price_adult": 8,
   "price_child": 4,
   "booking_required": false,
   "official_tickets_url": "https://cadw.gov.wales/raglan-castle",
@@ -71,13 +71,22 @@
   "instagram_tag": "#raglancastle",
   "meta_title": "Raglan Castle, Wales — The Last Great Medieval Castle of Wales",
   "meta_description": "Visit Raglan Castle in Monmouthshire — Wales's most impressive late medieval fortress with a moated Great Tower and a dramatic Civil War history.",
-  "tags": ["medieval", "welsh-castle", "monmouthshire", "civil-war", "ruins"],
+  "tags": [
+    "medieval",
+    "welsh-castle",
+    "monmouthshire",
+    "civil-war",
+    "ruins"
+  ],
   "last_updated": "2026-06-01",
   "routes": [],
-  "nearby_castles": ["caerphilly-castle"],
+  "nearby_castles": [
+    "caerphilly-castle"
+  ],
   "gyg_location_id": "161277",
   "gyg_search_query": "Raglan Castle Wales tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 4,
-  "gyg_featured_tours": []
+  "gyg_featured_tours": [],
+  "price_currency": "EUR"
 }

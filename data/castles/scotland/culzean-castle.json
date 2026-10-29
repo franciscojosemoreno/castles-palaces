@@ -26,7 +26,7 @@
     "sunday": "10:00-17:00",
     "seasonal_note": "Castle open April to October, 10:00–17:00 daily. Country Park grounds open year-round from 09:00."
   },
-  "price_adult": 13,
+  "price_adult": 16,
   "price_child": 8,
   "booking_required": false,
   "official_tickets_url": "https://www.nts.org.uk/visit/places/culzean-castle-and-country-park",
@@ -97,5 +97,6 @@
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
   "gyg_featured_tours": [],
-  "gyg_direct_link_override": true
+  "gyg_direct_link_override": true,
+  "price_currency": "EUR"
 }

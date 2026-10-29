@@ -26,9 +26,9 @@
     "sunday": "09:30–17:30",
     "seasonal_note": "Summer hours (April–September): daily 09:30–17:30. Winter hours (October–March): daily 10:00–16:00. Last admission 30 minutes before closing. Managed by Historic Environment Scotland. Confirm current hours at historicenvironment.scot — seasonal changes apply."
   },
-  "price_adult": 10,
+  "price_adult": 12,
   "price_child": 6,
-  "price_currency": "GBP",
+  "price_currency": "EUR",
   "booking_required": false,
   "official_tickets_url": "https://www.historicenvironment.scot",
   "visit_duration": "1.5–2 hours (self-guided; the Edinburgh half-day guided tour runs approximately 105 minutes inside the palace)",
