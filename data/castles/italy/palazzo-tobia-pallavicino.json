@@ -76,7 +76,7 @@
   "og_image": "/images/castles/palazzo-tobia-pallavicino.webp",
   "instagram_tag": "#palazzocatregalcataldi",
   "meta_title": "Palazzo Tobia Pallavicino Genoa: Rolli Palaces Tour & Visitor Guide 2026",
-  "meta_description": "Visit Palazzo Tobia Pallavicino on Via Garibaldi, Genoa — a 1558 Bergamasco palace with the Galleria Dorata Rococo interior. Rolli tour from €15.",
+  "meta_description": "Visit Palazzo Tobia Pallavicino on Via Garibaldi, Genoa — a 1558 Bergamasco palace with the Galleria Dorata Rococo interior. Rolli tour from €14.",
   "tags": [
     "italy",
     "liguria",
@@ -110,7 +110,7 @@
       "title": "Guided Tour of Rolli Palaces UNESCO Site, Genoa",
       "type": "guided_tour",
       "duration": "2.5 hours",
-      "price_from": 15,
+      "price_from": 14,
       "rating": 4.5,
       "reviews": 593,
       "is_top_pick": false,
@@ -120,7 +120,8 @@
         "palazzo-rosso",
         "palazzo-lomellino",
         "palazzo-tobia-pallavicino"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -100,7 +100,7 @@
       "title": "Trogir: Guided Walking Tour of the Old Town",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 12.8,
+      "price_from": 16,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
@@ -108,7 +108,8 @@
       "covers_castles": [
         "kamerlengo-castle"
       ],
-      "note": "Guided walking tour of Trogir's UNESCO old town including Kamerlengo Castle's exterior and setting, Cathedral of St. Lawrence (with Radovan portal), North Gate, and city highlights. The tour covers the castle from the exterior as part of a city walk — no interior ticket line item in GYG includes. Professional English-speaking guide. New listing — no reviews yet."
+      "note": "Guided walking tour of Trogir's UNESCO old town including Kamerlengo Castle's exterior and setting, Cathedral of St. Lawrence (with Radovan portal), North Gate, and city highlights. The tour covers the castle from the exterior as part of a city walk — no interior ticket line item in GYG includes. Professional English-speaking guide. New listing — no reviews yet.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

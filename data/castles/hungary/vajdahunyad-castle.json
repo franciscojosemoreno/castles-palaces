@@ -92,14 +92,15 @@
       "title": "Budapest: City Park- True Crime of Hungary- Walking Tour",
       "type": "guided_tour",
       "duration": "105 minutes",
-      "price_from": 14.79,
+      "price_from": 17,
       "rating": 4.9,
       "reviews": 63,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/budapest-l29/budapest-city-park-true-crime-of-hungary-walking-tour-t976883/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "vajdahunyad-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -70,7 +70,7 @@
   "og_image": "/images/castles/palazzo-doria-pamphilj.webp",
   "instagram_tag": "#doriapamphilj",
   "meta_title": "Palazzo Doria Pamphilj Rome: Velázquez, Caravaggio & Italy's Finest Private Gallery — Guide 2026",
-  "meta_description": "Visit Palazzo Doria Pamphilj in Rome — Italy's greatest private gallery with Velázquez's Innocent X, two Caravaggios, and works by Raphael and Titian. Reserved entry ticket from €23.2.",
+  "meta_description": "Visit Palazzo Doria Pamphilj in Rome — Italy's greatest private gallery with Velázquez's Innocent X, two Caravaggios, and works by Raphael and Titian. Reserved entry ticket from €29.",
   "tags": [
     "italy",
     "rome",
@@ -99,7 +99,7 @@
       "title": "Rome: Doria Pamphilj Gallery Entry Ticket",
       "type": "entry_ticket",
       "duration": "70 minutes – 3 hours",
-      "price_from": 23.2,
+      "price_from": 29,
       "rating": 4.7,
       "reviews": 1875,
       "is_top_pick": false,
@@ -107,7 +107,8 @@
       "covers_castles": [
         "palazzo-doria-pamphilj"
       ],
-      "note": "Official reserved entry ticket. GYG Includes: 'Reserved entry ticket to Doria Pamphilj Gallery,' official audio guide, Rome audio guide app. Optional upgrades: Secret Apartments guided tour; evening classical concert with welcome drink. 4.7★ / 1,875 reviews → is_top_pick: false (4.7 < 4.8 per REGLA #3)."
+      "note": "Official reserved entry ticket. GYG Includes: 'Reserved entry ticket to Doria Pamphilj Gallery,' official audio guide, Rome audio guide app. Optional upgrades: Secret Apartments guided tour; evening classical concert with welcome drink. 4.7★ / 1,875 reviews → is_top_pick: false (4.7 < 4.8 per REGLA #3).",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

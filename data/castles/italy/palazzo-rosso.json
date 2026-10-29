@@ -76,7 +76,7 @@
   "og_image": "/images/castles/palazzo-rosso.webp",
   "instagram_tag": "#palazzorosso",
   "meta_title": "Palazzo Rosso Genoa: Art Museum, Van Dyck & Rolli Palaces — Guide 2026",
-  "meta_description": "Visit Palazzo Rosso on Via Garibaldi, Genoa — the 1677 Brignole Sale palace with Van Dyck, Dürer, and Veronese. Rolli guided tour from €15.",
+  "meta_description": "Visit Palazzo Rosso on Via Garibaldi, Genoa — the 1677 Brignole Sale palace with Van Dyck, Dürer, and Veronese. Rolli guided tour from €14.",
   "tags": [
     "italy",
     "liguria",
@@ -108,7 +108,7 @@
       "title": "Guided Tour of Rolli Palaces UNESCO Site, Genoa",
       "type": "guided_tour",
       "duration": "2.5 hours",
-      "price_from": 15,
+      "price_from": 14,
       "rating": 4.5,
       "reviews": 593,
       "is_top_pick": false,
@@ -118,7 +118,8 @@
         "palazzo-rosso",
         "palazzo-lomellino",
         "palazzo-tobia-pallavicino"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

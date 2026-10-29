@@ -105,14 +105,15 @@
       "title": "Vienna: Skip-the-Line Sisi Museum, Hofburg and Gardens Tour",
       "type": "skip_the_line",
       "duration": "2.5 hours",
-      "price_from": 52,
+      "price_from": 53,
       "rating": 4.8,
       "reviews": 7259,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/vienna-l7/skip-the-line-sisi-museum-hofburg-and-gardens-tour-vienna-t471440/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "hofburg-palace"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

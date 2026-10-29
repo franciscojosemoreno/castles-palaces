@@ -101,7 +101,7 @@
       "title": "Rome: Villa Medici Official Guided Tour",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 45,
+      "price_from": 60,
       "rating": 4.3,
       "reviews": 32,
       "is_top_pick": true,
@@ -109,7 +109,8 @@
       "covers_castles": [
         "villa-medici"
       ],
-      "note": "Official guided tour led by the Académie de France's own authorised guides. Admission ticket, historic rooms, gardens, and courtyards included via skip-the-line entry. Max 10 participants, English or French. Not wheelchair/mobility accessible. Rated 4.3★ from 32 reviews."
+      "note": "Official guided tour led by the Académie de France's own authorised guides. Admission ticket, historic rooms, gardens, and courtyards included via skip-the-line entry. Max 10 participants, English or French. Not wheelchair/mobility accessible. Rated 4.3★ from 32 reviews.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

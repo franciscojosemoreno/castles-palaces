@@ -103,14 +103,15 @@
       "title": "Arnóia, Faria & Guimarães: Portugal's Hidden Medieval Castles from Porto",
       "type": "day_trip",
       "duration": "10 hours",
-      "price_from": 169,
+      "price_from": 204,
       "rating": 5.0,
       "reviews": 10,
       "is_top_pick": true,
       "covers_castles": [
         "guimaraes-castle"
       ],
-      "booking_url_override": "https://www.getyourguide.com/guimaraes-l4960/medieval-castles-of-portugal-full-day-trip-from-porto-t762108/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/guimaraes-l4960/medieval-castles-of-portugal-full-day-trip-from-porto-t762108/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

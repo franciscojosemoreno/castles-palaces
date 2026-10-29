@@ -89,14 +89,15 @@
       "title": "Bergen: Past & Present Small Group Guided Walking Tour",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 32,
+      "price_from": 34,
       "rating": 4.9,
       "reviews": 2032,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/bergen-l1132/bergen-bergen-past-present-guided-walking-tour-t401189/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "bergenhus-fortress"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

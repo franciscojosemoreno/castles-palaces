@@ -102,7 +102,7 @@
       "title": "Balchik Palace & Kaliakra Fortress — Day Trip from Varna",
       "type": "day_trip",
       "duration": "full day",
-      "price_from": 70,
+      "price_from": 77,
       "rating": 4.5,
       "reviews": 4,
       "is_top_pick": false,
@@ -111,7 +111,8 @@
         "balchik-palace",
         "kaliakra-fortress"
       ],
-      "note": "Full-day guided excursion from Varna combining Cape Kaliakra Fortress (medieval clifftop ruins, 40 maidens legend, Black Sea views) with Balchik Palace (Queen Marie of Romania's botanical garden and villa complex). Rated 4.5★ from 4 reviews."
+      "note": "Full-day guided excursion from Varna combining Cape Kaliakra Fortress (medieval clifftop ruins, 40 maidens legend, Black Sea views) with Balchik Palace (Queen Marie of Romania's botanical garden and villa complex). Rated 4.5★ from 4 reviews.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

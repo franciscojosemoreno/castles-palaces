@@ -95,14 +95,15 @@
       "title": "Perth: The Black Watch Castle and Museum Entry Ticket",
       "type": "entry_ticket",
       "duration": "1.5–2 hours",
-      "price_from": 15,
+      "price_from": 16,
       "rating": 4.9,
       "reviews": 9,
       "is_top_pick": true,
       "covers_castles": [
         "black-watch-castle"
       ],
-      "booking_url_override": "https://www.getyourguide.com/perth-scotland-l101355/perth-the-black-watch-castle-and-museum-entry-ticket-t820082/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/perth-scotland-l101355/perth-the-black-watch-castle-and-museum-entry-ticket-t820082/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "pricing_unit": "person"
     }
   ]
 }

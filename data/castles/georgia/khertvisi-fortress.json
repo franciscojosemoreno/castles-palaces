@@ -95,7 +95,7 @@
       "title": "Kutaisi: Vardzia and Beyond — Historical Day Tour",
       "type": "day_trip",
       "duration": "full day",
-      "price_from": 60,
+      "price_from": 62,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
@@ -103,7 +103,8 @@
       "covers_castles": [
         "khertvisi-fortress"
       ],
-      "note": "Historical day tour from Kutaisi via Green Monastery, Timotesubani, Khertvisi, and Vardzia. Visit to Khertvisi confirmed (GYG ✓: 'Visit to Khertvisi Fortress'). Entrance fee to Khertvisi (10 GEL, ~€3-4) is EXPLICITLY EXCLUDED (GYG ✗: 'Entrance fee to Khertvisi: 10 GEL') — visitor pays on-site. Do NOT claim entrance included — describe as 'guided stop included; separate 10 GEL entrance fee on-site.' Multi-stop day tour also covers Vardzia (not in this batch)."
+      "note": "Historical day tour from Kutaisi via Green Monastery, Timotesubani, Khertvisi, and Vardzia. Visit to Khertvisi confirmed (GYG ✓: 'Visit to Khertvisi Fortress'). Entrance fee to Khertvisi (10 GEL, ~€3-4) is EXPLICITLY EXCLUDED (GYG ✗: 'Entrance fee to Khertvisi: 10 GEL') — visitor pays on-site. Do NOT claim entrance included — describe as 'guided stop included; separate 10 GEL entrance fee on-site.' Multi-stop day tour also covers Vardzia (not in this batch).",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

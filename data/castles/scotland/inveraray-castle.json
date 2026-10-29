@@ -99,14 +99,15 @@
       "title": "Oban, Highland Lochs, Castles & Glencoe Tour from Glasgow",
       "type": "day_trip",
       "duration": "10 hours",
-      "price_from": 63,
+      "price_from": 67,
       "rating": 4.9,
       "reviews": 255,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/glasgow-l438/glasgow-highlights-of-scotland-tour-t399209/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "inveraray-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     },
     {
       "tour_id": "11208",

@@ -95,7 +95,7 @@
       "title": "From Cardiff: Caerphilly Castle & Castell Coch South Wales Day Tour",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 936.78,
+      "price_from": 962,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
@@ -112,7 +112,7 @@
       "title": "From Cardiff: Caerleon, Tintern Abbey and Three Castles Tour",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 189.1,
+      "price_from": 317,
       "rating": 5,
       "reviews": 33,
       "is_top_pick": true,
@@ -120,7 +120,8 @@
       "covers_castles": [
         "caerphilly-castle",
         "castell-coch"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

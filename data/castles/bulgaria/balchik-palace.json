@@ -101,7 +101,7 @@
       "title": "Balchik Palace & Kaliakra Fortress — Day Trip from Varna",
       "type": "day_trip",
       "duration": "full day",
-      "price_from": 70,
+      "price_from": 77,
       "rating": 4.5,
       "reviews": 4,
       "is_top_pick": false,
@@ -110,7 +110,8 @@
         "balchik-palace",
         "kaliakra-fortress"
       ],
-      "note": "Full-day guided excursion from Varna combining Balchik Palace (Queen Marie's botanical garden and villa complex) with Cape Kaliakra Fortress (medieval clifftop ruins and the 40 maidens legend). Rated 4.5★ from 4 reviews."
+      "note": "Full-day guided excursion from Varna combining Balchik Palace (Queen Marie's botanical garden and villa complex) with Cape Kaliakra Fortress (medieval clifftop ruins and the 40 maidens legend). Rated 4.5★ from 4 reviews.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

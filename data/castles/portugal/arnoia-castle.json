@@ -97,7 +97,7 @@
       "title": "Porto: Medieval Castles of Portugal — Full-Day Tour",
       "type": "guided_tour",
       "duration": "full day",
-      "price_from": 193,
+      "price_from": 204,
       "rating": 5,
       "reviews": 10,
       "is_top_pick": true,
@@ -106,7 +106,8 @@
         "arnoia-castle",
         "faria-castle",
         "guimaraes-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

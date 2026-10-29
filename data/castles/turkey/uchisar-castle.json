@@ -93,14 +93,15 @@
       "title": "Cappadocia: Highlights Tour (Red Tour & Underground City)",
       "type": "guided_tour",
       "duration": "7.5 hours",
-      "price_from": 21.59,
+      "price_from": 29,
       "rating": 4.9,
       "reviews": 1182,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/avanos-l983/cappadocia-highlights-tour-red-tour-underground-city--t723947/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "uchisar-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

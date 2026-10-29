@@ -91,14 +91,15 @@
       "title": "Castle in the Dolomites: Tour of Zumelle and medieval tasting",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 60,
+      "price_from": 100,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "covers_castles": [
         "zumelle-castle"
       ],
-      "booking_url_override": "https://www.getyourguide.com/castello-di-zumelle-l261079/belluno-and-valbelluna-tour-of-zumelle-castle-and-medieval-tasting-t1064574/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/castello-di-zumelle-l261079/belluno-and-valbelluna-tour-of-zumelle-castle-and-medieval-tasting-t1064574/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "pricing_unit": "person"
     }
   ],
   "hotel": {

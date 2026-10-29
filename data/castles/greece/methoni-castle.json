@@ -100,21 +100,22 @@
       "title": "Mystical Messinia: Voidokilia, Pylos & Methoni Wonders",
       "type": "guided_tour",
       "duration": "8 hours",
-      "price_from": 107,
+      "price_from": 390,
       "rating": 4.8,
       "reviews": 4,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/pylos-l89381/mystical-messinia-voidokilia-pylos-methoni-wonders-t1015664/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "methoni-castle"
-      ]
+      ],
+      "pricing_unit": "group"
     },
     {
       "tour_id": "1377853",
       "title": "Pylos: Methoni Castle & Koroni Castle Tour",
       "type": "guided_tour",
       "duration": "5 hours",
-      "price_from": 96,
+      "price_from": 110,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
@@ -123,7 +124,8 @@
         "methoni-castle",
         "koroni-castle"
       ],
-      "note": "Private 5-hour tour covering both Methoni Castle and Koroni Castle on the same circuit. GYG itinerary text explicitly states 'Entrance fees included' for both castles separately — twice confirmed. Pickup available from Kalamata cruise port. The same product also appears on Koroni Castle's page."
+      "note": "Private 5-hour tour covering both Methoni Castle and Koroni Castle on the same circuit. GYG itinerary text explicitly states 'Entrance fees included' for both castles separately — twice confirmed. Pickup available from Kalamata cruise port. The same product also appears on Koroni Castle's page.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

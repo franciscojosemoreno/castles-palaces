@@ -91,14 +91,15 @@
       "title": "London: Downton Abbey, Cotswolds, and Highclere Castle Tour",
       "type": "day_trip",
       "duration": "11 hours",
-      "price_from": 266.49,
+      "price_from": 250,
       "rating": 4.8,
       "reviews": 463,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/london-l57/from-london-downton-abbey-cotswolds-highclere-castle-t123059/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "highclere-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

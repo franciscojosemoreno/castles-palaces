@@ -104,14 +104,15 @@
       "title": "Munich: Residenz Palace and Hofgarten Skip-the-Line Tour",
       "type": "skip_the_line",
       "duration": "2.5 hours",
-      "price_from": 65,
+      "price_from": 73,
       "rating": 4.9,
       "reviews": 172,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/munich-l26/munich-residenz-palace-and-hofgarten-skip-the-line-25h-tour-t571941/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "munich-residenz"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

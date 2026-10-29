@@ -68,7 +68,7 @@
   "og_image": "/images/castles/st-johns-fortress-sibenik.webp",
   "instagram_tag": "#tvrdjavaSubicevac",
   "meta_title": "St. John's Fortress Šibenik (Šubićevac): Best Panoramic View in the City — Visitor Guide 2026",
-  "meta_description": "Visit St. John's Fortress in Šibenik — the 1646 Venetian hilltop fortress with Šibenik's best panoramic views over the old town, cathedral, and Dalmatian channel. Tuk-tuk tours from €57.6.",
+  "meta_description": "Visit St. John's Fortress in Šibenik — the 1646 Venetian hilltop fortress with Šibenik's best panoramic views over the old town, cathedral, and Dalmatian channel. Tuk-tuk tours from €64.",
   "tags": [
     "croatia",
     "sibenik",
@@ -97,7 +97,7 @@
       "title": "Šibenik: 3 Fortresses & Panorama Tour — All Fees Included",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 57.6,
+      "price_from": 64,
       "rating": 4.8,
       "reviews": 70,
       "is_top_pick": true,
@@ -107,7 +107,8 @@
         "st-johns-fortress-sibenik",
         "st-michaels-fortress-sibenik"
       ],
-      "note": "2-hour electric tuk-tuk panorama circuit (Eco Tuk Tuk Šibenik) visiting all three Šibenik fortresses — Barone, St. John's, and St. Michael's — on the same tour. 'All Fees Included' appears in the product title and is confirmed in the GYG FAQ ('Are all fortress entry fees really included? Yes'). The same tour also visits Barone Fortress and St. Michael's Fortress on the same circuit."
+      "note": "2-hour electric tuk-tuk panorama circuit (Eco Tuk Tuk Šibenik) visiting all three Šibenik fortresses — Barone, St. John's, and St. Michael's — on the same tour. 'All Fees Included' appears in the product title and is confirmed in the GYG FAQ ('Are all fortress entry fees really included? Yes'). The same tour also visits Barone Fortress and St. Michael's Fortress on the same circuit.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

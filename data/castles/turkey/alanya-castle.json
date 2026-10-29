@@ -95,14 +95,15 @@
       "title": "Alanya: Castle Sunset Tour, Damlatas Cave&Cable Car Options",
       "type": "guided_tour",
       "duration": "3 - 3.5 hours",
-      "price_from": 18,
+      "price_from": 20,
       "rating": 4,
       "reviews": 550,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/alanya-l918/alanya-castle-sunset-tour-damlatas-cavecable-car-options-t656884/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "alanya-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -94,14 +94,15 @@
       "title": "From Edinburgh: St Andrews and Fishing Villages of Fife Tour",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 67,
+      "price_from": 68,
       "rating": 4.7,
       "reviews": 1216,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/edinburgh-l44/st-andrews-and-fishing-villages-of-fife-day-tour-t12658/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "st-andrews-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

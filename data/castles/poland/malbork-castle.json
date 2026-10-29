@@ -101,14 +101,15 @@
       "title": "From Gdansk: Half-Day Malbork Castle Tour with Audioguide",
       "type": "day_trip",
       "duration": "5 hours",
-      "price_from": 90,
+      "price_from": 95,
       "rating": 4.7,
       "reviews": 225,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/malbork-l153896/from-gdansk-malbork-castle-tour-with-audioguide-t388248/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "malbork-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

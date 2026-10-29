@@ -98,14 +98,15 @@
       "title": "From Riga: Sigulda & Turaida Day Tour, Castles & Nature",
       "type": "day_trip",
       "duration": "6 hours",
-      "price_from": 99,
+      "price_from": 110,
       "rating": 4.9,
       "reviews": 118,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/riga-l213/from-riga-sigulda-turaida-legends-tour-t608853/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "turaida-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

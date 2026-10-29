@@ -11,7 +11,7 @@
   "duration_days": 1,
   "duration_label": "Full Day · 12–13 hours",
   "gyg_tour_id": "10751",
-  "price_from": 90,
+  "price_from": 135,
   "currency": "EUR",
   "rating": 4.5,
   "review_count": 14200,
@@ -86,5 +86,6 @@
     "description": "Visit Château de Chambord and Chenonceau on a guided day trip from Paris. Entry included. From €90 per person."
   },
   "gyg_url": "https://www.getyourguide.com/paris-l16/a-day-in-chateaux-country-from-paris-t10751/",
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-02",
+  "pricing_unit": "person"
 }

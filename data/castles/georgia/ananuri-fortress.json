@@ -92,14 +92,15 @@
       "title": "From Tbilisi: Kazbegi, Gudauri & Gergeti Group Day Tour",
       "type": "day_trip",
       "duration": "11 hours",
-      "price_from": 12.94,
+      "price_from": 18,
       "rating": 4.8,
       "reviews": 1552,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/tbilisi-l1379/from-tbilisi-kazbegi-gudauri-gergeti-group-day-tour-t891215/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "ananuri-fortress"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

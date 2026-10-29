@@ -100,7 +100,7 @@
       "title": "Vilnius: Palace of the Grand Dukes Guided Tour & Entry Ticket",
       "type": "guided_tour",
       "duration": "1.5 hours",
-      "price_from": 44.1,
+      "price_from": 49,
       "rating": 5,
       "reviews": 2,
       "is_top_pick": true,
@@ -108,7 +108,8 @@
       "covers_castles": [
         "palace-of-the-grand-dukes"
       ],
-      "note": "Small-group guided tour with entry ticket. Includes (GYG ✓): licensed English-speaking guide (French available), museum entry Routes I and II, guided tour, Observation Tower access. Small-group format. No exclusions listed. Discounted from €49 to €44. 5.0★ from 2 reviews (meets REGLA#3 2+ threshold — stars shown)."
+      "note": "Small-group guided tour with entry ticket. Includes (GYG ✓): licensed English-speaking guide (French available), museum entry Routes I and II, guided tour, Observation Tower access. Small-group format. No exclusions listed. Discounted from €49 to €44. 5.0★ from 2 reviews (meets REGLA#3 2+ threshold — stars shown).",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

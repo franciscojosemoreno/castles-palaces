@@ -95,7 +95,7 @@
       "title": "From Paris: Full-Day Loire Valley Chateaux Tour",
       "type": "day_trip",
       "duration": "13 hours",
-      "price_from": 90,
+      "price_from": 135,
       "rating": 4.4,
       "reviews": 1409,
       "is_top_pick": false,
@@ -105,7 +105,8 @@
         "chateau-de-chenonceau",
         "chateau-damboise",
         "chateau-de-cheverny"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -96,14 +96,15 @@
       "title": "Inverness: 2-day Isle of Skye, Fairy Pools & Castles Tour",
       "type": "day_trip",
       "duration": "2 days",
-      "price_from": 198,
+      "price_from": 202,
       "rating": 4.9,
       "reviews": 450,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/inverness-l1935/inverness-isle-of-skye-the-fairy-pools-highland-castles-t433330/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "dunvegan-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -101,14 +101,15 @@
       "title": "From Inverness: Dunrobin Castle and Easter Ross Day Trip",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 63,
+      "price_from": 68,
       "rating": 4.8,
       "reviews": 41,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/inverness-l1935/from-inverness-dunrobin-castle-easter-ross-t622234/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "dunrobin-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true,

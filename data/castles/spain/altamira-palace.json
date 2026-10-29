@@ -70,7 +70,7 @@
   "og_image": "/images/castles/altamira-palace.webp",
   "instagram_tag": "#palacioDeAltamira",
   "meta_title": "Altamira Palace Elche: MAHE Museum & Lady of Elche Context — Visitor Guide 2026",
-  "meta_description": "Visit Altamira Palace in Elche — the medieval palace housing MAHE museum with Lady of Elche context, Iberian and Roman archaeology, and a guided historic centre walking tour from €65.",
+  "meta_description": "Visit Altamira Palace in Elche — the medieval palace housing MAHE museum with Lady of Elche context, Iberian and Roman archaeology, and a guided historic centre walking tour from €70.",
   "tags": [
     "spain",
     "alicante",
@@ -100,7 +100,7 @@
       "title": "Elche: Guided Walking Tour of the Historic Centre",
       "type": "guided_tour",
       "duration": "2.5 hours",
-      "price_from": 65,
+      "price_from": 70,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
@@ -109,7 +109,8 @@
         "altamira-palace",
         "calahorra-tower"
       ],
-      "note": "Guided walking tour of Elche's historic centre covering both the Palacio de Altamira (MAHE museum) and the Calahorra Tower. Same GYG product (t894655) covers both monuments. 1 review recorded — rating: null, reviews: 0, is_top_pick: false per REGLA #3."
+      "note": "Guided walking tour of Elche's historic centre covering both the Palacio de Altamira (MAHE museum) and the Calahorra Tower. Same GYG product (t894655) covers both monuments. 1 review recorded — rating: null, reviews: 0, is_top_pick: false per REGLA #3.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

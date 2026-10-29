@@ -109,14 +109,15 @@
       "title": "Luxembourg: Haunted Castles & Ghost Legends Private Tour",
       "type": "guided_tour",
       "duration": "4 hours",
-      "price_from": 940,
+      "price_from": 1140,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/beaufort-luxembourg-l207297/luxembourg-haunted-castles-and-ghost-legends-private-tour-t1247963/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "beaufort-castle"
-      ]
+      ],
+      "pricing_unit": "group"
     }
   ],
   "gyg_direct_link_override": true

@@ -67,7 +67,7 @@
   "og_image": "/images/castles/rabati-castle.webp",
   "instagram_tag": "#rabaticastle",
   "meta_title": "Rabati Castle (Akhaltsikhe), Georgia: Visitor Guide & Honest Review 2026",
-  "meta_description": "Visit Rabati Castle in Akhaltsikhe — Georgia's controversial 2012 reconstruction with the 1752 Hagia Sophia-inspired mosque that became a Russian Orthodox church. Day trip from Tbilisi from €35.",
+  "meta_description": "Visit Rabati Castle in Akhaltsikhe — Georgia's controversial 2012 reconstruction with the 1752 Hagia Sophia-inspired mosque that became a Russian Orthodox church. Day trip from Tbilisi from €50.",
   "tags": [
     "georgia",
     "samtskhe-javakheti",
@@ -96,7 +96,7 @@
       "title": "Tbilisi: Borjomi, Rabati Castle & Vardzia Adventure Day Trip",
       "type": "guided_tour",
       "duration": "14 hours",
-      "price_from": 35,
+      "price_from": 50,
       "rating": 4.8,
       "reviews": 1076,
       "is_top_pick": true,
@@ -104,7 +104,8 @@
       "covers_castles": [
         "rabati-castle"
       ],
-      "note": "This tour also visits Borjomi (spa resort) and Vardzia (cave monastery) — Rabati Castle is the fortification stop on a broader Samtskhe regional day trip, not a Rabati-only dedicated product."
+      "note": "This tour also visits Borjomi (spa resort) and Vardzia (cave monastery) — Rabati Castle is the fortification stop on a broader Samtskhe regional day trip, not a Rabati-only dedicated product.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

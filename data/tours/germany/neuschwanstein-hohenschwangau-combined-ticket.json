@@ -12,9 +12,9 @@
   "duration_label": "4 hours",
   "gyg_tour_id": "1017191",
   "gyg_url": "https://www.getyourguide.com/fussen-l2236/neuschwanstein-hohenschwangau-castle-entry-ticket-t1017191/?partner_id=XDLEZT9&utm_medium=online_publisher",
-  "price_from": 79,
+  "price_from": null,
   "currency": "EUR",
-  "rating": 4.5,
+  "rating": null,
   "review_count": 359,
   "is_top_pick": false,
   "languages": [
@@ -88,10 +88,6 @@
     {
       "question": "Does this ticket include transport between the two castles?",
       "answer": "No. Getting from Hohenschwangau village up to Neuschwanstein requires a 30-minute uphill walk, a shuttle bus, or a horse-drawn carriage, and all of these are separate, additional costs paid on-site — none are bundled into this ticket's price. Parking near either castle is also excluded. Budget a few extra euros for the shuttle or carriage if you don't want to make the uphill walk, particularly in poor weather."
-    },
-    {
-      "question": "Why is Neuschwanstein's own individual ticket cheaper than this combined one?",
-      "answer": "Neuschwanstein Castle's standalone skip-the-line ticket costs from around €45 and covers only that one castle, versus this ticket's roughly €79 for both castles — so per-castle, the combined ticket isn't necessarily cheaper, but it is more efficient if you want to see both without arranging two separate bookings and queue times. Visitors who only want Neuschwanstein and have no interest in Hohenschwangau are generally better served booking Neuschwanstein's individual ticket directly, which is both less expensive overall and more straightforward to schedule."
     }
   ],
   "featured": false,
@@ -104,7 +100,7 @@
   },
   "meta": {
     "title": "Neuschwanstein & Hohenschwangau Combined Ticket — Bavaria's Royal Castles",
-    "description": "Skip-the-line entry to both of Bavaria's royal castles — Neuschwanstein and Hohenschwangau — with a multilingual audio guide and reserved tour times. From €79, 4 hours."
+    "description": "Skip-the-line entry to both of Bavaria's royal castles — Neuschwanstein and Hohenschwangau — with a multilingual audio guide and reserved tour times. 4 hours."
   },
   "last_updated": "2026-09-09"
 }

@@ -98,14 +98,15 @@
       "title": "Cordóba: Gardens & Fortress of Catholic Monarchs Guided Tour",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 25,
+      "price_from": 35,
       "rating": 4.3,
       "reviews": 336,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/cordoba-l1689/fortress-of-catholic-monarchs-15-hour-history-tour-t52706/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "alcazar-de-los-reyes-cristianos"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

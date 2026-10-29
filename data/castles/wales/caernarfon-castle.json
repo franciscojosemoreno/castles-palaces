@@ -88,21 +88,22 @@
       "title": "From Manchester: North Wales and Caernarfon Castle Day Trip",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 80,
+      "price_from": 97,
       "rating": 4.7,
       "reviews": 186,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/manchester-l1128/from-manchester-north-wales-and-caernarfon-castle-day-trip-t468819/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "caernarfon-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     },
     {
       "tour_id": "309778",
       "title": "From Llandudno: Snowdonia National Park & Three Castles Tour",
       "type": "guided_tour",
       "duration": "9 hours",
-      "price_from": 75.64,
+      "price_from": 78,
       "rating": 4.9,
       "reviews": 233,
       "is_top_pick": true,
@@ -111,7 +112,8 @@
         "conwy-castle",
         "caernarfon-castle"
       ],
-      "note": "9-hour guided circuit from Llandudno (Adventure Tour Snowdonia) visiting Conwy Castle, Dolbadarn Castle (Llanberis), and Caernarfon Castle on the same day. GYG Includes list explicitly names 'Caernarfon castle entry fees' — confirmed. Also covers Conwy Castle + Plas Mawr and Dolbadarn Castle on the same circuit. Not suitable for wheelchair users."
+      "note": "9-hour guided circuit from Llandudno (Adventure Tour Snowdonia) visiting Conwy Castle, Dolbadarn Castle (Llanberis), and Caernarfon Castle on the same day. GYG Includes list explicitly names 'Caernarfon castle entry fees' — confirmed. Also covers Conwy Castle + Plas Mawr and Dolbadarn Castle on the same circuit. Not suitable for wheelchair users.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

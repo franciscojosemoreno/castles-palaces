@@ -50,7 +50,7 @@
   "faqs": [
     {
       "question": "Is this a dedicated Lëkurësi Castle tour?",
-      "answer": "No — the GetYourGuide listing (€117) is a Saranda day trip focused on Butrint National Park (UNESCO), with Lëkurësi Castle as the final 30-minute stop. Entry to Lëkurësi is included in the tour price. Visitors wanting to spend longer at the castle should travel by taxi from Saranda independently (approximately 15–20 minutes)."
+      "answer": "No — the GetYourGuide listing (€120) is a Saranda day trip focused on Butrint National Park (UNESCO), with Lëkurësi Castle as the final 30-minute stop. Entry to Lëkurësi is included in the tour price. Visitors wanting to spend longer at the castle should travel by taxi from Saranda independently (approximately 15–20 minutes)."
     },
     {
       "question": "What is Butrint National Park?",
@@ -68,7 +68,7 @@
   "og_image": "/images/castles/lekuresi-castle.webp",
   "instagram_tag": "#lekuresicastle",
   "meta_title": "Lëkurësi Castle Saranda: Albania Riviera Fortress Guide 2026",
-  "meta_description": "Visit Lëkurësi Castle above Saranda — a 16th-century Ottoman fortress with panoramic Ionian views over Corfu and Butrint. Accessible as the final stop on a Butrint day trip. From €117.",
+  "meta_description": "Visit Lëkurësi Castle above Saranda — a 16th-century Ottoman fortress with panoramic Ionian views over Corfu and Butrint. Accessible as the final stop on a Butrint day trip. From €120.",
   "tags": [
     "ottoman",
     "albania",
@@ -91,14 +91,15 @@
       "title": "From Saranda: Butrint, Countryside & Lëkurësi Castle Tour",
       "type": "day_trip",
       "duration": "5.5 hours",
-      "price_from": 117,
+      "price_from": 120,
       "rating": null,
       "reviews": 1,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/konispol-l232025/from-saranda-butrint-countryside-and-lekuresi-castle-tour-t1164918/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "lekuresi-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

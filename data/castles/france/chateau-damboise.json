@@ -100,7 +100,7 @@
       "title": "Amboise: Private Guided Tour of the Castle with Entry Ticket",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 220,
+      "price_from": 245,
       "rating": 5,
       "reviews": 3,
       "is_top_pick": true,
@@ -110,7 +110,8 @@
         "chateau-de-chenonceau",
         "chateau-damboise",
         "chateau-de-cheverny"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

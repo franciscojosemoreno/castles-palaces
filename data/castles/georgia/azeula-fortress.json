@@ -94,14 +94,15 @@
       "title": "Tbilisi: Azeula Fortress, Sameba Cathedral & Chronicle of Georgia Tour",
       "type": "day_trip",
       "duration": "6.5 hours",
-      "price_from": 56,
+      "price_from": 70,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "covers_castles": [
         "azeula-fortress"
       ],
-      "booking_url_override": "https://www.getyourguide.com/tbilisi-l1379/tbilisi-azeula-fortress-sameba-cathedral-day-trip-t1340082/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/tbilisi-l1379/tbilisi-azeula-fortress-sameba-cathedral-day-trip-t1340082/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "pricing_unit": "person"
     }
   ]
 }

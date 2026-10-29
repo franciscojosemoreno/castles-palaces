@@ -112,7 +112,8 @@
         "kronborg-castle",
         "frederiksborg-palace"
       ],
-      "booking_url_override": "https://www.getyourguide.com/copenhagen-l12/copenhagen-north-zealand-castles-private-tour-t1216902/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/copenhagen-l12/copenhagen-north-zealand-castles-private-tour-t1216902/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "pricing_unit": "group"
     }
   ],
   "gyg_direct_link_override": true

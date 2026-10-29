@@ -96,7 +96,7 @@
       "title": "Dénia Castle Segway Tour",
       "type": "guided_tour",
       "duration": "70 minutes",
-      "price_from": 28.08,
+      "price_from": 36,
       "rating": 4.9,
       "reviews": 8,
       "is_top_pick": true,
@@ -104,7 +104,8 @@
       "covers_castles": [
         "denia-castle"
       ],
-      "note": "REGLA #3: 8 reviews (>1), 4.9★ (≥4.8) → is_top_pick: true. Castle admission explicitly included in Segway tour price."
+      "note": "REGLA #3: 8 reviews (>1), 4.9★ (≥4.8) → is_top_pick: true. Castle admission explicitly included in Segway tour price.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -68,7 +68,7 @@
   "og_image": "/images/castles/koroni-castle.webp",
   "instagram_tag": "#koronigr",
   "meta_title": "Koroni Castle: One of Venice's 'Eyes of the Republic' with a Living Monastery Inside — Visitor Guide 2026",
-  "meta_description": "Visit Koroni Castle on the Peloponnese — Venice's southern Adriatic sentinel since 1204, with a continuously-functioning Byzantine monastery and inhabited tower-houses inside the walls. Tours from €96.",
+  "meta_description": "Visit Koroni Castle on the Peloponnese — Venice's southern Adriatic sentinel since 1204, with a continuously-functioning Byzantine monastery and inhabited tower-houses inside the walls. Tours from €110.",
   "tags": [
     "greece",
     "peloponnese",
@@ -95,7 +95,7 @@
       "title": "Pylos: Methoni Castle & Koroni Castle Tour",
       "type": "guided_tour",
       "duration": "5 hours",
-      "price_from": 96,
+      "price_from": 110,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
@@ -104,7 +104,8 @@
         "methoni-castle",
         "koroni-castle"
       ],
-      "note": "Private 5-hour tour covering both Koroni Castle and Methoni Castle on the same circuit. GYG itinerary text explicitly states 'Entrance fees included' for both castles separately — twice confirmed. Pickup available from Kalamata cruise port. The same product also appears on Methoni Castle's page."
+      "note": "Private 5-hour tour covering both Koroni Castle and Methoni Castle on the same circuit. GYG itinerary text explicitly states 'Entrance fees included' for both castles separately — twice confirmed. Pickup available from Kalamata cruise port. The same product also appears on Methoni Castle's page.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

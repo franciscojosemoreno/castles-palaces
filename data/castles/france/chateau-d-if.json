@@ -98,14 +98,15 @@
       "title": "Château d’If Entry Ticket & Marseille Audio Tour",
       "type": "entry_ticket",
       "duration": "1 day",
-      "price_from": 5,
+      "price_from": 10,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/marseille-l292/chateau-d-if-entry-ticket-marseille-audio-tour-t1316140/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chateau-d-if"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

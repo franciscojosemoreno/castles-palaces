@@ -98,7 +98,7 @@
       "title": "Vienna / Bratislava: Castles around Vienna + Underground Lake",
       "type": "guided_tour",
       "duration": "full day",
-      "price_from": 216,
+      "price_from": 189,
       "rating": 4.8,
       "reviews": 42,
       "is_top_pick": true,
@@ -106,7 +106,8 @@
       "covers_castles": [
         "liechtenstein-castle",
         "kreuzenstein-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -101,14 +101,15 @@
       "title": "London: Tower of London and Crown Jewels Exhibition Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 43,
+      "price_from": 45,
       "rating": 4.6,
       "reviews": 31088,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/london-l57/london-tower-of-london-and-crown-jewels-exhibition-ticket-t21253/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "tower-of-london"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

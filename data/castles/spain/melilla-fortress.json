@@ -89,11 +89,12 @@
       "title": "Melilla Fortress Sightseeing Tour — caves, chapel & city walls",
       "type": "guided_tour",
       "duration": "2 hours",
-      "price_from": 20,
+      "price_from": 18,
       "rating": 5,
       "reviews": 2,
       "is_top_pick": true,
-      "booking_url_override": "https://www.getyourguide.com/melilla-l101721/melilla-fortress-and-caves-sightseeing-tour-t1050228/?partner_id=XDLEZT9&utm_medium=online_publisher"
+      "booking_url_override": "https://www.getyourguide.com/melilla-l101721/melilla-fortress-and-caves-sightseeing-tour-t1050228/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -68,7 +68,7 @@
   "og_image": "/images/castles/sacra-di-san-michele.webp",
   "instagram_tag": "#sacradisanmichele",
   "meta_title": "Sacra di San Michele: The Name of the Rose Abbey & Doorway of the Zodiac — Visitor Guide 2026",
-  "meta_description": "Visit Sacra di San Michele — the mountaintop Romanesque abbey that inspired Umberto Eco's The Name of the Rose. Climb 243 steps to the Doorway of the Zodiac. Entry €7, tours from Turin from €60.",
+  "meta_description": "Visit Sacra di San Michele — the mountaintop Romanesque abbey that inspired Umberto Eco's The Name of the Rose. Climb 243 steps to the Doorway of the Zodiac. Entry €7, tours from Turin from €330.",
   "tags": [
     "italy",
     "piedmont",
@@ -98,7 +98,7 @@
       "title": "From Turin: Half-Day Medieval Sacra di San Michele Tour",
       "type": "guided_tour",
       "duration": "4–5 hours",
-      "price_from": 60,
+      "price_from": 330,
       "rating": 4.6,
       "reviews": 105,
       "is_top_pick": false,
@@ -106,7 +106,8 @@
       "covers_castles": [
         "sacra-di-san-michele"
       ],
-      "note": "Half-day private coach tour from Turin; GYG Includes line lists 'Entrance fees' — confirmed genuine interior/guided abbey visit. The €60 price covers return coach transport from Turin, entrance fees, and a guide at the abbey; independent adult entry to the abbey is approximately €7."
+      "note": "Half-day private coach tour from Turin; GYG Includes line lists 'Entrance fees' — confirmed genuine interior/guided abbey visit. The €60 price covers return coach transport from Turin, entrance fees, and a guide at the abbey; independent adult entry to the abbey is approximately €7.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

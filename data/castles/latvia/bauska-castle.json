@@ -95,7 +95,7 @@
       "title": "From Riga: Bauska Castle & Rundale Palace Half-Day Trip",
       "type": "day_trip",
       "duration": "5 hours",
-      "price_from": 99,
+      "price_from": 125,
       "rating": 4.9,
       "reviews": 9,
       "is_top_pick": true,
@@ -103,7 +103,8 @@
       "covers_castles": [
         "bauska-castle",
         "rundale-palace"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

@@ -99,14 +99,15 @@
       "title": "Mantua at the Court of the Gonzaga: Guided Visit of the Ducal Palace and Camera Picta",
       "type": "guided_tour",
       "duration": "1 hour",
-      "price_from": 15,
+      "price_from": 118,
       "rating": 4,
       "reviews": 20,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/mantua-l32208/at-the-court-of-the-gonzaga-family-guided-tour-of-the-duke-s-palace-and-camera-picta-t855787/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "ducal-palace-of-mantua"
-      ]
+      ],
+      "pricing_unit": "group"
     }
   ],
   "gyg_direct_link_override": true

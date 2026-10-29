@@ -111,7 +111,8 @@
       "covers_castles": [
         "konopiste-castle",
         "spilberk-castle"
-      ]
+      ],
+      "pricing_unit": "group"
     }
   ],
   "gyg_direct_link_override": true

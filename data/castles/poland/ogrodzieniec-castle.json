@@ -100,14 +100,15 @@
       "title": "From Krakow: Ojców National Park & Ogrodzieniec Castle Tour",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 115.48,
+      "price_from": 102,
       "rating": 4.9,
       "reviews": 86,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/krakow-l40/from-krakow-ojcow-national-park-ogrodzieniec-castle-tour-t412543/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "ogrodzieniec-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

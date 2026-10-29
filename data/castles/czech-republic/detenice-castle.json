@@ -71,7 +71,7 @@
   "og_image": "/images/castles/detenice-castle.webp",
   "instagram_tag": "#zamekDetenice",
   "meta_title": "Dětenice Castle — Medieval Dinner Show & Brewery in Czech Paradise",
-  "meta_description": "Visit Dětenice Castle in Czech Paradise, Bohemia — a medieval castle and working brewery running a full evening dinner show with unlimited beer, live medieval entertainment, and return transfer from Prague from €99.",
+  "meta_description": "Visit Dětenice Castle in Czech Paradise, Bohemia — a medieval castle and working brewery running a full evening dinner show with unlimited beer, live medieval entertainment, and return transfer from Prague from €129.",
   "tags": [
     "czech-republic",
     "bohemia",
@@ -101,7 +101,7 @@
       "title": "From Prague: Medieval Dinner, Show, Castle and Brewery",
       "type": "day_trip",
       "duration": "5 hours",
-      "price_from": 99,
+      "price_from": 129,
       "rating": 4.2,
       "reviews": 55,
       "is_top_pick": false,
@@ -109,7 +109,8 @@
       "covers_castles": [
         "detenice-castle"
       ],
-      "note": "Full evening package from Prague: return coach transfer, castle and brewery tour, unlimited Dětenice beer and Moravian wine, full medieval dinner, live show with musicians, dancers, fire performers, and fakir. Rated 4.2★ from 55 reviews."
+      "note": "Full evening package from Prague: return coach transfer, castle and brewery tour, unlimited Dětenice beer and Moravian wine, full medieval dinner, live show with musicians, dancers, fire performers, and fakir. Rated 4.2★ from 55 reviews.",
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

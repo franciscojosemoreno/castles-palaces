@@ -97,14 +97,15 @@
       "title": "Blenheim Palace Admission Ticket",
       "type": "entry_ticket",
       "duration": "Self-guided",
-      "price_from": 48,
+      "price_from": 37,
       "rating": 4.5,
       "reviews": 673,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/oxford-l441/blenheim-palace-admission-ticket-t161670/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "blenheim-palace"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

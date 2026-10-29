@@ -13,7 +13,7 @@
   "duration_label": "Full day (8.5 hours)",
   "gyg_tour_id": "435550",
   "gyg_url": "https://www.getyourguide.com/edinburgh-l44/from-edinburgh-castles-and-broomsticks-tour-t435550/",
-  "price_from": 63,
+  "price_from": 79,
   "currency": "EUR",
   "rating": 4.6,
   "review_count": 352,
@@ -110,5 +110,6 @@
     "title": "Bamburgh & Alnwick Castle Day Trip from Edinburgh | Castles & Palaces",
     "description": "Small-group day trip from Edinburgh to Bamburgh Castle's seaside fortress and Alnwick Castle — Hogwarts in the Harry Potter films. Audio guide included in 7 languages."
   },
-  "last_updated": "2026-10-03"
+  "last_updated": "2026-10-03",
+  "pricing_unit": "person"
 }

@@ -110,7 +110,7 @@
       "title": "Cardiff: Cardiff Castle, Caerphilly & Castell Coch Private Tour",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 936.78,
+      "price_from": 962,
       "rating": null,
       "reviews": 0,
       "is_top_pick": false,
@@ -119,28 +119,30 @@
         "caerphilly-castle",
         "castell-coch",
         "cardiff-castle"
-      ]
+      ],
+      "pricing_unit": "group"
     },
     {
       "tour_id": "566666",
       "title": "From Cardiff: Wye Valley — Tintern Abbey, Chepstow Castle & Caerphilly",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 90.77,
+      "price_from": 102,
       "rating": 4.7,
       "reviews": 116,
       "is_top_pick": false,
       "booking_url_override": "https://www.getyourguide.com/cardiff-l449/from-cardiff-the-wandering-bard-s-valley-tour-t566666/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "caerphilly-castle"
-      ]
+      ],
+      "pricing_unit": "person"
     },
     {
       "tour_id": "559581",
       "title": "From Cardiff: Caerleon, Tintern Abbey and Three Castles Tour",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 189.1,
+      "price_from": 317,
       "rating": 5,
       "reviews": 33,
       "is_top_pick": true,
@@ -148,7 +150,8 @@
       "covers_castles": [
         "caerphilly-castle",
         "castell-coch"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

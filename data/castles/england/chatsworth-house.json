@@ -72,7 +72,7 @@
   "og_image": "/images/castles/chatsworth-house.webp",
   "instagram_tag": "#chatsworthhouse",
   "meta_title": "Chatsworth House: Visitor Guide, Art Collection & Day Trip 2026",
-  "meta_description": "Visit Chatsworth House in the Peak District — the Devonshire family's Baroque palace with Rembrandt, Canova, Capability Brown landscape, and the Emperor Fountain. Day trips from Manchester from €127.",
+  "meta_description": "Visit Chatsworth House in the Peak District — the Devonshire family's Baroque palace with Rembrandt, Canova, Capability Brown landscape, and the Emperor Fountain. Day trips from Manchester from €135.",
   "tags": [
     "england",
     "derbyshire",
@@ -95,14 +95,15 @@
       "title": "From Manchester: Chatsworth House & Buxton Day Trip (Entry Included)",
       "type": "day_trip",
       "duration": "8 hours",
-      "price_from": 127,
+      "price_from": 135,
       "rating": 4.8,
       "reviews": 130,
       "is_top_pick": true,
       "booking_url_override": "https://www.getyourguide.com/manchester-l1128/from-manchester-chatsworth-house-and-buxton-day-trip-t537696/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "chatsworth-house"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true

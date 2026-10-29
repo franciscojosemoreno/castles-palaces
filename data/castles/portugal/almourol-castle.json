@@ -103,7 +103,7 @@
       "title": "From Lisbon: Tomar, Convent of Christ & Almourol Castle",
       "type": "day_trip",
       "duration": "9 hours",
-      "price_from": 58.96,
+      "price_from": 67,
       "rating": 4.8,
       "reviews": 696,
       "is_top_pick": true,
@@ -111,7 +111,8 @@
       "covers_castles": [
         "almourol-castle",
         "convent-of-christ-tomar"
-      ]
+      ],
+      "pricing_unit": "person"
     }
   ],
   "gyg_direct_link_override": true
