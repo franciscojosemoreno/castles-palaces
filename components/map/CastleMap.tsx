@@ -322,7 +322,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                       ? `🏨 From ${getCurrencySymbol(selectedCastle.hotel_currency ?? 'EUR')}${selectedCastle.hotel_price_from_night} / night`
                       : '🏨 Check rates'}
                   </p>
-                ) : selectedCastle.price_adult !== undefined && (
+                ) : selectedCastle.price_adult != null && (
                   <p className="text-xs text-stone-600 mb-2">
                     {selectedCastle.price_adult === 0
                       ? '🎟 Free entry'

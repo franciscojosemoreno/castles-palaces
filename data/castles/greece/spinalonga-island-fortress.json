@@ -24,7 +24,7 @@
     "friday": "08:00–20:00",
     "saturday": "08:00–20:00",
     "sunday": "08:00–20:00",
-    "seasonal_note": "Open daily in season (April–October); hours may be reduced in winter. Accessible only by boat from Elounda or Plaka. IMPORTANT: The €20 Spinalonga island entry fee is paid on-site at the island ticket booth and is NOT included in the GetYourGuide day tour price. The tour price covers boat transfers and guide only. Budget approximately €20 extra per adult for island entry."
+    "seasonal_note": "Open daily in season (April–October); hours may be reduced in winter. Accessible only by boat from Elounda or Plaka. The €20 Spinalonga island entry fee is paid on-site at the island ticket booth and is not included in the GetYourGuide day tour price — the tour price covers boat transfers and guide only. Budget approximately €20 extra per adult for island entry."
   },
   "price_adult": 20,
   "price_child": 0,
@@ -108,8 +108,7 @@
       "booking_url_override": "https://www.getyourguide.com/elounda-l404/elounda-spinalonga-island-guided-boat-tour-t412347/?partner_id=XDLEZT9&utm_medium=online_publisher",
       "covers_castles": [
         "spinalonga-island-fortress"
-      ],
-      "note": "IMPORTANT: €20 Spinalonga island entry fee is EXCLUDED (confirmed — paid separately on-site). Tour price (from €38/person) covers boat transfer from Elounda and professional guide only. Total realistic cost for most adults: ~€58. EU citizens under 25 may enter free with valid ID. Rated 4.7★ from 5,300 reviews."
+      ]
     }
   ],
   "gyg_direct_link_override": true
