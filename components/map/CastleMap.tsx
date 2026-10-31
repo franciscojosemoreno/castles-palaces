@@ -81,6 +81,7 @@ type CastlePin = {
   type: string;
   tagline: string;
   price_adult?: number;
+  pricing_unit?: 'person' | 'group';
   unesco: boolean;
   tags: string[];
   hero_image: string;
@@ -323,7 +324,9 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                   </p>
                 ) : selectedCastle.price_adult !== undefined && (
                   <p className="text-xs text-stone-600 mb-2">
-                    {selectedCastle.price_adult === 0 ? '🎟 Free entry' : `🎟 From €${selectedCastle.price_adult}`}
+                    {selectedCastle.price_adult === 0
+                      ? '🎟 Free entry'
+                      : `🎟 From €${selectedCastle.price_adult}${selectedCastle.pricing_unit === 'group' ? ' / group' : ''}`}
                   </p>
                 )}
                 <a

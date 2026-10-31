@@ -112,7 +112,9 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
             : 'Included in multi-site pass';
         }
         const price = (tour?.price_from != null) ? tour.price_from : castle.price_adult;
-        return price === 0 ? 'Free' : `€${price}`;
+        if (price === 0) return 'Free';
+        const groupSuffix = (tour?.price_from != null && tour.pricing_unit === 'group') ? ' / group' : '';
+        return `€${price}${groupSuffix}`;
       })(),
       // When the value is this castle's own real price (not the pass), don't link it to
       // the pass's booking page — only the "Get Tickets & Tours" CTA below does that.

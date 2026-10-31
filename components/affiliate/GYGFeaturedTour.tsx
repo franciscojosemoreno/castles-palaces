@@ -53,7 +53,7 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
         <span className="font-bold text-[#1a1a1a] text-sm">
           {tour.multi_site_pass
             ? `Pass from €${tour.price_from}${tour.pass_sites_count ? ` · ${tour.pass_sites_count} sites` : ''}${passDays ? ` · ${passDays} days` : ''}`
-            : tour.price_from != null ? `From €${tour.price_from}` : 'Check availability'}
+            : tour.price_from != null ? `From €${tour.price_from}${tour.pricing_unit === 'group' ? ' / group' : ''}` : 'Check availability'}
         </span>
         <span className="bg-stone-100 text-stone-600 text-xs font-medium px-2 py-0.5 rounded-full">
           {tour.multi_site_pass ? (tour.pass_badge_label ?? 'Multi-site pass') : typeLabels[tour.type]}

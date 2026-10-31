@@ -94,7 +94,7 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
             ) : displayPrice === 0 ? (
               <span className="text-green-700 font-medium">Free entry</span>
             ) : displayPrice != null ? (
-              <span>From €{displayPrice}</span>
+              <span>From €{displayPrice}{featuredTour?.price_from != null && featuredTour.pricing_unit === 'group' ? ' / group' : ''}</span>
             ) : hotelNightly != null ? (
               <span>From {getCurrencySymbol(castle.hotel!.currency)}{hotelNightly}/night</span>
             ) : null}
