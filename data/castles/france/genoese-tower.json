@@ -17,14 +17,14 @@
   "year_built": 1585,
   "architectural_style": "16th-century Genoese watchtower of the type built extensively around the Corsican coastline during the Republic of Genoa's administration of the island to warn against Barbary pirate raids; Porto's tower stands on a red granite promontory directly above the beach and the mouth of the Porto river, within the Gulf of Porto and overlooking the bay that forms part of the UNESCO World Heritage site inscribed in 1983 as 'Gulf of Porto: Calanche de Piana, Gulf of Girolata, Scandola Reserve'; the tower is a cylindrical stone structure on a square base, typical of Genoese coastal watch-tower design, with the entry door elevated above ground level to prevent easy access; entry cost is approximately €3 and the tower is climbable to the rooftop platform for panoramic views of the Gulf of Porto",
   "opening_hours": {
-    "monday": "09:00–19:00",
-    "tuesday": "09:00–19:00",
-    "wednesday": "09:00–19:00",
-    "thursday": "09:00–19:00",
-    "friday": "09:00–19:00",
-    "saturday": "09:00–19:00",
-    "sunday": "09:00–19:00",
-    "seasonal_note": "Open during the main tourist season (approximately May–September); hours and opening days may vary outside peak season."
+    "monday": "09:00–19:00 (seasonal: 1 Apr–31 Oct)",
+    "tuesday": "09:00–19:00 (seasonal: 1 Apr–31 Oct)",
+    "wednesday": "09:00–19:00 (seasonal: 1 Apr–31 Oct)",
+    "thursday": "09:00–19:00 (seasonal: 1 Apr–31 Oct)",
+    "friday": "09:00–19:00 (seasonal: 1 Apr–31 Oct)",
+    "saturday": "09:00–19:00 (seasonal: 1 Apr–31 Oct)",
+    "sunday": "09:00–19:00 (seasonal: 1 Apr–31 Oct)",
+    "seasonal_note": "Open from 1 April to 31 October; closed in winter."
   },
   "price_adult": 3,
   "price_child": 2,
