@@ -22,6 +22,37 @@ const nextConfig: NextConfig = {
         destination: '/tours/scotland/edinburgh-holy-island-alnwick-castle',
         permanent: true,
       },
+      // Discontinued GYG tours (retired, no replacement product) — redirect to the primary castle page.
+      {
+        source: '/tours/england/london-buckingham-windsor-full-day',
+        destination: '/castles/england/buckingham-palace',
+        permanent: true,
+      },
+      {
+        source: '/tours/england/london-leeds-hever-castles-day-trip',
+        destination: '/castles/england/leeds-castle',
+        permanent: true,
+      },
+      {
+        source: '/tours/germany/neuschwanstein-hohenschwangau-combined-ticket',
+        destination: '/castles/germany/neuschwanstein-castle',
+        permanent: true,
+      },
+      {
+        source: '/tours/germany/stuttgart-hohenzollern-castle-day-trip',
+        destination: '/castles/germany/hohenzollern-castle',
+        permanent: true,
+      },
+      {
+        source: '/tours/slovakia/piestany-beckov-trencin-cicmany-tour',
+        destination: '/castles/slovakia/trencin-castle',
+        permanent: true,
+      },
+      {
+        source: '/tours/spain/belmez-belalcazar-cordoba-excursion',
+        destination: '/castles/spain/belmez-castle',
+        permanent: true,
+      },
     ];
   },
 };
