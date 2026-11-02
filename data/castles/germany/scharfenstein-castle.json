@@ -86,6 +86,22 @@
   "gyg_search_query": "Scharfenstein Castle Saxony Ore Mountains tour",
   "gyg_widget_type": "activities",
   "gyg_num_results": 3,
-  "gyg_featured_tours": [],
+  "gyg_featured_tours": [
+    {
+      "tour_id": "711860",
+      "title": "Scharfenstein Castle: Guided tour",
+      "type": "guided_tour",
+      "duration": "1 hour",
+      "price_from": 8,
+      "rating": 5,
+      "reviews": 1,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/scharfenstein-l203698/scharfenstein-castle-guided-tour-t711860/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "scharfenstein-castle"
+      ]
+    }
+  ],
   "gyg_direct_link_override": true
 }
