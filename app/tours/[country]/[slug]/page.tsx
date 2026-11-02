@@ -8,7 +8,7 @@ import RatingStars from '@/components/ui/RatingStars';
 import type { Metadata } from 'next';
 import TourStructuredData from '@/components/seo/TourStructuredData';
 import GYGWidget from '@/components/affiliate/GYGWidget';
-import { getGYGSearchUrl } from '@/lib/gyg';
+import { getGYGSearchUrl, addGYGTrackingParams } from '@/lib/gyg';
 import { renderEditorialHtml } from '@/lib/markdown';
 import { shouldShowStars } from '@/lib/rating-thresholds';
 
@@ -55,9 +55,7 @@ export default async function TourPage({ params }: Props) {
   const priceUnitLong = tour.pricing_unit === 'group'
     ? `per group (up to ${tour.max_group_size} people)`
     : 'per person';
-  const gygUrl = GYG_PARTNER_ID
-    ? `${tour.gyg_url}${tour.gyg_url.includes('?') ? '&' : '?'}partner_id=${GYG_PARTNER_ID}`
-    : tour.gyg_url;
+  const gygUrl = addGYGTrackingParams(tour.gyg_url);
   // price_from is null when the sourced GYG product has been discontinued/delisted
   // and no live replacement has been found yet — fall back to a search link
   // instead of silently displaying a stale price for a product that no longer exists.
