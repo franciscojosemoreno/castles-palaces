@@ -98,6 +98,23 @@
       "covers_castles": [
         "bojnice-castle"
       ]
+    },
+    {
+      "tour_id": "1363721",
+      "title": "From Bratislava: Beckov, Trenčín, & Bojnice Castles Day Trip",
+      "type": "day_trip",
+      "duration": "9–10.5 hours",
+      "price_from": 117,
+      "rating": 4.5,
+      "reviews": 47,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/bojnice-l164858/from-bratislava-beckov-trencin-bojnice-castles-day-trip-t1363721/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "trencin-castle",
+        "bojnice-castle",
+        "beckov-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true

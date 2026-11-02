@@ -24,11 +24,6 @@ const nextConfig: NextConfig = {
       },
       // Discontinued GYG tours (retired, no replacement product) — redirect to the primary castle page.
       {
-        source: '/tours/england/london-buckingham-windsor-full-day',
-        destination: '/castles/england/buckingham-palace',
-        permanent: true,
-      },
-      {
         source: '/tours/england/london-leeds-hever-castles-day-trip',
         destination: '/castles/england/leeds-castle',
         permanent: true,
@@ -44,13 +39,14 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: '/tours/slovakia/piestany-beckov-trencin-cicmany-tour',
-        destination: '/castles/slovakia/trencin-castle',
-        permanent: true,
-      },
-      {
         source: '/tours/spain/belmez-belalcazar-cordoba-excursion',
         destination: '/castles/spain/belmez-castle',
+        permanent: true,
+      },
+      // Old tour slug retired; the same tour_id (1363721) is already covered by this existing page.
+      {
+        source: '/tours/slovakia/piestany-beckov-trencin-cicmany-tour',
+        destination: '/tours/slovakia/bratislava-slovakia-castles-private-tour',
         permanent: true,
       },
     ];

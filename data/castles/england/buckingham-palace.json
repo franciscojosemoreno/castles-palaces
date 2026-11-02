@@ -104,6 +104,22 @@
       "covers_castles": [
         "buckingham-palace"
       ]
+    },
+    {
+      "tour_id": "46982",
+      "title": "Windsor Castle and Buckingham Palace Full-Day Tour",
+      "type": "day_trip",
+      "duration": "7.5 hours",
+      "price_from": 160,
+      "rating": 4.3,
+      "reviews": 83,
+      "is_top_pick": false,
+      "pricing_unit": "person",
+      "booking_url_override": "https://www.getyourguide.com/london-l57/windsor-castle-buckingham-palace-t46982/?partner_id=XDLEZT9&utm_medium=online_publisher",
+      "covers_castles": [
+        "buckingham-palace",
+        "windsor-castle"
+      ]
     }
   ],
   "gyg_direct_link_override": true,

@@ -1,0 +1,99 @@
+{
+  "id": "london-buckingham-windsor-full-day",
+  "slug": "london-buckingham-windsor-full-day",
+  "name": "Windsor Castle & Buckingham Palace: Full-Day Tour from London",
+  "tagline": "Windsor Castle and Buckingham Palace's State Rooms in one day from Victoria Coach Station — Buckingham Palace opens for this tour only during its summer State Rooms season",
+  "departure_country": "england",
+  "departure_city": "London",
+  "visited_countries": [
+    "england"
+  ],
+  "duration_days": 1,
+  "duration_label": "7.5 hours",
+  "gyg_tour_id": "46982",
+  "gyg_url": "https://www.getyourguide.com/london-l57/windsor-castle-buckingham-palace-t46982/?partner_id=XDLEZT9&utm_medium=online_publisher",
+  "price_from": 160,
+  "currency": "EUR",
+  "rating": 4.3,
+  "review_count": 83,
+  "languages": [
+    "English"
+  ],
+  "max_group_size": 50,
+  "pricing_unit": "person",
+  "overview": "This full-day tour from London, operated by Premium Tours, combines Windsor Castle and Buckingham Palace's State Rooms in a single 7.5-hour day, with an English-speaking guide and coach transport departing from Victoria Coach Station (London SW1W 9TN).\n\n**Buckingham Palace is seasonal:** the State Rooms open to the public only during the summer opening season, so the Buckingham Palace portion of this tour is only available within that window — confirm current dates with the operator before booking.\n\nThe day covers Windsor Castle's State Apartments, St George's Chapel, and Queen Mary's Dolls' House, with free time in Windsor town, followed by an afternoon visit to Buckingham Palace's State Rooms and a walk through the garden; the tour ends at the Palace. The Buckingham Palace portion is self-guided — an audio guide is provided inside the palace rather than live commentary.\n\n**Not suitable for visitors with reduced mobility or wheelchair users.**",
+  "highlights": [
+    "Windsor Castle's State Apartments, St George's Chapel, and Queen Mary's Dolls' House, with free time in Windsor town",
+    "Buckingham Palace's State Rooms, open to the public only during the summer season, followed by a walk through the Palace garden",
+    "English-speaking guide and coach transport for the full day, departing Victoria Coach Station (London SW1W 9TN)",
+    "The Buckingham Palace visit is self-guided, with an audio guide provided inside the palace rather than live commentary",
+    "Group tour format, up to 50 travellers, operated by Premium Tours"
+  ],
+  "itinerary": [
+    {
+      "order": 1,
+      "castle_id": "windsor-castle",
+      "castle_name": "Windsor Castle",
+      "duration": "Morning",
+      "description": "Visit Windsor Castle's State Apartments, St George's Chapel, and Queen Mary's Dolls' House, with free time afterward in Windsor town."
+    },
+    {
+      "order": 2,
+      "castle_name": "Coach to London",
+      "duration": "Midday travel",
+      "description": "Coach transport back to central London ahead of the afternoon Buckingham Palace visit."
+    },
+    {
+      "order": 3,
+      "castle_id": "buckingham-palace",
+      "castle_name": "Buckingham Palace — State Rooms",
+      "duration": "Afternoon",
+      "description": "Self-guided visit to Buckingham Palace's State Rooms (summer season only) with an audio guide provided inside the palace, followed by a walk through the Palace garden. The tour ends at Buckingham Palace."
+    }
+  ],
+  "included": [
+    "Windsor Castle entry (State Apartments, St George's Chapel, Queen Mary's Dolls' House)",
+    "Buckingham Palace State Rooms entry (summer season only)",
+    "English-speaking guide",
+    "Coach transport for the full day",
+    "Audio guide inside Buckingham Palace"
+  ],
+  "excluded": [
+    "Lunch and personal expenses",
+    "Gratuities"
+  ],
+  "meeting_point": "Victoria Coach Station, London SW1W 9TN — confirm exact pickup details with Premium Tours at booking.",
+  "tips": [
+    "Buckingham Palace's State Rooms open to the public only during the summer season — confirm current dates with the operator before booking, as the Buckingham Palace portion is not available outside that window.",
+    "The Buckingham Palace visit is self-guided, with an audio guide provided inside the palace rather than a live guide.",
+    "This tour is not suitable for visitors with reduced mobility or wheelchair users.",
+    "The coach departs from Victoria Coach Station (London SW1W 9TN) — confirm the exact departure point and time when booking."
+  ],
+  "faqs": [
+    {
+      "question": "Is Buckingham Palace open to visit year-round on this tour?",
+      "answer": "No — Buckingham Palace's State Rooms open to the public only during the summer season. The Buckingham Palace portion of this tour is only available within that window; check current dates with the operator before booking."
+    },
+    {
+      "question": "Is the Buckingham Palace visit guided?",
+      "answer": "No — the Buckingham Palace visit is self-guided, with an audio guide provided inside the palace. The English-speaking guide accompanies the group at Windsor Castle and for transport during the rest of the day."
+    },
+    {
+      "question": "Is this tour wheelchair accessible?",
+      "answer": "No — the tour is not suitable for visitors with reduced mobility or wheelchair users."
+    }
+  ],
+  "featured": false,
+  "hero_image": {
+    "url": "/images/tours/london-buckingham-windsor-full-day.webp",
+    "alt": "Windsor Castle's Round Tower rising above the castle walls in Berkshire, England, the oldest continuously occupied royal castle in the world",
+    "credit": "Castles & Palaces",
+    "width": 1600,
+    "height": 1067
+  },
+  "meta": {
+    "title": "Windsor Castle & Buckingham Palace: Full-Day Tour from London",
+    "description": "Full-day London tour to Windsor Castle and Buckingham Palace's State Rooms (summer season only), with an English-speaking guide and coach from Victoria Coach Station. From €160 per person."
+  },
+  "last_updated": "2026-11-01"
+}
