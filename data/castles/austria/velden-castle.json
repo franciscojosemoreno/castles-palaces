@@ -1,0 +1,99 @@
+{
+  "id": "velden-castle",
+  "name": "Velden Castle",
+  "local_name": "Schloss Velden (Falkensteiner Schlosshotel Velden, Wörthersee)",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Carinthia — Velden am Wörther See, Villach-Land District, western shore of Lake Wörthersee",
+  "nearest_city": "Velden am Wörther See",
+  "address": "Schlosspark 1, 9220 Velden am Wörthersee, Austria",
+  "lat": 46.6119,
+  "lng": 14.0433,
+  "unesco": false,
+  "built_label": "1590–1603; neo-Renaissance hotel from 1890; spa wing 2013",
+  "architectural_style": "A Renaissance lakeside palace with four polygonal corner towers, rebuilt in neo-Renaissance style from 1890, on the western shore of Lake Wörthersee",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A palace hotel on Lake Wörthersee; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Renaissance lakeside palace completed in 1603 for Bartholomäus Khevenhüller on Lake Wörthersee, a hotel since 1890 and the setting of the 1990s TV series \"Ein Schloss am Wörthersee\", now a five-star hotel with a spa, pools and a private beach",
+  "highlights": [
+    "Bartholomäus Khevenhüller, of an influential Carinthian noble family, bought a property with a mill on the western shore of Lake Wörthersee in 1585 and built it up into a palace, finished in 1603 according to the inscription on the garden portal",
+    "The original manor house was a rectangular building of three and a half storeys with four polygonal corner towers",
+    "The Protestant Khevenhüllers had to leave Carinthia in 1629, and from 1639 the palace belonged to the Dietrichstein family until 1861",
+    "A fire in 1762 destroyed much of the palace; it was only partly repaired, and for a long time served as a post station and inn",
+    "In 1890 the Viennese porcelain manufacturer Ernst Wahliss bought it and had it rebuilt in neo-Renaissance style as an exclusive hotel, with the façade reconstructed from old views",
+    "From 1952 it was a film and television location, best known for the series \"Ein Schloss am Wörthersee\" (1990–92); Gunter Sachs bought it in 1990 and had it restored",
+    "The hotel reopened in 2007 after a renovation, has been run by Falkensteiner since 2012, and gained a modern wing with a spa in 2013"
+  ],
+  "description": "Bartholomäus Khevenhüller, of an influential Carinthian noble family, bought a property with a mill on the western shore of Lake Wörthersee in 1585 and built it up into a palace, finished in 1603 according to the inscription on the garden portal, the north portal that carries his coat of arms. German Wikipedia is the main source for this chronology. The original manor house was a rectangular building of three and a half storeys with four polygonal corner towers.\n\nThe Protestant Khevenhüllers had to leave Carinthia in 1629, and from 1639 the palace belonged to the Dietrichstein family until 1861. A fire in 1762 destroyed much of the palace; it was only partly repaired, and for a long time served as a post station and inn. In 1890 the Viennese porcelain manufacturer Ernst Wahliss bought it and had it rebuilt in neo-Renaissance style as an exclusive hotel, with the façade reconstructed from old views.\n\nFrom 1952 it was a film and television location, best known for the series \"Ein Schloss am Wörthersee\" (1990–92); Gunter Sachs bought it in 1990 and had it restored. The hotel reopened in 2007 after a renovation, has been run by Falkensteiner since 2012, and gained a modern wing with a spa in 2013. Today it is a hotel with pools, a castle park and a private beach on the lake.",
+  "history": "Bartholomäus Khevenhüller bought land with a mill at Velden in 1585 and built a lakeside palace with four corner towers, finished in 1603. After the Protestant Khevenhüllers left Carinthia in 1629, the Dietrichstein family held it from 1639 to 1861. A fire in 1762 destroyed much of it, and it served for decades as a post station and inn. In 1890 Ernst Wahliss rebuilt it in neo-Renaissance style as a luxury hotel, with further works in the 1920s and 1930s. It became a film location from 1952, most famously for the TV series \"Ein Schloss am Wörthersee\", and Gunter Sachs bought and restored it in 1990. After a renovation it reopened in 2007; Falkensteiner has run it since 2012, and a modern spa wing was added in 2013.",
+  "faqs": [
+    {
+      "question": "Was \"Ein Schloss am Wörthersee\" filmed at Schloss Velden?",
+      "answer": "Yes. The palace hotel has been a film and TV location since 1952, and it is best known as the setting of the series \"Ein Schloss am Wörthersee\" (1990–92)."
+    },
+    {
+      "question": "How old is Schloss Velden?",
+      "answer": "Bartholomäus Khevenhüller built it from 1585, and it was finished in 1603; after a fire in 1762 it was rebuilt as a hotel in neo-Renaissance style from 1890."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/velden-castle.webp",
+    "alt": "The yellow façade and corner towers of Schloss Velden beside Lake Wörthersee, Carinthia, Austria",
+    "credit": "Johann Jaritz / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/velden-castle.webp",
+  "instagram_tag": "#schlossvelden",
+  "meta_title": "Velden Castle, Lake Wörthersee — Five-Star Castle Hotel",
+  "meta_description": "Stay at Velden Castle on Lake Wörthersee, Carinthia, Austria — a five-star castle hotel with a spa, pools and a private beach. From approx. €381/night.",
+  "tags": [
+    "austria",
+    "carinthia",
+    "castle-hotel",
+    "spa",
+    "lake",
+    "woerthersee"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "bled-castle",
+    "hochosterwitz-castle",
+    "skofja-loka-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Falkensteiner Schlosshotel Velden",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schlosshotel-velden&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Ffalkensteiner-schlosshotel-velden.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D71510%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26soh%3D1%26sr_order%3Dpopularity%26srepoch%3D1793804347%26srpvid%3Df45e694e43f7061d%26type%3Dtotal%26ucfs%3D1%26%23no_availability_msg",
+    "price_from_night": 381,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "mixed",
+    "room_location_note": "Rooms are in the historic castle and in a modern wing; the entry-level Superior rooms are in the castle, according to Booking, so ask the hotel which building your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "spa",
+      "pool",
+      "restaurant",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The hotel stands at Schlosspark 1 on the western shore of Lake Wörthersee in Velden, in the Villach-Land District of Carinthia. Booking lists parking with valet service, a garage and electric charging; check whether it is charged.\n\n**Rooms & rates:** From approx. €381/night for a 31 m² Superior Room in the historic castle with a queen bed, a garden view, air conditioning, a coffee machine, a minibar and free Wi-Fi, with breakfast and unlimited spa access included and free cancellation on the rate seen (no prepayment); a 40 m² Deluxe Room in the castle or the modern wing was around €422. Booking showed a discounted rate that is not included here, and a small tax charge (about €9) separately.\n\n**On-site:** A spa with a sauna, hot tub and massages, indoor and outdoor pools, a private lakeside beach with a restaurant and a jetty, the castle park and rose garden, and free Wi-Fi.\n\n**Good to know:** Rates were seen for one February 2027 night, a low-season date, so check your own dates on Booking; Booking showed no availability for late January. Rooms are in the historic castle and in a modern wing, so ask which building your room is in.\n\n**Combine with:** [Hochosterwitz Castle](/castles/austria/hochosterwitz-castle), the fortress with fourteen gates on its rock, about 35 km to the east."
+  }
+}

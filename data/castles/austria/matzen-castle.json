@@ -1,0 +1,96 @@
+{
+  "id": "matzen-castle",
+  "name": "Matzen Castle",
+  "local_name": "Schloss Matzen (Reith im Alpbachtal)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Tyrol — Reith im Alpbachtal, Kufstein District, Lower Inn Valley near Brixlegg",
+  "nearest_city": "Brixlegg",
+  "address": "Matzen 5, 6235 Reith im Alpbachtal, Austria",
+  "lat": 47.4223,
+  "lng": 11.8647,
+  "unesco": false,
+  "built_label": "First recorded 1278; arcaded courtyard 16th century; hotel since about 2010",
+  "architectural_style": "A medieval castle on a low hill in the Lower Inn Valley, with a six-storey round keep and a 16th-century arcaded courtyard, set in a 19th-century English landscape park",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A castle hotel; Booking lists the property as wheelchair accessible, with accessible parking, so contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A medieval castle in the Lower Inn Valley first recorded in 1278, with a round keep and a 16th-century arcaded courtyard, bought in 1873 by an Irish-born family who restored it, and now a castle hotel set in a listed English landscape park",
+  "highlights": [
+    "The castle stands on a low spur of hill in the Lower Inn Valley and is first recorded in 1278; it was founded by the Freundsberg family, ministerials of the dukes of Bavaria, who held it until 1468, according to German Wikipedia",
+    "Owners then changed often, among them the Fugger family of Augsburg from 1589 to 1657; after a fire under the Pfeiffersberg family, who held it from 1734, the castle fell into decline",
+    "In 1873 it was bought by Fanny Reade, an Irish-born widow, whose son William Adolf Baillie-Grohman, a writer and hunter, wrote widely read books about Tyrol in English",
+    "During the Second World War the castle stored collections of the Tyrolean State Museum (Ferdinandeum) and the Tyrolean State Library",
+    "In 1957 the Baillie-Grohman family sold it to the American architect Ernest J. Kump, and in 2007 a German investor bought it and converted it into a hotel over about two and a half years",
+    "The castle has long north and south wings, a six-storey round keep and a lower courtyard with four storeys of vaulted arcades on marble columns from the second quarter of the 16th century; its chapel is recorded in 1470 and has a stucco ceiling of 1668",
+    "The 19th-century English landscape park around the castle, with ponds, lawns and many tree species, is protected as a natural monument, and the castle's 16th-century farm courtyard next door is now the Gasthaus Matzen"
+  ],
+  "description": "Schloss Matzen stands on a low spur of hill in the Lower Inn Valley and is first recorded in 1278; it was founded by the Freundsberg family, ministerials of the dukes of Bavaria, who held it until 1468. German Wikipedia is the main source for this chronology. Owners then changed often, among them the Fugger family of Augsburg from 1589 to 1657; after a fire under the Pfeiffersberg family, who held it from 1734, the castle fell into decline.\n\nIn 1873 the castle was bought by Fanny Reade, an Irish-born widow, whose son William Adolf Baillie-Grohman, a writer and hunter, wrote widely read books about Tyrol in English. During the Second World War the castle stored collections of the Tyrolean State Museum (Ferdinandeum) and the Tyrolean State Library. In 1957 the Baillie-Grohman family sold it to the American architect Ernest J. Kump.\n\nIn 2007 a German investor bought the castle and converted it into a hotel over about two and a half years. The castle has long north and south wings, a six-storey round keep and a lower courtyard with four storeys of vaulted arcades on marble columns from the second quarter of the 16th century; its chapel is recorded in 1470 and has a stucco ceiling of 1668. The 19th-century English landscape park around the castle, with ponds, lawns and many tree species, is protected as a natural monument, and the castle's 16th-century farm courtyard next door is now the Gasthaus Matzen.",
+  "history": "Matzen Castle is first recorded in 1278 as a foundation of the Freundsberg family, ministerials of the dukes of Bavaria, who held it until 1468. It then passed through many hands, including the Fugger family from 1589 to 1657, and declined after a fire in the time of the Pfeiffersberg family, owners from 1734 to 1873. In 1873 the Irish-born Fanny Reade bought and restored it; her son William Adolf Baillie-Grohman wrote popular English books about Tyrol. During the Second World War it stored collections of the Tyrolean State Museum and State Library. The family sold it in 1957 to the American architect Ernest J. Kump, and in 2007 a German investor bought it and spent about two and a half years converting it into a hotel.",
+  "faqs": [
+    {
+      "question": "Who owned Schloss Matzen?",
+      "answer": "It was founded by the Freundsberg family, who held it until 1468, and later belonged to the Fuggers, among others. From 1873 to 1957 it belonged to the family of the Irish-born Fanny Reade and her son William Adolf Baillie-Grohman."
+    },
+    {
+      "question": "When did Schloss Matzen become a hotel?",
+      "answer": "A German investor bought the castle in 2007 and converted it into a hotel over about two and a half years."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/matzen-castle.webp",
+    "alt": "Aerial view of Schloss Matzen with its round keep above a pond in the Lower Inn Valley, Tyrol, Austria",
+    "credit": "Wolkenkratzer / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/matzen-castle.webp",
+  "instagram_tag": "#schlossmatzen",
+  "meta_title": "Matzen Castle, Tyrol — Castle Hotel in the Lower Inn Valley",
+  "meta_description": "Stay at Matzen Castle in the Lower Inn Valley near Brixlegg, Tyrol, Austria — a castle hotel with a spa and an English landscape park. From approx. €250/night.",
+  "tags": [
+    "austria",
+    "tyrol",
+    "castle-hotel",
+    "spa",
+    "inn-valley",
+    "brixlegg"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "tratzberg-castle",
+    "schloss-ambras",
+    "herrenchiemsee-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Matzen",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=schloss-matzen&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-matzen.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D25581101_88450905_0_1_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D25581101_88450905_0_1_0%26hpos%3D1%26matching_block_id%3D25581101_88450905_0_1_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Ddistance_from_search%26sr_pri_blocks%3D25581101_88450905_0_1_0__47500%26srepoch%3D1793803995%26srpvid%3D842868ab23b800bc%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 250,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the castle; ask the hotel which wing and floor your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "spa",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The castle stands at Matzen 5 in Reith im Alpbachtal, on a low hill in the Lower Inn Valley close to Brixlegg, in the Kufstein District of Tyrol. Booking lists free on-site parking, including accessible parking.\n\n**Rooms & rates:** From approx. €250/night for a 35 m² Standard Double Room with a queen bed, views over the garden, the mountains and the river, a private bathroom, a minibar and free Wi-Fi, with breakfast and free cancellation included on the rate seen (no prepayment); a 45 m² Deluxe Double Room was around €299 and a Junior Suite around €370. Booking shows a small tax charge (about €7) separately, plus a possible member discount that is not included here.\n\n**On-site:** A spa with a sauna and steam room, the castle's English landscape park, free parking and free Wi-Fi; pets are welcome, with possible fees, and Booking lists the property as wheelchair accessible.\n\n**Good to know:** Rates were seen for one January 2027 night, a low-season date, so check your own dates on Booking. The Gasthaus Matzen in the old farm courtyard next to the castle is a separate restaurant. The castle is a hotel, not a ticketed monument.\n\n**Combine with:** [Tratzberg Castle](/castles/austria/tratzberg-castle), a Renaissance castle above the Inn valley at Stans, about 10 km to the west."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "kuhtai-hunting-lodge",
+  "name": "Kühtai Hunting Lodge",
+  "local_name": "Jagdschloss Kühtai (Hotel Jagdschloss Resort)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Tyrol — Kühtai, municipality of Silz, Imst District, Stubai Alps, at about 2,020 m",
+  "nearest_city": "Innsbruck",
+  "address": "Kühtai 1, 6183 Kühtai, Austria",
+  "lat": 47.2125,
+  "lng": 11.0142,
+  "unesco": false,
+  "built_label": "Hunting lodge from 1622; hotel since the 19th century; modernised 2016",
+  "architectural_style": "A Habsburg hunting lodge of 1622 on the Kühtai Saddle, now part of a ski-to-door resort of three buildings",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Winter for ski-to-door skiing; check the hotel for summer opening",
+  "accessibility": "A resort at about 2,020 metres; Booking lists accessible parking, so contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Habsburg hunting lodge of 1622 at about 2,020 metres on the Kühtai Saddle, later used by Emperor Franz Joseph, run for decades as a winter sports hotel by the Stolberg-Stolberg family and now a ski-to-door resort of three buildings",
+  "highlights": [
+    "A cattle farm called \"Chutay\" (cow alp) stood here by about 1280, when it is recorded in a land register of the counts of Tyrol, according to English Wikipedia",
+    "In 1497 the future Emperor Maximilian I received the hunting rights in the Kühtai",
+    "In 1622 Archduke Leopold V had the farm turned into a hunting lodge, and in 1624 a road was built up from the Sellrain valley",
+    "Emperor Franz Joseph I bought the lodge back in 1893 and used it as a base for hunting Alpine marmots",
+    "The lodge passed through his granddaughter Hedwig to the counts of Stolberg-Stolberg, who turned it into a winter sports hotel; Kühtai itself was opened up as a ski resort in 1909",
+    "New owners modernised the property in 2016, and today the resort has three buildings at about 2,020 metres, one of the highest ski resorts in Austria"
+  ],
+  "description": "A cattle farm called \"Chutay\" (cow alp) stood on the Kühtai Saddle by about 1280, when it is recorded in a land register of the counts of Tyrol, according to English Wikipedia, the main source for this chronology. In 1497 the future Emperor Maximilian I received the hunting rights in the Kühtai, and in 1622 Archduke Leopold V had the farm turned into a hunting lodge; in 1624 a road was built up from the Sellrain valley.\n\nEmperor Franz Joseph I bought the lodge back in 1893 and used it as a base for hunting Alpine marmots. It passed through his granddaughter Hedwig to the counts of Stolberg-Stolberg, who turned it into a winter sports hotel; Kühtai itself was opened up as a ski resort in 1909.\n\nNew owners modernised the property in 2016, and today the resort has three buildings at about 2,020 metres, one of the highest ski resorts in Austria. Not all accommodation is in the historic lodge, as apartments are in the newer buildings. In winter the slopes are directly accessible from the hotel, and the resort has a restaurant with a panoramic terrace and a spa.",
+  "history": "A cow alp called \"Chutay\" is recorded at the Kühtai Saddle around 1280. In 1497 the future Emperor Maximilian I received the hunting rights here, and in 1622 Archduke Leopold V had the farm rebuilt as a hunting lodge, with a road from the Sellrain valley following in 1624. Emperor Franz Joseph I bought the lodge back in 1893 for marmot hunting, and it passed through his granddaughter Hedwig to the counts of Stolberg-Stolberg, who ran it as a winter sports hotel as Kühtai grew into a ski resort from 1909. New owners modernised it in 2016, and it now operates as a resort of three buildings around the historic lodge.",
+  "faqs": [
+    {
+      "question": "How old is the Jagdschloss in Kühtai?",
+      "answer": "Archduke Leopold V had the hunting lodge built in 1622 on the site of a cow alp recorded around 1280; Emperor Franz Joseph I later used it for marmot hunting."
+    },
+    {
+      "question": "Can you ski from the hotel?",
+      "answer": "Yes. Booking lists the hotel as ski-to-door, and in winter the Kühtai slopes are directly accessible from the hotel."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/kuhtai-hunting-lodge.webp",
+    "alt": "The Jagdschloss Kühtai hotel with its red-and-white shutters and the Tyrolean mountains behind, Austria",
+    "credit": "Alletto / Wikimedia Commons, CC BY-SA 3.0 AT",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/kuhtai-hunting-lodge.webp",
+  "instagram_tag": "#jagdschlosskuhtai",
+  "meta_title": "Kühtai Hunting Lodge, Tyrol — Ski-to-Door Resort at 2,020 m",
+  "meta_description": "Stay at the Habsburg hunting lodge of Kühtai in the Tyrolean Alps, Austria — a four-star ski-to-door resort with a spa. From approx. €236/night.",
+  "tags": [
+    "austria",
+    "tyrol",
+    "castle-hotel",
+    "spa",
+    "ski",
+    "kuhtai"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "schloss-ambras",
+    "linderhof-palace",
+    "neuschwanstein-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Jagdschloss Resort",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=jagdschloss-kuhtai&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fjagdschloss-kuhtai.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D29301002_97560110_2_1_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D293010%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D29301002_97560110_2_1_0%26hpos%3D1%26matching_block_id%3D29301002_97560110_2_1_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D29301002_97560110_2_1_0__57084%26srepoch%3D1793804142%26srpvid%3De57268f55eff08dd%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 236,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "mixed",
+    "room_location_note": "The resort has three buildings, including the historic hunting lodge; ask the hotel which building your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "restaurant",
+      "spa"
+    ],
+    "how_to_stay": "**Getting there:** The lodge stands at the entrance to the Kühtai Saddle, at about 2,020 metres in the Stubai Alps, in the municipality of Silz in Tyrol; in winter the slopes are directly accessible from the hotel. Booking lists free private parking in a garage with electric charging and accessible parking.\n\n**Rooms & rates:** From approx. €236/night for a 25 m² Deluxe Double Room with a queen bed, a private kitchenette, a dishwasher, a coffee machine and free Wi-Fi, on a non-refundable rate paid to the property before arrival, with breakfast at about €27 extra; a free-cancellation rate was around €263, the room with breakfast included around €303, and with breakfast and dinner around €433. Booking showed a discounted rate that is not included here, and a small tax charge (about €8) separately.\n\n**On-site:** A restaurant with a panoramic terrace, a bar, a spa with a sauna, steam room and massages, ski-to-door access in winter, free parking and free Wi-Fi.\n\n**Good to know:** Rates were seen for one January 2027 night, in the ski season, so check your own dates on Booking. The resort has three buildings; according to Booking the rooms, restaurant, bar and sauna are in the main building, the apartments are in another, and dogs are not allowed in the historic Jagdschloss, so ask which building your room is in.\n\n**Combine with:** [Schloss Ambras](/castles/austria/schloss-ambras), the Renaissance castle above Innsbruck, about 30 km to the east."
+  }
+}
