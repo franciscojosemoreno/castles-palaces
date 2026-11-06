@@ -1,0 +1,95 @@
+{
+  "id": "leopoldskron-palace",
+  "name": "Leopoldskron Palace",
+  "local_name": "Schloss Leopoldskron (Salzburg)",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Salzburg State — Leopoldskron-Moos, city of Salzburg, on the Leopoldskroner Weiher",
+  "nearest_city": "Salzburg",
+  "address": "Leopoldskron 56-58, Riedenburg, 5020 Salzburg, Austria",
+  "lat": 47.7883,
+  "lng": 13.0386,
+  "unesco": false,
+  "built_label": "1736; restored by Max Reinhardt from 1918; hotel since 2014",
+  "architectural_style": "A rococo palace on the shore of the Leopoldskroner Weiher, with the Meierhof, the former estate farm building, beside it",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A palace hotel that also hosts the Salzburg Global Seminar; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A rococo palace on a lake south of Salzburg's old town, built in 1736 for a prince-archbishop, restored by the theatre director Max Reinhardt and home to the Salzburg Global Seminar since 1947, now a hotel with rooms in the palace's former farm building and suites in the palace",
+  "highlights": [
+    "Prince-Archbishop Leopold Anton Eleutherius von Firmian commissioned the palace in 1736 on the shore of an existing pond, the Leopoldskroner Weiher; Wikipedia notes he had enriched himself by expelling over 22,000 Protestants from Salzburg",
+    "In 1744 the estate passed to his nephew Count Laktanz Firmian, who used the palace to house a large collection of paintings, including works by Titian, Dürer, Poussin, Rubens and Rembrandt; the Archbishop's heart was buried in the palace chapel",
+    "The Firmian family kept the palace until 1837; a later owner stripped it of most of its valuable interior decoration, and in the 19th century it passed through several hands, including King Ludwig I of Bavaria",
+    "In 1918 Max Reinhardt, theatre director and co-founder of the Salzburg Festival, bought it and spent twenty years restoring it: he restored the staircase, the Great Hall and the Marble Hall and created the Library, the Venetian Room and a garden theatre",
+    "In 1939 the Nazi authorities confiscated the palace as \"Jewish property\"; Reinhardt, who had emigrated to the United States, died in New York in 1943",
+    "After the war the palace was returned to the Reinhardt estate, and in 1947 the Salzburg Seminar began meeting here; the Salzburg Global Seminar bought the palace in 1959 and the neighbouring Meierhof in 1973",
+    "In February 2014 the property reopened as Hotel Schloss Leopoldskron, with rooms in the renovated Meierhof",
+    "The palace itself never appears in the 1965 film The Sound of Music: some lakeside scenes were shot on the Meierhof grounds with a replica of the palace terrace, and the Hollywood ballroom set was inspired by the Venetian Room, according to Wikipedia"
+  ],
+  "description": "Leopoldskron was built from 1736 as a rococo palace for Prince-Archbishop Leopold Anton Eleutherius von Firmian, on the shore of an existing pond, the Leopoldskroner Weiher, south of Salzburg. In 1744 the estate passed to his nephew Count Laktanz Firmian, who used the palace to house a large collection of paintings, including works by Titian, Dürer, Poussin, Rubens and Rembrandt; the Archbishop's heart was buried in the palace chapel. The Firmian family kept the palace until 1837, after which a later owner stripped it of most of its valuable interior decoration and it passed through several hands in the 19th century, including King Ludwig I of Bavaria.\n\nIn 1918 the theatre director Max Reinhardt, a co-founder of the Salzburg Festival, bought the palace and spent twenty years restoring it: he restored the staircase, the Great Hall and the Marble Hall and created the Library, the Venetian Room and a garden theatre. In 1939 the Nazi authorities confiscated the palace as \"Jewish property\"; Reinhardt, who had emigrated to the United States, died in New York in 1943.\n\nAfter the war the palace was returned to the Reinhardt estate, and in 1947 the Salzburg Seminar began meeting here; the Salzburg Global Seminar bought the palace in 1959 and the neighbouring Meierhof in 1973. In February 2014 the property reopened as Hotel Schloss Leopoldskron, with rooms in the renovated Meierhof. The palace itself never appears in the 1965 film The Sound of Music: some lakeside scenes were shot on the Meierhof grounds with a replica of the palace terrace, and the Hollywood ballroom set was inspired by the Venetian Room, according to Wikipedia.",
+  "history": "Leopoldskron was built from 1736 as a rococo palace for Prince-Archbishop Leopold Anton Eleutherius von Firmian on the shore of the Leopoldskroner Weiher, south of Salzburg. His nephew Count Laktanz Firmian filled it with an important collection of paintings, and the family kept it until 1837, after which its interiors were largely stripped and it changed hands several times. In 1918 the theatre director Max Reinhardt, a co-founder of the Salzburg Festival, bought it and spent two decades restoring it and staging productions in its rooms. The Nazi authorities confiscated it in 1939; it was returned to Reinhardt's heirs after the war, and from 1947 it hosted the Salzburg Seminar, which bought the palace in 1959 and the adjoining Meierhof in 1973. Since 2014 the palace and the Meierhof have operated as a hotel.",
+  "faqs": [
+    {
+      "question": "Was The Sound of Music filmed at Schloss Leopoldskron?",
+      "answer": "Not inside the palace. Some lakeside scenes were filmed on the neighbouring Meierhof grounds with a replica of the palace terrace, and the ballroom set built in Hollywood was inspired by the palace's Venetian Room."
+    },
+    {
+      "question": "Are the hotel rooms in the palace?",
+      "answer": "Most rooms, including the entry-level rooms on Booking, are in the Meierhof, the former estate farm building next to the palace; the palace itself has a small number of suites."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/leopoldskron-palace.webp",
+    "alt": "Schloss Leopoldskron seen across the Leopoldskroner Weiher in Salzburg, Austria, with Hohensalzburg Fortress behind",
+    "credit": "Pixelcreatures2 / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/leopoldskron-palace.webp",
+  "instagram_tag": "#schlossleopoldskron",
+  "meta_title": "Leopoldskron Palace, Salzburg — Rococo Palace Hotel on a Lake",
+  "meta_description": "Stay at Leopoldskron Palace on the Leopoldskroner Weiher in Salzburg, Austria — a rococo palace hotel. From approx. €199/night.",
+  "tags": [
+    "austria",
+    "salzburg-state",
+    "castle-hotel",
+    "rococo",
+    "salzburg",
+    "lake"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "hellbrunn-palace",
+    "hohensalzburg-fortress"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Leopoldskron",
+    "booking_url": "https://www.anrdoezrs.net/click-101853327-15734754?sid=schloss-leopoldskron&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fleopoldskronsalzburg.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D7031502_88515573_0_1_0_699475%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D70315%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D7031502_88515573_0_1_0_699475%26hpos%3D1%26matching_block_id%3D7031502_88515573_0_1_0_699475%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D7031502_88515573_0_1_0_699475_43510%26srepoch%3D1793802373%26srpvid%3Da4cd6573173303f6%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 199,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "mixed",
+    "room_location_note": "The hotel has rooms in the Meierhof, the former estate farm building next to the palace, and suites in the palace itself; the entry-level rooms on Booking are in the Meierhof, so ask the hotel which building your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The palace stands on the Leopoldskroner Weiher in the Leopoldskron-Moos district, south of Salzburg's old town; the hotel address is Leopoldskron 56-58. Booking lists free private parking with electric charging.\n\n**Rooms & rates:** From approx. €199/night for a 15 m² Standard Double Room in the Meierhof building with a courtyard view, a queen bed, a private bathroom and free Wi-Fi, with breakfast and one parking spot included on the non-refundable rate seen; a free-cancellation rate was around €209. Superior Meierhof rooms were around €258 and Premium Meierhof rooms with a lake view around €292. Booking shows a small tax charge (about €8) separately.\n\n**On-site:** The palace park on the lake, a café in the Meierhof, free parking and free Wi-Fi.\n\n**Good to know:** All the rooms seen on Booking are in the Meierhof, the former estate farm building beside the palace, not in the palace itself; the palace has a smaller number of suites, so ask the hotel which building your room is in. Rates were seen for one February 2027 night, a low-season date, so check your own dates on Booking. The palace is not a walk-in monument and also hosts the Salzburg Global Seminar and events.\n\n**Combine with:** [Hellbrunn Palace](/castles/austria/hellbrunn-palace), south of the city, where the Sound of Music gazebo now stands, and [Hohensalzburg Fortress](/castles/austria/hohensalzburg-fortress) above the old town."
+  }
+}

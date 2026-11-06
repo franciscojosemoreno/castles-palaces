@@ -1,0 +1,99 @@
+{
+  "id": "monchstein-castle",
+  "name": "Mönchstein Castle",
+  "local_name": "Schloss Mönchstein (Mönchsberg, Salzburg)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Salzburg State — Mönchsberg, city of Salzburg, above the old town",
+  "nearest_city": "Salzburg",
+  "address": "Mönchsberg 26, Altstadt, 5020 Salzburg, Austria",
+  "lat": 47.8041,
+  "lng": 13.0357,
+  "unesco": false,
+  "built_label": "Tower first recorded 1350; enlarged 1531–1643 and in 1919; castle hotel since 1956",
+  "architectural_style": "A small castle that grew from a medieval tower into a three-storey tower building by 1643 and was substantially enlarged in 1919, in a private park on the Mönchsberg",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round, except a short autumn closure",
+  "accessibility": "A castle hotel on the Mönchsberg; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A small castle in a private park on the Mönchsberg above Salzburg's old town, first recorded as a tower in 1350, owned from 1654 by the Benedictine University of Salzburg and run as a five-star castle hotel with a spa and an outdoor infinity pool",
+  "highlights": [
+    "The hotel's chronicle dates the first written mention of \"Der Mönchstein\", then called the Tetelheimer Tower, to 1350; other sources place it in the late 14th century",
+    "In 1531 Virgil Fröschlmoser added a farmhouse, stables, a barn and a chapel next to the small castle, and built a stone tower on the rock",
+    "In 1622 the castle was sold to the monastery of Mülln, and under Archbishop Paris Lodron the Mönchsberg received new fortifications and gates; by 1643 Mönchstein had grown into a three-storey tower building",
+    "From 1654 it belonged to the Benedictine University of Salzburg; its chapel was consecrated in 1661, and the tower room served as an astronomical observation station",
+    "The naturalist Alexander von Humboldt praised the setting as a piece of paradise, according to the hotel",
+    "In 1887 the banker Karl Leitner bought the castle, and a road up from Mülln followed in 1890; the castle was substantially enlarged in 1919",
+    "The von Mierka family bought it in 1956 and turned it into a castle hotel (some sources date the hotel to 1948, after a renovation)",
+    "Recent works added an outdoor infinity pool in 2014 and a glass-domed restaurant, The Glass Garden, in 2018"
+  ],
+  "description": "The hotel's chronicle dates the first written mention of \"Der Mönchstein\", then called the Tetelheimer Tower, to 1350, while other sources place it in the late 14th century. In 1531 Virgil Fröschlmoser added a farmhouse, stables, a barn and a chapel next to the small castle, and built a stone tower on the rock. In 1622 the castle was sold to the monastery of Mülln, and under Archbishop Paris Lodron the Mönchsberg received new fortifications and gates; by 1643 Mönchstein had grown into a three-storey tower building.\n\nFrom 1654 the castle belonged to the Benedictine University of Salzburg, whose chapel was consecrated in 1661 and whose tower room served as an astronomical observation station. The naturalist Alexander von Humboldt praised the setting as a piece of paradise, according to the hotel. After the university's secularisation the castle passed to private owners; in 1887 the banker Karl Leitner bought the castle, and a road up from Mülln followed in 1890; the castle was substantially enlarged in 1919.\n\nThe von Mierka family bought the castle in 1956 and turned it into a castle hotel; some sources date the hotel to 1948, after a renovation. Recent works added a spa, an outdoor infinity pool in 2014 and a glass-domed restaurant, The Glass Garden, in 2018. The castle stands in a private park on the Mönchsberg, a short walk from Hohensalzburg and the old town. Sources differ on the first mention of the tower (1350 or the late 14th century) and on when the hotel opened (1948 or 1956).",
+  "history": "The hotel's chronicle traces Mönchstein to a tower on the Mönchsberg first recorded in 1350 as the Tetelheimer Tower. In 1531 Virgil Fröschlmoser added farm buildings, a chapel and a stone tower; in 1622 the property passed to the monastery of Mülln, and by 1643 it had become a three-storey tower building. From 1654 it belonged to the Benedictine University of Salzburg, which consecrated its chapel in 1661 and used the tower room for astronomical observation. After the university's secularisation the castle passed to private owners; the banker Karl Leitner bought it in 1887, a road up from Mülln followed in 1890, and it was substantially enlarged in 1919. The von Mierka family turned it into a castle hotel in 1956, and later owners renovated and extended it, adding a spa, an outdoor infinity pool and a glass-domed restaurant.",
+  "faqs": [
+    {
+      "question": "How old is Schloss Mönchstein?",
+      "answer": "The hotel's chronicle dates the first record of the tower to 1350, while other sources place it in the late 14th century; the building was enlarged in the 16th and 17th centuries and again in 1919."
+    },
+    {
+      "question": "When did Schloss Mönchstein become a hotel?",
+      "answer": "The hotel dates its castle-hotel history to 1956, when the von Mierka family bought and converted it; some sources give 1948, after an earlier renovation."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/monchstein-castle.webp",
+    "alt": "Schloss Mönchstein, a small castle hotel in a park on the Mönchsberg above Salzburg, Austria",
+    "credit": "Michael Burgholzer / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/monchstein-castle.webp",
+  "instagram_tag": "#schlossmonchstein",
+  "meta_title": "Mönchstein Castle, Salzburg — Five-Star Castle Hotel on the Mönchsberg",
+  "meta_description": "Stay at Mönchstein Castle in a private park above Salzburg's old town, Austria — a five-star castle hotel with a spa. From approx. €561/night.",
+  "tags": [
+    "austria",
+    "salzburg-state",
+    "castle-hotel",
+    "spa",
+    "salzburg",
+    "monchsberg"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "hohensalzburg-fortress",
+    "hellbrunn-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Schloss Mönchstein",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=schloss-monchstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-monchstein.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D7044008_88515980_2_1_0_628550%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D70440%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D7044008_88515980_2_1_0_628550%26hpos%3D1%26matching_block_id%3D7044008_88515980_2_1_0_628550%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D7044008_88515980_2_1_0_628550_95832%26srepoch%3D1793802844%26srpvid%3Dbdcc666c19ec0a68%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 561,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the castle on the Mönchsberg; ask the hotel which building and floor your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "restaurant",
+      "spa",
+      "pool",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The castle stands in a private park on the Mönchsberg, the wooded rock above Salzburg's old town; Booking gives the address as Mönchsberg 26 and the hotel as Mönchsberg Park 26. Booking lists valet parking, a garage and electric charging, and the hotel opened an underground car park with charging points in 2024.\n\n**Rooms & rates:** From approx. €561/night for a Superior Double Room with a park view, a king bed, air conditioning, a coffee machine, a minibar and free Wi-Fi, with breakfast and unlimited spa access included on the non-refundable rate seen; a free-cancellation rate was around €638, and a Deluxe Double Room with a garden view around €620. Booking showed a member price that is not included here, and a small tax charge (about €8) separately.\n\n**On-site:** A spa with a sauna and hot tub, an outdoor infinity pool, a restaurant under a glass dome, a bar, a chapel and a private castle park.\n\n**Good to know:** Rates were seen for one mid-April 2027 night, so check your own dates on Booking. The hotel closes for a short seasonal break in the autumn (in 2026 it was due to reopen on 19 November), so check its website for closing dates. The castle is a hotel, not a ticketed monument.\n\n**Combine with:** [Hohensalzburg Fortress](/castles/austria/hohensalzburg-fortress), reached on foot across the Mönchsberg, and [Hellbrunn Palace](/castles/austria/hellbrunn-palace), south of the city."
+  }
+}
