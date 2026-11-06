@@ -1,0 +1,99 @@
+{
+  "id": "pichlarn-castle",
+  "name": "Pichlarn Castle",
+  "local_name": "Schloss Pichlarn (IMLAUER Hotel Schloss Pichlarn, Ennstal)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Styria — Aigen im Ennstal (Gatschen, above Irdning), Liezen District, below the Grimming massif",
+  "nearest_city": "Liezen",
+  "address": "Zur Linde, 8943 Aigen im Ennstal, Austria",
+  "lat": 47.5034,
+  "lng": 14.1197,
+  "unesco": false,
+  "built_label": "First recorded 1074; round towers after 1555; hotel and golf course since 1972",
+  "architectural_style": "A castle below the Grimming massif with two round towers added after 1555, extended with large hotel wings",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A castle resort in the Enns valley; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A castle in the Enns valley below the Grimming, first recorded in 1074 and given its two round towers by the lords of Stainach after 1555, a hotel with its own golf course since 1972 and now a five-star castle resort with a spa and indoor and outdoor pools",
+  "highlights": [
+    "The castle stands above Irdning in the Enns valley, below the Grimming massif; it is first recorded in 1074, and its construction is traditionally dated to 1009, according to German Wikipedia",
+    "It was the seat of the lords of Püchlarn (the name comes from \"Pichl\" or \"Bühel\", a hill), a Walter of Püchlarn being mentioned in 1139",
+    "In the mid-12th century Leo of Püchlarn left the estate to Admont Abbey in return for lifelong care, and the family seems to have died out with another Leo in 1360",
+    "For several centuries the castle was administered by clergy, and in 1551 it is recorded as the noble seat of Püchlern above Irdning",
+    "The lords of Stainach took it over in 1555 and built its two characteristic round towers",
+    "In 1896 it passed to Countess Johanna Lamberg, who became known locally for her care of the poor, the sick and schoolchildren",
+    "In the early 1970s the industrialist Fritz Ries turned it into a luxury hotel with a new golf course, opened in 1972; it was sold in 1979 and has been rebuilt and extended several times since",
+    "Since January 2021 it has been run by the Salzburg hotelier Georg Imlauer as part of the Imlauer hotels"
+  ],
+  "description": "Schloss Pichlarn stands above Irdning in the Enns valley, below the Grimming massif; it is first recorded in 1074, and its construction is traditionally dated to 1009, a traditional date that is not documented. German Wikipedia is the main source for this chronology. It was the seat of the lords of Püchlarn (the name comes from \"Pichl\" or \"Bühel\", a hill), a Walter of Püchlarn being mentioned in 1139. In the mid-12th century Leo of Püchlarn left the estate to Admont Abbey in return for lifelong care, and the family seems to have died out with another Leo in 1360.\n\nFor several centuries the castle was administered by clergy, and in 1551 it is recorded as the noble seat of Püchlern above Irdning. The lords of Stainach took it over in 1555 and built its two characteristic round towers. In 1896 it passed to Countess Johanna Lamberg, who became known locally for her care of the poor, the sick and schoolchildren.\n\nIn the early 1970s the industrialist Fritz Ries turned it into a luxury hotel with a new golf course, opened in 1972; it was sold in 1979 and has been rebuilt and extended several times since. Since January 2021 it has been run by the Salzburg hotelier Georg Imlauer as part of the Imlauer hotels. Today it is a five-star hotel with a spa, indoor and outdoor pools and a golf course.",
+  "history": "Schloss Pichlarn is first recorded in 1074, and its construction is traditionally dated to 1009. It was the seat of the lords of Püchlarn, who passed the estate to Admont Abbey in the 12th century in return for lifelong care, and for centuries it was administered by clergy. In 1555 the lords of Stainach took it over and built its two round towers, and in 1896 it passed to Countess Johanna Lamberg. In the early 1970s the industrialist Fritz Ries turned it into a luxury hotel with a golf course, opened in 1972; after his death it was sold in 1979 and extended several times. Since 2021 it has belonged to the Imlauer hotel group.",
+  "faqs": [
+    {
+      "question": "How old is Schloss Pichlarn?",
+      "answer": "It is first recorded in 1074, and its construction is traditionally dated to 1009; its two round towers were added by the lords of Stainach after 1555."
+    },
+    {
+      "question": "Does Schloss Pichlarn have a golf course?",
+      "answer": "Yes. The hotel's golf course was built in 1972, when the castle opened as a hotel, and it has been extended since."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/pichlarn-castle.webp",
+    "alt": "Schloss Pichlarn and its hotel wings above green meadows in the Enns valley, Styria, Austria",
+    "credit": "Worldfootage / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/pichlarn-castle.webp",
+  "instagram_tag": "#schlosspichlarn",
+  "meta_title": "Pichlarn Castle, Ennstal — Five-Star Castle Resort with Spa and Golf",
+  "meta_description": "Stay at Pichlarn Castle below the Grimming in the Enns valley, Styria, Austria — a five-star castle resort with a spa and pools. From approx. €340/night.",
+  "tags": [
+    "austria",
+    "styria",
+    "castle-hotel",
+    "spa",
+    "golf",
+    "ennstal"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "schloss-ort",
+    "mauterndorf-castle",
+    "hohenwerfen-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "IMLAUER Hotel Schloss Pichlarn",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=schloss-pichlarn&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-pichlarn.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D25153504_433801866_2_33_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D251535%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D25153504_433801866_2_33_0%26hpos%3D1%26matching_block_id%3D25153504_433801866_2_33_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D25153504_433801866_2_33_0__76100%26srepoch%3D1793805684%26srpvid%3Daee96bf973540e4f%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 340,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "mixed",
+    "room_location_note": "Rooms are in the castle and in the hotel wings built around it; ask the hotel which building your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "spa",
+      "pool",
+      "restaurant"
+    ],
+    "how_to_stay": "**Getting there:** The hotel stands above Irdning in the Enns valley, in the municipality of Aigen im Ennstal in the Liezen District of Styria, below the Grimming massif; Booking gives the address as Zur Linde, 8943 Aigen im Ennstal. Booking lists free private parking with valet service, a garage and electric charging.\n\n**Rooms & rates:** From approx. €340/night for a 27 m² Deluxe Double Room with a king bed, a mountain view, a bathroom with a bath, shower and bidet, a coffee machine, a minibar and free Wi-Fi, with breakfast and free cancellation included on the rate seen (no prepayment); a Deluxe Double Room with a balcony was around €367. Booking shows a small tax charge (about €6) separately.\n\n**On-site:** A spa with a hot tub and massages, indoor and outdoor pools, restaurants, the hotel's golf course, free parking and free Wi-Fi.\n\n**Good to know:** Rates were seen for one January 2027 night, a low-season date, so check your own dates on Booking. The castle has been extended with large hotel wings, so ask which building your room is in. The castle is a hotel, not a ticketed monument.\n\n**Combine with:** [More castle hotels in Austria](/castle-hotels/austria)."
+  }
+}

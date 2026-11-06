@@ -1,0 +1,95 @@
+{
+  "id": "gabelhofen-castle",
+  "name": "Gabelhofen Castle",
+  "local_name": "Schloss Gabelhofen (TAUROA Schloss Gabelhofen, Fohnsdorf)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Styria — Fohnsdorf, Murtal District, Aichfeld basin of Upper Styria",
+  "nearest_city": "Judenburg",
+  "address": "Schlossgasse 54, 8753 Fohnsdorf, Austria",
+  "lat": 47.1918,
+  "lng": 14.6739,
+  "unesco": false,
+  "built_label": "First recorded 1443; Renaissance moated castle by about 1536; hotel since 1994",
+  "architectural_style": "A Renaissance moated castle in the Aichfeld basin, expanded from a farm from 1490 and completed around 1536",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A moated castle hotel; Booking lists accessible parking, so contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A Renaissance moated castle in the Aichfeld basin of Upper Styria, first recorded in 1443 as a farm and named after the Gabelkhofen family who bought it in 1596, a hotel since 1994 and bought in 2014 by Dietrich Mateschitz, the co-founder of Red Bull, close to a thermal spa and the Red Bull Ring",
+  "highlights": [
+    "The building is first recorded in 1443 as the Riegersdorf farm, part of the Liechtenstein lordship near Judenburg, according to German Wikipedia",
+    "In 1490 it passed to the Pfanngauer family, and its expansion into a Renaissance moated castle began; the Pranckh family completed the works around 1536",
+    "In 1596 the Gabelkhofen family, who had come to Styria from Bavaria in the 14th century, bought the castle, which still carries their name",
+    "In 1897 it was taken over by Prince Johann of Liechtenstein",
+    "The castle opened as a hotel in October 1994; from 2000 to 2014 it was a hotel, seminar centre and art gallery run by the foundation of the art collector Helmut M. Zoidl",
+    "In April 2014 it was bought by Dietrich Mateschitz, the co-founder of Red Bull, and it is now run as TAUROA Schloss Gabelhofen",
+    "The castle stands about 200 metres from the AquaLux thermal spa, and the Red Bull Ring race track is about 10 minutes away by car, according to Booking"
+  ],
+  "description": "Schloss Gabelhofen is first recorded in 1443 as the Riegersdorf farm, part of the Liechtenstein lordship near Judenburg, according to German Wikipedia, the main source for this chronology. In 1490 it passed to the Pfanngauer family, and its expansion into a Renaissance moated castle began; the Pranckh family completed the works around 1536. In 1596 the Gabelkhofen family, who had come to Styria from Bavaria in the 14th century, bought the castle, which still carries their name.\n\nIn 1897 the castle was taken over by Prince Johann of Liechtenstein. It opened as a hotel in October 1994; from 2000 to 2014 it was a hotel, seminar centre and art gallery run by the foundation of the art collector Helmut M. Zoidl. In April 2014 it was bought by Dietrich Mateschitz, the co-founder of Red Bull, and it is now run as TAUROA Schloss Gabelhofen.\n\nToday it is a castle hotel in the Aichfeld basin of Upper Styria, with a restaurant of its own. According to Booking, the AquaLux thermal spa is about 200 metres away and the Red Bull Ring race track about 10 minutes by car; the thermal spa is a separate business. Breakfast was included on the rate seen.",
+  "history": "Schloss Gabelhofen is first recorded in 1443 as the Riegersdorf farm, belonging to the Liechtenstein lordship near Judenburg. From 1490 the Pfanngauer family began turning it into a Renaissance moated castle, and the Pranckh family completed the works around 1536. In 1596 the Gabelkhofen family bought it and gave it its name. Prince Johann of Liechtenstein took it over in 1897. It became a hotel in 1994, was run from 2000 to 2014 as a hotel, seminar centre and art gallery by the foundation of the collector Helmut M. Zoidl, and was bought in 2014 by Dietrich Mateschitz, the co-founder of Red Bull.",
+  "faqs": [
+    {
+      "question": "Why is it called Schloss Gabelhofen?",
+      "answer": "It takes its name from the Gabelkhofen family, who came to Styria from Bavaria in the 14th century and bought the castle in 1596."
+    },
+    {
+      "question": "How close is Schloss Gabelhofen to the Red Bull Ring?",
+      "answer": "About 10 minutes by car, according to Booking, and the AquaLux thermal spa is about 200 metres away."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/gabelhofen-castle.webp",
+    "alt": "The moated Schloss Gabelhofen with its clock tower and entrance bridge in Fohnsdorf, Styria, Austria",
+    "credit": "Gabelhofen / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/gabelhofen-castle.webp",
+  "instagram_tag": "#schlossgabelhofen",
+  "meta_title": "Gabelhofen Castle, Styria — Moated Castle Hotel near the Red Bull Ring",
+  "meta_description": "Stay at Gabelhofen Castle, a Renaissance moated castle in Fohnsdorf, Styria, Austria — a castle hotel with a restaurant. From approx. €198/night.",
+  "tags": [
+    "austria",
+    "styria",
+    "castle-hotel",
+    "renaissance",
+    "moated-castle",
+    "murtal"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "hochosterwitz-castle",
+    "mauterndorf-castle",
+    "bled-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "TAUROA Schloss Gabelhofen",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-gabelhofen&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-gabelhofen.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D18454802_101050388_0_1_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D184548%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D18454802_101050388_0_1_0%26hpos%3D1%26matching_block_id%3D18454802_101050388_0_1_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D18454802_101050388_0_1_0__35640%26srepoch%3D1793803900%26srpvid%3D6e4d687beac804ed%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 198,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the moated castle; ask the hotel which wing or tower your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "restaurant"
+    ],
+    "how_to_stay": "**Getting there:** The castle stands at Schlossgasse 54 in Fohnsdorf, in the Aichfeld basin of the Murtal District in Upper Styria, about a 2-minute drive from the AquaLux thermal spa and 10 minutes from the Red Bull Ring, according to Booking. Booking lists free private parking with electric charging and accessible parking.\n\n**Rooms & rates:** From approx. €198/night for a 25 m² Standard Double Room with a queen bed, garden and courtyard views, air conditioning, a minibar and free Wi-Fi, with breakfast included on the non-refundable rate seen; a free-cancellation rate was around €241, a 30 m² Deluxe Double Room around €225 and a Junior Suite around €288. Booking showed a member price that is not included here, and a small tax charge (about €5) separately.\n\n**On-site:** The moated castle and its courtyard, a restaurant, free parking and free Wi-Fi; pets are welcome, with possible fees.\n\n**Good to know:** Rates were seen for one January 2027 night, a low-season date, so check your own dates on Booking, especially if you plan to stay during an event at the Red Bull Ring. The thermal spa nearby is a separate business with its own tickets.\n\n**Combine with:** [More castle hotels in Austria](/castle-hotels/austria)."
+  }
+}

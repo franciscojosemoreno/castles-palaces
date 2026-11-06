@@ -1,0 +1,98 @@
+{
+  "id": "bernstein-castle",
+  "name": "Bernstein Castle",
+  "local_name": "Burg Bernstein (Burgenland)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Burgenland — Bernstein, Oberwart District, above the Tauchen valley",
+  "nearest_city": "Oberwart",
+  "address": "Schlossweg 1, 7434 Bernstein, Austria",
+  "lat": 47.407,
+  "lng": 16.2525,
+  "unesco": false,
+  "built_label": "First recorded in the 13th century; bastions after 1532; Baroque interiors after 1617; hotel since 1953",
+  "architectural_style": "A medieval border castle on a hilltop above the Tauchen valley, with a ring of bastions added after 1532 and Baroque interiors remodelled after 1617",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Warmer months, the castle closes in winter",
+  "accessibility": "A hilltop castle that is also open to day visitors on guided tours; contact the castle directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "The highest castle in Burgenland, a medieval border fortress of the Kingdom of Hungary that withstood Ottoman sieges in 1529 and 1532, bought in 1892 by the Almásy family of the desert explorer László Almásy and still owned by their descendants, and a small seasonal castle hotel since 1953",
+  "highlights": [
+    "High above the Tauchen valley, Bernstein is the highest castle in Burgenland and is first recorded in the 13th century, according to German Wikipedia",
+    "By 1199 it belonged to the Kingdom of Hungary; King Béla IV captured it in 1236 and in 1260 gave it to Count Henry II of Güssing",
+    "After King Charles Robert defeated the counts of Güssing and Bernstein in 1336, the castle became Hungarian crown property; the Kanizsay family took it as a pledge in 1388, began rebuilding the ruined castle in 1389 and owned it from 1392",
+    "Matthias Corvinus held it briefly from 1482, and in 1487 Emperor Frederick III pledged it to Hans von Königsberg",
+    "Ottoman armies besieged it in 1529 and 1532 without taking it, after which a ring of bastions was built, with the Italian Francesco de Pozzo among the builders; a siege by Stephen Bocskai's army in 1604 also failed",
+    "After a powder-magazine explosion in 1617 the Gothic interior was remodelled in Baroque style; the knights' hall from the first half of the 17th century has a rich stucco ceiling",
+    "The Batthyány family owned the castle from 1644 to 1864; in 1892 the castle was bought by the Almásy family, and it is still owned by descendants of the Almásy family, whose best-known member is the aviator and desert explorer László Almásy",
+    "Part of the castle was turned into a hotel in 1953, and a local legend tells of a White Lady said to haunt it"
+  ],
+  "description": "High above the Tauchen valley, Bernstein is the highest castle in Burgenland and is first recorded in the 13th century, according to German Wikipedia, the main source for this chronology. By 1199 it belonged to the Kingdom of Hungary; King Béla IV captured it in 1236 and in 1260 gave it to Count Henry II of Güssing. After King Charles Robert defeated the counts of Güssing and Bernstein in 1336, the castle became Hungarian crown property; the Kanizsay family took it as a pledge in 1388, began rebuilding the ruined castle in 1389 and owned it from 1392.\n\nMatthias Corvinus held it briefly from 1482, and in 1487 Emperor Frederick III pledged it to Hans von Königsberg. Ottoman armies besieged it in 1529 and 1532 without taking it, after which a ring of bastions was built, with the Italian Francesco de Pozzo among the builders; a siege by Stephen Bocskai's army in 1604 also failed. After a powder-magazine explosion in 1617 the Gothic interior was remodelled in Baroque style, and the knights' hall from the first half of the 17th century has a rich stucco ceiling.\n\nThe Batthyány family owned the castle from 1644 to 1864; in 1892 the castle was bought by the Almásy family, and it is still owned by descendants of the Almásy family, whose best-known member is the aviator and desert explorer László Almásy, whose life loosely inspired the novel and film The English Patient. Part of the castle was turned into a hotel in 1953, and the family runs it as a hotel in the warmer months; a local legend tells of a White Lady said to haunt it. In season there are guided historical tours, and the alchemist's kitchen and the 16th-century torture chamber with museum pieces can also be seen.",
+  "history": "Bernstein Castle rises above the Tauchen valley as the highest castle in Burgenland and is first recorded in the 13th century. A border castle of the Kingdom of Hungary from at least 1199, it passed through the counts of Güssing, the Hungarian crown and the Kanizsay family, who rebuilt it from 1389. It was briefly held by Matthias Corvinus and then pledged by Emperor Frederick III to the Königsberg family in 1487. It withstood Ottoman sieges in 1529 and 1532, after which a ring of bastions was added, and a siege by Stephen Bocskai's army in 1604. After an explosion in 1617 its interior was remodelled in Baroque style. The Batthyány family owned it from 1644 to 1864. In 1892 the castle was bought by the Almásy family, and it is still owned by descendants of the Almásy family, who turned part of it into a hotel in 1953.",
+  "faqs": [
+    {
+      "question": "Who owns Burg Bernstein?",
+      "answer": "The castle was bought by the Almásy family in 1892 and is still owned by descendants of the Almásy family; its best-known member is the aviator and desert explorer László Almásy. The family turned part of the castle into a hotel in 1953."
+    },
+    {
+      "question": "Can you visit Burg Bernstein without staying?",
+      "answer": "Yes, in season. Guided historical tours of about 50 minutes run by reservation, and the alchemist's kitchen and the torture chamber with museum pieces can be visited; check the castle website before you go."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/bernstein-castle.webp",
+    "alt": "Burg Bernstein with its bastions on a hilltop above the Tauchen valley in Burgenland, Austria",
+    "credit": "C.Stadler/Bwag / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/bernstein-castle.webp",
+  "instagram_tag": "#burgbernstein",
+  "meta_title": "Bernstein Castle, Burgenland — Seasonal Castle Hotel with Tours",
+  "meta_description": "Stay at Bernstein Castle above the Tauchen valley in Burgenland, Austria — a small seasonal castle hotel with guided tours. From approx. €395/night.",
+  "tags": [
+    "austria",
+    "burgenland",
+    "castle-hotel",
+    "fortress",
+    "tauchen-valley",
+    "almasy"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "liechtenstein-castle",
+    "schonbrunn-palace",
+    "belvedere-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": true,
+    "hotel_name": "Burg Bernstein",
+    "non_guest_access_note": "Guided historical tours of about 50 minutes, mostly outdoors, run by reservation in season; the alchemist's kitchen and the 16th-century torture chamber with museum pieces can also be seen. Check the castle website before you go.",
+    "booking_url": "https://www.kqzyfj.com/click-101853327-15734754?sid=burg-bernstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fburg-bernstein.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D304574%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26soh%3D1%26sr_order%3Dpopularity%26srepoch%3D1793803620%26srpvid%3Dd15167efe2d607ff%26type%3Dtotal%26ucfs%3D1%26%23no_availability_msg",
+    "price_from_night": 395,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the castle; ask the hotel which wing your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "restaurant",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The castle stands at Schlossweg 1, high above the village of Bernstein and the Tauchen valley, in the Oberwart District of southern Burgenland. Booking lists free parking.\n\n**Rooms & rates:** From approx. €395/night for a 40 m² Large Double Room with a queen bed and a private bathroom, with breakfast and free cancellation included on the rate seen (no prepayment, pay at the property); a 115 m² Superior Suite with a view and a bath was around €495. Booking shows a small tax charge (about €9) separately.\n\n**On-site:** A restaurant (by reservation), the castle garden, guided historical tours, the alchemist's kitchen and the torture chamber, free parking and free Wi-Fi.\n\n**Good to know:** The castle closes in winter and is run by descendants of the Almásy family as a hotel in the warmer months; Booking showed no availability for late January. Rates were seen for one May 2027 night, early in the season, so check your own dates on Booking. Guided tours of about 50 minutes, mostly outdoors, run by reservation.\n\n**Combine with:** [More castle hotels in Austria](/castle-hotels/austria)."
+  }
+}
