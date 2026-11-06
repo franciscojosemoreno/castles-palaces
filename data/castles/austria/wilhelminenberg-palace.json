@@ -1,0 +1,96 @@
+{
+  "id": "wilhelminenberg-palace",
+  "name": "Wilhelminenberg Palace",
+  "local_name": "Schloss Wilhelminenberg (Austria Trend Hotel, Vienna)",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Vienna — Ottakring, 16th district, on the Gallitzinberg at the western edge of the city",
+  "nearest_city": "Vienna",
+  "address": "Savoyenstraße 2, 1160 Vienna, Austria",
+  "lat": 48.2196,
+  "lng": 16.2856,
+  "unesco": false,
+  "built_label": "First palace from 1781; present neo-Empire palace 1903–1908; hotel since 1988",
+  "architectural_style": "A neo-Empire palace of 1903–1908 on a hill at the western edge of Vienna, on the site of an earlier palace begun in 1781",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A palace hotel on the Gallitzinberg; Booking lists accessible parking, so contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A neo-Empire palace built in 1903–1908 for Archduke Rainer on a hill at the western edge of Vienna, on the site of an 18th-century palace, set in a large park with views over the city and now a four-star hotel",
+  "highlights": [
+    "In 1781 Field Marshal Count Franz Moritz von Lacy bought land on the hill then called the Predigtstuhl and began building a palace, according to German Wikipedia",
+    "His friend Prince Dmitry Mikhailovich Golitsyn, the Russian ambassador in Vienna, bought the estate and laid out the park with ponds, a round temple and artificial Roman ruins; the hill took his name, the Gallitzinberg",
+    "Prince Moritz of Montléart gave the estate to his wife Wilhelmine in 1866 and put up signs reading \"Wilhelminenberg\" at every entrance, which in time gave the hill its popular name; she became known locally for her generosity to the poor",
+    "Between 1903 and 1908 the old, dilapidated palace was demolished and replaced by the present neo-Empire palace for Archduke Rainer, designed by Eduard Frauenfeld and Ignaz Sowinski",
+    "In the First World War it served as a military hospital, and in 1926 the City of Vienna bought it at a forced auction",
+    "From 1934 to 1939 it was the home of the Vienna Boys' Choir",
+    "The city reopened it as a guest house in 1988, and it became a hotel in 2000; it is now run under the Austria Trend Hotels brand"
+  ],
+  "description": "In 1781 Field Marshal Count Franz Moritz von Lacy bought land on the hill then called the Predigtstuhl and began building a palace, according to German Wikipedia, the main source for this chronology. His friend Prince Dmitry Mikhailovich Golitsyn, the Russian ambassador in Vienna, bought the estate and laid out the park with ponds, a round temple and artificial Roman ruins; the hill took his name, the Gallitzinberg. Prince Moritz of Montléart gave the estate to his wife Wilhelmine in 1866 and put up signs reading \"Wilhelminenberg\" at every entrance, which in time gave the hill its popular name; she became known locally for her generosity to the poor.\n\nBetween 1903 and 1908 the old, dilapidated palace was demolished and replaced by the present neo-Empire palace for Archduke Rainer, designed by Eduard Frauenfeld and Ignaz Sowinski. In the First World War it served as a military hospital, and in 1926 the City of Vienna bought it at a forced auction and used it as a children's hostel. From 1934 to 1939 it was the home of the Vienna Boys' Choir.\n\nAfter the Second World War the palace served as a children's home. Abuse of children who lived there between the 1960s and 1977 came to light in 2011 and was investigated by a commission appointed by the City of Vienna. The city reopened the building as a guest house in 1988, and it became a hotel in 2000; today it is a four-star hotel in the park, with views over Vienna, run under the Austria Trend Hotels brand.",
+  "history": "The first palace on the Wilhelminenberg was begun in 1781 by Field Marshal Count Lacy and enlarged with a landscape park by the Russian ambassador Prince Golitsyn. In the 19th century it belonged to the Montléart family, and Princess Wilhelmine gave the hill its popular name. The present neo-Empire palace was built in 1903–1908 for Archduke Rainer. It served as a hospital in the First World War and was bought by the City of Vienna in 1926, which used it as a children's hostel, as the home of the Vienna Boys' Choir from 1934 to 1939 and, after the Second World War, as a children's home. Abuse of children who lived there between the 1960s and 1977 came to light in 2011 and was investigated by a commission appointed by the city. The building reopened as a guest house in 1988 and has been a hotel since 2000.",
+  "faqs": [
+    {
+      "question": "How old is Schloss Wilhelminenberg?",
+      "answer": "A first palace was begun on the site in 1781; the present neo-Empire palace was built in 1903–1908 for Archduke Rainer."
+    },
+    {
+      "question": "Why is it called Wilhelminenberg?",
+      "answer": "Prince Moritz of Montléart gave the estate to his wife Wilhelmine in 1866 and put up signs reading \"Wilhelminenberg\" at its entrances, which in time gave the hill its popular name."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/wilhelminenberg-palace.webp",
+    "alt": "Aerial view of Schloss Wilhelminenberg with its terracotta roofs above the woods on the western edge of Vienna",
+    "credit": "C.Stadler/Bwag / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/wilhelminenberg-palace.webp",
+  "instagram_tag": "#schlosswilhelminenberg",
+  "meta_title": "Wilhelminenberg Palace, Vienna — Four-Star Palace Hotel in a Park",
+  "meta_description": "Stay at Wilhelminenberg Palace on the western edge of Vienna, Austria — a four-star palace hotel in a park with views over the city. From approx. €100/night.",
+  "tags": [
+    "austria",
+    "vienna",
+    "castle-hotel",
+    "neo-empire",
+    "ottakring",
+    "park"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "schonbrunn-palace",
+    "hofburg-palace",
+    "belvedere-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Austria Trend Hotel Schloss Wilhelminenberg Wien",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=schloss-wilhelminenberg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D7006808_199922611_0_2_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D70068%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D7006808_199922611_0_2_0%26hpos%3D1%26matching_block_id%3D7006808_199922611_0_2_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D7006808_199922611_0_2_0__20000%26srepoch%3D1793806836%26srpvid%3D81586e38fdae08bb%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 100,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the palace on the Wilhelminenberg; ask the hotel which floor your room is on",
+    "amenities": [
+      "parking",
+      "wifi",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The hotel stands at Savoyenstraße 2 on the Gallitzinberg, at the western edge of Vienna in the Ottakring district, above the vineyards and woods of the city's edge. Booking lists free on-site parking, including accessible parking.\n\n**Rooms & rates:** From approx. €100/night for a 22 m² Classic Room with two single beds, a private bathroom, a flat-screen TV and free Wi-Fi, with free cancellation until the evening of arrival and no prepayment on the rate seen; breakfast was about €18 extra, or around €110 with breakfast included. A 33 m² Premium Room was around €111. Booking showed the price with taxes and fees included.\n\n**On-site:** The palace park with views over Vienna, free parking and free Wi-Fi; pets are welcome, with possible fees.\n\n**Good to know:** Rates were seen for one January 2027 night, a low-season date, so check your own dates on Booking. The present palace dates from 1903–1908 and stands on the site of an earlier palace begun in 1781.\n\n**Combine with:** [Schönbrunn Palace](/castles/austria/schonbrunn-palace), the imperial summer palace, about 4 km to the south-east."
+  }
+}

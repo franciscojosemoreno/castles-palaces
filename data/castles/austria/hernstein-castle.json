@@ -1,0 +1,99 @@
+{
+  "id": "hernstein-castle",
+  "name": "Hernstein Castle",
+  "local_name": "Schloss Hernstein (Hotel Schloss Hernstein)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Lower Austria — Hernstein, Baden District, at the foot of a wooded slope south of Vienna",
+  "nearest_city": "Baden",
+  "address": "Berndorfer Straße 32, 2561 Hernstein, Austria",
+  "lat": 47.8972,
+  "lng": 16.1022,
+  "unesco": false,
+  "built_label": "Manor house 1727–1730; rebuilt in English Gothic style by Theophil Hansen from 1855; hotel buildings 1976 and 1994",
+  "architectural_style": "An English Gothic Revival castle remodelled from 1855 by Theophil Hansen, set in a partly walled landscape park with an artificial lake below a medieval ruin",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A castle used for seminars and events, with a modern hotel building beside it; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "An English Gothic Revival castle remodelled from 1855 by Theophil Hansen, the architect of Vienna's Parliament, for an archduke, set in a landscape park with a lake below a medieval ruin, now a seminar venue with a modern four-star hotel beside it",
+  "highlights": [
+    "The castle stands in a partly walled landscape park with an artificial lake, at the foot of a wooded slope below the remains of the tower of the 12th-century Hernstein castle ruin, according to German Wikipedia",
+    "Between 1727 and 1730 Count Karl Josef Heussenstein had the existing farm estate rebuilt as a manor house, and from 1798 Baron Heinrich von Müller laid out the park and the lake with its island",
+    "Archduke Rainer bought the estate in 1830, and in 1855 his son Archduke Leopold Ludwig commissioned Theophil Hansen to turn it into a hunting lodge in the English Gothic style he favoured",
+    "The new façades were finished within two years, while the interiors, designed by Hansen as a complete work of art, took until 1880; Hansen used Hernstein to try out ideas he later applied to his buildings on the Vienna Ringstrasse",
+    "The frescoes inside are by leading history painters of the time, including Christian Griepenkerl, Eduard Bitterlich, August Eisenmenger and Carl Rahl",
+    "In 1943 the castle was sold to the Erste Österreichische Sparkasse; its roof was badly damaged in the Second World War, and from 1945 it was the seat of the Soviet commander",
+    "The Vienna Chamber of Commerce bought it in 1963 and opened a management institute there in 1966; a modern hotel building was added in 1976 and extended in 1994"
+  ],
+  "description": "Schloss Hernstein stands in a partly walled landscape park with an artificial lake, at the foot of a wooded slope below the remains of the tower of the 12th-century Hernstein castle ruin, according to German Wikipedia, the main source for this chronology. Between 1727 and 1730 Count Karl Josef Heussenstein had the existing farm estate rebuilt as a manor house, and from 1798 Baron Heinrich von Müller laid out the park and the lake with its island.\n\nArchduke Rainer bought the estate in 1830, and in 1855 his son Archduke Leopold Ludwig commissioned Theophil Hansen to turn it into a hunting lodge in the English Gothic style he favoured. The new façades were finished within two years, while the interiors, designed by Hansen as a complete work of art, took until 1880; Hansen used Hernstein to try out ideas he later applied to his buildings on the Vienna Ringstrasse. The frescoes inside are by leading history painters of the time, including Christian Griepenkerl, Eduard Bitterlich, August Eisenmenger and Carl Rahl.\n\nIn 1943 the castle was sold to the Erste Österreichische Sparkasse; its roof was badly damaged in the Second World War, and from 1945 it was the seat of the Soviet commander. The Vienna Chamber of Commerce bought it in 1963 and opened a management institute there in 1966; a modern hotel building was added in 1976 and extended in 1994. Today the hotel rooms are in these modern buildings beside the castle, and the historic castle itself is used for seminars and events. The four-star hotel has a spa and an indoor pool.",
+  "history": "Hernstein grew from a farm estate rebuilt as a manor house in 1727–1730 by Count Karl Josef Heussenstein. Baron Heinrich von Müller laid out the park and lake after 1798, and in 1830 the estate passed to Archduke Rainer. His son Archduke Leopold Ludwig had Theophil Hansen remodel it from 1855 in the English Gothic style, with interiors completed by 1880. Sold in 1943, damaged in the war and used by the Soviet command from 1945, it was bought in 1963 by the Vienna Chamber of Commerce, which opened a management institute there in 1966 and built a modern hotel beside it in 1976, extended in 1994.",
+  "faqs": [
+    {
+      "question": "Who designed Schloss Hernstein?",
+      "answer": "Theophil Hansen, the architect of the Austrian Parliament on the Vienna Ringstrasse, remodelled it from 1855 in the English Gothic style for Archduke Leopold Ludwig; the interiors were completed by 1880."
+    },
+    {
+      "question": "Are the hotel rooms in the castle?",
+      "answer": "No. The rooms are in a modern hotel building added beside the castle in 1976 and extended in 1994; the castle is used for seminars and events."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hernstein-castle.webp",
+    "alt": "The English Gothic façade of Schloss Hernstein reflected in its lake below a wooded slope, Lower Austria",
+    "credit": "C.Stadler/Bwag / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hernstein-castle.webp",
+  "instagram_tag": "#schlosshernstein",
+  "meta_title": "Hernstein Castle, Lower Austria — Four-Star Hotel at an English Gothic Castle",
+  "meta_description": "Stay beside Hernstein Castle, Theophil Hansen's English Gothic castle south of Vienna, Austria — a four-star hotel with a spa and pool. From approx. €170/night.",
+  "tags": [
+    "austria",
+    "lower-austria",
+    "castle-hotel",
+    "spa",
+    "gothic-revival",
+    "theophil-hansen"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "liechtenstein-castle",
+    "schonbrunn-palace",
+    "belvedere-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Schloss Hernstein",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=schloss-hernstein&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-hernstein.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D1000193604_412450909_2_0_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D10001936%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D1000193604_412450909_2_0_0%26hpos%3D1%26matching_block_id%3D1000193604_412450909_2_0_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D1000193604_412450909_2_0_0__34000%26srepoch%3D1793805843%26srpvid%3Deebf6c46f7d70199%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 170,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "annex",
+    "room_location_note": "Hotel rooms are in a modern building added beside the castle in 1976 and extended in 1994; the historic castle is used for seminars and events",
+    "amenities": [
+      "parking",
+      "wifi",
+      "spa",
+      "pool",
+      "gardens",
+      "restaurant"
+    ],
+    "how_to_stay": "**Getting there:** The castle and hotel stand on the Berndorfer Straße at the edge of Hernstein, in the Baden District of Lower Austria, south of Vienna. Booking lists free private parking.\n\n**Rooms & rates:** From approx. €170/night for a 21 m² Double Room with a queen bed, air conditioning, a minibar and free Wi-Fi, with free cancellation and no prepayment on the rate seen; breakfast was not shown as included. A Deluxe Double Room was around €183, a Junior Suite around €197 and a Suite around €223. Booking shows a small tax charge (about €5) separately.\n\n**On-site:** A spa with a sauna and steam room, an indoor swimming pool, a brasserie, the castle's landscape park with its lake, free parking and free Wi-Fi.\n\n**Good to know:** The hotel rooms are in a modern building next to the castle, built in 1976 and extended in 1994; the historic castle itself is used for seminars and events. Rates were seen for one January 2027 night, a low-season date, so check your own dates on Booking.\n\n**Combine with:** [Liechtenstein Castle](/castles/austria/liechtenstein-castle), the ancestral castle of the Liechtenstein family in the Vienna Woods, about 25 km to the north-east."
+  }
+}
