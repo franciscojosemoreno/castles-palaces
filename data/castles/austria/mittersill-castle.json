@@ -1,0 +1,99 @@
+{
+  "id": "mittersill-castle",
+  "name": "Mittersill Castle",
+  "local_name": "Schloss Mittersill (Oberpinzgau)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Salzburg State — Mittersill, Zell am See District, Oberpinzgau, Salzach valley",
+  "nearest_city": "Mittersill",
+  "address": "Thalbach 1, 5730 Mittersill, Austria",
+  "lat": 47.2874,
+  "lng": 12.4848,
+  "unesco": false,
+  "built_label": "c. 1150; rebuilt 1526–1528 after a peasants' revolt; hotel since 2011",
+  "architectural_style": "A medieval castle on a spur above the Salzach valley that keeps its 16th-century form, with horseshoe-shaped wings joined by a wall-walk and two round towers",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A castle hotel on a spur above Mittersill; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A medieval castle on a spur 140 metres above the Salzach valley that guarded the roads to Tyrol, burned and rebuilt several times, later a sporting club for the international jet set and since 2011 a four-star castle hotel with a spa and a heated outdoor pool",
+  "highlights": [
+    "A castle stood on this spur, 140 metres above the valley floor, by about 1150; it controlled the Oberpinzgau valley road and the passes to Tyrol over the Pass Thurn and the Felber Tauern, according to German Wikipedia",
+    "It was founded by the Counts of Lechsgemünd, who called themselves Counts of Mittersill from 1180; in 1228 it passed to the prince-archbishopric of Salzburg and became the seat of the archbishops' administrators for the Oberpinzgau",
+    "In 1526 rebels in a peasants' revolt took, plundered and burned the castle; Archbishop Matthäus Lang put down the revolt and made the peasants rebuild it, and the year 1528 is carved over the entrance arch",
+    "The chapel in the Witches' Tower was completed in 1533; fires in 1555 and 1597 destroyed the main hall again, yet the castle keeps its 16th-century form, with horseshoe-shaped wings joined by a wall-walk and two round towers",
+    "After 1816 it housed a district court, and from 1881 it passed through many private owners",
+    "In 1935 Baron Hubert von Pantz set up an international sport and shooting club here, and in 1937 Princess Juliana of the Netherlands and Prince Bernhard spent their honeymoon at the castle",
+    "After the annexation of 1938 the castle was confiscated and used by an SS research institute; from March 1944 a small group of women prisoners, Jehovah's Witnesses brought from Ravensbrück, were held here as forced agricultural labourers until their liberation in May 1945",
+    "From 1967 it was a conference centre of the International Fellowship of Evangelical Students; two local families bought it in December 2009 and, after a careful restoration, opened it as a four-star hotel at the end of 2011"
+  ],
+  "description": "A castle stood on this spur, 140 metres above the Salzach valley floor, by about 1150; it controlled the Oberpinzgau valley road and the passes to Tyrol over the Pass Thurn and the Felber Tauern. German Wikipedia is the main source for this chronology. The castle was founded by the Counts of Lechsgemünd, who called themselves Counts of Mittersill from 1180; in 1228 it passed to the prince-archbishopric of Salzburg and became the seat of the archbishops' administrators for the Oberpinzgau.\n\nIn 1526 rebels in a peasants' revolt took, plundered and burned the castle; Archbishop Matthäus Lang put down the revolt and made the peasants rebuild it, and the year 1528 is carved over the entrance arch. The chapel in the Witches' Tower was completed in 1533, and fires in 1555 and 1597 destroyed the main hall again, yet the castle keeps its 16th-century form, with horseshoe-shaped wings joined by a wall-walk and two round towers.\n\nAfter 1816 the castle housed a district court, and from 1881 it passed through many private owners. In 1935 Baron Hubert von Pantz set up an international sport and shooting club here, and in 1937 Princess Juliana of the Netherlands and Prince Bernhard spent their honeymoon at the castle. After the annexation of 1938 the castle was confiscated and used by an SS research institute; from March 1944 a small group of women prisoners, Jehovah's Witnesses brought from Ravensbrück, were held here as forced agricultural labourers until their liberation in May 1945. From 1967 it was a conference centre of the International Fellowship of Evangelical Students. Two local families bought it in December 2009 and, after a careful restoration, opened it as a four-star hotel at the end of 2011, with a restaurant, a spa and a heated outdoor pool.",
+  "history": "A castle stood on this spur above the Salzach valley by about 1150, built by the Counts of Lechsgemünd to watch over the Oberpinzgau road and the passes to Tyrol. In 1228 it passed to the prince-archbishopric of Salzburg and became the seat of its local administrators. Rebels burned it in the peasants' revolt of 1526, and Archbishop Matthäus Lang made them rebuild it by 1528; later fires in 1555 and 1597 were followed by repairs, and the castle keeps its 16th-century form. After 1816 it housed a district court, and from 1881 it changed hands many times. In 1935 it became an international sport and shooting club, and in 1937 Princess Juliana of the Netherlands spent her honeymoon here. Confiscated in 1938, it was used by an SS research institute, and in 1944–45 a small group of women prisoners were held here as forced labourers. It later became a Christian student conference centre, and two local families bought it in 2009 and opened it as a hotel at the end of 2011.",
+  "faqs": [
+    {
+      "question": "How old is Schloss Mittersill?",
+      "answer": "A castle stood on the spur by about 1150. It was burned in a peasants' revolt in 1526 and rebuilt by 1528, and despite later fires it keeps its 16th-century form."
+    },
+    {
+      "question": "When did Schloss Mittersill become a hotel?",
+      "answer": "Two local families bought the castle in December 2009 and, after a careful restoration, opened it as a four-star hotel at the end of 2011. Earlier it had been a sport and shooting club from 1935 and a Christian student conference centre from 1967."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/mittersill-castle.webp",
+    "alt": "Schloss Mittersill on its spur above the Salzach valley in Salzburg State, Austria",
+    "credit": "Grabacion / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/mittersill-castle.webp",
+  "instagram_tag": "#schlossmittersill",
+  "meta_title": "Mittersill Castle, Salzburg State — Four-Star Castle Hotel",
+  "meta_description": "Stay at Mittersill Castle above the Salzach valley in Salzburg State, Austria — a four-star castle hotel with a spa and pool. From approx. €374/night.",
+  "tags": [
+    "austria",
+    "salzburg-state",
+    "castle-hotel",
+    "spa",
+    "oberpinzgau",
+    "salzach-valley"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "fort-kniepass",
+    "tratzberg-castle",
+    "hohenwerfen-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Schloss Mittersill",
+    "booking_url": "https://www.dpbolvw.net/click-101853327-15734754?sid=schloss-mittersill&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-mittersill.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D27299922_447071954_2_1_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D272999%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D27299922_447071954_2_1_0%26hpos%3D1%26matching_block_id%3D27299922_447071954_2_1_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D27299922_447071954_2_1_0__74750%26srepoch%3D1793802959%26srpvid%3Dcffb66a6f3dc0f45%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 374,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the castle above Mittersill; ask the hotel which wing and floor your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "restaurant",
+      "spa",
+      "pool"
+    ],
+    "how_to_stay": "**Getting there:** The castle stands at Thalbach 1, on a spur above the town of Mittersill in the Oberpinzgau, in the Salzach valley of Salzburg State. Booking lists free private parking with valet service, a garage and electric charging, and notes train access.\n\n**Rooms & rates:** From approx. €374/night for a 25 m² Standard Double Room with a king bed, a mountain view, a private bathroom, a flat-screen TV, a minibar and free Wi-Fi, with breakfast included on a non-refundable rate that can be rescheduled; with dinner included it was around €420 a night, and a Deluxe Double Room around €403. Booking shows a small tax charge (about €5 a night) separately, plus a possible member discount that is not included here.\n\n**On-site:** A restaurant, a spa with a sauna, steam room and massages, a heated outdoor pool with mountain views, free parking and free Wi-Fi.\n\n**Good to know:** Rates were seen for one January 2027 stay (two nights), a low-season date, so check your own dates on Booking. The castle is a hotel, not a ticketed monument. Its 20th-century history includes its use by an SS research institute and the forced labour of a small group of women prisoners in 1944–45.\n\n**Combine with:** [More castle hotels in Austria](/castle-hotels/austria)."
+  }
+}
