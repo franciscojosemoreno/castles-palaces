@@ -1,0 +1,96 @@
+{
+  "id": "thannegg-castle",
+  "name": "Thannegg Castle",
+  "local_name": "Schloss Thannegg (Schloss Moosheim, Aparthotel Schloss Thannegg)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Styria — Moosheim, Michaelerberg-Pruggern, Liezen District, Enns valley near Gröbming",
+  "nearest_city": "Gröbming",
+  "address": "Moosheim, Schlossweg 1, 8962 Gröbming, Austria",
+  "lat": 47.4259,
+  "lng": 13.9067,
+  "unesco": false,
+  "built_label": "Records from 1150; extended in the late 16th century; restored as a hotel from 1984",
+  "architectural_style": "A small castle in the Enns valley whose old castle and former estate buildings, the Pfarrhof and the Kapuzinerstöckl, form a horseshoe-shaped courtyard with remains of Renaissance sgraffito",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A castle aparthotel beside the church of St Michael; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A small castle in the Enns valley with records going back to 1150, extended in the 16th century by the lords of Moosheim, later a poorhouse that fell almost to ruin, and saved in the 1980s by a family who turned it into a castle aparthotel",
+  "highlights": [
+    "Records of the old castle with its tower and the church of St Michael go back to 1150, according to German Wikipedia; during works in 2002–2003 a vault from that time was uncovered in the deep cellar, with its original stone floor",
+    "In 1346 the estate was sold to the Bishop of Chiemsee, and by 1369 the seat was already called Thanneck",
+    "In 1529 the bishop sold it to Bartholomäus von Moosheim to help pay the tax raised against the Ottomans, and his grandson Benedikt extended the castle in the later 16th century with two side wings, the Pfarrhof and the Kapuzinerstöckl",
+    "Heavy building costs and storms that destroyed the harvests between 1567 and 1580 ruined the Moosheim family, who as the last Lutheran nobles of the Enns valley had to leave the country; the castle was finally sold in 1642",
+    "In 1911 the municipality of Michaelerberg bought it and used it as a poorhouse; by the 1920s it was almost a ruin, and in 1941 part of the old castle was pulled down and its stones used for road building",
+    "Ernst and Gerlinde Schrempf bought the nearly uninhabitable ruin in 1984–85, restored it and turned it into a castle hotel",
+    "Remains of Renaissance sgraffito decoration survive in the courtyard, and the small late-Romanesque church of St Michael stands right next to the castle"
+  ],
+  "description": "Thannegg, also called Schloss Moosheim, stands in the Enns valley, and records of its old castle with its tower and the church of St Michael go back to 1150, according to German Wikipedia, the main source for this chronology. During works in 2002–2003 a vault from that time was uncovered in the deep cellar, with its original stone floor. In 1346 the estate was sold to the Bishop of Chiemsee, and by 1369 the seat was already called Thanneck.\n\nIn 1529 the bishop sold it to Bartholomäus von Moosheim to help pay the tax raised against the Ottomans, and his grandson Benedikt extended the castle in the later 16th century with two side wings, the Pfarrhof and the Kapuzinerstöckl. Heavy building costs and storms that destroyed the harvests between 1567 and 1580 ruined the Moosheim family, who as the last Lutheran nobles of the Enns valley had to leave the country; the castle was finally sold in 1642.\n\nIn 1911 the municipality of Michaelerberg bought it and used it as a poorhouse; by the 1920s it was almost a ruin, and in 1941 part of the old castle was pulled down and its stones used for road building. Ernst and Gerlinde Schrempf bought the nearly uninhabitable ruin in 1984–85, restored it and turned it into a castle hotel. Today it is a castle aparthotel with apartments and rooms, a sauna and a garden, beside the small late-Romanesque church of St Michael; remains of Renaissance sgraffito decoration survive in the courtyard.",
+  "history": "Thannegg, also called Schloss Moosheim, stands in the Enns valley, and records of its old castle and church go back to 1150. In the 14th century it passed to the Bishop of Chiemsee, who sold it in 1529 to the Moosheim family; they extended it with new wings in the later 16th century before debts and the Counter-Reformation forced them out, and the castle was sold in 1642. After many owners it became a municipal poorhouse in 1911, fell nearly to ruin and was partly demolished in 1941. In 1984–85 Ernst and Gerlinde Schrempf bought the ruin and restored it as a castle hotel.",
+  "faqs": [
+    {
+      "question": "Is Schloss Thannegg the same as Schloss Moosheim?",
+      "answer": "Yes. The castle is also known as Schloss Moosheim, after the family who owned and extended it in the 16th century, and as Schloss Thonegg."
+    },
+    {
+      "question": "How old is Schloss Thannegg?",
+      "answer": "Records of its old castle and church go back to 1150, and a vault from that time was uncovered in the cellar in 2002–2003; the castle was extended in the later 16th century."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/thannegg-castle.webp",
+    "alt": "Schloss Thannegg with its white tower and tiled roofs above a gravel courtyard in the Enns valley, Styria, Austria",
+    "credit": "Ewaldgabardi / Wikimedia Commons, CC BY-SA 3.0 AT",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/thannegg-castle.webp",
+  "instagram_tag": "#schlossthannegg",
+  "meta_title": "Thannegg Castle, Enns Valley — Castle Aparthotel near Gröbming",
+  "meta_description": "Stay at Thannegg Castle, a small castle in the Enns valley near Gröbming, Styria, Austria — a four-star castle aparthotel. From approx. €186/night.",
+  "tags": [
+    "austria",
+    "styria",
+    "castle-hotel",
+    "aparthotel",
+    "enns-valley",
+    "groebming"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "mauterndorf-castle",
+    "hohenwerfen-castle",
+    "schloss-ort"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Aparthotel Schloss Thannegg",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-thannegg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-thannegg.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D28501415_428956668_2_1_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D285014%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D28501415_428956668_2_1_0%26hpos%3D1%26matching_block_id%3D28501415_428956668_2_1_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D28501415_428956668_2_1_0__43560%26srepoch%3D1793805926%26srpvid%3Dff4c6c71d7dd00d6%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 186,
+    "currency": "EUR",
+    "star_category": 4,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "mixed",
+    "room_location_note": "Rooms and apartments are spread across the castle and its former estate buildings around the courtyard; ask the hotel which building your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The castle stands in Moosheim on the right bank of the Enns, near Gröbming in the Liezen District of Styria; Booking gives the address as Schlossweg 1, 8962 Gröbming and notes train access. Booking lists free on-site parking with electric charging.\n\n**Rooms & rates:** From approx. €186/night for a 24 m² Standard Apartment with a double bed, a private kitchen, a coffee machine and a mountain view, with free cancellation on the rate seen and breakfast at about €20 extra; a Small Double Room with breakfast included was around €206 and a Large Double Room around €224. Booking shows a small tax charge (about €7) separately.\n\n**On-site:** A sauna, a garden and sun terrace, a bar, an outdoor fireplace, free parking and free Wi-Fi; pets are welcome, with possible fees.\n\n**Good to know:** Rates were seen for one January 2027 night, a low-season date, so check your own dates on Booking. Rooms and apartments are spread across the castle and its former estate buildings, so ask which building your room is in. The castle can be seen as part of a stay.\n\n**Combine with:** [Pichlarn Castle](/castles/austria/pichlarn-castle), another castle hotel in the Enns valley, about 18 km to the north-east."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "seefels-castle",
+  "name": "Seefels Castle",
+  "local_name": "Schloss Seefels (Hotel Schloss Seefels, Wörthersee)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Carinthia — Töschling, Techelsberg am Wörther See, Klagenfurt-Land District, on the north shore of Lake Wörthersee near Pörtschach",
+  "nearest_city": "Klagenfurt",
+  "address": "Töschling 1, 9210 Pörtschach am Wörthersee, Austria",
+  "lat": 46.6341,
+  "lng": 14.1206,
+  "unesco": false,
+  "built_label": "1860; hotel reopened 2001; renovated 2022",
+  "architectural_style": "A lakeside castle of 1860 on the north shore of Lake Wörthersee, fully renovated in 2022",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A lakeside castle hotel; the hotel says its guest rooms are not adapted for wheelchair users while the common areas are, so contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A lakeside castle built in 1860 on the shore of Lake Wörthersee between Pörtschach and Velden, reopened as a hotel in 2001 and fully renovated in 2022, now a five-star hotel with a private beach, a heated lake pool, a spa and an art collection",
+  "highlights": [
+    "Schloss Seefels was built in 1860 by Emanuel Herrmann on the north shore of Lake Wörthersee, according to the hotel",
+    "It stands in the village of Töschling, in the municipality of Techelsberg, between Pörtschach and Velden",
+    "The entrepreneur Hans-Peter Haselsteiner reopened it as a hotel in 2001, and all areas were fully renovated in 2022",
+    "The hotel has a private beach with a swimming dock, a marina, and a lake pool heated all year round",
+    "More than 200 works from the Haselsteiner family art collection are displayed around the house",
+    "Its lake-view restaurant, La Terrasse, is also open to non-residents"
+  ],
+  "description": "Schloss Seefels was built in 1860 by Emanuel Herrmann on the north shore of Lake Wörthersee, according to the hotel, whose website is the main source for this chronology. It stands in the village of Töschling, in the municipality of Techelsberg, between Pörtschach and Velden.\n\nThe entrepreneur Hans-Peter Haselsteiner reopened it as a hotel in 2001, and all areas were fully renovated in 2022. More than 200 works from the Haselsteiner family art collection are displayed around the house.\n\nToday it is a five-star hotel with a private beach with a swimming dock, a marina, a lake pool heated all year round, a spa for guests aged 16 and over and a castle garden with lawns for sunbathing. Its lake-view restaurant, La Terrasse, is also open to non-residents.",
+  "history": "Schloss Seefels was built in 1860 by Emanuel Herrmann on the shore of Lake Wörthersee, between Pörtschach and Velden. It later became a hotel and was reopened in 2001 by the entrepreneur Hans-Peter Haselsteiner, whose family's art collection is now shown throughout the house. In 2022 all its areas were completely renovated, and it now operates as a five-star hotel with a private beach, a spa and a heated lake pool.",
+  "faqs": [
+    {
+      "question": "How old is Schloss Seefels?",
+      "answer": "It was built in 1860 by Emanuel Herrmann on the shore of Lake Wörthersee; it was reopened as a hotel in 2001 and fully renovated in 2022."
+    },
+    {
+      "question": "Can you swim in the lake at Schloss Seefels?",
+      "answer": "Yes. The hotel has a private beach with a swimming dock and a lake pool that is heated all year round."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/seefels-castle.webp",
+    "alt": "Hotel Schloss Seefels on the shore of Lake Wörthersee below wooded slopes, Carinthia, Austria",
+    "credit": "Johann Jaritz / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/seefels-castle.webp",
+  "instagram_tag": "#schlossseefels",
+  "meta_title": "Seefels Castle, Lake Wörthersee — Five-Star Lakeside Castle Hotel",
+  "meta_description": "Stay at Seefels Castle on Lake Wörthersee, Carinthia, Austria — a five-star castle hotel with a private beach, spa and lake pool. From approx. €504/night.",
+  "tags": [
+    "austria",
+    "carinthia",
+    "castle-hotel",
+    "spa",
+    "lake",
+    "woerthersee"
+  ],
+  "last_updated": "2026-11-06",
+  "routes": [],
+  "nearby_castles": [
+    "bled-castle",
+    "hochosterwitz-castle",
+    "skofja-loka-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Schloss Seefels",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=schloss-seefels&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschlossseefels.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D70320%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26soh%3D1%26sr_order%3Dpopularity%26srepoch%3D1793806975%26srpvid%3Dae666e7daf9a0112%26type%3Dtotal%26ucfs%3D1%26%23no_availability_msg",
+    "price_from_night": 504,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-06",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the hotel on the lakeshore; ask the hotel which building and floor your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "restaurant",
+      "spa",
+      "pool",
+      "gardens"
+    ],
+    "how_to_stay": "**Getting there:** The hotel stands at Töschling 1 on the north shore of Lake Wörthersee, in the municipality of Techelsberg near Pörtschach, in Carinthia; Booking notes train access, and the hotel has its own marina. Outdoor parking is free and the garage costs extra, according to the hotel; Booking lists valet parking and electric charging.\n\n**Rooms & rates:** From approx. €504/night for a 21 m² Standard Double Room with a queen bed, a garden and mountain view, air conditioning, a coffee machine, a minibar and free Wi-Fi, with breakfast and free cancellation included on the rate seen; a Deluxe Double Room with a balcony and a side lake view was around €588 and a Deluxe Suite around €798. Booking shows a small tax charge (about €9) separately.\n\n**On-site:** A private beach with a swimming dock, a lake pool heated all year, a summer outdoor pool, a spa with saunas, a hot tub and massages, the lake-view restaurant La Terrasse, a bar on the lake in summer, the castle garden and free Wi-Fi.\n\n**Good to know:** Rates were seen for one late-April 2027 night, so check your own dates on Booking; Booking showed no availability for late January. Pets are not allowed, the spa is for hotel guests aged 16 and over, and the guest rooms are not adapted for wheelchair users, according to the hotel.\n\n**Combine with:** [Velden Castle](/castles/austria/velden-castle), another lakeside castle hotel about 6 km to the south-west, and [Hochosterwitz Castle](/castles/austria/hochosterwitz-castle), the fortress with fourteen gates, about 30 km to the north-east."
+  }
+}
