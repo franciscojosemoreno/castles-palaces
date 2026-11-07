@@ -1,0 +1,97 @@
+{
+  "id": "hotel-imperial-vienna",
+  "name": "Hotel Imperial, Vienna",
+  "local_name": "Palais Württemberg (Hotel Imperial, Ringstraße)",
+  "type": "palace",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Vienna — Kärntner Ring 16, Innere Stadt, on the Ringstrasse",
+  "nearest_city": "Vienna",
+  "address": "Kärntner Ring 16, 1010 Vienna, Austria",
+  "lat": 48.201,
+  "lng": 16.3728,
+  "unesco": false,
+  "built_label": "1862–1865 as Palais Württemberg; hotel since 1873",
+  "architectural_style": "An Italian neo-Renaissance city palace on the Vienna Ringstrasse, designed by Arnold Zenetti",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A city palace hotel on the Ringstrasse; Booking lists the hotel as wheelchair accessible, so contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A neo-Renaissance city palace built on the Vienna Ringstrasse in 1862–1865 for Duke Philipp of Württemberg, opened as a hotel by Emperor Franz Joseph for the World's Fair of 1873 and traditionally the hotel of state visitors to Vienna",
+  "highlights": [
+    "The building was designed by Arnold Zenetti and built in 1862–1865 in the Italian neo-Renaissance style as a city palace on the new Ringstrasse for Duke Philipp of Württemberg, according to German Wikipedia",
+    "Four allegorical figures by Franz Melnitzky, representing wisdom, honour, justice and strength, stand above the entrance; the grand staircase has steps of Kaiserstein limestone and a statue of the Danube nymph by Hanns Gasser",
+    "The duke lived here with his wife, Archduchess Maria Theresa, from 1866 but sold the palace in 1871",
+    "Converted into a hotel, it was opened on 28 April 1873 for the Vienna World's Fair in the presence of Emperor Franz Joseph and Empress Elisabeth",
+    "Two upper floors were added in 1927–1928 while the hotel stayed open",
+    "After the Second World War the Soviet forces used the hotel as their quarters",
+    "The hotel has traditionally housed state guests visiting Vienna, among them John F. Kennedy and Nikita Khrushchev at their summit in 1961",
+    "The Café Imperial on the ground floor and the Imperial Torte, a chocolate and marzipan cake made to a house recipe, are part of its tradition"
+  ],
+  "description": "The Hotel Imperial was built in 1862–1865 in the Italian neo-Renaissance style as the Palais Württemberg, a city palace on the new Ringstrasse designed by Arnold Zenetti for Duke Philipp of Württemberg, according to German Wikipedia, the main source for this chronology. Four allegorical figures by Franz Melnitzky, representing wisdom, honour, justice and strength, stand above the entrance; the grand staircase has steps of Kaiserstein limestone and a statue of the Danube nymph by Hanns Gasser. The duke lived here with his wife, Archduchess Maria Theresa, from 1866 but sold the palace in 1871.\n\nConverted into a hotel, it was opened on 28 April 1873 for the Vienna World's Fair in the presence of Emperor Franz Joseph and Empress Elisabeth. Two upper floors were added in 1927–1928 while the hotel stayed open. In 1938 its Jewish part-owner Samuel Schallinger was forced to sell his share, and he was murdered in Theresienstadt in 1942. After the Second World War the Soviet forces used the hotel as their quarters.\n\nThe hotel has traditionally housed state guests visiting Vienna, among them John F. Kennedy and Nikita Khrushchev at their summit in 1961. The Café Imperial on the ground floor and the Imperial Torte, a chocolate and marzipan cake made to a house recipe, are part of its tradition. Today it is a five-star Luxury Collection hotel on the Ringstrasse, a short walk from the State Opera and the Musikverein.",
+  "history": "The Hotel Imperial was built in 1862–1865 as the Palais Württemberg, a neo-Renaissance city palace on the new Vienna Ringstrasse designed by Arnold Zenetti for Duke Philipp of Württemberg. The duke sold it in 1871, and after conversion it opened as a hotel on 28 April 1873 for the World's Fair, in the presence of Emperor Franz Joseph and Empress Elisabeth. Two floors were added in 1927–1928. In 1938 its Jewish part-owner Samuel Schallinger was forced to sell his share; he was murdered in Theresienstadt in 1942, and no restitution ever took place. After the war the Soviet forces used the hotel as their quarters. It has since remained one of the city's grand hotels and has traditionally housed state guests visiting Vienna.",
+  "faqs": [
+    {
+      "question": "Was the Hotel Imperial built as a hotel?",
+      "answer": "No. It was built in 1862–1865 as the Palais Württemberg, a city palace for Duke Philipp of Württemberg, and opened as a hotel in 1873 for the Vienna World's Fair."
+    },
+    {
+      "question": "What is the Imperial Torte?",
+      "answer": "A chocolate and marzipan cake made to the hotel's own recipe; according to legend it was created for Emperor Franz Joseph when the hotel opened."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/hotel-imperial-vienna.webp",
+    "alt": "The illuminated neo-Renaissance façade of the Hotel Imperial on the Kärntner Ring in Vienna at night",
+    "credit": "Karl.Vienna / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/hotel-imperial-vienna.webp",
+  "instagram_tag": "#hotelimperialwien",
+  "meta_title": "Hotel Imperial, Vienna — Five-Star Palace Hotel on the Ringstrasse",
+  "meta_description": "Stay at the Hotel Imperial, the 1860s Palais Württemberg on Vienna's Ringstrasse — a five-star palace hotel with a spa. From approx. €576/night.",
+  "tags": [
+    "austria",
+    "vienna",
+    "castle-hotel",
+    "neo-renaissance",
+    "ringstrasse",
+    "palace"
+  ],
+  "last_updated": "2026-11-07",
+  "routes": [],
+  "nearby_castles": [
+    "hofburg-palace",
+    "belvedere-palace",
+    "schonbrunn-palace"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Hotel Imperial, a Luxury Collection Hotel, Vienna",
+    "booking_url": "https://www.tkqlhce.com/click-101853327-15734754?sid=hotel-imperial-wien&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fhotelimperialwien.html%3Faid%3D304142%26label%3Dmkt123sc-35095178-6a28-4f09-996b-60ad0e81262f%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26all_sr_blocks%3D7025133_94108317_2_2_0%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D70251%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26highlighted_blocks%3D7025133_94108317_2_2_0%26hpos%3D1%26matching_block_id%3D7025133_94108317_2_2_0%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26sr_pri_blocks%3D7025133_94108317_2_2_0__110100%26srepoch%3D1793807411%26srpvid%3D81586f5815bb0061%26type%3Dtotal%26ucfs%3D1%26",
+    "price_from_night": 576,
+    "currency": "EUR",
+    "star_category": 5,
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-07",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the former palace on the Ringstrasse; ask the hotel which floor your room is on",
+    "amenities": [
+      "wifi",
+      "restaurant",
+      "spa"
+    ],
+    "how_to_stay": "**Getting there:** The hotel stands at Kärntner Ring 16 on the Vienna Ringstrasse, in the Innere Stadt, with subway access close by according to Booking. Booking lists street parking only; check with the hotel about parking.\n\n**Rooms & rates:** From approx. €576/night for a 30 m² Classic King Room with air conditioning, a private bathroom, soundproofing, a flat-screen TV and a minibar, on a non-refundable rate paid to the property before arrival, with breakfast at about €59 extra; the same room with breakfast was around €656, and a free-cancellation rate around €720. Booking showed the price with taxes and fees included.\n\n**On-site:** The Café Imperial, a wellness area with a sauna, massages and a fitness centre; pets are welcome, with possible fees, and Booking lists the hotel as wheelchair accessible.\n\n**Good to know:** Rates were seen for one January 2027 night, a low-season date, so check your own dates on Booking. The building is a city palace of the 1860s, not a medieval castle.\n\n**Combine with:** [Hofburg Palace](/castles/austria/hofburg-palace), the imperial palace about 1 km to the north-west, and [Belvedere Palace](/castles/austria/belvedere-palace), about 1.2 km to the south-east."
+  }
+}
