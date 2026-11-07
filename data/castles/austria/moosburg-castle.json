@@ -1,0 +1,95 @@
+{
+  "id": "moosburg-castle",
+  "name": "Moosburg Castle",
+  "local_name": "Schloss Moosburg (Schloss Moosburg Gästehaus)",
+  "type": "castle",
+  "status": "published",
+  "featured": false,
+  "priority_score": 15,
+  "country": "austria",
+  "region": "Carinthia — Moosburg, Klagenfurt-Land District, on a hill west of the village",
+  "nearest_city": "Klagenfurt",
+  "address": "Schloss 1, 9062 Moosburg, Austria",
+  "lat": 46.6587,
+  "lng": 14.1698,
+  "unesco": false,
+  "built_label": "Early 16th century, late Gothic; extended in the late 16th and 17th centuries",
+  "architectural_style": "A late Gothic castle with two tall four-storey blocks under steep roofs, a round tower and an arcaded passage, on a hill west of the village",
+  "price_adult": null,
+  "booking_required": false,
+  "official_tickets_url": null,
+  "best_season": "Year-round",
+  "accessibility": "A castle guest house on a hill; contact the hotel directly regarding specific accessibility requirements.",
+  "booking_advance_days": 1,
+  "tagline": "A late Gothic castle on a hill above the ponds of Moosburg in Carinthia, built in the early 16th century by the Ernau family and owned by the Counts of Goëss since 1708, now a castle guest house with a restaurant in its Gothic hall and a private bathing area on the pond",
+  "highlights": [
+    "The castle stands on a hill west of the village of Moosburg, east of the old Arnulfsfeste, according to German Wikipedia",
+    "In the 15th century Moosburg belonged to the lords of Graben; from the early 16th century it was owned by the Ernau family, and the late Gothic castle was probably built under Georg von Ernau, who died in 1541",
+    "Ulrich II of Ernau and his son Hektor remodelled and extended it; the stone portal of 1616 carries the arms of Hektor of Ernau and his wife, born Keutschach",
+    "The Protestant Ernau family had to leave Carinthia during the Counter-Reformation, and Hektor of Ernau sold the castle in 1630",
+    "From the second quarter of the 17th century it belonged to the barons of Kronegg, whose double coat of arms dated 1688 is above the portal, and since 1708 to the Counts of Goëss",
+    "The castle has two tall four-storey blocks under steep roofs, a round tower and an arcaded passage, and its chapel has a painted coffered wooden ceiling and gallery",
+    "The interior was restored in 1994, and since 1995 a restaurant has occupied the late Gothic hall"
+  ],
+  "description": "The castle stands on a hill west of the village of Moosburg, east of the old Arnulfsfeste, according to German Wikipedia, the main source for this chronology. In the 15th century Moosburg belonged to the lords of Graben; from the early 16th century it was owned by the Ernau family, and the late Gothic castle was probably built under Georg von Ernau, who died in 1541. Ulrich II of Ernau and his son Hektor remodelled and extended it.\n\nThe stone portal of 1616 carries the arms of Hektor of Ernau and his wife, born Keutschach. The Protestant Ernau family had to leave Carinthia during the Counter-Reformation, and Hektor of Ernau sold the castle in 1630. From the second quarter of the 17th century it belonged to the barons of Kronegg, whose double coat of arms dated 1688 is above the portal, and since 1708 to the Counts of Goëss. The castle has two tall four-storey blocks under steep roofs, a round tower and an arcaded passage, and its chapel has a painted coffered wooden ceiling and gallery.\n\nThe interior was restored in 1994, and since 1995 a restaurant has occupied the late Gothic hall. Today the castle operates as a guest house, with a private bathing area on the Moosburg pond.",
+  "history": "Schloss Moosburg stands on a hill west of the village of Moosburg in Carinthia. Owned by the lords of Graben in the 15th century, it passed in the early 16th century to the Ernau family, who built the late Gothic castle and extended it later in the century. As Protestants, the Ernaus had to leave Carinthia during the Counter-Reformation and sold the castle in 1630. It then belonged to the barons of Kronegg and, since 1708, to the Counts of Goëss. The interior was restored in 1994, and the castle now operates as a guest house and restaurant and hosts weddings and celebrations.",
+  "faqs": [
+    {
+      "question": "How old is Schloss Moosburg?",
+      "answer": "The late Gothic castle was probably built in the early 16th century under Georg von Ernau and was extended later in the 16th and 17th centuries."
+    },
+    {
+      "question": "Who owns Schloss Moosburg?",
+      "answer": "Since 1708 it has belonged to the Counts of Goëss, according to German Wikipedia."
+    }
+  ],
+  "hero_image": {
+    "url": "/images/castles/moosburg-castle.webp",
+    "alt": "The south side of Schloss Moosburg, a late Gothic castle with steep roofs and a round tower, beside red autumn foliage in Carinthia",
+    "credit": "Johann Jaritz / Wikimedia Commons, CC BY-SA 4.0",
+    "width": 1000,
+    "height": 750
+  },
+  "gallery": [],
+  "og_image": "/images/castles/moosburg-castle.webp",
+  "instagram_tag": "#schlossmoosburg",
+  "meta_title": "Moosburg Castle, Carinthia — Late Gothic Castle Guest House",
+  "meta_description": "Stay at Moosburg Castle, a late Gothic castle above the ponds of Moosburg, Carinthia — a castle guest house with a restaurant. From approx. €276/night.",
+  "tags": [
+    "austria",
+    "carinthia",
+    "castle-hotel",
+    "gothic",
+    "moosburg",
+    "pond"
+  ],
+  "last_updated": "2026-11-07",
+  "routes": [],
+  "nearby_castles": [
+    "hochosterwitz-castle",
+    "bled-castle",
+    "skofja-loka-castle"
+  ],
+  "gyg_location_id": null,
+  "gyg_search_query": null,
+  "gyg_featured_tours": [],
+  "gyg_direct_link_override": false,
+  "hotel": {
+    "is_hotel": true,
+    "visitable_by_public": false,
+    "hotel_name": "Schloss Moosburg Gästehaus",
+    "booking_url": "https://www.jdoqocy.com/click-101853327-15734754?sid=schloss-moosburg&url=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fat%2Fschloss-moosburg.html%3Faid%3D304142%26label%3Dmkt123sc-9653cc03-5015-4aed-90f4-5287caec1910%26sid%3D0b0112e835f238f2582b2815fe23ffa9%26checkin%3D2027-01-25%26checkout%3D2027-01-27%26dest_id%3D487196%26dest_type%3Dhotel%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26soh%3D1%26sr_order%3Dpopularity%26srepoch%3D1793811780%26srpvid%3Dbab077de7a25020f%26type%3Dtotal%26ucfs%3D1%26%23no_availability_msg",
+    "price_from_night": 276,
+    "currency": "EUR",
+    "source": "booking-aggregate-high-confidence",
+    "sourced_date": "2026-11-07",
+    "room_location": "castle",
+    "room_location_note": "Rooms are in the castle; ask the hotel which wing and floor your room is in",
+    "amenities": [
+      "parking",
+      "wifi",
+      "restaurant"
+    ],
+    "how_to_stay": "**Getting there:** The castle stands at Schloss 1 on a hill west of the village of Moosburg, in the Klagenfurt-Land District of Carinthia, about 11 km west of Klagenfurt. Booking lists free private parking with electric charging.\n\n**Rooms & rates:** From approx. €276/night for a 27 m² Double Room with a queen bed, views over the pond, the garden and the mountains, a patio, a private bathroom and free Wi-Fi, with breakfast and free cancellation included on the rate seen (no prepayment); a 40 m² Deluxe Double Room on a high floor was around €355. Booking shows a small tax charge (about €9) separately, plus a possible member discount that is not included here.\n\n**On-site:** A restaurant in the late Gothic hall, a castle chapel, a private bathing area on the Moosburg pond, free parking and free Wi-Fi.\n\n**Good to know:** Rates were seen for one March 2027 night, so check your own dates on Booking; Booking showed no availability for late January. The castle also hosts weddings and celebrations.\n\n**Combine with:** [Hochosterwitz Castle](/castles/austria/hochosterwitz-castle), the fortress with fourteen gates, about 24 km to the north-east, and [Seefels Castle](/castles/austria/seefels-castle) on Lake Wörthersee, about 5 km to the south-west."
+  }
+}
