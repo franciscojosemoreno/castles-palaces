@@ -74,19 +74,20 @@ export default async function CastlePage({ params }: PageProps) {
   const hasGYGWidgetContent = Boolean(castle.gyg_search_query || castle.gyg_location_id);
   const primaryCta = getPrimaryCta(castle);
   const stayCtaHeadline = castle.hotel?.room_location ? ROOM_LOCATION_STAY_CTA[castle.hotel.room_location] : 'Stay overnight';
-  // "Skip the queue"/"skip-the-line" is only promised for a tour typed `skip_the_line`.
-  // A plain `guided_tour` gets neutral guided-tour copy with no skip-the-line claim, and every
-  // other tour type (or no featured tour at all) falls back to generic ticket copy.
+  // The ticket-line claim is only made for a tour typed `skip_the_line`, and it promises no guide
+  // (many of those products are self-paced entry tickets). A plain `guided_tour` gets neutral
+  // guided-tour copy with no skip-the-line claim, and every other tour type (or no featured tour
+  // at all) falls back to generic ticket copy.
   const featuredTourType = castle.gyg_featured_tours?.[0]?.type;
   const isSkipTheLineTour = featuredTourType === 'skip_the_line';
   const isGuidedTour = featuredTourType === 'guided_tour';
   const visitCtaHeadline = isSkipTheLineTour
-    ? 'Skip the queue with a guided tour'
+    ? 'Skip the ticket line'
     : isGuidedTour
     ? 'Book a guided tour'
     : 'Tickets & tours';
   const visitCtaSubline = isSkipTheLineTour
-    ? 'Skip-the-line tickets & expert guides'
+    ? 'Book ahead · Instant confirmation'
     : isGuidedTour
     ? 'Expert guides · Instant confirmation'
     : 'Book through GetYourGuide';
