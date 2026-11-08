@@ -194,7 +194,7 @@ export default async function TourPage({ params }: Props) {
             <div className="lg:hidden -mt-4 mb-8 rounded-lg border border-[#c9a84c]/40 bg-[#f5f0e8] px-4 py-4 flex items-center gap-3">
               <div className="flex-1 min-w-0">
                 <p className="text-[#1761a0] font-semibold text-sm leading-tight">Ready to book this tour?</p>
-                <p className="text-stone-500 text-xs mt-0.5">Free cancellation · Instant confirmation</p>
+                <p className="text-stone-500 text-xs mt-0.5">Instant confirmation</p>
               </div>
               <a
                 href={bookingHref}
@@ -349,7 +349,7 @@ export default async function TourPage({ params }: Props) {
                 {bookingLabelLong}
               </a>
               <p className="text-xs text-center text-[#999] mt-3">
-                Free cancellation available on most dates · Secure booking
+                Secure booking
               </p>
               <div className="mt-6 pt-6 border-t border-gray-100">
                 <p className="text-xs text-[#666] uppercase tracking-wider font-medium mb-2">Meeting point</p>
