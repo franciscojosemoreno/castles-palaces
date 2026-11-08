@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import GuidesFooterLink from '@/components/layout/GuidesFooterLink';
 
 export default function Footer() {
   return (
@@ -35,6 +36,7 @@ export default function Footer() {
               <li><Link href="/tours" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Tours</Link></li>
               <li><Link href="/map" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Map</Link></li>
               <li><Link href="/quiz" prefetch={false} className="hover:text-[#c9a84c] transition-colors">Castle Quiz</Link></li>
+              <GuidesFooterLink />
             </ul>
           </div>
 

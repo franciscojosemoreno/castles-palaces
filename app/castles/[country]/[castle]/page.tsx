@@ -17,6 +17,7 @@ import StructuredData from '@/components/seo/StructuredData';
 import { getPrimaryCta, isHotelOnly, getCurrencySymbol, ROOM_LOCATION_STAY_CTA } from '@/lib/hotels';
 import { renderEditorialHtml } from '@/lib/markdown';
 import { getToursVisitingCastle } from '@/lib/tours';
+import { getGuidesFeaturingCastle } from '@/lib/guides';
 import { formatMonthYear, getCastleLastModified } from '@/lib/lastmod';
 
 /** 1 -> "1st", 12 -> "12th", 21 -> "21st" — standard English ordinal suffix rules. */
@@ -71,6 +72,7 @@ export default async function CastlePage({ params }: PageProps) {
 
   const nearby = getNearbyCastles(castle, 4);
   const visitingTours = getToursVisitingCastle(castle.id);
+  const featuredInGuides = getGuidesFeaturingCastle(castle.id);
   // Same date as the sitemap <lastmod> and the JSON-LD dateModified (last git commit that touched this ficha).
   const lastModified = getCastleLastModified(country, castleSlug, castle.last_updated);
   const countryLabel = country.charAt(0).toUpperCase() + country.slice(1).replace('-', ' ');
@@ -324,6 +326,21 @@ export default async function CastlePage({ params }: PageProps) {
                   ))}
                 </ul>
               </section>
+            )}
+
+            {/* Guides that list this castle (max 2): plain internal links */}
+            {featuredInGuides.length > 0 && (
+              <p className="mb-10 text-sm text-stone-600">
+                Featured in:{' '}
+                {featuredInGuides.map((guide, i) => (
+                  <span key={guide.id}>
+                    {i > 0 && ' · '}
+                    <Link href={`/guides/${guide.id}`} prefetch={false} className="text-[#1761a0] hover:underline">
+                      {guide.title}
+                    </Link>
+                  </span>
+                ))}
+              </p>
             )}
 
             {/* Nearby castles */}

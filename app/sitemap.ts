@@ -3,6 +3,7 @@ import { getAllCastleParams, getPublishedCastles, getAllCountrySlugs } from '@/l
 import { getAllRoutes } from '@/lib/routes';
 import { getAllTourParams, getAllTourCountrySlugs } from '@/lib/tours';
 import { getAllHotelCountrySlugs } from '@/lib/hotel-directory';
+import { getAllGuides } from '@/lib/guides';
 import { getCountryBySlug } from '@/lib/countries';
 import {
   getAllCastlesLastModified,
@@ -11,6 +12,7 @@ import {
   getAllToursLastModified,
   getCastleLastModified,
   getCastlesCountryLastModified,
+  getGuideLastModified,
   getRouteLastModified,
   getSiteLastModified,
   getStaticPageLastModified,
@@ -32,6 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // castles are listed in /castles), so its /castles/<country> URL is not part of the sitemap.
   const castleCountrySlugs = getAllCountrySlugs().filter((slug) => getCountryBySlug(slug));
   const routes = getAllRoutes();
+  const guides = getAllGuides();
   const tourParams = getAllTourParams();
   const tourCountrySlugs = getAllTourCountrySlugs();
   const hotelCountrySlugs = getAllHotelCountrySlugs();
@@ -78,6 +81,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
+  const guideUrls: MetadataRoute.Sitemap = guides.map((guide) => ({
+    url: `${BASE_URL}/guides/${guide.id}`,
+    ...withDate(getGuideLastModified(guide.id)),
+    changeFrequency: 'monthly',
+    priority: 0.6,
+  }));
+
   const staticUrls: MetadataRoute.Sitemap = [
     { url: BASE_URL, ...withDate(getSiteLastModified()), changeFrequency: 'weekly', priority: 1.0 },
     { url: `${BASE_URL}/castles`, ...withDate(getAllCastlesLastModified()), changeFrequency: 'weekly', priority: 0.9 },
@@ -90,5 +100,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/contact`, ...withDate(getStaticPageLastModified('app/contact/page.tsx')), changeFrequency: 'yearly', priority: 0.2 },
   ];
 
-  return [...staticUrls, ...castleUrls, ...castleCountryUrls, ...hotelCountryUrls, ...tourUrls, ...tourCountryUrls, ...routeUrls];
+  return [...staticUrls, ...castleUrls, ...castleCountryUrls, ...hotelCountryUrls, ...tourUrls, ...tourCountryUrls, ...routeUrls, ...guideUrls];
 }

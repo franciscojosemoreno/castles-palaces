@@ -4,6 +4,7 @@ import { getAllCountries } from '@/lib/countries';
 import { isHotelOnly } from '@/lib/hotels';
 import CastleCard from '@/components/castle/CastleCard';
 import Link from 'next/link';
+import { getEuropeWideGuides } from '@/lib/guides';
 
 export const metadata: Metadata = {
   title: 'All Castles & Palaces in Europe',
@@ -17,6 +18,7 @@ export default function CastlesIndexPage() {
   // not the visit-focused Castles directory — their own page stays live and linkable.
   const castles = getPublishedCastles().filter((c) => !isHotelOnly(c));
   const countries = getAllCountries();
+  const guides = getEuropeWideGuides();
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -55,6 +57,21 @@ export default function CastlesIndexPage() {
       {castles.length === 0 && (
         <div className="text-center py-20 text-stone-400">
           <p className="text-xl">More castles coming soon.</p>
+        </div>
+      )}
+
+      {guides.length > 0 && (
+        <div className="mt-14 max-w-3xl">
+          <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">Castle guides</h2>
+          <ul className="space-y-2">
+            {guides.map((guide) => (
+              <li key={guide.id}>
+                <Link href={`/guides/${guide.id}`} prefetch={false} className="text-[#1761a0] hover:underline font-medium">
+                  {guide.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
         </div>
       )}
     </div>

@@ -6,6 +6,7 @@ import { getCastlesByCountry, getAllCountrySlugs } from '@/lib/castles';
 import { getCountryBySlug } from '@/lib/countries';
 import { isHotelOnly } from '@/lib/hotels';
 import { getCastleAreaGroups } from '@/lib/castle-areas';
+import { getGuidesByCountry } from '@/lib/guides';
 import { renderEditorialHtml } from '@/lib/markdown';
 import CastleCard from '@/components/castle/CastleCard';
 import Breadcrumb from '@/components/ui/Breadcrumb';
@@ -45,6 +46,7 @@ export default async function CountryPage({ params }: PageProps) {
   if (!countryData) notFound();
 
   const areaGroups = countryData.show_seo_sections ? getCastleAreaGroups(castles) : [];
+  const guides = getGuidesByCountry(country);
 
   // "Which castles are in the capital area?" is derived from the area breakdown above
   // so it can never drift out of sync with it; everything else comes from hub_faqs.
@@ -117,6 +119,23 @@ export default async function CountryPage({ params }: PageProps) {
         {castles.length === 0 && (
           <div className="text-center py-20 text-stone-400">
             <p>Castle pages for {countryData.name} are coming soon.</p>
+          </div>
+        )}
+
+        {guides.length > 0 && (
+          <div className="mt-14 max-w-3xl">
+            <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">
+              {countryData.name} castle guides
+            </h2>
+            <ul className="space-y-2">
+              {guides.map((guide) => (
+                <li key={guide.id}>
+                  <Link href={`/guides/${guide.id}`} prefetch={false} className="text-[#1761a0] hover:underline font-medium">
+                    {guide.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
           </div>
         )}
 

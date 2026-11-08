@@ -30,6 +30,10 @@ export function getRouteLastModified(id: string): string | null {
   return dates[`data/routes/${id}.json`] ?? null;
 }
 
+export function getGuideLastModified(id: string): string | null {
+  return dates[`data/guides/${id}.json`] ?? null;
+}
+
 export function getStaticPageLastModified(sourceFile: string): string | null {
   return dates[sourceFile] ?? null;
 }

@@ -21,3 +21,19 @@ export function getGuideBySlug(slug: string): Guide | null {
 export function getGuidesByCountry(country: string): Guide[] {
   return getAllGuides().filter((g) => g.country === country);
 }
+
+/** Guides that are not about one country (Europe-wide), for the /castles directory. */
+export function getEuropeWideGuides(): Guide[] {
+  return getAllGuides().filter((g) => !g.country);
+}
+
+/**
+ * Guides that list the castle, at most `limit`, most specific first (fewest castles), for the
+ * "Featured in" line on a castle page.
+ */
+export function getGuidesFeaturingCastle(castleId: string, limit = 2): Guide[] {
+  return getAllGuides()
+    .filter((g) => g.castles.includes(castleId))
+    .sort((a, b) => a.castles.length - b.castles.length || a.id.localeCompare(b.id))
+    .slice(0, limit);
+}
