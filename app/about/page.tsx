@@ -4,6 +4,7 @@ import { getAllCountries } from '@/lib/countries';
 
 export const metadata: Metadata = {
   title: 'About Castles & Palaces',
+  alternates: { canonical: '/about' },
   description: 'The editorial guide to Europe\'s most beautiful historic castles and palaces.',
 };
 

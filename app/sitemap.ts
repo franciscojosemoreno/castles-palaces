@@ -4,8 +4,27 @@ import { getAllRoutes } from '@/lib/routes';
 import { getAllTourParams, getAllTourCountrySlugs } from '@/lib/tours';
 import { getAllHotelCountrySlugs } from '@/lib/hotel-directory';
 import { getCountryBySlug } from '@/lib/countries';
+import {
+  getAllCastlesLastModified,
+  getAllGuidesLastModified,
+  getAllRoutesLastModified,
+  getAllToursLastModified,
+  getCastleLastModified,
+  getCastlesCountryLastModified,
+  getRouteLastModified,
+  getSiteLastModified,
+  getStaticPageLastModified,
+  getToursCountryLastModified,
+  getTourLastModified,
+} from '@/lib/lastmod';
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
+
+// <lastmod> is the date of the last git commit that touched the page's data file (see
+// lib/lastmod.ts). Hubs take the newest date among the pages they list. A page with no known date
+// simply omits <lastmod>: an honest gap is better than the build time, which would claim every
+// page changed on every deploy.
+const withDate = (date: string | null) => (date ? { lastModified: date } : {});
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const castleParams = getAllCastleParams();
@@ -19,56 +38,56 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const castleUrls: MetadataRoute.Sitemap = castleParams.map(({ country, castle }) => ({
     url: `${BASE_URL}/castles/${country}/${castle}`,
-    lastModified: new Date(),
+    ...withDate(getCastleLastModified(country, castle)),
     changeFrequency: 'monthly',
     priority: 0.8,
   }));
 
   const castleCountryUrls: MetadataRoute.Sitemap = castleCountrySlugs.map((slug) => ({
     url: `${BASE_URL}/castles/${slug}`,
-    lastModified: new Date(),
+    ...withDate(getCastlesCountryLastModified(slug)),
     changeFrequency: 'weekly',
     priority: 0.7,
   }));
 
   const tourUrls: MetadataRoute.Sitemap = tourParams.map(({ country, slug }) => ({
     url: `${BASE_URL}/tours/${country}/${slug}`,
-    lastModified: new Date(),
+    ...withDate(getTourLastModified(country, slug)),
     changeFrequency: 'monthly',
     priority: 0.7,
   }));
 
   const tourCountryUrls: MetadataRoute.Sitemap = tourCountrySlugs.map((slug) => ({
     url: `${BASE_URL}/tours/${slug}`,
-    lastModified: new Date(),
+    ...withDate(getToursCountryLastModified(slug)),
     changeFrequency: 'weekly',
     priority: 0.6,
   }));
 
   const hotelCountryUrls: MetadataRoute.Sitemap = hotelCountrySlugs.map((slug) => ({
     url: `${BASE_URL}/castle-hotels/${slug}`,
-    lastModified: new Date(),
+    ...withDate(getCastlesCountryLastModified(slug)),
     changeFrequency: 'weekly',
     priority: 0.7,
   }));
 
   const routeUrls: MetadataRoute.Sitemap = routes.map((route) => ({
     url: `${BASE_URL}/routes/${route.id}`,
-    lastModified: new Date(),
+    ...withDate(getRouteLastModified(route.id)),
     changeFrequency: 'monthly',
     priority: 0.6,
   }));
 
   const staticUrls: MetadataRoute.Sitemap = [
-    { url: BASE_URL, lastModified: new Date(), changeFrequency: 'weekly', priority: 1.0 },
-    { url: `${BASE_URL}/castles`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
-    { url: `${BASE_URL}/castle-hotels`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
-    { url: `${BASE_URL}/map`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
-    { url: `${BASE_URL}/tours`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
-    { url: `${BASE_URL}/routes`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
-    { url: `${BASE_URL}/guides`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.6 },
-    { url: `${BASE_URL}/about`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
-    { url: `${BASE_URL}/contact`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.2 },
+    { url: BASE_URL, ...withDate(getSiteLastModified()), changeFrequency: 'weekly', priority: 1.0 },
+    { url: `${BASE_URL}/castles`, ...withDate(getAllCastlesLastModified()), changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${BASE_URL}/castle-hotels`, ...withDate(getAllCastlesLastModified()), changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${BASE_URL}/map`, ...withDate(getAllCastlesLastModified()), changeFrequency: 'weekly', priority: 0.8 },
+    { url: `${BASE_URL}/tours`, ...withDate(getAllToursLastModified()), changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${BASE_URL}/routes`, ...withDate(getAllRoutesLastModified()), changeFrequency: 'weekly', priority: 0.7 },
+    { url: `${BASE_URL}/guides`, ...withDate(getAllGuidesLastModified()), changeFrequency: 'weekly', priority: 0.6 },
+    { url: `${BASE_URL}/about`, ...withDate(getStaticPageLastModified('app/about/page.tsx')), changeFrequency: 'yearly', priority: 0.3 },
+    { url: `${BASE_URL}/contact`, ...withDate(getStaticPageLastModified('app/contact/page.tsx')), changeFrequency: 'yearly', priority: 0.2 },
   ];
 
   return [...staticUrls, ...castleUrls, ...castleCountryUrls, ...hotelCountryUrls, ...tourUrls, ...tourCountryUrls, ...routeUrls];

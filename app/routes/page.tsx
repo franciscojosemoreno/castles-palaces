@@ -5,6 +5,7 @@ import { getAllRoutes } from '@/lib/routes';
 
 export const metadata: Metadata = {
   title: 'Castle Routes & Itineraries in Europe',
+  alternates: { canonical: '/routes' },
   description: 'Explore curated castle routes across Europe — from the Loire Valley châteaux to the Scottish Highlands. Multi-day itineraries with maps and tour options.',
 };
 

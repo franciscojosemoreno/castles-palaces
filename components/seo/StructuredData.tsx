@@ -1,6 +1,7 @@
 import { Castle } from '@/types';
 import { getCurrencySymbol } from '@/lib/hotels';
 import countryCodes from '@/lib/country-codes.json';
+import { getCastleLastModified } from '@/lib/lastmod';
 
 interface StructuredDataProps {
   castle: Castle;
@@ -24,6 +25,8 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
   const absoluteImage = castle.hero_image.url.startsWith('http')
     ? castle.hero_image.url
     : `${baseUrl}${castle.hero_image.url}`;
+
+  const lastModified = getCastleLastModified(castle.country, castle.id, castle.last_updated);
 
   const touristAttraction = {
     '@context': 'https://schema.org',
@@ -51,7 +54,9 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
         description: castle.opening_hours.seasonal_note,
       },
     }),
-    dateModified: castle.last_updated,
+    // Date of the last git commit that touched this ficha (lib/lastmod.ts), not the hand-entered
+    // last_updated field, so it matches the sitemap <lastmod> and the visible "Last updated" line.
+    ...(lastModified && { dateModified: lastModified }),
   };
 
   const breadcrumb = {

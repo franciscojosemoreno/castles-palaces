@@ -12,6 +12,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const priceSuffix = minPrice != null ? ` from €${minPrice}` : '';
   return {
     title: `European Castle Tours 2026 — Skip-the-Line Tickets${priceSuffix}`,
+    alternates: { canonical: '/tours' },
     description: `${tourCount} curated castle tours across 30+ European countries. Multi-castle day trips, guided experiences and skip-the-line entry${priceSuffix}. Instant confirmation.`,
   };
 }

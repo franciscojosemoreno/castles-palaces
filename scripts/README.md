@@ -114,6 +114,27 @@ A failure prints `Capital letters in URL source: <file>: <value>`. Make the fiel
 lowercase and equal to the folder / file name. `proxy.ts` and `next.config.ts` also
 redirect capitalised incoming URLs with a 301, but our own links must never need it.
 
+## generate-lastmod.mjs
+
+Writes `lib/lastmod.generated.json`: the date of the last git commit that touched each
+content file (`data/castles`, `data/tours`, `data/routes`, `data/guides` and the static
+pages `about`, `contact`, `quiz`). `lib/lastmod.ts` reads it for the sitemap `<lastmod>`,
+the JSON-LD `dateModified` and the "Last updated <Month YYYY>" line on every castle page,
+so those dates move only when a page really changes. Runs in `prebuild`:
+
+```sh
+node scripts/generate-lastmod.mjs
+```
+
+- **Full git history (your machine):** regenerates the file. A file with uncommitted
+  changes gets today's date, so building before the commit already writes the commit-day
+  date. **Commit `lib/lastmod.generated.json` together with the content change.**
+- **Shallow clone (Vercel):** keeps the committed file. A shallow clone cannot tell when a
+  file last changed (git reports the oldest commit it has for every untouched file), so
+  the committed file is the source of truth there. A file missing from it falls back to the
+  ficha's `last_updated` field and the script prints how many are missing.
+- Hubs use the newest date among the pages they list; a page with no date omits `<lastmod>`.
+
 ## generate-search-index.js
 
 Generates `public/search-index.json` at build time. Runs via `npm run

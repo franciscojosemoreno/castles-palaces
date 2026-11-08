@@ -3,6 +3,7 @@ import CastleQuiz from '@/components/quiz/CastleQuiz';
 
 export const metadata: Metadata = {
   title: 'Which European Castle Should You Visit? | Castle Quiz',
+  alternates: { canonical: '/quiz' },
   description: 'Answer 7 questions and discover your perfect European castle match — from fairy-tale palaces to dramatic cliff fortresses.',
 };
 

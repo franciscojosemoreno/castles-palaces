@@ -5,6 +5,7 @@ import { getAllGuides } from '@/lib/guides';
 
 export const metadata: Metadata = {
   title: 'Castle Travel Guides',
+  alternates: { canonical: '/guides' },
   description:
     'In-depth travel guides to Europe\'s most iconic castles and palace regions — best-of lists, itineraries and practical advice.',
 };

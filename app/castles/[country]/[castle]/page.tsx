@@ -16,6 +16,8 @@ import HotelBookingCard from '@/components/castle/HotelBookingCard';
 import StructuredData from '@/components/seo/StructuredData';
 import { getPrimaryCta, isHotelOnly, getCurrencySymbol, ROOM_LOCATION_STAY_CTA } from '@/lib/hotels';
 import { renderEditorialHtml } from '@/lib/markdown';
+import { getToursVisitingCastle } from '@/lib/tours';
+import { formatMonthYear, getCastleLastModified } from '@/lib/lastmod';
 
 /** 1 -> "1st", 12 -> "12th", 21 -> "21st" — standard English ordinal suffix rules. */
 function ordinal(n: number): string {
@@ -68,6 +70,9 @@ export default async function CastlePage({ params }: PageProps) {
   if (!castle || castle.status !== 'published') notFound();
 
   const nearby = getNearbyCastles(castle, 4);
+  const visitingTours = getToursVisitingCastle(castle.id);
+  // Same date as the sitemap <lastmod> and the JSON-LD dateModified (last git commit that touched this ficha).
+  const lastModified = getCastleLastModified(country, castleSlug, castle.last_updated);
   const countryLabel = country.charAt(0).toUpperCase() + country.slice(1).replace('-', ' ');
   const countryData = getCountryBySlug(country);
   const hotelOnly = isHotelOnly(castle);
@@ -143,6 +148,11 @@ export default async function CastlePage({ params }: PageProps) {
             <p className="text-stone-500 text-sm mb-5">
               This page is part of an independent travel guide and is not affiliated with, endorsed by, or operated by {castle.name}.
             </p>
+            {lastModified && (
+              <p className="text-stone-400 text-xs -mt-3 mb-5">
+                Last updated <time dateTime={lastModified}>{formatMonthYear(lastModified)}</time>
+              </p>
+            )}
 
             {/* Hero image */}
             <div className="relative aspect-[16/12] rounded-xl overflow-hidden mb-6">
@@ -288,6 +298,27 @@ export default async function CastlePage({ params }: PageProps) {
                 <p className="mt-2 text-sm text-stone-500">{castle.address}</p>
               )}
             </section>
+
+            {/* Tours whose itinerary stops here: internal links to /tours pages (no affiliate link) */}
+            {visitingTours.length > 0 && (
+              <section className="mb-10">
+                <h2 className="font-serif font-bold text-[#1761a0] text-2xl mb-4">Tours that visit {castle.name}</h2>
+                <ul className="space-y-2">
+                  {visitingTours.map((tour) => (
+                    <li key={`${tour.country}/${tour.slug}`}>
+                      <Link
+                        href={`/tours/${tour.country}/${tour.slug}`}
+                        prefetch={false}
+                        className="text-[#1761a0] hover:underline font-medium"
+                      >
+                        {tour.name}
+                      </Link>
+                      <span className="text-sm text-stone-500"> · {tour.duration_label}</span>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            )}
 
             {/* Nearby castles */}
             {nearby.length > 0 && (

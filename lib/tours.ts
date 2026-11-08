@@ -40,6 +40,41 @@ export function getTourBySlug(country: string, slug: string): Tour | undefined {
   return getAllTours().find(t => t.departure_country === country && t.slug === slug);
 }
 
+export interface TourVisitingCastle {
+  slug: string;
+  country: string;
+  name: string;
+  duration_label: string;
+}
+
+let toursByCastleId: Map<string, Tour[]> | null = null;
+
+/**
+ * Tours whose itinerary has the castle as a stop (`castle_id`), best first, at most `limit`.
+ * Same ranking as the /tours listing (popularityScore), ties by name. Feeds the "Tours that visit"
+ * block on a castle page: a plain internal link, no affiliate link.
+ */
+export function getToursVisitingCastle(castleId: string, limit = 3): TourVisitingCastle[] {
+  if (!toursByCastleId) {
+    toursByCastleId = new Map();
+    for (const tour of getAllTours()) {
+      const seen = new Set<string>();
+      for (const stop of tour.itinerary ?? []) {
+        if (!stop.castle_id || seen.has(stop.castle_id)) continue;
+        seen.add(stop.castle_id);
+        const list = toursByCastleId.get(stop.castle_id) ?? [];
+        list.push(tour);
+        toursByCastleId.set(stop.castle_id, list);
+      }
+    }
+  }
+  return (toursByCastleId.get(castleId) ?? [])
+    .slice()
+    .sort((a, b) => popularityScore(b) - popularityScore(a) || a.name.localeCompare(b.name))
+    .slice(0, limit)
+    .map((t) => ({ slug: t.slug, country: t.departure_country, name: t.name, duration_label: t.duration_label }));
+}
+
 export function getFeaturedTours(limit = 6): Tour[] {
   return getAllTours()
     .filter(t => t.featured)

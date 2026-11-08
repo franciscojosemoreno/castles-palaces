@@ -8,6 +8,8 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'All Castles & Palaces in Europe',
   description: 'Browse our complete directory of European castles and palaces. Filter by country, type and features to find your perfect historic destination.',
+  // Own URL without query: /castles?q=… serves the same page and must not be indexed as a separate URL.
+  alternates: { canonical: '/castles' },
 };
 
 export default function CastlesIndexPage() {
