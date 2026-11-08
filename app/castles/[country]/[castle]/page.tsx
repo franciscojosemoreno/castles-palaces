@@ -76,6 +76,12 @@ export default async function CastlePage({ params }: PageProps) {
   const countryLabel = country.charAt(0).toUpperCase() + country.slice(1).replace('-', ' ');
   const countryData = getCountryBySlug(country);
   const hotelOnly = isHotelOnly(castle);
+  // getPrimaryCta() links to the hotel's Booking.com page whenever there is no featured tour, so
+  // every CTA label must talk about the stay in that case. `hotelOnly` is narrower (no GetYourGuide
+  // search either): a hotel with a GetYourGuide search but no featured tour, like Stahleck Castle,
+  // got "See Tours" / "Free Entry" text on a button that opens Booking.com.
+  const primaryIsStay = !castle.gyg_featured_tours?.[0] && Boolean(castle.hotel?.is_hotel);
+  const stayUnit = castle.hotel?.price_unit === 'person' ? 'bed' : 'room';
   const hasGYGWidgetContent = Boolean(castle.gyg_search_query || castle.gyg_location_id);
   const primaryCta = getPrimaryCta(castle);
   const stayCtaHeadline = castle.hotel?.room_location ? ROOM_LOCATION_STAY_CTA[castle.hotel.room_location] : 'Stay overnight';
@@ -198,10 +204,10 @@ export default async function CastlePage({ params }: PageProps) {
             <div className="lg:hidden mb-8 flex items-center gap-3 bg-[#1761a0] rounded-lg px-4 py-4">
               <div className="flex-1 min-w-0">
                 <p className="text-white font-semibold text-sm leading-tight">
-                  {primaryCta.disabled ? 'Booking temporarily paused' : hotelOnly ? stayCtaHeadline : visitCtaHeadline}
+                  {primaryCta.disabled ? 'Booking temporarily paused' : primaryIsStay ? stayCtaHeadline : visitCtaHeadline}
                 </p>
                 <p className="text-white/70 text-xs mt-0.5">
-                  {primaryCta.disabled ? 'Check back soon, or contact the property directly' : hotelOnly ? 'Book a room via Booking.com' : visitCtaSubline}
+                  {primaryCta.disabled ? 'Check back soon, or contact the property directly' : primaryIsStay ? `Book a ${stayUnit} via Booking.com` : visitCtaSubline}
                 </p>
               </div>
               {primaryCta.disabled ? (
@@ -218,7 +224,7 @@ export default async function CastlePage({ params }: PageProps) {
                   rel="noopener noreferrer sponsored"
                   className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-xs px-4 py-2.5 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
                 >
-                  {hotelOnly ? 'Book Your Stay →' : 'See Tours →'}
+                  {primaryIsStay ? 'Book Your Stay →' : 'See Tours →'}
                 </a>
               )}
             </div>
@@ -408,10 +414,10 @@ export default async function CastlePage({ params }: PageProps) {
                 </span>
               </p>
             </>
-          ) : hotelOnly ? (
+          ) : primaryIsStay ? (
             <>
               <p className="text-xs text-stone-500 leading-none mb-0.5">
-                {castle.hotel!.price_unit === 'property' ? 'Whole property from' : 'Rooms from'}
+                {castle.hotel!.price_unit === 'property' ? 'Whole property from' : castle.hotel!.price_unit === 'person' ? 'Beds from' : 'Rooms from'}
               </p>
               <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
                 {castle.hotel!.price_from_night != null ? (
@@ -452,7 +458,7 @@ export default async function CastlePage({ params }: PageProps) {
             rel="noopener noreferrer sponsored"
             className="flex-shrink-0 bg-[#c9a84c] text-[#1761a0] font-bold text-sm px-5 py-3 rounded-lg hover:bg-[#b8973b] transition-colors whitespace-nowrap"
           >
-            {hotelOnly ? 'Book Your Stay →' : castle.gyg_featured_tours?.[0] ? 'Top Tour →' : 'See Tours →'}
+            {primaryIsStay ? 'Book Your Stay →' : castle.gyg_featured_tours?.[0] ? 'Top Tour →' : 'See Tours →'}
           </a>
         )}
       </div>
