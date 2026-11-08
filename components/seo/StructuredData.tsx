@@ -1,53 +1,22 @@
 import { Castle } from '@/types';
 import { getCurrencySymbol } from '@/lib/hotels';
+import countryCodes from '@/lib/country-codes.json';
 
 interface StructuredDataProps {
   castle: Castle;
   url: string;
 }
 
-const COUNTRY_CODES: Record<string, string> = {
-  albania: 'AL',
-  armenia: 'AM',
-  austria: 'AT',
-  belgium: 'BE',
-  bosnia: 'BA',
-  bulgaria: 'BG',
-  croatia: 'HR',
-  cyprus: 'CY',
-  'czech-republic': 'CZ',
-  denmark: 'DK',
-  england: 'GB',
-  estonia: 'EE',
-  finland: 'FI',
-  france: 'FR',
-  georgia: 'GE',
-  germany: 'DE',
-  greece: 'GR',
-  hungary: 'HU',
-  ireland: 'IE',
-  italy: 'IT',
-  latvia: 'LV',
-  lithuania: 'LT',
-  luxembourg: 'LU',
-  montenegro: 'ME',
-  netherlands: 'NL',
-  'north-macedonia': 'MK',
-  'northern-ireland': 'GB',
-  norway: 'NO',
-  poland: 'PL',
-  portugal: 'PT',
-  romania: 'RO',
-  scotland: 'GB',
-  serbia: 'RS',
-  slovakia: 'SK',
-  slovenia: 'SI',
-  spain: 'ES',
-  sweden: 'SE',
-  switzerland: 'CH',
-  turkey: 'TR',
-  wales: 'GB',
-};
+// ISO 3166-1 alpha-2 codes keyed by the country folder in data/castles/ (single source of truth,
+// shared with scripts/check-country-codes.mjs, which fails the build when a folder is missing).
+// England, Scotland, Wales and Northern Ireland are "GB"; Kosovo uses the user-assigned "XK".
+const COUNTRY_CODES: Record<string, string> = countryCodes;
+
+function getCountryCode(country: string): string {
+  const code = COUNTRY_CODES[country];
+  if (!code) throw new Error(`Missing ISO country code for: ${country}`);
+  return code;
+}
 
 export default function StructuredData({ castle, url }: StructuredDataProps) {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
@@ -71,7 +40,7 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
     address: {
       '@type': 'PostalAddress',
       streetAddress: castle.address ?? '',
-      addressCountry: COUNTRY_CODES[castle.country] ?? castle.country.toUpperCase().slice(0, 2),
+      addressCountry: getCountryCode(castle.country),
     },
     ...(castle.price_adult != null && {
       priceRange: castle.price_adult === 0 ? 'Free' : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`,

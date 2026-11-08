@@ -74,6 +74,23 @@ automatically before `npm run build`) before it ships. If the lint fails on
 something that turns out to be legitimate, fix the rule (see above) — don't
 work around it by rephrasing the content to dodge the pattern.
 
+## check-country-codes.mjs
+
+Fails the build when a country folder in `data/castles/` has no ISO 3166-1
+alpha-2 code in `lib/country-codes.json`. That file is also what
+`components/seo/StructuredData.tsx` reads for the JSON-LD `addressCountry`, so a
+missing entry can never silently emit a wrong code. Runs first in `prebuild`
+and on demand:
+
+```sh
+npm run check:countries
+```
+
+A failure looks like `Missing ISO country code for: <folder>`. Add the folder to
+`lib/country-codes.json` (England, Scotland, Wales and Northern Ireland are `GB`;
+Kosovo uses the user-assigned `XK`), then build again. The component also throws
+the same message at render time as a backstop.
+
 ## generate-search-index.js
 
 Generates `public/search-index.json` at build time. Runs via `npm run
