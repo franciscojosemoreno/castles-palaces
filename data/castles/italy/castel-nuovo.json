@@ -42,7 +42,7 @@
     },
     {
       "question": "Does the entry ticket include a guide?",
-      "answer": "The GetYourGuide ticket includes a digital smart guide accessed on your own smartphone, with an access code delivered via the GetYourGuide voucher or chat — there is no live in-person guide. The ticket also offers skip-the-line entry and is valid for one day."
+      "answer": "The GetYourGuide ticket includes a digital smart guide accessed on your own smartphone, with an access code delivered via the GetYourGuide voucher or chat — there is no live in-person guide. The ticket is valid for one day."
     }
   ],
   "hero_image": {
@@ -56,14 +56,13 @@
   "og_image": "/images/castles/castel-nuovo.webp",
   "instagram_tag": "#castelnuovo",
   "meta_title": "Castel Nuovo (Maschio Angioino), Naples — Visitor Guide & Tickets",
-  "meta_description": "Visit Castel Nuovo in Naples — Charles I of Anjou's 1279 royal castle with a 15th-century triumphal arch. Skip-the-line ticket with digital guide.",
+  "meta_description": "Visit Castel Nuovo in Naples — Charles I of Anjou's 1279 royal castle with a 15th-century triumphal arch. Entry ticket with digital guide.",
   "tags": [
     "italy",
     "campania",
     "naples",
     "angevin",
-    "aragonese",
-    "skip-the-line"
+    "aragonese"
   ],
   "last_updated": "2026-10-11",
   "routes": [],
@@ -76,7 +75,7 @@
     {
       "tour_id": "1511048",
       "title": "Naples: Maschio Angioino Entry Ticket with Smart Guide",
-      "type": "skip_the_line",
+      "type": "entry_ticket",
       "duration": "Valid 1 day",
       "price_from": 16,
       "rating": null,
