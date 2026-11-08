@@ -14,17 +14,17 @@
   "lat": 50.059,
   "lng": 7.77,
   "unesco": false,
-  "year_built": 1135,
+  "built_label": "c. 1135; rebuilt 1925–1967",
   "architectural_style": "Romanesque / Medieval Rhenish",
   "opening_hours": {
-    "monday": "07:00–22:00",
-    "tuesday": "07:00–22:00",
-    "wednesday": "07:00–22:00",
-    "thursday": "07:00–22:00",
-    "friday": "07:00–22:00",
-    "saturday": "07:00–22:00",
-    "sunday": "07:00–22:00",
-    "seasonal_note": "The castle operates as a youth hostel; access to grounds and tower is generally open during hostel operating hours."
+    "monday": "Courtyard open to visitors during the day",
+    "tuesday": "Courtyard open to visitors during the day",
+    "wednesday": "Courtyard open to visitors during the day",
+    "thursday": "Courtyard open to visitors during the day",
+    "friday": "Courtyard open to visitors during the day",
+    "saturday": "Courtyard open to visitors during the day",
+    "sunday": "Courtyard open to visitors during the day",
+    "seasonal_note": "The castle is a youth hostel and is not open for tours; the courtyard is open to visitors during the day."
   },
   "price_adult": 0,
   "price_child": 0,
@@ -34,23 +34,38 @@
   "best_season": "April to October",
   "accessibility": "Limited — steep hill path to reach the castle",
   "booking_advance_days": 0,
-  "tagline": "A medieval Rhine castle turned youth hostel, commanding the UNESCO gorge above Bacharach",
+  "tagline": "Twelfth-century Rhine castle above Bacharach, rebuilt as a youth hostel where you can sleep inside the walls",
   "highlights": [
-    "Part of the UNESCO Upper Middle Rhine Valley",
-    "One of the most dramatically positioned castles on the Rhine",
-    "Now operates as a youth hostel — you can sleep inside a medieval castle",
-    "Sweeping views over the Rhine gorge, vineyards, and Bacharach",
-    "Medieval tower, curtain walls, and courtyard well-preserved",
-    "Private doubles and dormitories are both available within the restored medieval walls",
-    "Rates run roughly €25-35 per person per night — dramatically lower than any other castle-hotel in this entire collection"
+    "Part of the UNESCO Upper Middle Rhine Valley (2002)",
+    "Built for the Archbishops of Cologne on a crag above Bacharach; its first recorded holder is mentioned in 1135",
+    "Rebuilt from 1925 as a youth hostel: you can sleep inside the castle walls",
+    "The courtyard is free to visit and has views over the Rhine",
+    "Private doubles and dormitories, from about €25 per person per night",
+    "Water-filled section of the rock-cut moat in front of the shield wall"
   ],
-  "description": "Burg Stahleck commands one of the most striking positions in the UNESCO-listed Upper Middle Rhine Valley, perched high above the perfectly preserved medieval town of Bacharach and the river gorge below. First documented in 1135, the castle was a Rhenish Palatinate stronghold throughout the medieval period, controlling river traffic through the narrow gorge. Badly damaged in the Thirty Years' War, it was rebuilt in the 1920s–1930s by the German Youth Hostel Association (DJH) and today operates as one of Germany's most spectacular and beloved youth hostels — allowing guests to sleep within authentic medieval walls above the Rhine. The courtyard, tower, and ramparts are freely accessible, offering panoramic views down the gorge.",
-  "history": "First documented in 1135, the castle was a key Rhenish stronghold controlling Rhine traffic for the Counts Palatine. It was besieged and partially destroyed during the Thirty Years' War (1618–1648) and fell into ruin. The German Youth Hostel movement acquired the ruins in 1925 and undertook a restoration, opening it as a hostel in 1926. It has operated continuously as a hostel since, aside from World War II, and was included in the UNESCO Upper Middle Rhine Valley designation in 2002.",
-  "how_to_visit": "**Getting there:** Bacharach is on the west bank of the Rhine, 40 km south of Koblenz. Frequent Rhine Valley trains on the Koblenz–Mainz line stop at Bacharach station; the castle is a 20-minute walk uphill from the station through the medieval town walls. Rhine cruise ships also stop at Bacharach in summer.\n\n**Tickets:** Entry to the castle grounds and tower is free. The castle operates as a youth hostel (Burg Stahleck); overnight stays must be booked directly at burg-stahleck.de.\n\n**Practical tips:** The grounds are accessible during hostel operating hours (07:00–22:00 daily) with no ticket desk or timed entry required. The youth hostel accepts guests of all ages — advance booking is strongly recommended in summer and during wine-harvest weekends.\n\n**Combine with:** [Marksburg Castle](/castles/germany/marksburg-castle), the only Rhine valley castle never destroyed, lies about 25 km north near Braubach and makes a natural same-day pairing. [Stolzenfels Castle](/castles/germany/stolzenfels-castle) near Koblenz is another well-preserved Rhine gorge fortress within easy reach.",
+  "description": "Stahleck Castle (Burg Stahleck) stands on a crag above the medieval town of Bacharach, at the mouth of the Steeg valley on the Rhine, about 50 km south of Koblenz. It was built for the Archbishops of Cologne. The name comes from Middle High German stahel (steel) and ecke (crag), and the first recorded holder, Goswin von Stahleck, is mentioned in 1135. In the 12th century it was the seat of the Counts Palatine of the Rhine. The castle is part of the UNESCO Upper Middle Rhine Valley, listed in 2002.\n\nAccording to tradition, Agnes, daughter of Count Palatine Conrad of Hohenstaufen, secretly married Henry of Brunswick, son of Henry the Lion, here in early 1194, in what became known as the Stahleck (or Bacharach) Marriage. During the Thirty Years' War the castle was besieged and taken eight times. Elector Palatine Karl Ludwig had it repaired in 1666, and a stone tablet in the courtyard records the work. On 15 March 1689, during the War of the Palatine Succession, French troops blew it up and left it in ruins.\n\nIn 1909 the ruin passed to the Rhenish Association for Landmark Preservation. From 1925 the architect Ernst Stahl rebuilt it as a youth hostel, following Matthäus Merian's 1646 engraving; the hostel was dedicated in June 1926, with further rebuilding in the 1930s and in 1965–67. In 1942 schoolboys and students from Luxembourg were interned at the castle as punishment for protesting against forced conscription, and a memorial plaque recalls them. A water-filled section of the rock-cut moat survives in front of the shield wall.\n\nToday the castle is a youth hostel with about 168 beds, run by the Rhineland-Palatinate youth hostel association. Guests of any age can stay, in private doubles or dormitories from about €25 per person per night. The castle is not open for tours, but the courtyard is open to the public and has views over the Rhine.",
+  "history": "Built for the Archbishops of Cologne on a crag above Bacharach, Stahleck is first linked to Goswin von Stahleck, mentioned in 1135, and was a seat of the Counts Palatine of the Rhine in the 12th century. According to tradition, Agnes, daughter of Count Palatine Conrad, and Henry of Brunswick married here in secret in early 1194. The castle was besieged and taken eight times in the Thirty Years' War, repaired in 1666 by Elector Palatine Karl Ludwig, and blown up by French troops on 15 March 1689, after which it lay in ruins. The Rhenish Association for Landmark Preservation took over the ruin in 1909. From 1925 the architect Ernst Stahl rebuilt it as a youth hostel, dedicated in June 1926, with further rebuilding in the 1930s and in 1965–67. In 1942 schoolboys and students from Luxembourg were interned here as punishment for protesting against forced conscription. The castle is part of the UNESCO Upper Middle Rhine Valley, listed in 2002.",
+  "how_to_visit": "**Getting there:** Bacharach is on the west bank of the Rhine, about 50 km south of Koblenz. Frequent Rhine Valley trains on the Koblenz–Mainz line stop at Bacharach station; the castle is a 20-minute walk uphill from the station through the medieval town walls. Rhine cruise ships also stop at Bacharach in summer.\n\n**Tickets:** Entry to the courtyard is free; there are no interior tours. The castle is a youth hostel (Burg Stahleck). Overnight stays can be booked via Booking.com or through the DJH youth hostel website.\n\n**Practical tips:** The courtyard is open to visitors during the day, with no ticket desk or timed entry required. The youth hostel accepts guests of all ages — advance booking is strongly recommended in summer and during wine-harvest weekends.\n\n**Combine with:** [Marksburg Castle](/castles/germany/marksburg-castle), the only Rhine valley castle never destroyed, lies about 25 km north near Braubach and makes a natural same-day pairing. [Stolzenfels Castle](/castles/germany/stolzenfels-castle) near Koblenz is another well-preserved Rhine gorge fortress within easy reach.",
   "faqs": [
     {
-      "question": "Can anyone stay in the youth hostel?",
-      "answer": "Yes — Burg Stahleck youth hostel is open to all ages (youth hostels in Germany are not restricted to young people). Advance booking is strongly recommended."
+      "question": "How much does it cost to stay at Stahleck Castle?",
+      "answer": "Beds start from about €25 per person per night, a youth hostel rate per person rather than per room. The castle has dormitories and private rooms. Check current prices and availability on Booking.com."
+    },
+    {
+      "question": "Can you visit Stahleck Castle without staying?",
+      "answer": "Yes, the courtyard is free to enter and has views over the Rhine. The castle is a youth hostel and is not open for interior tours."
+    },
+    {
+      "question": "Who can stay at the youth hostel?",
+      "answer": "Anyone. Burg Stahleck youth hostel is open to all ages (youth hostels in Germany are not restricted to young people). Advance booking is strongly recommended."
+    },
+    {
+      "question": "How do you get to Stahleck Castle?",
+      "answer": "Take a train on the Koblenz–Mainz line to Bacharach station, then walk about 20 minutes uphill through the medieval town. Rhine boats also stop at Bacharach in summer."
+    },
+    {
+      "question": "What is the history of Stahleck Castle?",
+      "answer": "Stahleck was built for the Archbishops of Cologne above Bacharach, and its first recorded holder, Goswin von Stahleck, is mentioned in 1135. It was taken eight times in the Thirty Years' War and blown up by French troops in 1689. From 1925 the architect Ernst Stahl rebuilt it as a youth hostel, dedicated in June 1926."
     },
     {
       "question": "Is the castle part of a UNESCO site?",
@@ -58,7 +73,7 @@
     },
     {
       "question": "What is the town of Bacharach like?",
-      "answer": "Bacharach is one of the best-preserved medieval towns in the Rhine Valley, with intact 14th-century walls, half-timbered houses, and a Romanesque church — an ideal base for exploring the gorge."
+      "answer": "Bacharach is a medieval town on the Rhine with 14th-century town walls, half-timbered houses and a Romanesque church, a convenient base for exploring the gorge."
     }
   ],
   "hero_image": {
@@ -71,8 +86,8 @@
   "gallery": [],
   "og_image": "/images/castles/stahleck-castle.webp",
   "instagram_tag": "#burgstahleck",
-  "meta_title": "Stahleck Castle, Rhine Valley — Medieval UNESCO Fortress & Youth Hostel",
-  "meta_description": "Visit Stahleck Castle above Bacharach on the Rhine — a medieval fortress in the UNESCO Rhine gorge that operates as Germany's most spectacular youth hostel.",
+  "meta_title": "Stahleck Castle, Bacharach: Hostel Prices, Visiting & History",
+  "meta_description": "Stahleck Castle above Bacharach on the Rhine: stay in the youth hostel from €25 per person, visit the courtyard for free, and read its history since 1135.",
   "tags": [
     "medieval",
     "german-castle",
@@ -83,10 +98,10 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
-    "albrechtsburg-castle",
-    "marksburg-castle",
-    "stolzenfels-castle",
-    "lahneck-castle"
+    "gutenfels-castle",
+    "reichenstein-castle",
+    "schoenburg-castle",
+    "rheinfels-castle"
   ],
   "gyg_search_query": "Rhine Valley castle tour Bacharach",
   "gyg_widget_type": "activities",
@@ -102,8 +117,8 @@
     "currency": "EUR",
     "room_location": "castle",
     "amenities": ["restaurant"],
-    "non_guest_access_note": "The castle courtyard, tower and ramparts remain freely accessible to day visitors, whether or not you book a room — see How to Visit above",
-    "how_to_stay": "**Getting there:** Bacharach, Rhineland-Palatinate — same access as described in How to Visit above.\n\n**Rooms & rates:** Private double rooms and multi-bed dormitories are all within the restored medieval castle building itself. From roughly €25-35 per person per night (DJH hostel pricing, not per-room — this is a youth hostel rate, not the per-room-per-night convention used elsewhere on this site), including bedding; breakfast, half-board and full-board options available.\n\n**On-site:** Hostel restaurant/dining hall; the castle courtyard, tower and ramparts described in How to Visit remain freely accessible to both overnight guests and day visitors.\n\n**Good to know:** Open to guests of all ages, not just young people — a genuine budget option for sleeping inside an authentic medieval Rhine castle, a sharp contrast to the luxury positioning of most other castle-hotels covered on this site.\n\n**Combine with:** Marksburg Castle and Stolzenfels Castle, both within easy reach — see the recommendations above.",
+    "non_guest_access_note": "The courtyard is open to day visitors whether or not you book a bed, and has views over the Rhine; the castle is not open for tours. See How to Visit above",
+    "how_to_stay": "**Getting there:** Bacharach, Rhineland-Palatinate — same access as described in How to Visit above.\n\n**Rooms & rates:** Private double rooms and multi-bed dormitories are inside the rebuilt castle itself. From about €25 per person per night (hostel rate, per person), including bedding; breakfast, half-board and full-board options available.\n\n**On-site:** Hostel restaurant/dining hall; the courtyard described in How to Visit is open to both overnight guests and day visitors.\n\n**Good to know:** Open to guests of all ages, not just young people. The hostel has about 168 beds. Overnight stays can be booked via Booking.com or through the DJH youth hostel website.\n\n**Combine with:** Marksburg Castle and Stolzenfels Castle, both within easy reach — see the recommendations above.",
     "source": "web-search-aggregate",
     "sourced_date": "2026-09-16"
   }
