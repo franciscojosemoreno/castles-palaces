@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { getAllTourParams, getTourBySlug } from '@/lib/tours';
+import { getPublishedCastleCountryById } from '@/lib/castles';
 import { getCountryBySlug } from '@/lib/countries';
 import { notFound } from 'next/navigation';
 import Breadcrumb from '@/components/ui/Breadcrumb';
@@ -210,7 +211,11 @@ export default async function TourPage({ params }: Props) {
             <div>
               <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-6">Itinerary</h2>
               <div className="space-y-0">
-                {tour.itinerary.map((stop, i) => (
+                {tour.itinerary.map((stop, i) => {
+                  // A stop links to its castle page only when one is published, and under the
+                  // castle's own country (a stop is not always in the tour's country).
+                  const stopCastleCountry = stop.castle_id ? getPublishedCastleCountryById(stop.castle_id) : null;
+                  return (
                   <div key={i} className="flex gap-4">
                     <div className="flex flex-col items-center">
                       <div className="w-8 h-8 rounded-full bg-[#1761a0] text-white text-sm font-bold flex items-center justify-center flex-shrink-0">
@@ -223,13 +228,19 @@ export default async function TourPage({ params }: Props) {
                     <div className="pb-8">
                       <div className="flex items-center gap-3 mb-2 flex-wrap">
                         {stop.castle_id ? (
-                          <Link
-                            href={`/castles/${tour.visited_countries[0]}/${stop.castle_id}`}
-                            prefetch={false}
-                            className="font-serif font-bold text-lg text-[#1761a0] hover:text-[#c9a84c] transition-colors"
-                          >
-                            {stop.castle_name}
-                          </Link>
+                          stopCastleCountry ? (
+                            <Link
+                              href={`/castles/${stopCastleCountry}/${stop.castle_id}`}
+                              prefetch={false}
+                              className="font-serif font-bold text-lg text-[#1761a0] hover:text-[#c9a84c] transition-colors"
+                            >
+                              {stop.castle_name}
+                            </Link>
+                          ) : (
+                            <span className="font-serif font-bold text-lg text-[#1a1a1a]">
+                              {stop.castle_name}
+                            </span>
+                          )
                         ) : GYG_PARTNER_ID ? (
                           <a
                             href={`https://www.getyourguide.com/s/?q=${encodeURIComponent(stop.castle_name)}&partner_id=${GYG_PARTNER_ID}`}
@@ -249,7 +260,8 @@ export default async function TourPage({ params }: Props) {
                       <p className="text-[#555] leading-relaxed">{stop.description}</p>
                     </div>
                   </div>
-                ))}
+                  );
+                })}
               </div>
             </div>
 

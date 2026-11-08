@@ -91,6 +91,29 @@ A failure looks like `Missing ISO country code for: <folder>`. Add the folder to
 Kosovo uses the user-assigned `XK`), then build again. The component also throws
 the same message at render time as a backstop.
 
+## check-url-case.mjs
+
+Fails the build when an internal URL could contain capital letters. Vercel is
+case-sensitive, so `/castles/Bulgaria/kaliakra-fortress` is a 404 even though the
+castle page exists. Two checks, both automatic:
+
+- **`prebuild` (data):** folders and file names under `data/castles` and
+  `data/tours` are lowercase, every castle's `country` equals its folder and its
+  `id` equals its file name (cards, the map, search and the JSON-LD breadcrumb
+  build `/castles/<country>/<id>` from those fields), tour `slug` and
+  `visited_countries` are lowercase, and `data/countries.json` slugs too.
+- **`postbuild` (output):** no href, JSON-LD value or sitemap `<loc>` in the generated
+  HTML points at `/castles/`, `/castle-hotels/` or `/tours/` with a capital letter.
+
+```sh
+npm run check:urls          # data check
+node scripts/check-url-case.mjs --built   # output check, after `next build`
+```
+
+A failure prints `Capital letters in URL source: <file>: <value>`. Make the field
+lowercase and equal to the folder / file name. `proxy.ts` and `next.config.ts` also
+redirect capitalised incoming URLs with a 301, but our own links must never need it.
+
 ## generate-search-index.js
 
 Generates `public/search-index.json` at build time. Runs via `npm run

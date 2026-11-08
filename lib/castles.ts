@@ -117,6 +117,22 @@ export function getCountryStats(country: string): CountryStats {
   };
 }
 
+let publishedCastleCountryById: Map<string, string> | null = null;
+
+/**
+ * Country folder of a published castle page, looked up by castle id (null when no published page
+ * has that id). Tour itineraries use it to link a stop to the right /castles/<country>/<id> URL
+ * instead of assuming the stop is in the tour's own country.
+ */
+export function getPublishedCastleCountryById(id: string): string | null {
+  if (!publishedCastleCountryById) {
+    publishedCastleCountryById = new Map(
+      getPublishedCastles().map((c) => [c.id, c.country] as [string, string]),
+    );
+  }
+  return publishedCastleCountryById.get(id) ?? null;
+}
+
 export function getAllCountrySlugs(): string[] {
   return fs
     .readdirSync(CASTLES_DIR)

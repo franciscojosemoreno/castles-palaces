@@ -3,12 +3,15 @@ import { getAllCastleParams, getPublishedCastles, getAllCountrySlugs } from '@/l
 import { getAllRoutes } from '@/lib/routes';
 import { getAllTourParams, getAllTourCountrySlugs } from '@/lib/tours';
 import { getAllHotelCountrySlugs } from '@/lib/hotel-directory';
+import { getCountryBySlug } from '@/lib/countries';
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const castleParams = getAllCastleParams();
-  const castleCountrySlugs = getAllCountrySlugs();
+  // A country folder without an entry in data/countries.json has no hub page (e.g. jersey: its
+  // castles are listed in /castles), so its /castles/<country> URL is not part of the sitemap.
+  const castleCountrySlugs = getAllCountrySlugs().filter((slug) => getCountryBySlug(slug));
   const routes = getAllRoutes();
   const tourParams = getAllTourParams();
   const tourCountrySlugs = getAllTourCountrySlugs();

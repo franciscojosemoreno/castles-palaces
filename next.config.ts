@@ -49,6 +49,51 @@ const nextConfig: NextConfig = {
         destination: '/tours/slovakia/bratislava-slovakia-castles-private-tour',
         permanent: true,
       },
+      // Old URLs that Google still crawls (Search Console, 8-nov-2026). They came from the tour
+      // itinerary template, which built /castles/<tour country>/<stop id> for every stop.
+      // statusCode 301 (instead of `permanent`, which is a 308) so they answer a literal 301.
+      // Castles listed under the wrong country in the URL:
+      ...(
+        [
+          ['england/caernarfon-castle', 'wales/caernarfon-castle'],
+          ['england/conwy-castle', 'wales/conwy-castle'],
+          ['austria/bratislava-castle', 'slovakia/bratislava-castle'],
+          ['austria/devin-castle', 'slovakia/devin-castle'],
+          ['scotland/bamburgh-castle', 'england/bamburgh-castle'],
+          ['scotland/alnwick-castle', 'england/alnwick-castle'],
+          // Retired ids that point at a castle page with another slug:
+          ['czech-republic/cesky-krumlov-old-town', 'czech-republic/cesky-krumlov-castle'],
+          ['scotland/loch-ness', 'scotland/urquhart-castle'],
+          ['romania/brasov-old-town', 'romania/bran-castle'],
+          ['spain/alcazar-of-toledo', 'spain/alcazar-de-toledo'],
+        ] as const
+      ).map(([from, to]) => ({
+        source: `/castles/${from}`,
+        destination: `/castles/${to}`,
+        statusCode: 301,
+      })),
+      // Pages that never were castle pages (landscapes, towns, monuments): no matching castle
+      // page exists, so they go to the country hub.
+      ...(
+        [
+          ['scotland/glencoe-valley', 'scotland'],
+          ['scotland/loch-lomond', 'scotland'],
+          ['england/stonehenge', 'england'],
+          ['england/bath-city', 'england'],
+          ['spain/roman-aqueduct-segovia', 'spain'],
+        ] as const
+      ).map(([from, hub]) => ({
+        source: `/castles/${from}`,
+        destination: `/castles/${hub}`,
+        statusCode: 301,
+      })),
+      // Jersey has castle pages (Mont Orgueil, Elizabeth Castle) but no country hub: they are
+      // listed in the all-castles directory.
+      {
+        source: '/castles/jersey',
+        destination: '/castles',
+        statusCode: 301,
+      },
     ];
   },
 };
