@@ -85,10 +85,14 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "medvedgrad-fortress",
     "trakoscan-castle",
-    "klis-fortress",
-    "lovrijenac",
+    "borl-castle",
     "dubovac-castle"
+  ],
+  "more_castles_in_country": [
+    "klis-fortress",
+    "lovrijenac"
   ],
   "gyg_location_id": "166339",
   "gyg_search_query": "Veliki Tabor Castle Zagreb Croatia tour",

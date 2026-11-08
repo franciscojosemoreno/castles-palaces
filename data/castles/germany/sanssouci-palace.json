@@ -82,13 +82,15 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
-    "heidelberg-castle",
-    "hohenzollern-castle",
-    "rheinsberg-palace",
+    "cecilienhof-palace",
+    "neues-palais",
     "charlottenburg-palace",
     "palace-of-kopenick",
-    "cecilienhof-palace",
-    "neues-palais"
+    "rheinsberg-palace"
+  ],
+  "more_castles_in_country": [
+    "heidelberg-castle",
+    "hohenzollern-castle"
   ],
   "gyg_location_id": "17",
   "gyg_search_query": "Sanssouci Palace Potsdam tour",

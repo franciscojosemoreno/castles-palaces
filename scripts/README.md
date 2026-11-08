@@ -114,6 +114,27 @@ A failure prints `Capital letters in URL source: <file>: <value>`. Make the fiel
 lowercase and equal to the folder / file name. `proxy.ts` and `next.config.ts` also
 redirect capitalised incoming URLs with a 301, but our own links must never need it.
 
+## check-nearby.mjs
+
+Fails the build when a castle's Nearby data is wrong. Every castle page has two blocks
+that come from its JSON:
+
+- **Nearby Castles** = `nearby_castles` (manual list), shown closest first with the
+  distance. Only castles within **150 km** (`MAX_NEARBY_DISTANCE_KM` in `lib/castles.ts`).
+- **More castles in <country>** = `more_castles_in_country` (max 4): same-country castles
+  that are too far to be nearby but worth linking between important pages.
+
+```sh
+npm run check:nearby
+```
+
+Failures it reports: an id that is not a published castle, a castle listing itself, an id
+twice (or in both lists), a `nearby_castles` entry farther than 150 km (the only exception
+is a remote castle with nothing within 150 km but something within 500 km: at most 2 entries; with nothing within 500 km, like Angra do Heroísmo, `nearby_castles` stays empty and `more_castles_in_country` holds the 4 nearest same-country castles), a
+`more_castles_in_country` entry in another country, within 150 km, or more than 4 entries.
+A castle with no `nearby_castles` gets its block from the coordinates at render time (same
+150 km cap, and its 2 nearest if nothing is within 150 km), so there is nothing to check.
+
 ## generate-lastmod.mjs
 
 Writes `lib/lastmod.generated.json`: the date of the last git commit that touched each

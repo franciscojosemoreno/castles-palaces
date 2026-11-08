@@ -86,9 +86,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "leuchtenburg-castle",
-    "heidelberg-castle",
-    "nuremberg-castle"
+    "steinburg-castle",
+    "weyberhofe-castle",
+    "nuremberg-castle",
+    "heidelberg-castle"
+  ],
+  "more_castles_in_country": [
+    "leuchtenburg-castle"
   ],
   "gyg_location_id": "133",
   "gyg_search_query": "Würzburg Residence Baroque palace Tiepolo fresco guided tour",

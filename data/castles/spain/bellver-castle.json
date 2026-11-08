@@ -79,9 +79,14 @@
   "last_updated": "2026-06-09",
   "routes": [],
   "nearby_castles": [
+    "royal-palace-of-la-almudaina",
+    "march-palace",
+    "son-vida-castle",
+    "cap-rocat"
+  ],
+  "more_castles_in_country": [
     "alhambra-granada",
-    "alcazar-of-segovia",
-    "march-palace"
+    "alcazar-of-segovia"
   ],
   "gyg_location_id": "47",
   "gyg_search_query": "Bellver Castle Palma Mallorca tour",

@@ -93,11 +93,13 @@
     "andalucia-palaces"
   ],
   "nearby_castles": [
-    "alcazar-seville",
-    "almodovar-castle",
+    "lachar-castle",
     "alcazaba-de-almeria",
     "castillo-de-banos-de-la-encina",
-    "lachar-castle"
+    "almodovar-castle"
+  ],
+  "more_castles_in_country": [
+    "alcazar-seville"
   ],
   "gyg_location_id": "207",
   "gyg_search_query": "Alhambra Granada tour",

@@ -87,6 +87,10 @@
   "routes": [],
   "nearby_castles": [
     "palamidi-fortress",
+    "mystras",
+    "koroni-castle"
+  ],
+  "more_castles_in_country": [
     "methoni-castle",
     "palace-of-the-grand-master"
   ],

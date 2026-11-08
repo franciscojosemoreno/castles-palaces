@@ -71,8 +71,12 @@
   "last_updated": "2026-09-12",
   "routes": [],
   "nearby_castles": [
-    "warwick-castle",
+    "ruthin-castle",
+    "rowton-castle",
     "kenilworth-castle",
+    "warwick-castle"
+  ],
+  "more_castles_in_country": [
     "lowther-castle"
   ],
   "gyg_location_id": null,

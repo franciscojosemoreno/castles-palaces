@@ -86,9 +86,13 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
-    "tsarevets-fortress",
-    "belogradchik-fortress",
     "perperikon",
+    "tsari-mali-grad",
+    "kavala-fortress",
+    "tsarevets-fortress"
+  ],
+  "more_castles_in_country": [
+    "belogradchik-fortress",
     "krakra-fortress"
   ],
   "gyg_location_id": "158",

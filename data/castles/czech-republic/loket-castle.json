@@ -85,9 +85,13 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
+    "luzec-castle",
+    "kamenny-dvur-castle",
     "karlstejn-castle",
-    "cesky-krumlov-castle",
     "prague-castle"
+  ],
+  "more_castles_in_country": [
+    "cesky-krumlov-castle"
   ],
   "gyg_location_id": "5024",
   "gyg_search_query": "Loket Castle Karlovy Vary Czech Republic tour",

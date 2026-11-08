@@ -77,6 +77,10 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
+    "oscarsborg-fortress",
+    "lacko-castle"
+  ],
+  "more_castles_in_country": [
     "akershus-fortress"
   ],
   "gyg_location_id": "1132",

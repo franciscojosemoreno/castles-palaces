@@ -81,11 +81,13 @@
   "last_updated": "2026-07-14",
   "routes": [],
   "nearby_castles": [
+    "rupea-fortress",
     "bran-castle",
-    "peles-castle",
     "poenari-castle",
-    "corvin-castle",
-    "rupea-fortress"
+    "peles-castle"
+  ],
+  "more_castles_in_country": [
+    "corvin-castle"
   ],
   "gyg_location_id": "1785",
   "gyg_search_query": "Fagaras Fortress Transylvania Romania castle tour",

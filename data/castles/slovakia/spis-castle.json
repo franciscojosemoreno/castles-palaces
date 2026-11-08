@@ -80,7 +80,12 @@
   "last_updated": "2026-06-24",
   "routes": [],
   "nearby_castles": [
-    "orava-castle",
+    "niedzica-castle",
+    "czorsztyn-castle",
+    "polanka-castle",
+    "orava-castle"
+  ],
+  "more_castles_in_country": [
     "bojnice-castle",
     "trencin-castle"
   ],

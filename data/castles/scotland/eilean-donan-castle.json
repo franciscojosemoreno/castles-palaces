@@ -85,10 +85,15 @@
     "scottish-highlands-castles"
   ],
   "nearby_castles": [
+    "glengarry-castle",
+    "inverlochy-castle-hotel",
+    "urquhart-castle",
+    "cawdor-castle"
+  ],
+  "more_castles_in_country": [
     "edinburgh-castle",
     "stirling-castle",
-    "doune-castle",
-    "cawdor-castle"
+    "doune-castle"
   ],
   "gyg_location_id": "115852",
   "gyg_search_query": "Eilean Donan Highland tour",

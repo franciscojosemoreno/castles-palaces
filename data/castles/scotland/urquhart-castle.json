@@ -79,11 +79,13 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
-    "edinburgh-castle",
-    "stirling-castle",
-    "eilean-donan-castle",
+    "inverness-castle",
     "cawdor-castle",
-    "inverness-castle"
+    "eilean-donan-castle",
+    "stirling-castle"
+  ],
+  "more_castles_in_country": [
+    "edinburgh-castle"
   ],
   "gyg_location_id": "1935",
   "gyg_search_query": "Urquhart Castle Loch Ness tour",

@@ -85,7 +85,11 @@
   "nearby_castles": [
     "gravensteen",
     "beersel-castle",
-    "bouillon-castle"
+    "namur-citadel",
+    "chateau-de-bioul"
+  ],
+  "more_castles_in_country": [
+    "chateau-de-bouillon"
   ],
   "gyg_search_query": "Laarne Castle Ghent Belgium tour",
   "gyg_widget_type": "activities",

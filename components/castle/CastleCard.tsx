@@ -7,9 +7,11 @@ import { getCurrencySymbol, formatHotelPrice, ROOM_LOCATION_BADGE } from '@/lib/
 interface CastleCardProps {
   castle: Castle;
   variant?: 'default' | 'compact' | 'hotel';
+  /** Distance from the castle being viewed, shown on the compact card (the "Nearby Castles" block). */
+  distanceKm?: number;
 }
 
-export default function CastleCard({ castle, variant = 'default' }: CastleCardProps) {
+export default function CastleCard({ castle, variant = 'default', distanceKm }: CastleCardProps) {
   const href = `/castles/${castle.country}/${castle.id}`;
   const featuredTour = castle.gyg_featured_tours?.[0];
   const displayPrice = (featuredTour?.price_from != null)
@@ -39,7 +41,10 @@ export default function CastleCard({ castle, variant = 'default' }: CastleCardPr
           <p className="font-serif font-semibold text-[#1a1a1a] text-sm leading-tight group-hover:text-[#1761a0]">
             {castle.name}
           </p>
-          <p className="text-xs text-stone-500 capitalize mt-0.5">{castle.country.replace('-', ' ')} · {castle.type}</p>
+          <p className="text-xs text-stone-500 capitalize mt-0.5">
+            {castle.country.replace('-', ' ')} · {castle.type}
+            {distanceKm != null && <span className="normal-case"> · {Math.max(1, Math.round(distanceKm))} km</span>}
+          </p>
         </div>
       </Link>
     );

@@ -88,11 +88,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "alcazar-of-segovia",
-    "palacio-real-madrid",
-    "alcazar-de-los-reyes-cristianos",
     "aranjuez-royal-palace",
-    "liria-palace"
+    "palacio-real-madrid",
+    "liria-palace",
+    "alcazar-of-segovia"
+  ],
+  "more_castles_in_country": [
+    "alcazar-de-los-reyes-cristianos"
   ],
   "gyg_location_id": "663",
   "gyg_search_query": "Alcázar Toledo Army Museum guided tour",

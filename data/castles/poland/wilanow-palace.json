@@ -83,7 +83,12 @@
   "last_updated": "2026-07-21",
   "routes": [],
   "nearby_castles": [
+    "lazienki-palace",
     "royal-castle-warsaw",
+    "alexandrinum-castle",
+    "zdunowo-castle"
+  ],
+  "more_castles_in_country": [
     "wawel-castle",
     "malbork-castle",
     "kornik-castle",

@@ -77,7 +77,12 @@
   "last_updated": "2026-06-27",
   "routes": [],
   "nearby_castles": [
-    "bolton-castle",
+    "cliffords-tower",
+    "hazlewood-castle",
+    "cave-castle",
+    "bolton-castle"
+  ],
+  "more_castles_in_country": [
     "alnwick-castle"
   ],
   "gyg_location_id": "436",

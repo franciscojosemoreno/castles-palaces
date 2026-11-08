@@ -81,9 +81,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "miramare-castle",
-    "doges-palace",
-    "rocca-di-lonato"
+    "rocca-di-lonato",
+    "castello-di-avio",
+    "ducal-palace-of-mantua",
+    "doges-palace"
+  ],
+  "more_castles_in_country": [
+    "miramare-castle"
   ],
   "gyg_location_id": "108547",
   "gyg_search_query": "Sirmione castle Lake Garda tour",

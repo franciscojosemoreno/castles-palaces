@@ -87,9 +87,13 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
-    "corvin-castle",
-    "peles-castle",
-    "alba-iulia-citadel"
+    "alba-iulia-citadel",
+    "biertan-fortified-church",
+    "sighisoara-citadel",
+    "corvin-castle"
+  ],
+  "more_castles_in_country": [
+    "peles-castle"
   ],
   "gyg_location_id": "155818",
   "gyg_search_query": "Bánffy Castle Bonțida Cluj Transylvania Versailles guided tour hidden",

@@ -82,8 +82,12 @@
   "last_updated": "2026-09-13",
   "routes": [],
   "nearby_castles": [
-    "chateau-de-miromesnil",
+    "chateau-de-saint-paterne",
     "chateau-du-breuil",
+    "chateau-de-launay",
+    "chateau-de-miromesnil"
+  ],
+  "more_castles_in_country": [
     "mont-saint-michel"
   ],
   "gyg_location_id": "160",

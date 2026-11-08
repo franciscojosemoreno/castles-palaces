@@ -90,10 +90,13 @@
     "central-europe-palaces"
   ],
   "nearby_castles": [
-    "hohensalzburg-fortress",
+    "wilhelminenberg-palace",
     "belvedere-palace",
     "hofburg-palace",
     "schloss-hof-palace"
+  ],
+  "more_castles_in_country": [
+    "hohensalzburg-fortress"
   ],
   "gyg_location_id": "7",
   "gyg_search_query": "Schönbrunn Palace Vienna tour",

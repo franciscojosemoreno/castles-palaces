@@ -75,13 +75,15 @@
     "rhine-moselle-castles"
   ],
   "nearby_castles": [
-    "heidelberg-castle",
-    "hohenzollern-castle",
-    "neuschwanstein-castle",
     "marksburg-castle",
-    "augustusburg-palace",
+    "manderscheid-lower-castle",
     "drachenburg-castle",
-    "manderscheid-lower-castle"
+    "augustusburg-palace",
+    "heidelberg-castle"
+  ],
+  "more_castles_in_country": [
+    "hohenzollern-castle",
+    "neuschwanstein-castle"
   ],
   "gyg_location_id": "21",
   "gyg_search_query": "Burg Eltz castle tour Moselle Germany",

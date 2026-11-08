@@ -75,8 +75,12 @@
     "english-royal-castles"
   ],
   "nearby_castles": [
+    "leeds-castle",
+    "hever-castle",
     "tower-of-london",
-    "windsor-castle",
+    "windsor-castle"
+  ],
+  "more_castles_in_country": [
     "warwick-castle",
     "corfe-castle"
   ],

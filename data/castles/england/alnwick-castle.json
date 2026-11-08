@@ -85,9 +85,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "chillingham-castle",
     "bamburgh-castle",
-    "castle-howard",
-    "chillingham-castle"
+    "floors-castle",
+    "lumley-castle"
+  ],
+  "more_castles_in_country": [
+    "castle-howard"
   ],
   "gyg_location_id": "93380",
   "gyg_search_query": "Alnwick Castle Harry Potter tour Northumberland",

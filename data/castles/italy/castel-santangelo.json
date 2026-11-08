@@ -77,19 +77,20 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
+    "palazzo-doria-pamphilj",
+    "palazzo-venezia",
+    "colonna-palace",
+    "palazzo-barberini",
+    "lateran-palace",
+    "julius-ii-castle",
+    "castello-orsini-odescalchi",
+    "palazzo-farnese-caprarola"
+  ],
+  "more_castles_in_country": [
     "aragonese-castle-ischia",
     "monteriggioni",
     "royal-palace-of-caserta",
-    "castel-dell-ovo",
-    "palazzo-pitti",
-    "castello-orsini-odescalchi",
-    "palazzo-barberini",
-    "palazzo-venezia",
-    "palazzo-farnese-caprarola",
-    "lateran-palace",
-    "julius-ii-castle",
-    "palazzo-doria-pamphilj",
-    "colonna-palace"
+    "castel-dell-ovo"
   ],
   "gyg_location_id": "33",
   "gyg_search_query": "Castel Sant Angelo Rome tour tickets",

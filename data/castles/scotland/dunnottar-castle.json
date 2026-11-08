@@ -81,10 +81,13 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
+    "ardoe-house",
+    "falkland-palace",
     "edinburgh-castle",
-    "stirling-castle",
-    "eilean-donan-castle",
-    "falkland-palace"
+    "stirling-castle"
+  ],
+  "more_castles_in_country": [
+    "eilean-donan-castle"
   ],
   "gyg_location_id": "44",
   "gyg_search_query": "Dunnottar Castle tour",

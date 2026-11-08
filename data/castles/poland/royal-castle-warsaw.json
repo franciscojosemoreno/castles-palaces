@@ -78,9 +78,14 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "lazienki-palace",
+    "wilanow-palace",
+    "alexandrinum-castle",
+    "zdunowo-castle"
+  ],
+  "more_castles_in_country": [
     "malbork-castle",
-    "wawel-castle",
-    "wilanow-palace"
+    "wawel-castle"
   ],
   "gyg_location_id": "41",
   "gyg_search_query": "Royal Castle Warsaw tour",

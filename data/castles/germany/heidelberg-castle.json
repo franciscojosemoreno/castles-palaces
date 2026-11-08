@@ -89,10 +89,13 @@
     "rhine-valley-castles"
   ],
   "nearby_castles": [
-    "neuschwanstein-castle",
-    "hohenzollern-castle",
+    "hornberg-castle",
     "altes-schloss-stuttgart",
     "wurzburg-residence",
+    "hohenzollern-castle"
+  ],
+  "more_castles_in_country": [
+    "neuschwanstein-castle",
     "leuchtenburg-castle"
   ],
   "gyg_location_id": "24",

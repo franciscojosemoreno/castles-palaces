@@ -81,8 +81,13 @@
   "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": [
-    "mont-saint-michel",
-    "castle-of-lichtenberg"
+    "hohlandsbourg-castle",
+    "chateau-de-pourtales",
+    "castle-of-lichtenberg",
+    "neuweier-castle"
+  ],
+  "more_castles_in_country": [
+    "mont-saint-michel"
   ],
   "gyg_location_id": "214070",
   "gyg_search_query": "Haut-Koenigsbourg castle Alsace tour",

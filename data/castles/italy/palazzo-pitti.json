@@ -88,6 +88,12 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "palazzo-vecchio",
+    "castel-di-poggio",
+    "montalbano-castle",
+    "castello-di-gabbiano"
+  ],
+  "more_castles_in_country": [
     "castel-santangelo",
     "doges-palace",
     "castello-sforzesco"

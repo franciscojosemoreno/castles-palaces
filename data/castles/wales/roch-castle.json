@@ -67,8 +67,12 @@
   "last_updated": "2026-09-13",
   "routes": [],
   "nearby_castles": [
+    "craig-y-nos-castle",
+    "killiane-castle",
     "caerphilly-castle",
-    "cardiff-castle",
+    "cardiff-castle"
+  ],
+  "more_castles_in_country": [
     "raglan-castle"
   ],
   "gyg_location_id": null,

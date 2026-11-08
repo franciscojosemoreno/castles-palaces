@@ -82,9 +82,12 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
-    "palace-of-versailles",
+    "chateau-hotel-de-bourron",
     "chateau-de-vaux-le-vicomte",
-    "chateau-de-chantilly",
+    "palace-of-versailles",
+    "chateau-de-chantilly"
+  ],
+  "more_castles_in_country": [
     "chateau-de-rambouillet"
   ],
   "gyg_location_id": "16",

@@ -86,10 +86,15 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "karpniki-castle",
+    "wojanow-castle",
+    "staniszow-castle",
+    "czocha-castle"
+  ],
+  "more_castles_in_country": [
     "malbork-castle",
     "wawel-castle",
-    "ogrodzieniec-castle",
-    "czocha-castle"
+    "ogrodzieniec-castle"
   ],
   "gyg_location_id": "2036",
   "gyg_search_query": "Książ Castle Wrocław Poland tour",

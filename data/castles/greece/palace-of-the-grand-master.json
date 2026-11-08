@@ -78,8 +78,11 @@
   "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": [
-    "palamidi-fortress",
     "lindos-castle",
+    "bodrum-castle"
+  ],
+  "more_castles_in_country": [
+    "palamidi-fortress",
     "white-tower-thessaloniki"
   ],
   "gyg_location_id": "121405",

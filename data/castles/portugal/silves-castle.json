@@ -81,8 +81,13 @@
   "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
-    "obidos-castle",
-    "loule-castle"
+    "loule-castle",
+    "sagres-fortress",
+    "castro-marim-castle",
+    "alvito-castle"
+  ],
+  "more_castles_in_country": [
+    "obidos-castle"
   ],
   "gyg_location_id": "91370",
   "gyg_search_query": "Silves castle Algarve tour",

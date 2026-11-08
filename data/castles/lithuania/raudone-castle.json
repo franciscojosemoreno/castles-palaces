@@ -87,10 +87,12 @@
   "last_updated": "2026-07-18",
   "routes": [],
   "nearby_castles": [
-    "kaunas-castle",
-    "raudondvaris-manor",
     "panemune-castle",
-    "trakai-island-castle",
+    "raudondvaris-manor",
+    "kaunas-castle",
+    "trakai-island-castle"
+  ],
+  "more_castles_in_country": [
     "gediminas-tower"
   ],
   "gyg_location_id": "280038",

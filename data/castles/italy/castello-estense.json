@@ -89,11 +89,14 @@
   "last_updated": "2026-06-23",
   "routes": [],
   "nearby_castles": [
-    "castel-santangelo",
-    "palazzo-dei-normanni",
+    "palazzo-schifanoia",
+    "castello-di-valbona",
     "rocchetta-mattei",
-    "castello-di-torrechiara",
-    "palazzo-schifanoia"
+    "castello-di-torrechiara"
+  ],
+  "more_castles_in_country": [
+    "castel-santangelo",
+    "palazzo-dei-normanni"
   ],
   "gyg_location_id": "1139",
   "gyg_search_query": "Castello Estense Ferrara tour",

@@ -79,8 +79,11 @@
   "routes": [],
   "nearby_castles": [
     "leeds-castle",
-    "tower-of-london",
+    "bodiam-castle",
     "hever-castle",
+    "tower-of-london"
+  ],
+  "more_castles_in_country": [
     "pendennis-castle"
   ],
   "gyg_location_id": "34741",

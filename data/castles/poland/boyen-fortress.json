@@ -87,7 +87,12 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "olsztyn-castle-warmia",
+    "gizycko-castle",
+    "ryn-castle",
+    "reszel-castle",
+    "olsztyn-castle-warmia"
+  ],
+  "more_castles_in_country": [
     "malbork-castle"
   ],
   "gyg_location_id": "151569",

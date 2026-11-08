@@ -75,14 +75,16 @@
     "castile-royal-route"
   ],
   "nearby_castles": [
-    "alhambra-granada",
-    "alcazar-seville",
-    "palacio-real-madrid",
-    "el-escorial",
-    "alcazar-de-los-reyes-cristianos",
     "royal-palace-of-la-granja",
+    "el-escorial",
+    "palacio-real-madrid",
     "penafiel-castle",
     "monterrey-palace"
+  ],
+  "more_castles_in_country": [
+    "alhambra-granada",
+    "alcazar-seville",
+    "alcazar-de-los-reyes-cristianos"
   ],
   "gyg_location_id": "46",
   "gyg_search_query": "Alcazar Segovia castle tour",

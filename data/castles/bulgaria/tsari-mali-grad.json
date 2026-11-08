@@ -87,7 +87,9 @@
   "routes": [],
   "nearby_castles": [
     "krakra-fortress",
-    "asens-fortress",
+    "asens-fortress"
+  ],
+  "more_castles_in_country": [
     "tsarevets-fortress"
   ],
   "gyg_location_id": "2532",

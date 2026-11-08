@@ -78,10 +78,14 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
+    "basthorst-castle",
+    "neustadt-glewe-palace",
+    "wesenberg-castle",
+    "rheinsberg-palace"
+  ],
+  "more_castles_in_country": [
     "wartburg-castle",
-    "moritzburg-castle",
-    "rheinsberg-palace",
-    "wesenberg-castle"
+    "moritzburg-castle"
   ],
   "gyg_location_id": "1558",
   "gyg_search_query": "Schwerin Castle tour",

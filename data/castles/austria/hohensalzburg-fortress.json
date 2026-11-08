@@ -85,15 +85,17 @@
     "central-europe-palaces"
   ],
   "nearby_castles": [
-    "schonbrunn-palace",
-    "belvedere-palace",
-    "hofburg-palace",
-    "schloss-ambras",
-    "hohenwerfen-castle",
-    "mauterndorf-castle",
     "mirabell-palace",
     "hellbrunn-palace",
-    "fort-kniepass"
+    "fort-kniepass",
+    "hohenwerfen-castle",
+    "mauterndorf-castle",
+    "schloss-ambras"
+  ],
+  "more_castles_in_country": [
+    "schonbrunn-palace",
+    "belvedere-palace",
+    "hofburg-palace"
   ],
   "gyg_location_id": "4",
   "gyg_search_query": "Hohensalzburg Fortress Salzburg tour",

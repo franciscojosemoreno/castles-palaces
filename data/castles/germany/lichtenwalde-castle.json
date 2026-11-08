@@ -79,8 +79,13 @@
   "last_updated": "2026-07-09",
   "routes": [],
   "nearby_castles": [
-    "augustusburg-palace",
-    "scharfenstein-castle"
+    "rabenstein-palace",
+    "scharfenstein-castle",
+    "purschenstein-castle",
+    "podelwitz-castle"
+  ],
+  "more_castles_in_country": [
+    "augustusburg-palace"
   ],
   "gyg_location_id": "186053",
   "gyg_search_query": "Lichtenwalde Castle Saxony guided tour",

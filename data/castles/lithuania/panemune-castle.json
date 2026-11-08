@@ -87,9 +87,12 @@
   "last_updated": "2026-07-18",
   "routes": [],
   "nearby_castles": [
-    "kaunas-castle",
-    "raudondvaris-manor",
     "raudone-castle",
+    "raudondvaris-manor",
+    "kaunas-castle",
+    "gizycko-castle"
+  ],
+  "more_castles_in_country": [
     "trakai-island-castle",
     "gediminas-tower"
   ],

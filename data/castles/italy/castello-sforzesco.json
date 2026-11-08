@@ -82,11 +82,14 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
-    "scaligero-castle-sirmione",
-    "miramare-castle",
-    "palazzo-pitti",
+    "villa-arconati",
     "castello-di-vezio",
-    "castello-di-masino"
+    "castello-di-masino",
+    "scaligero-castle-sirmione"
+  ],
+  "more_castles_in_country": [
+    "miramare-castle",
+    "palazzo-pitti"
   ],
   "gyg_location_id": "139",
   "gyg_search_query": "Sforza Castle Milan tour",

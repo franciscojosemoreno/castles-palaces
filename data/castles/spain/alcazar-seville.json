@@ -86,11 +86,13 @@
     "andalucia-palaces"
   ],
   "nearby_castles": [
-    "alhambra-granada",
-    "almodovar-castle",
-    "alcazar-de-los-reyes-cristianos",
+    "las-duenas-palace",
     "palacio-domecq",
-    "las-duenas-palace"
+    "almodovar-castle",
+    "alcazar-de-los-reyes-cristianos"
+  ],
+  "more_castles_in_country": [
+    "alhambra-granada"
   ],
   "gyg_location_id": "48",
   "gyg_search_query": "Alcazar Seville tour",

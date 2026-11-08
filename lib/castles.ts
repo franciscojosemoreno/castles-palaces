@@ -66,13 +66,9 @@ export function getCastlesByIds(ids: string[]): Castle[] {
     .filter((c): c is Castle => c !== undefined);
 }
 
-// Real-world km, used only to cap how far "nearby" can stretch — not to
-// re-rank. 1° of longitude is ~111km at the equator but ~70km at
-// Portugal's latitude, so the degree-based ordering below isn't a true
-// distance, but it's the ordering already live on every one of these
-// pages today; changing the cutoff shouldn't also reshuffle everyone
-// else's results as a side effect.
-function haversineDistanceKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+// Great-circle distance in km. "Nearby" is ranked and capped by this real distance (1° of longitude
+// is ~111 km at the equator but ~70 km at Portugal's latitude, so degree distance is not usable).
+export function haversineDistanceKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
   const R = 6371;
   const dLat = (lat2 - lat1) * Math.PI / 180;
   const dLng = (lng2 - lng1) * Math.PI / 180;
@@ -82,29 +78,47 @@ function haversineDistanceKm(lat1: number, lng1: number, lat2: number, lng2: num
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-const MAX_NEARBY_DISTANCE_KM = 250;
+/** Nothing farther than this is shown as "Nearby" (scripts/check-nearby.mjs enforces it on the data). */
+export const MAX_NEARBY_DISTANCE_KM = 150;
+/** A castle with nothing within MAX_NEARBY_DISTANCE_KM shows this many nearest castles anyway... */
+const NEARBY_FALLBACK_COUNT = 2;
+/** ...unless even the nearest one is farther than this: then there is no Nearby block at all (see getMoreCastlesInCountry). */
+export const NEARBY_HIDE_BEYOND_KM = 500;
 
-export function getNearbyCastles(castle: Castle, limit = 4): Castle[] {
+export interface NearbyCastle {
+  castle: Castle;
+  distanceKm: number;
+}
+
+/**
+ * The "Nearby Castles" block: at most `limit` castles within MAX_NEARBY_DISTANCE_KM, closest first,
+ * with their distance. A manual `nearby_castles` list is used when there is one, otherwise the
+ * closest castles by coordinates. A castle with nothing within MAX_NEARBY_DISTANCE_KM (an island or
+ * a remote site) shows its 2 nearest with their distance; if even the nearest is farther than
+ * NEARBY_HIDE_BEYOND_KM (Angra do Heroísmo, in the Azores) the block is empty and the page lists the
+ * nearest castles of its own country under "More castles in <country>" instead.
+ */
+export function getNearbyCastles(castle: Castle, limit = 4): NearbyCastle[] {
+  const withDistance = (c: Castle): NearbyCastle => ({
+    castle: c,
+    distanceKm: haversineDistanceKm(castle.lat, castle.lng, c.lat, c.lng),
+  });
+  const byDistance = (a: NearbyCastle, b: NearbyCastle) => a.distanceKm - b.distanceKm;
+
   if (castle.nearby_castles && castle.nearby_castles.length > 0) {
-    return getCastlesByIds(castle.nearby_castles).slice(0, limit);
+    return getCastlesByIds(castle.nearby_castles).map(withDistance).sort(byDistance).slice(0, limit);
   }
 
-  // Auto-calculate by proximity if not set — same degree-distance ranking
-  // as before (so every castle's selection is unchanged unless this cutoff
-  // actually removes something), with a real-km cutoff applied afterward
-  // and never backfilled. A genuinely isolated site (e.g. one on an island
-  // with nothing else nearby in the dataset) correctly shows fewer than
-  // `limit`, or none at all, rather than a distant false match.
-  const all = getPublishedCastles().filter((c) => c.id !== castle.id);
-  return all
-    .map((c) => ({
-      castle: c,
-      degreeDistance: Math.sqrt((c.lat - castle.lat) ** 2 + (c.lng - castle.lng) ** 2),
-    }))
-    .sort((a, b) => a.degreeDistance - b.degreeDistance)
-    .slice(0, limit)
-    .filter((item) => haversineDistanceKm(castle.lat, castle.lng, item.castle.lat, item.castle.lng) <= MAX_NEARBY_DISTANCE_KM)
-    .map((item) => item.castle);
+  const ranked = getPublishedCastles().filter((c) => c.id !== castle.id).map(withDistance).sort(byDistance);
+  const near = ranked.filter((item) => item.distanceKm <= MAX_NEARBY_DISTANCE_KM).slice(0, limit);
+  if (near.length > 0) return near;
+  if (!ranked.length || ranked[0].distanceKm > NEARBY_HIDE_BEYOND_KM) return [];
+  return ranked.slice(0, NEARBY_FALLBACK_COUNT);
+}
+
+/** The "More castles in <country>" block: same-country castles listed by hand that are too far to be "nearby" (max 4). */
+export function getMoreCastlesInCountry(castle: Castle, limit = 4): Castle[] {
+  return getCastlesByIds(castle.more_castles_in_country ?? []).slice(0, limit);
 }
 
 export function getCountryStats(country: string): CountryStats {

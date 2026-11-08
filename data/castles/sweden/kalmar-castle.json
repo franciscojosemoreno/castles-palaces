@@ -84,9 +84,11 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "gripsholm-castle",
-    "drottningholm-palace",
     "solliden-royal-palace"
+  ],
+  "more_castles_in_country": [
+    "gripsholm-castle",
+    "drottningholm-palace"
   ],
   "gyg_search_query": "Kalmar Castle Sweden tour",
   "gyg_widget_type": "activities",

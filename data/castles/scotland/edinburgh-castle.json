@@ -91,13 +91,15 @@
     "scottish-highlands-castles"
   ],
   "nearby_castles": [
-    "stirling-castle",
-    "eilean-donan-castle",
-    "doune-castle",
     "palace-of-holyroodhouse",
+    "linlithgow-palace",
     "abbotsford",
-    "floors-castle",
-    "linlithgow-palace"
+    "stirling-castle",
+    "doune-castle",
+    "floors-castle"
+  ],
+  "more_castles_in_country": [
+    "eilean-donan-castle"
   ],
   "gyg_location_id": "44",
   "gyg_search_query": "Edinburgh Castle guided tour",

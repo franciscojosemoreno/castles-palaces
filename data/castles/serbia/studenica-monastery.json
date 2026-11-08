@@ -86,8 +86,12 @@
   "last_updated": "2026-08-28",
   "routes": [],
   "nearby_castles": [
-    "manasija-monastery",
     "maglic-fortress",
+    "manasija-monastery",
+    "smederevo-fortress",
+    "prizren-fortress"
+  ],
+  "more_castles_in_country": [
     "golubac-fortress"
   ],
   "gyg_location_id": "110182",

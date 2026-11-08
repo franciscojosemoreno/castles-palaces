@@ -78,8 +78,13 @@
   "last_updated": "2026-06-27",
   "routes": [],
   "nearby_castles": [
-    "castello-di-masino",
-    "buonconsiglio-castle"
+    "scaligero-castle-sirmione",
+    "buonconsiglio-castle",
+    "thiene-castle",
+    "rocca-di-lonato"
+  ],
+  "more_castles_in_country": [
+    "castello-di-masino"
   ],
   "gyg_location_id": "2506",
   "gyg_search_query": "Avio Castle Trentino tour",

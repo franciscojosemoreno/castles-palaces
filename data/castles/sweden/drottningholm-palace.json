@@ -87,8 +87,12 @@
   "last_updated": "2026-09-03",
   "routes": [],
   "nearby_castles": [
+    "hallwyl-palace",
+    "stockholm-royal-palace",
     "vaxholm-fortress",
-    "skokloster-castle",
+    "skokloster-castle"
+  ],
+  "more_castles_in_country": [
     "lacko-castle"
   ],
   "gyg_location_id": "50",

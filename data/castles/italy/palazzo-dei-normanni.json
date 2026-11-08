@@ -81,6 +81,11 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
+    "carini-castle",
+    "caccamo-castle",
+    "poggiodiana-castle"
+  ],
+  "more_castles_in_country": [
     "royal-palace-of-caserta"
   ],
   "gyg_location_id": "387",

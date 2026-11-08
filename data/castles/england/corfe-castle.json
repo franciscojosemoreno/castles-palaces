@@ -86,11 +86,14 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "athelhampton-house",
+    "carisbrooke-castle",
+    "osborne",
+    "arundel-castle"
+  ],
+  "more_castles_in_country": [
     "pendennis-castle",
-    "bodiam-castle",
-    "arundel-castle",
-    "mont-orgueil-castle",
-    "elizabeth-castle"
+    "bodiam-castle"
   ],
   "gyg_location_id": "213655",
   "gyg_search_query": "Corfe Castle Dorset Jurassic Coast tour Purbeck",

@@ -85,10 +85,13 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
+    "brynkir-tower",
     "caernarfon-castle",
-    "conwy-castle",
-    "caerphilly-castle",
-    "beaumaris-castle"
+    "beaumaris-castle",
+    "conwy-castle"
+  ],
+  "more_castles_in_country": [
+    "caerphilly-castle"
   ],
   "gyg_location_id": "32381",
   "gyg_search_query": "Harlech Castle North Wales tour",

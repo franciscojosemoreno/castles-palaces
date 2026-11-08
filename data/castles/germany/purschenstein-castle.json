@@ -68,8 +68,13 @@
   "last_updated": "2026-09-18",
   "routes": [],
   "nearby_castles": [
-    "augustusburg-palace",
-    "lichtenwalde-castle"
+    "lichtenwalde-castle",
+    "scharfenstein-castle",
+    "dresden-castle",
+    "pillnitz-castle"
+  ],
+  "more_castles_in_country": [
+    "augustusburg-palace"
   ],
   "gyg_location_id": null,
   "gyg_search_query": null,

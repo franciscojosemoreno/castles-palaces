@@ -87,7 +87,10 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
-    "fortezza-of-rethymno",
+    "phaistos-palace",
+    "fortezza-of-rethymno"
+  ],
+  "more_castles_in_country": [
     "palace-of-the-grand-master",
     "corfu-old-fortress"
   ],

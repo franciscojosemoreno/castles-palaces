@@ -86,7 +86,12 @@
   "last_updated": "2026-08-01",
   "routes": [],
   "nearby_castles": [
+    "llaes-castle",
+    "montjuic-castle",
     "cardona-castle",
+    "castell-de-les-sitges"
+  ],
+  "more_castles_in_country": [
     "siurana-castle"
   ],
   "gyg_location_id": "45",

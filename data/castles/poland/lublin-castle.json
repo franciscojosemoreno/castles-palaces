@@ -85,6 +85,12 @@
   "last_updated": "2026-07-17",
   "routes": [],
   "nearby_castles": [
+    "baranow-sandomierski-castle",
+    "sieniawa-castle",
+    "alexandrinum-castle",
+    "wilanow-palace"
+  ],
+  "more_castles_in_country": [
     "wawel-castle",
     "malbork-castle"
   ],

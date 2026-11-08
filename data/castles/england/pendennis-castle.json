@@ -86,11 +86,14 @@
   "last_updated": "2026-08-01",
   "routes": [],
   "nearby_castles": [
-    "corfe-castle",
+    "tregenna-castle",
     "tintagel-castle",
-    "dover-castle",
-    "mont-orgueil-castle",
-    "elizabeth-castle"
+    "bovey-castle",
+    "bickleigh-castle"
+  ],
+  "more_castles_in_country": [
+    "corfe-castle",
+    "dover-castle"
   ],
   "gyg_location_id": "1685",
   "gyg_search_query": "Pendennis Castle Falmouth Cornwall entry ticket English Heritage",

@@ -83,12 +83,15 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
+    "sao-francisco-fortress-chaves",
+    "mateus-palace",
     "guimaraes-castle",
+    "palace-of-the-dukes-of-braganza"
+  ],
+  "more_castles_in_country": [
     "obidos-castle",
     "convent-of-christ-tomar",
-    "palace-of-the-dukes-of-braganza",
-    "ducal-palace-of-vila-vicosa",
-    "mateus-palace"
+    "ducal-palace-of-vila-vicosa"
   ],
   "gyg_location_id": "200393",
   "gyg_search_query": "Bragança castle Portugal tour",

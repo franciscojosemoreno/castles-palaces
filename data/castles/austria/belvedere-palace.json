@@ -90,11 +90,14 @@
     "central-europe-palaces"
   ],
   "nearby_castles": [
-    "schonbrunn-palace",
-    "hohensalzburg-fortress",
-    "hochosterwitz-castle",
+    "hotel-imperial-vienna",
     "hofburg-palace",
+    "schonbrunn-palace",
     "schloss-hof-palace"
+  ],
+  "more_castles_in_country": [
+    "hohensalzburg-fortress",
+    "hochosterwitz-castle"
   ],
   "gyg_location_id": "7",
   "gyg_search_query": "Belvedere Palace Vienna tour",

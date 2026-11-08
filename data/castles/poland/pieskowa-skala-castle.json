@@ -81,14 +81,16 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
-    "ogrodzieniec-castle",
-    "malbork-castle",
     "ojcow-castle",
-    "olsztyn-castle",
+    "korzkiew-castle",
+    "rabsztyn-castle",
+    "ogrodzieniec-castle",
     "bobolice-castle",
     "mirow-castle",
-    "korzkiew-castle",
-    "rabsztyn-castle"
+    "olsztyn-castle"
+  ],
+  "more_castles_in_country": [
+    "malbork-castle"
   ],
   "gyg_location_id": "40",
   "gyg_search_query": "Pieskowa Skała castle Kraków Eagles Nests tour",

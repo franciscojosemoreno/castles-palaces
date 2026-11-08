@@ -80,10 +80,12 @@
   ],
   "nearby_castles": [
     "stirling-castle",
-    "edinburgh-castle",
-    "eilean-donan-castle",
     "black-watch-castle",
+    "edinburgh-castle",
     "kilchurn-castle"
+  ],
+  "more_castles_in_country": [
+    "eilean-donan-castle"
   ],
   "gyg_location_id": "44",
   "gyg_search_query": "Doune Castle Stirling Scotland tour",

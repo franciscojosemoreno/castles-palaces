@@ -77,6 +77,10 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
+    "asens-fortress",
+    "ovech-fortress"
+  ],
+  "more_castles_in_country": [
     "belogradchik-fortress"
   ],
   "gyg_location_id": "117365",

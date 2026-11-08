@@ -83,7 +83,12 @@
   "last_updated": "2026-09-13",
   "routes": [],
   "nearby_castles": [
+    "march-palace",
     "bellver-castle",
+    "son-vida-castle",
+    "cap-rocat"
+  ],
+  "more_castles_in_country": [
     "alcazar-of-segovia",
     "alhambra-granada"
   ],

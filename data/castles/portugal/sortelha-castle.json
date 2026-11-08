@@ -81,11 +81,14 @@
   "last_updated": "2026-07-16",
   "routes": [],
   "nearby_castles": [
-    "marvao-castle",
-    "monsaraz-castle",
-    "obidos-castle",
     "belmonte-castle-portugal",
-    "monsanto-castle"
+    "monsanto-castle",
+    "ciudad-rodrigo-castle",
+    "marvao-castle"
+  ],
+  "more_castles_in_country": [
+    "monsaraz-castle",
+    "obidos-castle"
   ],
   "gyg_location_id": "198884",
   "gyg_search_query": "Sortelha Castle Portugal historic village Beira Interior",

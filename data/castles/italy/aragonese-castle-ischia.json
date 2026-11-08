@@ -83,9 +83,13 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
-    "castel-santangelo",
-    "royal-palace-of-caserta",
-    "castel-santelmo"
+    "castel-santelmo",
+    "castel-dell-ovo",
+    "naples-royal-palace",
+    "royal-palace-of-caserta"
+  ],
+  "more_castles_in_country": [
+    "castel-santangelo"
   ],
   "gyg_location_id": "114892",
   "gyg_search_query": "Aragonese Castle Ischia tour",

@@ -72,6 +72,10 @@
   "nearby_castles": [
     "dunvegan-castle",
     "eilean-donan-castle",
+    "tulloch-castle",
+    "dornoch-castle"
+  ],
+  "more_castles_in_country": [
     "inverness-castle"
   ],
   "gyg_location_id": null,

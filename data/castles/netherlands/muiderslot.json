@@ -74,9 +74,12 @@
     "dutch-castle-route"
   ],
   "nearby_castles": [
-    "gravensteen",
-    "kronborg-castle",
     "royal-palace-amsterdam",
+    "lofen-palace",
+    "de-haar-castle",
+    "het-loo-palace"
+  ],
+  "more_castles_in_country": [
     "hoensbroek-castle"
   ],
   "gyg_location_id": "124798",

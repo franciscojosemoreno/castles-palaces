@@ -84,8 +84,12 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
-    "muiderslot",
+    "lofen-palace",
     "royal-palace-amsterdam",
+    "muiderslot",
+    "loevestein-castle"
+  ],
+  "more_castles_in_country": [
     "hoensbroek-castle"
   ],
   "gyg_location_id": "32279",

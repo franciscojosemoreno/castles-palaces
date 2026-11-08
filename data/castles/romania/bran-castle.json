@@ -89,10 +89,12 @@
   ],
   "nearby_castles": [
     "peles-castle",
-    "corvin-castle",
-    "mogosoaia-palace",
     "fagaras-fortress",
-    "rupea-fortress"
+    "rupea-fortress",
+    "mogosoaia-palace"
+  ],
+  "more_castles_in_country": [
+    "corvin-castle"
   ],
   "gyg_location_id": "188057",
   "gyg_search_query": "Bran Castle Dracula Transylvania",

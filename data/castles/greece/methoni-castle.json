@@ -85,10 +85,14 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
+    "koroni-castle",
+    "mystras",
     "palamidi-fortress",
+    "chlemoutsi-castle"
+  ],
+  "more_castles_in_country": [
     "palace-of-the-grand-master",
-    "lindos-castle",
-    "koroni-castle"
+    "lindos-castle"
   ],
   "gyg_location_id": "89381",
   "gyg_search_query": "Methoni Castle Peloponnese Greece tour",

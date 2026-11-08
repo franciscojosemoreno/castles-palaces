@@ -102,7 +102,11 @@ export interface Castle {
   last_updated: string;
 
   routes: string[];
+  // Manual "Nearby Castles" list: only castles within 150 km (scripts/check-nearby.mjs). The page shows
+  // them closest first, with the distance.
   nearby_castles?: string[];
+  // "More castles in <country>": same-country castles that are too far to be nearby (max 4).
+  more_castles_in_country?: string[];
 
   gyg_location_id?: string;
   gyg_search_query?: string;

@@ -81,9 +81,12 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
+    "palace-of-the-grand-dukes",
     "trakai-island-castle",
     "kaunas-castle",
-    "raudondvaris-manor",
+    "raudondvaris-manor"
+  ],
+  "more_castles_in_country": [
     "raudone-castle",
     "panemune-castle"
   ],

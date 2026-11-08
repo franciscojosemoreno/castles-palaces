@@ -78,8 +78,13 @@
   "last_updated": "2026-10-07",
   "routes": [],
   "nearby_castles": [
-    "cardona-castle",
-    "castillo-de-javier"
+    "castillo-de-javier",
+    "gorraiz-castle",
+    "grisel-castle",
+    "anon-de-moncayo-castle"
+  ],
+  "more_castles_in_country": [
+    "cardona-castle"
   ],
   "gyg_location_id": "143982",
   "gyg_search_query": "Olite Royal Palace Navarre tour",

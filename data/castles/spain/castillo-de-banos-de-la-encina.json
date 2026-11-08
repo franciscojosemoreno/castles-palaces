@@ -80,9 +80,13 @@
     "andalucia-palaces"
   ],
   "nearby_castles": [
+    "palacio-vela-de-los-cobos",
+    "santa-catalina-castle",
     "alhambra-granada",
-    "alcazaba-de-almeria",
     "almodovar-castle"
+  ],
+  "more_castles_in_country": [
+    "alcazaba-de-almeria"
   ],
   "gyg_location_id": "178816",
   "gyg_search_query": "Banos de la Encina castle Jaen tour",

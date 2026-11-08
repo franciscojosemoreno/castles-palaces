@@ -87,6 +87,12 @@
   "last_updated": "2026-08-18",
   "routes": [],
   "nearby_castles": [
+    "borynia-castle",
+    "petrovice-castle",
+    "silesian-ostrava-castle",
+    "rabsztyn-castle"
+  ],
+  "more_castles_in_country": [
     "ksiaz-castle"
   ],
   "gyg_location_id": "95037",

@@ -85,9 +85,13 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
-    "kronborg-castle",
+    "koldinghus-palace",
     "frederiksborg-palace",
+    "christiansborg-palace",
     "rosenborg-castle"
+  ],
+  "more_castles_in_country": [
+    "kronborg-castle"
   ],
   "gyg_search_query": "Egeskov Castle Funen Denmark tour",
   "gyg_widget_type": "activities",

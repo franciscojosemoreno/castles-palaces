@@ -83,8 +83,11 @@
   "last_updated": "2026-09-13",
   "routes": [],
   "nearby_castles": [
-    "castel-del-monte",
-    "norman-swabian-castle-bari"
+    "norman-swabian-castle-bari",
+    "rocca-imperiale-castle"
+  ],
+  "more_castles_in_country": [
+    "castel-del-monte"
   ],
   "gyg_location_id": "729",
   "gyg_search_query": "Alfonsino Castle Brindisi transfer guided tour",

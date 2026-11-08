@@ -81,11 +81,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "san-giusto-castle",
-    "castello-di-velona",
+    "castel-pietraio",
     "castle-of-poppiano",
-    "aigues-mortes",
-    "castel-di-poggio"
+    "castel-di-poggio",
+    "castello-di-velona"
+  ],
+  "more_castles_in_country": [
+    "san-giusto-castle"
   ],
   "gyg_location_id": "32",
   "gyg_search_query": "Monteriggioni walled village tour from Siena",

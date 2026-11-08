@@ -80,12 +80,15 @@
   "last_updated": "2026-06-09",
   "routes": [],
   "nearby_castles": [
+    "calahorra-tower",
+    "altamira-palace",
+    "guadalest-castle",
+    "xativa-castle"
+  ],
+  "more_castles_in_country": [
     "alhambra-granada",
     "alcazar-seville",
-    "peniscola-castle",
-    "guadalest-castle",
-    "altamira-palace",
-    "calahorra-tower"
+    "peniscola-castle"
   ],
   "gyg_location_id": "414",
   "gyg_search_query": "Santa Barbara Castle Alicante tour",

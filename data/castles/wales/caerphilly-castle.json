@@ -81,10 +81,14 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "conwy-castle",
-    "caernarfon-castle",
     "castell-coch",
-    "cardiff-castle"
+    "cardiff-castle",
+    "raglan-castle",
+    "st-pierre-country-club"
+  ],
+  "more_castles_in_country": [
+    "conwy-castle",
+    "caernarfon-castle"
   ],
   "gyg_location_id": "445",
   "gyg_search_query": "Caerphilly Castle tour Cardiff",

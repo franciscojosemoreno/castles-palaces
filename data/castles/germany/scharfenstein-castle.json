@@ -79,8 +79,13 @@
   "last_updated": "2026-07-09",
   "routes": [],
   "nearby_castles": [
-    "augustusburg-palace",
-    "lichtenwalde-castle"
+    "rabenstein-palace",
+    "lichtenwalde-castle",
+    "purschenstein-castle",
+    "luzec-castle"
+  ],
+  "more_castles_in_country": [
+    "augustusburg-palace"
   ],
   "gyg_location_id": "203698",
   "gyg_search_query": "Scharfenstein Castle Saxony Ore Mountains tour",

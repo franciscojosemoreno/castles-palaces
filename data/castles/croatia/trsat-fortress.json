@@ -85,9 +85,13 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
-    "trakoscan-castle",
-    "medvedgrad-fortress",
-    "frankopan-castle"
+    "frankopan-castle",
+    "predjama-castle",
+    "san-giusto-castle",
+    "medvedgrad-fortress"
+  ],
+  "more_castles_in_country": [
+    "trakoscan-castle"
   ],
   "gyg_location_id": "2041",
   "gyg_search_query": "Trsat Fortress Rijeka Croatia guided walking tour Kvarner",

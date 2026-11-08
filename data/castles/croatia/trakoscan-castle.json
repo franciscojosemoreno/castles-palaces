@@ -84,9 +84,14 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
-    "klis-fortress",
-    "lovrijenac",
+    "borl-castle",
+    "ptuj-castle",
+    "ormoz-castle",
     "dubovac-castle"
+  ],
+  "more_castles_in_country": [
+    "klis-fortress",
+    "lovrijenac"
   ],
   "gyg_location_id": "803",
   "gyg_search_query": "Trakošćan Castle Zagreb Croatia tour",

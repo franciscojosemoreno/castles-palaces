@@ -78,10 +78,13 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
-    "neuschwanstein-castle",
-    "heidelberg-castle",
+    "lichtenstein-castle",
+    "sigmaringen-castle",
     "altes-schloss-stuttgart",
-    "sigmaringen-castle"
+    "heidelberg-castle"
+  ],
+  "more_castles_in_country": [
+    "neuschwanstein-castle"
   ],
   "gyg_location_id": "21",
   "gyg_search_query": "Hohenzollern Castle tour Stuttgart",

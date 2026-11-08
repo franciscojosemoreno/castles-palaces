@@ -89,16 +89,18 @@
     "loire-valley-castles"
   ],
   "nearby_castles": [
-    "chateau-de-chambord",
+    "clos-luce-castle",
     "chateau-damboise",
+    "chateau-de-chaumont-sur-loire",
     "chateau-de-cheverny",
-    "palace-of-versailles",
     "chateau-de-blois",
+    "chateau-de-valencay",
     "chateau-de-villandry",
     "chateau-de-azay-le-rideau",
-    "clos-luce-castle",
-    "chateau-de-valencay",
-    "chateau-de-chaumont-sur-loire"
+    "chateau-de-chambord"
+  ],
+  "more_castles_in_country": [
+    "palace-of-versailles"
   ],
   "gyg_location_id": "7956",
   "gyg_search_query": "Chenonceau Loire Valley tour",

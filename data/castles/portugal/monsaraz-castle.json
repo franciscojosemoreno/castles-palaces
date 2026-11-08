@@ -81,10 +81,15 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "ducal-palace-of-vila-vicosa",
+    "estremoz-castle",
+    "alvito-castle",
+    "zafra-castle"
+  ],
+  "more_castles_in_country": [
     "silves-castle",
     "obidos-castle",
-    "sortelha-castle",
-    "ducal-palace-of-vila-vicosa"
+    "sortelha-castle"
   ],
   "gyg_location_id": "42",
   "gyg_search_query": "Monsaraz castle Alentejo tour Évora",

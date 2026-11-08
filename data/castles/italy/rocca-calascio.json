@@ -83,8 +83,13 @@
   "last_updated": "2026-06-26",
   "routes": [],
   "nearby_castles": [
-    "castel-del-monte",
+    "boncompagni-castle",
+    "castello-di-semivicoli",
+    "boniface-viii-palace",
     "civitella-del-tronto-fortress"
+  ],
+  "more_castles_in_country": [
+    "castel-del-monte"
   ],
   "gyg_location_id": "208497",
   "gyg_search_query": "Rocca Calascio Abruzzo trekking tour",

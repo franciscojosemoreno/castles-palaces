@@ -86,10 +86,13 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
-    "tsarevets-fortress",
-    "asens-fortress",
     "tsari-mali-grad",
-    "belogradchik-fortress"
+    "belogradchik-fortress",
+    "kale-fortress"
+  ],
+  "more_castles_in_country": [
+    "tsarevets-fortress",
+    "asens-fortress"
   ],
   "gyg_location_id": "156132",
   "gyg_search_query": "Krakra Fortress Pernik Sofia Bulgaria medieval mining museum day trip",

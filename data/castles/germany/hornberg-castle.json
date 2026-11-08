@@ -70,7 +70,12 @@
   "last_updated": "2026-09-16",
   "routes": [],
   "nearby_castles": [
+    "guttenberg-castle",
     "heidelberg-castle",
+    "altes-schloss-stuttgart",
+    "waldenstein-castle"
+  ],
+  "more_castles_in_country": [
     "waldburg-castle"
   ],
   "gyg_location_id": null,

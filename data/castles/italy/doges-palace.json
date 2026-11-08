@@ -94,8 +94,12 @@
   "last_updated": "2026-06-25",
   "routes": [],
   "nearby_castles": [
-    "scaligero-castle-sirmione",
+    "palazzo-contarini-del-bovolo",
+    "castello-di-roncade",
     "miramare-castle",
+    "scaligero-castle-sirmione"
+  ],
+  "more_castles_in_country": [
     "castello-sforzesco",
     "palazzo-pitti"
   ],

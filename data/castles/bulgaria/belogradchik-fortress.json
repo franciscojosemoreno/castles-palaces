@@ -81,6 +81,11 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
+    "manasija-monastery",
+    "krakra-fortress",
+    "golubac-fortress"
+  ],
+  "more_castles_in_country": [
     "tsarevets-fortress"
   ],
   "gyg_location_id": "186654",

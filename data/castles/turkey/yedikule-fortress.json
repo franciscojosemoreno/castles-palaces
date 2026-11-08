@@ -81,8 +81,13 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
-    "uchisar-castle",
+    "galata-tower",
+    "topkapi-palace",
+    "maidens-tower",
     "beylerbeyi-palace"
+  ],
+  "more_castles_in_country": [
+    "uchisar-castle"
   ],
   "gyg_location_id": "56",
   "gyg_search_query": "Yedikule Fortress Istanbul tour",

@@ -81,6 +81,12 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
+    "rapperswil-castle",
+    "zug-castle",
+    "sigmaringen-castle",
+    "beuggen-castle"
+  ],
+  "more_castles_in_country": [
     "chateau-de-chillon"
   ],
   "gyg_location_id": "2839",

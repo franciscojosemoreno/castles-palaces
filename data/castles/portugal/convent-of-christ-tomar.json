@@ -81,12 +81,14 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
-    "obidos-castle",
-    "monsaraz-castle",
-    "porto-de-mos-castle",
     "abrantes-fortress",
+    "porto-de-mos-castle",
     "montemor-o-velho-castle",
+    "obidos-castle",
     "monsanto-castle"
+  ],
+  "more_castles_in_country": [
+    "monsaraz-castle"
   ],
   "gyg_location_id": "1912",
   "gyg_search_query": "Convent of Christ Tomar tour Portugal",

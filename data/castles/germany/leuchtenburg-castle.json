@@ -86,8 +86,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
+    "ettersburg-palace",
+    "grobitz-castle",
+    "eyba-castle",
+    "giebichenstein-castle"
+  ],
+  "more_castles_in_country": [
     "wurzburg-residence",
-    "giebichenstein-castle",
     "heidelberg-castle"
   ],
   "gyg_location_id": "239",

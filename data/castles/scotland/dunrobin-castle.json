@@ -88,9 +88,13 @@
   "last_updated": "2026-06-23",
   "routes": [],
   "nearby_castles": [
-    "edinburgh-castle",
-    "urquhart-castle",
-    "inverness-castle"
+    "dornoch-castle",
+    "mansfield-castle",
+    "inverness-castle",
+    "urquhart-castle"
+  ],
+  "more_castles_in_country": [
+    "edinburgh-castle"
   ],
   "gyg_search_query": "Dunrobin Castle tour Scotland",
   "gyg_widget_type": "activities",

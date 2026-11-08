@@ -86,9 +86,14 @@
   "last_updated": "2026-07-12",
   "routes": [],
   "nearby_castles": [
+    "angelokastro-castle",
+    "lekuresi-castle",
+    "gjirokastra-castle",
+    "himara-castle"
+  ],
+  "more_castles_in_country": [
     "palamidi-fortress",
-    "acrocorinth",
-    "angelokastro-castle"
+    "acrocorinth"
   ],
   "gyg_location_id": "2544",
   "gyg_search_query": "Corfu Old Fortress tour Corfu Town",

@@ -88,11 +88,15 @@
   "last_updated": "2026-06-24",
   "routes": [],
   "nearby_castles": [
+    "walls-of-dubrovnik",
+    "sokol-fortress",
+    "walls-of-ston",
+    "forte-mare-fortress"
+  ],
+  "more_castles_in_country": [
     "klis-fortress",
     "trakoscan-castle",
-    "veliki-tabor",
-    "sokol-fortress",
-    "walls-of-dubrovnik"
+    "veliki-tabor"
   ],
   "gyg_location_id": "513",
   "gyg_search_query": "Lovrijenac Dubrovnik Game of Thrones fortress tour",

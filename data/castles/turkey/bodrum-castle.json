@@ -85,8 +85,11 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "ortahisar-castle",
     "palace-of-the-grand-master",
+    "lindos-castle"
+  ],
+  "more_castles_in_country": [
+    "ortahisar-castle",
     "alanya-castle"
   ],
   "gyg_location_id": "986",

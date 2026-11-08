@@ -83,10 +83,13 @@
   "routes": [],
   "nearby_castles": [
     "neuschwanstein-castle",
+    "hopferau-castle",
+    "linderhof-palace",
+    "nymphenburg-palace"
+  ],
+  "more_castles_in_country": [
     "burghausen-castle",
-    "hohenzollern-castle",
-    "nymphenburg-palace",
-    "linderhof-palace"
+    "hohenzollern-castle"
   ],
   "gyg_location_id": "2236",
   "gyg_search_query": "Hohenschwangau Castle Bavaria tour",

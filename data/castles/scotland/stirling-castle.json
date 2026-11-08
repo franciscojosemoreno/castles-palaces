@@ -79,11 +79,13 @@
     "scottish-highlands-castles"
   ],
   "nearby_castles": [
-    "edinburgh-castle",
     "doune-castle",
-    "eilean-donan-castle",
+    "linlithgow-palace",
     "black-watch-castle",
-    "linlithgow-palace"
+    "edinburgh-castle"
+  ],
+  "more_castles_in_country": [
+    "eilean-donan-castle"
   ],
   "gyg_location_id": "44",
   "gyg_search_query": "Stirling Castle Scotland tour",

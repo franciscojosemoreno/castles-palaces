@@ -88,6 +88,12 @@
   "last_updated": "2026-06-21",
   "routes": [],
   "nearby_castles": [
+    "monchstein-castle",
+    "mirabell-palace",
+    "hohensalzburg-fortress",
+    "leopoldskron-palace"
+  ],
+  "more_castles_in_country": [
     "neuschwanstein-castle"
   ],
   "gyg_location_id": "100299",

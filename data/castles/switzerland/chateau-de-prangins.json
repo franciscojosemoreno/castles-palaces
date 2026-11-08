@@ -84,6 +84,11 @@
   "routes": [],
   "nearby_castles": [
     "chateau-de-chillon",
+    "aigle-castle",
+    "gruyeres-castle",
+    "besancon-citadel"
+  ],
+  "more_castles_in_country": [
     "rapperswil-castle"
   ],
   "gyg_location_id": "155233",

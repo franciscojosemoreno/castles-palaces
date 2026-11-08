@@ -87,7 +87,12 @@
   "last_updated": "2026-07-31",
   "routes": [],
   "nearby_castles": [
-    "cardona-castle",
+    "miravet-castle",
+    "granadella-castle",
+    "castle-of-la-zuda",
+    "cardona-castle"
+  ],
+  "more_castles_in_country": [
     "castell-de-tossa-de-mar"
   ],
   "gyg_location_id": "1884",

@@ -77,8 +77,9 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
-    "akershus-fortress",
-    "bergenhus-fortress",
+    "raasepori-castle"
+  ],
+  "more_castles_in_country": [
     "suomenlinna"
   ],
   "gyg_location_id": "104793",

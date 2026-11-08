@@ -85,9 +85,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "bran-castle",
-    "royal-castle-warsaw",
+    "gniew-castle",
+    "baloszyce-castle",
     "wisloujscie-fortress",
+    "karnity-castle"
+  ],
+  "more_castles_in_country": [
+    "royal-castle-warsaw",
     "lublin-castle",
     "wilanow-palace"
   ],

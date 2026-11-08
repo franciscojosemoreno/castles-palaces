@@ -85,9 +85,13 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
-    "narva-castle",
-    "trakai-island-castle",
+    "sagadi-manor",
+    "palmse-manor",
+    "suomenlinna",
     "viljandi-castle"
+  ],
+  "more_castles_in_country": [
+    "narva-castle"
   ],
   "gyg_location_id": "394",
   "gyg_search_query": "Toompea Castle Tallinn Old Town tour",

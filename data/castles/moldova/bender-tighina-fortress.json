@@ -86,8 +86,10 @@
   "last_updated": "2026-08-28",
   "routes": [],
   "nearby_castles": [
-    "soroca-fortress",
     "mimi-castle"
+  ],
+  "more_castles_in_country": [
+    "soroca-fortress"
   ],
   "gyg_location_id": "154284",
   "gyg_search_query": "Bender Tighina Fortress Transnistria Moldova guided tour Chisinau",

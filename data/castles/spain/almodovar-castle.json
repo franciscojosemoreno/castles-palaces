@@ -85,11 +85,13 @@
     "andalucia-palaces"
   ],
   "nearby_castles": [
+    "viana-palace",
     "alcazar-seville",
-    "alhambra-granada",
-    "alcazaba-de-almeria",
     "castillo-de-banos-de-la-encina",
-    "viana-palace"
+    "alhambra-granada"
+  ],
+  "more_castles_in_country": [
+    "alcazaba-de-almeria"
   ],
   "gyg_location_id": "1689",
   "gyg_search_query": "Almodovar Castle Cordoba tour tickets",

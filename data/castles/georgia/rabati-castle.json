@@ -82,9 +82,13 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "narikala-fortress",
-    "ananuri-fortress",
-    "azeula-fortress"
+    "khertvisi-fortress",
+    "petra-fortress",
+    "azeula-fortress",
+    "ananuri-fortress"
+  ],
+  "more_castles_in_country": [
+    "narikala-fortress"
   ],
   "gyg_location_id": "1379",
   "gyg_search_query": "Tbilisi Borjomi Rabati Castle Vardzia day trip",

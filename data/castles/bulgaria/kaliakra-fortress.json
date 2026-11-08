@@ -89,8 +89,11 @@
   "routes": [],
   "nearby_castles": [
     "balchik-palace",
-    "tsarevets-fortress",
+    "ovech-fortress",
     "ravadinovo-castle"
+  ],
+  "more_castles_in_country": [
+    "tsarevets-fortress"
   ],
   "gyg_location_id": "412",
   "gyg_search_query": "Kaliakra Fortress Cape Kaliakra Bulgaria Black Sea guided tour Varna",

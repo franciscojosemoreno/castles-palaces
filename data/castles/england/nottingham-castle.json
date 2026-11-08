@@ -78,10 +78,14 @@
   "last_updated": "2026-06-09",
   "routes": [],
   "nearby_castles": [
-    "warwick-castle",
+    "belvoir-castle",
+    "chatsworth-house",
+    "coombe-abbey",
+    "warwick-castle"
+  ],
+  "more_castles_in_country": [
     "windsor-castle",
-    "alnwick-castle",
-    "belvoir-castle"
+    "alnwick-castle"
   ],
   "gyg_location_id": "145813",
   "gyg_search_query": "Nottingham Castle Robin Hood tour",

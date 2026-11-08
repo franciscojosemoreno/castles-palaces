@@ -88,6 +88,10 @@
   "nearby_castles": [
     "belgrade-fortress",
     "smederevo-fortress",
+    "srebrenik-fortress",
+    "ram-fortress"
+  ],
+  "more_castles_in_country": [
     "golubac-fortress"
   ],
   "gyg_location_id": "2642",

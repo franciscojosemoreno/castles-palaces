@@ -83,6 +83,12 @@
   "last_updated": "2026-07-13",
   "routes": [],
   "nearby_castles": [
+    "castle-of-la-zuda",
+    "peniscola-castle",
+    "granadella-castle",
+    "la-torre-del-visco"
+  ],
+  "more_castles_in_country": [
     "cardona-castle"
   ],
   "gyg_location_id": "79680",

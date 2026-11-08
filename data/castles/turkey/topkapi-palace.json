@@ -83,12 +83,14 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "yedikule-fortress",
-    "bodrum-castle",
-    "ortahisar-castle",
     "galata-tower",
     "dolmabahce-palace",
+    "yedikule-fortress",
     "beylerbeyi-palace"
+  ],
+  "more_castles_in_country": [
+    "bodrum-castle",
+    "ortahisar-castle"
   ],
   "gyg_location_id": "56",
   "gyg_search_query": "Topkapi Palace Istanbul tour",

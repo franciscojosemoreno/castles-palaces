@@ -86,7 +86,10 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
-    "spinalonga-island-fortress",
+    "phaistos-palace",
+    "spinalonga-island-fortress"
+  ],
+  "more_castles_in_country": [
     "palace-of-the-grand-master",
     "lindos-castle"
   ],

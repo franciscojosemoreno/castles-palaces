@@ -78,6 +78,12 @@
   "last_updated": "2026-06-09",
   "routes": [],
   "nearby_castles": [
+    "alarcon-castle",
+    "aranjuez-royal-palace",
+    "alcazar-de-toledo",
+    "palacio-real-madrid"
+  ],
+  "more_castles_in_country": [
     "alcazar-of-segovia",
     "alhambra-granada"
   ],

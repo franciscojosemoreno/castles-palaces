@@ -83,6 +83,12 @@
   "last_updated": "2026-09-08",
   "routes": [],
   "nearby_castles": [
+    "braganca-castle",
+    "valdes-salas-castle",
+    "castle-of-la-mota-de-benavente",
+    "monterrei-castle"
+  ],
+  "more_castles_in_country": [
     "monterrey-palace"
   ],
   "gyg_location_id": "98421",

@@ -82,8 +82,13 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
-    "edinburgh-castle",
     "eilean-donan-castle",
+    "lews-castle",
+    "glengorm-castle",
+    "inverlochy-castle-hotel"
+  ],
+  "more_castles_in_country": [
+    "edinburgh-castle",
     "stirling-castle"
   ],
   "gyg_location_id": "1935",

@@ -80,8 +80,12 @@
     "swiss-alpine-castles"
   ],
   "nearby_castles": [
-    "castel-grande",
     "castello-di-montebello",
+    "castel-grande",
+    "castello-di-vezio",
+    "castelli-di-cannero"
+  ],
+  "more_castles_in_country": [
     "chateau-de-chillon"
   ],
   "gyg_location_id": "99510",

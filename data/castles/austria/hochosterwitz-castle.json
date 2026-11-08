@@ -85,6 +85,12 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
+    "moosburg-castle",
+    "seefels-castle",
+    "velden-castle",
+    "bled-castle"
+  ],
+  "more_castles_in_country": [
     "durnstein-castle",
     "hohensalzburg-fortress",
     "belvedere-palace"

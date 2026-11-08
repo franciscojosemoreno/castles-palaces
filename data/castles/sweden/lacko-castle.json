@@ -81,6 +81,10 @@
   "last_updated": "2026-07-16",
   "routes": [],
   "nearby_castles": [
+    "oscarsborg-fortress",
+    "akershus-fortress"
+  ],
+  "more_castles_in_country": [
     "drottningholm-palace",
     "gripsholm-castle",
     "kalmar-castle",

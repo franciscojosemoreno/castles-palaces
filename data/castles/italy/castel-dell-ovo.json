@@ -89,11 +89,13 @@
   "last_updated": "2026-06-23",
   "routes": [],
   "nearby_castles": [
-    "castel-santangelo",
-    "aragonese-castle-ischia",
-    "castel-santelmo",
     "naples-royal-palace",
+    "castel-santelmo",
+    "aragonese-castle-ischia",
     "sanseverino-castle"
+  ],
+  "more_castles_in_country": [
+    "castel-santangelo"
   ],
   "gyg_location_id": "162",
   "gyg_search_query": "Castel dell'Ovo Naples tour",

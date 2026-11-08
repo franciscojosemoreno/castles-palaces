@@ -83,11 +83,13 @@
   "last_updated": "2026-06-13",
   "routes": [],
   "nearby_castles": [
-    "edinburgh-castle",
-    "stirling-castle",
-    "dunnottar-castle",
     "kilchurn-castle",
-    "dunstaffnage-castle"
+    "dunstaffnage-castle",
+    "stirling-castle",
+    "edinburgh-castle"
+  ],
+  "more_castles_in_country": [
+    "dunnottar-castle"
   ],
   "gyg_location_id": "438",
   "gyg_search_query": "Inveraray Castle tour from Glasgow",

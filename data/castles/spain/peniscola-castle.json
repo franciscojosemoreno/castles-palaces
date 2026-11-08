@@ -79,9 +79,14 @@
   "last_updated": "2026-06-09",
   "routes": [],
   "nearby_castles": [
-    "alhambra-granada",
-    "alcazar-seville",
+    "ulldecona-castle",
+    "castle-of-la-zuda",
+    "morella-castle",
     "sagunto-castle"
+  ],
+  "more_castles_in_country": [
+    "alhambra-granada",
+    "alcazar-seville"
   ],
   "gyg_location_id": "4555",
   "gyg_search_query": "Peniscola Castle Game of Thrones tour",

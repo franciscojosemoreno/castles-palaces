@@ -88,9 +88,13 @@
   "last_updated": "2026-07-18",
   "routes": [],
   "nearby_castles": [
-    "rabati-castle",
+    "azeula-fortress",
     "ananuri-fortress",
-    "azeula-fortress"
+    "batonis-tsikhe",
+    "aramyants-castle"
+  ],
+  "more_castles_in_country": [
+    "rabati-castle"
   ],
   "gyg_location_id": "1379",
   "gyg_search_query": "Narikala Fortress Tbilisi guided tour Mother of Georgia",

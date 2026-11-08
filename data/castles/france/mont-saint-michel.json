@@ -82,6 +82,12 @@
   "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": [
+    "chateau-de-rambouillet",
+    "chateau-de-la-ballue",
+    "chateau-du-nessay",
+    "mont-orgueil-castle"
+  ],
+  "more_castles_in_country": [
     "carcassonne",
     "chateau-de-pierrefonds"
   ],

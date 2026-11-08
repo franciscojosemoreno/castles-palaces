@@ -79,8 +79,12 @@
   "routes": [],
   "nearby_castles": [
     "alcazaba-de-malaga",
-    "alcazaba-de-almeria",
-    "colomares-castle"
+    "colomares-castle",
+    "monda-castle",
+    "palace-of-mondragon"
+  ],
+  "more_castles_in_country": [
+    "alcazaba-de-almeria"
   ],
   "gyg_location_id": "402",
   "gyg_search_query": "Castillo de Gibralfaro Malaga tour",

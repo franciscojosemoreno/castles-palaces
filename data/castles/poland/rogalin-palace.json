@@ -88,6 +88,11 @@
   "routes": [],
   "nearby_castles": [
     "kornik-castle",
+    "poznan-imperial-castle",
+    "racot-castle",
+    "rydzyna-castle"
+  ],
+  "more_castles_in_country": [
     "wilanow-palace"
   ],
   "gyg_location_id": "1722",

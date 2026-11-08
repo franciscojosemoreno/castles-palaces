@@ -83,9 +83,13 @@
   "last_updated": "2026-07-21",
   "routes": [],
   "nearby_castles": [
-    "braganca-castle",
-    "marvao-castle",
+    "estremoz-castle",
     "monsaraz-castle",
+    "castillo-de-luna-alburquerque",
+    "marvao-castle"
+  ],
+  "more_castles_in_country": [
+    "braganca-castle",
     "loule-castle"
   ],
   "gyg_location_id": "186605",

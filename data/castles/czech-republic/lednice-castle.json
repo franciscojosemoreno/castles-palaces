@@ -84,10 +84,15 @@
   "last_updated": "2026-06-24",
   "routes": [],
   "nearby_castles": [
+    "valtice-chateau",
+    "cejkovice-castle",
+    "spilberk-castle",
+    "krtiny-castle"
+  ],
+  "more_castles_in_country": [
     "cesky-krumlov-castle",
     "hluboka-castle",
-    "konopiste-castle",
-    "valtice-chateau"
+    "konopiste-castle"
   ],
   "gyg_location_id": "210740",
   "gyg_search_query": "Lednice Castle Moravia tour",

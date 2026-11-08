@@ -83,13 +83,15 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
-    "trim-castle",
-    "kilkenny-castle",
-    "blarney-castle",
-    "russborough-house",
-    "ardgillan-castle",
+    "howth-castle",
     "dublin-castle",
-    "howth-castle"
+    "ardgillan-castle",
+    "russborough-house",
+    "trim-castle",
+    "kilkenny-castle"
+  ],
+  "more_castles_in_country": [
+    "blarney-castle"
   ],
   "gyg_location_id": "31",
   "gyg_search_query": "Malahide Castle Dublin tour",

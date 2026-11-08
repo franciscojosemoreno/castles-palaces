@@ -81,9 +81,13 @@
   "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": [
-    "palazzo-dei-normanni",
+    "limatola-castle",
+    "montesarchio-castle",
     "naples-royal-palace",
     "sanseverino-castle"
+  ],
+  "more_castles_in_country": [
+    "palazzo-dei-normanni"
   ],
   "gyg_location_id": "3426",
   "gyg_search_query": "Royal Palace Caserta tour from Naples",

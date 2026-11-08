@@ -83,10 +83,13 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
+    "barberstown-castle",
+    "russborough-house",
     "kilkenny-castle",
-    "blarney-castle",
-    "rock-of-cashel",
-    "russborough-house"
+    "rock-of-cashel"
+  ],
+  "more_castles_in_country": [
+    "blarney-castle"
   ],
   "gyg_location_id": "31",
   "gyg_search_query": "Trim Castle Ireland tour",

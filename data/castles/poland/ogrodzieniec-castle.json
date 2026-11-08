@@ -81,14 +81,16 @@
   "last_updated": "2026-09-02",
   "routes": [],
   "nearby_castles": [
-    "pieskowa-skala-castle",
-    "malbork-castle",
-    "ojcow-castle",
-    "olsztyn-castle",
+    "rabsztyn-castle",
     "bobolice-castle",
     "mirow-castle",
+    "pieskowa-skala-castle",
+    "ojcow-castle",
     "korzkiew-castle",
-    "rabsztyn-castle"
+    "olsztyn-castle"
+  ],
+  "more_castles_in_country": [
+    "malbork-castle"
   ],
   "gyg_location_id": "40",
   "gyg_search_query": "Ogrodzieniec castle ruins Eagles Nests Poland tour",

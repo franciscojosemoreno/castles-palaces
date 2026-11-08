@@ -84,12 +84,15 @@
   "last_updated": "2026-06-14",
   "routes": [],
   "nearby_castles": [
+    "castillo-de-luna-alburquerque",
+    "ducal-palace-of-vila-vicosa",
+    "belmonte-castle-portugal",
+    "sortelha-castle"
+  ],
+  "more_castles_in_country": [
     "obidos-castle",
     "castle-of-the-moors",
     "silves-castle",
-    "sortelha-castle",
-    "ducal-palace-of-vila-vicosa",
-    "belmonte-castle-portugal",
     "loule-castle"
   ],
   "gyg_location_id": "170227",

@@ -78,12 +78,14 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
-    "dubrovnik-walls",
-    "lovrijenac",
     "diocletians-palace",
     "barone-fortress",
-    "st-johns-fortress-sibenik",
-    "st-michaels-fortress-sibenik"
+    "st-michaels-fortress-sibenik",
+    "st-johns-fortress-sibenik"
+  ],
+  "more_castles_in_country": [
+    "walls-of-dubrovnik",
+    "lovrijenac"
   ],
   "gyg_location_id": "268",
   "gyg_search_query": "Klis Fortress Split Game of Thrones tour",

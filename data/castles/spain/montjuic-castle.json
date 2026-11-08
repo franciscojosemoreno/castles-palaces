@@ -81,6 +81,12 @@
   "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": [
+    "cardona-castle",
+    "castell-de-tossa-de-mar",
+    "castell-de-les-sitges",
+    "florejacs-castle"
+  ],
+  "more_castles_in_country": [
     "alhambra-granada",
     "alcazar-seville",
     "alcazar-of-segovia"

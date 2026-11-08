@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import type { Metadata } from 'next';
-import { getCastleBySlug, getAllCastleParams, getNearbyCastles } from '@/lib/castles';
+import { getCastleBySlug, getAllCastleParams, getNearbyCastles, getMoreCastlesInCountry } from '@/lib/castles';
 import { getCountryBySlug } from '@/lib/countries';
 import Breadcrumb from '@/components/ui/Breadcrumb';
 import Badge from '@/components/ui/Badge';
@@ -71,6 +71,7 @@ export default async function CastlePage({ params }: PageProps) {
   if (!castle || castle.status !== 'published') notFound();
 
   const nearby = getNearbyCastles(castle, 4);
+  const moreInCountry = getMoreCastlesInCountry(castle);
   const visitingTours = getToursVisitingCastle(castle.id);
   const featuredInGuides = getGuidesFeaturingCastle(castle.id);
   // Same date as the sitemap <lastmod> and the JSON-LD dateModified (last git commit that touched this ficha).
@@ -348,7 +349,19 @@ export default async function CastlePage({ params }: PageProps) {
               <section className="mb-10">
                 <h2 className="font-serif font-bold text-[#1761a0] text-2xl mb-4">Nearby Castles</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  {nearby.map((c) => (
+                  {nearby.map(({ castle: c, distanceKm }) => (
+                    <CastleCard key={c.id} castle={c} variant="compact" distanceKm={distanceKm} />
+                  ))}
+                </div>
+              </section>
+            )}
+
+            {/* Same-country castles too far to be nearby (listed by hand) */}
+            {moreInCountry.length > 0 && (
+              <section className="mb-10">
+                <h2 className="font-serif font-bold text-[#1761a0] text-2xl mb-4">More castles in {countryLabel}</h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  {moreInCountry.map((c) => (
                     <CastleCard key={c.id} castle={c} variant="compact" />
                   ))}
                 </div>

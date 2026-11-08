@@ -90,10 +90,13 @@
     "central-europe-palaces"
   ],
   "nearby_castles": [
-    "schonbrunn-palace",
+    "palais-coburg",
     "belvedere-palace",
-    "hohensalzburg-fortress",
+    "schonbrunn-palace",
     "schloss-hof-palace"
+  ],
+  "more_castles_in_country": [
+    "hohensalzburg-fortress"
   ],
   "gyg_location_id": "7",
   "gyg_search_query": "Hofburg Palace Vienna tour Sisi Museum",

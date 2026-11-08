@@ -80,10 +80,15 @@
     "transylvania-castles"
   ],
   "nearby_castles": [
+    "alba-iulia-citadel",
+    "biertan-fortified-church",
+    "banffy-castle",
+    "poenari-castle"
+  ],
+  "more_castles_in_country": [
     "bran-castle",
     "peles-castle",
-    "fagaras-fortress",
-    "alba-iulia-citadel"
+    "fagaras-fortress"
   ],
   "gyg_location_id": "1833",
   "gyg_search_query": "Corvin Castle Transylvania tour",

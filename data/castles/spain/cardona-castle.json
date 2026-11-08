@@ -81,10 +81,13 @@
   "last_updated": "2026-10-08",
   "routes": [],
   "nearby_castles": [
-    "palacio-real-de-olite",
+    "castell-de-les-sitges",
     "florejacs-castle",
     "siurana-castle",
     "castell-de-tossa-de-mar"
+  ],
+  "more_castles_in_country": [
+    "palacio-real-de-olite"
   ],
   "gyg_location_id": "45",
   "gyg_search_query": "Cardona castle Barcelona tour",

@@ -87,6 +87,12 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
+    "chateau-du-breuil",
+    "chateau-de-launay",
+    "bodiam-castle",
+    "chateau-de-montvillargenne"
+  ],
+  "more_castles_in_country": [
     "chateau-de-pierrefonds",
     "chateau-de-guise",
     "mont-saint-michel"

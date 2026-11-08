@@ -81,15 +81,17 @@
   "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": [
-    "pena-palace",
-    "silves-castle",
-    "convent-of-christ-tomar",
-    "queluz-palace",
-    "mafra-palace",
-    "sortelha-castle",
     "porto-de-mos-castle",
+    "mafra-palace",
+    "pena-palace",
+    "queluz-palace",
+    "convent-of-christ-tomar",
     "abrantes-fortress",
     "montemor-o-velho-castle"
+  ],
+  "more_castles_in_country": [
+    "silves-castle",
+    "sortelha-castle"
   ],
   "gyg_location_id": "675",
   "gyg_search_query": "Óbidos castle walled town tour",

@@ -80,6 +80,12 @@
   "last_updated": "2026-06-15",
   "routes": [],
   "nearby_castles": [
+    "palais-des-papes",
+    "aigues-mortes",
+    "chateau-de-massillan",
+    "chateau-de-fonscolombe"
+  ],
+  "more_castles_in_country": [
     "chateau-de-beynac"
   ],
   "gyg_location_id": "691",

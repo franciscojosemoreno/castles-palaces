@@ -81,6 +81,12 @@
   "last_updated": "2026-06-01",
   "routes": [],
   "nearby_castles": [
+    "katzenstein-castle",
+    "blumenthal-castle",
+    "colmberg-castle",
+    "staufeneck-castle"
+  ],
+  "more_castles_in_country": [
     "albrechtsburg-castle",
     "moritzburg-castle"
   ],

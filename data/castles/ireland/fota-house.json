@@ -82,8 +82,12 @@
   "last_updated": "2026-09-13",
   "routes": [],
   "nearby_castles": [
+    "castlemartyr-resort",
     "blarney-castle",
-    "muckross-house",
+    "cahir-castle",
+    "muckross-house"
+  ],
+  "more_castles_in_country": [
     "russborough-house"
   ],
   "gyg_location_id": "1605",

@@ -85,8 +85,12 @@
   "last_updated": "2026-08-01",
   "routes": [],
   "nearby_castles": [
+    "buen-amor-castle",
+    "monte-la-reina-castle",
     "alcazar-of-segovia",
-    "royal-palace-of-la-granja",
+    "royal-palace-of-la-granja"
+  ],
+  "more_castles_in_country": [
     "castle-of-ponferrada"
   ],
   "gyg_location_id": "1637",

@@ -79,9 +79,13 @@
   "last_updated": "2026-05-01",
   "routes": [],
   "nearby_castles": [
-    "palace-of-versailles",
-    "chateau-de-cheverny",
-    "chateau-de-chantilly"
+    "chateau-de-villers-cotterets",
+    "chateau-d-ermenonville",
+    "chateau-de-chantilly",
+    "palace-of-versailles"
+  ],
+  "more_castles_in_country": [
+    "chateau-de-cheverny"
   ],
   "gyg_location_id": "132088",
   "gyg_search_query": "Pierrefonds Castle day trip Paris",

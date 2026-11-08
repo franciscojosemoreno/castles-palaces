@@ -87,9 +87,12 @@
   "last_updated": "2026-08-23",
   "routes": [],
   "nearby_castles": [
-    "viscri-fortified-church",
     "biertan-fortified-church",
-    "bran-castle",
+    "rupea-fortress",
+    "viscri-fortified-church",
+    "bran-castle"
+  ],
+  "more_castles_in_country": [
     "corvin-castle"
   ],
   "gyg_location_id": "2012",

@@ -79,11 +79,14 @@
   "last_updated": "2026-06-09",
   "routes": [],
   "nearby_castles": [
+    "royal-palace-of-la-granja",
+    "el-escorial",
     "alcazar-of-segovia",
+    "palacio-real-madrid"
+  ],
+  "more_castles_in_country": [
     "alhambra-granada",
-    "alcazar-seville",
-    "palacio-real-madrid",
-    "el-escorial"
+    "alcazar-seville"
   ],
   "gyg_location_id": "46",
   "gyg_search_query": "Manzanares el Real Castle Madrid day trip",
