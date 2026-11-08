@@ -74,7 +74,7 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
       >
         Book This Tour →
       </a>
-      <p className="text-xs text-stone-400 text-center">Cancellation available · Instant confirmation</p>
+      <p className="text-xs text-stone-400 text-center">Instant confirmation</p>
     </div>
   );
 }
