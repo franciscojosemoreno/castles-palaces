@@ -51,10 +51,10 @@ export default async function TourPage({ params }: Props) {
   const countryName = countryData?.name ?? country.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
   const currencySymbol = tour.currency === 'USD' ? '$' : tour.currency === 'GBP' ? '£' : '€';
   const priceUnitShort = tour.pricing_unit === 'group'
-    ? `/ group (up to ${tour.max_group_size})`
+    ? `/ group (up to ${tour.price_group_size ?? tour.max_group_size})`
     : '/ person';
   const priceUnitLong = tour.pricing_unit === 'group'
-    ? `per group (up to ${tour.max_group_size} people)`
+    ? `per group (up to ${tour.price_group_size ?? tour.max_group_size} people)`
     : 'per person';
   const gygUrl = addGYGTrackingParams(tour.gyg_url);
   // price_from is null when the sourced GYG product has been discontinued/delisted
@@ -158,7 +158,7 @@ export default async function TourPage({ params }: Props) {
             {tour.max_group_size && (
             <div>
               <p className="text-xs text-[#666] uppercase tracking-wider">Group size</p>
-              <p className="font-semibold text-[#1a1a1a]">Max {tour.max_group_size} people</p>
+              <p className="font-semibold text-[#1a1a1a]">{tour.group_size_label ?? <>Max {tour.max_group_size} people</>}</p>
             </div>
             )}
           </div>
@@ -241,7 +241,7 @@ export default async function TourPage({ params }: Props) {
                               {stop.castle_name}
                             </span>
                           )
-                        ) : GYG_PARTNER_ID ? (
+                        ) : GYG_PARTNER_ID && !stop.plain ? (
                           <a
                             href={`https://www.getyourguide.com/s/?q=${encodeURIComponent(stop.castle_name)}&partner_id=${GYG_PARTNER_ID}`}
                             target="_blank"

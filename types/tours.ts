@@ -4,6 +4,9 @@ export interface TourStop {
   castle_name: string;
   duration: string;
   description: string;
+  // A stop with no castle page normally links to a GetYourGuide search for its name; plain: true shows the
+  // name as plain text (a pickup point, for example, is not worth a search link).
+  plain?: boolean;
 }
 
 export interface TourFAQ {
@@ -29,6 +32,10 @@ export interface Tour {
   review_count: number;
   languages: string[];
   max_group_size: number;
+  // Overrides on the tour page: the "Group size" text (e.g. "Private, up to 8 people") and the group size the
+  // price covers (e.g. "from €1,140 per group of up to 4"), when they differ from max_group_size.
+  group_size_label?: string;
+  price_group_size?: number;
   pricing_unit?: 'person' | 'group';
   overview: string;
   highlights: string[];
