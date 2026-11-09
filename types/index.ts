@@ -132,6 +132,9 @@ export interface Castle {
     pass_sites_count?: string; // e.g. "25+" or "3", only when GYG's own listing states a count
     pass_label?: string; // card copy "{pass_label} available", e.g. "Heritage Pass"; defaults to "Pass"
     pass_badge_label?: string; // FEATURED TOUR badge text, e.g. "City card"; defaults to "Multi-site pass"
+    // Only the first tour gets a card on the castle page. A later tour with this set to true also gets a
+    // card right after the first one (e.g. the Malta Multi Pass on the Heritage Malta site pages).
+    secondary_card?: boolean;
   }[];
 
   hotel?: CastleHotel;

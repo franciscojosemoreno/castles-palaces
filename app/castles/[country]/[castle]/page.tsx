@@ -11,7 +11,7 @@ import CastleFAQ from '@/components/castle/CastleFAQ';
 import CastleMap from '@/components/castle/CastleMap';
 import CastleCard from '@/components/castle/CastleCard';
 import GYGWidget from '@/components/affiliate/GYGWidget';
-import GYGFeaturedTour from '@/components/affiliate/GYGFeaturedTour';
+import { GYGFeaturedTours } from '@/components/affiliate/GYGFeaturedTour';
 import HotelBookingCard from '@/components/castle/HotelBookingCard';
 import StructuredData from '@/components/seo/StructuredData';
 import { getPrimaryCta, isHotelOnly, getCurrencySymbol, ROOM_LOCATION_STAY_CTA } from '@/lib/hotels';
@@ -185,7 +185,7 @@ export default async function CastlePage({ params }: PageProps) {
             <div className="lg:hidden mb-6 space-y-4">
               <CastleQuickFacts castle={castle} />
               {castle.gyg_featured_tours && castle.gyg_featured_tours.length > 0 && (
-                <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
+                <GYGFeaturedTours tours={castle.gyg_featured_tours} castleName={castle.name} />
               )}
               {castle.hotel?.is_hotel && <HotelBookingCard hotel={castle.hotel} />}
             </div>
@@ -374,7 +374,7 @@ export default async function CastlePage({ params }: PageProps) {
             <CastleQuickFacts castle={castle} />
 
             {castle.gyg_featured_tours && castle.gyg_featured_tours.length > 0 && (
-              <GYGFeaturedTour tour={castle.gyg_featured_tours[0]} castleName={castle.name} />
+              <GYGFeaturedTours tours={castle.gyg_featured_tours} castleName={castle.name} />
             )}
 
             {castle.hotel?.is_hotel && <HotelBookingCard hotel={castle.hotel} />}

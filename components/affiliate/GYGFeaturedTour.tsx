@@ -17,9 +17,26 @@ const typeLabels: Partial<Record<FeaturedTour['type'], string>> = {
 interface Props {
   tour: FeaturedTour;
   castleName: string;
+  /** Card label; a second card says "Also featured". */
+  heading?: string;
 }
 
-export default function GYGFeaturedTour({ tour, castleName }: Props) {
+export function GYGFeaturedTours({ tours, castleName }: { tours: FeaturedTour[]; castleName: string }) {
+  const first = <GYGFeaturedTour tour={tours[0]} castleName={castleName} />;
+  // Later tours only get a card when they opt in (secondary_card); without one the output is just the first card.
+  const secondary = tours.slice(1).filter((t) => t.secondary_card);
+  if (secondary.length === 0) return first;
+  return (
+    <>
+      {first}
+      {secondary.map((tour) => (
+        <GYGFeaturedTour key={tour.tour_id} tour={tour} castleName={castleName} heading="Also featured" />
+      ))}
+    </>
+  );
+}
+
+export default function GYGFeaturedTour({ tour, castleName, heading = 'Featured Tour' }: Props) {
   const href = tour.booking_url_override ?? getGYGSearchUrl(castleName);
   const passDays = tour.duration.match(/(\d+)[\s-]days?/)?.[1];
   // pass_sites_count is the pass's total site count (matches the price line's "N sites").
@@ -31,7 +48,7 @@ export default function GYGFeaturedTour({ tour, castleName }: Props) {
 
   return (
     <div className="bg-white border border-stone-200 rounded-lg p-5">
-      <p className="text-[#c9a84c] font-medium text-xs uppercase tracking-wider mb-2">Featured Tour</p>
+      <p className="text-[#c9a84c] font-medium text-xs uppercase tracking-wider mb-2">{heading}</p>
       <h3 className="font-serif font-bold text-[#1a1a1a] text-base leading-snug mb-3">
         {tour.title}
       </h3>
