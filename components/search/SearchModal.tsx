@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Fuse from 'fuse.js';
 import { useRouter } from 'next/navigation';
+import { normalizeEntries, rankSearch, type NormalizedEntry as SearchFields } from '@/lib/search';
 
 interface SearchEntry {
   id: string;
@@ -12,38 +13,18 @@ interface SearchEntry {
   name: string;
   region: string | null;
   thumb: string | null;
-  price: number | null;
-  currency: string | null;
+  // "From €20", "Free" or null: written by scripts/generate-search-index.js with the same function as the
+  // castle page's Quick Facts price (lib/entry-price.js), so it never disagrees with the page.
+  price_label: string | null;
   featured: boolean;
   unesco: boolean;
 }
 
-interface NormalizedEntry extends SearchEntry {
-  _name: string;
-  _country: string;
-  _region: string;
-}
+type NormalizedEntry = SearchEntry & SearchFields;
 
 interface Props {
   isOpen: boolean;
   onClose: () => void;
-}
-
-function normalize(str: string): string {
-  return str
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-    .replace(/-/g, ' ');
-}
-
-const CURRENCY_SYMBOLS: Record<string, string> = { EUR: '€', GBP: '£', USD: '$' };
-
-function formatPrice(price: number | null, currency: string | null): string | null {
-  if (price === null) return null;
-  if (price === 0) return 'Free';
-  const symbol = CURRENCY_SYMBOLS[currency ?? ''] ?? (currency ?? '');
-  return `From ${symbol}${price}`;
 }
 
 export default function SearchModal({ isOpen, onClose }: Props) {
@@ -57,6 +38,7 @@ export default function SearchModal({ isOpen, onClose }: Props) {
   const modalRef = useRef<HTMLDivElement>(null);
   const listRef = useRef<HTMLDivElement>(null);
   const fuseRef = useRef<Fuse<NormalizedEntry> | null>(null);
+  const entriesRef = useRef<NormalizedEntry[]>([]);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const router = useRouter();
 
@@ -66,12 +48,8 @@ export default function SearchModal({ isOpen, onClose }: Props) {
     fetch('/search-index.json')
       .then((r) => r.json())
       .then((data: SearchEntry[]) => {
-        const normalized: NormalizedEntry[] = data.map((e) => ({
-          ...e,
-          _name: normalize(e.name),
-          _country: normalize(e.country),
-          _region: normalize(e.region ?? ''),
-        }));
+        const normalized = normalizeEntries(data);
+        entriesRef.current = normalized;
         fuseRef.current = new Fuse(normalized, {
           keys: [
             { name: '_name', weight: 3 },
@@ -127,10 +105,9 @@ export default function SearchModal({ isOpen, onClose }: Props) {
       setHighlighted(-1);
       return;
     }
-    const hits = fuseRef.current
-      .search(normalize(q))
-      .slice(0, 8)
-      .map((r) => r.item);
+    const fuse = fuseRef.current;
+    // Name starts with the query, then name contains it, then region/country; fuzzy only if fewer than 5.
+    const hits = rankSearch(entriesRef.current, q, (nq) => fuse.search(nq).map((r) => r.item));
     setResults(hits);
     setHighlighted(-1);
   }, []);
@@ -327,7 +304,7 @@ export default function SearchModal({ isOpen, onClose }: Props) {
           {!showNoResults && loaded && (
             <div ref={listRef} role="listbox" aria-label="Search results">
               {displayItems.map((item, i) => {
-                const price = formatPrice(item.price, item.currency);
+                const price = item.price_label;
                 return (
                   <button
                     key={item.id}

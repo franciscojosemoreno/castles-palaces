@@ -1,6 +1,7 @@
 import { Castle } from '@/types';
 import { getGYGSearchUrl } from '@/lib/gyg';
 import { getPrimaryCta, isHotelOnly, getCurrencySymbol } from '@/lib/hotels';
+import { getEntryPrice } from '@/lib/entry-price';
 
 interface CastleQuickFactsProps {
   castle: Castle;
@@ -62,6 +63,7 @@ function formatHoursShort(oh: Castle['opening_hours']): string {
 export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
   const hotelOnly = isHotelOnly(castle);
   const primaryCta = getPrimaryCta(castle);
+  const entryPrice = getEntryPrice(castle);
 
   const facts = [
     castle.opening_hours && {
@@ -78,47 +80,16 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
       // Not a live link while the booking listing is paused — same rule the primary CTA already follows.
       href: castle.hotel!.booking_paused ? undefined : castle.hotel!.booking_url,
     },
-    // Separate day-visit admission (e.g. an on-site museum), distinct from the room rate above —
-    // only shown for hotel-only castles that also charge their own standalone entry fee.
-    hotelOnly && castle.price_adult != null && {
+    // The entry price row — "Entry from", "Guided tour from", "Day-visit entry" … — comes from getEntryPrice
+    // (lib/entry-price.js), the same function that writes the price shown in the ⌘K search.
+    entryPrice && {
       icon: '🎟️',
-      label: 'Day-visit entry',
-      value: castle.price_adult === 0
-        ? 'Free'
-        : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`,
-    },
-    !hotelOnly && (castle.price_adult != null || castle.gyg_featured_tours?.[0]?.price_from != null) && {
-      icon: '🎟️',
-      label: (() => {
-        const tour = castle.gyg_featured_tours?.[0];
-        if (!tour) return 'Entry from';
-        if (tour.multi_site_pass) return 'Entry';
-        const labels: Partial<Record<string, string>> = {
-          skip_the_line: 'Skip-the-line from',
-          entry_ticket: 'Entry via GetYourGuide',
-          entrance_ticket: 'Entry via GetYourGuide',
-          guided_tour: 'Guided tour from',
-          day_trip: 'Day trip from',
-          boat_tour: 'Boat tour from',
-          multi_day: 'Tour from',
-        };
-        return labels[tour.type] ?? 'Tour from';
-      })(),
-      value: (() => {
-        const tour = castle.gyg_featured_tours?.[0];
-        if (tour?.multi_site_pass) {
-          return castle.price_adult != null
-            ? (castle.price_adult === 0 ? 'Free' : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`)
-            : 'Included in multi-site pass';
-        }
-        const price = (tour?.price_from != null) ? tour.price_from : castle.price_adult;
-        if (price === 0) return 'Free';
-        const groupSuffix = (tour?.price_from != null && tour.pricing_unit === 'group') ? ' / group' : '';
-        return `€${price}${groupSuffix}`;
-      })(),
+      label: entryPrice.label,
+      value: entryPrice.value,
       // When the value is this castle's own real price (not the pass), don't link it to
       // the pass's booking page — only the "Get Tickets & Tours" CTA below does that.
-      href: castle.gyg_featured_tours?.[0]?.multi_site_pass && castle.price_adult != null
+      // A hotel-only castle's day-visit price has no tour to link to.
+      href: hotelOnly || (castle.gyg_featured_tours?.[0]?.multi_site_pass && castle.price_adult != null)
         ? undefined
         : getGYGUrl(castle) ?? undefined,
     },

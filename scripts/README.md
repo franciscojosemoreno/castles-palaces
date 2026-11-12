@@ -161,3 +161,14 @@ node scripts/generate-lastmod.mjs
 Generates `public/search-index.json` at build time. Runs via `npm run
 prebuild` (now `generate-search-index.js && lint-public-copy.mjs`). The
 `SearchModal` fetches this file lazily on first open.
+
+Each entry carries `price_label` (`"From €20"`, `"Free"` or `null`). It is computed by
+`lib/entry-price.js` — the same function that writes the "Entry from…" row of Quick
+Facts on the castle page — so the search shows exactly the price the castle page shows,
+with its currency, and nothing when the page shows no price. Note that the page shows the
+featured GetYourGuide tour's price (in EUR) whenever there is one, and the castle's own
+`price_adult` (in `price_currency`) only otherwise. Tests: `npm run test:entry-price`.
+
+The order of the results lives in `lib/search.ts` (`npm run test:search`): name starts with
+the query, then query inside the name, then region/country, and fuzzy matching only when
+that gives fewer than 5 results.

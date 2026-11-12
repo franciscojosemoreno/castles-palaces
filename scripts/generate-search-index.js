@@ -1,9 +1,14 @@
 // Generates public/search-index.json at build time.
 // Run via `npm run prebuild` (added to package.json scripts).
 // The SearchModal fetches this file lazily on first open.
+//
+// `price_label` ("From €20", "Free" or null) is computed by lib/entry-price.js — the same function that
+// writes the "Entry from…" row of Quick Facts on the castle page — so the search always shows the price
+// the castle page shows, in the same currency, and nothing when the page shows no price.
 
 const fs = require('fs');
 const path = require('path');
+const { searchPriceLabel } = require('../lib/entry-price.js');
 
 const CASTLES_DIR = path.join(__dirname, '..', 'data', 'castles');
 const OUTPUT = path.join(__dirname, '..', 'public', 'search-index.json');
@@ -32,8 +37,7 @@ for (const country of countries) {
       name: castle.name,
       region: castle.region || null,
       thumb: castle.hero_image?.url || null,
-      price: castle.price_adult ?? null,
-      currency: castle.price_currency || null,
+      price_label: searchPriceLabel(castle),
       featured: castle.featured || false,
       unesco: castle.unesco || false,
     });
