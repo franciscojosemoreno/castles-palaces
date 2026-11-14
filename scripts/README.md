@@ -158,6 +158,22 @@ Structured data (JSON-LD) never carries Markdown: `stripMarkdown` cleans `taglin
 `renderEditorialHtml` (`lib/markdown.ts`) and may link to external sites; an internal link there
 to a page that does not exist (a 404) fails the build too; external links are not checked.
 
+## check-prices.mjs
+
+Fails the build when a visible price does not come from the castle's active GetYourGuide tour in
+EUR (rule of 2026-11-14). Two checks: (1) data — for every published castle, what
+`lib/entry-price.js` hands to Quick Facts, the search and the JSON-LD is null without an active
+tour and otherwise `€N` or `€N / group`; (2) source — no page,
+component or lib file other than the shared function (allow-list in the script) reads `price_adult`
+or `price_currency`, so a new hub card, map or bar cannot start printing the official admission.
+
+```sh
+npm run check:prices      # also part of prebuild
+```
+
+To show a castle's official admission, write it in the description (How to Visit > Tickets), in its
+own currency ("Admission is £10.40 for adults (Cadw)"); never in a price field of the page.
+
 ## generate-lastmod.mjs
 
 Writes `lib/lastmod.generated.json`: the date of the last git commit that touched each
@@ -186,11 +202,14 @@ prebuild` (now `generate-search-index.js && lint-public-copy.mjs`). The
 `SearchModal` fetches this file lazily on first open.
 
 Each entry carries `price_label` (`"From €20"`, `"Free"` or `null`). It is computed by
-`lib/entry-price.js` — the same function that writes the "Entry from…" row of Quick
-Facts on the castle page — so the search shows exactly the price the castle page shows,
-with its currency, and nothing when the page shows no price. Note that the page shows the
-featured GetYourGuide tour's price (in EUR) whenever there is one, and the castle's own
-`price_adult` (in `price_currency`) only otherwise. Tests: `npm run test:entry-price`.
+`lib/entry-price.js` — the same function that writes the "Entry from…" row of Quick Facts
+and the JSON-LD `priceRange` — so every visible price is the **active GetYourGuide tour's
+price, in EUR**. A castle without an active tour (`gyg_featured_tours[0]` with a `price_from`)
+shows no price anywhere; `price_adult` / `price_currency` are only for the description text.
+A castle whose own entry is free still shows the tour's price; that the entry is free goes in
+the description (How to Visit > Tickets). A multi-site pass is a GetYourGuide product in EUR, so
+its price is shown ("Pass from €124" in Quick Facts, "From €124" in the search). Tests:
+`npm run test:entry-price`.
 
 The order of the results lives in `lib/search.ts` (`npm run test:search`): name starts with
 the query, then query inside the name, then region/country, and fuzzy matching only when

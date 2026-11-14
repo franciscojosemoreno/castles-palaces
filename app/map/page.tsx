@@ -37,8 +37,11 @@ export default function MapPage() {
     lng: c.lng,
     type: c.type,
     tagline: c.tagline,
-    price_adult: c.gyg_featured_tours?.[0]?.price_from ?? c.price_adult,
+    // Displayed price: the active GetYourGuide tour's, in EUR, and nothing without one.
+    entry_price: c.gyg_featured_tours?.[0]?.price_from ?? undefined,
     pricing_unit: c.gyg_featured_tours?.[0]?.price_from != null ? c.gyg_featured_tours[0].pricing_unit : undefined,
+    // Filter only ("Free entry" checkbox), never shown as a price: free entry and no tour, as the filter has always worked.
+    free_entry: c.gyg_featured_tours?.[0]?.price_from == null && c.price_adult === 0,
     unesco: c.unesco ?? false,
     tags: c.tags ?? [],
     hero_image: c.hero_image.url,

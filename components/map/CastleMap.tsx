@@ -81,7 +81,8 @@ type CastlePin = {
   lng: number;
   type: string;
   tagline: string;
-  price_adult?: number;
+  entry_price?: number;
+  free_entry?: boolean;
   pricing_unit?: 'person' | 'group';
   unesco: boolean;
   tags: string[];
@@ -120,7 +121,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
     if (filterCountry && c.country !== filterCountry) return false;
     if (filterType && c.type !== filterType) return false;
     if (filterUnescoOnly && !c.unesco) return false;
-    if (filterFreeOnly && c.price_adult !== 0) return false;
+    if (filterFreeOnly && !c.free_entry) return false;
     if (filterHotelOnly && !c.hasHotel) return false;
     return true;
   });
@@ -323,11 +324,11 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                       ? `🏨 From ${getCurrencySymbol(selectedCastle.hotel_currency ?? 'EUR')}${selectedCastle.hotel_price_from_night} / night`
                       : '🏨 Check rates'}
                   </p>
-                ) : selectedCastle.price_adult != null && (
+                ) : selectedCastle.entry_price != null && (
                   <p className="text-xs text-stone-600 mb-2">
-                    {selectedCastle.price_adult === 0
+                    {selectedCastle.entry_price === 0
                       ? '🎟 Free entry'
-                      : `🎟 From €${selectedCastle.price_adult}${selectedCastle.pricing_unit === 'group' ? ' / group' : ''}`}
+                      : `🎟 From €${selectedCastle.entry_price}${selectedCastle.pricing_unit === 'group' ? ' / group' : ''}`}
                   </p>
                 )}
                 <a

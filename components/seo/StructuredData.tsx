@@ -1,5 +1,5 @@
 import { Castle } from '@/types';
-import { getCurrencySymbol } from '@/lib/hotels';
+import { priceRangeLabel } from '@/lib/entry-price';
 import countryCodes from '@/lib/country-codes.json';
 import { getCastleLastModified } from '@/lib/lastmod';
 import { stripMarkdown } from '@/lib/inline-markdown';
@@ -46,9 +46,8 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
       streetAddress: castle.address ?? '',
       addressCountry: getCountryCode(castle.country),
     },
-    ...(castle.price_adult != null && {
-      priceRange: castle.price_adult === 0 ? 'Free' : `${getCurrencySymbol(castle.price_currency ?? 'EUR')}${castle.price_adult}`,
-    }),
+    // Only the active GetYourGuide tour's price, in EUR (lib/entry-price.js); left out without one.
+    ...(priceRangeLabel(castle) && { priceRange: priceRangeLabel(castle) }),
     ...(castle.opening_hours?.seasonal_note && {
       openingHoursSpecification: {
         '@type': 'OpeningHoursSpecification',

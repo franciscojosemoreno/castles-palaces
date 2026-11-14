@@ -463,16 +463,6 @@ export default async function CastlePage({ params }: PageProps) {
                 ) : 'Check rates'}
               </p>
             </>
-          ) : castle.price_adult !== undefined && castle.price_adult > 0 ? (
-            <>
-              <p className="text-xs text-stone-500 leading-none mb-0.5">Entry from</p>
-              <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">
-                €{castle.price_adult}
-                <span className="text-stone-400 font-normal text-xs ml-1">/ adult</span>
-              </p>
-            </>
-          ) : castle.price_adult === 0 ? (
-            <p className="font-serif font-bold text-[#1761a0] text-xl leading-none">Free Entry</p>
           ) : (
             <p className="font-serif font-bold text-[#1761a0] text-base leading-none">Plan Your Visit</p>
           )}

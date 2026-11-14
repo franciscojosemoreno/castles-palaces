@@ -80,18 +80,13 @@ export default function CastleQuickFacts({ castle }: CastleQuickFactsProps) {
       // Not a live link while the booking listing is paused — same rule the primary CTA already follows.
       href: castle.hotel!.booking_paused ? undefined : castle.hotel!.booking_url,
     },
-    // The entry price row — "Entry from", "Guided tour from", "Day-visit entry" … — comes from getEntryPrice
-    // (lib/entry-price.js), the same function that writes the price shown in the ⌘K search.
+    // The entry price row — "Guided tour from", "Skip-the-line from" … — comes from getEntryPrice
+    // (lib/entry-price.js): only the active GetYourGuide tour's price, in EUR. Same function as the ⌘K search.
     entryPrice && {
       icon: '🎟️',
       label: entryPrice.label,
       value: entryPrice.value,
-      // When the value is this castle's own real price (not the pass), don't link it to
-      // the pass's booking page — only the "Get Tickets & Tours" CTA below does that.
-      // A hotel-only castle's day-visit price has no tour to link to.
-      href: hotelOnly || (castle.gyg_featured_tours?.[0]?.multi_site_pass && castle.price_adult != null)
-        ? undefined
-        : getGYGUrl(castle) ?? undefined,
+      href: getGYGUrl(castle) ?? undefined,
     },
     castle.hotel?.star_category && {
       icon: '🏨',

@@ -15,9 +15,8 @@ interface CastleCardProps {
 export default function CastleCard({ castle, variant = 'default', distanceKm }: CastleCardProps) {
   const href = `/castles/${castle.country}/${castle.id}`;
   const featuredTour = castle.gyg_featured_tours?.[0];
-  const displayPrice = (featuredTour?.price_from != null)
-    ? featuredTour.price_from
-    : castle.price_adult;
+  // The only price a card shows is the active GetYourGuide tour's, in EUR; a castle's own admission is never shown here.
+  const displayPrice = featuredTour?.price_from ?? null;
   const hotelNightly = (displayPrice == null && castle.hotel?.is_hotel)
     ? castle.hotel.price_from_night
     : null;
