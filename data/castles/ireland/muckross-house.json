@@ -26,9 +26,7 @@
     "sunday": "09:00–17:30",
     "seasonal_note": "May–Sep: open until 19:00. Winter hours (Nov–Feb): may close earlier. Check killarneynationalpark.ie. Interior admission is separate and extra."
   },
-  "price_adult": 0,
-  "price_child": 0,
-  "price_currency": "EUR",
+  "price_adult": null,
   "booking_required": false,
   "official_tickets_url": "https://www.killarneynationalpark.ie/muckross-house-gardens-traditional-farms/",
   "visit_duration": "1–1.5 hours (exterior, gardens, and Traditional Farms); 2–2.5 hours with interior tour (separate ticket)",
