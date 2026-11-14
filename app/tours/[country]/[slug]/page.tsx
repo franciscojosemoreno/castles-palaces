@@ -271,7 +271,7 @@ export default async function TourPage({ params }: Props) {
             {/* Included / Excluded */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
               <div>
-                <h3 className="font-serif text-xl font-bold text-[#1761a0] mb-4">What's Included</h3>
+                <h3 className="font-serif text-xl font-bold text-[#1761a0] mb-4">What&apos;s Included</h3>
                 <ul className="space-y-2">
                   {tour.included.map((item, i) => (
                     <li key={i} className="flex items-start gap-2 text-sm text-[#333]">

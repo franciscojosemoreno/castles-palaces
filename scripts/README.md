@@ -156,7 +156,7 @@ Structured data (JSON-LD) never carries Markdown: `stripMarkdown` cleans `taglin
 `opening_hours.seasonal_note` and FAQ answers before they are written. The editorial fields
 (`how_to_visit`, `how_to_stay`, tour `overview`/`tips`/FAQ, hub FAQ) go through
 `renderEditorialHtml` (`lib/markdown.ts`) and may link to external sites; an internal link there
-to a page that does not exist is only a warning.
+to a page that does not exist (a 404) fails the build too; external links are not checked.
 
 ## generate-lastmod.mjs
 

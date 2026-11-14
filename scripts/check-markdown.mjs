@@ -11,7 +11,7 @@
 // The JSON-LD-only fields (opening_hours.seasonal_note, accessibility) go through stripMarkdown, so they
 // may use the same syntax and bullets; only a malformed leftover fails.
 // Editorial fields (how_to_visit, how_to_stay, tour overview/tips/FAQ) are converted by renderEditorialHtml;
-// a link there to a page that does not exist is reported as a warning.
+// an internal link there to a page that does not exist (a 404) is an error; external links are not checked.
 //
 //   node scripts/check-markdown.mjs          (also `npm run check:markdown`, and part of prebuild)
 
@@ -25,7 +25,6 @@ const { resolveInternalLink } = require('../lib/internal-links.js');
 
 const ROOT = process.cwd();
 const errors = [];
-const warnings = [];
 
 function* jsonFiles(dir) {
   if (!fs.existsSync(dir)) return;
@@ -112,17 +111,13 @@ function check(file, { plain, stripped, editorial }) {
     const text = str(raw);
     if (!text) continue;
     // External links are fine here; an internal path that is not a page would be a 404 for the visitor.
-    checkLinks(text, (url) => { if (internalTarget(url)) warnings.push(`${rel}: ${field}: internal link "${url}" is not an existing page`); });
+    checkLinks(text, (url) => { if (internalTarget(url)) errors.push(`${rel}: ${field}: internal link "${url}" is not an existing page (404)`); });
   }
 }
 
 for (const file of jsonFiles(path.join(ROOT, 'data/castles'))) check(file, castleFields(JSON.parse(fs.readFileSync(file, 'utf-8'))));
 for (const file of jsonFiles(path.join(ROOT, 'data/tours'))) check(file, tourFields(JSON.parse(fs.readFileSync(file, 'utf-8'))));
 
-if (warnings.length) {
-  console.warn(`check-markdown: ${warnings.length} warning(s)`);
-  for (const w of warnings.slice(0, 20)) console.warn(`  ${w}`);
-}
 if (errors.length) {
   console.error(`check-markdown: ${errors.length} problem(s)`);
   for (const e of errors) console.error(`  ${e}`);
