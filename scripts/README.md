@@ -135,6 +135,29 @@ is a remote castle with nothing within 150 km but something within 500 km: at mo
 A castle with no `nearby_castles` gets its block from the coordinates at render time (same
 150 km cap, and its 2 nearest if nothing is within 150 km), so there is nothing to check.
 
+## check-markdown.mjs
+
+Fails the build when copy has Markdown the page cannot render as intended. Plain-text fields
+(castle `description`, `history`, `highlights`, `tagline`, `architectural_style`, FAQ answers;
+tour itinerary stops, `excluded`, `meeting_point`) are drawn by `components/ui/InlineText.tsx`,
+which understands `[text](url)`, `**bold**` and `*italic*` (the syntax lives in
+`lib/inline-markdown.js`). A link becomes a real `<a>` only when its target is a page of this
+site that exists (`lib/internal-links.js`: published castle, tour, route, guide, country hub or
+static page; relative path or castles-palaces.com). External or broken targets print only the
+text, so the check treats them as errors, together with `##` headings, `- ` list lines, `` `code` ``,
+images, HTML and unbalanced `**` in those fields.
+
+```sh
+npm run check:markdown        # also part of prebuild
+npm run test:inline-markdown  # fixtures for the parser, the stripper and the link resolver
+```
+
+Structured data (JSON-LD) never carries Markdown: `stripMarkdown` cleans `tagline`,
+`opening_hours.seasonal_note` and FAQ answers before they are written. The editorial fields
+(`how_to_visit`, `how_to_stay`, tour `overview`/`tips`/FAQ, hub FAQ) go through
+`renderEditorialHtml` (`lib/markdown.ts`) and may link to external sites; an internal link there
+to a page that does not exist is only a warning.
+
 ## generate-lastmod.mjs
 
 Writes `lib/lastmod.generated.json`: the date of the last git commit that touched each

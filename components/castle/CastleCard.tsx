@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Castle } from '@/types';
 import Badge from '@/components/ui/Badge';
+import { inlineText } from '@/components/ui/InlineText';
 import { getCurrencySymbol, formatHotelPrice, ROOM_LOCATION_BADGE } from '@/lib/hotels';
 
 interface CastleCardProps {
@@ -79,7 +80,7 @@ export default function CastleCard({ castle, variant = 'default', distanceKm }: 
         <h3 className="font-serif font-bold text-[#1a1a1a] text-lg leading-snug mb-1 group-hover:text-[#1761a0]">
           {castle.name}
         </h3>
-        <p className="text-sm text-stone-500 leading-relaxed line-clamp-2">{castle.tagline}</p>
+        <p className="text-sm text-stone-500 leading-relaxed line-clamp-2">{inlineText(castle.tagline)}</p>
 
         {isHotelVariant && castle.hotel?.star_category && (
           <div

@@ -4,6 +4,7 @@ import { useState, useCallback, useRef } from 'react';
 import { GoogleMap, useJsApiLoader, MarkerClusterer, Marker, InfoWindow } from '@react-google-maps/api';
 import Link from 'next/link';
 import { getCurrencySymbol } from '@/lib/hotels';
+import { inlineText } from '@/components/ui/InlineText';
 
 const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY ?? '';
 
@@ -315,7 +316,7 @@ export default function CastleMap({ castles }: { castles: CastlePin[] }) {
                   {COUNTRY_LABELS[selectedCastle.country] ?? selectedCastle.country} · {selectedCastle.type}
                 </p>
                 <p className="font-serif font-bold text-[#1761a0] text-sm leading-tight mb-1">{selectedCastle.name}</p>
-                <p className="text-stone-500 text-xs leading-relaxed mb-2 line-clamp-2">{selectedCastle.tagline}</p>
+                <p className="text-stone-500 text-xs leading-relaxed mb-2 line-clamp-2">{inlineText(selectedCastle.tagline)}</p>
                 {selectedCastle.isHotel ? (
                   <p className="text-xs text-stone-600 mb-2">
                     {selectedCastle.hotel_price_from_night != null

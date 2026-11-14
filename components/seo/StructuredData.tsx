@@ -2,6 +2,7 @@ import { Castle } from '@/types';
 import { getCurrencySymbol } from '@/lib/hotels';
 import countryCodes from '@/lib/country-codes.json';
 import { getCastleLastModified } from '@/lib/lastmod';
+import { stripMarkdown } from '@/lib/inline-markdown';
 
 interface StructuredDataProps {
   castle: Castle;
@@ -32,7 +33,7 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
     '@context': 'https://schema.org',
     '@type': 'TouristAttraction',
     name: castle.name,
-    description: castle.tagline,
+    description: stripMarkdown(castle.tagline),
     url: fullUrl,
     image: absoluteImage,
     geo: {
@@ -51,7 +52,8 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
     ...(castle.opening_hours?.seasonal_note && {
       openingHoursSpecification: {
         '@type': 'OpeningHoursSpecification',
-        description: castle.opening_hours.seasonal_note,
+        // JSON-LD is plain text: the copy's Markdown (bold, links, list dashes) is stripped.
+        description: stripMarkdown(castle.opening_hours.seasonal_note),
       },
     }),
     // Date of the last git commit that touched this ficha (lib/lastmod.ts), not the hand-entered
@@ -84,7 +86,7 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
       mainEntity: castle.faqs.map((faq) => ({
         '@type': 'Question',
         name: faq.question,
-        acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+        acceptedAnswer: { '@type': 'Answer', text: stripMarkdown(faq.answer) },
       })),
     });
   }

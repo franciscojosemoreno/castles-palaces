@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { FAQ } from '@/types';
+import { inlineText } from '@/components/ui/InlineText';
 
 interface CastleFAQProps {
   faqs: FAQ[];
@@ -26,7 +27,7 @@ export default function CastleFAQ({ faqs }: CastleFAQProps) {
           </button>
           {openIndex === index && (
             <div className="px-4 pb-4 text-sm text-stone-600 leading-relaxed bg-white border-t border-stone-100">
-              <p className="pt-3">{faq.answer}</p>
+              <p className="pt-3">{inlineText(faq.answer)}</p>
             </div>
           )}
         </div>

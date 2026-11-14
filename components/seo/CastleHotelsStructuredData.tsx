@@ -1,4 +1,5 @@
 import type { HotelCountrySummary } from '@/lib/hotel-directory';
+import { stripMarkdown } from '@/lib/inline-markdown';
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.castles-palaces.com';
 
@@ -92,7 +93,7 @@ export function CastleHotelsCountryStructuredData({ countrySlug, countryName, ca
           name: castle.name,
           url: `${BASE_URL}/castles/${castle.country}/${castle.id}`,
           image: absoluteUrl(castle.hero_image.url),
-          description: castle.tagline,
+          description: stripMarkdown(castle.tagline),
         },
       })),
     },

@@ -1,4 +1,5 @@
 import { Castle } from '@/types';
+import { stripMarkdown } from '@/lib/inline-markdown';
 
 interface CountryStructuredDataProps {
   countrySlug: string;
@@ -53,7 +54,7 @@ export default function CountryStructuredData({
             name: castle.name,
             url: castleUrl,
             image: absoluteImage,
-            description: castle.tagline,
+            description: stripMarkdown(castle.tagline),
           },
         };
       }),

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/check-country-codes.mjs && node scripts/check-url-case.mjs && node scripts/check-nearby.mjs && node scripts/generate-lastmod.mjs && node scripts/generate-search-index.js && LINT_COPY_STRICT=1 node scripts/lint-public-copy.mjs",
+    "prebuild": "node scripts/check-country-codes.mjs && node scripts/check-url-case.mjs && node scripts/check-nearby.mjs && node scripts/check-markdown.mjs && node scripts/generate-lastmod.mjs && node scripts/generate-search-index.js && LINT_COPY_STRICT=1 node scripts/lint-public-copy.mjs",
     "build": "next build",
     "postbuild": "node scripts/check-url-case.mjs --built",
     "start": "next start",
@@ -12,6 +12,8 @@
     "check:countries": "node scripts/check-country-codes.mjs",
     "check:urls": "node scripts/check-url-case.mjs",
     "check:nearby": "node scripts/check-nearby.mjs",
+    "check:markdown": "node scripts/check-markdown.mjs",
+    "test:inline-markdown": "node lib/inline-markdown.test.mjs",
     "lint:copy": "node scripts/lint-public-copy.mjs",
     "lint:copy:strict": "LINT_COPY_STRICT=1 node scripts/lint-public-copy.mjs",
     "lint:copy:test": "node scripts/lint-public-copy.test.mjs",

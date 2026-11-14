@@ -11,6 +11,9 @@ import TourStructuredData from '@/components/seo/TourStructuredData';
 import GYGWidget from '@/components/affiliate/GYGWidget';
 import { getGYGSearchUrl, addGYGTrackingParams } from '@/lib/gyg';
 import { renderEditorialHtml } from '@/lib/markdown';
+import { inlineText } from '@/components/ui/InlineText';
+import { hasInlineMarkdown } from '@/lib/inline-markdown';
+import { resolveInternalLink } from '@/lib/internal-links';
 import { shouldShowStars } from '@/lib/rating-thresholds';
 
 const GYG_PARTNER_ID = process.env.NEXT_PUBLIC_GYG_PARTNER_ID ?? '';
@@ -257,7 +260,7 @@ export default async function TourPage({ params }: Props) {
                         )}
                         <span className="text-xs text-[#666] bg-[#f5f0e8] px-2 py-0.5 rounded-full">{stop.duration}</span>
                       </div>
-                      <p className="text-[#555] leading-relaxed">{stop.description}</p>
+                      <p className="text-[#555] leading-relaxed">{inlineText(stop.description, resolveInternalLink)}</p>
                     </div>
                   </div>
                   );
@@ -282,7 +285,7 @@ export default async function TourPage({ params }: Props) {
                 <ul className="space-y-2">
                   {tour.excluded.map((item, i) => (
                     <li key={i} className="flex items-start gap-2 text-sm text-[#333]">
-                      <span className="text-red-500 font-bold flex-shrink-0">✗</span>{item}
+                      <span className="text-red-500 font-bold flex-shrink-0">✗</span>{hasInlineMarkdown(item) ? <span>{inlineText(item, resolveInternalLink)}</span> : item}
                     </li>
                   ))}
                 </ul>
@@ -365,7 +368,7 @@ export default async function TourPage({ params }: Props) {
               </p>
               <div className="mt-6 pt-6 border-t border-gray-100">
                 <p className="text-xs text-[#666] uppercase tracking-wider font-medium mb-2">Meeting point</p>
-                <p className="text-sm text-[#555]">{tour.meeting_point}</p>
+                <p className="text-sm text-[#555]">{inlineText(tour.meeting_point, resolveInternalLink)}</p>
               </div>
             </div>
           </div>

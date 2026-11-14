@@ -16,6 +16,9 @@ import HotelBookingCard from '@/components/castle/HotelBookingCard';
 import StructuredData from '@/components/seo/StructuredData';
 import { getPrimaryCta, isHotelOnly, getCurrencySymbol, ROOM_LOCATION_STAY_CTA } from '@/lib/hotels';
 import { renderEditorialHtml } from '@/lib/markdown';
+import { inlineText } from '@/components/ui/InlineText';
+import { hasInlineMarkdown } from '@/lib/inline-markdown';
+import { resolveInternalLink } from '@/lib/internal-links';
 import { getToursVisitingCastle } from '@/lib/tours';
 import { getGuidesFeaturingCastle } from '@/lib/guides';
 import { formatMonthYear, getCastleLastModified } from '@/lib/lastmod';
@@ -151,7 +154,7 @@ export default async function CastlePage({ params }: PageProps) {
                   : castle.built_century
                   ? `${ordinal(castle.built_century)} century · `
                   : ''}
-                {castle.architectural_style}
+                {inlineText(castle.architectural_style, resolveInternalLink)}
               </p>
             )}
             <p className="text-stone-500 text-sm mb-5">
@@ -197,7 +200,7 @@ export default async function CastlePage({ params }: PageProps) {
                 {castle.highlights.map((item, i) => (
                   <li key={i} className="flex items-start gap-2 text-sm text-stone-700">
                     <span className="text-[#c9a84c] font-bold mt-0.5 flex-shrink-0">✦</span>
-                    {item}
+                    {hasInlineMarkdown(item) ? <span>{inlineText(item, resolveInternalLink)}</span> : item}
                   </li>
                 ))}
               </ul>
@@ -235,7 +238,7 @@ export default async function CastlePage({ params }: PageProps) {
             {/* Description */}
             <div className="prose-editorial mb-8">
               {castle.description.split('\n\n').map((para, i) => (
-                <p key={i}>{para}</p>
+                <p key={i}>{inlineText(para, resolveInternalLink)}</p>
               ))}
             </div>
 
@@ -245,7 +248,7 @@ export default async function CastlePage({ params }: PageProps) {
                 <h2 className="font-serif font-bold text-[#1761a0] text-2xl mb-4">History</h2>
                 <div className="prose-editorial">
                   {castle.history.split('\n\n').map((para, i) => (
-                    <p key={i}>{para}</p>
+                    <p key={i}>{inlineText(para, resolveInternalLink)}</p>
                   ))}
                 </div>
               </section>
