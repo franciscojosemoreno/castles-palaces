@@ -24,16 +24,16 @@
     "friday": "By appointment",
     "saturday": "By appointment",
     "sunday": "Closed",
-    "seasonal_note": "Tours run April to October by advance booking (minimum 2 days). Closed Sundays and during harvest (typically September — check saint-ahon.com for availability). Book via the GetYourGuide tour listing or directly at saint-ahon.com."
+    "seasonal_note": "Tours run April to October by advance booking (minimum 2 days). Closed Sundays and during harvest (typically September — check the official website for availability). Book via the GetYourGuide tour listing or directly on the official website."
   },
   "price_adult": null,
   "price_child": null,
   "price_currency": "EUR",
   "booking_required": true,
-  "official_tickets_url": "https://www.saint-ahon.com",
+  "official_tickets_url": null,
   "visit_duration": "1 hour (cellar tour + tasting)",
   "best_season": "April to October — vine rows are most attractive in leaf; harvest season (September) gives vivid agricultural context; winter visits focus on the chai and tasting room; summer mornings before the afternoon heat are optimal for vineyard walks",
-  "accessibility": "**Moderate accessibility** — the estate grounds and chai are on relatively flat terrain compared to hilltop castles, but the working cellar floor is uneven and the vineyard paths are unpaved gravel; the tour format involves a walking circuit of the estate; contact saint-ahon.com before visiting for specific accessibility information.",
+  "accessibility": "**Moderate accessibility** — the estate grounds and chai are on relatively flat terrain compared to hilltop castles, but the working cellar floor is uneven and the vineyard paths are unpaved gravel; the tour format involves a walking circuit of the estate; contact the estate before visiting for specific accessibility information.",
   "booking_advance_days": 2,
   "tagline": "An 18th-century Haut-Médoc wine estate fifteen kilometres from Bordeaux — guided chai tour and tasting on the Route des Châteaux.",
   "highlights": [

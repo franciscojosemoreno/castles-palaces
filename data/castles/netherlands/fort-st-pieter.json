@@ -24,13 +24,13 @@
     "friday": "10:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "10:00–17:00",
-    "seasonal_note": "Closed Mondays. Open year-round Tuesday–Sunday. Last guided tour at 15:30. Guided tours only — no self-guided access to the underground passages. Confirm hours at fortsinpieter.nl."
+    "seasonal_note": "Closed Mondays. Open year-round Tuesday–Sunday. Last guided tour at 15:30. Guided tours only — no self-guided access to the underground passages. Confirm hours on the official website."
   },
   "price_adult": 8,
   "price_child": 5,
   "price_currency": "EUR",
   "booking_required": true,
-  "official_tickets_url": "https://www.fortsinpieter.nl",
+  "official_tickets_url": null,
   "visit_duration": "1 hour (guided tour, mandatory — no self-guided access)",
   "best_season": "Year-round — the underground temperature is constant (approximately 10–12°C year-round; bring a light jacket); the fort exterior views over the Maas Valley are best in clear weather; the site is directly accessible from Maastricht city centre",
   "accessibility": "The underground passages involve ducking in some sections and are on uneven stone floors with occasional steps. Not suitable for visitors with claustrophobia, significant mobility limitations, or breathing difficulties. Confirm with the site before booking if you have specific accessibility needs.",

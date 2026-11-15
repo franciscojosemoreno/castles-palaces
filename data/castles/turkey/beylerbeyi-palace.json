@@ -24,16 +24,16 @@
     "friday": "09:00–17:00",
     "saturday": "09:00–17:00",
     "sunday": "09:00–17:00",
-    "seasonal_note": "Open Wednesday–Sunday (closed Monday and Tuesday). Last entry approximately 1 hour before closing. Hours are subject to change on public holidays and during official state functions; confirm at millisarayi.gov.tr before visiting. The GetYourGuide entry ticket is a self-guided visit ticket. The palace interior is accessible only by guided group tour (guides assigned at the entrance); solo independent self-guided walkthroughs are not offered — a group forms and tours together with a palace guide."
+    "seasonal_note": "Open Wednesday–Sunday (closed Monday and Tuesday). Last entry approximately 1 hour before closing. Hours are subject to change on public holidays and during official state functions; confirm at millisaraylar.gov.tr before visiting. The GetYourGuide entry ticket is a self-guided visit ticket. The palace interior is accessible only by guided group tour (guides assigned at the entrance); solo independent self-guided walkthroughs are not offered — a group forms and tours together with a palace guide."
   },
   "price_adult": 16,
   "price_child": 250,
   "price_currency": "TRY",
   "booking_required": false,
-  "official_tickets_url": "https://www.millisarayi.gov.tr/beylerbeyi-sarayi",
+  "official_tickets_url": "https://millisaraylar.gov.tr",
   "visit_duration": "1.5–2 hours (the main reception rooms of the selamlık — the grand staircase, the main hall, the reception rooms with their chandeliers and mother-of-pearl inlay, the waterfront terrace view — plus the marble pool pavilion and the hamam; the harem apartments are included in the guided circuit)",
   "best_season": "Spring (April–June) and autumn (September–November) for the most pleasant Bosphorus ambient conditions and the clearest views of the strait from the waterfront terrace. Summer is hot on the Asian shore; winter is mild but the gardens are less vivid. Weekday mornings offer fewer tour groups.",
-  "accessibility": "The palace involves multiple floors and staircase access between levels; limited wheelchair accessibility. The waterfront garden paths are level. The entry ticket (GYG t1413373) is a self-guided entry approach but palace visits are conducted with palace guides in groups — confirm current accessibility arrangements at millisarayi.gov.tr.",
+  "accessibility": "The palace involves multiple floors and staircase access between levels; limited wheelchair accessibility. The waterfront garden paths are level. The entry ticket (GYG t1413373) is a self-guided entry approach but palace visits are conducted with palace guides in groups — confirm current accessibility arrangements at millisaraylar.gov.tr.",
   "booking_advance_days": 1,
   "tagline": "The Ottoman Empire's summer palace on the Asian shore of the Bosphorus — where Sultan Abdülaziz received Empress Eugénie, where Napoleon III's crystal chandeliers meet mother-of-pearl inlay, and where the strait's traffic is visible from the waterfront terrace",
   "highlights": [
@@ -56,7 +56,7 @@
     },
     {
       "question": "Is photography allowed inside Beylerbeyi Palace?",
-      "answer": "Photography policies at Turkish national palaces change periodically. At the time of writing, non-flash photography is generally permitted in the exterior gardens and at the palace facade; interior photography rules vary by room. Confirm current photography rules at millisarayi.gov.tr or when purchasing your entry ticket. The palace guide will advise on permitted photography at the start of the group tour. The Bosphorus waterfront view from the palace gardens is always freely photographable."
+      "answer": "Photography policies at Turkish national palaces change periodically. At the time of writing, non-flash photography is generally permitted in the exterior gardens and at the palace facade; interior photography rules vary by room. Confirm current photography rules at millisaraylar.gov.tr or when purchasing your entry ticket. The palace guide will advise on permitted photography at the start of the group tour. The Bosphorus waterfront view from the palace gardens is always freely photographable."
     }
   ],
   "hero_image": {

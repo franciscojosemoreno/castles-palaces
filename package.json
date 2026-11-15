@@ -13,6 +13,7 @@
     "check:urls": "node scripts/check-url-case.mjs",
     "check:nearby": "node scripts/check-nearby.mjs",
     "check:markdown": "node scripts/check-markdown.mjs",
+    "check:official-urls": "node scripts/check-official-urls.mjs",
     "check:prices": "node scripts/check-prices.mjs",
     "test:inline-markdown": "node lib/inline-markdown.test.mjs",
     "lint:copy": "node scripts/lint-public-copy.mjs",

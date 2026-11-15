@@ -24,13 +24,13 @@
     "friday": "09:00–17:00",
     "saturday": "10:00–17:00",
     "sunday": "10:00–17:00",
-    "seasonal_note": "Open Tuesday–Sunday year-round; reduced hours in winter (November–March, typically 09:00–16:00). The Kórnik Arboretum has separate access and entrance fee. Last entry to the castle interior approximately 1 hour before closing. Confirm current hours at zamek-kornik.pl before visiting."
+    "seasonal_note": "Open Tuesday–Sunday year-round; reduced hours in winter (November–March, typically 09:00–16:00). The Kórnik Arboretum has separate access and entrance fee. Last entry to the castle interior approximately 1 hour before closing. Confirm current hours at bkpan.poznan.pl before visiting."
   },
   "price_adult": 12,
   "price_child": 6,
   "price_currency": "EUR",
   "booking_required": false,
-  "official_tickets_url": "https://www.zamek-kornik.pl",
+  "official_tickets_url": "https://www.bkpan.poznan.pl",
   "visit_duration": "1–1.5 hours (guided tour of the castle interior including the Moorish Hall, armory, and state rooms); 1–2 additional hours for the Kórnik Arboretum",
   "best_season": "May to June for the arboretum's rhododendron and magnolia flowering; September to October for autumn colour in the arboretum. The castle interior is worthwhile year-round during the open season.",
   "accessibility": "The castle interior tour involves stairs and period floors; not fully wheelchair accessible. The Kórnik Arboretum is largely flat with gravel and grass paths. Confirm specific accessibility requirements at the castle before visiting.",

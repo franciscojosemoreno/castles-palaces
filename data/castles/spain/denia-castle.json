@@ -23,16 +23,16 @@
     "friday": "10:00–18:00",
     "saturday": "10:00–19:00",
     "sunday": "10:00–19:00",
-    "seasonal_note": "Summer (June–September): daily 10:00–19:30. Winter (October–May): daily 10:00–18:00. Last admission 30 minutes before closing. The archaeological museum within the castle palace is open during all visiting hours. The GetYourGuide Segway tour operates at scheduled departure times — check availability when booking via GetYourGuide. Confirm current hours at museusdenia.es before visiting."
+    "seasonal_note": "Summer (June–September): daily 10:00–19:30. Winter (October–May): daily 10:00–18:00. Last admission 30 minutes before closing. The archaeological museum within the castle palace is open during all visiting hours. The GetYourGuide Segway tour operates at scheduled departure times — check availability when booking via GetYourGuide. Confirm current hours on the official website before visiting."
   },
   "price_adult": 3,
   "price_child": 2,
   "price_currency": "EUR",
   "booking_required": false,
-  "official_tickets_url": "https://www.museusdenia.es",
+  "official_tickets_url": null,
   "visit_duration": "1.5–2 hours (self-guided); 70 minutes (Segway tour)",
   "best_season": "April to June and September to October — the Mediterranean coast is hot July–August; the castle is most enjoyable in cooler weather; the views over the sea are year-round",
-  "accessibility": "The castle hill is reached by an uphill walk of approximately 10 minutes from the town centre. The castle grounds include paved paths and some stepped sections between zones. The archaeological museum in the palace building has level access within the building. The Segway tour requires participants to be able to stand and balance independently. Visitors with limited mobility can access the lower castle grounds and museum building; the upper defensive circuit involves steps. Confirm specific accessibility arrangements at museusdenia.es.",
+  "accessibility": "The castle hill is reached by an uphill walk of approximately 10 minutes from the town centre. The castle grounds include paved paths and some stepped sections between zones. The archaeological museum in the palace building has level access within the building. The Segway tour requires participants to be able to stand and balance independently. Visitors with limited mobility can access the lower castle grounds and museum building; the upper defensive circuit involves steps. Confirm specific accessibility arrangements on the official website.",
   "booking_advance_days": 0,
   "tagline": "Roman, Islamic, and medieval layers above the Costa Blanca port — 2,500 years of history and Segway tours with sea views",
   "highlights": [

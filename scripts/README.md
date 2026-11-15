@@ -174,6 +174,31 @@ npm run check:prices      # also part of prebuild
 To show a castle's official admission, write it in the description (How to Visit > Tickets), in its
 own currency ("Admission is £10.40 for adults (Cadw)"); never in a price field of the page.
 
+## check-official-urls.mjs
+
+Checks that every external "official" link in the content still works: `official_*_url` fields and any
+other external URL or bare domain written in the copy ("check heritagemalta.mt for hours"). For each one
+it looks up the DNS and requests the page; the result is OK (200), BLOCKED (403/429/503/999: the site
+refuses scripts, check it in a browser), NO_DNS (the domain does not exist), HTTP_<code> or ERROR.
+It needs the network, so it is **not** part of prebuild: run it by hand about once a month.
+
+```sh
+npm run check:official-urls                  # everything; exit 1 on NO_DNS / HTTP_4xx/5xx / ERROR
+npm run check:official-urls -- --only=italy  # only data files whose path contains "italy"
+npm run check:official-urls -- --no-text     # only the official_*_url fields
+```
+
+(`npm run check:urls` is the older, offline check of capital letters in internal URLs — see
+check-url-case.mjs.) The full result is written to `scripts/.check-official-urls-report.json`. A site that
+refuses scripts but loads for people goes in `scripts/official-urls.allow.json` as
+`{ "host": "example.org", "reason": "…" }`.
+
+When a domain is dead: find the castle's real site (operator, municipality or heritage body); use it only
+if it answers 200 and the page is clearly about the castle (the name in the title or the content). If you
+cannot verify one, remove the link and the domain from the text and say "check the official website for
+current opening hours and prices" (no URL). Sites with an expired TLS certificate do not count as
+working.
+
 ## generate-lastmod.mjs
 
 Writes `lib/lastmod.generated.json`: the date of the last git commit that touched each

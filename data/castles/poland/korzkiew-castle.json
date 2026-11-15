@@ -24,13 +24,13 @@
     "friday": "Open",
     "saturday": "Open",
     "sunday": "Open",
-    "seasonal_note": "Korzkiew operates as a boutique hotel; the grounds and café are accessible to non-guests year-round, though access to the castle interior is primarily for hotel guests and event attendees. Non-guests can walk the approach to the castle, visit the café, and experience the hilltop exterior — this is the nature of the visit rather than a full museum-style tour. The GetYourGuide booking link on this page is shared with the Trail of the Eagles' Nests Day Tour from Kraków, which stops at Korzkiew as its first scenic stop, followed by Pieskowa Skała, Rabsztyn, Ogrodzieniec, Mirów, and Bobolice — it is not a standalone Korzkiew ticket. For hotel stays or event bookings contact the castle directly at zamek-korzkiew.pl."
+    "seasonal_note": "Korzkiew operates as a boutique hotel; the grounds and café are accessible to non-guests year-round, though access to the castle interior is primarily for hotel guests and event attendees. Non-guests can walk the approach to the castle, visit the café, and experience the hilltop exterior — this is the nature of the visit rather than a full museum-style tour. The GetYourGuide booking link on this page is shared with the Trail of the Eagles' Nests Day Tour from Kraków, which stops at Korzkiew as its first scenic stop, followed by Pieskowa Skała, Rabsztyn, Ogrodzieniec, Mirów, and Bobolice — it is not a standalone Korzkiew ticket. For hotel stays or event bookings contact the castle directly."
   },
   "price_adult": 0,
   "price_child": 0,
   "price_currency": "PLN",
   "booking_required": false,
-  "official_tickets_url": "https://www.zamek-korzkiew.pl/",
+  "official_tickets_url": null,
   "visit_duration": "30–45 minutes (exterior/grounds/café)",
   "best_season": "April to October",
   "accessibility": "The approach to the castle is on a limestone hilltop path — uneven terrain, not suitable for visitors with significant mobility limitations. The café and lower grounds are more accessible. The interior hotel rooms and banquet halls are for guests and event attendees.",
@@ -53,7 +53,7 @@
     },
     {
       "question": "What is the Korzkiew Cultural Park project?",
-      "answer": "The long-term restoration plan described by the Donimirski family includes rebuilding the second corner tower, completing the full perimeter wall, and developing a surrounding 'Korzkiew Cultural Park' with a reconstructed wooden manor, inn, and brewery — recreating the complete historical estate environment, not just the castle building. This is an ongoing project and not all elements are complete; check the current state at zamek-korzkiew.pl before visiting."
+      "answer": "The long-term restoration plan described by the Donimirski family includes rebuilding the second corner tower, completing the full perimeter wall, and developing a surrounding 'Korzkiew Cultural Park' with a reconstructed wooden manor, inn, and brewery — recreating the complete historical estate environment, not just the castle building. This is an ongoing project and not all elements are complete; check the current state with the castle before visiting."
     }
   ],
   "hero_image": {
