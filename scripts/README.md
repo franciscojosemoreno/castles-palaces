@@ -199,6 +199,17 @@ cannot verify one, remove the link and the domain from the text and say "check t
 current opening hours and prices" (no URL). Sites with an expired TLS certificate do not count as
 working.
 
+## lib/country-hub.js (country and hotel hubs)
+
+Not a script, but what feeds `/castles/[country]` and `/castle-hotels/[country]`: the title, meta description,
+second intro paragraph, "by region" list, "Palaces in …" list and three FAQs are generated from each country's
+castle data, so a new country gets the same hub with no hand-written copy. Anything written in
+`data/countries.json` (`seo_title_override`, `seo_description_override`, `intro_paragraph_2`, `hub_faqs`) wins
+over the generated text. Titles are at most 60 characters without the site suffix and fall back from
+"Castles, Palaces and Fortresses to Visit" to "Castles, Palaces & Forts", "Castles & Palaces" and "Sites to
+Visit". The region list is hidden when no region has two or more castles; region spellings that mean the same
+place are merged in `REGION_ALIASES`. Tests: `npm run test:country-hub`.
+
 ## generate-lastmod.mjs
 
 Writes `lib/lastmod.generated.json`: the date of the last git commit that touched each

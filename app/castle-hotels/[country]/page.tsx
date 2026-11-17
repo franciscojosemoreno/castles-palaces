@@ -1,7 +1,12 @@
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { getHotelCastlesByCountry, getAllHotelCountrySlugs } from '@/lib/hotel-directory';
+import {
+  buildHotelHubTitle, buildHotelHubDescription, buildHotelIntro2, buildHotelHubFaqs, groupByRegion, worthShowingRegions,
+} from '@/lib/country-hub';
+import { renderEditorialHtml } from '@/lib/markdown';
 import { getCountryBySlug } from '@/lib/countries';
 import CastleCard from '@/components/castle/CastleCard';
 import Breadcrumb from '@/components/ui/Breadcrumb';
@@ -19,10 +24,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { country } = await params;
   const countryData = getCountryBySlug(country);
   if (!countryData) return {};
-  const count = getHotelCastlesByCountry(country).length;
+  const hotels = getHotelCastlesByCountry(country);
   return {
-    title: `${countryData.name} Castle Hotels: ${count} Historic Castles You Can Actually Stay In`,
-    description: `Book a night in one of ${count} historic castles and palaces in ${countryData.name} that take overnight guests — real rooms, real history, no costume required.`,
+    // Generated from the country's hotel fichas (lib/country-hub.js).
+    title: buildHotelHubTitle(countryData.name, hotels),
+    description: buildHotelHubDescription(countryData.name, hotels),
     alternates: { canonical: `/castle-hotels/${country}` },
   };
 }
@@ -32,6 +38,11 @@ export default async function CastleHotelsCountryPage({ params }: PageProps) {
   const countryData = getCountryBySlug(country);
   const castles = getHotelCastlesByCountry(country);
   if (!countryData || castles.length === 0) notFound();
+
+  const intro2 = buildHotelIntro2(countryData.name, castles);
+  const regionGroups = castles.length >= 4 ? groupByRegion(castles) : [];
+  const showRegions = worthShowingRegions(regionGroups);
+  const faqs = buildHotelHubFaqs(country, countryData.name, castles);
 
   return (
     <div>
@@ -65,11 +76,59 @@ export default async function CastleHotelsCountryPage({ params }: PageProps) {
             { label: countryData.name },
           ]}
         />
+        <p className="text-[#333] leading-relaxed mt-6 max-w-3xl">{intro2}</p>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
           {castles.map((castle) => (
             <CastleCard key={castle.id} castle={castle} variant="hotel" />
           ))}
         </div>
+
+        {showRegions && (
+          <div className="mt-14 max-w-3xl">
+            <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">
+              {countryData.name} castle hotels by region
+            </h2>
+            <ul className="space-y-2">
+              {regionGroups.map((group) => (
+                <li key={group.label} className="text-[#333] leading-relaxed">
+                  <span className="font-semibold">{group.label}:</span>{' '}
+                  {group.castles.map((castle, i) => (
+                    <span key={castle.id}>
+                      <Link
+                        href={`/castles/${country}/${castle.id}`}
+                        prefetch={false}
+                        className="text-[#1761a0] hover:underline"
+                      >
+                        {castle.name}
+                      </Link>
+                      {i < group.castles.length - 1 ? ', ' : ''}
+                    </span>
+                  ))}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {faqs.length > 0 && (
+          <div className="mt-14 max-w-3xl">
+            <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">
+              Frequently asked questions
+            </h2>
+            <div className="space-y-5">
+              {faqs.map((faq) => (
+                <div key={faq.question}>
+                  <h3 className="font-semibold text-[#1a1a1a] mb-1">{faq.question}</h3>
+                  <p
+                    className="text-[#555] leading-relaxed"
+                    dangerouslySetInnerHTML={{ __html: renderEditorialHtml(faq.answer) }}
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

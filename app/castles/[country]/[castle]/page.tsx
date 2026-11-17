@@ -282,13 +282,18 @@ export default async function CastlePage({ params }: PageProps) {
               </section>
             )}
 
-            {countryData?.show_seo_sections && (
+            {countryData && (
               <p className="text-sm text-stone-500 mb-10">
-                Explore more castles in{' '}
                 <Link href={`/castles/${country}`} prefetch={false} className="text-[#1761a0] hover:underline">
-                  Castles in {countryData.name}
+                  {`Explore more castles in ${countryData.name}`}
                 </Link>
-                .
+              </p>
+            )}
+            {countryData && castle.hotel?.is_hotel && (
+              <p className="text-sm text-stone-500 mb-10">
+                <Link href={`/castle-hotels/${country}`} prefetch={false} className="text-[#1761a0] hover:underline">
+                  {`Explore more castle hotels in ${countryData.name}`}
+                </Link>
               </p>
             )}
 

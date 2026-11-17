@@ -16,6 +16,7 @@
     "check:official-urls": "node scripts/check-official-urls.mjs",
     "check:prices": "node scripts/check-prices.mjs",
     "test:inline-markdown": "node lib/inline-markdown.test.mjs",
+    "test:country-hub": "node lib/country-hub.test.mjs",
     "lint:copy": "node scripts/lint-public-copy.mjs",
     "lint:copy:strict": "LINT_COPY_STRICT=1 node scripts/lint-public-copy.mjs",
     "lint:copy:test": "node scripts/lint-public-copy.test.mjs",

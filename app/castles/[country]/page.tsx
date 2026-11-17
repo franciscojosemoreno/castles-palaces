@@ -6,6 +6,9 @@ import { getCastlesByCountry, getAllCountrySlugs } from '@/lib/castles';
 import { getCountryBySlug } from '@/lib/countries';
 import { isHotelOnly } from '@/lib/hotels';
 import { getCastleAreaGroups } from '@/lib/castle-areas';
+import {
+  buildHubTitle, buildHubDescription, buildIntro2, groupByRegion, worthShowingRegions, castlesOfType, buildHubFaqs, buildPalacesFaq,
+} from '@/lib/country-hub';
 import { getGuidesByCountry } from '@/lib/guides';
 import { renderEditorialHtml } from '@/lib/markdown';
 import CastleCard from '@/components/castle/CastleCard';
@@ -25,10 +28,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const countryData = getCountryBySlug(country);
   if (!countryData) return {};
 
-  const castleCount = getCastlesByCountry(country).filter((c) => !isHotelOnly(c)).length;
-  const title = (countryData.seo_title_override ?? `Castles in ${countryData.name}: The Complete Guide`)
-    .replace('{N}', String(castleCount));
-  const description = (countryData.seo_description_override ?? countryData.description.slice(0, 160));
+  const castles = getCastlesByCountry(country).filter((c) => !isHotelOnly(c));
+  // Text written by hand in data/countries.json always wins; otherwise the title and meta are generated
+  // from the country's own castles (lib/country-hub.js).
+  const generated = castles.length > 0;
+  const title = (countryData.seo_title_override ?? (generated ? buildHubTitle(countryData.name, castles) : `Castles in ${countryData.name}: The Complete Guide`))
+    .replace('{N}', String(castles.length));
+  const description = countryData.seo_description_override
+    ?? (generated ? buildHubDescription(countryData.name, castles) : countryData.description.slice(0, 160));
   return {
     title,
     description,
@@ -59,7 +66,20 @@ export default async function CountryPage({ params }: PageProps) {
           .join(', ') + '.',
       }]
     : [];
-  const allFaqs = [...(countryData.hub_faqs ?? []), ...capitalFaq];
+  const palaces = castlesOfType(castles, 'palace');
+  const showPalaces = palaces.length >= 3;
+  // Generated from the data for every country; a country with hand-written hub_faqs keeps its own (the pilot
+  // hub, Malta, also gets the capital question and the palaces question).
+  const palacesFaq = countryData.show_seo_sections ? buildPalacesFaq(country, countryData.name, castles) : null;
+  const allFaqs = countryData.show_seo_sections
+    ? [...(countryData.hub_faqs ?? []), ...capitalFaq, ...(palacesFaq ? [palacesFaq] : [])]
+    : (countryData.hub_faqs ?? buildHubFaqs(country, countryData.name, castles));
+  // Regions: the pilot hub keeps its hand-tuned "by area" list; every other country gets one from the region field.
+  const regionGroups = !countryData.show_seo_sections && castles.length >= 4 ? groupByRegion(castles) : [];
+  const showRegions = worthShowingRegions(regionGroups); // nothing to say when every region has a single castle
+  const intro2 = countryData.intro_paragraph_2
+    ? countryData.intro_paragraph_2.replace('{N}', String(castles.length))
+    : castles.length > 0 ? buildIntro2(countryData.name, castles) : null;
 
   return (
     <div>
@@ -104,11 +124,7 @@ export default async function CountryPage({ params }: PageProps) {
           ]}
         />
 
-        {countryData.show_seo_sections && countryData.intro_paragraph_2 && (
-          <p className="text-[#333] leading-relaxed mt-6 max-w-3xl">
-            {countryData.intro_paragraph_2.replace('{N}', String(castles.length))}
-          </p>
-        )}
+        {intro2 && <p className="text-[#333] leading-relaxed mt-6 max-w-3xl">{intro2}</p>}
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
           {castles.map((castle) => (
@@ -166,7 +182,55 @@ export default async function CountryPage({ params }: PageProps) {
           </div>
         )}
 
-        {countryData.show_seo_sections && allFaqs.length > 0 && (
+        {showRegions && (
+          <div className="mt-14 max-w-3xl">
+            <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">
+              {countryData.name} castles by region
+            </h2>
+            <ul className="space-y-2">
+              {regionGroups.map((group) => (
+                <li key={group.label} className="text-[#333] leading-relaxed">
+                  <span className="font-semibold">{group.label}:</span>{' '}
+                  {group.castles.map((castle, i) => (
+                    <span key={castle.id}>
+                      <Link
+                        href={`/castles/${country}/${castle.id}`}
+                        prefetch={false}
+                        className="text-[#1761a0] hover:underline"
+                      >
+                        {castle.name}
+                      </Link>
+                      {i < group.castles.length - 1 ? ', ' : ''}
+                    </span>
+                  ))}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {showPalaces && (
+          <div className="mt-14 max-w-3xl">
+            <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">
+              Palaces in {countryData.name}
+            </h2>
+            <ul className="space-y-2">
+              {palaces.map((castle) => (
+                <li key={castle.id}>
+                  <Link
+                    href={`/castles/${country}/${castle.id}`}
+                    prefetch={false}
+                    className="text-[#1761a0] hover:underline"
+                  >
+                    {castle.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {allFaqs.length > 0 && (
           <div className="mt-14 max-w-3xl">
             <h2 className="font-serif text-2xl font-bold text-[#1761a0] mb-4">
               Frequently asked questions

@@ -549,6 +549,25 @@
     }
   },
   {
+    "slug": "jersey",
+    "name": "Jersey",
+    "description": "Jersey, the largest of the Channel Islands and a self-governing Crown Dependency, has two castles that visitors can explore. Mont Orgueil Castle is a 13th-century concentric fortification on the headland above Gorey Harbour on the east coast, with layers added during the German Occupation. Elizabeth Castle is a 16th-century artillery fortress on the tidal islet of L'Islet in Saint Helier Bay, reached on foot by a stone causeway at low tide or by the DUKW amphibious ferry at high tide.",
+    "hero_image": {
+      "url": "/images/castles/mont-orgueil-castle.webp",
+      "alt": "Mont Orgueil Castle (Château Mont-Orgueil) rising from the granite headland above Gorey Harbour on Jersey's east coast — 13th-century medieval concentric fortification with WWII German Occupation layers, Jersey, Channel Islands",
+      "width": 1600,
+      "height": 1067
+    },
+    "highlights": [
+      "mont-orgueil-castle",
+      "elizabeth-castle"
+    ],
+    "thumbnail_image": {
+      "url": "/images/castles/mont-orgueil-castle.webp",
+      "alt": "Mont Orgueil Castle above Gorey Harbour, Jersey"
+    }
+  },
+  {
     "slug": "finland",
     "name": "Finland",
     "description": "Finland's medieval heritage is concentrated at its maritime frontier — the sea fortress of Suomenlinna, spread across six islands in Helsinki harbour (UNESCO World Heritage), and Turku Castle, the country's largest medieval fortress, guarding the mouth of the Aura River since 1280. Both were built by Swedish rulers to defend the eastern edge of the Baltic world against Russian expansion.",
@@ -641,8 +660,8 @@
       "alt": "Fort St. Angelo above Grand Harbour, Malta"
     },
     "show_seo_sections": true,
-    "seo_title_override": "Castles in Malta: {N} Forts, Palaces & Citadels to Visit",
-    "seo_description_override": "Explore the castles of Malta and Gozo — Fort St. Elmo, Fort St. Angelo, Mdina, the Gozo Citadel and more. Visiting tips, tickets and tours.",
+    "seo_title_override": "Castles & Palaces in Malta: {N} Forts, Palaces and Citadels to Visit",
+    "seo_description_override": "Malta's castles and palaces: Fort St. Elmo, Fort St. Angelo, Mdina, the Gozo Citadel, the Grand Master's Palace and Palazzo Parisio. Tickets, tours and tips.",
     "intro_paragraph_2": "This guide covers {N} castles, forts and palaces across Malta and Gozo — from Valletta and the Three Cities to the walled city of Mdina and the Gozo Citadel. Below you'll find where each one is, what to expect, and tickets and tours for each.",
     "hub_faqs": [
       {
