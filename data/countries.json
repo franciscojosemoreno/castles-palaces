@@ -553,10 +553,11 @@
     "name": "Jersey",
     "description": "Jersey, the largest of the Channel Islands and a self-governing Crown Dependency, has two castles that visitors can explore. Mont Orgueil Castle is a 13th-century concentric fortification on the headland above Gorey Harbour on the east coast, with layers added during the German Occupation. Elizabeth Castle is a 16th-century artillery fortress on the tidal islet of L'Islet in Saint Helier Bay, reached on foot by a stone causeway at low tide or by the DUKW amphibious ferry at high tide.",
     "hero_image": {
-      "url": "/images/castles/mont-orgueil-castle.webp",
-      "alt": "Mont Orgueil Castle (Château Mont-Orgueil) rising from the granite headland above Gorey Harbour on Jersey's east coast — 13th-century medieval concentric fortification with WWII German Occupation layers, Jersey, Channel Islands",
-      "width": 1600,
-      "height": 1067
+      "url": "/images/countries/jersey.webp",
+      "alt": "Mont Orgueil Castle above Gorey, Jersey",
+      "credit": "Man vyi / Wikimedia Commons, public domain",
+      "width": 1440,
+      "height": 400
     },
     "highlights": [
       "mont-orgueil-castle",
