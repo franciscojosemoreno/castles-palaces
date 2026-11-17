@@ -33,6 +33,7 @@ export default function StructuredData({ castle, url }: StructuredDataProps) {
     '@context': 'https://schema.org',
     '@type': 'TouristAttraction',
     name: castle.name,
+    ...(castle.alternate_names?.length && { alternateName: castle.alternate_names }),
     description: stripMarkdown(castle.tagline),
     url: fullUrl,
     image: absoluteImage,

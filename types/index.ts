@@ -50,6 +50,8 @@ export interface Castle {
   id: string;
   name: string;
   local_name?: string;
+  /** Other names the place is known by (emitted as schema.org alternateName). */
+  alternate_names?: string[];
   type: CastleType;
   status: ContentStatus;
   featured: boolean;
