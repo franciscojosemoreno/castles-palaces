@@ -87,13 +87,6 @@ const nextConfig: NextConfig = {
         destination: `/castles/${hub}`,
         statusCode: 301,
       })),
-      // Jersey has castle pages (Mont Orgueil, Elizabeth Castle) but no country hub: they are
-      // listed in the all-castles directory.
-      {
-        source: '/castles/jersey',
-        destination: '/castles',
-        statusCode: 301,
-      },
     ];
   },
 };
